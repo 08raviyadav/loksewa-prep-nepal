@@ -71,6 +71,49 @@ Create `data/notes/<slug>.json` and add the filename to `NOTES_FILES` in `assets
 - **`updated`** is the date you last verified the facts (`YYYY-MM-DD`).
 - Run `node scripts/test-app.js` before submitting — it validates the schema of every note file.
 
+## Theory courses
+
+Chapter-wise bilingual theory so students can **read** the syllabus, not just practise MCQs. Courses live in `data/courses/`, **one JSON file per exam** (Phase 1: `kharidar.json`, `nayab-subba.json`, `section-officer.json` — First Paper only). Add the filename to `COURSE_FILES` in `assets/js/app.js` (keep the list sorted — `node scripts/test-courses.js` enforces it).
+
+### File format
+
+```json
+{
+  "exam": "kharidar",
+  "exam_name_en": "Kharidar (Non-Technical)",
+  "exam_name_ne": "खरिदार (अप्राविधिक)",
+  "paper": "First Paper — General Knowledge & General Mental Ability",
+  "confidence": "medium",
+  "confidence_note_en": "Official psc.gov.np PDF not directly reachable; structure converged across 5+ independent syllabus reproductions + the portal's SOURCES.md.",
+  "sources": ["loksewatayariapp.com syllabus page", "data/SOURCES.md"],
+  "subjects": [{
+    "name_en": "Geography & the Solar System",
+    "name_ne": "भूगोल र सौर्यमण्डल",
+    "weight_marks": null,
+    "chapters": [{
+      "id": "kharidar-solar-system",
+      "title_en": "Solar System & the Earth",
+      "title_ne": "सौर्यमण्डल र पृथ्वी",
+      "theory_en": "150–400 words of real study-note prose…",
+      "theory_ne": "150–400 words of real Nepali (Devanagari)…",
+      "key_points": [{ "en": "…", "ne": "…" }],
+      "linked_topics": ["Nepal Geography"]
+    }]
+  }]
+}
+```
+
+### Rules
+
+- **Syllabus honesty first** — the subject → chapter structure must match the official PSC syllabus. Research it on psc.gov.np. If the official PDF is unreachable, converge across multiple independent reproductions + the portal's `data/SOURCES.md`, set `confidence: "medium"`, and say so in `confidence_note_en`/`ne`. Never invent syllabus structure or per-unit mark splits.
+- **Bilingual is mandatory** — `theory_en` **and** `theory_ne` (150–400 words each, real Nepali not machine-garbled), every key point needs `en` + `ne`, every title/subject name needs both languages.
+- **5–10 key points per chapter.** Real facts only — the accuracy rule applies: cross-check against `data/SOURCES.md` verified facts; where uncertain, keep it general-but-true rather than specific-but-wrong. No lorem/TODO.
+- **`linked_topics` must be copied exactly from the 16 verified question-bank tags** (see `node scripts/test-courses.js` `VERIFIED_TAGS`) — this powers the "✏️ Practice this chapter" buttons. Every linked topic must have ≥1 question tagged for the course's exam (the test enforces this; `test-courses.js` maps course → exam id via `COURSE_EXAM_MAP`).
+- **Chapter `id`** is `<exam-prefix>-<slug>`, unique across all courses (`kharidar-*`, `nasu-*`, `so-*`).
+- **`weight_marks`** is the official mark weight if published, else `null` — never guessed.
+- Progress is stored on-device in `loksewa_course_progress_v1` (`{done:{chapterId:true}, last:{exam,chId,ts}}`); pure helpers (`flattenCourseChapters`, `calcCourseProgress`, `subjectProgress`, `courseChapterById`, `courseByExam`) are exported from `app.js` for tests.
+- Run `node scripts/test-courses.js` before submitting — it validates schema, word counts, bilingual completeness, tag validity, and bank coverage.
+
 ## Contributing a question through the site (no PR needed)
 
 You can also submit a question from the site itself: **Contribute → Submit a Question**.

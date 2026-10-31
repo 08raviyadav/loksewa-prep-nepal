@@ -75,6 +75,14 @@ def main() -> int:
     notices = json.loads((ROOT / "data" / "notices.json").read_text(encoding="utf-8"))
     funfacts = json.loads((ROOT / "data" / "funfacts.json").read_text(encoding="utf-8"))
     examdates = json.loads((ROOT / "data" / "exam-dates.json").read_text(encoding="utf-8"))
+    # Theory courses, in app.js order (authoritative list).
+    m3 = re.search(r"const COURSE_FILES = \[([^\]]*)\];", js, re.S)
+    assert m3, "COURSE_FILES not found in app.js"
+    course_files = re.findall(r"'([^']+\.json)'", m3.group(1))
+    assert course_files, "no course files listed"
+    courses = []
+    for f in course_files:
+        courses.append(json.loads((ROOT / "data" / "courses" / f).read_text(encoding="utf-8")))
     # Revision notes, in app.js order (authoritative list).
     m2 = re.search(r"const NOTES_FILES = \[([^\]]*)\];", js, re.S)
     assert m2, "NOTES_FILES not found in app.js"
@@ -106,6 +114,8 @@ def main() -> int:
         + json.dumps(notes, ensure_ascii=False, separators=(",", ":"))
         + ";\nwindow.EMBEDDED_EXAMDATES="
         + json.dumps(examdates, ensure_ascii=False, separators=(",", ":"))
+        + ";\nwindow.EMBEDDED_COURSES="
+        + json.dumps(courses, ensure_ascii=False, separators=(",", ":"))
         + ";"
     )
     assert "</script" not in data_json.lower(), "</script> found in embedded data"

@@ -674,3 +674,42 @@ footer{text-align:left}
 @media(prefers-reduced-motion:reduce){
   .nx-card{box-shadow:none}
 }
+/* ================= Theory courses ================= */
+.course-card-top{display:flex;gap:16px;align-items:center;margin-bottom:14px}
+.course-card .btn{margin-top:4px}
+.ring-txt{fill:var(--text);font-size:.72rem;font-weight:700}
+.course-bar{height:8px;border-radius:var(--radius-pill);background:var(--border-soft);overflow:hidden;margin:8px 0}
+.course-bar>span{display:block;height:100%;border-radius:var(--radius-pill);background:linear-gradient(90deg,var(--accent-deep),var(--accent-strong))}
+.subj-card{margin-bottom:12px}
+.subj-head{display:flex;width:100%;align-items:center;justify-content:space-between;gap:12px;background:none;border:0;color:var(--text);padding:14px 4px;cursor:pointer;min-height:var(--tap);text-align:left;font-size:1rem}
+.subj-right{display:flex;align-items:center;gap:10px;flex:1;max-width:46%;justify-content:flex-end}
+.subj-right .course-bar{flex:1;margin:0}
+.subj-chev{color:var(--muted);font-size:1.1rem}
+.ch-list{border-top:1px solid var(--border-soft);padding-top:6px}
+.ch-row{display:flex;width:100%;align-items:center;gap:10px;background:none;border:0;border-bottom:1px solid var(--border-soft);color:var(--text);padding:12px 4px;cursor:pointer;min-height:var(--tap);text-align:left;font-size:var(--fs-body)}
+.ch-row:last-child{border-bottom:0}
+.ch-row.done .ch-title{color:var(--muted);text-decoration:line-through}
+.ch-tick{font-size:1.05rem}
+.ch-title{flex:1}
+.ch-go{color:var(--accent-strong);font-size:1.3rem}
+/* Chapter reader */
+.chapter-reader{max-width:760px;margin:0 auto}
+.chapter-body{font-size:1.06rem;line-height:var(--lh-loose);color:var(--text)}
+.chapter-body p{margin:0 0 1.1em}
+.keypoints{background:var(--accent-soft);border:1px solid var(--accent-line);border-radius:var(--radius);padding:16px 18px;margin:22px 0}
+.keypoints h3{margin:0 0 10px;font-size:1rem;color:var(--accent-strong)}
+.keypoints ul{margin:0;padding-left:1.3em;line-height:var(--lh-body)}
+.keypoints li{margin-bottom:.5em}
+.chapter-practice{margin:22px 0}
+.chapter-practice h3{font-size:1rem;margin-bottom:10px}
+.chapter-actions{margin:22px 0}
+.chapter-nav{display:flex;justify-content:space-between;gap:12px;margin:26px 0 10px}
+.chapter-nav .btn{max-width:48%}
+.btn-sm{padding:8px 14px;font-size:var(--fs-small);min-height:40px}
+/* Home "continue studying" card */
+.continue-flex{display:flex;align-items:center;justify-content:space-between;gap:14px}
+.continue-flex p{margin:6px 0 0}
+@media(max-width:640px){
+  .subj-right{max-width:40%}
+  .chapter-nav .btn{font-size:var(--fs-small)}
+}

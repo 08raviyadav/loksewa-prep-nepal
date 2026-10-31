@@ -1,0 +1,639 @@
+{
+  "confidence": "medium",
+  "confidence_note_en": "The detailed topic-by-topic PSC syllabus PDF was not directly reachable on psc.gov.np in this session (the portal's SOURCES.md also records no single official URL for the 2081/82 NaSu syllabus). The section/unit structure below is corroborated across multiple independent syllabus reproductions (CollegeNP, MeroUpdate's numbered first-paper topics 1.1–1.6, EducateNepal, LoksewaSathi) and matches the portal's own exams.json record (syllabus revised 2081/82; GK 30 Q + IQ 20 Q). All GK facts are kept to verified or general-but-true statements.",
+  "confidence_note_ne": "यस सत्रमा psc.gov.np बाट विस्तृत पाठ्यक्रम PDF सिधै प्राप्त हुन सकेन (पोर्टलको SOURCES.md मा पनि २०८१/८२ को नासु पाठ्यक्रमको एकल आधिकारिक URL नभएको उल्लेख छ)। तलको खण्ड/एकाइ संरचना स्वतन्त्र पाठ्यक्रम स्रोतहरू (CollegeNP, MeroUpdate को प्रथम पत्र विषय १.१–१.६, EducateNepal, LoksewaSathi) बाट पुष्टि भएको र पोर्टलकै exams.json रेकर्डसँग मिल्दो छ। सबै सामान्य ज्ञान तथ्यहरू प्रमाणित वा सामान्य-तर-सत्य राखिएका छन्।",
+  "exam": "nayab-subba",
+  "exam_name_en": "Nayab Subba (NaSu)",
+  "exam_name_ne": "नायब सुब्बा",
+  "exam_pattern": {
+    "full_marks": 100,
+    "marks_per_question": 2,
+    "negative_marking": 0.2,
+    "note_en": "Screening (qualifying) only — marks are NOT added to the main-exam merit. Section A: GK, 30 Q × 2 = 60 marks. Section B: General Mental Ability, 20 Q × 2 = 40 marks.",
+    "note_ne": "छनोट (योग्यता) प्रयोजनका लागि मात्र — प्राप्ताङ्क मुख्य परीक्षाको योग्यताक्रममा जोडिँदैन। खण्ड (क): सामान्य ज्ञान, ३० प्रश्न × २ = ६० अङ्क। खण्ड (ख): सामान्य मानसिक योग्यता, २० प्रश्न × २ = ४० अङ्क।",
+    "pass_marks": 45,
+    "questions": 50,
+    "time_minutes": 45
+  },
+  "paper": "First Paper — General Knowledge & General Mental Ability",
+  "paper_ne": "प्रथम पत्र — सामान्य ज्ञान र सामान्य मानसिक योग्यता",
+  "sources": [
+    "https://www.collegenp.com/exam/lok-sewa-aayog-nayab-subba-syllabus-2081 — PSC NaSu syllabus & exam scheme (50 Q × 2, 45 min, pass 45, 20% negative; syllabus effective 2076 Poush 17, revised 2081/82)",
+    "https://meroupdate.com/notes/loksewa-aayog-nayab-subba-nasu-pdf-notes-new/ — first-paper GK topic numbering 1.1 Solar system & earth, 1.2 World geography, 1.3 Nepal geography, 1.4 World history, 1.5 Nepal history, 1.6 Nepal society & culture",
+    "https://www.loksewasathi.com/nayab-subbanasu-first-paper-gk-pdf-notesfree-download/ — Section A: GK 30 Q × 2 = 60 marks",
+    "data/SOURCES.md (portal) — verified facts: Constitution 2072 (35 parts, 308 articles, 9 schedules), Census 2021 figures, NRB facts, NaSu prelim pattern confirmed from the actual 2083-01-20 paper",
+    "data/exams.json (portal) — NaSu record: prelim GK 30 Q + General Mental Ability 20 Q; syllabus revised 2081/82; prelim qualifying only"
+  ],
+  "subjects": [
+    {
+      "chapters": [
+        {
+          "id": "nasu-solar-system-earth",
+          "key_points": [
+            {
+              "en": "8 planets in order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+              "ne": "क्रममा ८ ग्रह: बुध, शुक्र, पृथ्वी, मङ्गल, बृहस्पति, शनि, अरुण, वरुण।"
+            },
+            {
+              "en": "Rotation (~24 h) causes day and night; revolution (~365.25 days) causes the year and seasons.",
+              "ne": "परिभ्रमण (~२४ घण्टा) ले दिन-रात; परिक्रमण (~३६५.२५ दिन) ले वर्ष र ऋतु हुन्छ।"
+            },
+            {
+              "en": "Earth–Sun distance ≈ 149.6 million km (1 AU); Earth–Moon distance ≈ 384,400 km.",
+              "ne": "पृथ्वी–सूर्य दूरी ≈ १४.९६ करोड किमि (१ AU); पृथ्वी–चन्द्रमा दूरी ≈ ३,८४,४०० किमि।"
+            },
+            {
+              "en": "Asteroid belt lies between Mars and Jupiter; Halley's Comet returns about every 76 years.",
+              "ne": "क्षुद्रग्रह पेटी मङ्गल र बृहस्पतिबीच छ; हेली धूमकेतु करिब ७६ वर्षमा फर्कन्छ।"
+            },
+            {
+              "en": "Earth's layers: crust, mantle, core; the atmosphere sustains life and regulates temperature.",
+              "ne": "पृथ्वीका तह: क्रस्ट, म्यान्टल, कोर; वायुमण्डलले जीवन धान्छ र तापक्रम नियमन गर्छ।"
+            },
+            {
+              "en": "Solar eclipse: Moon between Sun and Earth; lunar eclipse: Earth between Sun and Moon.",
+              "ne": "सूर्यग्रहण: सूर्य-पृथ्वीबीच चन्द्रमा; चन्द्रग्रहण: सूर्य-चन्द्रमाबीच पृथ्वी।"
+            }
+          ],
+          "linked_topics": [
+            "Science & Tech"
+          ],
+          "theory_en": "The solar system consists of the Sun and the eight planets orbiting it: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. The Sun holds about 99.86% of the system's mass, and its gravity keeps the planets in orbit. Planets are divided into inner rocky planets (Mercury to Mars) and outer gas giants (Jupiter to Neptune). The asteroid belt lies between Mars and Jupiter; comets are icy bodies with glowing tails, Halley's Comet returning roughly every 76 years. Earth is the third planet from the Sun, about 149.6 million km away (1 astronomical unit). It rotates on its axis once in about 24 hours, causing day and night, and revolves around the Sun in about 365.25 days, causing the year and the seasons (the extra quarter-day is adjusted by the leap year). The Moon, Earth's only natural satellite, orbits at roughly 384,400 km and causes tides. The Earth's interior has three layers — crust, mantle and core — and its atmosphere protects life and regulates temperature. For NaSu, remember planet order, Earth's motions and their effects, eclipses, and basic facts about the Sun and Moon.",
+          "theory_ne": "सौर्यमण्डल सूर्य र त्यसको परिक्रमा गर्ने आठ ग्रहहरू मिलेर बनेको छ: बुध, शुक्र, पृथ्वी, मङ्गल, बृहस्पति, शनि, अरुण र वरुण। सौर्यमण्डलको करिब ९९.८६% पिण्ड सूर्यमा छ, र सूर्यको गुरुत्वाकर्षणले ग्रहहरूलाई कक्षामा राख्छ। ग्रहहरूलाई भित्री चट्टानी ग्रह (बुधदेखि मङ्गलसम्म) र बाहिरी ग्यासीय विशाल ग्रह (बृहस्पतिदेखि वरुणसम्म) मा बाँडिन्छ। मङ्गल र बृहस्पतिबीच क्षुद्रग्रह पेटी छ; धूमकेतु चम्किलो पुच्छर भएका हिउँला पिण्ड हुन्, हेली धूमकेतु करिब ७६ वर्षमा फर्कन्छ। पृथ्वी सूर्यबाट तेस्रो ग्रह हो, करिब १४ करोड ९६ लाख किमि टाढा (१ खगोलीय एकाइ)। यो आफ्नो अक्षमा करिब २४ घण्टामा एक फन्को मार्छ — जसले दिन-रात हुन्छ — र सूर्यको परिक्रमा करिब ३६५.२५ दिनमा गर्छ — जसले वर्ष र ऋतुहरू हुन्छन् (थप चौथाइ दिन अधिवर्षले मिलाइन्छ)। पृथ्वीको एकमात्र प्राकृतिक उपग्रह चन्द्रमा करिब ३,८४,४०० किमि टाढा परिक्रमा गर्छ र ज्वारभाटा ल्याउँछ। पृथ्वीको भित्री भागमा तीन तह छन् — भूपृष्ठ (क्रस्ट), म्यान्टल र कोर — र वायुमण्डलले जीवनको रक्षा र तापक्रम नियमन गर्छ। नासुका लागि ग्रहहरूको क्रम, पृथ्वीका गतिहरू र तिनका प्रभाव, ग्रहण, तथा सूर्य-चन्द्रमाका आधारभूत तथ्य सम्झनुहोस्।",
+          "title_en": "The Solar System and the Earth",
+          "title_ne": "सौर्यमण्डल र पृथ्वी"
+        },
+        {
+          "id": "nasu-world-geography",
+          "key_points": [
+            {
+              "en": "7 continents; 5 oceans — Pacific is the largest and deepest.",
+              "ne": "७ महादेश; ५ महासागर — प्रशान्त सबैभन्दा ठूलो र गहिरो।"
+            },
+            {
+              "en": "Russia: largest country; Vatican City: smallest country.",
+              "ne": "रुस: सबैभन्दा ठूलो देश; भ्याटिकन सिटी: सबैभन्दा सानो।"
+            },
+            {
+              "en": "Nile: traditionally the longest river; Mariana Trench: deepest point (~11 km).",
+              "ne": "नाइल: परम्परागत रूपमा सबैभन्दा लामो नदी; मारियाना खाडल: सबैभन्दा गहिरो बिन्दु (~११ किमि)।"
+            },
+            {
+              "en": "Sahara: largest hot desert; Antarctica: coldest continent.",
+              "ne": "सहारा: सबैभन्दा ठूलो तातो मरुभूमि; अन्टार्कटिका: सबैभन्दा चिसो महादेश।"
+            },
+            {
+              "en": "Equator (0° latitude) and Prime Meridian (0° longitude, Greenwich) are the key reference lines.",
+              "ne": "भूमध्यरेखा (०° अक्षांश) र प्रधान मध्याह्नरेखा (०° देशान्तर, ग्रिनविच) मुख्य सन्दर्भ रेखा हुन्।"
+            },
+            {
+              "en": "Himalayas hold Everest (world's highest peak); Andes is the longest mountain range.",
+              "ne": "हिमालयमा सगरमाथा (विश्वको अग्लो शिखर); एन्डिज सबैभन्दा लामो पर्वत शृङ्खला।"
+            }
+          ],
+          "linked_topics": [
+            "Nepal Geography"
+          ],
+          "theory_en": "The Earth has seven continents — Asia, Africa, North America, South America, Antarctica, Europe and Australia — and five oceans, the Pacific being the largest and deepest, followed by the Atlantic, Indian, Southern and Arctic oceans. Asia is the largest continent by both area and population. Russia is the largest country by area; the Vatican City is the smallest. The Nile in Africa is traditionally regarded as the world's longest river, while the Amazon carries the greatest volume of water. The Mariana Trench in the Pacific is the deepest point on Earth (about 11 km deep). The Sahara is the largest hot desert; Antarctica is the coldest, driest and windiest continent. The equator divides the Earth into the Northern and Southern Hemispheres, and the Prime Meridian (0° longitude, through Greenwich) is the reference for world time zones. Major mountain systems include the Himalayas (with Everest, the world's highest peak), the Andes (longest range) and the Rockies. For the exam, focus on superlatives (largest, longest, deepest, highest), continent–country locations, and famous rivers, deserts and mountain ranges.",
+          "theory_ne": "पृथ्वीमा सात महादेश छन् — एसिया, अफ्रिका, उत्तर अमेरिका, दक्षिण अमेरिका, अन्टार्कटिका, युरोप र अस्ट्रेलिया — र पाँच महासागर छन्, जसमध्ये प्रशान्त सबैभन्दा ठूलो र गहिरो हो, त्यसपछि आन्ध्र (एट्लान्टिक), हिन्द, दक्षिणी र आर्कटिक महासागर पर्छन्। क्षेत्रफल र जनसङ्ख्या दुवैमा एसिया सबैभन्दा ठूलो महादेश हो। क्षेत्रफलमा रुस सबैभन्दा ठूलो देश हो; भ्याटिकन सिटी सबैभन्दा सानो। अफ्रिकाको नाइल नदीलाई परम्परागत रूपमा विश्वकै लामो नदी मानिन्छ, जबकि अमेजनले सबैभन्दा धेरै पानी बगाउँछ। प्रशान्त महासागरको मारियाना खाडल पृथ्वीको सबैभन्दा गहिरो बिन्दु हो (करिब ११ किमि गहिरो)। सहारा सबैभन्दा ठूलो तातो मरुभूमि हो; अन्टार्कटिका सबैभन्दा चिसो, सुख्खा र हावाहुरीयुक्त महादेश हो। भूमध्यरेखाले पृथ्वीलाई उत्तरी र दक्षिणी गोलार्धमा बाँड्छ, र प्रधान मध्याह्नरेखा (०° देशान्तर, ग्रिनविच हुँदै) विश्व समय क्षेत्रको आधार हो। प्रमुख पर्वत शृङ्खलामा हिमालय (सगरमाथासहित विश्वको अग्लो शिखर), एन्डिज (सबैभन्दा लामो शृङ्खला) र रकी पर्छन्। परीक्षाका लागि उत्कृष्टताहरू (सबैभन्दा ठूलो/लामो/गहिरो/अग्लो), महादेश–देश अवस्थिति, र प्रसिद्ध नदी, मरुभूमि, पर्वत शृङ्खलामा ध्यान दिनुहोस्। मानचित्रमा देशहरूको सापेक्ष अवस्थिति बुझ्नाले सम्झन सजिलो हुन्छ।",
+          "title_en": "World Geography: Continents, Oceans and Physical Features",
+          "title_ne": "विश्व भूगोल: महादेश, महासागर र भौतिक विशेषता"
+        },
+        {
+          "id": "nasu-nepal-geography",
+          "key_points": [
+            {
+              "en": "Area 147,516 sq km; landlocked between India and China; ~885 km east–west.",
+              "ne": "क्षेत्रफल १,४७,५१६ वर्ग किमि; भारत-चीनबीच भू-परिवेष्टित; पूर्व–पश्चिम ~८८५ किमि।"
+            },
+            {
+              "en": "Three belts: Himal (Mountain), Pahad (Hill), Terai; three river systems: Koshi, Gandaki, Karnali.",
+              "ne": "तीन क्षेत्र: हिमाल, पहाड, तराई; तीन नदी प्रणाली: कोशी, गण्डकी, कर्णाली।"
+            },
+            {
+              "en": "Everest (Sagarmatha) 8,848.86 m — world's highest peak, on the Nepal–China border.",
+              "ne": "सगरमाथा ८,८४८.८६ मि — विश्वको अग्लो शिखर, नेपाल–चीन सीमामा।"
+            },
+            {
+              "en": "2021 census: 29,164,578 people; growth 0.92%; density 198/sq km; literacy 76.2%.",
+              "ne": "२०२१ जनगणना: २,९१,६४,५७८ जनसङ्ख्या; वृद्धिदर ०.९२%; घनत्व १९८/वर्ग किमि; साक्षरता ७६.२%।"
+            },
+            {
+              "en": "Bagmati: most populous province; Karnali: least; Madhesh: densest (633/sq km).",
+              "ne": "बागमती: बढी जनसङ्ख्या भएको प्रदेश; कर्णाली: कम; मधेश: बढी घनत्व (६३३/वर्ग किमि)।"
+            },
+            {
+              "en": "Kathmandu: largest district (2,041,587); Manang: smallest (5,658).",
+              "ne": "काठमाडौं: ठूलो जिल्ला (२०,४१,५८७); मनाङ: सानो (५,६५८)।"
+            },
+            {
+              "en": "Monsoon (June–September) brings most of Nepal's rainfall.",
+              "ne": "मनसुन (जुन–सेप्टेम्बर) मा नेपालको अधिकांश वर्षा हुन्छ।"
+            }
+          ],
+          "linked_topics": [
+            "Nepal Geography"
+          ],
+          "theory_en": "Nepal covers 147,516 sq km, lying between India (east, south, west) and China (north); it is a landlocked country. It stretches about 885 km east–west and averages about 193 km north–south. Nepal is divided into three ecological belts: the Mountain/Himal region in the north, the Hill (Pahad) region in the middle, and the Terai plains in the south. Its three great river systems — the Koshi in the east, the Gandaki (Narayani) in the centre, and the Karnali in the west — rise in the Himalayas and flow south to join the Ganges in India. Mount Everest (Sagarmatha, 8,848.86 m) on the Nepal–China border is the world's highest peak. Climate varies from tropical in the Terai to alpine and tundra in the high Himalayas, and most rain falls during the June–September monsoon. According to the 2021 census, Nepal's population is 29,164,578 with an annual growth rate of 0.92% and density of 198 persons per sq km. By belt, 53.61% live in the Terai, 40.31% in the Hills and 6.08% in the Mountains. Bagmati is the most populous province (6,116,866) and Karnali the least (1,688,412); Madhesh has the highest density (633/sq km). Kathmandu is the largest district (2,041,587 people) and Manang the smallest (5,658). The literacy rate is 76.2%.",
+          "theory_ne": "नेपालको क्षेत्रफल १,४७,५१६ वर्ग किमि छ; यो पूर्व, दक्षिण र पश्चिममा भारत तथा उत्तरमा चीनबीच अवस्थित भू-परिवेष्टित देश हो। यो पूर्व–पश्चिम करिब ८८५ किमि लामो र उत्तर–दक्षिण औसत करिब १९३ किमि चौडा छ। नेपाल तीन भौगोलिक क्षेत्रमा बाँडिएको छ: उत्तरमा हिमाली क्षेत्र, बीचमा पहाडी क्षेत्र र दक्षिणमा तराई मैदान। यसका तीन महान नदी प्रणाली — पूर्वमा कोशी, बीचमा गण्डकी (नारायणी) र पश्चिममा कर्णाली — हिमालयबाट उत्पत्ति भई दक्षिण बगेर भारतमा गङ्गामा मिसिन्छन्। नेपाल–चीन सीमामा रहेको सगरमाथा (८,८४८.८६ मि) विश्वको अग्लो शिखर हो। हावापानी तराईको उष्णदेखि उच्च हिमालयको अल्पाइन र टुन्ड्रासम्म फरक छ, र अधिकांश वर्षा जुन–सेप्टेम्बरको मनसुनमा हुन्छ। २०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्या २,९१,६४,५७८ छ, वार्षिक वृद्धिदर ०.९२% र जनघनत्व प्रतिवर्ग किमि १९८ छ। क्षेत्रगत रूपमा तराईमा ५३.६१%, पहाडमा ४०.३१% र हिमालमा ६.०८% मानिस बस्छन्। बागमती सबैभन्दा बढी जनसङ्ख्या भएको प्रदेश (६१,१६,८६६) र कर्णाली सबैभन्दा कम (१६,८८,४१२) हो; मधेशको जनघनत्व सबैभन्दा बढी (६३३/वर्ग किमि) छ। काठमाडौं सबैभन्दा ठूलो जिल्ला (२०,४१,५८७ जनसङ्ख्या) र मनाङ सबैभन्दा सानो (५,६५८) हो। साक्षरता दर ७६.२% छ।",
+          "title_en": "Geography of Nepal: Land, Rivers, Climate and People",
+          "title_ne": "नेपालको भूगोल: भूमि, नदी, हावापानी र जनसङ्ख्या"
+        },
+        {
+          "id": "nasu-world-history",
+          "key_points": [
+            {
+              "en": "Early river-valley civilizations: Mesopotamia, Egypt (Nile), Indus Valley, China.",
+              "ne": "प्रारम्भिक नदी-उपत्यका सभ्यता: मेसोपोटामिया, इजिप्ट (नाइल), सिन्धु घाटी, चीन।"
+            },
+            {
+              "en": "Industrial Revolution began in mid-18th-century Britain (steam engine, mechanised textiles).",
+              "ne": "औद्योगिक क्रान्ति १८औँ शताब्दीको मध्यमा बेलायतमा सुरु (वाष्प इन्जिन, यान्त्रिक कपडा)।"
+            },
+            {
+              "en": "WWI: 1914–1918, triggered by the assassination of Archduke Franz Ferdinand (June 1914).",
+              "ne": "प्रथम विश्वयुद्ध: १९१४–१९१८, आर्चड्युक फ्रान्ज फर्डिनान्डको हत्या (जुन १९१४) बाट सुरु।"
+            },
+            {
+              "en": "WWII: 1939–1945, begun by Germany's invasion of Poland (September 1939).",
+              "ne": "द्वितीय विश्वयुद्ध: १९३९–१९४५, पोल्याण्डमाथि जर्मनीको आक्रमण (सेप्टेम्बर १९३९) बाट सुरु।"
+            },
+            {
+              "en": "UN founded 24 October 1945; Cold War lasted roughly 1947–1991.",
+              "ne": "संयुक्त राष्ट्रसङ्घ स्थापना २४ अक्टोबर १९४५; शीतयुद्ध करिब १९४७–१९९१।"
+            },
+            {
+              "en": "Post-1945 decolonisation created many new Asian and African states.",
+              "ne": "१९४५ पछिको उपनिवेशमुक्तिले एसिया-अफ्रिकामा धेरै नयाँ राज्य बनाए।"
+            }
+          ],
+          "linked_topics": [
+            "Nepal History"
+          ],
+          "theory_en": "Human civilization began in river valleys: Mesopotamia (Tigris–Euphrates), Egypt (Nile), the Indus Valley and China (Huang He). Classical Greece gave democracy, philosophy and the Olympic Games; Rome built a vast empire and a legal tradition that still influences the world. The Middle Ages saw feudalism in Europe, the spread of Islam, and great Asian empires. The Renaissance (from the 14th century) revived art and learning in Europe, followed by the Age of Exploration. The Industrial Revolution began in Britain in the mid-18th century with the steam engine and mechanised textile production, transforming economies from agrarian to industrial. The 20th century was shaped by two world wars: World War I (1914–1918), triggered by the assassination of Archduke Franz Ferdinand of Austria in June 1914, and World War II (1939–1945), begun by Germany's invasion of Poland in September 1939. The wars ended with the creation of the League of Nations (1920) and then the United Nations (24 October 1945). Decolonisation after 1945 created dozens of new states in Asia and Africa, and the Cold War (roughly 1947–1991) divided the world into US- and Soviet-led blocs until the USSR dissolved in 1991.",
+          "theory_ne": "मानव सभ्यता नदी उपत्यकामा सुरु भयो: मेसोपोटामिया (टाइग्रिस–युफ्रेटिस), इजिप्ट (नाइल), सिन्धु घाटी र चीन (ह्वाङ हो)। प्राचीन ग्रिसले प्रजातन्त्र, दर्शन र ओलम्पिक खेल दियो; रोमले विशाल साम्राज्य र आजसम्म प्रभाव पार्ने कानुनी परम्परा बनायो। मध्ययुगमा युरोपमा सामन्तवाद, इस्लामको फैलावट र एसियाका महान साम्राज्य देखिए। पुनर्जागरण (१४औँ शताब्दीदेखि) ले युरोपमा कला र ज्ञानलाई पुनर्जीवित गर्‍यो, त्यसपछि अन्वेषण युग आयो। औद्योगिक क्रान्ति १८औँ शताब्दीको मध्यमा बेलायतमा वाष्प इन्जिन र यान्त्रिक कपडा उत्पादनबाट सुरु भई अर्थतन्त्रलाई कृषिबाट उद्योगमा रूपान्तरण गर्‍यो। २०औँ शताब्दी दुई विश्वयुद्धले आकार दियो: प्रथम विश्वयुद्ध (१९१४–१९१८), जुन १९१४ मा अस्ट्रियाका आर्चड्युक फ्रान्ज फर्डिनान्डको हत्याबाट सुरु भयो, र द्वितीय विश्वयुद्ध (१९३९–१९४५), सेप्टेम्बर १९३९ मा पोल्याण्डमाथि जर्मनीको आक्रमणबाट सुरु भयो। युद्धहरूको अन्त्यसँगै राष्ट्रसङ्घ (१९२०) र त्यसपछि संयुक्त राष्ट्रसङ्घ (२४ अक्टोबर १९४५) स्थापना भए। १९४५ पछिको उपनिवेशमुक्तिले एसिया र अफ्रिकामा दर्जनौँ नयाँ राज्य बनाए, र शीतयुद्ध (करिब १९४७–१९९१) ले विश्वलाई अमेरिका र सोभियत नेतृत्वका खेमामा बाँड्यो — १९९१ मा सोभियत सङ्घ विघटन नहुञ्जेल।",
+          "title_en": "World History: Civilizations, Revolutions and World Wars",
+          "title_ne": "विश्व इतिहास: सभ्यता, क्रान्ति र विश्वयुद्ध"
+        },
+        {
+          "id": "nasu-nepal-history",
+          "key_points": [
+            {
+              "en": "Kirat and Licchavi (King Mandev; Changunarayan inscription, 464 AD) were early periods.",
+              "ne": "किराँत र लिच्छवि (राजा मानदेव; चाँगुनारायण अभिलेख, ४६४ ई.) प्रारम्भिक काल थिए।"
+            },
+            {
+              "en": "Prithvi Narayan Shah of Gorkha unified Nepal; Kathmandu fell in 1768; he died in 1775.",
+              "ne": "गोरखाका पृथ्वीनारायण शाहले नेपाल एकीकरण गरे; १७६८ मा काठमाडौं पतन; १७७५ मा निधन।"
+            },
+            {
+              "en": "Kot Parva (1846) began 104 years of Rana rule (1846–1951).",
+              "ne": "कोतपर्व (१८४६) बाट १०४ वर्षे राणा शासन (१८४६–१९५१) सुरु भयो।"
+            },
+            {
+              "en": "Democracy restored in 1951 (2007 BS); Panchayat imposed in 1960; multiparty democracy returned in 1990.",
+              "ne": "१९५१ (२००७ वि.सं.) मा प्रजातन्त्र पुनर्बहाली; १९६० मा पञ्चायत; १९९० मा बहुदलीय प्रजातन्त्र फर्कियो।"
+            },
+            {
+              "en": "People's Movement II (2006) ended the monarchy (28 May 2008); republic declared.",
+              "ne": "जनआन्दोलन–२ (२००६) ले राजतन्त्र अन्त्य (२८ मे २००८); गणतन्त्र घोषणा।"
+            },
+            {
+              "en": "First CA election 2008, second 2013; Constitution promulgated 20 September 2015.",
+              "ne": "पहिलो संविधानसभा निर्वाचन २००८, दोस्रो २०१३; संविधान २० सेप्टेम्बर २०१५ मा जारी।"
+            }
+          ],
+          "linked_topics": [
+            "Nepal History"
+          ],
+          "theory_en": "Nepal's recorded history begins with the Kirat dynasty, followed by the Licchavi period — a golden age of art and architecture, remembered through King Mandev and the Changunarayan inscription of 464 AD. The Malla period (from the 12th century) centred on the Kathmandu Valley's three city-states — Kathmandu, Patan and Bhaktapur — and produced the valley's great temples and palaces. National unification was achieved by Prithvi Narayan Shah of Gorkha in the mid-18th century; Kathmandu fell in 1768 and the Shah dynasty ruled a unified Nepal until 2008 (Prithvi Narayan Shah died in 1775). The Kot Massacre of 1846 brought Jung Bahadur Rana to power, beginning 104 years of autocratic Rana rule (1846–1951). The 1951 revolution (2007 BS) restored democracy and ended the Ranas, but King Mahendra imposed the partyless Panchayat system in 1960. The People's Movement of 1990 (2046 BS) restored multiparty democracy; the Maoist insurgency (1996–2006) and the People's Movement II of 2006 forced King Gyanendra to step back, the monarchy was abolished on 28 May 2008, and Nepal became a federal democratic republic. Two Constituent Assembly elections (2008, 2013) led to the Constitution of 2072, promulgated on 20 September 2015.",
+          "theory_ne": "नेपालको अभिलिखित इतिहास किराँत वंशबाट सुरु हुन्छ, त्यसपछि लिच्छवि काल आयो — कला र वास्तुकलाको स्वर्णयुग, जसलाई राजा मानदेव र ४६४ ई. को चाँगुनारायण अभिलेखबाट सम्झिन्छौँ। मल्ल काल (१२औँ शताब्दीदेखि) काठमाडौं उपत्यकाका तीन नगरराज्य — काठमाडौं, पाटन र भक्तपुर — मा केन्द्रित थियो र उपत्यकाका महान मन्दिर-दरबारहरू यसै कालमा बने। १८औँ शताब्दीको मध्यमा गोरखाका पृथ्वीनारायण शाहले राष्ट्रिय एकीकरण गरे; १७६८ मा काठमाडौं पतन भयो र शाह वंशले २००८ सम्म एकीकृत नेपालमा शासन गर्‍यो (पृथ्वीनारायण शाहको निधन १७७५ मा)। १८४६ को कोतपर्वले जङ्गबहादुर राणालाई सत्तामा पुर्‍यायो र १०४ वर्षे निरङ्कुश राणा शासन (१८४६–१९५१) सुरु भयो। १९५१ को क्रान्ति (२००७ वि.सं.) ले प्रजातन्त्र पुनर्बहाली गरी राणाहरूको अन्त्य गर्‍यो, तर राजा महेन्द्रले १९६० मा निर्दलीय पञ्चायत व्यवस्था लादे। १९९० (२०४६ वि.सं.) को जनआन्दोलनले बहुदलीय प्रजातन्त्र फर्कायो; माओवादी सशस्त्र द्वन्द्व (१९९६–२००६) र २००६ को जनआन्दोलन–२ ले राजा ज्ञानेन्द्रलाई पछि हट्न बाध्य बनायो, २८ मे २००८ मा राजतन्त्र उन्मूलन भयो र नेपाल सङ्घीय लोकतान्त्रिक गणतन्त्र बन्यो। दुई संविधानसभा निर्वाचन (२००८, २०१३) पछि २० सेप्टेम्बर २०१५ मा २०७२ को संविधान जारी भयो।",
+          "title_en": "History of Nepal: From the Kirats to the Republic",
+          "title_ne": "नेपालको इतिहास: किराँतदेखि गणतन्त्रसम्म"
+        },
+        {
+          "id": "nasu-nepal-culture",
+          "key_points": [
+            {
+              "en": "2021 census recorded 146 castes/ethnicities; Chhetri (16.45%) is the largest group.",
+              "ne": "२०२१ जनगणनामा १४६ जातजाति; क्षेत्री (१६.४५%) सबैभन्दा ठूलो समूह।"
+            },
+            {
+              "en": "Nepali is the official/national language; many mother tongues are spoken.",
+              "ne": "नेपाली आधिकारिक/राष्ट्रिय भाषा हो; धेरै मातृभाषा बोलिन्छन्।"
+            },
+            {
+              "en": "Hinduism is the majority religion, followed by Buddhism, Islam, Kirat and Christianity.",
+              "ne": "हिन्दु बहुसङ्ख्यक धर्म, त्यसपछि बौद्ध, इस्लाम, किराँत र इसाई।"
+            },
+            {
+              "en": "Major festivals: Dashain, Tihar, Chhath, Teej, Buddha Jayanti, Losar, Eid, Christmas.",
+              "ne": "प्रमुख चाडपर्व: दशैँ, तिहार, छठ, तीज, बुद्ध जयन्ती, ल्होसार, इद, क्रिसमस।"
+            },
+            {
+              "en": "Nepal has 4 UNESCO World Heritage Sites: Kathmandu Valley, Lumbini, Chitwan, Sagarmatha.",
+              "ne": "नेपालमा ४ युनेस्को विश्व सम्पदा: काठमाडौं उपत्यका, लुम्बिनी, चितवन, सगरमाथा।"
+            },
+            {
+              "en": "Lumbini is the birthplace of Gautam Buddha.",
+              "ne": "लुम्बिनी गौतम बुद्धको जन्मस्थल हो।"
+            },
+            {
+              "en": "Traditional dress: daura-suruwal/topi (men), gunyu-cholo (women); dhaka weaving is famous.",
+              "ne": "परम्परागत पोसाक: दौरा-सुरुवाल/टोपी (पुरुष), गुन्यु-चोलो (महिला); ढाका बुनाइ प्रसिद्ध।"
+            }
+          ],
+          "linked_topics": [
+            "Culture & Society"
+          ],
+          "theory_en": "Nepal is a multi-ethnic, multi-lingual, multi-religious and multi-cultural country. The 2021 census recorded 146 castes and ethnicities; Chhetri (16.45%) is the largest group, followed by other hill and Terai communities. Nepali in Devanagari script is the official language, while dozens of mother tongues — Maithili, Bhojpuri, Tharu, Tamang, Newari and others — are widely spoken. Hinduism is the religion of the majority, with significant Buddhist, Muslim, Kirat and Christian populations living together. Major festivals reflect this diversity: Dashain and Tihar (Hindu), Buddha Jayanti and Losar (Buddhist), Chhath (Terai), Teej, Eid, and Christmas. Lumbini, the birthplace of Gautam Buddha, is a world-famous pilgrimage site. Nepal has four UNESCO World Heritage Sites: the Kathmandu Valley and Lumbini (cultural), and Chitwan and Sagarmatha National Parks (natural). Traditional dress includes the daura-suruwal with the Dhaka topi for men and the gunyu-cholo for women; Palpa's Dhaka weaving is nationally famous. Social customs, music (sarangi, madal), dance and Newari, Tharu and Tamang cultures enrich Nepal's heritage. The Constitution guarantees the right to preserve culture and cultural diversity.",
+          "theory_ne": "नेपाल बहुजातीय, बहुभाषिक, बहुधार्मिक र बहुसांस्कृतिक देश हो। २०२१ को जनगणनामा १४६ जातजाति अभिलिखित भए; क्षेत्री (१६.४५%) सबैभन्दा ठूलो समूह हो, त्यसपछि अन्य पहाडी र तराई समुदाय पर्छन्। देवनागरी लिपिको नेपाली आधिकारिक भाषा हो, जबकि दर्जनौँ मातृभाषा — मैथिली, भोजपुरी, थारू, तामाङ, नेवारी लगायत — व्यापक रूपमा बोलिन्छन्। हिन्दु बहुसङ्ख्यक धर्म हो, र उल्लेखनीय बौद्ध, मुस्लिम, किराँत र इसाई जनसङ्ख्या सँगसँगै बस्छन्। प्रमुख चाडपर्वहरूले यही विविधता झल्काउँछन्: दशैँ र तिहार (हिन्दु), बुद्ध जयन्ती र ल्होसार (बौद्ध), छठ (तराई), तीज, इद र क्रिसमस। गौतम बुद्धको जन्मस्थल लुम्बिनी विश्वप्रसिद्ध तीर्थस्थल हो। नेपालमा चार युनेस्को विश्व सम्पदा स्थल छन्: काठमाडौं उपत्यका र लुम्बिनी (सांस्कृतिक), तथा चितवन र सगरमाथा राष्ट्रिय निकुञ्ज (प्राकृतिक)। परम्परागत पोसाकमा पुरुषका लागि ढाका टोपीसहित दौरा-सुरुवाल र महिलाका लागि गुन्यु-चोलो पर्छ; पाल्पाको ढाका बुनाइ राष्ट्रिय रूपमा प्रसिद्ध छ। सामाजिक रीतिरिवाज, सङ्गीत (सारङ्गी, मादल), नृत्य तथा नेवार, थारू र तामाङ संस्कृतिले नेपालको सम्पदालाई समृद्ध बनाएका छन्। संविधानले संस्कृति र सांस्कृतिक विविधता संरक्षणको हक प्रत्याभूत गरेको छ।",
+          "title_en": "Nepal's Society and Culture: Diversity, Festivals and Heritage",
+          "title_ne": "नेपालको समाज र संस्कृति: विविधता, चाडपर्व र सम्पदा"
+        },
+        {
+          "id": "nasu-constitution",
+          "key_points": [
+            {
+              "en": "35 parts, 308 articles, 9 schedules; promulgated 20 September 2015 (Ashoj 3, 2072).",
+              "ne": "३५ भाग, ३०८ धारा, ९ अनुसूची; २० सेप्टेम्बर २०१५ (असोज ३, २०७२) मा जारी।"
+            },
+            {
+              "en": "Part 3 (Arts 16–46): 31 fundamental rights, incl. Art 16 (dignity), Art 18 (equality), Art 46 (remedies).",
+              "ne": "भाग ३ (धारा १६–४६): ३१ मौलिक हक, जसमा धारा १६ (सम्मानपूर्वक बाँच्न), धारा १८ (समानता), धारा ४६ (उपचार) पर्छन्।"
+            },
+            {
+              "en": "Art 4: Nepal is a federal democratic republican, secular, inclusive, socialism-oriented state.",
+              "ne": "धारा ४: नेपाल सङ्घीय लोकतान्त्रिक गणतन्त्रात्मक, धर्मनिरपेक्ष, समावेशी, समाजवादोन्मुख राज्य हो।"
+            },
+            {
+              "en": "Bicameral Federal Parliament: HoR 275 + National Assembly 59.",
+              "ne": "द्विसदनात्मक सङ्घीय संसद: प्रतिनिधिसभा २७५ + राष्ट्रियसभा ५९।"
+            },
+            {
+              "en": "Council of Ministers: maximum 25 including the PM; President elected by electoral college.",
+              "ne": "मन्त्रिपरिषद्: प्रधानमन्त्रीसहित बढीमा २५; राष्ट्रपति निर्वाचक मण्डलबाट निर्वाचित।"
+            },
+            {
+              "en": "Amended twice; second amendment (18 June 2020) updated the national map; amendment by Art 274.",
+              "ne": "दुई पटक संशोधन; दोस्रो संशोधन (१८ जुन २०२०) ले राष्ट्रिय नक्सा अद्यावधिक गर्‍यो; संशोधन धारा २७४ बाट।"
+            }
+          ],
+          "linked_topics": [
+            "Constitution & Governance"
+          ],
+          "theory_en": "The Constitution of Nepal 2072 is the fundamental law of the land, promulgated on 20 September 2015 (Ashoj 3, 2072 BS) by the Constituent Assembly, replacing the Interim Constitution of 2007. It has 35 parts, 308 articles and 9 schedules. Article 4 declares Nepal an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented federal democratic republican state. Part 3 (Articles 16–46) guarantees 31 fundamental rights, including the right to live with dignity (Art 16), the right to equality (Art 18), and the right to constitutional remedies (Art 46). The Federal Parliament is bicameral: the House of Representatives with 275 members (165 first-past-the-post + 110 proportional) and the National Assembly with 59 members. The President, the head of state, is elected by an electoral college of federal and provincial lawmakers; the executive power vests in the Council of Ministers, which may not exceed 25 members including the Prime Minister. The Constitution establishes three tiers of government (federal, provincial, local), an independent judiciary with the Supreme Court at the top, and constitutional bodies including the Commission for the Investigation of Abuse of Authority. It has been amended twice — the second amendment (18 June 2020) updated Nepal's official map — and Article 274 provides the amendment procedure (two-thirds majority).",
+          "theory_ne": "नेपालको संविधान २०७२ देशको मूल कानुन हो, २० सेप्टेम्बर २०१५ (असोज ३, २०७२ वि.सं.) मा संविधानसभाबाट जारी भई २०६३ को अन्तरिम संविधानलाई प्रतिस्थापन गर्‍यो। यसमा ३५ भाग, ३०८ धारा र ९ अनुसूची छन्। धारा ४ ले नेपाललाई स्वतन्त्र, अविभाज्य, सार्वभौमसत्ता सम्पन्न, धर्मनिरपेक्ष, समावेशी, लोकतान्त्रिक, समाजवादोन्मुख सङ्घीय लोकतान्त्रिक गणतन्त्रात्मक राज्य घोषणा गर्छ। भाग ३ (धारा १६–४६) ले ३१ मौलिक हक प्रत्याभूत गर्छ, जसमा सम्मानपूर्वक बाँच्न पाउने हक (धारा १६), समानताको हक (धारा १८) र संवैधानिक उपचारको हक (धारा ४६) पर्छन्। सङ्घीय संसद द्विसदनात्मक छ: २७५ सदस्यीय प्रतिनिधिसभा (१६५ प्रत्यक्ष + ११० समानुपातिक) र ५९ सदस्यीय राष्ट्रियसभा। राष्ट्राध्यक्ष राष्ट्रपति सङ्घीय र प्रदेश सांसदहरूको निर्वाचक मण्डलबाट निर्वाचित हुन्छन्; कार्यकारिणी अधिकार मन्त्रिपरिषद्मा निहित हुन्छ, जसमा प्रधानमन्त्रीसहित बढीमा २५ सदस्य हुन सक्छन्। संविधानले तीन तहका सरकार (सङ्घ, प्रदेश, स्थानीय), सर्वोच्च अदालत शीर्षमा रहेको स्वतन्त्र न्यायपालिका, र अख्तियार दुरुपयोग अनुसन्धान आयोगलगायत संवैधानिक निकाय स्थापना गर्छ। यो दुई पटक संशोधन भइसकेको छ — दोस्रो संशोधन (१८ जुन २०२०) ले नेपालको आधिकारिक नक्सा अद्यावधिक गर्‍यो — र धारा २७४ ले संशोधन प्रक्रिया (दुईतिहाइ बहुमत) व्यवस्था गर्छ।",
+          "title_en": "The Constitution of Nepal 2072: Structure and Key Provisions",
+          "title_ne": "नेपालको संविधान २०७२: संरचना र प्रमुख व्यवस्था"
+        },
+        {
+          "id": "nasu-federalism-governance",
+          "key_points": [
+            {
+              "en": "Three tiers: federal, 7 provinces, 753 local levels; powers listed in Schedules 5–9.",
+              "ne": "तीन तह: सङ्घ, ७ प्रदेश, ७५३ स्थानीय तह; अधिकार अनुसूची ५–९ मा।"
+            },
+            {
+              "en": "7 provinces: Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim.",
+              "ne": "७ प्रदेश: कोशी, मधेश, बागमती, गण्डकी, लुम्बिनी, कर्णाली, सुदूरपश्चिम।"
+            },
+            {
+              "en": "753 local levels: 293 urban (6 metro + 11 sub-metro + 276 municipalities) + 460 rural municipalities.",
+              "ne": "७५३ स्थानीय तह: २९३ सहरी (६ महानगर + ११ उपमहानगर + २७६ नगरपालिका) + ४६० गाउँपालिका।"
+            },
+            {
+              "en": "77 districts; local governments deliver basic services (health, education, registration).",
+              "ne": "७७ जिल्ला; स्थानीय सरकारले आधारभूत सेवा (स्वास्थ्य, शिक्षा, दर्ता) दिन्छन्।"
+            },
+            {
+              "en": "Fiscal federalism: revenue sharing and grants via the National Natural Resources and Fiscal Commission.",
+              "ne": "वित्तीय सङ्घीयता: राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगमार्फत राजस्व बाँडफाँट र अनुदान।"
+            },
+            {
+              "en": "Provincial capitals e.g. Biratnagar (Koshi), Janakpur (Madhesh), Hetauda (Bagmati), Pokhara (Gandaki).",
+              "ne": "प्रदेश राजधानी जस्तै विराटनगर (कोशी), जनकपुर (मधेश), हेटौंडा (बागमती), पोखरा (गण्डकी)।"
+            }
+          ],
+          "linked_topics": [
+            "Constitution & Governance",
+            "Office Management & Public Service"
+          ],
+          "theory_en": "Nepal's Constitution created a federal democratic republic with three tiers of government: federal, provincial and local. There are 7 provinces — Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali and Sudurpashchim — and 77 districts. The 753 local levels comprise 293 urban municipalities (6 metropolitan cities, 11 sub-metropolitan cities and 276 municipalities) and 460 rural municipalities (gaunpalika). Powers are distributed through the Constitution's Schedules 5 to 9: exclusive federal and provincial lists, concurrent lists, and local-level powers covering basic services such as primary health, basic education, local roads, drinking water, and vital registration (birth, death, marriage, migration). Provincial governments are headed by a Chief Minister with a Provincial Assembly; local levels are led by elected mayors/chairs. Fiscal federalism works through revenue sharing (taxes collected centrally are shared with provinces and local levels) and four types of grants — fiscal equalisation, conditional, matching (samapurak) and special — recommended by the National Natural Resources and Fiscal Commission. For the exam, memorise the numbers (7–77–753), the provincial names and capitals, and the three-tier power logic.",
+          "theory_ne": "नेपालको संविधानले तीन तहका सरकारसहित सङ्घीय लोकतान्त्रिक गणतन्त्र स्थापना गर्‍यो: सङ्घ, प्रदेश र स्थानीय। ७ प्रदेश — कोशी, मधेश, बागमती, गण्डकी, लुम्बिनी, कर्णाली र सुदूरपश्चिम — र ७७ जिल्ला छन्। ७५३ स्थानीय तहमा २९३ सहरी नगरपालिका (६ महानगरपालिका, ११ उपमहानगरपालिका र २७६ नगरपालिका) र ४६० गाउँपालिका पर्छन्। संविधानका अनुसूची ५ देखि ९ मार्फत अधिकार बाँडिएका छन्: सङ्घ र प्रदेशका एकल सूची, साझा सूची, र आधारभूत स्वास्थ्य, आधारभूत शिक्षा, स्थानीय सडक, खानेपानी तथा व्यक्तिगत घटना दर्ता (जन्म, मृत्यु, विवाह, बसाइँसराइ) जस्ता आधारभूत सेवा समेट्ने स्थानीय तहका अधिकार। प्रदेश सरकारको नेतृत्व मुख्यमन्त्रीले र प्रदेशसभा हुन्छ; स्थानीय तहको नेतृत्व निर्वाचित प्रमुख/अध्यक्षले गर्छन्। वित्तीय सङ्घीयता राजस्व बाँडफाँट (केन्द्रमा उठेको कर प्रदेश र स्थानीय तहसँग बाँडिने) र राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोगको सिफारिसमा चार प्रकारका अनुदान — वित्तीय समानीकरण, सशर्त, समपूरक र विशेष — मार्फत काम गर्छ। परीक्षाका लागि सङ्ख्या (७–७७–७५३), प्रदेशका नाम र राजधानी, र तीन तहको अधिकार तर्क सम्झनुहोस्। संविधानले तीनै तहका सरकारलाई आ-आफ्नो अधिकारक्षेत्रभित्र कानुन बनाउने अधिकार दिएको छ।",
+          "title_en": "Federalism and Local Governance in Nepal",
+          "title_ne": "नेपालमा सङ्घीयता र स्थानीय शासन"
+        },
+        {
+          "id": "nasu-economy-development",
+          "key_points": [
+            {
+              "en": "Agriculture employs over half the population; remittance is a major income source.",
+              "ne": "कृषिमा आधाभन्दा बढी जनसङ्ख्या आश्रित; रेमिट्यान्स प्रमुख आय स्रोत।"
+            },
+            {
+              "en": "Current plan: 16th Periodic Plan (FY 2081/82–2085/86).",
+              "ne": "चालु योजना: १६औँ आवधिक योजना (आ.व. २०८१/८२–२०८५/८६)।"
+            },
+            {
+              "en": "NRB est. 26 April 1956; Nepal Bank Ltd. (1937) was the first commercial bank.",
+              "ne": "नेराप्रैबैं स्थापना २६ अप्रिल १९५६; नेपाल बैंक लि. (१९३७) पहिलो वाणिज्य बैंक।"
+            },
+            {
+              "en": "Nepal joined IMF & World Bank in 1961; NRB is a founding member of the Asian Clearing Union (1974).",
+              "ne": "नेपाल १९६१ मा IMF र विश्व बैंक सदस्य; नेराप्रैबैं एसियाली समाशोधन संघ (१९७४) को संस्थापक सदस्य।"
+            },
+            {
+              "en": "Budget is presented on Jestha 15 each year; fiscal year runs Shrawan 1 – Ashadh end.",
+              "ne": "बजेट प्रत्येक वर्ष जेठ १५ मा प्रस्तुत; आर्थिक वर्ष साउन १ – असार मसान्त।"
+            },
+            {
+              "en": "Tourism, hydropower and agriculture are the key growth sectors.",
+              "ne": "पर्यटन, जलविद्युत र कृषि प्रमुख वृद्धिक्षेत्र हुन्।"
+            },
+            {
+              "en": "Nepal is an LDC working toward graduation; per-capita income remains low.",
+              "ne": "नेपाल अल्पविकसित देश (LDC) बाट स्तरोन्नतितर्फ; प्रतिव्यक्ति आय न्यून छ।"
+            }
+          ],
+          "linked_topics": [
+            "Economy & Development",
+            "Banking & Finance"
+          ],
+          "theory_en": "Nepal's economy is dominated by agriculture, which still employs over half the population, while remittances from migrant workers are a major source of household and national income. Services — trade, transport, tourism and finance — contribute the largest share of GDP, and industry remains small. Development is guided by five-year periodic plans prepared by the National Planning Commission; the current 16th Periodic Plan covers FY 2081/82 to 2085/86, focusing on good governance, social justice and prosperity. Monetary policy is set by Nepal Rastra Bank (NRB), established on 26 April 1956 under the NRB Act 1955 (now the NRB Act 2058); Nepal Bank Limited, founded in 1937, was the country's first commercial bank. Nepal joined the IMF and the World Bank in 1961. Key growth sectors are tourism (Everest, Lumbini, Pokhara), hydropower (vast untapped potential in Himalayan rivers) and commercial agriculture. The national budget is presented in Parliament on Jestha 15 each year (per the Constitution), and the fiscal year runs from Shrawan 1 to the end of Ashadh. Nepal is classified as a Least Developed Country (LDC) and is working toward graduation, with low per-capita income and high dependence on imports and remittances as structural challenges.",
+          "theory_ne": "नेपालको अर्थतन्त्रमा कृषिको वर्चस्व छ, जसमा अझै आधाभन्दा बढी जनसङ्ख्या आश्रित छ, जबकि आप्रवासी कामदारको रेमिट्यान्स घरपरिवार र राष्ट्रिय आयको प्रमुख स्रोत हो। व्यापार, यातायात, पर्यटन र वित्तजस्ता सेवा क्षेत्रले GDP मा सबैभन्दा ठूलो हिस्सा ओगट्छन्, र उद्योग सानो छ। विकास राष्ट्रिय योजना आयोगले तयार गर्ने पञ्चवर्षीय आवधिक योजनाबाट निर्देशित हुन्छ; चालु १६औँ आवधिक योजना आ.व. २०८१/८२ देखि २०८५/८६ सम्म छ, जसले सुशासन, सामाजिक न्याय र समृद्धिमा जोड दिन्छ। मौद्रिक नीति नेपाल राष्ट्र बैंक (नेराप्रैबैं) ले निर्धारण गर्छ, जुन नेराप्रैबैं ऐन २०१२ (अहिले नेराप्रैबैं ऐन २०५८) अन्तर्गत २६ अप्रिल १९५६ मा स्थापित भयो; १९३७ मा स्थापित नेपाल बैंक लिमिटेड देशको पहिलो वाणिज्य बैंक थियो। नेपाल १९६१ मा IMF र विश्व बैंकको सदस्य बन्यो। प्रमुख वृद्धिक्षेत्र पर्यटन (सगरमाथा, लुम्बिनी, पोखरा), जलविद्युत (हिमाली नदीहरूमा विशाल अप्रयुक्त सम्भावना) र व्यावसायिक कृषि हुन्। राष्ट्रिय बजेट प्रत्येक वर्ष (संविधानबमोजिम) जेठ १५ मा संसदमा प्रस्तुत गरिन्छ, र आर्थिक वर्ष साउन १ देखि असार मसान्तसम्म हुन्छ। नेपाल अल्पविकसित देश (LDC) मा वर्गीकृत छ र स्तरोन्नतितर्फ काम गरिरहेको छ; न्यून प्रतिव्यक्ति आय तथा आयात र रेमिट्यान्समा उच्च निर्भरता संरचनागत चुनौती हुन्।",
+          "title_en": "Economy, Planning and Development of Nepal",
+          "title_ne": "नेपालको अर्थतन्त्र, योजना र विकास"
+        },
+        {
+          "id": "nasu-science-environment",
+          "key_points": [
+            {
+              "en": "Water = H₂O; photosynthesis converts sunlight + CO₂ + water into food and oxygen.",
+              "ne": "पानी = H₂O; प्रकाश संश्लेषणले सूर्यप्रकाश + CO₂ + पानीलाई खाना र अक्सिजनमा बदल्छ।"
+            },
+            {
+              "en": "Newton's laws describe motion; speed of light ≈ 3×10⁸ m/s.",
+              "ne": "न्युटनका नियमले गति वर्णन गर्छन्; प्रकाशको गति ≈ ३×१०⁸ मि/से।"
+            },
+            {
+              "en": "Human body: 206 bones; heart pumps blood; vitamins prevent deficiency diseases.",
+              "ne": "मानव शरीर: २०६ हड्डी; मुटुले रगत पम्प गर्छ; भिटामिनले अभावजन्य रोग रोक्छ।"
+            },
+            {
+              "en": "Acid rain, ozone depletion and greenhouse gases drive climate change.",
+              "ne": "अम्ल वर्षा, ओजोन क्षय र हरितगृह ग्यासले जलवायु परिवर्तन बढाउँछन्।"
+            },
+            {
+              "en": "Nepal's community forestry is a world-recognised conservation success.",
+              "ne": "नेपालको सामुदायिक वन विश्वप्रसिद्ध संरक्षण सफलता हो।"
+            },
+            {
+              "en": "Renewable energy: solar, hydro, wind, biogas — Nepal is rich in hydro potential.",
+              "ne": "नवीकरणीय ऊर्जा: सौर्य, जल, वायु, बायोग्यास — नेपाल जलस्रोतमा धनी छ।"
+            }
+          ],
+          "linked_topics": [
+            "Science & Tech"
+          ],
+          "theory_en": "This unit covers everyday science: basic physics, chemistry, biology and environmental science. Key physics ideas include Newton's laws of motion, gravity, and the fact that light travels at about 300,000 km per second. Basic chemistry covers the structure of matter (atoms, molecules), common compounds such as water (H₂O), common salt (NaCl) and carbon dioxide (CO₂), and acids, bases and salts. Biology covers the cell as the unit of life, photosynthesis in green plants (sunlight + water + CO₂ → food + oxygen), the human body (206 bones, the heart as a pump, digestion, the nervous system), and vitamins and deficiency diseases (e.g. vitamin C and scurvy, vitamin D and rickets, iodine and goitre). Environmental science covers pollution (air, water, soil, noise), the greenhouse effect and climate change, ozone-layer depletion, and solid-waste management. Nepal-specific points examiners love: Nepal's community forestry programme is a world-famous conservation model; the country is rich in hydropower potential; and Himalayan glaciers and monsoon variability make Nepal highly vulnerable to climate change. Remember units of measurement, common scientific instruments (thermometer, barometer, microscope), and famous scientists' core discoveries.",
+          "theory_ne": "यस एकाइले दैनिक विज्ञान समेट्छ: आधारभूत भौतिकशास्त्र, रसायनशास्त्र, जीवविज्ञान र वातावरण विज्ञान। प्रमुख भौतिक विचारमा न्युटनका गतिक नियम, गुरुत्वाकर्षण, र प्रकाश करिब ३,००,००० किमि/सेकेन्ड गतिमा हिँड्छ भन्ने तथ्य पर्छन्। आधारभूत रसायनमा पदार्थको संरचना (परमाणु, अणु), पानी (H₂O), साधारण नुन (NaCl) र कार्बन डाइअक्साइड (CO₂) जस्ता सामान्य यौगिक, तथा अम्ल, क्षार र लवण पर्छन्। जीवविज्ञानमा जीवनको एकाइ कोष, हरियो वनस्पतिमा प्रकाश संश्लेषण (सूर्यप्रकाश + पानी + CO₂ → खाना + अक्सिजन), मानव शरीर (२०६ हड्डी, पम्पका रूपमा मुटु, पाचन, स्नायु प्रणाली), र भिटामिन तथा अभावजन्य रोग (जस्तै भिटामिन C र स्कर्भी, भिटामिन D र रिकेट्स, आयोडिन र गलगाँड) पर्छन्। वातावरण विज्ञानमा प्रदूषण (वायु, जल, माटो, ध्वनि), हरितगृह प्रभाव र जलवायु परिवर्तन, ओजोन तह क्षय, र ठोस फोहोर व्यवस्थापन पर्छन्। परीक्षकहरूले रुचाउने नेपाल-विशिष्ट बुँदा: नेपालको सामुदायिक वन कार्यक्रम विश्वप्रसिद्ध संरक्षण नमुना हो; देश जलविद्युत सम्भावनामा धनी छ; र हिमाली हिमनदी तथा मनसुन परिवर्तनशीलताले नेपाललाई जलवायु परिवर्तनप्रति अत्यन्त संवेदनशील बनाएको छ। नापका एकाइ, सामान्य वैज्ञानिक यन्त्र (थर्मोमिटर, ब्यारोमिटर, सूक्ष्मदर्शी) र प्रसिद्ध वैज्ञानिकका मुख्य खोज सम्झनुहोस्।",
+          "title_en": "Science, Technology and Environment",
+          "title_ne": "विज्ञान, प्रविधि र वातावरण"
+        },
+        {
+          "id": "nasu-computer-ict",
+          "key_points": [
+            {
+              "en": "Hardware = physical parts; software = programs; CPU is the computer's brain.",
+              "ne": "हार्डवेयर = भौतिक भाग; सफ्टवेयर = प्रोग्राम; CPU कम्प्युटरको मस्तिष्क हो।"
+            },
+            {
+              "en": "Input devices: keyboard, mouse, scanner; output: monitor, printer, speaker.",
+              "ne": "इनपुट यन्त्र: किबोर्ड, माउस, स्क्यानर; आउटपुट: मनिटर, प्रिन्टर, स्पिकर।"
+            },
+            {
+              "en": "Memory units: bit < byte < KB < MB < GB < TB; RAM is temporary, ROM is permanent.",
+              "ne": "मेमोरी एकाइ: बिट < बाइट < KB < MB < GB < TB; RAM अस्थायी, ROM स्थायी।"
+            },
+            {
+              "en": "MS Word (documents), Excel (spreadsheets), PowerPoint (slides).",
+              "ne": "MS Word (कागजात), Excel (स्प्रेडसिट), PowerPoint (स्लाइड)।"
+            },
+            {
+              "en": "Internet: WWW, email, browsers; LAN/WAN are network types.",
+              "ne": "इन्टरनेट: WWW, इमेल, ब्राउजर; LAN/WAN नेटवर्कका प्रकार हुन्।"
+            },
+            {
+              "en": "Cyber security basics: strong passwords, antivirus, beware phishing.",
+              "ne": "साइबर सुरक्षा आधार: बलियो पासवर्ड, एन्टिभाइरस, फिसिङबाट सावधान।"
+            }
+          ],
+          "linked_topics": [
+            "Computer & ICT"
+          ],
+          "theory_en": "Computer fundamentals carry reliable marks. Hardware is the physical machinery (CPU, monitor, keyboard, printer); software is the set of programs — system software (operating systems like Windows and Linux) and application software (MS Word, Excel, browsers). The CPU (Central Processing Unit) is the computer's brain, with the ALU doing calculations and the CU controlling operations. Input devices (keyboard, mouse, scanner, microphone) feed data in; output devices (monitor, printer, speaker) present results. Memory is measured in bits, bytes, KB, MB, GB and TB; RAM is fast temporary memory lost when power goes off, while ROM and hard disks/SSDs store data permanently. Standard office tools: MS Word for documents, Excel for spreadsheets (formulas like SUM and AVERAGE), PowerPoint for slides. Networks: LAN (local), WAN (wide); the Internet connects networks worldwide, the World Wide Web runs on it, and email, browsers and search engines are daily tools. Basic cyber hygiene — strong passwords, updated antivirus, recognising phishing messages, and backing up data — is increasingly examined. Nepal-specific: the government promotes e-governance and digital services, and computer literacy is tested again in the final-stage Computer Skill Test (10 marks).",
+          "theory_ne": "कम्प्युटर आधारभूतले भरपर्दो अङ्क दिन्छ। हार्डवेयर भौतिक यन्त्र हो (CPU, मनिटर, किबोर्ड, प्रिन्टर); सफ्टवेयर प्रोग्रामहरूको समूह हो — सिस्टम सफ्टवेयर (Windows र Linux जस्ता अपरेटिङ सिस्टम) र एप्लिकेसन सफ्टवेयर (MS Word, Excel, ब्राउजर)। CPU (सेन्ट्रल प्रोसेसिङ युनिट) कम्प्युटरको मस्तिष्क हो, जसमा ALU ले गणना र CU ले नियन्त्रण गर्छ। इनपुट यन्त्र (किबोर्ड, माउस, स्क्यानर, माइक्रोफोन) ले डाटा भित्र्याउँछन्; आउटपुट यन्त्र (मनिटर, प्रिन्टर, स्पिकर) ले परिणाम देखाउँछन्। मेमोरी बिट, बाइट, KB, MB, GB र TB मा नापिन्छ; RAM छिटो अस्थायी मेमोरी हो जुन बिजुली जाँदा हराउँछ, जबकि ROM र हार्ड डिस्क/SSD ले डाटा स्थायी भण्डार गर्छन्। मानक कार्यालय औजार: कागजातका लागि MS Word, स्प्रेडसिटका लागि Excel (SUM र AVERAGE जस्ता सूत्र), स्लाइडका लागि PowerPoint। नेटवर्क: LAN (स्थानीय), WAN (विस्तृत); इन्टरनेटले विश्वभरका नेटवर्क जोड्छ, वर्ल्ड वाइड वेब त्यसमा चल्छ, र इमेल, ब्राउजर र सर्च इन्जिन दैनिक औजार हुन्। आधारभूत साइबर सरसफाइ — बलियो पासवर्ड, अद्यावधिक एन्टिभाइरस, फिसिङ सन्देश चिन्ने, र डाटा ब्याकअप — बढ्दो रूपमा सोधिन्छ। नेपाल-विशिष्ट: सरकारले ई-गभर्नेन्स र डिजिटल सेवा प्रवर्द्धन गर्छ, र अन्तिम चरणको कम्प्युटर सीप परीक्षण (१० अङ्क) मा कम्प्युटर साक्षरता फेरि जाँचिन्छ।",
+          "title_en": "Computer Fundamentals and ICT",
+          "title_ne": "कम्प्युटर आधारभूत र सूचना प्रविधि"
+        },
+        {
+          "id": "nasu-international-affairs",
+          "key_points": [
+            {
+              "en": "UN founded 24 Oct 1945; Nepal joined 14 Dec 1955; major peacekeeping contributor.",
+              "ne": "संरासं स्थापना २४ अक्टोबर १९४५; नेपाल १४ डिसेम्बर १९५५ मा सदस्य; शान्ति सेनामा ठूलो योगदानकर्ता।"
+            },
+            {
+              "en": "SAARC: 8 Dec 1985, Dhaka; 8 members; secretariat in Kathmandu.",
+              "ne": "सार्क: ८ डिसेम्बर १९८५, ढाका; ८ सदस्य; सचिवालय काठमाडौंमा।"
+            },
+            {
+              "en": "BIMSTEC: 6 June 1997; 7 members (Bay of Bengal region); secretariat in Dhaka.",
+              "ne": "बिम्स्टेक: ६ जुन १९९७; ७ सदस्य (बङ्गाल खाडी क्षेत्र); सचिवालय ढाकामा।"
+            },
+            {
+              "en": "NAM: non-aligned movement; Nepal follows an independent, non-aligned foreign policy.",
+              "ne": "असंलग्न आन्दोलन; नेपाल स्वतन्त्र, असंलग्न परराष्ट्र नीतिमा चल्छ।"
+            },
+            {
+              "en": "World Bank/IMF (Nepal 1961), ADB, WHO, UNESCO are frequently examined bodies.",
+              "ne": "विश्व बैंक/IMF (नेपाल १९६१), ADB, WHO, युनेस्को बारम्बार सोधिने संस्था हुन्।"
+            },
+            {
+              "en": "Nepal's foreign policy: Panchsheel, UN Charter, non-alignment, peaceful coexistence.",
+              "ne": "नेपालको परराष्ट्र नीति: पञ्चशील, संरासं बडापत्र, असंलग्नता, शान्तिपूर्ण सहअस्तित्व।"
+            }
+          ],
+          "linked_topics": [
+            "Current Affairs",
+            "Economy & Development"
+          ],
+          "theory_en": "International affairs questions test the structure and headquarters of major organisations plus Nepal's place in them. The United Nations was founded on 24 October 1945 and now has 193 members; Nepal joined on 14 December 1955 and is one of the world's largest contributors of troops and police to UN peacekeeping missions. Key UN agencies: WHO (Geneva), UNESCO (Paris), UNICEF, FAO (Rome) and the World Bank/IMF (Washington DC — Nepal joined both in 1961). SAARC was founded on 8 December 1985 in Dhaka with 8 members — Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka — and its secretariat is in Kathmandu. BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) was founded on 6 June 1997 with 7 members — Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand — with its secretariat in Dhaka. Nepal is also active in the Non-Aligned Movement and maintains an independent foreign policy based on the UN Charter, non-alignment, Panchsheel (five principles of peaceful coexistence) and peaceful settlement of disputes. For the exam, memorise founding dates, headquarters, member counts and Nepal's membership dates.",
+          "theory_ne": "अन्तर्राष्ट्रिय मामिला प्रश्नले प्रमुख संस्थाहरूको संरचना र मुख्यालय तथा तिनमा नेपालको स्थान जाँच्छ। संयुक्त राष्ट्रसङ्घ २४ अक्टोबर १९४५ मा स्थापित भयो र अहिले १९३ सदस्य छन्; नेपाल १४ डिसेम्बर १९५५ मा सदस्य बन्यो र संरासं शान्ति सेनामा सेना र प्रहरी योगदान गर्ने विश्वकै ठूला देशमध्ये एक हो। प्रमुख संरासं निकाय: WHO (जेनेभा), युनेस्को (पेरिस), युनिसेफ, FAO (रोम) र विश्व बैंक/IMF (वासिङ्टन डिसी — नेपाल १९६१ मा दुवैमा सामेल)। सार्क ८ डिसेम्बर १९८५ मा ढाकामा ८ सदस्य — अफगानिस्तान, बङ्गलादेश, भुटान, भारत, माल्दिभ्स, नेपाल, पाकिस्तान र श्रीलङ्का — सहित स्थापित भयो र यसको सचिवालय काठमाडौंमा छ। बिम्स्टेक (बहुक्षेत्रीय प्राविधिक तथा आर्थिक सहयोगका लागि बङ्गाल खाडी पहल) ६ जुन १९९७ मा ७ सदस्य — बङ्गलादेश, भुटान, भारत, म्यानमार, नेपाल, श्रीलङ्का र थाइल्यान्ड — सहित स्थापित भयो, सचिवालय ढाकामा छ। नेपाल असंलग्न आन्दोलनमा पनि सक्रिय छ र संरासं बडापत्र, असंलग्नता, पञ्चशील (शान्तिपूर्ण सहअस्तित्वका पाँच सिद्धान्त) र विवादको शान्तिपूर्ण समाधानमा आधारित स्वतन्त्र परराष्ट्र नीति राख्छ। परीक्षाका लागि स्थापना मिति, मुख्यालय, सदस्य सङ्ख्या र नेपालको सदस्यता मिति सम्झनुहोस्।",
+          "title_en": "International Relations and Organizations",
+          "title_ne": "अन्तर्राष्ट्रिय सम्बन्ध र सङ्घसंस्था"
+        },
+        {
+          "id": "nasu-current-affairs",
+          "key_points": [
+            {
+              "en": "Focus on the last 12–18 months: appointments, budgets, plans, summits, sports, awards.",
+              "ne": "पछिल्ला १२–१८ महिनामा ध्यान: नियुक्ति, बजेट, योजना, शिखर सम्मेलन, खेल, पुरस्कार।"
+            },
+            {
+              "en": "Budget presented on Jestha 15; fiscal year starts Shrawan 1.",
+              "ne": "बजेट जेठ १५ मा प्रस्तुत; आर्थिक वर्ष साउन १ बाट सुरु।"
+            },
+            {
+              "en": "Federal and provincial elections are held every 5 years; local elections likewise.",
+              "ne": "सङ्घीय र प्रदेश निर्वाचन हरेक ५ वर्षमा; स्थानीय निर्वाचन पनि त्यस्तै।"
+            },
+            {
+              "en": "Track: new policies/Acts, national plans, international treaties Nepal signs.",
+              "ne": "ट्र्याक गर्नुहोस्: नयाँ नीति/ऐन, राष्ट्रिय योजना, नेपालले हस्ताक्षर गर्ने अन्तर्राष्ट्रिय सन्धि।"
+            },
+            {
+              "en": "Sports: Nepal's cricket rise, South Asian Games medals, Everest records.",
+              "ne": "खेल: नेपाल क्रिकेटको उदय, दक्षिण एसियाली खेलकुद पदक, सगरमाथा कीर्तिमान।"
+            },
+            {
+              "en": "Verify volatile facts (office-holders, prices) against dated sources before trusting them.",
+              "ne": "परिवर्तनशील तथ्य (पदाधिकारी, मूल्य) लाई मितियुक्त स्रोतसँग पुष्टि गरेर मात्र विश्वास गर्नुहोस्।"
+            }
+          ],
+          "linked_topics": [
+            "Current Affairs"
+          ],
+          "theory_en": "Current affairs is the most volatile — and therefore most mark-rich — part of the GK paper. Examiners typically draw from the last 12 to 18 months: major government appointments and cabinet changes, the annual budget (presented on Jestha 15) and monetary policy, new Acts, policies and periodic plans, Nepal's participation in international summits (UN General Assembly, SAARC/BIMSTEC meetings, climate COPs), state visits and treaties, economic indicators (GDP growth, inflation, foreign-exchange reserves, remittance), and sports and awards (Nepal's cricket achievements, South Asian Games medals, Everest climbing records, national honours). Stable institutional anchors help: federal, provincial and local elections run on a five-year cycle; the fiscal year starts on Shrawan 1; the National Planning Commission prepares the periodic plans. Build a monthly one-page note of 'who–what–when' facts from newspapers and the Nepal Gazette, and revise it weekly — this section rewards recency, not depth. Never memorise undated claims about office-holders, prices or vacancy numbers; always check them against a dated source, because they change.",
+          "theory_ne": "समसामयिक घटना GK प्रश्नपत्रको सबैभन्दा परिवर्तनशील — र त्यसैले अङ्कदायी — भाग हो। परीक्षकहरू सामान्यतया पछिल्ला १२ देखि १८ महिनाबाट लिन्छन्: प्रमुख सरकारी नियुक्ति र मन्त्रिपरिषद् परिवर्तन, वार्षिक बजेट (जेठ १५ मा प्रस्तुत) र मौद्रिक नीति, नयाँ ऐन, नीति र आवधिक योजना, अन्तर्राष्ट्रिय शिखर सम्मेलनमा नेपालको सहभागिता (संरासं महासभा, सार्क/बिम्स्टेक बैठक, जलवायु COP), राजकीय भ्रमण र सन्धि, आर्थिक सूचक (GDP वृद्धि, मुद्रास्फीति, विदेशी मुद्रा सञ्चिति, रेमिट्यान्स), र खेल तथा पुरस्कार (नेपाल क्रिकेटका उपलब्धि, दक्षिण एसियाली खेलकुद पदक, सगरमाथा आरोहण कीर्तिमान, राष्ट्रिय सम्मान)। स्थिर संस्थागत आधारले सहयोग गर्छ: सङ्घीय, प्रदेश र स्थानीय निर्वाचन पाँचवर्षे चक्रमा हुन्छन्; आर्थिक वर्ष साउन १ बाट सुरु हुन्छ; राष्ट्रिय योजना आयोगले आवधिक योजना तयार गर्छ। पत्रपत्रिका र नेपाल राजपत्रबाट 'को–के–कहिले' तथ्यको मासिक एकपृष्ठे टिपोट बनाउनुहोस् र साप्ताहिक दोहोर्‍याउनुहोस् — यो खण्डले गहिराइ होइन, ताजापनलाई पुरस्कृत गर्छ। पदाधिकारी, मूल्य वा विज्ञापन सङ्ख्याबारे मितिविनाका दाबी कहिल्यै नसम्झनुहोस्; मितियुक्त स्रोतसँग सधैँ पुष्टि गर्नुहोस्, किनकि यी परिवर्तन हुन्छन्। दैनिक समाचारपत्र र सरकारी सूचना नियमित पढ्ने बानीले यो खण्डमा राम्रो अङ्क ल्याउन सकिन्छ।",
+          "title_en": "Current Affairs: Nepal and the World",
+          "title_ne": "समसामयिक घटना: नेपाल र विश्व"
+        }
+      ],
+      "name_en": "General Knowledge",
+      "name_ne": "सामान्य ज्ञान",
+      "weight_marks": 60
+    },
+    {
+      "chapters": [
+        {
+          "id": "nasu-iq-verbal",
+          "key_points": [
+            {
+              "en": "Number/letter series: find the rule (difference, multiplication, squares, alternating).",
+              "ne": "सङ्ख्या/अक्षर शृङ्खला: नियम पत्ता लगाउनुहोस् (अन्तर, गुणन, वर्ग, आलोपालो)।"
+            },
+            {
+              "en": "Analogy: A is to B as C is to ? — match the relationship, not the words.",
+              "ne": "सादृश्य: क खसँग जस्तो ग घसँग ? — शब्द होइन, सम्बन्ध मिलाउनुहोस्।"
+            },
+            {
+              "en": "Odd one out: 3 share a property; eliminate by category, then by finer logic.",
+              "ne": "बेमेल छुट्याउने: ३ मा साझा गुण; पहिले वर्गले, त्यसपछि सूक्ष्म तर्कले हटाउनुहोस्।"
+            },
+            {
+              "en": "Coding-decoding: note letter shifts (A→C = +2) or reversed/positional codes.",
+              "ne": "सङ्केत: अक्षर सर्ने (A→C = +2) वा उल्टो/स्थितिगत सङ्केत नोट गर्नुहोस्।"
+            },
+            {
+              "en": "Blood relations: draw a quick family tree; direction: map N–S–E–W turns.",
+              "ne": "नाता: छिटो वंशवृक्ष बनाउनुहोस्; दिशा: उत्तर–दक्षिण–पूर्व–पश्चिम मोड नक्सा बनाउनुहोस्।"
+            },
+            {
+              "en": "Ranking: total = (position from left + position from right) − 1.",
+              "ne": "क्रम: जम्मा = (बायाँबाट स्थान + दायाँबाट स्थान) − १।"
+            }
+          ],
+          "linked_topics": [
+            "IQ & Reasoning"
+          ],
+          "theory_en": "Verbal reasoning tests logical thinking with words, letters and numbers. The main types are: (1) Series completion — number or letter sequences where you must find the hidden rule (constant difference, multiplication, squares/cubes, alternating patterns, or combined operations). Always write the differences between consecutive terms first. (2) Analogy — 'A is to B as C is to ?': identify the exact relationship (part–whole, cause–effect, worker–tool, synonyms/antonyms) and apply it. (3) Classification/odd one out — three of four items share a property; check broad categories first, then finer logic. (4) Coding-decoding — letters replaced by other letters or numbers; look for fixed shifts (A→C means +2), reversed alphabets, or positional values (A=1, B=2…). (5) Blood relations — draw a small family tree with symbols for male/female and generation levels. (6) Direction sense — track movements on a mental compass; a right turn from north faces east. (7) Ranking and order — use 'total = left position + right position − 1'. Speed matters (45 minutes for 50 questions), so practise recognising common series (squares: 1, 4, 9, 16…; cubes: 1, 8, 27, 64…; primes: 2, 3, 5, 7, 11…) instantly.",
+          "theory_ne": "मौखिक तर्कले शब्द, अक्षर र सङ्ख्याबाट तार्किक सोच जाँच्छ। मुख्य प्रकारहरू: (१) शृङ्खला पूरा गर्ने — सङ्ख्या वा अक्षर अनुक्रम जहाँ लुकेको नियम पत्ता लगाउनुपर्छ (स्थिर अन्तर, गुणन, वर्ग/घन, आलोपालो ढाँचा, वा संयुक्त क्रिया)। पहिले क्रमागत पदबीचको अन्तर लेख्नुहोस्। (२) सादृश्य — 'क खसँग जस्तो ग घसँग ?': ठ्याक्कै सम्बन्ध पहिचान गर्नुहोस् (अंश–पूर्ण, कारण–परिणाम, कामदार–औजार, पर्याय/विपरीतार्थ) र लागू गर्नुहोस्। (३) वर्गीकरण/बेमेल — चारमध्ये तीनमा साझा गुण हुन्छ; पहिले फराकिलो वर्ग, त्यसपछि सूक्ष्म तर्क हेर्नुहोस्। (४) सङ्केत — अक्षर अन्य अक्षर वा सङ्ख्याले प्रतिस्थापन; स्थिर सर्ने (A→C भनेको +2), उल्टो वर्णमाला, वा स्थितिगत मान (A=1, B=2…) हेर्नुहोस्। (५) नाता सम्बन्ध — पुरुष/महिला चिह्न र पुस्ता तहसहित सानो वंशवृक्ष बनाउनुहोस्। (६) दिशा बोध — मानसिक कम्पासमा चाल ट्र्याक गर्नुहोस्; उत्तरबाट दायाँ मोड्दा पूर्व फर्किन्छ। (७) क्रम र वरियता — 'जम्मा = बायाँ स्थान + दायाँ स्थान − १' प्रयोग गर्नुहोस्। गति महत्त्वपूर्ण छ (५० प्रश्नका लागि ४५ मिनेट), त्यसैले सामान्य शृङ्खला (वर्ग: 1, 4, 9, 16…; घन: 1, 8, 27, 64…; अभाज्य: 2, 3, 5, 7, 11…) तुरुन्तै चिन्ने अभ्यास गर्नुहोस्।",
+          "title_en": "Verbal Reasoning: Series, Analogy, Coding, Relations",
+          "title_ne": "मौखिक तर्क: शृङ्खला, सादृश्य, सङ्केत, नाता"
+        },
+        {
+          "id": "nasu-iq-nonverbal",
+          "key_points": [
+            {
+              "en": "Figure series: track one change at a time (rotation, count, shading, position).",
+              "ne": "चित्र शृङ्खला: एक पटकमा एउटा परिवर्तन ट्र्याक गर्नुहोस् (घुमाइ, सङ्ख्या, छायाङ्कन, स्थिति)।"
+            },
+            {
+              "en": "Mirror image: left–right flip; water image: top–bottom flip.",
+              "ne": "ऐना छवि: बायाँ–दायाँ उल्टो; पानी छवि: माथि–तल उल्टो।"
+            },
+            {
+              "en": "Paper folding/cutting: unfold mentally step by step from the last fold.",
+              "ne": "कागज मोड्ने/काट्ने: अन्तिम मोडबाट क्रमशः मानसिक रूपमा खोल्नुहोस्।"
+            },
+            {
+              "en": "Embedded figures: trace the outline of the asked shape inside the complex one.",
+              "ne": "लुकेको चित्र: जटिलभित्र सोधिएको आकारको रूपरेखा कोर्नुहोस्।"
+            },
+            {
+              "en": "Counting figures: label regions, count smallest first, then combinations.",
+              "ne": "चित्र गन्ने: क्षेत्रमा नाम लेख्नुहोस्, पहिले सानो, त्यसपछि संयुक्त गन्नुहोस्।"
+            },
+            {
+              "en": "Figure analogy: find the transformation rule in the first pair, apply to the second.",
+              "ne": "चित्र सादृश्य: पहिलो जोडीमा रूपान्तरण नियम पत्ता लगाई दोस्रोमा लागू गर्नुहोस्।"
+            }
+          ],
+          "linked_topics": [
+            "IQ & Reasoning"
+          ],
+          "theory_en": "Non-verbal reasoning uses diagrams instead of words. The main types are: (1) Figure series — a sequence of 4–5 figures where one or more elements change by a rule (rotation by 45°/90°, increasing/decreasing count, alternating shading, movement clockwise). Isolate one element and track it across the series. (2) Figure analogy — the first pair shows a transformation (e.g. the figure rotates 90° and gains a dot); apply the same rule to the third figure. (3) Figure classification — three figures share a property (all have curved lines, all are divided into 4 parts). (4) Mirror and water images — mirror image flips left–right (as in a vertical mirror); water image flips top–bottom (as reflected in water below). (5) Paper folding and cutting — a paper is folded, punched, then unfolded; work backwards from the last fold. (6) Embedded figures and figure counting — find a simple shape hidden in a complex diagram, or count triangles/squares by labelling regions and counting smallest units first. The golden rule: never guess from the whole picture — identify the single changing feature and follow it. Practise with a timer, because these questions are designed to eat time.",
+          "theory_ne": "अमौखिक तर्कमा शब्दको सट्टा चित्र प्रयोग हुन्छ। मुख्य प्रकारहरू: (१) चित्र शृङ्खला — ४–५ चित्रको अनुक्रम जहाँ एक वा बढी तत्व नियमले परिवर्तन हुन्छन् (४५°/९०° घुमाइ, सङ्ख्या बढ्ने/घट्ने, आलोपालो छायाङ्कन, घडीको दिशामा चाल)। एउटा तत्व छुट्याई शृङ्खलाभर ट्र्याक गर्नुहोस्। (२) चित्र सादृश्य — पहिलो जोडीले रूपान्तरण देखाउँछ (जस्तै चित्र ९०° घुम्छ र थोप्लो थपिन्छ); त्यही नियम तेस्रो चित्रमा लागू गर्नुहोस्। (३) चित्र वर्गीकरण — तीन चित्रमा साझा गुण हुन्छ (सबैमा वक्र रेखा, सबै ४ भागमा बाँडिएका)। (४) ऐना र पानी छवि — ऐना छवि बायाँ–दायाँ उल्टिन्छ (ठाडो ऐनाजस्तै); पानी छवि माथि–तल उल्टिन्छ (तलको पानीमा परावर्तनजस्तै)। (५) कागज मोड्ने र काट्ने — कागज मोडेर प्वाल पारी खोलिन्छ; अन्तिम मोडबाट पछाडि फर्केर काम गर्नुहोस्। (६) लुकेका चित्र र चित्र गन्ने — जटिल रेखाचित्रमा लुकेको साधारण आकार पत्ता लगाउने, वा क्षेत्रमा नाम लेखी सबैभन्दा सानो एकाइबाट त्रिभुज/वर्ग गन्ने। सुनौलो नियम: पूरै चित्रबाट कहिल्यै अनुमान नगर्नुहोस् — परिवर्तन हुने एकल विशेषता पहिचान गरी त्यसलाई पछ्याउनुहोस्। टाइमर राखेर अभ्यास गर्नुहोस्, किनकि यी प्रश्न समय खान डिजाइन गरिएका हुन्।",
+          "title_en": "Non-Verbal Reasoning: Figures, Mirrors, Paper Folding",
+          "title_ne": "अमौखिक तर्क: चित्र, ऐना, कागज मोडाइ"
+        },
+        {
+          "id": "nasu-iq-quant",
+          "key_points": [
+            {
+              "en": "Percentage: x% of N = x×N/100; increase/decrease formulas must be automatic.",
+              "ne": "प्रतिशत: N को x% = x×N/100; वृद्धि/ह्रास सूत्र स्वतः आउनुपर्छ।"
+            },
+            {
+              "en": "Ratio–proportion: a:b = c:d means ad = bc; divide amounts in ratio by total parts.",
+              "ne": "अनुपात: a:b = c:d भने ad = bc; रकम अनुपातमा बाँड्दा जम्मा भागले भाग गर्नुहोस्।"
+            },
+            {
+              "en": "Average = sum of items ÷ number of items.",
+              "ne": "औसत = वस्तुहरूको योग ÷ वस्तु सङ्ख्या।"
+            },
+            {
+              "en": "SI = P×R×T/100; CI amount = P(1 + R/100)^T.",
+              "ne": "साधारण ब्याज = मू×दर×समय/100; चक्रवृद्धि मिश्रधन = मू(1 + दर/100)^समय।"
+            },
+            {
+              "en": "Speed = distance ÷ time; time–work: together-rate = sum of individual rates.",
+              "ne": "गति = दूरी ÷ समय; समय–काम: संयुक्त दर = व्यक्तिगत दरहरूको योग।"
+            },
+            {
+              "en": "Data interpretation: read titles, units and scales before calculating.",
+              "ne": "डाटा व्याख्या: गणना गर्नुअघि शीर्षक, एकाइ र स्केल पढ्नुहोस्।"
+            },
+            {
+              "en": "Number series: differences, squares/cubes and alternating rules cover most questions.",
+              "ne": "सङ्ख्या शृङ्खला: अन्तर, वर्ग/घन र आलोपालो नियमले अधिकांश प्रश्न समेट्छन्।"
+            }
+          ],
+          "linked_topics": [
+            "Maths & Numerical",
+            "IQ & Reasoning"
+          ],
+          "theory_en": "Numerical ability (about a third of the IQ section, overlapping with the maths tags) tests speed arithmetic and standard applied formulas. Master these: simplification using BODMAS; percentages (x% of N = xN/100; percentage change = change/original × 100); ratio and proportion (if a:b = c:d then ad = bc; share an amount in a ratio by dividing by total parts); averages (sum ÷ count); profit and loss (profit% = profit/CP × 100); simple interest SI = P×R×T/100 and compound interest amount = P(1+R/100)^T; time and work (if A does a job in x days, A's one-day work is 1/x; combined rate = sum of rates); time, speed and distance (speed = distance/time; average speed for equal distances = 2xy/(x+y)); and basic mensuration (areas of rectangle, triangle, circle). Data interpretation gives a table, bar chart or pie chart with 3–5 questions: always read the title, units and scale first, estimate before calculating, and skip a heavy calculation to return later. Number series questions reward memorising squares (up to 25²), cubes (up to 10³) and primes (up to 50). With 20% negative marking, never wild-guess — eliminate options and guess only when you can rule out at least two.",
+          "theory_ne": "संख्यात्मक योग्यता (IQ खण्डको करिब एकतिहाइ, गणित ट्यागसँग ओभरल्याप) ले छिटो अङ्कगणित र मानक व्यावहारिक सूत्र जाँच्छ। यी सिद्ध बनाउनुहोस्: BODMAS प्रयोग गरी सरलीकरण; प्रतिशत (N को x% = xN/100; प्रतिशत परिवर्तन = परिवर्तन/मूल × 100); अनुपात र समानुपात (a:b = c:d भए ad = bc; रकम अनुपातमा बाँड्दा जम्मा भागले भाग); औसत (योग ÷ सङ्ख्या); नाफा-नोक्सान (नाफा% = नाफा/लागत × 100); साधारण ब्याज = मू×दर×समय/100 र चक्रवृद्धि मिश्रधन = मू(1+दर/100)^समय; समय र काम (A ले x दिनमा काम सके A को एक दिनको काम 1/x; संयुक्त दर = दरहरूको योग); समय, गति र दूरी (गति = दूरी/समय; बराबर दूरीको औसत गति = 2xy/(x+y)); र आधारभूत क्षेत्रमिति (आयत, त्रिभुज, वृत्तको क्षेत्रफल)। डाटा व्याख्यामा तालिका, दण्ड चित्र वा वृत्त चित्रसँग ३–५ प्रश्न हुन्छन्: गणना गर्नुअघि शीर्षक, एकाइ र स्केल सधैँ पढ्नुहोस्, गणनाअघि अनुमान गर्नुहोस्, र गह्रौँ गणना छोडेर पछि फर्कनुहोस्। सङ्ख्या शृङ्खला प्रश्नमा वर्ग (२५² सम्म), घन (१०³ सम्म) र अभाज्य (५० सम्म) सम्झनाले फाइदा हुन्छ। २०% ऋणात्मक अङ्कन भएकाले जथाभावी अनुमान कहिल्यै नगर्नुहोस् — विकल्प हटाउनुहोस् र कम्तीमा दुईवटा खारेज गर्न सके मात्र अनुमान गर्नुहोस्।",
+          "title_en": "Numerical Ability: Arithmetic, Formulas and Data Interpretation",
+          "title_ne": "संख्यात्मक योग्यता: अङ्कगणित, सूत्र र डाटा व्याख्या"
+        }
+      ],
+      "name_en": "General Mental Ability",
+      "name_ne": "सामान्य मानसिक योग्यता",
+      "weight_marks": 40
+    }
+  ]
+}

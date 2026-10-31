@@ -159,6 +159,13 @@ const NOTES_FILES = [
   'physics.json',
   'science-tech.json',
 ];
+// Theory courses: one file per exam in data/courses/ (CONTRIBUTING.md
+// "Theory courses"). Sorted; test-courses.js verifies the on-disk files.
+const COURSE_FILES = [
+  'kharidar.json',
+  'nayab-subba.json',
+  'section-officer.json',
+];
 const LS_KEY = 'loksewa_progress_v1';
 // Language: 'en' (default) or 'ne'. Persisted in localStorage as 'loksewa_lang'.
 // When 'ne', question/option/explanation text comes from the *_ne fields
@@ -218,7 +225,7 @@ function setLang(l){
   else if (id === 'view-suggest') renderSuggest();
   else if (id === 'view-practice') { /* labels stay bilingual by design; nothing to re-render */ }
   // Countdown card + exam banner follow the language toggle on every view.
-  renderExamReminder(); renderNextExamCard(); renderNextExamCompact();
+  renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying();
 }
 
 function shuffle(arr, rand=Math.random){
@@ -248,7 +255,7 @@ function xpFor(score, max){ return Math.max(0, Math.round(score*10)); }
 // (Node exports live at the end of this file, after every const is
 // initialised — an early export here hit the FOCUS_DURATIONS TDZ.)
 
-let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], current=null, timerId=null, timeLeft=0, startTime=0;
+let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], COURSES=[], current=null, timerId=null, timeLeft=0, startTime=0;
 let progress = loadProgress();
 // Cloud-ready progress shape (see docs/BACKEND.md): the profile fields
 // (user_id / email / name) live on the same object as the practice data, so a
@@ -851,7 +858,7 @@ function showView(id){
     document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
-  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderNextExamCard(); checkExamNotifications(); }
+  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderContinueStudying(); checkExamNotifications(); }
   if(id==='dashboard'){ renderNextExamCompact(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
   if(id==='submit') renderSubmit(); if(id==='moderate') renderModerate();
@@ -863,6 +870,7 @@ function showView(id){
   if(id==='pyq') renderPYQ();
   if(id==='chat') renderChat(); if(id==='suggest') renderSuggest();
   if(id==='examdates') renderExamDates();
+  if(id==='courses') renderCourses();
 }
 // Per-view <title> names (English view names are fine — the brand prefix
 // stays constant). Unknown ids fall back to the bare brand.
@@ -873,7 +881,8 @@ const VIEW_TITLES = {
   submit:'Contribute a Question', moderate:'Review Queue', papers:'Old Papers', notices:'Notices',
   funfacts:'Fun Facts', chat:'Ask Ravi', suggest:'Suggest a Feature', coverage:'Syllabus Coverage',
   print:'Printable Paper', planner:'Study Planner', coach:'Guess Coach', pyq:'PYQ Heatmap',
-  notes:'Revision Notes', audio:'Audio Revision', examdates:'Exam Dates'
+  notes:'Revision Notes', audio:'Audio Revision', examdates:'Exam Dates',
+  courses:'Courses'
 };
 /* ---- Production-polish UI helpers: skeletons, empty states, error states ---- */
 // dataReady is false only while loadData() is actually fetching. In the Node
@@ -972,12 +981,17 @@ async function loadData(){
   // failures resolve to null and are filtered out.
   if (typeof window!=='undefined' && window.EMBEDDED_NOTES) NOTES = window.EMBEDDED_NOTES.slice();
   else { try{ const _n=await Promise.all(NOTES_FILES.map(f=>fetch('data/notes/'+f).then(r=>r.json()).catch(e=>{ console.warn('Could not load note', f, e); return null; }))); NOTES=_n.filter(Boolean); }catch(e){ NOTES=[]; } }
+  // Theory courses: one file per exam in data/courses/COURSE_FILES, with the
+  // single-file bundle's embedded-data fallback (window.EMBEDDED_COURSES,
+  // set by scripts/build-bundle.py). Failures resolve to null and filter out.
+  if (typeof window!=='undefined' && window.EMBEDDED_COURSES) COURSES = window.EMBEDDED_COURSES.slice();
+  else { try{ const _c=await Promise.all(COURSE_FILES.map(f=>fetch('data/courses/'+f).then(r=>r.json()).catch(e=>{ console.warn('Could not load course', f, e); return null; }))); COURSES=_c.filter(Boolean); }catch(e){ COURSES=[]; } }
   dataReady = true; // the fetch phase settled — views may render real content
   updateDemoBanner();
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
   fillExamSelects(); renderHomeStats(); renderGuide(); renderTopics(); renderPapers(); renderNotices();
-  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); checkExamNotifications();
+  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); checkExamNotifications();
   if(!QUESTIONS.length){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
@@ -3781,10 +3795,172 @@ function renderNextExamCompact(){
   nxTick();
 }
 
+/* ================= Theory courses =================
+   Chapter-wise bilingual theory (data/courses/*.json, listed in
+   COURSE_FILES). Progress lives in localStorage under COURSE_PROG_KEY:
+   {done:{chapterId:true}, last:{exam, chId, ts}}. Nothing here touches the
+   network — pure local reading + deep-links into practice. */
+const COURSE_PROG_KEY='loksewa_course_progress_v1';
+// Course exam id (data/courses) -> practice-exam select value (exams.json).
+const COURSE_EXAM_MAP={kharidar:'kharidar','nayab-subba':'nasu','section-officer':'section-officer'};
+// Navigation state for the courses view (exam id / subject idx / chapter id).
+let courseNav={exam:null,subject:-1,chapter:null};
+
+// --- Pure helpers (exported for tests) ---
+function courseByExam(id){ return (COURSES||[]).find(c=>c.exam===id)||null; }
+function flattenCourseChapters(course){
+  const out=[];
+  (course.subjects||[]).forEach((s,si)=>(s.chapters||[]).forEach(ch=>out.push({subject:s,subjectIdx:si,ch})));
+  return out;
+}
+function courseChapterById(course,id){ return flattenCourseChapters(course).find(x=>x.ch.id===id)||null; }
+function calcCourseProgress(course,doneMap){
+  const flat=flattenCourseChapters(course);
+  const done=flat.filter(x=>doneMap&&doneMap[x.ch.id]).length;
+  return {total:flat.length,done,pct:flat.length?Math.round(done/flat.length*100):0};
+}
+function subjectProgress(subject,doneMap){
+  const total=(subject.chapters||[]).length;
+  const done=(subject.chapters||[]).filter(ch=>doneMap&&doneMap[ch.id]).length;
+  return {total,done,pct:total?Math.round(done/total*100):0};
+}
+// --- Progress store (localStorage) ---
+function courseProgLoad(){ try{ const p=JSON.parse(localStorage.getItem(COURSE_PROG_KEY)||'{}'); return {done:(p&&p.done)||{},last:(p&&p.last)||null}; }catch(e){ return {done:{},last:null}; } }
+function courseProgSave(p){ try{ localStorage.setItem(COURSE_PROG_KEY,JSON.stringify(p)); }catch(e){} }
+function isChapterDone(id){ return !!courseProgLoad().done[id]; }
+function setChapterDone(id,done){
+  const p=courseProgLoad();
+  if(done){ p.done[id]=true; } else { delete p.done[id]; }
+  courseProgSave(p);
+}
+function ringSvg(pct,size){
+  size=size||64; const r=(size-10)/2, c=2*Math.PI*r, off=c*(1-Math.max(0,Math.min(100,pct))/100);
+  return `<svg class="ring" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}" role="img" aria-label="${Math.round(pct)}% complete"><circle cx="${size/2}" cy="${size/2}" r="${r}" fill="none" stroke="var(--border)" stroke-width="8"/><circle cx="${size/2}" cy="${size/2}" r="${r}" fill="none" stroke="var(--accent)" stroke-width="8" stroke-linecap="round" stroke-dasharray="${c.toFixed(1)}" stroke-dashoffset="${off.toFixed(1)}" transform="rotate(-90 ${size/2} ${size/2})"/><text x="50%" y="50%" dy=".35em" text-anchor="middle" class="ring-txt">${Math.round(pct)}%</text></svg>`;
+}
+function courseBar(pct){
+  return `<div class="course-bar" role="progressbar" aria-valuenow="${Math.round(pct)}" aria-valuemin="0" aria-valuemax="100"><span style="width:${Math.max(0,Math.min(100,pct))}%"></span></div>`;
+}
+function courseTitleOf(course){ return lang==='ne'?(course.exam_name_ne||course.exam_name_en):course.exam_name_en; }
+function courseChTitle(ch){ return lang==='ne'?(ch.title_ne||ch.title_en):ch.title_en; }
+function courseSubjName(s){ return lang==='ne'?(s.name_ne||s.name_en):s.name_en; }
+
+// --- Courses view ---
+function renderCourses(){
+  const box=document.getElementById('courses-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=`<p class="muted">${B('Loading courses…','पाठ्यक्रम लोड हुँदै…')}</p>`; return; }
+  if(!COURSES.length){ box.innerHTML=`<div class="empty-state"><div class="empty-icon">📚</div><h3>${B('No courses yet','अझै पाठ्यक्रम छैन')}</h3><p class="muted">${B('Theory courses are on the way.','सैद्धान्तिक पाठ्यक्रमहरू आउँदैछन्।')}</p></div>`; return; }
+  if(courseNav.chapter){ renderCourseChapter(box); return; }
+  if(courseNav.exam){ renderCourseDetail(box); return; }
+  // Exam picker.
+  const prog=courseProgLoad();
+  box.innerHTML=`<h2>📚 ${B('Theory Courses','सैद्धान्तिक पाठ्यक्रम')}</h2>
+  <p class="muted">${B('Read the theory chapter by chapter, then jump straight into practice. Progress is saved on this device.','अध्यायअनुसार सिद्धान्त पढ्नुहोस्, अनि सिधै अभ्यासमा जानुहोस्। प्रगति यसै डिभाइसमा सेभ हुन्छ।')}</p>
+  <div class="grid">${COURSES.map(c=>{
+    const st=calcCourseProgress(c,prog.done);
+    const conf=c.confidence==='medium'?` <span class="chip">⚠️ ${B('syllabus: re-verify','पाठ्यक्रम: पुनःपुष्टि')}</span>`:'';
+    return `<div class="card course-card"><div class="course-card-top">${ringSvg(st.pct)}
+      <div><strong>${esc(courseTitleOf(c))}</strong><p class="muted">${esc(lang==='ne'?'प्रथम पत्र — सिद्धान्त':'First Paper — Theory')}${conf}</p>
+      <p class="muted">${st.done}/${st.total} ${B('chapters read','अध्याय पढियो')}</p></div></div>
+      <button class="btn" onclick="openCourseExam('${esc(c.exam)}')">${st.done>0?B('Continue','जारी राख्नुहोस्'):B('Start studying','पढ्न सुरु गर्नुहोस्')}</button></div>`;
+  }).join('')}</div>`;
+}
+function openCourseExam(examId){ courseNav={exam:examId,subject:-1,chapter:null}; renderCourses(); }
+function toggleCourseSubject(si){ courseNav.subject=(courseNav.subject===si?-1:si); courseNav.chapter=null; renderCourses(); }
+function renderCourseDetail(box){
+  const course=courseByExam(courseNav.exam);
+  if(!course){ courseNav={exam:null,subject:-1,chapter:null}; renderCourses(); return; }
+  const prog=courseProgLoad();
+  const st=calcCourseProgress(course,prog.done);
+  const subjHtml=course.subjects.map((s,si)=>{
+    const sp=subjectProgress(s,prog.done);
+    const open=courseNav.subject===si;
+    const rows=open?s.chapters.map(ch=>{
+      const done=!!prog.done[ch.id];
+      return `<button class="ch-row${done?' done':''}" onclick="openCourseChapter('${esc(ch.id)}')">
+        <span class="ch-tick">${done?'✅':'⬜'}</span>
+        <span class="ch-title">${esc(courseChTitle(ch))}</span>
+        <span class="muted">${(ch.key_points||[]).length} ${B('key points','मुख्य बुँदा')}</span>
+        <span class="ch-go">›</span></button>`;
+    }).join(''):'';
+    return `<div class="card subj-card"><button class="subj-head" onclick="toggleCourseSubject(${si})" aria-expanded="${open}">
+      <span><strong>${esc(courseSubjName(s))}</strong> <span class="muted">${sp.done}/${sp.total}</span></span>
+      <span class="subj-right">${courseBar(sp.pct)}<span class="subj-chev">${open?'▾':'▸'}</span></span></button>
+      ${open?`<div class="ch-list">${rows}</div>`:''}</div>`;
+  }).join('');
+  box.innerHTML=`<button class="linklike" onclick="openCourseExam(null);courseNav={exam:null,subject:-1,chapter:null};renderCourses()">← ${B('All courses','सबै पाठ्यक्रम')}</button>
+  <h2>${esc(courseTitleOf(course))}</h2>
+  <p class="muted">${esc(lang==='ne'?(course.paper||''):'')||esc(course.paper||'')}</p>
+  <div class="card"><div class="course-card-top">${ringSvg(st.pct,72)}<div><strong>${st.pct}% ${B('complete','पूरा')}</strong><p class="muted">${st.done}/${st.total} ${B('chapters','अध्याय')}</p></div></div>${courseBar(st.pct)}</div>
+  ${subjHtml}`;
+}
+function openCourseChapter(chId){
+  const course=courseByExam(courseNav.exam); if(!course) return;
+  const found=courseChapterById(course,chId); if(!found) return;
+  courseNav.chapter=chId; courseNav.subject=found.subjectIdx;
+  const p=courseProgLoad(); p.last={exam:course.exam,chId,ts:Date.now()}; courseProgSave(p);
+  renderCourses();
+}
+function renderCourseChapter(box){
+  const course=courseByExam(courseNav.exam);
+  const found=course?courseChapterById(course,courseNav.chapter):null;
+  if(!found){ courseNav.chapter=null; renderCourses(); return; }
+  const {subject,s,ch}=found;
+  const flat=flattenCourseChapters(course);
+  const idx=flat.findIndex(x=>x.ch.id===ch.id);
+  const prev=flat[idx-1], next=flat[idx+1];
+  const done=isChapterDone(ch.id);
+  const theory=(lang==='ne'?(ch.theory_ne||ch.theory_en):(ch.theory_en||ch.theory_ne))||'';
+  const paras=theory.split(/\n\s*\n/).map(p=>`<p>${esc(p.trim())}</p>`).join('');
+  const kps=(ch.key_points||[]).map(k=>`<li>${esc(lang==='ne'?(k.ne||k.en):(k.en||k.ne))}</li>`).join('');
+  const topics=(ch.linked_topics||[]).map(t=>`<button class="btn secondary btn-sm" onclick="practiceChapterTopic('${esc(t)}')">✏️ ${esc(t)}</button>`).join('');
+  box.innerHTML=`<button class="linklike" onclick="courseNav.chapter=null;renderCourses()">← ${esc(courseSubjName(subject))}</button>
+  <article class="chapter-reader">
+    <p class="muted">${esc(courseTitleOf(course))} · ${esc(courseSubjName(subject))}</p>
+    <h2>${esc(courseChTitle(ch))}</h2>
+    <div class="chapter-body">${paras}</div>
+    ${kps?`<div class="keypoints"><h3>⭐ ${B('Key points','मुख्य बुँदाहरू')}</h3><ul>${kps}</ul></div>`:''}
+    ${topics?`<div class="chapter-practice"><h3>✏️ ${B('Practice this chapter','यो अध्याय अभ्यास गर्नुहोस्')}</h3><div class="chip-row">${topics}</div></div>`:''}
+    <div class="chapter-actions">
+      <button class="btn${done?' secondary':''}" onclick="toggleChapterRead()">${done?`✅ ${B('Read — mark unread','पढियो — नपढेको चिन्ह')}`:`📖 ${B('Mark as read','पढेको चिन्ह लगाउनुहोस्')}`}</button>
+    </div>
+    <nav class="chapter-nav">
+      ${prev?`<button class="btn secondary" onclick="openCourseChapter('${esc(prev.ch.id)}')">← ${esc(courseChTitle(prev.ch))}</button>`:'<span></span>'}
+      ${next?`<button class="btn secondary" onclick="openCourseChapter('${esc(next.ch.id)}')">${esc(courseChTitle(next.ch))} →</button>`:'<span></span>'}
+    </nav>
+  </article>`;
+}
+function toggleChapterRead(){
+  const id=courseNav.chapter; if(!id) return;
+  setChapterDone(id,!isChapterDone(id));
+  renderCourses();
+  renderContinueStudying();
+}
+function practiceChapterTopic(topic){
+  const examId=COURSE_EXAM_MAP[courseNav.exam]||'';
+  const sel=document.getElementById('practice-exam');
+  if(sel&&examId) sel.value=examId;
+  startPracticeTopic(topic);
+}
+// --- Home "Continue studying" card ---
+function renderContinueStudying(){
+  const box=document.getElementById('continue-studying-box'); if(!box) return;
+  const p=courseProgLoad();
+  const last=p.last;
+  const course=last?courseByExam(last.exam):null;
+  const found=course?courseChapterById(course,last.chId):null;
+  if(!found){ box.hidden=true; box.innerHTML=''; return; }
+  const st=calcCourseProgress(course,p.done);
+  if(st.done>=st.total){ box.hidden=true; box.innerHTML=''; return; }
+  box.hidden=false;
+  box.innerHTML=`<div class="continue-flex"><div><strong>📚 ${B('Continue studying','पढाइ जारी राख्नुहोस्')}</strong>
+    <p class="muted">${esc(courseTitleOf(course))} — ${esc(courseChTitle(found.ch))} · ${st.pct}% ${B('complete','पूरा')}</p></div>
+    <button class="btn" onclick="courseNav={exam:'${esc(course.exam)}',subject:${found.subjectIdx},chapter:'${esc(found.ch.id)}'};showView('courses')">${B('Resume','सुरु गर्नुहोस्')}</button></div>`;
+}
+
 // Node exports (test harness): kept at the END of the file so every const
 // above (incl. FOCUS_DURATIONS) is initialised before this object is built.
 // An export placed near the top threw "Cannot access before initialization".
 if (typeof module!=='undefined' && module.exports){ module.exports={shuffle,shuffleOptions,scoreAttempt,xpFor,qText,qOpts,qExpl,getLang,setLang,normaliseText,tokenJaccard,jaccardNorm,findDuplicate,validateSubmission,rateLimitCheck,isGmailAddress,communityBadge,seedDiscussions,weekStartStr,questionsThisWeek,weeklyProgress,personalBest,questionsInADay,pickSurprise,nextFocusMode,FOCUS_DURATIONS,badges,checkWeeklyGoal,funFactText,dailyFunFact,randomFunFact,PRAISE_LINES,TRY_AGAIN_LINES,PASS_LINES,FAIL_LINES,pickLine,prefersReducedMotion,recordFactVisit,getFactStreak,questionOfDay,speedBonusFor,mistakePool,longestStreak,bestDay,personalRecords,buildShareText,getSpeedBest,saveSpeedBest,SPEED_SECONDS,SPEED_COUNT,effectiveNoticeStatus,resetProgress,
 chatReply,chatTopicFor,chatTopicStats,isFactualQuestion,chatHistory,saveChatHistory,chatSend,
 validateSuggestion,isDuplicateSuggestion,loadSuggestions,saveSuggestions,upvoteSuggestion,LS_CHAT,LS_SUGGEST,CHAT_MAX_MSGS,B,examName,fmt1,markPyqFlags,topicsForExam,mapTopicToSyllabus,breakdownLabelTopics,parseBreakdownWeights,pyqTopicShares,examTopicWeights,practiceTopicStats,attemptLevelTotals,guessEV,evVerdict,coachStats,coachAdvice,drillTopic,renderCoverage,renderPrint,generatePrintPaper,renderPrintPaperHtml,renderPlanner,renderCoach,renderPYQ,heatCell,buildStudyPlan,daysUntil,rebalancePlan,loadPlans,savePlans,planNotices,currentPlanTarget,generatePlan,deletePlan,showPlan,renderPlanCard,NOTICE_EXAM,PLANS_KEY,TOPIC_SYLLABUS_KEYS,BREAKDOWN_GROUPS,
-bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,renderNextExamCard,renderNextExamCompact}; }
+bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,renderNextExamCard,renderNextExamCompact,COURSE_FILES,COURSE_PROG_KEY,COURSE_EXAM_MAP,courseByExam,flattenCourseChapters,courseChapterById,calcCourseProgress,subjectProgress}; }

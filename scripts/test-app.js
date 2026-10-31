@@ -104,7 +104,7 @@ const dynamic = new Set(['quiz-timer', 'feedback', 'flash-ans', 'chart', // crea
 let missing = [...idsUsed].filter(id => !idsInHtml.has(id) && !dynamic.has(id));
 check('all static element ids used by app.js exist in index.html', missing.length === 0, missing.join(', ') || `${idsUsed.size} ids checked`);
 // view ids referenced by showView / nav
-['home','practice','quiz','result','mock','guide','dashboard','review','flash','search','auth','profile','discuss','submit','moderate','papers','notices','funfacts','chat','suggest','coverage','print','planner','coach','pyq','notes','audio','examdates'].forEach(v => check(`view exists: view-${v}`, idsInHtml.has('view-' + v)));
+['home','practice','quiz','result','mock','guide','dashboard','review','flash','search','auth','profile','discuss','submit','moderate','papers','notices','funfacts','chat','suggest','coverage','print','planner','coach','pyq','notes','audio','examdates','courses'].forEach(v => check(`view exists: view-${v}`, idsInHtml.has('view-' + v)));
 check('notes + audio views are reachable from the desktop nav', html.includes('data-view="notes"') && html.includes('data-view="audio"'));
 check('notes-box + audio-box exist in index.html', idsInHtml.has('notes-box') && idsInHtml.has('audio-box'));
 check('analytics views are reachable from the desktop nav', ['coverage','print','planner','coach','pyq'].every(v => html.includes(`data-view="${v}"`)));

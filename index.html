@@ -45,6 +45,7 @@
 <button data-view="papers" role="menuitem">Old Papers</button>
 <button data-view="notices" role="menuitem">Notices</button>
 <button data-view="examdates" role="menuitem">📅 Exam Dates</button>
+<button data-view="courses" role="menuitem">📚 Courses</button>
 <button data-view="print" role="menuitem">Print Paper</button>
 <button data-view="search" role="menuitem">Search</button>
 <button data-view="review" role="menuitem">Bookmarks</button>
@@ -73,6 +74,7 @@
 <h1>Nepal's Lok Sewa exams, mastered question by question.</h1>
 <p>Practice for Kharidar, Nayab Subba, Section Officer, TSC, NRB &amp; bank exams with randomised MCQs, timed mocks that copy the real paper — 20% negative marking, real cutoffs — and a dashboard that shows exactly where you stand.</p>
 <div id="exam-reminder-banner" aria-live="polite"></div>
+<div class="card" id="continue-studying-box" hidden></div>
 <div class="stat-strip">
 <div><strong>64,671</strong><span>questions</span></div>
 <div><strong>47</strong><span>exams</span></div>
@@ -189,6 +191,11 @@
 <!-- EXAM DATES -->
 <section class="view" id="view-examdates">
 <div id="examdates-box"></div>
+</section>
+
+<!-- COURSES -->
+<section class="view" id="view-courses">
+<div id="courses-box"><p class="muted">Loading courses…</p></div>
 </section>
 
 <!-- NOTICES -->
