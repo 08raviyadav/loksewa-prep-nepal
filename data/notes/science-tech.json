@@ -1,0 +1,58 @@
+{
+  "slug": "science-tech",
+  "topic": "Science & Tech",
+  "title_en": "Science & Tech — one-pager",
+  "title_ne": "विज्ञान र प्रविधि — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Newton's 1st law: inertia. 2nd: F = m×a. 3rd: every action has an equal, opposite reaction.",
+      "ne": "न्युटनको पहिलो नियम: जडत्व। दोस्रो: F = m×a। तेस्रो: हरेक क्रियाको बराबर विपरीत प्रतिक्रिया।"
+    },
+    {
+      "en": "Speed of sound ≈ 340 m/s; speed of light = 3×10⁸ m/s.",
+      "ne": "ध्वनिको गति ≈ 340 m/s; प्रकाशको गति = 3×10⁸ m/s।"
+    },
+    {
+      "en": "g (acceleration due to gravity) = 9.8 m/s².",
+      "ne": "g (गुरुत्वीय त्वरण) = 9.8 m/s²।"
+    },
+    {
+      "en": "Kinetic energy = ½mv²; potential energy = mgh; work = force × distance; power = work ÷ time.",
+      "ne": "गतिज ऊर्जा = ½mv²; स्थितिज ऊर्जा = mgh; कार्य = बल × दूरी; शक्ति = कार्य ÷ समय।"
+    },
+    {
+      "en": "Ohm's law: V = I×R. Electric power: P = V×I. Household energy unit: kWh.",
+      "ne": "ओहमको नियम: V = I×R। विद्युत् शक्ति: P = V×I। घरायसी ऊर्जा एकाइ: kWh।"
+    },
+    {
+      "en": "Concave lens = diverging; convex lens = converging.",
+      "ne": "अवतल लेन्स = अपसारी; उत्तल लेन्स = अभिसारी।"
+    },
+    {
+      "en": "pH = −log[H⁺]. pH 7 = neutral; below 7 acidic; above 7 basic.",
+      "ne": "pH = −log[H⁺]। pH 7 = उदासीन; 7 भन्दा कम अम्लीय; बढी क्षारीय।"
+    },
+    {
+      "en": "A hygrometer measures humidity (relative humidity of air).",
+      "ne": "हाइग्रोमिटरले आर्द्रता (हावाको सापेक्षिक आर्द्रता) नाप्छ।"
+    },
+    {
+      "en": "Citric acid is the natural acid in citrus fruits (lemon, orange).",
+      "ne": "सिट्रिक एसिड कागती/सुन्तला जस्ता अमिलो फलमा हुने प्राकृतिक अम्ल हो।"
+    },
+    {
+      "en": "Zoology = study of animals; botany = study of plants.",
+      "ne": "जन्तुविज्ञान = जीवजन्तुको अध्ययन; वनस्पतिविज्ञान = वनस्पतिको अध्ययन।"
+    },
+    {
+      "en": "Photosynthesis releases oxygen: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂.",
+      "ne": "प्रकाश संश्लेषणले अक्सिजन निकाल्छ: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂।"
+    },
+    {
+      "en": "SI base units: metre, kilogram, second, ampere, kelvin, mole, candela.",
+      "ne": "SI आधारभूत एकाइ: मिटर, किलोग्राम, सेकेन्ड, एम्पियर, केल्भिन, मोल, क्यान्डेला।"
+    }
+  ]
+}

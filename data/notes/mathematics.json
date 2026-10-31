@@ -1,0 +1,54 @@
+{
+  "slug": "mathematics",
+  "topic": "Mathematics",
+  "title_en": "Mathematics — one-pager",
+  "title_ne": "गणित — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Sum 1 to n = n(n+1)/2. Sum of the first 8 odd numbers = 8² = 64.",
+      "ne": "1 देखि n सम्मको योग = n(n+1)/2। पहिलो 8 बिजोरको योग = 8² = 64।"
+    },
+    {
+      "en": "Quadratic formula: x = (−b ± √(b²−4ac)) ÷ 2a. x²−25x+154 = 0 → roots 11 and 14.",
+      "ne": "द्विघात सूत्र: x = (−b ± √(b²−4ac)) ÷ 2a। x²−25x+154 = 0 → मूल 11 र 14।"
+    },
+    {
+      "en": "2×2 determinant: |A| = ad − bc; trace = a + d. For [[11,10],[2,4]]: |A| = 24, trace = 15.",
+      "ne": "2×2 सारणिक: |A| = ad − bc; trace = a + d। [[11,10],[2,4]] का लागि: |A| = 24, trace = 15।"
+    },
+    {
+      "en": "Train crossing: time = (train + platform) ÷ speed. 36 km/h = 10 m/s (×5/18). 180 m + 240 m at 10 m/s = 42 s.",
+      "ne": "रेल क्रस: समय = (रेल + प्लेटफर्म) ÷ गति। 36 km/h = 10 m/s (×5/18)। 10 m/s मा 180+240 मि. = 42 से.।"
+    },
+    {
+      "en": "Triangle area = ½×b×h: base 8, height 12 → 48 cm². Circle: πr².",
+      "ne": "त्रिभुज क्षेत्रफल = ½×आधार×उचाइ: 8, 12 → 48 cm²। वृत्त: πr²।"
+    },
+    {
+      "en": "Derivative: d/dx(xⁿ) = n·xⁿ⁻¹. For x³+34x²−4x+7: f′(2) = 144, f″(2) = 80.",
+      "ne": "अवकलज: d/dx(xⁿ) = n·xⁿ⁻¹। x³+34x²−4x+7 का लागि: f′(2) = 144, f″(2) = 80।"
+    },
+    {
+      "en": "Log rules: log(ab) = log a + log b; log(aⁿ) = n·log a.",
+      "ne": "लग नियम: log(ab) = log a + log b; log(aⁿ) = n·log a।"
+    },
+    {
+      "en": "2×2 inverse = 1/det × [[d, −b], [−c, a]].",
+      "ne": "2×2 व्युत्क्रम = 1/det × [[d, −b], [−c, a]]।"
+    },
+    {
+      "en": "Permutations: nPr = n!/(n−r)!. Combinations: nCr = n!/(r!(n−r)!).",
+      "ne": "क्रमचय: nPr = n!/(n−r)!। संयोजन: nCr = n!/(r!(n−r)!)।"
+    },
+    {
+      "en": "Mean = average; median = middle value; mode = most frequent value.",
+      "ne": "माध्य = औसत; मध्यक = बीचको मान; बहुलक = सबैभन्दा बढी पटक।"
+    },
+    {
+      "en": "(a+b)² = a²+2ab+b²; a²−b² = (a−b)(a+b).",
+      "ne": "(a+b)² = a²+2ab+b²; a²−b² = (a−b)(a+b)।"
+    }
+  ]
+}

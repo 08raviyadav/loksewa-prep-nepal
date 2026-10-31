@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0f172a">
+<title>LokSewa Vidyapeeth — लोक सेवा विद्यापीठ · लोक सेवा तयारी — Free PSC / TSC / NRB Exam Practice</title>
+<meta name="description" content="Free, open-source, offline-first practice for Nepal government exams: Lok Sewa Aayog (Kharidar, Nayab Subba, Section Officer), Shikshak Sewa Aayog, Nepal Rastra Bank, RBB, Police & Army. Randomised MCQs, timed mocks with real 20% negative marking and real cutoffs.">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header><div class="nav">
+<a class="logo" href="#" onclick="showView('home');return false">🇳🇵 LokSewa Vidyapeeth <span>लोक सेवा विद्यापीठ · लोक सेवा तयारी</span></a>
+<nav>
+<button data-view="home" class="active">Home</button>
+<button data-view="funfacts">Fun Facts</button>
+<button data-view="practice">Practice</button>
+<button data-view="mock">Mock Exams</button>
+<button data-view="guide">Exam Guide</button>
+<button data-view="papers">Old Papers</button>
+<button data-view="notices">Notices</button>
+<button data-view="dashboard">Dashboard</button>
+<button data-view="coverage">Syllabus</button>
+<button data-view="print">Print Paper</button>
+<button data-view="planner">Planner</button>
+<button data-view="coach">Coach</button>
+<button data-view="pyq">PYQ Map</button>
+<button data-view="review">Bookmarks</button>
+<button data-view="notes">Notes</button>
+<button data-view="audio">Audio</button>
+<button data-view="search">Search</button>
+<button data-view="discuss">Discuss</button>
+<button data-view="submit">Contribute</button>
+<button data-view="moderate">Review</button>
+<button data-view="chat">Ask</button>
+<button data-view="suggest">Suggest</button>
+<button data-view="auth" id="nav-auth-btn">Sign In</button>
+<button data-view="profile">Profile</button>
+</nav>
+<button class="theme-btn" id="theme-toggle" aria-label="Toggle dark / light theme">🌙 / ☀️</button>
+<button class="theme-btn" id="lang-toggle" aria-label="Switch between English and Nepali / अङ्ग्रेजी र नेपालीबीच परिवर्तन गर्नुहोस्">EN · English</button>
+</div></header>
+<main>
+<div id="load-note"></div>
+<div id="demo-banner" class="card demo-banner" hidden><strong>Demo mode — local profile only.</strong> Sign-in, discussions, submissions and moderation all run on this device (localStorage) until the backend is connected. Connect Supabase to enable real Google sign-in — see <a href="docs/BACKEND.md">docs/BACKEND.md</a>.</div>
+
+<!-- HOME -->
+<section class="view active" id="view-home">
+<div class="hero"><h1>Pass Lok Sewa. Free. No login. No ads.</h1>
+<p>Practice for Kharidar, Nayab Subba, Section Officer, TSC, NRB &amp; bank exams with randomised MCQs, timed mocks that copy the real paper — 20% negative marking, real cutoffs — and a dashboard that shows exactly where you stand.</p>
+<button class="btn" onclick="showView('practice')">Start practicing →</button>
+<button class="btn secondary" onclick="dailyChallenge()">🔥 Daily Challenge (10 Q)</button>
+<button class="btn secondary" onclick="quickQuiz()">⚡ Quick Quiz (5 Q)</button>
+<button class="btn secondary" onclick="surpriseQuiz()">🎲 Surprise me (10 Q)</button>
+<button class="btn secondary" onclick="if(confirm('Speed Round: 10 questions, 60 seconds total. +1 bonus for a correct answer in under 5 seconds. No going back, no changing an answer, no explanations until the end. Ready?')) startSpeedRound()">⏱️ Speed Round (10 Q · 60s)</button>
+<button class="btn secondary" onclick="startMistakeMarathon()">🏃 Mistake Marathon</button>
+<p class="muted" id="speed-best" style="margin-top:8px"></p></div>
+<div class="card"><h2>🔥 Trending — what students are searching most</h2>
+<p class="muted">Based on what Nepali aspirants searched for most around Lok Sewa, TSC &amp; NRB exams — researched 25–26 Oct 2026. Topics, not a live chart: updated when we re-research. (Search-demand ranking only — not Google Trends data.)</p>
+<div class="grid">
+<div class="card"><strong>#1 · Constitution 2072</strong><p class="muted">The most-asked topic in every Lok Sewa paper — 308 articles, 31 rights, 7 provinces.</p><button class="btn secondary" onclick="startPracticeTopic('Constitution &amp; Governance')">Practice</button></div>
+<div class="card"><strong>#2 · Current Affairs</strong><p class="muted">Last 6–12 months of Nepal &amp; world news — the section you can't cram last-minute.</p><button class="btn secondary" onclick="startPracticeTopic('Current Affairs')">Practice</button></div>
+<div class="card"><strong>#3 · Most-asked GK ★</strong><p class="muted">Repeated questions from 12 years of PSC papers — the 80/20 facts that keep coming back.</p><button class="btn secondary" onclick="startPracticeTopic('Nepal History')">Practice Nepal History</button></div>
+<div class="card"><strong>#4 · IQ &amp; Reasoning</strong><p class="muted">Number series, coding-decoding, blood relations — the speed section students leave too late.</p><button class="btn secondary" onclick="startPracticeTopic('IQ &amp; Reasoning')">Practice</button></div>
+<div class="card"><strong>#5 · Kharidar Office Skills ★</strong><p class="muted">20 of 50 prelim questions — office procedure, Civil Service Act &amp; record management.</p><button class="btn secondary" onclick="startPracticeTopic('Office Management &amp; Public Service')">Practice</button></div>
+<div class="card"><strong>#6 · NRB &amp; Banking</strong><p class="muted">NRB Assistant &amp; Officer, RBB / NBL / ADBL — management, economics &amp; banking law.</p><button class="btn secondary" onclick="startPracticeTopic('Banking &amp; Finance')">Practice</button></div>
+<div class="card"><strong>#7 · Maths Speed Drills</strong><p class="muted">Percentage, profit-loss, interest &amp; time–work — fast, no calculator, like the real hall.</p><button class="btn secondary" onclick="startPracticeTopic('Maths &amp; Numerical')">Practice</button></div>
+<div class="card"><strong>#8 · TSC Teaching</strong><p class="muted">Shikshak Sewa Aayog — pedagogy, licence exam &amp; subject papers for primary to secondary.</p><button class="btn secondary" onclick="startPracticeTopic('Education &amp; Pedagogy')">Practice</button></div>
+</div>
+<p class="muted">★ Card #3 practises Nepal History, the closest single topic for now — a dedicated most-asked-GK set is in progress. Pass mark 45 · 20% negative marking · prelim is qualifying only.</p></div>
+<div class="grid">
+<div class="card"><div class="stat" id="q-count">—</div><div class="muted">MCQs in the bank</div></div>
+<div class="card"><div class="stat" id="exam-count">—</div><div class="muted">Exams covered</div></div>
+<div class="card"><div class="stat" id="home-topics">—</div><div class="muted">Topics</div></div>
+<div class="card"><div class="stat"><span id="home-xp">0</span> XP · 🔥 <span id="home-streak">0</span></div><div class="muted">Your progress (saved on this device)</div></div>
+</div>
+<div class="card" id="weekly-box"><p class="muted">Loading weekly challenge…</p></div>
+<div class="card" id="focus-timer-box"><p class="muted">Loading focus timer…</p></div>
+<div class="card" id="fun-fact-box"><p class="muted">Loading a fun fact…</p></div>
+<div class="card" id="qotd-box"><p class="muted">Loading today's question…</p></div>
+<div class="card"><h2>📖 How to study without getting bored</h2>
+<ul>
+<li><strong>20-minute blocks.</strong> Study in short bursts with a 5-minute break — use the Focus Timer above. Long sittings blur; short ones stick.</li>
+<li><strong>Mix topics.</strong> Don't grind one subject for hours — alternate Constitution, GK, Maths and IQ so your brain stays awake.</li>
+<li><strong>Repeat at intervals.</strong> Revisit a topic after 1 day, then 3 days, then a week — that's spaced repetition, and it beats cramming.</li>
+<li><strong>Test, don't just read.</strong> A 5-question Quick Quiz tells you more about what you know than re-reading a chapter.</li>
+<li><strong>End on a win.</strong> Finish each session with a topic you're good at — you'll come back tomorrow.</li>
+</ul></div>
+<div class="card"><h2>How practice works — and how you are scored</h2>
+<p>Every practice set shuffles <strong>both</strong> the question order <strong>and</strong> the option order, so no two attempts are the same. Hit <strong>🔀 New random set</strong> for a fresh set any time.</p>
+<p>Scoring is exactly like PSC: a correct 2-mark question = +2, a wrong one = <strong>−0.4</strong> (20%), a skipped question = 0. A correct 1-mark question = +1, wrong = −0.2. Your result is judged against the <strong>real cutoff</strong> for your exam — Kharidar / NaSu 45, Section Officer 45, TSC 50, NRB Assistant 40.</p>
+<p>Wrong answers are saved automatically to <strong>Bookmarks &amp; Mistakes</strong> so you can revise them. XP, streaks, levels and badges keep it going — but the score is always honest.</p></div>
+<div class="card"><h2>Browse topics</h2><div id="topic-list" class="grid"><p class="muted">Loading topics…</p></div></div>
+<div class="card"><h2>Flashcards — quick revision</h2><p>20 random questions, question first, answer on reveal. Good for the bus, the tea break, the last 10 minutes before bed.</p><label for="flash-exam">Exam (optional)</label><select id="flash-exam"><option value="">All exams (mixed)</option></select><button class="btn" onclick="showView('flash');startFlashcards()">Start flashcards</button></div>
+</section>
+
+<!-- FUN FACTS -->
+<section class="view" id="view-funfacts">
+<div class="card"><h2>Fun Facts — रोचक तथ्य</h2>
+<p class="muted">Verified, bilingual facts about Nepal and the world — a new one every day on Home, one after every 5th practice question, and one on your result screen. Every fact lists its source. Reading 10 facts earns the 🏅 Fact Explorer badge.</p>
+<label for="funfact-filter">Category</label><select id="funfact-filter" onchange="setFunFactFilter()"><option value="">All categories</option></select>
+<button class="btn secondary" onclick="shuffleFunFacts()">🔀 Shuffle</button>
+<span class="muted" id="funfact-count"></span></div>
+<div id="funfact-box"><p class="muted">Loading fun facts…</p></div></section>
+
+<!-- PRACTICE -->
+<section class="view" id="view-practice">
+<div class="card"><h2>Practice — अभ्यास</h2>
+<p class="muted">Pick an exam, topic and size. Questions and options are randomised every time.</p>
+<label for="practice-exam">Exam</label><select id="practice-exam"></select>
+<label for="practice-topic">Topic</label><select id="practice-topic"><option value="">All topics</option></select>
+<label for="practice-diff">Difficulty</label><select id="practice-diff"><option value="">All levels</option><option value="easy">Easy</option><option value="medium">Medium</option><option value="hard">Hard</option></select>
+<label for="practice-count">How many questions?</label><select id="practice-count"><option value="5">5 — quick</option><option value="10" selected>10</option><option value="20">20</option><option value="50">50 — full prelim</option></select>
+<div class="checks"><label><input type="checkbox" id="practice-timer"> Timer on (~54s per question)</label><label><input type="checkbox" id="practice-neg" checked> Negative marking (per exam — 20% on PSC papers, none on licence papers)</label></div>
+<button class="btn" onclick="startPractice()">Start practice →</button>
+<p class="muted" id="practice-pattern"></p>
+<button class="btn secondary" onclick="dailyChallenge()">🔥 Daily Challenge</button>
+<button class="btn secondary" onclick="quickQuiz()">⚡ Quick Quiz (5)</button>
+<button class="btn secondary" onclick="surpriseQuiz()">🎲 Surprise me (10)</button>
+<button class="btn secondary" onclick="if(confirm('Speed Round: 10 questions, 60 seconds total. +1 bonus for a correct answer in under 5 seconds. No going back, no changing an answer, no explanations until the end. Ready?')) startSpeedRound()">⏱️ Speed Round (10 Q · 60s)</button>
+<button class="btn secondary" onclick="startMistakeMarathon()">🏃 Mistake Marathon</button>
+</div></section>
+
+<!-- QUIZ -->
+<section class="view" id="view-quiz"><div id="quiz-box"></div></section>
+
+<!-- RESULT -->
+<section class="view" id="view-result"><div id="result-box"></div></section>
+
+<!-- MOCK -->
+<section class="view" id="view-mock">
+<div class="card"><h2>Mock Exams — नमुना परीक्षा</h2>
+<p class="muted">Full-length, timed, like the real prelim: same question count, same time, same marks, auto-submit when time runs out, result judged against the real cutoff. Question mix follows the real paper's section split where the app models it (Kharidar, NaSu, Section Officer); other mocks draw from the exam's tagged pool. Negative marking is per exam — see the Exam Guide.</p>
+<label for="mock-exam">Choose your mock</label><select id="mock-exam" onchange="renderMockBest()"></select>
+<p id="mock-best" class="muted" style="margin-top:10px"></p>
+<button class="btn" onclick="startMock()">Start mock exam →</button>
+<div style="margin-top:14px" id="mock-pattern-table"><p class="muted">Loading mock patterns…</p></div>
+<p class="muted">Tip: in a mock, answers are NOT revealed until you finish — just like the real exam. Use the question palette to jump between questions.</p></div></section>
+
+<!-- GUIDE -->
+<section class="view" id="view-guide"><h2>Exam Guide — परीक्षा जानकारी</h2><p class="muted">Patterns from the research report (secondary sources — Edusanjal, Edusoft, Shiksha Sanjal). Official PSC PDFs were not read directly; verify figures against psc.gov.np / the vacancy notice. Flagged conflicts are marked ⚠️ on each card.</p><div id="guide-box"><p class="muted">Loading exam guide…</p></div></section>
+
+<!-- OLD PAPERS -->
+<section class="view" id="view-papers">
+<div class="card"><h2>Old Papers — पुराना प्रश्नपत्र</h2>
+<p class="muted">Real previous-year papers from Lok Sewa Aayog, provincial PSCs and TSC — linked to the source page, with a scanned-paper viewer on each card. Three 2083 first papers (NaSu, Kharidar, Koshi) are transcribed and have a "Practice these questions" button — 133 real questions in total. Other papers are scanned-only for now: read the original on the source site.</p>
+<label for="papers-filter">Filter by exam</label><select id="papers-filter" onchange="renderPapers()"><option value="">All exams</option></select></div>
+<div id="papers-box"><p class="muted">Loading old papers…</p></div></section>
+
+<!-- NOTICES -->
+<section class="view" id="view-notices">
+<div class="card"><h2>Notices — विज्ञापन / सूचना</h2>
+<p class="muted">Live vacancy notices from PSC, TSC, NRB, RBB, Nepal Police, APF, Nepal Army and the provincial PSCs — last checked <strong>2026-10-28</strong>. A deadline, post count, fee or apply link is shown only when a source reported it; anything unverified is labelled as such. Always confirm on the official site before applying.</p>
+<label for="notices-scope">Scope</label><select id="notices-scope" onchange="renderNotices()"><option value="">Nationwide + Provinces</option><option value="nationwide">Nationwide</option><option value="province">Province</option></select>
+<label for="notices-body">Body</label><select id="notices-body" onchange="renderNotices()"><option value="">All bodies</option></select>
+<label for="notices-status">Status</label><select id="notices-status" onchange="renderNotices()"><option value="">All statuses</option><option value="open">Open</option><option value="closing-soon">Closing soon</option><option value="closed">Closed</option><option value="unverified">Unverified</option></select></div>
+<div id="notices-box"><p class="muted">Loading notices…</p></div>
+<div class="card" id="official-links"><p class="muted">Loading official links…</p></div></section>
+
+<!-- DASHBOARD -->
+<section class="view" id="view-dashboard"><h2>Your Dashboard</h2><div id="dash-stats"></div></section>
+
+<!-- REVIEW -->
+<section class="view" id="view-review"><h2>Bookmarks &amp; Mistakes</h2><div id="review-box"></div></section>
+
+<!-- REVISION NOTES -->
+<section class="view" id="view-notes"><h2>Revision Notes — दोहोर्‍याउने नोटहरू</h2><div id="notes-box"><p class="muted">Loading notes…</p></div></section>
+
+<!-- AUDIO REVISION -->
+<section class="view" id="view-audio"><h2>Audio Revision — अडियोबाट दोहोर्‍याऔं</h2><div id="audio-box"><p class="muted">Loading…</p></div></section>
+
+<!-- FLASHCARDS -->
+<section class="view" id="view-flash"><h2>Flashcards</h2><div id="flash-box"></div><p><button class="btn secondary" onclick="startFlashcards()">🔀 New set of 20</button></p></section>
+
+<!-- SEARCH -->
+<section class="view" id="view-search">
+<div class="card"><h2>Search questions</h2>
+<label for="search-input">Search text</label><input type="search" id="search-input" placeholder="e.g. Constitution, Everest, NRB, filing…" onkeydown="if(event.key==='Enter'){event.preventDefault();doSearch();}">
+<label for="search-topic">Topic</label><select id="search-topic"><option value="">All topics</option></select>
+<button class="btn" onclick="doSearch()">Search</button></div>
+<div id="search-results"></div></section>
+
+<!-- AUTH / SIGN IN -->
+<section class="view" id="view-auth"><h2>Sign In</h2><div id="auth-box"><p class="muted">Loading…</p></div></section>
+
+<!-- PROFILE -->
+<section class="view" id="view-profile"><h2>Your Profile</h2><div id="profile-box"><p class="muted">Loading…</p></div></section>
+
+<!-- DISCUSSION HUB -->
+<section class="view" id="view-discuss"><h2>Discussion Hub — छलफल</h2><div id="discuss-box"><p class="muted">Loading…</p></div></section>
+
+<!-- SUBMIT A QUESTION -->
+<section class="view" id="view-submit"><h2>Contribute — Submit a Question</h2><div id="submit-box"><p class="muted">Loading…</p></div></section>
+
+<!-- MAINTAINER REVIEW -->
+<section class="view" id="view-moderate"><h2>Maintainer Review</h2><div id="moderate-box"><p class="muted">Loading…</p></div></section>
+
+<!-- ASK — ON-DEVICE HELPER CHATBOT -->
+<section class="view" id="view-chat"><h2>Ask — सोध्नुहोस्</h2><div id="chat-box"><p class="muted">Loading…</p></div></section>
+
+<!-- SUGGEST A FEATURE -->
+<section class="view" id="view-suggest"><h2>Suggest a Feature — सुझाव दिनुहोस्</h2><div id="suggest-box"><p class="muted">Loading…</p></div></section>
+
+<!-- SYLLABUS COVERAGE -->
+<section class="view" id="view-coverage"><h2>📚 Syllabus Coverage — पाठ्यक्रम कभरेज</h2>
+<p class="muted">Which topics you've practised vs left untouched, per exam — against the syllabus and the paper's estimated topic weights. Anything marked "est." is an estimate, not an official figure.</p>
+<label for="cov-exam">Exam / परीक्षा</label> <select id="cov-exam" onchange="renderCoverage()"></select>
+<div id="cov-box"><p class="muted">Loading…</p></div></section>
+
+<!-- PRINTABLE MOCK -->
+<section class="view" id="view-print"><h2>🖨️ Printable Mock + OMR — प्रिन्ट पेपर</h2>
+<p class="muted">A paper-exact prelim drawn from the question bank — real question count, marks and time from the Exam Guide pattern — with a bubble OMR sheet and an answer key. Print it and solve it like the real hall.</p>
+<label for="prt-exam">Exam / परीक्षा</label> <select id="prt-exam" onchange="renderPrint()"></select>
+<div id="prt-box"><p class="muted">Loading…</p></div></section>
+
+<!-- STUDY PLANNER -->
+<section class="view" id="view-planner"><h2>🗓️ Study Planner — अध्ययन योजना</h2>
+<p class="muted">Pick a target from live vacancy notices (with real deadlines) — or any exam with your own deadline — and get a daily topic plan that rebalances as the deadline approaches. Saved on this device only.</p>
+<div class="card"><label for="pla-notice">Target notice / लक्षित सूचना</label> <select id="pla-notice" onchange="renderPlanner()"></select>
+<label for="pla-exam">…or any exam / …वा कुनै परीक्षा</label> <select id="pla-exam"></select>
+<label for="pla-date">Deadline / अन्तिम मिति</label> <input type="date" id="pla-date">
+<label for="pla-daily">Questions / day / दैनिक प्रश्न</label> <input type="number" id="pla-daily" value="40" min="5" max="300" style="width:5em">
+<button class="btn" onclick="generatePlan()">📋 Generate plan / योजना बनाउनुहोस्</button></div>
+<div id="pla-box"><p class="muted">Loading…</p></div></section>
+
+<!-- GUESS-STRATEGY COACH -->
+<section class="view" id="view-coach"><h2>🎯 Guess-Strategy Coach — अनुमान रणनीति</h2>
+<p class="muted">From your practice &amp; mock history: what negative marking has cost you, what skipping likely-known questions cost you, and the honest guess maths for each exam. Heuristic — not a prediction.</p>
+<label for="coa-exam">Exam / परीक्षा</label> <select id="coa-exam" onchange="renderCoach()"></select>
+<div id="coa-box"><p class="muted">Loading…</p></div></section>
+
+<!-- PYQ HEATMAP -->
+<section class="view" id="view-pyq"><h2>🔥 PYQ Heatmap — पुराना प्रश्न नक्सा</h2>
+<p class="muted">The 133 transcribed real Previous Year questions as ground truth: what the real paper actually asked, vs what the bank covers, vs what you've practised. An indicative sample — not the full paper.</p>
+<label for="pyq-exam">Exam / परीक्षा</label> <select id="pyq-exam" onchange="renderPYQ()"></select>
+<div id="pyq-box"><p class="muted">Loading…</p></div></section>
+
+<!-- REPORT MODAL -->
+<div id="modal" class="modal" hidden><div class="modal-card"><div id="modal-body"></div></div></div>
+
+</main>
+<nav class="mobile-nav" aria-label="Quick navigation">
+<button data-view="home" class="active">🏠<span>Home</span></button>
+<button data-view="practice">✏️<span>Practice</span></button>
+<button data-view="mock">📝<span>Mock</span></button>
+<button data-view="dashboard">📊<span>Stats</span></button>
+<button data-view="review">🔖<span>Saved</span></button>
+</nav>
+<footer><p>LokSewa Vidyapeeth — free &amp; open source (MIT). Maintainer: Ravi Yadav · <a href="https://github.com/08raviyadav">github.com/08raviyadav</a>. Data is stored only in your browser (localStorage). Exam patterns: see Exam Guide / README — verify against psc.gov.np before relying on any figure.</p></footer>
+<div id="confetti-layer" aria-hidden="true"></div>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+# .gitignore — Lok Sewa Prep Nepal
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+# Backend config — real Supabase URL + anon key. NEVER commit.
+config.js

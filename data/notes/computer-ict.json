@@ -1,0 +1,58 @@
+{
+  "slug": "computer-ict",
+  "topic": "Computer & ICT",
+  "title_en": "Computer & ICT — one-pager",
+  "title_ne": "कम्प्युटर र ICT — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "CPU = the brain of the computer. RAM = temporary memory (lost when power goes off); ROM = permanent.",
+      "ne": "CPU = कम्प्युटरको मस्तिष्क। RAM = अस्थायी मेमोरी (बत्ती जाँदा हराउँछ); ROM = स्थायी।"
+    },
+    {
+      "en": "Input devices: keyboard, mouse, scanner. Output devices: monitor, printer, speaker.",
+      "ne": "इनपुट उपकरण: किबोर्ड, माउस, स्क्यानर। आउटपुट: मनिटर, प्रिन्टर, स्पिकर।"
+    },
+    {
+      "en": "1 byte = 8 bits; 1 KB = 1024 bytes. Computers work in binary (0 and 1).",
+      "ne": "1 byte = 8 bits; 1 KB = 1024 bytes। कम्प्युटर बाइनरी (0 र 1) मा काम गर्छ।"
+    },
+    {
+      "en": "Hardware = physical parts; software = programs. The OS (Windows, Linux) is system software.",
+      "ne": "हार्डवेयर = भौतिक भाग; सफ्टवेयर = प्रोग्राम। OS (Windows, Linux) सिस्टम सफ्टवेयर हो।"
+    },
+    {
+      "en": "LAN = local-area network; WAN = wide-area network; the Internet = a global network of networks.",
+      "ne": "LAN = स्थानीय सञ्जाल; WAN = फराकिलो सञ्जाल; इन्टरनेट = सञ्जालहरूको विश्वव्यापी सञ्जाल।"
+    },
+    {
+      "en": "MS Word shortcuts: Ctrl+S save, Ctrl+C copy, Ctrl+V paste, Ctrl+Z undo, Ctrl+P print.",
+      "ne": "MS Word सर्टकट: Ctrl+S सेभ, Ctrl+C कपी, Ctrl+V पेस्ट, Ctrl+Z अन्डु, Ctrl+P प्रिन्ट।"
+    },
+    {
+      "en": "File extensions: .docx document, .xlsx spreadsheet, .pptx presentation, .pdf portable document.",
+      "ne": "फाइल एक्सटेन्सन: .docx दस्तावेज, .xlsx स्प्रेडसिट, .pptx प्रस्तुति, .pdf।"
+    },
+    {
+      "en": "A virus is a malicious program; antivirus software fights it; a backup is a spare copy of data.",
+      "ne": "भाइरस हानिकारक प्रोग्राम हो; एन्टिभाइरसले लड्छ; ब्याकअप = डाटाको जगेडा प्रति।"
+    },
+    {
+      "en": "Email: user@domain — with inbox, sent, draft and spam folders.",
+      "ne": "इमेल: user@domain — inbox, sent, draft, spam फोल्डरहरू।"
+    },
+    {
+      "en": "Alt+Tab switches windows; Ctrl+Alt+Del opens Task Manager (Windows).",
+      "ne": "Alt+Tab ले विन्डो फेर्छ; Ctrl+Alt+Del ले Task Manager खोल्छ (Windows)।"
+    },
+    {
+      "en": "1 GB = 1024 MB. Storage: HDD (spinning disk) vs SSD (faster, no moving parts).",
+      "ne": "1 GB = 1024 MB। भण्डारण: HDD (घुम्ने डिस्क) vs SSD (छिटो, हल्लिने भाग छैन)।"
+    },
+    {
+      "en": "URL = a web address; browsers: Chrome, Firefox, Edge.",
+      "ne": "URL = वेब ठेगाना; ब्राउजर: Chrome, Firefox, Edge।"
+    }
+  ]
+}

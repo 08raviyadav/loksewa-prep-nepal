@@ -1,0 +1,54 @@
+{
+  "slug": "office-management-public-service",
+  "topic": "Office Management & Public Service",
+  "title_en": "Office Management & Public Service — one-pager",
+  "title_ne": "कार्यालय व्यवस्थापन र सार्वजनिक सेवा — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "An office exists to carry out administrative and clerical work to achieve organisational goals.",
+      "ne": "कार्यालयको उद्देश्य: संस्थागत लक्ष्य हासिल गर्न प्रशासनिक र क्लर्की कार्य गर्ने।"
+    },
+    {
+      "en": "Filing systems: alphabetical (by name), numerical (by number), chronological (by date), geographical (by place).",
+      "ne": "फाइलिङ प्रणाली: वर्णानुक्रम (नामअनुसार), सङ्ख्यात्मक (नम्बरअनुसार), कालानुक्रम (मितिअनुसार), भौगोलिक (ठाउँअनुसार)।"
+    },
+    {
+      "en": "Darta = registering incoming letters; Chalani = dispatching outgoing letters.",
+      "ne": "दर्ता = आउने पत्र दर्ता गर्ने; चलानी = जाने पत्र पठाउने।"
+    },
+    {
+      "en": "Record management: creation, maintenance, use, and disposal of records.",
+      "ne": "अभिलेख व्यवस्थापन: अभिलेखको सिर्जना, संरक्षण, प्रयोग र नष्ट।"
+    },
+    {
+      "en": "The Civil Service Act 2049 (1993) governs Nepal's civil servants.",
+      "ne": "निजामती सेवा ऐन 2049 ले नेपालका निजामती कर्मचारीलाई नियमन गर्छ।"
+    },
+    {
+      "en": "Tippani (टिप्पणी) = written noting on a file proposing an action.",
+      "ne": "टिप्पणी = फाइलमा कारबाही प्रस्ताव गर्दै लेखिने लिखित राय।"
+    },
+    {
+      "en": "Hierarchy: section officer → under secretary → joint secretary → secretary.",
+      "ne": "पदसोपान: शाखा अधिकृत → उपसचिव → सहसचिव → सचिव।"
+    },
+    {
+      "en": "Public-service values: neutrality, integrity, accountability, transparency.",
+      "ne": "सार्वजनिक सेवाका मूल्य: तटस्थता, निष्ठा, जवाफदेहिता, पारदर्शिता।"
+    },
+    {
+      "en": "An office manual documents procedures so work continues when staff change.",
+      "ne": "कार्यालय निर्देशिकाले कार्यविधि लेख्छ — कर्मचारी फेरिँदा पनि काम निरन्तर।"
+    },
+    {
+      "en": "Correspondence: formal letters, memos, circulars — each with a fixed format.",
+      "ne": "पत्राचार: औपचारिक पत्र, मेमो, परिपत्र — हरेकको निश्चित ढाँचा।"
+    },
+    {
+      "en": "E-governance = delivering public services through digital means.",
+      "ne": "इ-गभर्नेन्स = सार्वजनिक सेवा डिजिटल माध्यमबाट दिने।"
+    }
+  ]
+}

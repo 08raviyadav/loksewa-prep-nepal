@@ -1,0 +1,1180 @@
+{
+ "worker": "science-health-law",
+ "checked": 1332,
+ "fixes": [
+  {
+   "id": "PHARM-053",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Transdermal patches deliver drug through skin at controlled rate into systemic circulation (option 2), not only to site of application; explanation states this. Correct option: 'Delivery through the skin at a controlled rate into systemic circulation' (was keyed as 'Delivery only to the site of application').",
+   "source": "Standard pharmaceutics: transdermal delivery = systemic; question's own explanation"
+  },
+  {
+   "id": "PHARM-055",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Lyophilisation (freeze-drying), not fluid-bed drying, is the low-temperature drying method for heat-sensitive parenterals such as vaccines. Correct option: 'Lyophilisation (freeze-drying)' (was keyed as 'Fluid-bed drying').",
+   "source": "Standard pharmaceutics: lyophilisation for heat-sensitive products; question's own explanation"
+  },
+  {
+   "id": "PHARM-092",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Morphine is obtained from opium (Papaver somniferum), not Digitalis leaf (source of digoxin). Correct option: 'Opium (Papaver somniferum)' (was keyed as 'Digitalis leaf').",
+   "source": "Pharmacognosy: morphine = opium alkaloid; question's own explanation"
+  },
+  {
+   "id": "PHARM-133",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Pharmacovigilance is the science of detecting/assessing/preventing adverse drug effects, not the study of drug manufacturing. Correct option: 'The science of detecting and preventing adverse drug effects' (was keyed as 'The study of drug manufacturing').",
+   "source": "WHO definition of pharmacovigilance; question's own explanation"
+  },
+  {
+   "id": "PHARM-150",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "WHO reduced-osmolarity ORS per litre: NaCl 2.6 g, glucose 13.5 g, KCl 1.5 g, trisodium citrate 2.9 g (option 1). Correct option: 'Sodium chloride 2.6 g, glucose 13.5 g, potassium chloride 1.5 g, trisodium citrate 2.9 g' (was keyed as 'Sodium chloride 1.6 g, glucose 10.5 g, potassium chloride 1.0 g, trisodium citrate 1.9 g').",
+   "source": "WHO reduced-osmolarity ORS formula; question's own explanation"
+  },
+  {
+   "id": "PHARM-153",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "GPP = Good Pharmacy Practice, not 'General Pharmacy Protocol'. Correct option: 'Good Pharmacy Practice' (was keyed as 'General Pharmacy Protocol').",
+   "source": "FIP/WHO Good Pharmacy Practice; question's own explanation"
+  },
+  {
+   "id": "PHARM-170",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Substandard/falsified medicines are products failing quality standards or deliberately misrepresented (option 1), not merely short-shelf-life medicines. Correct option: 'Medicines that fail quality standards or are deliberately misrepresented' (was keyed as 'Medicines with a short shelf life').",
+   "source": "WHO definition of substandard and falsified medical products; question's own explanation"
+  },
+  {
+   "id": "PHARM-171",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "DDA registers drugs and controls their quality; registering pharmacists is the Nepal Pharmacy Council's function. Correct option: 'Registering drugs and controlling their quality' (was keyed as 'Registering pharmacists only').",
+   "source": "Drug Act, 2035 / DDA mandate; question's own explanation"
+  },
+  {
+   "id": "PHARM-184",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Unit-dose dispensing = medicines dispensed in single doses individually packaged per patient (option 1), not selling to outpatients only. Correct option: 'Dispensing medicines in single doses individually packaged for each patient' (was keyed as 'Selling medicines to outpatients only').",
+   "source": "Hospital pharmacy practice; question's own explanation"
+  },
+  {
+   "id": "PHARM-198",
+   "file": "license-pharmacy.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "VED = Vital, Essential, Desirable — not Volume, Expiry, Date. Correct option: 'Vital, Essential, Desirable' (was keyed as 'Volume, Expiry, Date').",
+   "source": "Hospital pharmacy inventory analysis (VED); question's own explanation"
+  },
+  {
+   "id": "HA-086",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "IMNCI danger sign of severe pneumonia is chest indrawing, not low-grade fever. Correct option: 'Chest indrawing' (was keyed as 'Low-grade fever').",
+   "source": "WHO IMNCI guidelines; question's own explanation"
+  },
+  {
+   "id": "HA-112",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Free delivery care in Nepal is provided by the Aama Suraksha programme, not the Vitamin A programme. Correct option: 'Aama Suraksha programme' (was keyed as 'Vitamin A programme').",
+   "source": "Aama Suraksha (Safe Motherhood) programme, Nepal; question's own explanation"
+  },
+  {
+   "id": "HA-120",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Handwashing with soap mainly prevents diarrhoeal diseases, not diabetes. Correct option: 'Diarrhoeal diseases' (was keyed as 'Diabetes').",
+   "source": "WHO/UNICEF handwashing evidence; question's own explanation"
+  },
+  {
+   "id": "HA-121",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Permanent male family planning method is vasectomy; IUCD is a female method. Correct option: 'Vasectomy' (was keyed as 'Intrauterine device').",
+   "source": "Family planning: vasectomy = permanent male sterilisation; question's own explanation"
+  },
+  {
+   "id": "HA-125",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "IMNCI = Integrated Management of Neonatal and Childhood Illness. Correct option: 'Integrated Management of Neonatal and Childhood Illness' (was keyed as 'International Maternal Nutrition Care Institute').",
+   "source": "WHO/UNICEF IMNCI; question's own explanation"
+  },
+  {
+   "id": "HA-129",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "WHO = World Health Organization, not 'World Hygiene Organisation'. Correct option: 'World Health Organization' (was keyed as 'World Hygiene Organisation').",
+   "source": "WHO; question's own explanation"
+  },
+  {
+   "id": "HA-133",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Herd immunity = protection of a community when a large proportion is immune, not immunity of animals only. Correct option: 'Protection of a community when a large proportion is immune' (was keyed as 'Immunity of animals only').",
+   "source": "Epidemiology: herd immunity; question's own explanation"
+  },
+  {
+   "id": "HA-137",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "CPR is given when a person is not breathing and has no pulse, not for fever. Correct option: 'Not breathing and has no pulse' (was keyed as 'Having a fever').",
+   "source": "Basic life support: CPR indications; question's own explanation"
+  },
+  {
+   "id": "HA-141",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Nosebleed first aid: pinch soft part of nose and lean slightly forward, not blow the nose hard. Correct option: 'Pinch the soft part of the nose and lean slightly forward' (was keyed as 'Blow the nose hard').",
+   "source": "First aid guidelines; question's own explanation"
+  },
+  {
+   "id": "HA-144",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "First action at an accident scene is to ensure scene safety and check responsiveness, not take photographs. Correct option: 'Ensure scene safety and check responsiveness' (was keyed as 'Take photographs').",
+   "source": "First aid / DRSABC; question's own explanation"
+  },
+  {
+   "id": "HA-145",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Shock signs: pale, cold, clammy skin with rapid weak pulse — not a slow strong pulse. Correct option: 'Pale, cold, clammy skin with a rapid weak pulse' (was keyed as 'Slow strong pulse').",
+   "source": "First aid: signs of shock; question's own explanation"
+  },
+  {
+   "id": "HA-162",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "A balanced diet contains all nutrients in proper proportion, not meat only. Correct option: 'Diet containing all nutrients in proper proportion' (was keyed as 'Eating only meat').",
+   "source": "Nutrition: balanced diet; question's own explanation"
+  },
+  {
+   "id": "HA-169",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Best dietary source of iodine is iodised salt, not sugar. Correct option: 'Iodised salt' (was keyed as 'Sugar').",
+   "source": "Nutrition: iodised salt prevents iodine deficiency; question's own explanation"
+  },
+  {
+   "id": "HA-177",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "HMIS collects, analyses and uses health data for planning — it does not store medicines. Correct option: 'Collect, analyse and use health data for planning' (was keyed as 'Store medicines').",
+   "source": "Health Management Information System purpose; question's own explanation"
+  },
+  {
+   "id": "HA-181",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Cold chain = system keeping vaccines at 2-8 C during storage/transport, not cold storage of food. Correct option: 'System to keep vaccines at 2-8 degrees Celsius during storage and transport' (was keyed as 'Cold storage of food').",
+   "source": "Immunisation cold chain; question's own explanation"
+  },
+  {
+   "id": "HA-183",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Most reliable sterilisation of surgical instruments is autoclaving, not drying in sunlight. Correct option: 'Autoclaving' (was keyed as 'Drying in sunlight').",
+   "source": "Sterilisation: autoclave (steam under pressure); question's own explanation"
+  },
+  {
+   "id": "HA-185",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Health management functions are planning/organising/staffing/directing/controlling services, not performing surgery. Correct option: 'Planning and organising health services' (was keyed as 'Performing surgery').",
+   "source": "Health management functions (POSDCORB); question's own explanation"
+  },
+  {
+   "id": "HA-187",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Used sharps must go in a puncture-proof safety box, not be burned in the open. Correct option: 'In a safety box (puncture-proof container)' (was keyed as 'By burning in the open').",
+   "source": "Sharps disposal / infection prevention; question's own explanation"
+  },
+  {
+   "id": "HA-189",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Referral system sends patients to a higher-level facility for care not available locally — it is not about avoiding treatment. Correct option: 'Send patients to a higher-level facility for care not available locally' (was keyed as 'Avoid treating patients').",
+   "source": "Health systems: referral; question's own explanation"
+  },
+  {
+   "id": "HA-192",
+   "file": "license-health-assistant.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "An epidemic is a sudden increase in cases above the expected level in a community, not a disease of animals only. Correct option: 'Sudden increase in cases above the expected level in a community' (was keyed as 'A disease of animals only').",
+   "source": "Epidemiology: epidemic definition; question's own explanation"
+  },
+  {
+   "id": "ALLIED-037",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "CT image density is measured in Hounsfield units, not sieverts (sievert = equivalent dose). Correct option: 'Hounsfield unit' (was keyed as 'Sievert').",
+   "source": "Radiography: CT numbers in HU; question's own explanation"
+  },
+  {
+   "id": "ALLIED-050",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "In radiography AP = Anterior-posterior, not 'anode position'. Correct option: 'Anterior-posterior' (was keyed as 'Anode position').",
+   "source": "Radiography: AP projection; question's own explanation"
+  },
+  {
+   "id": "ALLIED-081",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Parkinson's triad is tremor, rigidity and bradykinesia — not flaccid paralysis and areflexia. Correct option: 'Tremor, rigidity and bradykinesia' (was keyed as 'Flaccid paralysis and areflexia').",
+   "source": "Neurology: Parkinson's disease; question's own explanation"
+  },
+  {
+   "id": "ALLIED-116",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "DMFT = Decayed, Missing and Filled Teeth, not 'Dental Material Failure Test'. Correct option: 'Decayed, Missing and Filled Teeth' (was keyed as 'Dental Material Failure Test').",
+   "source": "WHO DMFT index; question's own explanation"
+  },
+  {
+   "id": "ALLIED-135",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Nidana Panchaka = Nidana, Purvarupa, Rupa, Upashaya, Samprapti; Snehana/Swedana/Vamana/Virechana/Basti are Panchakarma procedures. Correct option: 'Nidana, Purvarupa, Rupa, Upashaya, Samprapti' (was keyed as 'Snehana, Swedana, Vamana, Virechana, Basti').",
+   "source": "Ayurveda: Nidana Panchaka; question's own explanation"
+  },
+  {
+   "id": "ALLIED-163",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Alma-Ata Declaration on primary health care was 1978, not Kathmandu 1991. Correct option: 'Alma-Ata 1978' (was keyed as 'Kathmandu 1991').",
+   "source": "WHO Alma-Ata Declaration 1978; question's own explanation"
+  },
+  {
+   "id": "ALLIED-199",
+   "file": "license-allied-health.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "A cataract is clouding of the crystalline lens, not detachment of the retina. Correct option: 'Clouding of the crystalline lens' (was keyed as 'Detachment of the retina').",
+   "source": "Ophthalmology: cataract; question's own explanation"
+  },
+  {
+   "id": "HEAL2-001",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Mitochondria produce ATP and are the powerhouse of the cell. Correct option: 'Mitochondria' (was keyed as 'Nucleus').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-005",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Group AB red cells carry both A and B antigens. Correct option: 'AB group' (was keyed as 'A group').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-011",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "There are 12 pairs = 24 ribs in total. Correct option: '24' (was keyed as '10').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-012",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "The cerebrum is the largest part of the brain. Correct option: 'Cerebrum' (was keyed as 'Cerebellum').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-013",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "The hypothalamus controls hunger, thirst and body temperature. Correct option: 'Hypothalamus' (was keyed as 'Cerebellum').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-016",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Gas exchange takes place in the alveoli. Correct option: 'Alveoli' (was keyed as 'Bronchi').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-017",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Capillaries connect arteries and veins. Correct option: 'Capillaries' (was keyed as 'Veins').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-019",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Normal adult male haemoglobin is about 14-18 g/dL. Correct option: '14-18 g/dL' (was keyed as '5-7 g/dL').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-020",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "The thyroid gland produces thyroxine. Correct option: 'Thyroid gland' (was keyed as 'Pituitary gland').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-022",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "A complete adult dentition has 32 teeth including wisdom teeth. Correct option: '32' (was keyed as '28').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-023",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Per the question's own explanation, the lens changes shape to focus light on the retina. Correct option: 'Lens' (was keyed as 'Cornea').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-029",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Vitamin D helps the intestines absorb calcium. Correct option: 'Vitamin D' (was keyed as 'Vitamin A').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-036",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Marasmus is severe undernutrition from lack of energy and protein. Correct option: 'Energy (calories) and protein' (was keyed as 'Vitamin A only').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-039",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Fat gives about 9 kcal/g, the most energy per gram. Correct option: 'Fat' (was keyed as 'Protein').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-040",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "One gram of protein provides about 4 kcal. Correct option: '4 kcal' (was keyed as '9 kcal').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-042",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Vitamin C (and B vitamins) are water-soluble; A, D, E, K are fat-soluble. Correct option: 'Vitamin C' (was keyed as 'Vitamin A').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-044",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Folic acid before/early in pregnancy prevents neural tube defects. Correct option: 'Folic acid (vitamin B9)' (was keyed as 'Vitamin A').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-050",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "ORS is salts and sugar in clean water. Correct option: 'Salt, sugar and clean water' (was keyed as 'Only sugar').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-056",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Cholera (Vibrio cholerae) is the bacterial disease among the options; malaria is parasitic, measles/dengue viral. Correct option: 'Cholera' (was keyed as 'Malaria').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-059",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Hepatitis B spreads through blood and body fluids, not mosquito bites. Correct option: 'Through blood and body fluids' (was keyed as 'Through mosquito bites').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-060",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "HIV attacks the immune system (CD4 cells). Correct option: 'Immune system' (was keyed as 'Digestive system').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-065",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Japanese encephalitis is mainly spread by Culex mosquitoes. Correct option: 'Culex' (was keyed as 'Anopheles').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-073",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Scabies is caused by a mite (Sarcoptes scabiei) burrowing into skin. Correct option: 'A mite' (was keyed as 'A virus').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-074",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Ringworm is a fungal skin infection despite its name. Correct option: 'Fungal infection' (was keyed as 'Bacterial infection').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-093",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Bleeding/severe abdominal pain are warning signs of severe dengue. Correct option: 'Bleeding from nose or gums and severe abdominal pain' (was keyed as 'Dry cough').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-094",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A stroke occurs when blood flow to part of the brain is blocked or a vessel bursts. Correct option: 'The blood supply to part of the brain is interrupted' (was keyed as 'The lungs fill with water').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-096",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "The main danger of severe diarrhoea is dehydration. Correct option: 'Dehydration (loss of water and salts)' (was keyed as 'Skin rash').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-098",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Diabetes is a non-communicable disease; malaria, cholera and TB are communicable. Correct option: 'Diabetes' (was keyed as 'Malaria').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-099",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Chronic alcohol use most affects the liver (cirrhosis). Correct option: 'Liver' (was keyed as 'Heart').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-101",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Nosebleed first aid: pinch soft part, lean slightly forward. Correct option: 'Pinch the soft part of the nose and lean slightly forward' (was keyed as 'Wash the face with hot water').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-102",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Bee sting first aid: remove sting, wash, apply cold. Correct option: 'Remove the sting, wash the area with soap and water, and apply cold' (was keyed as 'Ignore it').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-103",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A splint holds a fractured bone still. Correct option: 'To keep a broken bone still' (was keyed as 'To clean a wound').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-104",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Choking first aid: cough, back blows, abdominal thrusts. Correct option: 'Encourage coughing, give back blows, and use abdominal thrusts if needed' (was keyed as 'Give them food to swallow').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-105",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Electric shock: switch off power before touching the victim. Correct option: 'Switch off the power supply before touching the person' (was keyed as 'Give the person food').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-106",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Post-bite rabies vaccine prevents rabies. Correct option: 'To prevent rabies, which is almost always fatal once symptoms appear' (was keyed as 'To cure fever').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-107",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Do NOT induce vomiting after poison ingestion unless a doctor advises it. Correct option: 'Make the person vomit unless a doctor advises it' (was keyed as 'Keep the person calm and still').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-108",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "An unconscious breathing person goes in the recovery (side) position. Correct option: 'Lying on the side (recovery position)' (was keyed as 'Lying face down').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-110",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Adult CPR: 30 compressions followed by 2 rescue breaths. Correct option: 'Two' (was keyed as 'Ten').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-114",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Foreign body in eye: do not rub; wash with clean water. Correct option: 'Do not rub; wash the eye with clean water and blink to remove it' (was keyed as 'Put oil in the eye').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-115",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "First step at an accident scene is scene safety. Correct option: 'Make sure the scene is safe for you and the victim' (was keyed as 'Move the victim at once').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-117",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Raising the bleeding limb above heart level slows bleeding. Correct option: 'Elevate (raise) the leg above the level of the heart' (was keyed as 'Massage the leg hard').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-118",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Severe burn first aid: cover with clean cloth, seek help; do not pop blisters. Correct option: 'Cover the burn with a clean, non-sticky cloth and seek medical help' (was keyed as 'Pour ice-cold water for a long time').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-119",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A tourniquet is a last resort for severe limb bleeding uncontrollable by pressure. Correct option: 'Only as a last resort for severe, life-threatening limb bleeding that cannot be stopped by pressure' (was keyed as 'For a burn').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-120",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A drowning person not breathing needs CPR immediately. Correct option: 'Start CPR immediately after removing them from the water' (was keyed as 'Wait for them to wake up').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-121",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Colostrum is thick and yellowish. Correct option: 'Yellowish' (was keyed as 'Red').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-124",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "BCG at birth protects against tuberculosis. Correct option: 'BCG' (was keyed as 'Polio').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-125",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Pentavalent vaccine is given at 6, 10 and 14 weeks in Nepal. Correct option: 'Pentavalent vaccine' (was keyed as 'TT vaccine').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-127",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "ORS treats dehydration caused by diarrhoea. Correct option: 'Dehydration caused by diarrhoea' (was keyed as 'Skin rash').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-131",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "TT in pregnancy protects mother and newborn from tetanus. Correct option: 'Both the mother and the newborn baby from tetanus' (was keyed as 'Only older children').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-134",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Vaginal bleeding / severe headache with swelling are pregnancy danger signs. Correct option: 'Vaginal bleeding or severe headache with swelling' (was keyed as 'Sleeping more than usual').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-137",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Weaning = gradually introducing solid foods while breastfeeding continues. Correct option: 'Introducing solid foods in addition to breast milk' (was keyed as 'Stopping breastfeeding suddenly at birth').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-138",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Main benefit of institutional delivery is skilled care and emergency help. Correct option: 'Skilled birth attendants and emergency care are available' (was keyed as 'The baby is always heavier').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-139",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "TT protects against tetanus after injury. Correct option: 'Tetanus toxoid (TT)' (was keyed as 'Polio vaccine').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-142",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "NHPC registers/licenses health professionals and sets standards. Correct option: 'To register and license health professionals such as nurses and health assistants' (was keyed as 'To collect taxes').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-144",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "FCHVs are local women selected by their own community. Correct option: 'The local community' (was keyed as 'Foreign donors').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-146",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A PHCC is above the health post, providing basic curative care and referrals. Correct option: 'A health institution above the health post that provides basic curative and referral services' (was keyed as 'A medicine factory').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-147",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A district hospital provides secondary-level care and accepts referrals. Correct option: 'To provide secondary-level care and receive referrals from health posts and PHCCs' (was keyed as 'To sell medicines only').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-148",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "MoHP is responsible for health policy in Nepal. Correct option: 'Ministry of Health and Population' (was keyed as 'Ministry of Home Affairs').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-149",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "DoHS implements national health programmes under MoHP. Correct option: 'Implements health programmes and services under the Ministry of Health' (was keyed as 'Runs the police force').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-151",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A health post is usually headed by a Health Assistant. Correct option: 'A Health Assistant' (was keyed as 'A laboratory technician').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-152",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "The Health Insurance Board runs Nepal's national health insurance programme. Correct option: 'Health Insurance Board' (was keyed as 'Department of Roads').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-158",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "An epidemiologist studies disease patterns and causes in populations. Correct option: 'Patterns and causes of diseases in populations' (was keyed as 'Hospital buildings').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-160",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "COVID-19 was declared a pandemic by WHO in March 2020. Correct option: 'COVID-19' (was keyed as 'Cholera').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-161",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Quarantine = separating exposed people to see if they become ill. Correct option: 'Separating people who may have been exposed to a disease to see if they become ill' (was keyed as 'Closing all hospitals').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-162",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Health education aims to increase knowledge and change behaviour. Correct option: 'To increase knowledge and change behaviour so people stay healthy' (was keyed as 'To train only doctors').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-163",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Malaria is spread by the bite of an infected mosquito. Correct option: 'Malaria' (was keyed as 'Typhoid').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-164",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Typhoid spreads through contaminated food and drinking water. Correct option: 'Typhoid' (was keyed as 'Rabies').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-165",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Community health units bring basic health services closer to households. Correct option: 'To bring basic health services closer to households' (was keyed as 'To run schools').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-167",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Boiling is the most reliable home method to make drinking water safe. Correct option: 'Boiling the water' (was keyed as 'Adding salt').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-168",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Chlorine is added to drinking water to kill germs. Correct option: 'To disinfect water by killing germs' (was keyed as 'To colour the water').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-169",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "A sanitary latrine with slab and cover is recommended for safe sanitation. Correct option: 'Sanitary latrine with a slab and cover' (was keyed as 'Open drain').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-170",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Removing stagnant water removes mosquito breeding sites. Correct option: 'By removing stagnant water from pots, tyres and containers' (was keyed as 'By planting more trees').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-171",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Houseflies spread typhoid and diarrhoeal diseases. Correct option: 'Typhoid and diarrhoeal diseases' (was keyed as 'Tetanus').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-172",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Air pollution's main health effect is respiratory disease. Correct option: 'Respiratory diseases such as cough, asthma and bronchitis' (was keyed as 'Hair growth').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-173",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Indoor air pollution in rural Nepal is mainly smoke from firewood/biomass stoves. Correct option: 'Smoke from firewood and biomass cooking stoves' (was keyed as 'Refrigerators').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-174",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Loud noise pollution commonly causes hearing loss. Correct option: 'Hearing loss' (was keyed as 'Stronger bones').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-175",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Using latrines and wearing shoes prevents worm infection. Correct option: 'Using a latrine and wearing shoes' (was keyed as 'Eating unwashed vegetables').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-176",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Cooked food should be covered, stored safely and reheated well. Correct option: 'Cover it and store it properly, and reheat it well before eating' (was keyed as 'Mix it with raw food').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-178",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Vegetables are washed to remove dirt, germs and pesticide residues. Correct option: 'To remove dirt, germs and pesticide residues' (was keyed as 'To make them sweet').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-179",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "SODIS disinfects water in clear bottles using sunlight (UV). Correct option: 'Disinfecting water in clear bottles using sunlight' (was keyed as 'Freezing water').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-180",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Safe household waste disposal = composting biodegradable waste + sanitary landfill. Correct option: 'Composting biodegradable waste and using a sanitary landfill' (was keyed as 'Dumping it on the road').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-181",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Immunity is the body's ability to resist infection and disease. Correct option: 'The body's ability to resist infection and disease' (was keyed as 'A blood test').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-183",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "OPV/IPV protect against polio, not TT. Correct option: 'OPV (oral polio vaccine)' (was keyed as 'TT').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-185",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "MR2 is given at 15 months in Nepal's immunisation schedule. Correct option: 'Second dose of measles-rubella (MR2)' (was keyed as 'TT').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-186",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "The JE vaccine protects against Japanese encephalitis. Correct option: 'JE vaccine' (was keyed as 'OPV').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-188",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "The cold chain keeps vaccines at 2-8 C from manufacture to use. Correct option: 'Keeping vaccines at 2-8°C from manufacture to use' (was keyed as 'Keeping vaccines at room temperature').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-189",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Most vaccines are stored at 2-8 C. Correct option: '2-8°C' (was keyed as '30-35°C').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-190",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Pentavalent vaccine includes protection against hepatitis B. Correct option: 'Pentavalent vaccine' (was keyed as 'JE vaccine').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-192",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Antibiotics treat bacterial infections, not viruses or broken bones. Correct option: 'Bacterial infections' (was keyed as 'Broken bones').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-194",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "ACT is the recommended antimalarial treatment. Correct option: 'Artemisinin-based combination therapy (ACT)' (was keyed as 'Insulin').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "HEAL2-195",
+   "file": "expansion-health-technical-security.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Iodine solution is the antiseptic used to clean wounds. Correct option: 'Iodine solution (Betadine)' (was keyed as 'Milk').",
+   "source": "Standard textbook/first-aid knowledge; question's own explanation"
+  },
+  {
+   "id": "POL2-016",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Written examinations for Nepal Police recruitment are conducted by the Public Service Commission (Lok Sewa Aayog), not APF Headquarters. Correct option: 'Public Service Commission (Lok Sewa Aayog)' (was keyed as 'Armed Police Force Headquarters').",
+   "source": "Public Service Commission, Nepal; question's own explanation"
+  },
+  {
+   "id": "POL2-039",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "ABC in first aid = Airway, Breathing, Circulation. Correct option: 'Airway, Breathing, Circulation' (was keyed as 'Alert, Breathing, Circulation').",
+   "source": "First aid: ABC; question's own explanation"
+  },
+  {
+   "id": "POL2-043",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "A minor burn should be cooled with clean running water; direct ice should not be applied. Correct option: 'Cool the burn with clean running water' (was keyed as 'Apply ice directly on the burn').",
+   "source": "First aid: burn cooling; question's own explanation"
+  },
+  {
+   "id": "POL2-047",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Heatstroke first aid: move to shade and cool the body — never cover with a heavy blanket. Correct option: 'Move the person to shade and cool the body' (was keyed as 'Cover the person with a heavy blanket').",
+   "source": "First aid: heatstroke; question's own explanation"
+  },
+  {
+   "id": "POL2-048",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "A choking adult needs back blows and abdominal thrusts (Heimlich), not laying flat. Correct option: 'Give abdominal thrusts (Heimlich manoeuvre)' (was keyed as 'Lay the person flat on the ground').",
+   "source": "First aid: choking; question's own explanation"
+  },
+  {
+   "id": "POL2-058",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Border security is a main duty of the Armed Police Force, not the Traffic Police. Correct option: 'Armed Police Force' (was keyed as 'Traffic Police').",
+   "source": "APF mandate; question's own explanation"
+  },
+  {
+   "id": "ARMY2-002",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "The Nepali Army traces its origin to the Gorkhali army raised in 1762, not 2008. Correct option: '1762' (was keyed as '2008').",
+   "source": "Nepal Army history; question's own explanation"
+  },
+  {
+   "id": "ENG2-027",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "A benchmark is a fixed point of known elevation, not a levelling staff. Correct option: 'A fixed point of known elevation' (was keyed as 'A levelling staff').",
+   "source": "Surveying: benchmark; question's own explanation"
+  },
+  {
+   "id": "ENG2-035",
+   "file": "expansion-security-engineering.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Earthing protects people from electric shock by giving fault current a safe path to ground, not preventing power cuts. Correct option: 'To protect people from electric shock' (was keyed as 'To prevent power cuts').",
+   "source": "Electrical safety: earthing; question's own explanation"
+  },
+  {
+   "id": "LAW6-031",
+   "file": "expansion-r5-law.json",
+   "field": "options",
+   "new_value": [
+    "Article 242",
+    "Article 238",
+    "Article 248",
+    "Article 245"
+   ],
+   "reason": "NHRC is established under Article 248 of the Constitution of Nepal 2072; Article 249 lists its functions, duties and powers. No option listed Article 248, so the correct article must be added as an option (answer index 2 unchanged).",
+   "source": "Constitution of Nepal 2072, Art 248 (establishment) vs Art 249 (functions); verified by web search (constituteproject.org / law.nepalwide.org Part 25)"
+  },
+  {
+   "id": "LAW6-031",
+   "file": "expansion-r5-law.json",
+   "field": "options_ne",
+   "new_value": [
+    "धारा २४२",
+    "धारा २३८",
+    "धारा २४८",
+    "धारा २४५"
+   ],
+   "reason": "Nepali options must match corrected English options: धारा २४९ → धारा २४८.",
+   "source": "Constitution of Nepal 2072, Art 248"
+  },
+  {
+   "id": "LAW6-031",
+   "file": "expansion-r5-law.json",
+   "field": "explanation",
+   "new_value": "The National Human Rights Commission is established under Article 248 of the Constitution of Nepal 2072.",
+   "reason": "Explanation cited the wrong article (249 = functions, not establishment).",
+   "source": "Constitution of Nepal 2072, Art 248"
+  },
+  {
+   "id": "LAW6-031",
+   "file": "expansion-r5-law.json",
+   "field": "explanation_ne",
+   "new_value": "राष्ट्रिय मानव अधिकार आयोग नेपालको संविधान २०७२ को धारा २४८ अन्तर्गत स्थापना भएको हो।",
+   "reason": "Nepali explanation cited the wrong article (२४९ → २४८).",
+   "source": "Constitution of Nepal 2072, Art 248"
+  },
+  {
+   "id": "IOE2-074",
+   "file": "expansion-law-csit-ioe.json",
+   "field": "options_ne",
+   "new_value": [
+    "विरल",
+    "प्रचुर",
+    "पर्याप्त",
+    "सामान्य"
+   ],
+   "reason": "Duplicate Nepali options: both 'Abundant' and 'Plentiful' were translated 'प्रचुर'. Plentiful = 'पर्याप्त'. English options are distinct and answer (0, Rare) is correct.",
+   "source": "Nepali translation: plentiful = पर्याप्त/धेरै"
+  }
+ ],
+ "removals": [],
+ "unverifiable": [
+  {
+   "id": "HEAL2-129",
+   "reason": "Minimum antenatal check-ups in Nepal: question keys 'at least four' (long-standing Safe Motherhood standard), but WHO now recommends 8 contacts and Nepal's ANC protocol has moved toward 8; could not confirm which standard the exam expects, so left unchanged."
+  },
+  {
+   "id": "HEAL2-145",
+   "reason": "'Lowest level of government health institution in a village': keys 'Health post', but ward-level community health units sit below health posts in the current federal structure; ambiguous which level the exam intends, so left unchanged."
+  },
+  {
+   "id": "LAW5-019",
+   "reason": "Nepal Bar Council advocate licence exam Paper 1 = 100 MCQs, 100 marks, 90 min, pass 50, no negative marking — could not verify these exam-format details against an official Bar Council source in this pass; left unchanged."
+  },
+  {
+   "id": "HEAL2-023",
+   "reason": "Listed as a fix (key 3 Cornea -> 1 Lens) per the question's own explanation, but note the ambiguity: the cornea provides about two-thirds of the eye's refractive power while the lens fine-tunes/accommodates focus. If the intended teaching point is total refractive power, the question itself is ambiguous and should be reworded rather than just re-keyed."
+  },
+  {
+   "id": "BAR-059",
+   "reason": "Adverse possession in Nepal keyed as 12 years of continuous possession; widely cited for Nepal but could not verify the exact section/period in the Muluki Civil Code 2074 in this pass, so left unchanged."
+  }
+ ]
+}

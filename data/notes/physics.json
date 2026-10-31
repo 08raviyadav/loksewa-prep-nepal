@@ -1,0 +1,58 @@
+{
+  "slug": "physics",
+  "topic": "Physics",
+  "title_en": "Physics — one-pager",
+  "title_ne": "भौतिकशास्त्र — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Newton's 2nd law: F = m×a. 1st: inertia. 3rd: action–reaction.",
+      "ne": "न्युटनको दोस्रो नियम: F = m×a। पहिलो: जडत्व। तेस्रो: क्रिया–प्रतिक्रिया।"
+    },
+    {
+      "en": "Kinetic energy = ½mv² — e.g. a 6 kg object at 3 m/s has 27 J.",
+      "ne": "गतिज ऊर्जा = ½mv² — जस्तै 3 m/s मा 6 kg को 27 J।"
+    },
+    {
+      "en": "Speed = distance ÷ time. Sound (340 m/s) travels 680 m in 2 s.",
+      "ne": "गति = दूरी ÷ समय। ध्वनि (340 m/s) 2 सेकेन्डमा 680 मि. पुग्छ।"
+    },
+    {
+      "en": "Ohm's law: V = I×R. Series: resistances add. Parallel: reciprocals add.",
+      "ne": "ओहमको नियम: V = I×R। श्रेणीमा प्रतिरोध जोडिन्छ; समानान्तरमा व्युत्क्रम जोडिन्छ।"
+    },
+    {
+      "en": "Electrical energy: kWh = kW × hours. 700 W × 8 h × 30 days = 168 units.",
+      "ne": "विद्युत् ऊर्जा: kWh = kW × घण्टा। 700 W × 8 घण्टा × 30 दिन = 168 युनिट।"
+    },
+    {
+      "en": "Concave lens = diverging; convex lens = converging.",
+      "ne": "अवतल लेन्स = अपसारी; उत्तल लेन्स = अभिसारी।"
+    },
+    {
+      "en": "Kirchhoff's current law: current entering a junction = current leaving it.",
+      "ne": "किरचफको धारा नियम: जक्सनमा पस्ने धारा = निस्कने धारा।"
+    },
+    {
+      "en": "n-type semiconductor: pentavalent donor impurity; p-type: trivalent acceptor.",
+      "ne": "n-प्रकार अर्धचालक: पञ्चसंयोजी दाता अशुद्धि; p-प्रकार: त्रिसंयोजी ग्राही।"
+    },
+    {
+      "en": "Units: force newton, energy joule, power watt, pressure pascal.",
+      "ne": "एकाइ: बल न्युटन, ऊर्जा जुल, शक्ति वाट, चाप पास्कल।"
+    },
+    {
+      "en": "Reflection: angle of incidence = angle of reflection.",
+      "ne": "परावर्तन: आपतन कोण = परावर्तन कोण।"
+    },
+    {
+      "en": "g = 9.8 m/s²; pressure = force ÷ area.",
+      "ne": "g = 9.8 m/s²; चाप = बल ÷ क्षेत्रफल।"
+    },
+    {
+      "en": "Work = force × distance; power = work ÷ time.",
+      "ne": "कार्य = बल × दूरी; शक्ति = कार्य ÷ समय।"
+    }
+  ]
+}

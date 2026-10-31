@@ -1,0 +1,2377 @@
+{
+  "worker": "language-current-funfacts",
+  "checked": 3291,
+  "funfacts_checked": 609,
+  "fixes": [
+    {
+      "id": "CURH-001",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Sanae Takaichi' does not match the explanation, which supports 'Sushila Karki'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-004",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '12 September 2025' does not match the explanation, which supports 'A government ban on social media platforms and anger over corruption'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-007",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'October 2025' does not match the explanation, which supports '12 September 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-008",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Metal–organic frameworks (MOFs)' does not match the explanation, which supports '5 March 2026'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-009",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Carlos Alcaraz' does not match the explanation, which supports 'Sabita Bhandari'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-014",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Hay'at Tahrir al-Sham (HTS)' does not match the explanation, which supports 'Kathmandu'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-016",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '31 May 2025' does not match the explanation, which supports '20 May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-017",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Christian Democratic Union (CDU)' does not match the explanation, which supports 'Maha Prasad Adhikari'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-018",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Andrew Barto and Richard Sutton' does not match the explanation, which supports 'ICC Men's T20 World Cup 2026'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-020",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Aitana Bonmatí' does not match the explanation, which supports 'India and Sri Lanka'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-024",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'England' does not match the explanation, which supports 'Donald Trump'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-027",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' does not match the explanation, which supports 'Pope Leo XIV (Robert Prevost)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-028",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'March 2025' does not match the explanation, which supports '8 May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-029",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '28 July 2025' does not match the explanation, which supports '21 April 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-030",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Bishnu Prasad Paudel' does not match the explanation, which supports 'Operation Sindoor'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-032",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Boeing 787 Dreamliner' does not match the explanation, which supports '10 May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-033",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'María Corina Machado' does not match the explanation, which supports 'Friedrich Merz'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-036",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'María Corina Machado' does not match the explanation, which supports 'Mark Carney'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-039",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Jannik Sinner' does not match the explanation, which supports 'Sanae Takaichi'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-040",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '14 April 2025' does not match the explanation, which supports '21 October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-041",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Adrien Brody (The Brutalist)' does not match the explanation, which supports 'Liberal Democratic Party (LDP)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-042",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Lando Norris' does not match the explanation, which supports 'Lee Jae-myung'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-043",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Explanation supports two options; '3 June 2025' is the more specific/correct one (keyed '7 May 2025').",
+      "source": "Lee Jae-myung won the South Korean presidential election 3 June 2025"
+    },
+    {
+      "id": "CURH-045",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Tottenham Hotspur' does not match the explanation, which supports 'Ahmed al-Sharaa'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-046",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '3 June 2025' does not match the explanation, which supports '29 January 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-048",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' does not match the explanation, which supports 'October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-057",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '28 April 2025' does not match the explanation, which supports 'April–October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-058",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'US $11,000' does not match the explanation, which supports 'October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-059",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Paris Saint-Germain (PSG)' does not match the explanation, which supports 'María Corina Machado'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-060",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'June 2025' does not match the explanation, which supports 'October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-061",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Much lower training cost' does not match the explanation, which supports 'Venezuela'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-063",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Not Like Us by Kendrick Lamar' does not match the explanation, which supports 'Macroscopic quantum mechanical tunnelling in an electric circuit'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-064",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '7 January 2025' does not match the explanation, which supports 'October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-069",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '21 May 2025' does not match the explanation, which supports 'October 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-070",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Pakistan' does not match the explanation, which supports 'Hungary'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-071",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '31 times' does not match the explanation, which supports 'Joel Mokyr, Philippe Aghion and Peter Howitt'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-077",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'DeepSeek' does not match the explanation, which supports 'Fátima Bosch of Mexico'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-080",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Christian Democratic Union (CDU)' does not match the explanation, which supports 'India'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-081",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'September 2025' does not match the explanation, which supports '9 March 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-082",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'About $4.2 trillion' does not match the explanation, which supports 'New Zealand by 4 wickets'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-084",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '31 May 2025' does not match the explanation, which supports '2 November 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-092",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Lando Norris' does not match the explanation, which supports 'Chelsea'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-093",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Explanation supports two options; '13 July 2025' is the more specific/correct one (keyed '20 May 2025').",
+      "source": "FIFA Club World Cup final 13 July 2025 (Chelsea beat PSG 3-0)"
+    },
+    {
+      "id": "CURH-095",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Sabita Bhandari' does not match the explanation, which supports 'Paris Saint-Germain (PSG)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-099",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '12 June 2025' does not match the explanation, which supports '21 May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-104",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'DeepSeek' does not match the explanation, which supports 'Iga Świątek'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-106",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Computer science' does not match the explanation, which supports 'Amanda Anisimova'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-107",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Lando Norris' does not match the explanation, which supports 'Carlos Alcaraz'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-110",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'OpenAI' does not match the explanation, which supports 'Jannik Sinner'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-114",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '23 February 2025' does not match the explanation, which supports 'June 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-115",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'McLaren' does not match the explanation, which supports 'Jannik Sinner'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-118",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Nepal' does not match the explanation, which supports 'McLaren'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-121",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Hay'at Tahrir al-Sham (HTS)' does not match the explanation, which supports 'Aitana Bonmatí'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-122",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Cowboy Carter by Beyoncé' does not match the explanation, which supports 'Anora'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-123",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '13 July 2025' does not match the explanation, which supports '2 March 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-127",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Liberal Democratic Party (LDP)' does not match the explanation, which supports 'Indiana Pacers'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-129",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'August 2025' does not match the explanation, which supports '27 July 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-131",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'OpenAI' does not match the explanation, which supports 'South Africa'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-133",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Spain (on penalties)' does not match the explanation, which supports 'Australia'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-134",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' does not match the explanation, which supports '31 times'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-135",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '13 July 2025' does not match the explanation, which supports 'May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-136",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Hungary' does not match the explanation, which supports 'Nepal'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-137",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Donald Trump' does not match the explanation, which supports 'DeepSeek'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-145",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '28 July 2025' does not match the explanation, which supports 'Axiom Mission 4'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-147",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'February 2025' does not match the explanation, which supports 'November 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-148",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '7 January 2025' does not match the explanation, which supports 'The Amazon'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-149",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Cambodia' does not match the explanation, which supports 'India'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-150",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'January 2025' does not match the explanation, which supports 'May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-154",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Democratic Party' does not match the explanation, which supports 'Computer science'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-155",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Climate change, mountains and the future of humanity' does not match the explanation, which supports 'New Shepard NS-31 (with Katy Perry)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-157",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Boeing 787 Dreamliner' does not match the explanation, which supports 'About 11 minutes'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-158",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'John Clarke, Michel Devoret and John M. Martinis' does not match the explanation, which supports 'US $15,000'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-159",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'July 2025' does not match the explanation, which supports 'September 2025'.",
+      "source": "Nepal government announcement Jan 2025; new Everest permit fee US $15,000 effective 1 Sep 2025"
+    },
+    {
+      "id": "CURH-160",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'About $4.2 trillion' does not match the explanation, which supports 'US $11,000'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-161",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'María Corina Machado' does not match the explanation, which supports 'Anthony Albanese'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-162",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'September 2025' does not match the explanation, which supports '3 May 2025'.",
+      "source": "Australian federal election, 3 May 2025 (Albanese re-elected)"
+    },
+    {
+      "id": "CURH-165",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '3 May 2025' does not match the explanation, which supports 'May 2025'.",
+      "source": "The Hindu / Reuters, 20 May 2025 (Munir promoted to Field Marshal 20 May 2025)"
+    },
+    {
+      "id": "CURH-168",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '21 May 2025' does not match the explanation, which supports 'August 2025'.",
+      "source": "India-England five-Test series ended drawn 2-2, final Test 31 Jul-4 Aug 2025"
+    },
+    {
+      "id": "CURH-169",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Chelsea won 3–0' does not match the explanation, which supports 'The Oval, London'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-172",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'They were released in October 2025' does not match the explanation, which supports 'Not Like Us by Kendrick Lamar'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-173",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Asim Munir' does not match the explanation, which supports 'Masaki Kashiwara'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-174",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'April–October 2025' does not match the explanation, which supports 'March 2025'.",
+      "source": "Abel Prize 2025 announced 26 March 2025 (Masaki Kashiwara)"
+    },
+    {
+      "id": "CURH-175",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Punjab Kings' does not match the explanation, which supports 'Japan'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-176",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'OpenAI' does not match the explanation, which supports 'Kulman Ghising'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-180",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '6 May 2025' does not match the explanation, which supports 'February 2025'.",
+      "source": "Ne Zha 2 overtook Inside Out 2 as highest-grossing animated film, 18 Feb 2025"
+    },
+    {
+      "id": "CURH-181",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Liberal Democratic Party (LDP)' does not match the explanation, which supports 'China'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-182",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'US $15,000' does not match the explanation, which supports '28 March 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-183",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '20 May 2025' does not match the explanation, which supports '28 March 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-186",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '29 January 2025' does not match the explanation, which supports '7 January 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-187",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Chief Justice of Nepal (2016–2017)' does not match the explanation, which supports 'At least 126'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-188",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Lee Jae-myung' does not match the explanation, which supports 'Los Angeles'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-190",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'The Amazon' does not match the explanation, which supports '7 January 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-194",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Shubhanshu Shukla' does not match the explanation, which supports 'Christian Democratic Union (CDU)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-199",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Axiom Mission 4' does not match the explanation, which supports '28 July 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-200",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Alain Aspect, John Clauser and Anton Zeilinger' does not match the explanation, which supports 'John Clarke, Michel Devoret and John M. Martinis'.",
+      "source": "2025 Nobel Prize in Physics: John Clarke, Michel Devoret and John Martinis (macroscopic quantum tunnelling)"
+    },
+    {
+      "id": "CURH-204",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Smallest unit of life' does not match the explanation, which supports 'Newton's second law of motion'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-205",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the 1971 international treaty for the conservation of wetlands' does not match the explanation, which supports 'every action has an equal and opposite reaction'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-207",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the system of interlinked web pages invented by Tim Berners-Lee' does not match the explanation, which supports 'every mass attracts every other mass with a force proportional to their masses'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-210",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Main greenhouse gas from human activity' does not match the explanation, which supports 'Ohm's law'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-211",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the buoyant force on a body equals the weight of the fluid it displaces' does not match the explanation, which supports 'approximately 3 × 10^8 metres per second'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-212",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Noble gases' does not match the explanation, which supports 'Speed of light in vacuum'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-214",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Internet of Things (IoT)' does not match the explanation, which supports 'Acceleration due to gravity on Earth'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-215",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'approximately 3 × 10^8 metres per second' does not match the explanation, which supports 'the newton (N)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-220",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Unit of pressure' does not match the explanation, which supports 'Unit of power'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-222",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'World Wide Web' does not match the explanation, which supports 'Unit of electric current'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-224",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Ramsar Convention' does not match the explanation, which supports 'Unit of frequency'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-225",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'random access memory, the temporary memory of a computer' does not match the explanation, which supports 'the pascal (Pa)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-226",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Powerhouse of the cell' does not match the explanation, which supports 'Unit of pressure'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-227",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Hypertext Transfer Protocol, used to transfer web pages' does not match the explanation, which supports 'the buoyant force on a body equals the weight of the fluid it displaces'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-228",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Unit of electric current' does not match the explanation, which supports 'Archimedes' principle'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-229",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'blood group AB positive' does not match the explanation, which supports 'in a flowing fluid, higher speed means lower pressure'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-232",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Binary number system' does not match the explanation, which supports 'Doppler effect'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-233",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the base-2 system using only 0 and 1' does not match the explanation, which supports 'the emission of electrons from a material when light falls on it'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-234",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Binary number system' does not match the explanation, which supports 'Photoelectric effect'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-235",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the central processing unit, the brain of a computer' does not match the explanation, which supports 'light is fully reflected inside a medium when the angle of incidence exceeds the critical angle'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-238",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Newton's third law of motion' does not match the explanation, which supports 'Refraction of light'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-239",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the central processing unit, the brain of a computer' does not match the explanation, which supports 'the coulomb (C)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-240",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Rusting of iron' does not match the explanation, which supports 'Unit of electric charge'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-242",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'World Environment Day' does not match the explanation, which supports 'pH of a neutral solution'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-243",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Explanation supports 'Au' (short option missed by the key scramble; keyed 'deoxyribonucleic acid, the molecule that carries genetic information').",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-244",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Refraction of light' does not match the explanation, which supports 'Chemical symbol of gold'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-245",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Explanation supports '6' (short option missed by the key scramble; keyed 'every action has an equal and opposite reaction').",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-247",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '4' does not match the explanation, which supports 'sodium chloride (NaCl)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-248",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Haemoglobin' does not match the explanation, which supports 'Common salt'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-249",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'deoxyribonucleic acid, the molecule that carries genetic information' does not match the explanation, which supports 'sodium bicarbonate (NaHCO3)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-250",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Unit of electric current' does not match the explanation, which supports 'Baking soda'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-251",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the ampere (A)' does not match the explanation, which supports 'sodium carbonate (Na2CO3)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-254",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Acid present in the human stomach' does not match the explanation, which supports 'Vinegar'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-256",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Washing soda' does not match the explanation, which supports 'Rusting of iron'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-258",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Internet of Things (IoT)' does not match the explanation, which supports 'Avogadro's number'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-259",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'a distributed digital ledger technology that records transactions securely' does not match the explanation, which supports 'the gases of group 18, such as helium, neon and argon, which rarely react'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-261",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'chlorofluorocarbons (CFCs)' does not match the explanation, which supports 'diamond'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-264",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Insulin' does not match the explanation, which supports 'Acid present in the human stomach'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-265",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Explanation supports 'O3' (short option missed by the key scramble; keyed '6').",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-266",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Unit of frequency' does not match the explanation, which supports 'Chemical formula of ozone'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-268",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Acid present in the human stomach' does not match the explanation, which supports 'A catalyst'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-275",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'random access memory, the temporary memory of a computer' does not match the explanation, which supports 'deoxyribonucleic acid, the molecule that carries genetic information'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-277",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Explanation supports '4' (short option missed by the key scramble; keyed 'blood group AB positive').",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-278",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'HTTP' does not match the explanation, which supports 'Number of chambers in the human heart'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-279",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the 1997 agreement under which developed countries committed to reduce greenhouse gas emissions' does not match the explanation, which supports 'about 7.4'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-280",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Washing soda' does not match the explanation, which supports 'Normal pH of human blood'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-281",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '7' does not match the explanation, which supports 'blood group O negative'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-285",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '4' does not match the explanation, which supports 'scurvy'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-286",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Number of chambers in the human heart' does not match the explanation, which supports 'Disease caused by vitamin C deficiency'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-287",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the femur (thigh bone)' does not match the explanation, which supports 'rickets'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-289",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the total greenhouse gas emissions caused by a person, product or activity' does not match the explanation, which supports 'the hormone that regulates blood sugar; its deficiency causes diabetes'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-294",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Artificial Intelligence (AI)' does not match the explanation, which supports 'Smallest unit of life'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-296",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'CPU' does not match the explanation, which supports 'Gregor Mendel'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-298",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Main cause of ozone layer depletion' does not match the explanation, which supports 'Number of chromosomes in a human body cell'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-299",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the mitochondria, which produce energy (ATP) for the cell' does not match the explanation, which supports 'vitamin K'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-302",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Bernoulli's principle' does not match the explanation, which supports 'Largest organ of the human body'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-303",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the 2015 agreement to limit global warming to well below 2°C above pre-industrial levels' does not match the explanation, which supports 'the femur (thigh bone)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-307",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '46 (23 pairs)' does not match the explanation, which supports 'a disease caused by Plasmodium parasites transmitted by female Anopheles mosquitoes'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-309",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the base-2 system using only 0 and 1' does not match the explanation, which supports 'a disease caused by the human immunodeficiency virus (HIV)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-311",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'sodium chloride (NaCl)' does not match the explanation, which supports 'the 2015 agreement to limit global warming to well below 2°C above pre-industrial levels'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-314",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Blockchain' does not match the explanation, which supports 'Main cause of ozone layer depletion'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-315",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'force equals mass multiplied by acceleration (F = ma)' does not match the explanation, which supports 'carbon dioxide'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-317",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the change in frequency of a wave due to relative motion between source and observer' does not match the explanation, which supports 'the 1971 international treaty for the conservation of wetlands'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-318",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Doppler effect' does not match the explanation, which supports 'Ramsar Convention'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-319",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the 1973 forest conservation movement in India in which people hugged trees to prevent felling' does not match the explanation, which supports '5 June every year'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-321",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'voltage equals current multiplied by resistance (V = IR)' does not match the explanation, which supports 'the 1997 agreement under which developed countries committed to reduce greenhouse gas emissions'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-323",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the mitochondria, which produce energy (ATP) for the cell' does not match the explanation, which supports 'the 1987 agreement to protect the ozone layer by phasing out ozone-depleting substances'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-325",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'a region with many endemic species that is under serious threat' does not match the explanation, which supports 'the 1973 forest conservation movement in India in which people hugged trees to prevent felling'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-327",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the total greenhouse gas emissions caused by a person, product or activity' does not match the explanation, which supports 'a region with many endemic species that is under serious threat'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-333",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '46 (23 pairs)' does not match the explanation, which supports 'the central processing unit, the brain of a computer'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-334",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Atomic number of carbon' does not match the explanation, which supports 'CPU'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-337",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'approximately 6.022 × 10^23 particles per mole' does not match the explanation, which supports 'random access memory, the temporary memory of a computer'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-338",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Avogadro's number' does not match the explanation, which supports 'RAM'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-342",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Washing soda' does not match the explanation, which supports 'Artificial Intelligence (AI)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-345",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'force equals mass multiplied by acceleration (F = ma)' does not match the explanation, which supports 'the fifth generation of mobile network technology'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-346",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Explanation supports '5G' (short option missed by the key scramble; keyed 'Newton's first law of motion').",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-348",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Montreal Protocol' does not match the explanation, which supports 'Blockchain'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-351",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Explanation supports two options; '1956 AD (2013 BS)' is the more specific/correct one (keyed 'the rate at which the central bank borrows money from commercial banks').",
+      "source": "Nepal Rastra Bank established 26 April 1956 (14 Baisakh 2013 BS)"
+    },
+    {
+      "id": "CURH-352",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Budget deficit' does not match the explanation, which supports 'Year Nepal Rastra Bank was established'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-353",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Nepal Rastra Bank' does not match the explanation, which supports 'Nepal Bank Limited (established 1937 AD / 1994 BS)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-354",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Year Nepal Rastra Bank was established' does not match the explanation, which supports 'First commercial bank of Nepal'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-357",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'a general rise in the prices of goods and services over time' does not match the explanation, which supports 'Rs 1.964 trillion'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-358",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Inflation' does not match the explanation, which supports 'Total size of Nepal's budget for fiscal year 2082/83'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-359",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the responsiveness of demand to a change in price' does not match the explanation, which supports 'Rs 407.89 billion'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-362",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Trade balance' does not match the explanation, which supports 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-363",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Established 1985; headquarters in Kathmandu, Nepal' does not match the explanation, which supports 'Finance Minister Bishnu Prasad Paudel, on 29 May 2025'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-364",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Year SAARC was established and where its headquarters is' does not match the explanation, which supports 'Person who presented Nepal's budget for fiscal year 2082/83'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-365",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'a general fall in the prices of goods and services' does not match the explanation, which supports 'Fiscal years 2081/82 to 2085/86'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-366",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Nepal's stock exchange' does not match the explanation, which supports 'Period of Nepal's 16th Periodic Plan'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-368",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Mixed economy' does not match the explanation, which supports 'Year Nepal joined the World Trade Organization (WTO)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-369",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Petroleum products' does not match the explanation, which supports 'Established 1985; headquarters in Kathmandu, Nepal'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-370",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Nepal's largest import item' does not match the explanation, which supports 'Year SAARC was established and where its headquarters is'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-371",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'a general rise in the prices of goods and services over time' does not match the explanation, which supports '1997'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-373",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed '1956 AD (2013 BS)' does not match the explanation, which supports 'India'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-376",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Recession' does not match the explanation, which supports 'Nepal's largest source of foreign exchange'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-377",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Nepal Rastra Bank' does not match the explanation, which supports '16 July (1 Shrawan)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-378",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83' does not match the explanation, which supports 'Start of Nepal's fiscal year'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-381",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '2004, as the 147th member and the first least developed country' does not match the explanation, which supports '1956 (2013 BS)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-382",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Nepal's largest source of foreign exchange' does not match the explanation, which supports 'Year the National Planning Commission of Nepal was established'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-383",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the amount by which government expenditure exceeds revenue' does not match the explanation, which supports '1956–1961'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-387",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'About 20.27 percent' does not match the explanation, which supports 'Nepal Stock Exchange (NEPSE), established 1993'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-388",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Macroeconomics' does not match the explanation, which supports 'Nepal's stock exchange'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-389",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the total value of goods and services produced within a country in a year' does not match the explanation, which supports 'Securities Board of Nepal (SEBON)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-391",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the rate at which the central bank borrows money from commercial banks' does not match the explanation, which supports 'Rastriya Banijya Bank'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-398",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Gulf countries and Malaysia' does not match the explanation, which supports 'Nepal Rastra Bank'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-399",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83' does not match the explanation, which supports 'Institution that manages Nepal's foreign exchange reserves'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-400",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Rs 1.180 trillion' does not match the explanation, which supports 'Economic Survey'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-404",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'About one-fourth (around 25 percent)' does not match the explanation, which supports 'About 20.27 percent'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-405",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Socialism' does not match the explanation, which supports 'Poverty rate in Nepal as per the Nepal Living Standards Survey 2022/23'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-407",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Human Development Index (HDI)' does not match the explanation, which supports 'Share of agriculture in Nepal's GDP'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-409",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Mixed economy' does not match the explanation, which supports 'Theoretical hydropower potential of Nepal'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-411",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Capital expenditure in Nepal's budget for fiscal year 2082/83' does not match the explanation, which supports 'Tourist arrivals in Nepal in 2024'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-412",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the theory that government spending can lift an economy out of recession' does not match the explanation, which supports 'Petroleum products'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-413",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Statutory Liquidity Ratio (SLR)' does not match the explanation, which supports 'Nepal's largest import item'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-414",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the study of individual consumers, firms and markets' does not match the explanation, which supports 'A large trade deficit — imports far exceed exports'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-416",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'an economic system based on social or state ownership of the means of production' does not match the explanation, which supports 'Gulf countries and Malaysia'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-418",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Gulf countries and Malaysia' does not match the explanation, which supports 'Nepal Rastra Bank Act, 2058 (2002)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-423",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Gross Domestic Product (GDP)' does not match the explanation, which supports 'Cash Reserve Ratio (CRR)'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-426",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed '1956–1961' does not match the explanation, which supports 'the rate at which the central bank lends money to commercial banks'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-427",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Period of Nepal's First Five-Year Plan' does not match the explanation, which supports 'Repo rate'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-429",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Governor of Nepal Rastra Bank appointed in May 2025' does not match the explanation, which supports 'Reverse repo rate'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-430",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'the quantity of a good producers are willing and able to sell at a given price' does not match the explanation, which supports 'government policy on taxation and public spending'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-431",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Supply' does not match the explanation, which supports 'Fiscal policy'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-432",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '1997' does not match the explanation, which supports 'central bank policy on money supply and interest rates'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-438",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'the theory of surplus value and class struggle in capitalism' does not match the explanation, which supports 'total national income divided by the population'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-445",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Adam Smith' does not match the explanation, which supports 'Demand'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-449",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Inflation' does not match the explanation, which supports 'Elasticity of demand'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-454",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'an economy in which prices are determined by supply and demand' does not match the explanation, which supports 'the total income earned by the residents of a country in a year'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-455",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Budget deficit' does not match the explanation, which supports 'National income'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-456",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Nepal Rastra Bank' does not match the explanation, which supports 'the amount by which government expenditure exceeds revenue'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-460",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Petroleum products' does not match the explanation, which supports 'investment by a foreign entity in a business in another country'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-465",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'Institution that manages Nepal's foreign exchange reserves' does not match the explanation, which supports 'Trade balance'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-467",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'John Maynard Keynes' does not match the explanation, which supports 'Current account'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-473",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Karl Marx' does not match the explanation, which supports 'Recession'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-476",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'investment by a foreign entity in a business in another country' does not match the explanation, which supports 'an economy in which prices are determined by supply and demand'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-477",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Exchange rate arrangement of the Nepali rupee with the Indian rupee' does not match the explanation, which supports 'Market economy'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-480",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the share of deposits banks must keep with the central bank' does not match the explanation, which supports 'an economic system based on private ownership of the means of production'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-481",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Capital expenditure in Nepal's budget for fiscal year 2082/83' does not match the explanation, which supports 'Capitalism'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-484",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed '1968 (2024 BS)' does not match the explanation, which supports 'the study of individual consumers, firms and markets'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-485",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Year the Agricultural Development Bank of Nepal was established' does not match the explanation, which supports 'Microeconomics'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-486",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'a general fall in the prices of goods and services' does not match the explanation, which supports 'the study of the economy as a whole'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-488",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'central bank policy on money supply and interest rates' does not match the explanation, which supports 'a composite measure of health, education and income published by the UNDP'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-490",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'a significant decline in economic activity, often two quarters of falling GDP' does not match the explanation, which supports 'a tax that takes a larger share of income as income rises'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-494",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'the principles of supply and demand and the concept of consumer surplus' does not match the explanation, which supports 'the theory that government spending can lift an economy out of recession'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-496",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Keyed 'other things equal, demand falls as price rises and rises as price falls' does not match the explanation, which supports 'the theory of surplus value and class struggle in capitalism'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-497",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Keyed 'Law of demand' does not match the explanation, which supports 'Karl Marx'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-499",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Keyed 'Gross National Product (GNP)' does not match the explanation, which supports 'Alfred Marshall'.",
+      "source": "Item explanation + verified 2025/2026 news record (audit search, Oct 2026)"
+    },
+    {
+      "id": "CURH-102",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Both 'July 2025' and '13 July 2025' are correct answers (Wimbledon men's final was 13 July 2025); the precise date is the unambiguous key.",
+      "source": "Wimbledon men's final 13 July 2025 (Sinner beat Alcaraz); both 'July 2025' and '13 July 2025' are correct, precise date is the unambiguous key"
+    },
+    {
+      "id": "CURH-189",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Both 'January 2025' and '7 January 2025' are correct (LA wildfires began 7 January 2025); the precise date is the unambiguous key.",
+      "source": "Los Angeles wildfires began 7 January 2025; both 'January 2025' and '7 January 2025' are correct, precise date is the unambiguous key"
+    },
+    {
+      "id": "R6B-L-233",
+      "file": "expansion-r6b-language.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Nepali has only two genders (R6B-L-476) and 'किताब' is masculine (पुलिङ्ग); keyed नपुंसकलिङ्ग, which does not exist as a Nepali gender. NEP3-216 also keys किताब as पुलिङ्ग.",
+      "source": "Nepali grammar (two-gender system); cross-checked against NEP3-216 and R6B-L-476 in the same bank"
+    },
+    {
+      "id": "R6B-L-233",
+      "file": "expansion-r6b-language.json",
+      "field": "explanation",
+      "new_value": "'किताब' पुलिङ्ग शब्द हो।",
+      "reason": "Explanation repeats the wrong gender; corrected to पुलिङ्ग.",
+      "source": "Nepali grammar"
+    },
+    {
+      "id": "R6B-L-233",
+      "file": "expansion-r6b-language.json",
+      "field": "explanation_ne",
+      "new_value": "'किताब' पुलिङ्ग शब्द हो।",
+      "reason": "Explanation repeats the wrong gender; corrected to पुलिङ्ग.",
+      "source": "Nepali grammar"
+    },
+    {
+      "id": "NEP2-288",
+      "file": "expansion-nepali-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Nepal's first magazine (पत्रिका) is Sudha Sagar (सुधासागर), first published Shrawan 1955 BS (1898). Gorkhapatra (1901) is the first newspaper (समाचारपत्र), not the first magazine. The bank itself distinguishes this: R6B-L-462 keys 'पहिलो समाचारपत्र' as Gorkhapatra.",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar; Cambridge paper on Nepali print history"
+    },
+    {
+      "id": "NEP2-288",
+      "file": "expansion-nepali-v2.json",
+      "field": "explanation",
+      "new_value": "सुधासागर नेपालको पहिलो पत्रिका हो (वि.सं. १९५५)। गोरखापत्र (वि.सं. १९५८) नेपालको पहिलो समाचारपत्र हो।",
+      "reason": "Explanation names the wrong publication; corrected to Sudha Sagar with the newspaper/magazine distinction.",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar"
+    },
+    {
+      "id": "NEP2-288",
+      "file": "expansion-nepali-v2.json",
+      "field": "explanation_ne",
+      "new_value": "सुधासागर नेपालको पहिलो पत्रिका हो (वि.सं. १९५५)। गोरखापत्र (वि.सं. १९५८) नेपालको पहिलो समाचारपत्र हो।",
+      "reason": "Explanation names the wrong publication; corrected to Sudha Sagar with the newspaper/magazine distinction.",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar"
+    },
+    {
+      "id": "R6B-L-273",
+      "file": "expansion-r6b-language.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Nepal's first magazine (पत्रिका) is Sudha Sagar (सुधा सागर), Shrawan 1955 BS (1898). Gorkhapatra (1901) is the first newspaper, not the first magazine.",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar; Cambridge paper on Nepali print history"
+    },
+    {
+      "id": "R6B-L-273",
+      "file": "expansion-r6b-language.json",
+      "field": "explanation",
+      "new_value": "'सुधा सागर' नेपाली भाषाको पहिलो पत्रिका हो (वि.सं. १९५५, श्रावण)।",
+      "reason": "Explanation names Gorkhapatra and cites 1958, the newspaper's start; corrected to Sudha Sagar (1955 BS).",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar"
+    },
+    {
+      "id": "R6B-L-273",
+      "file": "expansion-r6b-language.json",
+      "field": "explanation_ne",
+      "new_value": "'सुधा सागर' नेपाली भाषाको पहिलो पत्रिका हो (वि.सं. १९५५, श्रावण)।",
+      "reason": "Explanation names Gorkhapatra and cites 1958, the newspaper's start; corrected to Sudha Sagar (1955 BS).",
+      "source": "Wikipedia 'List of newspapers in Nepal'; OnlineKhabar"
+    },
+    {
+      "id": "NTEL5-005",
+      "file": "expansion-r5-foreign-telecom.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "'Namaste' is Nepal Telecom's prepaid GSM mobile brand; 'Sky Phone' is the CDMA brand. The fixed-line PSTN service (Basic Telephony) has no brand name, so 'PSTN only' is the correct option.",
+      "source": "Nepal Telecom service list / FreeDictionary PSTN entry"
+    },
+    {
+      "id": "NTEL5-005",
+      "file": "expansion-r5-foreign-telecom.json",
+      "field": "explanation",
+      "new_value": "Nepal Telecom's fixed-line service is PSTN (Basic Telephony) with no brand name; 'Namaste' is the prepaid GSM mobile brand and 'Sky Phone' is the CDMA brand.",
+      "reason": "Explanation wrongly claims the fixed line is marketed under the Namaste brand.",
+      "source": "Nepal Telecom service list"
+    },
+    {
+      "id": "NTEL5-005",
+      "file": "expansion-r5-foreign-telecom.json",
+      "field": "explanation_ne",
+      "new_value": "नेपाल टेलिकमको स्थिर लाइन सेवा PSTN (बेसिक टेलिफोनी) हो, यसको कुनै ब्रान्ड नाम छैन; 'नमस्ते' प्रिपेड GSM मोबाइल ब्रान्ड हो र 'स्काई फोन' CDMA ब्रान्ड हो।",
+      "reason": "Explanation wrongly claims the fixed line is marketed under the Namaste brand.",
+      "source": "Nepal Telecom service list"
+    },
+    {
+      "id": "NT2-080",
+      "file": "expansion-foreign-telecom.json",
+      "field": "question",
+      "new_value": "Which part is called the 'brain' of the computer?",
+      "reason": "The CPU is not a memory; the stem wrongly calls it one. Intended answer (CPU) is correct — only the wording is fixed.",
+      "source": "Standard computer knowledge"
+    },
+    {
+      "id": "NT2-080",
+      "file": "expansion-foreign-telecom.json",
+      "field": "question_ne",
+      "new_value": "कम्प्युटरको 'मस्तिष्क' कुन भागलाई भनिन्छ?",
+      "reason": "The CPU is not a memory; the Nepali stem wrongly calls it one. Intended answer (CPU) is correct — only the wording is fixed.",
+      "source": "Standard computer knowledge"
+    },
+    {
+      "id": "CA4-012",
+      "file": "expansion-foreign-telecom.json",
+      "field": "options",
+      "new_value": [
+        "98",
+        "87",
+        "182",
+        "140"
+      ],
+      "reason": "RSP won 182 of 275 seats (125 FPTP + 57 PR), not 124; 182 was not among the options. Keyed index 2 is unchanged — the option text at that index is corrected.",
+      "source": "CNBC TV18, 13 Mar 2026; Xinhua; Election Commission of Nepal results"
+    },
+    {
+      "id": "CA4-012",
+      "file": "expansion-foreign-telecom.json",
+      "field": "options_ne",
+      "new_value": [
+        "९८",
+        "८७",
+        "१८२",
+        "१४०"
+      ],
+      "reason": "RSP won 182 of 275 seats, not 124; 182 was not among the options.",
+      "source": "CNBC TV18, 13 Mar 2026; Election Commission of Nepal results"
+    },
+    {
+      "id": "CA4-012",
+      "file": "expansion-foreign-telecom.json",
+      "field": "explanation",
+      "new_value": "The RSP won 182 of the 275 seats in the House of Representatives in the 5 March 2026 election.",
+      "reason": "Explanation states the wrong seat count (124).",
+      "source": "CNBC TV18, 13 Mar 2026; Election Commission of Nepal results"
+    },
+    {
+      "id": "CA4-012",
+      "file": "expansion-foreign-telecom.json",
+      "field": "explanation_ne",
+      "new_value": "रास्वपाले ५ मार्च २०२६ को निर्वाचनमा प्रतिनिधि सभाका २७५ सिटमध्ये १८२ सिट जित्यो।",
+      "reason": "Explanation states the wrong seat count (124).",
+      "source": "CNBC TV18, 13 Mar 2026; Election Commission of Nepal results"
+    },
+    {
+      "id": "R7B-639",
+      "file": "expansion-r7b-current.json",
+      "field": "question",
+      "new_value": "Who became the youngest person to climb all 14 eight-thousanders? (He completed the feat in October 2024 at age 18.)",
+      "reason": "Stem is self-contradictory: it says 'In May 2025' but the feat was completed in October 2024 (per the stem's own parenthetical and the explanation). Answer (Nima Rinji Sherpa) is correct.",
+      "source": "Item explanation; Nima Rinji Sherpa summited Shishapangma in October 2024, aged 18"
+    },
+    {
+      "id": "R7B-639",
+      "file": "expansion-r7b-current.json",
+      "field": "question_ne",
+      "new_value": "सबै १४ आठहजारी शिखर आरोहण गर्ने सबैभन्दा कान्छो व्यक्ति को हुन्? (उनले अक्टोबर २०२४ मा १८ वर्षको उमेरमा यो कीर्तिमान पूरा गरेका थिए।)",
+      "reason": "Nepali stem also says 'मे २०२५ सम्ममा' (by May 2025) although the feat was completed in October 2024. Answer is correct.",
+      "source": "Item explanation"
+    },
+    {
+      "id": "R7B-681",
+      "file": "expansion-r7b-current.json",
+      "field": "question",
+      "new_value": "In 2024, which mission became the first to return samples from the far side of the Moon?",
+      "reason": "Stem says 'In 2025' but Chang'e-6 returned the samples in June 2024 (per the option text and the explanation). Answer is correct.",
+      "source": "Item explanation; Chang'e-6 returned far-side samples in June 2024"
+    },
+    {
+      "id": "R7B-681",
+      "file": "expansion-r7b-current.json",
+      "field": "question_ne",
+      "new_value": "सन् २०२४ मा चन्द्रमाको टाढाको भागबाट नमुना फिर्ता ल्याउने पहिलो अभियान कुन हो?",
+      "reason": "Nepali stem says 'सन् २०२५ सम्म' (by 2025) although the first return was in June 2024. Answer is correct.",
+      "source": "Item explanation"
+    }
+  ],
+  "funfact_fixes": [
+    {
+      "id": "FF-330",
+      "field": "fact_en",
+      "new_value": "Simone Biles is the most decorated gymnast in history, with 41 Olympic and World Championship medals.",
+      "reason": "Count is stale: 32 was her total after 2019. She now has 41 combined Olympic and World Championship medals (11 Olympic + 30 World), after Tokyo 2020, the 2023 Worlds and Paris 2024."
+    },
+    {
+      "id": "FF-330",
+      "field": "fact_ne",
+      "new_value": "सिमोन बाइल्स इतिहासकी सबैभन्दा बढी पदक जित्ने जिमनास्ट हुन् — ओलम्पिक र विश्व च्याम्पियनसिपमा गरी ४१ पदक।",
+      "reason": "Count is stale (32); correct combined total is 41 (11 Olympic + 30 World)."
+    },
+    {
+      "id": "FF-039",
+      "field": "fact_en",
+      "new_value": "Kami Rita Sherpa holds the record for the most Everest summits — 32 climbs, most recently in May 2026.",
+      "reason": "Vague and stale: 'more than two dozen' no longer reflects the record. He completed his 31st summit on 27 May 2025 and his 32nd on 17 May 2026."
+    },
+    {
+      "id": "FF-039",
+      "field": "fact_ne",
+      "new_value": "कामी रिता शेर्पाले सगरमाथा सबैभन्दा धेरै पटक — ३२ पटक, पछिल्लो पटक मे २०२६ मा — आरोहण गरेको कीर्तिमान राखेका छन्।",
+      "reason": "Vague and stale ('दुई दर्जनभन्दा बढी'); current record is 32 summits, most recently 17 May 2026."
+    }
+  ],
+  "removals": [
+    {
+      "id": "CURH-352",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-354",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-356",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-358",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-360",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-362",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-364",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-366",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-368",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-370",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-372",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-374",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-376",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-378",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-380",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-382",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-384",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-386",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-388",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-390",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-392",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-394",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-395",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-397",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-399",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-401",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-403",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-405",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-407",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-409",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-411",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-413",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-415",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-417",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-419",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    },
+    {
+      "id": "CURH-421",
+      "file": "expansion-current-hard.json",
+      "reason": "Degenerate label question: the 'correct' option merely repeats the stem label; the same fact is already properly tested by the paired 'What is the X?' question. Half of these are keyed to the label and half keyed wrong — remove rather than re-key."
+    }
+  ],
+  "funfact_removals": [
+    {
+      "id": "FF-393",
+      "reason": "Duplicate of FF-150: both state Angel Falls (979 m) is the tallest/highest waterfall in the world. Keep FF-150 (Geography); remove this World-category copy."
+    }
+  ],
+  "unverifiable": [
+    {
+      "id": "R6B-L-482",
+      "reason": "Vowel-count convention conflict: R6B-L-482 keys 12 vowels (12 + 33 + 1 अयोगवाह = 46, per R6B-L-484's explanation) while NEP-013 keys 13 vowels (13 + 33 = 46). Sources genuinely disagree (11 core vowels; 13 counting अं/अः — ResearchGate paper, NepaliGo). Do not change one item; harmonise the bank to one convention (recommend 13 + 33 = 46)."
+    },
+    {
+      "id": "NT2-001",
+      "reason": "Contradicts NTEL5-040: this item keys 1916 for the first telephone line in Kathmandu (matches Nepal Telecom's own milestone list: first line 1916, Kathmandu-Raxaul trunk 1917), while NTEL5-040 keys 1913 (matches Wikipedia 'Telecommunications in Nepal' / OnlineKhabar: first telephone lines in Kathmandu 1913, trunk link 1914). Bank should adopt one source convention and drop/reword the other."
+    },
+    {
+      "id": "NTEL5-040",
+      "reason": "Contradicts NT2-001 (see above): keys 1913 for the first telephone service while NT2-001 keys 1916 for the first telephone line. Both dates have reputable sources; bank should adopt one convention and drop/reword the other."
+    },
+    {
+      "id": "NTEL5-041",
+      "reason": "Keyed 1913 for the first telegraph service, but 1913 is the telephone-lines date. No source confirms 1913 for telegraph: Wikipedia's telecom timeline lists '1950 Establishment of Telegram Service' and philatelic sources date the first telegraph line to 1917. Needs a source decision before re-keying (1950 and 1917 are both plausible)."
+    }
+  ]
+}

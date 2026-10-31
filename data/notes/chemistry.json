@@ -1,0 +1,58 @@
+{
+  "slug": "chemistry",
+  "topic": "Chemistry",
+  "title_en": "Chemistry — one-pager",
+  "title_ne": "रसायनशास्त्र — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Ideal gas law: PV = nRT. R = 8.314 J·mol⁻¹·K⁻¹ = 0.0821 L·atm·mol⁻¹·K⁻¹.",
+      "ne": "आदर्श ग्यास नियम: PV = nRT। R = 8.314 J·mol⁻¹·K⁻¹ = 0.0821 L·atm·mol⁻¹·K⁻¹।"
+    },
+    {
+      "en": "pH = −log[H⁺]; pOH = −log[OH⁻]; Kw = 1×10⁻¹⁴ at 25°C (298 K).",
+      "ne": "pH = −log[H⁺]; pOH = −log[OH⁻]; 25°C (298 K) मा Kw = 1×10⁻¹⁴।"
+    },
+    {
+      "en": "Avogadro's number = 6.022×10²³; moles = mass ÷ molar mass.",
+      "ne": "एभोगाड्रो सङ्ख्या = 6.022×10²³; मोल = पिण्ड ÷ मोलर पिण्ड।"
+    },
+    {
+      "en": "Photosynthesis: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (oxygen is released).",
+      "ne": "प्रकाश संश्लेषण: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (अक्सिजन निस्कन्छ)।"
+    },
+    {
+      "en": "Wurtz reaction: 2RX + 2Na (dry ether) → R−R (a symmetrical alkane).",
+      "ne": "वुर्ट्ज अभिक्रिया: 2RX + 2Na (सुक्खा इथर) → R−R (सममित एल्केन)।"
+    },
+    {
+      "en": "Zero order: rate = k, half-life t½ = [A]₀/2k. First order: rate = k[A].",
+      "ne": "शून्य कोटि: दर = k, अर्धायू t½ = [A]₀/2k। प्रथम कोटि: दर = k[A]।"
+    },
+    {
+      "en": "A hydrogen fuel cell converts H₂ + O₂ chemical energy into electricity (used in the Apollo missions).",
+      "ne": "हाइड्रोजन इन्धन सेलले H₂ + O₂ को रासायनिक ऊर्जालाई विद्युत्मा बदल्छ (अपोलो अभियानमा प्रयोग)।"
+    },
+    {
+      "en": "Atomic numbers: H 1, He 2, C 6, N 7, O 8, Na 11, Cl 17, K 19.",
+      "ne": "परमाणु सङ्ख्या: H 1, He 2, C 6, N 7, O 8, Na 11, Cl 17, K 19।"
+    },
+    {
+      "en": "Common acids: citric (citrus fruits), acetic (vinegar), hydrochloric (stomach).",
+      "ne": "सामान्य अम्ल: सिट्रिक (अमिलो फल), एसेटिक (सिरका), हाइड्रोक्लोरिक (पेट)।"
+    },
+    {
+      "en": "The pH scale was introduced by Sørensen (1909).",
+      "ne": "pH स्केल सरेन्सनले ल्याएका हुन् (1909)।"
+    },
+    {
+      "en": "Most reactive metals: K, Na (alkali metals); noble gases are inert.",
+      "ne": "सबैभन्दा क्रियाशील धातु: K, Na (क्षार धातु); अक्रिय ग्यास निष्क्रिय।"
+    },
+    {
+      "en": "Water: H₂O; electrolysis of water gives H₂ and O₂ in a 2:1 ratio.",
+      "ne": "पानी: H₂O; पानीको विद्युत् विश्लेषणले H₂ र O₂ 2:1 अनुपातमा दिन्छ।"
+    }
+  ]
+}

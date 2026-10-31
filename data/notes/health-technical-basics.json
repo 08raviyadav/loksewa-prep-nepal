@@ -1,0 +1,58 @@
+{
+  "slug": "health-technical-basics",
+  "topic": "Health/Technical basics",
+  "title_en": "Health / Technical Basics — one-pager",
+  "title_ne": "स्वास्थ्य/प्राविधिक आधारभूत — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "AB positive = universal recipient; O negative = universal donor.",
+      "ne": "AB positive = सर्वग्राही (universal recipient); O negative = सर्वदाता (universal donor)।"
+    },
+    {
+      "en": "Normal vitals: BP 120/80 mmHg; pulse 60–100/min; body temperature 37°C (98.6°F).",
+      "ne": "सामान्य मान: रक्तचाप 120/80 mmHg; नाडी 60–100/मिनेट; शरीरको तापक्रम 37°C (98.6°F)।"
+    },
+    {
+      "en": "Vitamin A → night blindness; C → scurvy; D → rickets; K → blood clotting; B1 → beriberi.",
+      "ne": "भिटामिन A → रतन्धो; C → स्कर्भी; D → रिकेट्स; K → रगत जम्ने; B1 → बेरीबेरी।"
+    },
+    {
+      "en": "Deworming: albendazole for children aged 12 months–5 years, every 6 months (with vitamin A).",
+      "ne": "जुकाको औषधि: 12 महिना–5 वर्षका बालबालिकालाई अल्बेन्डाजोल, हरेक 6 महिनामा (भिटामिन A सहित)।"
+    },
+    {
+      "en": "BCG vaccine at birth protects against TB; ORS (Jeevan Jal) treats dehydration from diarrhoea.",
+      "ne": "जन्मिँदा BCG खोप (क्षयरोगविरुद्ध); झाडापखालाको निर्जलीकरणमा ORS (जीवनजल)।"
+    },
+    {
+      "en": "FCHV = Female Community Health Volunteer — Nepal's grassroots health workers.",
+      "ne": "FCHV = महिला सामुदायिक स्वास्थ्य स्वयंसेविका — नेपालका गाउँस्तरीय स्वास्थ्यकर्मी।"
+    },
+    {
+      "en": "Tilganga Institute of Ophthalmology: famous for low-cost cataract surgery and intraocular lens production.",
+      "ne": "तिलगंगा आँखा प्रतिष्ठान: सस्तो मोतियाबिन्दु शल्यक्रिया र लेन्स उत्पादनका लागि प्रसिद्ध।"
+    },
+    {
+      "en": "Parkinson's disease: tremor, rigidity, bradykinesia (slow movement), postural instability.",
+      "ne": "पार्किन्सन्स रोग: काम्ने, जडता, ढिलो चाल, सन्तुलन गुम्ने।"
+    },
+    {
+      "en": "Diabetes = high blood sugar (an insulin problem); hypertension = high blood pressure.",
+      "ne": "मधुमेह = रगतमा चिनी बढी (इन्सुलिन समस्या); उच्च रक्तचाप = hypertension।"
+    },
+    {
+      "en": "Anaemia = low haemoglobin (iron deficiency); goitre = iodine deficiency.",
+      "ne": "रक्तअल्पता = हेमोग्लोबिन कम (आइरन कमी); गलगाँड = आयोडिन कमी।"
+    },
+    {
+      "en": "First aid for sprains: RICE — Rest, Ice, Compression, Elevation.",
+      "ne": "मर्केको प्राथमिक उपचार: RICE — आराम, बरफ, कसिलो बाँध्ने, उचाइमा राख्ने।"
+    },
+    {
+      "en": "HIV spreads through blood, unprotected sex and mother-to-child — NOT by touch or sharing food.",
+      "ne": "HIV रगत, असुरक्षित यौन र आमा–शिशुबाट सर्छ — छोएर वा खाना बाँडेर सर्दैन।"
+    }
+  ]
+}

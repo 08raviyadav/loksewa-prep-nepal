@@ -1,0 +1,1311 @@
+{
+ "worker": "maths-iq",
+ "checked": 3676,
+ "fixes": [
+  {
+   "id": "HARD2-001",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Series x2+1: 127x2+1=255, not 254."
+  },
+  {
+   "id": "HARD2-002",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Series x2-1: 129x2-1=257, not 254."
+  },
+  {
+   "id": "HARD2-004",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Series x3-2: 730x3-2=2188, not 2187."
+  },
+  {
+   "id": "HARD2-006",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Series x3-4: 245x3-4=731, not 732."
+  },
+  {
+   "id": "HARD2-009",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Series x3+1: 1336x3+1=4009, not 4006."
+  },
+  {
+   "id": "HARD2-011",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Prime diffs +2,+3,+5,+7,+11, next +13: 32+13=45, not 43."
+  },
+  {
+   "id": "HARD2-012",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Prime diffs +3,+5,+7,+11,+13, next +17: 49+17=66, not 64."
+  },
+  {
+   "id": "HARD2-015",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Prime diffs +7,+11,+13,+17,+19, next +23: 74+23=97, not 99."
+  },
+  {
+   "id": "HARD2-016",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Terms are n^2+n: next 7^2+7=56, not 62."
+  },
+  {
+   "id": "HARD2-017",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Terms are n^2+n: next 8^2+8=72, not 84."
+  },
+  {
+   "id": "HARD2-020",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Interleaved odd positions +4: 13+4=17, not 27."
+  },
+  {
+   "id": "HARD2-021",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Interleaved odd positions +7: 17+7=24, not 27."
+  },
+  {
+   "id": "HARD2-022",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Interleaved odd positions +3: 17+3=20, not 17."
+  },
+  {
+   "id": "HARD2-024",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Interleaved odd positions +5: 30+5=35, not 38."
+  },
+  {
+   "id": "HARD2-026",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Diffs double: next diff 96, 98+96=194, not 198."
+  },
+  {
+   "id": "HARD2-027",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Diffs double: next diff 128, 134+128=262, not 258."
+  },
+  {
+   "id": "HARD2-028",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Diffs double: next diff 160, 157+160=317, not 313."
+  },
+  {
+   "id": "HARD2-029",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Diffs double: next diff 64, 69+64=133, not 129."
+  },
+  {
+   "id": "HARD2-030",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Fibonacci-like: 13+21=34, not 32."
+  },
+  {
+   "id": "HARD2-032",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Fibonacci-like: 21+34=55, not 57."
+  },
+  {
+   "id": "HARD2-038",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Terms are n^2+1: next 10^2+1=101, not 114."
+  },
+  {
+   "id": "HARD2-039",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Terms are n^2-2: next 11^2-2=119, not 132."
+  },
+  {
+   "id": "HARD2-119",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "N5,E3,S2 -> 3 km north and 3 km east, not 3 km north and 3 km west."
+  },
+  {
+   "id": "HARD2-120",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "E6,N4,W2,S1 -> 3 km north and 4 km east, not 5 km north and 4 km east."
+  },
+  {
+   "id": "HARD2-122",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "W8,S5,E3,N2 -> 3 km south and 5 km west, not 3 km south and 5 km east."
+  },
+  {
+   "id": "HARD2-128",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "N8,W3,S5,E6 -> 3 km north and 3 km east, not 5 km north and 3 km east."
+  },
+  {
+   "id": "HARD2-140",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "5^2+2=27, so 7^2+2=51, not 53."
+  },
+  {
+   "id": "HARD2-141",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Young dog is a puppy, not a lamb."
+  },
+  {
+   "id": "HARD2-143",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "8^3=512, so 9^3=729, not 810."
+  },
+  {
+   "id": "HARD2-145",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "3^3+3=30, so 5^3+5=130, not 120."
+  },
+  {
+   "id": "HARD2-147",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Position from left = 53-19+1 = 35th, not 34th."
+  },
+  {
+   "id": "HARD2-150",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Position from right = 49-16+1 = 34th, not 33rd."
+  },
+  {
+   "id": "HARD2-152",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "|30x7-5.5x25| = 72.5 degrees, not 57.5."
+  },
+  {
+   "id": "HARD2-155",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "|30x5-5.5x55| = 152.5 degrees, not 167.5."
+  },
+  {
+   "id": "HARD2-158",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "15% of 900 = 135, not 125."
+  },
+  {
+   "id": "HARD2-160",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "12% of 1250 = 150, not 140."
+  },
+  {
+   "id": "HARD2-161",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "35% of 1400 = 490, not 500."
+  },
+  {
+   "id": "HARD2-163",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "20% of 1250 = 250, not 240."
+  },
+  {
+   "id": "HARD2-164",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "75% of 960 = 720, not 710."
+  },
+  {
+   "id": "HARD2-165",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "30% of 1450 = 435, not 445."
+  },
+  {
+   "id": "HARD2-168",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "24% of 1750 = 420, not 410."
+  },
+  {
+   "id": "HARD2-169",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "36% of 2250 = 810, not 820."
+  },
+  {
+   "id": "HARD2-171",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "16% of 1875 = 300, not 310."
+  },
+  {
+   "id": "HARD2-177",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "1200 x 120/100 = Rs 1440, not Rs 1490."
+  },
+  {
+   "id": "HARD2-178",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "500 x 140/100 = Rs 700, not Rs 750."
+  },
+  {
+   "id": "HARD2-180",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "900 x 130/100 = Rs 1170, not Rs 900."
+  },
+  {
+   "id": "HARD2-182",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "700 x 120/100 = Rs 840, not Rs 890."
+  },
+  {
+   "id": "HARD2-184",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "1100 x 110/100 = Rs 1210, not Rs 1160."
+  },
+  {
+   "id": "HARD2-185",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "2500 x 120/100 = Rs 3000, not Rs 2500."
+  },
+  {
+   "id": "HARD2-187",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "1800 x 130/100 = Rs 2340, not Rs 1800."
+  },
+  {
+   "id": "HARD2-190",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "2200 x 110/100 = Rs 2420, not Rs 2200."
+  },
+  {
+   "id": "HARD2-191",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "1300 x 120/100 = Rs 1560, not Rs 1510."
+  },
+  {
+   "id": "HARD2-193",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "2400 x 125/100 = Rs 3000, not Rs 2950."
+  },
+  {
+   "id": "HARD2-199",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "2100 x 130/100 = Rs 2730, not Rs 2780."
+  },
+  {
+   "id": "HARD2-200",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "2750 x 120/100 = Rs 3300, not Rs 3350."
+  },
+  {
+   "id": "HARD2-203",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "SI = 15000x10x2/100 = Rs 3000, not Rs 2900."
+  },
+  {
+   "id": "HARD2-204",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "SI = 20000x5x2/100 = Rs 2000, not Rs 1900."
+  },
+  {
+   "id": "HARD2-206",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "SI = 6000x10x3/100 = Rs 1800, not Rs 1900."
+  },
+  {
+   "id": "HARD2-208",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "SI = 18000x5x2/100 = Rs 1800, not Rs 900."
+  },
+  {
+   "id": "HARD2-209",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "SI = 9000x20x2/100 = Rs 3600, not Rs 3700."
+  },
+  {
+   "id": "HARD2-210",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "SI = 14000x10x3/100 = Rs 4200, not Rs 4300."
+  },
+  {
+   "id": "HARD2-211",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "SI = 30000x5x2/100 = Rs 3000, not Rs 3100."
+  },
+  {
+   "id": "HARD2-212",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "SI = 11000x10x2/100 = Rs 2200, not Rs 1100."
+  },
+  {
+   "id": "HARD2-213",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "SI = 16000x15x2/100 = Rs 4800, not Rs 2400."
+  },
+  {
+   "id": "HARD2-214",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "SI = 7000x10x2/100 = Rs 1400, not Rs 700."
+  },
+  {
+   "id": "HARD2-217",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Amount 20000x1.05^2=22050, CI=Rs 2050, not Rs 1950."
+  },
+  {
+   "id": "HARD2-223",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Amount 25000x1.20^2=36000, CI=Rs 11000, not Rs 11100."
+  },
+  {
+   "id": "HARD2-225",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Amount 18000x1.10^2=21780, CI=Rs 3780, not Rs 3680."
+  },
+  {
+   "id": "HARD2-226",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Together 1/10+1/15=1/6 per day, so 6 days, not 25 days."
+  },
+  {
+   "id": "HARD2-227",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Together 1/12+1/18=5/36 per day, so 36/5 days, not 30 days."
+  },
+  {
+   "id": "HARD2-229",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Together 1/20+1/30=1/12 per day, so 12 days, not 50 days."
+  },
+  {
+   "id": "HARD2-230",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Together 1/6+1/12=1/4 per day, so 4 days, not 9 days."
+  },
+  {
+   "id": "HARD2-231",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Together 1/15+1/20=7/60 per day, so 60/7 days, not 15 days."
+  },
+  {
+   "id": "HARD2-234",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Together 1/10+1/20=3/20 per day, so 20/3 days, not 30 days."
+  },
+  {
+   "id": "HARD2-236",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "10x12=120 man-days; 15 men take 120/15=8 days, not 18 days."
+  },
+  {
+   "id": "HARD2-237",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "8x15=120 man-days; 12 men take 120/12=10 days, not 15 days."
+  },
+  {
+   "id": "HARD2-238",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "20x6=120 man-days; 10 men take 120/10=12 days, not 13 days."
+  },
+  {
+   "id": "HARD2-239",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "12x9=108 man-days; 18 men take 108/18=6 days, not 9 days."
+  },
+  {
+   "id": "HARD2-241",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "6x20=120 man-days; 10 men take 120/10=12 days, not 13 days."
+  },
+  {
+   "id": "HARD2-244",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "18x8=144 man-days; 12 men take 144/12=12 days, not 13 days."
+  },
+  {
+   "id": "HARD2-245",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "25x12=300 man-days; 15 men take 300/15=20 days, not 7 days."
+  },
+  {
+   "id": "HARD2-247",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "45x4=180 km, not 49 km."
+  },
+  {
+   "id": "HARD2-248",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "80x2=160 km, not 130 km."
+  },
+  {
+   "id": "HARD2-249",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "50x5=250 km, not 280 km."
+  },
+  {
+   "id": "HARD2-252",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "90x4=360 km, not 330 km."
+  },
+  {
+   "id": "HARD2-254",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "40x7=280 km, not 250 km."
+  },
+  {
+   "id": "HARD2-255",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "65x4=260 km, not 69 km."
+  },
+  {
+   "id": "HARD2-256",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "75x2=150 km, not 120 km."
+  },
+  {
+   "id": "HARD2-263",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "A's share = 1500x3/5 = Rs 900, not Rs 300."
+  },
+  {
+   "id": "HARD2-270",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "A's share = 2100x2/7 = Rs 600, not Rs 300."
+  },
+  {
+   "id": "HARD2-272",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "A's share = 2700x4/9 = Rs 1200, not Rs 1300."
+  },
+  {
+   "id": "HARD2-273",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "A's share = 1100x3/11 = Rs 300, not Rs 800."
+  },
+  {
+   "id": "HARD2-276",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Average of first 10 naturals = (10+1)/2 = 11/2, not 10."
+  },
+  {
+   "id": "HARD2-280",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Average of first 50 naturals = 51/2, not 25."
+  },
+  {
+   "id": "HARD2-283",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Average of first 80 naturals = 81/2, not 41."
+  },
+  {
+   "id": "HARD2-285",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Average of first 100 naturals = 101/2, not 100."
+  },
+  {
+   "id": "HARD2-286",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rectangle 12x8 = 96 sq m, not 40 sq m."
+  },
+  {
+   "id": "HARD2-287",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "Rectangle 15x10 = 150 sq m, not 160 sq m."
+  },
+  {
+   "id": "HARD2-289",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Rectangle 18x12 = 216 sq m, not 60 sq m."
+  },
+  {
+   "id": "HARD2-290",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rectangle 25x16 = 400 sq m, not 41 sq m."
+  },
+  {
+   "id": "HARD2-292",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Circle r=14: (22/7)x14x14 = 616 sq cm, not 88 sq cm."
+  },
+  {
+   "id": "HARD2-294",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Circle r=28: (22/7)x28x28 = 2464 sq cm, not 176 sq cm."
+  },
+  {
+   "id": "HARD2-061",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "SUN->UWP is +2; MOON+2 = OQQP, not QSSR."
+  },
+  {
+   "id": "HARD2-062",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "PEN->UJS is +5; TREE+5 = YWJJ, not AYLL."
+  },
+  {
+   "id": "HARD2-063",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "BOOK->DQQM is +2; ROAD+2 = TQCF, not VSEH."
+  },
+  {
+   "id": "HARD2-065",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "KING->OMRK is +4; GOLD+4 = KSPH, not LTQI."
+  },
+  {
+   "id": "HARD2-066",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "LION->NKQP is +2; IRON+2 = KTQP, not LURQ."
+  },
+  {
+   "id": "HARD2-067",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "BALL->EDOO is +3; MILK+3 = PLON, not RNQP."
+  },
+  {
+   "id": "HARD2-068",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "STAR->XYFW is +5; WIND+5 = BNSI, not AMRH."
+  },
+  {
+   "id": "HARD2-074",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "IRON->LURQ is +3; DEER+3 = GHHU, not IJJW."
+  },
+  {
+   "id": "HARD2-075",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "MILK->QMPO is +4; FROG+4 = JVSK, not IURJ."
+  },
+  {
+   "id": "HARD2-076",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "WIND->YKPF is +2; BEAR+2 = DGCT, not CFBS."
+  },
+  {
+   "id": "HARD2-077",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "FIRE->ILUH is +3; WOLF+3 = ZROI, not BTQK."
+  },
+  {
+   "id": "HARD2-079",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "RICE->ULFH is +3; CAT+3 = FDW, not HFY."
+  },
+  {
+   "id": "HARD2-084",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "BEAR->DGCT is +2; FISH+2 = HKUJ, not JMWL."
+  },
+  {
+   "id": "HARD2-048",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "+6 steps: D,J,P,V,B,H -> next N (H+6), not O."
+  },
+  {
+   "id": "HARD2-052",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Steps repeat [3,1,4]: Q+4 = U, not V."
+  },
+  {
+   "id": "HARD2-053",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Steps repeat [5,-2,5]: M+5 = R, not P."
+  },
+  {
+   "id": "HARD2-087",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Father's sister's daughter is a cousin, not a sister."
+  },
+  {
+   "id": "HARD2-088",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "D is the child of A's sibling B, so D is A's nephew or niece, not uncle."
+  },
+  {
+   "id": "HARD2-089",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Sita is the mother of Gita's father, so she is Gita's grandmother, not sister."
+  },
+  {
+   "id": "HARD2-091",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "P (Q's son) and S (R's child), Q and R siblings: P and S are cousins, not nephew."
+  },
+  {
+   "id": "HARD2-093",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "X and W are the parents of Y and Z, so W is X's wife, not sister."
+  },
+  {
+   "id": "HARD2-095",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "N is P's daughter-in-law, so N's brother M is P's son-in-law, not nephew."
+  },
+  {
+   "id": "HARD2-096",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "P+Q (father) and Q-R (sister): P is the father of Q and R, not the brother of Q."
+  },
+  {
+   "id": "HARD2-097",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Father's sister's daughter's brother is the aunt's son: a cousin, not a brother."
+  },
+  {
+   "id": "HARD2-099",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "S is the daughter of U, V's brother, so S is V's niece, not daughter."
+  },
+  {
+   "id": "HARD2-101",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "L is N's aunt (M's sister), so L's husband K is N's uncle, not grandfather."
+  },
+  {
+   "id": "HARD2-129",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "121,144,169 are squares; 190 is the odd one, not 144."
+  },
+  {
+   "id": "HARD2-130",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "8,27,64 are cubes; 100 is the odd one, not 8."
+  },
+  {
+   "id": "HARD2-131",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "2,3,5 are prime; 9 is the odd one, not 2."
+  },
+  {
+   "id": "HARD2-132",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Triangle, square, rectangle are polygons; circle is the odd one, not square."
+  },
+  {
+   "id": "HARD2-133",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "January, March, May have 31 days; June (30 days) is the odd one, not January."
+  },
+  {
+   "id": "HARD2-135",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Mango, apple, banana are fruits; potato is the odd one, not mango."
+  },
+  {
+   "id": "HARD2-137",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Pen, pencil, eraser are writing tools; book is the odd one, not pencil."
+  },
+  {
+   "id": "HARD2-138",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "27,125,216 are cubes; 200 is the odd one, not 27."
+  },
+  {
+   "id": "HARD2-103",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Some cats are dogs and all dogs are animals, so only conclusion I follows, not 'Neither follows'."
+  },
+  {
+   "id": "HARD2-104",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "I does not follow (a pen could be an eraser); II follows (some erasers are pencils). Only II follows."
+  },
+  {
+   "id": "HARD2-105",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 2,
+   "reason": "Neither conclusion follows (successful hardworking people need not be students)."
+  },
+  {
+   "id": "HARD2-112",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "The black birds are not fish, so only conclusion I follows, not 'Only II follows'."
+  },
+  {
+   "id": "HARD2-114",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "The engineer-managers are not clerks, so only conclusion I follows, not 'Neither follows'."
+  },
+  {
+   "id": "HARD2-115",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Neither conclusion follows (teaching women need not be mothers; teachers include men)."
+  },
+  {
+   "id": "HARD2-116",
+   "file": "expansion-hard-core-v2.json",
+   "field": "answer",
+   "new_value": 3,
+   "reason": "All politicians are honest and no honest person is corrupt, so only conclusion I follows."
+  },
+  {
+   "id": "HARD5-343",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 700 in ratio 4:3: shares 400 and 300; smaller share is 300, not 400."
+  },
+  {
+   "id": "HARD5-352",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 180 in ratio 5:4: shares 100 and 80; smaller share is 80, not 100."
+  },
+  {
+   "id": "HARD5-353",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 225 in ratio 5:4: shares 125 and 100; smaller share is 100, not 125."
+  },
+  {
+   "id": "HARD5-354",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Rs 900 in ratio 5:4: shares 500 and 400; smaller share is 400, not 500."
+  },
+  {
+   "id": "HARD5-356",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 175 in ratio 4:3: shares 100 and 75; smaller share is 75, not 100."
+  },
+  {
+   "id": "HARD5-360",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 210 in ratio 4:3: shares 120 and 90; smaller share is 90, not 120."
+  },
+  {
+   "id": "HARD5-362",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 0,
+   "reason": "Rs 360 in ratio 5:4: shares 200 and 160; smaller share is 160, not 200."
+  },
+  {
+   "id": "HARD5-364",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "answer",
+   "new_value": 1,
+   "reason": "Rs 450 in ratio 5:4: shares 250 and 200; smaller share is 200, not 250."
+  },
+  {
+   "id": "HARD5-343",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 7; one part = 700/7 = 100; smaller share = 100 x 3 = Rs 300.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-343",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ७; एक भाग = ७००/७ = १००; सानो भाग = १०० × ३ = रु ३००।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-352",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 9; one part = 180/9 = 20; smaller share = 20 x 4 = Rs 80.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-352",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ९; एक भाग = १८०/९ = २०; सानो भाग = २० × ४ = रु ८०।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-353",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 9; one part = 225/9 = 25; smaller share = 25 x 4 = Rs 100.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-353",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ९; एक भाग = २२५/९ = २५; सानो भाग = २५ × ४ = रु १००।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-354",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 9; one part = 900/9 = 100; smaller share = 100 x 4 = Rs 400.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-354",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ९; एक भाग = ९००/९ = १००; सानो भाग = १०० × ४ = रु ४००।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-356",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 7; one part = 175/7 = 25; smaller share = 25 x 3 = Rs 75.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-356",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ७; एक भाग = १७५/७ = २५; सानो भाग = २५ × ३ = रु ७५।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-360",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 7; one part = 210/7 = 30; smaller share = 30 x 3 = Rs 90.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-360",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ७; एक भाग = २१०/७ = ३०; सानो भाग = ३० × ३ = रु ९०।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-362",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 9; one part = 360/9 = 40; smaller share = 40 x 4 = Rs 160.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-362",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ९; एक भाग = ३६०/९ = ४०; सानो भाग = ४० × ४ = रु १६०।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-364",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation",
+   "new_value": "Total parts = 9; one part = 450/9 = 50; smaller share = 50 x 4 = Rs 200.",
+   "reason": "Explanation multiplied by the larger ratio part and called it the smaller share; corrected to the smaller part."
+  },
+  {
+   "id": "HARD5-364",
+   "file": "expansion-r5-maths-hard.json",
+   "field": "explanation_ne",
+   "new_value": "कुल भाग = ९; एक भाग = ४५०/९ = ५०; सानो भाग = ५० × ४ = रु २००।",
+   "reason": "Nepali explanation had the same larger-part error as the English one; corrected to the smaller part."
+  },
+  {
+   "id": "KHAR-2083-24",
+   "file": "previous-year-2083.json",
+   "field": "explanation",
+   "new_value": "First letters increase by 3 (B→E→H→K); third letters decrease by 4 (H→D→Z→V). So the missing term is HOZ.",
+   "reason": "Second-letter claim is false: E→I→O→U is +4,+6,+6, not a constant +4. The answer HOZ is still forced by the first and third letters, so only the explanation is fixed."
+  },
+  {
+   "id": "KHAR-2083-24",
+   "file": "previous-year-2083.json",
+   "field": "explanation_ne",
+   "new_value": "पहिलो अक्षर 3 ले बढ्छ (B→E→H→K); तेस्रो अक्षर 4 ले घट्छ (H→D→Z→V)। त्यसैले छुटेको पद HOZ हो।",
+   "reason": "Nepali explanation had the same false constant-+4 claim for the second letters; removed it."
+  },
+  {
+   "id": "IQ3-195",
+   "file": "expansion-core-hard.json",
+   "field": "explanation",
+   "new_value": "Each term is doubled and 3 is subtracted: 54×2−3=105, 105×2−3=207, and so on. Applying the same rule to the last term: 1635×2−3=3267.",
+   "reason": "Explanation never named the subtracted number (3) or the final value (3267); key (3267) was already correct."
+  },
+  {
+   "id": "IQ3-195",
+   "file": "expansion-core-hard.json",
+   "field": "explanation_ne",
+   "new_value": "प्रत्येक पद दोब्बर गरी ३ घटाइन्छ: ५४×२−३=१०५, १०५×२−३=२०७, आदि। अन्तिम पदमा उही नियम लगाउँदा: १६३५×२−३=३२६७।",
+   "reason": "Nepali explanation was equally incomplete; completed with the subtracted number and final value."
+  }
+ ],
+ "removals": [
+  {
+   "id": "HARD2-054",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +2,+5 steps: after +2 comes +5, so Q+5=V, which is not among the options (S,Q,U,T); the explanation also applies the wrong step (+2 -> S)."
+  },
+  {
+   "id": "HARD2-055",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +3,+6 steps: after +3 comes +6, so Y+6=E, which is not among the options (D,B,C,Z); the explanation also applies the wrong step (+3 -> B)."
+  },
+  {
+   "id": "HARD2-056",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +4,+1 steps: after +4 comes +1, so P+1=Q, which is not among the options (T,V,R,U); the explanation also applies the wrong step (+4 -> T)."
+  },
+  {
+   "id": "HARD2-057",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +5,+2 steps: after +5 comes +2, so C+2=E, which is not among the options (J,H,F,I); the explanation also applies the wrong step (+5 -> H)."
+  },
+  {
+   "id": "HARD2-058",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +7,+3 steps: after +7 comes +3, so D+3=G, which is not among the options (M,I,L,K); the explanation also applies the wrong step (+7 -> K)."
+  },
+  {
+   "id": "HARD2-117",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +2,+9 steps: after +2 comes +9, so D+9=M, which is not among the options (D,H,G,F); the explanation also applies the wrong step (+2 -> F)."
+  },
+  {
+   "id": "HARD2-118",
+   "file": "expansion-hard-core-v2.json",
+   "reason": "Alternating +4,+7 steps: after +4 comes +7, so I+7=P, which is not among the options (N,K,M,O); the explanation also applies the wrong step (+4 -> M)."
+  },
+  {
+   "id": "R6A-B453",
+   "file": "expansion-r6a-hard.json",
+   "reason": "FISH->GJTI is a uniform +1 shift, so BIRD+1 = CJSE, which is not among the options (CJSF, CJSA, CJSX, CJSZ)."
+  },
+  {
+   "id": "ARMY-077",
+   "file": "expansion-thin-exams.json",
+   "reason": "Milk:water 3:2 in 8 litres: milk = 3/5 x 8 = 4.8 litres, not among the options (4, 8, 3, 2). Explanation wrongly used 3/8 x 8."
+  },
+  {
+   "id": "ARMY-127",
+   "file": "expansion-thin-exams.json",
+   "reason": "Milk:water 6:2 in 14 litres: milk = 6/8 x 14 = 10.5 litres, not among the options (6, 14, 7, 2). Explanation wrongly used 6/14 x 14."
+  },
+  {
+   "id": "ARMY-129",
+   "file": "expansion-thin-exams.json",
+   "reason": "Milk:water 3:1 in 7 litres: milk = 3/4 x 7 = 5.25 litres, not among the options (4, 3, 7, 1). Explanation wrongly used 3/7 x 7."
+  },
+  {
+   "id": "ARMY-130",
+   "file": "expansion-thin-exams.json",
+   "reason": "Milk:water 7:5 in 19 litres: milk = 7/12 x 19 = 11.08 litres, not among the options (19, 5, 7, 8). Explanation wrongly used 7/19 x 19."
+  },
+  {
+   "id": "HARD5B-041",
+   "file": "expansion-r5-maths-hard.json",
+   "reason": "Exact CI on Rs 1000 at 5% for 2 years is Rs 102.50, not among the options; explanation falsely states 1000x1.05^2 = Rs 1102 (it is 1102.50)."
+  },
+  {
+   "id": "HARD5B-049",
+   "file": "expansion-r5-maths-hard.json",
+   "reason": "Exact CI on Rs 5000 at 5% for 2 years is Rs 512.50, not among the options; explanation falsely states 5000x1.05^2 = Rs 5512 (it is 5512.50)."
+  },
+  {
+   "id": "R6A-C065",
+   "file": "expansion-r6a-current.json",
+   "reason": "Exact CI on Rs 4000 at 5% for 3 years is Rs 630.50, not among the options; explanation falsely states 4000x1.05^3 = Rs 4631 (it is 4630.50)."
+  },
+  {
+   "id": "MATH3-028",
+   "file": "expansion-core-hard.json",
+   "reason": "Exact SP after 10% loss on Rs 629 is Rs 566.10, not among the options (570, 569, 568, 567); explanation falsely states 10% of 629 = 62 (it is 62.9)."
+  },
+  {
+   "id": "HARD5-100",
+   "file": "expansion-r5-maths-hard.json",
+   "reason": "Exact profit% on CP 250, SP 287 is 37/250x100 = 14.8%, not among the options; explanation falsely states it equals 15%."
+  },
+  {
+   "id": "HARD5-112",
+   "file": "expansion-r5-maths-hard.json",
+   "reason": "Exact loss% on CP 250, SP 212 is 38/250x100 = 15.2%, not among the options; explanation falsely states it equals 15%."
+  },
+  {
+   "id": "R7B-117",
+   "file": "expansion-r7b-core-hard.json",
+   "reason": "Exact profit% on CP 250, SP 287 is 37/250x100 = 14.8%, not among the options; explanation falsely states it equals 15%."
+  },
+  {
+   "id": "R7B-118",
+   "file": "expansion-r7b-core-hard.json",
+   "reason": "Exact profit% on CP 250, SP 312 is 62/250x100 = 24.8%, not among the options; explanation falsely states it equals 25%."
+  }
+ ],
+ "unverifiable": [
+  {
+   "id": "NASU-2083-31",
+   "reason": "Number-grid question: the stem gives two rows (12,26,11,36,9 over 7,a,b,c,d) and asks for (c), but no rule, figure or pattern is stated; the explanation only cites the paper's answer key (21). Cannot be recomputed from the stem alone."
+  }
+ ]
+}

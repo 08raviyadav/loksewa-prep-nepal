@@ -1,0 +1,50 @@
+{
+  "slug": "law",
+  "topic": "Law",
+  "title_en": "Law — one-pager",
+  "title_ne": "कानुन — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "A valid contract needs: free consent, capacity, lawful consideration, lawful object, and not expressly void.",
+      "ne": "मान्य करारका लागि: स्वतन्त्र सहमति, क्षमता, कानुनी प्रतिफल, कानुनी उद्देश्य, स्पष्टतः बदर नभएको।"
+    },
+    {
+      "en": "The Council of Ministers is collectively responsible to the House of Representatives.",
+      "ne": "मन्त्रिपरिषद् प्रतिनिधि सभाप्रति सामूहिक रूपमा उत्तरदायी हुन्छ।"
+    },
+    {
+      "en": "Pratiuttar (प्रतिउत्तर) = the defendant's written reply in a civil suit.",
+      "ne": "प्रतिउत्तर = देवानी मुद्दामा प्रतिवादीले दिने लिखित जवाफ।"
+    },
+    {
+      "en": "Ultra vires = beyond legal power; such an act is void.",
+      "ne": "अधिकारातीत (ultra vires) = कानुनी अधिकारभन्दा बाहिर; त्यस्तो कार्य बदर।"
+    },
+    {
+      "en": "Audi alteram partem = hear the other side (a rule of natural justice).",
+      "ne": "अर्को पक्षलाई पनि सुन्ने सिद्धान्त (audi alteram partem) = प्राकृतिक न्याय।"
+    },
+    {
+      "en": "Criminal trespass = unlawfully entering another's property intending to commit an offence.",
+      "ne": "आपराधिक अतिक्रमण = कसुर गर्ने नियतले अर्काको सम्पत्तिमा गैरकानुनी प्रवेश।"
+    },
+    {
+      "en": "A will (इच्छापत्र) vs intestate succession (अपूताली — dying without a will).",
+      "ne": "इच्छापत्र vs अपूताली (इच्छापत्र नछोडी मृत्यु हुँदाको उत्तराधिकार)।"
+    },
+    {
+      "en": "The burden of proof lies on the one who asserts a fact.",
+      "ne": "प्रमाणको भार तथ्य दाबी गर्नेमाथि हुन्छ।"
+    },
+    {
+      "en": "The Muluki Civil Code 2074 replaced the Muluki Ain of 2020 (in force from 2075-05-01).",
+      "ne": "मुलुकी देवानी संहिता 2074 ले 2020 को मुलुकी ऐन विस्थापित गर्‍यो (2075-05-01 देखि लागू)।"
+    },
+    {
+      "en": "Writs (Supreme Court, Art 133): habeas corpus, mandamus, certiorari, prohibition, quo warranto.",
+      "ne": "परमादेशहरू (सर्वोच्च अदालत, धारा 133): बन्दीप्रत्यक्षीकरण, परमादेश, उत्प्रेषण, प्रतिषेध, अधिकारपृच्छा।"
+    }
+  ]
+}

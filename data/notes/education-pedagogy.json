@@ -1,0 +1,58 @@
+{
+  "slug": "education-pedagogy",
+  "topic": "Education & Pedagogy",
+  "title_en": "Education & Pedagogy — one-pager",
+  "title_ne": "शिक्षा र शिक्षणशास्त्र — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Bandura: social learning theory; the Bobo doll experiment — children imitate observed aggression.",
+      "ne": "बान्डुरा: सामाजिक सिकाइ सिद्धान्त; बोबो डल प्रयोग — बालबालिकाले देखेको आक्रामकता नक्कल गर्छन्।"
+    },
+    {
+      "en": "Erikson: the adolescent's main task = identity vs role confusion.",
+      "ne": "एरिक्सन: किशोरावस्थाको मुख्य कार्य = पहिचान vs भूमिका भ्रम।"
+    },
+    {
+      "en": "Piaget's stages: sensorimotor → preoperational → concrete operational → formal operational.",
+      "ne": "पियाजेका चरण: सेन्सरीमोटर → प्रिअपरेशनल → कङ्क्रिट अपरेशनल → फर्मल अपरेशनल।"
+    },
+    {
+      "en": "Cephalocaudal: development proceeds head → toe. Proximodistal: centre → outward.",
+      "ne": "सेफालोकडल: विकास टाउको → खुट्टा। प्रोक्सिमोडिस्टल: केन्द्र → बाहिर।"
+    },
+    {
+      "en": "Bloom's taxonomy: remember, understand, apply, analyze, evaluate, create.",
+      "ne": "ब्लुमको वर्गीकरण: सम्झने, बुझ्ने, प्रयोग, विश्लेषण, मूल्याङ्कन, सिर्जना।"
+    },
+    {
+      "en": "Montessori: child-centred education — learning by doing.",
+      "ne": "मोन्टेसरी: बालकेन्द्रित शिक्षा — गरेर सिक्ने।"
+    },
+    {
+      "en": "TSC = Teacher Service Commission (शिक्षक सेवा आयोग); it runs the teacher licence exam.",
+      "ne": "TSC = शिक्षक सेवा आयोग; यसले शिक्षक लाइसेन्स परीक्षा सञ्चालन गर्छ।"
+    },
+    {
+      "en": "A good textbook: matches the curriculum, is clear and accurate, suits the learners' age.",
+      "ne": "राम्रो पाठ्यपुस्तक: पाठ्यक्रमसँग मिल्ने, स्पष्ट र सही, उमेरअनुकूल।"
+    },
+    {
+      "en": "Motivation: intrinsic (from within) vs extrinsic (rewards/punishment).",
+      "ne": "अभिप्रेरणा: आन्तरिक (भित्री) vs बाह्य (पुरस्कार/दण्ड)।"
+    },
+    {
+      "en": "Assessment: formative (during learning) vs summative (after learning).",
+      "ne": "मूल्याङ्कन: निर्माणात्मक (सिक्दासिक्दै) vs निर्णयात्मक (सिकेपछि)।"
+    },
+    {
+      "en": "Classroom management rests on clear rules, routines and engagement.",
+      "ne": "कक्षा व्यवस्थापन स्पष्ट नियम, दिनचर्या र सहभागितामा अडिन्छ।"
+    },
+    {
+      "en": "A computer helps a school keep records: easier to store, search and update.",
+      "ne": "कम्प्युटरले विद्यालयको अभिलेख राख्न सघाउँछ: भण्डारण, खोज, अद्यावधिक सजिलो।"
+    }
+  ]
+}

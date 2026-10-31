@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "date": "2026-10-31",
+    "audit": "answer-key audit",
+    "fixes": 17,
+    "drops": 42,
+    "note": "previous-year-2083.json (133 real Previous Year 2083 questions) verified intact, never modified."
+  },
+  "decisions": [
+    {
+      "id": "NEC-018",
+      "file": "expansion-entrance-licence.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 2,
+      "new_option": "10.5 N/mm²",
+      "reason": "Explanation states minimum compressive strength of first-class brick is about 10.5 N/mm2 (option C); key pointed at 7.5 (option B, second-class range). Key moved to option C."
+    },
+    {
+      "id": "R10-VOC5-0753",
+      "file": "expansion-r10-vocab5.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 2,
+      "new_option": "Whole",
+      "reason": "Antonym of 'element' is 'whole'; keyed 'Part' is a synonym of element."
+    },
+    {
+      "id": "MATH3-020",
+      "file": "expansion-core-hard.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 3,
+      "new_option": "296",
+      "reason": "269 x 1.10 = 295.9; nearest option is 296 (D). Keyed 295 came from truncating 26.9 to 26."
+    },
+    {
+      "id": "MATH3-031",
+      "file": "expansion-core-hard.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 3,
+      "new_option": "723",
+      "reason": "657 x 1.10 = 722.7; nearest option is 723 (D). Keyed 722 came from truncating 65.7 to 65."
+    },
+    {
+      "id": "MATH3-036",
+      "file": "expansion-core-hard.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 1,
+      "new_option": "812",
+      "reason": "738 x 1.10 = 811.8; nearest option is 812 (B). Keyed 811 came from truncating 73.8 to 73."
+    },
+    {
+      "id": "R11-MATH1-0258",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 2,
+      "new_answer": 3,
+      "new_option": "Rs 150",
+      "reason": "\"Smaller share\" of Rs 400 in ratio 5:3 is 400x3/8=150; generator keyed the larger share (400x5/8)."
+    },
+    {
+      "id": "R11-MATH1-0259",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 2,
+      "new_option": "Rs 225",
+      "reason": "\"Smaller share\" of Rs 600 in ratio 5:3 is 600x3/8=225; generator keyed the larger share (600x5/8)."
+    },
+    {
+      "id": "R11-MATH1-0260",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 2,
+      "new_answer": 0,
+      "new_option": "Rs 450",
+      "reason": "\"Smaller share\" of Rs 1200 in ratio 5:3 is 1200x3/8=450; generator keyed the larger share (1200x5/8)."
+    },
+    {
+      "id": "R11-MATH1-0261",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 2,
+      "new_answer": 3,
+      "new_option": "Rs 600",
+      "reason": "\"Smaller share\" of Rs 1600 in ratio 5:3 is 1600x3/8=600; generator keyed the larger share (1600x5/8)."
+    },
+    {
+      "id": "R11-MATH1-0262",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 3,
+      "new_answer": 1,
+      "new_option": "Rs 750",
+      "reason": "\"Smaller share\" of Rs 2000 in ratio 5:3 is 2000x3/8=750; generator keyed the larger share (2000x5/8)."
+    },
+    {
+      "id": "R11-MATH1-0263",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 3,
+      "new_option": "Rs 75",
+      "reason": "\"Smaller share\" of Rs 250 in ratio 7:3 is 250x3/10=75; generator keyed the larger share (250x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0264",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 3,
+      "new_option": "Rs 120",
+      "reason": "\"Smaller share\" of Rs 400 in ratio 7:3 is 400x3/10=120; generator keyed the larger share (400x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0265",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 0,
+      "new_option": "Rs 180",
+      "reason": "\"Smaller share\" of Rs 600 in ratio 7:3 is 600x3/10=180; generator keyed the larger share (600x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0266",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 3,
+      "new_option": "Rs 270",
+      "reason": "\"Smaller share\" of Rs 900 in ratio 7:3 is 900x3/10=270; generator keyed the larger share (900x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0267",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 1,
+      "new_option": "Rs 360",
+      "reason": "\"Smaller share\" of Rs 1200 in ratio 7:3 is 1200x3/10=360; generator keyed the larger share (1200x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0268",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 0,
+      "new_answer": 1,
+      "new_option": "Rs 480",
+      "reason": "\"Smaller share\" of Rs 1600 in ratio 7:3 is 1600x3/10=480; generator keyed the larger share (1600x7/10)."
+    },
+    {
+      "id": "R11-MATH1-0269",
+      "file": "expansion-r11-maths.json",
+      "action": "fix",
+      "old_answer": 1,
+      "new_answer": 2,
+      "new_option": "Rs 600",
+      "reason": "\"Smaller share\" of Rs 2000 in ratio 7:3 is 2000x3/10=600; generator keyed the larger share (2000x7/10)."
+    },
+    {
+      "id": "CURH-043",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "3 June 2025",
+      "reason": "options 'June 2025' and '3 June 2025' are both correct (Lee Jae-myung elected 3 June 2025)"
+    },
+    {
+      "id": "CURH-093",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 2,
+      "old_option": "13 July 2025",
+      "reason": "options '13 July 2025' and 'July 2025' are both correct (FIFA Club World Cup final 13 July 2025)"
+    },
+    {
+      "id": "CURH-102",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "13 July 2025",
+      "reason": "options '13 July 2025' and 'July 2025' are both correct (Wimbledon men's final 13 July 2025)"
+    },
+    {
+      "id": "CURH-189",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "7 January 2025",
+      "reason": "options '7 January 2025' and 'January 2025' are both correct (LA wildfires began 7 Jan 2025)"
+    },
+    {
+      "id": "CURH-195",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "23 February 2025",
+      "reason": "options '23 February 2025' and 'February 2025' are both correct (German federal election 23 Feb 2025)"
+    },
+    {
+      "id": "CURH-019",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 2,
+      "old_option": "October 2025",
+      "reason": "stem asks \"For which tournament did Nepal qualify?\" but all options are dates; no correct option"
+    },
+    {
+      "id": "CURH-135",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "May 2025",
+      "reason": "stem asks \"How many times had Kami Rita Sherpa climbed...\" but all options are dates; key just repeats the stem's \"by May\" fragment"
+    },
+    {
+      "id": "CURH-159",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "September 2025",
+      "reason": "stem asks \"permit fee rose to how much\" but all options are dates; key just repeats the stem's \"From September\" fragment"
+    },
+    {
+      "id": "CURH-168",
+      "file": "expansion-current-hard.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "August 2025",
+      "reason": "stem asks \"How did the five-Test series end?\" (drawn 2-2) but all options are dates; no correct option"
+    },
+    {
+      "id": "R10-M10-0546",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "25/3",
+      "reason": "options '50/6' and '25/3' are both equal to 25/3 (2 1/2 x 3 1/3)"
+    },
+    {
+      "id": "R10-M10-0547",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "21/2",
+      "reason": "options '21/2' and '63/6' are both equal to 21/2 (4 1/2 x 2 1/3)"
+    },
+    {
+      "id": "R10-M10-0548",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "20/3",
+      "reason": "options '40/6' and '20/3' are both equal to 20/3 (2 1/2 x 2 2/3)"
+    },
+    {
+      "id": "R10-M10-0549",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "10/3",
+      "reason": "options '20/6' and '10/3' are both equal to 10/3 (2 1/2 x 1 1/3)"
+    },
+    {
+      "id": "R10-M10-0550",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "21/2",
+      "reason": "options '21/2' and '126/12' are both equal to 21/2 (4 2/3 x 2 1/4)"
+    },
+    {
+      "id": "R10-M10-0551",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "13/3",
+      "reason": "options '13/3' and '52/12' are both equal to 13/3 (1 1/3 x 3 1/4)"
+    },
+    {
+      "id": "R10-M10-0552",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "28/3",
+      "reason": "options '28/3' and '56/6' are both equal to 28/3 (3 1/2 x 2 2/3)"
+    },
+    {
+      "id": "R10-M10-0554",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "6",
+      "reason": "options '36/6' and '6' are both equal to 6 (4 1/2 x 1 1/3)"
+    },
+    {
+      "id": "R10-M10-0555",
+      "file": "expansion-r10-maths10.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "35/4",
+      "reason": "options '105/12' and '35/4' are both equal to 35/4 (2 1/3 x 3 3/4)"
+    },
+    {
+      "id": "R10-M9-1180",
+      "file": "expansion-r10-maths9.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "1/2",
+      "reason": "options '1/2' and '3/6' are both equal to 1/2 (1/6 + 1/3)"
+    },
+    {
+      "id": "R10-M9-1181",
+      "file": "expansion-r10-maths9.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "2/3",
+      "reason": "options '2/3' and '4/6' are both equal to 2/3 (1/6 + 1/2)"
+    },
+    {
+      "id": "R10-IQ6-0211",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "22",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0212",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "-11",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0213",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "0",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0214",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "58",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0217",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "42",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0229",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "52",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0230",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "39",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0240",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "26",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0241",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "38",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0247",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 3,
+      "old_option": "50",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0250",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 2,
+      "old_option": "41",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0252",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "10",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0254",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "-22",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0255",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "23",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0257",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 2,
+      "old_option": "-19",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0264",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "40",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0266",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "2",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0267",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "61",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0271",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "-10",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0275",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 0,
+      "old_option": "48",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0276",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "37",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    },
+    {
+      "id": "R10-IQ6-0279",
+      "file": "expansion-r10-iq6.json",
+      "action": "drop",
+      "old_answer": 1,
+      "old_option": "31",
+      "reason": "subtract-consecutive-triangular-numbers generator bug: differences 10,6,3,1 (T4..T1) then negative-index wrap to T10=55; keyed last-55. True continuation (last-0) is not among options; no correct option"
+    }
+  ]
+}

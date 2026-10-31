@@ -1,0 +1,1256 @@
+[
+  {
+    "age": "18–35 (women / PWD: 40)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "SEE / SLC pass",
+    "final": "Computer Skills Test 10 + Interview 30",
+    "id": "kharidar",
+    "level": "Non-Gazetted 2nd Class, Level 4",
+    "main": "Paper II: Office Management (100, 2.5 hrs, pass 40) + Paper III: Job Knowledge (100, 2.5 hrs, pass 40)",
+    "name": "Kharidar",
+    "name_ne": "खरिदार",
+    "note": "Syllabus revised 2081/82: prelim is now 50×2 in 45 min (was 100×1 in 90 min before 2081). Prelim marks are qualifying only.",
+    "prelim": {
+      "breakdown": "GK 30 Q + Basic Office Skills (BOST) 20 Q",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "Nepal history, geography, society & culture",
+      "GK & current affairs",
+      "Constitution of Nepal 2072",
+      "Governance & public administration",
+      "Maths, reasoning & mental ability",
+      "Nepali language",
+      "Computer & IT basics"
+    ]
+  },
+  {
+    "age": "18–35 (women / PWD: 40)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "+2 / PCL",
+    "final": "Computer Skills Test 10 + Interview 30",
+    "id": "nasu",
+    "level": "Non-Gazetted 1st Class, Level 5",
+    "main": "Paper II: Contemporary Studies & Public Service Management (100, 2.5 hrs, pass 40) + Paper III: Service-Group paper (100, 2.5 hrs, pass 40)",
+    "name": "Nayab Subba (NaSu)",
+    "name_ne": "नायब सुब्बा",
+    "note": "Syllabus revised 2081/82: prelim is now 50×2 in 45 min. Prelim marks are qualifying only.",
+    "prelim": {
+      "breakdown": "GK 30 Q + General Mental Ability / IQ 20 Q",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "Nepal's geography, society & economy",
+      "Constitution & government systems",
+      "Public-service practices & management",
+      "Development plans, federalism & local governance",
+      "Service-group subjects"
+    ]
+  },
+  {
+    "age": "21–35 (women / PWD: 40)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Bachelor's degree",
+    "final": "Skill Test + Group Test + Interview — total 70 per Edusanjal, 60 per another source (conflict; verify). Foreign Service: 80.",
+    "id": "section-officer",
+    "level": "Gazetted Third Class",
+    "main": "Paper II: Governance Systems (100, 3 hrs) + Paper III: Contemporary Issues (100, 3 hrs) + Paper IV: Service-Group subject (100, 3 hrs). Main pass: 40 or 45 — sources conflict, verify with vacancy notice.",
+    "name": "Section Officer (Shakha Adhikrit)",
+    "name_ne": "शाखा अधिकृत",
+    "note": "Foreign Affairs stream replaces Paper IV with English Language (100) + Foreign Policy & International Relations (100).",
+    "prelim": {
+      "breakdown": "General Awareness 50 + Aptitude 30 + English 20",
+      "marksPerQ": 1,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 100,
+      "timeMin": 90,
+      "total": 100
+    },
+    "syllabus": [
+      "GK: Nepal geography, history, politics, economy, culture",
+      "Current affairs",
+      "IQ / aptitude",
+      "English: grammar, vocabulary, comprehension",
+      "Governance systems",
+      "Contemporary national & international issues"
+    ]
+  },
+  {
+    "age": "18–40",
+    "body": "Teacher Service Commission",
+    "education": "+2 + 10-month training + teaching licence",
+    "final": "Interview 25",
+    "id": "tsc-primary",
+    "level": "Primary (Pra Bi), 3rd Grade",
+    "main": "Subjective paper: 10 × 10 = 100, 3 hrs, pass 40",
+    "name": "TSC — Primary Teacher",
+    "name_ne": "शिक्षक सेवा — प्राथमिक",
+    "note": "Teaching licence exam is now 100% objective: 50×2, pass 50.",
+    "prelim": {
+      "breakdown": "Education knowledge 40% + GK 30% + Constitution/Acts 10% + ICT 10% + IQ 10%",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 50,
+      "questions": 50,
+      "timeMin": 60,
+      "total": 100
+    },
+    "syllabus": [
+      "Education: meaning, child psychology, learning theories, curriculum, evaluation",
+      "GK: Nepal geography/history/culture",
+      "Constitution Art. 31, Education Act 2028, TSC Regulations 2057",
+      "ICT in education",
+      "IQ"
+    ]
+  },
+  {
+    "age": "18–40",
+    "body": "Teacher Service Commission",
+    "education": "Bachelor's in relevant subject + teaching licence",
+    "final": "Interview 25",
+    "id": "tsc-secondary",
+    "level": "Secondary (Ma Vi)",
+    "main": "Subjective paper: 10 × 10 = 100, 3 hrs, pass 40",
+    "name": "TSC — Secondary Teacher",
+    "name_ne": "शिक्षक सेवा — माध्यमिक",
+    "note": "Whether general-paper marks count toward merit is disputed across sources — verify with the vacancy notice.",
+    "prelim": {
+      "breakdown": "GK 40% + Education knowledge 24% + IQ 16% + ICT 10% + Constitution/Acts 10%",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 50,
+      "questions": 50,
+      "timeMin": 60,
+      "total": 100
+    },
+    "syllabus": [
+      "Subject knowledge (per subject)",
+      "Education theory & pedagogy",
+      "GK",
+      "ICT",
+      "Constitution & education law"
+    ]
+  },
+  {
+    "age": "18–35 (women: 40)",
+    "body": "Nepal Rastra Bank",
+    "education": "+2 or equivalent",
+    "final": "Interview 30",
+    "id": "nrb-assistant",
+    "level": "Assistant 2nd Class",
+    "main": "Paper I: Banking/Accounting/Maths/Computer (100, 2.5 hrs, pass 40) + Paper II: Economics, Management, Banking Laws (100, 2.5 hrs, pass 40)",
+    "name": "NRB Assistant (2nd Class)",
+    "name_ne": "नेपाल राष्ट्र बैंक — सहायक",
+    "note": "Prelim is qualifying only.",
+    "prelim": {
+      "breakdown": "Management & Accounting 30 + Economics & Banking 30 + Maths 14 + Computer 14 + GK 12",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 40,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "Management & accounting",
+      "Economics & banking",
+      "Maths",
+      "Computer",
+      "GK",
+      "NRB Act 2058, BAFIA 2073"
+    ]
+  },
+  {
+    "age": "21–35 (women: 40)",
+    "body": "Nepal Rastra Bank",
+    "education": "Master's in Economics / Management / Public Admin (stream-specific)",
+    "final": "Interview 40",
+    "id": "nrb-officer",
+    "level": "Officer 3rd Class",
+    "main": "Written: 3 papers × 100 = 300 (IT stream adds practical 50)",
+    "name": "NRB Assistant Director (Officer 3rd)",
+    "name_ne": "नेपाल राष्ट्र बैंक — अधिकृत",
+    "note": "VERIFY BEFORE TRUSTING THE MOCK: the research report supports only 'pre-qualifying MCQ, 100 marks' — question count (100), time (90 min) and pass mark (45) shown here are NOT verified against an NRB notice. Practice in this portal uses the shared Banking/Economics/Maths/English bank tagged nrb-officer.",
+    "prelim": {
+      "breakdown": "Pre-qualifying MCQ 100 (pattern per notice)",
+      "marksPerQ": 1,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 100,
+      "timeMin": 90,
+      "total": 100
+    },
+    "syllabus": [
+      "Macroeconomics & monetary policy",
+      "Management & public administration",
+      "Nepal's financial sector",
+      "NRB Act 2058, BAFIA 2073, banking law",
+      "Statistics"
+    ]
+  },
+  {
+    "age": "18–35 (women: 40)",
+    "body": "PSC unified exam for public banks",
+    "education": "+2 or equivalent",
+    "final": "Interview 30",
+    "id": "rbb",
+    "level": "Level 4",
+    "main": "Paper I: Banking/Management/Accounting/Maths/IT (100, 2.5 hrs, pass 40) + Paper II: Service/Group/Institution (100, 2.5 hrs, pass 40)",
+    "name": "RBB / NBL / ADBL Assistant (Level 4)",
+    "name_ne": "राष्ट्रिय वाणिज्य बैंक",
+    "note": "GUIDE-ONLY, no mock: the 2082-83 unified RBB/NBL/ADBL Assistant (Level 4) syllabus (approved 2082-06-09) has NO MCQ prelim — two subjective papers (100 marks each, 2.5 hrs, pass 40) + interview 30. The prelim this portal previously showed (50x2, 45 min, pass 40) was unverified and has been removed. See also the RBB Senior Assistant (Level 5) guide entry.",
+    "prelim": null,
+    "syllabus": [
+      "Banking & finance",
+      "Management & accounting",
+      "Maths & IT",
+      "GK & current affairs"
+    ]
+  },
+  {
+    "age": "Constable 18–25; ASI 18–24 (streams vary — verify); Inspector 21–30",
+    "body": "Nepal Police HQ + PSC (written)",
+    "education": "SEE (Constable) / +2 (ASI) / Bachelor's (Inspector)",
+    "final": "Interview + psychological / officer-quality tests for officer posts",
+    "id": "police",
+    "level": "Constable / ASI / Inspector",
+    "main": "Written exam (PSC) after physical & medical tests",
+    "name": "Nepal Police / APF",
+    "name_ne": "नेपाल प्रहरी",
+    "note": "Physical standards: Constable M 5'4\" / F 5'2\"; ASI/APF M 5'2\" / F 5'0\". Stages: registration → physical → medical → written → interview. Prelim pattern UNVERIFIED: 50×2, 45 min, pass 45 is a placeholder — the Police Inspector GART is 50 min, pass 40 per GAP-AUDIT §1. Verify per vacancy notice before trusting this mock.",
+    "prelim": {
+      "breakdown": "GK, IQ, English, Maths (per notice)",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "GK & current affairs",
+      "IQ & reasoning",
+      "English & Nepali",
+      "Maths",
+      "Nepal Police Act & organisation (basic)"
+    ]
+  },
+  {
+    "age": "18–21 (+2) / 18–24 (Bachelor's)",
+    "body": "Nepal Army + PSC",
+    "education": "+2 (age 18–21) or Bachelor's (age 18–24); serving soldiers to 26",
+    "final": "Interview + officer-quality tests",
+    "id": "army",
+    "level": "2nd Lieutenant (Officer Cadet)",
+    "main": "Written exam (PSC) after physical & medical tests",
+    "name": "Nepal Army Officer Cadet",
+    "name_ne": "नेपाली सेना — अधिकृत क्याडेट",
+    "note": "Physical: M 5'3\" / F 5'0\", weight M 50 kg / F 40 kg. Soldier (Sainya): Class 8 / SEE, age 18–22. Prelim pattern UNVERIFIED: 50×2, 45 min, pass 45 is a placeholder. Verify per vacancy notice before trusting this mock.",
+    "prelim": {
+      "breakdown": "GK, IQ, English, Maths (per notice)",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "GK & current affairs",
+      "IQ & reasoning",
+      "English",
+      "Maths",
+      "Nepal Army organisation (basic)"
+    ]
+  },
+  {
+    "age": "Varies by post — health officer 21–45 per one source; do NOT assume the 35/40 rule",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Certificate in Nursing / General Medicine / Lab / Radiography; MBBS/MD for officers",
+    "final": "Interview",
+    "id": "health",
+    "level": "Levels 4–11",
+    "main": "Subjective technical papers (per service group)",
+    "name": "Health Service (PSC)",
+    "name_ne": "स्वास्थ्य सेवा",
+    "note": "NHPC registration required where applicable. Verify age/education in the vacancy notice. Prelim pattern UNVERIFIED: 50×2, 45 min, pass 45 is a generic placeholder shared across all Health Service posts. Verify per vacancy notice before trusting this mock.",
+    "prelim": {
+      "breakdown": "GK + technical subject (per notice)",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "Health basics, anatomy, nutrition, first aid",
+      "Public health & Nepal health system",
+      "GK & current affairs"
+    ]
+  },
+  {
+    "age": "18/21–35 (women / PWD: 40)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "BE in relevant branch; NEC registration",
+    "final": "Interview",
+    "id": "engineering",
+    "level": "Gazetted / Non-gazetted",
+    "main": "Subjective technical papers (per branch)",
+    "name": "Engineering Service (PSC)",
+    "name_ne": "इन्जिनियरिङ सेवा",
+    "note": "Practice in this portal uses the shared GK/IQ/Maths/Computer bank tagged engineering, plus Health/Technical basics. Prelim pattern UNVERIFIED: 50×2, 45 min, pass 45 is a generic placeholder. Verify per vacancy notice before trusting this mock.",
+    "prelim": {
+      "breakdown": "GK + technical subject (per notice)",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 50,
+      "timeMin": 45,
+      "total": 100
+    },
+    "syllabus": [
+      "Civil / Electrical / Mechanical basics",
+      "Maths & reasoning",
+      "GK & current affairs"
+    ]
+  },
+  {
+    "age": "Up to 45 (women / PWD: 40 — as stated in the research report; verify, as this is lower than the general limit and conflicts with the usual extension pattern)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Master's + experience (typically 5 yrs officer-level; PhD reduces it)",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "deputy-secretary",
+    "level": "Gazetted 2nd / 1st Class",
+    "main": "Written papers + interview (pattern per vacancy notice — not stated in report)",
+    "name": "Deputy Secretary / Joint Secretary (Upa-Sachiv / Saha-Sachiv)",
+    "name_ne": "उप-सचिव / सह-सचिव",
+    "note": "Guide + theory/subjective outline only, no mock — the report gives no MCQ prelim pattern for Deputy/Joint Secretary. CONFLICT/FLAG: report states age 'up to 45 (women/PWD 40)'; verify against the vacancy notice before publishing. No age limit for permanent civil servants already in service (general PSC rule).",
+    "prelim": null,
+    "syllabus": [
+      "Per vacancy notice — no syllabus topics stated in research report"
+    ]
+  },
+  {
+    "age": "18–21 min, 35 max (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Diploma / +2 / Bachelor's in relevant field; council registration where applicable",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "sub-engineer",
+    "level": "Technical, Levels 4–7",
+    "main": "Subjective technical papers (per branch — pattern not stated in report)",
+    "name": "Sub-Engineer",
+    "name_ne": "सब-इन्जिनियर",
+    "note": "Prelim pattern verified in GAP-AUDIT (loksewatayariapp): Paper I objective 50x2=100, 45 min, pass 40, -20%. CAVEAT: the format has changed over the years and differs between federal and provincial commissions — Bagmati provincial variant adds a subjective Paper II (100) + interview. Verify against the vacancy notice.",
+    "prelim": {
+      "questions": 50,
+      "marksPerQ": 2,
+      "total": 100,
+      "timeMin": 45,
+      "pass": 40,
+      "negative": 0.2,
+      "breakdown": "Paper I objective 50 MCQ x 2 (GK/IQ + job knowledge per branch); then interview 20 (federal)"
+    },
+    "syllabus": [
+      "Technical subject per branch (per notice)",
+      "GK & current affairs",
+      "Maths & reasoning"
+    ]
+  },
+  {
+    "age": "18–21 min, 35 max (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Diploma / +2 / Bachelor's in relevant field; council registration where applicable",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "jta",
+    "level": "Technical, Levels 4–7",
+    "main": "Subjective technical papers (per field — pattern not stated in report)",
+    "name": "Junior Technical Assistant (JTA)",
+    "name_ne": "जुनियर प्राविधिक सहायक",
+    "note": "Guide + theory/subjective outline only, no mock — the report gives no MCQ prelim pattern for JTA. Pattern per vacancy notice; verify against psc.gov.np.",
+    "prelim": null,
+    "syllabus": [
+      "Technical subject per field (per notice)",
+      "GK & current affairs",
+      "Maths & reasoning"
+    ]
+  },
+  {
+    "age": "18–21 min, 35 max (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Diploma / +2 / Bachelor's in relevant field; council registration where applicable",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "ranger",
+    "level": "Technical, Levels 4–7",
+    "main": "Subjective technical papers (forestry — pattern not stated in report)",
+    "name": "Ranger",
+    "name_ne": "रेञ्जर",
+    "note": "Guide + theory/subjective outline only, no mock — the report gives no MCQ prelim pattern for Ranger. Pattern per vacancy notice; verify against psc.gov.np.",
+    "prelim": null,
+    "syllabus": [
+      "Forestry / technical subject (per notice)",
+      "GK & current affairs",
+      "Maths & reasoning"
+    ]
+  },
+  {
+    "age": "18–21 min, 35 max (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Diploma / +2 / Bachelor's in relevant field; council registration where applicable",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "computer-operator",
+    "level": "Technical, Levels 4–7",
+    "main": "Paper II subjective 100 (12x5 + 4x10); Practical 50 (pass 25, 45 min)",
+    "name": "Computer Operator",
+    "name_ne": "कम्प्युटर अपरेटर",
+    "note": "Prelim pattern verified in GAP-AUDIT (loksewatayariapp): Paper I 50x2=100, 45 min, pass 40. CONFLICT: Paper II duration is 2h15m in one source vs 3h15m in another — verify against the vacancy notice.",
+    "prelim": {
+      "questions": 50,
+      "marksPerQ": 2,
+      "total": 100,
+      "timeMin": 45,
+      "pass": 40,
+      "negative": 0.2,
+      "breakdown": "GK & Public Management 20 MCQ x 2 + Job Knowledge 30 MCQ x 2"
+    },
+    "syllabus": [
+      "Computer & IT (per notice)",
+      "GK & current affairs",
+      "Maths & reasoning"
+    ]
+  },
+  {
+    "age": "21–35 (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC) — recommends; Judicial Service Commission for 2nd class and above",
+    "education": "LLB / Master's in Law",
+    "final": "Interview (marks per vacancy notice — not stated in report)",
+    "id": "judicial-service",
+    "level": "Gazetted",
+    "main": "Written papers (per notice — pattern not stated in report)",
+    "name": "Judicial Service (Nyaya Sewa)",
+    "name_ne": "न्याय सेवा",
+    "note": "Guide + theory/subjective outline only, no mock — the report gives no exam pattern for Judicial Service. Verify against the vacancy notice / Judicial Service Commission.",
+    "prelim": null,
+    "syllabus": [
+      "Per vacancy notice — no syllabus topics stated in research report"
+    ]
+  },
+  {
+    "age": "21–35 (40 women / PWD)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "Bachelor's degree",
+    "final": "Skill Test + Group Test + Interview — 80 per Edusanjal for Foreign Affairs (Section Officer final total 70 vs 60 conflict — verify)",
+    "id": "foreign-service",
+    "level": "Gazetted Third Class (Section Officer stream)",
+    "main": "Paper II: Governance Systems (100, 3 hrs) + Paper III: Contemporary Issues (100, 3 hrs) + Paper IV replaced by English Language (100) + Foreign Policy & International Relations (100). Main pass: 40 or 45 — sources conflict, verify.",
+    "name": "Foreign Service (Pararastra Sewa)",
+    "name_ne": "परराष्ट्र सेवा",
+    "note": "Prelim pattern shared with Section Officer per report §2.3 (Papers I–III as Section Officer; Paper IV replaced). Main-paper pass mark conflict: 40 vs 45. Final-stage total conflict: 70 vs 60, 80 for Foreign Affairs per Edusanjal — verify with vacancy notice.",
+    "prelim": {
+      "breakdown": "General Awareness 50 + Aptitude 30 + English 20",
+      "marksPerQ": 1,
+      "negative": 0.2,
+      "pass": 45,
+      "questions": 100,
+      "timeMin": 90,
+      "total": 100
+    },
+    "syllabus": [
+      "GK: Nepal geography, history, politics, economy, culture",
+      "Current affairs",
+      "IQ / aptitude",
+      "English: grammar, vocabulary, comprehension",
+      "Governance systems",
+      "Contemporary national & international issues",
+      "Foreign Policy & International Relations",
+      "English Language"
+    ]
+  },
+  {
+    "age": "As per level (see Kharidar 18–35, NaSu 18–35, Section Officer 21–35; women / PWD: 40)",
+    "body": "Lok Sewa Aayog (PSC)",
+    "education": "As per level (SEE / +2 / Bachelor's)",
+    "final": "As per level (Computer Skills Test + Interview for Kharidar/NaSu; Skill/Group Test + Interview for Section Officer)",
+    "id": "psc-service-groups",
+    "level": "Levels 4–7 / Gazetted Third Class (per group)",
+    "main": "As per level; service-group paper differs per group (Administration, Accounts, Revenue, Audit, Parliament)",
+    "name": "PSC Service Groups (Audit, Revenue, Administration, Parliament)",
+    "name_ne": "लोक सेवा — सेवा समूह",
+    "note": "Guide + theory/subjective outline only, no mock — these are service-group streams of the Kharidar / NaSu / Section Officer exams, not standalone exams. The report lists them as a group with no separate pattern. Service-group papers differ per group; verify against vacancy notice.",
+    "prelim": null,
+    "syllabus": [
+      "Service-group subject (Administration / Accounts / Revenue / Audit / Parliament — per group)",
+      "GK & current affairs"
+    ]
+  },
+  {
+    "age": "18–40",
+    "body": "Teacher Service Commission",
+    "education": "+2 or equivalent + teaching licence",
+    "final": "Interview 25",
+    "id": "tsc-lower-secondary",
+    "level": "Lower Secondary (Ni Ma Vi), 3rd Grade",
+    "main": "Subjective paper: 10 × 10 = 100, 3 hrs, pass 40",
+    "name": "TSC — Lower Secondary Teacher",
+    "name_ne": "शिक्षक सेवा — निम्न माध्यमिक",
+    "note": "General-paper weightage per report §3.1 (Primary & Lower Secondary share the same weightage). Whether general-paper marks count toward merit is disputed across sources — verify with the vacancy notice.",
+    "prelim": {
+      "breakdown": "Education knowledge 40% + GK 30% + Constitution/Acts 10% + ICT 10% + IQ 10%",
+      "marksPerQ": 2,
+      "negative": 0.2,
+      "pass": 50,
+      "questions": 50,
+      "timeMin": 60,
+      "total": 100
+    },
+    "syllabus": [
+      "Education: meaning, child psychology, learning theories, curriculum, evaluation",
+      "GK: Nepal geography/history/culture",
+      "Constitution Art. 31, Education Act 2028, TSC Regulations 2057",
+      "ICT in education",
+      "IQ"
+    ]
+  },
+  {
+    "age": "18–40 (TSC norms; the report does not state licence-exam age separately — verify)",
+    "body": "Teacher Service Commission",
+    "education": "As per level applied for (Primary: +2 + 10-month training; Lower Secondary: +2; Secondary: Bachelor's) + licence eligibility per TSC notice",
+    "final": "— (no interview stated in report for the licence exam)",
+    "id": "tsc-license",
+    "level": "Teaching Licence (all levels)",
+    "main": "— (objective-only exam; no subjective paper)",
+    "name": "TSC Teaching Licence Exam",
+    "name_ne": "शिक्षक लाइसेन्स परीक्षा",
+    "note": "UNVERIFIED: the report (§3.1) states the licence exam is now 100% objective — 50 Q × 2 = 100, pass 50 — but gives NO time limit and does NOT state negative marking for the licence exam. timeMin and negative are left null; do NOT publish a mock timer or negative-marking rule until verified against tsc.gov.np / the vacancy notice.",
+    "prelim": {
+      "breakdown": "100% objective (subject split per notice — not stated in report)",
+      "marksPerQ": 2,
+      "negative": null,
+      "pass": 50,
+      "questions": 50,
+      "timeMin": null,
+      "total": 100
+    },
+    "syllabus": [
+      "Education knowledge",
+      "GK",
+      "Constitution & education law",
+      "ICT in education",
+      "IQ"
+    ]
+  },
+  {
+    "age": "21–35 (women: 40)",
+    "body": "Rastriya Banijya Bank",
+    "education": "Bachelor's (per Level 5 norms)",
+    "final": "Interview 30",
+    "id": "rbb-senior-assistant",
+    "level": "Level 5",
+    "main": "Paper I: Economics/Banking/GK — 50 MCQ × 1 + 10 × 5 subjective = 100 (pass 40); Paper II: Governance & Office Management — 12 × 5 + 4 × 10 = 100 (pass 40)",
+    "name": "RBB Senior Assistant (Level 5)",
+    "name_ne": "राष्ट्रिय वाणिज्य बैंक — वरिष्ठ सहायक",
+    "note": "Guide + theory/subjective outline only, no mock — the 50 MCQs are embedded in Paper I, not a standalone prelim; do NOT invent a separate prelim mock pattern. Pattern per report §3.4; verify against the vacancy notice.",
+    "prelim": null,
+    "syllabus": [
+      "Economics & banking",
+      "GK",
+      "Governance & office management"
+    ]
+  },
+  {
+    "age": "Similar levels/age rules to federal PSC (per report — verify per province)",
+    "body": "Provincial Public Service Commission",
+    "education": "As per level (SEE / +2 / Bachelor's)",
+    "final": "Interview (per provincial notice — not stated in report)",
+    "id": "provincial-psc",
+    "level": "Levels 4–7 / Gazetted (per province)",
+    "main": "Written papers (per provincial notice — not stated in report)",
+    "name": "Provincial PSC (Bagmati, Lumbini, etc.)",
+    "name_ne": "प्रदेश लोक सेवा आयोग",
+    "note": "Guide + theory/subjective outline only, no mock — the report gives no province-specific pattern; patterns mirror federal PSC but must be verified per province notice.",
+    "prelim": null,
+    "syllabus": [
+      "Per provincial vacancy notice — no syllabus stated in research report"
+    ]
+  },
+  {
+    "age": "Per notice — not stated in report",
+    "body": "Nepal Electricity Authority (via PSC unified exam or own board)",
+    "education": "Per post (technical / management) — not stated in report",
+    "final": "Interview (per notice — not stated in report)",
+    "id": "nea",
+    "level": "Public enterprise (per post)",
+    "main": "Paper I 100: Section A 50 MCQs x 1, 45 min, -20%, no calculator + Section B 10 short questions x 5 = 50, 75 min; Paper II 100 subjective (2h30m); Interview 30; total 230 (Level 5 Assistant pattern; Level 4 / Level 7 variants differ)",
+    "name": "Nepal Electricity Authority (NEA)",
+    "name_ne": "नेपाल विद्युत प्राधिकरण",
+    "note": "GUIDE-ONLY, no mock: the verified NEA pattern (GAP-AUDIT) is Paper I Section A 50 MCQs x 1 in 45 min — NOT 50x2 — and no pass mark is stated for Section A alone, so no honest mock cutoff can be shown. Level 4 Senior Meter Reader variant: Paper I 100 (75 min), Paper II 100 (2h30m), interview 30. Apply via career.nea.org.np; verify against the vacancy notice.",
+    "prelim": null,
+    "syllabus": [
+      "Per NEA vacancy notice — no syllabus stated in research report"
+    ]
+  },
+  {
+    "age": "Per notice — not stated in report",
+    "body": "Nepal Telecom (via PSC unified exam or own board)",
+    "education": "Per post (technical / management) — not stated in report",
+    "final": "Interview (per notice — not stated in report)",
+    "id": "nepal-telecom",
+    "level": "Public enterprise (per post)",
+    "main": "Paper II subjective 100 (12x5 + 4x10, 2h30m, pass 40)",
+    "name": "Nepal Telecom",
+    "name_ne": "नेपाल टेलिकम",
+    "note": "Prelim pattern verified in GAP-AUDIT (loksewatayariapp, Level 4 Assistant, PSC-conducted): Paper I 50x2=100, 45 min, pass 40. Verify against the vacancy notice.",
+    "prelim": {
+      "questions": 50,
+      "marksPerQ": 2,
+      "total": 100,
+      "timeMin": 45,
+      "pass": 40,
+      "negative": 0.2,
+      "breakdown": "Paper I: GK + IQ 50 MCQ x 2"
+    },
+    "syllabus": [
+      "Per Nepal Telecom vacancy notice — no syllabus stated in research report"
+    ]
+  },
+  {
+    "id": "nmc-mbbs",
+    "name": "NMC Licensing Examination (MBBS)",
+    "name_ne": "नेपाल मेडिकल काउन्सिल लाइसेन्स परीक्षा",
+    "body": "Nepal Medical Council (NMC)",
+    "level": "Medical licence / registration",
+    "education": "MBBS from an NMC-recognised institution + internship (at least 6 months completed)",
+    "age": "—",
+    "prelim": {
+      "questions": 130,
+      "marksPerQ": 1,
+      "total": 180,
+      "timeMin": 180,
+      "pass": 90,
+      "negative": 0,
+      "breakdown": "MCQ 130×1 (Anatomy 5, Physiology 5, Pharmacology 4, Biochemistry 5, Microbiology 7, Pathology 4, Orthopedics 6, Surgery 13, Medicine 14, Pediatrics 10, OBGYN 13, Community Medicine 13, Anesthesia 8, Psychiatry 2, Forensic Medicine 6, ENT 6, Ophthalmology 6, Dermatology 3) + CSQ 10×5 = 50"
+    },
+    "main": "10 Clinical Scenario Questions (CSQ) × 5 marks = 50, within the same 3-hour computer-based sitting (Pharmacology 1, Orthopedics 1, Surgery 2, Medicine 2, Pediatrics 2, OBGYN 2)",
+    "final": "Registration with NMC on passing",
+    "syllabus": [
+      "Anatomy",
+      "Physiology",
+      "Pharmacology",
+      "Biochemistry",
+      "Microbiology",
+      "Pathology",
+      "Forensic medicine",
+      "Community medicine",
+      "Medicine",
+      "Surgery",
+      "Obstetrics & gynecology",
+      "Pediatrics",
+      "Orthopedics",
+      "Anesthesia",
+      "ENT",
+      "Ophthalmology",
+      "Dermatology",
+      "Psychiatry",
+      "Ethics & medical law"
+    ],
+    "note": "Subject weights differ slightly between Medchrome and the NMC Accreditation Standards 2017 (e.g. Microbiology 7 vs 4, Community Medicine 13 vs 10); NMC says distribution may change. Negative marking NOT stated in any source found — verify with NMC notice before publishing negative: 0 as fact. 3 sittings/year."
+  },
+  {
+    "id": "nmc-bds",
+    "name": "NMC Licensing Examination (BDS)",
+    "name_ne": "नेपाल मेडिकल काउन्सिल लाइसेन्स परीक्षा (BDS)",
+    "body": "Nepal Medical Council (NMC)",
+    "level": "Dental licence / registration",
+    "education": "BDS from an NMC-recognised institution + 1-year internship",
+    "age": "—",
+    "prelim": {
+      "questions": 180,
+      "marksPerQ": 1,
+      "total": 180,
+      "timeMin": 180,
+      "pass": 90,
+      "negative": 0,
+      "breakdown": "180 objective questions (shared NMC licensing exam with MBBS); BDS subject distribution NOT found — do not use MBBS weights"
+    },
+    "main": "Same NMC licensing exam sessions as MBBS (3/year)",
+    "final": "Registration with NMC on passing",
+    "syllabus": [
+      "Oral & maxillofacial surgery",
+      "Orthodontics",
+      "Prosthodontics",
+      "Periodontics",
+      "Pedodontics",
+      "Oral pathology & oral medicine",
+      "Community dentistry",
+      "Anatomy & physiology of the oral cavity"
+    ],
+    "note": "Only totals verified (180 Q, 90 to pass, Rising Nepal 2022 for MBBS+BDS together). Time 3h inferred from shared MBBS exam — not separately confirmed for BDS. Negative marking unverified. BDS subject weights unknown — syllabus list is curriculum-derived, not an exam blueprint. This mock draws 180 questions from a 218-question tagged pool of unknown subject mix — it does not mirror the real BDS paper's sections."
+  },
+  {
+    "id": "nnc-rn",
+    "name": "Nursing Licence (NLEN) — PCL / BSc Nursing",
+    "name_ne": "नर्सिङ लाइसेन्स परीक्षा",
+    "body": "Nepal Nursing Council (NNC)",
+    "level": "Registered Nurse licence",
+    "education": "PCL Nursing or BSc Nursing from an NNC-approved programme (separate papers per level); MEC Eligibility Letter if studied abroad after 1 Oct 2020",
+    "age": "—",
+    "prelim": {
+      "questions": 150,
+      "marksPerQ": 1,
+      "total": 150,
+      "timeMin": 150,
+      "pass": 75,
+      "negative": 0,
+      "breakdown": "Fundamentals of Nursing 25% (~38 Q) + Adult Nursing 20% (~30 Q) + Midwifery & Gynecology 20% (~30 Q) + Community Health Nursing 15% (~23 Q) + Child Health Nursing 10% (~15 Q) + Leadership & Management 5% (~7 Q) + Integrated Science 5% (~7 Q)"
+    },
+    "main": "Single written paper; pass/fail grading, no numeric score issued",
+    "final": "NNC registration (certificate valid 6 years; 60 CPD hours per 6 years for renewal from Magh 2082)",
+    "syllabus": [
+      "Fundamentals of nursing",
+      "Adult nursing",
+      "Midwifery & gynecology",
+      "Community health nursing",
+      "Child health nursing",
+      "Leadership & management",
+      "Integrated science (anatomy, physiology, microbiology, pharmacology, biochemistry)",
+      "Nursing ethics & professional practice"
+    ],
+    "note": "No negative marking — confirmed in NNC test guidelines. 3 sittings/year. One mock-test source gives slightly different per-subject counts (Fundamentals 34, Adult 25, Child 20, Community 24, Integrated 19, Leadership 5, Midwifery 23); guideline percentages above are authoritative."
+  },
+  {
+    "id": "midwifery-nlem",
+    "name": "Midwifery Licence (NLEM) — BMS",
+    "name_ne": "मिडवाइफरी लाइसेन्स परीक्षा",
+    "body": "Nepal Nursing Council (NNC)",
+    "level": "Registered Midwife licence",
+    "education": "Bachelor of Midwifery Studies (BMS) recognised by NNC",
+    "age": "—",
+    "prelim": {
+      "questions": 150,
+      "marksPerQ": 1,
+      "total": 150,
+      "timeMin": 150,
+      "pass": 75,
+      "negative": 0,
+      "breakdown": "150 MCQs (midwifery-weighted; no separate NLEM weight table found)"
+    },
+    "main": "OSPE / practical skills exam, 50 marks, pass 80% (40/50) — must pass both written and practical",
+    "final": "NNC registration as midwife",
+    "syllabus": [
+      "Antenatal care",
+      "Intranatal care",
+      "Postnatal care",
+      "Obstetric emergencies",
+      "Neonatal care",
+      "Women's health & gynecology",
+      "Community health nursing",
+      "Midwifery ethics & professional practice"
+    ],
+    "note": "CONFLICT: practical marks stated as 50 in most notices but 40 in one 2078 notice; 80% pass threshold is consistent. Verify current notice before publishing. No negative marking (same NLEN rules)."
+  },
+  {
+    "id": "staff-nurse-psc",
+    "name": "Staff Nurse — Lok Sewa (PSC), Health Service 5th Level",
+    "name_ne": "स्टाफ नर्स — लोक सेवा",
+    "body": "Lok Sewa Aayog (PSC)",
+    "level": "Assistant 5th Level, General Nursing",
+    "education": "PCL Nursing + NNC registration",
+    "age": "18–35 (women / PWD: 40) — per PSC health-service norms; verify in vacancy notice",
+    "prelim": {
+      "questions": 50,
+      "marksPerQ": 2,
+      "total": 100,
+      "timeMin": 45,
+      "pass": 40,
+      "negative": 0.2,
+      "breakdown": "General Awareness & Public Management 20 MCQ × 2 + Job-Based Knowledge 30 MCQ × 2"
+    },
+    "main": "Paper II subjective: 12 × 5 + 4 × 10 = 100, 2 hrs 15 min, pass 40 (same day as Paper I)",
+    "final": "Interview 30",
+    "syllabus": [
+      "Fundamentals of nursing",
+      "Anatomy & physiology",
+      "Applied science & pharmacology",
+      "Medical/surgical nursing",
+      "Community health nursing",
+      "Midwifery & gynecological nursing",
+      "Pediatric nursing",
+      "Mental health nursing",
+      "Nursing leadership & management"
+    ],
+    "note": "PSC recruitment exam, NOT the NNC licence exam — keep separate from nursing-nlen. Provincial PSC syllabi may differ. Negative marking 20% confirmed. (Negative marking is 20%: −0.4 per wrong 2-mark question. Stored as the 0.2 rate like every other exam.)"
+  },
+  {
+    "id": "nhpc-ha",
+    "name": "Health Assistant Licence — PCL General Medicine (NHPC)",
+    "name_ne": "हेल्थ असिस्टेन्ट लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "PCL licence / registration",
+    "education": "PCL in General Medicine (3-year CTEVT) from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "Anatomy & Physiology 10 + Community Health 25 + General Medicine 25 + Pharmacology & Pharmacy 10 + General Surgery 25 + Clinical Pathology 5 (marks out of 100)"
+    },
+    "main": "Single computer-based MCQ paper; 3–4 sittings/year",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Anatomy & physiology",
+      "Community health & health management",
+      "General medicine (incl. pediatrics, psychiatry, dermatology)",
+      "Pharmacology & pharmacy",
+      "General surgery, first aid & emergency care",
+      "Obstetrics & gynecology",
+      "Eye, ENT & oral health",
+      "Clinical pathology",
+      "Epidemiology & disease control",
+      "Nutrition & family health"
+    ],
+    "note": "Weights from NHPC Syllabus for Licensing Examination of Certificate Level in General Medicine 2021. Negative marking NOT stated in any NHPC source — verify before presenting negative: 0 as fact. Do not confuse with the PSC Health Assistant recruitment exam."
+  },
+  {
+    "id": "npc-pharmacy",
+    "name": "Pharmacy Licence — BPharm / DPharm (NPC)",
+    "name_ne": "फार्मासिस्ट लाइसेन्स परीक्षा",
+    "body": "Nepal Pharmacy Council (NPC)",
+    "level": "Registered Pharmacist / Assistant Pharmacist licence",
+    "education": "Bachelor of Pharmacy (BPharm) or Diploma in Pharmacy (DPharm) from an NPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 150,
+      "marksPerQ": 1,
+      "total": 150,
+      "timeMin": 150,
+      "pass": 75,
+      "negative": 0,
+      "breakdown": "Pharmacognosy, Medicinal Chemistry & Natural Products 25 + Pharmaceutical Analysis & Instrumentation 15 + Pharmaceutical Technology, Biopharmaceutics & Dosage Form Design 25 + Pharmacology & Therapeutics 25 + Clinical & Hospital Pharmacy 20 + Forensic Pharmacy (laws & ethics) 15 + Community, Social Pharmacy & Public Health 25"
+    },
+    "main": "Single MCQ paper. DPharm (Assistant Pharmacist) variant: 100 MCQs, 100 marks, 80 min, pass 50, no negative marking.",
+    "final": "NPC registration as pharmacist / assistant pharmacist",
+    "syllabus": [
+      "Pharmacognosy & medicinal chemistry",
+      "Pharmaceutical analysis & instrumentation",
+      "Pharmaceutics & dosage form design",
+      "Pharmacology & therapeutics",
+      "Clinical & hospital pharmacy",
+      "Forensic pharmacy — laws & ethics",
+      "Community, social pharmacy & public health",
+      "Pharmaceutics",
+      "Pharmacology & pharmacotherapeutics",
+      "Community pharmacy & pharmaceutical jurisprudence",
+      "Social pharmacy & public health"
+    ],
+    "note": "No negative marking and 50% pass confirmed in NPC syllabus sources (both levels). One FAQ claims 50% required in EACH subject plus 50% aggregate — unverified; only overall 50% is in syllabus sources. Mock uses the BPharm pattern (150 Q, 150 min, pass 75); the DPharm pattern (100 Q, 80 min, pass 50) is in the Main field above."
+  },
+  {
+    "id": "nhpc-lab",
+    "name": "Lab Technology Licence — CMLT / BSc MLT (NHPC)",
+    "name_ne": "ल्याब टेक्नोलोजी लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "PCL / Bachelor licence",
+    "education": "Certificate in Medical Laboratory Technology (CMLT) or BSc MLT / BMLT from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "CMLT: Clinical Biochemistry 20 + Clinical Haematology 20 + Clinical Microbiology & Immunology 20 + Histo/Cytopathology Techniques 10 + Anatomy & Physiology 10 + Clinical Parasitology 5 + Instrumentation & Automation 5 + Blood Banking 5 + Pathology 5. BSc MLT: Medical Microbiology 20 + Clinical Biochemistry 20 + Hematology & Blood Banking 20 + Histocytopathology 15 + Human Anatomy & Physiology 10 + Health Policy & Health System of Nepal 5 + Research Methodology & Biostatistics 5 + Clinical Pharmacology 3 + NHPC & Code of Ethics 2 (marks out of 100)"
+    },
+    "main": "Single computer-based MCQ paper; 3-4 sittings/year (both levels; separate syllabi)",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Clinical biochemistry",
+      "Clinical haematology",
+      "Clinical microbiology & immunology",
+      "Histo/cytopathology techniques",
+      "Anatomy & physiology",
+      "Clinical parasitology",
+      "Instrumentation & automation",
+      "Blood banking",
+      "Pathology",
+      "Medical microbiology",
+      "Hematology & blood banking",
+      "Histocytopathology",
+      "Human anatomy & physiology",
+      "Health policy & health system of Nepal",
+      "Research methodology & biostatistics",
+      "Clinical pharmacology",
+      "NHPC & code of ethics"
+    ],
+    "note": "Weights from NHPC CMLT licensing syllabus 2021 and BSc MLT/BMLT licensing syllabus 2021. Negative marking NOT stated in any NHPC source — verify before presenting negative: 0 as fact."
+  },
+  {
+    "id": "nhpc-radio",
+    "name": "Radiographer / Medical Imaging Licence — PCL / BSc MIT (NHPC)",
+    "name_ne": "रेडियोग्राफर लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "PCL / Bachelor licence",
+    "education": "PCL in Diagnostic Radiography / Diploma in X-Ray Technology, or BSc in Medical Imaging Technology (BSc MIT), from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "PCL: Anatomy & Physiology 20 + Radiographic Technique / General Radiography & Procedures 40 + Radiographic Photography 10 + Radiographic Equipment 10 + Radiation Physics 10 + Patient Care & Management 5 + Code of Ethics 5. BSc MIT: Anatomy & Physiology 20 + Basic Health Science 10 + Radiographic Technique 15 + Special Radiological Procedure & Modern Imaging 15 + Equipment for Diagnostic Imaging 15 + Radiation Physics & Protection 15 + Biostatistics & Research Methodology 5 + Hospital Management, Patient Care, Ethics & Health System of Nepal 5 (marks out of 100)"
+    },
+    "main": "Single computer-based MCQ paper; 3-4 sittings/year (both levels; separate syllabi)",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Anatomy & physiology",
+      "Radiographic technique & radiological procedures",
+      "Radiographic photography",
+      "Radiographic equipment",
+      "Radiation physics",
+      "Patient care & management",
+      "Code of ethics",
+      "Basic health science",
+      "Radiographic technique",
+      "Special radiological procedures & modern imaging (CT, MRI)",
+      "Equipment for diagnostic imaging",
+      "Radiation physics & protection",
+      "Biostatistics & research methodology",
+      "Hospital management, patient care & ethics",
+      "Health system of Nepal"
+    ],
+    "note": "Weights from NHPC PCL Radiography syllabus 2021 and BSc MIT syllabus. CONFLICT: the BSc MIT syllabus exam scheme states 2 hours, but the general NHPC guide states 1.5 hours for all NHPC exams — this entry uses 90 min per the NHPC common format; verify with the current NHPC notice. PCL time 90 min assumed from NHPC common format (not separately stated). BSc MIT weights parsed from a garbled exam-scheme table — re-check against the PDF. Negative marking unverified."
+  },
+  {
+    "id": "nhpc-physio",
+    "name": "Physiotherapy Licence — BPT (NHPC)",
+    "name_ne": "फिजियोथेरापी लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "Bachelor licence",
+    "education": "Bachelor of Physiotherapy (BPT) from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "Musculoskeletal physiotherapy 30 + Neurological physiotherapy 20 + Cardiopulmonary physiotherapy 15 + Physiotherapy across the lifespan 15 + Ethics, management & evidence-based practice 10 + Community-based rehabilitation & health promotion 10 (marks out of 100)"
+    },
+    "main": "Single computer-based MCQ paper; 3–4 sittings/year",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Musculoskeletal physiotherapy (sports, biomechanics, kinesiology)",
+      "Neurological physiotherapy",
+      "Cardiopulmonary physiotherapy",
+      "Physiotherapy across the lifespan (geriatrics, pediatrics, women's & men's health)",
+      "Ethics, management & evidence-based practice",
+      "Community-based rehabilitation & health promotion",
+      "ICU & critical care physiotherapy",
+      "Cardiac & pulmonary rehabilitation"
+    ],
+    "note": "Weights from NHPC BPT licensing syllabus labelled DRAFT September 2016 — no final/current version found; verify weights against the current NHPC syllabus page. Time 90 min assumed from NHPC common format. Negative marking unverified."
+  },
+  {
+    "id": "nhpc-public-health",
+    "name": "Public Health Licence — BPH (NHPC)",
+    "name_ne": "जनस्वास्थ्य लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "Bachelor licence",
+    "education": "Bachelor in Public Health (BPH) from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "Basic science 10 + Basic & applied epidemiology 15 + Research, biostatistics & population studies 15 + Intro to public health & PHC 15 + Health promotion & education, community/school health, mental health 10 + Health system development & management incl. financing 15 + Family health, child health & nutrition 10 + Environmental & occupational health 5 + Sociology & anthropology 5 (marks out of 100)"
+    },
+    "main": "Single computer-based MCQ paper; 3–4 sittings/year",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Basic sciences (anatomy, physiology, microbiology, biochemistry, pharmacology, immunology, toxicology, entomology, pathology, first aid)",
+      "Epidemiology",
+      "Research & biostatistics",
+      "Public health & primary health care",
+      "Health promotion & education",
+      "Health system development & management",
+      "Family, child health & nutrition",
+      "Environmental & occupational health",
+      "Sociology & anthropology"
+    ],
+    "note": "Weights from NHPC BPH licensing syllabus 2021. Negative marking NOT stated — verify."
+  },
+  {
+    "id": "nhpc-optometry",
+    "name": "Optometry Licence — B.Optom (NHPC)",
+    "name_ne": "अप्टोमेट्री लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "Bachelor licence",
+    "education": "Bachelor of Optometry (B.Optom) from an NHPC-recognised institution",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "Basic Science & Organ Systems 5 + Ocular Anatomy & Physiology 10 + Physiologic & Geometric Optics 3 + Visual Science 10 + Ocular Disease 7 + Diagnostic & Investigative Optometry 10 + Ophthalmic & Dispensing Optics 10 + Pediatric Optometry & Binocular Vision 10 + Contact Lens & Ocular Prosthesis 10 + Low Vision & Rehabilitation 10 + Community Optometry 5 + Geriatric Optometry & Vision Care 4 + Research Methodology & Biostatistics 3 + Ethics in Optometry 3"
+    },
+    "main": "Single MCQ paper (3 plausible options + 1 correct per item, per syllabus)",
+    "final": "NHPC registration certificate on passing",
+    "syllabus": [
+      "Basic science & organ systems",
+      "Ocular anatomy & physiology",
+      "Physiologic & geometric optics",
+      "Visual science",
+      "Ocular disease",
+      "Diagnostic & investigative optometry",
+      "Ophthalmic & dispensing optics",
+      "Pediatric optometry & binocular vision",
+      "Contact lens & ocular prosthesis",
+      "Low vision & visual rehabilitation",
+      "Community optometry",
+      "Geriatric optometry & vision care",
+      "Research methodology & biostatistics",
+      "Ethics in optometry"
+    ],
+    "note": "CONFLICT: the B.Optom syllabus states 100 MCQs in 2 hours; the general NHPC guide states 1.5 hours for all NHPC exams. This entry uses 90 min per the NHPC common format — verify with the current NHPC notice. Negative marking unverified."
+  },
+  {
+    "id": "nhpc-dental",
+    "name": "Dental Hygiene Licence (NHPC) — Guide only",
+    "name_ne": "डेन्टल हाइजिन लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "Licence / registration (guide only)",
+    "education": "Dental hygiene qualification from an NHPC-recognised institution — verify level with the NHPC notice",
+    "age": "—",
+    "prelim": null,
+    "main": "No verified NHPC licensing-exam pattern found for dental hygiene (no question count, time, or pass mark in any source found). Do not build a mock for this discipline until its NHPC syllabus PDF is read.",
+    "final": "NHPC registration on passing (per council rules)",
+    "syllabus": [
+      "Oral anatomy",
+      "Dental materials",
+      "Oral pathology",
+      "Periodontics",
+      "Community dentistry"
+    ],
+    "note": "GUIDE-ONLY. NHPC runs one common 100-MCQ format across ~44 subjects, but the dental-hygiene syllabus was not verified in the licence research — do not present a pattern. 30 practice questions are tagged nhpc-dental (topic: Health/Technical basics)."
+  },
+  {
+    "id": "nhpc-ayurveda",
+    "name": "Ayurveda Licence (NHPC) — Guide only",
+    "name_ne": "आयुर्वेद लाइसेन्स परीक्षा",
+    "body": "Nepal Health Professional Council (NHPC)",
+    "level": "Licence / registration (guide only)",
+    "education": "Ayurveda qualification from an NHPC-recognised institution — verify with the NHPC notice",
+    "age": "—",
+    "prelim": null,
+    "main": "No verified NHPC licensing-exam pattern found for Ayurveda (no question count, time, or pass mark in any source found). Not the same exam as the Nepal Ayurveda Medical Council (NAMC) BAMS licence — see the ayurveda-bams guide entry.",
+    "final": "NHPC registration on passing (per council rules)",
+    "syllabus": [
+      "Ayurveda — fundamentals",
+      "Dravyaguna",
+      "Kayachikitsa",
+      "Panchakarma",
+      "Swasthavritta"
+    ],
+    "note": "GUIDE-ONLY. NHPC's common 100-MCQ format is presumed for its ~44 subjects but the Ayurveda syllabus was not verified — do not present a pattern. 30 practice questions are tagged nhpc-ayurveda (topic: Health/Technical basics). Do not confuse with the NAMC BAMS licensing exam (separate council, separate guide entry)."
+  },
+  {
+    "id": "anm-guide",
+    "name": "ANM — Auxiliary Nurse Midwife (Guide only)",
+    "name_ne": "अनमी",
+    "body": "Nepal Nursing Council (NNC) — registration; no verified licence-exam pattern found",
+    "level": "ANM registration",
+    "education": "ANM qualification from a recognised institution; NNC registration required by employers",
+    "age": "—",
+    "prelim": null,
+    "main": "No verified NNC licensing-exam pattern found for ANM (no question count, time, or pass mark in any source). Do not build an MCQ bank for ANM until an NNC notice is found.",
+    "final": "NNC registration (per employer requirements)",
+    "syllabus": [
+      "Community health nursing",
+      "Midwifery & maternal health",
+      "Child health & immunisation",
+      "Family planning",
+      "Nutrition",
+      "Health management & HMIS",
+      "First aid & basic clinical care"
+    ],
+    "note": "GUIDE-ONLY. ANM appears in PSC/local-level recruitment (model tests: 50 MCQ × 2 in 45 min — coaching-centre material, not an official licence pattern). Syllabus list is indicative from ANM course content, not an exam blueprint."
+  },
+  {
+    "id": "ayurveda-bams",
+    "name": "Ayurveda Licence — BAMS (NAMC) (Guide only)",
+    "name_ne": "आयुर्वेद लाइसेन्स परीक्षा (BAMS)",
+    "body": "Nepal Ayurveda Medical Council (NAMC)",
+    "level": "Ayurveda licence / permanent registration",
+    "education": "BAMS (5.5 years incl. internship) from a NAMC-recognised institution; internship completed",
+    "age": "—",
+    "prelim": null,
+    "main": "NAMC licensing examination for permanent registration — exam confirmed to exist (notices: 2081/06/12, 2081/12/09, announced 2083/07/17), but question count, marks, duration, pass mark and negative marking were NOT found in any source.",
+    "final": "NAMC permanent registration on passing",
+    "syllabus": [
+      "Ayurvedic fundamentals (Samhita, Siddhanta)",
+      "Dravyaguna",
+      "Rasashastra",
+      "Kayachikitsa",
+      "Shalya",
+      "Shalakya",
+      "Prasuti & Stri Roga",
+      "Kaumarbhritya",
+      "Modern medicine & surgery basics"
+    ],
+    "note": "GUIDE-ONLY. Do NOT confuse with the BAMS entrance exam (MECEE-BL: 200 MCQs, 3 hrs, -0.25) — that is admission, not licensing. Syllabus list is curriculum-derived, not an exam blueprint. Verify format from an NAMC notice before building questions."
+  },
+  {
+    "id": "mecee-bl",
+    "name": "MECEE-BL — Medical Education Common Entrance (Bachelor)",
+    "name_ne": "चिकित्सा शिक्षा साझा प्रवेश परीक्षा (स्नातक)",
+    "body": "Medical Education Commission (MEC)",
+    "level": "Bachelor-level medical entrance",
+    "education": "+2 Science (Biology group) / PCL",
+    "age": "—",
+    "prelim": {
+      "questions": 200,
+      "marksPerQ": 1,
+      "total": 200,
+      "timeMin": 180,
+      "pass": 100,
+      "negative": 0.25,
+      "breakdown": "Zoo 40 + Botany 40 + Chemistry 50 + Physics 50 + Mental Agility 20; -0.25/wrong; pass = 50th percentile (merit list)"
+    },
+    "main": "Merit list by percentile; counselling by MEC",
+    "final": "Admission to MBBS / BDS / BSc Nursing / BAMS / BPharm / BSc MLT etc.",
+    "syllabus": [
+      "Zoology",
+      "Botany",
+      "Chemistry",
+      "Physics",
+      "Mental Agility"
+    ],
+    "note": "Pass is the 50th percentile, not a fixed mark — the portal judges at 50% (100/200) as a proxy. Pattern per GAP-AUDIT §1 (Edusanjal/MEC notice); verify per notice."
+  },
+  {
+    "id": "nec-licence",
+    "name": "NEC Licence Examination (General Registration)",
+    "name_ne": "नेपाल इन्जिनियरिङ काउन्सिल लाइसेन्स परीक्षा",
+    "body": "Nepal Engineering Council (NEC)",
+    "level": "Engineering licence / registration",
+    "education": "BE in a NEC-recognised branch",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 120,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "100 MCQs x1, branch-specific papers; no negative marking"
+    },
+    "main": "—",
+    "final": "Registration with NEC on passing",
+    "syllabus": [
+      "Civil",
+      "Electrical",
+      "Computer",
+      "Mechanical",
+      "Engineering mathematics",
+      "Ethics & professional practice"
+    ],
+    "note": "Current format (from Nov 2025 model Qs): 100x1, 2 hrs, pass 50, no negative. Older format (to 2023) was 60x1 + 20x2 = 100. Twice a year; Mar 2023 pass rate 28.5%."
+  },
+  {
+    "id": "bar-council",
+    "name": "Nepal Bar Council — Advocate Licence (Paper 1)",
+    "name_ne": "नेपाल बार काउन्सिल — अधिवक्ता लाइसेन्स (पेपर १)",
+    "body": "Nepal Bar Council",
+    "level": "Advocate licence",
+    "education": "LLB / law degree",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 90,
+      "pass": 50,
+      "negative": 0,
+      "breakdown": "Paper 1 Constitution & Law: 100 MCQs x1; no negative marking"
+    },
+    "main": "Paper 2 Drafting 90 + Translation 10 (4 hrs total), pass 50 combined",
+    "final": "Interview 20 (pass 10, incl. 8-min debate); then supervised internship + 3-day training",
+    "syllabus": [
+      "Constitution of Nepal 2072",
+      "Civil law (Muluki Civil Code 2074)",
+      "Criminal law (Muluki Criminal Code 2074)",
+      "Legal principles, writs, court hierarchy"
+    ],
+    "note": "Pattern per GAP-AUDIT §1 (Edusanjal advocate-licence page); verify per council notice."
+  },
+  {
+    "id": "csit-entrance",
+    "name": "BSc CSIT Entrance (TU IOST)",
+    "name_ne": "बीएससी सीएसआईटी प्रवेश परीक्षा",
+    "body": "Tribhuvan University, Institute of Science and Technology",
+    "level": "BSc CSIT entrance",
+    "education": "+2 Science / equivalent",
+    "age": "—",
+    "prelim": {
+      "questions": 100,
+      "marksPerQ": 1,
+      "total": 100,
+      "timeMin": 120,
+      "pass": 35,
+      "negative": 0,
+      "breakdown": "Maths 25 + Physics 25 + Chemistry 25 + English 15 + Computer GK 10; no negative marking"
+    },
+    "main": "Merit list by TU IOST",
+    "final": "Admission to BSc CSIT",
+    "syllabus": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "English",
+      "Computer GK"
+    ],
+    "note": "Pattern per GAP-AUDIT §1 (TU IOST 2083 notice + official model paper). One source claims 140 marks/-0.1 — that is the IOE pattern misattributed; majority + official model paper say 100/100/no negative."
+  },
+  {
+    "id": "ioe-entrance",
+    "name": "IOE Entrance (TU Institute of Engineering)",
+    "name_ne": "आईओई प्रवेश परीक्षा",
+    "body": "Tribhuvan University, Institute of Engineering",
+    "level": "BE / BArch entrance",
+    "education": "+2 Science / equivalent",
+    "age": "—",
+    "prelim": null,
+    "main": "Merit list by IOE",
+    "final": "Admission to BE / BArch",
+    "syllabus": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "English"
+    ],
+    "note": "Verified pattern (2082/2083): CBT, 100 MCQs, 140 marks (60x1 + 40x2), 2 hrs, -10% per wrong answer. Guide-only in this portal: the mock engine assumes uniform marks per question, so no mock until mixed-mark support is added. Practice questions are usable."
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "slug": "english",
+  "topic": "English",
+  "title_en": "English — one-pager",
+  "title_ne": "अङ्ग्रेजी — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Present simple for habits and facts: She goes to school every day.",
+      "ne": "बानी/तथ्यका लागि present simple: She goes to school every day।"
+    },
+    {
+      "en": "Past simple for finished time: They played football yesterday.",
+      "ne": "बितेको समयका लागि past simple: They played football yesterday।"
+    },
+    {
+      "en": "Present continuous for 'now': I am doing my homework now.",
+      "ne": "'अहिले' का लागि present continuous: I am doing my homework now।"
+    },
+    {
+      "en": "Subject–verb agreement: singular subject + singular verb (He goes; They go).",
+      "ne": "कर्ता–क्रिया मिलान: एकवचन कर्ता + एकवचन क्रिया (He goes; They go)।"
+    },
+    {
+      "en": "Articles: a/an for the first mention of a singular countable noun; the for something specific; an before vowel sounds.",
+      "ne": "Articles: एकवचन गणनीय संज्ञाको पहिलो उल्लेखमा a/an; निर्दिष्ट कुराका लागि the; स्वर ध्वनिअघि an।"
+    },
+    {
+      "en": "Prepositions: in (months, years, countries), on (days, dates), at (clock time, exact points).",
+      "ne": "Prepositions: in (महिना, वर्ष, देश), on (बार, मिति), at (समय, ठ्याक्कै ठाउँ)।"
+    },
+    {
+      "en": "Active → passive: S + V + O becomes O + be + V3 (+ by S). 'She wrote a letter' → 'A letter was written by her.'",
+      "ne": "Active → passive: S + V + O → O + be + V3 (+ by S)। 'She wrote a letter' → 'A letter was written by her.'"
+    },
+    {
+      "en": "Direct → indirect speech: shift the tense one step back. 'I am tired' → He said that he was tired.",
+      "ne": "Direct → indirect: काल एक पाइला पछाडि सार्नुहोस्। 'I am tired' → He said that he was tired।"
+    },
+    {
+      "en": "Comparative: -er / more … than. Superlative: the + -est / most.",
+      "ne": "तुलनात्मक: -er / more … than। सर्वोच्च: the + -est / most।"
+    },
+    {
+      "en": "Confusing pairs: their/there/they're, your/you're, its/it's.",
+      "ne": "झुक्किने जोडी: their/there/they're, your/you're, its/it's।"
+    },
+    {
+      "en": "Question tags: positive statement → negative tag: 'She is here, isn't she?'",
+      "ne": "Question tag: सकारात्मक वाक्य → नकारात्मक tag: 'She is here, isn't she?'"
+    },
+    {
+      "en": "Vocabulary: use roots and prefixes (un-, in-, dis-, re-) to guess meanings; eliminate wrong options first.",
+      "ne": "शब्दावली: धातु र उपसर्ग (un-, in-, dis-, re-) बाट अर्थ अनुमान गर्नुहोस्; गलत विकल्प पहिले हटाउनुहोस्।"
+    },
+    {
+      "en": "Spelling: i before e except after c — believe, receive.",
+      "ne": "हिज्जे: c पछि बाहेक i, e अघि आउँछ — believe, receive।"
+    },
+    {
+      "en": "First conditional: If + present simple → will + verb. 'If it rains, we will stay home.'",
+      "ne": "पहिलो conditional: If + present simple → will + क्रिया। 'If it rains, we will stay home.'"
+    }
+  ]
+}

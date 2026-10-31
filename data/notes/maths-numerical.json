@@ -1,0 +1,66 @@
+{
+  "slug": "maths-numerical",
+  "topic": "Maths & Numerical",
+  "title_en": "Maths & Numerical — one-pager",
+  "title_ne": "गणित र सङ्ख्यात्मक — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Percentage: x% of N = (x/100) × N. Example: 20% of 500 = 100.",
+      "ne": "प्रतिशत: N को x% = (x/100) × N। उदाहरण: 500 को 20% = 100।"
+    },
+    {
+      "en": "Percentage change = (change ÷ original) × 100.",
+      "ne": "प्रतिशत परिवर्तन = (परिवर्तन ÷ सुरुको मान) × 100।"
+    },
+    {
+      "en": "Profit% = (profit ÷ CP) × 100; Loss% = (loss ÷ CP) × 100. SP = CP × (1 ± p/100).",
+      "ne": "नाफा% = (नाफा ÷ क्रयमूल्य) × 100; नोक्सान% = (नोक्सान ÷ क्रयमूल्य) × 100। विक्रयमूल्य = क्रयमूल्य × (1 ± p/100)।"
+    },
+    {
+      "en": "Simple interest: SI = P×R×T/100; Amount = P + SI.",
+      "ne": "साधारण ब्याज: ब्याज = मूलधन×दर×समय/100; मिश्रधन = मूलधन + ब्याज।"
+    },
+    {
+      "en": "Compound interest: Amount = P(1 + R/100)^n; CI = Amount − P.",
+      "ne": "चक्रवृद्धि ब्याज: मिश्रधन = P(1 + R/100)^n; ब्याज = मिश्रधन − मूलधन।"
+    },
+    {
+      "en": "Speed = distance ÷ time. km/h → m/s: multiply by 5/18 (e.g. 36 km/h = 10 m/s).",
+      "ne": "गति = दूरी ÷ समय। km/h → m/s: 5/18 ले गुणन (जस्तै 36 km/h = 10 m/s)।"
+    },
+    {
+      "en": "Train crossing a platform: time = (train length + platform length) ÷ speed.",
+      "ne": "रेलले प्लेटफर्म पार गर्दा: समय = (रेलको लम्बाइ + प्लेटफर्मको लम्बाइ) ÷ गति।"
+    },
+    {
+      "en": "Time–work: 1 day's work = 1 ÷ total days. A and B together do 1/a + 1/b per day.",
+      "ne": "काम–समय: 1 दिनको काम = 1 ÷ जम्मा दिन। A र B सँगै प्रतिदिन 1/a + 1/b गर्छन्।"
+    },
+    {
+      "en": "Average = sum of values ÷ number of values.",
+      "ne": "औसत = मानहरूको योग ÷ मानहरूको सङ्ख्या।"
+    },
+    {
+      "en": "Areas: triangle ½×b×h; rectangle l×b; circle πr²; square a².",
+      "ne": "क्षेत्रफल: त्रिभुज ½×आधार×उचाइ; आयत ल×चौ; वृत्त πr²; वर्ग a²।"
+    },
+    {
+      "en": "Identities: (a+b)² = a²+2ab+b²; (a−b)² = a²−2ab+b²; a²−b² = (a−b)(a+b).",
+      "ne": "सर्वसमिका: (a+b)² = a²+2ab+b²; (a−b)² = a²−2ab+b²; a²−b² = (a−b)(a+b)।"
+    },
+    {
+      "en": "Sum 1 to n = n(n+1)/2. Sum of first n odd numbers = n² (e.g. first 8 odds = 64).",
+      "ne": "1 देखि n सम्मको योग = n(n+1)/2। पहिलो n बिजोर सङ्ख्याको योग = n² (जस्तै पहिलो 8 वटा = 64)।"
+    },
+    {
+      "en": "Ratio a:b = a/b. Proportion: if a/b = c/d then a×d = b×c.",
+      "ne": "अनुपात a:b = a/b। समानुपात: a/b = c/d भए a×d = b×c।"
+    },
+    {
+      "en": "For two numbers: product = LCM × HCF.",
+      "ne": "दुई सङ्ख्याको गुणनफल = ल.स. × म.स.।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "iq-reasoning",
+  "topic": "IQ & Reasoning",
+  "title_en": "IQ & Reasoning — one-pager",
+  "title_ne": "बुद्धिमत्ता र तर्क — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "Arithmetic series: constant difference. 3, 7, 11, 15 → +4, so the next term is 19.",
+      "ne": "समान्तर श्रेणी: स्थिर अन्तर। 3, 7, 11, 15 → +4, अर्को पद 19।"
+    },
+    {
+      "en": "Geometric series: constant ratio (×2, ×3, …).",
+      "ne": "गुणोत्तर श्रेणी: स्थिर अनुपात (×2, ×3, …)।"
+    },
+    {
+      "en": "Square series: 1, 4, 9, 16, 25, 36 … — the gaps are odd numbers (3, 5, 7 …).",
+      "ne": "वर्ग श्रेणी: 1, 4, 9, 16, 25, 36 … — अन्तरहरू बिजोर सङ्ख्या (3, 5, 7 …)।"
+    },
+    {
+      "en": "Cube series: 1, 8, 27, 64, 125 …",
+      "ne": "घन श्रेणी: 1, 8, 27, 64, 125 …"
+    },
+    {
+      "en": "Prime series: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.",
+      "ne": "अभाज्य श्रेणी: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29।"
+    },
+    {
+      "en": "Interleaved series: two series woven together — check alternate terms separately.",
+      "ne": "मिसिएको श्रेणी: दुई श्रेणी गाँसिएका हुन्छन् — एकान्तर पद छुट्टाछुट्टै हेर्नुहोस्।"
+    },
+    {
+      "en": "Letter coding: A=1, B=2 … Z=26. Common shifts: +1 (CAT → DBU), −1, or reversed.",
+      "ne": "अक्षर कोडिङ: A=1, B=2 … Z=26। सामान्य सिफ्ट: +1 (CAT → DBU), −1, वा उल्टो।"
+    },
+    {
+      "en": "Reverse alphabet: Z=1, Y=2 …; mirror pairs A↔Z, B↔Y, C↔X.",
+      "ne": "उल्टो वर्णमाला: Z=1, Y=2 …; ऐना जोडी A↔Z, B↔Y, C↔X।"
+    },
+    {
+      "en": "Blood relations: draw the family tree. Example: 'mother's brother' = uncle (मामा).",
+      "ne": "रक्तसम्बन्ध: वंशवृक्ष बनाउनुहोस्। उदाहरण: 'आमाको भाइ' = मामा।"
+    },
+    {
+      "en": "Odd one out: find the property three options share; the fourth breaks it.",
+      "ne": "नमिल्दो छुट्याउनुहोस्: तीन विकल्पले साझा गर्ने गुण पत्ता लगाउनुहोस्; चौथोले तोड्छ।"
+    },
+    {
+      "en": "Direction sense: draw a compass and track every left/right turn step by step.",
+      "ne": "दिशा ज्ञान: कम्पास कोर्नुहोस् र हरेक बायाँ/दायाँ मोड क्रमशः ट्र्याक गर्नुहोस्।"
+    },
+    {
+      "en": "Ranking: position from left + position from right − 1 = total people.",
+      "ne": "क्रम: बायाँबाट स्थान + दायाँबाट स्थान − 1 = जम्मा व्यक्ति।"
+    },
+    {
+      "en": "Calendar: a leap year is divisible by 4 (centuries by 400); odd days fix the weekday.",
+      "ne": "पात्रो: अधिवर्ष 4 ले भाग जान्छ (शताब्दी 400 ले); बाँकी दिनले बार निर्धारण गर्छ।"
+    },
+    {
+      "en": "Syllogism: 'All A are B' + 'All B are C' → 'All A are C' is valid.",
+      "ne": "न्यायवाक्य: 'सबै A, B हुन्' + 'सबै B, C हुन्' → 'सबै A, C हुन्' मान्य छ।"
+    }
+  ]
+}

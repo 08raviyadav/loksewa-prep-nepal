@@ -1,0 +1,58 @@
+{
+  "slug": "banking-finance",
+  "topic": "Banking & Finance",
+  "title_en": "Banking & Finance — one-pager",
+  "title_ne": "बैंकिङ र वित्त — एक-पृष्ठीय नोट",
+  "updated": "2026-10-31",
+  "source_note": "Facts cross-checked against the app's question bank and standard references.",
+  "bullets": [
+    {
+      "en": "NRB = Nepal Rastra Bank, the central bank (est. 2013 BS / 1956 AD).",
+      "ne": "नेपाल राष्ट्र बैंक = केन्द्रीय बैंक (स्थापना 2013 वि.सं./1956)।"
+    },
+    {
+      "en": "NRB's jobs: issue currency, set monetary policy, act as the banker's bank and lender of last resort, manage forex reserves.",
+      "ne": "राष्ट्र बैंकका काम: मुद्रा निष्कासन, मौद्रिक नीति, बैंकहरूको बैंक, अन्तिम ऋणदाता, विदेशी मुद्रा सञ्चिति व्यवस्थापन।"
+    },
+    {
+      "en": "A commercial bank's main business: accept deposits and give loans.",
+      "ne": "वाणिज्य बैंकको मुख्य व्यवसाय: निक्षेप लिने र ऋण दिने।"
+    },
+    {
+      "en": "Bank types: central bank, commercial banks, development banks, finance companies, microfinance.",
+      "ne": "बैंकका प्रकार: केन्द्रीय, वाणिज्य, विकास बैंक, फाइनान्स कम्पनी, लघुवित्त।"
+    },
+    {
+      "en": "'Banker's bank': NRB keeps commercial banks' reserves and lends to them.",
+      "ne": "'बैंकहरूको बैंक': राष्ट्र बैंकले वाणिज्य बैंकहरूको जगेडा राख्छ र ऋण दिन्छ।"
+    },
+    {
+      "en": "CRR/SLR: the reserves banks must keep (with NRB / in liquid assets).",
+      "ne": "CRR/SLR: बैंकहरूले राख्नुपर्ने जगेडा (राष्ट्र बैंकमा / तरल सम्पत्तिमा)।"
+    },
+    {
+      "en": "Spread = lending rate minus deposit rate — a bank's margin.",
+      "ne": "स्प्रेड = कर्जा ब्याजदर − निक्षेप ब्याजदर — बैंकको मार्जिन।"
+    },
+    {
+      "en": "KYC = Know Your Customer. NPA = non-performing asset (a bad loan).",
+      "ne": "KYC = ग्राहक पहिचान। NPA = निष्क्रिय सम्पत्ति (खराब कर्जा)।"
+    },
+    {
+      "en": "Account types: saving, current, fixed deposit.",
+      "ne": "खाताका प्रकार: बचत, चालु, मुद्दती निक्षेप।"
+    },
+    {
+      "en": "Cheque, bank draft, letter of credit (LC), remittance — payment instruments.",
+      "ne": "चेक, बैंक ड्राफ्ट, प्रतीतपत्र (LC), विप्रेषण — भुक्तानी साधन।"
+    },
+    {
+      "en": "Digital wallets (eSewa, Khalti) are licensed by NRB as PSP/PSO.",
+      "ne": "डिजिटल वालेट (eSewa, Khalti) राष्ट्र बैंकबाट PSP/PSO इजाजतप्राप्त।"
+    },
+    {
+      "en": "Higher risk usually demands higher return; diversify to manage risk.",
+      "ne": "बढी जोखिममा बढी प्रतिफल खोजिन्छ; जोखिम घटाउन विविधीकरण।"
+    }
+  ]
+}
