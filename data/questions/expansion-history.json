@@ -1,0 +1,6876 @@
+[
+ {
+  "id": "HIST2-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was Prithvi Narayan Shah born?",
+  "options": [
+   "1744",
+   "1768",
+   "1775",
+   "1723"
+  ],
+  "answer": 3,
+  "explanation": "Prithvi Narayan Shah was born in 1723 in Gorkha.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीनारायण शाहको जन्म कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१७४४",
+   "१७६८",
+   "१७७५",
+   "१७२३"
+  ],
+  "explanation_ne": "पृथ्वीनारायण शाहको जन्म १७२३ मा गोरखामा भएको थियो।"
+ },
+ {
+  "id": "HIST2-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the father of Prithvi Narayan Shah?",
+  "options": [
+   "Pratap Singh Shah",
+   "Nara Bhupal Shah",
+   "Ram Shah",
+   "Drabya Shah"
+  ],
+  "answer": 1,
+  "explanation": "Nara Bhupal Shah, king of Gorkha, was the father of Prithvi Narayan Shah.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीनारायण शाहका पिता को थिए?",
+  "options_ne": [
+   "प्रतापसिंह शाह",
+   "नरभूपाल शाह",
+   "राम शाह",
+   "द्रव्य शाह"
+  ],
+  "explanation_ne": "गोरखाका राजा नरभूपाल शाह पृथ्वीनारायण शाहका पिता थिए।"
+ },
+ {
+  "id": "HIST2-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Prithvi Narayan Shah die?",
+  "options": [
+   "1775",
+   "1780",
+   "1790",
+   "1768"
+  ],
+  "answer": 0,
+  "explanation": "Prithvi Narayan Shah died in 1775 at Nuwakot.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीनारायण शाहको मृत्यु कुन वर्षमा भयो?",
+  "options_ne": [
+   "१७७५",
+   "१७८०",
+   "१७९०",
+   "१७६८"
+  ],
+  "explanation_ne": "पृथ्वीनारायण शाहको मृत्यु १७७५ मा नुवाकोटमा भयो।"
+ },
+ {
+  "id": "HIST2-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who founded the Gorkha kingdom, the first Shah king of Gorkha?",
+  "options": [
+   "Prithvi Narayan Shah",
+   "Nara Bhupal Shah",
+   "Drabya Shah",
+   "Ram Shah"
+  ],
+  "answer": 2,
+  "explanation": "Drabya Shah founded the Gorkha kingdom in 1559.",
+  "source": "General knowledge",
+  "question_ne": "गोरखा राज्यका प्रथम शाह राजा, गोरखा राज्यका संस्थापक को थिए?",
+  "options_ne": [
+   "पृथ्वीनारायण शाह",
+   "नरभूपाल शाह",
+   "द्रव्य शाह",
+   "राम शाह"
+  ],
+  "explanation_ne": "द्रव्य शाहले १५५९ मा गोरखा राज्य स्थापना गरेका थिए।"
+ },
+ {
+  "id": "HIST2-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the Gorkha kingdom founded by Drabya Shah?",
+  "options": [
+   "1723",
+   "1768",
+   "1559",
+   "1616"
+  ],
+  "answer": 2,
+  "explanation": "Drabya Shah founded Gorkha in 1559.",
+  "source": "General knowledge",
+  "question_ne": "द्रव्य शाहले गोरखा राज्य कुन वर्षमा स्थापना गरेका थिए?",
+  "options_ne": [
+   "१७२३",
+   "१७६८",
+   "१५५९",
+   "१६१६"
+  ],
+  "explanation_ne": "द्रव्य शाहले १५५९ मा गोरखा स्थापना गरेका थिए।"
+ },
+ {
+  "id": "HIST2-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Gorkha king is known for administrative reforms and the saying that a king should be just to his people?",
+  "options": [
+   "Drabya Shah",
+   "Ram Shah",
+   "Prithvi Narayan Shah",
+   "Nara Bhupal Shah"
+  ],
+  "answer": 1,
+  "explanation": "Ram Shah (1606-1636) is remembered for just rule and administrative reforms in Gorkha.",
+  "source": "General knowledge",
+  "question_ne": "न्यायपूर्ण शासन र प्रशासनिक सुधारका लागि प्रसिद्ध गोरखाका राजा को हुन्?",
+  "options_ne": [
+   "द्रव्य शाह",
+   "राम शाह",
+   "पृथ्वीनारायण शाह",
+   "नरभूपाल शाह"
+  ],
+  "explanation_ne": "राम शाह (१६०६-१६३६) गोरखामा न्यायपूर्ण शासन र प्रशासनिक सुधारका लागि स्मरण गरिन्छन्।"
+ },
+ {
+  "id": "HIST2-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which battle of 1767 is famous because the British force led by Captain Kinloch was defeated by the Gorkhalis at Sindhuli?",
+  "options": [
+   "Battle of Nuwakot",
+   "Battle of Kirtipur",
+   "Battle of Sindhuli",
+   "Battle of Makwanpur"
+  ],
+  "answer": 2,
+  "explanation": "In the Battle of Sindhuli in 1767, Gorkhali forces defeated Captain Kinloch's British expedition.",
+  "source": "General knowledge",
+  "question_ne": "१७६७ को कुन युद्धमा क्याप्टेन किनलकको नेतृत्वको ब्रिटिस सेना गोरखालीबाट सिन्धुलीमा पराजित भएको थियो?",
+  "options_ne": [
+   "नुवाकोटको युद्ध",
+   "कीर्तिपुरको युद्ध",
+   "सिन्धुलीको युद्ध",
+   "मकवानपुरको युद्ध"
+  ],
+  "explanation_ne": "१७६७ को सिन्धुली युद्धमा गोरखाली सेनाले क्याप्टेन किनलकको ब्रिटिस टोलीलाई पराजित गरेको थियो।"
+ },
+ {
+  "id": "HIST2-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Kirtipur was conquered by Prithvi Narayan Shah in which year, after two earlier failed attempts?",
+  "options": [
+   "1768",
+   "1767",
+   "1766",
+   "1769"
+  ],
+  "answer": 1,
+  "explanation": "Kirtipur fell to Prithvi Narayan Shah in 1767 on the third attempt.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीनारायण शाहले दुई पटक असफल भएपछि कीर्तिपुर कुन वर्षमा विजय गरे?",
+  "options_ne": [
+   "१७६८",
+   "१७६७",
+   "१७६६",
+   "१७६९"
+  ],
+  "explanation_ne": "कीर्तिपुर १७६७ मा तेस्रो प्रयासमा पृथ्वीनारायण शाहको हातमा पर्यो।"
+ },
+ {
+  "id": "HIST2-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which Malla king was ruling Kantipur when Prithvi Narayan Shah conquered Kathmandu in 1768?",
+  "options": [
+   "Yaksha Malla",
+   "Jaya Prakash Malla",
+   "Ranajit Malla",
+   "Tej Narasimha Malla"
+  ],
+  "answer": 1,
+  "explanation": "Jaya Prakash Malla was the king of Kantipur (Kathmandu) in 1768.",
+  "source": "General knowledge",
+  "question_ne": "१७६८ मा पृथ्वीनारायण शाहले काठमाडौं विजय गर्दा कान्तिपुरका मल्ल राजा को थिए?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "जयप्रकाश मल्ल",
+   "रणजित मल्ल",
+   "तेजनरसिंह मल्ल"
+  ],
+  "explanation_ne": "१७६८ मा कान्तिपुर (काठमाडौं) का राजा जयप्रकाश मल्ल थिए।"
+ },
+ {
+  "id": "HIST2-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the king of Bhaktapur when it was conquered in 1769, completing the conquest of Kathmandu Valley?",
+  "options": [
+   "Tej Narasimha Malla",
+   "Bhupatindra Malla",
+   "Ranajit Malla",
+   "Jaya Prakash Malla"
+  ],
+  "answer": 2,
+  "explanation": "Ranajit Malla ruled Bhaktapur when it fell in 1769, the last valley kingdom to be conquered.",
+  "source": "General knowledge",
+  "question_ne": "१७६९ मा भक्तपुर विजय हुँदा त्यहाँका राजा को थिए?",
+  "options_ne": [
+   "तेजनरसिंह मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "रणजित मल्ल",
+   "जयप्रकाश मल्ल"
+  ],
+  "explanation_ne": "१७६९ मा भक्तपुर पतन हुँदा त्यहाँ रणजित मल्ल राजा थिए।"
+ },
+ {
+  "id": "HIST2-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the king of Lalitpur (Patan) at the time of the Gorkha conquest of the valley?",
+  "options": [
+   "Srinivasa Malla",
+   "Tej Narasimha Malla",
+   "Yog Narendra Malla",
+   "Siddhi Narasimha Malla"
+  ],
+  "answer": 1,
+  "explanation": "Tej Narasimha Malla was the king of Lalitpur when it was conquered in 1768.",
+  "source": "General knowledge",
+  "question_ne": "गोरखा विजयका समयमा ललितपुर (पाटन) का राजा को थिए?",
+  "options_ne": [
+   "श्रीनिवास मल्ल",
+   "तेजनरसिंह मल्ल",
+   "योगनरेन्द्र मल्ल",
+   "सिद्धिनरसिंह मल्ल"
+  ],
+  "explanation_ne": "१७६८ मा विजय हुँदा ललितपुरका राजा तेजनरसिंह मल्ल थिए।"
+ },
+ {
+  "id": "HIST2-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is regarded as the first historical king of Nepal, founder of the Lichhavi dynasty?",
+  "options": [
+   "Amshuverma",
+   "Supushpa Deva",
+   "Narendra Deva",
+   "Mandev I"
+  ],
+  "answer": 1,
+  "explanation": "Supushpa Deva is traditionally regarded as the founder of the Lichhavi dynasty in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका प्रथम ऐतिहासिक राजा, लिच्छवि वंशका संस्थापक को मानिन्छन्?",
+  "options_ne": [
+   "अंशुवर्मा",
+   "सुपुष्प देव",
+   "नरेन्द्र देव",
+   "मानदेव प्रथम"
+  ],
+  "explanation_ne": "सुपुष्प देव नेपालमा लिच्छवि वंशका संस्थापक मानिन्छन्।"
+ },
+ {
+  "id": "HIST2-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Lichhavi king is famous for the Changunarayan inscription of 464 AD, the oldest dated inscription in Nepal?",
+  "options": [
+   "Amshuverma",
+   "Narendra Deva",
+   "Mandev I",
+   "Shivadeva I"
+  ],
+  "answer": 2,
+  "explanation": "The Changunarayan inscription of 464 AD was issued during the reign of King Mandev I.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पुरानो मितियुक्त अभिलेख, ४६४ ई. को चाँगुनारायण अभिलेख कुन लिच्छवि राजासँग सम्बन्धित छ?",
+  "options_ne": [
+   "अंशुवर्मा",
+   "नरेन्द्र देव",
+   "मानदेव प्रथम",
+   "शिवदेव प्रथम"
+  ],
+  "explanation_ne": "४६४ ई. को चाँगुनारायण अभिलेख राजा मानदेव प्रथमको शासनकालमा जारी भएको थियो।"
+ },
+ {
+  "id": "HIST2-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Where is the oldest dated inscription of Nepal, the Changunarayan inscription, located?",
+  "options": [
+   "Swayambhu",
+   "Lumbini",
+   "Pashupatinath",
+   "Changunarayan, Bhaktapur"
+  ],
+  "answer": 3,
+  "explanation": "The Changunarayan inscription (464 AD) is at the Changunarayan temple in Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पुरानो मितियुक्त अभिलेख चाँगुनारायण अभिलेख कहाँ छ?",
+  "options_ne": [
+   "स्वयम्भू",
+   "लुम्बिनी",
+   "पशुपतिनाथ",
+   "चाँगुनारायण, भक्तपुर"
+  ],
+  "explanation_ne": "चाँगुनारायण अभिलेख (४६४ ई.) भक्तपुरको चाँगुनारायण मन्दिरमा छ।"
+ },
+ {
+  "id": "HIST2-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Lichhavi ruler is known as a great administrator who took the title of Maharajadhiraja?",
+  "options": [
+   "Jishnu Gupta",
+   "Mandev I",
+   "Amshuverma",
+   "Narendra Deva"
+  ],
+  "answer": 2,
+  "explanation": "Amshuverma (c. 605-621 AD) was a powerful Lichhavi ruler known for able administration.",
+  "source": "General knowledge",
+  "question_ne": "महाराजाधिराज उपाधि लिने महान् प्रशासकका रूपमा चिनिने लिच्छवि शासक को हुन्?",
+  "options_ne": [
+   "जिष्णु गुप्त",
+   "मानदेव प्रथम",
+   "अंशुवर्मा",
+   "नरेन्द्र देव"
+  ],
+  "explanation_ne": "अंशुवर्मा (लगभग ६०५-६२१ ई.) सक्षम प्रशासनका लागि परिचित शक्तिशाली लिच्छवि शासक थिए।"
+ },
+ {
+  "id": "HIST2-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Lichhavi king invited the Chinese pilgrim Hsuan Tsang's contemporary era and built the Kailashkut Bhawan palace?",
+  "options": [
+   "Mandev I",
+   "Udayadeva",
+   "Amshuverma",
+   "Narendra Deva"
+  ],
+  "answer": 3,
+  "explanation": "Narendra Deva is credited with building the Kailashkut Bhawan palace in the 7th century.",
+  "source": "General knowledge",
+  "question_ne": "कैलाशकुट भवन दरबार बनाउने लिच्छवि राजा को हुन्?",
+  "options_ne": [
+   "मानदेव प्रथम",
+   "उदयदेव",
+   "अंशुवर्मा",
+   "नरेन्द्र देव"
+  ],
+  "explanation_ne": "नरेन्द्र देवलाई ७औं शताब्दीमा कैलाशकुट भवन दरबार बनाएको श्रेय दिइन्छ।"
+ },
+ {
+  "id": "HIST2-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who founded the Malla dynasty in Kathmandu Valley?",
+  "options": [
+   "Yaksha Malla",
+   "Arideva Malla",
+   "Jayasthiti Malla",
+   "Pratap Malla"
+  ],
+  "answer": 1,
+  "explanation": "Arideva Malla founded the Malla dynasty in the 12th century.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं उपत्यकामा मल्ल वंशका संस्थापक को हुन्?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "अरिदेव मल्ल",
+   "जयस्थिति मल्ल",
+   "प्रताप मल्ल"
+  ],
+  "explanation_ne": "अरिदेव मल्लले १२औं शताब्दीमा मल्ल वंश स्थापना गरेका थिए।"
+ },
+ {
+  "id": "HIST2-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Malla king divided Kathmandu Valley into three kingdoms among his sons?",
+  "options": [
+   "Jayasthiti Malla",
+   "Pratap Malla",
+   "Yaksha Malla",
+   "Bhupatindra Malla"
+  ],
+  "answer": 2,
+  "explanation": "Yaksha Malla divided the valley among his sons, creating the three kingdoms of Kantipur, Lalitpur and Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं उपत्यकालाई आफ्ना छोराहरूबीच तीन राज्यमा विभाजन गर्ने मल्ल राजा को हुन्?",
+  "options_ne": [
+   "जयस्थिति मल्ल",
+   "प्रताप मल्ल",
+   "यक्ष मल्ल",
+   "भूपतीन्द्र मल्ल"
+  ],
+  "explanation_ne": "यक्ष मल्लले उपत्यकालाई छोराहरूबीच बाँडेर कान्तिपुर, ललितपुर र भक्तपुर तीन राज्य बनाए।"
+ },
+ {
+  "id": "HIST2-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Malla king is known for social and legal reforms and for introducing the caste-based division of occupations?",
+  "options": [
+   "Yaksha Malla",
+   "Ranajit Malla",
+   "Jayasthiti Malla",
+   "Pratap Malla"
+  ],
+  "answer": 2,
+  "explanation": "Jayasthiti Malla (14th century) introduced wide social, legal and economic reforms.",
+  "source": "General knowledge",
+  "question_ne": "सामाजिक तथा कानुनी सुधार र पेसाका आधारमा जात विभाजनका लागि चिनिने मल्ल राजा को हुन्?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "रणजित मल्ल",
+   "जयस्थिति मल्ल",
+   "प्रताप मल्ल"
+  ],
+  "explanation_ne": "जयस्थिति मल्ल (१४औं शताब्दी) ले व्यापक सामाजिक, कानुनी र आर्थिक सुधार गरे।"
+ },
+ {
+  "id": "HIST2-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which Malla king built the 55-Window Palace in Bhaktapur?",
+  "options": [
+   "Jaya Prakash Malla",
+   "Ranajit Malla",
+   "Bhupatindra Malla",
+   "Pratap Malla"
+  ],
+  "answer": 2,
+  "explanation": "Bhupatindra Malla built the 55-Window Palace in Bhaktapur Durbar Square.",
+  "source": "General knowledge",
+  "question_ne": "भक्तपुरमा ५५ झ्याले दरबार बनाउने मल्ल राजा को हुन्?",
+  "options_ne": [
+   "जयप्रकाश मल्ल",
+   "रणजित मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "प्रताप मल्ल"
+  ],
+  "explanation_ne": "भूपतीन्द्र मल्लले भक्तपुर दरबार क्षेत्रमा ५५ झ्याले दरबार बनाए।"
+ },
+ {
+  "id": "HIST2-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Malla king built the Krishna Mandir in Patan Durbar Square?",
+  "options": [
+   "Yog Narendra Malla",
+   "Pratap Malla",
+   "Siddhi Narasimha Malla",
+   "Srinivasa Malla"
+  ],
+  "answer": 2,
+  "explanation": "Siddhi Narasimha Malla built the stone Krishna Mandir in Patan in the 17th century.",
+  "source": "General knowledge",
+  "question_ne": "पाटन दरबार क्षेत्रमा कृष्ण मन्दिर बनाउने मल्ल राजा को हुन्?",
+  "options_ne": [
+   "योगनरेन्द्र मल्ल",
+   "प्रताप मल्ल",
+   "सिद्धिनरसिंह मल्ल",
+   "श्रीनिवास मल्ल"
+  ],
+  "explanation_ne": "सिद्धिनरसिंह मल्लले १७औं शताब्दीमा पाटनमा ढुङ्गाको कृष्ण मन्दिर बनाए।"
+ },
+ {
+  "id": "HIST2-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Malla king of Kantipur built the Hanuman Dhoka palace complex's main structures and is known as a poet and scholar?",
+  "options": [
+   "Yaksha Malla",
+   "Pratap Malla",
+   "Jaya Prakash Malla",
+   "Bhupatindra Malla"
+  ],
+  "answer": 1,
+  "explanation": "Pratap Malla (17th century) expanded Hanuman Dhoka and was known as a scholar-poet king.",
+  "source": "General knowledge",
+  "question_ne": "हनुमानढोका दरबारको मुख्य संरचना बनाउने र विद्वान्-कवि राजाका रूपमा चिनिने कान्तिपुरका मल्ल राजा को हुन्?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "प्रताप मल्ल",
+   "जयप्रकाश मल्ल",
+   "भूपतीन्द्र मल्ल"
+  ],
+  "explanation_ne": "प्रताप मल्ल (१७औं शताब्दी) ले हनुमानढोका विस्तार गरे र विद्वान्-कवि राजा थिए।"
+ },
+ {
+  "id": "HIST2-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year is Gautam Buddha believed to have been born in Lumbini?",
+  "options": [
+   "483 BC",
+   "256 BC",
+   "623 BC",
+   "563 BC"
+  ],
+  "answer": 3,
+  "explanation": "Buddha is traditionally believed to have been born in 563 BC in Lumbini.",
+  "source": "General knowledge",
+  "question_ne": "गौतम बुद्धको जन्म लुम्बिनीमा कुन वर्षमा भएको मानिन्छ?",
+  "options_ne": [
+   "ई.पू. ४८३",
+   "ई.पू. २५६",
+   "ई.पू. ६२३",
+   "ई.पू. ५६३"
+  ],
+  "explanation_ne": "बुद्धको जन्म परम्परागत रूपमा ई.पू. ५६३ मा लुम्बिनीमा भएको मानिन्छ।"
+ },
+ {
+  "id": "HIST2-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which emperor erected the Ashoka Pillar at Lumbini in the 3rd century BC?",
+  "options": [
+   "Emperor Kanishka",
+   "King Harsha",
+   "Emperor Ashoka",
+   "King Mandev I"
+  ],
+  "answer": 2,
+  "explanation": "Emperor Ashoka visited Lumbini in 249 BC and erected the pillar marking Buddha's birthplace.",
+  "source": "General knowledge",
+  "question_ne": "ई.पू. तेस्रो शताब्दीमा लुम्बिनीमा अशोक स्तम्भ खडा गर्ने सम्राट को थिए?",
+  "options_ne": [
+   "सम्राट कनिष्क",
+   "राजा हर्ष",
+   "सम्राट अशोक",
+   "राजा मानदेव प्रथम"
+  ],
+  "explanation_ne": "सम्राट अशोकले ई.पू. २४९ मा लुम्बिनी भ्रमण गरी बुद्धको जन्मस्थल चिनाउने स्तम्भ खडा गरे।"
+ },
+ {
+  "id": "HIST2-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kirat dynasty is believed to have ruled Kathmandu Valley before the Lichhavis for about how long?",
+  "options": [
+   "About 100 years",
+   "About 300 years",
+   "About 50 years",
+   "About 800 years"
+  ],
+  "answer": 3,
+  "explanation": "Tradition holds the Kirats ruled the valley for roughly 800 years before the Lichhavis.",
+  "source": "General knowledge",
+  "question_ne": "लिच्छविअघि किरात वंशले काठमाडौं उपत्यकामा लगभग कति समय शासन गरेको मानिन्छ?",
+  "options_ne": [
+   "लगभग १०० वर्ष",
+   "लगभग ३०० वर्ष",
+   "लगभग ५० वर्ष",
+   "लगभग ८०० वर्ष"
+  ],
+  "explanation_ne": "परम्पराअनुसार किरातहरूले लिच्छविअघि उपत्यकामा लगभग ८०० वर्ष शासन गरे।"
+ },
+ {
+  "id": "HIST2-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is regarded as the first Kirat king of Kathmandu Valley?",
+  "options": [
+   "Gasti",
+   "Khigu",
+   "Thuko",
+   "Yalambar"
+  ],
+  "answer": 3,
+  "explanation": "Yalambar is traditionally regarded as the first Kirat king of the valley.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं उपत्यकाका प्रथम किरात राजा को मानिन्छन्?",
+  "options_ne": [
+   "गस्ति",
+   "खिगु",
+   "थुको",
+   "यलम्बर"
+  ],
+  "explanation_ne": "यलम्बर उपत्यकाका प्रथम किरात राजा मानिन्छन्।"
+ },
+ {
+  "id": "HIST2-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which ancient people are believed to be the earliest inhabitants of Kathmandu Valley, associated with the Kirat dynasty?",
+  "options": [
+   "Shah",
+   "Kirat",
+   "Lichhavi",
+   "Malla"
+  ],
+  "answer": 1,
+  "explanation": "The Kirats are believed to be among the earliest rulers and inhabitants of the valley.",
+  "source": "General knowledge",
+  "question_ne": "किरात वंशसँग सम्बन्धित, काठमाडौं उपत्यकाका सबैभन्दा पुराना बासिन्दा को मानिन्छन्?",
+  "options_ne": [
+   "शाह",
+   "किरात",
+   "लिच्छवि",
+   "मल्ल"
+  ],
+  "explanation_ne": "किरातहरू उपत्यकाका सबैभन्दा पुराना शासक र बासिन्दामध्ये मानिन्छन्।"
+ },
+ {
+  "id": "HIST2-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Prithvi Narayan Shah ascended the throne of Gorkha in which year?",
+  "options": [
+   "1743",
+   "1723",
+   "1768",
+   "1755"
+  ],
+  "answer": 0,
+  "explanation": "Prithvi Narayan Shah became king of Gorkha in 1743 at the age of 20.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीनारायण शाह गोरखाको गद्दीमा कुन वर्षमा बसे?",
+  "options_ne": [
+   "१७४३",
+   "१७२३",
+   "१७६८",
+   "१७५५"
+  ],
+  "explanation_ne": "पृथ्वीनारायण शाह १७४३ मा २० वर्षको उमेरमा गोरखाका राजा बने।"
+ },
+ {
+  "id": "HIST2-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Gorkhali commander, known as Kalu Pande, died in the first battle of Kirtipur in 1757?",
+  "options": [
+   "Abhiman Singh Basnet",
+   "Kalu Pande",
+   "Vamsha Raj Pande",
+   "Damodar Pande"
+  ],
+  "answer": 1,
+  "explanation": "Kalu Pande, Prithvi Narayan Shah's commander, was killed in the first attack on Kirtipur in 1757.",
+  "source": "General knowledge",
+  "question_ne": "१७५७ मा कीर्तिपुरको पहिलो युद्धमा मृत्यु हुने गोरखाली सेनापति कालु पाँडे को थिए?",
+  "options_ne": [
+   "अभिमानसिंह बस्नेत",
+   "कालु पाँडे",
+   "वंशराज पाँडे",
+   "दामोदर पाँडे"
+  ],
+  "explanation_ne": "पृथ्वीनारायण शाहका सेनापति कालु पाँडे १७५७ मा कीर्तिपुरको पहिलो आक्रमणमा मारिए।"
+ },
+ {
+  "id": "HIST2-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of these was a major reason Prithvi Narayan Shah blockaded Kathmandu Valley before conquering it?",
+  "options": [
+   "To build a road",
+   "To invite the British",
+   "To spread religion",
+   "To stop trade and supplies entering the valley"
+  ],
+  "answer": 3,
+  "explanation": "He blockaded the valley's trade routes to weaken the Malla kingdoms economically before attack.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं उपत्यका विजय गर्नुअघि पृथ्वीनारायण शाहले नाकाबन्दी गर्नुको मुख्य कारण के थियो?",
+  "options_ne": [
+   "बाटो बनाउन",
+   "ब्रिटिसलाई निम्त्याउन",
+   "धर्म फैलाउन",
+   "उपत्यकामा व्यापार र आपूर्ति रोक्न"
+  ],
+  "explanation_ne": "उनले आक्रमणअघि मल्ल राज्यहरूलाई आर्थिक रूपमा कमजोर पार्न उपत्यकाका व्यापारिक मार्ग बन्द गरे।"
+ },
+ {
+  "id": "HIST2-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which festival day in 1768 did Prithvi Narayan Shah enter Kathmandu, when the people were celebrating Indra Jatra?",
+  "options": [
+   "Dashain",
+   "Tihar",
+   "Holi",
+   "Indra Jatra"
+  ],
+  "answer": 3,
+  "explanation": "He entered Kathmandu on Indra Jatra day in September 1768, when the valley was celebrating the festival.",
+  "source": "General knowledge",
+  "question_ne": "१७६८ मा पृथ्वीनारायण शाह कुन पर्वको दिन काठमाडौं प्रवेश गरे?",
+  "options_ne": [
+   "दशैं",
+   "तिहार",
+   "होली",
+   "इन्द्रजात्रा"
+  ],
+  "explanation_ne": "उनी १७६८ सेप्टेम्बरमा इन्द्रजात्राको दिन काठमाडौं प्रवेश गरे।"
+ },
+ {
+  "id": "HIST2-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pratap Singh Shah reigned for about how long after succeeding his father in 1775?",
+  "options": [
+   "About 2 years (1775-1777)",
+   "About 10 years",
+   "About 20 years",
+   "About 30 years"
+  ],
+  "answer": 0,
+  "explanation": "Pratap Singh Shah reigned briefly from 1775 until his death in 1777.",
+  "source": "General knowledge",
+  "question_ne": "१७७५ मा पिताको उत्तराधिकारी बनेपछि प्रतापसिंह शाहले लगभग कति समय शासन गरे?",
+  "options_ne": [
+   "लगभग २ वर्ष (१७७५-१७७७)",
+   "लगभग १० वर्ष",
+   "लगभग २० वर्ष",
+   "लगभग ३० वर्ष"
+  ],
+  "explanation_ne": "प्रतापसिंह शाहले १७७५ देखि १७७७ मा मृत्युसम्म छोटो समय शासन गरे।"
+ },
+ {
+  "id": "HIST2-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the infant king who succeeded Pratap Singh Shah in 1777, with his mother Rajendra Laxmi as regent?",
+  "options": [
+   "Surendra Bikram Shah",
+   "Rana Bahadur Shah",
+   "Girvan Yuddha Bikram Shah",
+   "Rajendra Bikram Shah"
+  ],
+  "answer": 1,
+  "explanation": "Rana Bahadur Shah, aged two, succeeded his father in 1777 under the regency of his mother.",
+  "source": "General knowledge",
+  "question_ne": "१७७७ मा प्रतापसिंह शाहका उत्तराधिकारी, आमा राजेन्द्रलक्ष्मीको संरक्षकत्वमा गद्दीमा बसेका शिशु राजा को थिए?",
+  "options_ne": [
+   "सुरेन्द्रविक्रम शाह",
+   "रणबहादुर शाह",
+   "गीर्वाणयुद्धविक्रम शाह",
+   "राजेन्द्रविक्रम शाह"
+  ],
+  "explanation_ne": "दुई वर्षका रणबहादुर शाह १७७७ मा आमाको संरक्षकत्वमा गद्दीमा बसे।"
+ },
+ {
+  "id": "HIST2-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Shah king abdicated in 1799 in favour of his infant son Girvan Yuddha, returned to power, and was assassinated in 1806?",
+  "options": [
+   "Girvan Yuddha Bikram Shah",
+   "Rajendra Bikram Shah",
+   "Prithvi Narayan Shah",
+   "Rana Bahadur Shah"
+  ],
+  "answer": 3,
+  "explanation": "Rana Bahadur Shah abdicated in favour of his infant son Girvan Yuddha in 1799, returned to Nepal in 1804, and was assassinated on 25 April 1806 by his half-brother Sher Bahadur Shah.",
+  "source": "General knowledge",
+  "question_ne": "१७९९ मा आफ्नो शिशु छोरा गीर्वाणयुद्धलाई गद्दी दिएर गद्दी त्याग गरेका, पछि सत्तामा फर्किएका र १८०६ मा हत्या गरिएका शाह राजा को हुन्?",
+  "options_ne": [
+   "गीर्वाणयुद्धविक्रम शाह",
+   "राजेन्द्रविक्रम शाह",
+   "पृथ्वीनारायण शाह",
+   "रणबहादुर शाह"
+  ],
+  "explanation_ne": "रणबहादुर शाहले १७९९ मा आफ्नो शिशु छोरा गीर्वाणयुद्धलाई गद्दी दिए, १८०४ मा नेपाल फर्किए र २५ अप्रिल १८०६ मा आफ्ना सौतेनी भाइ शेरबहादुर शाहद्वारा हत्या गरिए।"
+ },
+ {
+  "id": "HIST2-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who assassinated former king Rana Bahadur Shah in 1806?",
+  "options": [
+   "Damodar Pande",
+   "Kalu Pande",
+   "Sher Bahadur Shah",
+   "Bhimsen Thapa"
+  ],
+  "answer": 2,
+  "explanation": "Sher Bahadur Shah assassinated Rana Bahadur Shah in April 1806, after which Bhimsen Thapa rose to power.",
+  "source": "General knowledge",
+  "question_ne": "१८०६ मा पूर्व राजा रणबहादुर शाहको हत्या कसले गर्यो?",
+  "options_ne": [
+   "दामोदर पाँडे",
+   "कालु पाँडे",
+   "शेरबहादुर शाह",
+   "भीमसेन थापा"
+  ],
+  "explanation_ne": "शेरबहादुर शाहले अप्रिल १८०६ मा रणबहादुर शाहको हत्या गरे, त्यसपछि भीमसेन थापा शक्तिमा आए।"
+ },
+ {
+  "id": "HIST2-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Pashupatinath temple, one of Nepal's holiest Hindu shrines, is located on the banks of which river?",
+  "options": [
+   "Karnali River",
+   "Bagmati River",
+   "Gandaki River",
+   "Koshi River"
+  ],
+  "answer": 1,
+  "explanation": "Pashupatinath stands on the banks of the Bagmati River in Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पवित्र हिन्दू तीर्थ पशुपतिनाथ मन्दिर कुन नदीको किनारमा छ?",
+  "options_ne": [
+   "कर्णाली नदी",
+   "बागमती नदी",
+   "गण्डकी नदी",
+   "कोशी नदी"
+  ],
+  "explanation_ne": "पशुपतिनाथ काठमाडौंमा बागमती नदीको किनारमा छ।"
+ },
+ {
+  "id": "HIST2-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Swayambhunath, the famous Monkey Temple, is located on a hill in which city?",
+  "options": [
+   "Kathmandu",
+   "Bhaktapur",
+   "Pokhara",
+   "Lalitpur"
+  ],
+  "answer": 0,
+  "explanation": "Swayambhunath sits on a hill west of Kathmandu city.",
+  "source": "General knowledge",
+  "question_ne": "प्रसिद्ध स्वयम्भूनाथ (बाँदर मन्दिर) कुन सहरको पहाडमा छ?",
+  "options_ne": [
+   "काठमाडौं",
+   "भक्तपुर",
+   "पोखरा",
+   "ललितपुर"
+  ],
+  "explanation_ne": "स्वयम्भूनाथ काठमाडौं सहरको पश्चिमको पहाडमा छ।"
+ },
+ {
+  "id": "HIST2-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Boudhanath, one of the largest stupas in the world, is located in which city?",
+  "options": [
+   "Janakpur",
+   "Pokhara",
+   "Kathmandu",
+   "Lumbini"
+  ],
+  "answer": 2,
+  "explanation": "Boudhanath stupa is in Kathmandu, east of the city centre.",
+  "source": "General knowledge",
+  "question_ne": "विश्वका ठूला स्तूपमध्ये एक बौद्धनाथ कुन सहरमा छ?",
+  "options_ne": [
+   "जनकपुर",
+   "पोखरा",
+   "काठमाडौं",
+   "लुम्बिनी"
+  ],
+  "explanation_ne": "बौद्धनाथ स्तूप काठमाडौंमा छ।"
+ },
+ {
+  "id": "HIST2-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nyatapola Temple, the tallest temple in Nepal, is located in which city?",
+  "options": [
+   "Kirtipur",
+   "Bhaktapur",
+   "Kathmandu",
+   "Patan"
+  ],
+  "answer": 1,
+  "explanation": "Nyatapola Temple, built in 1702, stands in Bhaktapur Durbar Square.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको अग्लो मन्दिर न्यातपोल कुन सहरमा छ?",
+  "options_ne": [
+   "कीर्तिपुर",
+   "भक्तपुर",
+   "काठमाडौं",
+   "पाटन"
+  ],
+  "explanation_ne": "१७०२ मा बनेको न्यातपोल मन्दिर भक्तपुर दरबार क्षेत्रमा छ।"
+ },
+ {
+  "id": "HIST2-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichhavi Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which language was used in the Changunarayan inscription of 464 AD?",
+  "options": [
+   "Newari",
+   "Pali",
+   "Sanskrit",
+   "Nepali"
+  ],
+  "answer": 2,
+  "explanation": "The Changunarayan inscription is written in Sanskrit in Gupta script.",
+  "source": "General knowledge",
+  "question_ne": "४६४ ई. को चाँगुनारायण अभिलेख कुन भाषामा लेखिएको छ?",
+  "options_ne": [
+   "नेवारी",
+   "पालि",
+   "संस्कृत",
+   "नेपाली"
+  ],
+  "explanation_ne": "चाँगुनारायण अभिलेख गुप्त लिपिमा संस्कृत भाषामा लेखिएको छ।"
+ },
+ {
+  "id": "HIST2-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The unification of Nepal is celebrated on which day as Prithvi Jayanti and National Unity Day?",
+  "options": [
+   "28 May",
+   "11 January (Poush 27)",
+   "15 January",
+   "1 January"
+  ],
+  "answer": 1,
+  "explanation": "Prithvi Jayanti, the birth anniversary of Prithvi Narayan Shah, is observed on Poush 27 (11 January).",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वी जयन्ती तथा राष्ट्रिय एकता दिवस कुन दिन मनाइन्छ?",
+  "options_ne": [
+   "२८ मे",
+   "११ जनवरी (पुस २७)",
+   "१५ जनवरी",
+   "१ जनवरी"
+  ],
+  "explanation_ne": "पृथ्वीनारायण शाहको जन्मजयन्ती पुस २७ (११ जनवरी) मा पृथ्वी जयन्तीका रूपमा मनाइन्छ।"
+ },
+ {
+  "id": "HIST2-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Shah king reigned during the Anglo-Nepal War (1814-1816)?",
+  "options": [
+   "Girvan Yuddha Bikram Shah",
+   "Rajendra Bikram Shah",
+   "Rana Bahadur Shah",
+   "Surendra Bikram Shah"
+  ],
+  "answer": 0,
+  "explanation": "Girvan Yuddha Bikram Shah was king during the Anglo-Nepal War of 1814-1816.",
+  "source": "General knowledge",
+  "question_ne": "एङ्ग्लो-नेपाल युद्ध (१८१४-१८१६) का समयमा नेपालका राजा को थिए?",
+  "options_ne": [
+   "गीर्वाणयुद्धविक्रम शाह",
+   "राजेन्द्रविक्रम शाह",
+   "रणबहादुर शाह",
+   "सुरेन्द्रविक्रम शाह"
+  ],
+  "explanation_ne": "१८१४-१८१६ को एङ्ग्लो-नेपाल युद्धका समयमा गीर्वाणयुद्धविक्रम शाह राजा थिए।"
+ },
+ {
+  "id": "HIST2-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the British Governor-General of India during the Anglo-Nepal War?",
+  "options": [
+   "Lord Dalhousie",
+   "Lord Curzon",
+   "Lord Cornwallis",
+   "Lord Hastings (Marquess of Hastings)"
+  ],
+  "answer": 3,
+  "explanation": "Lord Hastings, Governor-General from 1813 to 1823, declared war on Nepal in 1814.",
+  "source": "General knowledge",
+  "question_ne": "एङ्ग्लो-नेपाल युद्धका समयमा भारतका ब्रिटिस गभर्नर-जनरल को थिए?",
+  "options_ne": [
+   "लर्ड डलहौजी",
+   "लर्ड कर्जन",
+   "लर्ड कर्नवालिस",
+   "लर्ड हेस्टिङ्स"
+  ],
+  "explanation_ne": "१८१३-१८२३ का गभर्नर-जनरल लर्ड हेस्टिङ्सले १८१४ मा नेपालविरुद्ध युद्ध घोषणा गरे।"
+ },
+ {
+  "id": "HIST2-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Battle of Nalapani in 1814 was fought at a fort near which present-day Indian city?",
+  "options": [
+   "Lucknow",
+   "Patna",
+   "Dehradun",
+   "Delhi"
+  ],
+  "answer": 2,
+  "explanation": "Nalapani fort was near Dehradun, where Balbhadra Kunwar resisted the British for over a month.",
+  "source": "General knowledge",
+  "question_ne": "१८१४ को नालापानीको युद्ध कुन भारतीय सहर नजिकको किल्लामा लडिएको थियो?",
+  "options_ne": [
+   "लखनऊ",
+   "पटना",
+   "देहरादुन",
+   "दिल्ली"
+  ],
+  "explanation_ne": "नालापानी किल्ला देहरादुन नजिक थियो, जहाँ बलभद्र कुँवरले एक महिनाभन्दा बढी प्रतिरोध गरे।"
+ },
+ {
+  "id": "HIST2-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal lost territory west of the Mahakali River and east of the Mechi River under which treaty?",
+  "options": [
+   "Treaty of Betrawati",
+   "Treaty of Thapathali",
+   "Treaty of Kathmandu",
+   "Treaty of Sugauli"
+  ],
+  "answer": 3,
+  "explanation": "Under the Treaty of Sugauli (1816), Nepal ceded large territories to the British East India Company.",
+  "source": "General knowledge",
+  "question_ne": "महाकाली पश्चिम र मेची पूर्वको भूभाग नेपालले कुन सन्धिअन्तर्गत गुमायो?",
+  "options_ne": [
+   "बेत्रावती सन्धि",
+   "थापाथली सन्धि",
+   "काठमाडौं सन्धि",
+   "सुगौली सन्धि"
+  ],
+  "explanation_ne": "सुगौली सन्धि (१८१६) अन्तर्गत नेपालले ब्रिटिस इस्ट इन्डिया कम्पनीलाई ठूलो भूभाग सुम्पियो।"
+ },
+ {
+  "id": "HIST2-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After the Treaty of Sugauli, Nepal was allowed to keep which territory east of the Mechi River as a special case?",
+  "options": [
+   "No territory east of Mechi was kept",
+   "Darjeeling",
+   "Sikkim",
+   "Kumaon"
+  ],
+  "answer": 0,
+  "explanation": "Sugauli fixed the Mechi as the eastern border; Nepal kept no territory east of it.",
+  "source": "General knowledge",
+  "question_ne": "सुगौली सन्धिपछि मेची पूर्वको कुन भूभाग नेपालले विशेष रूपमा राख्न पायो?",
+  "options_ne": [
+   "मेची पूर्वको कुनै भूभाग राखिएन",
+   "दार्जिलिङ",
+   "सिक्किम",
+   "कुमाऊँ"
+  ],
+  "explanation_ne": "सुगौलीले मेचीलाई पूर्वी सीमा तोक्यो; नेपालले त्यस पूर्वको कुनै भूभाग राखेन।"
+ },
+ {
+  "id": "HIST2-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhimsen Thapa became Mukhtiyar (prime minister) of Nepal in which year?",
+  "options": [
+   "1806",
+   "1816",
+   "1837",
+   "1846"
+  ],
+  "answer": 0,
+  "explanation": "Bhimsen Thapa became Mukhtiyar in 1806 after the assassination of Rana Bahadur Shah.",
+  "source": "General knowledge",
+  "question_ne": "भीमसेन थापा नेपालका मुख्तियार (प्रधानमन्त्री) कुन वर्षमा बने?",
+  "options_ne": [
+   "१८०६",
+   "१८१६",
+   "१८३७",
+   "१८४६"
+  ],
+  "explanation_ne": "रणबहादुर शाहको हत्यापछि भीमसेन थापा १८०६ मा मुख्तियार बने।"
+ },
+ {
+  "id": "HIST2-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Bhimsen Thapa was removed from power and imprisoned in which year?",
+  "options": [
+   "1837",
+   "1806",
+   "1816",
+   "1846"
+  ],
+  "answer": 0,
+  "explanation": "Bhimsen Thapa fell from power in 1837 and died in prison in 1839.",
+  "source": "General knowledge",
+  "question_ne": "भीमसेन थापा सत्ताबाट हटाइएर कैद गरिएको वर्ष कुन हो?",
+  "options_ne": [
+   "१८३७",
+   "१८०६",
+   "१८१६",
+   "१८४६"
+  ],
+  "explanation_ne": "भीमसेन थापा १८३७ मा सत्ताबाट हटे र १८३९ मा कैदमा मृत्यु भयो।"
+ },
+ {
+  "id": "HIST2-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which king reigned in Nepal from 1816 to 1847, during Bhimsen Thapa's time and the early Rana rise?",
+  "options": [
+   "Prithvi Bir Bikram Shah",
+   "Rajendra Bikram Shah",
+   "Surendra Bikram Shah",
+   "Girvan Yuddha Bikram Shah"
+  ],
+  "answer": 1,
+  "explanation": "Rajendra Bikram Shah reigned from 1816 to 1847.",
+  "source": "General knowledge",
+  "question_ne": "१८१६ देखि १८४७ सम्म नेपालका राजा को थिए?",
+  "options_ne": [
+   "पृथ्वीवीरविक्रम शाह",
+   "राजेन्द्रविक्रम शाह",
+   "सुरेन्द्रविक्रम शाह",
+   "गीर्वाणयुद्धविक्रम शाह"
+  ],
+  "explanation_ne": "राजेन्द्रविक्रम शाहले १८१६ देखि १८४७ सम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "King Rajendra Bikram Shah was forced to abdicate in favour of his son Surendra in which year?",
+  "options": [
+   "1860",
+   "1847",
+   "1846",
+   "1851"
+  ],
+  "answer": 1,
+  "explanation": "Rajendra was deposed in 1847 and his son Surendra Bikram Shah became king.",
+  "source": "General knowledge",
+  "question_ne": "राजा राजेन्द्रविक्रम शाहले छोरा सुरेन्द्रलाई गद्दी कुन वर्षमा छोड्न बाध्य भए?",
+  "options_ne": [
+   "१८६०",
+   "१८४७",
+   "१८४६",
+   "१८५१"
+  ],
+  "explanation_ne": "राजेन्द्र १८४७ मा पदच्युत भए र छोरा सुरेन्द्रविक्रम शाह राजा बने।"
+ },
+ {
+  "id": "HIST2-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Treaty of Thapathali was signed in 1856 between Nepal and which country?",
+  "options": [
+   "China",
+   "India",
+   "Tibet",
+   "Britain"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Thapathali (1856) was signed between Nepal and Tibet after the Nepal-Tibet War.",
+  "source": "General knowledge",
+  "question_ne": "थापाथली सन्धि १८५६ मा नेपाल र कुन देशबीच भएको थियो?",
+  "options_ne": [
+   "चीन",
+   "भारत",
+   "तिब्बत",
+   "बेलायत"
+  ],
+  "explanation_ne": "थापाथली सन्धि (१८५६) नेपाल-तिब्बत युद्धपछि नेपाल र तिब्बतबीच भएको थियो।"
+ },
+ {
+  "id": "HIST2-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which war led to the Treaty of Thapathali in 1856?",
+  "options": [
+   "Nepal-Tibet War of 1855-1856",
+   "Anglo-Nepal War",
+   "Nepal-China War of 1792",
+   "First World War"
+  ],
+  "answer": 0,
+  "explanation": "The Nepal-Tibet War of 1855-1856 ended with the Treaty of Thapathali.",
+  "source": "General knowledge",
+  "question_ne": "थापाथली सन्धि १८५६ मा कुन युद्धपछि भएको थियो?",
+  "options_ne": [
+   "१८५५-१८५६ को नेपाल-तिब्बत युद्ध",
+   "एङ्ग्लो-नेपाल युद्ध",
+   "१७९२ को नेपाल-चीन युद्ध",
+   "प्रथम विश्वयुद्ध"
+  ],
+  "explanation_ne": "१८५५-१८५६ को नेपाल-तिब्बत युद्ध थापाथली सन्धिबाट अन्त्य भयो।"
+ },
+ {
+  "id": "HIST2-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Nepal-Britain Treaty of 1923, also called the Treaty of Friendship, recognised Nepal as what?",
+  "options": [
+   "A British protectorate",
+   "Part of British India",
+   "A colony",
+   "An independent sovereign state"
+  ],
+  "answer": 3,
+  "explanation": "The 1923 treaty was the first to formally recognise Nepal as an independent sovereign state.",
+  "source": "General knowledge",
+  "question_ne": "१९२३ को नेपाल-बेलायत मैत्री सन्धिले नेपाललाई के रूपमा मान्यता दियो?",
+  "options_ne": [
+   "ब्रिटिस संरक्षित राज्य",
+   "ब्रिटिस भारतको भाग",
+   "उपनिवेश",
+   "स्वतन्त्र सार्वभौम राज्य"
+  ],
+  "explanation_ne": "१९२३ को सन्धिले पहिलो पटक नेपाललाई स्वतन्त्र सार्वभौम राज्यका रूपमा औपचारिक मान्यता दियो।"
+ },
+ {
+  "id": "HIST2-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Shah king ruled Nepal during the Kot Parba of 1846?",
+  "options": [
+   "Surendra Bikram Shah",
+   "Prithvi Bir Bikram Shah",
+   "Tribhuvan Bir Bikram Shah",
+   "Rajendra Bikram Shah"
+  ],
+  "answer": 3,
+  "explanation": "Rajendra Bikram Shah was king when the Kot Massacre took place in September 1846.",
+  "source": "General knowledge",
+  "question_ne": "१८४६ को कोत पर्वका समयमा नेपालका राजा को थिए?",
+  "options_ne": [
+   "सुरेन्द्रविक्रम शाह",
+   "पृथ्वीवीरविक्रम शाह",
+   "त्रिभुवनवीरविक्रम शाह",
+   "राजेन्द्रविक्रम शाह"
+  ],
+  "explanation_ne": "सेप्टेम्बर १८४६ मा कोत हत्याकाण्ड हुँदा राजेन्द्रविक्रम शाह राजा थिए।"
+ },
+ {
+  "id": "HIST2-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Surendra Bikram Shah reigned as king of Nepal during most of the Rana period, from 1847 to which year?",
+  "options": [
+   "1911",
+   "1877",
+   "1881",
+   "1885"
+  ],
+  "answer": 2,
+  "explanation": "Surendra Bikram Shah reigned from 1847 until his death in 1881.",
+  "source": "General knowledge",
+  "question_ne": "सुरेन्द्रविक्रम शाह १८४७ देखि कुन वर्षसम्म नेपालका राजा रहे?",
+  "options_ne": [
+   "१९११",
+   "१८७७",
+   "१८८१",
+   "१८८५"
+  ],
+  "explanation_ne": "सुरेन्द्रविक्रम शाहले १८४७ देखि १८८१ मा मृत्युसम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who succeeded Surendra Bikram Shah as king in 1881?",
+  "options": [
+   "Mahendra Bir Bikram Shah",
+   "Birendra Bir Bikram Shah",
+   "Prithvi Bir Bikram Shah",
+   "Tribhuvan Bir Bikram Shah"
+  ],
+  "answer": 2,
+  "explanation": "Prithvi Bir Bikram Shah became king in 1881 at the age of six.",
+  "source": "General knowledge",
+  "question_ne": "१८८१ मा सुरेन्द्रविक्रम शाहका उत्तराधिकारी को बने?",
+  "options_ne": [
+   "महेन्द्रवीरविक्रम शाह",
+   "वीरेन्द्रवीरविक्रम शाह",
+   "पृथ्वीवीरविक्रम शाह",
+   "त्रिभुवनवीरविक्रम शाह"
+  ],
+  "explanation_ne": "पृथ्वीवीरविक्रम शाह १८८१ मा छ वर्षको उमेरमा राजा बने।"
+ },
+ {
+  "id": "HIST2-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Prithvi Bir Bikram Shah reigned from 1881 until his death in which year?",
+  "options": [
+   "1920",
+   "1885",
+   "1911",
+   "1901"
+  ],
+  "answer": 2,
+  "explanation": "Prithvi Bir Bikram Shah died in 1911, and his son Tribhuvan succeeded him.",
+  "source": "General knowledge",
+  "question_ne": "पृथ्वीवीरविक्रम शाहले १८८१ देखि कुन वर्षमा मृत्युसम्म शासन गरे?",
+  "options_ne": [
+   "१९२०",
+   "१८८५",
+   "१९११",
+   "१९०१"
+  ],
+  "explanation_ne": "पृथ्वीवीरविक्रम शाहको १९११ मा मृत्यु भयो र छोरा त्रिभुवन उत्तराधिकारी बने।"
+ },
+ {
+  "id": "HIST2-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "King Tribhuvan reigned from 1911 until his death in which year?",
+  "options": [
+   "1951",
+   "1960",
+   "1950",
+   "1955"
+  ],
+  "answer": 3,
+  "explanation": "King Tribhuvan reigned from 1911 to 1955.",
+  "source": "General knowledge",
+  "question_ne": "राजा त्रिभुवनले १९११ देखि कुन वर्षमा मृत्युसम्म शासन गरे?",
+  "options_ne": [
+   "१९५१",
+   "१९६०",
+   "१९५०",
+   "१९५५"
+  ],
+  "explanation_ne": "राजा त्रिभुवनले १९११ देखि १९५५ सम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who succeeded King Tribhuvan in 1955?",
+  "options": [
+   "King Dipendra",
+   "King Mahendra",
+   "King Birendra",
+   "King Gyanendra"
+  ],
+  "answer": 1,
+  "explanation": "King Mahendra, son of Tribhuvan, succeeded him in 1955.",
+  "source": "General knowledge",
+  "question_ne": "१९५५ मा राजा त्रिभुवनका उत्तराधिकारी को बने?",
+  "options_ne": [
+   "राजा दीपेन्द्र",
+   "राजा महेन्द्र",
+   "राजा वीरेन्द्र",
+   "राजा ज्ञानेन्द्र"
+  ],
+  "explanation_ne": "त्रिभुवनका छोरा महेन्द्र १९५५ मा उत्तराधिकारी बने।"
+ },
+ {
+  "id": "HIST2-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "King Mahendra reigned from 1955 until his death in which year?",
+  "options": [
+   "1960",
+   "1990",
+   "1975",
+   "1972"
+  ],
+  "answer": 3,
+  "explanation": "King Mahendra died in 1972, and his son Birendra succeeded him.",
+  "source": "General knowledge",
+  "question_ne": "राजा महेन्द्रले १९५५ देखि कुन वर्षमा मृत्युसम्म शासन गरे?",
+  "options_ne": [
+   "१९६०",
+   "१९९०",
+   "१९७५",
+   "१९७२"
+  ],
+  "explanation_ne": "राजा महेन्द्रको १९७२ मा मृत्यु भयो र छोरा वीरेन्द्र उत्तराधिकारी बने।"
+ },
+ {
+  "id": "HIST2-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "King Birendra reigned from 1972 until his death in which year?",
+  "options": [
+   "1990",
+   "2008",
+   "1996",
+   "2001"
+  ],
+  "answer": 3,
+  "explanation": "King Birendra reigned from 1972 until the royal massacre of 1 June 2001.",
+  "source": "General knowledge",
+  "question_ne": "राजा वीरेन्द्रले १९७२ देखि कुन वर्षमा मृत्युसम्म शासन गरे?",
+  "options_ne": [
+   "१९९०",
+   "२००८",
+   "१९९६",
+   "२००१"
+  ],
+  "explanation_ne": "राजा वीरेन्द्रले १९७२ देखि १ जुन २००१ को राजदरबार हत्याकाण्डसम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "King Birendra held a national referendum on the Panchayat system versus multi-party democracy in which year?",
+  "options": [
+   "1990",
+   "1960",
+   "1980",
+   "1972"
+  ],
+  "answer": 2,
+  "explanation": "The referendum of 1980 retained the Panchayat system, though with reforms.",
+  "source": "General knowledge",
+  "question_ne": "राजा वीरेन्द्रले पञ्चायत व्यवस्था वा बहुदलीय प्रजातन्त्रबारे राष्ट्रिय जनमतसंग्रह कुन वर्षमा गराए?",
+  "options_ne": [
+   "१९९०",
+   "१९६०",
+   "१९८०",
+   "१९७२"
+  ],
+  "explanation_ne": "१९८० को जनमतसंग्रहले सुधारसहित पञ्चायत व्यवस्था कायम राख्यो।"
+ },
+ {
+  "id": "HIST2-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the 1980 referendum, which system won?",
+  "options": [
+   "Multi-party democracy",
+   "Rana regime",
+   "Republic",
+   "Panchayat system (with reforms)"
+  ],
+  "answer": 3,
+  "explanation": "The Panchayat system won the 1980 referendum with about 55 percent of the vote.",
+  "source": "General knowledge",
+  "question_ne": "१९८० को जनमतसंग्रहमा कुन व्यवस्था विजयी भयो?",
+  "options_ne": [
+   "बहुदलीय प्रजातन्त्र",
+   "राणा शासन",
+   "गणतन्त्र",
+   "पञ्चायत व्यवस्था (सुधारसहित)"
+  ],
+  "explanation_ne": "१९८० को जनमतसंग्रहमा पञ्चायत व्यवस्था लगभग ५५ प्रतिशत मतले विजयी भयो।"
+ },
+ {
+  "id": "HIST2-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which western region did Amar Singh Thapa conquer, extending Nepal's border to the Sutlej River by 1806?",
+  "options": [
+   "Darjeeling",
+   "Assam",
+   "Kumaon and Garhwal",
+   "Sikkim"
+  ],
+  "answer": 2,
+  "explanation": "Under Amar Singh Thapa, Gorkhali forces conquered Kumaon and Garhwal, reaching the Sutlej River.",
+  "source": "General knowledge",
+  "question_ne": "अमरसिंह थापाले कुन पश्चिमी क्षेत्र विजय गरी १८०६ सम्म नेपालको सीमा सतलज नदीसम्म पुर्याए?",
+  "options_ne": [
+   "दार्जिलिङ",
+   "असम",
+   "कुमाऊँ र गढवाल",
+   "सिक्किम"
+  ],
+  "explanation_ne": "अमरसिंह थापाको नेतृत्वमा गोरखाली सेनाले कुमाऊँ र गढवाल विजय गरी सतलज नदीसम्म पुग्यो।"
+ },
+ {
+  "id": "HIST2-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "At its greatest extent before the Anglo-Nepal War, Nepal stretched from which river in the west to which river in the east?",
+  "options": [
+   "Mahakali to Mechi",
+   "Karnali to Koshi",
+   "Gandaki to Bagmati",
+   "Sutlej in the west to Teesta in the east"
+  ],
+  "answer": 3,
+  "explanation": "Before 1814, Greater Nepal stretched from the Sutlej River in the west to the Teesta River in the east.",
+  "source": "General knowledge",
+  "question_ne": "एङ्ग्लो-नेपाल युद्धअघि सबैभन्दा ठूलो विस्तारमा नेपाल पश्चिममा कुन नदीदेखि पूर्वमा कुन नदीसम्म फैलिएको थियो?",
+  "options_ne": [
+   "महाकालीदेखि मेचीसम्म",
+   "कर्णालीदेखि कोशीसम्‍म",
+   "गण्डकीदेखि बागमतीसम्म",
+   "पश्चिममा सतलजदेखि पूर्वमा तीस्तासम्म"
+  ],
+  "explanation_ne": "१८१४ अघि वृहत् नेपाल पश्चिममा सतलज नदीदेखि पूर्वमा तीस्ता नदीसम्म फैलिएको थियो।"
+ },
+ {
+  "id": "HIST2-071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Jung Bahadur Rana visited Britain in 1850, becoming the first Nepali prime minister to do so. What was his title at the time?",
+  "options": [
+   "King",
+   "Mukhtiyar",
+   "Commander-in-Chief only",
+   "Prime Minister"
+  ],
+  "answer": 3,
+  "explanation": "Jung Bahadur Rana travelled to Britain in 1850 as Nepal's prime minister.",
+  "source": "General knowledge",
+  "question_ne": "१८५० मा बेलायत भ्रमण गर्ने प्रथम नेपाली प्रधानमन्त्री जंगबहादुर राणाको त्यस समयको पद के थियो?",
+  "options_ne": [
+   "राजा",
+   "मुख्तियार",
+   "केवल प्रधानसेनापति",
+   "प्रधानमन्त्री"
+  ],
+  "explanation_ne": "जंगबहादुर राणा १८५० मा नेपालका प्रधानमन्त्रीका रूपमा बेलायत गएका थिए।"
+ },
+ {
+  "id": "HIST2-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Jung Bahadur Rana die?",
+  "options": [
+   "1901",
+   "1877",
+   "1846",
+   "1885"
+  ],
+  "answer": 1,
+  "explanation": "Jung Bahadur Rana died in 1877, and his brother Ranodip Singh succeeded him.",
+  "source": "General knowledge",
+  "question_ne": "जंगबहादुर राणाको मृत्यु कुन वर्षमा भयो?",
+  "options_ne": [
+   "१९०१",
+   "१८७७",
+   "१८४६",
+   "१८८५"
+  ],
+  "explanation_ne": "जंगबहादुर राणाको १८७७ मा मृत्यु भयो र भाइ रणोद्दिपसिंह उत्तराधिकारी बने।"
+ },
+ {
+  "id": "HIST2-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who succeeded Jung Bahadur Rana as prime minister in 1877?",
+  "options": [
+   "Ranodip Singh Rana",
+   "Bir Shumsher Rana",
+   "Chandra Shumsher Rana",
+   "Dev Shumsher Rana"
+  ],
+  "answer": 0,
+  "explanation": "Ranodip Singh Rana, Jung Bahadur's brother, succeeded him as prime minister in 1877.",
+  "source": "General knowledge",
+  "question_ne": "१८७७ मा जंगबहादुर राणाका उत्तराधिकारी प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "रणोद्दिपसिंह राणा",
+   "वीरशमशेर राणा",
+   "चन्द्रशमशेर राणा",
+   "देवशमशेर राणा"
+  ],
+  "explanation_ne": "जंगबहादुरका भाइ रणोद्दिपसिंह राणा १८७७ मा प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bir Shumsher Rana became prime minister in 1885 after the assassination of which Rana prime minister?",
+  "options": [
+   "Chandra Shumsher Rana",
+   "Dev Shumsher Rana",
+   "Ranodip Singh Rana",
+   "Jung Bahadur Rana"
+  ],
+  "answer": 2,
+  "explanation": "Ranodip Singh Rana was assassinated in 1885, and Bir Shumsher Rana seized power.",
+  "source": "General knowledge",
+  "question_ne": "वीरशमशेर राणा १८८५ मा कुन राणा प्रधानमन्त्रीको हत्यापछि प्रधानमन्त्री बने?",
+  "options_ne": [
+   "चन्द्रशमशेर राणा",
+   "देवशमशेर राणा",
+   "रणोद्दिपसिंह राणा",
+   "जंगबहादुर राणा"
+  ],
+  "explanation_ne": "रणोद्दिपसिंह राणाको १८८५ मा हत्या भयो र वीरशमशेर राणाले सत्ता लिए।"
+ },
+ {
+  "id": "HIST2-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bir Shumsher Rana served as prime minister from 1885 to which year?",
+  "options": [
+   "1911",
+   "1920",
+   "1885",
+   "1901"
+  ],
+  "answer": 3,
+  "explanation": "Bir Shumsher Rana was prime minister from 1885 until his death in 1901.",
+  "source": "General knowledge",
+  "question_ne": "वीरशमशेर राणा १८८५ देखि कुन वर्षसम्म प्रधानमन्त्री रहे?",
+  "options_ne": [
+   "१९११",
+   "१९२०",
+   "१८८५",
+   "१९०१"
+  ],
+  "explanation_ne": "वीरशमशेर राणा १८८५ देखि १९०१ मा मृत्युसम्म प्रधानमन्त्री रहे।"
+ },
+ {
+  "id": "HIST2-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Rana prime minister was known as the reformist who ruled for only 114 days in 1901?",
+  "options": [
+   "Juddha Shumsher Rana",
+   "Padma Shumsher Rana",
+   "Dev Shumsher Rana",
+   "Chandra Shumsher Rana"
+  ],
+  "answer": 2,
+  "explanation": "Dev Shumsher Rana, called the reformist, ruled for about 114 days in 1901 before being deposed by his brother Chandra.",
+  "source": "General knowledge",
+  "question_ne": "१९०१ मा केवल ११४ दिन शासन गर्ने सुधारवादी राणा प्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "जुद्धशमशेर राणा",
+   "पद्मशमशेर राणा",
+   "देवशमशेर राणा",
+   "चन्द्रशमशेर राणा"
+  ],
+  "explanation_ne": "सुधारवादी भनिने देवशमशेर राणाले १९०१ मा लगभग ११४ दिन शासन गरे, त्यसपछि भाइ चन्द्रले हटाए।"
+ },
+ {
+  "id": "HIST2-077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Chandra Shumsher Rana served as prime minister from 1901 to which year?",
+  "options": [
+   "1932",
+   "1945",
+   "1929",
+   "1920"
+  ],
+  "answer": 2,
+  "explanation": "Chandra Shumsher Rana was prime minister from 1901 until his death in 1929.",
+  "source": "General knowledge",
+  "question_ne": "चन्द्रशमशेर राणा १९०१ देखि कुन वर्षसम्म प्रधानमन्त्री रहे?",
+  "options_ne": [
+   "१९३२",
+   "१९४५",
+   "१९२९",
+   "१९२०"
+  ],
+  "explanation_ne": "चन्द्रशमशेर राणा १९०१ देखि १९२९ मा मृत्युसम्म प्रधानमन्त्री रहे।"
+ },
+ {
+  "id": "HIST2-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who succeeded Chandra Shumsher Rana as prime minister in 1929?",
+  "options": [
+   "Mohan Shumsher Rana",
+   "Bhim Shumsher Rana",
+   "Juddha Shumsher Rana",
+   "Padma Shumsher Rana"
+  ],
+  "answer": 1,
+  "explanation": "Bhim Shumsher Rana succeeded Chandra in 1929 and ruled until 1932.",
+  "source": "General knowledge",
+  "question_ne": "१९२९ मा चन्द्रशमशेर राणाका उत्तराधिकारी प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "मोहनशमशेर राणा",
+   "भीमशमशेर राणा",
+   "जुद्धशमशेर राणा",
+   "पद्मशमशेर राणा"
+  ],
+  "explanation_ne": "भीमशमशेर राणा १९२९ मा चन्द्रका उत्तराधिकारी बने र १९३२ सम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Juddha Shumsher Rana was prime minister during the great earthquake of 1934. In which years did he rule?",
+  "options": [
+   "1945-1948",
+   "1932-1945",
+   "1929-1932",
+   "1901-1929"
+  ],
+  "answer": 1,
+  "explanation": "Juddha Shumsher Rana ruled from 1932 to 1945, including the 1934 earthquake.",
+  "source": "General knowledge",
+  "question_ne": "१९३४ को महाभूकम्पका समयका प्रधानमन्त्री जुद्धशमशेर राणाले कुन वर्षहरूमा शासन गरे?",
+  "options_ne": [
+   "१९४५-१९४८",
+   "१९३२-१९४५",
+   "१९२९-१९३२",
+   "१९०१-१९२९"
+  ],
+  "explanation_ne": "जुद्धशमशेर राणाले १९३२ देखि १९४५ सम्म शासन गरे, जसमा १९३४ को भूकम्प पर्छ।"
+ },
+ {
+  "id": "HIST2-080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The great earthquake of Nepal in 1934 occurred on which date?",
+  "options": [
+   "1 June 1934",
+   "15 January 1934",
+   "25 April 2015",
+   "15 January 1930"
+  ],
+  "answer": 1,
+  "explanation": "The great Nepal-Bihar earthquake struck on 15 January 1934.",
+  "source": "General knowledge",
+  "question_ne": "१९३४ को नेपालको महाभूकम्प कुन मितिमा गएको थियो?",
+  "options_ne": [
+   "१ जुन १९३४",
+   "१५ जनवरी १९३४",
+   "२५ अप्रिल २०१५",
+   "१५ जनवरी १९३०"
+  ],
+  "explanation_ne": "नेपाल-बिहार महाभूकम्प १५ जनवरी १९३४ मा गएको थियो।"
+ },
+ {
+  "id": "HIST2-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who succeeded Juddha Shumsher Rana as prime minister in 1945?",
+  "options": [
+   "Dev Shumsher Rana",
+   "Padma Shumsher Rana",
+   "Mohan Shumsher Rana",
+   "Bhim Shumsher Rana"
+  ],
+  "answer": 1,
+  "explanation": "Padma Shumsher Rana succeeded Juddha in 1945 and ruled until 1948.",
+  "source": "General knowledge",
+  "question_ne": "१९४५ मा जुद्धशमशेर राणाका उत्तराधिकारी प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "देवशमशेर राणा",
+   "पद्मशमशेर राणा",
+   "मोहनशमशेर राणा",
+   "भीमशमशेर राणा"
+  ],
+  "explanation_ne": "पद्मशमशेर राणा १९४५ मा जुद्धका उत्तराधिकारी बने र १९४८ सम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Padma Shumsher Rana promulgated the first constitution of Nepal, the Government of Nepal Act, in which year?",
+  "options": [
+   "1951",
+   "1947",
+   "1990",
+   "1948"
+  ],
+  "answer": 3,
+  "explanation": "Padma Shumsher promulgated Nepal's first constitution in 1948, though it was never fully implemented.",
+  "source": "General knowledge",
+  "question_ne": "पद्मशमशेर राणाले नेपालको पहिलो संविधान, नेपाल सरकारको ऐन, कुन वर्षमा जारी गरे?",
+  "options_ne": [
+   "१९५१",
+   "१९४७",
+   "१९९०",
+   "१९४८"
+  ],
+  "explanation_ne": "पद्मशमशेरले १९४८ मा नेपालको पहिलो संविधान जारी गरे, तर यो पूर्ण रूपमा लागू भएन।"
+ },
+ {
+  "id": "HIST2-083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was prime minister immediately before Mohan Shumsher Rana, the last Rana prime minister?",
+  "options": [
+   "Bhim Shumsher Rana",
+   "Chandra Shumsher Rana",
+   "Padma Shumsher Rana",
+   "Juddha Shumsher Rana"
+  ],
+  "answer": 2,
+  "explanation": "Padma Shumsher ruled 1945-1948; Mohan Shumsher succeeded him directly on 30 April 1948.",
+  "source": "General knowledge",
+  "question_ne": "अन्तिम राणा प्रधानमन्त्री मोहनशमशेर राणाभन्दा ठीक अघिका प्रधानमन्त्री को थिए?",
+  "options_ne": [
+   "भीमशमशेर राणा",
+   "चन्द्रशमशेर राणा",
+   "पद्मशमशेर राणा",
+   "जुद्धशमशेर राणा"
+  ],
+  "explanation_ne": "पद्मशमशेरले १९४५-१९४८ शासन गरे; त्यसपछि मोहनशमशेर उत्तराधिकारी बने।"
+ },
+ {
+  "id": "HIST2-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Mohan Shumsher Rana was prime minister from 1948 to which year, when the Rana regime ended?",
+  "options": [
+   "1955",
+   "1960",
+   "1951",
+   "1948"
+  ],
+  "answer": 2,
+  "explanation": "Mohan Shumsher was the last Rana prime minister, ruling from 1948 to 1951.",
+  "source": "General knowledge",
+  "question_ne": "मोहनशमशेर राणा १९४८ देखि राणा शासन अन्त्य भएको कुन वर्षसम्म प्रधानमन्त्री रहे?",
+  "options_ne": [
+   "१९५५",
+   "१९६०",
+   "१९५१",
+   "१९४८"
+  ],
+  "explanation_ne": "मोहनशमशेर अन्तिम राणा प्रधानमन्त्री थिए, १९४८ देखि १९५१ सम्म शासन गरे।"
+ },
+ {
+  "id": "HIST2-085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Rana prime minister built the Singha Durbar, completed in 1908?",
+  "options": [
+   "Jung Bahadur Rana",
+   "Bir Shumsher Rana",
+   "Juddha Shumsher Rana",
+   "Chandra Shumsher Rana"
+  ],
+  "answer": 3,
+  "explanation": "Singha Durbar was built under Chandra Shumsher Rana and completed in 1908.",
+  "source": "General knowledge",
+  "question_ne": "१९०८ मा सम्पन्न सिंहदरबार बनाउने राणा प्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "जंगबहादुर राणा",
+   "वीरशमशेर राणा",
+   "जुद्धशमशेर राणा",
+   "चन्द्रशमशेर राणा"
+  ],
+  "explanation_ne": "सिंहदरबार चन्द्रशमशेर राणाको समयमा बनाइएको र १९०८ मा सम्पन्न भएको थियो।"
+ },
+ {
+  "id": "HIST2-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which Rana prime minister founded the first hospital in Nepal, Bir Hospital, in 1890?",
+  "options": [
+   "Dev Shumsher Rana",
+   "Bir Shumsher Rana",
+   "Chandra Shumsher Rana",
+   "Jung Bahadur Rana"
+  ],
+  "answer": 1,
+  "explanation": "Bir Hospital, established in 1890 by Bir Shumsher Rana, was Nepal's first hospital.",
+  "source": "General knowledge",
+  "question_ne": "१८९० मा नेपालको पहिलो अस्पताल वीर अस्पताल स्थापना गर्ने राणा प्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "देवशमशेर राणा",
+   "वीरशमशेर राणा",
+   "चन्द्रशमशेर राणा",
+   "जंगबहादुर राणा"
+  ],
+  "explanation_ne": "१८९० मा वीरशमशेर राणाले स्थापना गरेको वीर अस्पताल नेपालको पहिलो अस्पताल थियो।"
+ },
+ {
+  "id": "HIST2-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's first bank, Nepal Bank Limited, was established in which year during the Rana period?",
+  "options": [
+   "1923",
+   "1937",
+   "1951",
+   "1947"
+  ],
+  "answer": 1,
+  "explanation": "Nepal Bank Limited, the first commercial bank of Nepal, was established in 1937.",
+  "source": "General knowledge",
+  "question_ne": "राणा कालमा नेपालको पहिलो बैंक नेपाल बैंक लिमिटेड कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९२३",
+   "१९३७",
+   "१९५१",
+   "१९४७"
+  ],
+  "explanation_ne": "नेपालको पहिलो वाणिज्य बैंक नेपाल बैंक लिमिटेड १९३७ मा स्थापना भएको थियो।"
+ },
+ {
+  "id": "HIST2-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The first hydroelectricity project in Nepal, Pharping, was built in which year?",
+  "options": [
+   "1951",
+   "1920",
+   "1911",
+   "1937"
+  ],
+  "answer": 2,
+  "explanation": "The Pharping hydropower plant, Nepal's first, was built in 1911 under Chandra Shumsher Rana.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो जलविद्युत् आयोजना फर्पिङ कुन वर्षमा बन्यो?",
+  "options_ne": [
+   "१९५१",
+   "१९२०",
+   "१९११",
+   "१९३७"
+  ],
+  "explanation_ne": "नेपालको पहिलो फर्पिङ जलविद्युत् केन्द्र १९११ मा चन्द्रशमशेर राणाको समयमा बन्यो।"
+ },
+ {
+  "id": "HIST2-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's first railway, the Nepal Government Railway from Raxaul to Amlekhganj, began operating in which year?",
+  "options": [
+   "1951",
+   "1937",
+   "1911",
+   "1927"
+  ],
+  "answer": 3,
+  "explanation": "The Raxaul-Amlekhganj narrow-gauge railway began service in 1927.",
+  "source": "General knowledge",
+  "question_ne": "रक्सौल-अमलेखगञ्ज नेपालको पहिलो रेलवे कुन वर्षमा सञ्चालनमा आयो?",
+  "options_ne": [
+   "१९५१",
+   "१९३७",
+   "१९११",
+   "१९२७"
+  ],
+  "explanation_ne": "रक्सौल-अमलेखगञ्ज न्यारो गेज रेलवे १९२७ मा सञ्चालनमा आयो।"
+ },
+ {
+  "id": "HIST2-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The four martyrs of Nepal — Shukra Raj Shastri, Dharma Bhakta Mathema, Dashrath Chand and Ganga Lal Shrestha — were executed in which year?",
+  "options": [
+   "1951",
+   "1937",
+   "1947",
+   "1941"
+  ],
+  "answer": 3,
+  "explanation": "The four martyrs were executed by the Rana regime in 1941 for demanding democracy.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका चार सहिद — शुक्रराज शास्त्री, धर्मभक्त माथेमा, दशरथ चन्द र गंगालाल श्रेष्ठ — कुन वर्षमा मृत्युदण्ड दिइयो?",
+  "options_ne": [
+   "१९५१",
+   "१९३७",
+   "१९४७",
+   "१९४१"
+  ],
+  "explanation_ne": "चार सहिदलाई १९४१ मा राणा शासनले प्रजातन्त्र मागेको आरोपमा मृत्युदण्ड दियो।"
+ },
+ {
+  "id": "HIST2-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Martyr's Day (Shahid Diwas) in Nepal is observed on which date to honour the four martyrs?",
+  "options": [
+   "28 May",
+   "16 Magh (30 January)",
+   "15 January",
+   "1 June"
+  ],
+  "answer": 1,
+  "explanation": "Shahid Diwas is observed on Magh 16 (30 January) each year.",
+  "source": "General knowledge",
+  "question_ne": "चार सहिदको सम्मानमा नेपालमा सहिद दिवस कुन मितिमा मनाइन्छ?",
+  "options_ne": [
+   "२८ मे",
+   "१६ माघ (३० जनवरी)",
+   "१५ जनवरी",
+   "१ जुन"
+  ],
+  "explanation_ne": "सहिद दिवस हरेक वर्ष माघ १६ (३० जनवरी) मा मनाइन्छ।"
+ },
+ {
+  "id": "HIST2-092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the four martyrs was a journalist and the first to be executed, on 24 January 1941?",
+  "options": [
+   "Ganga Lal Shrestha",
+   "Shukra Raj Shastri",
+   "Dharma Bhakta Mathema",
+   "Dashrath Chand"
+  ],
+  "answer": 1,
+  "explanation": "Shukra Raj Shastri was executed first, on 24 January 1941 at Teku.",
+  "source": "General knowledge",
+  "question_ne": "चार सहिदमध्ये पत्रकार र २४ जनवरी १९४१ मा सबैभन्दा पहिले मृत्युदण्ड पाउने को हुन्?",
+  "options_ne": [
+   "गंगालाल श्रेष्ठ",
+   "शुक्रराज शास्त्री",
+   "धर्मभक्त माथेमा",
+   "दशरथ चन्द"
+  ],
+  "explanation_ne": "शुक्रराज शास्त्रीलाई २४ जनवरी १९४१ मा टेकुमा सबैभन्दा पहिले मृत्युदण्ड दिइयो।"
+ },
+ {
+  "id": "HIST2-093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which martyr was executed at Shobha Bhagwati on 28 January 1941?",
+  "options": [
+   "Ganga Lal Shrestha",
+   "Dharma Bhakta Mathema",
+   "Shukra Raj Shastri",
+   "Dashrath Chand"
+  ],
+  "answer": 1,
+  "explanation": "Dharma Bhakta Mathema was hanged at Shobha Bhagwati on 28 January 1941.",
+  "source": "General knowledge",
+  "question_ne": "२८ जनवरी १९४१ मा शोभा भगवतीमा मृत्युदण्ड पाउने सहिद को हुन्?",
+  "options_ne": [
+   "गंगालाल श्रेष्ठ",
+   "धर्मभक्त माथेमा",
+   "शुक्रराज शास्त्री",
+   "दशरथ चन्द"
+  ],
+  "explanation_ne": "धर्मभक्त माथेमालाई २८ जनवरी १९४१ मा शोभा भगवतीमा झुन्ड्याइयो।"
+ },
+ {
+  "id": "HIST2-094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dashrath Chand and Ganga Lal Shrestha were executed together on which date in 1941?",
+  "options": [
+   "30 January 1941",
+   "15 January 1941",
+   "28 January 1941",
+   "24 January 1941"
+  ],
+  "answer": 2,
+  "explanation": "Dashrath Chand and Ganga Lal Shrestha were executed on 28 January 1941 at Shobha Bhagwati.",
+  "source": "General knowledge",
+  "question_ne": "दशरथ चन्द र गंगालाल श्रेष्ठलाई १९४१ को कुन मितिमा सँगै मृत्युदण्ड दिइयो?",
+  "options_ne": [
+   "३० जनवरी १९४१",
+   "१५ जनवरी १९४१",
+   "२८ जनवरी १९४१",
+   "२४ जनवरी १९४१"
+  ],
+  "explanation_ne": "दशरथ चन्द र गंगालाल श्रेष्ठलाई २८ जनवरी १९४१ मा शोभा भगवतीमा मृत्युदण्ड दिइयो।"
+ },
+ {
+  "id": "HIST2-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organisation, founded in 1936, worked against the Rana regime and is linked to the four martyrs?",
+  "options": [
+   "CPN (UML)",
+   "Rastriya Prajatantra Party",
+   "Nepal Praja Parishad",
+   "Nepali Congress"
+  ],
+  "answer": 2,
+  "explanation": "Nepal Praja Parishad, founded in 1936, was the first political organisation to oppose Rana rule openly.",
+  "source": "General knowledge",
+  "question_ne": "१९३६ मा स्थापना भई राणा शासनविरुद्ध काम गर्ने र चार सहिदसँग जोडिएको संस्था कुन हो?",
+  "options_ne": [
+   "नेकपा (एमाले)",
+   "राष्ट्रिय प्रजातन्त्र पार्टी",
+   "नेपाल प्रजा परिषद्",
+   "नेपाली कांग्रेस"
+  ],
+  "explanation_ne": "१९३६ मा स्थापना भएको नेपाल प्रजा परिषद् राणा शासनको खुला विरोध गर्ने पहिलो राजनीतिक संस्था थियो।"
+ },
+ {
+  "id": "HIST2-096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Nepal join the United Nations?",
+  "options": [
+   "1945",
+   "1955",
+   "1951",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "Nepal became a member of the United Nations on 14 December 1955.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल संयुक्त राष्ट्र संघको सदस्य कुन वर्षमा बन्यो?",
+  "options_ne": [
+   "१९४५",
+   "१९५५",
+   "१९५१",
+   "१९६०"
+  ],
+  "explanation_ne": "नेपाल १४ डिसेम्बर १९५५ मा संयुक्त राष्ट्र संघको सदस्य बन्यो।"
+ },
+ {
+  "id": "HIST2-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal sent troops to support Britain in the First World War. Which Nepali soldiers became famous in British service?",
+  "options": [
+   "Gurkhas",
+   "Marathas",
+   "Sikhs",
+   "Rajputs"
+  ],
+  "answer": 0,
+  "explanation": "Gurkha soldiers from Nepal served with distinction in the British Army in both world wars.",
+  "source": "General knowledge",
+  "question_ne": "प्रथम विश्वयुद्धमा बेलायतलाई सहयोग गर्न नेपालले पठाएका प्रसिद्ध सैनिक को थिए?",
+  "options_ne": [
+   "गोर्खा",
+   "मराठा",
+   "सिख",
+   "राजपुत"
+  ],
+  "explanation_ne": "नेपालका गोर्खा सैनिकले दुवै विश्वयुद्धमा ब्रिटिस सेनामा विशिष्ट सेवा गरे।"
+ },
+ {
+  "id": "HIST2-098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Gurkha recruitment agreement between Nepal, Britain and India is known as the Tripartite Agreement of which year?",
+  "options": [
+   "1950",
+   "1947",
+   "1816",
+   "1923"
+  ],
+  "answer": 1,
+  "explanation": "The Tripartite Agreement of 1947 governs Gurkha recruitment into the British and Indian armies.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल, बेलायत र भारतबीच गोर्खा भर्ती सम्झौता त्रिपक्षीय सम्झौता कुन वर्षको हो?",
+  "options_ne": [
+   "१९५०",
+   "१९४७",
+   "१८१६",
+   "१९२३"
+  ],
+  "explanation_ne": "१९४७ को त्रिपक्षीय सम्झौताले ब्रिटिस र भारतीय सेनामा गोर्खा भर्तीलाई नियमन गर्छ।"
+ },
+ {
+  "id": "HIST2-099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which British Resident's expulsion was one of the causes of tension before the Anglo-Nepal War?",
+  "options": [
+   "Lord Hastings",
+   "William Kirkpatrick",
+   "No British Resident was stationed in Kathmandu before Sugauli",
+   "Captain Kinloch"
+  ],
+  "answer": 2,
+  "explanation": "Before Sugauli, Nepal refused a permanent British Resident in Kathmandu; a Resident was imposed only after the treaty.",
+  "source": "General knowledge",
+  "question_ne": "सुगौलीअघि काठमाडौंमा ब्रिटिस रेजिडेन्टको अवस्था के थियो?",
+  "options_ne": [
+   "लर्ड हेस्टिङ्स",
+   "विलियम किर्कप्याट्रिक",
+   "सुगौलीअघि काठमाडौंमा कुनै स्थायी ब्रिटिस रेजिडेन्ट थिएन",
+   "क्याप्टेन किनलक"
+  ],
+  "explanation_ne": "सुगौलीअघि नेपालले काठमाडौंमा स्थायी ब्रिटिस रेजिडेन्ट स्वीकार गरेको थिएन; सन्धिपछि मात्र रेजिडेन्ट राखियो।"
+ },
+ {
+  "id": "HIST2-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Under the Treaty of Sugauli, Nepal agreed to accept a British Resident in Kathmandu. Who was the first British Resident?",
+  "options": [
+   "Captain Kinloch",
+   "Edward Gardner",
+   "Brian Houghton Hodgson",
+   "William Kirkpatrick"
+  ],
+  "answer": 1,
+  "explanation": "Edward Gardner became the first British Resident in Kathmandu in 1816 after the Treaty of Sugauli.",
+  "source": "General knowledge",
+  "question_ne": "सुगौली सन्धिअन्तर्गत काठमाडौंमा नियुक्त पहिलो ब्रिटिस रेजिडेन्ट को थिए?",
+  "options_ne": [
+   "क्याप्टेन किनलक",
+   "एडवर्ड गार्डनर",
+   "ब्रायन हाउटन हजसन",
+   "विलियम किर्कप्याट्रिक"
+  ],
+  "explanation_ne": "एडवर्ड गार्डनर १८१६ मा सुगौली सन्धिपछि काठमाडौंका पहिलो ब्रिटिस रेजिडेन्ट बने।"
+ },
+ {
+  "id": "HIST2-101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who became the first prime minister of Nepal after the fall of the Rana regime in 1951?",
+  "options": [
+   "Krishna Prasad Bhattarai",
+   "Bishweshwar Prasad Koirala",
+   "Matrika Prasad Koirala",
+   "Ganesh Man Singh"
+  ],
+  "answer": 2,
+  "explanation": "Matrika Prasad Koirala became prime minister in November 1951, the first after the Rana regime ended.",
+  "source": "General knowledge",
+  "question_ne": "१९५१ मा राणा शासन पतन भएपछि नेपालका प्रथम प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "कृष्णप्रसाद भट्टराई",
+   "विश्वेश्वरप्रसाद कोइराला",
+   "मातृकाप्रसाद कोइराला",
+   "गणेशमान सिंह"
+  ],
+  "explanation_ne": "मातृकाप्रसाद कोइराला नोभेम्बर १९५१ मा राणा शासन अन्त्यपछि प्रथम प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which document served as Nepal's interim constitution in 1951 after the end of Rana rule?",
+  "options": [
+   "Constitution of 1990",
+   "Government of Nepal Act 1948",
+   "Interim Government of Nepal Act 1951",
+   "Constitution of 1962"
+  ],
+  "answer": 2,
+  "explanation": "The Interim Government of Nepal Act 1951 governed Nepal after the Rana regime ended.",
+  "source": "General knowledge",
+  "question_ne": "राणा शासन अन्त्यपछि १९५१ मा नेपालको अन्तरिम संविधानका रूपमा कुन दस्तावेज लागू भयो?",
+  "options_ne": [
+   "१९९० को संविधान",
+   "१९४८ को नेपाल सरकार ऐन",
+   "१९५१ को नेपाल अन्तरिम शासन ऐन",
+   "१९६२ को संविधान"
+  ],
+  "explanation_ne": "१९५१ को नेपाल अन्तरिम शासन ऐनले राणा शासन अन्त्यपछि नेपाललाई शासन गर्यो।"
+ },
+ {
+  "id": "HIST2-103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "King Tribhuvan fled to the Indian Embassy in Kathmandu and then to India in November 1950. Where did he take refuge first?",
+  "options": [
+   "The Chinese Embassy",
+   "The American Embassy",
+   "The British Embassy",
+   "The Indian Embassy"
+  ],
+  "answer": 3,
+  "explanation": "King Tribhuvan took refuge in the Indian Embassy in Kathmandu on 6 November 1950 before flying to India.",
+  "source": "General knowledge",
+  "question_ne": "नोभेम्बर १९५० मा राजा त्रिभुवन काठमाडौंको कुन दूतावासमा शरण लिन गए?",
+  "options_ne": [
+   "चिनियाँ दूतावास",
+   "अमेरिकी दूतावास",
+   "ब्रिटिस दूतावास",
+   "भारतीय दूतावास"
+  ],
+  "explanation_ne": "राजा त्रिभुवन ६ नोभेम्बर १९५० मा काठमाडौंस्थित भारतीय दूतावासमा शरण लिएर भारत गए।"
+ },
+ {
+  "id": "HIST2-104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "After King Tribhuvan fled to India in 1950, whom did the Ranas place on the throne as king?",
+  "options": [
+   "Prince Gyanendra",
+   "Prince Mahendra",
+   "Prince Birendra",
+   "Prince Dipendra"
+  ],
+  "answer": 0,
+  "explanation": "The Ranas crowned the three-year-old Prince Gyanendra as king after Tribhuvan fled.",
+  "source": "General knowledge",
+  "question_ne": "१९५० मा राजा त्रिभुवन भारत गएपछि राणाहरूले कसलाई राजा बनाए?",
+  "options_ne": [
+   "युवराज ज्ञानेन्द्र",
+   "युवराज महेन्द्र",
+   "युवराज वीरेन्द्र",
+   "युवराज दीपेन्द्र"
+  ],
+  "explanation_ne": "त्रिभुवन भागेपछि राणाहरूले तीन वर्षीय युवराज ज्ञानेन्द्रलाई राजा बनाए।"
+ },
+ {
+  "id": "HIST2-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The armed revolution against the Rana regime, led by the Nepali Congress, began in which year?",
+  "options": [
+   "1950",
+   "1947",
+   "1951",
+   "1936"
+  ],
+  "answer": 0,
+  "explanation": "The Nepali Congress launched the armed revolution against the Ranas in 1950.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली कांग्रेसको नेतृत्वमा राणा शासनविरुद्ध सशस्त्र क्रान्ति कुन वर्षमा सुरु भयो?",
+  "options_ne": [
+   "१९५०",
+   "१९४७",
+   "१९५१",
+   "१९३६"
+  ],
+  "explanation_ne": "नेपाली कांग्रेसले १९५० मा राणाविरुद्ध सशस्त्र क्रान्ति सुरु गर्यो।"
+ },
+ {
+  "id": "HIST2-106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's first general election was held in which year?",
+  "options": [
+   "1951",
+   "1960",
+   "1990",
+   "1959"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's first general election was held in 1959, won by the Nepali Congress.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो आम निर्वाचन कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१९५१",
+   "१९६०",
+   "१९९०",
+   "१९५९"
+  ],
+  "explanation_ne": "नेपालको पहिलो आम निर्वाचन १९५९ मा भएको थियो, जसमा नेपाली कांग्रेस विजयी भयो।"
+ },
+ {
+  "id": "HIST2-107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many seats did the Nepali Congress win in the 1959 general election out of 109 seats?",
+  "options": [
+   "45",
+   "60",
+   "30",
+   "74"
+  ],
+  "answer": 3,
+  "explanation": "The Nepali Congress won 74 of the 109 seats in the 1959 election.",
+  "source": "General knowledge",
+  "question_ne": "१९५९ को आम निर्वाचनमा नेपाली कांग्रेसले १०९ सिटमध्ये कति सिट जित्यो?",
+  "options_ne": [
+   "४५",
+   "६०",
+   "३०",
+   "७४"
+  ],
+  "explanation_ne": "नेपाली कांग्रेसले १९५९ को निर्वाचनमा १०९ मध्ये ७४ सिट जित्यो।"
+ },
+ {
+  "id": "HIST2-108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which date did King Mahendra dismiss the elected government and seize power in 1960?",
+  "options": [
+   "1 June 2001",
+   "18 February 1951",
+   "28 May 2008",
+   "15 December 1960"
+  ],
+  "answer": 3,
+  "explanation": "King Mahendra staged the royal coup on 15 December 1960, arresting B. P. Koirala.",
+  "source": "General knowledge",
+  "question_ne": "राजा महेन्द्रले निर्वाचित सरकार बर्खास्त गरी सत्ता लिएको मिति कुन हो?",
+  "options_ne": [
+   "१ जुन २००१",
+   "१८ फेब्रुअरी १९५१",
+   "२८ मे २००८",
+   "१५ डिसेम्बर १९६०"
+  ],
+  "explanation_ne": "राजा महेन्द्रले १५ डिसेम्बर १९६० मा शाही कु गरी वी.पी. कोइरालालाई पक्राउ गरे।"
+ },
+ {
+  "id": "HIST2-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Panchayat Constitution of Nepal was promulgated in which year?",
+  "options": [
+   "1990",
+   "1962",
+   "1960",
+   "1959"
+  ],
+  "answer": 1,
+  "explanation": "King Mahendra promulgated the Panchayat Constitution in December 1962.",
+  "source": "General knowledge",
+  "question_ne": "पञ्चायत संविधान कुन वर्षमा जारी भयो?",
+  "options_ne": [
+   "१९९०",
+   "१९६२",
+   "१९६०",
+   "१९५९"
+  ],
+  "explanation_ne": "राजा महेन्द्रले डिसेम्बर १९६२ मा पञ्चायत संविधान जारी गरे।"
+ },
+ {
+  "id": "HIST2-110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Under the Panchayat system, the national legislature was known by what name?",
+  "options": [
+   "Pratinidhi Sabha",
+   "Constituent Assembly",
+   "Rastriya Sabha",
+   "Rastriya Panchayat"
+  ],
+  "answer": 3,
+  "explanation": "The national legislature under the Panchayat system was the Rastriya Panchayat (National Panchayat).",
+  "source": "General knowledge",
+  "question_ne": "पञ्चायत व्यवस्थाअन्तर्गत राष्ट्रिय व्यवस्थापिकालाई के भनिन्थ्यो?",
+  "options_ne": [
+   "प्रतिनिधि सभा",
+   "संविधान सभा",
+   "राष्ट्रिय सभा",
+   "राष्ट्रिय पञ्चायत"
+  ],
+  "explanation_ne": "पञ्चायत व्यवस्थाअन्तर्गत राष्ट्रिय व्यवस्थापिका राष्ट्रिय पञ्चायत थियो।"
+ },
+ {
+  "id": "HIST2-111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who founded the Communist Party of Nepal in 1949?",
+  "options": [
+   "Pushpa Lal Shrestha",
+   "Man Mohan Adhikari",
+   "Madhav Kumar Nepal",
+   "Jhalanath Khanal"
+  ],
+  "answer": 0,
+  "explanation": "Pushpa Lal Shrestha founded the Communist Party of Nepal in 1949.",
+  "source": "General knowledge",
+  "question_ne": "१९४९ मा नेपाल कम्युनिस्ट पार्टी स्थापना गर्ने को हुन्?",
+  "options_ne": [
+   "पुष्पलाल श्रेष्ठ",
+   "मनमोहन अधिकारी",
+   "माधवकुमार नेपाल",
+   "झलनाथ खनाल"
+  ],
+  "explanation_ne": "पुष्पलाल श्रेष्ठले १९४९ मा नेपाल कम्युनिस्ट पार्टी स्थापना गरे।"
+ },
+ {
+  "id": "HIST2-112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "B. P. Koirala is remembered as the first elected prime minister and also as a famous writer. Which novel did he write?",
+  "options": [
+   "Muna Madan",
+   "Tin Ghumti",
+   "Seto Bagh",
+   "Sumnima"
+  ],
+  "answer": 3,
+  "explanation": "B. P. Koirala wrote the novel Sumnima, among other literary works.",
+  "source": "General knowledge",
+  "question_ne": "वी.पी. कोइरालाले लेखेको उपन्यास कुन हो?",
+  "options_ne": [
+   "मुनामदन",
+   "तीन घुम्ती",
+   "सेतो बाघ",
+   "सुम्निमा"
+  ],
+  "explanation_ne": "वी.पी. कोइरालाले सुम्निमालगायत साहित्यिक कृति लेखे।"
+ },
+ {
+  "id": "HIST2-113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the prime minister of the interim government after the 1990 People's Movement?",
+  "options": [
+   "Krishna Prasad Bhattarai",
+   "Girija Prasad Koirala",
+   "Man Mohan Adhikari",
+   "Sher Bahadur Deuba"
+  ],
+  "answer": 0,
+  "explanation": "Krishna Prasad Bhattarai led the interim government after Jana Andolan I in 1990.",
+  "source": "General knowledge",
+  "question_ne": "१९९० को जनआन्दोलनपछि अन्तरिम सरकारका प्रधानमन्त्री को थिए?",
+  "options_ne": [
+   "कृष्णप्रसाद भट्टराई",
+   "गिरिजाप्रसाद कोइराला",
+   "मनमोहन अधिकारी",
+   "शेरबहादुर देउवा"
+  ],
+  "explanation_ne": "कृष्णप्रसाद भट्टराईले १९९० को जनआन्दोलन पछि अन्तरिम सरकारको नेतृत्व गरे।"
+ },
+ {
+  "id": "HIST2-114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's first general election after the restoration of democracy was held in which year?",
+  "options": [
+   "1991",
+   "1990",
+   "1994",
+   "1959"
+  ],
+  "answer": 0,
+  "explanation": "The first general election after 1990 was held in May 1991, won by the Nepali Congress.",
+  "source": "General knowledge",
+  "question_ne": "प्रजातन्त्र पुनर्स्थापनापछि नेपालको पहिलो आम निर्वाचन कुन वर्षमा भयो?",
+  "options_ne": [
+   "१९९१",
+   "१९९०",
+   "१९९४",
+   "१९५९"
+  ],
+  "explanation_ne": "१९९० पछिको पहिलो आम निर्वाचन मे १९९१ मा भयो, जसमा नेपाली कांग्रेस विजयी भयो।"
+ },
+ {
+  "id": "HIST2-115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who became prime minister after the 1991 general election?",
+  "options": [
+   "Man Mohan Adhikari",
+   "Sher Bahadur Deuba",
+   "Girija Prasad Koirala",
+   "Krishna Prasad Bhattarai"
+  ],
+  "answer": 2,
+  "explanation": "Girija Prasad Koirala became prime minister after the Nepali Congress won the 1991 election.",
+  "source": "General knowledge",
+  "question_ne": "१९९१ को आम निर्वाचनपछि प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "मनमोहन अधिकारी",
+   "शेरबहादुर देउवा",
+   "गिरिजाप्रसाद कोइराला",
+   "कृष्णप्रसाद भट्टराई"
+  ],
+  "explanation_ne": "१९९१ को निर्वाचनमा नेपाली कांग्रेस विजयी भएपछि गिरिजाप्रसाद कोइराला प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the first communist prime minister of Nepal, leading a minority government in 1994?",
+  "options": [
+   "Man Mohan Adhikari",
+   "Madhav Kumar Nepal",
+   "Pushpa Kamal Dahal",
+   "Jhalanath Khanal"
+  ],
+  "answer": 0,
+  "explanation": "Man Mohan Adhikari of CPN (UML) became prime minister in 1994, Nepal's first communist prime minister.",
+  "source": "General knowledge",
+  "question_ne": "१९९४ मा अल्पमत सरकारको नेतृत्व गर्ने नेपालका प्रथम कम्युनिस्ट प्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "मनमोहन अधिकारी",
+   "माधवकुमार नेपाल",
+   "पुष्पकमल दाहाल",
+   "झलनाथ खनाल"
+  ],
+  "explanation_ne": "नेकपा (एमाले) का मनमोहन अधिकारी १९९४ मा नेपालका प्रथम कम्युनिस्ट प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Maoist People's War in Nepal began on which date?",
+  "options": [
+   "21 November 2006",
+   "1 June 2001",
+   "13 February 1996",
+   "13 February 1990"
+  ],
+  "answer": 2,
+  "explanation": "The Maoist insurgency began on 13 February 1996 with attacks on police posts in Rolpa and Rukum.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा माओवादी जनयुद्ध कुन मितिमा सुरु भयो?",
+  "options_ne": [
+   "२१ नोभेम्बर २००६",
+   "१ जुन २००१",
+   "१३ फेब्रुअरी १९९६",
+   "१३ फेब्रुअरी १९९०"
+  ],
+  "explanation_ne": "माओवादी विद्रोह १३ फेब्रुअरी १९९६ मा रोल्पा र रुकुमका प्रहरी चौकीमा आक्रमणबाट सुरु भयो।"
+ },
+ {
+  "id": "HIST2-118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Maoist insurgency is also known by what name in Nepal?",
+  "options": [
+   "People's War (Janayuddha)",
+   "Jana Andolan",
+   "Panchayat Movement",
+   "Civil Disobedience"
+  ],
+  "answer": 0,
+  "explanation": "The 1996-2006 Maoist insurgency is known as the People's War (Janayuddha).",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा माओवादी विद्रोहलाई अर्को कुन नामले चिनिन्छ?",
+  "options_ne": [
+   "जनयुद्ध",
+   "जनआन्दोलन",
+   "पञ्चायत आन्दोलन",
+   "नागरिक अवज्ञा"
+  ],
+  "explanation_ne": "१९९६-२००६ को माओवादी विद्रोह जनयुद्धका रूपमा चिनिन्छ।"
+ },
+ {
+  "id": "HIST2-119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How long did the Maoist People's War last?",
+  "options": [
+   "About 10 years (1996-2006)",
+   "About 5 years",
+   "About 15 years",
+   "About 2 years"
+  ],
+  "answer": 0,
+  "explanation": "The People's War lasted from February 1996 until the Comprehensive Peace Agreement in November 2006.",
+  "source": "General knowledge",
+  "question_ne": "माओवादी जनयुद्ध लगभग कति समय चल्यो?",
+  "options_ne": [
+   "लगभग १० वर्ष (१९९६-२००६)",
+   "लगभग ५ वर्ष",
+   "लगभग १५ वर्ष",
+   "लगभग २ वर्ष"
+  ],
+  "explanation_ne": "जनयुद्ध फेब्रुअरी १९९६ देखि नोभेम्बर २००६ को विस्तृत शान्ति सम्झौतासम्म चल्यो।"
+ },
+ {
+  "id": "HIST2-120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the leader of the CPN (Maoist) during the People's War?",
+  "options": [
+   "Baburam Bhattarai",
+   "Mohan Baidya",
+   "Netra Bikram Chand",
+   "Pushpa Kamal Dahal (Prachanda)"
+  ],
+  "answer": 3,
+  "explanation": "Pushpa Kamal Dahal, known as Prachanda, led the CPN (Maoist) during the People's War.",
+  "source": "General knowledge",
+  "question_ne": "जनयुद्धका समयमा नेकपा (माओवादी) का नेता को थिए?",
+  "options_ne": [
+   "बाबुराम भट्टराई",
+   "मोहन वैद्य",
+   "नेत्रविक्रम चन्द",
+   "पुष्पकमल दाहाल (प्रचण्ड)"
+  ],
+  "explanation_ne": "पुष्पकमल दाहाल (प्रचण्ड) ले जनयुद्धका समयमा नेकपा (माओवादी) को नेतृत्व गरे।"
+ },
+ {
+  "id": "HIST2-121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "King Gyanendra took direct control of the government on 1 February of which year?",
+  "options": [
+   "2001",
+   "2006",
+   "2008",
+   "2005"
+  ],
+  "answer": 3,
+  "explanation": "King Gyanendra dismissed the government and took direct rule on 1 February 2005.",
+  "source": "General knowledge",
+  "question_ne": "राजा ज्ञानेन्द्रले १ फेब्रुअरीमा सरकारको प्रत्यक्ष नियन्त्रण कुन वर्षमा लिए?",
+  "options_ne": [
+   "२००१",
+   "२००६",
+   "२००८",
+   "२००५"
+  ],
+  "explanation_ne": "राजा ज्ञानेन्द्रले १ फेब्रुअरी २००५ मा सरकार बर्खास्त गरी प्रत्यक्ष शासन लिए।"
+ },
+ {
+  "id": "HIST2-122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Jana Andolan II in 2006 lasted for how many days of continuous protests in April?",
+  "options": [
+   "10 days",
+   "30 days",
+   "7 days",
+   "19 days"
+  ],
+  "answer": 3,
+  "explanation": "The April 2006 movement involved 19 days of protests, after which King Gyanendra restored parliament.",
+  "source": "General knowledge",
+  "question_ne": "२००६ को जनआन्दोलन-२ मा अप्रिलमा लगातार कति दिन प्रदर्शन भयो?",
+  "options_ne": [
+   "१० दिन",
+   "३० दिन",
+   "७ दिन",
+   "१९ दिन"
+  ],
+  "explanation_ne": "अप्रिल २००६ को आन्दोलनमा १९ दिन प्रदर्शन भयो, त्यसपछि राजा ज्ञानेन्द्रले संसद् पुनर्स्थापना गरे।"
+ },
+ {
+  "id": "HIST2-123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which date in 2006 did King Gyanendra announce the restoration of parliament?",
+  "options": [
+   "1 February 2005",
+   "21 November 2006",
+   "28 May 2008",
+   "24 April 2006"
+  ],
+  "answer": 3,
+  "explanation": "King Gyanendra announced the reinstatement of the House of Representatives on 24 April 2006.",
+  "source": "General knowledge",
+  "question_ne": "राजा ज्ञानेन्द्रले संसद् पुनर्स्थापनाको घोषणा २००६ को कुन मितिमा गरे?",
+  "options_ne": [
+   "१ फेब्रुअरी २००५",
+   "२१ नोभेम्बर २००६",
+   "२८ मे २००८",
+   "२४ अप्रिल २००६"
+  ],
+  "explanation_ne": "राजा ज्ञानेन्द्रले २४ अप्रिल २००६ मा प्रतिनिधि सभा पुनर्स्थापनाको घोषणा गरे।"
+ },
+ {
+  "id": "HIST2-124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Seven Party Alliance (SPA) led Jana Andolan II together with the Maoists under which understanding?",
+  "options": [
+   "Sugauli Treaty",
+   "12-point Understanding",
+   "Delhi Agreement",
+   "Comprehensive Peace Agreement"
+  ],
+  "answer": 1,
+  "explanation": "The SPA and the Maoists agreed on the 12-point Understanding in November 2005.",
+  "source": "General knowledge",
+  "question_ne": "सात दलिय गठबन्धनले माओवादीसँग मिलेर जनआन्दोलन-२ को नेतृत्व कुन समझदारीअन्तर्गत गर्यो?",
+  "options_ne": [
+   "सुगौली सन्धि",
+   "१२ बुँदे समझदारी",
+   "दिल्ली सम्झौता",
+   "विस्तृत शान्ति सम्झौता"
+  ],
+  "explanation_ne": "सात दल र माओवादीले नोभेम्बर २००५ मा १२ बुँदे समझदारी गरे।"
+ },
+ {
+  "id": "HIST2-125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Comprehensive Peace Agreement was signed on 21 November 2006 between the Government of Nepal and whom?",
+  "options": [
+   "CPN (Maoist)",
+   "CPN (UML)",
+   "Nepali Congress",
+   "Seven Party Alliance only"
+  ],
+  "answer": 0,
+  "explanation": "The CPA was signed between the Government of Nepal and the CPN (Maoist).",
+  "source": "General knowledge",
+  "question_ne": "२१ नोभेम्बर २००६ को विस्तृत शान्ति सम्झौता नेपाल सरकार र कसबीच भएको थियो?",
+  "options_ne": [
+   "नेकपा (माओवादी)",
+   "नेकपा (एमाले)",
+   "नेपाली कांग्रेस",
+   "केवल सात दलिय गठबन्धन"
+  ],
+  "explanation_ne": "विस्तृत शान्ति सम्झौता नेपाल सरकार र नेकपा (माओवादी) बीच भएको थियो।"
+ },
+ {
+  "id": "HIST2-126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the first woman to become Deputy Prime Minister of Nepal?",
+  "options": [
+   "Bidya Devi Bhandari",
+   "Sahana Pradhan",
+   "Pampha Bhusal",
+   "Shailaja Acharya"
+  ],
+  "answer": 3,
+  "explanation": "Shailaja Acharya became Nepal's first woman Deputy Prime Minister in 1998.",
+  "source": "General knowledge",
+  "question_ne": "नेपालकी प्रथम महिला उपप्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "विद्यादेवी भण्डारी",
+   "सहाना प्रधान",
+   "पम्फा भुसाल",
+   "शैलजा आचार्य"
+  ],
+  "explanation_ne": "शैलजा आचार्य १९९८ मा नेपालकी प्रथम महिला उपप्रधानमन्त्री बनिन्।"
+ },
+ {
+  "id": "HIST2-127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was Nepal's first woman minister?",
+  "options": [
+   "Shailaja Acharya",
+   "Bidya Devi Bhandari",
+   "Sahana Pradhan",
+   "Dwarika Devi Thakurani"
+  ],
+  "answer": 3,
+  "explanation": "Dwarika Devi Thakurani became Nepal's first woman minister in 1959.",
+  "source": "General knowledge",
+  "question_ne": "नेपालकी प्रथम महिला मन्त्री को हुन्?",
+  "options_ne": [
+   "शैलजा आचार्य",
+   "विद्यादेवी भण्डारी",
+   "सहाना प्रधान",
+   "द्वारिकादेवी ठकुरानी"
+  ],
+  "explanation_ne": "द्वारिकादेवी ठकुरानी १९५९ मा नेपालकी प्रथम महिला मन्त्री बनिन्।"
+ },
+ {
+  "id": "HIST2-129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which date did Tenzing Norgay Sherpa and Edmund Hillary first reach the summit of Mount Everest?",
+  "options": [
+   "29 May 1953",
+   "29 May 1955",
+   "15 May 1953",
+   "29 May 1960"
+  ],
+  "answer": 0,
+  "explanation": "Hillary and Tenzing reached the summit of Everest on 29 May 1953.",
+  "source": "General knowledge",
+  "question_ne": "तेन्जिङ नोर्गे शेर्पा र एडमण्ड हिलारीले सगरमाथाको चुचुरोमा पहिलो पटक कहिले पुगे?",
+  "options_ne": [
+   "२९ मे १९५३",
+   "२९ मे १९५५",
+   "१५ मे १९५३",
+   "२९ मे १९६०"
+  ],
+  "explanation_ne": "हिलारी र तेन्जिङ २९ मे १९५३ मा सगरमाथाको चुचुरोमा पुगे।"
+ },
+ {
+  "id": "HIST2-130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first Nepali woman to climb Mount Everest?",
+  "options": [
+   "Maya Sherpa",
+   "Nimi Sherpa",
+   "Pasang Lhamu Sherpa",
+   "Lhakpa Sherpa"
+  ],
+  "answer": 2,
+  "explanation": "Pasang Lhamu Sherpa became the first Nepali woman to climb Everest in 1993.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा चढ्ने प्रथम नेपाली महिला को हुन्?",
+  "options_ne": [
+   "माया शेर्पा",
+   "निमी शेर्पा",
+   "पासाङ ल्हामु शेर्पा",
+   "ल्हाक्पा शेर्पा"
+  ],
+  "explanation_ne": "पासाङ ल्हामु शेर्पा १९९३ मा सगरमाथा चढ्ने प्रथम नेपाली महिला बनिन्।"
+ },
+ {
+  "id": "HIST2-131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's first airport, Tribhuvan International Airport, was originally known by what name?",
+  "options": [
+   "Gauchar Airport",
+   "Pokhara Airport",
+   "Biratnagar Airport",
+   "Simara Airport"
+  ],
+  "answer": 0,
+  "explanation": "Tribhuvan International Airport began as Gauchar Airport, with the first landing in 1949.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो विमानस्थल त्रिभुवन अन्तर्राष्ट्रिय विमानस्थललाई सुरुमा के भनिन्थ्यो?",
+  "options_ne": [
+   "गौचर विमानस्थल",
+   "पोखरा विमानस्थल",
+   "विराटनगर विमानस्थल",
+   "सिमरा विमानस्थल"
+  ],
+  "explanation_ne": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल गौचर विमानस्थलका रूपमा सुरु भयो; पहिलो अवतरण १९४९ मा भयो।"
+ },
+ {
+  "id": "HIST2-132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's first newspaper, Gorkhapatra, began publication in which year?",
+  "options": [
+   "1911",
+   "1901",
+   "1951",
+   "1937"
+  ],
+  "answer": 1,
+  "explanation": "Gorkhapatra, Nepal's first newspaper, began in 1901 during the Rana period.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो पत्रिका गोरखापत्र कुन वर्षमा प्रकाशन सुरु भयो?",
+  "options_ne": [
+   "१९११",
+   "१९०१",
+   "१९५१",
+   "१९३७"
+  ],
+  "explanation_ne": "नेपालको पहिलो पत्रिका गोरखापत्र १९०१ मा राणा कालमा सुरु भयो।"
+ },
+ {
+  "id": "HIST2-133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal's first radio station, Radio Nepal, began broadcasting in which year?",
+  "options": [
+   "1951",
+   "1947",
+   "1960",
+   "1990"
+  ],
+  "answer": 0,
+  "explanation": "Radio Nepal began broadcasting on 2 April 1951.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो रेडियो स्टेसन रेडियो नेपालले कुन वर्षमा प्रसारण सुरु गर्यो?",
+  "options_ne": [
+   "१९५१",
+   "१९४७",
+   "१९६०",
+   "१९९०"
+  ],
+  "explanation_ne": "रेडियो नेपालले २ अप्रिल १९५१ मा प्रसारण सुरु गर्यो।"
+ },
+ {
+  "id": "HIST2-134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal Television, the first television channel in Nepal, began broadcasting in which year?",
+  "options": [
+   "2000",
+   "1985",
+   "1990",
+   "1975"
+  ],
+  "answer": 1,
+  "explanation": "Nepal Television began regular broadcasting in 1985.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो टेलिभिजन च्यानल नेपाल टेलिभिजनले कुन वर्षमा प्रसारण सुरु गर्यो?",
+  "options_ne": [
+   "२०००",
+   "१९८५",
+   "१९९०",
+   "१९७५"
+  ],
+  "explanation_ne": "नेपाल टेलिभिजनले १९८५ मा नियमित प्रसारण सुरु गर्यो।"
+ },
+ {
+  "id": "HIST2-135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "provincial-psc"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tribhuvan University, Nepal's first university, was established in which year?",
+  "options": [
+   "1951",
+   "1972",
+   "1959",
+   "1918"
+  ],
+  "answer": 2,
+  "explanation": "Tribhuvan University was established in 1959.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो विश्वविद्यालय त्रिभुवन विश्वविद्यालय कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९५१",
+   "१९७२",
+   "१९५९",
+   "१९१८"
+  ],
+  "explanation_ne": "त्रिभुवन विश्वविद्यालय १९५९ मा स्थापना भयो।"
+ },
+ {
+  "id": "HIST2-136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who wrote Bir Charitra (1903), regarded as the first novel in the Nepali language?",
+  "options": [
+   "Girija Prasad Koirala",
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya",
+   "Shankar Lamichhane"
+  ],
+  "answer": 0,
+  "explanation": "Bir Charitra (1903) by Girija Prasad Koirala is regarded as the first novel in the Nepali language.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली भाषाको पहिलो उपन्यास मानिने वीर चरित्र (१९०३) कसले लेखे?",
+  "options_ne": [
+   "गिरिजाप्रसाद कोइराला",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "शंकर लामिछाने"
+  ],
+  "explanation_ne": "गिरिजाप्रसाद कोइरालाको वीर चरित्र (१९०३) लाई नेपाली भाषाको पहिलो उपन्यास मानिन्छ।"
+ },
+ {
+  "id": "HIST2-137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhanubhakta Acharya is known as the Adikavi (first poet) of Nepali literature for translating which epic into Nepali?",
+  "options": [
+   "Mahabharata",
+   "Ramayana",
+   "Bhagavad Gita",
+   "Shakuntala"
+  ],
+  "answer": 1,
+  "explanation": "Bhanubhakta Acharya translated the Ramayana into Nepali, earning the title Adikavi.",
+  "source": "General knowledge",
+  "question_ne": "भानुभक्त आचार्यले कुन महाकाव्य नेपालीमा अनुवाद गरेर आदिकवि उपाधि पाए?",
+  "options_ne": [
+   "महाभारत",
+   "रामायण",
+   "भगवद्गीता",
+   "शकुन्तला"
+  ],
+  "explanation_ne": "भानुभक्त आचार्यले रामायण नेपालीमा अनुवाद गरेर आदिकवि उपाधि पाए।"
+ },
+ {
+  "id": "HIST2-138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Laxmi Prasad Devkota is known by which honorary title in Nepali literature?",
+  "options": [
+   "Rashtrakavi",
+   "Adikavi",
+   "Mahakavi",
+   "Yugkavi"
+  ],
+  "answer": 2,
+  "explanation": "Laxmi Prasad Devkota is honoured as Mahakavi (Great Poet) of Nepali literature.",
+  "source": "General knowledge",
+  "question_ne": "लक्ष्मीप्रसाद देवकोटालाई नेपाली साहित्यमा कुन उपाधिले चिनिन्छ?",
+  "options_ne": [
+   "राष्ट्रकवि",
+   "आदिकवि",
+   "महाकवि",
+   "युगकवि"
+  ],
+  "explanation_ne": "लक्ष्मीप्रसाद देवकोटालाई नेपाली साहित्यका महाकवि भनिन्छ।"
+ },
+ {
+  "id": "HIST2-139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Laxmi Prasad Devkota's famous epic poem Muna Madan was published in which year?",
+  "options": [
+   "1901",
+   "1951",
+   "1960",
+   "1936"
+  ],
+  "answer": 3,
+  "explanation": "Muna Madan, Devkota's best-known epic poem, was published in 1936.",
+  "source": "General knowledge",
+  "question_ne": "लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध महाकाव्य मुनामदन कुन वर्षमा प्रकाशित भयो?",
+  "options_ne": [
+   "१९०१",
+   "१९५१",
+   "१९६०",
+   "१९३६"
+  ],
+  "explanation_ne": "देवकोटाको प्रसिद्ध महाकाव्य मुनामदन १९३६ मा प्रकाशित भयो।"
+ },
+ {
+  "id": "HIST2-140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is known as the Yugkavi (Poet of the Era) of Nepali literature?",
+  "options": [
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya",
+   "Madhav Prasad Ghimire",
+   "Siddhicharan Shrestha"
+  ],
+  "answer": 3,
+  "explanation": "Siddhicharan Shrestha is honoured as Yugkavi in Nepali literature.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली साहित्यमा युगकवि भनेर को चिनिन्छन्?",
+  "options_ne": [
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "माधवप्रसाद घिमिरे",
+   "सिद्धिचरण श्रेष्ठ"
+  ],
+  "explanation_ne": "सिद्धिचरण श्रेष्ठलाई नेपाली साहित्यमा युगकवि भनिन्छ।"
+ },
+ {
+  "id": "HIST2-141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Madhav Prasad Ghimire is honoured with which title in Nepali literature?",
+  "options": [
+   "Adikavi",
+   "Yugkavi",
+   "Rashtrakavi (National Poet)",
+   "Mahakavi"
+  ],
+  "answer": 2,
+  "explanation": "Madhav Prasad Ghimire is honoured as Rashtrakavi, the National Poet of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "माधवप्रसाद घिमिरेलाई नेपाली साहित्यमा कुन उपाधि दिइएको छ?",
+  "options_ne": [
+   "आदिकवि",
+   "युगकवि",
+   "राष्ट्रकवि",
+   "महाकवि"
+  ],
+  "explanation_ne": "माधवप्रसाद घिमिरेलाई नेपालका राष्ट्रकवि भनिन्छ।"
+ },
+ {
+  "id": "HIST2-142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which king of Nepal is known as the builder of the East-West Highway (Mahendra Highway)?",
+  "options": [
+   "King Birendra",
+   "King Tribhuvan",
+   "King Gyanendra",
+   "King Mahendra"
+  ],
+  "answer": 3,
+  "explanation": "The East-West Highway was built during King Mahendra's reign and is also called the Mahendra Highway.",
+  "source": "General knowledge",
+  "question_ne": "पूर्व-पश्चिम राजमार्ग (महेन्द्र राजमार्ग) निर्माणसँग जोडिएका राजा को हुन्?",
+  "options_ne": [
+   "राजा वीरेन्द्र",
+   "राजा त्रिभुवन",
+   "राजा ज्ञानेन्द्र",
+   "राजा महेन्द्र"
+  ],
+  "explanation_ne": "पूर्व-पश्चिम राजमार्ग राजा महेन्द्रको शासनकालमा बन्यो र यसलाई महेन्द्र राजमार्ग पनि भनिन्छ।"
+ },
+ {
+  "id": "HIST2-143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal adopted the metric system and the Nepali rupee was introduced in which era?",
+  "options": [
+   "Shah unification, 1768",
+   "Panchayat, 1960",
+   "Republic, 2008",
+   "Rana period, 1932 (Nepali rupee)"
+  ],
+  "answer": 3,
+  "explanation": "The Nepali rupee (Mohar replaced) was introduced in 1932 during the Rana period.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली रुपैयाँ कुन कालमा सुरु भयो?",
+  "options_ne": [
+   "शाह एकीकरण, १७६८",
+   "पञ्चायत, १९६०",
+   "गणतन्त्र, २००८",
+   "राणा काल, १९३२"
+  ],
+  "explanation_ne": "नेपाली रुपैयाँ १९३२ मा राणा कालमा सुरु भयो।"
+ },
+ {
+  "id": "HIST2-144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nepali calendar Bikram Sambat is approximately how many years ahead of the Gregorian calendar?",
+  "options": [
+   "10 years",
+   "100 years",
+   "20 years",
+   "56-57 years"
+  ],
+  "answer": 3,
+  "explanation": "Bikram Sambat is about 56 years and 8 months ahead of the Gregorian calendar.",
+  "source": "General knowledge",
+  "question_ne": "विक्रम संवत् ग्रेगोरियन पात्रोभन्दा लगभग कति वर्ष अगाडि छ?",
+  "options_ne": [
+   "१० वर्ष",
+   "१०० वर्ष",
+   "२० वर्ष",
+   "५६-५७ वर्ष"
+  ],
+  "explanation_ne": "विक्रम संवत् ग्रेगोरियन पात्रोभन्दा लगभग ५६ वर्ष ८ महिना अगाडि छ।"
+ },
+ {
+  "id": "HIST2-145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is regarded as the founder of the Bikram Sambat calendar?",
+  "options": [
+   "King Prithvi Narayan Shah",
+   "King Vikramaditya",
+   "King Mandev I",
+   "King Amshuverma"
+  ],
+  "answer": 1,
+  "explanation": "The Bikram Sambat calendar is traditionally attributed to King Vikramaditya of Ujjain.",
+  "source": "General knowledge",
+  "question_ne": "विक्रम संवत् पात्रोका संस्थापक को मानिन्छन्?",
+  "options_ne": [
+   "राजा पृथ्वीनारायण शाह",
+   "राजा विक्रमादित्य",
+   "राजा मानदेव प्रथम",
+   "राजा अंशुवर्मा"
+  ],
+  "explanation_ne": "विक्रम संवत् पात्रो परम्परागत रूपमा उज्जैनका राजा विक्रमादित्यसँग जोडिन्छ।"
+ },
+ {
+  "id": "HIST2-146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Democracy Day (Prajatantra Diwas) in Nepal is celebrated on which date?",
+  "options": [
+   "19 February (Falgun 7)",
+   "28 May",
+   "15 January",
+   "20 September"
+  ],
+  "answer": 0,
+  "explanation": "Prajatantra Diwas is celebrated on Falgun 7 (19 February), marking the 1951 dawn of democracy.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा प्रजातन्त्र दिवस कुन मितिमा मनाइन्छ?",
+  "options_ne": [
+   "१९ फेब्रुअरी (फागुन ७)",
+   "२८ मे",
+   "१५ जनवरी",
+   "२० सेप्टेम्बर"
+  ],
+  "explanation_ne": "प्रजातन्त्र दिवस फागुन ७ (१९ फेब्रुअरी) मा मनाइन्छ, जसले १९५१ को प्रजातन्त्रको उदयलाई जनाउँछ।"
+ },
+ {
+  "id": "HIST2-147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Republic Day (Ganatantra Diwas) in Nepal is celebrated on which date?",
+  "options": [
+   "20 September",
+   "15 January",
+   "28 May",
+   "19 February"
+  ],
+  "answer": 2,
+  "explanation": "Ganatantra Diwas is celebrated on 28 May, the day the monarchy was abolished in 2008.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा गणतन्त्र दिवस कुन मितिमा मनाइन्छ?",
+  "options_ne": [
+   "२० सेप्टेम्बर",
+   "१५ जनवरी",
+   "२८ मे",
+   "१९ फेब्रुअरी"
+  ],
+  "explanation_ne": "गणतन्त्र दिवस २८ मे मा मनाइन्छ, जुन दिन २००८ मा राजतन्त्र अन्त्य भयो।"
+ },
+ {
+  "id": "HIST2-148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Constitution Day (Samvidhan Diwas) in Nepal is celebrated on which date?",
+  "options": [
+   "28 May",
+   "19 February",
+   "15 January",
+   "20 September (Ashoj 3)"
+  ],
+  "answer": 3,
+  "explanation": "Constitution Day is celebrated on Ashoj 3 (20 September), the day the 2015 constitution was promulgated.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा संविधान दिवस कुन मितिमा मनाइन्छ?",
+  "options_ne": [
+   "२८ मे",
+   "१९ फेब्रुअरी",
+   "१५ जनवरी",
+   "२० सेप्टेम्बर (असोज ३)"
+  ],
+  "explanation_ne": "संविधान दिवस असोज ३ (२० सेप्टेम्बर) मा मनाइन्छ, जुन दिन २०१५ को संविधान जारी भयो।"
+ },
+ {
+  "id": "HIST2-149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the first Chief Justice of the Supreme Court of Nepal?",
+  "options": [
+   "Bishwonath Upadhyaya",
+   "Sushila Karki",
+   "Khil Raj Regmi",
+   "Hari Prasad Pradhan"
+  ],
+  "answer": 3,
+  "explanation": "Hari Prasad Pradhan was the first Chief Justice of Nepal, appointed in 1951.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सर्वोच्च अदालतका प्रथम प्रधानन्यायाधीश को थिए?",
+  "options_ne": [
+   "विश्वनाथ उपाध्याय",
+   "सुशीला कार्की",
+   "खिलराज रेग्मी",
+   "हरिप्रसाद प्रधान"
+  ],
+  "explanation_ne": "हरिप्रसाद प्रधान १९५१ मा नियुक्त नेपालका प्रथम प्रधानन्यायाधीश थिए।"
+ },
+ {
+  "id": "HIST2-150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who led the interim election government of Nepal in 2013 as chairman of the Council of Ministers?",
+  "options": [
+   "Baburam Bhattarai",
+   "Madhav Kumar Nepal",
+   "Khil Raj Regmi",
+   "Sushila Karki"
+  ],
+  "answer": 2,
+  "explanation": "Chief Justice Khil Raj Regmi chaired the interim election government in 2013.",
+  "source": "General knowledge",
+  "question_ne": "२०१३ मा नेपालको अन्तरिम निर्वाचन सरकारको मन्त्रिपरिषद् अध्यक्ष को थिए?",
+  "options_ne": [
+   "बाबुराम भट्टराई",
+   "माधवकुमार नेपाल",
+   "खिलराज रेग्मी",
+   "सुशीला कार्की"
+  ],
+  "explanation_ne": "प्रधानन्यायाधीश खिलराज रेग्मीले २०१३ मा अन्तरिम निर्वाचन सरकारको अध्यक्षता गरे।"
+ },
+ {
+  "id": "HIST2-151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In the first Constituent Assembly election of 2008, which party won the most seats?",
+  "options": [
+   "Nepali Congress",
+   "CPN (UML)",
+   "CPN (Maoist)",
+   "Madhesi Janadhikar Forum"
+  ],
+  "answer": 2,
+  "explanation": "The CPN (Maoist) won the most seats in the 2008 Constituent Assembly election.",
+  "source": "General knowledge",
+  "question_ne": "२००८ को पहिलो संविधान सभा निर्वाचनमा कुन दलले सबैभन्दा धेरै सिट जित्यो?",
+  "options_ne": [
+   "नेपाली कांग्रेस",
+   "नेकपा (एमाले)",
+   "नेकपा (माओवादी)",
+   "मधेसी जनअधिकार फोरम"
+  ],
+  "explanation_ne": "नेकपा (माओवादी) ले २००८ को संविधान सभा निर्वाचनमा सबैभन्दा धेरै सिट जित्यो।"
+ },
+ {
+  "id": "HIST2-152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the second Constituent Assembly election of 2013, which party won the most seats?",
+  "options": [
+   "CPN (Maoist)",
+   "Nepali Congress",
+   "CPN (UML)",
+   "Rastriya Prajatantra Party"
+  ],
+  "answer": 1,
+  "explanation": "The Nepali Congress won the most seats in the 2013 Constituent Assembly election.",
+  "source": "General knowledge",
+  "question_ne": "२०१३ को दोस्रो संविधान सभा निर्वाचनमा कुन दलले सबैभन्दा धेरै सिट जित्यो?",
+  "options_ne": [
+   "नेकपा (माओवादी)",
+   "नेपाली कांग्रेस",
+   "नेकपा (एमाले)",
+   "राष्ट्रिय प्रजातन्त्र पार्टी"
+  ],
+  "explanation_ne": "नेपाली कांग्रेसले २०१३ को संविधान सभा निर्वाचनमा सबैभन्दा धेरै सिट जित्यो।"
+ },
+ {
+  "id": "HIST2-153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the chairman of the first Constituent Assembly?",
+  "options": [
+   "Subas Chandra Nembang",
+   "Pushpa Kamal Dahal",
+   "Girija Prasad Koirala",
+   "Madhav Kumar Nepal"
+  ],
+  "answer": 0,
+  "explanation": "Subas Chandra Nembang chaired the Constituent Assembly from 2008 to 2015.",
+  "source": "General knowledge",
+  "question_ne": "पहिलो संविधान सभाका अध्यक्ष को थिए?",
+  "options_ne": [
+   "सुवासचन्द्र नेम्वाङ",
+   "पुष्पकमल दाहाल",
+   "गिरिजाप्रसाद कोइराला",
+   "माधवकुमार नेपाल"
+  ],
+  "explanation_ne": "सुवासचन्द्र नेम्वाङले २००८ देखि २०१५ सम्म संविधान सभाको अध्यक्षता गरे।"
+ },
+ {
+  "id": "HIST2-154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many members did the Constituent Assembly have in total?",
+  "options": [
+   "575",
+   "401",
+   "601",
+   "275"
+  ],
+  "answer": 2,
+  "explanation": "The Constituent Assembly had 601 members: 240 elected directly, 335 by proportional representation and 26 nominated.",
+  "source": "General knowledge",
+  "question_ne": "संविधान सभामा जम्मा कति सदस्य थिए?",
+  "options_ne": [
+   "५७५",
+   "४०१",
+   "६०१",
+   "२७५"
+  ],
+  "explanation_ne": "संविधान सभामा ६०१ सदस्य थिए: २४० प्रत्यक्ष, ३३५ समानुपातिक र २६ मनोनीत।"
+ },
+ {
+  "id": "HIST2-155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who became the first prime minister under the new Constitution of Nepal 2015?",
+  "options": [
+   "Sher Bahadur Deuba",
+   "Pushpa Kamal Dahal",
+   "KP Sharma Oli",
+   "Sushil Koirala"
+  ],
+  "answer": 2,
+  "explanation": "KP Sharma Oli became prime minister in October 2015, the first under the new constitution.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको नयाँ संविधान २०१५ अन्तर्गत प्रथम प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "शेरबहादुर देउवा",
+   "पुष्पकमल दाहाल",
+   "केपी शर्मा ओली",
+   "सुशील कोइराला"
+  ],
+  "explanation_ne": "केपी शर्मा ओली अक्टोबर २०१५ मा नयाँ संविधानअन्तर्गत प्रथम प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was Nepal's prime minister when the 2015 constitution was promulgated?",
+  "options": [
+   "Madhav Kumar Nepal",
+   "Sushil Koirala",
+   "KP Sharma Oli",
+   "Baburam Bhattarai"
+  ],
+  "answer": 1,
+  "explanation": "Sushil Koirala was prime minister when the constitution was promulgated on 20 September 2015.",
+  "source": "General knowledge",
+  "question_ne": "२०१५ को संविधान जारी हुँदा नेपालका प्रधानमन्त्री को थिए?",
+  "options_ne": [
+   "माधवकुमार नेपाल",
+   "सुशील कोइराला",
+   "केपी शर्मा ओली",
+   "बाबुराम भट्टराई"
+  ],
+  "explanation_ne": "२० सेप्टेम्बर २०१५ मा संविधान जारी हुँदा सुशील कोइराला प्रधानमन्त्री थिए।"
+ },
+ {
+  "id": "HIST2-157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who became the second President of Nepal in 2015?",
+  "options": [
+   "Ram Baran Yadav",
+   "Bidya Devi Bhandari",
+   "Nanda Bahadur Pun",
+   "Ram Sahaya Prasad Yadav"
+  ],
+  "answer": 1,
+  "explanation": "Bidya Devi Bhandari was elected Nepal's second President in October 2015.",
+  "source": "General knowledge",
+  "question_ne": "२०१५ मा नेपालकी दोस्रो राष्ट्रपति को बनिन्?",
+  "options_ne": [
+   "रामवरण यादव",
+   "विद्यादेवी भण्डारी",
+   "नन्दबहादुर पुन",
+   "रामसहायप्रसाद यादव"
+  ],
+  "explanation_ne": "विद्यादेवी भण्डारी अक्टोबर २०१५ मा नेपालकी दोस्रो राष्ट्रपति निर्वाचित भइन्।"
+ },
+ {
+  "id": "HIST2-158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the first Vice-President of Nepal?",
+  "options": [
+   "Nanda Bahadur Pun",
+   "Ram Sahaya Prasad Yadav",
+   "Paramananda Jha",
+   "Bijay Kumar Gachhadar"
+  ],
+  "answer": 2,
+  "explanation": "Paramananda Jha became Nepal's first Vice-President in July 2008.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका प्रथम उपराष्ट्रपति को हुन्?",
+  "options_ne": [
+   "नन्दबहादुर पुन",
+   "रामसहायप्रसाद यादव",
+   "परमानन्द झा",
+   "विजयकुमार गच्छदार"
+  ],
+  "explanation_ne": "परमानन्द झा जुलाई २००८ मा नेपालका प्रथम उपराष्ट्रपति बने।"
+ },
+ {
+  "id": "HIST2-161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's first federal parliament election under the new constitution was held in which year?",
+  "options": [
+   "2015",
+   "2013",
+   "2022",
+   "2017"
+  ],
+  "answer": 3,
+  "explanation": "The first federal and provincial elections under the 2015 constitution were held in 2017.",
+  "source": "General knowledge",
+  "question_ne": "नयाँ संविधानअन्तर्गत नेपालको पहिलो संघीय संसद् निर्वाचन कुन वर्षमा भयो?",
+  "options_ne": [
+   "२०१५",
+   "२०१३",
+   "२०२२",
+   "२०१७"
+  ],
+  "explanation_ne": "२०१५ को संविधानअन्तर्गत पहिलो संघीय र प्रदेश निर्वाचन २०१७ मा भयो।"
+ },
+ {
+  "id": "HIST2-163",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how many people died in the 2015 Nepal earthquake?",
+  "options": [
+   "About 9,000",
+   "About 1,000",
+   "About 50,000",
+   "About 500"
+  ],
+  "answer": 0,
+  "explanation": "Nearly 9,000 people died in the 2015 earthquake and its aftershocks.",
+  "source": "General knowledge",
+  "question_ne": "२०१५ को नेपाल भूकम्पमा लगभग कति मानिसको मृत्यु भयो?",
+  "options_ne": [
+   "लगभग ९,०००",
+   "लगभग १,०००",
+   "लगभग ५०,०००",
+   "लगभग ५००"
+  ],
+  "explanation_ne": "२०१५ को भूकम्प र परकम्पमा झन्डै ९,००० मानिसको मृत्यु भयो।"
+ },
+ {
+  "id": "HIST2-167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's national flag is unique in the world because it is what shape?",
+  "options": [
+   "Square",
+   "Triangular single pennant",
+   "Non-rectangular (two triangles)",
+   "Circular"
+  ],
+  "answer": 2,
+  "explanation": "Nepal's flag is the world's only non-rectangular national flag, made of two triangles.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय झण्डा विश्वमा किन अद्वितीय छ?",
+  "options_ne": [
+   "वर्गाकार छ",
+   "एउटै त्रिभुज छ",
+   "आयताकार छैन (दुई त्रिभुज)",
+   "गोलो छ"
+  ],
+  "explanation_ne": "नेपालको झण्डा विश्वको एकमात्र गैर-आयताकार राष्ट्रिय झण्डा हो, दुई त्रिभुजबाट बनेको।"
+ },
+ {
+  "id": "HIST2-168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The old national anthem of Nepal during the Panchayat era, replaced in 2007, began with which words?",
+  "options": [
+   "Shriman Gambhir Nepali",
+   "Sayaun Thunga Phool Ka",
+   "Jaya Jaya Nepal",
+   "Hamro Nepal"
+  ],
+  "answer": 0,
+  "explanation": "The old anthem, in use from 1962 to 2006, began 'Shriman Gambhir Nepali'.",
+  "source": "General knowledge",
+  "question_ne": "पञ्चायत कालको पुरानो राष्ट्रिय गान, जुन २००७ मा बदलियो, कुन शब्दबाट सुरु हुन्थ्यो?",
+  "options_ne": [
+   "श्रीमान् गम्भीर नेपाली",
+   "सयौं थुँगा फूलका",
+   "जय जय नेपाल",
+   "हाम्रो नेपाल"
+  ],
+  "explanation_ne": "१९६२ देखि २००६ सम्म प्रयोग भएको पुरानो गान 'श्रीमान् गम्भीर नेपाली' बाट सुरु हुन्थ्यो।"
+ },
+ {
+  "id": "HIST2-169",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Lichhavi princess married the Tibetan king Songtsen Gampo in the 7th century and is credited with spreading Buddhism in Tibet?",
+  "options": [
+   "Princess Maya Devi",
+   "Princess Bhrikuti",
+   "Princess Kaushalyawati",
+   "Princess Rajendra Laxmi"
+  ],
+  "answer": 1,
+  "explanation": "Princess Bhrikuti, daughter of Lichhavi king Amshuverma, married Songtsen Gampo in the 7th century.",
+  "source": "General knowledge",
+  "question_ne": "७औं शताब्दीमा तिब्बती राजा स्रङ्चन गम्पोसँग विवाह गर्ने लिच्छवि राजकुमारी को हुन्?",
+  "options_ne": [
+   "राजकुमारी मायादेवी",
+   "राजकुमारी भृकुटी",
+   "राजकुमारी कौशल्यावती",
+   "राजकुमारी राजेन्द्रलक्ष्मी"
+  ],
+  "explanation_ne": "लिच्छवि राजा अंशुवर्माकी छोरी भृकुटीले ७औं शताब्दीमा स्रङ्चन गम्पोसँग विवाह गरिन्।"
+ },
+ {
+  "id": "HIST2-170",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which famous Nepali artist of the Malla period travelled to China and built the White Pagoda in Beijing in the 13th century?",
+  "options": [
+   "Kuber Singh",
+   "Araniko",
+   "Abhaya Raj",
+   "Jayasthiti Malla"
+  ],
+  "answer": 1,
+  "explanation": "Araniko (1245-1306) went to China and designed the White Pagoda in Beijing.",
+  "source": "General knowledge",
+  "question_ne": "मल्ल कालका कुन प्रसिद्ध नेपाली कलाकारले १३औं शताब्दीमा चीन गएर बेइजिङमा श्वेत प्यागोडा बनाए?",
+  "options_ne": [
+   "कुबेरसिंह",
+   "अरनिको",
+   "अभयराज",
+   "जयस्थिति मल्ल"
+  ],
+  "explanation_ne": "अरनिको (१२४५-१३०६) चीन गए र बेइजिङमा श्वेत प्यागोडा डिजाइन गरे।"
+ },
+ {
+  "id": "HIST2-171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Janakpur is famous as the birthplace of which figure from the Ramayana?",
+  "options": [
+   "Sita (Janaki)",
+   "Rama",
+   "Lakshman",
+   "Hanuman"
+  ],
+  "answer": 0,
+  "explanation": "Janakpur is believed to be the birthplace of Sita, also called Janaki.",
+  "source": "General knowledge",
+  "question_ne": "जनकपुर रामायणकी कुन पात्रको जन्मस्थलका रूपमा प्रसिद्ध छ?",
+  "options_ne": [
+   "सीता (जानकी)",
+   "राम",
+   "लक्ष्मण",
+   "हनुमान"
+  ],
+  "explanation_ne": "जनकपुर सीता (जानकी) को जन्मस्थल मानिन्छ।"
+ },
+ {
+  "id": "HIST2-174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Maya Devi Temple at Lumbini marks the exact spot where what happened?",
+  "options": [
+   "Buddha was born",
+   "Buddha attained enlightenment",
+   "Buddha died",
+   "Ashoka was crowned"
+  ],
+  "answer": 0,
+  "explanation": "The Maya Devi Temple marks the birthplace of Gautam Buddha in Lumbini.",
+  "source": "General knowledge",
+  "question_ne": "लुम्बिनीको मायादेवी मन्दिरले कुन घटनाको सही स्थान चिनाउँछ?",
+  "options_ne": [
+   "बुद्धको जन्म",
+   "बुद्धको बुद्धत्व प्राप्ति",
+   "बुद्धको मृत्यु",
+   "अशोकको राज्याभिषेक"
+  ],
+  "explanation_ne": "मायादेवी मन्दिरले लुम्बिनीमा गौतम बुद्धको जन्मस्थल चिनाउँछ।"
+ },
+ {
+  "id": "HIST2-176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal is one of the few countries in the world that was never colonised. Which power attempted to control it in the Anglo-Nepal War?",
+  "options": [
+   "Netherlands",
+   "Britain",
+   "France",
+   "Portugal"
+  ],
+  "answer": 1,
+  "explanation": "Britain fought Nepal in the Anglo-Nepal War of 1814-1816 but Nepal was never colonised.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल कहिल्यै उपनिवेश नबनेको देश हो। एङ्ग्लो-नेपाल युद्धमा यसलाई नियन्त्रण गर्न खोज्ने शक्ति कुन थियो?",
+  "options_ne": [
+   "नेदरल्यान्ड्स",
+   "बेलायत",
+   "फ्रान्स",
+   "पोर्चुगल"
+  ],
+  "explanation_ne": "बेलायतले १८१४-१८१६ मा नेपालसँग युद्ध गर्यो, तर नेपाल कहिल्यै उपनिवेश भएन।"
+ },
+ {
+  "id": "HIST2-177",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal signed the transit transport agreement with China in which year, gaining access to Chinese ports?",
+  "options": [
+   "2016",
+   "1950",
+   "2006",
+   "2019"
+  ],
+  "answer": 0,
+  "explanation": "Nepal and China signed a transit transport agreement in 2016.",
+  "source": "General knowledge",
+  "question_ne": "नेपालले चीनसँग पारवहन यातायात सम्झौता गरी चिनियाँ बन्दरगाह प्रयोग गर्न पाएको वर्ष कुन हो?",
+  "options_ne": [
+   "२०१६",
+   "१९५०",
+   "२००६",
+   "२०१९"
+  ],
+  "explanation_ne": "नेपाल र चीनले २०१६ मा पारवहन यातायात सम्झौतामा हस्ताक्षर गरे।"
+ },
+ {
+  "id": "HIST2-178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal joined China's Belt and Road Initiative (BRI) in which year?",
+  "options": [
+   "2017",
+   "2015",
+   "2019",
+   "2013"
+  ],
+  "answer": 0,
+  "explanation": "Nepal signed the BRI framework agreement with China in May 2017.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल चीनको बेल्ट एन्ड रोड इनिसिएटिभ (बीआरआई) मा कुन वर्षमा सामेल भयो?",
+  "options_ne": [
+   "२०१७",
+   "२०१५",
+   "२०१९",
+   "२०१३"
+  ],
+  "explanation_ne": "नेपालले मे २०१७ मा चीनसँग बीआरआई ढाँचा सम्झौतामा हस्ताक्षर गर्यो।"
+ },
+ {
+  "id": "HIST2-179",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's first satellite, NepaliSat-1, was launched in which year?",
+  "options": [
+   "2017",
+   "2019",
+   "2015",
+   "2021"
+  ],
+  "answer": 1,
+  "explanation": "NepaliSat-1, Nepal's first satellite, was launched in April 2019.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो भूउपग्रह नेपालीस्याट-१ कुन वर्षमा प्रक्षेपण भयो?",
+  "options_ne": [
+   "२०१७",
+   "२०१९",
+   "२०१५",
+   "२०२१"
+  ],
+  "explanation_ne": "नेपालको पहिलो भूउपग्रह नेपालीस्याट-१ अप्रिल २०१९ मा प्रक्षेपण भयो।"
+ },
+ {
+  "id": "HIST2-180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the first Speaker of the House of Representatives after the 2017 federal elections?",
+  "options": [
+   "Krishna Bahadur Mahara",
+   "Onsari Gharti Magar",
+   "Subas Chandra Nembang",
+   "Dev Raj Ghimire"
+  ],
+  "answer": 0,
+  "explanation": "Krishna Bahadur Mahara became Speaker of the House of Representatives in March 2018.",
+  "source": "General knowledge",
+  "question_ne": "२०१७ को संघीय निर्वाचनपछि प्रतिनिधि सभाका प्रथम सभामुख को बने?",
+  "options_ne": [
+   "कृष्णबहादुर महरा",
+   "ओनसरी घर्ती मगर",
+   "सुवासचन्द्र नेम्वाङ",
+   "देवराज घिमिरे"
+  ],
+  "explanation_ne": "कृष्णबहादुर महरा मार्च २०१८ मा प्रतिनिधि सभाका सभामुख बने।"
+ },
+ {
+  "id": "HIST2-181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Sher Bahadur Deuba has served as prime minister of Nepal how many times?",
+  "options": [
+   "Once",
+   "Five times",
+   "Two times",
+   "Three times"
+  ],
+  "answer": 1,
+  "explanation": "Sher Bahadur Deuba has been prime minister five times (1995, 2001, 2004, 2017, 2021).",
+  "source": "General knowledge",
+  "question_ne": "शेरबहादुर देउवा नेपालका प्रधानमन्त्री कति पटक भए?",
+  "options_ne": [
+   "एक पटक",
+   "पाँच पटक",
+   "दुई पटक",
+   "तीन पटक"
+  ],
+  "explanation_ne": "शेरबहादुर देउवा पाँच पटक (१९९५, २००१, २००४, २०१७, २०२१) प्रधानमन्त्री भए।"
+ },
+ {
+  "id": "HIST2-182",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pushpa Kamal Dahal (Prachanda) became prime minister for the third time in which year?",
+  "options": [
+   "2016",
+   "2008",
+   "2011",
+   "2022"
+  ],
+  "answer": 3,
+  "explanation": "Prachanda became prime minister for the third time in December 2022.",
+  "source": "General knowledge",
+  "question_ne": "पुष्पकमल दाहाल (प्रचण्ड) तेस्रो पटक प्रधानमन्त्री कुन वर्षमा बने?",
+  "options_ne": [
+   "२०१६",
+   "२००८",
+   "२०११",
+   "२०२२"
+  ],
+  "explanation_ne": "प्रचण्ड डिसेम्बर २०२२ मा तेस्रो पटक प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who became prime minister of Nepal in July 2024, beginning his fourth term?",
+  "options": [
+   "Pushpa Kamal Dahal",
+   "Madhav Kumar Nepal",
+   "KP Sharma Oli",
+   "Sher Bahadur Deuba"
+  ],
+  "answer": 2,
+  "explanation": "KP Sharma Oli became prime minister for the fourth time in July 2024.",
+  "source": "General knowledge",
+  "question_ne": "जुलाई २०२४ मा चौथो पटक नेपालका प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "पुष्पकमल दाहाल",
+   "माधवकुमार नेपाल",
+   "केपी शर्मा ओली",
+   "शेरबहादुर देउवा"
+  ],
+  "explanation_ne": "केपी शर्मा ओली जुलाई २०२४ मा चौथो पटक प्रधानमन्त्री बने।"
+ },
+ {
+  "id": "HIST2-184",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "KP Sharma Oli resigned as prime minister in September 2025 following which event?",
+  "options": [
+   "An earthquake",
+   "The Gen-Z protests",
+   "A general election",
+   "A royal coup"
+  ],
+  "answer": 1,
+  "explanation": "KP Sharma Oli resigned on 9 September 2025 amid the Gen-Z protests.",
+  "source": "General knowledge",
+  "question_ne": "केपी शर्मा ओलीले सेप्टेम्बर २०२५ मा कुन घटनापछि प्रधानमन्त्रीबाट राजीनामा दिए?",
+  "options_ne": [
+   "भूकम्प",
+   "जेन्जी प्रदर्शन",
+   "आम निर्वाचन",
+   "शाही कु"
+  ],
+  "explanation_ne": "केपी शर्मा ओलीले ९ सेप्टेम्बर २०२५ मा जेन्जी प्रदर्शनका बीच राजीनामा दिए।"
+ },
+ {
+  "id": "HIST2-185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who succeeded KP Sharma Oli as interim prime minister in September 2025?",
+  "options": [
+   "Sushila Karki",
+   "Bidya Devi Bhandari",
+   "Arzu Rana Deuba",
+   "Ram Chandra Poudel"
+  ],
+  "answer": 0,
+  "explanation": "Former Chief Justice Sushila Karki became interim prime minister in September 2025.",
+  "source": "General knowledge",
+  "question_ne": "सेप्टेम्बर २०२५ मा केपी शर्मा ओलीका उत्तराधिकारी अन्तरिम प्रधानमन्त्री को बने?",
+  "options_ne": [
+   "सुशीला कार्की",
+   "विद्यादेवी भण्डारी",
+   "आरजु राणा देउवा",
+   "रामचन्द्र पौडेल"
+  ],
+  "explanation_ne": "पूर्व प्रधानन्यायाधीश सुशीला कार्की सेप्टेम्बर २०२५ मा अन्तरिम प्रधानमन्त्री बनिन्।"
+ },
+ {
+  "id": "HIST2-186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the current President of Nepal as of 2025, elected in March 2023?",
+  "options": [
+   "Ram Chandra Poudel",
+   "Bidya Devi Bhandari",
+   "Ram Baran Yadav",
+   "Nanda Bahadur Pun"
+  ],
+  "answer": 0,
+  "explanation": "Ram Chandra Poudel was elected President of Nepal in March 2023.",
+  "source": "General knowledge",
+  "question_ne": "मार्च २०२३ मा निर्वाचित नेपालका वर्तमान राष्ट्रपति (२०२५ सम्म) को हुन्?",
+  "options_ne": [
+   "रामचन्द्र पौडेल",
+   "विद्यादेवी भण्डारी",
+   "रामवरण यादव",
+   "नन्दबहादुर पुन"
+  ],
+  "explanation_ne": "रामचन्द्र पौडेल मार्च २०२३ मा नेपालका राष्ट्रपति निर्वाचित भए।"
+ },
+ {
+  "id": "HIST2-187",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ram Chandra Poudel is Nepal's how many-th President?",
+  "options": [
+   "Fourth",
+   "Third",
+   "First",
+   "Second"
+  ],
+  "answer": 1,
+  "explanation": "Ram Chandra Poudel is the third President of Nepal, after Ram Baran Yadav and Bidya Devi Bhandari.",
+  "source": "General knowledge",
+  "question_ne": "रामचन्द्र पौडेल नेपालका कति औं राष्ट्रपति हुन्?",
+  "options_ne": [
+   "चौथो",
+   "तेस्रो",
+   "पहिलो",
+   "दोस्रो"
+  ],
+  "explanation_ne": "रामचन्द्र पौडेल रामवरण यादव र विद्यादेवी भण्डारीपछि नेपालका तेस्रो राष्ट्रपति हुन्।"
+ },
+ {
+  "id": "HIST2-188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the current Vice-President of Nepal as of 2025, elected in March 2023?",
+  "options": [
+   "Bijay Kumar Gachhadar",
+   "Ram Sahaya Prasad Yadav",
+   "Nanda Bahadur Pun",
+   "Paramananda Jha"
+  ],
+  "answer": 1,
+  "explanation": "Ram Sahaya Prasad Yadav was elected Vice-President in March 2023.",
+  "source": "General knowledge",
+  "question_ne": "मार्च २०२३ मा निर्वाचित नेपालका वर्तमान उपराष्ट्रपति (२०२५ सम्म) को हुन्?",
+  "options_ne": [
+   "विजयकुमार गच्छदार",
+   "रामसहायप्रसाद यादव",
+   "नन्दबहादुर पुन",
+   "परमानन्द झा"
+  ],
+  "explanation_ne": "रामसहायप्रसाद यादव मार्च २०२३ मा उपराष्ट्रपति निर्वाचित भए।"
+ },
+ {
+  "id": "HIST2-189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Taleju Temple in Kathmandu Durbar Square was built by which Malla king?",
+  "options": [
+   "Mahendra Malla",
+   "Pratap Malla",
+   "Jaya Prakash Malla",
+   "Bhupatindra Malla"
+  ],
+  "answer": 0,
+  "explanation": "Mahendra Malla built the Taleju Temple in Kathmandu in the 16th century.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं दरबार क्षेत्रको तलेजु मन्दिर कुन मल्ल राजाले बनाए?",
+  "options_ne": [
+   "महेन्द्र मल्ल",
+   "प्रताप मल्ल",
+   "जयप्रकाश मल्ल",
+   "भूपतीन्द्र मल्ल"
+  ],
+  "explanation_ne": "महेन्द्र मल्लले १६औं शताब्दीमा काठमाडौंमा तलेजु मन्दिर बनाए।"
+ },
+ {
+  "id": "HIST2-190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kasthamandap, from which Kathmandu is said to take its name, was built from the wood of a single tree. In which square did it stand?",
+  "options": [
+   "Kirtipur",
+   "Kathmandu Durbar Square (Hanuman Dhoka)",
+   "Bhaktapur Durbar Square",
+   "Patan Durbar Square"
+  ],
+  "answer": 1,
+  "explanation": "Kasthamandap stood at Kathmandu Durbar Square near Hanuman Dhoka until the 2015 earthquake.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं नाम त्यसैबाट आएको भनिने काष्ठमण्डप कुन दरबार क्षेत्रमा थियो?",
+  "options_ne": [
+   "कीर्तिपुर",
+   "काठमाडौं दरबार क्षेत्र (हनुमानढोका)",
+   "भक्तपुर दरबार क्षेत्र",
+   "पाटन दरबार क्षेत्र"
+  ],
+  "explanation_ne": "काष्ठमण्डप २०१५ को भूकम्पसम्म हनुमानढोका नजिक काठमाडौं दरबार क्षेत्रमा थियो।"
+ },
+ {
+  "id": "HIST2-191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Changu Narayan temple, the oldest temple in Nepal, is dedicated to which god?",
+  "options": [
+   "Lord Vishnu",
+   "Lord Shiva",
+   "Lord Buddha",
+   "Goddess Durga"
+  ],
+  "answer": 0,
+  "explanation": "Changu Narayan is dedicated to Lord Vishnu and dates to the Lichhavi period.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पुरानो मन्दिर चाँगुनारायण कुन देवतालाई समर्पित छ?",
+  "options_ne": [
+   "भगवान् विष्णु",
+   "भगवान् शिव",
+   "भगवान् बुद्ध",
+   "देवी दुर्गा"
+  ],
+  "explanation_ne": "चाँगुनारायण भगवान् विष्णुलाई समर्पित छ र लिच्छवि कालको हो।"
+ },
+ {
+  "id": "HIST2-192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Pashupatinath temple is dedicated to which form of Lord Shiva?",
+  "options": [
+   "Krishna",
+   "Vishnu",
+   "Brahma",
+   "Pashupati (Lord of Animals)"
+  ],
+  "answer": 3,
+  "explanation": "Pashupatinath is dedicated to Pashupati, a form of Lord Shiva as Lord of Animals.",
+  "source": "General knowledge",
+  "question_ne": "पशुपतिनाथ मन्दिर भगवान् शिवको कुन रूपलाई समर्पित छ?",
+  "options_ne": [
+   "कृष्ण",
+   "विष्णु",
+   "ब्रह्मा",
+   "पशुपति (पशुहरूका स्वामी)"
+  ],
+  "explanation_ne": "पशुपतिनाथ पशुहरूका स्वामीका रूपमा शिवको पशुपति रूपलाई समर्पित छ।"
+ },
+ {
+  "id": "HIST2-193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is a UNESCO World Heritage Site in the Kathmandu Valley along with Pashupatinath and Boudhanath?",
+  "options": [
+   "Swayambhunath",
+   "Muktinath",
+   "Manakamana",
+   "Gosainkunda"
+  ],
+  "answer": 0,
+  "explanation": "Swayambhunath is one of the seven monument zones of the Kathmandu Valley World Heritage Site.",
+  "source": "General knowledge",
+  "question_ne": "पशुपतिनाथ र बौद्धनाथसँगै काठमाडौं उपत्यकाको युनेस्को विश्व सम्पदा स्थल कुन हो?",
+  "options_ne": [
+   "स्वयम्भूनाथ",
+   "मुक्तिनाथ",
+   "मनकामना",
+   "गोसाइँकुण्ड"
+  ],
+  "explanation_ne": "स्वयम्भूनाथ काठमाडौं उपत्यका विश्व सम्पदा स्थलका सात स्मारक क्षेत्रमध्ये एक हो।"
+ },
+ {
+  "id": "HIST2-194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many monument zones make up the Kathmandu Valley UNESCO World Heritage Site?",
+  "options": [
+   "Seven",
+   "Three",
+   "Ten",
+   "Five"
+  ],
+  "answer": 0,
+  "explanation": "The Kathmandu Valley site comprises seven monument zones, including the three Durbar Squares, Pashupatinath, Swayambhu, Boudhanath and Changu Narayan.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौं उपत्यका युनेस्को विश्व सम्पदा स्थलमा कति स्मारक क्षेत्र छन्?",
+  "options_ne": [
+   "सात",
+   "तीन",
+   "दश",
+   "पाँच"
+  ],
+  "explanation_ne": "काठमाडौं उपत्यका स्थलमा सात स्मारक क्षेत्र छन्, जसमा तीन दरबार क्षेत्र, पशुपतिनाथ, स्वयम्भू, बौद्धनाथ र चाँगुनारायण पर्छन्।"
+ },
+ {
+  "id": "HIST2-195",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Archaeology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who built the Vatsala Temple in Bhaktapur Durbar Square in 1696?",
+  "options": [
+   "Jitamitra Malla",
+   "Bhupatindra Malla",
+   "Ranajit Malla",
+   "Pratap Malla"
+  ],
+  "answer": 0,
+  "explanation": "Jitamitra Malla built the stone Vatsala Temple in Bhaktapur in 1696.",
+  "source": "General knowledge",
+  "question_ne": "१६९६ मा भक्तपुर दरबार क्षेत्रमा वत्सला मन्दिर बनाउने राजा को हुन्?",
+  "options_ne": [
+   "जितामित्र मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "रणजित मल्ल",
+   "प्रताप मल्ल"
+  ],
+  "explanation_ne": "जितामित्र मल्लले १६९६ मा भक्तपुरमा ढुङ्गाको वत्सला मन्दिर बनाए।"
+ },
+ {
+  "id": "HIST2-196",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How tall was the original Dharahara tower in Kathmandu before it collapsed in 2015?",
+  "options": [
+   "About 62 metres (9 storeys)",
+   "About 30 metres",
+   "About 100 metres",
+   "About 45 metres"
+  ],
+  "answer": 0,
+  "explanation": "The original Dharahara was about 61.88 metres tall with nine storeys.",
+  "source": "General knowledge",
+  "question_ne": "२०१५ मा ढल्नुअघि काठमाडौंको मूल धरहरा कति अग्लो थियो?",
+  "options_ne": [
+   "लगभग ६२ मिटर (९ तला)",
+   "लगभग ३० मिटर",
+   "लगभग १०० मिटर",
+   "लगभग ४५ मिटर"
+  ],
+  "explanation_ne": "मूल धरहरा लगभग ६१.८८ मिटर अग्लो थियो र नौ तला थियो।"
+ },
+ {
+  "id": "HIST2-197",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The rebuilt Dharahara tower was inaugurated in which year?",
+  "options": [
+   "2021",
+   "2015",
+   "2018",
+   "2024"
+  ],
+  "answer": 0,
+  "explanation": "The reconstructed Dharahara was inaugurated in April 2021.",
+  "source": "General knowledge",
+  "question_ne": "पुनर्निर्मित धरहरा कुन वर्षमा उद्घाटन गरियो?",
+  "options_ne": [
+   "२०२१",
+   "२०१५",
+   "२०१८",
+   "२०२४"
+  ],
+  "explanation_ne": "पुनर्निर्मित धरहरा अप्रिल २०२१ मा उद्घाटन गरियो।"
+ },
+ {
+  "id": "HIST2-198",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was Nepal's first post office established in Kathmandu?",
+  "options": [
+   "1951",
+   "1878",
+   "1854",
+   "1901"
+  ],
+  "answer": 1,
+  "explanation": "Nepal's postal service began with the first post office in Kathmandu in 1878.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौंमा नेपालको पहिलो हुलाक कार्यालय कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९५१",
+   "१८७८",
+   "१८५४",
+   "१९०१"
+  ],
+  "explanation_ne": "नेपालको हुलाक सेवा १८७८ मा काठमाडौंमा पहिलो हुलाक कार्यालयबाट सुरु भयो।"
+ },
+ {
+  "id": "HIST2-199",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The first motor road in Nepal, the Tribhuvan Rajpath, connects Kathmandu to which Indian border town?",
+  "options": [
+   "Bhairahawa (Sunauli)",
+   "Birgunj (Raxaul)",
+   "Biratnagar (Jogbani)",
+   "Nepalgunj (Rupaidiha)"
+  ],
+  "answer": 1,
+  "explanation": "The Tribhuvan Rajpath links Kathmandu with Birgunj at the Raxaul border.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो मोटर बाटो त्रिभुवन राजपथले काठमाडौंलाई कुन भारतीय सीमावर्ती सहरसँग जोड्छ?",
+  "options_ne": [
+   "भैरहवा (सुनौली)",
+   "वीरगञ्ज (रक्सौल)",
+   "विराटनगर (जोगबनी)",
+   "नेपालगञ्ज (रुपैडिहा)"
+  ],
+  "explanation_ne": "त्रिभुवन राजपथले काठमाडौंलाई रक्सौल सीमाको वीरगञ्जसँग जोड्छ।"
+ },
+ {
+  "id": "HIST2-200",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Tribhuvan Rajpath was opened in which decade?",
+  "options": [
+   "1970s",
+   "1920s",
+   "1950s",
+   "1930s"
+  ],
+  "answer": 2,
+  "explanation": "The Tribhuvan Rajpath was built in the 1950s, opening Kathmandu to motor traffic from India.",
+  "source": "General knowledge",
+  "question_ne": "त्रिभुवन राजपथ कुन दशकमा खोलियो?",
+  "options_ne": [
+   "१९७० को दशक",
+   "१९२० को दशक",
+   "१९५० को दशक",
+   "१९३० को दशक"
+  ],
+  "explanation_ne": "त्रिभुवन राजपथ १९५० को दशकमा बन्यो र काठमाडौंलाई भारतबाट मोटर यातायातसँग जोड्यो।"
+ },
+ {
+  "id": "HIST2-201",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nepali Army traces its origin to which year, when Prithvi Narayan Shah began building a unified military?",
+  "options": [
+   "1846",
+   "1951",
+   "1762",
+   "1816"
+  ],
+  "answer": 2,
+  "explanation": "The Nepali Army was founded in 1762 during the unification campaign.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली सेनाको उत्पत्ति कुन वर्षमा भएको मानिन्छ, जब पृथ्वीनारायण शाहले एकीकृत सेना निर्माण सुरु गरे?",
+  "options_ne": [
+   "१८४६",
+   "१९५१",
+   "१७६२",
+   "१८१६"
+  ],
+  "explanation_ne": "नेपाली सेना १७६२ मा एकीकरण अभियानका समयमा स्थापना भएको मानिन्छ।"
+ },
+ {
+  "id": "HIST2-202",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal Police was established in which year?",
+  "options": [
+   "1990",
+   "1955",
+   "1951",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "Nepal Police was established in 1955 after the end of the Rana regime.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल प्रहरी कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९९०",
+   "१९५५",
+   "१९५१",
+   "१९६०"
+  ],
+  "explanation_ne": "नेपाल प्रहरी राणा शासन अन्त्यपछि १९५५ मा स्थापना भयो।"
+ },
+ {
+  "id": "HIST2-203",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "police"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Armed Police Force (APF) of Nepal was established in which year?",
+  "options": [
+   "1990",
+   "2006",
+   "2015",
+   "2001"
+  ],
+  "answer": 3,
+  "explanation": "The Armed Police Force was established in 2001 during the Maoist insurgency.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सशस्त्र प्रहरी बल (एपीएफ) कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९९०",
+   "२००६",
+   "२०१५",
+   "२००१"
+  ],
+  "explanation_ne": "सशस्त्र प्रहरी बल माओवादी विद्रोहका समयमा २००१ मा स्थापना भयो।"
+ },
+ {
+  "id": "HIST2-204",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal is a founding member of SAARC, which was established in which year?",
+  "options": [
+   "1975",
+   "1997",
+   "1985",
+   "1955"
+  ],
+  "answer": 2,
+  "explanation": "SAARC was founded in Dhaka on 8 December 1985, with Nepal as a founding member.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल संस्थापक सदस्य रहेको सार्क कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९७५",
+   "१९९७",
+   "१९८५",
+   "१९५५"
+  ],
+  "explanation_ne": "सार्क ८ डिसेम्बर १९८५ मा ढाकामा स्थापना भयो; नेपाल संस्थापक सदस्य हो।"
+ },
+ {
+  "id": "HIST2-209",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Rani Pokhari in Kathmandu was built in 1670 by which Malla king?",
+  "options": [
+   "Yaksha Malla",
+   "Pratap Malla",
+   "Bhupatindra Malla",
+   "Jaya Prakash Malla"
+  ],
+  "answer": 1,
+  "explanation": "Pratap Malla built Rani Pokhari in 1670 in memory of his son.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौंको रानीपोखरी १६७० मा कुन मल्ल राजाले बनाए?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "प्रताप मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "जयप्रकाश मल्ल"
+  ],
+  "explanation_ne": "प्रताप मल्लले १६७० मा छोराको सम्झनामा रानीपोखरी बनाए।"
+ },
+ {
+  "id": "HIST2-210",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to legend, Kathmandu Valley was once a lake drained by whom?",
+  "options": [
+   "Manjushree",
+   "Lord Shiva",
+   "Gautam Buddha",
+   "King Mandev I"
+  ],
+  "answer": 0,
+  "explanation": "Legend says the Bodhisattva Manjushree cut a gorge at Chobhar and drained the lake to form the valley.",
+  "source": "General knowledge",
+  "question_ne": "किंवदन्तीअनुसार काठमाडौं उपत्यका कुनै समय ताल थियो, जसलाई कसले खोला काटेर सुकाए?",
+  "options_ne": [
+   "मञ्जुश्री",
+   "भगवान् शिव",
+   "गौतम बुद्ध",
+   "राजा मानदेव प्रथम"
+  ],
+  "explanation_ne": "किंवदन्तीअनुसार बोधिसत्त्व मञ्जुश्रीले चोभारमा खोला काटेर ताल सुकाएर उपत्यका बनाए।"
+ },
+ {
+  "id": "HIST2-211",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nepali language is believed to have originated in which valley of western Nepal?",
+  "options": [
+   "Kathmandu Valley",
+   "Pokhara Valley",
+   "Dang Valley",
+   "Sinja Valley, Jumla"
+  ],
+  "answer": 3,
+  "explanation": "Nepali (Khas Kura) originated in the Sinja Valley of Jumla, the heart of the old Khas kingdom.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली भाषा पश्चिमी नेपालको कुन उपत्यकाबाट उत्पत्ति भएको मानिन्छ?",
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "पोखरा उपत्यका",
+   "दाङ उपत्यका",
+   "सिन्जा उपत्यका, जुम्ला"
+  ],
+  "explanation_ne": "नेपाली (खस कुरा) पुरानो खस राज्यको केन्द्र जुम्लाको सिन्जा उपत्यकाबाट उत्पत्ति भएको मानिन्छ।"
+ },
+ {
+  "id": "HIST2-213",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the national motto of Nepal?",
+  "options": [
+   "Unity in Diversity",
+   "Jaya Nepal",
+   "Janani Janmabhumishcha Swargadapi Gariyasi",
+   "Satyameva Jayate"
+  ],
+  "answer": 2,
+  "explanation": "Nepal's motto is 'Janani Janmabhumishcha Swargadapi Gariyasi' — mother and motherland are greater than heaven.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय आदर्श वाक्य के हो?",
+  "options_ne": [
+   "विविधतामा एकता",
+   "जय नेपाल",
+   "जननी जन्मभूमिश्च स्वर्गादपि गरीयसी",
+   "सत्यमेव जयते"
+  ],
+  "explanation_ne": "नेपालको आदर्श वाक्य 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' हो — आमा र जन्मभूमि स्वर्गभन्दा महान् छन्।"
+ },
+ {
+  "id": "HIST2-214",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal adopted a new political map in 2020 including which disputed territories?",
+  "options": [
+   "Kalapani, Lipulekh and Limpiyadhura",
+   "Susta and Mechi",
+   "Darjeeling and Sikkim",
+   "Kumaon and Garhwal"
+  ],
+  "answer": 0,
+  "explanation": "Nepal's 2020 map includes Kalapani, Lipulekh and Limpiyadhura as Nepali territory.",
+  "source": "General knowledge",
+  "question_ne": "नेपालले २०२० मा जारी गरेको नयाँ राजनीतिक नक्सामा कुन विवादित क्षेत्र समावेश छन्?",
+  "options_ne": [
+   "कालापानी, लिपुलेक र लिम्पियाधुरा",
+   "सुस्ता र मेची",
+   "दार्जिलिङ र सिक्किम",
+   "कुमाऊँ र गढवाल"
+  ],
+  "explanation_ne": "नेपालको २०२० को नक्सामा कालापानी, लिपुलेक र लिम्पियाधुरा नेपाली भूभागका रूपमा समावेश छन्।"
+ },
+ {
+  "id": "HIST2-215",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which Nepali climber completed all 14 eight-thousanders in just over six months in 2019?",
+  "options": [
+   "Apa Sherpa",
+   "Tenzing Norgay Sherpa",
+   "Nirmal Purja (Nimsdai)",
+   "Kami Rita Sherpa"
+  ],
+  "answer": 2,
+  "explanation": "Nirmal Purja climbed all 14 peaks above 8,000 metres in 6 months and 6 days in 2019.",
+  "source": "General knowledge",
+  "question_ne": "२०१९ मा जम्मा छ महिनाभन्दा केही बढीमा सबै १४ आठहजारी हिमाल चढ्ने नेपाली आरोही को हुन्?",
+  "options_ne": [
+   "आप्पा शेर्पा",
+   "तेन्जिङ नोर्गे शेर्पा",
+   "निर्मल पुर्जा (निम्सदाइ)",
+   "कामीरिता शेर्पा"
+  ],
+  "explanation_ne": "निर्मल पुर्जाले २०१९ मा ६ महिना ६ दिनमा ८,००० मिटरमाथिका सबै १४ हिमाल चढे।"
+ },
+ {
+  "id": "HIST2-216",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who holds the world record for the most ascents of Mount Everest?",
+  "options": [
+   "Lhakpa Sherpa",
+   "Kami Rita Sherpa",
+   "Apa Sherpa",
+   "Nirmal Purja"
+  ],
+  "answer": 1,
+  "explanation": "Kami Rita Sherpa holds the record for the most Everest summits, reaching 31 on 27 May 2025.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथाको सबैभन्दा धेरै आरोहणको विश्व कीर्तिमान कसको नाममा छ?",
+  "options_ne": [
+   "ल्हाक्पा शेर्पा",
+   "कामीरिता शेर्पा",
+   "आप्पा शेर्पा",
+   "निर्मल पुर्जा"
+  ],
+  "explanation_ne": "कामीरिता शेर्पाको नाममा सगरमाथाको सबैभन्दा धेरै आरोहणको कीर्तिमान छ; २७ मे २०२५ मा ३१ पटक पुगे।"
+ },
+ {
+  "id": "HIST2-217",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal first participated in the Olympic Games in which year?",
+  "options": [
+   "1952 (Helsinki)",
+   "1988 (Seoul)",
+   "1972 (Munich)",
+   "1964 (Tokyo)"
+  ],
+  "answer": 3,
+  "explanation": "Nepal first took part in the Olympics at Tokyo 1964.",
+  "source": "General knowledge",
+  "question_ne": "नेपालले पहिलो पटक ओलम्पिक खेलमा कुन वर्षमा भाग लियो?",
+  "options_ne": [
+   "१९५२ (हेलसिन्की)",
+   "१९८८ (सोल)",
+   "१९७२ (म्युनिख)",
+   "१९६४ (टोकियो)"
+  ],
+  "explanation_ne": "नेपालले पहिलो पटक टोकियो १९६४ ओलम्पिकमा भाग लियो।"
+ },
+ {
+  "id": "HIST2-218",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many official Olympic medals has Nepal won as of 2025?",
+  "options": [
+   "One silver",
+   "None (zero)",
+   "One gold",
+   "Two bronze"
+  ],
+  "answer": 1,
+  "explanation": "Nepal has never won an official Olympic medal.",
+  "source": "General knowledge",
+  "question_ne": "२०२५ सम्म नेपालले कति आधिकारिक ओलम्पिक पदक जितेको छ?",
+  "options_ne": [
+   "एक रजत",
+   "कुनै पनि छैन (शून्य)",
+   "एक स्वर्ण",
+   "दुई कांस्य"
+  ],
+  "explanation_ne": "नेपालले कहिल्यै आधिकारिक ओलम्पिक पदक जितेको छैन।"
+ },
+ {
+  "id": "HIST2-219",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What was the first Nepali feature film, released in 1964?",
+  "options": [
+   "Aama",
+   "Muna Madan",
+   "Kumva Karan",
+   "Jeevan Rekha"
+  ],
+  "answer": 0,
+  "explanation": "Aama, released in 1964, was the first Nepali feature film.",
+  "source": "General knowledge",
+  "question_ne": "१९६४ मा रिलिज भएको पहिलो नेपाली चलचित्र कुन हो?",
+  "options_ne": [
+   "आमा",
+   "मुनामदन",
+   "कुम्भकर्ण",
+   "जीवनरेखा"
+  ],
+  "explanation_ne": "१९६४ मा रिलिज भएको आमा पहिलो नेपाली चलचित्र थियो।"
+ },
+ {
+  "id": "HIST2-220",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Madan Puraskar, Nepal's most prestigious literary award, was established in which year?",
+  "options": [
+   "1955",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "answer": 0,
+  "explanation": "The Madan Puraskar was established in 1955 in memory of Madan Shumsher JBR.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको प्रतिष्ठित साहित्यिक पुरस्कार मदन पुरस्कार कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९५५",
+   "१९५१",
+   "१९६०",
+   "१९९०"
+  ],
+  "explanation_ne": "मदन पुरस्कार १९५५ मा मदनशमशेर जबराको सम्झनामा स्थापना भयो।"
+ },
+ {
+  "id": "HIST2-221",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal Academy (Nepal Pragya Pratisthan) was established in which year?",
+  "options": [
+   "1957",
+   "1951",
+   "1960",
+   "1972"
+  ],
+  "answer": 0,
+  "explanation": "Nepal Academy was established in 1957 to promote Nepali language, literature and culture.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल प्रज्ञा प्रतिष्ठान (नेपाल एकेडेमी) कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९५७",
+   "१९५१",
+   "१९६०",
+   "१९७२"
+  ],
+  "explanation_ne": "नेपाल प्रज्ञा प्रतिष्ठान १९५७ मा नेपाली भाषा, साहित्य र संस्कृति प्रवर्द्धन गर्न स्थापना भयो।"
+ },
+ {
+  "id": "HIST2-222",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Radio Sagarmatha, Nepal's first FM radio station, began broadcasting in which year?",
+  "options": [
+   "1951",
+   "1985",
+   "2001",
+   "1997"
+  ],
+  "answer": 3,
+  "explanation": "Radio Sagarmatha, the first FM station in South Asia, began in May 1997.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो एफएम रेडियो स्टेसन रेडियो सगरमाथाले कुन वर्षमा प्रसारण सुरु गर्यो?",
+  "options_ne": [
+   "१९५१",
+   "१९८५",
+   "२००१",
+   "१९९७"
+  ],
+  "explanation_ne": "दक्षिण एसियाकै पहिलो एफएम स्टेसन रेडियो सगरमाथा मे १९९७ मा सुरु भयो।"
+ },
+ {
+  "id": "HIST2-223",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Kantipur Television, Nepal's first private television channel, began broadcasting in which year?",
+  "options": [
+   "2010",
+   "2003",
+   "1985",
+   "1997"
+  ],
+  "answer": 1,
+  "explanation": "Kantipur TV began broadcasting in 2003 as Nepal's first private television channel.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो निजी टेलिभिजन च्यानल कान्तिपुर टेलिभिजनले कुन वर्षमा प्रसारण सुरु गर्यो?",
+  "options_ne": [
+   "२०१०",
+   "२००३",
+   "१९८५",
+   "१९९७"
+  ],
+  "explanation_ne": "कान्तिपुर टिभीले २००३ मा नेपालको पहिलो निजी टेलिभिजन च्यानलका रूपमा प्रसारण सुरु गर्यो।"
+ },
+ {
+  "id": "HIST2-225",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Koshi Agreement between Nepal and India was signed in which year?",
+  "options": [
+   "1950",
+   "1959",
+   "1996",
+   "1954"
+  ],
+  "answer": 3,
+  "explanation": "The Koshi Agreement on the Koshi barrage was signed in April 1954.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल-भारत कोशी सम्झौता कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१९५०",
+   "१९५९",
+   "१९९६",
+   "१९५४"
+  ],
+  "explanation_ne": "कोशी ब्यारेजसम्बन्धी कोशी सम्झौता अप्रिल १९५४ मा भएको थियो।"
+ },
+ {
+  "id": "HIST2-226",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nepal-China Boundary Agreement, settling the border between the two countries, was signed in which year?",
+  "options": [
+   "1950",
+   "1960",
+   "1972",
+   "1961"
+  ],
+  "answer": 3,
+  "explanation": "Nepal and China signed the Boundary Agreement in October 1961.",
+  "source": "General knowledge",
+  "question_ne": "दुई देशबीच सीमा निर्धारण गर्ने नेपाल-चीन सीमा सम्झौता कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१९५०",
+   "१९६०",
+   "१९७२",
+   "१९६१"
+  ],
+  "explanation_ne": "नेपाल र चीनले अक्टोबर १९६१ मा सीमा सम्झौतामा हस्ताक्षर गरे।"
+ },
+ {
+  "id": "HIST2-227",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal has served as a non-permanent member of the UN Security Council how many times?",
+  "options": [
+   "Twice (1969-70 and 1988-89)",
+   "Once",
+   "Three times",
+   "Never"
+  ],
+  "answer": 0,
+  "explanation": "Nepal served on the UN Security Council in 1969-70 and again in 1988-89.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल संयुक्त राष्ट्र सुरक्षा परिषद्को अस्थायी सदस्य कति पटक बनेको छ?",
+  "options_ne": [
+   "दुई पटक (१९६९-७० र १९८८-८९)",
+   "एक पटक",
+   "तीन पटक",
+   "कहिल्यै छैन"
+  ],
+  "explanation_ne": "नेपाल १९६९-७० र फेरि १९८८-८९ मा सुरक्षा परिषद्को सदस्य बन्यो।"
+ },
+ {
+  "id": "HIST2-228",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal joined the Non-Aligned Movement at its first summit in Belgrade in which year?",
+  "options": [
+   "1970",
+   "1985",
+   "1961",
+   "1955"
+  ],
+  "answer": 2,
+  "explanation": "Nepal participated in the first Non-Aligned Movement summit in Belgrade in 1961.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल असंलग्न आन्दोलनमा बेलग्रेडको प्रथम शिखर सम्मेलनमा कुन वर्षमा सामेल भयो?",
+  "options_ne": [
+   "१९७०",
+   "१९८५",
+   "१९६१",
+   "१९५५"
+  ],
+  "explanation_ne": "नेपाल १९६१ मा बेलग्रेडमा भएको असंलग्न आन्दोलनको प्रथम शिखर सम्मेलनमा सहभागी भयो।"
+ },
+ {
+  "id": "HIST2-229",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The coronation of King Birendra took place in which year?",
+  "options": [
+   "1960",
+   "1975",
+   "1972",
+   "1990"
+  ],
+  "answer": 1,
+  "explanation": "King Birendra was crowned on 24 February 1975.",
+  "source": "General knowledge",
+  "question_ne": "राजा वीरेन्द्रको राज्याभिषेक कुन वर्षमा भयो?",
+  "options_ne": [
+   "१९६०",
+   "१९७५",
+   "१९७२",
+   "१९९०"
+  ],
+  "explanation_ne": "राजा वीरेन्द्रको राज्याभिषेक २४ फेब्रुअरी १९७५ मा भयो।"
+ },
+ {
+  "id": "HIST2-230",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Makwanpur was conquered by Prithvi Narayan Shah in which year?",
+  "options": [
+   "1757",
+   "1762",
+   "1744",
+   "1768"
+  ],
+  "answer": 1,
+  "explanation": "Makwanpur fell to Prithvi Narayan Shah in 1762, strengthening the blockade of the valley.",
+  "source": "General knowledge",
+  "question_ne": "मकवानपुर पृथ्वीनारायण शाहले कुन वर्षमा विजय गरे?",
+  "options_ne": [
+   "१७५७",
+   "१७६२",
+   "१७४४",
+   "१७६८"
+  ],
+  "explanation_ne": "मकवानपुर १७६२ मा पृथ्वीनारायण शाहको हातमा पर्यो, जसले उपत्यकाको नाकाबन्दी बलियो बनायो।"
+ },
+ {
+  "id": "HIST2-231",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Chaubisi principality of Palpa was annexed to Nepal in which year?",
+  "options": [
+   "1768",
+   "1816",
+   "1846",
+   "1806"
+  ],
+  "answer": 3,
+  "explanation": "Palpa was annexed in 1806, completing the unification of the Chaubisi region.",
+  "source": "General knowledge",
+  "question_ne": "चौबीसी राज्य पाल्पा नेपालमा कुन वर्षमा गाभियो?",
+  "options_ne": [
+   "१७६८",
+   "१८१६",
+   "१८४६",
+   "१८०६"
+  ],
+  "explanation_ne": "पाल्पा १८०६ मा गाभियो, जसले चौबीसी क्षेत्रको एकीकरण पूरा गर्यो।"
+ },
+ {
+  "id": "HIST2-232",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which province was the last to get its name, being named Koshi in March 2023?",
+  "options": [
+   "Province 1 (Koshi)",
+   "Madhesh Province",
+   "Bagmati Province",
+   "Gandaki Province"
+  ],
+  "answer": 0,
+  "explanation": "Province 1 was named Koshi in March 2023, the last province to be named.",
+  "source": "General knowledge",
+  "question_ne": "मार्च २०२३ मा कोशी नामकरण गरिएको, सबैभन्दा अन्तिममा नाम पाउने प्रदेश कुन हो?",
+  "options_ne": [
+   "प्रदेश १ (कोशी)",
+   "मधेश प्रदेश",
+   "बागमती प्रदेश",
+   "गण्डकी प्रदेश"
+  ],
+  "explanation_ne": "प्रदेश १ लाई मार्च २०२३ मा कोशी नाम दिइयो; यो नाम पाउने अन्तिम प्रदेश हो।"
+ },
+ {
+  "id": "HIST2-233",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's first democratic constitution, under which the 1959 election was held, was promulgated in which year?",
+  "options": [
+   "1951",
+   "1962",
+   "1990",
+   "1959"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution of the Kingdom of Nepal 1959 was Nepal's first democratic constitution.",
+  "source": "General knowledge",
+  "question_ne": "१९५९ को निर्वाचन भएको नेपालको पहिलो प्रजातान्त्रिक संविधान कुन वर्षमा जारी भयो?",
+  "options_ne": [
+   "१९५१",
+   "१९६२",
+   "१९९०",
+   "१९५९"
+  ],
+  "explanation_ne": "नेपाल अधिराज्यको संविधान १९५९ नेपालको पहिलो प्रजातान्त्रिक संविधान थियो।"
+ },
+ {
+  "id": "HIST2-234",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Kot Parba massacre of 1846 took place at the Kot, the royal armoury, in which palace complex?",
+  "options": [
+   "Hanuman Dhoka",
+   "Singha Durbar",
+   "Narayanhiti",
+   "Gorkha Durbar"
+  ],
+  "answer": 0,
+  "explanation": "The Kot Massacre took place at the Kot armoury within the Hanuman Dhoka palace in Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "१८४६ को कोत पर्व हत्याकाण्ड शाही हातहतियार भण्डार कोतमा भएको थियो; त्यो कुन दरबार परिसरमा थियो?",
+  "options_ne": [
+   "हनुमानढोका",
+   "सिंहदरबार",
+   "नारायणहिटी",
+   "गोरखा दरबार"
+  ],
+  "explanation_ne": "कोत हत्याकाण्ड काठमाडौंको हनुमानढोका दरबारभित्रको कोत हातहतियार भण्डारमा भएको थियो।"
+ },
+ {
+  "id": "HIST2-235",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Bhandarkhal Parba of 1806 was a massacre that followed whose assassination?",
+  "options": [
+   "Bhimsen Thapa",
+   "Damodar Pande",
+   "Girvan Yuddha Bikram Shah",
+   "Rana Bahadur Shah"
+  ],
+  "answer": 3,
+  "explanation": "After Rana Bahadur Shah was assassinated in 1806, his supporters were massacred at Bhandarkhal.",
+  "source": "General knowledge",
+  "question_ne": "१८०६ को भण्डारखाल पर्व हत्याकाण्ड कसको हत्यापछि भएको थियो?",
+  "options_ne": [
+   "भीमसेन थापा",
+   "दामोदर पाँडे",
+   "गीर्वाणयुद्धविक्रम शाह",
+   "रणबहादुर शाह"
+  ],
+  "explanation_ne": "१८०६ मा रणबहादुर शाहको हत्या भएपछि उनका समर्थकहरूको भण्डारखालमा हत्याकाण्ड भयो।"
+ },
+ {
+  "id": "HIST2-236",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Gandak Agreement between Nepal and India was signed in which year?",
+  "options": [
+   "1959",
+   "1954",
+   "1996",
+   "1950"
+  ],
+  "answer": 0,
+  "explanation": "The Gandak Agreement on the Gandak barrage was signed in December 1959.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल-भारत गण्डक सम्झौता कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१९५९",
+   "१९५४",
+   "१९९६",
+   "१९५०"
+  ],
+  "explanation_ne": "गण्डक ब्यारेजसम्बन्धी गण्डक सम्झौता डिसेम्बर १९५९ मा भएको थियो।"
+ },
+ {
+  "id": "HIST2-237",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Singha Durbar was badly damaged by a major fire in which year?",
+  "options": [
+   "1973",
+   "1934",
+   "2015",
+   "1951"
+  ],
+  "answer": 0,
+  "explanation": "A fire on 9 July 1973 badly damaged Singha Durbar, destroying much of the building.",
+  "source": "General knowledge",
+  "question_ne": "सिंहदरबार ठूलो आगलागीले नराम्रोसँग क्षतिग्रस्त भएको वर्ष कुन हो?",
+  "options_ne": [
+   "१९७३",
+   "१९३४",
+   "२०१५",
+   "१९५१"
+  ],
+  "explanation_ne": "९ जुलाई १९७३ को आगलागीले सिंहदरबार नराम्रोसँग क्षतिग्रस्त भयो।"
+ },
+ {
+  "id": "HIST2-238",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Narayanhiti Palace was converted into a public museum in which year?",
+  "options": [
+   "2009",
+   "2008",
+   "2015",
+   "2001"
+  ],
+  "answer": 0,
+  "explanation": "Narayanhiti Palace Museum opened to the public in February 2009.",
+  "source": "General knowledge",
+  "question_ne": "नारायणहिटी दरबारलाई सार्वजनिक संग्रहालयमा कुन वर्षमा परिणत गरियो?",
+  "options_ne": [
+   "२००९",
+   "२००८",
+   "२०१५",
+   "२००१"
+  ],
+  "explanation_ne": "नारायणहिटी दरबार संग्रहालय फेब्रुअरी २००९ मा सर्वसाधारणका लागि खोलियो।"
+ },
+ {
+  "id": "HIST2-239",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After the conquest of Kirtipur in 1767, what harsh punishment did Prithvi Narayan Shah order for many of its people?",
+  "options": [
+   "Exile to Tibet",
+   "Heavy fines only",
+   "Forced labour in Gorkha",
+   "Cutting off their noses"
+  ],
+  "answer": 3,
+  "explanation": "After Kirtipur's conquest, Prithvi Narayan Shah ordered the noses of many residents to be cut off as punishment for their resistance.",
+  "source": "General knowledge",
+  "question_ne": "१७६७ मा कीर्तिपुर विजयपछि पृथ्वीनारायण शाहले त्यहाँका धेरै मानिसलाई कुन कठोर सजाय दिन आदेश दिए?",
+  "options_ne": [
+   "तिब्बत निर्वासन",
+   "केवल भारी जरिवाना",
+   "गोरखामा बाध्यकारी श्रम",
+   "नाक काट्ने"
+  ],
+  "explanation_ne": "कीर्तिपुर विजयपछि पृथ्वीनारायण शाहले प्रतिरोधको सजायका रूपमा धेरै बासिन्दाको नाक काट्न आदेश दिए।"
+ },
+ {
+  "id": "HIST2-240",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Malla Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhaktapur city was founded in the 12th century by which Malla king?",
+  "options": [
+   "Ananda Deva Malla",
+   "Yaksha Malla",
+   "Pratap Malla",
+   "Bhupatindra Malla"
+  ],
+  "answer": 0,
+  "explanation": "King Ananda Deva Malla founded Bhaktapur in the 12th century.",
+  "source": "General knowledge",
+  "question_ne": "१२औं शताब्दीमा भक्तपुर सहर स्थापना गर्ने मल्ल राजा को हुन्?",
+  "options_ne": [
+   "आनन्ददेव मल्ल",
+   "यक्ष मल्ल",
+   "प्रताप मल्ल",
+   "भूपतीन्द्र मल्ल"
+  ],
+  "explanation_ne": "राजा आनन्ददेव मल्लले १२औं शताब्दीमा भक्तपुर स्थापना गरे।"
+ },
+ {
+  "id": "HIST2-241",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Royal Nepal Airlines, Nepal's national flag carrier, was founded in which year?",
+  "options": [
+   "1951",
+   "1972",
+   "1960",
+   "1958"
+  ],
+  "answer": 3,
+  "explanation": "Royal Nepal Airlines was founded in 1958 and flew its first service the same year.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय ध्वजावाहक रोयल नेपाल एयरलाइन्स कुन वर्षमा स्थापना भयो?",
+  "options_ne": [
+   "१९५१",
+   "१९७२",
+   "१९६०",
+   "१९५८"
+  ],
+  "explanation_ne": "रोयल नेपाल एयरलाइन्स १९५८ मा स्थापना भयो र सोही वर्ष पहिलो उडान गर्यो।"
+ },
+ {
+  "id": "HIST2-242",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Janakpur-Jayanagar railway, Nepal's second railway, began operating in which year?",
+  "options": [
+   "1951",
+   "1947",
+   "1937",
+   "1927"
+  ],
+  "answer": 2,
+  "explanation": "The Janakpur-Jayanagar narrow-gauge railway began service in 1937.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको दोस्रो रेलवे जनकपुर-जयनगर रेलवे कुन वर्षमा सञ्चालनमा आयो?",
+  "options_ne": [
+   "१९५१",
+   "१९४७",
+   "१९३७",
+   "१९२७"
+  ],
+  "explanation_ne": "जनकपुर-जयनगर न्यारो गेज रेलवे १९३७ मा सञ्चालनमा आयो।"
+ },
+ {
+  "id": "HIST2-243",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal held its first local elections in 20 years in which year?",
+  "options": [
+   "2008",
+   "2022",
+   "2017",
+   "2015"
+  ],
+  "answer": 2,
+  "explanation": "Local elections were held in 2017, the first in Nepal for 20 years.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा २० वर्षपछि पहिलो स्थानीय निर्वाचन कुन वर्षमा भयो?",
+  "options_ne": [
+   "२००८",
+   "२०२२",
+   "२०१७",
+   "२०१५"
+  ],
+  "explanation_ne": "नेपालमा २० वर्षपछि २०१७ मा स्थानीय निर्वाचन भयो।"
+ },
+ {
+  "id": "HIST2-244",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many constitutions has Nepal had in total, from the Government of Nepal Act 1948 to the Constitution of 2015?",
+  "options": [
+   "Four",
+   "Nine",
+   "Seven",
+   "Five"
+  ],
+  "answer": 2,
+  "explanation": "Nepal has had seven constitutions: 1948, 1951, 1959, 1962, 1990, 2007 (Interim) and 2015.",
+  "source": "General knowledge",
+  "question_ne": "१९४८ को नेपाल सरकार ऐनदेखि २०१५ को संविधानसम्म नेपालका जम्मा कति संविधान भए?",
+  "options_ne": [
+   "चार",
+   "नौ",
+   "सात",
+   "पाँच"
+  ],
+  "explanation_ne": "नेपालका सात संविधान भए: १९४८, १९५१, १९५९, १९६२, १९९०, २००७ (अन्तरिम) र २०१५।"
+ },
+ {
+  "id": "HIST2-245",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which reformist Rana prime minister opened schools to the general public during his brief rule in 1901?",
+  "options": [
+   "Chandra Shumsher Rana",
+   "Juddha Shumsher Rana",
+   "Padma Shumsher Rana",
+   "Dev Shumsher Rana"
+  ],
+  "answer": 3,
+  "explanation": "Dev Shumsher Rana opened many schools to the public and promoted education during his 114-day rule in 1901.",
+  "source": "General knowledge",
+  "question_ne": "१९०१ मा छोटो शासनका समयमा सर्वसाधारणका लागि विद्यालय खोल्ने सुधारवादी राणा प्रधानमन्त्री को हुन्?",
+  "options_ne": [
+   "चन्द्रशमशेर राणा",
+   "जुद्धशमशेर राणा",
+   "पद्मशमशेर राणा",
+   "देवशमशेर राणा"
+  ],
+  "explanation_ne": "देवशमशेर राणाले १९०१ मा ११४ दिने शासनका समयमा धेरै विद्यालय सर्वसाधारणका लागि खोले र शिक्षा प्रवर्द्धन गरे।"
+ },
+ {
+  "id": "HIST2-246",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The hereditary Rana prime ministers held which honorific title?",
+  "options": [
+   "Shree Teen Maharaj",
+   "Shree Panch Maharajadhiraj",
+   "Mukhtiyar",
+   "Bada Kaji"
+  ],
+  "answer": 0,
+  "explanation": "The Rana prime ministers held the title Shree Teen Maharaj, while the king was Shree Panch.",
+  "source": "General knowledge",
+  "question_ne": "वंशानुगत राणा प्रधानमन्त्रीहरूले कुन सम्मानसूचक उपाधि धारण गर्थे?",
+  "options_ne": [
+   "श्री ३ महाराज",
+   "श्री ५ महाराजाधिराज",
+   "मुख्तियार",
+   "बडाकाजी"
+  ],
+  "explanation_ne": "राणा प्रधानमन्त्रीहरूले श्री ३ महाराज उपाधि धारण गर्थे, राजाको उपाधि श्री ५ थियो।"
+ },
+ {
+  "id": "HIST2-247",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Ancient Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Sinja Valley in Jumla was the capital of which medieval kingdom, from which the Nepali language spread?",
+  "options": [
+   "Lichhavi kingdom",
+   "Sen kingdom",
+   "Shah kingdom",
+   "Khas (Malla) kingdom"
+  ],
+  "answer": 3,
+  "explanation": "Sinja was the capital of the medieval Khas kingdom, where the Nepali language developed.",
+  "source": "General knowledge",
+  "question_ne": "जुम्लाको सिन्जा उपत्यका कुन मध्यकालीन राज्यको राजधानी थियो, जहाँबाट नेपाली भाषा फैलियो?",
+  "options_ne": [
+   "लिच्छवि राज्य",
+   "सेन राज्य",
+   "शाह राज्य",
+   "खस (मल्ल) राज्य"
+  ],
+  "explanation_ne": "सिन्जा मध्यकालीन खस राज्यको राजधानी थियो, जहाँ नेपाली भाषा विकास भयो।"
+ },
+ {
+  "id": "HIST2-248",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal protested in 2015 when India and China agreed to expand trade through which disputed pass without consulting Nepal?",
+  "options": [
+   "Kodari Pass",
+   "Rasuwagadhi Pass",
+   "Lipulekh Pass",
+   "Nathu La Pass"
+  ],
+  "answer": 2,
+  "explanation": "In May 2015 India and China agreed to expand trade via Lipulekh; Nepal protested that Lipulekh is Nepali territory.",
+  "source": "General knowledge",
+  "question_ne": "नेपालले २०१५ मा भारत र चीनले नेपालसँग परामर्श नगरी कुन विवादित नाका हुँदै व्यापार विस्तार गर्न सहमत भएपछि विरोध गर्यो?",
+  "options_ne": [
+   "कोदारी नाका",
+   "रसुवागढी नाका",
+   "लिपुलेक नाका",
+   "नाथु ला नाका"
+  ],
+  "explanation_ne": "मे २०१५ मा भारत र चीन लिपुलेक हुँदै व्यापार विस्तार गर्न सहमत भए; नेपालले लिपुलेक नेपाली भूभाग भएको भन्दै विरोध गर्यो।"
+ },
+ {
+  "id": "HIST2-249",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal first served as a non-permanent member of the UN Security Council in which years?",
+  "options": [
+   "1969-1970",
+   "1955-1956",
+   "1988-1989",
+   "2000-2001"
+  ],
+  "answer": 0,
+  "explanation": "Nepal first served on the UN Security Council in 1969-1970, and again in 1988-1989.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल पहिलो पटक संयुक्त राष्ट्र सुरक्षा परिषद्को अस्थायी सदस्य कुन वर्षहरूमा बन्यो?",
+  "options_ne": [
+   "१९६९-१९७०",
+   "१९५५-१९५६",
+   "१९८८-१९८९",
+   "२०००-२००१"
+  ],
+  "explanation_ne": "नेपाल पहिलो पटक १९६९-१९७० मा सुरक्षा परिषद्को सदस्य बन्यो, फेरि १९८८-१९८९ मा।"
+ },
+ {
+  "id": "HIST2-250",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Treaties",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Nepal-China Treaty of Peace and Friendship was signed in which year?",
+  "options": [
+   "1960",
+   "1950",
+   "1961",
+   "1972"
+  ],
+  "answer": 0,
+  "explanation": "Nepal and China signed the Treaty of Peace and Friendship on 28 April 1960.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल-चीन शान्ति तथा मैत्री सन्धि कुन वर्षमा भएको थियो?",
+  "options_ne": [
+   "१९६०",
+   "१९५०",
+   "१९६१",
+   "१९७२"
+  ],
+  "explanation_ne": "नेपाल र चीनले २८ अप्रिल १९६० मा शान्ति तथा मैत्री सन्धिमा हस्ताक्षर गरे।"
+ }
+]

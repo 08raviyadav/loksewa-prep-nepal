@@ -1,0 +1,7089 @@
+[
+ {
+  "id": "GEO2-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Taplejung district?",
+  "options": [
+   "Ilam",
+   "Bhadrapur",
+   "Dhankuta",
+   "Phungling"
+  ],
+  "answer": 3,
+  "explanation": "Phungling is the headquarters of Taplejung district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "ताप्लेजुङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "इलाम",
+   "भद्रपुर",
+   "धनकुटा",
+   "फुङ्लिङ"
+  ],
+  "explanation_ne": "फुङ्लिङ कोशी प्रदेशको ताप्लेजुङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Ilam district?",
+  "options": [
+   "Dhankuta",
+   "Phidim",
+   "Ilam",
+   "Bhadrapur"
+  ],
+  "answer": 2,
+  "explanation": "Ilam (Ilam Bazaar) is the headquarters of Ilam district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "इलाम जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "धनकुटा",
+   "फिदिम",
+   "इलाम",
+   "भद्रपुर"
+  ],
+  "explanation_ne": "इलाम (इलाम बजार) कोशी प्रदेशको इलाम जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Jhapa district?",
+  "options": [
+   "Biratnagar",
+   "Mechinagar",
+   "Damak",
+   "Bhadrapur"
+  ],
+  "answer": 3,
+  "explanation": "Bhadrapur is the headquarters of Jhapa district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "झापा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "विराटनगर",
+   "मेचीनगर",
+   "दमक",
+   "भद्रपुर"
+  ],
+  "explanation_ne": "भद्रपुर कोशी प्रदेशको झापा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Morang district?",
+  "options": [
+   "Itahari",
+   "Dharan",
+   "Biratnagar",
+   "Bhadrapur"
+  ],
+  "answer": 2,
+  "explanation": "Biratnagar is the headquarters of Morang district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "मोरङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "इटहरी",
+   "धरान",
+   "विराटनगर",
+   "भद्रपुर"
+  ],
+  "explanation_ne": "विराटनगर कोशी प्रदेशको मोरङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Sunsari district?",
+  "options": [
+   "Inaruwa",
+   "Dharan",
+   "Itahari",
+   "Biratnagar"
+  ],
+  "answer": 0,
+  "explanation": "Inaruwa is the headquarters of Sunsari district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "सुनसरी जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "इनरुवा",
+   "धरान",
+   "इटहरी",
+   "विराटनगर"
+  ],
+  "explanation_ne": "इनरुवा कोशी प्रदेशको सुनसरी जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Dhankuta district?",
+  "options": [
+   "Hile",
+   "Dharan",
+   "Dhankuta",
+   "Bhojpur"
+  ],
+  "answer": 2,
+  "explanation": "Dhankuta is the headquarters of Dhankuta district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "धनकुटा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "हिले",
+   "धरान",
+   "धनकुटा",
+   "भोजपुर"
+  ],
+  "explanation_ne": "धनकुटा कोशी प्रदेशको धनकुटा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Sankhuwasabha district?",
+  "options": [
+   "Tumlingtar",
+   "Dhankuta",
+   "Bhojpur",
+   "Khandbari"
+  ],
+  "answer": 3,
+  "explanation": "Khandbari is the headquarters of Sankhuwasabha district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "सङ्खुवासभा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "तुम्लिङटार",
+   "धनकुटा",
+   "भोजपुर",
+   "खाँदबारी"
+  ],
+  "explanation_ne": "खाँदबारी कोशी प्रदेशको सङ्खुवासभा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Solukhumbu district?",
+  "options": [
+   "Lukla",
+   "Salleri",
+   "Namche",
+   "Phaplu"
+  ],
+  "answer": 1,
+  "explanation": "Salleri is the headquarters of Solukhumbu district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "सोलुखुम्बु जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "लुक्ला",
+   "सल्लेरी",
+   "नाम्चे",
+   "फाप्लु"
+  ],
+  "explanation_ne": "सल्लेरी कोशी प्रदेशको सोलुखुम्बु जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Khotang district?",
+  "options": [
+   "Halesi",
+   "Jaleshwar",
+   "Diktel",
+   "Okhaldhunga"
+  ],
+  "answer": 2,
+  "explanation": "Diktel is the headquarters of Khotang district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "खोटाङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "हलेसी",
+   "जलेश्वर",
+   "दिक्तेल",
+   "ओखलढुङ्गा"
+  ],
+  "explanation_ne": "दिक्तेल कोशी प्रदेशको खोटाङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Udayapur district?",
+  "options": [
+   "Katari",
+   "Beltar",
+   "Triyuga",
+   "Gaighat"
+  ],
+  "answer": 3,
+  "explanation": "Gaighat (in Triyuga municipality) is the headquarters of Udayapur district in Koshi Province.",
+  "source": "General knowledge",
+  "question_ne": "उदयपुर जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "कटारी",
+   "बेल्टार",
+   "त्रियुगा",
+   "गाईघाट"
+  ],
+  "explanation_ne": "गाईघाट (त्रियुगा नगरपालिका) कोशी प्रदेशको उदयपुर जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Saptari district?",
+  "options": [
+   "Lahan",
+   "Rajbiraj",
+   "Kanchanpur",
+   "Siraha"
+  ],
+  "answer": 1,
+  "explanation": "Rajbiraj is the headquarters of Saptari district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "सप्तरी जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "लहान",
+   "राजविराज",
+   "कञ्चनपुर",
+   "सिरहा"
+  ],
+  "explanation_ne": "राजविराज मधेश प्रदेशको सप्तरी जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Dhanusa district?",
+  "options": [
+   "Jaleshwar",
+   "Lahan",
+   "Janakpur",
+   "Malangwa"
+  ],
+  "answer": 2,
+  "explanation": "Janakpur is the headquarters of Dhanusa district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "धनुषा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "जलेश्वर",
+   "लहान",
+   "जनकपुर",
+   "मलंगवा"
+  ],
+  "explanation_ne": "जनकपुर मधेश प्रदेशको धनुषा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Mahottari district?",
+  "options": [
+   "Bardibas",
+   "Janakpur",
+   "Malangwa",
+   "Jaleshwar"
+  ],
+  "answer": 3,
+  "explanation": "Jaleshwar is the headquarters of Mahottari district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "महोत्तरी जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बर्दिबास",
+   "जनकपुर",
+   "मलंगवा",
+   "जलेश्वर"
+  ],
+  "explanation_ne": "जलेश्वर मधेश प्रदेशको महोत्तरी जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Sarlahi district?",
+  "options": [
+   "Janakpur",
+   "Lalbandi",
+   "Malangwa",
+   "Bardibas"
+  ],
+  "answer": 2,
+  "explanation": "Malangwa is the headquarters of Sarlahi district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "सर्लाही जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "जनकपुर",
+   "लालबन्दी",
+   "मलंगवा",
+   "बर्दिबास"
+  ],
+  "explanation_ne": "मलंगवा मधेश प्रदेशको सर्लाही जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Rautahat district?",
+  "options": [
+   "Chandrapur",
+   "Garuda",
+   "Gaur",
+   "Kalaiya"
+  ],
+  "answer": 2,
+  "explanation": "Gaur is the headquarters of Rautahat district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "रौतहट जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "चन्द्रपुर",
+   "गरुडा",
+   "गौर",
+   "कलैया"
+  ],
+  "explanation_ne": "गौर मधेश प्रदेशको रौतहट जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Bara district?",
+  "options": [
+   "Nijgadh",
+   "Simara",
+   "Birgunj",
+   "Kalaiya"
+  ],
+  "answer": 3,
+  "explanation": "Kalaiya is the headquarters of Bara district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "बारा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "निजगढ",
+   "सिमरा",
+   "वीरगन्ज",
+   "कलैया"
+  ],
+  "explanation_ne": "कलैया मधेश प्रदेशको बारा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Parsa district?",
+  "options": [
+   "Pokhariya",
+   "Birgunj",
+   "Kalaiya",
+   "Simara"
+  ],
+  "answer": 1,
+  "explanation": "Birgunj is the headquarters of Parsa district in Madhesh Province.",
+  "source": "General knowledge",
+  "question_ne": "पर्सा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "पोखरिया",
+   "वीरगन्ज",
+   "कलैया",
+   "सिमरा"
+  ],
+  "explanation_ne": "वीरगन्ज मधेश प्रदेशको पर्सा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Sindhuli district?",
+  "options": [
+   "Dhulikhel",
+   "Bardibas",
+   "Sindhulimadi",
+   "Hetauda"
+  ],
+  "answer": 2,
+  "explanation": "Sindhulimadi (Kamalamai municipality) is the headquarters of Sindhuli district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "सिन्धुली जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "धुलिखेल",
+   "बर्दिबास",
+   "सिन्धुलीमाडी",
+   "हेटौँडा"
+  ],
+  "explanation_ne": "सिन्धुलीमाडी (कमलामाई नगरपालिका) बागमती प्रदेशको सिन्धुली जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Dolakha district?",
+  "options": [
+   "Jiri",
+   "Singati",
+   "Dolakha Bazaar",
+   "Charikot"
+  ],
+  "answer": 3,
+  "explanation": "Charikot (Bhimeshwar municipality) is the headquarters of Dolakha district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "दोलखा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "जिरी",
+   "सिङ्गटी",
+   "दोलखा बजार",
+   "चरिकोट"
+  ],
+  "explanation_ne": "चरिकोट (भीमेश्वर नगरपालिका) बागमती प्रदेशको दोलखा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Kavrepalanchok district?",
+  "options": [
+   "Banepa",
+   "Dhulikhel",
+   "Panauti",
+   "Bhaktapur"
+  ],
+  "answer": 1,
+  "explanation": "Dhulikhel is the headquarters of Kavrepalanchok district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "काभ्रेपलाञ्चोक जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बनेपा",
+   "धुलिखेल",
+   "पनौती",
+   "भक्तपुर"
+  ],
+  "explanation_ne": "धुलिखेल बागमती प्रदेशको काभ्रेपलाञ्चोक जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Nuwakot district?",
+  "options": [
+   "Kakani",
+   "Trishuli",
+   "Bidur",
+   "Dhunche"
+  ],
+  "answer": 2,
+  "explanation": "Bidur is the headquarters of Nuwakot district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "नुवाकोट जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "ककनी",
+   "त्रिशूली",
+   "विदुर",
+   "धुन्चे"
+  ],
+  "explanation_ne": "विदुर बागमती प्रदेशको नुवाकोट जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Rasuwa district?",
+  "options": [
+   "Syabrubesi",
+   "Bidur",
+   "Chautara",
+   "Dhunche"
+  ],
+  "answer": 3,
+  "explanation": "Dhunche is the headquarters of Rasuwa district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "रसुवा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "स्याफ्रुबेसी",
+   "विदुर",
+   "चौतारा",
+   "धुन्चे"
+  ],
+  "explanation_ne": "धुन्चे बागमती प्रदेशको रसुवा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Dhading district?",
+  "options": [
+   "Gajuri",
+   "Malekhu",
+   "Bidur",
+   "Dhading Besi"
+  ],
+  "answer": 3,
+  "explanation": "Dhading Besi (Nilkantha municipality) is the headquarters of Dhading district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "धादिङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "गजुरी",
+   "मलेखु",
+   "विदुर",
+   "धादिङबेसी"
+  ],
+  "explanation_ne": "धादिङबेसी (नीलकण्ठ नगरपालिका) बागमती प्रदेशको धादिङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Makwanpur district?",
+  "options": [
+   "Bhimphedi",
+   "Palung",
+   "Hetauda",
+   "Bharatpur"
+  ],
+  "answer": 2,
+  "explanation": "Hetauda is the headquarters of Makwanpur district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "मकवानपुर जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "भीमफेदी",
+   "पालुङ",
+   "हेटौँडा",
+   "भरतपुर"
+  ],
+  "explanation_ne": "हेटौँडा बागमती प्रदेशको मकवानपुर जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Chitwan district?",
+  "options": [
+   "Ratnanagar",
+   "Narayangadh",
+   "Hetauda",
+   "Bharatpur"
+  ],
+  "answer": 3,
+  "explanation": "Bharatpur is the headquarters of Chitwan district in Bagmati Province.",
+  "source": "General knowledge",
+  "question_ne": "चितवन जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "रत्ननगर",
+   "नारायणगढ",
+   "हेटौँडा",
+   "भरतपुर"
+  ],
+  "explanation_ne": "भरतपुर बागमती प्रदेशको चितवन जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Gorkha district?",
+  "options": [
+   "Besisahar",
+   "Arughat",
+   "Gorkha",
+   "Barpak"
+  ],
+  "answer": 2,
+  "explanation": "Gorkha is the headquarters of Gorkha district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "गोरखा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बेसीसहर",
+   "आरुघाट",
+   "गोरखा",
+   "बारपाक"
+  ],
+  "explanation_ne": "गोरखा गण्डकी प्रदेशको गोरखा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Lamjung district?",
+  "options": [
+   "Sundarbazar",
+   "Damauli",
+   "Besisahar",
+   "Pokhara"
+  ],
+  "answer": 2,
+  "explanation": "Besisahar is the headquarters of Lamjung district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "लमजुङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "सुन्दरबजार",
+   "दमौली",
+   "बेसीसहर",
+   "पोखरा"
+  ],
+  "explanation_ne": "बेसीसहर गण्डकी प्रदेशको लमजुङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Tanahun district?",
+  "options": [
+   "Bandipur",
+   "Besisahar",
+   "Pokhara",
+   "Damauli"
+  ],
+  "answer": 3,
+  "explanation": "Damauli (Vyasa municipality) is the headquarters of Tanahun district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "तनहुँ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बन्दीपुर",
+   "बेसीसहर",
+   "पोखरा",
+   "दमौली"
+  ],
+  "explanation_ne": "दमौली (व्यास नगरपालिका) गण्डकी प्रदेशको तनहुँ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Syangja district?",
+  "options": [
+   "Waling",
+   "Putalibazar",
+   "Galyang",
+   "Pokhara"
+  ],
+  "answer": 1,
+  "explanation": "Putalibazar is the headquarters of Syangja district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "स्याङ्जा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "वालिङ",
+   "पुतलीबजार",
+   "गल्याङ",
+   "पोखरा"
+  ],
+  "explanation_ne": "पुतलीबजार गण्डकी प्रदेशको स्याङ्जा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Kaski district?",
+  "options": [
+   "Lekhnath",
+   "Baglung",
+   "Pokhara",
+   "Syangja"
+  ],
+  "answer": 2,
+  "explanation": "Pokhara is the headquarters of Kaski district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "कास्की जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "लेखनाथ",
+   "बागलुङ",
+   "पोखरा",
+   "स्याङ्जा"
+  ],
+  "explanation_ne": "पोखरा गण्डकी प्रदेशको कास्की जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Manang district?",
+  "options": [
+   "Pisang",
+   "Manang village",
+   "Jomsom",
+   "Chame"
+  ],
+  "answer": 3,
+  "explanation": "Chame is the headquarters of Manang district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "मनाङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "पिसाङ",
+   "मनाङ गाउँ",
+   "जोमसोम",
+   "चामे"
+  ],
+  "explanation_ne": "चामे गण्डकी प्रदेशको मनाङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Mustang district?",
+  "options": [
+   "Kagbeni",
+   "Jomsom",
+   "Muktinath",
+   "Chame"
+  ],
+  "answer": 1,
+  "explanation": "Jomsom is the headquarters of Mustang district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "मुस्ताङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "कागबेनी",
+   "जोमसोम",
+   "मुक्तिनाथ",
+   "चामे"
+  ],
+  "explanation_ne": "जोमसोम गण्डकी प्रदेशको मुस्ताङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Myagdi district?",
+  "options": [
+   "Baglung",
+   "Kusma",
+   "Beni",
+   "Tatopani"
+  ],
+  "answer": 2,
+  "explanation": "Beni is the headquarters of Myagdi district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "म्याग्दी जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बागलुङ",
+   "कुश्मा",
+   "बेनी",
+   "तातोपानी"
+  ],
+  "explanation_ne": "बेनी गण्डकी प्रदेशको म्याग्दी जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Parbat district?",
+  "options": [
+   "Baglung",
+   "Beni",
+   "Pokhara",
+   "Kusma"
+  ],
+  "answer": 3,
+  "explanation": "Kusma is the headquarters of Parbat district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "पर्वत जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बागलुङ",
+   "बेनी",
+   "पोखरा",
+   "कुश्मा"
+  ],
+  "explanation_ne": "कुश्मा गण्डकी प्रदेशको पर्वत जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Baglung district?",
+  "options": [
+   "Beni",
+   "Baglung",
+   "Kusma",
+   "Galkot"
+  ],
+  "answer": 1,
+  "explanation": "Baglung is the headquarters of Baglung district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "बागलुङ जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बेनी",
+   "बागलुङ",
+   "कुश्मा",
+   "गलकोट"
+  ],
+  "explanation_ne": "बागलुङ गण्डकी प्रदेशको बागलुङ जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Gulmi district?",
+  "options": [
+   "Resunga",
+   "Tansen",
+   "Tamghas",
+   "Sandhikharka"
+  ],
+  "answer": 2,
+  "explanation": "Tamghas (Resunga municipality) is the headquarters of Gulmi district in Lumbini Province.",
+  "source": "General knowledge",
+  "question_ne": "गुल्मी जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "रेसुङ्गा",
+   "तानसेन",
+   "तम्घास",
+   "सन्धिखर्क"
+  ],
+  "explanation_ne": "तम्घास (रेसुङ्गा नगरपालिका) लुम्बिनी प्रदेशको गुल्मी जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Palpa district?",
+  "options": [
+   "Rampur",
+   "Tamghas",
+   "Butwal",
+   "Tansen"
+  ],
+  "answer": 3,
+  "explanation": "Tansen is the headquarters of Palpa district in Lumbini Province.",
+  "source": "General knowledge",
+  "question_ne": "पाल्पा जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "रामपुर",
+   "तम्घास",
+   "बुटवल",
+   "तानसेन"
+  ],
+  "explanation_ne": "तानसेन लुम्बिनी प्रदेशको पाल्पा जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Nawalparasi East (Nawalpur) district?",
+  "options": [
+   "Parasi",
+   "Danda",
+   "Kawasoti",
+   "Bharatpur"
+  ],
+  "answer": 2,
+  "explanation": "Kawasoti is the headquarters of Nawalparasi East (Nawalpur) district in Gandaki Province.",
+  "source": "General knowledge",
+  "question_ne": "नवलपरासी पूर्व (नवलपुर) जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "परासी",
+   "दण्डा",
+   "कावासोती",
+   "भरतपुर"
+  ],
+  "explanation_ne": "कावासोती गण्डकी प्रदेशको नवलपरासी पूर्व (नवलपुर) जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the headquarters of Nawalparasi West district?",
+  "options": [
+   "Kawasoti",
+   "Bhairahawa",
+   "Parasi",
+   "Butwal"
+  ],
+  "answer": 2,
+  "explanation": "Parasi (Ramgram municipality) is the headquarters of Nawalparasi West district in Lumbini Province.",
+  "source": "General knowledge",
+  "question_ne": "नवलपरासी पश्चिम जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "कावासोती",
+   "भैरहवा",
+   "परासी",
+   "बुटवल"
+  ],
+  "explanation_ne": "परासी (रामग्राम नगरपालिका) लुम्बिनी प्रदेशको नवलपरासी पश्चिम जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Rupandehi district?",
+  "options": [
+   "Butwal",
+   "Bhairahawa",
+   "Lumbini",
+   "Siddharthanagar"
+  ],
+  "answer": 3,
+  "explanation": "Siddharthanagar (commonly called Bhairahawa) is the headquarters of Rupandehi district in Lumbini Province.",
+  "source": "General knowledge",
+  "question_ne": "रुपन्देही जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बुटवल",
+   "भैरहवा",
+   "लुम्बिनी",
+   "सिद्धार्थनगर"
+  ],
+  "explanation_ne": "सिद्धार्थनगर (सामान्यतया भैरहवा भनिने) लुम्बिनी प्रदेशको रुपन्देही जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the headquarters of Kapilvastu district?",
+  "options": [
+   "Banganga",
+   "Taulihawa",
+   "Krishnanagar",
+   "Bhairahawa"
+  ],
+  "answer": 1,
+  "explanation": "Taulihawa (Kapilvastu municipality) is the headquarters of Kapilvastu district in Lumbini Province.",
+  "source": "General knowledge",
+  "question_ne": "कपिलवस्तु जिल्लाको सदरमुकाम कुन हो?",
+  "options_ne": [
+   "बाणगङ्गा",
+   "तौलिहवा",
+   "कृष्णनगर",
+   "भैरहवा"
+  ],
+  "explanation_ne": "तौलिहवा (कपिलवस्तु नगरपालिका) लुम्बिनी प्रदेशको कपिलवस्तु जिल्लाको सदरमुकाम हो।"
+ },
+ {
+  "id": "GEO2-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After Dolpa, which is the second-largest district of Nepal by area?",
+  "options": [
+   "Mustang",
+   "Sankhuwasabha",
+   "Taplejung",
+   "Humla"
+  ],
+  "answer": 3,
+  "explanation": "Humla, at about 5,655 sq km, is the second-largest district of Nepal after Dolpa.",
+  "source": "General knowledge",
+  "question_ne": "डोल्पापछि क्षेत्रफलका हिसाबले नेपालको दोस्रो ठूलो जिल्ला कुन हो?",
+  "options_ne": [
+   "मुस्ताङ",
+   "सङ्खुवासभा",
+   "ताप्लेजुङ",
+   "हुम्ला"
+  ],
+  "explanation_ne": "हुम्ला करिब ५,६५५ वर्ग किलोमिटर क्षेत्रफलसहित डोल्पापछिको नेपालको दोस्रो ठूलो जिल्ला हो।"
+ },
+ {
+  "id": "GEO2-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhaktapur, the smallest district of Nepal, covers about how much area?",
+  "options": [
+   "219 sq km",
+   "119 sq km",
+   "395 sq km",
+   "99 sq km"
+  ],
+  "answer": 1,
+  "explanation": "Bhaktapur is the smallest district of Nepal, covering about 119 sq km.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा सानो जिल्ला भक्तपुरको क्षेत्रफल करिब कति छ?",
+  "options_ne": [
+   "२१९ वर्ग किलोमिटर",
+   "११९ वर्ग किलोमिटर",
+   "३९५ वर्ग किलोमिटर",
+   "९९ वर्ग किलोमिटर"
+  ],
+  "explanation_ne": "भक्तपुर नेपालको सबैभन्दा सानो जिल्ला हो, जसको क्षेत्रफल करिब ११९ वर्ग किलोमिटर छ।"
+ },
+ {
+  "id": "GEO2-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the most populous district of Nepal?",
+  "options": [
+   "Morang",
+   "Rupandehi",
+   "Kathmandu",
+   "Jhapa"
+  ],
+  "answer": 2,
+  "explanation": "Kathmandu is the most populous district of Nepal, with over 2 million people in the 2021 census.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा धेरै जनसङ्ख्या भएको जिल्ला कुन हो?",
+  "options_ne": [
+   "मोरङ",
+   "रुपन्देही",
+   "काठमाडौँ",
+   "झापा"
+  ],
+  "explanation_ne": "काठमाडौँ २०२१ को जनगणनामा २० लाखभन्दा बढी जनसङ्ख्यासहित नेपालको सबैभन्दा धेरै जनसङ्ख्या भएको जिल्ला हो।"
+ },
+ {
+  "id": "GEO2-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the least populous district of Nepal?",
+  "options": [
+   "Mustang",
+   "Dolpa",
+   "Humla",
+   "Manang"
+  ],
+  "answer": 3,
+  "explanation": "Manang is the least populous district of Nepal, with only about 5,600 people in the 2021 census.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा कम जनसङ्ख्या भएको जिल्ला कुन हो?",
+  "options_ne": [
+   "मुस्ताङ",
+   "डोल्पा",
+   "हुम्ला",
+   "मनाङ"
+  ],
+  "explanation_ne": "मनाङ २०२१ को जनगणनामा करिब ५,६०० मात्र जनसङ्ख्यासहित नेपालको सबैभन्दा कम जनसङ्ख्या भएको जिल्ला हो।"
+ },
+ {
+  "id": "GEO2-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After Kathmandu, which is the second most populous district of Nepal?",
+  "options": [
+   "Sunsari",
+   "Rupandehi",
+   "Morang",
+   "Jhapa"
+  ],
+  "answer": 2,
+  "explanation": "Morang is the second most populous district of Nepal, with about 1.15 million people in the 2021 census.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौँपछि नेपालको दोस्रो धेरै जनसङ्ख्या भएको जिल्ला कुन हो?",
+  "options_ne": [
+   "सुनसरी",
+   "रुपन्देही",
+   "मोरङ",
+   "झापा"
+  ],
+  "explanation_ne": "मोरङ २०२१ को जनगणनामा करिब ११.५ लाख जनसङ्ख्यासहित नेपालको दोस्रो धेरै जनसङ्ख्या भएको जिल्ला हो।"
+ },
+ {
+  "id": "GEO2-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which district of Nepal has the highest population density?",
+  "options": [
+   "Bhaktapur",
+   "Lalitpur",
+   "Kathmandu",
+   "Morang"
+  ],
+  "answer": 2,
+  "explanation": "Kathmandu district has the highest population density in Nepal, more than 5,000 people per sq km.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन जिल्लाको जनघनत्व सबैभन्दा बढी छ?",
+  "options_ne": [
+   "भक्तपुर",
+   "ललितपुर",
+   "काठमाडौँ",
+   "मोरङ"
+  ],
+  "explanation_ne": "काठमाडौँ जिल्लाको जनघनत्व नेपालमा सबैभन्दा बढी छ, प्रतिवर्ग किलोमिटर ५,००० भन्दा बढी मानिस।"
+ },
+ {
+  "id": "GEO2-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which district of Nepal has the lowest population density?",
+  "options": [
+   "Dolpa",
+   "Humla",
+   "Mustang",
+   "Manang"
+  ],
+  "answer": 3,
+  "explanation": "Manang has the lowest population density in Nepal, only about 3 people per sq km.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन जिल्लाको जनघनत्व सबैभन्दा कम छ?",
+  "options_ne": [
+   "डोल्पा",
+   "हुम्ला",
+   "मुस्ताङ",
+   "मनाङ"
+  ],
+  "explanation_ne": "मनाङको जनघनत्व नेपालमा सबैभन्दा कम छ, प्रतिवर्ग किलोमिटर करिब ३ जना मात्र।"
+ },
+ {
+  "id": "GEO2-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many districts of Nepal share a border with China?",
+  "options": [
+   "12",
+   "13",
+   "14",
+   "15"
+  ],
+  "answer": 2,
+  "explanation": "14 districts of Nepal share a border with China, from Taplejung in the east to Darchula in the west.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका कति जिल्लाले चीनसँग सीमा जोड्छन्?",
+  "options_ne": [
+   "१२",
+   "१३",
+   "१४",
+   "१५"
+  ],
+  "explanation_ne": "नेपालका १४ जिल्लाले चीनसँग सीमा जोड्छन्, पूर्वमा ताप्लेजुङदेखि पश्चिममा दार्चुलासम्म।"
+ },
+ {
+  "id": "GEO2-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the easternmost district of Nepal?",
+  "options": [
+   "Taplejung",
+   "Ilam",
+   "Jhapa",
+   "Panchthar"
+  ],
+  "answer": 0,
+  "explanation": "Taplejung is the easternmost district of Nepal, bordering both India (Sikkim) and China.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पूर्वी जिल्ला कुन हो?",
+  "options_ne": [
+   "ताप्लेजुङ",
+   "इलाम",
+   "झापा",
+   "पाँचथर"
+  ],
+  "explanation_ne": "ताप्लेजुङ नेपालको सबैभन्दा पूर्वी जिल्ला हो, जसले भारत (सिक्किम) र चीन दुवैसँग सीमा जोड्छ।"
+ },
+ {
+  "id": "GEO2-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the westernmost district of Nepal?",
+  "options": [
+   "Kanchanpur",
+   "Baitadi",
+   "Darchula",
+   "Dadeldhura"
+  ],
+  "answer": 2,
+  "explanation": "Darchula is the westernmost district of Nepal, where the Mahakali River forms the border with India.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पश्चिमी जिल्ला कुन हो?",
+  "options_ne": [
+   "कञ्चनपुर",
+   "बैतडी",
+   "दार्चुला",
+   "डडेल्धुरा"
+  ],
+  "explanation_ne": "दार्चुला नेपालको सबैभन्दा पश्चिमी जिल्ला हो, जहाँ महाकाली नदीले भारतसँग सीमा बनाउँछ।"
+ },
+ {
+  "id": "GEO2-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the northernmost district of Nepal?",
+  "options": [
+   "Taplejung",
+   "Dolpa",
+   "Humla",
+   "Mustang"
+  ],
+  "answer": 2,
+  "explanation": "Humla is the northernmost district of Nepal; its Hilsa area touches the border with China (Tibet).",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा उत्तरी जिल्ला कुन हो?",
+  "options_ne": [
+   "ताप्लेजुङ",
+   "डोल्पा",
+   "हुम्ला",
+   "मुस्ताङ"
+  ],
+  "explanation_ne": "हुम्ला नेपालको सबैभन्दा उत्तरी जिल्ला हो; यसको हिल्सा क्षेत्रले चीन (तिब्बत) सँग सीमा जोड्छ।"
+ },
+ {
+  "id": "GEO2-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the southernmost district of Nepal?",
+  "options": [
+   "Jhapa",
+   "Parsa",
+   "Kanchanpur",
+   "Bara"
+  ],
+  "answer": 0,
+  "explanation": "Jhapa is the southernmost district of Nepal; Kechana Kalan in Jhapa is the lowest point of the country.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा दक्षिणी जिल्ला कुन हो?",
+  "options_ne": [
+   "झापा",
+   "पर्सा",
+   "कञ्चनपुर",
+   "बारा"
+  ],
+  "explanation_ne": "झापा नेपालको सबैभन्दा दक्षिणी जिल्ला हो; झापाको केचना कलान देशकै सबैभन्दा होचो ठाउँ हो।"
+ },
+ {
+  "id": "GEO2-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how long does the Karnali River flow inside Nepal?",
+  "options": [
+   "307 km",
+   "407 km",
+   "507 km",
+   "607 km"
+  ],
+  "answer": 2,
+  "explanation": "The Karnali River flows about 507 km inside Nepal before entering India, where it is called the Ghaghara.",
+  "source": "General knowledge",
+  "question_ne": "कर्णाली नदी नेपालभित्र करिब कति लामो बग्छ?",
+  "options_ne": [
+   "३०७ किलोमिटर",
+   "४०७ किलोमिटर",
+   "५०७ किलोमिटर",
+   "६०७ किलोमिटर"
+  ],
+  "explanation_ne": "कर्णाली नदी भारत प्रवेश गर्नुअघि नेपालभित्र करिब ५०७ किलोमिटर बग्छ, जहाँ यसलाई घाघरा भनिन्छ।"
+ },
+ {
+  "id": "GEO2-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Saptakoshi River is formed by the confluence of how many rivers?",
+  "options": [
+   "Five",
+   "Six",
+   "Seven",
+   "Nine"
+  ],
+  "answer": 2,
+  "explanation": "Saptakoshi is formed by the confluence of seven rivers: Tamor, Arun, Sunkoshi, Tamakoshi, Likhu, Dudhkoshi and Indrawati.",
+  "source": "General knowledge",
+  "question_ne": "सप्तकोशी नदी कति नदीहरूको सङ्गमबाट बनेको हो?",
+  "options_ne": [
+   "पाँच",
+   "छ",
+   "सात",
+   "नौ"
+  ],
+  "explanation_ne": "सप्तकोशी सात नदीहरूको सङ्गमबाट बनेको हो: तमोर, अरुण, सुनकोशी, तामाकोशी, लिखु, दूधकोशी र इन्द्रावती।"
+ },
+ {
+  "id": "GEO2-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is NOT a tributary of the Koshi River system?",
+  "options": [
+   "Tamor",
+   "Arun",
+   "Dudhkoshi",
+   "Trishuli"
+  ],
+  "answer": 3,
+  "explanation": "Trishuli is a tributary of the Gandaki (Narayani) system, not of the Koshi; Tamor, Arun and Dudhkoshi all join the Saptakoshi.",
+  "source": "General knowledge",
+  "question_ne": "तलकामध्ये कुन कोशी नदी प्रणालीको सहायक नदी होइन?",
+  "options_ne": [
+   "तमोर",
+   "अरुण",
+   "दूधकोशी",
+   "त्रिशूली"
+  ],
+  "explanation_ne": "त्रिशूली गण्डकी (नारायणी) प्रणालीको सहायक नदी हो, कोशीको होइन; तमोर, अरुण र दूधकोशी सबै सप्तकोशीमा मिसिन्छन्।"
+ },
+ {
+  "id": "GEO2-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Tamor River, a tributary of the Koshi, originates in which region?",
+  "options": [
+   "Kanchenjunga region",
+   "Everest region",
+   "Annapurna region",
+   "Langtang region"
+  ],
+  "answer": 0,
+  "explanation": "The Tamor River originates in the Kanchenjunga region of eastern Nepal and joins the Saptakoshi.",
+  "source": "General knowledge",
+  "question_ne": "कोशीको सहायक नदी तमोर कुन क्षेत्रबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कञ्चनजङ्घा क्षेत्र",
+   "सगरमाथा क्षेत्र",
+   "अन्नपूर्ण क्षेत्र",
+   "लाङटाङ क्षेत्र"
+  ],
+  "explanation_ne": "तमोर नदी पूर्वी नेपालको कञ्चनजङ्घा क्षेत्रबाट उत्पत्ति भएर सप्तकोशीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Arun River, a tributary of the Koshi, originates in which place?",
+  "options": [
+   "Gosaikunda",
+   "Annapurna region",
+   "Kanchenjunga region",
+   "Tibet"
+  ],
+  "answer": 3,
+  "explanation": "The Arun River originates in Tibet and enters Nepal through Sankhuwasabha district before joining the Saptakoshi.",
+  "source": "General knowledge",
+  "question_ne": "कोशीको सहायक नदी अरुण कुन ठाउँबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "गोसाइँकुण्ड",
+   "अन्नपूर्ण क्षेत्र",
+   "कञ्चनजङ्घा क्षेत्र",
+   "तिब्बत"
+  ],
+  "explanation_ne": "अरुण नदी तिब्बतबाट उत्पत्ति भएर सङ्खुवासभा हुँदै नेपाल प्रवेश गर्छ र सप्तकोशीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Dudh Koshi River originates in which region of Nepal?",
+  "options": [
+   "Kanchenjunga region",
+   "Langtang region",
+   "Everest (Khumbu) region",
+   "Manaslu region"
+  ],
+  "answer": 2,
+  "explanation": "The Dudh Koshi originates from the glaciers of the Everest (Khumbu) region, including the Gokyo area, and joins the Saptakoshi.",
+  "source": "General knowledge",
+  "question_ne": "दूधकोशी नदी नेपालको कुन क्षेत्रबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कञ्चनजङ्घा क्षेत्र",
+   "लाङटाङ क्षेत्र",
+   "सगरमाथा (खुम्बु) क्षेत्र",
+   "मनास्लु क्षेत्र"
+  ],
+  "explanation_ne": "दूधकोशी सगरमाथा (खुम्बु) क्षेत्रका हिमनदीहरूबाट, गोक्यो क्षेत्रसमेतबाट उत्पत्ति भएर सप्तकोशीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Kali Gandaki River has carved which famous feature?",
+  "options": [
+   "The widest delta in Asia",
+   "The longest waterfall in Nepal",
+   "The largest lake in Nepal",
+   "The deepest gorge in the world"
+  ],
+  "answer": 3,
+  "explanation": "The Kali Gandaki has carved the deepest gorge in the world, between the Dhaulagiri and Annapurna mountains.",
+  "source": "General knowledge",
+  "question_ne": "कालीगण्डकी नदीले कुन प्रसिद्ध भौगोलिक विशेषता बनाएको छ?",
+  "options_ne": [
+   "एसियाकै सबैभन्दा फराकिलो डेल्टा",
+   "नेपालकै सबैभन्दा लामो झरना",
+   "नेपालकै सबैभन्दा ठूलो ताल",
+   "विश्वकै सबैभन्दा गहिरो गल्छी"
+  ],
+  "explanation_ne": "कालीगण्डकीले धौलागिरि र अन्नपूर्ण हिमालबीच विश्वकै सबैभन्दा गहिरो गल्छी बनाएको छ।"
+ },
+ {
+  "id": "GEO2-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kali Gandaki gorge lies between which two mountains?",
+  "options": [
+   "Everest and Lhotse",
+   "Dhaulagiri and Annapurna",
+   "Manaslu and Ganesh Himal",
+   "Kanchenjunga and Makalu"
+  ],
+  "answer": 1,
+  "explanation": "The Kali Gandaki gorge lies between Dhaulagiri (8,167 m) and Annapurna I (8,091 m), making it the deepest gorge in the world.",
+  "source": "General knowledge",
+  "question_ne": "कालीगण्डकी गल्छी कुन दुई हिमालबीच पर्छ?",
+  "options_ne": [
+   "सगरमाथा र ल्होत्से",
+   "धौलागिरि र अन्नपूर्ण",
+   "मनास्लु र गणेश हिमाल",
+   "कञ्चनजङ्घा र मकालु"
+  ],
+  "explanation_ne": "कालीगण्डकी गल्छी धौलागिरि (८,१६७ मि) र अन्नपूर्ण प्रथम (८,०९१ मि) बीच पर्छ, जसले यसलाई विश्वकै सबैभन्दा गहिरो गल्छी बनाउँछ।"
+ },
+ {
+  "id": "GEO2-071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Marsyangdi River originates in which district?",
+  "options": [
+   "Kaski",
+   "Gorkha",
+   "Lamjung",
+   "Manang"
+  ],
+  "answer": 3,
+  "explanation": "The Marsyangdi River originates in Manang district, near the Annapurna range, and joins the Trishuli.",
+  "source": "General knowledge",
+  "question_ne": "मर्स्याङ्दी नदी कुन जिल्लाबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कास्की",
+   "गोरखा",
+   "लमजुङ",
+   "मनाङ"
+  ],
+  "explanation_ne": "मर्स्याङ्दी नदी मनाङ जिल्लाबाट, अन्नपूर्ण हिमशृङ्खला नजिकै उत्पत्ति भएर त्रिशूलीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which river flows through Pokhara city?",
+  "options": [
+   "Rapti",
+   "Bagmati",
+   "Seti Gandaki",
+   "Karnali"
+  ],
+  "answer": 2,
+  "explanation": "The Seti Gandaki River flows through Pokhara city, cutting a deep gorge through the valley.",
+  "source": "General knowledge",
+  "question_ne": "पोखरा सहर भएर कुन नदी बग्छ?",
+  "options_ne": [
+   "राप्ती",
+   "बागमती",
+   "सेती गण्डकी",
+   "कर्णाली"
+  ],
+  "explanation_ne": "सेती गण्डकी नदी पोखरा सहर भएर बग्छ र उपत्यकामा गहिरो गल्छी बनाएको छ।"
+ },
+ {
+  "id": "GEO2-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a tributary of the Bagmati River?",
+  "options": [
+   "Marsyangdi",
+   "Bheri",
+   "Babai",
+   "Bishnumati"
+  ],
+  "answer": 3,
+  "explanation": "The Bishnumati is a tributary of the Bagmati River, joining it in the Kathmandu Valley.",
+  "source": "General knowledge",
+  "question_ne": "तलकामध्ये कुन बागमती नदीको सहायक नदी हो?",
+  "options_ne": [
+   "मर्स्याङ्दी",
+   "भेरी",
+   "बबई",
+   "विष्णुमती"
+  ],
+  "explanation_ne": "विष्णुमती बागमती नदीको सहायक नदी हो, जुन काठमाडौँ उपत्यकामा बागमतीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Bheri River is formed by the confluence of which two rivers?",
+  "options": [
+   "Thuli Bheri and Sani Bheri",
+   "Karnali and Seti",
+   "Rapti and Babai",
+   "Marsyangdi and Trishuli"
+  ],
+  "answer": 0,
+  "explanation": "The Bheri River is formed by the confluence of the Thuli Bheri and the Sani Bheri, and later joins the Karnali.",
+  "source": "General knowledge",
+  "question_ne": "भेरी नदी कुन दुई नदीहरूको सङ्गमबाट बनेको हो?",
+  "options_ne": [
+   "ठूली भेरी र सानी भेरी",
+   "कर्णाली र सेती",
+   "राप्ती र बबई",
+   "मर्स्याङ्दी र त्रिशूली"
+  ],
+  "explanation_ne": "भेरी नदी ठूली भेरी र सानी भेरीको सङ्गमबाट बनेको हो र पछि कर्णालीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Seti River of far-western Nepal joins which major river?",
+  "options": [
+   "Mahakali",
+   "Karnali",
+   "Gandaki",
+   "Koshi"
+  ],
+  "answer": 1,
+  "explanation": "The Seti River of far-western Nepal flows through Doti and joins the Karnali River.",
+  "source": "General knowledge",
+  "question_ne": "सुदूरपश्चिमको सेती नदी कुन ठूलो नदीमा मिसिन्छ?",
+  "options_ne": [
+   "महाकाली",
+   "कर्णाली",
+   "गण्डकी",
+   "कोशी"
+  ],
+  "explanation_ne": "सुदूरपश्चिमको सेती नदी डोटी हुँदै बगेर कर्णाली नदीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Rapti River (West Rapti) originates in which district?",
+  "options": [
+   "Rukum",
+   "Dang",
+   "Banke",
+   "Rolpa"
+  ],
+  "answer": 0,
+  "explanation": "The West Rapti River originates in Rukum district and flows through Dang and Banke before entering India.",
+  "source": "General knowledge",
+  "question_ne": "राप्ती नदी (पश्चिम राप्ती) कुन जिल्लाबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "रुकुम",
+   "दाङ",
+   "बाँके",
+   "रोल्पा"
+  ],
+  "explanation_ne": "पश्चिम राप्ती नदी रुकुम जिल्लाबाट उत्पत्ति भएर दाङ र बाँके हुँदै भारत प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Babai River originates in which valley of Nepal?",
+  "options": [
+   "Dang Valley",
+   "Surkhet Valley",
+   "Kathmandu Valley",
+   "Pokhara Valley"
+  ],
+  "answer": 0,
+  "explanation": "The Babai River originates in the Dang Valley and flows through Bardiya district before entering India.",
+  "source": "General knowledge",
+  "question_ne": "बबई नदी नेपालको कुन उपत्यकाबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "दाङ उपत्यका",
+   "सुर्खेत उपत्यका",
+   "काठमाडौँ उपत्यका",
+   "पोखरा उपत्यका"
+  ],
+  "explanation_ne": "बबई नदी दाङ उपत्यकाबाट उत्पत्ति भएर बर्दिया जिल्ला हुँदै भारत प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Kankai River flows through which districts of eastern Nepal?",
+  "options": [
+   "Jhapa and Ilam",
+   "Morang and Sunsari",
+   "Saptari and Siraha",
+   "Taplejung and Panchthar"
+  ],
+  "answer": 0,
+  "explanation": "The Kankai River flows through Ilam and Jhapa districts in eastern Nepal before entering India.",
+  "source": "General knowledge",
+  "question_ne": "कन्काई नदी पूर्वी नेपालका कुन जिल्लाहरू भएर बग्छ?",
+  "options_ne": [
+   "झापा र इलाम",
+   "मोरङ र सुनसरी",
+   "सप्तरी र सिरहा",
+   "ताप्लेजुङ र पाँचथर"
+  ],
+  "explanation_ne": "कन्काई नदी पूर्वी नेपालको इलाम र झापा जिल्ला भएर बग्दै भारत प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kamala River flows through which districts?",
+  "options": [
+   "Dhanusa and Mahottari",
+   "Sarlahi and Rautahat",
+   "Udayapur and Saptari",
+   "Sindhuli and Siraha"
+  ],
+  "answer": 3,
+  "explanation": "The Kamala River originates in the Chure hills of Sindhuli and flows through Siraha district before entering India.",
+  "source": "General knowledge",
+  "question_ne": "कमला नदी कुन जिल्लाहरू भएर बग्छ?",
+  "options_ne": [
+   "धनुषा र महोत्तरी",
+   "सर्लाही र रौतहट",
+   "उदयपुर र सप्तरी",
+   "सिन्धुली र सिरहा"
+  ],
+  "explanation_ne": "कमला नदी सिन्धुलीको चुरे पहाडबाट उत्पत्ति भएर सिरहा जिल्ला हुँदै भारत प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Tinau River flows through which districts?",
+  "options": [
+   "Gulmi and Arghakhanchi",
+   "Kapilvastu and Dang",
+   "Syangja and Kaski",
+   "Palpa and Rupandehi"
+  ],
+  "answer": 3,
+  "explanation": "The Tinau River originates in the Mahabharat hills of Palpa and flows through Rupandehi district to the Terai.",
+  "source": "General knowledge",
+  "question_ne": "तिनाउ नदी कुन जिल्लाहरू भएर बग्छ?",
+  "options_ne": [
+   "गुल्मी र अर्घाखाँची",
+   "कपिलवस्तु र दाङ",
+   "स्याङ्जा र कास्की",
+   "पाल्पा र रुपन्देही"
+  ],
+  "explanation_ne": "तिनाउ नदी पाल्पाको महाभारत पहाडबाट उत्पत्ति भएर रुपन्देही जिल्ला हुँदै तराई पुग्छ।"
+ },
+ {
+  "id": "GEO2-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "By what name is the Mahakali River known after it enters India?",
+  "options": [
+   "Ghaghara",
+   "Sharda",
+   "Gandak",
+   "Yamuna"
+  ],
+  "answer": 1,
+  "explanation": "After entering India, the Mahakali River is known as the Sharda River.",
+  "source": "General knowledge",
+  "question_ne": "महाकाली नदी भारत प्रवेश गरेपछि कुन नामले चिनिन्छ?",
+  "options_ne": [
+   "घाघरा",
+   "शारदा",
+   "गण्डक",
+   "यमुना"
+  ],
+  "explanation_ne": "महाकाली नदी भारत प्रवेश गरेपछि शारदा नदीका नामले चिनिन्छ।"
+ },
+ {
+  "id": "GEO2-082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Koshi River is known as the 'Sorrow of Bihar' because of what?",
+  "options": [
+   "Its very low water flow",
+   "Its salty water",
+   "Its course through deserts",
+   "Its frequent and destructive floods"
+  ],
+  "answer": 3,
+  "explanation": "The Koshi is called the 'Sorrow of Bihar' because its frequent course changes and destructive floods damage large areas in Bihar, India.",
+  "source": "General knowledge",
+  "question_ne": "कोशी नदीलाई 'बिहारको शोक' किन भनिन्छ?",
+  "options_ne": [
+   "धेरै कम पानी बग्ने भएकाले",
+   "नुनिलो पानी भएकाले",
+   "मरुभूमि भएर बग्ने भएकाले",
+   "बारम्बार आउने विनाशकारी बाढीका कारण"
+  ],
+  "explanation_ne": "कोशी नदीको बारम्बार बाटो परिवर्तन र विनाशकारी बाढीले भारतको बिहारमा ठूलो क्षति पुर्‍याउने भएकाले यसलाई 'बिहारको शोक' भनिन्छ।"
+ },
+ {
+  "id": "GEO2-083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Koshi Barrage is located on the border of which two districts?",
+  "options": [
+   "Saptari and Sunsari",
+   "Morang and Jhapa",
+   "Siraha and Dhanusa",
+   "Sunsari and Morang"
+  ],
+  "answer": 0,
+  "explanation": "The Koshi Barrage is built across the Saptakoshi on the border of Saptari and Sunsari districts.",
+  "source": "General knowledge",
+  "question_ne": "कोशी ब्यारेज कुन दुई जिल्लाको सीमामा अवस्थित छ?",
+  "options_ne": [
+   "सप्तरी र सुनसरी",
+   "मोरङ र झापा",
+   "सिरहा र धनुषा",
+   "सुनसरी र मोरङ"
+  ],
+  "explanation_ne": "कोशी ब्यारेज सप्तकोशीमा सप्तरी र सुनसरी जिल्लाको सीमामा बनाइएको छ।"
+ },
+ {
+  "id": "GEO2-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Indrawati River joins which river?",
+  "options": [
+   "Bagmati",
+   "Tamor",
+   "Trishuli",
+   "Sunkoshi"
+  ],
+  "answer": 3,
+  "explanation": "The Indrawati River joins the Sunkoshi River and is one of the seven rivers that form the Saptakoshi.",
+  "source": "General knowledge",
+  "question_ne": "इन्द्रावती नदी कुन नदीमा मिसिन्छ?",
+  "options_ne": [
+   "बागमती",
+   "तमोर",
+   "त्रिशूली",
+   "सुनकोशी"
+  ],
+  "explanation_ne": "इन्द्रावती नदी सुनकोशी नदीमा मिसिन्छ र सप्तकोशी बनाउने सात नदीमध्ये एक हो।"
+ },
+ {
+  "id": "GEO2-085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is NOT a tributary of the Karnali River?",
+  "options": [
+   "Bheri",
+   "Seti",
+   "Rapti",
+   "Humla Karnali"
+  ],
+  "answer": 2,
+  "explanation": "The Rapti flows into the Ghaghara in India and is not a tributary of the Karnali; Bheri, Seti and Humla Karnali all join the Karnali.",
+  "source": "General knowledge",
+  "question_ne": "तलकामध्ये कुन कर्णाली नदीको सहायक नदी होइन?",
+  "options_ne": [
+   "भेरी",
+   "सेती",
+   "राप्ती",
+   "हुम्ला कर्णाली"
+  ],
+  "explanation_ne": "राप्ती भारतमा घाघरामा मिसिन्छ र कर्णालीको सहायक नदी होइन; भेरी, सेती र हुम्ला कर्णाली सबै कर्णालीमा मिसिन्छन्।"
+ },
+ {
+  "id": "GEO2-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The West Rapti River joins which river after entering India?",
+  "options": [
+   "Koshi",
+   "Gandak",
+   "Ghaghara",
+   "Sharda"
+  ],
+  "answer": 2,
+  "explanation": "After entering India, the West Rapti joins the Ghaghara River in Uttar Pradesh.",
+  "source": "General knowledge",
+  "question_ne": "पश्चिम राप्ती नदी भारत प्रवेश गरेपछि कुन नदीमा मिसिन्छ?",
+  "options_ne": [
+   "कोशी",
+   "गण्डक",
+   "घाघरा",
+   "शारदा"
+  ],
+  "explanation_ne": "पश्चिम राप्ती नदी भारत प्रवेश गरेपछि उत्तर प्रदेशमा घाघरा नदीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Approximately how many rivers and streams are there in Nepal?",
+  "options": [
+   "About 1,000",
+   "About 3,000",
+   "About 6,000",
+   "About 12,000"
+  ],
+  "answer": 2,
+  "explanation": "Nepal has about 6,000 rivers and streams, most of them flowing south from the Himalayas.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा करिब कति नदी तथा खोलाहरू छन्?",
+  "options_ne": [
+   "करिब १,०००",
+   "करिब ३,०००",
+   "करिब ६,०००",
+   "करिब १२,०००"
+  ],
+  "explanation_ne": "नेपालमा करिब ६,००० नदी तथा खोलाहरू छन्, जसमध्ये धेरैजसो हिमालयबाट दक्षिणतर्फ बग्छन्।"
+ },
+ {
+  "id": "GEO2-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which are the three major river systems of Nepal?",
+  "options": [
+   "Koshi, Gandaki and Karnali",
+   "Koshi, Bagmati and Rapti",
+   "Gandaki, Bheri and Seti",
+   "Karnali, Mahakali and Mechi"
+  ],
+  "answer": 0,
+  "explanation": "The three major river systems of Nepal are the Koshi in the east, the Gandaki in the centre and the Karnali in the west.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका तीन प्रमुख नदी प्रणाली कुन हुन्?",
+  "options_ne": [
+   "कोशी, गण्डकी र कर्णाली",
+   "कोशी, बागमती र राप्ती",
+   "गण्डकी, भेरी र सेती",
+   "कर्णाली, महाकाली र मेची"
+  ],
+  "explanation_ne": "नेपालका तीन प्रमुख नदी प्रणाली पूर्वमा कोशी, बीचमा गण्डकी र पश्चिममा कर्णाली हुन्।"
+ },
+ {
+  "id": "GEO2-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Madi River is a tributary of which river?",
+  "options": [
+   "Marsyangdi",
+   "Gandaki (Narayani)",
+   "Trishuli",
+   "Kali Gandaki"
+  ],
+  "answer": 1,
+  "explanation": "The Madi River, flowing through Kaski and Tanahun, is a tributary of the Gandaki (Narayani) River.",
+  "source": "General knowledge",
+  "question_ne": "मादी नदी कुन नदीको सहायक नदी हो?",
+  "options_ne": [
+   "मर्स्याङ्दी",
+   "गण्डकी (नारायणी)",
+   "त्रिशूली",
+   "कालीगण्डकी"
+  ],
+  "explanation_ne": "कास्की र तनहुँ भएर बग्ने मादी नदी गण्डकी (नारायणी) नदीको सहायक नदी हो।"
+ },
+ {
+  "id": "GEO2-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Daraundi River is a tributary of which river?",
+  "options": [
+   "Budhi Gandaki",
+   "Marsyangdi",
+   "Trishuli",
+   "Seti Gandaki"
+  ],
+  "answer": 1,
+  "explanation": "The Daraundi River, flowing through Gorkha district, is a tributary of the Marsyangdi River.",
+  "source": "General knowledge",
+  "question_ne": "दरौँदी नदी कुन नदीको सहायक नदी हो?",
+  "options_ne": [
+   "बूढीगण्डकी",
+   "मर्स्याङ्दी",
+   "त्रिशूली",
+   "सेती गण्डकी"
+  ],
+  "explanation_ne": "गोरखा जिल्ला भएर बग्ने दरौँदी नदी मर्स्याङ्दी नदीको सहायक नदी हो।"
+ },
+ {
+  "id": "GEO2-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Thuli Bheri River originates in which district?",
+  "options": [
+   "Dolpa",
+   "Jumla",
+   "Mugu",
+   "Humla"
+  ],
+  "answer": 0,
+  "explanation": "The Thuli Bheri River originates in Dolpa district and joins the Sani Bheri to form the Bheri River.",
+  "source": "General knowledge",
+  "question_ne": "ठूली भेरी नदी कुन जिल्लाबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "डोल्पा",
+   "जुम्ला",
+   "मुगु",
+   "हुम्ला"
+  ],
+  "explanation_ne": "ठूली भेरी नदी डोल्पा जिल्लाबाट उत्पत्ति भएर सानी भेरीसँग मिसिएर भेरी नदी बन्छ।"
+ },
+ {
+  "id": "GEO2-092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Chameliya River, in far-western Nepal, is a tributary of which river?",
+  "options": [
+   "Seti",
+   "Mahakali",
+   "Karnali",
+   "Bheri"
+  ],
+  "answer": 1,
+  "explanation": "The Chameliya River flows through Darchula and Baitadi districts and joins the Mahakali River.",
+  "source": "General knowledge",
+  "question_ne": "सुदूरपश्चिमको चमेलिया नदी कुन नदीको सहायक नदी हो?",
+  "options_ne": [
+   "सेती",
+   "महाकाली",
+   "कर्णाली",
+   "भेरी"
+  ],
+  "explanation_ne": "चमेलिया नदी दार्चुला र बैतडी जिल्ला भएर बगेर महाकाली नदीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Karnali River originates near which famous place in Tibet?",
+  "options": [
+   "Mount Kailash and Lake Mansarovar",
+   "Lhasa city",
+   "Mount Everest",
+   "Yamdrok Lake"
+  ],
+  "answer": 0,
+  "explanation": "The Karnali River originates near Mount Kailash and Lake Mansarovar in Tibet and enters Nepal through Humla.",
+  "source": "General knowledge",
+  "question_ne": "कर्णाली नदी तिब्बतको कुन प्रसिद्ध ठाउँ नजिकैबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कैलाश पर्वत र मानसरोवर ताल",
+   "ल्हासा सहर",
+   "सगरमाथा",
+   "यम्द्रोक ताल"
+  ],
+  "explanation_ne": "कर्णाली नदी तिब्बतको कैलाश पर्वत र मानसरोवर ताल नजिकैबाट उत्पत्ति भएर हुम्ला हुँदै नेपाल प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Koshi River originates in which place?",
+  "options": [
+   "Kanchenjunga region",
+   "Everest region",
+   "Gosaikunda",
+   "Tibet"
+  ],
+  "answer": 3,
+  "explanation": "The Koshi River system originates in Tibet; its tributaries Arun and Sunkoshi both rise in Tibet before entering Nepal.",
+  "source": "General knowledge",
+  "question_ne": "कोशी नदी कुन ठाउँबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कञ्चनजङ्घा क्षेत्र",
+   "सगरमाथा क्षेत्र",
+   "गोसाइँकुण्ड",
+   "तिब्बत"
+  ],
+  "explanation_ne": "कोशी नदी प्रणाली तिब्बतबाट उत्पत्ति हुन्छ; यसका सहायक नदी अरुण र सुनकोशी दुवै तिब्बतबाट उठेर नेपाल प्रवेश गर्छन्।"
+ },
+ {
+  "id": "GEO2-096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Budhi Gandaki River originates in which region?",
+  "options": [
+   "Annapurna region",
+   "Langtang region",
+   "Kanchenjunga region",
+   "Manaslu region"
+  ],
+  "answer": 3,
+  "explanation": "The Budhi Gandaki River originates in the Manaslu region of Gorkha district and joins the Trishuli.",
+  "source": "General knowledge",
+  "question_ne": "बूढीगण्डकी नदी कुन क्षेत्रबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "अन्नपूर्ण क्षेत्र",
+   "लाङटाङ क्षेत्र",
+   "कञ्चनजङ्घा क्षेत्र",
+   "मनास्लु क्षेत्र"
+  ],
+  "explanation_ne": "बूढीगण्डकी नदी गोरखा जिल्लाको मनास्लु क्षेत्रबाट उत्पत्ति भएर त्रिशूलीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Bhote Koshi River is a tributary of which river?",
+  "options": [
+   "Tamakoshi",
+   "Trishuli",
+   "Sunkoshi",
+   "Bagmati"
+  ],
+  "answer": 2,
+  "explanation": "The Bhote Koshi River, flowing from Tibet through Sindhupalchok, is a tributary of the Sunkoshi River.",
+  "source": "General knowledge",
+  "question_ne": "भोटेकोशी नदी कुन नदीको सहायक नदी हो?",
+  "options_ne": [
+   "तामाकोशी",
+   "त्रिशूली",
+   "सुनकोशी",
+   "बागमती"
+  ],
+  "explanation_ne": "तिब्बतबाट सिन्धुपाल्चोक हुँदै बग्ने भोटेकोशी नदी सुनकोशी नदीको सहायक नदी हो।"
+ },
+ {
+  "id": "GEO2-098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Bheri River joins which major river?",
+  "options": [
+   "Gandaki",
+   "Karnali",
+   "Mahakali",
+   "Rapti"
+  ],
+  "answer": 1,
+  "explanation": "The Bheri River joins the Karnali River in Surkhet district.",
+  "source": "General knowledge",
+  "question_ne": "भेरी नदी कुन ठूलो नदीमा मिसिन्छ?",
+  "options_ne": [
+   "गण्डकी",
+   "कर्णाली",
+   "महाकाली",
+   "राप्ती"
+  ],
+  "explanation_ne": "भेरी नदी सुर्खेत जिल्लामा कर्णाली नदीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Seti River of far-western Nepal originates near which mountain?",
+  "options": [
+   "Api Himal",
+   "Dhaulagiri",
+   "Annapurna",
+   "Kanchenjunga"
+  ],
+  "answer": 0,
+  "explanation": "The Seti River of far-western Nepal originates near Api Himal in Bajhang district and flows south to join the Karnali.",
+  "source": "General knowledge",
+  "question_ne": "सुदूरपश्चिमको सेती नदी कुन हिमाल नजिकैबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "अपी हिमाल",
+   "धौलागिरि",
+   "अन्नपूर्ण",
+   "कञ्चनजङ्घा"
+  ],
+  "explanation_ne": "सुदूरपश्चिमको सेती नदी बझाङ जिल्लाको अपी हिमाल नजिकैबाट उत्पत्ति भएर दक्षिणतर्फ बग्दै कर्णालीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which river flows through the Chitwan Valley?",
+  "options": [
+   "East Rapti",
+   "West Rapti",
+   "Bagmati",
+   "Narayani"
+  ],
+  "answer": 0,
+  "explanation": "The East Rapti River flows through the Chitwan Valley and joins the Narayani River.",
+  "source": "General knowledge",
+  "question_ne": "चितवन उपत्यका भएर कुन नदी बग्छ?",
+  "options_ne": [
+   "पूर्वी राप्ती",
+   "पश्चिम राप्ती",
+   "बागमती",
+   "नारायणी"
+  ],
+  "explanation_ne": "पूर्वी राप्ती नदी चितवन उपत्यका भएर बगेर नारायणी नदीमा मिसिन्छ।"
+ },
+ {
+  "id": "GEO2-101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Lhotse, the fourth-highest mountain in the world?",
+  "options": [
+   "8,188 m",
+   "8,167 m",
+   "8,485 m",
+   "8,516 m"
+  ],
+  "answer": 3,
+  "explanation": "Lhotse is 8,516 m high, making it the fourth-highest mountain in the world and the third-highest in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको चौथो अग्लो हिमाल ल्होत्सेको उचाइ कति छ?",
+  "options_ne": [
+   "८,१८८ मि",
+   "८,१६७ मि",
+   "८,४८५ मि",
+   "८,५१६ मि"
+  ],
+  "explanation_ne": "ल्होत्से ८,५१६ मिटर अग्लो छ, जसले यसलाई विश्वको चौथो र नेपालको तेस्रो अग्लो हिमाल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Makalu, the fifth-highest mountain in the world?",
+  "options": [
+   "8,516 m",
+   "8,485 m",
+   "8,188 m",
+   "8,163 m"
+  ],
+  "answer": 1,
+  "explanation": "Makalu is 8,485 m high, making it the fifth-highest mountain in the world.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको पाँचौँ अग्लो हिमाल मकालुको उचाइ कति छ?",
+  "options_ne": [
+   "८,५१६ मि",
+   "८,४८५ मि",
+   "८,१८८ मि",
+   "८,१६३ मि"
+  ],
+  "explanation_ne": "मकालु ८,४८५ मिटर अग्लो छ, जसले यसलाई विश्वको पाँचौँ अग्लो हिमाल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Cho Oyu, the sixth-highest mountain in the world?",
+  "options": [
+   "8,188 m",
+   "8,167 m",
+   "8,163 m",
+   "8,091 m"
+  ],
+  "answer": 0,
+  "explanation": "Cho Oyu is 8,188 m high, making it the sixth-highest mountain in the world, on the Nepal-China border.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको छैटौँ अग्लो हिमाल चोयुको उचाइ कति छ?",
+  "options_ne": [
+   "८,१८८ मि",
+   "८,१६७ मि",
+   "८,१६३ मि",
+   "८,०९१ मि"
+  ],
+  "explanation_ne": "चोयु ८,१८८ मिटर अग्लो छ, जसले यसलाई विश्वको छैटौँ अग्लो हिमाल बनाउँछ, यो नेपाल-चीन सीमामा पर्छ।"
+ },
+ {
+  "id": "GEO2-104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Dhaulagiri, the seventh-highest mountain in the world?",
+  "options": [
+   "8,091 m",
+   "8,188 m",
+   "8,167 m",
+   "8,163 m"
+  ],
+  "answer": 2,
+  "explanation": "Dhaulagiri is 8,167 m high, making it the seventh-highest mountain in the world.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको सातौँ अग्लो हिमाल धौलागिरिको उचाइ कति छ?",
+  "options_ne": [
+   "८,०९१ मि",
+   "८,१८८ मि",
+   "८,१६७ मि",
+   "८,१६३ मि"
+  ],
+  "explanation_ne": "धौलागिरि ८,१६७ मिटर अग्लो छ, जसले यसलाई विश्वको सातौँ अग्लो हिमाल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Manaslu, the eighth-highest mountain in the world?",
+  "options": [
+   "8,167 m",
+   "8,163 m",
+   "8,091 m",
+   "8,188 m"
+  ],
+  "answer": 1,
+  "explanation": "Manaslu is 8,163 m high, making it the eighth-highest mountain in the world.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको आठौँ अग्लो हिमाल मनास्लुको उचाइ कति छ?",
+  "options_ne": [
+   "८,१६७ मि",
+   "८,१६३ मि",
+   "८,०९१ मि",
+   "८,१८८ मि"
+  ],
+  "explanation_ne": "मनास्लु ८,१६३ मिटर अग्लो छ, जसले यसलाई विश्वको आठौँ अग्लो हिमाल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Annapurna I, the tenth-highest mountain in the world?",
+  "options": [
+   "8,163 m",
+   "8,091 m",
+   "8,167 m",
+   "7,861 m"
+  ],
+  "answer": 1,
+  "explanation": "Annapurna I is 8,091 m high, making it the tenth-highest mountain in the world.",
+  "source": "General knowledge",
+  "question_ne": "विश्वको दशौँ अग्लो हिमाल अन्नपूर्ण प्रथमको उचाइ कति छ?",
+  "options_ne": [
+   "८,१६३ मि",
+   "८,०९१ मि",
+   "८,१६७ मि",
+   "७,८६१ मि"
+  ],
+  "explanation_ne": "अन्नपूर्ण प्रथम ८,०९१ मिटर अग्लो छ, जसले यसलाई विश्वको दशौँ अग्लो हिमाल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the third-highest mountain in Nepal?",
+  "options": [
+   "Makalu",
+   "Lhotse",
+   "Cho Oyu",
+   "Dhaulagiri"
+  ],
+  "answer": 1,
+  "explanation": "After Everest (8,848.86 m) and Kanchenjunga (8,586 m), Lhotse (8,516 m) is the third-highest mountain in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको तेस्रो अग्लो हिमाल कुन हो?",
+  "options_ne": [
+   "मकालु",
+   "ल्होत्से",
+   "चोयु",
+   "धौलागिरि"
+  ],
+  "explanation_ne": "सगरमाथा (८,८४८.८६ मि) र कञ्चनजङ्घा (८,५८६ मि) पछि ल्होत्से (८,५१६ मि) नेपालको तेस्रो अग्लो हिमाल हो।"
+ },
+ {
+  "id": "GEO2-108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following mountains above 8,000 metres is NOT in Nepal?",
+  "options": [
+   "Makalu",
+   "Cho Oyu",
+   "K2",
+   "Manaslu"
+  ],
+  "answer": 2,
+  "explanation": "K2 (8,611 m) is on the Pakistan-China border, not in Nepal; Makalu, Cho Oyu and Manaslu are all in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "तलका ८,००० मिटरभन्दा अग्ला हिमालमध्ये कुन नेपालमा छैन?",
+  "options_ne": [
+   "मकालु",
+   "चोयु",
+   "के टु",
+   "मनास्लु"
+  ],
+  "explanation_ne": "के टु (८,६११ मि) पाकिस्तान-चीन सीमामा छ, नेपालमा होइन; मकालु, चोयु र मनास्लु सबै नेपालमा छन्।"
+ },
+ {
+  "id": "GEO2-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was Kanchenjunga first successfully climbed?",
+  "options": [
+   "1950",
+   "1953",
+   "1955",
+   "1960"
+  ],
+  "answer": 2,
+  "explanation": "Kanchenjunga was first climbed in 1955 by a British expedition led by Charles Evans (Joe Brown and George Band reached the summit).",
+  "source": "General knowledge",
+  "question_ne": "कञ्चनजङ्घा पहिलोपटक सफलतापूर्वक कुन वर्ष आरोहण गरियो?",
+  "options_ne": [
+   "१९५०",
+   "१९५३",
+   "१९५५",
+   "१९६०"
+  ],
+  "explanation_ne": "कञ्चनजङ्घा पहिलोपटक सन् १९५५ मा चार्ल्स इभान्सको नेतृत्वमा बेलायती टोलीले आरोहण गरेको थियो (जो ब्राउन र जर्ज ब्यान्ड शिखरमा पुगेका थिए)।"
+ },
+ {
+  "id": "GEO2-110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In which year was Makalu first successfully climbed?",
+  "options": [
+   "1956",
+   "1960",
+   "1954",
+   "1955"
+  ],
+  "answer": 3,
+  "explanation": "Makalu was first climbed in 1955 by a French expedition (Jean Couzy and Lionel Terray reached the summit).",
+  "source": "General knowledge",
+  "question_ne": "मकालु पहिलोपटक सफलतापूर्वक कुन वर्ष आरोहण गरियो?",
+  "options_ne": [
+   "१९५६",
+   "१९६०",
+   "१९५४",
+   "१९५५"
+  ],
+  "explanation_ne": "मकालु पहिलोपटक सन् १९५५ मा फ्रान्सेली टोलीले आरोहण गरेको थियो (जिन कुजी र लियोनेल टेरे शिखरमा पुगेका थिए)।"
+ },
+ {
+  "id": "GEO2-111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In which year was Cho Oyu first successfully climbed?",
+  "options": [
+   "1953",
+   "1954",
+   "1955",
+   "1956"
+  ],
+  "answer": 1,
+  "explanation": "Cho Oyu was first climbed in 1954 by an Austrian expedition (Herbert Tichy, Joseph Jochler and Pasang Dawa Lama).",
+  "source": "General knowledge",
+  "question_ne": "चोयु पहिलोपटक सफलतापूर्वक कुन वर्ष आरोहण गरियो?",
+  "options_ne": [
+   "१९५३",
+   "१९५४",
+   "१९५५",
+   "१९५६"
+  ],
+  "explanation_ne": "चोयु पहिलोपटक सन् १९५४ मा अस्ट्रियन टोलीले आरोहण गरेको थियो (हर्बर्ट टिची, जोसेफ जोक्लर र पासाङ दावा लामा)।"
+ },
+ {
+  "id": "GEO2-113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In which year was Manaslu first successfully climbed?",
+  "options": [
+   "1955",
+   "1956",
+   "1957",
+   "1960"
+  ],
+  "answer": 1,
+  "explanation": "Manaslu was first climbed in 1956 by a Japanese expedition (Toshio Imanishi and Gyalzen Norbu reached the summit).",
+  "source": "General knowledge",
+  "question_ne": "मनास्लु पहिलोपटक सफलतापूर्वक कुन वर्ष आरोहण गरियो?",
+  "options_ne": [
+   "१९५५",
+   "१९५६",
+   "१९५७",
+   "१९६०"
+  ],
+  "explanation_ne": "मनास्लु पहिलोपटक सन् १९५६ मा जापानी टोलीले आरोहण गरेको थियो (तोसियो इमानिसी र ग्याल्जेन नोर्बु शिखरमा पुगेका थिए)।"
+ },
+ {
+  "id": "GEO2-114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was Dhaulagiri first successfully climbed?",
+  "options": [
+   "1956",
+   "1958",
+   "1960",
+   "1962"
+  ],
+  "answer": 2,
+  "explanation": "Dhaulagiri was first climbed in 1960 by a Swiss-Austrian expedition led by Max Eiselin.",
+  "source": "General knowledge",
+  "question_ne": "धौलागिरि पहिलोपटक सफलतापूर्वक कुन वर्ष आरोहण गरियो?",
+  "options_ne": [
+   "१९५६",
+   "१९५८",
+   "१९६०",
+   "१९६२"
+  ],
+  "explanation_ne": "धौलागिरि पहिलोपटक सन् १९६० मा म्याक्स आइजेलिनको नेतृत्वमा स्विस-अस्ट्रियन टोलीले आरोहण गरेको थियो।"
+ },
+ {
+  "id": "GEO2-115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Machhapuchhre, the Fishtail mountain?",
+  "options": [
+   "6,993 m",
+   "6,812 m",
+   "7,161 m",
+   "6,441 m"
+  ],
+  "answer": 0,
+  "explanation": "Machhapuchhre is 6,993 m high and has never been officially climbed to its summit.",
+  "source": "General knowledge",
+  "question_ne": "माछापुच्छ्रे हिमालको उचाइ कति छ?",
+  "options_ne": [
+   "६,९९३ मि",
+   "६,८१२ मि",
+   "७,१६१ मि",
+   "६,४४१ मि"
+  ],
+  "explanation_ne": "माछापुच्छ्रे ६,९९३ मिटर अग्लो छ र यसको शिखर आधिकारिक रूपमा कहिल्यै आरोहण गरिएको छैन।"
+ },
+ {
+  "id": "GEO2-116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Ama Dablam, one of the most beautiful mountains of the Everest region?",
+  "options": [
+   "6,476 m",
+   "6,812 m",
+   "6,993 m",
+   "7,161 m"
+  ],
+  "answer": 1,
+  "explanation": "Ama Dablam is 6,812 m high and is famous for its steep, pyramid-like shape in the Khumbu region.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रको सबैभन्दा सुन्दर हिमालमध्ये एक अमा दाब्लामको उचाइ कति छ?",
+  "options_ne": [
+   "६,४७६ मि",
+   "६,८१२ मि",
+   "६,९९३ मि",
+   "७,१६१ मि"
+  ],
+  "explanation_ne": "अमा दाब्लाम ६,८१२ मिटर अग्लो छ र खुम्बु क्षेत्रमा यसको ठाडो, पिरामिडजस्तो आकारका लागि प्रसिद्ध छ।"
+ },
+ {
+  "id": "GEO2-117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the name 'Ama Dablam' mean?",
+  "options": [
+   "White mountain",
+   "South peak",
+   "Goddess of food",
+   "Mother's necklace"
+  ],
+  "answer": 3,
+  "explanation": "'Ama Dablam' means 'Mother's necklace' — the long hanging glacier is seen as a necklace worn by a mother.",
+  "source": "General knowledge",
+  "question_ne": "'अमा दाब्लाम' नामको अर्थ के हो?",
+  "options_ne": [
+   "सेतो हिमाल",
+   "दक्षिणी शिखर",
+   "अन्नकी देवी",
+   "आमाको हार"
+  ],
+  "explanation_ne": "'अमा दाब्लाम' को अर्थ 'आमाको हार' हो — लामो झुन्डिएको हिमनदीलाई आमाले लगाएको हार मानिन्छ।"
+ },
+ {
+  "id": "GEO2-118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the height of Pumori, the mountain near Everest Base Camp?",
+  "options": [
+   "6,812 m",
+   "7,861 m",
+   "6,993 m",
+   "7,161 m"
+  ],
+  "answer": 3,
+  "explanation": "Pumori is 7,161 m high and stands just west of Everest, near the Everest Base Camp trail.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा आधार शिविर नजिकैको पुमोरी हिमालको उचाइ कति छ?",
+  "options_ne": [
+   "६,८१२ मि",
+   "७,८६१ मि",
+   "६,९९३ मि",
+   "७,१६१ मि"
+  ],
+  "explanation_ne": "पुमोरी ७,१६१ मिटर अग्लो छ र सगरमाथाको पश्चिमतिर, सगरमाथा आधार शिविर पदमार्ग नजिकै पर्छ।"
+ },
+ {
+  "id": "GEO2-119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the height of Nuptse, the mountain next to Everest and Lhotse?",
+  "options": [
+   "7,227 m",
+   "7,129 m",
+   "7,161 m",
+   "7,861 m"
+  ],
+  "answer": 3,
+  "explanation": "Nuptse is 7,861 m high and forms a massive wall just southwest of Everest and Lhotse.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा र ल्होत्से नजिकैको नुप्त्से हिमालको उचाइ कति छ?",
+  "options_ne": [
+   "७,२२७ मि",
+   "७,१२९ मि",
+   "७,१६१ मि",
+   "७,८६१ मि"
+  ],
+  "explanation_ne": "नुप्त्से ७,८६१ मिटर अग्लो छ र सगरमाथा र ल्होत्सेको दक्षिणपश्चिममा ठूलो पर्खालजस्तै उभिएको छ।"
+ },
+ {
+  "id": "GEO2-120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Langtang Lirung, the highest peak of the Langtang range?",
+  "options": [
+   "7,422 m",
+   "7,227 m",
+   "7,134 m",
+   "7,132 m"
+  ],
+  "answer": 1,
+  "explanation": "Langtang Lirung is 7,227 m high, the highest peak of the Langtang Himal range north of Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "लाङटाङ हिमशृङ्खलाको सबैभन्दा अग्लो शिखर लाङटाङ लिरुङको उचाइ कति छ?",
+  "options_ne": [
+   "७,४२२ मि",
+   "७,२२७ मि",
+   "७,१३४ मि",
+   "७,१३२ मि"
+  ],
+  "explanation_ne": "लाङटाङ लिरुङ ७,२२७ मिटर अग्लो छ, काठमाडौँको उत्तरमा रहेको लाङटाङ हिमालको सबैभन्दा अग्लो शिखर हो।"
+ },
+ {
+  "id": "GEO2-121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the height of Yangra, the highest peak of the Ganesh Himal range?",
+  "options": [
+   "7,227 m",
+   "7,134 m",
+   "7,132 m",
+   "7,422 m"
+  ],
+  "answer": 3,
+  "explanation": "Yangra (Ganesh I) is 7,422 m high, the highest peak of the Ganesh Himal range between Langtang and Manaslu.",
+  "source": "General knowledge",
+  "question_ne": "गणेश हिमालको सबैभन्दा अग्लो शिखर याङ्ग्राको उचाइ कति छ?",
+  "options_ne": [
+   "७,२२७ मि",
+   "७,१३४ मि",
+   "७,१३२ मि",
+   "७,४२२ मि"
+  ],
+  "explanation_ne": "याङ्ग्रा (गणेश प्रथम) ७,४२२ मिटर अग्लो छ, लाङटाङ र मनास्लुबीचको गणेश हिमालको सबैभन्दा अग्लो शिखर हो।"
+ },
+ {
+  "id": "GEO2-122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the highest trekking peak of Nepal?",
+  "options": [
+   "Island Peak",
+   "Mera Peak",
+   "Lobuche Peak",
+   "Yala Peak"
+  ],
+  "answer": 1,
+  "explanation": "Mera Peak (6,476 m) is the highest trekking peak of Nepal, in the Makalu Barun region.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा अग्लो ट्रेकिङ शिखर कुन हो?",
+  "options_ne": [
+   "आइल्याण्ड पिक",
+   "मेरा पिक",
+   "लोबुचे पिक",
+   "याला पिक"
+  ],
+  "explanation_ne": "मेरा पिक (६,४७६ मि) नेपालको सबैभन्दा अग्लो ट्रेकिङ शिखर हो, यो मकालु बरुण क्षेत्रमा पर्छ।"
+ },
+ {
+  "id": "GEO2-123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Island Peak (Imja Tse), a popular trekking peak of the Everest region?",
+  "options": [
+   "6,189 m",
+   "6,476 m",
+   "6,119 m",
+   "5,520 m"
+  ],
+  "answer": 0,
+  "explanation": "Island Peak, also called Imja Tse, is 6,189 m high and is one of the most popular trekking peaks in the Everest region.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रको लोकप्रिय ट्रेकिङ शिखर आइल्याण्ड पिक (इम्जा त्से) को उचाइ कति छ?",
+  "options_ne": [
+   "६,१८९ मि",
+   "६,४७६ मि",
+   "६,११९ मि",
+   "५,५२० मि"
+  ],
+  "explanation_ne": "आइल्याण्ड पिक, जसलाई इम्जा त्से पनि भनिन्छ, ६,१८९ मिटर अग्लो छ र सगरमाथा क्षेत्रको सबैभन्दा लोकप्रिय ट्रेकिङ शिखरमध्ये एक हो।"
+ },
+ {
+  "id": "GEO2-124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the name 'Dhaulagiri' mean?",
+  "options": [
+   "White mountain",
+   "Mountain of the spirit",
+   "Five treasures of snow",
+   "Turquoise goddess"
+  ],
+  "answer": 0,
+  "explanation": "'Dhaulagiri' comes from Sanskrit words meaning 'white mountain', referring to its snow-covered massif.",
+  "source": "General knowledge",
+  "question_ne": "'धौलागिरि' नामको अर्थ के हो?",
+  "options_ne": [
+   "सेतो हिमाल",
+   "आत्माको हिमाल",
+   "हिउँका पाँच खजाना",
+   "फिरोजा देवी"
+  ],
+  "explanation_ne": "'धौलागिरि' संस्कृत शब्दबाट आएको हो जसको अर्थ 'सेतो हिमाल' हो, जसले यसको हिउँले ढाकिएको हिमशृङ्खलालाई जनाउँछ।"
+ },
+ {
+  "id": "GEO2-125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the name 'Annapurna' mean?",
+  "options": [
+   "Goddess of food (harvest)",
+   "White mountain",
+   "Mountain of the spirit",
+   "South peak"
+  ],
+  "answer": 0,
+  "explanation": "'Annapurna' means 'Goddess of food' or 'Goddess of the harvest' in Sanskrit, named after the Hindu goddess of nourishment.",
+  "source": "General knowledge",
+  "question_ne": "'अन्नपूर्ण' नामको अर्थ के हो?",
+  "options_ne": [
+   "अन्नकी देवी (फसल)",
+   "सेतो हिमाल",
+   "आत्माको हिमाल",
+   "दक्षिणी शिखर"
+  ],
+  "explanation_ne": "'अन्नपूर्ण' को अर्थ संस्कृतमा 'अन्नकी देवी' वा 'फसलकी देवी' हो, यो पोषणकी हिन्दू देवीको नामबाट राखिएको हो।"
+ },
+ {
+  "id": "GEO2-126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does the name 'Manaslu' mean?",
+  "options": [
+   "Mountain of the spirit",
+   "White mountain",
+   "Five treasures of snow",
+   "Mother's necklace"
+  ],
+  "answer": 0,
+  "explanation": "'Manaslu' comes from the Sanskrit word 'manasa', meaning 'mountain of the spirit' or 'intellect'.",
+  "source": "General knowledge",
+  "question_ne": "'मनास्लु' नामको अर्थ के हो?",
+  "options_ne": [
+   "आत्माको हिमाल",
+   "सेतो हिमाल",
+   "हिउँका पाँच खजाना",
+   "आमाको हार"
+  ],
+  "explanation_ne": "'मनास्लु' संस्कृत शब्द 'मानस' बाट आएको हो, जसको अर्थ 'आत्माको हिमाल' वा 'बुद्धिको हिमाल' हो।"
+ },
+ {
+  "id": "GEO2-127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the name 'Kanchenjunga' mean?",
+  "options": [
+   "White mountain",
+   "Turquoise goddess",
+   "South peak",
+   "Five treasures of snow"
+  ],
+  "answer": 3,
+  "explanation": "'Kanchenjunga' means 'five treasures of snow', referring to its five peaks, which are believed to hold treasures of the gods.",
+  "source": "General knowledge",
+  "question_ne": "'कञ्चनजङ्घा' नामको अर्थ के हो?",
+  "options_ne": [
+   "सेतो हिमाल",
+   "फिरोजा देवी",
+   "दक्षिणी शिखर",
+   "हिउँका पाँच खजाना"
+  ],
+  "explanation_ne": "'कञ्चनजङ्घा' को अर्थ 'हिउँका पाँच खजाना' हो, जसले यसका पाँच शिखरहरूलाई जनाउँछ, जसमा देवताहरूका खजाना रहेको विश्वास गरिन्छ।"
+ },
+ {
+  "id": "GEO2-128",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does the name 'Cho Oyu' mean?",
+  "options": [
+   "White mountain",
+   "Mother's necklace",
+   "Five treasures of snow",
+   "Turquoise goddess"
+  ],
+  "answer": 3,
+  "explanation": "'Cho Oyu' means 'Turquoise Goddess' in Tibetan, named for the turquoise colour of the mountain in certain light.",
+  "source": "General knowledge",
+  "question_ne": "'चोयु' नामको अर्थ के हो?",
+  "options_ne": [
+   "सेतो हिमाल",
+   "आमाको हार",
+   "हिउँका पाँच खजाना",
+   "फिरोजा देवी"
+  ],
+  "explanation_ne": "'चोयु' को अर्थ तिब्बती भाषामा 'फिरोजा देवी' हो, जुन कुनै प्रकाशमा हिमालको फिरोजा रङबाट राखिएको हो।"
+ },
+ {
+  "id": "GEO2-129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the name 'Lhotse' mean?",
+  "options": [
+   "White mountain",
+   "Turquoise goddess",
+   "Mother's necklace",
+   "South peak"
+  ],
+  "answer": 3,
+  "explanation": "'Lhotse' means 'South Peak' in Tibetan, as it lies to the south of Mount Everest.",
+  "source": "General knowledge",
+  "question_ne": "'ल्होत्से' नामको अर्थ के हो?",
+  "options_ne": [
+   "सेतो हिमाल",
+   "फिरोजा देवी",
+   "आमाको हार",
+   "दक्षिणी शिखर"
+  ],
+  "explanation_ne": "'ल्होत्से' को अर्थ तिब्बती भाषामा 'दक्षिणी शिखर' हो, किनकि यो सगरमाथाको दक्षिणमा पर्छ।"
+ },
+ {
+  "id": "GEO2-130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the Tibetan name of Mount Everest?",
+  "options": [
+   "Chomolungma",
+   "Sagarmatha",
+   "Lhotse",
+   "Kanchenjunga"
+  ],
+  "answer": 0,
+  "explanation": "In Tibetan, Mount Everest is called Chomolungma, meaning 'Goddess Mother of the World'.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथाको तिब्बती नाम के हो?",
+  "options_ne": [
+   "चोमोलुङ्मा",
+   "सगरमाथा",
+   "ल्होत्से",
+   "कञ्चनजङ्घा"
+  ],
+  "explanation_ne": "तिब्बती भाषामा सगरमाथालाई चोमोलुङ्मा भनिन्छ, जसको अर्थ 'संसारकी देवी आमा' हो।"
+ },
+ {
+  "id": "GEO2-131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the Nepali name 'Sagarmatha' mean?",
+  "options": [
+   "Forehead of the sky",
+   "White mountain",
+   "Goddess of food",
+   "South peak"
+  ],
+  "answer": 0,
+  "explanation": "'Sagarmatha' means 'forehead of the sky' (sagar = sky, matha = forehead), the Nepali name for Mount Everest.",
+  "source": "General knowledge",
+  "question_ne": "'सगरमाथा' नामको अर्थ के हो?",
+  "options_ne": [
+   "आकाशको निधार",
+   "सेतो हिमाल",
+   "अन्नकी देवी",
+   "दक्षिणी शिखर"
+  ],
+  "explanation_ne": "'सगरमाथा' को अर्थ 'आकाशको निधार' हो (सगर = आकाश, माथा = निधार), यो सगरमाथाको नेपाली नाम हो।"
+ },
+ {
+  "id": "GEO2-132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Gaurishankar, the sacred mountain on the Nepal-China border?",
+  "options": [
+   "7,134 m",
+   "7,227 m",
+   "7,422 m",
+   "7,132 m"
+  ],
+  "answer": 0,
+  "explanation": "Gaurishankar is 7,134 m high and stands on the Nepal-China border in Dolakha district; it is sacred to both Hindus and Buddhists.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल-चीन सीमामा रहेको पवित्र हिमाल गौरीशङ्करको उचाइ कति छ?",
+  "options_ne": [
+   "७,१३४ मि",
+   "७,२२७ मि",
+   "७,४२२ मि",
+   "७,१३२ मि"
+  ],
+  "explanation_ne": "गौरीशङ्कर ७,१३४ मिटर अग्लो छ र दोलखा जिल्लामा नेपाल-चीन सीमामा पर्छ; यो हिन्दू र बौद्ध दुवैका लागि पवित्र छ।"
+ },
+ {
+  "id": "GEO2-133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the highest mountain of far-western Nepal?",
+  "options": [
+   "Api Himal",
+   "Saipal",
+   "Dhaulagiri",
+   "Gaurishankar"
+  ],
+  "answer": 0,
+  "explanation": "Api Himal (7,132 m) in Darchula district is the highest mountain of far-western Nepal.",
+  "source": "General knowledge",
+  "question_ne": "सुदूरपश्चिम नेपालको सबैभन्दा अग्लो हिमाल कुन हो?",
+  "options_ne": [
+   "अपी हिमाल",
+   "सैपाल",
+   "धौलागिरि",
+   "गौरीशङ्कर"
+  ],
+  "explanation_ne": "दार्चुला जिल्लाको अपी हिमाल (७,१३२ मि) सुदूरपश्चिम नेपालको सबैभन्दा अग्लो हिमाल हो।"
+ },
+ {
+  "id": "GEO2-134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what altitude is the Everest Base Camp (South) located?",
+  "options": [
+   "5,644 m",
+   "5,416 m",
+   "5,550 m",
+   "5,364 m"
+  ],
+  "answer": 3,
+  "explanation": "The Everest Base Camp (South) in Nepal is located at an altitude of 5,364 m.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा आधार शिविर (दक्षिण) कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "५,६४४ मि",
+   "५,४१६ मि",
+   "५,५५० मि",
+   "५,३६४ मि"
+  ],
+  "explanation_ne": "नेपालको सगरमाथा आधार शिविर (दक्षिण) ५,३६४ मिटर उचाइमा अवस्थित छ।"
+ },
+ {
+  "id": "GEO2-135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Kala Patthar, the famous viewpoint above Everest Base Camp?",
+  "options": [
+   "5,364 m",
+   "5,644 m",
+   "5,416 m",
+   "5,420 m"
+  ],
+  "answer": 1,
+  "explanation": "Kala Patthar is 5,644 m high and is the most famous viewpoint for seeing Mount Everest up close.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा आधार शिविरमाथिको प्रसिद्ध दृश्यस्थल कालापत्थरको उचाइ कति छ?",
+  "options_ne": [
+   "५,३६४ मि",
+   "५,६४४ मि",
+   "५,४१६ मि",
+   "५,४२० मि"
+  ],
+  "explanation_ne": "कालापत्थर ५,६४४ मिटर अग्लो छ र सगरमाथालाई नजिकबाट हेर्ने सबैभन्दा प्रसिद्ध दृश्यस्थल हो।"
+ },
+ {
+  "id": "GEO2-136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Thorong La, the famous pass of the Annapurna region?",
+  "options": [
+   "5,106 m",
+   "5,416 m",
+   "5,420 m",
+   "5,360 m"
+  ],
+  "answer": 1,
+  "explanation": "Thorong La is 5,416 m high and is the highest point of the Annapurna Circuit trek.",
+  "source": "General knowledge",
+  "question_ne": "अन्नपूर्ण क्षेत्रको प्रसिद्ध भञ्ज्याङ थोरोङ लाको उचाइ कति छ?",
+  "options_ne": [
+   "५,१०६ मि",
+   "५,४१६ मि",
+   "५,४२० मि",
+   "५,३६० मि"
+  ],
+  "explanation_ne": "थोरोङ ला ५,४१६ मिटर अग्लो छ र अन्नपूर्ण चक्रीय पदयात्राको सबैभन्दा अग्लो बिन्दु हो।"
+ },
+ {
+  "id": "GEO2-137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Thorong La pass connects which two districts?",
+  "options": [
+   "Kaski and Myagdi",
+   "Solukhumbu and Sankhuwasabha",
+   "Gorkha and Manang",
+   "Manang and Mustang"
+  ],
+  "answer": 3,
+  "explanation": "Thorong La connects Manang district with Mustang district on the Annapurna Circuit trek.",
+  "source": "General knowledge",
+  "question_ne": "थोरोङ ला भञ्ज्याङले कुन दुई जिल्लालाई जोड्छ?",
+  "options_ne": [
+   "कास्की र म्याग्दी",
+   "सोलुखुम्बु र सङ्खुवासभा",
+   "गोरखा र मनाङ",
+   "मनाङ र मुस्ताङ"
+  ],
+  "explanation_ne": "थोरोङ लाले अन्नपूर्ण चक्रीय पदयात्रामा मनाङ जिल्लालाई मुस्ताङ जिल्लासँग जोड्छ।"
+ },
+ {
+  "id": "GEO2-138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Larkya La, the highest pass of the Manaslu Circuit trek?",
+  "options": [
+   "5,420 m",
+   "5,360 m",
+   "5,416 m",
+   "5,106 m"
+  ],
+  "answer": 3,
+  "explanation": "Larkya La (Larke Pass) is 5,106 m high and is the highest point of the Manaslu Circuit trek.",
+  "source": "General knowledge",
+  "question_ne": "मनास्लु चक्रीय पदयात्राको सबैभन्दा अग्लो भञ्ज्याङ लार्क्या लाको उचाइ कति छ?",
+  "options_ne": [
+   "५,४२० मि",
+   "५,३६० मि",
+   "५,४१६ मि",
+   "५,१०६ मि"
+  ],
+  "explanation_ne": "लार्क्या ला (लार्के पास) ५,१०६ मिटर अग्लो छ र मनास्लु चक्रीय पदयात्राको सबैभन्दा अग्लो बिन्दु हो।"
+ },
+ {
+  "id": "GEO2-139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Cho La, one of the three high passes of the Everest region?",
+  "options": [
+   "5,360 m",
+   "5,416 m",
+   "5,420 m",
+   "5,535 m"
+  ],
+  "answer": 2,
+  "explanation": "Cho La is 5,420 m high and connects the Gokyo valley with the Everest Base Camp trail.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रका तीन अग्ला भञ्ज्याङमध्ये एक चो लाको उचाइ कति छ?",
+  "options_ne": [
+   "५,३६० मि",
+   "५,४१६ मि",
+   "५,४२० मि",
+   "५,५३५ मि"
+  ],
+  "explanation_ne": "चो ला ५,४२० मिटर अग्लो छ र गोक्यो उपत्यकालाई सगरमाथा आधार शिविर पदमार्गसँग जोड्छ।"
+ },
+ {
+  "id": "GEO2-140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the height of Renjo La, one of the three high passes of the Everest region?",
+  "options": [
+   "5,416 m",
+   "5,420 m",
+   "5,535 m",
+   "5,360 m"
+  ],
+  "answer": 3,
+  "explanation": "Renjo La is 5,360 m high and connects the Gokyo valley with Thame village in the Everest region.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रका तीन अग्ला भञ्ज्याङमध्ये एक रेन्जो लाको उचाइ कति छ?",
+  "options_ne": [
+   "५,४१६ मि",
+   "५,४२० मि",
+   "५,५३५ मि",
+   "५,३६० मि"
+  ],
+  "explanation_ne": "रेन्जो ला ५,३६० मिटर अग्लो छ र सगरमाथा क्षेत्रमा गोक्यो उपत्यकालाई थामे गाउँसँग जोड्छ।"
+ },
+ {
+  "id": "GEO2-141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the highest among the three high passes of the Everest region (Kongma La, Cho La and Renjo La)?",
+  "options": [
+   "Cho La",
+   "Renjo La",
+   "Kongma La",
+   "Thorong La"
+  ],
+  "answer": 2,
+  "explanation": "Kongma La, at 5,535 m, is the highest of the three high passes of the Everest region.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रका तीन अग्ला भञ्ज्याङ (कोङ्मा ला, चो ला र रेन्जो ला) मध्ये सबैभन्दा अग्लो कुन हो?",
+  "options_ne": [
+   "चो ला",
+   "रेन्जो ला",
+   "कोङ्मा ला",
+   "थोरोङ ला"
+  ],
+  "explanation_ne": "कोङ्मा ला ५,५३५ मिटर उचाइमा सगरमाथा क्षेत्रका तीन अग्ला भञ्ज्याङमध्ये सबैभन्दा अग्लो हो।"
+ },
+ {
+  "id": "GEO2-142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the height of Nangpa La, the historic trade pass between Solukhumbu and Tibet?",
+  "options": [
+   "5,806 m",
+   "5,416 m",
+   "5,535 m",
+   "5,107 m"
+  ],
+  "answer": 0,
+  "explanation": "Nangpa La is 5,806 m high and is a historic trade route between Solukhumbu district and Tibet.",
+  "source": "General knowledge",
+  "question_ne": "सोलुखुम्बु र तिब्बतबीचको ऐतिहासिक व्यापारिक भञ्ज्याङ नाङ्पा लाको उचाइ कति छ?",
+  "options_ne": [
+   "५,८०६ मि",
+   "५,४१६ मि",
+   "५,५३५ मि",
+   "५,१०७ मि"
+  ],
+  "explanation_ne": "नाङ्पा ला ५,८०६ मिटर अग्लो छ र सोलुखुम्बु जिल्ला र तिब्बतबीचको ऐतिहासिक व्यापारिक मार्ग हो।"
+ },
+ {
+  "id": "GEO2-143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Mesokanto La, also known as Tilicho Pass, is at what height?",
+  "options": [
+   "5,099 m",
+   "5,416 m",
+   "5,106 m",
+   "5,360 m"
+  ],
+  "answer": 0,
+  "explanation": "Mesokanto La (Tilicho Pass) is 5,099 m high and connects the Tilicho Lake area with the Jomsom side of Mustang.",
+  "source": "General knowledge",
+  "question_ne": "तिलिचो पास भनेर पनि चिनिने मेसोकान्तो ला कति उचाइमा छ?",
+  "options_ne": [
+   "५,०९९ मि",
+   "५,४१६ मि",
+   "५,१०६ मि",
+   "५,३६० मि"
+  ],
+  "explanation_ne": "मेसोकान्तो ला (तिलिचो पास) ५,०९९ मिटर अग्लो छ र तिलिचो ताल क्षेत्रलाई मुस्ताङको जोमसोमतर्फ जोड्छ।"
+ },
+ {
+  "id": "GEO2-144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Kora La, the motorable pass connecting Upper Mustang with Tibet, is at what height?",
+  "options": [
+   "4,660 m",
+   "5,416 m",
+   "5,106 m",
+   "4,919 m"
+  ],
+  "answer": 0,
+  "explanation": "Kora La is 4,660 m high and is a motorable pass connecting Upper Mustang with Tibet (China).",
+  "source": "General knowledge",
+  "question_ne": "माथिल्लो मुस्ताङलाई तिब्बतसँग जोड्ने मोटर चल्ने भञ्ज्याङ कोरा ला कति उचाइमा छ?",
+  "options_ne": [
+   "४,६६० मि",
+   "५,४१६ मि",
+   "५,१०६ मि",
+   "४,९१९ मि"
+  ],
+  "explanation_ne": "कोरा ला ४,६६० मिटर अग्लो छ र माथिल्लो मुस्ताङलाई तिब्बत (चीन) सँग जोड्ने मोटर चल्ने भञ्ज्याङ हो।"
+ },
+ {
+  "id": "GEO2-145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Tipta La, the pass between Taplejung and Tibet, is at what height?",
+  "options": [
+   "5,107 m",
+   "5,416 m",
+   "5,806 m",
+   "5,360 m"
+  ],
+  "answer": 0,
+  "explanation": "Tipta La is 5,107 m high and connects Taplejung district with Tibet.",
+  "source": "General knowledge",
+  "question_ne": "ताप्लेजुङ र तिब्बतबीचको भञ्ज्याङ टिप्ताला कति उचाइमा छ?",
+  "options_ne": [
+   "५,१०७ मि",
+   "५,४१६ मि",
+   "५,८०६ मि",
+   "५,३६० मि"
+  ],
+  "explanation_ne": "टिप्ताला ५,१०७ मिटर अग्लो छ र ताप्लेजुङ जिल्लालाई तिब्बतसँग जोड्छ।"
+ },
+ {
+  "id": "GEO2-146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In Nepali mountain names, what does the word 'La' mean?",
+  "options": [
+   "Lake",
+   "Peak",
+   "Glacier",
+   "Pass"
+  ],
+  "answer": 3,
+  "explanation": "In Tibetan and Sherpa usage, 'La' means a mountain pass, as in Thorong La and Cho La.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली हिमाली नामहरूमा 'ला' शब्दको अर्थ के हो?",
+  "options_ne": [
+   "ताल",
+   "शिखर",
+   "हिमनदी",
+   "भञ्ज्याङ"
+  ],
+  "explanation_ne": "तिब्बती र शेर्पा प्रयोगमा 'ला' को अर्थ हिमाली भञ्ज्याङ हो, जस्तै थोरोङ ला र चो ला।"
+ },
+ {
+  "id": "GEO2-147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Thorong La is the highest point of which famous trekking route?",
+  "options": [
+   "Everest Base Camp trek",
+   "Manaslu Circuit",
+   "Langtang trek",
+   "Annapurna Circuit"
+  ],
+  "answer": 3,
+  "explanation": "Thorong La (5,416 m) is the highest point of the Annapurna Circuit trek.",
+  "source": "General knowledge",
+  "question_ne": "थोरोङ ला कुन प्रसिद्ध पदयात्रा मार्गको सबैभन्दा अग्लो बिन्दु हो?",
+  "options_ne": [
+   "सगरमाथा आधार शिविर पदयात्रा",
+   "मनास्लु चक्रीय पदयात्रा",
+   "लाङटाङ पदयात्रा",
+   "अन्नपूर्ण चक्रीय पदयात्रा"
+  ],
+  "explanation_ne": "थोरोङ ला (५,४१६ मि) अन्नपूर्ण चक्रीय पदयात्राको सबैभन्दा अग्लो बिन्दु हो।"
+ },
+ {
+  "id": "GEO2-148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Larke Pass is another name for which pass?",
+  "options": [
+   "Thorong La",
+   "Cho La",
+   "Nangpa La",
+   "Larkya La"
+  ],
+  "answer": 3,
+  "explanation": "Larke Pass is another name for Larkya La (5,106 m), the highest pass of the Manaslu Circuit trek.",
+  "source": "General knowledge",
+  "question_ne": "लार्के पास कुन भञ्ज्याङको अर्को नाम हो?",
+  "options_ne": [
+   "थोरोङ ला",
+   "चो ला",
+   "नाङ्पा ला",
+   "लार्क्या ला"
+  ],
+  "explanation_ne": "लार्के पास लार्क्या ला (५,१०६ मि) को अर्को नाम हो, जुन मनास्लु चक्रीय पदयात्राको सबैभन्दा अग्लो भञ्ज्याङ हो।"
+ },
+ {
+  "id": "GEO2-149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Kongma La, Cho La and Renjo La are the three high passes of which region?",
+  "options": [
+   "Everest (Khumbu) region",
+   "Annapurna region",
+   "Manaslu region",
+   "Langtang region"
+  ],
+  "answer": 0,
+  "explanation": "Kongma La, Cho La and Renjo La are the three high passes of the Everest (Khumbu) region, crossed on the Three Passes trek.",
+  "source": "General knowledge",
+  "question_ne": "कोङ्मा ला, चो ला र रेन्जो ला कुन क्षेत्रका तीन अग्ला भञ्ज्याङ हुन्?",
+  "options_ne": [
+   "सगरमाथा (खुम्बु) क्षेत्र",
+   "अन्नपूर्ण क्षेत्र",
+   "मनास्लु क्षेत्र",
+   "लाङटाङ क्षेत्र"
+  ],
+  "explanation_ne": "कोङ्मा ला, चो ला र रेन्जो ला सगरमाथा (खुम्बु) क्षेत्रका तीन अग्ला भञ्ज्याङ हुन्, जुन तीन भञ्ज्याङ पदयात्रामा पार गरिन्छ।"
+ },
+ {
+  "id": "GEO2-150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Passes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Lamjura La, on the old Jiri to Lukla trail to Everest, is at what height?",
+  "options": [
+   "3,530 m",
+   "4,660 m",
+   "5,106 m",
+   "5,416 m"
+  ],
+  "answer": 0,
+  "explanation": "Lamjura La is 3,530 m high and is the highest point on the classic Jiri to Lukla trail to the Everest region.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथातर्फको पुरानो जिरी-लुक्ला पदमार्गमा पर्ने लम्जुरा ला कति उचाइमा छ?",
+  "options_ne": [
+   "३,५३० मि",
+   "४,६६० मि",
+   "५,१०६ मि",
+   "५,४१६ मि"
+  ],
+  "explanation_ne": "लम्जुरा ला ३,५३० मिटर अग्लो छ र सगरमाथा क्षेत्रतर्फको क्लासिक जिरी-लुक्ला पदमार्गको सबैभन्दा अग्लो बिन्दु हो।"
+ },
+ {
+  "id": "GEO2-151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Approximately how large is Rara Lake, the largest lake of Nepal?",
+  "options": [
+   "5.2 sq km",
+   "8.6 sq km",
+   "10.8 sq km",
+   "13.5 sq km"
+  ],
+  "answer": 2,
+  "explanation": "Rara Lake covers about 10.8 sq km, making it the largest lake of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा ठूलो ताल रारा तालको क्षेत्रफल करिब कति छ?",
+  "options_ne": [
+   "५.२ वर्ग किलोमिटर",
+   "८.६ वर्ग किलोमिटर",
+   "१०.८ वर्ग किलोमिटर",
+   "१३.५ वर्ग किलोमिटर"
+  ],
+  "explanation_ne": "रारा ताल करिब १०.८ वर्ग किलोमिटर क्षेत्रफलमा फैलिएको छ, जसले यसलाई नेपालको सबैभन्दा ठूलो ताल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the deepest lake of Nepal?",
+  "options": [
+   "Phewa Lake",
+   "Rara Lake",
+   "Phoksundo Lake",
+   "Begnas Lake"
+  ],
+  "answer": 1,
+  "explanation": "Rara Lake, about 167 m deep, is the deepest lake of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा गहिरो ताल कुन हो?",
+  "options_ne": [
+   "फेवा ताल",
+   "रारा ताल",
+   "फोक्सुण्डो ताल",
+   "बेगनास ताल"
+  ],
+  "explanation_ne": "रारा ताल करिब १६७ मिटर गहिरो छ, जसले यसलाई नेपालको सबैभन्दा गहिरो ताल बनाउँछ।"
+ },
+ {
+  "id": "GEO2-153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what altitude is Rara Lake located?",
+  "options": [
+   "2,990 m",
+   "3,612 m",
+   "4,380 m",
+   "4,919 m"
+  ],
+  "answer": 0,
+  "explanation": "Rara Lake is located at an altitude of 2,990 m in Mugu district.",
+  "source": "General knowledge",
+  "question_ne": "रारा ताल कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "२,९९० मि",
+   "३,६१२ मि",
+   "४,३८० मि",
+   "४,९१९ मि"
+  ],
+  "explanation_ne": "रारा ताल मुगु जिल्लामा २,९९० मिटर उचाइमा अवस्थित छ।"
+ },
+ {
+  "id": "GEO2-154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how large is Phewa Lake in Pokhara?",
+  "options": [
+   "2.43 sq km",
+   "4.43 sq km",
+   "6.43 sq km",
+   "10.8 sq km"
+  ],
+  "answer": 1,
+  "explanation": "Phewa Lake covers about 4.43 sq km in the Pokhara valley of Kaski district.",
+  "source": "General knowledge",
+  "question_ne": "पोखराको फेवा तालको क्षेत्रफल करिब कति छ?",
+  "options_ne": [
+   "२.४३ वर्ग किलोमिटर",
+   "४.४३ वर्ग किलोमिटर",
+   "६.४३ वर्ग किलोमिटर",
+   "१०.८ वर्ग किलोमिटर"
+  ],
+  "explanation_ne": "फेवा ताल कास्की जिल्लाको पोखरा उपत्यकामा करिब ४.४३ वर्ग किलोमिटर क्षेत्रफलमा फैलिएको छ।"
+ },
+ {
+  "id": "GEO2-155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After Phewa, which is the second-largest lake of the Pokhara valley?",
+  "options": [
+   "Rupa Lake",
+   "Begnas Lake",
+   "Gosaikunda",
+   "Tilicho Lake"
+  ],
+  "answer": 1,
+  "explanation": "Begnas Lake, about 3.28 sq km, is the second-largest lake of the Pokhara valley after Phewa.",
+  "source": "General knowledge",
+  "question_ne": "फेवापछि पोखरा उपत्यकाको दोस्रो ठूलो ताल कुन हो?",
+  "options_ne": [
+   "रूपा ताल",
+   "बेगनास ताल",
+   "गोसाइँकुण्ड",
+   "तिलिचो ताल"
+  ],
+  "explanation_ne": "बेगनास ताल करिब ३.२८ वर्ग किलोमिटर क्षेत्रफलसहित फेवापछि पोखरा उपत्यकाको दोस्रो ठूलो ताल हो।"
+ },
+ {
+  "id": "GEO2-156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what altitude is Tilicho Lake, one of the highest lakes in the world, located?",
+  "options": [
+   "4,380 m",
+   "4,919 m",
+   "3,612 m",
+   "2,990 m"
+  ],
+  "answer": 1,
+  "explanation": "Tilicho Lake in Manang district is located at an altitude of 4,919 m, making it one of the highest lakes in the world.",
+  "source": "General knowledge",
+  "question_ne": "विश्वकै अग्ला तालहरूमध्ये एक तिलिचो ताल कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "४,३८० मि",
+   "४,९१९ मि",
+   "३,६१२ मि",
+   "२,९९० मि"
+  ],
+  "explanation_ne": "मनाङ जिल्लाको तिलिचो ताल ४,९१९ मिटर उचाइमा अवस्थित छ, जसले यसलाई विश्वकै अग्ला तालहरूमध्ये एक बनाउँछ।"
+ },
+ {
+  "id": "GEO2-157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what altitude is the sacred Gosaikunda Lake located?",
+  "options": [
+   "2,990 m",
+   "3,612 m",
+   "4,380 m",
+   "4,919 m"
+  ],
+  "answer": 2,
+  "explanation": "Gosaikunda Lake in Rasuwa district is located at an altitude of 4,380 m and is sacred to Hindus.",
+  "source": "General knowledge",
+  "question_ne": "पवित्र गोसाइँकुण्ड ताल कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "२,९९० मि",
+   "३,६१२ मि",
+   "४,३८० मि",
+   "४,९१९ मि"
+  ],
+  "explanation_ne": "रसुवा जिल्लाको गोसाइँकुण्ड ताल ४,३८० मिटर उचाइमा अवस्थित छ र हिन्दूहरूका लागि पवित्र छ।"
+ },
+ {
+  "id": "GEO2-158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to tradition, how many lakes are there in the Gosaikunda area?",
+  "options": [
+   "54",
+   "72",
+   "108",
+   "144"
+  ],
+  "answer": 2,
+  "explanation": "According to tradition, there are 108 lakes in the Gosaikunda area of Rasuwa district.",
+  "source": "General knowledge",
+  "question_ne": "परम्पराअनुसार गोसाइँकुण्ड क्षेत्रमा कति ताल छन्?",
+  "options_ne": [
+   "५४",
+   "७२",
+   "१०८",
+   "१४४"
+  ],
+  "explanation_ne": "परम्पराअनुसार रसुवा जिल्लाको गोसाइँकुण्ड क्षेत्रमा १०८ ताल छन्।"
+ },
+ {
+  "id": "GEO2-159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "At what altitude is Shey Phoksundo Lake located?",
+  "options": [
+   "4,380 m",
+   "4,919 m",
+   "2,990 m",
+   "3,612 m"
+  ],
+  "answer": 3,
+  "explanation": "Shey Phoksundo Lake in Dolpa district is located at an altitude of 3,612 m.",
+  "source": "General knowledge",
+  "question_ne": "शे-फोक्सुण्डो ताल कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "४,३८० मि",
+   "४,९१९ मि",
+   "२,९९० मि",
+   "३,६१२ मि"
+  ],
+  "explanation_ne": "डोल्पा जिल्लाको शे-फोक्सुण्डो ताल ३,६१२ मिटर उचाइमा अवस्थित छ।"
+ },
+ {
+  "id": "GEO2-160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How deep is Shey Phoksundo Lake?",
+  "options": [
+   "145 m",
+   "167 m",
+   "120 m",
+   "95 m"
+  ],
+  "answer": 0,
+  "explanation": "Shey Phoksundo Lake is about 145 m deep, making it one of the deepest lakes of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "शे-फोक्सुण्डो ताल कति गहिरो छ?",
+  "options_ne": [
+   "१४५ मि",
+   "१६७ मि",
+   "१२० मि",
+   "९५ मि"
+  ],
+  "explanation_ne": "शे-फोक्सुण्डो ताल करिब १४५ मिटर गहिरो छ, जसले यसलाई नेपालका गहिरा तालहरूमध्ये एक बनाउँछ।"
+ },
+ {
+  "id": "GEO2-161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Ghodaghodi Lake, a Ramsar site of Nepal, is located in which district?",
+  "options": [
+   "Kailali",
+   "Kanchanpur",
+   "Bardiya",
+   "Banke"
+  ],
+  "answer": 0,
+  "explanation": "Ghodaghodi Lake is located in Kailali district of Sudurpashchim Province and is a Ramsar-listed wetland.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको रामसार क्षेत्र घोडाघोडी ताल कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "कैलाली",
+   "कञ्चनपुर",
+   "बर्दिया",
+   "बाँके"
+  ],
+  "explanation_ne": "घोडाघोडी ताल सुदूरपश्चिम प्रदेशको कैलाली जिल्लामा पर्छ र रामसार सूचीमा सूचीकृत सिमसार क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-162",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bishazari Tal (Beeshazar Lake), a Ramsar site, is located in which district?",
+  "options": [
+   "Nawalparasi East",
+   "Makwanpur",
+   "Parsa",
+   "Chitwan"
+  ],
+  "answer": 3,
+  "explanation": "Bishazari Tal is located in Chitwan district, near Chitwan National Park, and is a Ramsar-listed wetland.",
+  "source": "General knowledge",
+  "question_ne": "रामसार क्षेत्र बिसहजारी ताल कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "नवलपरासी पूर्व",
+   "मकवानपुर",
+   "पर्सा",
+   "चितवन"
+  ],
+  "explanation_ne": "बिसहजारी ताल चितवन जिल्लामा, चितवन राष्ट्रिय निकुञ्ज नजिकै पर्छ र रामसार सूचीमा सूचीकृत सिमसार क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-163",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Mai Pokhari, a Ramsar site of Nepal, is located in which district?",
+  "options": [
+   "Jhapa",
+   "Panchthar",
+   "Taplejung",
+   "Ilam"
+  ],
+  "answer": 3,
+  "explanation": "Mai Pokhari is located in Ilam district of eastern Nepal and is a Ramsar-listed wetland.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको रामसार क्षेत्र माईपोखरी कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "झापा",
+   "पाँचथर",
+   "ताप्लेजुङ",
+   "इलाम"
+  ],
+  "explanation_ne": "माईपोखरी पूर्वी नेपालको इलाम जिल्लामा पर्छ र रामसार सूचीमा सूचीकृत सिमसार क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-164",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Jagdishpur Reservoir, a Ramsar site of Nepal, is located in which district?",
+  "options": [
+   "Kapilvastu",
+   "Rupandehi",
+   "Dang",
+   "Banke"
+  ],
+  "answer": 0,
+  "explanation": "Jagdishpur Reservoir is located in Kapilvastu district of Lumbini Province and is a Ramsar-listed wetland.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको रामसार क्षेत्र जगदीशपुर जलाशय कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "कपिलवस्तु",
+   "रुपन्देही",
+   "दाङ",
+   "बाँके"
+  ],
+  "explanation_ne": "जगदीशपुर जलाशय लुम्बिनी प्रदेशको कपिलवस्तु जिल्लामा पर्छ र रामसार सूचीमा सूचीकृत सिमसार क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which was the first Ramsar site of Nepal, listed in 1987?",
+  "options": [
+   "Koshi Tappu",
+   "Rara Lake",
+   "Gosaikunda",
+   "Phoksundo Lake"
+  ],
+  "answer": 0,
+  "explanation": "Koshi Tappu Wildlife Reserve was listed as Nepal's first Ramsar site in 1987.",
+  "source": "General knowledge",
+  "question_ne": "सन् १९८७ मा सूचीकृत नेपालको पहिलो रामसार क्षेत्र कुन हो?",
+  "options_ne": [
+   "कोशी टप्पु",
+   "रारा ताल",
+   "गोसाइँकुण्ड",
+   "फोक्सुण्डो ताल"
+  ],
+  "explanation_ne": "कोशी टप्पु वन्यजन्तु आरक्ष सन् १९८७ मा नेपालको पहिलो रामसार क्षेत्रका रूपमा सूचीकृत भएको थियो।"
+ },
+ {
+  "id": "GEO2-166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance",
+   "nmc-mbbs",
+   "provincial-psc"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many Ramsar sites (wetlands of international importance) does Nepal have?",
+  "options": [
+   "8",
+   "9",
+   "10",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "Nepal has 10 Ramsar sites, including Koshi Tappu, Rara, Phoksundo, Gosaikunda, Gokyo lakes and the Pokhara valley lakes.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा कति रामसार क्षेत्र (अन्तर्राष्ट्रिय महत्त्वका सिमसार) छन्?",
+  "options_ne": [
+   "८",
+   "९",
+   "१०",
+   "१२"
+  ],
+  "explanation_ne": "नेपालमा १० रामसार क्षेत्र छन्, जसमा कोशी टप्पु, रारा, फोक्सुण्डो, गोसाइँकुण्ड, गोक्यो ताल र पोखरा उपत्यकाका ताल पर्छन्।"
+ },
+ {
+  "id": "GEO2-167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the largest glacial lake of Nepal?",
+  "options": [
+   "Tsho Rolpa",
+   "Imja Tsho",
+   "Tilicho Lake",
+   "Gokyo Lake"
+  ],
+  "answer": 0,
+  "explanation": "Tsho Rolpa, in Dolakha district at 4,580 m, is the largest glacial lake of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा ठूलो हिमताल कुन हो?",
+  "options_ne": [
+   "चो रोल्पा",
+   "इम्जा छो",
+   "तिलिचो ताल",
+   "गोक्यो ताल"
+  ],
+  "explanation_ne": "दोलखा जिल्लामा ४,५८० मिटर उचाइमा रहेको चो रोल्पा नेपालको सबैभन्दा ठूलो हिमताल हो।"
+ },
+ {
+  "id": "GEO2-168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Imja Tsho, a fast-growing glacial lake, is located in which district?",
+  "options": [
+   "Solukhumbu",
+   "Dolakha",
+   "Sankhuwasabha",
+   "Manang"
+  ],
+  "answer": 0,
+  "explanation": "Imja Tsho is a glacial lake in Solukhumbu district, near Island Peak in the Everest region.",
+  "source": "General knowledge",
+  "question_ne": "छिटो बढिरहेको हिमताल इम्जा छो कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "सोलुखुम्बु",
+   "दोलखा",
+   "सङ्खुवासभा",
+   "मनाङ"
+  ],
+  "explanation_ne": "इम्जा छो सोलुखुम्बु जिल्लामा, सगरमाथा क्षेत्रको आइल्याण्ड पिक नजिकै रहेको हिमताल हो।"
+ },
+ {
+  "id": "GEO2-169",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many main lakes are there in the Gokyo lake system of the Everest region?",
+  "options": [
+   "Four",
+   "Five",
+   "Six",
+   "Eight"
+  ],
+  "answer": 2,
+  "explanation": "The Gokyo lake system in Solukhumbu has six main lakes, and the whole system is a Ramsar site.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा क्षेत्रको गोक्यो ताल प्रणालीमा कति मुख्य ताल छन्?",
+  "options_ne": [
+   "चार",
+   "पाँच",
+   "छ",
+   "आठ"
+  ],
+  "explanation_ne": "सोलुखुम्बुको गोक्यो ताल प्रणालीमा छ मुख्य ताल छन् र सम्पूर्ण प्रणाली रामसार क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-170",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Panch Pokhari, a group of five sacred lakes, is located in which district?",
+  "options": [
+   "Sindhupalchok",
+   "Rasuwa",
+   "Dolakha",
+   "Kavrepalanchok"
+  ],
+  "answer": 0,
+  "explanation": "Panch Pokhari, five sacred lakes at about 4,100 m, is located in Sindhupalchok district.",
+  "source": "General knowledge",
+  "question_ne": "पाँच पवित्र तालहरूको समूह पाँचपोखरी कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "सिन्धुपाल्चोक",
+   "रसुवा",
+   "दोलखा",
+   "काभ्रेपलाञ्चोक"
+  ],
+  "explanation_ne": "करिब ४,१०० मिटर उचाइमा रहेका पाँच पवित्र तालहरूको समूह पाँचपोखरी सिन्धुपाल्चोक जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal is generally divided into how many climatic zones?",
+  "options": [
+   "Three",
+   "Four",
+   "Five",
+   "Seven"
+  ],
+  "answer": 2,
+  "explanation": "Nepal has five climatic zones: tropical, subtropical, temperate, subalpine and alpine.",
+  "source": "General knowledge",
+  "question_ne": "नेपाललाई सामान्यतया कति जलवायु क्षेत्रमा विभाजन गरिन्छ?",
+  "options_ne": [
+   "तीन",
+   "चार",
+   "पाँच",
+   "सात"
+  ],
+  "explanation_ne": "नेपालमा पाँच जलवायु क्षेत्र छन्: उष्ण, उपोष्ण, समशीतोष्ण, उप-हिमाली र हिमाली।"
+ },
+ {
+  "id": "GEO2-172",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which months does the summer monsoon bring most of Nepal's rainfall?",
+  "options": [
+   "March to May",
+   "June to September",
+   "October to December",
+   "December to February"
+  ],
+  "answer": 1,
+  "explanation": "The summer monsoon brings most of Nepal's rainfall from June to September.",
+  "source": "General knowledge",
+  "question_ne": "ग्रीष्मकालीन मनसुनले नेपालको धेरैजसो वर्षा कुन महिनामा ल्याउँछ?",
+  "options_ne": [
+   "मार्चदेखि मे",
+   "जुनदेखि सेप्टेम्बर",
+   "अक्टोबरदेखि डिसेम्बर",
+   "डिसेम्बरदेखि फेब्रुअरी"
+  ],
+  "explanation_ne": "ग्रीष्मकालीन मनसुनले जुनदेखि सेप्टेम्बरसम्म नेपालको धेरैजसो वर्षा ल्याउँछ।"
+ },
+ {
+  "id": "GEO2-173",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Approximately what share of Nepal's annual rainfall comes during the monsoon season?",
+  "options": [
+   "About 40%",
+   "About 60%",
+   "About 80%",
+   "About 95%"
+  ],
+  "answer": 2,
+  "explanation": "About 80% of Nepal's annual rainfall comes during the monsoon season (June to September).",
+  "source": "General knowledge",
+  "question_ne": "नेपालको वार्षिक वर्षाको करिब कति प्रतिशत मनसुन मौसममा पर्छ?",
+  "options_ne": [
+   "करिब ४०%",
+   "करिब ६०%",
+   "करिब ८०%",
+   "करिब ९५%"
+  ],
+  "explanation_ne": "नेपालको वार्षिक वर्षाको करिब ८०% मनसुन मौसम (जुनदेखि सेप्टेम्बर) मा पर्छ।"
+ },
+ {
+  "id": "GEO2-174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the average annual rainfall of Nepal?",
+  "options": [
+   "About 800 mm",
+   "About 1,200 mm",
+   "About 1,600 mm",
+   "About 2,400 mm"
+  ],
+  "answer": 2,
+  "explanation": "Nepal receives an average annual rainfall of about 1,600 mm, though it varies greatly from place to place.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको औसत वार्षिक वर्षा कति छ?",
+  "options_ne": [
+   "करिब ८०० मिमि",
+   "करिब १,२०० मिमि",
+   "करिब १,६०० मिमि",
+   "करिब २,४०० मिमि"
+  ],
+  "explanation_ne": "नेपालमा औसत वार्षिक वर्षा करिब १,६०० मिमि हुन्छ, यद्यपि ठाउँअनुसार यो धेरै फरक पर्छ।"
+ },
+ {
+  "id": "GEO2-175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which place in Nepal is known as one of the wettest places in the country?",
+  "options": [
+   "Jomsom",
+   "Nepalgunj",
+   "Biratnagar",
+   "Lumle"
+  ],
+  "answer": 3,
+  "explanation": "Lumle, near Pokhara in Kaski district, is one of the wettest places in Nepal, receiving more than 5,000 mm of rainfall a year.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा बढी वर्षा हुने ठाउँहरूमध्ये एक कुन हो?",
+  "options_ne": [
+   "जोमसोम",
+   "नेपालगन्ज",
+   "विराटनगर",
+   "लुम्ले"
+  ],
+  "explanation_ne": "कास्की जिल्लाको पोखरा नजिकैको लुम्ले नेपालको सबैभन्दा बढी वर्षा हुने ठाउँहरूमध्ये एक हो, जहाँ वार्षिक ५,००० मिमिभन्दा बढी वर्षा हुन्छ।"
+ },
+ {
+  "id": "GEO2-176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which region of Nepal is the driest, lying in the rain shadow of the Himalayas?",
+  "options": [
+   "Terai",
+   "Kathmandu Valley",
+   "Pokhara Valley",
+   "Upper Mustang"
+  ],
+  "answer": 3,
+  "explanation": "Upper Mustang lies in the rain shadow of the Annapurna and Dhaulagiri ranges and is the driest region of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "हिमालयको वर्षा छायाँमा पर्ने नेपालको सबैभन्दा सुख्खा क्षेत्र कुन हो?",
+  "options_ne": [
+   "तराई",
+   "काठमाडौँ उपत्यका",
+   "पोखरा उपत्यका",
+   "माथिल्लो मुस्ताङ"
+  ],
+  "explanation_ne": "माथिल्लो मुस्ताङ अन्नपूर्ण र धौलागिरि हिमशृङ्खलाको वर्षा छायाँमा पर्छ र नेपालको सबैभन्दा सुख्खा क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-177",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What type of climate does the Terai region of Nepal have?",
+  "options": [
+   "Tropical",
+   "Alpine",
+   "Temperate",
+   "Subalpine"
+  ],
+  "answer": 0,
+  "explanation": "The Terai region has a tropical climate, with hot summers and mild winters.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको तराई क्षेत्रको जलवायु कस्तो छ?",
+  "options_ne": [
+   "उष्ण",
+   "हिमाली",
+   "समशीतोष्ण",
+   "उप-हिमाली"
+  ],
+  "explanation_ne": "तराई क्षेत्रमा उष्ण जलवायु छ, जहाँ गर्मीमा धेरै तातो र जाडोमा हल्का चिसो हुन्छ।"
+ },
+ {
+  "id": "GEO2-178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "At approximately what altitude is the Kathmandu Valley located?",
+  "options": [
+   "About 800 m",
+   "About 1,100 m",
+   "About 1,400 m",
+   "About 1,800 m"
+  ],
+  "answer": 2,
+  "explanation": "The Kathmandu Valley is located at an altitude of about 1,400 m above sea level.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौँ उपत्यका करिब कति उचाइमा अवस्थित छ?",
+  "options_ne": [
+   "करिब ८०० मि",
+   "करिब १,१०० मि",
+   "करिब १,४०० मि",
+   "करिब १,८०० मि"
+  ],
+  "explanation_ne": "काठमाडौँ उपत्यका समुद्री सतहबाट करिब १,४०० मिटर उचाइमा अवस्थित छ।"
+ },
+ {
+  "id": "GEO2-179",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The lowest point of Nepal, Kechana Kalan in Jhapa, is at about what height above sea level?",
+  "options": [
+   "About 60 m",
+   "About 160 m",
+   "About 260 m",
+   "About 360 m"
+  ],
+  "answer": 0,
+  "explanation": "Kechana Kalan in Jhapa district, at about 60 m above sea level, is the lowest point of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा होचो ठाउँ झापाको केचना कलान समुद्री सतहबाट करिब कति उचाइमा छ?",
+  "options_ne": [
+   "करिब ६० मि",
+   "करिब १६० मि",
+   "करिब २६० मि",
+   "करिब ३६० मि"
+  ],
+  "explanation_ne": "झापा जिल्लाको केचना कलान समुद्री सतहबाट करिब ६० मिटर उचाइमा छ र नेपालको सबैभन्दा होचो ठाउँ हो।"
+ },
+ {
+  "id": "GEO2-180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal lies between which latitudes?",
+  "options": [
+   "26°22' N to 30°27' N",
+   "24°22' N to 28°27' N",
+   "28°22' N to 32°27' N",
+   "26°22' S to 30°27' S"
+  ],
+  "answer": 0,
+  "explanation": "Nepal lies between 26°22' N and 30°27' N latitude.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल कुन अक्षांशहरूबीच पर्छ?",
+  "options_ne": [
+   "२६°२२' उ. देखि ३०°२७' उ.",
+   "२४°२२' उ. देखि २८°२७' उ.",
+   "२८°२२' उ. देखि ३२°२७' उ.",
+   "२६°२२' द. देखि ३०°२७' द."
+  ],
+  "explanation_ne": "नेपाल २६°२२' उत्तरदेखि ३०°२७' उत्तर अक्षांशबीच पर्छ।"
+ },
+ {
+  "id": "GEO2-181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal lies between which longitudes?",
+  "options": [
+   "78°04' E to 86°12' E",
+   "80°04' E to 88°12' E",
+   "82°04' E to 90°12' E",
+   "80°04' W to 88°12' W"
+  ],
+  "answer": 1,
+  "explanation": "Nepal lies between 80°04' E and 88°12' E longitude.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल कुन देशान्तरहरूबीच पर्छ?",
+  "options_ne": [
+   "७८°०४' पू. देखि ८६°१२' पू.",
+   "८०°०४' पू. देखि ८८°१२' पू.",
+   "८२°०४' पू. देखि ९०°१२' पू.",
+   "८०°०४' प. देखि ८८°१२' प."
+  ],
+  "explanation_ne": "नेपाल ८०°०४' पूर्वदेखि ८८°१२' पूर्व देशान्तरबीच पर्छ।"
+ },
+ {
+  "id": "GEO2-182",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the approximate east-west length of Nepal?",
+  "options": [
+   "About 685 km",
+   "About 885 km",
+   "About 1,085 km",
+   "About 1,285 km"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is about 885 km long from east to west.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पूर्व-पश्चिम लम्बाइ करिब कति छ?",
+  "options_ne": [
+   "करिब ६८५ किमि",
+   "करिब ८८५ किमि",
+   "करिब १,०८५ किमि",
+   "करिब १,२८५ किमि"
+  ],
+  "explanation_ne": "नेपाल पूर्वदेखि पश्चिमसम्म करिब ८८५ किलोमिटर लामो छ।"
+ },
+ {
+  "id": "GEO2-183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the approximate north-south width of Nepal?",
+  "options": [
+   "45 to 141 km",
+   "145 to 241 km",
+   "245 to 341 km",
+   "345 to 441 km"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is about 145 to 241 km wide from north to south, varying from place to place.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको उत्तर-दक्षिण चौडाइ करिब कति छ?",
+  "options_ne": [
+   "४५ देखि १४१ किमि",
+   "१४५ देखि २४१ किमि",
+   "२४५ देखि ३४१ किमि",
+   "३४५ देखि ४४१ किमि"
+  ],
+  "explanation_ne": "नेपाल उत्तरदेखि दक्षिणसम्म ठाउँअनुसार करिब १४५ देखि २४१ किलोमिटर चौडा छ।"
+ },
+ {
+  "id": "GEO2-184",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the standard time zone of Nepal?",
+  "options": [
+   "UTC +6:00",
+   "UTC +5:00",
+   "UTC +5:30",
+   "UTC +5:45"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's standard time is UTC +5:45, one of the few time zones in the world with a 45-minute offset.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको मानक समय क्षेत्र कुन हो?",
+  "options_ne": [
+   "युटिसी +६:००",
+   "युटिसी +५:००",
+   "युटिसी +५:३०",
+   "युटिसी +५:४५"
+  ],
+  "explanation_ne": "नेपालको मानक समय युटिसी +५:४५ हो, जुन विश्वका ४५ मिनेट अफसेट भएका थोरै समय क्षेत्रमध्ये एक हो।"
+ },
+ {
+  "id": "GEO2-185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The monsoon winds that bring rain to Nepal come mainly from which direction?",
+  "options": [
+   "From the Bay of Bengal",
+   "From the Arabian Sea",
+   "From Central Asia",
+   "From the Pacific Ocean"
+  ],
+  "answer": 0,
+  "explanation": "The summer monsoon winds come from the Bay of Bengal, carrying moisture northwest into Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा वर्षा ल्याउने मनसुनी हावा मुख्यतया कुन दिशाबाट आउँछ?",
+  "options_ne": [
+   "बङ्गालको खाडीबाट",
+   "अरब सागरबाट",
+   "मध्य एसियाबाट",
+   "प्रशान्त महासागरबाट"
+  ],
+  "explanation_ne": "ग्रीष्मकालीन मनसुनी हावा बङ्गालको खाडीबाट आउँछ र आर्द्रता बोकेर उत्तरपश्चिमतर्फ नेपाल प्रवेश गर्छ।"
+ },
+ {
+  "id": "GEO2-186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Why is the Mustang region so dry compared to Pokhara, which lies just to its south?",
+  "options": [
+   "It lies in the rain shadow of the Himalayas",
+   "It is at a lower altitude",
+   "It is near a desert in India",
+   "It has no rivers"
+  ],
+  "answer": 0,
+  "explanation": "Mustang lies in the rain shadow of the Annapurna and Dhaulagiri ranges, so the monsoon clouds cannot reach it, while Pokhara receives heavy rain.",
+  "source": "General knowledge",
+  "question_ne": "पोखराको ठीक दक्षिणमा रहेको मुस्ताङ क्षेत्र पोखराको तुलनामा किन यति सुख्खा छ?",
+  "options_ne": [
+   "यो हिमालयको वर्षा छायाँमा पर्छ",
+   "यो कम उचाइमा छ",
+   "यो भारतको मरुभूमि नजिकै छ",
+   "यहाँ कुनै नदी छैन"
+  ],
+  "explanation_ne": "मुस्ताङ अन्नपूर्ण र धौलागिरि हिमशृङ्खलाको वर्षा छायाँमा पर्छ, त्यसैले मनसुनी बादल त्यहाँ पुग्न सक्दैन, जबकि पोखरामा भारी वर्षा हुन्छ।"
+ },
+ {
+  "id": "GEO2-187",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which city of Nepal is known as one of the hottest places in the country?",
+  "options": [
+   "Pokhara",
+   "Dhankuta",
+   "Jomsom",
+   "Nepalgunj"
+  ],
+  "answer": 3,
+  "explanation": "Nepalgunj, in the western Terai, is one of the hottest places in Nepal, with summer temperatures often crossing 40°C.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन सहर देशकै सबैभन्दा तातो ठाउँहरूमध्ये एक भनेर चिनिन्छ?",
+  "options_ne": [
+   "पोखरा",
+   "धनकुटा",
+   "जोमसोम",
+   "नेपालगन्ज"
+  ],
+  "explanation_ne": "पश्चिमी तराईको नेपालगन्ज नेपालको सबैभन्दा तातो ठाउँहरूमध्ये एक हो, जहाँ गर्मीमा तापक्रम प्रायः ४०° सेल्सियस नाघ्छ।"
+ },
+ {
+  "id": "GEO2-188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Chure range of Nepal is also known by which name?",
+  "options": [
+   "Mahabharat range",
+   "Himalayan range",
+   "Karakoram range",
+   "Siwalik range"
+  ],
+  "answer": 3,
+  "explanation": "The Chure range, the southernmost foothills of Nepal, is also known as the Siwalik range.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको चुरे पर्वतशृङ्खला कुन नामले पनि चिनिन्छ?",
+  "options_ne": [
+   "महाभारत शृङ्खला",
+   "हिमालय शृङ्खला",
+   "काराकोरम शृङ्खला",
+   "शिवालिक शृङ्खला"
+  ],
+  "explanation_ne": "नेपालको दक्षिणी छेउको फेदी पहाड चुरे शृङ्खला शिवालिक शृङ्खलाका नामले पनि चिनिन्छ।"
+ },
+ {
+  "id": "GEO2-189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Mahabharat range forms which part of Nepal's hills?",
+  "options": [
+   "The middle hills",
+   "The high Himalayas",
+   "The Terai plain",
+   "The Chure foothills"
+  ],
+  "answer": 0,
+  "explanation": "The Mahabharat range forms the middle hills of Nepal, lying between the Chure range in the south and the high Himalayas in the north.",
+  "source": "General knowledge",
+  "question_ne": "महाभारत शृङ्खलाले नेपालको पहाडको कुन भाग बनाउँछ?",
+  "options_ne": [
+   "बीचको पहाड",
+   "उच्च हिमालय",
+   "तराई मैदान",
+   "चुरे फेदी"
+  ],
+  "explanation_ne": "महाभारत शृङ्खलाले नेपालको बीचको पहाड बनाउँछ, यो दक्षिणमा चुरे र उत्तरमा उच्च हिमालयबीच पर्छ।"
+ },
+ {
+  "id": "GEO2-190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Himalayas are known as the youngest mountain range in the world because of what?",
+  "options": [
+   "They are still rising due to tectonic collision",
+   "They were formed by volcanoes",
+   "They are the shortest mountains",
+   "They have the least snow"
+  ],
+  "answer": 0,
+  "explanation": "The Himalayas are the youngest mountain range in the world, formed by the collision of the Indian and Eurasian plates, and they are still rising.",
+  "source": "General knowledge",
+  "question_ne": "हिमालयलाई विश्वको सबैभन्दा कान्छो हिमशृङ्खला किन भनिन्छ?",
+  "options_ne": [
+   "टेक्टोनिक टक्करका कारण यो अझै उठिरहेको छ",
+   "यो ज्वालामुखीबाट बनेको हो",
+   "यो सबैभन्दा होचो हिमाल हो",
+   "यहाँ सबैभन्दा कम हिउँ छ"
+  ],
+  "explanation_ne": "हिमालय विश्वको सबैभन्दा कान्छो हिमशृङ्खला हो, जुन भारतीय र युरेसियन प्लेटको टक्करबाट बनेको हो र अझै उठिरहेको छ।"
+ },
+ {
+  "id": "GEO2-191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to the 2021 census, what was the total population of Nepal?",
+  "options": [
+   "About 26.5 million",
+   "About 28.1 million",
+   "About 29.2 million",
+   "About 31.4 million"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census (2078 BS), the total population of Nepal was 29,164,578, about 29.2 million.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको कुल जनसङ्ख्या कति थियो?",
+  "options_ne": [
+   "करिब २.६५ करोड",
+   "करिब २.८१ करोड",
+   "करिब २.९२ करोड",
+   "करिब ३.१४ करोड"
+  ],
+  "explanation_ne": "२०२१ को जनगणना (२०७८ साल) अनुसार नेपालको कुल जनसङ्ख्या २,९१,६४,५७८ अर्थात् करिब २.९२ करोड थियो।"
+ },
+ {
+  "id": "GEO2-192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to the 2011 census, what was the total population of Nepal?",
+  "options": [
+   "About 23.2 million",
+   "About 26.5 million",
+   "About 29.2 million",
+   "About 31.4 million"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2011 census (2068 BS), the total population of Nepal was 26,494,504, about 26.5 million.",
+  "source": "General knowledge",
+  "question_ne": "२०११ को जनगणनाअनुसार नेपालको कुल जनसङ्ख्या कति थियो?",
+  "options_ne": [
+   "करिब २.३२ करोड",
+   "करिब २.६५ करोड",
+   "करिब २.९२ करोड",
+   "करिब ३.१४ करोड"
+  ],
+  "explanation_ne": "२०११ को जनगणना (२०६८ साल) अनुसार नेपालको कुल जनसङ्ख्या २,६४,९४,५०४ अर्थात् करिब २.६५ करोड थियो।"
+ },
+ {
+  "id": "GEO2-193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What was the annual population growth rate of Nepal according to the 2021 census?",
+  "options": [
+   "0.92%",
+   "1.35%",
+   "1.80%",
+   "2.25%"
+  ],
+  "answer": 0,
+  "explanation": "According to the 2021 census, Nepal's annual population growth rate was 0.92%, down from 1.35% in 2011.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको वार्षिक जनसङ्ख्या वृद्धिदर कति थियो?",
+  "options_ne": [
+   "०.९२%",
+   "१.३५%",
+   "१.८०%",
+   "२.२५%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको वार्षिक जनसङ्ख्या वृद्धिदर ०.९२% थियो, जुन २०११ को १.३५% बाट घटेको हो।"
+ },
+ {
+  "id": "GEO2-194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the population density of Nepal according to the 2021 census?",
+  "options": [
+   "180 people per sq km",
+   "198 people per sq km",
+   "216 people per sq km",
+   "240 people per sq km"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, the population density of Nepal is 198 people per sq km.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनघनत्व कति छ?",
+  "options_ne": [
+   "प्रतिवर्ग किलोमिटर १८० जना",
+   "प्रतिवर्ग किलोमिटर १९८ जना",
+   "प्रतिवर्ग किलोमिटर २१६ जना",
+   "प्रतिवर्ग किलोमिटर २४० जना"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनघनत्व प्रतिवर्ग किलोमिटर १९८ जना छ।"
+ },
+ {
+  "id": "GEO2-195",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to the 2021 census, approximately how many households are there in Nepal?",
+  "options": [
+   "5.66 million",
+   "6.66 million",
+   "7.66 million",
+   "8.66 million"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, there are 6,660,841 households in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालमा करिब कति घरपरिवार छन्?",
+  "options_ne": [
+   "५६.६ लाख",
+   "६६.६ लाख",
+   "७६.६ लाख",
+   "८६.६ लाख"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालमा ६६,६०,८४१ घरपरिवार छन्।"
+ },
+ {
+  "id": "GEO2-196",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the average household size in Nepal according to the 2021 census?",
+  "options": [
+   "3.37 persons",
+   "4.37 persons",
+   "5.37 persons",
+   "6.37 persons"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, the average household size in Nepal is 4.37 persons.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालमा औसत परिवार आकार कति छ?",
+  "options_ne": [
+   "३.३७ जना",
+   "४.३७ जना",
+   "५.३७ जना",
+   "६.३७ जना"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालमा औसत परिवार आकार ४.३७ जना छ।"
+ },
+ {
+  "id": "GEO2-197",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the literacy rate of Nepal according to the 2021 census?",
+  "options": [
+   "65.9%",
+   "71.2%",
+   "76.2%",
+   "81.5%"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census, the literacy rate of Nepal is 76.2%, up from 65.9% in 2011.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको साक्षरता दर कति छ?",
+  "options_ne": [
+   "६५.९%",
+   "७१.२%",
+   "७६.२%",
+   "८१.५%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको साक्षरता दर ७६.२% छ, जुन २०११ को ६५.९% बाट बढेको हो।"
+ },
+ {
+  "id": "GEO2-198",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the sex ratio of Nepal according to the 2021 census (males per 100 females)?",
+  "options": [
+   "95.59",
+   "98.59",
+   "101.59",
+   "104.59"
+  ],
+  "answer": 0,
+  "explanation": "According to the 2021 census, the sex ratio of Nepal is 95.59 males per 100 females.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको लैङ्गिक अनुपात (प्रति १०० महिलामा पुरुष) कति छ?",
+  "options_ne": [
+   "९५.५९",
+   "९८.५९",
+   "१०१.५९",
+   "१०४.५९"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको लैङ्गिक अनुपात प्रति १०० महिलामा ९५.५९ पुरुष छ।"
+ },
+ {
+  "id": "GEO2-199",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, what percentage of Nepal's population lives in urban (municipality) areas?",
+  "options": [
+   "52.08%",
+   "59.08%",
+   "66.08%",
+   "73.08%"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census, 66.08% of Nepal's population lives in urban areas (municipalities) and 33.92% in rural areas.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति प्रतिशत सहरी (नगरपालिका) क्षेत्रमा बस्छ?",
+  "options_ne": [
+   "५२.०८%",
+   "५९.०८%",
+   "६६.०८%",
+   "७३.०८%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको ६६.०८% सहरी क्षेत्र (नगरपालिका) मा र ३३.९२% ग्रामीण क्षेत्रमा बस्छ।"
+ },
+ {
+  "id": "GEO2-200",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the first population census of Nepal conducted?",
+  "options": [
+   "1911",
+   "1921",
+   "1931",
+   "1941"
+  ],
+  "answer": 0,
+  "explanation": "The first population census of Nepal was conducted in 1911 AD (1968 BS).",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो जनगणना कुन वर्ष गरिएको थियो?",
+  "options_ne": [
+   "१९११",
+   "१९२१",
+   "१९३१",
+   "१९४१"
+  ],
+  "explanation_ne": "नेपालको पहिलो जनगणना सन् १९११ (वि.सं. १९६८) मा गरिएको थियो।"
+ },
+ {
+  "id": "GEO2-201",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The 2021 census was the how-many-th national census of Nepal?",
+  "options": [
+   "10th",
+   "11th",
+   "12th",
+   "13th"
+  ],
+  "answer": 2,
+  "explanation": "The 2021 census (2078 BS) was the 12th national census of Nepal, the first having been held in 1911.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणना नेपालको कतिऔँ राष्ट्रिय जनगणना थियो?",
+  "options_ne": [
+   "दशौँ",
+   "एघारौँ",
+   "बाह्रौँ",
+   "तेह्रौँ"
+  ],
+  "explanation_ne": "२०२१ को जनगणना (२०७८ साल) नेपालको बाह्रौँ राष्ट्रिय जनगणना थियो, पहिलो जनगणना सन् १९११ मा भएको थियो।"
+ },
+ {
+  "id": "GEO2-202",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "After how many years is the national population census of Nepal conducted?",
+  "options": [
+   "Every 5 years",
+   "Every 10 years",
+   "Every 15 years",
+   "Every 20 years"
+  ],
+  "answer": 1,
+  "explanation": "The national population census of Nepal is conducted every 10 years.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय जनगणना कति वर्षको अन्तरालमा गरिन्छ?",
+  "options_ne": [
+   "प्रत्येक ५ वर्षमा",
+   "प्रत्येक १० वर्षमा",
+   "प्रत्येक १५ वर्षमा",
+   "प्रत्येक २० वर्षमा"
+  ],
+  "explanation_ne": "नेपालको राष्ट्रिय जनगणना प्रत्येक १० वर्षमा गरिन्छ।"
+ },
+ {
+  "id": "GEO2-203",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, what percentage of Nepal's population speaks Nepali as their mother tongue?",
+  "options": [
+   "38.86%",
+   "44.86%",
+   "50.86%",
+   "56.86%"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, 44.86% of Nepal's population speaks Nepali as their mother tongue.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति प्रतिशतले नेपाली मातृभाषा बोल्छन्?",
+  "options_ne": [
+   "३८.८६%",
+   "४४.८६%",
+   "५०.८६%",
+   "५६.८६%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको ४४.८६% ले नेपाली मातृभाषा बोल्छन्।"
+ },
+ {
+  "id": "GEO2-204",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After Nepali, which is the second most spoken mother tongue in Nepal according to the 2021 census?",
+  "options": [
+   "Bhojpuri",
+   "Tharu",
+   "Maithili",
+   "Tamang"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census, Maithili (11.05%) is the second most spoken mother tongue in Nepal after Nepali.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालीपछि नेपालमा दोस्रो धेरै बोलिने मातृभाषा कुन हो?",
+  "options_ne": [
+   "भोजपुरी",
+   "थारू",
+   "मैथिली",
+   "तामाङ"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार मैथिली (११.०५%) नेपालीपछि नेपालमा दोस्रो धेरै बोलिने मातृभाषा हो।"
+ },
+ {
+  "id": "GEO2-205",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, what percentage of Nepal's population follows Hinduism?",
+  "options": [
+   "76.19%",
+   "81.19%",
+   "86.19%",
+   "91.19%"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, 81.19% of Nepal's population follows Hinduism.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति प्रतिशत हिन्दू धर्म मान्छन्?",
+  "options_ne": [
+   "७६.१९%",
+   "८१.१९%",
+   "८६.१९%",
+   "९१.१९%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको ८१.१९% हिन्दू धर्म मान्छन्।"
+ },
+ {
+  "id": "GEO2-206",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to the 2021 census, what percentage of Nepal's population follows Buddhism?",
+  "options": [
+   "5.21%",
+   "8.21%",
+   "11.21%",
+   "14.21%"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, 8.21% of Nepal's population follows Buddhism, the second-largest religion in the country.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति प्रतिशत बौद्ध धर्म मान्छन्?",
+  "options_ne": [
+   "५.२१%",
+   "८.२१%",
+   "११.२१%",
+   "१४.२१%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको ८.२१% बौद्ध धर्म मान्छन्, जुन देशको दोस्रो ठूलो धर्म हो।"
+ },
+ {
+  "id": "GEO2-207",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, which is the largest caste/ethnic group of Nepal?",
+  "options": [
+   "Brahman-Hill",
+   "Magar",
+   "Chhetri",
+   "Tharu"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census, Chhetri (16.45%) is the largest caste/ethnic group of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको सबैभन्दा ठूलो जातीय समूह कुन हो?",
+  "options_ne": [
+   "पहाडी ब्राह्मण",
+   "मगर",
+   "क्षेत्री",
+   "थारू"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार क्षेत्री (१६.४५%) नेपालको सबैभन्दा ठूलो जातीय समूह हो।"
+ },
+ {
+  "id": "GEO2-208",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to the 2021 census, approximately how many Nepalis were living abroad (absentee population)?",
+  "options": [
+   "1.19 million",
+   "2.19 million",
+   "3.19 million",
+   "4.19 million"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2021 census, the absentee population of Nepal was 2,190,592, about 2.19 million people living abroad.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार करिब कति नेपाली विदेशमा बसेका थिए (अनुपस्थित जनसङ्ख्या)?",
+  "options_ne": [
+   "११.९ लाख",
+   "२१.९ लाख",
+   "३१.९ लाख",
+   "४१.९ लाख"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको अनुपस्थित जनसङ्ख्या २१,९०,५९२ थियो, अर्थात् करिब २१.९ लाख मानिस विदेशमा बसेका थिए।"
+ },
+ {
+  "id": "GEO2-209",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, what share of Nepal's population lives in the Terai region?",
+  "options": [
+   "About 43.61%",
+   "About 48.61%",
+   "About 53.61%",
+   "About 58.61%"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2021 census, about 53.61% of Nepal's population lives in the Terai, 40.31% in the hills and 6.08% in the mountains.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति हिस्सा तराई क्षेत्रमा बस्छ?",
+  "options_ne": [
+   "करिब ४३.६१%",
+   "करिब ४८.६१%",
+   "करिब ५३.६१%",
+   "करिब ५८.६१%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको करिब ५३.६१% तराईमा, ४०.३१% पहाडमा र ६.०८% हिमालमा बस्छ।"
+ },
+ {
+  "id": "GEO2-210",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census & Population",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, what share of Nepal's population lives in the Mountain region?",
+  "options": [
+   "About 11.08%",
+   "About 16.08%",
+   "About 21.08%",
+   "About 6.08%"
+  ],
+  "answer": 3,
+  "explanation": "According to the 2021 census, only about 6.08% of Nepal's population lives in the Mountain region.",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको कति हिस्सा हिमाली क्षेत्रमा बस्छ?",
+  "options_ne": [
+   "करिब ११.०८%",
+   "करिब १६.०८%",
+   "करिब २१.०८%",
+   "करिब ६.०८%"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसङ्ख्याको करिब ६.०८% मात्र हिमाली क्षेत्रमा बस्छ।"
+ },
+ {
+  "id": "GEO2-211",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how long is Nepal's border with India?",
+  "options": [
+   "1,414 km",
+   "1,551 km",
+   "1,751 km",
+   "1,951 km"
+  ],
+  "answer": 2,
+  "explanation": "Nepal shares a border of about 1,751 km with India, on its east, south and west sides.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको भारतसँगको सीमा करिब कति लामो छ?",
+  "options_ne": [
+   "१,४१४ किमि",
+   "१,५५१ किमि",
+   "१,७५१ किमि",
+   "१,९५१ किमि"
+  ],
+  "explanation_ne": "नेपालले भारतसँग पूर्व, दक्षिण र पश्चिमतर्फ करिब १,७५१ किलोमिटर लामो सीमा जोड्छ।"
+ },
+ {
+  "id": "GEO2-212",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how long is Nepal's border with China?",
+  "options": [
+   "1,214 km",
+   "1,414 km",
+   "1,614 km",
+   "1,814 km"
+  ],
+  "answer": 1,
+  "explanation": "Nepal shares a border of about 1,414 km with China (Tibet) along its northern side.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको चीनसँगको सीमा करिब कति लामो छ?",
+  "options_ne": [
+   "१,२१४ किमि",
+   "१,४१४ किमि",
+   "१,६१४ किमि",
+   "१,८१४ किमि"
+  ],
+  "explanation_ne": "नेपालले उत्तरतर्फ चीन (तिब्बत) सँग करिब १,४१४ किलोमिटर लामो सीमा जोड्छ।"
+ },
+ {
+  "id": "GEO2-213",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is Nepal's largest trade gateway (customs point) with India?",
+  "options": [
+   "Biratnagar",
+   "Bhairahawa",
+   "Birgunj",
+   "Nepalgunj"
+  ],
+  "answer": 2,
+  "explanation": "Birgunj, in Parsa district, is Nepal's largest trade gateway, handling the biggest share of the country's foreign trade with India.",
+  "source": "General knowledge",
+  "question_ne": "भारतसँग नेपालको सबैभन्दा ठूलो व्यापारिक नाका (भन्सार बिन्दु) कुन हो?",
+  "options_ne": [
+   "विराटनगर",
+   "भैरहवा",
+   "वीरगन्ज",
+   "नेपालगन्ज"
+  ],
+  "explanation_ne": "पर्सा जिल्लाको वीरगन्ज नेपालको सबैभन्दा ठूलो व्यापारिक नाका हो, जहाँबाट भारतसँगको विदेशी व्यापारको सबैभन्दा ठूलो हिस्सा हुन्छ।"
+ },
+ {
+  "id": "GEO2-214",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Kakarvitta, an important eastern border point of Nepal, is located in which district?",
+  "options": [
+   "Morang",
+   "Ilam",
+   "Sunsari",
+   "Jhapa"
+  ],
+  "answer": 3,
+  "explanation": "Kakarvitta, the main eastern border crossing with India, is located in Jhapa district.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको महत्त्वपूर्ण पूर्वी सीमा नाका काँकडभिट्टा कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "मोरङ",
+   "इलाम",
+   "सुनसरी",
+   "झापा"
+  ],
+  "explanation_ne": "भारतसँगको मुख्य पूर्वी सीमा नाका काँकडभिट्टा झापा जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-215",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepalgunj, an important border city of western Nepal, is located in which district?",
+  "options": [
+   "Banke",
+   "Bardiya",
+   "Dang",
+   "Kailali"
+  ],
+  "answer": 0,
+  "explanation": "Nepalgunj is located in Banke district and is a major trade and transit city on the border with India.",
+  "source": "General knowledge",
+  "question_ne": "पश्चिमी नेपालको महत्त्वपूर्ण सीमा सहर नेपालगन्ज कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "बाँके",
+   "बर्दिया",
+   "दाङ",
+   "कैलाली"
+  ],
+  "explanation_ne": "नेपालगन्ज बाँके जिल्लामा पर्छ र भारतसँगको सीमामा रहेको प्रमुख व्यापारिक तथा पारवहन सहर हो।"
+ },
+ {
+  "id": "GEO2-216",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bhairahawa, an important border city of Nepal, is located in which district?",
+  "options": [
+   "Rupandehi",
+   "Kapilvastu",
+   "Nawalparasi West",
+   "Palpa"
+  ],
+  "answer": 0,
+  "explanation": "Bhairahawa (Siddharthanagar) is located in Rupandehi district and is a major border crossing with India.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको महत्त्वपूर्ण सीमा सहर भैरहवा कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "रुपन्देही",
+   "कपिलवस्तु",
+   "नवलपरासी पश्चिम",
+   "पाल्पा"
+  ],
+  "explanation_ne": "भैरहवा (सिद्धार्थनगर) रुपन्देही जिल्लामा पर्छ र भारतसँगको प्रमुख सीमा नाका हो।"
+ },
+ {
+  "id": "GEO2-217",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Biratnagar, an important border city of eastern Nepal, is located in which district?",
+  "options": [
+   "Morang",
+   "Jhapa",
+   "Sunsari",
+   "Saptari"
+  ],
+  "answer": 0,
+  "explanation": "Biratnagar is located in Morang district and is a major industrial and border city near India.",
+  "source": "General knowledge",
+  "question_ne": "पूर्वी नेपालको महत्त्वपूर्ण सीमा सहर विराटनगर कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "मोरङ",
+   "झापा",
+   "सुनसरी",
+   "सप्तरी"
+  ],
+  "explanation_ne": "विराटनगर मोरङ जिल्लामा पर्छ र भारत नजिकैको प्रमुख औद्योगिक तथा सीमा सहर हो।"
+ },
+ {
+  "id": "GEO2-218",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Mahendranagar, an important border city of far-western Nepal, is located in which district?",
+  "options": [
+   "Kanchanpur",
+   "Kailali",
+   "Dadeldhura",
+   "Baitadi"
+  ],
+  "answer": 0,
+  "explanation": "Mahendranagar (Bhimdatta) is located in Kanchanpur district and is the main border city of far-western Nepal.",
+  "source": "General knowledge",
+  "question_ne": "सुदूरपश्चिम नेपालको महत्त्वपूर्ण सीमा सहर महेन्द्रनगर कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "कञ्चनपुर",
+   "कैलाली",
+   "डडेल्धुरा",
+   "बैतडी"
+  ],
+  "explanation_ne": "महेन्द्रनगर (भीमदत्त) कञ्चनपुर जिल्लामा पर्छ र सुदूरपश्चिम नेपालको मुख्य सीमा सहर हो।"
+ },
+ {
+  "id": "GEO2-219",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The disputed Kalapani territory lies in which district of Nepal?",
+  "options": [
+   "Darchula",
+   "Baitadi",
+   "Bajhang",
+   "Humla"
+  ],
+  "answer": 0,
+  "explanation": "Kalapani, a territory disputed between Nepal and India, lies in Darchula district of far-western Nepal.",
+  "source": "General knowledge",
+  "question_ne": "विवादित कालापानी क्षेत्र नेपालको कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "दार्चुला",
+   "बैतडी",
+   "बझाङ",
+   "हुम्ला"
+  ],
+  "explanation_ne": "नेपाल र भारतबीच विवादित कालापानी क्षेत्र सुदूरपश्चिम नेपालको दार्चुला जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-220",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Lipulekh Pass, a disputed tri-junction area, lies in which district of Nepal?",
+  "options": [
+   "Bajhang",
+   "Humla",
+   "Mustang",
+   "Darchula"
+  ],
+  "answer": 3,
+  "explanation": "Lipulekh Pass lies in Darchula district, near the tri-junction of Nepal, India and China.",
+  "source": "General knowledge",
+  "question_ne": "विवादित त्रिदेशीय क्षेत्र लिपुलेक भञ्ज्याङ नेपालको कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "बझाङ",
+   "हुम्ला",
+   "मुस्ताङ",
+   "दार्चुला"
+  ],
+  "explanation_ne": "लिपुलेक भञ्ज्याङ दार्चुला जिल्लामा पर्छ, नेपाल, भारत र चीनको त्रिदेशीय सङ्गम नजिकै।"
+ },
+ {
+  "id": "GEO2-221",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to Nepal's official map, the Kali River originates at which place?",
+  "options": [
+   "Kalapani",
+   "Lipulekh",
+   "Tinker",
+   "Limpiyadhura"
+  ],
+  "answer": 3,
+  "explanation": "According to Nepal's official map (updated in 2020), the Kali (Mahakali) River originates at Limpiyadhura in Darchula district.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको आधिकारिक नक्साअनुसार काली नदी कुन ठाउँबाट उत्पत्ति हुन्छ?",
+  "options_ne": [
+   "कालापानी",
+   "लिपुलेक",
+   "टिंकर",
+   "लिम्पियाधुरा"
+  ],
+  "explanation_ne": "नेपालको आधिकारिक नक्सा (सन् २०२० मा अद्यावधिक) अनुसार काली (महाकाली) नदी दार्चुला जिल्लाको लिम्पियाधुराबाट उत्पत्ति हुन्छ।"
+ },
+ {
+  "id": "GEO2-222",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The western tri-junction of Nepal, India and China is located at which place?",
+  "options": [
+   "Limpiyadhura (Tinker)",
+   "Taplejung",
+   "Nangpa La",
+   "Kora La"
+  ],
+  "answer": 0,
+  "explanation": "The western tri-junction of Nepal, India and China is at Limpiyadhura (Tinker) in Darchula district.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल, भारत र चीनको पश्चिमी त्रिदेशीय सङ्गम कुन ठाउँमा पर्छ?",
+  "options_ne": [
+   "लिम्पियाधुरा (टिंकर)",
+   "ताप्लेजुङ",
+   "नाङ्पा ला",
+   "कोरा ला"
+  ],
+  "explanation_ne": "नेपाल, भारत र चीनको पश्चिमी त्रिदेशीय सङ्गम दार्चुला जिल्लाको लिम्पियाधुरा (टिंकर) मा पर्छ।"
+ },
+ {
+  "id": "GEO2-223",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The eastern tri-junction of Nepal, India and China is located in which district?",
+  "options": [
+   "Taplejung",
+   "Ilam",
+   "Sankhuwasabha",
+   "Solukhumbu"
+  ],
+  "answer": 0,
+  "explanation": "The eastern tri-junction of Nepal, India and China is located in Taplejung district, near Kanchenjunga.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल, भारत र चीनको पूर्वी त्रिदेशीय सङ्गम कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "ताप्लेजुङ",
+   "इलाम",
+   "सङ्खुवासभा",
+   "सोलुखुम्बु"
+  ],
+  "explanation_ne": "नेपाल, भारत र चीनको पूर्वी त्रिदेशीय सङ्गम कञ्चनजङ्घा नजिकै ताप्लेजुङ जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-224",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Kodari, a major border point with China, is located in which district?",
+  "options": [
+   "Sindhupalchok",
+   "Rasuwa",
+   "Dolakha",
+   "Gorkha"
+  ],
+  "answer": 0,
+  "explanation": "Kodari (Tatopani) is a major Nepal-China border point in Sindhupalchok district, on the Araniko Highway.",
+  "source": "General knowledge",
+  "question_ne": "चीनसँगको प्रमुख सीमा नाका कोदारी कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "सिन्धुपाल्चोक",
+   "रसुवा",
+   "दोलखा",
+   "गोरखा"
+  ],
+  "explanation_ne": "कोदारी (तातोपानी) अरनिको राजमार्गमा सिन्धुपाल्चोक जिल्लामा रहेको चीनसँगको प्रमुख सीमा नाका हो।"
+ },
+ {
+  "id": "GEO2-225",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Borders",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rasuwagadhi, a major border point with China, is located in which district?",
+  "options": [
+   "Rasuwa",
+   "Sindhupalchok",
+   "Nuwakot",
+   "Dolakha"
+  ],
+  "answer": 0,
+  "explanation": "Rasuwagadhi is a major Nepal-China border point in Rasuwa district, on the road from Syabrubesi to Tibet.",
+  "source": "General knowledge",
+  "question_ne": "चीनसँगको प्रमुख सीमा नाका रसुवागढी कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "रसुवा",
+   "सिन्धुपाल्चोक",
+   "नुवाकोट",
+   "दोलखा"
+  ],
+  "explanation_ne": "रसुवागढी रसुवा जिल्लामा रहेको चीनसँगको प्रमुख सीमा नाका हो, यो स्याफ्रुबेसीबाट तिब्बत जाने सडकमा पर्छ।"
+ },
+ {
+  "id": "GEO2-226",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Approximately how large is Chitwan National Park?",
+  "options": [
+   "952 sq km",
+   "1,148 sq km",
+   "1,500 sq km",
+   "3,555 sq km"
+  ],
+  "answer": 0,
+  "explanation": "Chitwan National Park covers about 952 sq km in the Terai of south-central Nepal.",
+  "source": "General knowledge",
+  "question_ne": "चितवन राष्ट्रिय निकुञ्जको क्षेत्रफल करिब कति छ?",
+  "options_ne": [
+   "९५२ वर्ग किलोमिटर",
+   "१,१४८ वर्ग किलोमिटर",
+   "१,५०० वर्ग किलोमिटर",
+   "३,५५५ वर्ग किलोमिटर"
+  ],
+  "explanation_ne": "चितवन राष्ट्रिय निकुञ्ज दक्षिण-मध्य नेपालको तराईमा करिब ९५२ वर्ग किलोमिटर क्षेत्रफलमा फैलिएको छ।"
+ },
+ {
+  "id": "GEO2-229",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Rara National Park established?",
+  "options": [
+   "1973",
+   "1976",
+   "1984",
+   "1988"
+  ],
+  "answer": 1,
+  "explanation": "Rara National Park was established in 1976 to protect Rara Lake and its surroundings in Mugu district.",
+  "source": "General knowledge",
+  "question_ne": "रारा राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९७३",
+   "१९७६",
+   "१९८४",
+   "१९८८"
+  ],
+  "explanation_ne": "रारा राष्ट्रिय निकुञ्ज सन् १९७६ मा मुगु जिल्लाको रारा ताल र वरपरको क्षेत्र संरक्षण गर्न स्थापना भएको थियो।"
+ },
+ {
+  "id": "GEO2-230",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Shey-Phoksundo National Park established?",
+  "options": [
+   "1976",
+   "1984",
+   "1988",
+   "1992"
+  ],
+  "answer": 1,
+  "explanation": "Shey-Phoksundo National Park was established in 1984 and is the largest national park of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९७६",
+   "१९८४",
+   "१९८८",
+   "१९९२"
+  ],
+  "explanation_ne": "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज सन् १९८४ मा स्थापना भएको थियो र यो नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो।"
+ },
+ {
+  "id": "GEO2-231",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Khaptad National Park established?",
+  "options": [
+   "1976",
+   "1984",
+   "1988",
+   "1992"
+  ],
+  "answer": 1,
+  "explanation": "Khaptad National Park was established in 1984 in the far-western hills of Doti district.",
+  "source": "General knowledge",
+  "question_ne": "खप्तड राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९७६",
+   "१९८४",
+   "१९८८",
+   "१९९२"
+  ],
+  "explanation_ne": "खप्तड राष्ट्रिय निकुञ्ज सन् १९८४ मा सुदूरपश्चिमको डोटी जिल्लाको पहाडी क्षेत्रमा स्थापना भएको थियो।"
+ },
+ {
+  "id": "GEO2-232",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Bardia National Park established?",
+  "options": [
+   "1984",
+   "1988",
+   "1992",
+   "2002"
+  ],
+  "answer": 1,
+  "explanation": "Bardia National Park was established in 1988 (first as a wildlife reserve in 1976) in the western Terai.",
+  "source": "General knowledge",
+  "question_ne": "बर्दिया राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९८४",
+   "१९८८",
+   "१९९२",
+   "२००२"
+  ],
+  "explanation_ne": "बर्दिया राष्ट्रिय निकुञ्ज सन् १९८८ मा स्थापना भएको थियो (पहिला सन् १९७६ मा वन्यजन्तु आरक्षका रूपमा) र यो पश्चिमी तराईमा पर्छ।"
+ },
+ {
+  "id": "GEO2-233",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Makalu Barun National Park established?",
+  "options": [
+   "1988",
+   "1992",
+   "2002",
+   "2010"
+  ],
+  "answer": 1,
+  "explanation": "Makalu Barun National Park was established in 1992 in the eastern Himalayas of Sankhuwasabha and Solukhumbu.",
+  "source": "General knowledge",
+  "question_ne": "मकालु बरुण राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९८८",
+   "१९९२",
+   "२००२",
+   "२०१०"
+  ],
+  "explanation_ne": "मकालु बरुण राष्ट्रिय निकुञ्ज सन् १९९२ मा पूर्वी हिमालयको सङ्खुवासभा र सोलुखुम्बुमा स्थापना भएको थियो।"
+ },
+ {
+  "id": "GEO2-234",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Shivapuri-Nagarjun National Park established?",
+  "options": [
+   "1992",
+   "2002",
+   "2010",
+   "2017"
+  ],
+  "answer": 1,
+  "explanation": "Shivapuri-Nagarjun National Park was established in 2002, just north of Kathmandu Valley.",
+  "source": "General knowledge",
+  "question_ne": "शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९९२",
+   "२००२",
+   "२०१०",
+   "२०१७"
+  ],
+  "explanation_ne": "शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज सन् २००२ मा काठमाडौँ उपत्यकाको ठीक उत्तरमा स्थापना भएको थियो।"
+ },
+ {
+  "id": "GEO2-235",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Banke National Park established?",
+  "options": [
+   "2002",
+   "2010",
+   "2017",
+   "1992"
+  ],
+  "answer": 1,
+  "explanation": "Banke National Park was established in 2010 in the mid-western Terai, linking Bardia and Chitwan for tiger movement.",
+  "source": "General knowledge",
+  "question_ne": "बाँके राष्ट्रिय निकुञ्ज कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "२००२",
+   "२०१०",
+   "२०१७",
+   "१९९२"
+  ],
+  "explanation_ne": "बाँके राष्ट्रिय निकुञ्ज सन् २०१० मा मध्यपश्चिम तराईमा स्थापना भएको थियो, जसले बाघको आवागमनका लागि बर्दिया र चितवनलाई जोड्छ।"
+ },
+ {
+  "id": "GEO2-236",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Shuklaphanta upgraded from a wildlife reserve to a national park?",
+  "options": [
+   "2010",
+   "2015",
+   "2017",
+   "2020"
+  ],
+  "answer": 2,
+  "explanation": "Shuklaphanta was upgraded from a wildlife reserve to a national park in 2017.",
+  "source": "General knowledge",
+  "question_ne": "शुक्लाफाँटा कुन वर्ष वन्यजन्तु आरक्षबाट राष्ट्रिय निकुञ्जमा स्तरोन्नति भयो?",
+  "options_ne": [
+   "२०१०",
+   "२०१५",
+   "२०१७",
+   "२०२०"
+  ],
+  "explanation_ne": "शुक्लाफाँटा सन् २०१७ मा वन्यजन्तु आरक्षबाट राष्ट्रिय निकुञ्जमा स्तरोन्नति भएको थियो।"
+ },
+ {
+  "id": "GEO2-238",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Approximately how large is Shey-Phoksundo National Park, the largest national park of Nepal?",
+  "options": [
+   "1,500 sq km",
+   "2,555 sq km",
+   "3,555 sq km",
+   "4,555 sq km"
+  ],
+  "answer": 2,
+  "explanation": "Shey-Phoksundo National Park covers about 3,555 sq km in Dolpa and Mugu districts.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज शे-फोक्सुण्डोको क्षेत्रफल करिब कति छ?",
+  "options_ne": [
+   "१,५०० वर्ग किलोमिटर",
+   "२,५५५ वर्ग किलोमिटर",
+   "३,५५५ वर्ग किलोमिटर",
+   "४,५५५ वर्ग किलोमिटर"
+  ],
+  "explanation_ne": "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज डोल्पा र मुगु जिल्लामा करिब ३,५५५ वर्ग किलोमिटर क्षेत्रफलमा फैलिएको छ।"
+ },
+ {
+  "id": "GEO2-239",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the smallest national park of Nepal?",
+  "options": [
+   "Shivapuri-Nagarjun National Park",
+   "Khaptad National Park",
+   "Banke National Park",
+   "Rara National Park"
+  ],
+  "answer": 3,
+  "explanation": "Rara National Park, at about 106 sq km, is the smallest national park of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा सानो राष्ट्रिय निकुञ्ज कुन हो?",
+  "options_ne": [
+   "शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज",
+   "खप्तड राष्ट्रिय निकुञ्ज",
+   "बाँके राष्ट्रिय निकुञ्ज",
+   "रारा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "रारा राष्ट्रिय निकुञ्ज करिब १०६ वर्ग किलोमिटर क्षेत्रफलसहित नेपालको सबैभन्दा सानो राष्ट्रिय निकुञ्ज हो।"
+ },
+ {
+  "id": "GEO2-240",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest conservation area of Nepal?",
+  "options": [
+   "Kanchenjunga Conservation Area",
+   "Annapurna Conservation Area",
+   "Manaslu Conservation Area",
+   "Gaurishankar Conservation Area"
+  ],
+  "answer": 1,
+  "explanation": "The Annapurna Conservation Area, about 7,629 sq km, is the largest conservation area of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा ठूलो संरक्षण क्षेत्र कुन हो?",
+  "options_ne": [
+   "कञ्चनजङ्घा संरक्षण क्षेत्र",
+   "अन्नपूर्ण संरक्षण क्षेत्र",
+   "मनास्लु संरक्षण क्षेत्र",
+   "गौरीशङ्कर संरक्षण क्षेत्र"
+  ],
+  "explanation_ne": "अन्नपूर्ण संरक्षण क्षेत्र करिब ७,६२९ वर्ग किलोमिटर क्षेत्रफलसहित नेपालको सबैभन्दा ठूलो संरक्षण क्षेत्र हो।"
+ },
+ {
+  "id": "GEO2-241",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In which year was the Annapurna Conservation Area established?",
+  "options": [
+   "1986",
+   "1992",
+   "1997",
+   "2002"
+  ],
+  "answer": 1,
+  "explanation": "The Annapurna Conservation Area was formally established (gazetted) in 1992, after the Annapurna Conservation Area Project began in 1986.",
+  "source": "General knowledge",
+  "question_ne": "अन्नपूर्ण संरक्षण क्षेत्र कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९८६",
+   "१९९२",
+   "१९९७",
+   "२००२"
+  ],
+  "explanation_ne": "अन्नपूर्ण संरक्षण क्षेत्र औपचारिक रूपमा सन् १९९२ मा स्थापना (राजपत्रमा प्रकाशित) भएको थियो, अन्नपूर्ण संरक्षण क्षेत्र आयोजना सन् १९८६ मा सुरु भएपछि।"
+ },
+ {
+  "id": "GEO2-242",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the smallest conservation area of Nepal, famous for protecting the blackbuck?",
+  "options": [
+   "Api Nampa Conservation Area",
+   "Manaslu Conservation Area",
+   "Kanchenjunga Conservation Area",
+   "Krishnasar Conservation Area"
+  ],
+  "answer": 3,
+  "explanation": "Krishnasar Conservation Area in Bardiya, about 17 sq km, is the smallest conservation area of Nepal and protects the blackbuck (Krishnasar).",
+  "source": "General knowledge",
+  "question_ne": "कृष्णसार (कालो हरिण) संरक्षणका लागि प्रसिद्ध नेपालको सबैभन्दा सानो संरक्षण क्षेत्र कुन हो?",
+  "options_ne": [
+   "अपी नाम्पा संरक्षण क्षेत्र",
+   "मनास्लु संरक्षण क्षेत्र",
+   "कञ्चनजङ्घा संरक्षण क्षेत्र",
+   "कृष्णसार संरक्षण क्षेत्र"
+  ],
+  "explanation_ne": "बर्दियाको कृष्णसार संरक्षण क्षेत्र करिब १७ वर्ग किलोमिटर क्षेत्रफलसहित नेपालको सबैभन्दा सानो संरक्षण क्षेत्र हो र यसले कृष्णसार (कालो हरिण) को संरक्षण गर्छ।"
+ },
+ {
+  "id": "GEO2-243",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the only hunting reserve of Nepal?",
+  "options": [
+   "Dhorpatan Hunting Reserve",
+   "Koshi Tappu Wildlife Reserve",
+   "Shuklaphanta National Park",
+   "Parsa National Park"
+  ],
+  "answer": 0,
+  "explanation": "Dhorpatan Hunting Reserve, in Baglung, Myagdi and Rukum districts, is the only hunting reserve of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको एक मात्र सिकार आरक्ष कुन हो?",
+  "options_ne": [
+   "ढोरपाटन सिकार आरक्ष",
+   "कोशी टप्पु वन्यजन्तु आरक्ष",
+   "शुक्लाफाँटा राष्ट्रिय निकुञ्ज",
+   "पर्सा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "बागलुङ, म्याग्दी र रुकुम जिल्लामा पर्ने ढोरपाटन सिकार आरक्ष नेपालको एक मात्र सिकार आरक्ष हो।"
+ },
+ {
+  "id": "GEO2-244",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the only remaining wildlife reserve of Nepal?",
+  "options": [
+   "Koshi Tappu Wildlife Reserve",
+   "Dhorpatan Hunting Reserve",
+   "Parsa National Park",
+   "Shuklaphanta National Park"
+  ],
+  "answer": 0,
+  "explanation": "Koshi Tappu Wildlife Reserve is the only wildlife reserve of Nepal after Shuklaphanta and Parsa were upgraded to national parks in 2017.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको एक मात्र बाँकी वन्यजन्तु आरक्ष कुन हो?",
+  "options_ne": [
+   "कोशी टप्पु वन्यजन्तु आरक्ष",
+   "ढोरपाटन सिकार आरक्ष",
+   "पर्सा राष्ट्रिय निकुञ्ज",
+   "शुक्लाफाँटा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "शुक्लाफाँटा र पर्सा सन् २०१७ मा राष्ट्रिय निकुञ्जमा स्तरोन्नति भएपछि कोशी टप्पु वन्यजन्तु आरक्ष नेपालको एक मात्र वन्यजन्तु आरक्ष हो।"
+ },
+ {
+  "id": "GEO2-245",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Koshi Tappu Wildlife Reserve is most famous for protecting which animal?",
+  "options": [
+   "Wild water buffalo (Arna)",
+   "One-horned rhinoceros",
+   "Bengal tiger",
+   "Snow leopard"
+  ],
+  "answer": 0,
+  "explanation": "Koshi Tappu Wildlife Reserve is famous for the wild water buffalo (Arna), the last remaining population of the species in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "कोशी टप्पु वन्यजन्तु आरक्ष कुन जनावरको संरक्षणका लागि सबैभन्दा प्रसिद्ध छ?",
+  "options_ne": [
+   "जङ्गली भैँसी (अर्ना)",
+   "एकसिङ्गे गैंडा",
+   "पाटे बाघ",
+   "हिउँ चितुवा"
+  ],
+  "explanation_ne": "कोशी टप्पु वन्यजन्तु आरक्ष जङ्गली भैँसी (अर्ना) का लागि प्रसिद्ध छ, जुन नेपालमा यस प्रजातिको अन्तिम बाँकी जनसङ्ख्या हो।"
+ },
+ {
+  "id": "GEO2-246",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which national park of Nepal is the snow leopard most famously protected?",
+  "options": [
+   "Shey-Phoksundo National Park",
+   "Chitwan National Park",
+   "Bardia National Park",
+   "Parsa National Park"
+  ],
+  "answer": 0,
+  "explanation": "Shey-Phoksundo National Park in Dolpa is one of the best places in Nepal to find the snow leopard.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन राष्ट्रिय निकुञ्जमा हिउँ चितुवा सबैभन्दा प्रसिद्ध रूपमा संरक्षित छ?",
+  "options_ne": [
+   "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "बर्दिया राष्ट्रिय निकुञ्ज",
+   "पर्सा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "डोल्पाको शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज नेपालमा हिउँ चितुवा पाइने सबैभन्दा राम्रो ठाउँहरूमध्ये एक हो।"
+ },
+ {
+  "id": "GEO2-247",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which national park of Nepal is the gharial (fish-eating crocodile) protected?",
+  "options": [
+   "Chitwan National Park",
+   "Sagarmatha National Park",
+   "Langtang National Park",
+   "Rara National Park"
+  ],
+  "answer": 0,
+  "explanation": "The gharial, a fish-eating crocodile, is protected in the rivers of Chitwan National Park.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन राष्ट्रिय निकुञ्जमा घडियाल गोही संरक्षित छ?",
+  "options_ne": [
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "सगरमाथा राष्ट्रिय निकुञ्ज",
+   "लाङटाङ राष्ट्रिय निकुञ्ज",
+   "रारा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "माछा खाने घडियाल गोही चितवन राष्ट्रिय निकुञ्जका नदीहरूमा संरक्षित छ।"
+ },
+ {
+  "id": "GEO2-248",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Langtang National Park is located mainly in which district?",
+  "options": [
+   "Sindhupalchok",
+   "Nuwakot",
+   "Dolakha",
+   "Rasuwa"
+  ],
+  "answer": 3,
+  "explanation": "Langtang National Park is located mainly in Rasuwa district, north of Kathmandu Valley.",
+  "source": "General knowledge",
+  "question_ne": "लाङटाङ राष्ट्रिय निकुञ्ज मुख्यतया कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "सिन्धुपाल्चोक",
+   "नुवाकोट",
+   "दोलखा",
+   "रसुवा"
+  ],
+  "explanation_ne": "लाङटाङ राष्ट्रिय निकुञ्ज मुख्यतया काठमाडौँ उपत्यकाको उत्तरमा रसुवा जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-249",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Sagarmatha National Park is located in which district?",
+  "options": [
+   "Sankhuwasabha",
+   "Dolakha",
+   "Taplejung",
+   "Solukhumbu"
+  ],
+  "answer": 3,
+  "explanation": "Sagarmatha National Park, home to Mount Everest, is located in Solukhumbu district.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा राष्ट्रिय निकुञ्ज कुन जिल्लामा पर्छ?",
+  "options_ne": [
+   "सङ्खुवासभा",
+   "दोलखा",
+   "ताप्लेजुङ",
+   "सोलुखुम्बु"
+  ],
+  "explanation_ne": "सगरमाथा भएको सगरमाथा राष्ट्रिय निकुञ्ज सोलुखुम्बु जिल्लामा पर्छ।"
+ },
+ {
+  "id": "GEO2-250",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "provincial-psc"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Sagarmatha National Park listed as a UNESCO World Heritage Site?",
+  "options": [
+   "1976",
+   "1979",
+   "1984",
+   "1988"
+  ],
+  "answer": 1,
+  "explanation": "Sagarmatha National Park was listed as a UNESCO World Heritage Site in 1979, three years after it was established.",
+  "source": "General knowledge",
+  "question_ne": "सगरमाथा राष्ट्रिय निकुञ्ज कुन वर्ष युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भयो?",
+  "options_ne": [
+   "१९७६",
+   "१९७९",
+   "१९८४",
+   "१९८८"
+  ],
+  "explanation_ne": "सगरमाथा राष्ट्रिय निकुञ्ज सन् १९७९ मा युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भएको थियो, यो स्थापना भएको तीन वर्षपछि।"
+ }
+]

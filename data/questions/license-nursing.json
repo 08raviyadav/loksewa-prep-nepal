@@ -1,0 +1,5526 @@
+[
+ {
+  "id": "NUR-001",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is regarded as the founder of modern nursing?",
+  "options": [
+   "Florence Nightingale",
+   "Virginia Henderson",
+   "Dorothea Orem",
+   "Mary Seacole"
+  ],
+  "answer": 0,
+  "explanation": "Florence Nightingale founded modern nursing during the Crimean War and established the first secular nursing school in 1860.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "आधुनिक नर्सिङकी संस्थापक को मानिन्छन्?",
+  "options_ne": [
+   "फ्लोरेन्स नाइटिङ्गेल",
+   "भर्जिनिया हेन्डरसन",
+   "डोरोथिया ओरेम",
+   "मेरी सीकोल"
+  ],
+  "explanation_ne": "फ्लोरेन्स नाइटिङ्गेलले क्रिमियन युद्धको समयमा आधुनिक नर्सिङ स्थापना गर्नुभयो र सन् १८६० मा पहिलो नर्सिङ विद्यालय खोल्नुभयो।"
+ },
+ {
+  "id": "NUR-002",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal adult body temperature measured orally?",
+  "options": [
+   "35.0°C",
+   "37.0°C",
+   "36.5°C",
+   "39.0°C"
+  ],
+  "answer": 1,
+  "explanation": "Normal oral body temperature in a healthy adult is about 37°C (98.6°F), with a usual range of 36.5–37.5°C.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "वयस्कको मुखबाट नाप्दा सामान्य शरीरको तापक्रम कति हुन्छ?",
+  "options_ne": [
+   "३५.०°से",
+   "३७.०°से",
+   "३६.५°से",
+   "३९.०°से"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कको मुखको सामान्य तापक्रम करिब ३७°से (९८.६°फा) हुन्छ, सामान्य दायरा ३६.५–३७.५°से हो।"
+ },
+ {
+  "id": "NUR-003",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal resting pulse rate for a healthy adult?",
+  "options": [
+   "40–60 beats per minute",
+   "100–120 beats per minute",
+   "60–100 beats per minute",
+   "120–140 beats per minute"
+  ],
+  "answer": 2,
+  "explanation": "The normal resting heart rate for a healthy adult is 60–100 beats per minute.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "स्वस्थ वयस्कको आराम अवस्थाको सामान्य नाडी दर कति हुन्छ?",
+  "options_ne": [
+   "४०–६० प्रति मिनेट",
+   "१००–१२० प्रति मिनेट",
+   "६०–१०० प्रति मिनेट",
+   "१२०–१४० प्रति मिनेट"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कको आराम अवस्थाको सामान्य मुटुको धड्कन ६०–१०० प्रति मिनेट हुन्छ।"
+ },
+ {
+  "id": "NUR-004",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which site is most commonly used to measure pulse in an adult?",
+  "options": [
+   "Brachial artery",
+   "Carotid artery",
+   "Femoral artery",
+   "Radial artery"
+  ],
+  "answer": 3,
+  "explanation": "The radial artery at the wrist is the most commonly used site for routine pulse assessment in adults.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "वयस्कमा नाडी नाप्न सबैभन्दा बढी प्रयोग हुने स्थान कुन हो?",
+  "options_ne": [
+   "ब्रेकियल धमनी",
+   "क्यारोटिड धमनी",
+   "फेमोरल धमनी",
+   "रेडियल धमनी"
+  ],
+  "explanation_ne": "नाडीमा रहेको रेडियल धमनी वयस्कमा नियमित नाडी जाँचका लागि सबैभन्दा बढी प्रयोग हुन्छ।"
+ },
+ {
+  "id": "NUR-005",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the correct order of the nursing process?",
+  "options": [
+   "Assessment, diagnosis, planning, implementation, evaluation",
+   "Diagnosis, assessment, implementation, planning, evaluation",
+   "Planning, assessment, diagnosis, evaluation, implementation",
+   "Assessment, planning, diagnosis, evaluation, implementation"
+  ],
+  "answer": 0,
+  "explanation": "The nursing process follows ADPIE: Assessment, Diagnosis, Planning, Implementation, Evaluation.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "नर्सिङ प्रक्रियाको सही क्रम कुन हो?",
+  "options_ne": [
+   "मूल्याङ्कन, निदान, योजना, कार्यान्वयन, मूल्याङ्कन",
+   "निदान, मूल्याङ्कन, कार्यान्वयन, योजना, मूल्याङ्कन",
+   "योजना, मूल्याङ्कन, निदान, मूल्याङ्कन, कार्यान्वयन",
+   "मूल्याङ्कन, योजना, निदान, मूल्याङ्कन, कार्यान्वयन"
+  ],
+  "explanation_ne": "नर्सिङ प्रक्रिया ADPIE क्रममा हुन्छ: मूल्याङ्कन, निदान, योजना, कार्यान्वयन, मूल्याङ्कन।"
+ },
+ {
+  "id": "NUR-006",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the abbreviation BP stand for in clinical practice?",
+  "options": [
+   "Body pulse",
+   "Blood pressure",
+   "Breathing pattern",
+   "Blood protein"
+  ],
+  "answer": 1,
+  "explanation": "BP stands for blood pressure, the force exerted by circulating blood on the walls of blood vessels.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "क्लिनिकल अभ्यासमा BP को अर्थ के हो?",
+  "options_ne": [
+   "शरीरको नाडी",
+   "रक्तचाप",
+   "श्वासप्रश्वास ढाँचा",
+   "रगतको प्रोटिन"
+  ],
+  "explanation_ne": "BP भनेको रक्तचाप हो, अर्थात् रगतले रक्तनलीका भित्तामा पार्ने दबाब।"
+ },
+ {
+  "id": "NUR-007",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which hand hygiene method is most effective for routine decontamination of hands when they are not visibly soiled?",
+  "options": [
+   "Washing with soap and water only",
+   "Wearing gloves without hand hygiene",
+   "Alcohol-based hand rub",
+   "Rinsing with water only"
+  ],
+  "answer": 2,
+  "explanation": "When hands are not visibly soiled, an alcohol-based hand rub is fast and effective; soap and water is required when hands are visibly dirty or contaminated.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "हातमा देखिने फोहोर नभएको बेला नियमित हात सफा गर्न सबैभन्दा प्रभावकारी विधि कुन हो?",
+  "options_ne": [
+   "साबुन पानीले मात्र धुने",
+   "हात सफा नगरी पञ्जा लगाउने",
+   "अल्कोहलयुक्त ह्यान्ड रब",
+   "पानीले मात्र पखाल्ने"
+  ],
+  "explanation_ne": "हातमा देखिने फोहोर नभएको बेला अल्कोहलयुक्त ह्यान्ड रब छिटो र प्रभावकारी हुन्छ; हात देखिने गरी फोहोर भएमा साबुन पानी आवश्यक पर्छ।"
+ },
+ {
+  "id": "NUR-008",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal respiratory rate for a healthy adult at rest?",
+  "options": [
+   "8–10 breaths per minute",
+   "30–40 breaths per minute",
+   "22–28 breaths per minute",
+   "12–20 breaths per minute"
+  ],
+  "answer": 3,
+  "explanation": "The normal respiratory rate for a healthy adult at rest is 12–20 breaths per minute.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "स्वस्थ वयस्कको आराम अवस्थाको सामान्य श्वासप्रश्वास दर कति हुन्छ?",
+  "options_ne": [
+   "८–१० प्रति मिनेट",
+   "३०–४० प्रति मिनेट",
+   "२२–२८ प्रति मिनेट",
+   "१२–२० प्रति मिनेट"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कको आराम अवस्थाको सामान्य श्वासप्रश्वास दर १२–२० प्रति मिनेट हुन्छ।"
+ },
+ {
+  "id": "NUR-009",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A patient is placed in Fowler's position. What does this mean?",
+  "options": [
+   "Sitting upright with the head of the bed raised 45–60 degrees",
+   "Lying on the side",
+   "Lying flat on the back",
+   "Lying face down"
+  ],
+  "answer": 0,
+  "explanation": "Fowler's position is a semi-sitting position with the head of the bed elevated 45–60 degrees; it aids breathing and drainage.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "बिरामीलाई फाउलर पोजिसनमा राखियो भन्नुको अर्थ के हो?",
+  "options_ne": [
+   "ओछ्यानको टाउको ४५–६० डिग्री उठाएर अर्ध-बसेको अवस्था",
+   "छेउमा सुत्नु",
+   "पिठ्यूँ फर्काएर सिधा सुत्नु",
+   "घोप्टो परेर सुत्नु"
+  ],
+  "explanation_ne": "फाउलर पोजिसन भनेको ओछ्यानको टाउको ४५–६० डिग्री उठाएर अर्ध-बसेको अवस्था हो; यसले श्वासप्रश्वास र निकासमा सहयोग गर्छ।"
+ },
+ {
+  "id": "NUR-010",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a vital sign?",
+  "options": [
+   "Height",
+   "Blood pressure",
+   "Weight",
+   "Blood group"
+  ],
+  "answer": 1,
+  "explanation": "The four vital signs are temperature, pulse, respiration and blood pressure; height, weight and blood group are not vital signs.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "निम्नमध्ये कुन जीवन संकेत (vital sign) हो?",
+  "options_ne": [
+   "उचाइ",
+   "रक्तचाप",
+   "तौल",
+   "रक्त समूह"
+  ],
+  "explanation_ne": "चार जीवन संकेतहरू तापक्रम, नाडी, श्वासप्रश्वास र रक्तचाप हुन्; उचाइ, तौल र रक्त समूह जीवन संकेत होइनन्।"
+ },
+ {
+  "id": "NUR-011",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "When administering an intramuscular injection to an adult, which site is preferred to avoid injury to the sciatic nerve?",
+  "options": [
+   "Dorsogluteal site",
+   "Deltoid site",
+   "Ventrogluteal site",
+   "Vastus lateralis site"
+  ],
+  "answer": 2,
+  "explanation": "The ventrogluteal site is preferred for adults because it is away from major nerves and blood vessels, unlike the dorsogluteal site which risks sciatic nerve injury.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "वयस्कलाई इन्ट्रामस्कुलर इन्जेक्सन दिँदा साइटिक स्नायुमा चोटबाट बच्न कुन स्थान रुचाइन्छ?",
+  "options_ne": [
+   "डोर्सोग्लुटियल स्थान",
+   "डेल्टोइड स्थान",
+   "भेन्ट्रोग्लुटियल स्थान",
+   "भास्टस ल्याटेरालिस स्थान"
+  ],
+  "explanation_ne": "भेन्ट्रोग्लुटियल स्थान वयस्कका लागि रुचाइन्छ किनभने यो प्रमुख स्नायु र रक्तनलीबाट टाढा हुन्छ, जबकि डोर्सोग्लुटियल स्थानमा साइटिक स्नायुमा चोटको जोखिम हुन्छ।"
+ },
+ {
+  "id": "NUR-012",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the most important nursing action before administering any medication?",
+  "options": [
+   "Checking the patient's blood pressure",
+   "Recording the patient's weight",
+   "Asking the patient about food preferences",
+   "Verifying the five rights of medication administration"
+  ],
+  "answer": 3,
+  "explanation": "The five rights — right patient, right drug, right dose, right route and right time — must be verified before giving any medication.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "कुनै पनि औषधि दिनुअघि सबैभन्दा महत्त्वपूर्ण नर्सिङ कार्य के हो?",
+  "options_ne": [
+   "बिरामीको रक्तचाप जाँच्ने",
+   "बिरामीको तौल लेख्ने",
+   "बिरामीलाई खानाको रुचिबारे सोध्ने",
+   "औषधि प्रशासनका पाँच अधिकार (five rights) प्रमाणित गर्ने"
+  ],
+  "explanation_ne": "कुनै पनि औषधि दिनुअघि पाँच अधिकार — सही बिरामी, सही औषधि, सही मात्रा, सही बाटो र सही समय — प्रमाणित गर्नुपर्छ।"
+ },
+ {
+  "id": "NUR-013",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which position is used for a rectal examination or enema administration?",
+  "options": [
+   "Sims' position",
+   "Prone position",
+   "Supine position",
+   "Trendelenburg position"
+  ],
+  "answer": 0,
+  "explanation": "Sims' position (left lateral with the upper leg flexed) is used for rectal examination and enema administration.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "मलद्वार जाँच वा एनिमा दिन कुन पोजिसन प्रयोग गरिन्छ?",
+  "options_ne": [
+   "सिम्स पोजिसन",
+   "प्रोन पोजिसन",
+   "सुपाइन पोजिसन",
+   "ट्रेन्डेलेनबर्ग पोजिसन"
+  ],
+  "explanation_ne": "सिम्स पोजिसन (बायाँ छेउमा सुतेर माथिल्लो खुट्टा मोडेको) मलद्वार जाँच र एनिमा दिन प्रयोग गरिन्छ।"
+ },
+ {
+  "id": "NUR-014",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the purpose of the Trendelenburg position?",
+  "options": [
+   "To improve breathing in asthma",
+   "To increase blood flow to the brain in shock",
+   "To relieve back pain",
+   "To prevent aspiration during feeding"
+  ],
+  "answer": 1,
+  "explanation": "In Trendelenburg position the head is lower than the feet, which helps venous return and blood flow to the brain in shock, though it is used cautiously today.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "ट्रेन्डेलेनबर्ग पोजिसनको उद्देश्य के हो?",
+  "options_ne": [
+   "दममा श्वासप्रश्वास सुधार्न",
+   "सकमा मस्तिष्कतर्फ रगत प्रवाह बढाउन",
+   "ढाड दुखाइ कम गर्न",
+   "खुवाउँदा श्वासनलीमा खाना जान रोक्न"
+  ],
+  "explanation_ne": "ट्रेन्डेलेनबर्ग पोजिसनमा टाउको खुट्टाभन्दा तल हुन्छ, जसले शिरा फिर्ती र सकमा मस्तिष्कतर्फ रगत प्रवाहमा सहयोग गर्छ।"
+ },
+ {
+  "id": "NUR-015",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which solution is commonly used for cleaning a wound?",
+  "options": [
+   "Hydrogen peroxide",
+   "Spirit (alcohol)",
+   "Normal saline",
+   "Betadine only"
+  ],
+  "answer": 2,
+  "explanation": "Normal saline (0.9% sodium chloride) is the preferred wound-cleansing solution because it is isotonic and does not damage healing tissue.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "घाउ सफा गर्न सामान्यतया कुन घोल प्रयोग गरिन्छ?",
+  "options_ne": [
+   "हाइड्रोजन पेरोक्साइड",
+   "स्पिरिट (अल्कोहल)",
+   "नर्मल सलाइन",
+   "बेटाडिन मात्र"
+  ],
+  "explanation_ne": "नर्मल सलाइन (०.९% सोडियम क्लोराइड) घाउ सफा गर्न रुचाइएको घोल हो किनभने यो आइसोटोनिक हुन्छ र निको हुँदै गरेको तन्तुलाई हानि गर्दैन।"
+ },
+ {
+  "id": "NUR-016",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal range of oxygen saturation (SpO2) in a healthy adult?",
+  "options": [
+   "70–80%",
+   "85–90%",
+   "100–110%",
+   "95–100%"
+  ],
+  "answer": 3,
+  "explanation": "Normal pulse oximetry oxygen saturation in a healthy adult is 95–100%; values below 90% generally indicate hypoxaemia.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "स्वस्थ वयस्कमा अक्सिजन स्याचुरेसन (SpO2) को सामान्य दायरा कति हो?",
+  "options_ne": [
+   "७०–८०%",
+   "८५–९०%",
+   "१००–११०%",
+   "९५–१००%"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कमा पल्स अक्सिमिटरबाट नापिने अक्सिजन स्याचुरेसन ९५–१००% हुन्छ; ९०% भन्दा कम भएमा हाइपोक्सेमिया मानिन्छ।"
+ },
+ {
+  "id": "NUR-017",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the correct technique for measuring blood pressure?",
+  "options": [
+   "Cuff at heart level with the patient seated and arm supported",
+   "Cuff placed over clothing with arm hanging down",
+   "Cuff inflated rapidly and deflated quickly",
+   "Measuring immediately after the patient climbs stairs"
+  ],
+  "answer": 0,
+  "explanation": "Blood pressure should be measured with the patient seated, back supported, feet flat, arm supported at heart level and the cuff on bare skin after 5 minutes of rest.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "रक्तचाप नाप्ने सही विधि कुन हो?",
+  "options_ne": [
+   "बिरामी बसेको, हातलाई मुटुको उचाइमा सहारा दिएर कफ लगाएर",
+   "लुगा माथिबाट कफ लगाएर हात झुन्ड्याएर",
+   "कफ छिटो फुलाएर छिटो खुकुलो पारेर",
+   "बिरामी भर्‍याङ चढेर आएलगत्तै नापेर"
+  ],
+  "explanation_ne": "रक्तचाप बिरामीलाई बसेर, पिठ्यूँमा सहारा दिएर, खुट्टा भुइँमा राखेर, हातलाई मुटुको उचाइमा सहारा दिएर र ५ मिनेट आरामपछि खाली छालामा कफ लगाएर नाप्नुपर्छ।"
+ },
+ {
+  "id": "NUR-018",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is asepsis?",
+  "options": [
+   "Presence of infection",
+   "Absence of disease-causing microorganisms",
+   "Use of antibiotics only",
+   "Sterilisation of surgical instruments only"
+  ],
+  "answer": 1,
+  "explanation": "Asepsis is the absence of pathogenic microorganisms; aseptic technique prevents their transfer to a susceptible site.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "एसेप्सिस भनेको के हो?",
+  "options_ne": [
+   "संक्रमणको उपस्थिति",
+   "रोग गराउने सूक्ष्मजीवहरूको अनुपस्थिति",
+   "एन्टिबायोटिकको मात्र प्रयोग",
+   "शल्यक्रिया उपकरणहरूको मात्र जीवाणुमुक्ति"
+  ],
+  "explanation_ne": "एसेप्सिस भनेको रोगजनक सूक्ष्मजीवहरूको अनुपस्थिति हो; एसेप्टिक प्रविधिले तिनलाई संवेदनशील स्थानमा सर्नबाट रोक्छ।"
+ },
+ {
+  "id": "NUR-019",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which type of isolation is required for a patient with pulmonary tuberculosis?",
+  "options": [
+   "Contact isolation",
+   "Droplet isolation",
+   "Airborne isolation",
+   "Protective isolation"
+  ],
+  "answer": 2,
+  "explanation": "Pulmonary tuberculosis spreads by airborne droplet nuclei, so airborne precautions (negative-pressure room, N95 respirator) are required.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "फोक्सोको क्षयरोग भएका बिरामीका लागि कुन प्रकारको आइसोलेसन आवश्यक छ?",
+  "options_ne": [
+   "सम्पर्क आइसोलेसन",
+   "थोपा आइसोलेसन",
+   "हवाइ (एयरबोर्न) आइसोलेसन",
+   "सुरक्षात्मक आइसोलेसन"
+  ],
+  "explanation_ne": "फोक्सोको क्षयरोग हवाइ थोपा केन्द्रकबाट सर्छ, त्यसैले एयरबोर्न सावधानी (नकारात्मक दबाब कोठा, N95 मास्क) आवश्यक छ।"
+ },
+ {
+  "id": "NUR-020",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many millilitres are there in one litre?",
+  "options": [
+   "10 mL",
+   "100 mL",
+   "500 mL",
+   "1000 mL"
+  ],
+  "answer": 3,
+  "explanation": "One litre equals 1000 millilitres.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "एक लिटरमा कति मिलिलिटर हुन्छ?",
+  "options_ne": [
+   "१० मिलि",
+   "१०० मिलि",
+   "५०० मिलि",
+   "१००० मिलि"
+  ],
+  "explanation_ne": "एक लिटर बराबर १००० मिलिलिटर हुन्छ।"
+ },
+ {
+  "id": "NUR-021",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A patient is ordered 500 mL of IV fluid over 5 hours. What is the flow rate in mL per hour?",
+  "options": [
+   "100 mL/hr",
+   "50 mL/hr",
+   "150 mL/hr",
+   "250 mL/hr"
+  ],
+  "answer": 0,
+  "explanation": "Flow rate = total volume ÷ time = 500 mL ÷ 5 hours = 100 mL per hour.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "बिरामीलाई ५ घण्टामा ५०० मिलि IV तरल पदार्थ दिन आदेश छ। प्रति घण्टा प्रवाह दर कति हो?",
+  "options_ne": [
+   "१०० मिलि/घण्टा",
+   "५० मिलि/घण्टा",
+   "१५० मिलि/घण्टा",
+   "२५० मिलि/घण्टा"
+  ],
+  "explanation_ne": "प्रवाह दर = कुल मात्रा ÷ समय = ५०० मिलि ÷ ५ घण्टा = १०० मिलि प्रति घण्टा।"
+ },
+ {
+  "id": "NUR-022",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which nursing theorist developed the theory of self-care deficit?",
+  "options": [
+   "Florence Nightingale",
+   "Dorothea Orem",
+   "Virginia Henderson",
+   "Jean Watson"
+  ],
+  "answer": 1,
+  "explanation": "Dorothea Orem developed the Self-Care Deficit Nursing Theory, which focuses on patients' ability to care for themselves.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "सेल्फ-केयर डेफिसिटको सिद्धान्त कुन नर्सिङ सिद्धान्तकारले विकास गरेकी हुन्?",
+  "options_ne": [
+   "फ्लोरेन्स नाइटिङ्गेल",
+   "डोरोथिया ओरेम",
+   "भर्जिनिया हेन्डरसन",
+   "जिन वाटसन"
+  ],
+  "explanation_ne": "डोरोथिया ओरेमले सेल्फ-केयर डेफिसिट नर्सिङ सिद्धान्त विकास गर्नुभयो, जुन बिरामीको आफ्नो हेरचाह गर्ने क्षमतामा केन्द्रित छ।"
+ },
+ {
+  "id": "NUR-024",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following best describes informed consent?",
+  "options": [
+   "The nurse decides treatment for the patient",
+   "Consent given only in emergencies",
+   "The family signs a form without explanation",
+   "The patient agrees to treatment after understanding its risks, benefits and alternatives"
+  ],
+  "answer": 3,
+  "explanation": "Informed consent means the patient voluntarily agrees to treatment after receiving full information about risks, benefits and alternatives.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "निम्नमध्ये कुनले सूचित सहमति (informed consent) लाई सबैभन्दा राम्रोसँग वर्णन गर्छ?",
+  "options_ne": [
+   "नर्सले बिरामीका लागि उपचार निर्णय गर्छिन्",
+   "आपतकालीन अवस्थामा मात्र दिइने सहमति",
+   "परिवारले व्याख्या नबुझी फारममा हस्ताक्षर गर्छ",
+   "बिरामीले जोखिम, फाइदा र विकल्प बुझेपछि उपचारमा सहमत हुन्छन्"
+  ],
+  "explanation_ne": "सूचित सहमति भनेको बिरामीले जोखिम, फाइदा र विकल्पबारे पूर्ण जानकारी पाएपछि स्वेच्छाले उपचारमा सहमत हुनु हो।"
+ },
+ {
+  "id": "NUR-025",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which instrument is used to measure blood pressure?",
+  "options": [
+   "Sphygmomanometer",
+   "Stethoscope alone",
+   "Thermometer",
+   "Pulse oximeter"
+  ],
+  "answer": 0,
+  "explanation": "A sphygmomanometer (with a stethoscope) is used to measure blood pressure.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "रक्तचाप नाप्न कुन उपकरण प्रयोग गरिन्छ?",
+  "options_ne": [
+   "स्फिग्मोम्यानोमिटर",
+   "स्टेथोस्कोप मात्र",
+   "थर्मोमिटर",
+   "पल्स अक्सिमिटर"
+  ],
+  "explanation_ne": "रक्तचाप नाप्न स्फिग्मोम्यानोमिटर (स्टेथोस्कोपसहित) प्रयोग गरिन्छ।"
+ },
+ {
+  "id": "NUR-026",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the term for a body temperature above 38°C (100.4°F)?",
+  "options": [
+   "Hypothermia",
+   "Fever (pyrexia)",
+   "Hyperthermia",
+   "Hypotension"
+  ],
+  "answer": 1,
+  "explanation": "Fever or pyrexia is a body temperature above the normal range, generally above 38°C.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "शरीरको तापक्रम ३८°से (१००.४°फा) भन्दा बढी भएको अवस्थालाई के भनिन्छ?",
+  "options_ne": [
+   "हाइपोथर्मिया",
+   "ज्वरो (पाइरेक्सिया)",
+   "हाइपरथर्मिया",
+   "हाइपोटेन्सन"
+  ],
+  "explanation_ne": "ज्वरो वा पाइरेक्सिया भनेको सामान्य दायराभन्दा बढी, सामान्यतया ३८°से भन्दा माथिको शरीर तापक्रम हो।"
+ },
+ {
+  "id": "NUR-027",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a sign of hypovolaemic shock?",
+  "options": [
+   "Bradycardia with hypertension",
+   "Fever with bounding pulse",
+   "Tachycardia, hypotension and cool clammy skin",
+   "Slow breathing with warm dry skin"
+  ],
+  "answer": 2,
+  "explanation": "Hypovolaemic shock from fluid loss presents with tachycardia, low blood pressure, rapid breathing and cool, clammy, pale skin.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "निम्नमध्ये कुन हाइपोभोलेमिक सकको लक्षण हो?",
+  "options_ne": [
+   "उच्च रक्तचापसहित मन्द नाडी",
+   "ज्वरोसहित बलियो नाडी",
+   "छिटो नाडी, कम रक्तचाप र चिसो चिपचिपे छाला",
+   "तातो सुख्खा छालासहित ढिलो श्वास"
+  ],
+  "explanation_ne": "तरल पदार्थको कमीबाट हुने हाइपोभोलेमिक सकमा छिटो नाडी, कम रक्तचाप, छिटो श्वास र चिसो, चिपचिपे, फिक्का छाला देखिन्छ।"
+ },
+ {
+  "id": "NUR-028",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha",
+   "nmc-bds",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal adult blood pressure reading?",
+  "options": [
+   "90/60 mmHg",
+   "160/100 mmHg",
+   "140/90 mmHg",
+   "120/80 mmHg"
+  ],
+  "answer": 3,
+  "explanation": "Normal adult blood pressure is around 120/80 mmHg; 140/90 mmHg or above is considered hypertension.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "वयस्कको सामान्य रक्तचाप कति हुन्छ?",
+  "options_ne": [
+   "९०/६० मिमिHg",
+   "१६०/१०० मिमिHg",
+   "१४०/९० मिमिHg",
+   "१२०/८० मिमिHg"
+  ],
+  "explanation_ne": "वयस्कको सामान्य रक्तचाप करिब १२०/८० मिमिHg हुन्छ; १४०/९० मिमिHg वा माथि उच्च रक्तचाप मानिन्छ।"
+ },
+ {
+  "id": "NUR-029",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which route of drug administration gives the fastest onset of action?",
+  "options": [
+   "Intravenous",
+   "Intramuscular",
+   "Subcutaneous",
+   "Oral"
+  ],
+  "answer": 0,
+  "explanation": "Intravenous administration delivers the drug directly into the bloodstream, giving the fastest onset of action.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "औषधि दिने कुन बाटोबाट सबैभन्दा छिटो असर देखिन्छ?",
+  "options_ne": [
+   "शिराबाट (IV)",
+   "मांसपेशीमा",
+   "छालामुनि",
+   "मुखबाट"
+  ],
+  "explanation_ne": "शिराबाट (IV) दिँदा औषधि सिधै रगतमा पुग्छ, त्यसैले सबैभन्दा छिटो असर देखिन्छ।"
+ },
+ {
+  "id": "NUR-030",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nursing Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should a nurse do immediately after a needlestick injury?",
+  "options": [
+   "Suck the wound",
+   "Wash the area with soap and water and report the incident",
+   "Apply a tight tourniquet",
+   "Ignore it if no bleeding occurs"
+  ],
+  "answer": 1,
+  "explanation": "After a needlestick injury, wash the area immediately with soap and water, allow it to bleed freely, and report for post-exposure assessment and prophylaxis.",
+  "source": "Nursing fundamentals — standard textbook",
+  "question_ne": "सुईले चोट लागेपछि नर्सले तुरुन्त के गर्नुपर्छ?",
+  "options_ne": [
+   "घाउ चुस्ने",
+   "साबुन पानीले धुने र घटना रिपोर्ट गर्ने",
+   "कसिलो टुर्निकेट बाँध्ने",
+   "रगत नबगे बेवास्ता गर्ने"
+  ],
+  "explanation_ne": "सुईले चोट लागेपछि तुरुन्त साबुन पानीले धुने, रगत स्वतन्त्र रूपमा बग्न दिने र पोस्ट-एक्सपोजर मूल्याङ्कन तथा प्रोफिल्याक्सिसका लागि रिपोर्ट गर्नुपर्छ।"
+ },
+ {
+  "id": "NUR-031",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many bones are there in the adult human skeleton?",
+  "options": [
+   "106",
+   "126",
+   "206",
+   "256"
+  ],
+  "answer": 2,
+  "explanation": "The adult human skeleton has 206 bones; infants are born with about 300 bones, some of which fuse during growth.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "वयस्क मानव कङ्कालमा कति हड्डी हुन्छन्?",
+  "options_ne": [
+   "१०६",
+   "१२६",
+   "२०६",
+   "२५६"
+  ],
+  "explanation_ne": "वयस्क मानव कङ्कालमा २०६ हड्डी हुन्छन्; शिशु करिब ३०० हड्डीसहित जन्मन्छ, जसमध्ये केही बढ्दै जाँदा जोडिन्छन्।"
+ },
+ {
+  "id": "NUR-032",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ pumps blood throughout the body?",
+  "options": [
+   "Liver",
+   "Lung",
+   "Kidney",
+   "Heart"
+  ],
+  "answer": 3,
+  "explanation": "The heart is the muscular organ that pumps blood through the blood vessels to all parts of the body.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "शरीरभरि रगत पम्प गर्ने अङ्ग कुन हो?",
+  "options_ne": [
+   "कलेजो",
+   "फोक्सो",
+   "मिर्गौला",
+   "मुटु"
+  ],
+  "explanation_ne": "मुटु मांसपेशीय अङ्ग हो जसले रक्तनलीहरूमार्फत शरीरका सबै भागमा रगत पम्प गर्छ।"
+ },
+ {
+  "id": "NUR-034",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which blood cells carry oxygen to the tissues?",
+  "options": [
+   "White blood cells",
+   "Red blood cells",
+   "Platelets",
+   "Plasma cells"
+  ],
+  "answer": 1,
+  "explanation": "Red blood cells contain haemoglobin, which binds and carries oxygen from the lungs to the tissues.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "तन्तुहरूमा अक्सिजन पुर्‍याउने रक्तकोषिका कुन हो?",
+  "options_ne": [
+   "सेतो रक्तकोषिका",
+   "रातो रक्तकोषिका",
+   "प्लेटलेट",
+   "प्लाज्मा कोषिका"
+  ],
+  "explanation_ne": "रातो रक्तकोषिकामा हिमोग्लोबिन हुन्छ, जसले फोक्सोबाट तन्तुहरूमा अक्सिजन बाँधेर पुर्‍याउँछ।"
+ },
+ {
+  "id": "NUR-035",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organ is the main site of gas exchange in the human body?",
+  "options": [
+   "Trachea",
+   "Bronchi",
+   "Alveoli of the lungs",
+   "Diaphragm"
+  ],
+  "answer": 2,
+  "explanation": "Gas exchange occurs in the alveoli, the tiny air sacs of the lungs, where oxygen enters the blood and carbon dioxide leaves it.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "मानव शरीरमा ग्यास आदानप्रदान हुने मुख्य स्थान कुन हो?",
+  "options_ne": [
+   "श्वासनली",
+   "ब्रोन्काइ",
+   "फोक्सोका एल्भिओली",
+   "डायफ्राम"
+  ],
+  "explanation_ne": "ग्यास आदानप्रदान एल्भिओलीमा हुन्छ, फोक्सोका साना हावाका थैलीहरूमा जहाँ अक्सिजन रगतमा प्रवेश गर्छ र कार्बन डाइअक्साइड बाहिर निस्कन्छ।"
+ },
+ {
+  "id": "NUR-036",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which cranial nerve is responsible for the sense of smell?",
+  "options": [
+   "Optic nerve (II)",
+   "Facial nerve (VII)",
+   "Trigeminal nerve (V)",
+   "Olfactory nerve (I)"
+  ],
+  "answer": 3,
+  "explanation": "The olfactory nerve, cranial nerve I, carries the sense of smell from the nose to the brain.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "गन्धको ज्ञानका लागि जिम्मेवार कपाल स्नायु (cranial nerve) कुन हो?",
+  "options_ne": [
+   "अप्टिक स्नायु (II)",
+   "फेसियल स्नायु (VII)",
+   "ट्राइजेमिनल स्नायु (V)",
+   "ओल्फ्याक्टरी स्नायु (I)"
+  ],
+  "explanation_ne": "ओल्फ्याक्टरी स्नायु, कपाल स्नायु I, ले नाकबाट मस्तिष्कसम्म गन्धको ज्ञान पुर्‍याउँछ।"
+ },
+ {
+  "id": "NUR-038",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which part of the nephron is the main site of filtration of blood?",
+  "options": [
+   "Loop of Henle",
+   "Glomerulus",
+   "Distal convoluted tubule",
+   "Collecting duct"
+  ],
+  "answer": 1,
+  "explanation": "The glomerulus, a tuft of capillaries in the Bowman's capsule, filters blood plasma to form the glomerular filtrate.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "नेफ्रोनको कुन भाग रगत छानिने मुख्य स्थान हो?",
+  "options_ne": [
+   "हेन्लेको लुप",
+   "ग्लोमेरुलस",
+   "डिस्टल कन्भोल्युटेड ट्युब्युल",
+   "कलेक्टिङ डक्ट"
+  ],
+  "explanation_ne": "ग्लोमेरुलस, बोम्यान क्याप्सुलभित्रको केशिका गुच्छा, ले रगतको प्लाज्मा छानेर ग्लोमेरुलर फिल्ट्रेट बनाउँछ।"
+ },
+ {
+  "id": "NUR-041",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which hormone is secreted by the posterior pituitary gland?",
+  "options": [
+   "Antidiuretic hormone (ADH)",
+   "Thyroid-stimulating hormone",
+   "Growth hormone",
+   "Adrenocorticotropic hormone"
+  ],
+  "answer": 0,
+  "explanation": "Antidiuretic hormone (vasopressin) and oxytocin are stored in and released from the posterior pituitary; ADH reduces urine output by increasing water reabsorption.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "पश्च पिट्युटरी ग्रन्थिबाट कुन हर्मोन स्राव हुन्छ?",
+  "options_ne": [
+   "एन्टिडाइयुरेटिक हर्मोन (ADH)",
+   "थाइराइड उत्तेजक हर्मोन",
+   "वृद्धि हर्मोन",
+   "एड्रेनोकोर्टिकोट्रोपिक हर्मोन"
+  ],
+  "explanation_ne": "एन्टिडाइयुरेटिक हर्मोन (भासोप्रेसिन) र अक्सिटोसिन पश्च पिट्युटरीमा भण्डारण भएर निस्कन्छन्; ADH ले पानीको पुनःशोषण बढाएर पिसाब घटाउँछ।"
+ },
+ {
+  "id": "NUR-043",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where does fertilisation of the ovum normally take place?",
+  "options": [
+   "Uterus",
+   "Ovary",
+   "Ampulla of the fallopian tube",
+   "Cervix"
+  ],
+  "answer": 2,
+  "explanation": "Fertilisation normally occurs in the ampulla, the widest part of the fallopian tube, after ovulation.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "डिम्बको निषेचन सामान्यतया कहाँ हुन्छ?",
+  "options_ne": [
+   "पाठेघर",
+   "डिम्बाशय",
+   "फ्यालोपियन ट्युबको एम्पुला",
+   "पाठेघरको मुख"
+  ],
+  "explanation_ne": "निषेचन सामान्यतया फ्यालोपियन ट्युबको सबैभन्दा फराकिलो भाग एम्पुलामा डिम्ब निस्केपछि हुन्छ।"
+ },
+ {
+  "id": "NUR-044",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vessel carries oxygenated blood from the lungs to the heart?",
+  "options": [
+   "Pulmonary artery",
+   "Vena cava",
+   "Aorta",
+   "Pulmonary vein"
+  ],
+  "answer": 3,
+  "explanation": "The pulmonary veins carry oxygenated blood from the lungs to the left atrium of the heart; the pulmonary artery is the exception that carries deoxygenated blood.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "फोक्सोबाट मुटुमा अक्सिजनयुक्त रगत पुर्‍याउने नली कुन हो?",
+  "options_ne": [
+   "पल्मोनरी धमनी",
+   "भेना काभा",
+   "एओर्टा",
+   "पल्मोनरी शिरा"
+  ],
+  "explanation_ne": "पल्मोनरी शिराले फोक्सोबाट अक्सिजनयुक्त रगत मुटुको बायाँ अलिन्दमा पुर्‍याउँछ; पल्मोनरी धमनीले भने अक्सिजनरहित रगत बोक्छ।"
+ },
+ {
+  "id": "NUR-045",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which enzyme in saliva begins the digestion of starch?",
+  "options": [
+   "Amylase (ptyalin)",
+   "Lipase",
+   "Pepsin",
+   "Trypsin"
+  ],
+  "answer": 0,
+  "explanation": "Salivary amylase (ptyalin) begins breaking down starch into maltose in the mouth.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "र्‍यालमा रहेको कुन इन्जाइमले स्टार्चको पाचन सुरु गर्छ?",
+  "options_ne": [
+   "एमाइलेज (टायलिन)",
+   "लाइपेज",
+   "पेप्सिन",
+   "ट्रिप्सिन"
+  ],
+  "explanation_ne": "र्‍यालको एमाइलेज (टायलिन) ले मुखमै स्टार्चलाई माल्टोजमा तोड्न सुरु गर्छ।"
+ },
+ {
+  "id": "NUR-046",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the normal glomerular filtration rate (GFR) in a healthy adult?",
+  "options": [
+   "About 30 mL/min",
+   "About 120 mL/min",
+   "About 60 mL/min",
+   "About 200 mL/min"
+  ],
+  "answer": 1,
+  "explanation": "Normal GFR in a healthy young adult is about 120 mL/min/1.73 m²; it declines gradually with age.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "स्वस्थ वयस्कमा सामान्य ग्लोमेरुलर फिल्ट्रेसन दर (GFR) कति हुन्छ?",
+  "options_ne": [
+   "करिब ३० मिलि/मिनेट",
+   "करिब १२० मिलि/मिनेट",
+   "करिब ६० मिलि/मिनेट",
+   "करिब २०० मिलि/मिनेट"
+  ],
+  "explanation_ne": "स्वस्थ युवा वयस्कमा सामान्य GFR करिब १२० मिलि/मिनेट/१.७३ वर्गमिटर हुन्छ; उमेरसँगै यो बिस्तारै घट्छ।"
+ },
+ {
+  "id": "NUR-050",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the normal pH of arterial blood?",
+  "options": [
+   "7.0",
+   "7.4",
+   "7.2",
+   "7.8"
+  ],
+  "answer": 1,
+  "explanation": "Normal arterial blood pH is tightly regulated at 7.35–7.45, commonly stated as 7.4.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "धमनी रगतको सामान्य pH कति हो?",
+  "options_ne": [
+   "७.०",
+   "७.४",
+   "७.२",
+   "७.८"
+  ],
+  "explanation_ne": "धमनी रगतको सामान्य pH ७.३५–७.४५ को दायरामा कडाइका साथ नियन्त्रित हुन्छ, सामान्यतया ७.४ भनिन्छ।"
+ },
+ {
+  "id": "NUR-051",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which part of the digestive system absorbs most nutrients?",
+  "options": [
+   "Stomach",
+   "Large intestine",
+   "Small intestine",
+   "Oesophagus"
+  ],
+  "answer": 2,
+  "explanation": "Most nutrient absorption occurs in the small intestine, especially the jejunum and ileum, through villi that increase surface area.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "पाचन प्रणालीको कुन भागले धेरैजसो पोषक तत्व शोषण गर्छ?",
+  "options_ne": [
+   "पेट",
+   "ठूलो आन्द्रा",
+   "सानो आन्द्रा",
+   "ग्रासनली"
+  ],
+  "explanation_ne": "धेरैजसो पोषक तत्वको शोषण सानो आन्द्रामा हुन्छ, विशेष गरी जेजुनम र इलियममा, भिल्लीले सतह क्षेत्र बढाएर।"
+ },
+ {
+  "id": "NUR-052",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which cells in the blood help fight infection?",
+  "options": [
+   "Red blood cells",
+   "Platelets",
+   "Plasma proteins",
+   "White blood cells"
+  ],
+  "answer": 3,
+  "explanation": "White blood cells (leucocytes) defend the body against infection through phagocytosis and antibody production.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "रगतका कुन कोषिकाले संक्रमणसँग लड्न सहयोग गर्छन्?",
+  "options_ne": [
+   "रातो रक्तकोषिका",
+   "प्लेटलेट",
+   "प्लाज्मा प्रोटिन",
+   "सेतो रक्तकोषिका"
+  ],
+  "explanation_ne": "सेतो रक्तकोषिका (ल्युकोसाइट) ले फागोसाइटोसिस र एन्टिबडी उत्पादनमार्फत शरीरलाई संक्रमणबाट जोगाउँछन्।"
+ },
+ {
+  "id": "NUR-053",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which valve prevents backflow of blood from the aorta into the left ventricle?",
+  "options": [
+   "Aortic valve",
+   "Tricuspid valve",
+   "Mitral valve",
+   "Pulmonary valve"
+  ],
+  "answer": 0,
+  "explanation": "The aortic valve, between the left ventricle and the aorta, prevents blood flowing back into the ventricle during diastole.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "एओर्टाबाट बायाँ निलयमा रगत फिर्ता जान रोक्ने भल्भ कुन हो?",
+  "options_ne": [
+   "एओर्टिक भल्भ",
+   "ट्राइकस्पिड भल्भ",
+   "माइट्रल भल्भ",
+   "पल्मोनरी भल्भ"
+  ],
+  "explanation_ne": "बायाँ निलय र एओर्टाबीचको एओर्टिक भल्भले डायस्टोलको समयमा रगत निलयमा फिर्ता जानबाट रोक्छ।"
+ },
+ {
+  "id": "NUR-055",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy & Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal adult haemoglobin level for women?",
+  "options": [
+   "8–10 g/dL",
+   "16–18 g/dL",
+   "12–15 g/dL",
+   "20–22 g/dL"
+  ],
+  "answer": 2,
+  "explanation": "Normal haemoglobin is about 12–15 g/dL in adult women and 13–17 g/dL in adult men.",
+  "source": "Anatomy and physiology — standard textbook",
+  "question_ne": "वयस्क महिलामा सामान्य हिमोग्लोबिन स्तर कति हुन्छ?",
+  "options_ne": [
+   "८–१० ग्रा/डेसिलि",
+   "१६–१८ ग्रा/डेसिलि",
+   "१२–१५ ग्रा/डेसिलि",
+   "२०–२२ ग्रा/डेसिलि"
+  ],
+  "explanation_ne": "वयस्क महिलामा सामान्य हिमोग्लोबिन करिब १२–१५ ग्रा/डेसिलि र वयस्क पुरुषमा १३–१७ ग्रा/डेसिलि हुन्छ।"
+ },
+ {
+  "id": "NUR-056",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug is commonly used to relieve pain and reduce fever?",
+  "options": [
+   "Amoxicillin",
+   "Omeprazole",
+   "Insulin",
+   "Paracetamol"
+  ],
+  "answer": 3,
+  "explanation": "Paracetamol (acetaminophen) is an analgesic and antipyretic used to relieve pain and reduce fever.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "दुखाइ कम गर्न र ज्वरो घटाउन सामान्यतया कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "एमोक्सिसिलिन",
+   "ओमेप्राजोल",
+   "इन्सुलिन",
+   "प्यारासिटामोल"
+  ],
+  "explanation_ne": "प्यारासिटामोल (एसिटामिनोफेन) दुखाइ कम गर्ने र ज्वरो घटाउने औषधि हो।"
+ },
+ {
+  "id": "NUR-057",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which class of drug is amoxicillin?",
+  "options": [
+   "Antibiotic",
+   "Antiviral",
+   "Antifungal",
+   "Antiparasitic"
+  ],
+  "answer": 0,
+  "explanation": "Amoxicillin is a penicillin-type antibiotic used to treat bacterial infections.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "एमोक्सिसिलिन कुन वर्गको औषधि हो?",
+  "options_ne": [
+   "एन्टिबायोटिक",
+   "एन्टिभाइरल",
+   "एन्टिफंगल",
+   "एन्टिप्यारासाइटिक"
+  ],
+  "explanation_ne": "एमोक्सिसिलिन पेनिसिलिन प्रकारको एन्टिबायोटिक हो, जुन ब्याक्टेरिया संक्रमणको उपचारमा प्रयोग हुन्छ।"
+ },
+ {
+  "id": "NUR-058",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the antidote for paracetamol overdose?",
+  "options": [
+   "Naloxone",
+   "N-acetylcysteine",
+   "Vitamin K",
+   "Atropine"
+  ],
+  "answer": 1,
+  "explanation": "N-acetylcysteine is the antidote for paracetamol poisoning; it replenishes glutathione and protects the liver when given early.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "प्यारासिटामोलको अधिक मात्राको प्रतिविष (antidote) के हो?",
+  "options_ne": [
+   "नालोक्सोन",
+   "एन-एसिटाइलसिस्टिन",
+   "भिटामिन K",
+   "एट्रोपिन"
+  ],
+  "explanation_ne": "एन-एसिटाइलसिस्टिन प्यारासिटामोल विषाक्तताको प्रतिविष हो; यसले ग्लुटाथायोन पुनःपूर्ति गरी छिटो दिँदा कलेजोको रक्षा गर्छ।"
+ },
+ {
+  "id": "NUR-059",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which drug is the antidote for opioid overdose?",
+  "options": [
+   "Flumazenil",
+   "Protamine",
+   "Naloxone",
+   "Physostigmine"
+  ],
+  "answer": 2,
+  "explanation": "Naloxone is an opioid antagonist that rapidly reverses opioid-induced respiratory depression.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "ओपिओइडको अधिक मात्राको प्रतिविष कुन औषधि हो?",
+  "options_ne": [
+   "फ्लुमाजेनिल",
+   "प्रोटामिन",
+   "नालोक्सोन",
+   "फाइसोस्टिग्मिन"
+  ],
+  "explanation_ne": "नालोक्सोन ओपिओइड विरोधी औषधि हो जसले ओपिओइडबाट हुने श्वासप्रश्वास अवरोधलाई छिटो उल्टाउँछ।"
+ },
+ {
+  "id": "NUR-060",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which route is used for insulin administration in most patients?",
+  "options": [
+   "Oral",
+   "Rectal",
+   "Intramuscular",
+   "Subcutaneous"
+  ],
+  "answer": 3,
+  "explanation": "Insulin is a protein destroyed by digestive enzymes, so it is given by subcutaneous injection, not orally.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "धेरैजसो बिरामीमा इन्सुलिन दिन कुन बाटो प्रयोग गरिन्छ?",
+  "options_ne": [
+   "मुखबाट",
+   "मलद्वारबाट",
+   "मांसपेशीमा",
+   "छालामुनि (सबक्युटेनियस)"
+  ],
+  "explanation_ne": "इन्सुलिन प्रोटिन हो जुन पाचन इन्जाइमले नष्ट गर्छ, त्यसैले यो मुखबाट नभई छालामुनि इन्जेक्सनबाट दिइन्छ।"
+ },
+ {
+  "id": "NUR-061",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which drug is contraindicated in a patient with a known allergy to penicillin who needs an alternative antibiotic?",
+  "options": [
+   "Cephalexin should be used with caution due to cross-reactivity",
+   "Amoxicillin",
+   "Penicillin V",
+   "Ampicillin"
+  ],
+  "answer": 0,
+  "explanation": "Cephalosporins such as cephalexin share a beta-lactam ring with penicillins, so cross-reactivity can occur and they must be used with caution in penicillin-allergic patients; the other options are all penicillins and are contraindicated.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "पेनिसिलिन एलर्जी भएको बिरामीलाई वैकल्पिक एन्टिबायोटिक चाहिँदा कुन औषधिबारे सावधानी आवश्यक छ?",
+  "options_ne": [
+   "क्रस-रियाक्टिभिटीका कारण सेफालेक्सिन सावधानीपूर्वक प्रयोग गर्नुपर्छ",
+   "एमोक्सिसिलिन",
+   "पेनिसिलिन V",
+   "एम्पिसिलिन"
+  ],
+  "explanation_ne": "सेफालेक्सिन जस्ता सेफालोस्पोरिनमा पेनिसिलिनजस्तै बिटा-ल्याक्टम रिङ हुन्छ, त्यसैले क्रस-रियाक्टिभिटी हुन सक्छ र सावधानी आवश्यक छ; अन्य विकल्पहरू सबै पेनिसिलिन हुन् र वर्जित छन्।"
+ },
+ {
+  "id": "NUR-062",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main side effect of morphine that a nurse must monitor?",
+  "options": [
+   "Diarrhoea",
+   "Respiratory depression",
+   "Hypertension",
+   "Increased urine output"
+  ],
+  "answer": 1,
+  "explanation": "Morphine, an opioid analgesic, can cause respiratory depression; respiratory rate and sedation must be monitored closely.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "मोर्फिनको मुख्य साइड इफेक्ट के हो जसलाई नर्सले निगरानी गर्नुपर्छ?",
+  "options_ne": [
+   "झाडा",
+   "श्वासप्रश्वास अवरोध",
+   "उच्च रक्तचाप",
+   "पिसाब बढ्नु"
+  ],
+  "explanation_ne": "मोर्फिन ओपिओइड दुखाइ कम गर्ने औषधि हो जसले श्वासप्रश्वास अवरोध गराउन सक्छ; श्वास दर र निद्रा निगरानी गर्नुपर्छ।"
+ },
+ {
+  "id": "NUR-063",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug is used as a first-line treatment for hypertension?",
+  "options": [
+   "Metformin",
+   "Insulin",
+   "Amlodipine",
+   "Salbutamol"
+  ],
+  "answer": 2,
+  "explanation": "Amlodipine, a calcium-channel blocker, is a commonly used first-line antihypertensive drug.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "उच्च रक्तचापको पहिलो-लाइन उपचारमा कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "मेटफर्मिन",
+   "इन्सुलिन",
+   "एम्लोडिपिन",
+   "साल्बुटामोल"
+  ],
+  "explanation_ne": "एम्लोडिपिन क्याल्सियम-च्यानल ब्लकर हो र उच्च रक्तचापको पहिलो-लाइन औषधिका रूपमा सामान्यतया प्रयोग हुन्छ।"
+ },
+ {
+  "id": "NUR-064",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following drugs is an anticoagulant?",
+  "options": [
+   "Aspirin",
+   "Furosemide",
+   "Paracetamol",
+   "Warfarin"
+  ],
+  "answer": 3,
+  "explanation": "Warfarin is an oral anticoagulant that inhibits vitamin K-dependent clotting factors; aspirin is an antiplatelet, not an anticoagulant.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "निम्नमध्ये कुन औषधि एन्टिकोगुलेन्ट हो?",
+  "options_ne": [
+   "एस्पिरिन",
+   "फ्युरोसेमाइड",
+   "प्यारासिटामोल",
+   "वार्फारिन"
+  ],
+  "explanation_ne": "वार्फारिन मुखबाट दिइने एन्टिकोगुलेन्ट हो जसले भिटामिन K मा निर्भर जम्ने कारकहरूलाई रोक्छ; एस्पिरिन एन्टिप्लेटलेट हो, एन्टिकोगुलेन्ट होइन।"
+ },
+ {
+  "id": "NUR-065",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which laboratory value must be monitored in a patient taking warfarin?",
+  "options": [
+   "INR (International Normalised Ratio)",
+   "Blood glucose",
+   "Serum potassium",
+   "Haemoglobin A1c"
+  ],
+  "answer": 0,
+  "explanation": "Warfarin therapy is monitored with INR; the usual therapeutic range for most indications is 2.0–3.0.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "वार्फारिन लिइरहेको बिरामीमा कुन प्रयोगशाला मान निगरानी गर्नुपर्छ?",
+  "options_ne": [
+   "INR (इन्टरनेसनल नर्मलाइज्ड रेसियो)",
+   "रगतमा चिनी",
+   "सिरम पोटासियम",
+   "हिमोग्लोबिन A1c"
+  ],
+  "explanation_ne": "वार्फारिन उपचार INR बाट निगरानी गरिन्छ; धेरैजसो संकेतका लागि उपचारात्मक दायरा २.०–३.० हुन्छ।"
+ },
+ {
+  "id": "NUR-066",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug is a bronchodilator used in asthma?",
+  "options": [
+   "Omeprazole",
+   "Salbutamol",
+   "Ciprofloxacin",
+   "Diazepam"
+  ],
+  "answer": 1,
+  "explanation": "Salbutamol is a short-acting beta-2 agonist bronchodilator that relieves bronchospasm in asthma.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "दममा प्रयोग हुने ब्रोन्कोडाइलेटर औषधि कुन हो?",
+  "options_ne": [
+   "ओमेप्राजोल",
+   "साल्बुटामोल",
+   "सिप्रोफ्लोक्सासिन",
+   "डायजेपाम"
+  ],
+  "explanation_ne": "साल्बुटामोल छोटो-अवधिको बिटा-२ एगोनिस्ट ब्रोन्कोडाइलेटर हो जसले दममा ब्रोन्कोस्पाज्म कम गर्छ।"
+ },
+ {
+  "id": "NUR-067",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the antidote for heparin overdose?",
+  "options": [
+   "Vitamin K",
+   "Naloxone",
+   "Protamine sulfate",
+   "Calcium gluconate"
+  ],
+  "answer": 2,
+  "explanation": "Protamine sulfate neutralises heparin; vitamin K is the antidote for warfarin.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "हेपरिनको अधिक मात्राको प्रतिविष के हो?",
+  "options_ne": [
+   "भिटामिन K",
+   "नालोक्सोन",
+   "प्रोटामिन सल्फेट",
+   "क्याल्सियम ग्लुकोनेट"
+  ],
+  "explanation_ne": "प्रोटामिन सल्फेटले हेपरिनलाई निष्क्रिय पार्छ; भिटामिन K वार्फारिनको प्रतिविष हो।"
+ },
+ {
+  "id": "NUR-068",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug is used to treat type 2 diabetes mellitus?",
+  "options": [
+   "Salbutamol",
+   "Amlodipine",
+   "Atorvastatin",
+   "Metformin"
+  ],
+  "answer": 3,
+  "explanation": "Metformin is a first-line oral hypoglycaemic drug for type 2 diabetes; it reduces hepatic glucose production.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "टाइप २ मधुमेहको उपचारमा कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "साल्बुटामोल",
+   "एम्लोडिपिन",
+   "एटोर्भास्टाटिन",
+   "मेटफर्मिन"
+  ],
+  "explanation_ne": "मेटफर्मिन टाइप २ मधुमेहका लागि पहिलो-लाइन मुखबाट दिइने चिनी घटाउने औषधि हो; यसले कलेजोबाट ग्लुकोज उत्पादन घटाउँछ।"
+ },
+ {
+  "id": "NUR-069",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a common side effect of furosemide?",
+  "options": [
+   "Hypokalaemia",
+   "Hyperkalaemia",
+   "Hyperglycaemia",
+   "Bradycardia"
+  ],
+  "answer": 0,
+  "explanation": "Furosemide is a loop diuretic that increases urinary loss of potassium, causing hypokalaemia.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "फ्युरोसेमाइडको सामान्य साइड इफेक्ट कुन हो?",
+  "options_ne": [
+   "हाइपोक्यालेमिया",
+   "हाइपरक्यालेमिया",
+   "हाइपरग्लाइसेमिया",
+   "ब्राडिकार्डिया"
+  ],
+  "explanation_ne": "फ्युरोसेमाइड लुप डाइयुरेटिक हो जसले पिसाबबाट पोटासियमको हानि बढाएर हाइपोक्यालेमिया गराउँछ।"
+ },
+ {
+  "id": "NUR-070",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which drug must be avoided in pregnancy because it causes birth defects of the neural tube when taken in the first trimester?",
+  "options": [
+   "Folic acid",
+   "Valproic acid",
+   "Paracetamol",
+   "Iron supplement"
+  ],
+  "answer": 1,
+  "explanation": "Valproic acid is teratogenic and is associated with neural tube defects; it should be avoided in pregnancy when alternatives exist.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "गर्भावस्थाको पहिलो त्रैमासिकमा लिँदा न्युरल ट्युब दोष गराउने भएकाले कुन औषधि बेवास्ता गर्नुपर्छ?",
+  "options_ne": [
+   "फोलिक एसिड",
+   "भाल्प्रोइक एसिड",
+   "प्यारासिटामोल",
+   "फलामको सप्लिमेन्ट"
+  ],
+  "explanation_ne": "भाल्प्रोइक एसिड टेराटोजेनिक हो र न्युरल ट्युब दोषसँग सम्बन्धित छ; विकल्प हुँदा गर्भावस्थामा यसलाई बेवास्ता गर्नुपर्छ।"
+ },
+ {
+  "id": "NUR-071",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vaccine is given at birth in Nepal under the National Immunisation Programme?",
+  "options": [
+   "Measles vaccine",
+   "HPV vaccine",
+   "BCG vaccine",
+   "Japanese encephalitis vaccine"
+  ],
+  "answer": 2,
+  "explanation": "BCG vaccine against tuberculosis is given at birth in Nepal's National Immunisation Programme.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "नेपालको राष्ट्रिय खोप कार्यक्रमअन्तर्गत जन्मँदा कुन खोप दिइन्छ?",
+  "options_ne": [
+   "दादुरा खोप",
+   "एचपिभी खोप",
+   "बिसिजी खोप",
+   "जापानी इन्सेफलाइटिस खोप"
+  ],
+  "explanation_ne": "नेपालको राष्ट्रिय खोप कार्यक्रमअन्तर्गत जन्मँदा क्षयरोगविरुद्ध बिसिजी खोप दिइन्छ।"
+ },
+ {
+  "id": "NUR-073",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the term 'antipyretic' mean?",
+  "options": [
+   "Drug that reduces fever",
+   "Drug that kills bacteria",
+   "Drug that relieves pain only",
+   "Drug that lowers blood pressure"
+  ],
+  "answer": 0,
+  "explanation": "An antipyretic is a drug that reduces fever, such as paracetamol.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "'एन्टिपाइरेटिक' शब्दको अर्थ के हो?",
+  "options_ne": [
+   "ज्वरो घटाउने औषधि",
+   "ब्याक्टेरिया मार्ने औषधि",
+   "दुखाइ मात्र कम गर्ने औषधि",
+   "रक्तचाप घटाउने औषधि"
+  ],
+  "explanation_ne": "एन्टिपाइरेटिक भनेको ज्वरो घटाउने औषधि हो, जस्तै प्यारासिटामोल।"
+ },
+ {
+  "id": "NUR-074",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which drug is used in the emergency treatment of anaphylaxis?",
+  "options": [
+   "Hydrocortisone alone",
+   "Adrenaline (epinephrine)",
+   "Salbutamol alone",
+   "Chlorpheniramine alone"
+  ],
+  "answer": 1,
+  "explanation": "Adrenaline (epinephrine) given intramuscularly is the first-line emergency treatment for anaphylaxis; antihistamines and steroids are adjuncts only.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "एनाफिल्याक्सिसको आपतकालीन उपचारमा कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "हाइड्रोकोर्टिसोन मात्र",
+   "एड्रेनालिन (एपिनेफ्रिन)",
+   "साल्बुटामोल मात्र",
+   "क्लोरफेनिरामिन मात्र"
+  ],
+  "explanation_ne": "मांसपेशीमा दिइने एड्रेनालिन (एपिनेफ्रिन) एनाफिल्याक्सिसको पहिलो-लाइन आपतकालीन उपचार हो; एन्टिहिस्टामिन र स्टेरोइड सहायक मात्र हुन्।"
+ },
+ {
+  "id": "NUR-075",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following drugs can cause ototoxicity and nephrotoxicity?",
+  "options": [
+   "Penicillin",
+   "Paracetamol",
+   "Gentamicin",
+   "Omeprazole"
+  ],
+  "answer": 2,
+  "explanation": "Gentamicin, an aminoglycoside antibiotic, can damage the ear (ototoxicity) and the kidney (nephrotoxicity); serum levels and renal function are monitored.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "निम्नमध्ये कुन औषधिले कान र मिर्गौलामा विषाक्तता गराउन सक्छ?",
+  "options_ne": [
+   "पेनिसिलिन",
+   "प्यारासिटामोल",
+   "जेन्टामाइसिन",
+   "ओमेप्राजोल"
+  ],
+  "explanation_ne": "जेन्टामाइसिन एमिनोग्लाइकोसाइड एन्टिबायोटिक हो जसले कान (ओटोटक्सिसिटी) र मिर्गौला (नेफ्रोटक्सिसिटी) मा हानि गर्न सक्छ; सिरम स्तर र मिर्गौला कार्य निगरानी गरिन्छ।"
+ },
+ {
+  "id": "NUR-076",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which oral rehydration solution component helps replace lost salts in diarrhoea?",
+  "options": [
+   "Glucose only",
+   "Vitamin C",
+   "Calcium carbonate",
+   "Sodium chloride and potassium chloride"
+  ],
+  "answer": 3,
+  "explanation": "ORS contains sodium chloride and potassium chloride (with glucose and citrate) to replace water and electrolytes lost in diarrhoea.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "झाडामा हराएको नुन पूर्ति गर्न ORS मा कुन घटक हुन्छ?",
+  "options_ne": [
+   "ग्लुकोज मात्र",
+   "भिटामिन C",
+   "क्याल्सियम कार्बोनेट",
+   "सोडियम क्लोराइड र पोटासियम क्लोराइड"
+  ],
+  "explanation_ne": "ORS मा सोडियम क्लोराइड र पोटासियम क्लोराइड (ग्लुकोज र साइट्रेटसहित) हुन्छ जसले झाडामा हराएको पानी र इलेक्ट्रोलाइट पूर्ति गर्छ।"
+ },
+ {
+  "id": "NUR-077",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the mechanism of action of aspirin as an antiplatelet drug?",
+  "options": [
+   "Irreversibly inhibits cyclo-oxygenase, preventing thromboxane A2 formation",
+   "Blocks vitamin K synthesis",
+   "Blocks calcium channels",
+   "Inhibits HMG-CoA reductase"
+  ],
+  "answer": 0,
+  "explanation": "Aspirin irreversibly acetylates cyclo-oxygenase-1 in platelets, blocking thromboxane A2 production and so preventing platelet aggregation.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "एन्टिप्लेटलेट औषधिका रूपमा एस्पिरिनको कार्यविधि के हो?",
+  "options_ne": [
+   "साइक्लो-अक्सिजिनेजलाई स्थायी रूपमा रोक्ने र थ्रोम्बोक्सेन A2 बन्न नदिने",
+   "भिटामिन K संश्लेषण रोक्ने",
+   "क्याल्सियम च्यानल रोक्ने",
+   "HMG-CoA रिडक्टेज रोक्ने"
+  ],
+  "explanation_ne": "एस्पिरिनले प्लेटलेटमा साइक्लो-अक्सिजिनेज-१ लाई स्थायी रूपमा एसिटिलेट गर्छ, थ्रोम्बोक्सेन A2 उत्पादन रोक्छ र प्लेटलेट जम्नबाट रोक्छ।"
+ },
+ {
+  "id": "NUR-078",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which drug is used to treat magnesium sulfate toxicity?",
+  "options": [
+   "Naloxone",
+   "Calcium gluconate",
+   "Vitamin K",
+   "Protamine sulfate"
+  ],
+  "answer": 1,
+  "explanation": "Calcium gluconate is the antidote for magnesium sulfate toxicity, reversing respiratory depression and cardiac effects.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "म्याग्नेसियम सल्फेट विषाक्तताको उपचारमा कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "नालोक्सोन",
+   "क्याल्सियम ग्लुकोनेट",
+   "भिटामिन K",
+   "प्रोटामिन सल्फेट"
+  ],
+  "explanation_ne": "क्याल्सियम ग्लुकोनेट म्याग्नेसियम सल्फेट विषाक्तताको प्रतिविष हो, जसले श्वासप्रश्वास अवरोध र मुटुको असरलाई उल्टाउँछ।"
+ },
+ {
+  "id": "NUR-079",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug class is used to lower cholesterol?",
+  "options": [
+   "Diuretics",
+   "Beta-blockers",
+   "Statins",
+   "Antacids"
+  ],
+  "answer": 2,
+  "explanation": "Statins (for example atorvastatin) lower cholesterol by inhibiting HMG-CoA reductase in the liver.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "कोलेस्टेरोल घटाउन कुन औषधि वर्ग प्रयोग गरिन्छ?",
+  "options_ne": [
+   "डाइयुरेटिक",
+   "बिटा-ब्लकर",
+   "स्टाटिन",
+   "एन्टासिड"
+  ],
+  "explanation_ne": "स्टाटिन (जस्तै एटोर्भास्टाटिन) ले कलेजोमा HMG-CoA रिडक्टेज रोक्ने गरी कोलेस्टेरोल घटाउँछ।"
+ },
+ {
+  "id": "NUR-080",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which antibiotic should be avoided in children under 8 years because it stains developing teeth?",
+  "options": [
+   "Amoxicillin",
+   "Cefixime",
+   "Azithromycin",
+   "Tetracycline"
+  ],
+  "answer": 3,
+  "explanation": "Tetracycline binds to calcium in developing teeth and bones, causing permanent yellow-grey discolouration, so it is avoided in children under 8 years and in pregnancy.",
+  "source": "Pharmacology — standard textbook",
+  "question_ne": "बढ्दै गरेको दाँतमा दाग लगाउने भएकाले ८ वर्षमुनिका बच्चामा कुन एन्टिबायोटिक बेवास्ता गर्नुपर्छ?",
+  "options_ne": [
+   "एमोक्सिसिलिन",
+   "सेफिक्सिम",
+   "एजिथ्रोमाइसिन",
+   "टेट्रासाइक्लिन"
+  ],
+  "explanation_ne": "टेट्रासाइक्लिनले बढ्दै गरेको दाँत र हड्डीको क्याल्सियमसँग बाँधिएर स्थायी पहेंलो-खैरो दाग लगाउँछ, त्यसैले ८ वर्षमुनिका बच्चा र गर्भावस्थामा यसलाई बेवास्ता गरिन्छ।"
+ },
+ {
+  "id": "NUR-082",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a classic symptom of diabetes mellitus?",
+  "options": [
+   "Weight gain and constipation",
+   "Polyuria, polydipsia and polyphagia",
+   "Bradycardia and cold intolerance",
+   "Hair loss and tremor"
+  ],
+  "answer": 1,
+  "explanation": "The classic triad of diabetes is polyuria (excess urination), polydipsia (excess thirst) and polyphagia (excess hunger).",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये मधुमेहको विशिष्ट लक्षण कुन हो?",
+  "options_ne": [
+   "तौल बढ्नु र कब्जियत",
+   "धेरै पिसाब, धेरै तिर्खा र धेरै भोक",
+   "मन्द नाडी र चिसो सहन नसक्नु",
+   "कपाल झर्नु र कम्पन"
+  ],
+  "explanation_ne": "मधुमेहका विशिष्ट तीन लक्षण हुन्: पोलियुरिया (धेरै पिसाब), पोलिडिप्सिया (धेरै तिर्खा) र पोलिफेजिया (धेरै भोक)।"
+ },
+ {
+  "id": "NUR-083",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is caused by Mycobacterium tuberculosis?",
+  "options": [
+   "Malaria",
+   "Cholera",
+   "Tuberculosis",
+   "Typhoid"
+  ],
+  "answer": 2,
+  "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, most commonly affecting the lungs.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "माइकोब्याक्टेरियम ट्युबरक्युलोसिसले कुन रोग गराउँछ?",
+  "options_ne": [
+   "मलेरिया",
+   "हैजा",
+   "क्षयरोग",
+   "टाइफाइड"
+  ],
+  "explanation_ne": "क्षयरोग माइकोब्याक्टेरियम ट्युबरक्युलोसिसले गराउँछ, जसले प्रायः फोक्सोलाई असर गर्छ।"
+ },
+ {
+  "id": "NUR-084",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the most common route of transmission of pulmonary tuberculosis?",
+  "options": [
+   "Contaminated water",
+   "Contaminated food",
+   "Mosquito bite",
+   "Airborne droplets"
+  ],
+  "answer": 3,
+  "explanation": "Pulmonary tuberculosis spreads through airborne droplet nuclei released when an infected person coughs or sneezes.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "फोक्सोको क्षयरोग सर्ने सबैभन्दा सामान्य बाटो कुन हो?",
+  "options_ne": [
+   "दूषित पानी",
+   "दूषित खाना",
+   "लामखुट्टेको टोकाइ",
+   "हवाइ थोपा"
+  ],
+  "explanation_ne": "फोक्सोको क्षयरोग संक्रमित व्यक्तिले खोक्दा वा हाच्छिउँ गर्दा निस्कने हवाइ थोपा केन्द्रकबाट सर्छ।"
+ },
+ {
+  "id": "NUR-085",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a sign of increased intracranial pressure?",
+  "options": [
+   "Bradycardia with hypertension and irregular respirations (Cushing triad)",
+   "Tachycardia with hypotension",
+   "Fever with tachypnoea",
+   "Hypoglycaemia"
+  ],
+  "answer": 0,
+  "explanation": "Cushing triad — bradycardia, hypertension (widening pulse pressure) and irregular respirations — is a late sign of raised intracranial pressure.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये कुन बढेको इन्ट्राक्रानियल प्रेसरको लक्षण हो?",
+  "options_ne": [
+   "अनियमित श्वाससहित मन्द नाडी र उच्च रक्तचाप (कुसिङ ट्रायड)",
+   "छिटो नाडीसहित कम रक्तचाप",
+   "ज्वरोसहित छिटो श्वास",
+   "कम रगतमा चिनी"
+  ],
+  "explanation_ne": "कुसिङ ट्रायड — मन्द नाडी, उच्च रक्तचाप (फराकिलो पल्स प्रेसर) र अनियमित श्वास — बढेको इन्ट्राक्रानियल प्रेसरको ढिलो लक्षण हो।"
+ },
+ {
+  "id": "NUR-086",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which condition is characterised by high blood pressure?",
+  "options": [
+   "Hypotension",
+   "Hypertension",
+   "Hypoglycaemia",
+   "Anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Hypertension is persistently raised blood pressure, generally 140/90 mmHg or above.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "उच्च रक्तचाप भएको अवस्थालाई के भनिन्छ?",
+  "options_ne": [
+   "हाइपोटेन्सन",
+   "हाइपरटेन्सन",
+   "हाइपोग्लाइसेमिया",
+   "एनिमिया"
+  ],
+  "explanation_ne": "हाइपरटेन्सन भनेको निरन्तर बढेको रक्तचाप हो, सामान्यतया १४०/९० मिमिHg वा माथि।"
+ },
+ {
+  "id": "NUR-087",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the first nursing action for a patient having a seizure?",
+  "options": [
+   "Restrain the patient tightly",
+   "Insert an object into the mouth",
+   "Protect the airway, turn the patient to the side and protect from injury",
+   "Give oral fluids immediately"
+  ],
+  "answer": 2,
+  "explanation": "During a seizure, protect the patient from injury, maintain a clear airway, turn them to the side to prevent aspiration, and never restrain them or put anything in the mouth.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "छारे रोग (seizure) आएको बिरामीका लागि पहिलो नर्सिङ कार्य के हो?",
+  "options_ne": [
+   "बिरामीलाई कसेर समात्ने",
+   "मुखमा वस्तु हाल्ने",
+   "श्वासनली खुला राख्ने, बिरामीलाई छेउमा फर्काउने र चोटबाट जोगाउने",
+   "तुरुन्त मुखबाट तरल पदार्थ दिने"
+  ],
+  "explanation_ne": "छारे रोग आएको बेला बिरामीलाई चोटबाट जोगाउने, श्वासनली खुला राख्ने, श्वासनलीमा खाना जानबाट रोक्न छेउमा फर्काउने, र कहिल्यै कसेर समात्ने वा मुखमा केही हाल्ने हुँदैन।"
+ },
+ {
+  "id": "NUR-088",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ is affected in hepatitis?",
+  "options": [
+   "Kidney",
+   "Pancreas",
+   "Spleen",
+   "Liver"
+  ],
+  "answer": 3,
+  "explanation": "Hepatitis is inflammation of the liver, most often caused by hepatitis viruses A, B, C, D or E.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "हेपाटाइटिसमा कुन अङ्ग प्रभावित हुन्छ?",
+  "options_ne": [
+   "मिर्गौला",
+   "अग्न्याशय",
+   "फियो",
+   "कलेजो"
+  ],
+  "explanation_ne": "हेपाटाइटिस कलेजोको सूजन हो, प्रायः हेपाटाइटिस भाइरस A, B, C, D वा E बाट हुन्छ।"
+ },
+ {
+  "id": "NUR-089",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a symptom of myocardial infarction?",
+  "options": [
+   "Crushing central chest pain radiating to the left arm",
+   "Sharp pain relieved by breathing",
+   "Pain in the right lower abdomen",
+   "Itching over the chest"
+  ],
+  "answer": 0,
+  "explanation": "Myocardial infarction typically causes severe crushing or pressing central chest pain that may radiate to the left arm, jaw or back, often with sweating and breathlessness.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये मायोकार्डियल इन्फार्क्सनको लक्षण कुन हो?",
+  "options_ne": [
+   "बायाँ हाततिर सर्ने छातीको बीचमा थिचिएको जस्तो दुखाइ",
+   "श्वास फेर्दा कम हुने तिखो दुखाइ",
+   "दायाँ तल्लो पेटको दुखाइ",
+   "छातीमा चिलाउनु"
+  ],
+  "explanation_ne": "मायोकार्डियल इन्फार्क्सनमा सामान्यतया छातीको बीचमा थिचिएको जस्तो गम्भीर दुखाइ हुन्छ जुन बायाँ हात, बङ्गारा वा पिठ्यूँतिर सर्न सक्छ, प्रायः पसिना र श्वास फुल्नेसहित।"
+ },
+ {
+  "id": "NUR-090",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which acid-base imbalance is expected in a patient with prolonged vomiting?",
+  "options": [
+   "Metabolic acidosis",
+   "Metabolic alkalosis",
+   "Respiratory acidosis",
+   "Respiratory alkalosis"
+  ],
+  "answer": 1,
+  "explanation": "Prolonged vomiting loses hydrochloric acid from the stomach, causing metabolic alkalosis with raised blood pH and bicarbonate.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "लामो समयसम्म बान्ता भएको बिरामीमा कुन एसिड-बेस असन्तुलन अपेक्षित छ?",
+  "options_ne": [
+   "मेटाबोलिक एसिडोसिस",
+   "मेटाबोलिक अल्कालोसिस",
+   "रेस्पिरेटरी एसिडोसिस",
+   "रेस्पिरेटरी अल्कालोसिस"
+  ],
+  "explanation_ne": "लामो बान्ताले पेटबाट हाइड्रोक्लोरिक एसिड गुमाउँछ, जसले रगतको pH र बाइकार्बोनेट बढाएर मेटाबोलिक अल्कालोसिस गराउँछ।"
+ },
+ {
+  "id": "NUR-091",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the term for low haemoglobin or low red blood cell count?",
+  "options": [
+   "Leucocytosis",
+   "Thrombocytopenia",
+   "Anaemia",
+   "Polycythaemia"
+  ],
+  "answer": 2,
+  "explanation": "Anaemia is a reduction in haemoglobin concentration or red blood cell count below normal, reducing oxygen-carrying capacity.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "कम हिमोग्लोबिन वा कम रातो रक्तकोषिका भएको अवस्थालाई के भनिन्छ?",
+  "options_ne": [
+   "ल्युकोसाइटोसिस",
+   "थ्रोम्बोसाइटोपेनिया",
+   "एनिमिया",
+   "पोलिसाइथेमिया"
+  ],
+  "explanation_ne": "एनिमिया भनेको हिमोग्लोबिन वा रातो रक्तकोषिका सामान्यभन्दा कम हुनु हो, जसले अक्सिजन बोक्ने क्षमता घटाउँछ।"
+ },
+ {
+  "id": "NUR-092",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which type of anaemia is caused by vitamin B12 deficiency?",
+  "options": [
+   "Iron-deficiency anaemia",
+   "Sickle-cell anaemia",
+   "Aplastic anaemia",
+   "Pernicious anaemia"
+  ],
+  "answer": 3,
+  "explanation": "Pernicious anaemia is a megaloblastic anaemia caused by vitamin B12 deficiency due to lack of intrinsic factor needed for B12 absorption.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "भिटामिन B12 को कमीले कुन प्रकारको एनिमिया हुन्छ?",
+  "options_ne": [
+   "फलामको कमी एनिमिया",
+   "सिकल-सेल एनिमिया",
+   "एप्लास्टिक एनिमिया",
+   "पर्निसियस एनिमिया"
+  ],
+  "explanation_ne": "पर्निसियस एनिमिया मेगालोब्लास्टिक एनिमिया हो जुन B12 शोषणका लागि आवश्यक इन्ट्रिन्सिक फ्याक्टरको कमीले भिटामिन B12 को कमी हुँदा हुन्छ।"
+ },
+ {
+  "id": "NUR-093",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is transmitted by the bite of an infected Anopheles mosquito?",
+  "options": [
+   "Malaria",
+   "Dengue",
+   "Filariasis",
+   "Chikungunya"
+  ],
+  "answer": 0,
+  "explanation": "Malaria is caused by Plasmodium parasites transmitted by the bite of an infected female Anopheles mosquito.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "संक्रमित एनोफिलिज लामखुट्टेको टोकाइबाट कुन रोग सर्छ?",
+  "options_ne": [
+   "मलेरिया",
+   "डेंगु",
+   "हात्तीपाइले",
+   "चिकनगुनिया"
+  ],
+  "explanation_ne": "मलेरिया प्लाज्मोडियम परजीवीबाट हुन्छ, जुन संक्रमित पोथी एनोफिलिज लामखुट्टेको टोकाइबाट सर्छ।"
+ },
+ {
+  "id": "NUR-094",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most common cause of peptic ulcer disease?",
+  "options": [
+   "Spicy food",
+   "Helicobacter pylori infection",
+   "Stress alone",
+   "Excess fibre intake"
+  ],
+  "answer": 1,
+  "explanation": "Helicobacter pylori infection is the most common cause of peptic ulcer disease, along with NSAID use; spicy food and stress alone do not cause ulcers.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये पेप्टिक अल्सरको सबैभन्दा सामान्य कारण कुन हो?",
+  "options_ne": [
+   "पिरो खाना",
+   "हेलिकोब्याक्टर पाइलोरी संक्रमण",
+   "तनाव मात्र",
+   "धेरै फाइबर खानु"
+  ],
+  "explanation_ne": "हेलिकोब्याक्टर पाइलोरी संक्रमण पेप्टिक अल्सरको सबैभन्दा सामान्य कारण हो, साथै NSAID प्रयोग; पिरो खाना र तनाव मात्रले अल्सर गराउँदैन।"
+ },
+ {
+  "id": "NUR-095",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which electrolyte imbalance is most likely in a patient with prolonged diarrhoea?",
+  "options": [
+   "Hyperkalaemia",
+   "Hypercalcaemia",
+   "Hypokalaemia",
+   "Hypermagnesaemia"
+  ],
+  "answer": 2,
+  "explanation": "Prolonged diarrhoea loses potassium and bicarbonate in the stool, causing hypokalaemia and metabolic acidosis.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "लामो झाडा भएको बिरामीमा कुन इलेक्ट्रोलाइट असन्तुलन हुने सम्भावना बढी छ?",
+  "options_ne": [
+   "हाइपरक्यालेमिया",
+   "हाइपरक्याल्सेमिया",
+   "हाइपोक्यालेमिया",
+   "हाइपरम्याग्नेसिमिया"
+  ],
+  "explanation_ne": "लामो झाडाले दिसाबाट पोटासियम र बाइकार्बोनेट गुमाउँछ, जसले हाइपोक्यालेमिया र मेटाबोलिक एसिडोसिस गराउँछ।"
+ },
+ {
+  "id": "NUR-096",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the causative organism of cholera?",
+  "options": [
+   "Salmonella typhi",
+   "Shigella dysenteriae",
+   "Escherichia coli",
+   "Vibrio cholerae"
+  ],
+  "answer": 3,
+  "explanation": "Cholera is caused by Vibrio cholerae, spread through contaminated water and food.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "हैजाको कारक जीवाणु कुन हो?",
+  "options_ne": [
+   "साल्मोनेला टाइफी",
+   "सिगेला डिसेन्टेरी",
+   "इश्चेरिचिया कोलाई",
+   "भिब्रियो कोलेरी"
+  ],
+  "explanation_ne": "हैजा भिब्रियो कोलेरीबाट हुन्छ, जुन दूषित पानी र खानाबाट सर्छ।"
+ },
+ {
+  "id": "NUR-097",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a sign of dehydration?",
+  "options": [
+   "Sunken eyes and poor skin turgor",
+   "Moist mucous membranes",
+   "Bradycardia",
+   "Increased urine output"
+  ],
+  "answer": 0,
+  "explanation": "Dehydration presents with dry mucous membranes, sunken eyes, poor skin turgor, reduced urine output and tachycardia.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये निर्जलीकरणको लक्षण कुन हो?",
+  "options_ne": [
+   "गहिरिएका आँखा र छालाको कम लचकता",
+   "ओसिलो मुखको भित्री भाग",
+   "मन्द नाडी",
+   "पिसाब बढ्नु"
+  ],
+  "explanation_ne": "निर्जलीकरणमा मुख सुख्खा हुनु, आँखा गहिरिनु, छालाको लचकता कम हुनु, पिसाब घट्नु र नाडी छिटो हुनु देखिन्छ।"
+ },
+ {
+  "id": "NUR-098",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which test is used to confirm HIV infection?",
+  "options": [
+   "Widal test",
+   "ELISA followed by Western blot / confirmatory test",
+   "Mantoux test",
+   "Sputum AFB test"
+  ],
+  "answer": 1,
+  "explanation": "HIV is screened with ELISA and confirmed with a second, confirmatory test (such as Western blot or a second rapid/ELISA algorithm as per national guidelines).",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "HIV संक्रमण पुष्टि गर्न कुन परीक्षण प्रयोग गरिन्छ?",
+  "options_ne": [
+   "विडाल परीक्षण",
+   "ELISA पछि वेस्टर्न ब्लट / पुष्टिकरण परीक्षण",
+   "मान्टु परीक्षण",
+   "खकार AFB परीक्षण"
+  ],
+  "explanation_ne": "HIV को ELISA बाट स्क्रिनिङ गरिन्छ र दोस्रो पुष्टिकरण परीक्षण (जस्तै वेस्टर्न ब्लट वा राष्ट्रिय मापदण्डअनुसार दोस्रो र्‍यापिड/ELISA एल्गोरिदम) बाट पुष्टि गरिन्छ।"
+ },
+ {
+  "id": "NUR-099",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main nursing priority for a patient with burns?",
+  "options": [
+   "Giving oral fluids only",
+   "Applying ice directly to burns",
+   "Maintaining airway and fluid resuscitation",
+   "Encouraging early walking"
+  ],
+  "answer": 2,
+  "explanation": "In burns, the priorities are airway (especially with inhalation injury), fluid resuscitation to prevent hypovolaemic shock, and infection prevention.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "जलेको बिरामीका लागि मुख्य नर्सिङ प्राथमिकता के हो?",
+  "options_ne": [
+   "मुखबाट तरल पदार्थ मात्र दिने",
+   "जलेको ठाउँमा सिधै बरफ लगाउने",
+   "श्वासनली कायम राख्ने र तरल पदार्थ पुनःपूर्ति गर्ने",
+   "छिटो हिँड्न प्रोत्साहन गर्ने"
+  ],
+  "explanation_ne": "जलेको बिरामीमा प्राथमिकता श्वासनली (विशेष गरी श्वासबाट चोट लागेमा), हाइपोभोलेमिक सक रोक्न तरल पदार्थ पुनःपूर्ति, र संक्रमण रोकथाम हुन्।"
+ },
+ {
+  "id": "NUR-100",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which rule is used to estimate the percentage of body surface area burned in an adult?",
+  "options": [
+   "Glasgow Coma Scale",
+   "Rule of 5s",
+   "Rule of 10s",
+   "Rule of 9s"
+  ],
+  "answer": 3,
+  "explanation": "The Rule of 9s divides the adult body into areas of 9% (or multiples) to estimate total body surface area burned.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "वयस्कमा जलेको शरीरको सतह क्षेत्रफलको प्रतिशत अनुमान गर्न कुन नियम प्रयोग गरिन्छ?",
+  "options_ne": [
+   "ग्लास्गो कोमा स्केल",
+   "५ को नियम",
+   "१० को नियम",
+   "९ को नियम"
+  ],
+  "explanation_ne": "९ को नियमले वयस्क शरीरलाई ९% (वा त्यसको गुणन) का क्षेत्रमा विभाजन गरेर जलेको कुल सतह क्षेत्रफल अनुमान गर्छ।"
+ },
+ {
+  "id": "NUR-101",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which condition is caused by the hepatitis B virus?",
+  "options": [
+   "Liver inflammation that can become chronic",
+   "Kidney failure",
+   "Lung infection",
+   "Skin rash only"
+  ],
+  "answer": 0,
+  "explanation": "Hepatitis B virus causes inflammation of the liver, which can become chronic and lead to cirrhosis or liver cancer.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "हेपाटाइटिस B भाइरसले कुन अवस्था गराउँछ?",
+  "options_ne": [
+   "कलेजोको सूजन जुन दीर्घकालीन हुन सक्छ",
+   "मिर्गौला फेल",
+   "फोक्सोको संक्रमण",
+   "छालामा दाग मात्र"
+  ],
+  "explanation_ne": "हेपाटाइटिस B भाइरसले कलेजोको सूजन गराउँछ, जुन दीर्घकालीन भएर सिरोसिस वा कलेजोको क्यान्सर हुन सक्छ।"
+ },
+ {
+  "id": "NUR-102",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most effective way to prevent hepatitis B infection?",
+  "options": [
+   "Antibiotics",
+   "Hepatitis B vaccination",
+   "Vitamin supplements",
+   "Avoiding sunlight"
+  ],
+  "answer": 1,
+  "explanation": "Hepatitis B vaccination is safe and highly effective, giving long-term protection against infection.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "हेपाटाइटिस B संक्रमण रोक्ने सबैभन्दा प्रभावकारी उपाय कुन हो?",
+  "options_ne": [
+   "एन्टिबायोटिक",
+   "हेपाटाइटिस B खोप",
+   "भिटामिन सप्लिमेन्ट",
+   "घामबाट बच्नु"
+  ],
+  "explanation_ne": "हेपाटाइटिस B खोप सुरक्षित र अत्यन्त प्रभावकारी छ, जसले संक्रमणविरुद्ध दीर्घकालीन सुरक्षा दिन्छ।"
+ },
+ {
+  "id": "NUR-103",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal range of blood glucose two hours after a meal (postprandial)?",
+  "options": [
+   "250–300 mg/dL",
+   "180–220 mg/dL",
+   "Less than 140 mg/dL",
+   "Above 300 mg/dL"
+  ],
+  "answer": 2,
+  "explanation": "Normal postprandial (2-hour) blood glucose is less than 140 mg/dL; 200 mg/dL or above suggests diabetes.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "खाना खाएको दुई घण्टापछि (पोस्टप्रान्डियल) रगतमा चिनीको सामान्य दायरा कति हो?",
+  "options_ne": [
+   "२५०–३०० मिग्रा/डेसिलि",
+   "१८०–२२० मिग्रा/डेसिलि",
+   "१४० मिग्रा/डेसिलि भन्दा कम",
+   "३०० मिग्रा/डेसिलि भन्दा माथि"
+  ],
+  "explanation_ne": "सामान्य पोस्टप्रान्डियल (२ घण्टा) रगतमा चिनी १४० मिग्रा/डेसिलि भन्दा कम हुन्छ; २०० मिग्रा/डेसिलि वा माथि भएमा मधुमेहको संकेत हुन्छ।"
+ },
+ {
+  "id": "NUR-104",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which complication of diabetes affects the eyes?",
+  "options": [
+   "Nephropathy",
+   "Cardiomyopathy",
+   "Neuropathy",
+   "Retinopathy"
+  ],
+  "answer": 3,
+  "explanation": "Diabetic retinopathy damages the blood vessels of the retina and is a leading cause of vision loss in diabetes.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "मधुमेहको कुन जटिलताले आँखालाई असर गर्छ?",
+  "options_ne": [
+   "नेफ्रोप्याथी",
+   "कार्डियोमायोप्याथी",
+   "न्युरोप्याथी",
+   "रेटिनोप्याथी"
+  ],
+  "explanation_ne": "डायबेटिक रेटिनोप्याथीले रेटिनाका रक्तनलीलाई हानि गर्छ र मधुमेहमा दृष्टि गुम्नुको प्रमुख कारण हो।"
+ },
+ {
+  "id": "NUR-105",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a sign of diabetic ketoacidosis?",
+  "options": [
+   "Fruity-smelling breath, deep rapid breathing and high blood glucose",
+   "Slow shallow breathing with low blood glucose",
+   "Bradycardia with normal glucose",
+   "Cold clammy skin with low glucose"
+  ],
+  "answer": 0,
+  "explanation": "Diabetic ketoacidosis presents with hyperglycaemia, ketones, metabolic acidosis, fruity (acetone) breath, Kussmaul breathing, dehydration and abdominal pain.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये डायबेटिक केटोएसिडोसिसको लक्षण कुन हो?",
+  "options_ne": [
+   "फलको गन्ध आउने श्वास, गहिरो छिटो श्वास र उच्च रगतमा चिनी",
+   "कम रगतमा चिनीसहित ढिलो उथलो श्वास",
+   "सामान्य ग्लुकोजसहित मन्द नाडी",
+   "कम ग्लुकोजसहित चिसो चिपचिपे छाला"
+  ],
+  "explanation_ne": "डायबेटिक केटोएसिडोसिसमा हाइपरग्लाइसेमिया, किटोन, मेटाबोलिक एसिडोसिस, फल (एसिटोन) को गन्ध आउने श्वास, कुसमाउल श्वास, निर्जलीकरण र पेट दुखाइ देखिन्छ।"
+ },
+ {
+  "id": "NUR-106",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ is most commonly affected by chronic alcohol use?",
+  "options": [
+   "Kidney",
+   "Liver",
+   "Spleen",
+   "Thyroid"
+  ],
+  "answer": 1,
+  "explanation": "Chronic alcohol use most commonly damages the liver, causing fatty liver, hepatitis and cirrhosis.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "दीर्घकालीन मदिरा सेवनले सबैभन्दा बढी कुन अङ्गलाई असर गर्छ?",
+  "options_ne": [
+   "मिर्गौला",
+   "कलेजो",
+   "फियो",
+   "थाइराइड"
+  ],
+  "explanation_ne": "दीर्घकालीन मदिरा सेवनले सबैभन्दा बढी कलेजोलाई हानि गर्छ, जसले फ्याटी लिभर, हेपाटाइटिस र सिरोसिस गराउँछ।"
+ },
+ {
+  "id": "NUR-107",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the term for inflammation of the appendix?",
+  "options": [
+   "Gastritis",
+   "Colitis",
+   "Appendicitis",
+   "Cholecystitis"
+  ],
+  "answer": 2,
+  "explanation": "Appendicitis is inflammation of the appendix, typically causing right lower abdominal pain, fever and vomiting.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "एपेन्डिक्सको सूजनलाई के भनिन्छ?",
+  "options_ne": [
+   "ग्यास्ट्राइटिस",
+   "कोलाइटिस",
+   "एपेन्डिसाइटिस",
+   "कोलेसिस्टाइटिस"
+  ],
+  "explanation_ne": "एपेन्डिसाइटिस एपेन्डिक्सको सूजन हो, जसले सामान्यतया दायाँ तल्लो पेट दुखाइ, ज्वरो र बान्ता गराउँछ।"
+ },
+ {
+  "id": "NUR-108",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the best way to prevent the spread of infection in a hospital?",
+  "options": [
+   "Wearing a mask only",
+   "Isolating every patient",
+   "Giving antibiotics to all patients",
+   "Hand hygiene"
+  ],
+  "answer": 3,
+  "explanation": "Hand hygiene is the single most effective measure to prevent healthcare-associated infections.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "अस्पतालमा संक्रमण फैलिन रोक्ने सबैभन्दा राम्रो उपाय कुन हो?",
+  "options_ne": [
+   "मास्क मात्र लगाउने",
+   "प्रत्येक बिरामीलाई आइसोलेट गर्ने",
+   "सबै बिरामीलाई एन्टिबायोटिक दिने",
+   "हात सफाइ"
+  ],
+  "explanation_ne": "हात सफाइ स्वास्थ्यसेवासँग सम्बन्धित संक्रमण रोक्ने सबैभन्दा प्रभावकारी उपाय हो।"
+ },
+ {
+  "id": "NUR-109",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a classic sign of appendicitis?",
+  "options": [
+   "Pain starting around the navel and moving to the right lower abdomen",
+   "Pain in the left upper abdomen only",
+   "Chest pain on breathing",
+   "Pain relieved by eating"
+  ],
+  "answer": 0,
+  "explanation": "Appendicitis pain typically begins around the umbilicus and then localises to the right lower quadrant (McBurney's point).",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "निम्नमध्ये एपेन्डिसाइटिसको विशिष्ट लक्षण कुन हो?",
+  "options_ne": [
+   "नाभी वरिपरि सुरु भएर दायाँ तल्लो पेटमा सर्ने दुखाइ",
+   "बायाँ माथिल्लो पेटमा मात्र दुखाइ",
+   "श्वास फेर्दा छाती दुखाइ",
+   "खाना खाँदा कम हुने दुखाइ"
+  ],
+  "explanation_ne": "एपेन्डिसाइटिसको दुखाइ सामान्यतया नाभी वरिपरि सुरु भएर दायाँ तल्लो भाग (म्याकबर्नी पोइन्ट) मा स्थिर हुन्छ।"
+ },
+ {
+  "id": "NUR-110",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medical-Surgical Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the priority intervention for a patient with acute severe asthma?",
+  "options": [
+   "Oral antibiotics",
+   "High-flow oxygen and nebulised bronchodilator",
+   "Chest physiotherapy only",
+   "Oral rehydration"
+  ],
+  "answer": 1,
+  "explanation": "Acute severe asthma needs high-flow oxygen to maintain saturation 94–98% and nebulised short-acting bronchodilators (with systemic steroids) to relieve bronchospasm.",
+  "source": "Medical-surgical nursing — standard textbook",
+  "question_ne": "तीव्र गम्भीर दम भएको बिरामीका लागि प्राथमिक हस्तक्षेप कुन हो?",
+  "options_ne": [
+   "मुखबाट एन्टिबायोटिक",
+   "उच्च प्रवाह अक्सिजन र नेब्युलाइज्ड ब्रोन्कोडाइलेटर",
+   "छातीको फिजियोथेरापी मात्र",
+   "मुखबाट पुनर्जलीकरण"
+  ],
+  "explanation_ne": "तीव्र गम्भीर दममा स्याचुरेसन ९४–९८% कायम राख्न उच्च प्रवाह अक्सिजन र ब्रोन्कोस्पाज्म कम गर्न नेब्युलाइज्ड छोटो-अवधिको ब्रोन्कोडाइलेटर (सिस्टेमिक स्टेरोइडसहित) आवश्यक छ।"
+ },
+ {
+  "id": "NUR-111",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal birth weight of a term newborn?",
+  "options": [
+   "1.0–1.5 kg",
+   "1.5–2.0 kg",
+   "2.5–3.5 kg",
+   "4.5–5.5 kg"
+  ],
+  "answer": 2,
+  "explanation": "A normal term newborn weighs about 2.5–3.5 kg; below 2.5 kg is low birth weight.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "पूर्ण अवधि (term) नवजात शिशुको सामान्य जन्म तौल कति हुन्छ?",
+  "options_ne": [
+   "१.०–१.५ केजी",
+   "१.५–२.० केजी",
+   "२.५–३.५ केजी",
+   "४.५–५.५ केजी"
+  ],
+  "explanation_ne": "सामान्य पूर्ण अवधि नवजात शिशुको तौल करिब २.५–३.५ केजी हुन्छ; २.५ केजी भन्दा कम भएमा कम जन्म तौल मानिन्छ।"
+ },
+ {
+  "id": "NUR-112",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what age does a child usually start to walk without support?",
+  "options": [
+   "6 months",
+   "9 months",
+   "24 months",
+   "12–15 months"
+  ],
+  "answer": 3,
+  "explanation": "Most children walk independently between 12 and 15 months of age.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चाले सामान्यतया कुन उमेरमा सहारा बिना हिँड्न थाल्छ?",
+  "options_ne": [
+   "६ महिना",
+   "९ महिना",
+   "२४ महिना",
+   "१२–१५ महिना"
+  ],
+  "explanation_ne": "धेरैजसो बच्चा १२–१५ महिनाको उमेरमा स्वतन्त्र रूपमा हिँड्न थाल्छन्।"
+ },
+ {
+  "id": "NUR-113",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vitamin deficiency causes rickets in children?",
+  "options": [
+   "Vitamin D",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin A"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin D deficiency impairs calcium absorption and bone mineralisation, causing rickets in children.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चामा कुन भिटामिनको कमीले रिकेट्स हुन्छ?",
+  "options_ne": [
+   "भिटामिन D",
+   "भिटामिन B12",
+   "भिटामिन C",
+   "भिटामिन A"
+  ],
+  "explanation_ne": "भिटामिन D को कमीले क्याल्सियम शोषण र हड्डीको खनिजीकरण बिगार्छ, जसले बच्चामा रिकेट्स गराउँछ।"
+ },
+ {
+  "id": "NUR-114",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is characterised by a barking cough and stridor in children?",
+  "options": [
+   "Asthma",
+   "Croup",
+   "Pneumonia",
+   "Bronchiolitis"
+  ],
+  "answer": 1,
+  "explanation": "Croup (laryngotracheobronchitis) causes a barking cough, hoarseness and inspiratory stridor in young children.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चामा भुक्ने जस्तो खोकी र स्ट्राइडर हुने रोग कुन हो?",
+  "options_ne": [
+   "दम",
+   "क्रुप",
+   "निमोनिया",
+   "ब्रोन्कियोलाइटिस"
+  ],
+  "explanation_ne": "क्रुप (ल्यारिङ्गोट्राकियोब्रोन्काइटिस) ले साना बच्चामा भुक्ने जस्तो खोकी, स्वर बिग्रनु र श्वास लिँदा स्ट्राइडर गराउँछ।"
+ },
+ {
+  "id": "NUR-115",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a sign of severe dehydration in a child?",
+  "options": [
+   "Tears when crying",
+   "Moist mouth",
+   "Lethargy, sunken eyes and absent tears",
+   "Normal skin turgor"
+  ],
+  "answer": 2,
+  "explanation": "Severe dehydration in a child presents with lethargy or unconsciousness, sunken eyes, absent tears, dry mouth and very slow skin pinch return.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "निम्नमध्ये बच्चामा गम्भीर निर्जलीकरणको लक्षण कुन हो?",
+  "options_ne": [
+   "रुँदा आँसु आउनु",
+   "ओसिलो मुख",
+   "अल्छीपन, गहिरिएका आँखा र आँसु नआउनु",
+   "सामान्य छालाको लचकता"
+  ],
+  "explanation_ne": "बच्चामा गम्भीर निर्जलीकरणमा अल्छीपन वा बेहोस, गहिरिएका आँखा, आँसु नआउनु, सुख्खा मुख र छाला चिमोट्दा धेरै ढिलो फर्कनु देखिन्छ।"
+ },
+ {
+  "id": "NUR-116",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what age is the measles vaccine first given in Nepal's National Immunisation Programme?",
+  "options": [
+   "At birth",
+   "6 weeks",
+   "12 months",
+   "9 months"
+  ],
+  "answer": 3,
+  "explanation": "In Nepal's National Immunisation Programme, the first dose of measles-containing vaccine is given at 9 months of age.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "नेपालको राष्ट्रिय खोप कार्यक्रममा दादुरा खोप पहिलो पटक कुन उमेरमा दिइन्छ?",
+  "options_ne": [
+   "जन्मँदा",
+   "६ हप्ता",
+   "१२ महिना",
+   "९ महिना"
+  ],
+  "explanation_ne": "नेपालको राष्ट्रिय खोप कार्यक्रममा दादुरा भएको खोपको पहिलो मात्रा ९ महिनाको उमेरमा दिइन्छ।"
+ },
+ {
+  "id": "NUR-117",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most common cause of diarrhoea in children under five?",
+  "options": [
+   "Rotavirus",
+   "Cholera",
+   "Typhoid",
+   "Amoebiasis"
+  ],
+  "answer": 0,
+  "explanation": "Rotavirus is the most common cause of severe diarrhoea in children under five worldwide; rotavirus vaccine prevents many cases.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "पाँच वर्षमुनिका बच्चामा झाडाको सबैभन्दा सामान्य कारण कुन हो?",
+  "options_ne": [
+   "रोटाभाइरस",
+   "हैजा",
+   "टाइफाइड",
+   "एमिबियासिस"
+  ],
+  "explanation_ne": "रोटाभाइरस पाँच वर्षमुनिका बच्चामा गम्भीर झाडाको सबैभन्दा सामान्य कारण हो; रोटाभाइरस खोपले धेरै घटना रोक्छ।"
+ },
+ {
+  "id": "NUR-118",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the recommended exclusive breastfeeding period for an infant?",
+  "options": [
+   "1 month",
+   "6 months",
+   "3 months",
+   "12 months"
+  ],
+  "answer": 1,
+  "explanation": "WHO recommends exclusive breastfeeding for the first 6 months of life, then continued breastfeeding with complementary foods up to 2 years or beyond.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "शिशुलाई विशेष स्तनपान (exclusive breastfeeding) गराउने सिफारिस अवधि कति हो?",
+  "options_ne": [
+   "१ महिना",
+   "६ महिना",
+   "३ महिना",
+   "१२ महिना"
+  ],
+  "explanation_ne": "WHO ले जीवनको पहिलो ६ महिना विशेष स्तनपान र त्यसपछि पूरक खानासहित २ वर्ष वा सोभन्दा बढीसम्म स्तनपान जारी राख्न सिफारिस गर्छ।"
+ },
+ {
+  "id": "NUR-119",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a danger sign of pneumonia in a child aged 2 months to 5 years?",
+  "options": [
+   "Mild cough without fever",
+   "Occasional sneezing",
+   "Chest indrawing",
+   "Mild runny nose"
+  ],
+  "answer": 2,
+  "explanation": "Chest indrawing is a danger sign of severe pneumonia in young children and needs urgent referral and treatment.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "२ महिनादेखि ५ वर्षका बच्चामा निमोनियाको खतराको लक्षण कुन हो?",
+  "options_ne": [
+   "ज्वरो बिना हल्का खोकी",
+   "कहिलेकाहीँ हाच्छिउँ आउनु",
+   "छाती भित्र तानिनु (chest indrawing)",
+   "हल्का नाक बग्नु"
+  ],
+  "explanation_ne": "छाती भित्र तानिनु साना बच्चामा गम्भीर निमोनियाको खतराको लक्षण हो र यसलाई तत्काल रेफरल र उपचार चाहिन्छ।"
+ },
+ {
+  "id": "NUR-120",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which condition in a newborn is indicated by yellow discolouration of the skin and eyes in the first days of life?",
+  "options": [
+   "Neonatal sepsis",
+   "Birth asphyxia",
+   "Neonatal tetanus",
+   "Neonatal jaundice"
+  ],
+  "answer": 3,
+  "explanation": "Neonatal jaundice is yellow discolouration of skin and sclera from raised bilirubin; it is common in the first week and needs monitoring for severe levels.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "नवजात शिशुमा जीवनको पहिलो दिनहरूमा छाला र आँखा पहेंलो हुनुले कुन अवस्था देखाउँछ?",
+  "options_ne": [
+   "नवजात सेप्सिस",
+   "जन्म श्वासरोध",
+   "नवजात टिटानस",
+   "नवजात जन्डिस"
+  ],
+  "explanation_ne": "नवजात जन्डिस भनेको बढेको बिलिरुबिनका कारण छाला र आँखाको सेतो भाग पहेंलो हुनु हो; यो पहिलो हप्तामा सामान्य छ र गम्भीर स्तरका लागि निगरानी चाहिन्छ।"
+ },
+ {
+  "id": "NUR-121",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-physio"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what age does a child usually start to sit without support?",
+  "options": [
+   "6–8 months",
+   "3 months",
+   "12 months",
+   "18 months"
+  ],
+  "answer": 0,
+  "explanation": "Most infants sit without support at about 6–8 months of age.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चाले सामान्यतया कुन उमेरमा सहारा बिना बस्न थाल्छ?",
+  "options_ne": [
+   "६–८ महिना",
+   "३ महिना",
+   "१२ महिना",
+   "१८ महिना"
+  ],
+  "explanation_ne": "धेरैजसो शिशु करिब ६–८ महिनाको उमेरमा सहारा बिना बस्न थाल्छन्।"
+ },
+ {
+  "id": "NUR-122",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which nutrient deficiency causes kwashiorkor in children?",
+  "options": [
+   "Vitamin A deficiency",
+   "Protein deficiency",
+   "Iron deficiency",
+   "Iodine deficiency"
+  ],
+  "answer": 1,
+  "explanation": "Kwashiorkor is severe protein-energy malnutrition with oedema, caused mainly by inadequate protein intake.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चामा कुन पोषक तत्वको कमीले क्वासियोरकर हुन्छ?",
+  "options_ne": [
+   "भिटामिन A को कमी",
+   "प्रोटिनको कमी",
+   "फलामको कमी",
+   "आयोडिनको कमी"
+  ],
+  "explanation_ne": "क्वासियोरकर गम्भीर प्रोटिन-ऊर्जा कुपोषण हो जसमा सुजन हुन्छ, मुख्यतया अपर्याप्त प्रोटिन सेवनले हुन्छ।"
+ },
+ {
+  "id": "NUR-123",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a sign of marasmus in a child?",
+  "options": [
+   "Oedema of the feet",
+   "Moon face",
+   "Severe wasting with old-man appearance",
+   "Excess body fat"
+  ],
+  "answer": 2,
+  "explanation": "Marasmus is severe energy deficiency causing marked wasting, loss of subcutaneous fat and an old-man appearance, without oedema.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "निम्नमध्ये बच्चामा मारास्मसको लक्षण कुन हो?",
+  "options_ne": [
+   "खुट्टामा सुजन",
+   "चन्द्रमाजस्तो अनुहार",
+   "बूढो मान्छेजस्तो देखिने गम्भीर दुब्लोपन",
+   "धेरै शरीरको बोसो"
+  ],
+  "explanation_ne": "मारास्मस गम्भीर ऊर्जा कमी हो जसले छालामुनिको बोसो गुमाएर बूढो मान्छेजस्तो देखिने गम्भीर दुब्लोपन गराउँछ, सुजनबिना।"
+ },
+ {
+  "id": "NUR-124",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal heart rate of a newborn?",
+  "options": [
+   "60–100 beats per minute",
+   "100–120 beats per minute",
+   "180–220 beats per minute",
+   "120–160 beats per minute"
+  ],
+  "answer": 3,
+  "explanation": "A newborn's normal heart rate is about 120–160 beats per minute at rest, higher than an adult's.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "नवजात शिशुको सामान्य मुटुको धड्कन कति हुन्छ?",
+  "options_ne": [
+   "६०–१०० प्रति मिनेट",
+   "१००–१२० प्रति मिनेट",
+   "१८०–२२० प्रति मिनेट",
+   "१२०–१६० प्रति मिनेट"
+  ],
+  "explanation_ne": "नवजात शिशुको सामान्य मुटुको धड्कन आराममा करिब १२०–१६० प्रति मिनेट हुन्छ, जुन वयस्कको भन्दा बढी हो।"
+ },
+ {
+  "id": "NUR-125",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the correct dose of oral rehydration solution for a child with some dehydration under IMCI guidelines?",
+  "options": [
+   "75 mL/kg over 4 hours",
+   "50 mL/kg over 4 hours",
+   "100 mL/kg over 2 hours",
+   "200 mL/kg over 6 hours"
+  ],
+  "answer": 0,
+  "explanation": "Under IMCI/WHO guidelines, a child with some dehydration receives ORS 75 mL/kg over 4 hours, with reassessment afterwards.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "IMCI मापदण्डअनुसार केही निर्जलीकरण भएको बच्चाका लागि ORS को सही मात्रा कुन हो?",
+  "options_ne": [
+   "४ घण्टामा ७५ मिलि/केजी",
+   "४ घण्टामा ५० मिलि/केजी",
+   "२ घण्टामा १०० मिलि/केजी",
+   "६ घण्टामा २०० मिलि/केजी"
+  ],
+  "explanation_ne": "IMCI/WHO मापदण्डअनुसार केही निर्जलीकरण भएको बच्चालाई ४ घण्टामा ७५ मिलि/केजी ORS दिइन्छ, त्यसपछि पुनः मूल्याङ्कन गरिन्छ।"
+ },
+ {
+  "id": "NUR-126",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which reflex is present at birth and disappears by about 4–6 months?",
+  "options": [
+   "Knee-jerk reflex",
+   "Moro (startle) reflex",
+   "Babinski reflex",
+   "Plantar reflex"
+  ],
+  "answer": 1,
+  "explanation": "The Moro reflex is a primitive startle reflex present at birth that normally disappears by 4–6 months of age.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "जन्मँदा उपस्थित भएर करिब ४–६ महिनामा हराउने रिफ्लेक्स कुन हो?",
+  "options_ne": [
+   "घुँडा झट्का रिफ्लेक्स",
+   "मोरो (झस्किने) रिफ्लेक्स",
+   "बाबिन्स्की रिफ्लेक्स",
+   "प्लान्टर रिफ्लेक्स"
+  ],
+  "explanation_ne": "मोरो रिफ्लेक्स जन्मँदा उपस्थित हुने आदिम झस्किने रिफ्लेक्स हो जुन सामान्यतया ४–६ महिनाको उमेरमा हराउँछ।"
+ },
+ {
+  "id": "NUR-127",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vaccine is given to prevent diphtheria, pertussis and tetanus in infants?",
+  "options": [
+   "BCG",
+   "Measles",
+   "DPT (pentavalent)",
+   "Hepatitis B alone"
+  ],
+  "answer": 2,
+  "explanation": "The DPT-containing pentavalent vaccine protects infants against diphtheria, pertussis (whooping cough), tetanus, hepatitis B and Haemophilus influenzae type b.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "शिशुमा डिफ्थेरिया, पर्टुसिस र टिटानस रोक्न कुन खोप दिइन्छ?",
+  "options_ne": [
+   "बिसिजी",
+   "दादुरा",
+   "डिपिटी (पेन्टाभ्यालेन्ट)",
+   "हेपाटाइटिस B मात्र"
+  ],
+  "explanation_ne": "डिपिटी भएको पेन्टाभ्यालेन्ट खोपले शिशुलाई डिफ्थेरिया, पर्टुसिस (लहरेखोकी), टिटानस, हेपाटाइटिस B र हिमोफिलस इन्फ्लुएन्जा टाइप b बाट जोगाउँछ।"
+ },
+ {
+  "id": "NUR-128",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the most common cause of neonatal mortality in Nepal?",
+  "options": [
+   "Cancer",
+   "Road traffic accidents",
+   "Diabetes",
+   "Birth asphyxia and neonatal infection"
+  ],
+  "answer": 3,
+  "explanation": "In Nepal, the leading causes of neonatal death are birth asphyxia, neonatal infection (sepsis) and prematurity/low birth weight.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "नेपालमा नवजात मृत्युदरको सबैभन्दा सामान्य कारण के हो?",
+  "options_ne": [
+   "क्यान्सर",
+   "सडक दुर्घटना",
+   "मधुमेह",
+   "जन्म श्वासरोध र नवजात संक्रमण"
+  ],
+  "explanation_ne": "नेपालमा नवजात मृत्युका प्रमुख कारण जन्म श्वासरोध, नवजात संक्रमण (सेप्सिस) र समयपूर्व जन्म/कम जन्म तौल हुन्।"
+ },
+ {
+  "id": "NUR-129",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a feature of Down syndrome?",
+  "options": [
+   "Trisomy 21 with flat facial profile and upward-slanting eyes",
+   "Tall stature with long limbs",
+   "Excess growth hormone",
+   "Absence of the thyroid gland"
+  ],
+  "answer": 0,
+  "explanation": "Down syndrome is caused by trisomy 21 and is characterised by a flat facial profile, upward-slanting palpebral fissures, a single palmar crease and intellectual disability.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "निम्नमध्ये डाउन सिन्ड्रोमको विशेषता कुन हो?",
+  "options_ne": [
+   "ट्राइसोमी २१ सहित चेप्टो अनुहार र माथितिर ढल्केका आँखा",
+   "लामा हातखुट्टासहित अग्लो कद",
+   "धेरै वृद्धि हर्मोन",
+   "थाइराइड ग्रन्थि नहुनु"
+  ],
+  "explanation_ne": "डाउन सिन्ड्रोम ट्राइसोमी २१ बाट हुन्छ र यसमा चेप्टो अनुहार, माथितिर ढल्केका आँखा, हत्केलामा एकल रेखा र बौद्धिक अपाङ्गता देखिन्छ।"
+ },
+ {
+  "id": "NUR-130",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the first sign of puberty in girls?",
+  "options": [
+   "Menarche",
+   "Breast budding (thelarche)",
+   "Growth of pubic hair",
+   "Voice change"
+  ],
+  "answer": 1,
+  "explanation": "Breast budding (thelarche) is usually the first sign of puberty in girls, typically beginning between 8 and 13 years; menarche comes later.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "केटीहरूमा यौवनारम्भको पहिलो लक्षण कुन हो?",
+  "options_ne": [
+   "महिनावारी सुरु हुनु",
+   "स्तनको कोपिला (थेलार्की)",
+   "यौनाङ्गमा रौं आउनु",
+   "स्वर परिवर्तन"
+  ],
+  "explanation_ne": "स्तनको कोपिला (थेलार्की) केटीहरूमा यौवनारम्भको पहिलो लक्षण हो, सामान्यतया ८–१३ वर्षको उमेरमा सुरु हुन्छ; महिनावारी पछि आउँछ।"
+ },
+ {
+  "id": "NUR-131",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what age does a child usually say their first meaningful word?",
+  "options": [
+   "6 months",
+   "18 months",
+   "12 months",
+   "24 months"
+  ],
+  "answer": 2,
+  "explanation": "Most children say their first meaningful word, such as 'mama' or 'dada', at about 12 months of age.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "बच्चाले सामान्यतया कुन उमेरमा पहिलो अर्थपूर्ण शब्द बोल्छ?",
+  "options_ne": [
+   "६ महिना",
+   "१८ महिना",
+   "१२ महिना",
+   "२४ महिना"
+  ],
+  "explanation_ne": "धेरैजसो बच्चा करिब १२ महिनाको उमेरमा 'मामा' वा 'दादा' जस्ता पहिलो अर्थपूर्ण शब्द बोल्छन्।"
+ },
+ {
+  "id": "NUR-132",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a contraindication for giving oral polio vaccine?",
+  "options": [
+   "Mild cold",
+   "Mild diarrhoea",
+   "Low-grade fever",
+   "Severe immunodeficiency"
+  ],
+  "answer": 3,
+  "explanation": "Live oral polio vaccine is contraindicated in severe immunodeficiency; mild illness, low-grade fever or mild diarrhoea are not contraindications.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये मुखबाट पोलियो खोप दिनुको बाधा (contraindication) कुन हो?",
+  "options_ne": [
+   "हल्का रुघा",
+   "हल्का झाडा",
+   "हल्का ज्वरो",
+   "गम्भीर प्रतिरक्षा कमी"
+  ],
+  "explanation_ne": "जीवित मुखबाट दिइने पोलियो खोप गम्भीर प्रतिरक्षा कमीमा वर्जित छ; हल्का बिरामी, हल्का ज्वरो वा हल्का झाडा बाधा होइनन्।"
+ },
+ {
+  "id": "NUR-133",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following foods should be introduced first as complementary food for an infant at 6 months?",
+  "options": [
+   "Mashed rice porridge (lito) or soft cereals",
+   "Honey",
+   "Whole nuts",
+   "Spicy curry"
+  ],
+  "answer": 0,
+  "explanation": "At 6 months, soft mashed cereals such as rice porridge or lito are suitable first complementary foods; honey and whole nuts should be avoided in infancy.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "६ महिनाको शिशुलाई पूरक खानाका रूपमा पहिले कुन खाना दिनुपर्छ?",
+  "options_ne": [
+   "मसिनो पिसेको जाउलो/लिटो वा नरम अन्न",
+   "मह",
+   "सिङ्गो बदाम",
+   "पिरो तरकारी"
+  ],
+  "explanation_ne": "६ महिनामा जाउलो वा लिटो जस्ता नरम मसिनो अन्न उपयुक्त पहिलो पूरक खाना हुन्; शिशु अवस्थामा मह र सिङ्गो बदाम बेवास्ता गर्नुपर्छ।"
+ },
+ {
+  "id": "NUR-134",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most common congenital heart defect?",
+  "options": [
+   "Tetralogy of Fallot",
+   "Ventricular septal defect",
+   "Transposition of the great arteries",
+   "Atrial septal defect"
+  ],
+  "answer": 1,
+  "explanation": "Ventricular septal defect, a hole in the wall between the two ventricles, is the most common congenital heart defect.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "निम्नमध्ये सबैभन्दा सामान्य जन्मजात मुटु दोष कुन हो?",
+  "options_ne": [
+   "टेट्रालोजी अफ फालोट",
+   "भेन्ट्रिकुलर सेप्टल डिफेक्ट",
+   "ग्रेट आर्टरीजको ट्रान्सपोजिसन",
+   "एट्रियल सेप्टल डिफेक्ट"
+  ],
+  "explanation_ne": "भेन्ट्रिकुलर सेप्टल डिफेक्ट, दुई निलयबीचको भित्तामा प्वाल, सबैभन्दा सामान्य जन्मजात मुटु दोष हो।"
+ },
+ {
+  "id": "NUR-135",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Paediatric Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following best describes the nursing care of a child with nephrotic syndrome?",
+  "options": [
+   "Bed rest only without monitoring",
+   "Low-protein diet with forced fluids",
+   "High-protein diet and fluid restriction as ordered, with daily weight and oedema monitoring",
+   "High-salt diet to reduce oedema"
+  ],
+  "answer": 2,
+  "explanation": "Nephrotic syndrome care includes monitoring daily weight, oedema and urine protein, a diet adequate in protein with sodium restriction, fluid balance as ordered, and corticosteroid therapy.",
+  "source": "Paediatric nursing — standard textbook",
+  "question_ne": "निम्नमध्ये नेफ्रोटिक सिन्ड्रोम भएको बच्चाको नर्सिङ हेरचाहलाई कुनले सबैभन्दा राम्रोसँग वर्णन गर्छ?",
+  "options_ne": [
+   "निगरानीबिना बेड रेस्ट मात्र",
+   "कम प्रोटिन आहार र जबरजस्ती तरल पदार्थ",
+   "पर्याप्त प्रोटिन आहार र आदेशअनुसार तरल सीमित गर्दै दैनिक तौल र सुजन निगरानी",
+   "सुजन घटाउन धेरै नुन भएको आहार"
+  ],
+  "explanation_ne": "नेफ्रोटिक सिन्ड्रोमको हेरचाहमा दैनिक तौल, सुजन र पिसाबमा प्रोटिन निगरानी, पर्याप्त प्रोटिन र कम सोडियम आहार, आदेशअनुसार तरल सन्तुलन र कोर्टिकोस्टेरोइड उपचार समावेश छ।"
+ },
+ {
+  "id": "NUR-138",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a presumptive (subjective) sign of pregnancy?",
+  "options": [
+   "Fetal heartbeat heard on ultrasound",
+   "Amenorrhoea",
+   "Positive pregnancy test",
+   "Fetal movements felt by the examiner"
+  ],
+  "answer": 1,
+  "explanation": "Amenorrhoea (missed period) is a presumptive sign reported by the woman; fetal heartbeat and positive tests are probable or positive signs.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये गर्भावस्थाको अनुमानित (व्यक्तिपरक) लक्षण कुन हो?",
+  "options_ne": [
+   "अल्ट्रासाउन्डमा भ्रूणको मुटुको धड्कन सुनिनु",
+   "महिनावारी रोकिनु",
+   "गर्भावस्था परीक्षण पोजिटिभ हुनु",
+   "जाँचकर्ताले भ्रूणको चलन महसुस गर्नु"
+  ],
+  "explanation_ne": "महिनावारी रोकिनु (एमेनोरिया) महिलाले बताउने अनुमानित लक्षण हो; भ्रूणको मुटुको धड्कन र पोजिटिभ परीक्षण सम्भावित वा निश्चित लक्षण हुन्।"
+ },
+ {
+  "id": "NUR-140",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the most common cause of postpartum haemorrhage?",
+  "options": [
+   "Retained placenta",
+   "Coagulation defect",
+   "Cervical tear",
+   "Uterine atony"
+  ],
+  "answer": 3,
+  "explanation": "Uterine atony — failure of the uterus to contract after delivery — is the most common cause of postpartum haemorrhage.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये प्रसवोत्तर रक्तस्रावको सबैभन्दा सामान्य कारण कुन हो?",
+  "options_ne": [
+   "साल अड्किनु",
+   "रगत जम्ने दोष",
+   "पाठेघरको मुख च्यातिनु",
+   "पाठेघर नखुम्चिनु (युटेराइन एटोनी)"
+  ],
+  "explanation_ne": "पाठेघर नखुम्चिनु (युटेराइन एटोनी) — प्रसवपछि पाठेघर खुम्चिन नसक्नु — प्रसवोत्तर रक्तस्रावको सबैभन्दा सामान्य कारण हो।"
+ },
+ {
+  "id": "NUR-141",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which stage of labour involves delivery of the placenta?",
+  "options": [
+   "Third stage",
+   "Second stage",
+   "First stage",
+   "Fourth stage"
+  ],
+  "answer": 0,
+  "explanation": "The third stage of labour is from the birth of the baby to the delivery of the placenta.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "प्रसवको कुन चरणमा साल निस्कन्छ?",
+  "options_ne": [
+   "तेस्रो चरण",
+   "दोस्रो चरण",
+   "पहिलो चरण",
+   "चौथो चरण"
+  ],
+  "explanation_ne": "प्रसवको तेस्रो चरण बच्चा जन्मेदेखि साल निस्कुन्जेलसम्म हुन्छ।"
+ },
+ {
+  "id": "NUR-142",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the drug of choice for preventing and treating postpartum haemorrhage due to uterine atony?",
+  "options": [
+   "Magnesium sulfate",
+   "Oxytocin",
+   "Nifedipine",
+   "Methyldopa"
+  ],
+  "answer": 1,
+  "explanation": "Oxytocin is the first-line uterotonic for preventing and treating postpartum haemorrhage from uterine atony; it causes the uterus to contract.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "पाठेघर नखुम्चिनुका कारण हुने प्रसवोत्तर रक्तस्राव रोक्न र उपचार गर्न रोजाइको औषधि कुन हो?",
+  "options_ne": [
+   "म्याग्नेसियम सल्फेट",
+   "अक्सिटोसिन",
+   "निफेडिपिन",
+   "मेथिल्डोपा"
+  ],
+  "explanation_ne": "अक्सिटोसिन पाठेघर नखुम्चिनुका कारण हुने प्रसवोत्तर रक्तस्राव रोक्न र उपचार गर्न पहिलो-लाइन युटेरोटोनिक हो; यसले पाठेघर खुम्चाउँछ।"
+ },
+ {
+  "id": "NUR-143",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which condition is characterised by high blood pressure and protein in the urine after 20 weeks of pregnancy?",
+  "options": [
+   "Eclampsia",
+   "Gestational diabetes",
+   "Pre-eclampsia",
+   "Placenta praevia"
+  ],
+  "answer": 2,
+  "explanation": "Pre-eclampsia is new hypertension with proteinuria (or other organ involvement) after 20 weeks of gestation; eclampsia is pre-eclampsia with seizures.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "गर्भावस्थाको २० हप्तापछि उच्च रक्तचाप र पिसाबमा प्रोटिन हुने अवस्थालाई के भनिन्छ?",
+  "options_ne": [
+   "एक्लेम्पसिया",
+   "गर्भावस्थाको मधुमेह",
+   "प्रि-एक्लेम्पसिया",
+   "प्लेसेन्टा प्रिभिया"
+  ],
+  "explanation_ne": "प्रि-एक्लेम्पसिया भनेको गर्भावस्थाको २० हप्तापछि हुने नयाँ उच्च रक्तचाप र पिसाबमा प्रोटिन (वा अन्य अङ्गको संलग्नता) हो; एक्लेम्पसिया भनेको छारे लागेको प्रि-एक्लेम्पसिया हो।"
+ },
+ {
+  "id": "NUR-144",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which drug is used to prevent seizures in a woman with severe pre-eclampsia?",
+  "options": [
+   "Oxytocin",
+   "Labetalol",
+   "Diazepam",
+   "Magnesium sulfate"
+  ],
+  "answer": 3,
+  "explanation": "Magnesium sulfate is the drug of choice for preventing and treating eclampsia seizures in severe pre-eclampsia.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "गम्भीर प्रि-एक्लेम्पसिया भएकी महिलामा छारे रोक्न कुन औषधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "अक्सिटोसिन",
+   "ल्याबेटालोल",
+   "डायजेपाम",
+   "म्याग्नेसियम सल्फेट"
+  ],
+  "explanation_ne": "म्याग्नेसियम सल्फेट गम्भीर प्रि-एक्लेम्पसियामा एक्लेम्पसिया छारे रोक्न र उपचार गर्न रोजाइको औषधि हो।"
+ },
+ {
+  "id": "NUR-145",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the most common site of ectopic pregnancy?",
+  "options": [
+   "Ampulla of the fallopian tube",
+   "Ovary",
+   "Cervix",
+   "Abdominal cavity"
+  ],
+  "answer": 0,
+  "explanation": "About 95% of ectopic pregnancies occur in the fallopian tube, most commonly in the ampulla.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये एक्टोपिक गर्भावस्थाको सबैभन्दा सामान्य स्थान कुन हो?",
+  "options_ne": [
+   "फ्यालोपियन ट्युबको एम्पुला",
+   "डिम्बाशय",
+   "पाठेघरको मुख",
+   "पेटको गुफा"
+  ],
+  "explanation_ne": "करिब ९५% एक्टोपिक गर्भावस्था फ्यालोपियन ट्युबमा हुन्छ, सबैभन्दा बढी एम्पुलामा।"
+ },
+ {
+  "id": "NUR-146",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the term for the first menstrual period in a girl?",
+  "options": [
+   "Menopause",
+   "Menarche",
+   "Amenorrhoea",
+   "Dysmenorrhoea"
+  ],
+  "answer": 1,
+  "explanation": "Menarche is the first menstrual period, usually occurring between 11 and 14 years of age.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "केटीमा पहिलो महिनावारीलाई के भनिन्छ?",
+  "options_ne": [
+   "रजोनिवृत्ति",
+   "मेनार्की",
+   "एमेनोरिया",
+   "डिसमेनोरिया"
+  ],
+  "explanation_ne": "मेनार्की भनेको पहिलो महिनावारी हो, जुन सामान्यतया ११–१४ वर्षको उमेरमा हुन्छ।"
+ },
+ {
+  "id": "NUR-147",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the recommended position for a woman in labour to improve uteroplacental blood flow?",
+  "options": [
+   "Supine lying flat",
+   "Standing for long periods",
+   "Left lateral position",
+   "Prone position"
+  ],
+  "answer": 2,
+  "explanation": "The left lateral position avoids compression of the inferior vena cava by the uterus and improves uteroplacental blood flow.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "प्रसवमा रहेकी महिलामा पाठेघर-प्लेसेन्टा रगत प्रवाह सुधार्न सिफारिस गरिएको पोजिसन कुन हो?",
+  "options_ne": [
+   "पिठ्यूँ फर्काएर सिधा सुत्नु",
+   "लामो समय उभिनु",
+   "बायाँ छेउमा सुत्नु",
+   "घोप्टो परेर सुत्नु"
+  ],
+  "explanation_ne": "बायाँ छेउमा सुत्दा पाठेघरले तल्लो भेना काभालाई थिच्दैन र पाठेघर-प्लेसेन्टा रगत प्रवाह सुधार हुन्छ।"
+ },
+ {
+  "id": "NUR-148",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many antenatal care visits are recommended by WHO for a normal pregnancy under the current guideline?",
+  "options": [
+   "2 visits",
+   "4 visits",
+   "12 visits",
+   "8 contacts"
+  ],
+  "answer": 3,
+  "explanation": "WHO recommends 8 antenatal care contacts for a normal pregnancy under its 2016 guideline.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "WHO को हालको मापदण्डअनुसार सामान्य गर्भावस्थामा कति पटक प्रसवपूर्व जाँच सिफारिस गरिन्छ?",
+  "options_ne": [
+   "२ पटक",
+   "४ पटक",
+   "१२ पटक",
+   "८ सम्पर्क"
+  ],
+  "explanation_ne": "WHO ले सन् २०१६ को मापदण्डअनुसार सामान्य गर्भावस्थामा ८ पटक प्रसवपूर्व सम्पर्क सिफारिस गर्छ।"
+ },
+ {
+  "id": "NUR-149",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a sign of true labour?",
+  "options": [
+   "Regular contractions with progressive cervical dilatation",
+   "Irregular contractions that stop with rest",
+   "Braxton Hicks contractions",
+   "Fetal movements only"
+  ],
+  "answer": 0,
+  "explanation": "True labour is characterised by regular, increasingly frequent and strong contractions that cause progressive cervical effacement and dilatation.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये साँचो प्रसव (true labour) को लक्षण कुन हो?",
+  "options_ne": [
+   "पाठेघरको मुख क्रमशः खुल्दै जाने नियमित खुम्चाइ",
+   "आराम गर्दा रोकिने अनियमित खुम्चाइ",
+   "ब्राक्सटन हिक्स खुम्चाइ",
+   "भ्रूणको चलन मात्र"
+  ],
+  "explanation_ne": "साँचो प्रसवमा नियमित, बिस्तारै छिटो र बलियो खुम्चाइ हुन्छ जसले पाठेघरको मुख क्रमशः पातलो र खुला बनाउँछ।"
+ },
+ {
+  "id": "NUR-150",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the most common cause of maternal death worldwide?",
+  "options": [
+   "Ectopic pregnancy",
+   "Postpartum haemorrhage",
+   "Gestational diabetes",
+   "Urinary tract infection"
+  ],
+  "answer": 1,
+  "explanation": "Postpartum haemorrhage is the leading cause of maternal death worldwide, followed by hypertensive disorders and sepsis.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये विश्वभर मातृ मृत्युको सबैभन्दा सामान्य कारण कुन हो?",
+  "options_ne": [
+   "एक्टोपिक गर्भावस्था",
+   "प्रसवोत्तर रक्तस्राव",
+   "गर्भावस्थाको मधुमेह",
+   "पिसाब नलीको संक्रमण"
+  ],
+  "explanation_ne": "प्रसवोत्तर रक्तस्राव विश्वभर मातृ मृत्युको प्रमुख कारण हो, त्यसपछि उच्च रक्तचापसम्बन्धी विकार र सेप्सिस पर्छन्।"
+ },
+ {
+  "id": "NUR-151",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the term for painful menstruation?",
+  "options": [
+   "Amenorrhoea",
+   "Menorrhagia",
+   "Dysmenorrhoea",
+   "Metrorrhagia"
+  ],
+  "answer": 2,
+  "explanation": "Dysmenorrhoea is painful menstruation, commonly caused by uterine contractions and prostaglandins.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "पीडादायी महिनावारीलाई के भनिन्छ?",
+  "options_ne": [
+   "एमेनोरिया",
+   "मेनोरेजिया",
+   "डिसमेनोरिया",
+   "मेट्रोरेजिया"
+  ],
+  "explanation_ne": "डिसमेनोरिया भनेको पीडादायी महिनावारी हो, जुन सामान्यतया पाठेघरको खुम्चाइ र प्रोस्टाग्लान्डिनले हुन्छ।"
+ },
+ {
+  "id": "NUR-152",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a risk factor for placenta praevia?",
+  "options": [
+   "First pregnancy at a young age",
+   "Folic acid supplementation",
+   "Regular exercise",
+   "Previous caesarean section"
+  ],
+  "answer": 3,
+  "explanation": "Previous caesarean section, previous uterine surgery, multiparity and advanced maternal age increase the risk of placenta praevia.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये प्लेसेन्टा प्रिभियाको जोखिम कारक कुन हो?",
+  "options_ne": [
+   "सानो उमेरमा पहिलो गर्भावस्था",
+   "फोलिक एसिड सेवन",
+   "नियमित व्यायाम",
+   "अघिल्लो सिजेरियन शल्यक्रिया"
+  ],
+  "explanation_ne": "अघिल्लो सिजेरियन शल्यक्रिया, अघिल्लो पाठेघर शल्यक्रिया, धेरै पटक गर्भवती हुनु र बढी उमेरले प्लेसेन्टा प्रिभियाको जोखिम बढाउँछ।"
+ },
+ {
+  "id": "NUR-153",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal length of the umbilical cord?",
+  "options": [
+   "50 cm",
+   "30 cm",
+   "20 cm",
+   "100 cm"
+  ],
+  "answer": 0,
+  "explanation": "The normal umbilical cord is about 50 cm long (range roughly 30–70 cm) and contains two arteries and one vein.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "नाभीको डोरी (umbilical cord) को सामान्य लम्बाइ कति हुन्छ?",
+  "options_ne": [
+   "५० सेमि",
+   "३० सेमि",
+   "२० सेमि",
+   "१०० सेमि"
+  ],
+  "explanation_ne": "सामान्य नाभीको डोरी करिब ५० सेमि लामो हुन्छ (दायरा करिब ३०–७० सेमि) र यसमा दुई धमनी र एक शिरा हुन्छन्।"
+ },
+ {
+  "id": "NUR-154",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the best method to assess fetal well-being in late pregnancy?",
+  "options": [
+   "Maternal weight only",
+   "Fetal movement counting and cardiotocography",
+   "Blood pressure only",
+   "Urine test only"
+  ],
+  "answer": 1,
+  "explanation": "Fetal movement counting by the mother and cardiotocography (CTG) are standard methods to assess fetal well-being in late pregnancy.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "गर्भावस्थाको अन्तिम चरणमा भ्रूणको स्वास्थ्य मूल्याङ्कन गर्ने उत्तम विधि कुन हो?",
+  "options_ne": [
+   "आमाको तौल मात्र",
+   "भ्रूणको चलन गणना र कार्डियोटोकोग्राफी",
+   "रक्तचाप मात्र",
+   "पिसाब परीक्षण मात्र"
+  ],
+  "explanation_ne": "आमाले भ्रूणको चलन गणना गर्नु र कार्डियोटोकोग्राफी (CTG) गर्भावस्थाको अन्तिम चरणमा भ्रूणको स्वास्थ्य मूल्याङ्कन गर्ने मानक विधि हुन्।"
+ },
+ {
+  "id": "NUR-155",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a contraindication for vaginal delivery?",
+  "options": [
+   "Previous vaginal delivery",
+   "Mild anaemia",
+   "Complete placenta praevia",
+   "First pregnancy"
+  ],
+  "answer": 2,
+  "explanation": "Complete placenta praevia, where the placenta covers the cervical os, is a contraindication for vaginal delivery and requires caesarean section.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये योनिबाट प्रसव गराउनुको बाधा (contraindication) कुन हो?",
+  "options_ne": [
+   "अघिल्लो योनि प्रसव",
+   "हल्का एनिमिया",
+   "पूर्ण प्लेसेन्टा प्रिभिया",
+   "पहिलो गर्भावस्था"
+  ],
+  "explanation_ne": "पूर्ण प्लेसेन्टा प्रिभिया, जहाँ प्लेसेन्टाले पाठेघरको मुख ढाक्छ, योनि प्रसवका लागि बाधा हो र सिजेरियन शल्यक्रिया आवश्यक पर्छ।"
+ },
+ {
+  "id": "NUR-156",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin supplement is recommended before conception to prevent neural tube defects?",
+  "options": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Folic acid"
+  ],
+  "answer": 3,
+  "explanation": "Folic acid taken before conception and in early pregnancy reduces the risk of neural tube defects such as spina bifida.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "न्युरल ट्युब दोष रोक्न गर्भधारणअघि कुन भिटामिन सप्लिमेन्ट सिफारिस गरिन्छ?",
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन C",
+   "भिटामिन D",
+   "फोलिक एसिड"
+  ],
+  "explanation_ne": "गर्भधारणअघि र गर्भावस्थाको सुरुमा लिइने फोलिक एसिडले स्पाइना बिफिडा जस्ता न्युरल ट्युब दोषको जोखिम घटाउँछ।"
+ },
+ {
+  "id": "NUR-157",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the term for the discharge of the mucus plug and blood-stained mucus before labour?",
+  "options": [
+   "Show",
+   "Rupture of membranes",
+   "Engagement",
+   "Quickening"
+  ],
+  "answer": 0,
+  "explanation": "'Show' is the blood-stained mucus discharge from the cervix as it begins to efface and dilate before labour.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "प्रसवअघि म्युकस प्लग र रगत मिसिएको म्युकस निस्कनुलाई के भनिन्छ?",
+  "options_ne": [
+   "सो (show)",
+   "पानीको थैली फुट्नु",
+   "इन्गेजमेन्ट",
+   "क्विकेनिङ"
+  ],
+  "explanation_ne": "'सो' भनेको प्रसवअघि पाठेघरको मुख पातलो र खुल्न थाल्दा निस्कने रगत मिसिएको म्युकस हो।"
+ },
+ {
+  "id": "NUR-158",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the first milk produced after delivery?",
+  "options": [
+   "Foremilk",
+   "Colostrum",
+   "Hindmilk",
+   "Transitional milk"
+  ],
+  "answer": 1,
+  "explanation": "Colostrum is the thick, yellowish first milk produced in the first days after birth; it is rich in antibodies and nutrients.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "प्रसवपछि उत्पादन हुने पहिलो दूध कुन हो?",
+  "options_ne": [
+   "फोरमिल्क",
+   "कोलोस्ट्रम",
+   "हिन्डमिल्क",
+   "ट्रान्जिसनल दूध"
+  ],
+  "explanation_ne": "कोलोस्ट्रम जन्मपछिका पहिलो दिनहरूमा उत्पादन हुने बाक्लो, पहेंलो पहिलो दूध हो; यो एन्टिबडी र पोषक तत्वले भरिपूर्ण हुन्छ।"
+ },
+ {
+  "id": "NUR-159",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal duration of the puerperium (postnatal period)?",
+  "options": [
+   "2 weeks",
+   "4 weeks",
+   "6 weeks",
+   "12 weeks"
+  ],
+  "answer": 2,
+  "explanation": "The puerperium lasts about 6 weeks after delivery, during which the reproductive organs return to their pre-pregnant state.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "सुत्केरी अवधि (प्युएरपेरियम) को सामान्य अवधि कति हुन्छ?",
+  "options_ne": [
+   "२ हप्ता",
+   "४ हप्ता",
+   "६ हप्ता",
+   "१२ हप्ता"
+  ],
+  "explanation_ne": "सुत्केरी अवधि प्रसवपछि करिब ६ हप्तासम्म हुन्छ, जसमा प्रजनन अङ्गहरू गर्भावस्थाअघिको अवस्थामा फर्कन्छन्।"
+ },
+ {
+  "id": "NUR-160",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a sign of abruptio placentae?",
+  "options": [
+   "Painless bright-red vaginal bleeding",
+   "White vaginal discharge",
+   "No bleeding with normal uterus",
+   "Painful dark-red vaginal bleeding with a tender, rigid uterus"
+  ],
+  "answer": 3,
+  "explanation": "Abruptio placentae is premature separation of the placenta, causing painful, dark-red bleeding, a tender rigid uterus and fetal distress; placenta praevia causes painless bright-red bleeding.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये एब्रप्सियो प्लेसेन्टीको लक्षण कुन हो?",
+  "options_ne": [
+   "पीडारहित उज्यालो रातो योनि रक्तस्राव",
+   "सेतो योनि स्राव",
+   "सामान्य पाठेघरसहित रक्तस्राव नहुनु",
+   "दुखाइ र कडा पाठेघरसहित गाढा रातो योनि रक्तस्राव"
+  ],
+  "explanation_ne": "एब्रप्सियो प्लेसेन्टी भनेको प्लेसेन्टा समयअगावै छुट्टिनु हो, जसले दुखाइ, गाढा रातो रक्तस्राव, दुख्ने कडा पाठेघर र भ्रूणको समस्या गराउँछ; प्लेसेन्टा प्रिभियामा पीडारहित उज्यालो रातो रक्तस्राव हुन्छ।"
+ },
+ {
+  "id": "NUR-161",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which hormone is responsible for milk production after delivery?",
+  "options": [
+   "Prolactin",
+   "Progesterone",
+   "Oestrogen",
+   "Oxytocin"
+  ],
+  "answer": 0,
+  "explanation": "Prolactin stimulates milk production in the breasts; oxytocin causes milk ejection (let-down).",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "प्रसवपछि दूध उत्पादनका लागि जिम्मेवार हर्मोन कुन हो?",
+  "options_ne": [
+   "प्रोल्याक्टिन",
+   "प्रोजेस्टेरोन",
+   "इस्ट्रोजन",
+   "अक्सिटोसिन"
+  ],
+  "explanation_ne": "प्रोल्याक्टिनले स्तनमा दूध उत्पादन उत्तेजित गर्छ; अक्सिटोसिनले दूध निस्कन (लेट-डाउन) गराउँछ।"
+ },
+ {
+  "id": "NUR-162",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most effective long-acting reversible contraceptive?",
+  "options": [
+   "Combined oral contraceptive pill",
+   "Intrauterine contraceptive device (IUCD)",
+   "Male condom",
+   "Withdrawal method"
+  ],
+  "answer": 1,
+  "explanation": "The intrauterine contraceptive device (IUCD) is a highly effective long-acting reversible contraceptive, effective for 5–10 years depending on the type.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये सबैभन्दा प्रभावकारी दीर्घकालीन उल्टाउन मिल्ने गर्भनिरोधक विधि कुन हो?",
+  "options_ne": [
+   "संयुक्त मुखबाट खाने गर्भनिरोधक चक्की",
+   "पाठेघरभित्र राखिने गर्भनिरोधक साधन (IUCD)",
+   "पुरुष कन्डम",
+   "बाहिर स्खलन विधि"
+  ],
+  "explanation_ne": "पाठेघरभित्र राखिने गर्भनिरोधक साधन (IUCD) अत्यन्त प्रभावकारी दीर्घकालीन उल्टाउन मिल्ने विधि हो, प्रकारअनुसार ५–१० वर्षसम्म प्रभावकारी हुन्छ।"
+ },
+ {
+  "id": "NUR-163",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal menstrual cycle length?",
+  "options": [
+   "14 days",
+   "40–45 days",
+   "21–35 days",
+   "60 days"
+  ],
+  "answer": 2,
+  "explanation": "A normal menstrual cycle is 21–35 days, with an average of about 28 days.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "सामान्य महिनावारी चक्रको लम्बाइ कति हुन्छ?",
+  "options_ne": [
+   "१४ दिन",
+   "४०–४५ दिन",
+   "२१–३५ दिन",
+   "६० दिन"
+  ],
+  "explanation_ne": "सामान्य महिनावारी चक्र २१–३५ दिन हुन्छ, औसत करिब २८ दिन।"
+ },
+ {
+  "id": "NUR-164",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a sign of impending eclampsia in a pregnant woman?",
+  "options": [
+   "Mild ankle swelling only",
+   "Mild backache",
+   "Occasional nausea",
+   "Severe headache, visual disturbance and epigastric pain"
+  ],
+  "answer": 3,
+  "explanation": "Severe headache, blurred vision, epigastric pain and hyperreflexia are warning signs of impending eclampsia and need urgent care.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये गर्भवती महिलामा एक्लेम्पसिया आउन लागेको लक्षण कुन हो?",
+  "options_ne": [
+   "खुट्टामा हल्का सुजन मात्र",
+   "हल्का ढाड दुखाइ",
+   "कहिलेकाहीँ वाकवाकी लाग्नु",
+   "गम्भीर टाउको दुखाइ, दृष्टि बिग्रनु र पेटको माथिल्लो भाग दुख्नु"
+  ],
+  "explanation_ne": "गम्भीर टाउको दुखाइ, दृष्टि धमिलो हुनु, पेटको माथिल्लो भाग दुख्नु र बढेको रिफ्लेक्स एक्लेम्पसिया आउन लागेको चेतावनी लक्षण हुन् र तत्काल हेरचाह चाहिन्छ।"
+ },
+ {
+  "id": "NUR-165",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "OBG / Midwifery",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the definition of a stillbirth?",
+  "options": [
+   "Death of a baby at or after 28 weeks of gestation, before or during birth",
+   "Death of a baby before 20 weeks of gestation",
+   "Death of a baby within 24 hours of birth",
+   "Death of a baby due to infection only"
+  ],
+  "answer": 0,
+  "explanation": "Stillbirth is the death of a fetus at or after 28 weeks of gestation (WHO definition for international comparison), before or during delivery.",
+  "source": "Midwifery and obstetrics — standard textbook",
+  "question_ne": "निम्नमध्ये मृत जन्म (stillbirth) को परिभाषा कुन हो?",
+  "options_ne": [
+   "गर्भावस्थाको २८ हप्ता वा पछि, जन्मअघि वा जन्मको समयमा बच्चाको मृत्यु",
+   "गर्भावस्थाको २० हप्ताअघि बच्चाको मृत्यु",
+   "जन्मको २४ घण्टाभित्र बच्चाको मृत्यु",
+   "संक्रमणका कारण मात्र बच्चाको मृत्यु"
+  ],
+  "explanation_ne": "मृत जन्म भनेको गर्भावस्थाको २८ हप्ता वा पछि (WHO को अन्तर्राष्ट्रिय तुलनाको परिभाषा), जन्मअघि वा जन्मको समयमा भ्रूणको मृत्यु हो।"
+ },
+ {
+  "id": "NUR-166",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the primary level of health care in Nepal?",
+  "options": [
+   "Central hospital",
+   "Health post and primary health care centre",
+   "District hospital",
+   "Medical college"
+  ],
+  "answer": 1,
+  "explanation": "In Nepal, health posts and primary health care centres provide primary-level care, the first point of contact with the health system.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "नेपालमा स्वास्थ्य सेवाको प्राथमिक तह कुन हो?",
+  "options_ne": [
+   "केन्द्रीय अस्पताल",
+   "स्वास्थ्य चौकी र प्राथमिक स्वास्थ्य केन्द्र",
+   "जिल्ला अस्पताल",
+   "मेडिकल कलेज"
+  ],
+  "explanation_ne": "नेपालमा स्वास्थ्य चौकी र प्राथमिक स्वास्थ्य केन्द्रले प्राथमिक तहको सेवा दिन्छन्, जुन स्वास्थ्य प्रणालीसँगको पहिलो सम्पर्क हो।"
+ },
+ {
+  "id": "NUR-167",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the main community-level health worker in Nepal's Female Community Health Volunteer programme?",
+  "options": [
+   "Doctor",
+   "Health Assistant",
+   "Female Community Health Volunteer (FCHV)",
+   "Staff Nurse"
+  ],
+  "answer": 2,
+  "explanation": "Female Community Health Volunteers (FCHVs) are community women trained to provide basic health services, health education and referrals in their villages.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "नेपालको महिला सामुदायिक स्वास्थ्य स्वयंसेविका कार्यक्रममा समुदाय तहकी मुख्य स्वास्थ्य कार्यकर्ता को हुन्?",
+  "options_ne": [
+   "डाक्टर",
+   "स्वास्थ्य सहायक",
+   "महिला सामुदायिक स्वास्थ्य स्वयंसेविका (FCHV)",
+   "स्टाफ नर्स"
+  ],
+  "explanation_ne": "महिला सामुदायिक स्वास्थ्य स्वयंसेविका (FCHV) हरू आफ्नो गाउँमा आधारभूत स्वास्थ्य सेवा, स्वास्थ्य शिक्षा र रेफरल दिन तालिम प्राप्त सामुदायिक महिला हुन्।"
+ },
+ {
+  "id": "NUR-168",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a component of primary health care?",
+  "options": [
+   "Only curative services",
+   "Only specialist care",
+   "Only hospital surgery",
+   "Health education, immunisation, safe water and essential drugs"
+  ],
+  "answer": 3,
+  "explanation": "Primary health care includes health education, safe water and sanitation, immunisation, maternal and child health, and provision of essential drugs.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये प्राथमिक स्वास्थ्य सेवाको घटक कुन हो?",
+  "options_ne": [
+   "उपचार सेवा मात्र",
+   "विशेषज्ञ सेवा मात्र",
+   "अस्पताल शल्यक्रिया मात्र",
+   "स्वास्थ्य शिक्षा, खोप, सुरक्षित पानी र आवश्यक औषधि"
+  ],
+  "explanation_ne": "प्राथमिक स्वास्थ्य सेवामा स्वास्थ्य शिक्षा, सुरक्षित पानी र सरसफाइ, खोप, मातृ तथा बाल स्वास्थ्य, र आवश्यक औषधिको व्यवस्था समावेश छ।"
+ },
+ {
+  "id": "NUR-169",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the incubation period of measles?",
+  "options": [
+   "10–14 days",
+   "2–3 days",
+   "21–28 days",
+   "30–40 days"
+  ],
+  "answer": 0,
+  "explanation": "The incubation period of measles is about 10–14 days from exposure to the appearance of the rash.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "दादुराको इन्क्युबेसन अवधि कति हुन्छ?",
+  "options_ne": [
+   "१०–१४ दिन",
+   "२–३ दिन",
+   "२१–२८ दिन",
+   "३०–४० दिन"
+  ],
+  "explanation_ne": "दादुराको इन्क्युबेसन अवधि सम्पर्कदेखि दाग देखा पर्नुसम्म करिब १०–१४ दिन हुन्छ।"
+ },
+ {
+  "id": "NUR-170",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the most sensitive indicator of the health status of a community?",
+  "options": [
+   "Crude death rate",
+   "Infant mortality rate",
+   "Birth rate",
+   "Literacy rate"
+  ],
+  "answer": 1,
+  "explanation": "The infant mortality rate is the most sensitive indicator of a community's health status and socio-economic development.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये समुदायको स्वास्थ्य स्थितिको सबैभन्दा संवेदनशील सूचक कुन हो?",
+  "options_ne": [
+   "कुल मृत्यु दर",
+   "शिशु मृत्यु दर",
+   "जन्म दर",
+   "साक्षरता दर"
+  ],
+  "explanation_ne": "शिशु मृत्यु दर समुदायको स्वास्थ्य स्थिति र सामाजिक-आर्थिक विकासको सबैभन्दा संवेदनशील सूचक हो।"
+ },
+ {
+  "id": "NUR-171",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing (ANM)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which method is used to purify drinking water at home?",
+  "options": [
+   "Keeping in sunlight for 5 minutes",
+   "Adding salt only",
+   "Boiling",
+   "Adding sugar"
+  ],
+  "answer": 2,
+  "explanation": "Boiling water kills most disease-causing organisms and is a reliable household method of water purification.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "घरमा पिउने पानी शुद्ध गर्न कुन विधि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "५ मिनेट घाममा राख्ने",
+   "नुन मात्र हाल्ने",
+   "उमाल्ने",
+   "चिनी हाल्ने"
+  ],
+  "explanation_ne": "पानी उमाल्दा धेरैजसो रोग गराउने जीवाणु मर्छन् र यो घरेलु पानी शुद्ध गर्ने भरपर्दो विधि हो।"
+ },
+ {
+  "id": "NUR-172",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing (ANM)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is transmitted through contaminated water?",
+  "options": [
+   "Malaria",
+   "Measles",
+   "Tuberculosis",
+   "Typhoid"
+  ],
+  "answer": 3,
+  "explanation": "Typhoid fever is caused by Salmonella typhi, spread through contaminated water and food.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "दूषित पानीबाट कुन रोग सर्छ?",
+  "options_ne": [
+   "मलेरिया",
+   "दादुरा",
+   "क्षयरोग",
+   "टाइफाइड"
+  ],
+  "explanation_ne": "टाइफाइड ज्वरो साल्मोनेला टाइफीबाट हुन्छ, जुन दूषित पानी र खानाबाट सर्छ।"
+ },
+ {
+  "id": "NUR-173",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the abbreviation ORS stand for?",
+  "options": [
+   "Oral Rehydration Solution",
+   "Oxygen Recovery System",
+   "Organ Replacement Surgery",
+   "Oral Respiratory Support"
+  ],
+  "answer": 0,
+  "explanation": "ORS stands for Oral Rehydration Solution, used to treat dehydration from diarrhoea.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "ORS को पूरा रूप के हो?",
+  "options_ne": [
+   "ओरल रिहाइड्रेसन सोलुसन",
+   "अक्सिजन रिकभरी सिस्टम",
+   "अर्गन रिप्लेसमेन्ट सर्जरी",
+   "ओरल रेस्पिरेटरी सपोर्ट"
+  ],
+  "explanation_ne": "ORS भनेको ओरल रिहाइड्रेसन सोलुसन हो, जुन झाडाबाट हुने निर्जलीकरणको उपचारमा प्रयोग हुन्छ।"
+ },
+ {
+  "id": "NUR-175",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which level of prevention is immunisation an example of?",
+  "options": [
+   "Primordial prevention",
+   "Secondary prevention",
+   "Primary prevention",
+   "Tertiary prevention"
+  ],
+  "answer": 2,
+  "explanation": "Immunisation prevents disease before it occurs, so it is primary prevention; screening is secondary and rehabilitation is tertiary prevention.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "खोप रोकथामको कुन तहको उदाहरण हो?",
+  "options_ne": [
+   "प्राइमोर्डियल रोकथाम",
+   "माध्यमिक रोकथाम",
+   "प्राथमिक रोकथाम",
+   "तृतीय रोकथाम"
+  ],
+  "explanation_ne": "खोपले रोग लाग्नुअघि नै रोक्छ, त्यसैले यो प्राथमिक रोकथाम हो; स्क्रिनिङ माध्यमिक र पुनर्स्थापना तृतीय रोकथाम हो।"
+ },
+ {
+  "id": "NUR-176",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing (ANM)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the best method for disposal of human excreta in rural areas?",
+  "options": [
+   "Open defecation",
+   "Burning in open air",
+   "Throwing into a river",
+   "Sanitary latrine"
+  ],
+  "answer": 3,
+  "explanation": "A sanitary latrine safely contains human excreta, preventing contamination of water and soil and breaking the faecal-oral transmission cycle.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "ग्रामीण क्षेत्रमा मानव मलमूत्र विसर्जन गर्ने उत्तम विधि कुन हो?",
+  "options_ne": [
+   "खुला दिसा",
+   "खुला हावामा जलाउने",
+   "नदीमा फाल्ने",
+   "स्वच्छ शौचालय"
+  ],
+  "explanation_ne": "स्वच्छ शौचालयले मानव मलमूत्र सुरक्षित रूपमा राख्छ, पानी र माटोको दूषण रोक्छ र मल-मुख प्रसारण चक्र तोड्छ।"
+ },
+ {
+  "id": "NUR-177",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organisation is the global authority for international public health?",
+  "options": [
+   "World Health Organization (WHO)",
+   "UNICEF",
+   "World Bank",
+   "UNESCO"
+  ],
+  "answer": 0,
+  "explanation": "The World Health Organization (WHO) is the United Nations agency responsible for international public health.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "अन्तर्राष्ट्रिय सार्वजनिक स्वास्थ्यका लागि विश्वव्यापी अधिकार भएको संस्था कुन हो?",
+  "options_ne": [
+   "विश्व स्वास्थ्य संगठन (WHO)",
+   "युनिसेफ",
+   "विश्व बैंक",
+   "युनेस्को"
+  ],
+  "explanation_ne": "विश्व स्वास्थ्य संगठन (WHO) अन्तर्राष्ट्रिय सार्वजनिक स्वास्थ्यका लागि जिम्मेवार संयुक्त राष्ट्र संघको निकाय हो।"
+ },
+ {
+  "id": "NUR-178",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the full form of FCHV in Nepal?",
+  "options": [
+   "Family Child Health Visitor",
+   "Female Community Health Volunteer",
+   "Female Child Health Volunteer",
+   "First Community Health Volunteer"
+  ],
+  "answer": 1,
+  "explanation": "FCHV stands for Female Community Health Volunteer, the backbone of community health services in Nepal.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "नेपालमा FCHV को पूरा रूप के हो?",
+  "options_ne": [
+   "परिवार बाल स्वास्थ्य आगन्तुक",
+   "महिला सामुदायिक स्वास्थ्य स्वयंसेविका",
+   "महिला बाल स्वास्थ्य स्वयंसेविका",
+   "पहिलो सामुदायिक स्वास्थ्य स्वयंसेविका"
+  ],
+  "explanation_ne": "FCHV भनेको महिला सामुदायिक स्वास्थ्य स्वयंसेविका हो, नेपालको सामुदायिक स्वास्थ्य सेवाको मेरुदण्ड।"
+ },
+ {
+  "id": "NUR-180",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following best describes herd immunity?",
+  "options": [
+   "Immunity of one person only",
+   "Immunity that lasts only one day",
+   "Immunity acquired from antibiotics",
+   "Protection of a community when a large proportion is immune, reducing disease spread"
+  ],
+  "answer": 3,
+  "explanation": "Herd immunity occurs when enough people in a population are immune that disease spread is reduced, indirectly protecting those who are not immune.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये हर्ड इम्युनिटी (समूह प्रतिरक्षा) लाई कुनले सबैभन्दा राम्रोसँग वर्णन गर्छ?",
+  "options_ne": [
+   "एक व्यक्तिको मात्र प्रतिरक्षा",
+   "एक दिन मात्र रहने प्रतिरक्षा",
+   "एन्टिबायोटिकबाट प्राप्त प्रतिरक्षा",
+   "ठूलो अनुपात प्रतिरक्षित हुँदा समुदायको सुरक्षा, रोग फैलिन कम हुनु"
+  ],
+  "explanation_ne": "हर्ड इम्युनिटी भनेको जनसंख्यामा पर्याप्त मानिस प्रतिरक्षित हुँदा रोग फैलिन कम हुन्छ र प्रतिरक्षित नभएकाहरू पनि अप्रत्यक्ष रूपमा सुरक्षित हुन्छन्।"
+ },
+ {
+  "id": "NUR-182",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the most common mode of transmission of HIV?",
+  "options": [
+   "Mosquito bite",
+   "Sexual transmission",
+   "Sharing utensils",
+   "Coughing"
+  ],
+  "answer": 1,
+  "explanation": "Worldwide, sexual transmission is the most common mode of HIV transmission, followed by mother-to-child and blood-borne transmission.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "HIV सर्ने सबैभन्दा सामान्य तरिका कुन हो?",
+  "options_ne": [
+   "लामखुट्टेको टोकाइ",
+   "यौन सम्पर्क",
+   "भाँडा बाँड्नु",
+   "खोक्नु"
+  ],
+  "explanation_ne": "विश्वभर यौन सम्पर्क HIV सर्ने सबैभन्दा सामान्य तरिका हो, त्यसपछि आमा-बच्चा र रगतबाट सर्ने तरिका पर्छन्।"
+ },
+ {
+  "id": "NUR-183",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a symptom of tuberculosis that should prompt sputum examination?",
+  "options": [
+   "Mild fever for 1 day",
+   "Headache for 1 day",
+   "Cough for more than 2 weeks",
+   "Occasional sneezing"
+  ],
+  "answer": 2,
+  "explanation": "A cough lasting more than 2 weeks is a key symptom of pulmonary tuberculosis and warrants sputum examination for acid-fast bacilli.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये खकार जाँच गर्नुपर्ने क्षयरोगको लक्षण कुन हो?",
+  "options_ne": [
+   "१ दिन हल्का ज्वरो",
+   "१ दिन टाउको दुखाइ",
+   "२ हप्ताभन्दा बढी खोकी",
+   "कहिलेकाहीँ हाच्छिउँ आउनु"
+  ],
+  "explanation_ne": "२ हप्ताभन्दा बढी खोकी फोक्सोको क्षयरोगको प्रमुख लक्षण हो र यसले एसिड-फास्ट ब्यासिलीका लागि खकार जाँच आवश्यक पार्छ।"
+ },
+ {
+  "id": "NUR-184",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the directly observed treatment for tuberculosis called?",
+  "options": [
+   "CB-IMCI",
+   "IMCI",
+   "EPI",
+   "DOTS"
+  ],
+  "answer": 3,
+  "explanation": "DOTS (Directly Observed Treatment, Short-course) is the WHO-recommended strategy in which a health worker observes the patient swallowing anti-tubercular drugs.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "क्षयरोगको प्रत्यक्ष अवलोकन उपचारलाई के भनिन्छ?",
+  "options_ne": [
+   "CB-IMCI",
+   "IMCI",
+   "EPI",
+   "DOTS"
+  ],
+  "explanation_ne": "DOTS (प्रत्यक्ष अवलोकन उपचार, छोटो कोर्स) WHO ले सिफारिस गरेको रणनीति हो जसमा स्वास्थ्यकर्मीले बिरामीले क्षयरोगविरुद्धको औषधि निलेको अवलोकन गर्छन्।"
+ },
+ {
+  "id": "NUR-185",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the correct order of the levels of health care in Nepal, from lowest to highest?",
+  "options": [
+   "Health post → Primary health care centre → District hospital → Zonal/central hospital",
+   "Central hospital → District hospital → Health post",
+   "Health post → Central hospital → District hospital",
+   "Primary health care centre → Health post → District hospital"
+  ],
+  "answer": 0,
+  "explanation": "Nepal's referral chain runs from health post, to primary health care centre, to district hospital, to zonal/provincial and central hospitals.",
+  "source": "Community health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये नेपालमा स्वास्थ्य सेवाका तहहरूको तल्लोदेखि माथिल्लो सही क्रम कुन हो?",
+  "options_ne": [
+   "स्वास्थ्य चौकी → प्राथमिक स्वास्थ्य केन्द्र → जिल्ला अस्पताल → अञ्चल/केन्द्रीय अस्पताल",
+   "केन्द्रीय अस्पताल → जिल्ला अस्पताल → स्वास्थ्य चौकी",
+   "स्वास्थ्य चौकी → केन्द्रीय अस्पताल → जिल्ला अस्पताल",
+   "प्राथमिक स्वास्थ्य केन्द्र → स्वास्थ्य चौकी → जिल्ला अस्पताल"
+  ],
+  "explanation_ne": "नेपालको रेफरल शृङ्खला स्वास्थ्य चौकी, प्राथमिक स्वास्थ्य केन्द्र, जिल्ला अस्पताल, अञ्चल/प्रादेशिक र केन्द्रीय अस्पतालको क्रममा चल्छ।"
+ },
+ {
+  "id": "NUR-186",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a common symptom of depression?",
+  "options": [
+   "Excessive happiness and overactivity",
+   "Persistent sadness and loss of interest",
+   "Increased appetite only",
+   "Improved sleep only"
+  ],
+  "answer": 1,
+  "explanation": "Depression is characterised by persistent low mood, loss of interest or pleasure, low energy, sleep and appetite changes, and poor concentration.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये डिप्रेसनको सामान्य लक्षण कुन हो?",
+  "options_ne": [
+   "अत्यधिक खुसी र अतिसक्रियता",
+   "लगातार उदासी र रुचि गुम्नु",
+   "भोक मात्र बढ्नु",
+   "निद्रा मात्र सुधार हुनु"
+  ],
+  "explanation_ne": "डिप्रेसनमा लगातार कम मनोभाव, रुचि वा आनन्द गुम्नु, कम ऊर्जा, निद्रा र भोकमा परिवर्तन, र एकाग्रता कम हुनु देखिन्छ।"
+ },
+ {
+  "id": "NUR-187",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a feature of schizophrenia?",
+  "options": [
+   "Only fever",
+   "Only physical pain",
+   "Hallucinations and delusions",
+   "Only memory loss"
+  ],
+  "answer": 2,
+  "explanation": "Schizophrenia is a psychotic disorder characterised by hallucinations, delusions, disorganised thinking and impaired functioning.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये सिजोफ्रेनियाको विशेषता कुन हो?",
+  "options_ne": [
+   "ज्वरो मात्र",
+   "शारीरिक दुखाइ मात्र",
+   "मतिभ्रम र भ्रम",
+   "स्मरणशक्ति हानि मात्र"
+  ],
+  "explanation_ne": "सिजोफ्रेनिया मनोविकार हो जसमा मतिभ्रम, भ्रम, अव्यवस्थित सोच र कार्यक्षमता बिग्रनु देखिन्छ।"
+ },
+ {
+  "id": "NUR-188",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the most important nursing action for a patient expressing suicidal thoughts?",
+  "options": [
+   "Leave the patient alone",
+   "Tell the patient to stop thinking about it",
+   "Ignore the statement",
+   "Ensure safety, remove harmful objects and stay with the patient"
+  ],
+  "answer": 3,
+  "explanation": "A patient expressing suicidal thoughts needs immediate safety measures: stay with them, remove means of harm, observe closely and arrange urgent psychiatric assessment.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "आत्महत्याको विचार व्यक्त गर्ने बिरामीका लागि सबैभन्दा महत्त्वपूर्ण नर्सिङ कार्य कुन हो?",
+  "options_ne": [
+   "बिरामीलाई एक्लै छोड्ने",
+   "बिरामीलाई त्यस्तो नसोच्न भन्ने",
+   "कुरा बेवास्ता गर्ने",
+   "सुरक्षा सुनिश्चित गर्ने, हानिकारक वस्तु हटाउने र बिरामीसँगै बस्ने"
+  ],
+  "explanation_ne": "आत्महत्याको विचार व्यक्त गर्ने बिरामीलाई तत्काल सुरक्षा चाहिन्छ: उनीसँगै बस्ने, हानि पुर्‍याउने साधन हटाउने, नजिकबाट अवलोकन गर्ने र तत्काल मनोचिकित्सा मूल्याङ्कनको व्यवस्था गर्ने।"
+ },
+ {
+  "id": "NUR-189",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which drug class is used to treat schizophrenia?",
+  "options": [
+   "Antipsychotics",
+   "Antidepressants",
+   "Antibiotics",
+   "Antihistamines"
+  ],
+  "answer": 0,
+  "explanation": "Antipsychotic drugs, such as haloperidol and risperidone, are the main treatment for schizophrenia.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "सिजोफ्रेनियाको उपचारमा कुन औषधि वर्ग प्रयोग गरिन्छ?",
+  "options_ne": [
+   "एन्टिसाइकोटिक",
+   "एन्टिडिप्रेसन्ट",
+   "एन्टिबायोटिक",
+   "एन्टिहिस्टामिन"
+  ],
+  "explanation_ne": "एन्टिसाइकोटिक औषधि, जस्तै ह्यालोपेरिडोल र रिस्पेरिडोन, सिजोफ्रेनियाको मुख्य उपचार हो।"
+ },
+ {
+  "id": "NUR-190",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a side effect of long-term haloperidol use that a nurse must monitor?",
+  "options": [
+   "Weight loss only",
+   "Tardive dyskinesia (involuntary movements)",
+   "Increased appetite only",
+   "Improved memory"
+  ],
+  "answer": 1,
+  "explanation": "Long-term use of typical antipsychotics such as haloperidol can cause tardive dyskinesia — involuntary, repetitive movements of the face and limbs.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये लामो समय ह्यालोपेरिडोल प्रयोगको साइड इफेक्ट कुन हो जसलाई नर्सले निगरानी गर्नुपर्छ?",
+  "options_ne": [
+   "तौल घट्नु मात्र",
+   "टार्डिभ डिस्किनेसिया (अनैच्छिक हलचल)",
+   "भोक बढ्नु मात्र",
+   "स्मरणशक्ति सुधार"
+  ],
+  "explanation_ne": "ह्यालोपेरिडोल जस्ता विशिष्ट एन्टिसाइकोटिकको लामो प्रयोगले टार्डिभ डिस्किनेसिया — अनुहार र हातखुट्टाको अनैच्छिक, दोहोरिने हलचल — गराउन सक्छ।"
+ },
+ {
+  "id": "NUR-191",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a symptom of anxiety?",
+  "options": [
+   "Improved concentration",
+   "Persistent happiness",
+   "Excessive worry and restlessness",
+   "Increased appetite only"
+  ],
+  "answer": 2,
+  "explanation": "Anxiety presents with excessive worry, restlessness, muscle tension, palpitations and difficulty concentrating.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये चिन्ता (anxiety) को लक्षण कुन हो?",
+  "options_ne": [
+   "एकाग्रता सुधार",
+   "लगातार खुसी",
+   "अत्यधिक चिन्ता र बेचैनी",
+   "भोक मात्र बढ्नु"
+  ],
+  "explanation_ne": "चिन्तामा अत्यधिक चिन्ता, बेचैनी, मांसपेशी तनाव, मुटुको धड्कन र एकाग्रतामा कठिनाइ देखिन्छ।"
+ },
+ {
+  "id": "NUR-192",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which therapy focuses on changing negative thought patterns in depression?",
+  "options": [
+   "Electroconvulsive therapy",
+   "Occupational therapy only",
+   "Hydrotherapy",
+   "Cognitive behavioural therapy"
+  ],
+  "answer": 3,
+  "explanation": "Cognitive behavioural therapy (CBT) helps patients identify and change negative thought patterns and behaviours that maintain depression and anxiety.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "डिप्रेसनमा नकारात्मक सोच ढाँचा परिवर्तन गर्न केन्द्रित थेरापी कुन हो?",
+  "options_ne": [
+   "इलेक्ट्रो कन्भल्सिभ थेरापी",
+   "अकुपेसनल थेरापी मात्र",
+   "हाइड्रोथेरापी",
+   "कग्निटिभ बिहेभियरल थेरापी"
+  ],
+  "explanation_ne": "कग्निटिभ बिहेभियरल थेरापी (CBT) ले बिरामीलाई डिप्रेसन र चिन्ता कायम राख्ने नकारात्मक सोच र व्यवहार पहिचान गरी परिवर्तन गर्न सहयोग गर्छ।"
+ },
+ {
+  "id": "NUR-193",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a characteristic of bipolar disorder?",
+  "options": [
+   "Alternating episodes of mania and depression",
+   "Only depressive episodes",
+   "Only anxiety episodes",
+   "Continuous hallucinations only"
+  ],
+  "answer": 0,
+  "explanation": "Bipolar disorder is characterised by alternating episodes of mania (or hypomania) and depression.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये बाइपोलर डिसअर्डरको विशेषता कुन हो?",
+  "options_ne": [
+   "म्यानिया र डिप्रेसनका पालोपालो एपिसोड",
+   "डिप्रेसनका एपिसोड मात्र",
+   "चिन्ताका एपिसोड मात्र",
+   "निरन्तर मतिभ्रम मात्र"
+  ],
+  "explanation_ne": "बाइपोलर डिसअर्डरमा म्यानिया (वा हाइपोम्यानिया) र डिप्रेसनका पालोपालो एपिसोड देखिन्छन्।"
+ },
+ {
+  "id": "NUR-194",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a sign of alcohol withdrawal?",
+  "options": [
+   "Bradycardia and low blood pressure",
+   "Tremor, sweating and anxiety",
+   "Improved sleep",
+   "Weight gain"
+  ],
+  "answer": 1,
+  "explanation": "Alcohol withdrawal presents with tremor, sweating, anxiety, nausea, insomnia and, in severe cases, seizures or delirium tremens.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये मदिरा छोड्दा देखिने लक्षण कुन हो?",
+  "options_ne": [
+   "मन्द नाडी र कम रक्तचाप",
+   "कम्पन, पसिना र चिन्ता",
+   "निद्रा सुधार",
+   "तौल बढ्नु"
+  ],
+  "explanation_ne": "मदिरा छोड्दा कम्पन, पसिना, चिन्ता, वाकवाकी, अनिद्रा र गम्भीर अवस्थामा छारे वा डेलिरियम ट्रेमेन्स देखिन्छ।"
+ },
+ {
+  "id": "NUR-195",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Mental Health Nursing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the best therapeutic communication technique?",
+  "options": [
+   "Giving advice immediately",
+   "Changing the subject quickly",
+   "Active listening with empathy",
+   "Arguing with the patient"
+  ],
+  "answer": 2,
+  "explanation": "Therapeutic communication is built on active listening, empathy, open-ended questions and non-judgemental acceptance.",
+  "source": "Mental health nursing — standard textbook",
+  "question_ne": "निम्नमध्ये उत्तम उपचारात्मक सञ्चार प्रविधि कुन हो?",
+  "options_ne": [
+   "तुरुन्त सल्लाह दिने",
+   "छिटो विषय परिवर्तन गर्ने",
+   "सहानुभूतिसहित सक्रिय रूपमा सुन्ने",
+   "बिरामीसँग बहस गर्ने"
+  ],
+  "explanation_ne": "उपचारात्मक सञ्चार सक्रिय सुन्नु, सहानुभूति, खुला प्रश्न र न्याय नगरी स्वीकार गर्नुमा आधारित हुन्छ।"
+ },
+ {
+  "id": "NUR-197",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin deficiency causes night blindness?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin A deficiency impairs vision in dim light, causing night blindness, and can lead to xerophthalmia.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "कुन भिटामिनको कमीले रतन्धो हुन्छ?",
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन B1",
+   "भिटामिन C",
+   "भिटामिन D"
+  ],
+  "explanation_ne": "भिटामिन A को कमीले कम उज्यालोमा दृष्टि बिगार्छ, जसले रतन्धो गराउँछ र जेरोफ्थाल्मिया हुन सक्छ।"
+ },
+ {
+  "id": "NUR-198",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mineral deficiency causes goitre?",
+  "options": [
+   "Iron",
+   "Iodine",
+   "Calcium",
+   "Zinc"
+  ],
+  "answer": 1,
+  "explanation": "Iodine deficiency reduces thyroid hormone production, causing the thyroid gland to enlarge as a goitre; iodised salt prevents it.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "कुन खनिजको कमीले गलगाँड हुन्छ?",
+  "options_ne": [
+   "फलाम",
+   "आयोडिन",
+   "क्याल्सियम",
+   "जिंक"
+  ],
+  "explanation_ne": "आयोडिनको कमीले थाइराइड हर्मोन उत्पादन घटाउँछ, जसले थाइराइड ग्रन्थि बढेर गलगाँड हुन्छ; आयोडिनयुक्त नुनले यसलाई रोक्छ।"
+ },
+ {
+  "id": "NUR-199",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vitamin deficiency causes scurvy?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin C",
+   "Vitamin K"
+  ],
+  "answer": 2,
+  "explanation": "Vitamin C deficiency causes scurvy, with bleeding gums, poor wound healing and weakness.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "कुन भिटामिनको कमीले स्कर्भी हुन्छ?",
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन B12",
+   "भिटामिन C",
+   "भिटामिन K"
+  ],
+  "explanation_ne": "भिटामिन C को कमीले स्कर्भी हुन्छ, जसमा गिजाबाट रगत बग्नु, घाउ निको नहुनु र कमजोरी देखिन्छ।"
+ },
+ {
+  "id": "NUR-200",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the richest source of iron among common Nepali foods?",
+  "options": [
+   "Rice",
+   "Potato",
+   "Banana",
+   "Green leafy vegetables and meat"
+  ],
+  "answer": 3,
+  "explanation": "Green leafy vegetables (such as spinach and mustard leaves) and meat, especially liver, are rich sources of iron; vitamin C improves its absorption.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये सामान्य नेपाली खानामा फलामको सबैभन्दा धनी स्रोत कुन हो?",
+  "options_ne": [
+   "चामल",
+   "आलु",
+   "केरा",
+   "हरियो सागपात र मासु"
+  ],
+  "explanation_ne": "हरियो सागपात (जस्तै पालुङ्गो र तोरीको साग) र मासु, विशेष गरी कलेजो, फलामका धनी स्रोत हुन्; भिटामिन C ले यसको शोषण सुधार गर्छ।"
+ },
+ {
+  "id": "NUR-203",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a good source of vitamin C?",
+  "options": [
+   "Rice",
+   "Potato chips",
+   "Amla (Indian gooseberry) and citrus fruits",
+   "Butter"
+  ],
+  "answer": 2,
+  "explanation": "Amla and citrus fruits such as oranges and lemons are excellent sources of vitamin C.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये भिटामिन C को राम्रो स्रोत कुन हो?",
+  "options_ne": [
+   "चामल",
+   "आलु चिप्स",
+   "अमला र कागती/सुन्तला जस्ता फल",
+   "घिउ"
+  ],
+  "explanation_ne": "अमला र सुन्तला, कागती जस्ता सिट्रस फल भिटामिन C का उत्कृष्ट स्रोत हुन्।"
+ },
+ {
+  "id": "NUR-204",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which deficiency causes beriberi?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin D",
+   "Vitamin B1 (thiamine)"
+  ],
+  "answer": 3,
+  "explanation": "Beriberi is caused by thiamine (vitamin B1) deficiency, affecting the nerves and heart.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "कुन कमीले बेरीबेरी हुन्छ?",
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन B12",
+   "भिटामिन D",
+   "भिटामिन B1 (थायमिन)"
+  ],
+  "explanation_ne": "बेरीबेरी थायमिन (भिटामिन B1) को कमीले हुन्छ, जसले स्नायु र मुटुलाई असर गर्छ।"
+ },
+ {
+  "id": "NUR-205",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following best describes the body mass index (BMI) range for a normal-weight adult?",
+  "options": [
+   "18.5–24.9",
+   "Below 18.5",
+   "25–29.9",
+   "30 or above"
+  ],
+  "answer": 0,
+  "explanation": "A BMI of 18.5–24.9 kg/m² is classified as normal weight; below 18.5 is underweight, 25–29.9 is overweight, and 30 or above is obese.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये सामान्य तौल भएका वयस्कको बडी मास इन्डेक्स (BMI) दायरा कुन हो?",
+  "options_ne": [
+   "१८.५–२४.९",
+   "१८.५ भन्दा कम",
+   "२५–२९.९",
+   "३० वा माथि"
+  ],
+  "explanation_ne": "BMI १८.५–२४.९ केजी/वर्गमिटर सामान्य तौल मानिन्छ; १८.५ भन्दा कम कम तौल, २५–२९.९ बढी तौल, र ३० वा माथि मोटोपन हो।"
+ },
+ {
+  "id": "NUR-206",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many kilocalories does one gram of fat provide?",
+  "options": [
+   "4 kcal",
+   "9 kcal",
+   "7 kcal",
+   "12 kcal"
+  ],
+  "answer": 1,
+  "explanation": "Fat provides 9 kcal per gram, while carbohydrate and protein each provide about 4 kcal per gram.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "एक ग्राम बोसोले कति किलोक्यालोरी ऊर्जा दिन्छ?",
+  "options_ne": [
+   "४ क्यालोरी",
+   "९ क्यालोरी",
+   "७ क्यालोरी",
+   "१२ क्यालोरी"
+  ],
+  "explanation_ne": "बोसोले प्रति ग्राम ९ क्यालोरी दिन्छ, जबकि कार्बोहाइड्रेट र प्रोटिनले प्रति ग्राम करिब ४ क्यालोरी दिन्छन्।"
+ },
+ {
+  "id": "NUR-207",
+  "exam": [
+   "nnc-rn",
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the best source of calcium?",
+  "options": [
+   "Rice",
+   "Banana",
+   "Milk and dairy products",
+   "Wheat"
+  ],
+  "answer": 2,
+  "explanation": "Milk and dairy products such as curd and cheese are the richest dietary sources of calcium, needed for bones and teeth.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये क्याल्सियमको उत्तम स्रोत कुन हो?",
+  "options_ne": [
+   "चामल",
+   "केरा",
+   "दूध र दुग्ध उत्पादन",
+   "गहुँ"
+  ],
+  "explanation_ne": "दूध र दही, चिज जस्ता दुग्ध उत्पादन क्याल्सियमका सबैभन्दा धनी आहार स्रोत हुन्, जुन हड्डी र दाँतका लागि आवश्यक छ।"
+ },
+ {
+  "id": "NUR-208",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a water-soluble vitamin?",
+  "options": [
+   "Vitamin A",
+   "Vitamin D",
+   "Vitamin E",
+   "Vitamin B complex"
+  ],
+  "answer": 3,
+  "explanation": "B-complex vitamins and vitamin C are water-soluble; vitamins A, D, E and K are fat-soluble.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये पानीमा घुल्ने भिटामिन कुन हो?",
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन D",
+   "भिटामिन E",
+   "भिटामिन B कम्प्लेक्स"
+  ],
+  "explanation_ne": "B-कम्प्लेक्स भिटामिन र भिटामिन C पानीमा घुल्ने हुन्; भिटामिन A, D, E र K बोसोमा घुल्ने हुन्।"
+ },
+ {
+  "id": "NUR-209",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following foods is the best source of protein for a vegetarian?",
+  "options": [
+   "Lentils (dal) and soya",
+   "Rice alone",
+   "Potato",
+   "Sugar"
+  ],
+  "answer": 0,
+  "explanation": "Lentils, beans and soya are rich plant sources of protein; combining pulses with cereals gives a complete amino-acid profile.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "निम्नमध्ये शाकाहारीका लागि प्रोटिनको उत्तम स्रोत कुन खाना हो?",
+  "options_ne": [
+   "दाल र भटमास",
+   "चामल मात्र",
+   "आलु",
+   "चिनी"
+  ],
+  "explanation_ne": "दाल, गेडागुडी र भटमास प्रोटिनका धनी वनस्पति स्रोत हुन्; दाललाई अन्नसँग मिलाउँदा पूर्ण एमिनो एसिड प्राप्त हुन्छ।"
+ },
+ {
+  "id": "NUR-210",
+  "exam": [
+   "nnc-rn",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is the recommended daily salt intake for an adult according to WHO?",
+  "options": [
+   "10 grams per day",
+   "Less than 5 grams per day",
+   "15 grams per day",
+   "20 grams per day"
+  ],
+  "answer": 1,
+  "explanation": "WHO recommends less than 5 grams of salt (about 2 grams of sodium) per day for adults to reduce the risk of hypertension and heart disease.",
+  "source": "Nutrition — standard textbook",
+  "question_ne": "WHO अनुसार वयस्कका लागि दैनिक नुन सेवनको सिफारिस मात्रा कति हो?",
+  "options_ne": [
+   "प्रतिदिन १० ग्राम",
+   "प्रतिदिन ५ ग्राम भन्दा कम",
+   "प्रतिदिन १५ ग्राम",
+   "प्रतिदिन २० ग्राम"
+  ],
+  "explanation_ne": "WHO ले उच्च रक्तचाप र मुटु रोगको जोखिम घटाउन वयस्कका लागि प्रतिदिन ५ ग्राम भन्दा कम नुन (करिब २ ग्राम सोडियम) सिफारिस गर्छ।"
+ }
+]

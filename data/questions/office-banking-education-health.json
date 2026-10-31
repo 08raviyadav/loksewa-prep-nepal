@@ -1,0 +1,6169 @@
+[
+ {
+  "id": "OFF-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of an office?",
+  "question_ne": "कार्यालयको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To manufacture goods",
+   "To provide transport services",
+   "To carry out administrative and clerical work to achieve organisational goals",
+   "To sell products directly to customers"
+  ],
+  "options_ne": [
+   "सामान उत्पादन गर्न",
+   "यातायात सेवा प्रदान गर्न",
+   "संगठनात्मक लक्ष्यहरू प्राप्त गर्न प्रशासनिक र लिपिकीय कार्यहरू गर्न",
+   "उत्पादनहरू सीधा ग्राहकहरूलाई बेच्न"
+  ],
+  "answer": 2,
+  "explanation": "An office is the centre where administrative work is planned, coordinated and recorded to support the organisation.",
+  "explanation_ne": "कार्यालय त्यो केन्द्र हो जहाँ प्रशासनिक कार्य योजना, समन्वय र संस्थालाई सहयोग गर्न अभिलेख गरिन्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which filing system arranges files in alphabetical order by name?",
+  "question_ne": "कुन फाइलिङ प्रणालीले नामद्वारा फाइलहरूलाई वर्णमालामा व्यवस्थित गर्छ?",
+  "options": [
+   "Geographical filing",
+   "Alphabetical filing",
+   "Chronological filing",
+   "Numerical filing"
+  ],
+  "options_ne": [
+   "भौगोलिक फाइलिङ",
+   "वर्णमाला फाइलिङ",
+   "कालानुक्रमिक फाइलिङ",
+   "संख्यात्मक फाइलिङ"
+  ],
+  "answer": 1,
+  "explanation": "Alphabetical filing sorts files A to Z by the name of the person or organisation.",
+  "explanation_ne": "वर्णमाला फाइलिङले फाइलहरू A देखि Z लाई व्यक्ति वा संस्थाको नामद्वारा क्रमबद्ध गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-003",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which filing system arranges files by numbers assigned to each file?",
+  "question_ne": "कुन फाइलिङ प्रणालीले प्रत्येक फाइलमा तोकिएका संख्याहरूद्वारा फाइलहरूलाई व्यवस्थित गर्छ?",
+  "options": [
+   "Alphabetical filing",
+   "Subject filing",
+   "Numerical filing",
+   "Geographical filing"
+  ],
+  "options_ne": [
+   "वर्णमाला फाइलिङ",
+   "विषय फाइलिङ",
+   "संख्यात्मक फाइलिङ",
+   "भौगोलिक फाइलिङ"
+  ],
+  "answer": 2,
+  "explanation": "Numerical filing gives each file a number and arranges files in number order.",
+  "explanation_ne": "संख्यात्मक फाइलिङले प्रत्येक फाइललाई नम्बर दिन्छ र फाइलहरूलाई सङ्ख्याको क्रममा व्यवस्थित गर्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which filing system groups files according to the subject or topic they deal with?",
+  "question_ne": "कुन फाइलिङ प्रणालीले उनीहरूसँग काम गर्ने विषय वा विषय अनुसार फाइलहरूलाई समूह बनाउँछ?",
+  "options": [
+   "Numerical filing",
+   "Alphabetical filing",
+   "Chronological filing",
+   "Subject filing"
+  ],
+  "options_ne": [
+   "संख्यात्मक फाइलिङ",
+   "वर्णमाला फाइलिङ",
+   "कालानुक्रमिक फाइलिङ",
+   "विषय फाइलिङ"
+  ],
+  "answer": 3,
+  "explanation": "Subject filing groups all papers on the same topic together, regardless of name or date.",
+  "explanation_ne": "नाम वा मितिको पर्वाह नगरी, विषय फाइलिङले एउटै विषयमा सबै कागजातहरूलाई एकसाथ समूहबद्ध गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-005",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which filing system arranges files by place or region?",
+  "question_ne": "कुन फाइलिङ प्रणालीले स्थान वा क्षेत्र अनुसार फाइलहरू व्यवस्थित गर्छ?",
+  "options": [
+   "Numerical filing",
+   "Alphabetical filing",
+   "Geographical filing",
+   "Subject filing"
+  ],
+  "options_ne": [
+   "संख्यात्मक फाइलिङ",
+   "वर्णमाला फाइलिङ",
+   "भौगोलिक फाइलिङ",
+   "विषय फाइलिङ"
+  ],
+  "answer": 2,
+  "explanation": "Geographical filing arranges files by district, region or country.",
+  "explanation_ne": "भौगोलिक फाइलिङले जिल्ला, क्षेत्र वा देश अनुसार फाइलहरू व्यवस्थित गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which filing system arranges files in date order?",
+  "question_ne": "कुन फाइलिङ प्रणालीले फाइलहरूलाई मिति क्रममा व्यवस्थित गर्छ?",
+  "options": [
+   "Geographical filing",
+   "Alphabetical filing",
+   "Chronological filing",
+   "Subject filing"
+  ],
+  "options_ne": [
+   "भौगोलिक फाइलिङ",
+   "वर्णमाला फाइलिङ",
+   "कालानुक्रमिक फाइलिङ",
+   "विषय फाइलिङ"
+  ],
+  "answer": 2,
+  "explanation": "Chronological filing arranges papers by date, usually the most recent first or last.",
+  "explanation_ne": "कालानुक्रमिक फाइलिङले मिति अनुसार कागजातहरू व्यवस्थित गर्दछ, सामान्यतया सबैभन्दा भर्खरको पहिलो वा अन्तिम।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-007",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the main advantage of centralised filing?",
+  "question_ne": "केन्द्रीकृत फाइलिङ को मुख्य लाभ के हो?",
+  "options": [
+   "Every department keeps its own files",
+   "Files are never used",
+   "Filing costs are always higher",
+   "Files are kept in one place and are easy to control"
+  ],
+  "options_ne": [
+   "प्रत्येक विभागले आफ्नै फाइलहरू राख्छ",
+   "फाइलहरू कहिल्यै प्रयोग हुँदैनन्",
+   "फाइलिङ लागत सधैं उच्च छ",
+   "फाइलहरू एकै ठाउँमा राखिन्छन् र नियन्त्रण गर्न सजिलो हुन्छ"
+  ],
+  "answer": 3,
+  "explanation": "Centralised filing keeps all files in one section, improving control, security and retrieval.",
+  "explanation_ne": "केन्द्रीकृत फाइलिङले सबै फाइलहरूलाई एउटा खण्डमा राख्छ, नियन्त्रण, सुरक्षा र पुनःप्राप्तिमा सुधार गर्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is a formal written communication sent by an office to an outside person or organisation?",
+  "question_ne": "कार्यालयले बाहिरका व्यक्ति वा संस्थालाई पठाएको औपचारिक लिखित सञ्चार कुन हो?",
+  "options": [
+   "Notice board",
+   "Memo",
+   "Telephone call",
+   "Letter"
+  ],
+  "options_ne": [
+   "सूचना बोर्ड",
+   "मेमो",
+   "टेलिफोन कल",
+   "पत्र"
+  ],
+  "answer": 3,
+  "explanation": "A letter is the formal written means of communicating with persons outside the office.",
+  "explanation_ne": "पत्र भनेको कार्यालय बाहिरका व्यक्तिहरूसँग कुराकानी गर्ने औपचारिक लिखित माध्यम हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-009",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which written communication is used for internal communication within an office?",
+  "question_ne": "कार्यालय भित्र आन्तरिक सञ्चारका लागि कुन लिखित सञ्चार प्रयोग गरिन्छ?",
+  "options": [
+   "Memorandum (memo)",
+   "Press release",
+   "Circular to the public",
+   "Formal letter"
+  ],
+  "options_ne": [
+   "ज्ञापनपत्र (मेमो)",
+   "प्रेस विज्ञप्ति",
+   "जनताको लागि सर्कुलर",
+   "औपचारिक पत्र"
+  ],
+  "answer": 0,
+  "explanation": "A memo is a short written message used to communicate within the same organisation.",
+  "explanation_ne": "मेमो भनेको एउटा छोटो लिखित सन्देश हो जुन एउटै संस्था भित्र सञ्चार गर्न प्रयोग गरिन्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a circular?",
+  "question_ne": "सर्कुलर भनेको के हो?",
+  "options": [
+   "A type of filing cabinet",
+   "A confidential file",
+   "A personal letter to one friend",
+   "A letter sent to many persons or offices conveying the same message"
+  ],
+  "options_ne": [
+   "फाइलिङ क्याबिनेट को एक प्रकार",
+   "एक गोप्य फाइल",
+   "एक साथीलाई व्यक्तिगत पत्र",
+   "एउटै सन्देश प्रवाह गर्ने धेरै व्यक्ति वा कार्यालयहरूलाई पठाइएको पत्र"
+  ],
+  "answer": 3,
+  "explanation": "A circular carries the same message to many recipients at once.",
+  "explanation_ne": "एक सर्कुलरले एकै पटक धेरै प्राप्तकर्ताहरूलाई एउटै सन्देश बोक्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-011",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which part of a letter contains the address of the sender?",
+  "question_ne": "पत्रको कुन भागमा प्रेषकको ठेगाना हुन्छ?",
+  "options": [
+   "Subject",
+   "Enclosure",
+   "Letterhead",
+   "Salutation"
+  ],
+  "options_ne": [
+   "विषय",
+   "घेरा",
+   "लेटरहेड",
+   "सलाम छ"
+  ],
+  "answer": 2,
+  "explanation": "The letterhead, usually at the top, shows the sender's name and address.",
+  "explanation_ne": "लेटरहेड, सामान्यतया शीर्षमा, प्रेषकको नाम र ठेगाना देखाउँछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-012",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What does 'Enclosure' in a letter mean?",
+  "question_ne": "पत्रमा 'इनक्लोजर' को अर्थ के हो?",
+  "options": [
+   "Documents attached with the letter",
+   "The stamp on the envelope",
+   "The signature of the receiver",
+   "The date of the letter"
+  ],
+  "options_ne": [
+   "पत्रसँग संलग्न कागजातहरू",
+   "खाममा छाप",
+   "प्राप्तकर्ताको हस्ताक्षर",
+   "पत्रको मिति"
+  ],
+  "answer": 0,
+  "explanation": "Enclosure lists the documents sent along with the letter.",
+  "explanation_ne": "संलग्नताले पत्रसँगै पठाइएका कागजातहरू सूचीबद्ध गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Record Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is record management?",
+  "question_ne": "अभिलेख व्यवस्थापन भनेको के हो?",
+  "options": [
+   "Only storing old papers",
+   "Only filing dak",
+   "Only typing letters",
+   "Systematic control of records from creation to disposal"
+  ],
+  "options_ne": [
+   "पुराना कागजहरू मात्र भण्डारण गर्ने",
+   "डक मात्र फाईल",
+   "अक्षरहरू मात्र टाइप गर्नुहोस्",
+   "सृष्टि देखि निपटान सम्म रेकर्ड को व्यवस्थित नियन्त्रण"
+  ],
+  "answer": 3,
+  "explanation": "Record management covers creation, use, storage, retrieval and disposal of records.",
+  "explanation_ne": "अभिलेख व्यवस्थापनले अभिलेखहरूको सिर्जना, प्रयोग, भण्डारण, पुन: प्राप्ति र निपटानलाई समेट्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-014",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Record Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Why are records important in an office?",
+  "question_ne": "कार्यालयमा अभिलेखहरू किन महत्त्वपूर्ण छन्?",
+  "options": [
+   "They replace staff",
+   "They increase office decoration",
+   "They provide evidence and help in decision-making",
+   "They reduce the need for meetings"
+  ],
+  "options_ne": [
+   "तिनीहरूले कर्मचारी बदल्छन्",
+   "तिनीहरूले कार्यालय सजावट बढाउँछन्",
+   "तिनीहरू प्रमाणहरू प्रदान गर्छन् र निर्णय गर्न मद्दत गर्छन्",
+   "तिनीहरू बैठकहरूको आवश्यकतालाई कम गर्छन्"
+  ],
+  "answer": 2,
+  "explanation": "Records serve as evidence of actions taken and as a basis for future decisions.",
+  "explanation_ne": "अभिलेखहरूले गरिएका कार्यहरूको प्रमाण र भविष्यका निर्णयहरूको आधारको रूपमा काम गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Dak and Registration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is 'dak' in office terminology?",
+  "question_ne": "कार्यालय शब्दावलीमा 'डाक' भनेको के हो?",
+  "options": [
+   "A salary register",
+   "A meeting agenda",
+   "Incoming and outgoing mail received by an office",
+   "A type of office furniture"
+  ],
+  "options_ne": [
+   "एक तलब दर्ता",
+   "बैठकको एजेण्डा",
+   "कार्यालय द्वारा प्राप्त आगमन र बाहिर जाने मेल",
+   "कार्यालय फर्निचर को एक प्रकार"
+  ],
+  "answer": 2,
+  "explanation": "Dak means the letters and documents received by or sent from an office.",
+  "explanation_ne": "डाक भन्नाले कार्यालयबाट प्राप्त वा पठाएको पत्र र कागजात हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-016",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Dak and Registration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the first step after receiving dak in an office?",
+  "question_ne": "कार्यालयमा डाक पाएपछि पहिलो चरण के हो?",
+  "options": [
+   "Destroying it",
+   "Returning it to the sender",
+   "Filing it directly without record",
+   "Opening, sorting and registering it in the dak register"
+  ],
+  "options_ne": [
+   "यसलाई नष्ट गर्दै",
+   "प्रेषकलाई फिर्ता गर्दै",
+   "रेकर्ड बिना सीधा फाइल गर्दै",
+   "डाक दर्तामा खोल्ने, क्रमबद्ध गर्ने र दर्ता गर्ने"
+  ],
+  "answer": 3,
+  "explanation": "Incoming dak is opened, sorted and entered in the registration book before distribution.",
+  "explanation_ne": "आगमन डाक खोलिएको छ, क्रमबद्ध र वितरण अघि दर्ता पुस्तिका मा प्रविष्ट।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-017",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Dak and Registration",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a dispatch register used for?",
+  "question_ne": "प्रेषण रजिस्टर के को लागी प्रयोग गरिन्छ?",
+  "options": [
+   "Recording outgoing letters sent from the office",
+   "Recording staff attendance",
+   "Recording office expenses",
+   "Recording visitors"
+  ],
+  "options_ne": [
+   "कार्यालयबाट पठाइएको बहिर्गमन पत्रहरू रेकर्ड गर्दै",
+   "कर्मचारी उपस्थिति रेकर्ड गर्दै",
+   "कार्यालय खर्च रेकर्डिङ",
+   "आगन्तुकहरू रेकर्ड गर्दै"
+  ],
+  "answer": 0,
+  "explanation": "The dispatch register records letters sent out, with date, addressee and subject.",
+  "explanation_ne": "प्रेषण दर्ताले मिति, ठेगाना र विषय सहित पठाइएका पत्रहरू रेकर्ड गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Layout",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main objective of a good office layout?",
+  "question_ne": "राम्रो कार्यालय लेआउटको मुख्य उद्देश्य के हो?",
+  "options": [
+   "More cabins for managers only",
+   "Smooth flow of work and effective use of space",
+   "Reducing light and ventilation",
+   "Maximum decoration"
+  ],
+  "options_ne": [
+   "प्रबन्धकहरूको लागि मात्र थप क्याबिनहरू",
+   "कामको सहज प्रवाह र ठाउँको प्रभावकारी प्रयोग",
+   "प्रकाश र वेंटिलेशन कम गर्दै",
+   "अधिकतम सजावट"
+  ],
+  "answer": 1,
+  "explanation": "Good layout places people, equipment and files so work flows smoothly with minimum movement.",
+  "explanation_ne": "राम्रो लेआउटले मान्छे, उपकरण र फाइलहरू राख्छ त्यसैले न्यूनतम आन्दोलनको साथ काम सहज रूपमा प्रवाह हुन्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-019",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Layout",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which office layout has no partitions and all staff work in one large hall?",
+  "question_ne": "कुन कार्यालय लेआउटमा कुनै विभाजन छैन र सबै कर्मचारीहरू एउटै ठूलो हलमा काम गर्छन्?",
+  "options": [
+   "Landscape layout",
+   "Open office layout",
+   "Cellular layout",
+   "Closed office layout"
+  ],
+  "options_ne": [
+   "ल्यान्डस्केप लेआउट",
+   "कार्यालय लेआउट खोल्नुहोस्",
+   "सेलुलर लेआउट",
+   "बन्द कार्यालय लेआउट"
+  ],
+  "answer": 1,
+  "explanation": "In an open layout, staff work together in one large space without separate rooms.",
+  "explanation_ne": "खुला लेआउटमा, कर्मचारीहरूले छुट्टै कोठा बिना एउटा ठूलो ठाउँमा सँगै काम गर्छन्।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Meeting and Minutes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What are minutes of a meeting?",
+  "question_ne": "बैठकको मिनेट के हो?",
+  "options": [
+   "The attendance register only",
+   "The agenda of the next meeting",
+   "The invitation letter for a meeting",
+   "The official written record of decisions and discussions at a meeting"
+  ],
+  "options_ne": [
+   "उपस्थिति दर्ता मात्र",
+   "आगामी बैठकको एजेण्डा",
+   "बैठकको लागि निमन्त्रणा पत्र",
+   "बैठकमा भएका निर्णय र छलफलहरूको आधिकारिक लिखित अभिलेख"
+  ],
+  "answer": 3,
+  "explanation": "Minutes record what was discussed and decided, for future reference and action.",
+  "explanation_ne": "के छलफल र निर्णय गरियो, भविष्यको सन्दर्भ र कार्यको लागि मिनेट रेकर्ड गर्नुहोस्।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-021",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Meeting and Minutes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is an agenda?",
+  "question_ne": "एजेन्डा के हो?",
+  "options": [
+   "A list of office staff",
+   "The minutes of the last meeting",
+   "A filing system",
+   "A list of topics to be discussed at a meeting"
+  ],
+  "options_ne": [
+   "कार्यालयका कर्मचारीहरूको सूची",
+   "पछिल्लो बैठकको मिनेट",
+   "फाइलिङ प्रणाली",
+   "बैठकमा छलफल गरिने विषयहरूको सूची"
+  ],
+  "answer": 3,
+  "explanation": "An agenda lists in order the items to be discussed at a meeting.",
+  "explanation_ne": "बैठकमा छलफल गर्नका लागि एजेन्डा सूचीहरू छन्।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Meeting and Minutes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who usually prepares the minutes of a meeting?",
+  "question_ne": "सामान्यतया बैठकको मिनेट कसले तयार गर्छ?",
+  "options": [
+   "The secretary or minute-taker",
+   "Any visitor",
+   "The security guard",
+   "The chief guest"
+  ],
+  "options_ne": [
+   "सचिव वा मिनेट लिने",
+   "कुनै पनि आगन्तुक",
+   "सुरक्षा गार्ड",
+   "प्रमुख अतिथि"
+  ],
+  "answer": 0,
+  "explanation": "The secretary records the proceedings and prepares the minutes for approval.",
+  "explanation_ne": "सचिवले कार्यवाही रेकर्ड गर्दछ र स्वीकृतिको लागि मिनेटहरू तयार गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Public Service Delivery",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is public service delivery?",
+  "question_ne": "सार्वजनिक सेवा प्रवाह भनेको के हो?",
+  "options": [
+   "Providing services by government offices to citizens",
+   "Selling goods in a private shop",
+   "Collecting taxes only",
+   "Providing services only to officials"
+  ],
+  "options_ne": [
+   "सरकारी कार्यालयबाट नागरिकलाई सेवा प्रदान गर्ने",
+   "निजी पसलमा सामान बेच्ने",
+   "कर सङ्कलन मात्र",
+   "अधिकारीहरूलाई मात्र सेवा प्रदान गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "Public service delivery means government services such as certificates, permits and welfare reaching citizens.",
+  "explanation_ne": "सार्वजनिक सेवा प्रवाह भन्नाले सरकारी सेवाहरू जस्तै सर्टिफिकेट, इजाजत र नागरिकमा पुग्ने कल्याणकारी सेवाहरू हुन्।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a key feature of good governance?",
+  "question_ne": "तलका मध्ये कुन सुशासनको प्रमुख विशेषता हो?",
+  "options": [
+   "Secrecy and delay",
+   "Nepotism and favouritism",
+   "Centralisation without participation",
+   "Transparency and accountability"
+  ],
+  "options_ne": [
+   "गोपनीयता र ढिलाइ",
+   "नातावाद र पक्षपात",
+   "सहभागिता बिना केन्द्रीकरण",
+   "पारदर्शिता र जवाफदेहिता"
+  ],
+  "answer": 3,
+  "explanation": "Good governance requires openness, accountability, participation and rule of law.",
+  "explanation_ne": "सुशासनका लागि खुलापन, जवाफदेहिता, सहभागिता र विधिको शासन चाहिन्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does transparency in public administration mean?",
+  "question_ne": "सार्वजनिक प्रशासनमा पारदर्शिता भनेको के हो?",
+  "options": [
+   "Delaying decisions",
+   "Openness of decisions and information to the public",
+   "Keeping all information secret",
+   "Avoiding public contact"
+  ],
+  "options_ne": [
+   "ढिलाइ निर्णय",
+   "सार्वजनिक निर्णय र जानकारी को खुलापन",
+   "सबै जानकारी गोप्य राख्दै",
+   "सार्वजनिक सम्पर्कबाट जोगिन"
+  ],
+  "answer": 1,
+  "explanation": "Transparency means citizens can see how decisions are made and how public money is used.",
+  "explanation_ne": "पारदर्शिता भनेको नागरिकहरूले कसरी निर्णयहरू लिइन्छ र सार्वजनिक पैसा कसरी प्रयोग गरिन्छ भनेर हेर्न सक्छन्।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does accountability mean for a public servant?",
+  "question_ne": "सार्वजनिक सेवकको लागि जवाफदेहिता भनेको के हो?",
+  "options": [
+   "Being answerable for one's actions and decisions",
+   "Working without supervision",
+   "Avoiding responsibility",
+   "Following orders blindly"
+  ],
+  "options_ne": [
+   "कसैको कार्य र निर्णयहरूको लागि उत्तरदायी हुनु",
+   "सुपरिवेक्षण बिना काम",
+   "जिम्मेवारीबाट जोगिने",
+   "आदेशलाई अन्धाधुन्ध पालना गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "Accountability means an official must explain and take responsibility for their work.",
+  "explanation_ne": "जवाफदेहिता भनेको अधिकारीले आफ्नो कामको व्याख्या र जिम्मेवारी लिनु पर्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Ethics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which behaviour best reflects ethics in public service?",
+  "question_ne": "सार्वजनिक सेवामा नैतिकतालाई कुन व्यवहारले राम्रोसँग झल्काउँछ?",
+  "options": [
+   "Hiding information from the public",
+   "Accepting gifts for faster service",
+   "Honesty, impartiality and serving without favour",
+   "Giving priority to relatives"
+  ],
+  "options_ne": [
+   "जनताबाट जानकारी लुकाउने",
+   "छिटो सेवाको लागि उपहारहरू स्वीकार गर्दै",
+   "ईमानदारी, निष्पक्षता र पक्ष बिना सेवा",
+   "आफन्तलाई प्राथमिकता दिने"
+  ],
+  "answer": 2,
+  "explanation": "Public service ethics require honesty, impartiality and equal treatment of all citizens.",
+  "explanation_ne": "सार्वजनिक सेवा नैतिकताले इमानदारी, निष्पक्षता र सबै नागरिकलाई समान व्यवहार चाहिन्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-028",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the main function of a receptionist in an office?",
+  "question_ne": "कार्यालयमा रिसेप्शनिस्टको मुख्य काम के हो?",
+  "options": [
+   "Typing all office letters",
+   "Keeping accounts",
+   "Receiving visitors and directing them correctly",
+   "Filing all records"
+  ],
+  "options_ne": [
+   "सबै कार्यालय पत्रहरू टाइप गर्दै",
+   "हिसाब राख्ने",
+   "आगन्तुकहरू प्राप्त गर्दै र तिनीहरूलाई सही रूपमा निर्देशित गर्दै",
+   "सबै रेकर्ड फाइल गर्दै"
+  ],
+  "answer": 2,
+  "explanation": "A receptionist greets visitors, answers calls and guides them to the right person or section.",
+  "explanation_ne": "रिसेप्शनिस्टले आगन्तुकहरूलाई अभिवादन गर्दछ, कलहरूको जवाफ दिन्छ र तिनीहरूलाई सही व्यक्ति वा खण्डमा मार्गदर्शन गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is delegation in management?",
+  "question_ne": "व्यवस्थापनमा प्रतिनिधिमण्डल भनेको के हो?",
+  "options": [
+   "Doing all work oneself",
+   "Avoiding decisions",
+   "Assigning authority and responsibility to subordinates",
+   "Transferring staff to another office"
+  ],
+  "options_ne": [
+   "सबै काम आफै गर्ने",
+   "निर्णयबाट बच्ने",
+   "अधीनस्थहरूलाई अख्तियार र जिम्मेवारी तोक्ने",
+   "कर्मचारीलाई अर्को कार्यालयमा सरुवा गर्ने"
+  ],
+  "answer": 2,
+  "explanation": "Delegation means giving a subordinate the authority to carry out a task while the manager remains accountable.",
+  "explanation_ne": "प्रत्यायोजन भन्नाले प्रबन्धक जवाफदेही रहँदा मातहतलाई कार्य सम्पादन गर्ने अधिकार दिनु हो।",
+  "source": "Management"
+ },
+ {
+  "id": "OFF-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is an office machine?",
+  "question_ne": "तलका मध्ये कुन कार्यालय मेसिन हो?",
+  "options": [
+   "Stethoscope",
+   "Tractor",
+   "Microscope",
+   "Photocopier"
+  ],
+  "options_ne": [
+   "स्टेथोस्कोप",
+   "ट्रयाक्टर",
+   "माइक्रोस्कोप",
+   "फोटोकपीर"
+  ],
+  "answer": 3,
+  "explanation": "A photocopier is standard office equipment used to copy documents.",
+  "explanation_ne": "फोटोकपीर कागजातहरू प्रतिलिपि गर्न प्रयोग गरिने मानक कार्यालय उपकरण हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Civil Service",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main purpose of a civil service?",
+  "question_ne": "निजामती सेवाको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To make laws in parliament",
+   "To run private businesses",
+   "To conduct elections only",
+   "To implement government policies and serve the public impartially"
+  ],
+  "options_ne": [
+   "संसदमा कानुन बनाउने",
+   "निजी व्यवसाय सञ्चालन गर्न",
+   "चुनाव गराउन मात्रै हो",
+   "सरकारी नीतिहरू कार्यान्वयन गर्ने र निष्पक्ष रूपमा जनताको सेवा गर्ने"
+  ],
+  "answer": 3,
+  "explanation": "The civil service is the permanent administrative machinery that implements policy and delivers services.",
+  "explanation_ne": "निजामती सेवा भनेको नीति कार्यान्वयन गर्ने र सेवा प्रवाह गर्ने स्थायी प्रशासनिक संयन्त्र हो।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Civil Service",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which quality is most essential for a civil servant?",
+  "question_ne": "निजामती कर्मचारीको लागि कुन गुणस्तर सबैभन्दा आवश्यक छ?",
+  "options": [
+   "Favouring one's own community",
+   "Political bias",
+   "Impartiality and neutrality",
+   "Seeking personal profit"
+  ],
+  "options_ne": [
+   "आफ्नै समुदायको पक्षमा",
+   "राजनीतिक पूर्वाग्रह",
+   "निष्पक्षता र तटस्थता",
+   "ब्यक्तिगत नाफा खोज्ने"
+  ],
+  "answer": 2,
+  "explanation": "Civil servants must serve all citizens impartially, regardless of politics or personal ties.",
+  "explanation_ne": "निजामती कर्मचारीहरूले राजनीति वा व्यक्तिगत सम्बन्धलाई पर्वाह नगरी निष्पक्ष रूपमा सबै नागरिकहरूको सेवा गर्नुपर्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-033",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is supervision in an office?",
+  "question_ne": "कार्यालयमा सुपरिवेक्षण भनेको के हो?",
+  "options": [
+   "Attending meetings only",
+   "Guiding and overseeing the work of subordinates",
+   "Filing documents",
+   "Typing letters"
+  ],
+  "options_ne": [
+   "बैठकमा मात्रै उपस्थित हुने",
+   "मातहतका कर्मचारीको कामको निर्देशन र निरीक्षण गर्ने",
+   "फाइलिङ कागजातहरू",
+   "अक्षरहरू टाइप गर्दै"
+  ],
+  "answer": 1,
+  "explanation": "Supervision means watching, guiding and correcting staff work to ensure quality and timeliness.",
+  "explanation_ne": "पर्यवेक्षण भनेको गुणस्तर र समयबद्धता सुनिश्चित गर्न कर्मचारीको कामलाई हेर्नु, निर्देशन दिनु र सुधार्नु हो।",
+  "source": "Management"
+ },
+ {
+  "id": "OFF-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is coordination in management?",
+  "question_ne": "व्यवस्थापनमा समन्वय भनेको के हो?",
+  "options": [
+   "Harmonising the work of different sections towards a common goal",
+   "Avoiding communication",
+   "Working in isolation",
+   "Competing between departments"
+  ],
+  "options_ne": [
+   "एउटै लक्ष्यमा विभिन्न खण्डहरूको काममा तालमेल मिलाउने",
+   "संचारबाट बच्ने",
+   "आइसोलेसनमा काम गर्ने",
+   "विभागहरू बीच प्रतिस्पर्धा"
+  ],
+  "answer": 0,
+  "explanation": "Coordination aligns different units so their work supports the same organisational goal.",
+  "explanation_ne": "समन्वयले विभिन्न एकाइहरूलाई पङ्क्तिबद्ध गर्दछ त्यसैले तिनीहरूको कार्यले एउटै संगठनात्मक लक्ष्यलाई समर्थन गर्दछ।",
+  "source": "Management"
+ },
+ {
+  "id": "OFF-035",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Filing",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the main purpose of an index in filing?",
+  "question_ne": "फाइलिङमा सूचकांकको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To destroy old files",
+   "To count staff",
+   "To write letters",
+   "To locate a file quickly"
+  ],
+  "options_ne": [
+   "पुराना फाइलहरू नष्ट गर्न",
+   "कर्मचारी गणना गर्न",
+   "चिठ्ठी लेख्न",
+   "छिटो फाइल पत्ता लगाउन"
+  ],
+  "answer": 3,
+  "explanation": "An index lists files with their location so any file can be found quickly.",
+  "explanation_ne": "अनुक्रमणिकाले फाइलहरूलाई तिनीहरूको स्थान सहित सूचीबद्ध गर्दछ ताकि कुनै पनि फाइल चाँडै फेला पार्न सकिन्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Record Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which records should be kept permanently?",
+  "question_ne": "कुन रेकर्डहरू स्थायी रूपमा राख्नु पर्छ?",
+  "options": [
+   "Records of lasting legal, historical or administrative value",
+   "Expired temporary notices",
+   "Rough notes and drafts",
+   "Duplicate copies of routine letters"
+  ],
+  "options_ne": [
+   "स्थायी कानूनी, ऐतिहासिक वा प्रशासनिक मूल्यको अभिलेख",
+   "म्याद सकिएको अस्थायी सूचनाहरू",
+   "रफ नोटहरू र ड्राफ्टहरू",
+   "नियमित पत्रहरूको नक्कल प्रतिलिपिहरू"
+  ],
+  "answer": 0,
+  "explanation": "Records with permanent value, such as land, citizenship or policy decisions, are preserved permanently.",
+  "explanation_ne": "भूमि, नागरिकता वा नीतिगत निर्णयहरू जस्ता स्थायी मूल्य भएका अभिलेखहरू स्थायी रूपमा सुरक्षित हुन्छन्।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-037",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which letter is written to apply for a job?",
+  "question_ne": "जागिरको लागि आवेदन दिन कुन पत्र लेखिन्छ?",
+  "options": [
+   "Notice",
+   "Application letter",
+   "Memo",
+   "Circular"
+  ],
+  "options_ne": [
+   "सूचना",
+   "आवेदन पत्र",
+   "मेमो",
+   "गोलाकार"
+  ],
+  "answer": 1,
+  "explanation": "An application letter is a formal letter in which a person applies for a post.",
+  "explanation_ne": "एक आवेदन पत्र एक औपचारिक पत्र हो जसमा एक व्यक्ति एक पद को लागी आवेदन गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the 'subject' line in a letter?",
+  "question_ne": "पत्रमा 'विषय' रेखा के हो?",
+  "options": [
+   "A brief statement of what the letter is about",
+   "The date of receipt",
+   "The sender's signature",
+   "The name of the typist"
+  ],
+  "options_ne": [
+   "पत्र के बारे छ को एक संक्षिप्त बयान",
+   "प्राप्तिको मिति",
+   "प्रेषकको हस्ताक्षर",
+   "टाइपिस्टको नाम"
+  ],
+  "answer": 0,
+  "explanation": "The subject line tells the reader at a glance what the letter concerns.",
+  "explanation_ne": "विषय रेखाले पाठकलाई पत्रले के सरोकार राख्छ भनी एक नजरमा बताउँछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What does office automation mean?",
+  "question_ne": "कार्यालय स्वचालन भनेको के हो?",
+  "options": [
+   "Using machines and computers to do office work faster",
+   "Using only paper files",
+   "Hiring more staff",
+   "Closing the office"
+  ],
+  "options_ne": [
+   "कार्यालयको काम छिटो गर्न मेसिन र कम्प्यूटर प्रयोग गर्नुहोस्",
+   "केवल कागज फाइलहरू प्रयोग गर्दै",
+   "थप कर्मचारी भर्ना",
+   "कार्यालय बन्द गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "Office automation uses computers, printers and software to speed up routine office tasks.",
+  "explanation_ne": "कार्यालय स्वचालनले नियमित कार्यालय कार्यहरूलाई गति दिन कम्प्युटर, प्रिन्टर र सफ्टवेयर प्रयोग गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Public Service Delivery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a citizen charter?",
+  "question_ne": "नागरिक बडापत्र भनेको के हो?",
+  "options": [
+   "A private business licence",
+   "A political party manifesto",
+   "A public document stating the services, fees and time limits of an office",
+   "A staff attendance sheet"
+  ],
+  "options_ne": [
+   "एक निजी व्यापार लाइसेन्स",
+   "राजनीतिक दलको घोषणापत्र",
+   "कार्यालयको सेवा, शुल्क र समय सीमा बताउने सार्वजनिक कागजात",
+   "एक कर्मचारी उपस्थिति पाना"
+  ],
+  "answer": 2,
+  "explanation": "A citizen charter tells citizens what services an office provides, at what cost and within how many days.",
+  "explanation_ne": "नागरिक वडापत्रले नागरिकहरूलाई कार्यालयले कुन मूल्यमा र कति दिनभित्र सेवाहरू उपलब्ध गराउँछ भनी बताउँछ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Public Service Delivery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Why is a citizen charter useful?",
+  "question_ne": "नागरिक वडापत्र किन उपयोगी छ?",
+  "options": [
+   "It makes service standards clear and offices accountable to citizens",
+   "It replaces the need for staff",
+   "It delays services",
+   "It increases fees secretly"
+  ],
+  "options_ne": [
+   "यसले सेवाको मापदण्डलाई स्पष्ट र कार्यालयहरूलाई नागरिकप्रति उत्तरदायी बनाउँछ",
+   "यसले कर्मचारीको आवश्यकतालाई प्रतिस्थापन गर्छ",
+   "यसले सेवामा ढिलाइ गर्छ",
+   "यसले गोप्य रूपमा शुल्क बढाउँछ"
+  ],
+  "answer": 0,
+  "explanation": "By publishing standards and time limits, a charter lets citizens demand timely service.",
+  "explanation_ne": "मापदण्ड र समय सीमाहरू प्रकाशित गरेर, चार्टरले नागरिकहरूलाई समयमै सेवाको माग गर्न दिन्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-042",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the function of a notice board in an office?",
+  "question_ne": "कार्यालयमा सूचना बोर्डको काम के हो?",
+  "options": [
+   "Typing letters",
+   "Keeping cash",
+   "Storing files",
+   "Displaying information for staff and visitors"
+  ],
+  "options_ne": [
+   "अक्षरहरू टाइप गर्दै",
+   "नगद राख्दै",
+   "फाइलहरू भण्डारण गर्दै",
+   "कर्मचारी र आगन्तुकहरूको लागि जानकारी प्रदर्शन गर्दै"
+  ],
+  "answer": 3,
+  "explanation": "A notice board displays notices, circulars and information for all to see.",
+  "explanation_ne": "एक सूचना बोर्डले सबैलाई हेर्नको लागि सूचनाहरू, परिपत्रहरू र जानकारीहरू प्रदर्शन गर्दछ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following best supports participation in governance?",
+  "question_ne": "तलका मध्ये कुनले सुशासनमा सहभागितालाई समर्थन गर्छ?",
+  "options": [
+   "Keeping decisions secret",
+   "Ignoring public feedback",
+   "Deciding without consultation",
+   "Involving citizens in decision-making"
+  ],
+  "options_ne": [
+   "निर्णय गोप्य राख्ने",
+   "सार्वजनिक प्रतिक्रिया बेवास्ता गर्दै",
+   "परामर्श बिना निर्णय",
+   "निर्णय प्रक्रियामा नागरिकलाई संलग्न गराउने"
+  ],
+  "answer": 3,
+  "explanation": "Participation means citizens and stakeholders have a voice in decisions that affect them.",
+  "explanation_ne": "सहभागिता भनेको उनीहरूलाई असर गर्ने निर्णयहरूमा नागरिक र सरोकारवालाहरूको आवाज हो।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the rule of law?",
+  "question_ne": "विधिको शासन भनेको के हो?",
+  "options": [
+   "Officials are above the law",
+   "Everyone, including officials, is subject to the law",
+   "Only citizens must follow the law",
+   "Laws apply only in cities"
+  ],
+  "options_ne": [
+   "अधिकारीहरू कानुनभन्दा माथि छन्",
+   "अधिकारी सहित सबै कानुनको अधीनमा छन्",
+   "नागरिकले मात्र कानुनको पालना गर्नुपर्छ",
+   "कानुन सहरमा मात्र लागू हुन्छ"
+  ],
+  "answer": 1,
+  "explanation": "Rule of law means laws apply equally to all and no one is above them.",
+  "explanation_ne": "कानूनको शासन भनेको कानून सबैलाई समान रूपमा लागू हुन्छ र कोही पनि उनीहरूभन्दा माथि हुँदैन।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-045",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which is the correct order of a formal letter?",
+  "question_ne": "औपचारिक पत्रको सही क्रम कुन हो?",
+  "options": [
+   "Salutation, heading, body, date",
+   "Heading, date, address, salutation, body, closing, signature",
+   "Signature, body, address, date",
+   "Body, signature, heading, date"
+  ],
+  "options_ne": [
+   "नमस्कार, शीर्षक, शरीर, मिति",
+   "शीर्षक, मिति, ठेगाना, अभिवादन, शरीर, बन्द, हस्ताक्षर",
+   "हस्ताक्षर, शरीर, ठेगाना, मिति",
+   "शरीर, हस्ताक्षर, शीर्षक, मिति"
+  ],
+  "answer": 1,
+  "explanation": "A formal letter follows the standard order: heading, date, recipient address, salutation, body, closing and signature.",
+  "explanation_ne": "एक औपचारिक पत्र मानक क्रम पछ्याउँछ: शीर्षक, मिति, प्राप्तकर्ता ठेगाना, अभिवादन, शरीर, बन्द र हस्ताक्षर।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Meeting and Minutes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a quorum in a meeting?",
+  "question_ne": "बैठकमा गणपूरक संख्या के हो?",
+  "options": [
+   "The minimum number of members required for a valid meeting",
+   "The meeting venue",
+   "The maximum number of members",
+   "The meeting agenda"
+  ],
+  "options_ne": [
+   "वैध बैठकको लागि आवश्यक सदस्यहरूको न्यूनतम संख्या",
+   "बैठक स्थल",
+   "सदस्यहरूको अधिकतम संख्या",
+   "बैठकको एजेण्डा"
+  ],
+  "answer": 0,
+  "explanation": "A quorum is the minimum attendance needed for decisions at a meeting to be valid.",
+  "explanation_ne": "गणपूरक भनेको बैठकमा भएका निर्णयहरू मान्य हुन आवश्यक पर्ने न्यूनतम उपस्थिति हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-047",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Meeting and Minutes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a resolution?",
+  "question_ne": "संकल्प भनेको के हो?",
+  "options": [
+   "A formal decision taken at a meeting",
+   "A filing method",
+   "A personal opinion",
+   "An invitation"
+  ],
+  "options_ne": [
+   "बैठकमा भएको औपचारिक निर्णय",
+   "फाइल गर्ने विधि",
+   "एक व्यक्तिगत विचार",
+   "निमन्त्रणा"
+  ],
+  "answer": 0,
+  "explanation": "A resolution is a formal decision recorded after discussion and voting at a meeting.",
+  "explanation_ne": "प्रस्ताव भनेको बैठकमा छलफल र मतदान पछि रेकर्ड गरिएको औपचारिक निर्णय हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the span of control?",
+  "question_ne": "नियन्त्रण को अवधि के हो?",
+  "options": [
+   "The number of subordinates a manager can supervise effectively",
+   "The size of the office building",
+   "The number of files in a cabinet",
+   "The working hours of staff"
+  ],
+  "options_ne": [
+   "प्रबन्धकले प्रभावकारी रूपमा पर्यवेक्षण गर्न सक्ने अधीनस्थहरूको संख्या",
+   "कार्यालय भवनको आकार",
+   "क्याबिनेटमा फाइलहरूको संख्या",
+   "कर्मचारीको काम गर्ने घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Span of control is how many subordinates one supervisor can manage effectively.",
+  "explanation_ne": "नियन्त्रणको अवधि भनेको एक सुपरवाइजरले प्रभावकारी रूपमा व्यवस्थापन गर्न सक्ने कति अधीनस्थहरू हुन्।",
+  "source": "Management"
+ },
+ {
+  "id": "OFF-049",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a job description?",
+  "question_ne": "कामको विवरण के हो?",
+  "options": [
+   "An attendance record",
+   "A salary slip",
+   "A written statement of the duties and responsibilities of a post",
+   "A leave application"
+  ],
+  "options_ne": [
+   "एक उपस्थिति रेकर्ड",
+   "तलब पर्ची",
+   "पदको कर्तव्य र जिम्मेवारीको लिखित कथन",
+   "एक छुट्टी आवेदन"
+  ],
+  "answer": 2,
+  "explanation": "A job description lists what a post-holder is expected to do.",
+  "explanation_ne": "कार्य विवरणले पोस्ट-होल्डरले के गर्ने अपेक्षा गरिएको छ भनेर सूचीबद्ध गर्दछ।",
+  "source": "Management"
+ },
+ {
+  "id": "OFF-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Ethics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a conflict of interest for a public servant?",
+  "question_ne": "सार्वजनिक सेवकको लागि स्वार्थको द्वन्द्व के हो?",
+  "options": [
+   "A situation where personal interest may influence official duty",
+   "Serving in a remote area",
+   "Having many duties",
+   "Working long hours"
+  ],
+  "options_ne": [
+   "व्यक्तिगत स्वार्थले आधिकारिक कर्तव्यलाई असर गर्न सक्ने अवस्था",
+   "दुर्गम क्षेत्रमा सेवा गर्दै",
+   "धेरै कर्तव्यहरू छन्",
+   "लामो समय काम गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "A conflict of interest arises when private interest could bias an official decision.",
+  "explanation_ne": "जब निजी स्वार्थले आधिकारिक निर्णयलाई पक्षपात गर्न सक्छ तब स्वार्थको द्वन्द्व उत्पन्न हुन्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-051",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Dak and Registration",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 'chalani' in Nepali office practice?",
+  "question_ne": "नेपाली अफिस अभ्यासमा 'चलानी' भनेको के हो?",
+  "options": [
+   "The dispatch number given to an outgoing letter",
+   "A salary grade",
+   "A type of leave",
+   "The date of a meeting"
+  ],
+  "options_ne": [
+   "बाहिर जाने पत्रलाई दिइएको प्रेषण नम्बर",
+   "एक तलब ग्रेड",
+   "बिदा को एक प्रकार",
+   "बैठकको मिति"
+  ],
+  "answer": 0,
+  "explanation": "Chalani is the outgoing dispatch number recorded when a letter is sent out.",
+  "explanation_ne": "चलानी भनेको पत्र पठाउँदा रेकर्ड गरिएको आउटगोइंग डिस्प्याच नम्बर हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-052",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Dak and Registration",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 'darta' in Nepali office practice?",
+  "question_ne": "नेपाली कार्यालय अभ्यासमा 'दार्ता' भनेको के हो?",
+  "options": [
+   "A filing cabinet",
+   "A meeting minute",
+   "The dispatch number",
+   "The registration number given to an incoming letter"
+  ],
+  "options_ne": [
+   "फाइलिङ क्याबिनेट",
+   "एक बैठक मिनेट",
+   "प्रेषण नम्बर",
+   "आगमन पत्रलाई दिइएको दर्ता नम्बर"
+  ],
+  "answer": 3,
+  "explanation": "Darta is the inward registration number given to incoming dak.",
+  "explanation_ne": "डार्टा आगमन डाकलाई दिइने भित्री दर्ता नम्बर हो।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a characteristic of a good filing system?",
+  "question_ne": "तलका मध्ये कुन राम्रो फाइलिङ प्रणालीको विशेषता हो?",
+  "options": [
+   "Complexity and high cost",
+   "Difficulty in retrieval",
+   "Simplicity, economy, accessibility and safety",
+   "No index or guide"
+  ],
+  "options_ne": [
+   "जटिलता र उच्च लागत",
+   "पुन: प्राप्तिमा कठिनाइ",
+   "सरलता, अर्थव्यवस्था, पहुँच र सुरक्षा",
+   "कुनै अनुक्रमणिका वा गाइड छैन"
+  ],
+  "answer": 2,
+  "explanation": "A good filing system is simple, cheap, easy to use, safe and allows quick retrieval.",
+  "explanation_ne": "राम्रो फाइलिङ प्रणाली सरल, सस्तो, प्रयोग गर्न सजिलो, सुरक्षित र द्रुत पुन: प्राप्ति अनुमति दिन्छ।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-054",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the main purpose of office stationery control?",
+  "question_ne": "कार्यालय स्टेशनरी नियन्त्रण को मुख्य उद्देश्य के हो?",
+  "options": [
+   "To stop staff from working",
+   "To increase purchases",
+   "To avoid waste and ensure supplies are available when needed",
+   "To decorate the office"
+  ],
+  "options_ne": [
+   "कर्मचारीहरूलाई काम गर्नबाट रोक्न",
+   "खरिद वृद्धि गर्न",
+   "फोहोरबाट बच्न र आवश्यक पर्दा आपूर्तिहरू उपलब्ध छन् भनी सुनिश्चित गर्न",
+   "अफिस सजाउन"
+  ],
+  "answer": 2,
+  "explanation": "Stationery control tracks stock so supplies are used economically and never run out unexpectedly.",
+  "explanation_ne": "स्टेशनरी नियन्त्रण स्टक ट्र्याक गर्दछ त्यसैले आपूर्तिहरू आर्थिक रूपमा प्रयोग गरिन्छ र कहिले पनि अप्रत्याशित रूपमा चल्दैन।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Public Service Delivery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does 'service with a smile' imply in public service?",
+  "question_ne": "सार्वजनिक सेवामा 'मुस्कान सहितको सेवा' भन्नाले के बुझिन्छ?",
+  "options": [
+   "Avoiding difficult citizens",
+   "Courteous and helpful behaviour towards citizens",
+   "Giving priority to officials",
+   "Working without pay"
+  ],
+  "options_ne": [
+   "कठिन नागरिकहरू जोगिन",
+   "नागरिकप्रति शिष्ट र सहयोगी व्यवहार",
+   "अधिकारीहरुलाई प्राथमिकता दिने",
+   "बिना तलब काम गर्ने"
+  ],
+  "answer": 1,
+  "explanation": "It means serving citizens politely and helpfully, improving trust in public offices.",
+  "explanation_ne": "यसको अर्थ विनम्र र सहयोगी ढंगले नागरिकको सेवा गर्नु, सार्वजनिक कार्यालयहरूमा विश्वास बढाउनु हो।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Good Governance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which practice helps prevent corruption in public offices?",
+  "question_ne": "कुन अभ्यासले सार्वजनिक कार्यालयहरूमा भ्रष्टाचार रोक्न मद्दत गर्छ?",
+  "options": [
+   "No record-keeping",
+   "Transparent procedures and public audit",
+   "Secret decision-making",
+   "Discretion without rules"
+  ],
+  "options_ne": [
+   "कुनै रेकर्ड राख्ने छैन",
+   "पारदर्शी प्रक्रिया र सार्वजनिक लेखा परीक्षण",
+   "गोप्य निर्णय लिने",
+   "नियम बिना विवेक"
+  ],
+  "answer": 1,
+  "explanation": "Open procedures, records and audits make misuse of power harder to hide.",
+  "explanation_ne": "खुला प्रक्रिया, अभिलेख र लेखापरीक्षणले शक्तिको दुरुपयोग लुकाउन गाह्रो बनाउँछ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-057",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the use of a diary in an office?",
+  "question_ne": "कार्यालयमा डायरीको प्रयोग के हो?",
+  "options": [
+   "Typing reports",
+   "Recording appointments and important dates",
+   "Filing letters",
+   "Keeping cash"
+  ],
+  "options_ne": [
+   "रिपोर्टहरू टाइप गर्दै",
+   "अपोइन्टमेन्टहरू र महत्त्वपूर्ण मितिहरू रेकर्ड गर्दै",
+   "पत्रहरू फाइल गर्दै",
+   "नगद राख्दै"
+  ],
+  "answer": 1,
+  "explanation": "An office diary records appointments, deadlines and engagements so nothing is missed.",
+  "explanation_ne": "अफिस डायरीले अपोइन्टमेन्ट, म्याद र संलग्नताहरू रेकर्ड गर्दछ त्यसैले केहि पनि छुटेको छैन।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Civil Service",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does merit-based recruitment mean?",
+  "question_ne": "मेरिटमा आधारित भर्ती भनेको के हो?",
+  "options": [
+   "Selection based on payment",
+   "Selection based on seniority only",
+   "Selection based on political connection",
+   "Selection based on ability and qualifications, not favour"
+  ],
+  "options_ne": [
+   "भुक्तानीको आधारमा चयन",
+   "वरिष्ठताको आधारमा मात्र छनोट",
+   "राजनीतिक सम्बन्धमा आधारित छनोट",
+   "योग्यता र योग्यताका आधारमा छनोट, पक्षपाती होइन"
+  ],
+  "answer": 3,
+  "explanation": "Merit recruitment selects candidates by competence shown in examination and qualifications.",
+  "explanation_ne": "मेरिट भर्तीले परीक्षा र योग्यतामा देखाइएका योग्यताका आधारमा उम्मेदवार छनोट गर्छ।",
+  "source": "Public administration"
+ },
+ {
+  "id": "OFF-059",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Correspondence",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which is an example of upward communication in an office?",
+  "question_ne": "कार्यालयमा माथिल्लो सञ्चारको उदाहरण कुन हो?",
+  "options": [
+   "A manager instructing staff",
+   "A letter to the public",
+   "A subordinate reporting to a superior",
+   "A circular to all staff"
+  ],
+  "options_ne": [
+   "कर्मचारीलाई निर्देशन दिँदै व्यवस्थापक",
+   "जनतालाई पत्र",
+   "एक उच्च को लागी एक अधीनस्थ रिपोर्टिंग",
+   "सबै कर्मचारीहरूलाई सर्कुलर"
+  ],
+  "answer": 2,
+  "explanation": "Upward communication flows from lower levels to higher levels, such as reports to a boss.",
+  "explanation_ne": "माथिल्लो सञ्चार तल्लो तहबाट उच्च स्तरहरूमा प्रवाहित हुन्छ, जस्तै मालिकलाई रिपोर्टहरू।",
+  "source": "Office management"
+ },
+ {
+  "id": "OFF-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Office Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main benefit of standardising office procedures?",
+  "question_ne": "कार्यालय प्रक्रियाको मानकीकरणको मुख्य फाइदा के हो?",
+  "options": [
+   "Less accountability",
+   "Higher cost in every case",
+   "Consistency, speed and fewer errors in routine work",
+   "More confusion"
+  ],
+  "options_ne": [
+   "कम जवाफदेहिता",
+   "हरेक मामला मा उच्च लागत",
+   "नियमित काममा स्थिरता, गति र कम त्रुटिहरू",
+   "थप भ्रम"
+  ],
+  "answer": 2,
+  "explanation": "Standard procedures ensure the same task is done the same correct way every time.",
+  "explanation_ne": "मानक प्रक्रियाहरूले सुनिश्चित गर्दछ कि समान कार्य प्रत्येक पटक उही सही तरिकाले गरिन्छ।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-001",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb",
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Nepal Rastra Bank",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is Nepal Rastra Bank?",
+  "question_ne": "के हो नेपाल राष्ट्र बैंक?",
+  "options": [
+   "A finance company",
+   "A commercial bank",
+   "A development bank",
+   "The central bank of Nepal"
+  ],
+  "options_ne": [
+   "एक वित्त कम्पनी",
+   "एक वाणिज्य बैंक",
+   "विकास बैंक हो",
+   "नेपाल केन्द्रीय बैंकले"
+  ],
+  "answer": 3,
+  "explanation": "Nepal Rastra Bank is the central bank, responsible for monetary policy and banking supervision.",
+  "explanation_ne": "नेपाल राष्ट्र बैंक मौद्रिक नीति र बैंकिङ सुपरिवेक्षणको लागि जिम्मेवार केन्द्रीय बैंक हो।",
+  "source": "Banking in Nepal"
+ },
+ {
+  "id": "BANK-003",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Nepal Rastra Bank",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which function of Nepal Rastra Bank makes it the 'banker's bank'?",
+  "question_ne": "नेपाल राष्ट्र बैंकको कुन कार्यले यसलाई 'बैंकर्स बैंक' बनाउँछ?",
+  "options": [
+   "Keeping accounts of the general public",
+   "Running branch offices in villages",
+   "Keeping reserves of commercial banks and lending to them",
+   "Issuing shares to the public"
+  ],
+  "options_ne": [
+   "सर्वसाधारणको हिसाब किताब राख्ने",
+   "गाउँगाउँमा शाखा कार्यालय सञ्चालन गर्ने",
+   "वाणिज्य बैंकहरुको निक्षेप राख्ने र उनीहरुलाई ऋण दिने",
+   "सर्वसाधारणलाई शेयर जारी गर्ने"
+  ],
+  "answer": 2,
+  "explanation": "As banker's bank, the central bank holds bank reserves and acts as lender of last resort.",
+  "explanation_ne": "बैंकर बैंकको रूपमा, केन्द्रीय बैंकले बैंक रिजर्भ राख्छ र अन्तिम रिसोर्टको ऋणदाताको रूपमा कार्य गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-004",
+  "exam": [
+   "nrb-assistant",
+   "rbb",
+   "kharidar"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Commercial Banks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main business of a commercial bank?",
+  "question_ne": "वाणिज्य बैंकको मुख्य व्यवसाय के हो?",
+  "options": [
+   "Selling insurance only",
+   "Manufacturing goods",
+   "Accepting deposits and giving loans",
+   "Issuing currency notes"
+  ],
+  "options_ne": [
+   "बीमा मात्र बिक्री",
+   "उत्पादन सामग्री",
+   "निक्षेप स्वीकार गर्ने र ऋण दिने",
+   "मुद्रा नोट जारी गर्दै"
+  ],
+  "answer": 2,
+  "explanation": "Commercial banks take deposits from the public and lend them to earn interest.",
+  "explanation_ne": "वाणिज्य बैंकहरूले जनताबाट निक्षेप लिएर ब्याज आम्दानी गर्न ऋण दिने गर्छन्।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-005",
+  "exam": [
+   "nrb-assistant",
+   "rbb",
+   "nasu"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Accounts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which account can money be deposited and withdrawn at any time with interest?",
+  "question_ne": "कुन खातामा जुनसुकै बेला ब्याज सहित पैसा जम्मा र निकाल्न सकिन्छ?",
+  "options": [
+   "Loan account",
+   "Fixed deposit account",
+   "Current account only",
+   "Saving account"
+  ],
+  "options_ne": [
+   "ऋण खाता",
+   "फिक्स्ड डिपोजिट खाता",
+   "हालको खाता मात्र",
+   "बचत खाता"
+  ],
+  "answer": 3,
+  "explanation": "A saving account allows deposits and withdrawals anytime and pays interest on the balance.",
+  "explanation_ne": "बचत खाताले कुनै पनि समयमा जम्मा र निकासी गर्न अनुमति दिन्छ र ब्यालेन्समा ब्याज तिर्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-006",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Accounts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which account is mainly used by businesses for frequent transactions and usually pays no interest?",
+  "question_ne": "कुन खाता मुख्यतया व्यवसायहरू द्वारा बारम्बार लेनदेनको लागि प्रयोग गरिन्छ र सामान्यतया कुनै ब्याज तिर्दैन?",
+  "options": [
+   "Recurring deposit account",
+   "Saving account",
+   "Fixed deposit account",
+   "Current account"
+  ],
+  "options_ne": [
+   "आवर्ती जम्मा खाता",
+   "बचत खाता",
+   "फिक्स्ड डिपोजिट खाता",
+   "चालू खाता"
+  ],
+  "answer": 3,
+  "explanation": "A current account suits frequent business transactions and normally pays no interest.",
+  "explanation_ne": "हालको खाता बारम्बार व्यापार लेनदेनको लागि उपयुक्त हुन्छ र सामान्यतया कुनै ब्याज तिर्दैन।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-007",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Accounts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which deposit gives the highest interest rate because money is locked for a fixed period?",
+  "question_ne": "निश्चित अवधिको लागि पैसा बन्द भएकोले कुन निक्षेपले उच्चतम ब्याज दिन्छ?",
+  "options": [
+   "Saving account",
+   "Demand deposit",
+   "Fixed deposit",
+   "Current account"
+  ],
+  "options_ne": [
+   "बचत खाता",
+   "डिमान्ड डिपोजिट",
+   "फिक्स्ड डिपोजिट",
+   "चालू खाता"
+  ],
+  "answer": 2,
+  "explanation": "Fixed deposits pay higher interest because the money cannot be withdrawn before maturity.",
+  "explanation_ne": "फिक्स्ड डिपोजिटहरूले उच्च ब्याज तिर्छन् किनभने पैसा परिपक्वता अघि निकाल्न सकिँदैन।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-008",
+  "exam": [
+   "nrb-assistant",
+   "rbb",
+   "kharidar"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is interest?",
+  "question_ne": "ब्याज के हो?",
+  "options": [
+   "The profit from selling goods",
+   "A bank fee for opening an account",
+   "A tax on income",
+   "The price paid for using borrowed money"
+  ],
+  "options_ne": [
+   "सामान बेचेर नाफा हुन्छ",
+   "खाता खोल्नको लागि बैंक शुल्क",
+   "आम्दानीमा कर लाग्ने",
+   "उधारिएको पैसा प्रयोग गर्न भुक्तान गरिएको मूल्य"
+  ],
+  "answer": 3,
+  "explanation": "Interest is the cost of borrowing money, or the return earned on deposits.",
+  "explanation_ne": "ब्याज भनेको पैसा उधारेको लागत, वा निक्षेपमा कमाएको प्रतिफल हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-009",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If Rs 10,000 is deposited at 10% simple interest per year, what is the interest for one year?",
+  "question_ne": "१०,००० रुपैयाँ प्रति वर्ष १०% साधारण ब्याजमा जम्मा गरेमा, एक वर्षको ब्याज कति हुन्छ?",
+  "options": [
+   "Rs 1,000",
+   "Rs 100,000",
+   "Rs 10,000",
+   "Rs 100"
+  ],
+  "options_ne": [
+   "रु १,०००",
+   "रु १००,०००",
+   "रु १०,०००",
+   "रु १००"
+  ],
+  "answer": 0,
+  "explanation": "Simple interest = principal x rate x time = 10,000 x 10% x 1 = Rs 1,000.",
+  "explanation_ne": "साधारण ब्याज = प्रिन्सिपल x दर x समय = 10,000 x 10% x 1 = रु 1,000।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-011",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Cheque",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is the drawer of a cheque?",
+  "question_ne": "चेकको दराज को हो?",
+  "options": [
+   "The person who writes and signs the cheque",
+   "The bank that pays it",
+   "The person who receives it",
+   "The person who prints it"
+  ],
+  "options_ne": [
+   "चेक लेख्ने र हस्ताक्षर गर्ने व्यक्ति",
+   "त्यो तिर्ने बैंकले",
+   "प्राप्त गर्ने व्यक्ति",
+   "प्रिन्ट गर्ने व्यक्ति"
+  ],
+  "answer": 0,
+  "explanation": "The drawer is the account holder who issues the cheque.",
+  "explanation_ne": "दराज चेक जारी गर्ने खातावाला हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-012",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Cheque",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is the drawee of a cheque?",
+  "question_ne": "चेक प्राप्त गर्ने को हो?",
+  "options": [
+   "The person who writes the cheque",
+   "The person who receives the money",
+   "The bank on which the cheque is drawn",
+   "The witness"
+  ],
+  "options_ne": [
+   "चेक लेख्ने व्यक्ति",
+   "पैसा प्राप्त गर्ने व्यक्ति",
+   "बैंक जसमा चेक खिचिएको छ",
+   "साक्षी"
+  ],
+  "answer": 2,
+  "explanation": "The drawee is the bank ordered to pay the amount stated on the cheque.",
+  "explanation_ne": "चेकमा उल्लेख गरिएको रकम भुक्तानी गर्न आदेश दिइएको बैंक हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-013",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Cheque",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a crossed cheque?",
+  "question_ne": "क्रस गरिएको चेक के हो?",
+  "options": [
+   "A cheque for cash only",
+   "A cheque that cannot be paid",
+   "A cheque with two parallel lines, payable only through a bank account",
+   "A cheque without a signature"
+  ],
+  "options_ne": [
+   "नगदको लागि मात्र चेक",
+   "भुक्तान गर्न नसकिने चेक",
+   "बैंक खाता मार्फत मात्र भुक्तान योग्य दुई समानान्तर रेखाहरू भएको चेक",
+   "हस्ताक्षर बिनाको चेक"
+  ],
+  "answer": 2,
+  "explanation": "Crossing means the amount can only be paid into a bank account, not over the counter in cash.",
+  "explanation_ne": "क्रसिङ भनेको रकम बैंक खातामा मात्र भुक्तान गर्न सकिन्छ, नगदमा काउन्टरमा होइन।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-015",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Draft and LC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a letter of credit (LC)?",
+  "question_ne": "क्रेडिट पत्र (LC) के हो?",
+  "options": [
+   "A currency note",
+   "A type of saving account",
+   "A personal loan",
+   "A bank's guarantee to pay a seller if stated conditions are met"
+  ],
+  "options_ne": [
+   "एक मुद्रा नोट",
+   "बचत खाताको एक प्रकार",
+   "एक व्यक्तिगत ऋण",
+   "उल्लेख गरिएका सर्तहरू पूरा भएमा विक्रेतालाई भुक्तानी गर्ने बैंकको ग्यारेन्टी"
+  ],
+  "answer": 3,
+  "explanation": "An LC is a bank undertaking to pay the exporter when the documents meet the agreed conditions.",
+  "explanation_ne": "एलसी भनेको कागजातहरू सहमत सर्तहरू पूरा गर्दा निर्यातकर्तालाई भुक्तानी गर्ने बैंकको प्रतिबद्धता हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-016",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Loans",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which loan is given for a short period, usually less than one year?",
+  "question_ne": "कुन ऋण छोटो अवधिको लागि दिइन्छ, सामान्यतया एक वर्ष भन्दा कम?",
+  "options": [
+   "Education loan",
+   "Long-term loan",
+   "Housing loan",
+   "Short-term loan"
+  ],
+  "options_ne": [
+   "शैक्षिक ऋण",
+   "दीर्घकालीन ऋण",
+   "आवास ऋण",
+   "छोटो अवधिको ऋण"
+  ],
+  "answer": 3,
+  "explanation": "Short-term loans are repayable within a year and are often used for working capital.",
+  "explanation_ne": "छोटो अवधिको ऋण एक वर्ष भित्र फिर्ता गर्न योग्य छन् र प्राय: कार्यशील पूँजीको लागि प्रयोग गरिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-017",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Loans",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which loan is secured by property such as land or a house?",
+  "question_ne": "जग्गा वा घरजस्ता सम्पत्तिबाट कुन ऋण सुरक्षित हुन्छ?",
+  "options": [
+   "Overdraft only",
+   "Personal loan without security",
+   "Mortgage loan",
+   "Credit card loan"
+  ],
+  "options_ne": [
+   "ओभरड्राफ्ट मात्र",
+   "सुरक्षा बिना व्यक्तिगत ऋण",
+   "धितो ऋण",
+   "क्रेडिट कार्ड ऋण"
+  ],
+  "answer": 2,
+  "explanation": "A mortgage loan is secured by immovable property pledged as collateral.",
+  "explanation_ne": "धितो राखिएको अचल सम्पत्तिद्वारा धितो ऋण सुरक्षित गरिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-018",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Loans",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is collateral in lending?",
+  "question_ne": "ऋणमा संपार्श्विक के हो?",
+  "options": [
+   "The interest rate",
+   "The loan application form",
+   "An asset pledged as security for a loan",
+   "The borrower's salary slip"
+  ],
+  "options_ne": [
+   "ब्याज दर",
+   "ऋण आवेदन फारम",
+   "ऋणको लागि सुरक्षाको रूपमा प्रतिज्ञा गरिएको सम्पत्ति",
+   "उधारकर्ताको तलब पर्ची"
+  ],
+  "answer": 2,
+  "explanation": "Collateral is an asset the bank can claim if the borrower fails to repay.",
+  "explanation_ne": "संपार्श्विक सम्पत्ति हो जुन बैंकले दावी गर्न सक्छ यदि उधारकर्ताले चुक्ता गर्न असफल भएमा।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-019",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Monetary Policy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is monetary policy?",
+  "question_ne": "मौद्रिक नीति भनेको के हो?",
+  "options": [
+   "Policy of the central bank to control money supply and interest rates",
+   "Policy on foreign trade only",
+   "Government spending on roads",
+   "Government tax policy"
+  ],
+  "options_ne": [
+   "मुद्रा आपूर्ति र ब्याजदर नियन्त्रण गर्ने केन्द्रीय बैंकको नीति",
+   "वैदेशिक व्यापार नीति मात्र",
+   "सडकमा सरकारी खर्च",
+   "सरकारको कर नीति"
+  ],
+  "answer": 0,
+  "explanation": "Monetary policy uses interest rates and reserve requirements to manage money supply and inflation.",
+  "explanation_ne": "मौद्रिक नीतिले मुद्रा आपूर्ति र मुद्रास्फीति व्यवस्थापन गर्न ब्याज दर र रिजर्भ आवश्यकताहरू प्रयोग गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-020",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Monetary Policy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What happens when a central bank raises interest rates?",
+  "question_ne": "केन्द्रीय बैंकले ब्याजदर बढाउँदा के हुन्छ?",
+  "options": [
+   "Inflation always rises",
+   "Borrowing becomes costlier and spending tends to fall",
+   "Money supply always rises",
+   "Borrowing becomes cheaper"
+  ],
+  "options_ne": [
+   "मुद्रास्फीति सधैं बढ्छ",
+   "उधारो महँगो हुन्छ र खर्च घट्छ",
+   "पैसा आपूर्ति सधैं बढ्छ",
+   "उधारो सस्तो हुन्छ"
+  ],
+  "answer": 1,
+  "explanation": "Higher rates discourage borrowing and spending, helping to control inflation.",
+  "explanation_ne": "उच्च दरहरूले उधारो र खर्चलाई निरुत्साहित गर्दछ, मुद्रास्फीति नियन्त्रण गर्न मद्दत गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-021",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Capital Market",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is NEPSE?",
+  "question_ne": "NEPSE के हो?",
+  "options": [
+   "A commercial bank",
+   "An insurance company",
+   "Nepal Rastra Bank",
+   "Nepal Stock Exchange, where shares are traded"
+  ],
+  "options_ne": [
+   "एक वाणिज्य बैंक",
+   "एक बीमा कम्पनी",
+   "नेपाल राष्ट्र बैंक",
+   "नेपाल स्टक एक्सचेन्ज, जहाँ शेयर कारोबार हुन्छ"
+  ],
+  "answer": 3,
+  "explanation": "NEPSE is the only stock exchange in Nepal, where listed company shares are bought and sold.",
+  "explanation_ne": "नेप्से नेपालको एक मात्र स्टक एक्सचेन्ज हो, जहाँ सूचीकृत कम्पनीको शेयर किनबेच गरिन्छ।",
+  "source": "Banking in Nepal"
+ },
+ {
+  "id": "BANK-022",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Capital Market",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a share?",
+  "question_ne": "सेयर भनेको के हो?",
+  "options": [
+   "A loan",
+   "A bank deposit",
+   "A unit of ownership in a company",
+   "A currency note"
+  ],
+  "options_ne": [
+   "एक ऋण",
+   "एक बैंक निक्षेप",
+   "कम्पनीमा स्वामित्वको एकाइ",
+   "एक मुद्रा नोट"
+  ],
+  "answer": 2,
+  "explanation": "A share represents part ownership of a company and may pay dividends.",
+  "explanation_ne": "शेयरले कम्पनीको अंश स्वामित्वलाई प्रतिनिधित्व गर्दछ र लाभांश तिर्न सक्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-023",
+  "exam": [
+   "nrb-assistant",
+   "rbb",
+   "nrb-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Capital Market",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a dividend?",
+  "question_ne": "लाभांश भनेको के हो?",
+  "options": [
+   "A tax paid to government",
+   "Interest paid by a bank",
+   "A loan repayment",
+   "The share of profit paid by a company to its shareholders"
+  ],
+  "options_ne": [
+   "सरकारले तिरेको कर",
+   "बैंक द्वारा तिरेको ब्याज",
+   "एक ऋण चुक्ता",
+   "कम्पनीले आफ्ना शेयरधारकहरूलाई भुक्तानी गरेको नाफाको अंश"
+  ],
+  "answer": 3,
+  "explanation": "Dividends are distributions of company profit to shareholders.",
+  "explanation_ne": "लाभांश भनेको कम्पनीको नाफा सेयरधनीहरूलाई वितरण गर्ने हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-024",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Insurance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of insurance?",
+  "question_ne": "बीमाको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To earn high profit quickly",
+   "To protect against financial loss from a specified risk",
+   "To get a loan",
+   "To avoid paying tax"
+  ],
+  "options_ne": [
+   "छिटो उच्च नाफा कमाउन",
+   "निर्दिष्ट जोखिमबाट आर्थिक नोक्सानबाट जोगाउन",
+   "ऋण लिनको लागि",
+   "कर तिर्नबाट बच्न"
+  ],
+  "answer": 1,
+  "explanation": "Insurance pools risk so a policyholder is compensated when the insured event occurs.",
+  "explanation_ne": "बीमा पोखरी जोखिम हुन्छ त्यसैले बीमा गरिएको घटना हुँदा एक नीतिधारकलाई क्षतिपूर्ति दिइन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-025",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Insurance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a premium in insurance?",
+  "question_ne": "बीमामा प्रिमियम के हो?",
+  "options": [
+   "A government tax",
+   "The amount paid regularly to keep an insurance policy active",
+   "The amount paid by the insurer after a loss",
+   "A type of bank loan"
+  ],
+  "options_ne": [
+   "सरकारी कर",
+   "बीमा नीति सक्रिय राख्न नियमित रूपमा भुक्तानी गरिएको रकम",
+   "घाटा पछि बीमाकर्ताले भुक्तानी गरेको रकम",
+   "बैंक ऋण को एक प्रकार"
+  ],
+  "answer": 1,
+  "explanation": "The premium is the periodic payment made by the policyholder to the insurer.",
+  "explanation_ne": "प्रिमियम भनेको बीमाकर्तालाई नीति धारकले गरेको आवधिक भुक्तानी हो।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-026",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In accounting, what does debit mean?",
+  "question_ne": "लेखा मा, डेबिट को अर्थ के हो?",
+  "options": [
+   "A profit always",
+   "A loss always",
+   "An entry on the right side only",
+   "An entry on the left side of an account"
+  ],
+  "options_ne": [
+   "सँधै नाफा",
+   "हानि सधैं",
+   "दायाँ छेउमा मात्र प्रवेश",
+   "खाताको बायाँ छेउमा एउटा प्रविष्टि"
+  ],
+  "answer": 3,
+  "explanation": "Debit is the left-hand side of an account in double-entry bookkeeping.",
+  "explanation_ne": "डेबिट डबल-इन्ट्री बहीखातामा खाताको बायाँ-हात पक्ष हो।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-027",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In accounting, what does credit mean?",
+  "question_ne": "लेखा मा, क्रेडिट को अर्थ के हो?",
+  "options": [
+   "An expense always",
+   "An entry on the left side only",
+   "An entry on the right side of an account",
+   "A cash payment always"
+  ],
+  "options_ne": [
+   "सँधै खर्च",
+   "बायाँ छेउमा मात्र प्रवेश",
+   "खाताको दायाँ छेउमा एउटा प्रविष्टि",
+   "नगद भुक्तानी सधैं"
+  ],
+  "answer": 2,
+  "explanation": "Credit is the right-hand side of an account in double-entry bookkeeping.",
+  "explanation_ne": "क्रेडिट डबल-इन्ट्री बहीखातामा खाताको दाहिने हात छ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-028",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a journal in accounting?",
+  "question_ne": "लेखा मा एक जर्नल के हो?",
+  "options": [
+   "The book where transactions are first recorded in date order",
+   "A trial balance",
+   "A bank statement",
+   "The final financial statement"
+  ],
+  "options_ne": [
+   "पुस्तक जहाँ लेनदेनहरू पहिले मिति क्रममा रेकर्ड गरिन्छ",
+   "एक परीक्षण ब्यालेन्स",
+   "एक बैंक स्टेटमेन्ट",
+   "अन्तिम वित्तीय विवरण"
+  ],
+  "answer": 0,
+  "explanation": "The journal is the book of original entry where transactions are recorded chronologically.",
+  "explanation_ne": "जर्नल मूल प्रविष्टिको पुस्तक हो जहाँ लेनदेनहरू कालक्रमानुसार रेकर्ड गरिन्छ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-029",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a trial balance?",
+  "question_ne": "एक परीक्षण ब्यालेन्स के हो?",
+  "options": [
+   "A profit and loss account",
+   "A cash book",
+   "A statement listing all ledger balances to check that debits equal credits",
+   "A balance sheet"
+  ],
+  "options_ne": [
+   "नाफा नोक्सान लेखा",
+   "नगद किताब",
+   "डेबिट बराबर क्रेडिटहरू जाँच गर्न सबै खाता ब्यालेन्सहरू सूचीबद्ध गर्ने कथन",
+   "एक ब्यालेन्स पाना"
+  ],
+  "answer": 2,
+  "explanation": "A trial balance checks the arithmetical accuracy of ledger postings by comparing total debits and credits.",
+  "explanation_ne": "एक परीक्षण ब्यालेन्सले कुल डेबिट र क्रेडिटहरू तुलना गरेर लेजर पोस्टिङहरूको अंकगणितीय शुद्धता जाँच गर्दछ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-030",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does a balance sheet show?",
+  "question_ne": "ब्यालेन्स पानाले के देखाउँछ?",
+  "options": [
+   "Cash received during a day",
+   "Sales for a month",
+   "Assets, liabilities and capital at a point in time",
+   "Profit earned during a period"
+  ],
+  "options_ne": [
+   "एक दिनमा नगद प्राप्त भयो",
+   "एक महिनाको लागि बिक्री",
+   "समय मा एक बिन्दु मा सम्पत्ति, दायित्व र पूंजी",
+   "अवधिमा कमाएको नाफा"
+  ],
+  "answer": 2,
+  "explanation": "A balance sheet shows what a business owns and owes at a specific date.",
+  "explanation_ne": "ब्यालेन्स पानाले एक निश्चित मितिमा व्यवसायको स्वामित्व र ऋणी के देखाउँछ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-031",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which accounting equation is always true?",
+  "question_ne": "कुन लेखा समीकरण सधैं सत्य हुन्छ?",
+  "options": [
+   "Liabilities = Assets + Capital",
+   "Capital = Assets + Liabilities",
+   "Assets = Liabilities - Capital",
+   "Assets = Liabilities + Capital"
+  ],
+  "options_ne": [
+   "दायित्व = सम्पत्ति + पूंजी",
+   "पूँजी = सम्पत्ति + दायित्व",
+   "सम्पत्ति = दायित्व - पूँजी",
+   "सम्पत्ति = दायित्व + पूंजी"
+  ],
+  "answer": 3,
+  "explanation": "The accounting equation states that assets equal liabilities plus owner's capital.",
+  "explanation_ne": "लेखा समीकरणले सम्पत्ति बराबर दायित्व र मालिकको पूँजीलाई बताउँछ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-032",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is an asset?",
+  "question_ne": "तलका मध्ये कुन सम्पत्ति हो?",
+  "options": [
+   "Loan taken from a bank",
+   "Cash in hand",
+   "Capital invested by owner",
+   "Salary payable"
+  ],
+  "options_ne": [
+   "बैंकबाट लिएको ऋण",
+   "हातमा नगद",
+   "मालिक द्वारा लगानी गरिएको पूंजी",
+   "तलब भुक्तानी योग्य"
+  ],
+  "answer": 1,
+  "explanation": "Cash is an asset because it is owned and has future economic value.",
+  "explanation_ne": "नगद एक सम्पत्ति हो किनभने यो स्वामित्वमा छ र भविष्यको आर्थिक मूल्य छ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-033",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a liability?",
+  "question_ne": "तलका मध्ये कुन दायित्व हो?",
+  "options": [
+   "Stock of goods",
+   "Cash in hand",
+   "Loan payable to a bank",
+   "Furniture owned"
+  ],
+  "options_ne": [
+   "सामानको स्टक",
+   "हातमा नगद",
+   "बैंकलाई तिर्ने ऋण",
+   "फर्निचर स्वामित्व"
+  ],
+  "answer": 2,
+  "explanation": "A loan payable is an obligation the business must settle in future.",
+  "explanation_ne": "भुक्तानयोग्य ऋण एक दायित्व हो जुन व्यवसायले भविष्यमा व्यवस्थित गर्नुपर्छ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-034",
+  "exam": [
+   "nrb-assistant",
+   "rbb",
+   "kharidar"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first function of management?",
+  "question_ne": "व्यवस्थापनको पहिलो कार्य के हो?",
+  "options": [
+   "Planning",
+   "Staffing",
+   "Controlling",
+   "Directing"
+  ],
+  "options_ne": [
+   "योजना",
+   "स्टाफिङ",
+   "नियन्त्रण गर्दै",
+   "निर्देशन"
+  ],
+  "answer": 0,
+  "explanation": "Planning comes first: setting objectives and deciding how to achieve them.",
+  "explanation_ne": "योजना पहिलो आउँछ: उद्देश्यहरू सेट गर्ने र तिनीहरूलाई कसरी हासिल गर्ने भनेर निर्णय गर्ने।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does POSDCORB stand for in management?",
+  "question_ne": "व्यवस्थापनमा POSDCORB भनेको के हो?",
+  "options": [
+   "Planning, Organising, Staffing, Directing, Coordinating, Reporting, Budgeting",
+   "Planning, Organising, Supervising, Directing, Controlling, Reviewing, Budgeting",
+   "Producing, Organising, Staffing, Directing, Coordinating, Recording, Buying",
+   "Planning, Ordering, Selling, Directing, Controlling, Reporting, Banking"
+  ],
+  "options_ne": [
+   "योजना, संगठन, कर्मचारी, निर्देशन, समन्वय, प्रतिवेदन, बजेट",
+   "योजना, संगठन, पर्यवेक्षण, निर्देशन, नियन्त्रण, समीक्षा, बजेट",
+   "उत्पादन, संगठित, कर्मचारी, निर्देशन, समन्वय, रेकर्डिङ, खरिद",
+   "योजना, अर्डर, बिक्री, निर्देशन, नियन्त्रण, रिपोर्टिङ, बैंकिङ"
+  ],
+  "answer": 0,
+  "explanation": "POSDCORB, coined by Gulick, lists the seven functions of management.",
+  "explanation_ne": "गुलिकद्वारा निर्मित POSDCORB ले व्यवस्थापनका सात कार्यहरू सूचीबद्ध गर्दछ।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which management function involves grouping activities and assigning duties?",
+  "question_ne": "कुन व्यवस्थापन कार्यमा समूहीकरण गतिविधिहरू र कर्तव्यहरू तोक्ने समावेश छ?",
+  "options": [
+   "Planning",
+   "Budgeting",
+   "Controlling",
+   "Organising"
+  ],
+  "options_ne": [
+   "योजना",
+   "बजेटिङ",
+   "नियन्त्रण गर्दै",
+   "आयोजना गर्दै"
+  ],
+  "answer": 3,
+  "explanation": "Organising arranges people and resources into a structure to carry out the plan.",
+  "explanation_ne": "संगठनले योजना कार्यान्वयन गर्नको लागि व्यक्ति र स्रोतहरूलाई संरचनामा व्यवस्थित गर्दछ।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-037",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which management function checks whether work matches the plan and corrects deviations?",
+  "question_ne": "कुन व्यवस्थापन प्रकार्यले कार्य योजनासँग मेल खान्छ र विचलनहरू सच्याउँछ कि जाँच गर्छ?",
+  "options": [
+   "Staffing",
+   "Directing",
+   "Planning",
+   "Controlling"
+  ],
+  "options_ne": [
+   "स्टाफिङ",
+   "निर्देशन",
+   "योजना",
+   "नियन्त्रण गर्दै"
+  ],
+  "answer": 3,
+  "explanation": "Controlling compares actual performance with the plan and takes corrective action.",
+  "explanation_ne": "नियन्त्रणले योजनासँग वास्तविक कार्यसम्पादनको तुलना गर्छ र सुधारात्मक कार्य गर्दछ।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-038",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is an ATM?",
+  "question_ne": "ATM भनेको के हो?",
+  "options": [
+   "A machine that allows cash withdrawal and other banking services with a card",
+   "A loan document",
+   "A type of cheque",
+   "A bank branch in a village"
+  ],
+  "options_ne": [
+   "एउटा मेसिन जसले कार्डको साथ नगद निकासी र अन्य बैंकिङ सेवाहरूलाई अनुमति दिन्छ",
+   "ऋण कागजात",
+   "चेक को एक प्रकार",
+   "गाउँमा बैंकको शाखा"
+  ],
+  "answer": 0,
+  "explanation": "An Automated Teller Machine lets customers withdraw cash and check balances without a teller.",
+  "explanation_ne": "एक स्वचालित टेलर मेसिनले ग्राहकहरूलाई नगद निकाल्न र टेलर बिना ब्यालेन्स जाँच गर्न दिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-039",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is mobile banking?",
+  "question_ne": "मोबाइल बैंकिङ भनेको के हो?",
+  "options": [
+   "Banking only in a branch",
+   "Cash delivery by post",
+   "Banking services accessed through a mobile phone",
+   "A bank that moves location"
+  ],
+  "options_ne": [
+   "शाखामा मात्र बैंकिङ",
+   "हुलाक द्वारा नगद वितरण",
+   "मोबाइल फोन मार्फत बैंकिङ सेवाहरू पहुँच",
+   "स्थान सार्ने बैंक"
+  ],
+  "answer": 2,
+  "explanation": "Mobile banking lets customers transfer money, pay bills and check balances on a phone.",
+  "explanation_ne": "मोबाइल बैंकिङले ग्राहकहरूलाई पैसा हस्तान्तरण गर्न, बिल तिर्न र फोनमा ब्यालेन्स जाँच गर्न दिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-040",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a demand draft?",
+  "question_ne": "डिमांड ड्राफ्ट भनेको के हो?",
+  "options": [
+   "A personal cheque",
+   "A fixed deposit receipt",
+   "A bank instrument payable on demand at a specified branch",
+   "A share certificate"
+  ],
+  "options_ne": [
+   "एक व्यक्तिगत जाँच",
+   "एक फिक्स डिपोजिट रसिद",
+   "एक निर्दिष्ट शाखा मा माग मा भुक्तान योग्य बैंक उपकरण",
+   "एक शेयर प्रमाणपत्र"
+  ],
+  "answer": 2,
+  "explanation": "A demand draft is issued by one bank branch and payable on demand at another branch.",
+  "explanation_ne": "एउटा बैंक शाखाबाट डिमांड ड्राफ्ट जारी गरिन्छ र अर्को शाखामा माग अनुसार भुक्तानी गरिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-041",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "BAFIA",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does BAFIA 2073 mainly regulate in Nepal?",
+  "question_ne": "BAFIA २०७३ ले नेपालमा मुख्यतया के नियमन गर्छ?",
+  "options": [
+   "Insurance companies only",
+   "Banks and financial institutions",
+   "Stock exchange only",
+   "Government offices"
+  ],
+  "options_ne": [
+   "बीमा कम्पनीहरू मात्र",
+   "बैंक तथा वित्तीय संस्थाहरु",
+   "स्टक एक्सचेन्ज मात्र",
+   "सरकारी कार्यालयहरू"
+  ],
+  "answer": 1,
+  "explanation": "The Banks and Financial Institutions Act 2073 governs licensing and operation of banks and financial institutions.",
+  "explanation_ne": "बैंक तथा वित्तीय संस्था ऐन २०७३ ले बैंक तथा वित्तीय संस्थाको इजाजतपत्र र सञ्चालनलाई नियन्त्रित गर्दछ।",
+  "source": "Banking in Nepal"
+ },
+ {
+  "id": "BANK-042",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Banks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which bank is established mainly to promote agriculture and rural development?",
+  "question_ne": "कृषि र ग्रामीण विकासको लागि कुन बैंकको स्थापना भएको हो?",
+  "options": [
+   "Agriculture Development Bank",
+   "Investment bank",
+   "Foreign bank branch",
+   "Central bank"
+  ],
+  "options_ne": [
+   "कृषि विकास बैंक",
+   "लगानी बैंक",
+   "विदेशी बैंक शाखा",
+   "केन्द्रीय बैंक"
+  ],
+  "answer": 0,
+  "explanation": "Agriculture Development Bank provides credit and services for agriculture and rural areas.",
+  "explanation_ne": "कृषि विकास बैंकले कृषि र ग्रामीण क्षेत्रका लागि ऋण र सेवाहरू प्रदान गर्दछ।",
+  "source": "Banking in Nepal"
+ },
+ {
+  "id": "BANK-043",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Banks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a development bank?",
+  "question_ne": "विकास बैंक भनेको के हो?",
+  "options": [
+   "A bank that issues currency",
+   "A bank that provides medium and long-term finance for development projects",
+   "The central bank",
+   "A bank that only keeps deposits"
+  ],
+  "options_ne": [
+   "मुद्रा जारी गर्ने बैंक",
+   "विकास आयोजनाहरूको लागि मध्यम र दीर्घकालीन वित्त प्रदान गर्ने बैंक",
+   "केन्द्रीय बैंक",
+   "निक्षेप मात्र राख्ने बैंक"
+  ],
+  "answer": 1,
+  "explanation": "Development banks finance industry, agriculture and infrastructure over longer terms.",
+  "explanation_ne": "विकास बैंकहरूले लामो अवधिमा उद्योग, कृषि र पूर्वाधारमा वित्त पोषण गर्छन्।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-044",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Types of Banks",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a finance company?",
+  "question_ne": "फाइनान्स कम्पनी भनेको के हो?",
+  "options": [
+   "A stock exchange",
+   "The central bank",
+   "A non-bank financial institution that accepts deposits and gives loans",
+   "A commercial bank"
+  ],
+  "options_ne": [
+   "स्टक एक्सचेन्ज",
+   "केन्द्रीय बैंक",
+   "एक गैर-बैंक वित्तीय संस्था जसले निक्षेप स्वीकार गर्दछ र ऋण दिन्छ",
+   "एक वाणिज्य बैंक"
+  ],
+  "answer": 2,
+  "explanation": "Finance companies are non-bank institutions that take deposits and lend, under central bank regulation.",
+  "explanation_ne": "वित्त कम्पनीहरू गैर-बैंक संस्थाहरू हुन् जसले निक्षेपहरू लिने र ऋण दिने, केन्द्रीय बैंकको नियमन अन्तर्गत।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-045",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Loans",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is an overdraft?",
+  "question_ne": "ओभरड्राफ्ट भनेको के हो?",
+  "options": [
+   "Permission to withdraw more money than the balance in a current account",
+   "A cheque",
+   "A fixed deposit",
+   "A type of insurance"
+  ],
+  "options_ne": [
+   "चालु खातामा मौज्दात भन्दा बढी रकम झिक्ने अनुमति",
+   "एक चेक",
+   "एक फिक्स्ड डिपोजिट",
+   "एक प्रकारको बीमा"
+  ],
+  "answer": 0,
+  "explanation": "An overdraft lets an account holder withdraw beyond the balance up to an approved limit.",
+  "explanation_ne": "ओभरड्राफ्टले खाता धारकलाई अनुमोदित सीमासम्मको ब्यालेन्सभन्दा बाहिर निकाल्न दिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-046",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Loans",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which loan is given to buy or build a house?",
+  "question_ne": "घर बनाउन वा किन्न कुन ऋण दिइन्छ?",
+  "options": [
+   "Housing loan",
+   "Education loan",
+   "Vehicle loan",
+   "Personal loan"
+  ],
+  "options_ne": [
+   "आवास ऋण",
+   "शैक्षिक ऋण",
+   "सवारी साधन ऋण",
+   "व्यक्तिगत ऋण"
+  ],
+  "answer": 0,
+  "explanation": "A housing loan finances purchase, construction or renovation of a house.",
+  "explanation_ne": "एक आवास ऋणले घरको खरिद, निर्माण वा नवीकरणको लागि वित्त पोषण गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-047",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Capital Market",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the primary market in shares?",
+  "question_ne": "सेयरको प्राथमिक बजार के हो?",
+  "options": [
+   "The market where new shares are first issued to the public",
+   "The foreign exchange market",
+   "The money market",
+   "The market where old shares are traded"
+  ],
+  "options_ne": [
+   "बजार जहाँ नयाँ शेयर सार्वजनिक रूपमा जारी गरिन्छ",
+   "विदेशी मुद्रा बजार",
+   "मुद्रा बजार",
+   "जुन बजारमा पुराना शेयर कारोबार हुन्छ"
+  ],
+  "answer": 0,
+  "explanation": "In the primary market, companies issue new shares directly to investors.",
+  "explanation_ne": "प्राइमरी मार्केटमा कम्पनीहरूले सीधै लगानीकर्तालाई नयाँ शेयर जारी गर्छन्।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-048",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Capital Market",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the secondary market in shares?",
+  "question_ne": "सेयरको दोस्रो बजार के हो?",
+  "options": [
+   "The market where existing shares are bought and sold between investors",
+   "The market for new issues only",
+   "The bank deposit market",
+   "The loan market"
+  ],
+  "options_ne": [
+   "बजार जहाँ अवस्थित शेयरहरू लगानीकर्ताहरू बीच खरिद र बिक्री गरिन्छ",
+   "नयाँ मुद्दाहरूको लागि मात्र बजार",
+   "बैंक निक्षेप बजार",
+   "ऋण बजार"
+  ],
+  "answer": 0,
+  "explanation": "The secondary market, such as NEPSE, trades shares already issued.",
+  "explanation_ne": "दोस्रो बजार, जस्तै नेप्से, पहिले नै जारी शेयर व्यापार।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-049",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Insurance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is life insurance?",
+  "question_ne": "जीवन बीमा के हो?",
+  "options": [
+   "Insurance for crops only",
+   "Insurance for a house only",
+   "Insurance that pays a sum on death or maturity of the policy",
+   "Insurance for a vehicle only"
+  ],
+  "options_ne": [
+   "बाली बिमा मात्र",
+   "घरको लागि मात्र बीमा",
+   "मृत्यु वा पॉलिसीको परिपक्वतामा रकम भुक्तानी गर्ने बीमा",
+   "गाडीको लागि मात्र बीमा"
+  ],
+  "answer": 2,
+  "explanation": "Life insurance provides financial protection to the family on the death of the insured or at maturity.",
+  "explanation_ne": "जीवन बीमाले बीमितको मृत्यु वा परिपक्वतामा परिवारलाई आर्थिक सुरक्षा प्रदान गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-050",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Insurance",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is general insurance?",
+  "question_ne": "सामान्य बीमा भनेको के हो?",
+  "options": [
+   "A share",
+   "Insurance for life only",
+   "A bank deposit",
+   "Insurance for non-life risks such as fire, motor and health"
+  ],
+  "options_ne": [
+   "एक शेयर",
+   "जीवन बीमा मात्र",
+   "एक बैंक निक्षेप",
+   "आगो, मोटर र स्वास्थ्य जस्ता गैर-जीवन जोखिमहरूको लागि बीमा"
+  ],
+  "answer": 3,
+  "explanation": "General insurance covers property, vehicle, health and other non-life risks.",
+  "explanation_ne": "सामान्य बीमाले सम्पत्ति, सवारी साधन, स्वास्थ्य र अन्य गैर-जीवन जोखिमहरू समावेश गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-051",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Nepal Rastra Bank",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which tool does a central bank use to influence bank lending?",
+  "question_ne": "केन्द्रीय बैंकले बैंक कर्जालाई प्रभाव पार्न कुन उपकरण प्रयोग गर्छ?",
+  "options": [
+   "Cash reserve ratio",
+   "Income tax rate",
+   "Government salary",
+   "Customs duty"
+  ],
+  "options_ne": [
+   "नगद रिजर्भ अनुपात",
+   "आयकर दर",
+   "सरकारी तलब",
+   "भन्सार"
+  ],
+  "answer": 0,
+  "explanation": "The cash reserve ratio requires banks to keep a proportion of deposits with the central bank.",
+  "explanation_ne": "नगद रिजर्भ अनुपातमा बैंकहरूले केन्द्रीय बैंकमा निक्षेपको अनुपात राख्नुपर्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-052",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a passbook?",
+  "question_ne": "पासबुक भनेको के हो?",
+  "options": [
+   "A share certificate",
+   "A cheque book",
+   "A book recording transactions in a bank account",
+   "A loan agreement"
+  ],
+  "options_ne": [
+   "एक शेयर प्रमाणपत्र",
+   "एक चेक बुक",
+   "बैंक खातामा बुक रेकर्डिङ लेनदेन",
+   "ऋण सम्झौता"
+  ],
+  "answer": 2,
+  "explanation": "A passbook records deposits, withdrawals and the balance of an account.",
+  "explanation_ne": "पासबुकले निक्षेप, निकासी र खाताको ब्यालेन्स रेकर्ड गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-053",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Cheque",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What happens when a cheque bounces?",
+  "question_ne": "चेक बाउन्स हुँदा के हुन्छ?",
+  "options": [
+   "The cheque is paid in cash",
+   "The bank refuses payment, usually for insufficient funds",
+   "The account is closed at once",
+   "The cheque is automatically renewed"
+  ],
+  "options_ne": [
+   "चेक नगद भुक्तानी गरिन्छ",
+   "बैंकले भुक्तानी अस्वीकार गर्छ, सामान्यतया अपर्याप्त रकमको लागि",
+   "खाता एकै पटक बन्द हुन्छ",
+   "चेक स्वतः नवीकरण हुन्छ"
+  ],
+  "answer": 1,
+  "explanation": "A bounced cheque is dishonoured, most commonly because the account lacks sufficient funds.",
+  "explanation_ne": "बाउन्स भएको चेक अनादर हुन्छ, प्राय: खातामा पर्याप्त रकम नभएको कारणले।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-054",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the purpose of a cash book?",
+  "question_ne": "नगद पुस्तकको उद्देश्य के हो?",
+  "options": [
+   "To prepare the balance sheet directly",
+   "To record credit sales only",
+   "To list shareholders",
+   "To record all cash receipts and payments"
+  ],
+  "options_ne": [
+   "ब्यालेन्स शीट सीधा तयार गर्न",
+   "क्रेडिट बिक्री मात्र रेकर्ड गर्न",
+   "शेयरधनीहरूको सूची बनाउन",
+   "सबै नगद रसिद र भुक्तानी रेकर्ड गर्न"
+  ],
+  "answer": 3,
+  "explanation": "The cash book records cash and bank transactions in date order.",
+  "explanation_ne": "नगद पुस्तिका मिति क्रममा नगद र बैंक लेनदेन रेकर्ड गर्दछ।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-055",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is an example of revenue?",
+  "question_ne": "तलका मध्ये कुन राजस्वको उदाहरण हो?",
+  "options": [
+   "Loan taken",
+   "Purchase of furniture",
+   "Sales of goods",
+   "Capital invested"
+  ],
+  "options_ne": [
+   "ऋण लिएको छ",
+   "फर्निचर खरिद",
+   "सामान बिक्री",
+   "पुँजी लगानी गरेको छ"
+  ],
+  "answer": 2,
+  "explanation": "Sales revenue is income earned from selling goods or services.",
+  "explanation_ne": "बिक्री राजस्व वस्तु वा सेवाहरू बेचेर कमाएको आम्दानी हो।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-056",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Accounting Basics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is an expense?",
+  "question_ne": "तलका मध्ये कुन खर्च हो?",
+  "options": [
+   "Cash received from sales",
+   "Salary paid to staff",
+   "Capital invested",
+   "Loan received"
+  ],
+  "options_ne": [
+   "बिक्रीबाट प्राप्त नगद",
+   "कर्मचारीलाई तलब भत्ता",
+   "पुँजी लगानी गरेको छ",
+   "ऋण प्राप्त भयो"
+  ],
+  "answer": 1,
+  "explanation": "Salary is a cost incurred to run the business, so it is an expense.",
+  "explanation_ne": "तलब भनेको व्यवसाय चलाउन लाग्ने खर्च हो, त्यसैले यो खर्च हो।",
+  "source": "Accounting"
+ },
+ {
+  "id": "BANK-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is known as the father of scientific management?",
+  "question_ne": "वैज्ञानिक व्यवस्थापनका पिता भनेर कसलाई चिनिन्छ?",
+  "options": [
+   "F. W. Taylor",
+   "Henri Fayol",
+   "Elton Mayo",
+   "Max Weber"
+  ],
+  "options_ne": [
+   "एफ डब्ल्यू टेलर",
+   "हेनरी फयोल",
+   "एल्टन मेयो",
+   "म्याक्स वेबर"
+  ],
+  "answer": 0,
+  "explanation": "F. W. Taylor developed scientific management, emphasising efficiency through systematic study of work.",
+  "explanation_ne": "F. W. टेलरले कामको व्यवस्थित अध्ययन मार्फत दक्षतालाई जोड दिँदै वैज्ञानिक व्यवस्थापनको विकास गर्नुभयो।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Management Principles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who proposed the 14 principles of management?",
+  "question_ne": "व्यवस्थापनका १४ सिद्धान्तहरू कसले प्रस्ताव गरेका थिए?",
+  "options": [
+   "Henri Fayol",
+   "Peter Drucker",
+   "F. W. Taylor",
+   "Abraham Maslow"
+  ],
+  "options_ne": [
+   "हेनरी फयोल",
+   "पिटर ड्रकर",
+   "एफ डब्ल्यू टेलर",
+   "अब्राहम मास्लो"
+  ],
+  "answer": 0,
+  "explanation": "Henri Fayol set out 14 principles, including division of work, unity of command and esprit de corps.",
+  "explanation_ne": "हेनरी फयोलले कामको विभाजन, कमाण्डको एकता र एस्प्रिट डी कोर सहित १४ सिद्धान्तहरू सेट गरे।",
+  "source": "Management"
+ },
+ {
+  "id": "BANK-059",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a debit card?",
+  "question_ne": "डेबिट कार्ड भनेको के हो?",
+  "options": [
+   "A card that deducts payment directly from the holder's bank account",
+   "A passbook",
+   "A cheque",
+   "A card that gives credit from the bank"
+  ],
+  "options_ne": [
+   "धारकको बैंक खाताबाट सीधै भुक्तानी कटौती गर्ने कार्ड",
+   "एक पासबुक",
+   "एक चेक",
+   "बैंकबाट क्रेडिट दिने कार्ड"
+  ],
+  "answer": 0,
+  "explanation": "A debit card pays from the holder's own account balance at the time of the transaction.",
+  "explanation_ne": "डेबिट कार्ड लेनदेनको समयमा धारकको आफ्नै खाता ब्यालेन्सबाट भुक्तानी गर्दछ।",
+  "source": "Banking"
+ },
+ {
+  "id": "BANK-060",
+  "exam": [
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Banking & Finance",
+  "subtopic": "Banking Services",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is a credit card?",
+  "question_ne": "क्रेडिट कार्ड भनेको के हो?",
+  "options": [
+   "A card that pays only from savings",
+   "A cheque book",
+   "A card that lets the holder borrow from the bank up to a limit and repay later",
+   "A fixed deposit receipt"
+  ],
+  "options_ne": [
+   "एउटा कार्ड जसले बचतबाट मात्र भुक्तानी गर्छ",
+   "एक चेक बुक",
+   "एउटा कार्ड जसले धारकलाई बैंकबाट एक सीमासम्म ऋण लिन र पछि फिर्ता गर्न दिन्छ",
+   "एक फिक्स डिपोजिट रसिद"
+  ],
+  "answer": 2,
+  "explanation": "A credit card gives short-term credit from the issuing bank, repayable with interest if not settled on time.",
+  "explanation_ne": "क्रेडिट कार्डले जारी गर्ने बैंकबाट छोटो अवधिको क्रेडिट दिन्छ, यदि समयमै सेटल नभएमा ब्याज सहित फिर्ता गर्न सकिन्छ।",
+  "source": "Banking"
+ },
+ {
+  "id": "EDU-001",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary",
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Meaning of Education",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the broad meaning of education?",
+  "question_ne": "शिक्षाको व्यापक अर्थ के हो?",
+  "options": [
+   "Only going to school",
+   "The process of acquiring knowledge, skills, values and attitudes",
+   "Only passing examinations",
+   "Only learning to read and write"
+  ],
+  "options_ne": [
+   "विद्यालय जाने मात्रै हो",
+   "ज्ञान, सीप, मूल्य र मनोवृत्ति प्राप्त गर्ने प्रक्रिया",
+   "परीक्षा उत्तीर्ण मात्रै हो",
+   "पढ्न र लेख्न मात्र सिक्ने"
+  ],
+  "answer": 1,
+  "explanation": "Education is a lifelong process of developing knowledge, skills and character.",
+  "explanation_ne": "शिक्षा ज्ञान, सीप र चरित्र विकास गर्ने जीवनभरको प्रक्रिया हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-002",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Aims of Education",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is a main aim of education?",
+  "question_ne": "शिक्षाको मुख्य उद्देश्य के हो?",
+  "options": [
+   "Only preparing for jobs",
+   "Only memorising facts",
+   "Only passing tests",
+   "All-round development of the learner"
+  ],
+  "options_ne": [
+   "जागिरको तयारी मात्रै हो",
+   "केवल तथ्यहरू सम्झना",
+   "परीक्षा उत्तीर्ण मात्र",
+   "विद्यार्थीको सर्वांगीण विकास"
+  ],
+  "answer": 3,
+  "explanation": "Education aims at physical, mental, social and moral development of the learner.",
+  "explanation_ne": "शिक्षाको उद्देश्य विद्यार्थीको शारीरिक, मानसिक, सामाजिक र नैतिक विकास हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-003",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary",
+   "tsc-lower-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Bloom's taxonomy, which level is the lowest?",
+  "question_ne": "ब्लूमको वर्गीकरणमा, कुन स्तर सबैभन्दा कम छ?",
+  "options": [
+   "Creating",
+   "Evaluating",
+   "Analysing",
+   "Remembering"
+  ],
+  "options_ne": [
+   "सिर्जना गर्दै",
+   "मूल्याङ्कन गर्दै",
+   "विश्लेषण गर्दै",
+   "सम्झना"
+  ],
+  "answer": 3,
+  "explanation": "Bloom's revised taxonomy starts with remembering, then understanding, applying, analysing, evaluating and creating.",
+  "explanation_ne": "ब्लूमको संशोधित वर्गीकरण सम्झना, त्यसपछि बुझ्न, लागू गर्ने, विश्लेषण, मूल्याङ्कन र सिर्जनाबाट सुरु हुन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-004",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Bloom's taxonomy, which level is the highest?",
+  "question_ne": "ब्लूमको वर्गीकरणमा, कुन स्तर उच्चतम छ?",
+  "options": [
+   "Remembering",
+   "Creating",
+   "Applying",
+   "Understanding"
+  ],
+  "options_ne": [
+   "सम्झना",
+   "सिर्जना गर्दै",
+   "आवेदन दिँदै",
+   "बुझ्दै"
+  ],
+  "answer": 1,
+  "explanation": "Creating is the highest level, where learners produce new ideas or products.",
+  "explanation_ne": "सिर्जना उच्च स्तर हो, जहाँ शिक्षार्थीहरूले नयाँ विचार वा उत्पादनहरू उत्पादन गर्छन्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-005",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Bloom's level is shown when a student explains an idea in their own words?",
+  "question_ne": "विद्यार्थीले आफ्नै शब्दमा विचार व्याख्या गर्दा कुन ब्लूमको स्तर देखाइन्छ?",
+  "options": [
+   "Remembering",
+   "Evaluating",
+   "Understanding",
+   "Creating"
+  ],
+  "options_ne": [
+   "सम्झना",
+   "मूल्याङ्कन गर्दै",
+   "बुझ्दै",
+   "सिर्जना गर्दै"
+  ],
+  "answer": 2,
+  "explanation": "Understanding means explaining, summarising or interpreting meaning, beyond mere recall.",
+  "explanation_ne": "बुझ्नु भनेको सम्झना भन्दा बाहिरको अर्थ व्याख्या, संक्षेप वा व्याख्या गर्नु हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-006",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Bloom's level is shown when a student judges the value of an argument?",
+  "question_ne": "विद्यार्थीले तर्कको मूल्य निर्धारण गर्दा कुन ब्लूमको स्तर देखाइन्छ?",
+  "options": [
+   "Evaluating",
+   "Understanding",
+   "Remembering",
+   "Applying"
+  ],
+  "options_ne": [
+   "मूल्याङ्कन गर्दै",
+   "बुझ्दै",
+   "सम्झना",
+   "आवेदन दिँदै"
+  ],
+  "answer": 0,
+  "explanation": "Evaluating involves making judgements based on criteria and standards.",
+  "explanation_ne": "मूल्याङ्कनमा मापदण्ड र मापदण्डको आधारमा निर्णय गर्नु समावेश छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-007",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Bloom's level is shown when a student uses a formula to solve a new problem?",
+  "question_ne": "विद्यार्थीले नयाँ समस्या समाधान गर्न सूत्र प्रयोग गर्दा कुन ब्लूमको स्तर देखाइन्छ?",
+  "options": [
+   "Evaluating",
+   "Applying",
+   "Remembering",
+   "Creating"
+  ],
+  "options_ne": [
+   "मूल्याङ्कन गर्दै",
+   "आवेदन दिँदै",
+   "सम्झना",
+   "सिर्जना गर्दै"
+  ],
+  "answer": 1,
+  "explanation": "Applying means using learned knowledge in a new situation.",
+  "explanation_ne": "लागू गर्नु भनेको नयाँ परिस्थितिमा सिकेको ज्ञान प्रयोग गर्नु हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-008",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who proposed the theory of cognitive development in children?",
+  "question_ne": "बालबालिकाहरूमा संज्ञानात्मक विकासको सिद्धान्त कसले प्रस्ताव गरेका थिए?",
+  "options": [
+   "Ivan Pavlov",
+   "Jean Piaget",
+   "B. F. Skinner",
+   "John Dewey"
+  ],
+  "options_ne": [
+   "इभान पावलोभ",
+   "जीन पिगेट",
+   "बी एफ स्किनर",
+   "जोन डेवी"
+  ],
+  "answer": 1,
+  "explanation": "Piaget described how children's thinking develops through stages.",
+  "explanation_ne": "Piaget ले बच्चाहरूको सोच कसरी चरणहरूमा विकसित हुन्छ भनेर वर्णन गर्नुभयो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-009",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to Piaget, in which stage do children learn mainly through senses and movement?",
+  "question_ne": "Piaget को अनुसार, बच्चाहरु कुन चरणमा मुख्यतया इन्द्रिय र आन्दोलन मार्फत सिक्छन्?",
+  "options": [
+   "Sensorimotor stage",
+   "Concrete operational stage",
+   "Formal operational stage",
+   "Preoperational stage"
+  ],
+  "options_ne": [
+   "सेन्सरीमोटर चरण",
+   "कंक्रीट परिचालन चरण",
+   "औपचारिक परिचालन चरण",
+   "पूर्वसञ्चालन चरण"
+  ],
+  "answer": 0,
+  "explanation": "The sensorimotor stage, from birth to about age 2, is learning through senses and motor actions.",
+  "explanation_ne": "सेन्सरीमोटर चरण, जन्म देखि लगभग २ वर्ष सम्म, इन्द्रिय र मोटर कार्यहरु मार्फत सिक्दैछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-010",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to Piaget, in which stage can children think logically about concrete objects?",
+  "question_ne": "Piaget को अनुसार, कुन चरणमा बच्चाहरूले ठोस वस्तुहरूको बारेमा तार्किक रूपमा सोच्न सक्छन्?",
+  "options": [
+   "Sensorimotor stage",
+   "Formal operational stage",
+   "Concrete operational stage",
+   "Preoperational stage"
+  ],
+  "options_ne": [
+   "सेन्सरीमोटर चरण",
+   "औपचारिक परिचालन चरण",
+   "कंक्रीट परिचालन चरण",
+   "पूर्वसञ्चालन चरण"
+  ],
+  "answer": 2,
+  "explanation": "In the concrete operational stage, roughly ages 7 to 11, children reason logically about real objects.",
+  "explanation_ne": "कंक्रीट परिचालन चरणमा, लगभग ७ देखि ११ वर्षको उमेरमा, बच्चाहरूले वास्तविक वस्तुहरूको बारेमा तार्किक रूपमा तर्क गर्छन्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-011",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to Piaget, in which stage can adolescents think abstractly and hypothetically?",
+  "question_ne": "Piaget को अनुसार, कुन चरणमा किशोरहरूले अमूर्त र काल्पनिक रूपमा सोच्न सक्छन्?",
+  "options": [
+   "Formal operational stage",
+   "Sensorimotor stage",
+   "Concrete operational stage",
+   "Preoperational stage"
+  ],
+  "options_ne": [
+   "औपचारिक परिचालन चरण",
+   "सेन्सरीमोटर चरण",
+   "कंक्रीट परिचालन चरण",
+   "पूर्वसञ्चालन चरण"
+  ],
+  "answer": 0,
+  "explanation": "The formal operational stage, from about age 11 onwards, allows abstract and hypothetical reasoning.",
+  "explanation_ne": "औपचारिक परिचालन चरण, लगभग ११ वर्षको उमेरदेखि, अमूर्त र काल्पनिक तर्कलाई अनुमति दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-012",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which teaching method involves the teacher explaining and students listening?",
+  "question_ne": "कुन शिक्षण विधिमा शिक्षकले व्याख्या गर्ने र विद्यार्थीहरूले सुन्ने समावेश गर्दछ?",
+  "options": [
+   "Demonstration method",
+   "Discussion method",
+   "Lecture method",
+   "Project method"
+  ],
+  "options_ne": [
+   "प्रदर्शन विधि",
+   "छलफल विधि",
+   "व्याख्यान विधि",
+   "परियोजना विधि"
+  ],
+  "answer": 2,
+  "explanation": "In the lecture method the teacher presents information orally to the class.",
+  "explanation_ne": "व्याख्यान विधिमा शिक्षकले कक्षामा मौखिक रूपमा जानकारी प्रस्तुत गर्छन्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-013",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which teaching method is most suitable for teaching a science experiment?",
+  "question_ne": "विज्ञान प्रयोग सिकाउनको लागि कुन शिक्षण विधि सबैभन्दा उपयुक्त छ?",
+  "options": [
+   "Memorisation only",
+   "Lecture method only",
+   "Silent reading only",
+   "Demonstration method"
+  ],
+  "options_ne": [
+   "सम्झना मात्र",
+   "व्याख्यान विधि मात्र",
+   "मौन पढाइ मात्र",
+   "प्रदर्शन विधि"
+  ],
+  "answer": 3,
+  "explanation": "Demonstration shows the experiment step by step so students can observe the process.",
+  "explanation_ne": "प्रदर्शनले चरण-दर-चरण प्रयोग देखाउँदछ ताकि विद्यार्थीहरूले प्रक्रिया अवलोकन गर्न सकून्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-014",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which teaching method gives students a real task to complete over time and learn by doing?",
+  "question_ne": "कुन शिक्षण विधिले विद्यार्थीहरूलाई समयसँगै पूरा गर्न र गरेर सिक्न वास्तविक कार्य दिन्छ?",
+  "options": [
+   "Lecture method",
+   "Drill method",
+   "Recitation method",
+   "Project method"
+  ],
+  "options_ne": [
+   "व्याख्यान विधि",
+   "ड्रिल विधि",
+   "पठन विधि",
+   "परियोजना विधि"
+  ],
+  "answer": 3,
+  "explanation": "The project method lets students plan and complete a meaningful task, learning through activity.",
+  "explanation_ne": "परियोजना विधिले विद्यार्थीहरूलाई गतिविधि मार्फत सिक्दै अर्थपूर्ण कार्य योजना र पूरा गर्न दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-015",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which method encourages students to share ideas and learn from each other?",
+  "question_ne": "कुन विधिले विद्यार्थीहरूलाई विचार साझा गर्न र एकअर्काबाट सिक्न प्रोत्साहित गर्छ?",
+  "options": [
+   "Discussion method",
+   "Dictation method",
+   "Lecture method",
+   "Copying method"
+  ],
+  "options_ne": [
+   "छलफल विधि",
+   "श्रुतिलेखन विधि",
+   "व्याख्यान विधि",
+   "प्रतिलिपि गर्ने विधि"
+  ],
+  "answer": 0,
+  "explanation": "Discussion involves exchange of views among students, guided by the teacher.",
+  "explanation_ne": "छलफलमा शिक्षकद्वारा निर्देशित विद्यार्थीहरू बीच विचारको आदानप्रदान समावेश हुन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-016",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Curriculum",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a curriculum?",
+  "question_ne": "पाठ्यक्रम भनेको के हो?",
+  "options": [
+   "Only the examination",
+   "Only the timetable",
+   "Only the textbook",
+   "The planned course of learning, including subjects, activities and assessment"
+  ],
+  "options_ne": [
+   "परीक्षा मात्रै हो",
+   "केवल समय तालिका",
+   "पाठ्यपुस्तक मात्र",
+   "विषय, गतिविधि र मूल्याङ्कन सहित सिकाइको योजनाबद्ध पाठ्यक्रम"
+  ],
+  "answer": 3,
+  "explanation": "A curriculum is the total planned learning experience offered by a school.",
+  "explanation_ne": "पाठ्यक्रम भनेको विद्यालयले प्रदान गर्ने कुल योजनाबद्ध सिकाइ अनुभव हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-017",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Curriculum",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the hidden curriculum?",
+  "question_ne": "लुकेको पाठ्यक्रम के हो?",
+  "options": [
+   "Unplanned values and attitudes learned from school life",
+   "The examination paper",
+   "The official syllabus",
+   "The textbook content"
+  ],
+  "options_ne": [
+   "विद्यालय जीवनबाट सिकेका अनियोजित मूल्य र मनोवृत्ति",
+   "परीक्षा पत्र",
+   "आधिकारिक पाठ्यक्रम",
+   "पाठ्यपुस्तक सामग्री"
+  ],
+  "answer": 0,
+  "explanation": "The hidden curriculum is what students learn informally from school culture, rules and relationships.",
+  "explanation_ne": "लुकेको पाठ्यक्रम भनेको विद्यार्थीहरूले विद्यालय संस्कृति, नियम र सम्बन्धहरूबाट अनौपचारिक रूपमा सिक्ने कुरा हो।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-018",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is formative evaluation?",
+  "question_ne": "रचनात्मक मूल्याङ्कन भनेको के हो?",
+  "options": [
+   "Assessment without feedback",
+   "Assessment for promotion only",
+   "Assessment during learning to improve teaching and learning",
+   "Assessment only at the end of a course"
+  ],
+  "options_ne": [
+   "प्रतिक्रिया बिना मूल्याङ्कन",
+   "पदोन्नतिको लागि मात्र मूल्याङ्कन",
+   "शिक्षण र सिकाइ सुधार गर्न सिक्ने क्रममा मूल्याङ्कन",
+   "पाठ्यक्रमको अन्त्यमा मात्र मूल्याङ्कन"
+  ],
+  "answer": 2,
+  "explanation": "Formative evaluation happens during instruction and gives feedback to improve learning.",
+  "explanation_ne": "संरचनात्मक मूल्याङ्कन निर्देशनको समयमा हुन्छ र सिकाइ सुधार गर्न प्रतिक्रिया दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-019",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is summative evaluation?",
+  "question_ne": "योगात्मक मूल्याङ्कन भनेको के हो?",
+  "options": [
+   "Assessment during a lesson",
+   "Assessment at the end of a course to judge overall achievement",
+   "Daily homework checking",
+   "Oral questioning only"
+  ],
+  "options_ne": [
+   "एक पाठ को समयमा मूल्यांकन",
+   "समग्र उपलब्धिको न्याय गर्न पाठ्यक्रमको अन्त्यमा मूल्याङ्कन",
+   "दैनिक गृहकार्य जाँच",
+   "मौखिक प्रश्न मात्र"
+  ],
+  "answer": 1,
+  "explanation": "Summative evaluation sums up learning at the end of a unit or course, such as a final exam.",
+  "explanation_ne": "योगात्मक मूल्याङ्कनले एकाइ वा पाठ्यक्रमको अन्त्यमा सिकाइलाई जोड दिन्छ, जस्तै अन्तिम परीक्षा।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-020",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is an example of formative assessment?",
+  "question_ne": "संरचनात्मक मूल्याङ्कनको उदाहरण कुन हो?",
+  "options": [
+   "A final board examination",
+   "A certificate",
+   "An annual result",
+   "A quiz during a lesson with feedback"
+  ],
+  "options_ne": [
+   "बोर्डको अन्तिम परीक्षा",
+   "एक प्रमाणपत्र",
+   "वार्षिक नतिजा",
+   "प्रतिक्रिया संग पाठ को समयमा एक प्रश्नोत्तरी"
+  ],
+  "answer": 3,
+  "explanation": "A short quiz with feedback during teaching is formative because it guides further learning.",
+  "explanation_ne": "अध्यापनको क्रममा प्रतिक्रिया सहितको छोटो प्रश्नोत्तरी रचनात्मक हुन्छ किनभने यसले थप सिकाइलाई मार्गदर्शन गर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-021",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is diagnostic evaluation?",
+  "question_ne": "निदान मूल्याङ्कन के हो?",
+  "options": [
+   "Assessment by students only",
+   "Assessment for grading only",
+   "Assessment to identify learning difficulties before teaching",
+   "Assessment at the end of the year"
+  ],
+  "options_ne": [
+   "विद्यार्थीहरू द्वारा मात्र मूल्याङ्कन",
+   "ग्रेडिङको लागि मात्र मूल्याङ्कन",
+   "सिकाउनु अघि सिकाइ कठिनाइहरू पहिचान गर्न मूल्याङ्कन",
+   "वर्षको अन्त्यमा मूल्याङ्कन"
+  ],
+  "answer": 2,
+  "explanation": "Diagnostic evaluation finds strengths and gaps so teaching can be planned accordingly.",
+  "explanation_ne": "निदानात्मक मूल्याङ्कनले बल र खाडलहरू फेला पार्छ त्यसैले तदनुसार शिक्षण योजना बनाउन सकिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-022",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is child psychology mainly concerned with?",
+  "question_ne": "बाल मनोविज्ञान मुख्यतया के संग सम्बन्धित छ?",
+  "options": [
+   "Only physical health",
+   "Only adult behaviour",
+   "Only school administration",
+   "How children grow, learn and behave"
+  ],
+  "options_ne": [
+   "केवल शारीरिक स्वास्थ्य",
+   "केवल वयस्क व्यवहार",
+   "विद्यालय प्रशासन मात्रै",
+   "बालबालिका कसरी बढ्छन्, सिक्छन् र व्यवहार गर्छन्"
+  ],
+  "answer": 3,
+  "explanation": "Child psychology studies mental, emotional and social development in children.",
+  "explanation_ne": "बाल मनोविज्ञानले बालबालिकाको मानसिक, भावनात्मक र सामाजिक विकासको अध्ययन गर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-023",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which factor most influences a child's learning?",
+  "question_ne": "कुन कारकले बालबालिकाको सिकाइलाई बढी प्रभाव पार्छ?",
+  "options": [
+   "A combination of heredity and environment",
+   "Heredity only",
+   "Luck only",
+   "Environment only"
+  ],
+  "options_ne": [
+   "वंशानुगत र वातावरणको संयोजन",
+   "आनुवंशिकता मात्र",
+   "भाग्य मात्र",
+   "वातावरण मात्र"
+  ],
+  "answer": 0,
+  "explanation": "Learning is shaped by both inherited traits and the home, school and social environment.",
+  "explanation_ne": "सिकाइ वंशानुगत विशेषताहरू र घर, विद्यालय र सामाजिक वातावरण दुवैद्वारा आकार लिइन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-024",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is motivation in learning?",
+  "question_ne": "सिकाइमा प्रेरणा के हो?",
+  "options": [
+   "The drive that encourages a student to learn",
+   "Memorisation only",
+   "Fear of the teacher",
+   "Punishment only"
+  ],
+  "options_ne": [
+   "ड्राइभ जसले विद्यार्थीलाई सिक्न प्रोत्साहित गर्छ",
+   "सम्झना मात्र",
+   "शिक्षकको डर",
+   "सजाय मात्र"
+  ],
+  "answer": 0,
+  "explanation": "Motivation is the inner drive that starts and sustains learning effort.",
+  "explanation_ne": "प्रेरणा भनेको भित्री ड्राइभ हो जसले सिक्ने प्रयासलाई सुरु गर्छ र निरन्तरता दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-025",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is an example of intrinsic motivation?",
+  "question_ne": "आन्तरिक प्रेरणाको उदाहरण कुन हो?",
+  "options": [
+   "Learning because the topic is interesting",
+   "Learning only to avoid punishment",
+   "Learning only for a prize",
+   "Learning only for marks"
+  ],
+  "options_ne": [
+   "विषय चाखलाग्दो भएकाले सिकाइन्छ",
+   "सजायबाट बच्नको लागि मात्र सिक्ने",
+   "पुरस्कारको लागि मात्र सिक्ने",
+   "अङ्कका लागि मात्रै सिक्ने"
+  ],
+  "answer": 0,
+  "explanation": "Intrinsic motivation comes from interest and enjoyment in the learning itself.",
+  "explanation_ne": "आन्तरिक प्रेरणा सिकाइमा रुचि र आनन्दबाट आउँछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-026",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Classroom Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is classroom management?",
+  "question_ne": "कक्षाकोठा व्यवस्थापन भनेको के हो?",
+  "options": [
+   "Only taking attendance",
+   "Only arranging furniture",
+   "Only punishing students",
+   "Organising the classroom so learning happens smoothly"
+  ],
+  "options_ne": [
+   "हाजिरी मात्र लिने",
+   "फर्निचर मात्र मिलाउने",
+   "बिद्यार्थीलाई मात्रै सजाय दिने",
+   "कक्षाकोठा व्यवस्थित गर्नुहोस् ताकि सिकाइ सहज रूपमा हुन्छ"
+  ],
+  "answer": 3,
+  "explanation": "Classroom management covers rules, routines, time and behaviour so teaching can proceed effectively.",
+  "explanation_ne": "कक्षाकोठा व्यवस्थापनले नियम, दिनचर्या, समय र व्यवहारलाई समेट्छ ताकि शिक्षण प्रभावकारी रूपमा अगाडि बढ्न सकोस्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-027",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Classroom Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which classroom practice best supports discipline?",
+  "question_ne": "कुन कक्षाकोठा अभ्यासले अनुशासनलाई राम्रोसँग समर्थन गर्छ?",
+  "options": [
+   "No rules at all",
+   "Clear rules applied fairly and consistently",
+   "Favouring some students",
+   "Strict punishment for every mistake"
+  ],
+  "options_ne": [
+   "कुनै नियम छैन",
+   "स्पष्ट नियमहरू निष्पक्ष र लगातार लागू",
+   "केही विद्यार्थीहरूको पक्षमा",
+   "हरेक गल्तीको लागि कडा सजाय"
+  ],
+  "answer": 1,
+  "explanation": "Fair, consistent rules help students know expectations and behave responsibly.",
+  "explanation_ne": "निष्पक्ष, सुसंगत नियमहरूले विद्यार्थीहरूलाई अपेक्षाहरू जान्न र जिम्मेवारीपूर्वक व्यवहार गर्न मद्दत गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-028",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is play-way method in primary education?",
+  "question_ne": "प्राथमिक शिक्षामा प्ले-वे विधि के हो?",
+  "options": [
+   "Learning only by reading",
+   "Learning only by writing",
+   "Learning by punishment",
+   "Learning through play and activities"
+  ],
+  "options_ne": [
+   "पढेर मात्रै सिक्ने",
+   "लेखेर मात्र सिक्ने",
+   "दण्डद्वारा सिकाइन्छ",
+   "खेल र गतिविधिहरू मार्फत सिक्ने"
+  ],
+  "answer": 3,
+  "explanation": "The play-way method uses games and play to teach young children naturally.",
+  "explanation_ne": "प्ले-वे विधिले साना बच्चाहरूलाई स्वाभाविक रूपमा सिकाउन खेलहरू र खेलहरू प्रयोग गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-029",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "ICT in Education",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How can ICT best support teaching?",
+  "question_ne": "आईसीटीले कसरी उत्कृष्ट शिक्षालाई सहयोग गर्न सक्छ?",
+  "options": [
+   "By making exams harder",
+   "By removing textbooks",
+   "By replacing teachers completely",
+   "By providing audio-visual resources and interactive learning"
+  ],
+  "options_ne": [
+   "परीक्षालाई कठिन बनाएर",
+   "पाठ्यपुस्तकहरू हटाएर",
+   "शिक्षकलाई पूर्ण रूपमा प्रतिस्थापन गरेर",
+   "अडियो-भिजुअल स्रोतहरू र अन्तरक्रियात्मक शिक्षा प्रदान गरेर"
+  ],
+  "answer": 3,
+  "explanation": "ICT adds videos, simulations and interactive tools that support, not replace, good teaching.",
+  "explanation_ne": "ICT ले भिडियोहरू, सिमुलेशनहरू र अन्तरक्रियात्मक उपकरणहरू थप्छ जसले समर्थन गर्दछ, प्रतिस्थापन गर्दैन, राम्रो शिक्षा।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-030",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "ICT in Education",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is e-learning?",
+  "question_ne": "ई-लर्निङ भनेको के हो?",
+  "options": [
+   "Learning using electronic devices and the internet",
+   "Learning without a teacher",
+   "Learning by post only",
+   "Learning only in a classroom"
+  ],
+  "options_ne": [
+   "इलेक्ट्रोनिक उपकरण र इन्टरनेट प्रयोग गरेर सिक्ने",
+   "शिक्षक बिना पढाइ",
+   "पोष्टबाट मात्रै सिक्ने",
+   "कक्षाकोठामा मात्रै सिकाइन्छ"
+  ],
+  "answer": 0,
+  "explanation": "E-learning delivers lessons and resources through computers, phones and the internet.",
+  "explanation_ne": "ई-लर्निङले कम्प्युटर, फोन र इन्टरनेट मार्फत पाठ र स्रोतहरू प्रदान गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-032",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is associated with operant conditioning and reinforcement?",
+  "question_ne": "को अपरेट कन्डिसन र सुदृढीकरण संग सम्बन्धित छ?",
+  "options": [
+   "Ivan Pavlov",
+   "B. F. Skinner",
+   "John Dewey",
+   "Jean Piaget"
+  ],
+  "options_ne": [
+   "इभान पावलोभ",
+   "बी एफ स्किनर",
+   "जोन डेवी",
+   "जीन पिगेट"
+  ],
+  "answer": 1,
+  "explanation": "Skinner showed that behaviour followed by reinforcement is more likely to be repeated.",
+  "explanation_ne": "स्किनरले देखाए कि सुदृढीकरण पछि व्यवहार दोहोर्याउने सम्भावना बढी हुन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-033",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is reinforcement in learning?",
+  "question_ne": "सिकाइमा सुदृढीकरण भनेको के हो?",
+  "options": [
+   "A type of examination",
+   "A reward or consequence that strengthens a behaviour",
+   "A teaching aid",
+   "A punishment that always stops learning"
+  ],
+  "options_ne": [
+   "एक प्रकारको परीक्षा",
+   "एक इनाम वा परिणाम जसले व्यवहारलाई बलियो बनाउँछ",
+   "एक शिक्षण सहायता",
+   "सँधै सिक्न बन्द गर्ने सजाय"
+  ],
+  "answer": 1,
+  "explanation": "Reinforcement increases the likelihood that a behaviour will occur again.",
+  "explanation_ne": "सुदृढीकरणले व्यवहार फेरि हुने सम्भावना बढाउँछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-034",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who emphasised learning through social interaction and the zone of proximal development?",
+  "question_ne": "सामाजिक अन्तरक्रिया र निकट विकासको क्षेत्र मार्फत सिकाइलाई कसले जोड दिनुभयो?",
+  "options": [
+   "Ivan Pavlov",
+   "Lev Vygotsky",
+   "Jean Piaget",
+   "B. F. Skinner"
+  ],
+  "options_ne": [
+   "इभान पावलोभ",
+   "लेभ Vygotsky",
+   "जीन पिगेट",
+   "बी एफ स्किनर"
+  ],
+  "answer": 1,
+  "explanation": "Vygotsky stressed that children learn with guidance from adults and more capable peers.",
+  "explanation_ne": "Vygotsky जोड दिए कि बच्चाहरु वयस्क र अधिक सक्षम साथीहरु को मार्गदर्शन संग सिक्न।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-035",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main feature of student-centred teaching?",
+  "question_ne": "विद्यार्थी केन्द्रित शिक्षणको मुख्य विशेषता के हो?",
+  "options": [
+   "No activities are used",
+   "Students only listen silently",
+   "Students actively participate and the teacher facilitates learning",
+   "The teacher talks for the whole lesson"
+  ],
+  "options_ne": [
+   "कुनै गतिविधिहरू प्रयोग गरिएको छैन",
+   "विद्यार्थीहरू चुपचाप मात्र सुन्छन्",
+   "विद्यार्थीहरू सक्रिय रूपमा सहभागी हुन्छन् र शिक्षकले सिकाइलाई सहज बनाउँछन्",
+   "शिक्षकले सम्पूर्ण पाठको लागि कुरा गर्छ"
+  ],
+  "answer": 2,
+  "explanation": "Student-centred teaching puts learners at the centre, with active participation and discovery.",
+  "explanation_ne": "विद्यार्थी-केन्द्रित शिक्षणले सक्रिय सहभागिता र खोजका साथ विद्यार्थीहरूलाई केन्द्रमा राख्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-036",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a teaching aid?",
+  "question_ne": "शिक्षण सहायता के हो?",
+  "options": [
+   "A school building",
+   "A textbook only",
+   "Material used by a teacher to make learning clear and interesting",
+   "An examination paper"
+  ],
+  "options_ne": [
+   "विद्यालयको भवन",
+   "पाठ्यपुस्तक मात्र",
+   "सिकाइलाई स्पष्ट र रोचक बनाउन शिक्षकले प्रयोग गरेको सामग्री",
+   "एक परीक्षा पत्र"
+  ],
+  "answer": 2,
+  "explanation": "Teaching aids such as charts, models and videos help students understand a lesson.",
+  "explanation_ne": "चार्ट, मोडेल र भिडियोहरू जस्ता शिक्षण सामग्रीहरूले विद्यार्थीहरूलाई पाठ बुझ्न मद्दत गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-037",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is continuous assessment?",
+  "question_ne": "निरन्तर मूल्याङ्कन भनेको के हो?",
+  "options": [
+   "Assessment without records",
+   "One final examination only",
+   "Regular assessment of students throughout the learning period",
+   "Assessment once a year"
+  ],
+  "options_ne": [
+   "अभिलेख बिना मूल्यांकन",
+   "एक मात्र अन्तिम परीक्षा",
+   "सिकाइ अवधिभर विद्यार्थीहरूको नियमित मूल्याङ्कन",
+   "वर्षमा एक पटक मूल्याङ्कन"
+  ],
+  "answer": 2,
+  "explanation": "Continuous assessment collects evidence of learning over time through tests, homework and observation.",
+  "explanation_ne": "निरन्तर मूल्याङ्कनले परीक्षण, गृहकार्य र अवलोकन मार्फत समयसँगै सिक्ने प्रमाणहरू सङ्कलन गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-038",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which type of question tests recall of facts?",
+  "question_ne": "कुन प्रकारको प्रश्न परीक्षणले तथ्यहरू सम्झन्छ?",
+  "options": [
+   "Essay question on analysis",
+   "Project work",
+   "Group discussion",
+   "Objective short-answer question"
+  ],
+  "options_ne": [
+   "विश्लेषण मा निबंध प्रश्न",
+   "परियोजना कार्य",
+   "सामूहिक छलफल",
+   "वस्तुगत छोटो उत्तर प्रश्न"
+  ],
+  "answer": 3,
+  "explanation": "Short objective questions, such as fill-in-the-blank, mainly test recall.",
+  "explanation_ne": "छोटो वस्तुपरक प्रश्नहरू, जस्तै खाली-इन-द-खाली, मुख्यतया परीक्षण सम्झना।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-039",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which type of question best tests higher-order thinking?",
+  "question_ne": "कुन प्रकारको प्रश्नले उच्च-अर्डर सोचको परीक्षण गर्छ?",
+  "options": [
+   "Multiple-choice recall question",
+   "Essay question requiring analysis and argument",
+   "True-false question",
+   "Matching question"
+  ],
+  "options_ne": [
+   "बहु-विकल्प सम्झना प्रश्न",
+   "निबन्ध प्रश्नलाई विश्लेषण र तर्क चाहिन्छ",
+   "साँचो-झुटो प्रश्न",
+   "मिल्ने प्रश्न"
+  ],
+  "answer": 1,
+  "explanation": "Essay questions let students analyse, evaluate and organise ideas in their own words.",
+  "explanation_ne": "निबन्ध प्रश्नहरूले विद्यार्थीहरूलाई आफ्नै शब्दहरूमा विचारहरू विश्लेषण, मूल्याङ्कन र व्यवस्थित गर्न दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-040",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Curriculum",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a lesson plan?",
+  "question_ne": "पाठ योजना के हो?",
+  "options": [
+   "A list of students",
+   "The annual examination schedule",
+   "A teacher's written plan for one lesson, with objectives, activities and assessment",
+   "The school timetable"
+  ],
+  "options_ne": [
+   "विद्यार्थीहरूको सूची",
+   "वार्षिक परीक्षा तालिका",
+   "उद्देश्य, गतिविधि र मूल्याङ्कन सहितको एउटा पाठको लागि शिक्षकको लिखित योजना",
+   "विद्यालयको समय तालिका"
+  ],
+  "answer": 2,
+  "explanation": "A lesson plan guides what the teacher will teach, how, and how learning will be checked.",
+  "explanation_ne": "पाठ योजनाले शिक्षकले के सिकाउने, कसरी, र कसरी सिकाइ जाँच गरिनेछ भनेर मार्गदर्शन गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-041",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Curriculum",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What should a good lesson objective state?",
+  "question_ne": "राम्रो पाठ वस्तुनिष्ठ राज्य के हुनुपर्छ?",
+  "options": [
+   "What the teacher will wear",
+   "How long the school day is",
+   "How many students are present",
+   "What students will be able to do by the end of the lesson"
+  ],
+  "options_ne": [
+   "शिक्षकले के लगाउने",
+   "विद्यालयको दिन कति लामो छ",
+   "कति विद्यार्थी उपस्थित छन्",
+   "विद्यार्थीहरूले पाठको अन्त्यमा के गर्न सक्षम हुनेछन्"
+  ],
+  "answer": 3,
+  "explanation": "A good objective is specific and measurable, describing the intended learning outcome.",
+  "explanation_ne": "एक राम्रो उद्देश्य विशिष्ट र मापन योग्य छ, अभिप्रेत सिकाउने परिणाम को वर्णन।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-042",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is individual difference in education?",
+  "question_ne": "शिक्षामा व्यक्तिगत भिन्नता के हो?",
+  "options": [
+   "Only gender matters",
+   "Learners differ in ability, interest and pace of learning",
+   "All learners are identical",
+   "Only age differs"
+  ],
+  "options_ne": [
+   "लिङ्ग मात्रै महत्त्वपूर्ण छ",
+   "सिक्ने क्षमता, रुचि र सिकाइको गतिमा विद्यार्थीहरू भिन्न हुन्छन्",
+   "सबै शिक्षार्थी समान छन्",
+   "उमेर मात्र फरक हुन्छ"
+  ],
+  "answer": 1,
+  "explanation": "Individual differences mean teaching should adapt to varied abilities and learning styles.",
+  "explanation_ne": "व्यक्तिगत भिन्नताको अर्थ शिक्षणले विभिन्न क्षमता र सिकाउने शैलीहरूमा अनुकूलन गर्नुपर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-043",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is inclusive education?",
+  "question_ne": "समावेशी शिक्षा भनेको के हो?",
+  "options": [
+   "Education without teachers",
+   "Education only for gifted children",
+   "Education that welcomes all children, including those with disabilities, in regular schools",
+   "Education only in special schools"
+  ],
+  "options_ne": [
+   "शिक्षक बिनाको शिक्षा",
+   "शिक्षा केवल प्रतिभाशाली बच्चाहरु को लागी",
+   "अपाङ्गता भएका लगायत सबै बालबालिकालाई नियमित विद्यालयमा स्वागत गर्ने शिक्षा",
+   "विशेष विद्यालयहरूमा मात्र शिक्षा"
+  ],
+  "answer": 2,
+  "explanation": "Inclusive education ensures every child can learn together with appropriate support.",
+  "explanation_ne": "समावेशी शिक्षा सुनिश्चित गर्दछ कि प्रत्येक बच्चाले उपयुक्त सहयोगको साथ सँगै सिक्न सक्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-044",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Education Act and TSC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the Teachers Service Commission (TSC) in Nepal mainly responsible for?",
+  "question_ne": "नेपालमा शिक्षक सेवा आयोग (TSC) को मुख्य जिम्मेवारी के हो?",
+  "options": [
+   "Recruiting and recommending teachers for public schools",
+   "Setting university courses",
+   "Issuing citizenship certificates",
+   "Running private schools"
+  ],
+  "options_ne": [
+   "सामुदायिक विद्यालयका लागि शिक्षक नियुक्ति र सिफारिस गर्ने",
+   "विश्वविद्यालय पाठ्यक्रमहरू सेट गर्दै",
+   "नागरिकताको प्रमाणपत्र जारी गर्ने",
+   "निजी विद्यालय सञ्चालन गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "The TSC conducts examinations and recommends teachers for appointment in community schools.",
+  "explanation_ne": "TSC ले परीक्षा सञ्चालन गर्छ र सामुदायिक विद्यालयमा नियुक्तिका लागि शिक्षकहरूलाई सिफारिस गर्छ।",
+  "source": "Education in Nepal"
+ },
+ {
+  "id": "EDU-045",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Education Act and TSC",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of the Education Act in Nepal?",
+  "question_ne": "नेपालमा शिक्षा ऐनको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To regulate transport",
+   "To regulate hospitals",
+   "To regulate banks",
+   "To provide the legal framework for school education"
+  ],
+  "options_ne": [
+   "यातायात व्यवस्थित गर्ने",
+   "अस्पताललाई नियमन गर्ने",
+   "बैंकहरुलाई नियमन गर्ने",
+   "विद्यालय शिक्षाका लागि कानुनी रूपरेखा उपलब्ध गराउने"
+  ],
+  "answer": 3,
+  "explanation": "The Education Act sets out how school education is organised, managed and governed.",
+  "explanation_ne": "शिक्षा ऐनले विद्यालय शिक्षालाई कसरी व्यवस्थित, व्यवस्थित र व्यवस्थित गर्ने भनेर निर्धारण गरेको छ।",
+  "source": "Education in Nepal"
+ },
+ {
+  "id": "EDU-046",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Classroom Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the best way to handle a slow learner in class?",
+  "question_ne": "कक्षामा ढिलो विद्यार्थीलाई ह्यान्डल गर्ने उत्तम तरिका के हो?",
+  "options": [
+   "Remove the student from class",
+   "Punish the student",
+   "Ignore the student",
+   "Give extra support, simpler tasks and encouragement"
+  ],
+  "options_ne": [
+   "विद्यार्थीलाई कक्षाबाट निकाल्नुहोस्",
+   "विद्यार्थीलाई कारबाही गर",
+   "विद्यार्थीलाई बेवास्ता गर्नुहोस्",
+   "थप समर्थन, सरल कार्यहरू र प्रोत्साहन दिनुहोस्"
+  ],
+  "answer": 3,
+  "explanation": "Slow learners need patient, individual support and tasks matched to their pace.",
+  "explanation_ne": "ढिलो शिक्षार्थीहरूलाई बिरामी, व्यक्तिगत समर्थन र तिनीहरूको गतिसँग मिल्ने कार्यहरू चाहिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-047",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the inductive method of teaching?",
+  "question_ne": "सिकाउने प्रेरक विधि के हो?",
+  "options": [
+   "Moving from a rule to examples",
+   "Copying from the board",
+   "Memorising a rule only",
+   "Moving from examples to a general rule"
+  ],
+  "options_ne": [
+   "नियमबाट उदाहरणहरूमा सर्दै",
+   "बोर्डबाट प्रतिलिपि गर्दै",
+   "केवल एक नियम सम्झना",
+   "उदाहरणबाट सामान्य नियममा सर्दै"
+  ],
+  "answer": 3,
+  "explanation": "Induction starts with specific examples and leads learners to discover the general rule.",
+  "explanation_ne": "प्रेरण विशिष्ट उदाहरणहरूबाट सुरु हुन्छ र शिक्षार्थीहरूलाई सामान्य नियम पत्ता लगाउन नेतृत्व गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-048",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the deductive method of teaching?",
+  "question_ne": "शिक्षण विधि के हो?",
+  "options": [
+   "Learning without a teacher",
+   "Moving from a general rule to specific examples",
+   "Moving from examples to a rule",
+   "Learning by play only"
+  ],
+  "options_ne": [
+   "शिक्षक बिना पढाइ",
+   "सामान्य नियमबाट विशिष्ट उदाहरणहरूमा सर्दै",
+   "उदाहरणबाट नियममा सर्दै",
+   "खेलेर मात्र सिक्ने"
+  ],
+  "answer": 1,
+  "explanation": "Deduction starts with a rule or principle and applies it to examples.",
+  "explanation_ne": "कटौती नियम वा सिद्धान्तबाट सुरु हुन्छ र उदाहरणहरूमा लागू हुन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-049",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is learning by observation called?",
+  "question_ne": "अवलोकन द्वारा सिकाइलाई के भनिन्छ?",
+  "options": [
+   "Memorisation",
+   "Conditioning only",
+   "Observational learning",
+   "Trial and error only"
+  ],
+  "options_ne": [
+   "सम्झना",
+   "कन्डिसन मात्र",
+   "अवलोकन शिक्षा",
+   "परीक्षण र त्रुटि मात्र"
+  ],
+  "answer": 2,
+  "explanation": "Observational learning happens when a learner watches others and imitates their behaviour.",
+  "explanation_ne": "अवलोकनात्मक शिक्षा तब हुन्छ जब एक सिकारुले अरूलाई हेर्छ र तिनीहरूको व्यवहारको नक्कल गर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-050",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Learning Theories",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Who is associated with learning by observation and social learning theory?",
+  "question_ne": "अवलोकन र सामाजिक शिक्षा सिद्धान्त द्वारा सिकाई संग को को सम्बन्धित छ?",
+  "options": [
+   "Albert Bandura",
+   "Jean Piaget",
+   "Ivan Pavlov",
+   "B. F. Skinner"
+  ],
+  "options_ne": [
+   "अल्बर्ट बान्डुरा",
+   "जीन पिगेट",
+   "इभान पावलोभ",
+   "बी एफ स्किनर"
+  ],
+  "answer": 0,
+  "explanation": "Bandura showed that people learn by observing models and the consequences of their actions.",
+  "explanation_ne": "बन्डुराले देखाए कि मानिसहरू मोडेलहरू र तिनीहरूका कार्यहरूको नतिजाहरू हेरेर सिक्छन्।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-051",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Aims of Education",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which aim of education focuses on preparing a person to earn a living?",
+  "question_ne": "शिक्षाको कुन उद्देश्यले व्यक्तिलाई जीविकोपार्जन गर्न तयार पार्ने कुरामा केन्द्रित छ?",
+  "options": [
+   "Moral aim",
+   "Vocational aim",
+   "Spiritual aim",
+   "Physical aim"
+  ],
+  "options_ne": [
+   "नैतिक उद्देश्य",
+   "व्यावसायिक उद्देश्य",
+   "आध्यात्मिक लक्ष्य",
+   "भौतिक लक्ष्य"
+  ],
+  "answer": 1,
+  "explanation": "The vocational aim prepares learners with skills for employment and livelihood.",
+  "explanation_ne": "व्यावसायिक उद्देश्यले शिक्षार्थीहरूलाई रोजगारी र जीविकोपार्जनका लागि सीपहरू तयार गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-052",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Aims of Education",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which aim of education focuses on character and good conduct?",
+  "question_ne": "शिक्षाको कुन उद्देश्य चरित्र र असल आचरणमा केन्द्रित छ?",
+  "options": [
+   "Moral aim",
+   "Physical aim",
+   "Intellectual aim",
+   "Vocational aim"
+  ],
+  "options_ne": [
+   "नैतिक उद्देश्य",
+   "भौतिक लक्ष्य",
+   "बौद्धिक उद्देश्य",
+   "व्यावसायिक उद्देश्य"
+  ],
+  "answer": 0,
+  "explanation": "The moral aim develops honesty, responsibility and good character.",
+  "explanation_ne": "नैतिक उद्देश्यले इमानदारी, जिम्मेवारी र असल चरित्रको विकास गर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-053",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is validity in a test?",
+  "question_ne": "एक परीक्षण मा वैधता के हो?",
+  "options": [
+   "The number of questions",
+   "The length of the test",
+   "The difficulty of the test",
+   "The extent to which a test measures what it is intended to measure"
+  ],
+  "options_ne": [
+   "प्रश्नहरूको संख्या",
+   "परीक्षणको लम्बाइ",
+   "परीक्षाको कठिनाई",
+   "परीक्षणले मापन गर्ने उद्देश्यले के मापन गर्छ भन्ने हदसम्म"
+  ],
+  "answer": 3,
+  "explanation": "A valid test measures the learning it claims to measure.",
+  "explanation_ne": "एक मान्य परीक्षणले सिकाइलाई मापन गर्दछ जुन मापन गर्न दावी गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-054",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Evaluation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is reliability in a test?",
+  "question_ne": "एक परीक्षण मा विश्वसनीयता के हो?",
+  "options": [
+   "The popularity of the test",
+   "The consistency of test results when repeated",
+   "The length of the test",
+   "The cost of the test"
+  ],
+  "options_ne": [
+   "परीक्षण को लोकप्रियता",
+   "दोहोर्याउँदा परीक्षण परिणामहरूको स्थिरता",
+   "परीक्षणको लम्बाइ",
+   "परीक्षणको लागत"
+  ],
+  "answer": 1,
+  "explanation": "A reliable test gives similar results on repeated use under similar conditions.",
+  "explanation_ne": "एक भरपर्दो परीक्षणले समान परिस्थितिहरूमा दोहोर्याइएको प्रयोगमा समान परिणाम दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-055",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Classroom Management",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Why is seating arrangement important in a classroom?",
+  "question_ne": "कक्षाकोठामा बस्ने व्यवस्था किन महत्त्वपूर्ण छ?",
+  "options": [
+   "It has no effect on learning",
+   "It only matters for exams",
+   "It affects interaction, attention and participation",
+   "It only affects decoration"
+  ],
+  "options_ne": [
+   "यसले पढाइमा कुनै असर गर्दैन",
+   "यो परीक्षाको लागि मात्र महत्त्वपूर्ण छ",
+   "यसले अन्तरक्रिया, ध्यान र सहभागितालाई असर गर्छ",
+   "यसले सजावटलाई मात्र असर गर्छ"
+  ],
+  "answer": 2,
+  "explanation": "Good seating helps every student see, hear and take part in the lesson.",
+  "explanation_ne": "राम्रो सिटले प्रत्येक विद्यार्थीलाई पाठ हेर्न, सुन्न र भाग लिन मद्दत गर्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-056",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "ICT in Education",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is a benefit of using multimedia in teaching?",
+  "question_ne": "शिक्षणमा मल्टिमिडिया प्रयोग गर्दा के फाइदा हुन्छ?",
+  "options": [
+   "It makes lessons longer",
+   "It appeals to more senses and makes abstract ideas concrete",
+   "It always replaces the teacher",
+   "It removes the need for practice"
+  ],
+  "options_ne": [
+   "यसले पाठ लामो बनाउँछ",
+   "यसले थप इन्द्रियहरूलाई अपील गर्छ र अमूर्त विचारहरूलाई ठोस बनाउँछ",
+   "यसले सधैं शिक्षकलाई प्रतिस्थापन गर्छ",
+   "यसले अभ्यासको आवश्यकता हटाउँछ"
+  ],
+  "answer": 1,
+  "explanation": "Pictures, sound and video help students grasp ideas that are hard to explain in words alone.",
+  "explanation_ne": "चित्र, ध्वनि र भिडियोले विद्यार्थीहरूलाई शब्दहरूमा मात्र व्याख्या गर्न गाह्रो हुने विचारहरू बुझ्न मद्दत गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-057",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Teaching Methods",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is group work in teaching?",
+  "question_ne": "अध्यापनमा सामूहिक कार्य के हो?",
+  "options": [
+   "Students working alone silently",
+   "Students working together in small groups on a task",
+   "Students copying notes",
+   "The teacher working alone"
+  ],
+  "options_ne": [
+   "विद्यार्थीहरू चुपचाप एक्लै काम गर्छन्",
+   "कार्यमा साना समूहहरूमा सँगै काम गर्ने विद्यार्थीहरू",
+   "नोटहरू प्रतिलिपि गर्दै विद्यार्थीहरू",
+   "शिक्षक एक्लै काम गर्छन्"
+  ],
+  "answer": 1,
+  "explanation": "Group work lets students collaborate, discuss and learn from each other.",
+  "explanation_ne": "सामूहिक कार्यले विद्यार्थीहरूलाई सहयोग गर्न, छलफल गर्न र एकअर्काबाट सिक्न दिन्छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-058",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Child Psychology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is attention in learning?",
+  "question_ne": "पढाइमा ध्यान के हो?",
+  "options": [
+   "Ignoring the teacher",
+   "Sleeping in class",
+   "Focusing the mind on a particular task or stimulus",
+   "Memorising without understanding"
+  ],
+  "options_ne": [
+   "शिक्षकलाई बेवास्ता गर्दै",
+   "कक्षामा सुत्ने",
+   "एक विशेष कार्य वा उत्तेजनामा दिमाग केन्द्रित गर्दै",
+   "नबुझेर सम्झना"
+  ],
+  "answer": 2,
+  "explanation": "Attention is concentrating on relevant information, which is essential for learning.",
+  "explanation_ne": "ध्यान सान्दर्भिक जानकारीमा केन्द्रित छ, जुन सिक्नको लागि आवश्यक छ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-059",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Curriculum",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a textbook?",
+  "question_ne": "पाठ्यपुस्तक भनेको के हो?",
+  "options": [
+   "A school register",
+   "An examination paper",
+   "A printed book that presents the content of a subject for a class",
+   "A lesson plan"
+  ],
+  "options_ne": [
+   "एक विद्यालय दर्ता",
+   "एक परीक्षा पत्र",
+   "एक छापिएको पुस्तक जसले कक्षाको लागि विषयको सामग्री प्रस्तुत गर्दछ",
+   "एक पाठ योजना"
+  ],
+  "answer": 2,
+  "explanation": "A textbook organises subject matter in sequence for teaching and learning.",
+  "explanation_ne": "पाठ्यपुस्तकले सिकाइ र सिकाइको लागि क्रमबद्ध रूपमा विषयवस्तुलाई व्यवस्थित गर्दछ।",
+  "source": "Education"
+ },
+ {
+  "id": "EDU-060",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary",
+   "kharidar"
+  ],
+  "topic": "Education & Pedagogy",
+  "subtopic": "Meaning of Education",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a formal source of education?",
+  "question_ne": "तलका मध्ये कुन शिक्षाको औपचारिक स्रोत हो?",
+  "options": [
+   "School",
+   "Family gossip",
+   "Street play",
+   "Television advertisement"
+  ],
+  "options_ne": [
+   "विद्यालय",
+   "पारिवारिक गफ",
+   "सडक नाटक",
+   "टेलिभिजन विज्ञापन"
+  ],
+  "answer": 0,
+  "explanation": "Formal education is organised learning in institutions such as schools and colleges.",
+  "explanation_ne": "औपचारिक शिक्षा स्कूल र कलेज जस्ता संस्थाहरूमा व्यवस्थित शिक्षा हो।",
+  "source": "Education"
+ },
+ {
+  "id": "HEALTH-001",
+  "exam": [
+   "health",
+   "police",
+   "army",
+   "kharidar",
+   "nhpc-radio"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Human Body",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "About how many bones are there in a newborn baby's body?",
+  "question_ne": "नवजात शिशुको शरीरमा कतिवटा हड्डी हुन्छन्?",
+  "options": [
+   "206",
+   "106",
+   "About 300",
+   "250"
+  ],
+  "options_ne": [
+   "२०६",
+   "१०६",
+   "लगभग ३००",
+   "२५०"
+  ],
+  "answer": 2,
+  "explanation": "A baby is born with about 300 bones; some fuse together, leaving 206 in an adult.",
+  "explanation_ne": "एक बच्चा लगभग ३०० हड्डी संग जन्मिन्छ; केहि फ्यूज सँगै, वयस्क मा २०६ छोडेर।",
+  "source": "Human biology"
+ },
+ {
+  "id": "HEALTH-002",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Human Body",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ pumps blood around the body?",
+  "question_ne": "शरीर वरिपरि रगत पम्प गर्ने अंग कुन हो?",
+  "options": [
+   "Kidney",
+   "Liver",
+   "Lung",
+   "Heart"
+  ],
+  "options_ne": [
+   "मिर्गौला",
+   "कलेजो",
+   "फोक्सो",
+   "मुटु"
+  ],
+  "answer": 3,
+  "explanation": "The heart pumps blood through blood vessels to all parts of the body.",
+  "explanation_ne": "मुटुले रक्तनलीहरूमार्फत शरीरका सबै भागहरूमा रगत पम्प गर्छ।",
+  "source": "Human biology"
+ },
+ {
+  "id": "HEALTH-003",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Human Body",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ is used for breathing?",
+  "question_ne": "सास फेर्न कुन अंग प्रयोग गरिन्छ?",
+  "options": [
+   "Kidney",
+   "Stomach",
+   "Lungs",
+   "Liver"
+  ],
+  "options_ne": [
+   "मिर्गौला",
+   "पेट",
+   "फोक्सो",
+   "कलेजो"
+  ],
+  "answer": 2,
+  "explanation": "The lungs take in oxygen and release carbon dioxide during breathing.",
+  "explanation_ne": "फोक्सोले अक्सिजन लिन्छ र सास फेर्दा कार्बन डाइअक्साइड छोड्छ।",
+  "source": "Human biology"
+ },
+ {
+  "id": "HEALTH-004",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Human Body",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal human body temperature?",
+  "question_ne": "मानव शरीरको सामान्य तापक्रम कति हुन्छ?",
+  "options": [
+   "About 30 degrees Celsius",
+   "About 37 degrees Celsius",
+   "About 40 degrees Celsius",
+   "About 25 degrees Celsius"
+  ],
+  "options_ne": [
+   "लगभग ३० डिग्री सेल्सियस",
+   "लगभग ३७ डिग्री सेल्सियस",
+   "लगभग ४० डिग्री सेल्सियस",
+   "लगभग २५ डिग्री सेल्सियस"
+  ],
+  "answer": 1,
+  "explanation": "Normal body temperature is about 37°C (98.6°F).",
+  "explanation_ne": "शरीरको सामान्य तापक्रम लगभग ३७ डिग्री सेल्सियस (९८.६ डिग्री फारेनहाइट) हुन्छ।",
+  "source": "Human biology"
+ },
+ {
+  "id": "HEALTH-008",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Human Body",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which organ helps digest food by producing bile?",
+  "question_ne": "कुन अंगले पित्त उत्पादन गरेर खाना पचाउन मद्दत गर्छ?",
+  "options": [
+   "Lung",
+   "Heart",
+   "Kidney",
+   "Liver"
+  ],
+  "options_ne": [
+   "फोक्सो",
+   "मुटु",
+   "मिर्गौला",
+   "कलेजो"
+  ],
+  "answer": 3,
+  "explanation": "The liver produces bile, which helps digest fats.",
+  "explanation_ne": "कलेजोले पित्त उत्पादन गर्छ, जसले बोसो पचाउन मद्दत गर्छ।",
+  "source": "Human biology"
+ },
+ {
+  "id": "HEALTH-009",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is caused by the bite of an infected female Anopheles mosquito?",
+  "question_ne": "संक्रमित पोथी एनोफिलिस लामखुट्टेको टोकाइबाट कुन रोग लाग्दछ?",
+  "options": [
+   "Cholera",
+   "Tuberculosis",
+   "Malaria",
+   "Diabetes"
+  ],
+  "options_ne": [
+   "हैजा",
+   "क्षयरोग",
+   "मलेरिया",
+   "मधुमेह"
+  ],
+  "answer": 2,
+  "explanation": "Malaria is transmitted by the bite of an infected female Anopheles mosquito.",
+  "explanation_ne": "मलेरिया संक्रमित पोथी एनोफिलिस लामखुट्टेको टोकाइबाट सर्छ।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-010",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease mainly affects the lungs and is caused by bacteria?",
+  "question_ne": "कुन रोग मुख्यतया फोक्सोलाई असर गर्छ र ब्याक्टेरियाको कारणले हुन्छ?",
+  "options": [
+   "Tuberculosis",
+   "Hypertension",
+   "Diabetes",
+   "Malaria"
+  ],
+  "options_ne": [
+   "क्षयरोग",
+   "उच्च रक्तचाप",
+   "मधुमेह",
+   "मलेरिया"
+  ],
+  "answer": 0,
+  "explanation": "Tuberculosis is a bacterial infection that most commonly affects the lungs.",
+  "explanation_ne": "क्षयरोग एक ब्याक्टेरिया संक्रमण हो जसले प्रायः फोक्सोलाई असर गर्छ।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-011",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is caused by contaminated water and causes severe diarrhoea?",
+  "question_ne": "दूषित पानीका कारण कुन रोग लाग्ने र कडा पखाला लाग्ने गर्छ?",
+  "options": [
+   "Diabetes",
+   "Cholera",
+   "Malaria",
+   "Asthma"
+  ],
+  "options_ne": [
+   "मधुमेह",
+   "हैजा",
+   "मलेरिया",
+   "दम"
+  ],
+  "answer": 1,
+  "explanation": "Cholera is a water-borne bacterial disease causing severe watery diarrhoea.",
+  "explanation_ne": "हैजा पानीबाट सर्ने ब्याक्टेरियाबाट हुने गम्भीर पखाला लाग्ने रोग हो।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-012",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which disease is characterised by high blood sugar?",
+  "question_ne": "रगतमा चिनीको मात्रा बढी हुनु भनेको कुन रोग हो?",
+  "options": [
+   "Cholera",
+   "Malaria",
+   "Tuberculosis",
+   "Diabetes"
+  ],
+  "options_ne": [
+   "हैजा",
+   "मलेरिया",
+   "क्षयरोग",
+   "मधुमेह"
+  ],
+  "answer": 3,
+  "explanation": "Diabetes is a condition in which blood sugar remains abnormally high.",
+  "explanation_ne": "मधुमेह एक अवस्था हो जसमा रगतमा चिनीको मात्रा असामान्य रूपमा उच्च रहन्छ।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-014",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is found in citrus fruits and helps prevent scurvy?",
+  "question_ne": "सिट्रस फलफूलमा कुन भिटामिन पाइन्छ र स्कर्भीलाई रोक्न मद्दत गर्छ?",
+  "options": [
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin D",
+   "Vitamin B12"
+  ],
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन ए",
+   "भिटामिन डी",
+   "भिटामिन B12"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin C is abundant in citrus fruits and its deficiency causes scurvy.",
+  "explanation_ne": "सिट्रस फलफूलमा भिटामिन सी प्रचुर मात्रामा पाइन्छ र यसको कमीले स्कर्भी निम्त्याउँछ।",
+  "source": "Nutrition"
+ },
+ {
+  "id": "HEALTH-015",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is important for good eyesight?",
+  "question_ne": "राम्रो आँखाको लागि कुन भिटामिन महत्त्वपूर्ण छ?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन बी",
+   "भिटामिन सी",
+   "भिटामिन डी"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin A is essential for vision, and its deficiency can cause night blindness.",
+  "explanation_ne": "भिटामिन ए दृष्टिको लागि आवश्यक छ, र यसको कमीले रातो अन्धोपन हुन सक्छ।",
+  "source": "Nutrition"
+ },
+ {
+  "id": "HEALTH-017",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which nutrient is needed for growth and repair of body tissues?",
+  "question_ne": "शरीरको तन्तुको वृद्धि र मर्मतका लागि कुन पोषक तत्व चाहिन्छ?",
+  "options": [
+   "Fat only",
+   "Carbohydrate",
+   "Vitamin only",
+   "Protein"
+  ],
+  "options_ne": [
+   "मोटो मात्र",
+   "कार्बोहाइड्रेट",
+   "भिटामिन मात्र",
+   "प्रोटिन"
+  ],
+  "answer": 3,
+  "explanation": "Protein builds and repairs muscles and other tissues.",
+  "explanation_ne": "प्रोटिनले मांसपेशी र अन्य तन्तुहरू निर्माण र मर्मत गर्दछ।",
+  "source": "Nutrition"
+ },
+ {
+  "id": "HEALTH-018",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mineral is needed to prevent anaemia?",
+  "question_ne": "रक्तअल्पता रोक्न कुन खनिज आवश्यक छ?",
+  "options": [
+   "Calcium",
+   "Sodium",
+   "Iron",
+   "Zinc"
+  ],
+  "options_ne": [
+   "क्याल्सियम",
+   "सोडियम",
+   "फलाम",
+   "जस्ता"
+  ],
+  "answer": 2,
+  "explanation": "Iron is needed to make haemoglobin; iron deficiency causes anaemia.",
+  "explanation_ne": "हेमोग्लोबिन बनाउन फलाम चाहिन्छ; फलामको कमीले एनीमिया निम्त्याउँछ।",
+  "source": "Nutrition"
+ },
+ {
+  "id": "HEALTH-019",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which mineral is needed for strong bones and teeth?",
+  "question_ne": "बलियो हड्डी र दाँत को लागी कुन खनिज आवश्यक छ?",
+  "options": [
+   "Iron",
+   "Sodium",
+   "Calcium",
+   "Potassium"
+  ],
+  "options_ne": [
+   "फलाम",
+   "सोडियम",
+   "क्याल्सियम",
+   "पोटासियम"
+  ],
+  "answer": 2,
+  "explanation": "Calcium is the main mineral in bones and teeth.",
+  "explanation_ne": "क्याल्सियम हड्डी र दाँत मा मुख्य खनिज हो।",
+  "source": "Nutrition"
+ },
+ {
+  "id": "HEALTH-020",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first step in first aid for a bleeding wound?",
+  "question_ne": "रक्तस्राव घाउको लागि प्राथमिक उपचारको पहिलो चरण के हो?",
+  "options": [
+   "Leave it uncovered",
+   "Give the person food",
+   "Pour hot water on it",
+   "Apply pressure to stop the bleeding"
+  ],
+  "options_ne": [
+   "यसलाई खुला छोड्नुहोस्",
+   "व्यक्तिलाई खाना दिनुहोस्",
+   "त्यसमा तातो पानी हाल्नुहोस्",
+   "रक्तस्राव रोक्न दबाब दिनुहोस्"
+  ],
+  "answer": 3,
+  "explanation": "Direct pressure helps control bleeding until proper care is available.",
+  "explanation_ne": "उचित हेरचाह उपलब्ध नभएसम्म प्रत्यक्ष दबाबले रक्तस्राव नियन्त्रण गर्न मद्दत गर्छ।",
+  "source": "First aid"
+ },
+ {
+  "id": "HEALTH-021",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should be done first for a person who has fainted?",
+  "question_ne": "बेहोस भएको व्यक्तिलाई पहिले के गर्नुपर्छ?",
+  "options": [
+   "Pour cold water on the face only",
+   "Make them stand up",
+   "Give them food at once",
+   "Lay them down and ensure fresh air"
+  ],
+  "options_ne": [
+   "अनुहारमा चिसो पानी मात्र हाल्नुहोस्",
+   "तिनीहरूलाई खडा बनाउनुहोस्",
+   "तिनीहरूलाई एकैचोटि खाना दिनुहोस्",
+   "तिनीहरूलाई तल राख्नुहोस् र ताजा हावा सुनिश्चित गर्नुहोस्"
+  ],
+  "answer": 3,
+  "explanation": "Lying the person down improves blood flow to the brain and helps recovery.",
+  "explanation_ne": "व्यक्तिलाई सुताउँदा मस्तिष्कमा रक्तसञ्चार सुधार हुन्छ र निको हुन मद्दत गर्छ।",
+  "source": "First aid"
+ },
+ {
+  "id": "HEALTH-022",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is CPR used for?",
+  "question_ne": "CPR के को लागी प्रयोग गरिन्छ?",
+  "options": [
+   "To treat a fracture",
+   "To stop bleeding from a cut",
+   "To reduce fever",
+   "To restore breathing and circulation in a person whose heart has stopped"
+  ],
+  "options_ne": [
+   "फ्र्याक्चरको उपचार गर्न",
+   "कटाईबाट रगत बग्ने रोक्नको लागि",
+   "ज्वरो कम गर्न",
+   "मुटु रोकिएको व्यक्तिमा सास फेर्न र रक्तसञ्चार पुनर्स्थापित गर्न"
+  ],
+  "answer": 3,
+  "explanation": "Cardiopulmonary resuscitation combines chest compressions and rescue breaths to keep blood and oxygen flowing.",
+  "explanation_ne": "कार्डियोपल्मोनरी पुनरुत्थानले रगत र अक्सिजन प्रवाह राख्नको लागि छाती कम्प्रेसन र उद्धार सास फेर्ने संयोजन गर्दछ।",
+  "source": "First aid"
+ },
+ {
+  "id": "HEALTH-023",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What should be done for a minor burn?",
+  "question_ne": "सानो जलेको लागि के गर्नुपर्छ?",
+  "options": [
+   "Cool it with clean cool water",
+   "Apply oil or butter",
+   "Cover it with a dirty cloth",
+   "Rub ice directly for a long time"
+  ],
+  "options_ne": [
+   "यसलाई सफा चिसो पानीले चिसो गर्नुहोस्",
+   "तेल वा मक्खन लागू गर्नुहोस्",
+   "यसलाई फोहोर कपडाले छोप्नुहोस्",
+   "लामो समयको लागि सीधा बरफ रगड्नुहोस्"
+  ],
+  "answer": 0,
+  "explanation": "Cool running water reduces pain and damage from a minor burn.",
+  "explanation_ne": "चिसो बग्ने पानीले दुखाइ र सानो आगोबाट हुने क्षतिलाई कम गर्छ।",
+  "source": "First aid"
+ },
+ {
+  "id": "HEALTH-024",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the most effective way to prevent the spread of germs?",
+  "question_ne": "कीटाणुहरूको फैलावट रोक्न सबैभन्दा प्रभावकारी तरिका के हो?",
+  "options": [
+   "Wearing gloves only",
+   "Using perfume",
+   "Washing hands with soap and clean water",
+   "Avoiding water"
+  ],
+  "options_ne": [
+   "पन्जा मात्र लगाएर",
+   "अत्तर प्रयोग गर्दै",
+   "साबुन र सफा पानीले हात धुने",
+   "पानीबाट बच्ने"
+  ],
+  "answer": 2,
+  "explanation": "Handwashing with soap removes germs and prevents many infections.",
+  "explanation_ne": "साबुन पानीले हात धुँदा कीटाणु हट्छ र धेरै संक्रमणबाट बच्न सकिन्छ।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-025",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Why should drinking water be purified?",
+  "question_ne": "पिउने पानी किन शुद्ध हुनुपर्छ?",
+  "options": [
+   "To change its colour",
+   "To make it cold",
+   "To remove germs and make it safe to drink",
+   "To make it taste sweet"
+  ],
+  "options_ne": [
+   "यसको रंग परिवर्तन गर्न",
+   "चिसो बनाउन",
+   "कीटाणु हटाउन र यसलाई पिउन सुरक्षित बनाउन",
+   "यसको स्वाद मीठो बनाउन"
+  ],
+  "answer": 2,
+  "explanation": "Purifying water by boiling, filtering or chlorination kills germs that cause disease.",
+  "explanation_ne": "पानीलाई उमालेर, फिल्टर गरेर वा क्लोरिनेशन गरेर शुद्ध गर्नाले रोग लाग्ने कीटाणुहरूलाई मार्छ।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-026",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main role of a Female Community Health Volunteer (FCHV) in Nepal?",
+  "question_ne": "नेपालमा महिला सामुदायिक स्वास्थ्य स्वयंसेविका (FCHV) को मुख्य भूमिका के हो?",
+  "options": [
+   "Providing basic health services and health education in the community",
+   "Running a private clinic",
+   "Prescribing all medicines",
+   "Performing surgery in hospitals"
+  ],
+  "options_ne": [
+   "समुदायमा आधारभूत स्वास्थ्य सेवा र स्वास्थ्य शिक्षा प्रदान गर्ने",
+   "निजी क्लिनिक चलाउने",
+   "सबै औषधिहरू प्रिस्क्राइब गर्दै",
+   "अस्पतालमा शल्यक्रिया गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "FCHVs are community volunteers who give health education, distribute basic supplies and refer patients.",
+  "explanation_ne": "FCHV हरू सामुदायिक स्वयंसेवकहरू हुन् जसले स्वास्थ्य शिक्षा दिन्छन्, आधारभूत आपूर्तिहरू वितरण गर्छन् र बिरामीहरूलाई रेफर गर्छन्।",
+  "source": "Health in Nepal"
+ },
+ {
+  "id": "HEALTH-027",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a health post in Nepal?",
+  "question_ne": "नेपालमा स्वास्थ्य चौकी के हो?",
+  "options": [
+   "A private pharmacy",
+   "A large teaching hospital",
+   "A blood bank only",
+   "The basic government health facility serving a rural community"
+  ],
+  "options_ne": [
+   "एक निजी फार्मेसी",
+   "ठूलो शिक्षण अस्पताल",
+   "ब्लड बैंक मात्र",
+   "ग्रामीण समुदायको सेवा गर्ने आधारभूत सरकारी स्वास्थ्य सुविधा"
+  ],
+  "answer": 3,
+  "explanation": "A health post is the first-level government health institution providing basic care in rural areas.",
+  "explanation_ne": "स्वास्थ्य चौकी ग्रामीण क्षेत्रमा आधारभूत हेरचाह प्रदान गर्ने पहिलो स्तरको सरकारी स्वास्थ्य संस्था हो।",
+  "source": "Health in Nepal"
+ },
+ {
+  "id": "HEALTH-028",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which service is commonly provided at a health post?",
+  "question_ne": "स्वास्थ्य चौकीमा सामान्यतया कुन सेवा प्रदान गरिन्छ?",
+  "options": [
+   "Major surgery",
+   "CT scanning",
+   "Dialysis",
+   "Immunisation and basic treatment"
+  ],
+  "options_ne": [
+   "प्रमुख शल्यक्रिया",
+   "सीटी स्क्यानिङ",
+   "डायलासिस",
+   "खोप र आधारभूत उपचार"
+  ],
+  "answer": 3,
+  "explanation": "Health posts provide immunisation, family planning, basic treatment and referral.",
+  "explanation_ne": "स्वास्थ्य पोस्टहरूले खोप, परिवार नियोजन, आधारभूत उपचार र रेफरल प्रदान गर्दछ।",
+  "source": "Health in Nepal"
+ },
+ {
+  "id": "HEALTH-029",
+  "exam": [
+   "engineering",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is essential for blood clotting?",
+  "question_ne": "रगत जम्नका लागि कुन भिटामिन आवश्यक छ?",
+  "options": [
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin K",
+   "Vitamin A"
+  ],
+  "options_ne": [
+   "भिटामिन डी",
+   "भिटामिन सी",
+   "भिटामिन के",
+   "भिटामिन ए"
+  ],
+  "answer": 2,
+  "explanation": "Vitamin K is needed to make the proteins that help blood clot.",
+  "explanation_ne": "रगत जम्न मद्दत गर्ने प्रोटिन बनाउन भिटामिन K आवश्यक हुन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-030",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which instrument is used to measure electric current?",
+  "question_ne": "विद्युत प्रवाह नाप्न कुन यन्त्र प्रयोग गरिन्छ?",
+  "options": [
+   "Voltmeter",
+   "Ohmmeter",
+   "Ammeter",
+   "Barometer"
+  ],
+  "options_ne": [
+   "भोल्टमिटर",
+   "ओममिटर",
+   "एमिटर",
+   "ब्यारोमिटर"
+  ],
+  "answer": 2,
+  "explanation": "An ammeter measures electric current in amperes.",
+  "explanation_ne": "एमिटरले एम्पियरमा विद्युतीय प्रवाह नाप्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-031",
+  "exam": [
+   "engineering",
+   "csit-entrance",
+   "ioe-entrance",
+   "mecee-bl",
+   "nec-licence"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of power?",
+  "question_ne": "शक्तिको SI एकाइ के हो?",
+  "options": [
+   "Volt",
+   "Newton",
+   "Joule",
+   "Watt"
+  ],
+  "options_ne": [
+   "भोल्ट",
+   "न्यूटन",
+   "जुल",
+   "वाट"
+  ],
+  "answer": 3,
+  "explanation": "Power, the rate of doing work, is measured in watts.",
+  "explanation_ne": "शक्ति, काम गर्ने दर, वाट मा मापन गरिन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-032",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Electricity Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to Ohm's law, V = IR, what does V stand for?",
+  "question_ne": "ओमको नियम अनुसार, V = IR, V भनेको के हो?",
+  "options": [
+   "Resistance",
+   "Voltage",
+   "Current",
+   "Power"
+  ],
+  "options_ne": [
+   "प्रतिरोध",
+   "भोल्टेज",
+   "वर्तमान",
+   "शक्ति"
+  ],
+  "answer": 1,
+  "explanation": "In Ohm's law, V is voltage, I is current and R is resistance.",
+  "explanation_ne": "ओमको नियममा, V भोल्टेज हो, I विद्युत् हो र R प्रतिरोध हो।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-033",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Electricity Basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a current of 2 A flows through a resistor of 5 ohms, what is the voltage?",
+  "question_ne": "यदि २ A को प्रवाह ५ ohms को प्रतिरोधक मार्फत बग्छ भने, भोल्टेज के हो?",
+  "options": [
+   "10 V",
+   "7 V",
+   "25 V",
+   "2.5 V"
+  ],
+  "options_ne": [
+   "१० वी",
+   "७ वि",
+   "२५ वी",
+   "२.५ V"
+  ],
+  "answer": 0,
+  "explanation": "V = IR = 2 x 5 = 10 volts.",
+  "explanation_ne": "V = IR = 2 x 5 = 10 भोल्ट।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-034",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Electricity Basics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of resistance?",
+  "question_ne": "प्रतिरोध को SI एकाई के हो?",
+  "options": [
+   "Ohm",
+   "Watt",
+   "Volt",
+   "Ampere"
+  ],
+  "options_ne": [
+   "ओम",
+   "वाट",
+   "भोल्ट",
+   "एम्पीयर"
+  ],
+  "answer": 0,
+  "explanation": "Electrical resistance is measured in ohms.",
+  "explanation_ne": "विद्युतीय प्रतिरोध ohms मा मापन गरिन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-035",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Simple Machines",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a simple machine?",
+  "question_ne": "तलका मध्ये एउटा साधारण मेसिन कुन हो?",
+  "options": [
+   "Bulb",
+   "Battery",
+   "Lever",
+   "Wire"
+  ],
+  "options_ne": [
+   "बल्ब",
+   "ब्याट्री",
+   "लीभर",
+   "तार"
+  ],
+  "answer": 2,
+  "explanation": "A lever is a simple machine that helps lift or move a load with less effort.",
+  "explanation_ne": "लिभर एक साधारण मेसिन हो जसले कम प्रयासमा लोड उठाउन वा सार्न मद्दत गर्दछ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-036",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Simple Machines",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which simple machine is used to lift water from a well?",
+  "question_ne": "इनारबाट पानी उठाउन कुन साधारण मेसिन प्रयोग गरिन्छ?",
+  "options": [
+   "Wedge",
+   "Screw",
+   "Inclined plane",
+   "Pulley"
+  ],
+  "options_ne": [
+   "वेज",
+   "पेंच",
+   "झुकाव विमान",
+   "पुली"
+  ],
+  "answer": 3,
+  "explanation": "A pulley changes the direction of force and is used to lift loads such as a bucket from a well.",
+  "explanation_ne": "पुलीले बलको दिशा परिवर्तन गर्छ र कुवाबाट बाल्टिन जस्ता भारहरू उठाउन प्रयोग गरिन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-037",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of length?",
+  "question_ne": "लम्बाइको SI एकाइ के हो?",
+  "options": [
+   "Litre",
+   "Kilogram",
+   "Metre",
+   "Second"
+  ],
+  "options_ne": [
+   "लिटर",
+   "किलोग्राम",
+   "मिटर",
+   "दोस्रो"
+  ],
+  "answer": 2,
+  "explanation": "Length is measured in metres in the SI system.",
+  "explanation_ne": "SI प्रणालीमा लम्बाइ मिटरमा नापिन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-038",
+  "exam": [
+   "engineering"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of mass?",
+  "question_ne": "पिण्डको SI एकाइ के हो?",
+  "options": [
+   "Metre",
+   "Kilogram",
+   "Newton",
+   "Second"
+  ],
+  "options_ne": [
+   "मिटर",
+   "किलोग्राम",
+   "न्यूटन",
+   "दोस्रो"
+  ],
+  "answer": 1,
+  "explanation": "Mass is measured in kilograms in the SI system.",
+  "explanation_ne": "SI प्रणालीमा मास किलोग्राममा नापिन्छ।",
+  "source": "Science"
+ },
+ {
+  "id": "HEALTH-039",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which disease is spread by contaminated food or water and causes typhoid?",
+  "question_ne": "दूषित खाना वा पानीबाट सर्ने र टाइफाइड हुने रोग कुन हो?",
+  "options": [
+   "Malaria",
+   "Typhoid fever",
+   "Asthma",
+   "Diabetes"
+  ],
+  "options_ne": [
+   "मलेरिया",
+   "टाइफाइड ज्वरो",
+   "दम",
+   "मधुमेह"
+  ],
+  "answer": 1,
+  "explanation": "Typhoid is a bacterial disease spread through contaminated food and water.",
+  "explanation_ne": "टाइफाइड दूषित खाना र पानीबाट सर्ने ब्याक्टेरियाबाट हुने रोग हो।",
+  "source": "Health"
+ },
+ {
+  "id": "HEALTH-040",
+  "exam": [
+   "health",
+   "police",
+   "army"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Why is a balanced diet important?",
+  "question_ne": "सन्तुलित आहार किन महत्त्वपूर्ण छ?",
+  "options": [
+   "It provides all nutrients in the right amounts for health and growth",
+   "It reduces the need for water",
+   "It makes food tasty only",
+   "It replaces exercise"
+  ],
+  "options_ne": [
+   "यसले स्वास्थ्य र वृद्धिको लागि सही मात्रामा सबै पोषक तत्वहरू प्रदान गर्दछ",
+   "यसले पानीको आवश्यकतालाई कम गर्छ",
+   "यसले खानालाई मात्र स्वादिलो बनाउँछ",
+   "यसले व्यायामलाई प्रतिस्थापन गर्छ"
+  ],
+  "answer": 0,
+  "explanation": "A balanced diet supplies carbohydrates, protein, fats, vitamins and minerals in proper proportions.",
+  "explanation_ne": "सन्तुलित आहारले कार्बोहाइड्रेट, प्रोटिन, बोसो, भिटामिन र खनिजहरू उचित अनुपातमा उपलब्ध गराउँछ।",
+  "source": "Nutrition"
+ }
+]
