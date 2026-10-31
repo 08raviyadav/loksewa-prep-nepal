@@ -1,0 +1,6326 @@
+[
+ {
+  "id": "ENG-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "She ___ to school every day.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: She ___ to school every day.",
+  "options": [
+   "go",
+   "gone",
+   "goes",
+   "going"
+  ],
+  "options_ne": [
+   "go",
+   "gone",
+   "goes",
+   "going"
+  ],
+  "answer": 2,
+  "explanation": "With he, she or it in the simple present, the verb takes -s.",
+  "explanation_ne": "Simple present मा he, she, it सँग क्रियामा -s थपिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "They ___ football yesterday.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: They ___ football yesterday.",
+  "options": [
+   "playing",
+   "played",
+   "plays",
+   "play"
+  ],
+  "options_ne": [
+   "playing",
+   "played",
+   "plays",
+   "play"
+  ],
+  "answer": 1,
+  "explanation": "Yesterday shows simple past, so the verb is played.",
+  "explanation_ne": "Yesterday ले simple past देखाउँछ, त्यसैले क्रिया played हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "I ___ my homework now.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I ___ my homework now.",
+  "options": [
+   "do",
+   "did",
+   "does",
+   "am doing"
+  ],
+  "options_ne": [
+   "do",
+   "did",
+   "does",
+   "am doing"
+  ],
+  "answer": 3,
+  "explanation": "Now shows an action in progress, so the present continuous is used.",
+  "explanation_ne": "Now ले भइरहेको कार्य देखाउँछ, त्यसैले present continuous प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "He has ___ in Kathmandu for five years.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He has ___ in Kathmandu for five years.",
+  "options": [
+   "live",
+   "living",
+   "lives",
+   "lived"
+  ],
+  "options_ne": [
+   "live",
+   "living",
+   "lives",
+   "lived"
+  ],
+  "answer": 3,
+  "explanation": "Has is followed by the past participle lived.",
+  "explanation_ne": "Has पछि past participle lived आउँछ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Water ___ at 100 degrees Celsius.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Water ___ at 100 degrees Celsius.",
+  "options": [
+   "boil",
+   "boiled",
+   "boils",
+   "boiling"
+  ],
+  "options_ne": [
+   "boil",
+   "boiled",
+   "boils",
+   "boiling"
+  ],
+  "answer": 2,
+  "explanation": "A general scientific fact uses the simple present with -s for water.",
+  "explanation_ne": "सामान्य वैज्ञानिक तथ्यमा simple present प्रयोग हुन्छ; water सँग क्रियामा -s थपिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Look! It ___ raining.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Look! It ___ raining.",
+  "options": [
+   "are",
+   "were",
+   "was",
+   "is"
+  ],
+  "options_ne": [
+   "are",
+   "were",
+   "was",
+   "is"
+  ],
+  "answer": 3,
+  "explanation": "Look shows an action happening now, so is raining is correct.",
+  "explanation_ne": "Look! ले अहिले भइरहेको कार्य देखाउँछ, त्यसैले is raining सही छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "I ___ television when he called.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I ___ television when he called.",
+  "options": [
+   "watched",
+   "was watching",
+   "watch",
+   "am watching"
+  ],
+  "options_ne": [
+   "watched",
+   "was watching",
+   "watch",
+   "am watching"
+  ],
+  "answer": 1,
+  "explanation": "The past continuous was watching describes the longer action interrupted by the call.",
+  "explanation_ne": "Past continuous was watching ले कलले अवरुद्ध गरेको लामो कार्य वर्णन गर्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "She has never ___ to Pokhara.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: She has never ___ to Pokhara.",
+  "options": [
+   "being",
+   "been",
+   "be",
+   "is"
+  ],
+  "options_ne": [
+   "being",
+   "been",
+   "be",
+   "is"
+  ],
+  "answer": 1,
+  "explanation": "Has is followed by the past participle been.",
+  "explanation_ne": "Has पछि past participle been आउँछ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "They will ___ tomorrow.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: They will ___ tomorrow.",
+  "options": [
+   "coming",
+   "came",
+   "come",
+   "comes"
+  ],
+  "options_ne": [
+   "coming",
+   "came",
+   "come",
+   "comes"
+  ],
+  "answer": 2,
+  "explanation": "Will is followed by the base form come.",
+  "explanation_ne": "Will पछि base form come आउँछ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By next year, she ___ her degree.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: By next year, she ___ her degree.",
+  "options": [
+   "will have completed",
+   "completed",
+   "completes",
+   "will complete"
+  ],
+  "options_ne": [
+   "will have completed",
+   "completed",
+   "completes",
+   "will complete"
+  ],
+  "answer": 0,
+  "explanation": "By next year with a completed action calls for the future perfect.",
+  "explanation_ne": "By next year सम्म पूरा हुने कार्यका लागि future perfect प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Neither of the boys ___ come yet.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Neither of the boys ___ come yet.",
+  "options": [
+   "has",
+   "are",
+   "were",
+   "have"
+  ],
+  "options_ne": [
+   "has",
+   "are",
+   "were",
+   "have"
+  ],
+  "answer": 0,
+  "explanation": "Neither takes a singular verb, so has is correct.",
+  "explanation_ne": "Neither ले एकवचन क्रिया लिन्छ, त्यसैले has सही छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "computer-operator",
+   "nrb-assistant",
+   "rbb",
+   "tsc-secondary"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One of my friends ___ a doctor.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: One of my friends ___ a doctor.",
+  "options": [
+   "is",
+   "were",
+   "are",
+   "have been"
+  ],
+  "options_ne": [
+   "is",
+   "were",
+   "are",
+   "have been"
+  ],
+  "answer": 0,
+  "explanation": "One of takes a singular verb, so is is correct.",
+  "explanation_ne": "One of ले एकवचन क्रिया लिन्छ, त्यसैले is सही छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Physics ___ a difficult subject.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Physics ___ a difficult subject.",
+  "options": [
+   "have",
+   "were",
+   "is",
+   "are"
+  ],
+  "options_ne": [
+   "have",
+   "were",
+   "is",
+   "are"
+  ],
+  "answer": 2,
+  "explanation": "Physics is a singular school subject, so it takes is.",
+  "explanation_ne": "Physics एकवचन विषय हो, त्यसैले यसले is लिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bread and butter ___ my favourite breakfast.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Bread and butter ___ my favourite breakfast.",
+  "options": [
+   "have",
+   "were",
+   "is",
+   "are"
+  ],
+  "options_ne": [
+   "have",
+   "were",
+   "is",
+   "are"
+  ],
+  "answer": 2,
+  "explanation": "Bread and butter is treated as one item here, so it takes is.",
+  "explanation_ne": "Bread and butter लाई एउटै वस्तु मानिन्छ, त्यसैले यसले is लिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Neither Ram nor Shyam ___ present today.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: Neither Ram nor Shyam ___ present today.",
+  "options": [
+   "were",
+   "are",
+   "is",
+   "have"
+  ],
+  "options_ne": [
+   "were",
+   "are",
+   "is",
+   "have"
+  ],
+  "answer": 2,
+  "explanation": "With neither-nor, the verb agrees with the nearer subject Shyam, which is singular.",
+  "explanation_ne": "Neither-nor मा क्रिया नजिकको कर्ता Shyam सँग मिल्छ; Shyam एकवचन भएकाले is हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The team ___ playing well today.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: The team ___ playing well today.",
+  "options": [
+   "is",
+   "have",
+   "were",
+   "are"
+  ],
+  "options_ne": [
+   "is",
+   "have",
+   "were",
+   "are"
+  ],
+  "answer": 0,
+  "explanation": "Team as one unit takes the singular verb is.",
+  "explanation_ne": "Team लाई एउटा एकाइ मान्दा एकवचन क्रिया is हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "ioe-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "___ sun rises in the east.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: ___ sun rises in the east.",
+  "options": [
+   "A",
+   "No article",
+   "An",
+   "The"
+  ],
+  "options_ne": [
+   "A",
+   "No article",
+   "An",
+   "The"
+  ],
+  "answer": 3,
+  "explanation": "The sun is unique, so the definite article the is used.",
+  "explanation_ne": "The sun अद्वितीय छ, त्यसैले definite article the प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "I saw ___ elephant at the zoo.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I saw ___ elephant at the zoo.",
+  "options": [
+   "an",
+   "no article",
+   "a",
+   "the"
+  ],
+  "options_ne": [
+   "an",
+   "no article",
+   "a",
+   "the"
+  ],
+  "answer": 0,
+  "explanation": "An is used before a vowel sound, as in elephant.",
+  "explanation_ne": "An स्वर ध्वनिअघि प्रयोग हुन्छ, जस्तै elephant।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "computer-operator",
+   "foreign-service",
+   "nrb-assistant",
+   "rbb",
+   "tsc-secondary"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "She plays ___ piano very well.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: She plays ___ piano very well.",
+  "options": [
+   "no article",
+   "an",
+   "the",
+   "a"
+  ],
+  "options_ne": [
+   "no article",
+   "an",
+   "the",
+   "a"
+  ],
+  "answer": 2,
+  "explanation": "The is used with musical instruments.",
+  "explanation_ne": "The वाद्ययन्त्र (musical instruments) सँग प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "He is ___ university student.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He is ___ university student.",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "options_ne": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "answer": 1,
+  "explanation": "A is used before university because it starts with a consonant sound, yoo.",
+  "explanation_ne": "University व्यञ्जन ध्वनि (yoo) बाट सुरु हुने भएकाले A प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "___ Ganga is a holy river.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: ___ Ganga is a holy river.",
+  "options": [
+   "An",
+   "No article",
+   "The",
+   "A"
+  ],
+  "options_ne": [
+   "An",
+   "No article",
+   "The",
+   "A"
+  ],
+  "answer": 2,
+  "explanation": "The is used before the names of rivers.",
+  "explanation_ne": "The नदीहरूका नामअघि प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "I need ___ umbrella because it is raining.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I need ___ umbrella because it is raining.",
+  "options": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "options_ne": [
+   "the",
+   "a",
+   "an",
+   "no article"
+  ],
+  "answer": 2,
+  "explanation": "An is used before a vowel sound, as in umbrella.",
+  "explanation_ne": "An स्वर ध्वनिअघि प्रयोग हुन्छ, जस्तै umbrella।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "___ apple a day keeps the doctor away.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: ___ apple a day keeps the doctor away.",
+  "options": [
+   "The",
+   "An",
+   "A",
+   "No article"
+  ],
+  "options_ne": [
+   "The",
+   "An",
+   "A",
+   "No article"
+  ],
+  "answer": 1,
+  "explanation": "An is used before a vowel sound, as in apple.",
+  "explanation_ne": "An स्वर ध्वनिअघि प्रयोग हुन्छ, जस्तै apple।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "She is ___ best student in the class.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: She is ___ best student in the class.",
+  "options": [
+   "the",
+   "an",
+   "a",
+   "no article"
+  ],
+  "options_ne": [
+   "the",
+   "an",
+   "a",
+   "no article"
+  ],
+  "answer": 0,
+  "explanation": "The is used before a superlative, best.",
+  "explanation_ne": "The superlative (best) अघि प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "I am interested ___ music.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I am interested ___ music.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "for"
+  ],
+  "options_ne": [
+   "on",
+   "in",
+   "at",
+   "for"
+  ],
+  "answer": 1,
+  "explanation": "The correct collocation is interested in.",
+  "explanation_ne": "सही collocation interested in हो।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "He is good ___ English.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He is good ___ English.",
+  "options": [
+   "at",
+   "for",
+   "in",
+   "on"
+  ],
+  "options_ne": [
+   "at",
+   "for",
+   "in",
+   "on"
+  ],
+  "answer": 0,
+  "explanation": "The correct collocation is good at.",
+  "explanation_ne": "सही collocation good at हो।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "We depend ___ our parents.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: We depend ___ our parents.",
+  "options": [
+   "on",
+   "in",
+   "for",
+   "at"
+  ],
+  "options_ne": [
+   "on",
+   "in",
+   "for",
+   "at"
+  ],
+  "answer": 0,
+  "explanation": "The correct collocation is depend on.",
+  "explanation_ne": "सही collocation depend on हो।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "He arrived ___ Kathmandu yesterday.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He arrived ___ Kathmandu yesterday.",
+  "options": [
+   "at",
+   "to",
+   "on",
+   "in"
+  ],
+  "options_ne": [
+   "at",
+   "to",
+   "on",
+   "in"
+  ],
+  "answer": 3,
+  "explanation": "In is used with a large place such as a city.",
+  "explanation_ne": "In ठूलो ठाउँ, जस्तै शहरसँग प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "He arrived ___ the station at 7 o'clock.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He arrived ___ the station at ७ o'clock.",
+  "options": [
+   "to",
+   "in",
+   "on",
+   "at"
+  ],
+  "options_ne": [
+   "to",
+   "in",
+   "on",
+   "at"
+  ],
+  "answer": 3,
+  "explanation": "At is used with a small, specific place such as a station.",
+  "explanation_ne": "At सानो, निश्चित ठाउँ, जस्तै stationसँग प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "I am fond ___ reading books.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: I am fond ___ reading books.",
+  "options": [
+   "of",
+   "in",
+   "at",
+   "for"
+  ],
+  "options_ne": [
+   "of",
+   "in",
+   "at",
+   "for"
+  ],
+  "answer": 0,
+  "explanation": "The correct collocation is fond of.",
+  "explanation_ne": "सही collocation fond of हो।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "He goes to school ___ bus.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: He goes to school ___ bus.",
+  "options": [
+   "with",
+   "on",
+   "by",
+   "in"
+  ],
+  "options_ne": [
+   "with",
+   "on",
+   "by",
+   "in"
+  ],
+  "answer": 2,
+  "explanation": "By is used with a means of transport without an article.",
+  "explanation_ne": "By यातायातको साधनसँग article बिना प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The class starts ___ Monday.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: The class starts ___ Monday.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "for"
+  ],
+  "options_ne": [
+   "in",
+   "at",
+   "on",
+   "for"
+  ],
+  "answer": 2,
+  "explanation": "On is used with days of the week.",
+  "explanation_ne": "On हप्ताका दिनहरूसँग प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "She was born ___ 2010.",
+  "question_ne": "खाली ठाउँमा सही विकल्प छान्नुहोस्: She was born ___ २०१०.",
+  "options": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "options_ne": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "answer": 1,
+  "explanation": "In is used with a year.",
+  "explanation_ne": "In वर्षसँग प्रयोग हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: Ram wrote a letter.",
+  "question_ne": "सही passive रूप छान्नुहोस्: Ram wrote a letter।",
+  "options": [
+   "A letter is written by Ram.",
+   "A letter was written by Ram.",
+   "A letter is being written by Ram.",
+   "A letter was wrote by Ram."
+  ],
+  "options_ne": [
+   "A letter is written by Ram.",
+   "A letter was written by Ram.",
+   "A letter is being written by Ram.",
+   "A letter was wrote by Ram."
+  ],
+  "answer": 1,
+  "explanation": "Wrote is simple past, so the passive is was written.",
+  "explanation_ne": "Wrote simple past हो, त्यसैले passive was written हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: She is singing a song.",
+  "question_ne": "सही passive रूप छान्नुहोस्: She is singing a song।",
+  "options": [
+   "A song is being sung by her.",
+   "A song is sung by her.",
+   "A song has been sung by her.",
+   "A song was sung by her."
+  ],
+  "options_ne": [
+   "A song is being sung by her.",
+   "A song is sung by her.",
+   "A song has been sung by her.",
+   "A song was sung by her."
+  ],
+  "answer": 0,
+  "explanation": "Is singing is present continuous, so the passive is is being sung.",
+  "explanation_ne": "Is singing present continuous हो, त्यसैले passive is being sung हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: They will build a new bridge.",
+  "question_ne": "सही passive रूप छान्नुहोस्: They will build a new bridge।",
+  "options": [
+   "A new bridge will be built by them.",
+   "A new bridge was built by them.",
+   "A new bridge is built by them.",
+   "A new bridge will build by them."
+  ],
+  "options_ne": [
+   "A new bridge will be built by them.",
+   "A new bridge was built by them.",
+   "A new bridge is built by them.",
+   "A new bridge will build by them."
+  ],
+  "answer": 0,
+  "explanation": "Will build becomes will be built in the passive.",
+  "explanation_ne": "Will build को passive will be built हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: Open the door.",
+  "question_ne": "सही passive रूप छान्नुहोस्: Open the door।",
+  "options": [
+   "Let the door be opened.",
+   "The door is opened.",
+   "Let the door opened.",
+   "The door was opened."
+  ],
+  "options_ne": [
+   "Let the door be opened.",
+   "The door is opened.",
+   "Let the door opened.",
+   "The door was opened."
+  ],
+  "answer": 0,
+  "explanation": "An imperative becomes Let plus be plus the past participle.",
+  "explanation_ne": "Imperative को passive Let + be + past participle हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: Someone stole my bicycle.",
+  "question_ne": "सही passive रूप छान्नुहोस्: Someone stole my bicycle।",
+  "options": [
+   "My bicycle was stolen.",
+   "My bicycle is stolen.",
+   "My bicycle was stole.",
+   "My bicycle has stolen."
+  ],
+  "options_ne": [
+   "My bicycle was stolen.",
+   "My bicycle is stolen.",
+   "My bicycle was stole.",
+   "My bicycle has stolen."
+  ],
+  "answer": 0,
+  "explanation": "Stole is simple past, so the passive is was stolen.",
+  "explanation_ne": "Stole simple past हो, त्यसैले passive was stolen हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: He teaches English.",
+  "question_ne": "सही passive रूप छान्नुहोस्: He teaches English।",
+  "options": [
+   "English was taught by him.",
+   "English teaches by him.",
+   "English is taught by him.",
+   "English is teaching by him."
+  ],
+  "options_ne": [
+   "English was taught by him.",
+   "English teaches by him.",
+   "English is taught by him.",
+   "English is teaching by him."
+  ],
+  "answer": 2,
+  "explanation": "Teaches is simple present, so the passive is is taught.",
+  "explanation_ne": "Teaches simple present हो, त्यसैले passive is taught हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: We have completed the work.",
+  "question_ne": "सही passive रूप छान्नुहोस्: We have completed the work।",
+  "options": [
+   "The work was completed by us.",
+   "The work has been completed by us.",
+   "The work is completed by us.",
+   "The work has completed by us."
+  ],
+  "options_ne": [
+   "The work was completed by us.",
+   "The work has been completed by us.",
+   "The work is completed by us.",
+   "The work has completed by us."
+  ],
+  "answer": 1,
+  "explanation": "Have completed is present perfect, so the passive is has been completed.",
+  "explanation_ne": "Have completed present perfect हो, त्यसैले passive has been completed हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct passive form: The cat chased the mouse.",
+  "question_ne": "सही passive रूप छान्नुहोस्: The cat chased the mouse।",
+  "options": [
+   "The mouse has been chased by the cat.",
+   "The mouse chased the cat.",
+   "The mouse was chased by the cat.",
+   "The mouse is chased by the cat."
+  ],
+  "options_ne": [
+   "The mouse has been chased by the cat.",
+   "The mouse chased the cat.",
+   "The mouse was chased by the cat.",
+   "The mouse is chased by the cat."
+  ],
+  "answer": 2,
+  "explanation": "Chased is simple past, so the passive is was chased.",
+  "explanation_ne": "Chased simple past हो, त्यसैले passive was chased हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "computer-operator",
+   "nrb-assistant",
+   "rbb",
+   "tsc-secondary"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "He said, 'I am happy.' Choose the correct indirect speech.",
+  "question_ne": "सही indirect speech छान्नुहोस्: He said, 'I am happy.'",
+  "options": [
+   "He said that he will be happy.",
+   "He said that he was happy.",
+   "He said that he had been happy.",
+   "He said that he is happy."
+  ],
+  "options_ne": [
+   "He said that he will be happy.",
+   "He said that he was happy.",
+   "He said that he had been happy.",
+   "He said that he is happy."
+  ],
+  "answer": 1,
+  "explanation": "In indirect speech, am changes to was when the reporting verb is in the past.",
+  "explanation_ne": "Indirect speech मा reporting verb भूतकालमा हुँदा am was मा बदलिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ram said to me, 'Are you coming?' Choose the correct indirect speech.",
+  "question_ne": "सही indirect speech छान्नुहोस्: Ram said to me, 'Are you coming?'",
+  "options": [
+   "Ram asked me are you coming.",
+   "Ram told me if I was coming.",
+   "Ram asked me that I was coming.",
+   "Ram asked me if I was coming."
+  ],
+  "options_ne": [
+   "Ram asked me are you coming.",
+   "Ram told me if I was coming.",
+   "Ram asked me that I was coming.",
+   "Ram asked me if I was coming."
+  ],
+  "answer": 3,
+  "explanation": "A yes-no question becomes asked plus if, with the question form changed to a statement.",
+  "explanation_ne": "हो-होइन प्रश्न asked + if हुन्छ र प्रश्नको रूप कथनमा बदलिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "He said, 'I have finished my work.' Choose the correct indirect speech.",
+  "question_ne": "सही indirect speech छान्नुहोस्: He said, 'I have finished my work.'",
+  "options": [
+   "He said that he finished his work.",
+   "He said that he had finished his work.",
+   "He said that he has finished his work.",
+   "He said that he will finish his work."
+  ],
+  "options_ne": [
+   "He said that he finished his work.",
+   "He said that he had finished his work.",
+   "He said that he has finished his work.",
+   "He said that he will finish his work."
+  ],
+  "answer": 1,
+  "explanation": "Have finished changes to had finished in indirect speech.",
+  "explanation_ne": "Indirect speech मा have finished had finished मा बदलिन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The teacher said, 'Open your books.' Choose the correct indirect speech.",
+  "question_ne": "सही indirect speech छान्नुहोस्: The teacher said, 'Open your books.'",
+  "options": [
+   "The teacher asked open your books.",
+   "The teacher said that open your books.",
+   "The teacher said to open your books.",
+   "The teacher told the students to open their books."
+  ],
+  "options_ne": [
+   "The teacher asked open your books.",
+   "The teacher said that open your books.",
+   "The teacher said to open your books.",
+   "The teacher told the students to open their books."
+  ],
+  "answer": 3,
+  "explanation": "An imperative in indirect speech uses told plus to plus the base verb.",
+  "explanation_ne": "Indirect speech मा imperative told + to + base verb हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "She said, 'Where do you live?' Choose the correct indirect speech.",
+  "question_ne": "सही indirect speech छान्नुहोस्: She said, 'Where do you live?'",
+  "options": [
+   "She asked where do I live.",
+   "She asked where did I live.",
+   "She asked that where I live.",
+   "She asked where I lived."
+  ],
+  "options_ne": [
+   "She asked where do I live.",
+   "She asked where did I live.",
+   "She asked that where I live.",
+   "She asked where I lived."
+  ],
+  "answer": 3,
+  "explanation": "A wh-question keeps the wh-word and changes to statement word order with the past tense.",
+  "explanation_ne": "Wh-question मा wh-word यथावत् रहन्छ र शब्दक्रम कथनको जस्तो हुन्छ, भूतकालमा।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service",
+   "ioe-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of happy.",
+  "question_ne": "‘happy’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Joyful",
+   "Angry",
+   "Sad",
+   "Tired"
+  ],
+  "options_ne": [
+   "Joyful",
+   "Angry",
+   "Sad",
+   "Tired"
+  ],
+  "answer": 0,
+  "explanation": "Joyful means full of joy, the same as happy.",
+  "explanation_ne": "Joyful भनेको आनन्दले भरिएको हो, happy जस्तै।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service",
+   "ioe-entrance",
+   "police"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of brave.",
+  "question_ne": "‘brave’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Fearful",
+   "Courageous",
+   "Weak",
+   "Cowardly"
+  ],
+  "options_ne": [
+   "Fearful",
+   "Courageous",
+   "Weak",
+   "Cowardly"
+  ],
+  "answer": 1,
+  "explanation": "Courageous means brave.",
+  "explanation_ne": "Courageous को अर्थ brave।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of fast.",
+  "question_ne": "‘fast’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Slow",
+   "Weak",
+   "Late",
+   "Quick"
+  ],
+  "options_ne": [
+   "Slow",
+   "Weak",
+   "Late",
+   "Quick"
+  ],
+  "answer": 3,
+  "explanation": "Quick means fast.",
+  "explanation_ne": "Quick को अर्थ fast।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of rich.",
+  "question_ne": "‘rich’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Poor",
+   "Small",
+   "Wealthy",
+   "Hungry"
+  ],
+  "options_ne": [
+   "Poor",
+   "Small",
+   "Wealthy",
+   "Hungry"
+  ],
+  "answer": 2,
+  "explanation": "Wealthy means rich.",
+  "explanation_ne": "Wealthy को अर्थ rich।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of begin.",
+  "question_ne": "‘begin’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Stop",
+   "End",
+   "Start",
+   "Finish"
+  ],
+  "options_ne": [
+   "Stop",
+   "End",
+   "Start",
+   "Finish"
+  ],
+  "answer": 2,
+  "explanation": "Start means begin.",
+  "explanation_ne": "Start को अर्थ begin।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of angry.",
+  "question_ne": "‘angry’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Furious",
+   "Calm",
+   "Happy",
+   "Quiet"
+  ],
+  "options_ne": [
+   "Furious",
+   "Calm",
+   "Happy",
+   "Quiet"
+  ],
+  "answer": 0,
+  "explanation": "Furious means very angry.",
+  "explanation_ne": "Furious को अर्थ धेरै angry हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of honest.",
+  "question_ne": "‘honest’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Dishonest",
+   "Truthful",
+   "Clever",
+   "Lazy"
+  ],
+  "options_ne": [
+   "Dishonest",
+   "Truthful",
+   "Clever",
+   "Lazy"
+  ],
+  "answer": 1,
+  "explanation": "Truthful means honest.",
+  "explanation_ne": "Truthful को अर्थ honest।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of difficult.",
+  "question_ne": "‘difficult’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Soft",
+   "Easy",
+   "Simple",
+   "Hard"
+  ],
+  "options_ne": [
+   "Soft",
+   "Easy",
+   "Simple",
+   "Hard"
+  ],
+  "answer": 3,
+  "explanation": "Hard means difficult.",
+  "explanation_ne": "Hard को अर्थ difficult हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of beautiful.",
+  "question_ne": "‘beautiful’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Ugly",
+   "Dirty",
+   "Dark",
+   "Pretty"
+  ],
+  "options_ne": [
+   "Ugly",
+   "Dirty",
+   "Dark",
+   "Pretty"
+  ],
+  "answer": 3,
+  "explanation": "Pretty means beautiful.",
+  "explanation_ne": "Pretty को अर्थ beautiful हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the synonym of clever.",
+  "question_ne": "‘clever’ को पर्यायवाची शब्द छान्नुहोस्।",
+  "options": [
+   "Intelligent",
+   "Slow",
+   "Weak",
+   "Foolish"
+  ],
+  "options_ne": [
+   "Intelligent",
+   "Slow",
+   "Weak",
+   "Foolish"
+  ],
+  "answer": 0,
+  "explanation": "Intelligent means clever.",
+  "explanation_ne": "Intelligent को अर्थ clever।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of hot.",
+  "question_ne": "‘hot’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Cold",
+   "Burning",
+   "Warm",
+   "Boiling"
+  ],
+  "options_ne": [
+   "Cold",
+   "Burning",
+   "Warm",
+   "Boiling"
+  ],
+  "answer": 0,
+  "explanation": "Cold is the opposite of hot.",
+  "explanation_ne": "Cold hot को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of happy.",
+  "question_ne": "‘happy’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Sad",
+   "Pleased",
+   "Joyful",
+   "Glad"
+  ],
+  "options_ne": [
+   "Sad",
+   "Pleased",
+   "Joyful",
+   "Glad"
+  ],
+  "answer": 0,
+  "explanation": "Sad is the opposite of happy.",
+  "explanation_ne": "Sad happy को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of rich.",
+  "question_ne": "‘rich’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Affluent",
+   "Poor",
+   "Wealthy",
+   "Moneyed"
+  ],
+  "options_ne": [
+   "Affluent",
+   "Poor",
+   "Wealthy",
+   "Moneyed"
+  ],
+  "answer": 1,
+  "explanation": "Poor is the opposite of rich.",
+  "explanation_ne": "Poor rich को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of begin.",
+  "question_ne": "‘begin’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Start",
+   "Open",
+   "Commence",
+   "End"
+  ],
+  "options_ne": [
+   "Start",
+   "Open",
+   "Commence",
+   "End"
+  ],
+  "answer": 3,
+  "explanation": "End is the opposite of begin.",
+  "explanation_ne": "End begin को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of love.",
+  "question_ne": "‘love’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Enjoy",
+   "Hate",
+   "Adore",
+   "Like"
+  ],
+  "options_ne": [
+   "Enjoy",
+   "Hate",
+   "Adore",
+   "Like"
+  ],
+  "answer": 1,
+  "explanation": "Hate is the opposite of love.",
+  "explanation_ne": "Hate love को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of true.",
+  "question_ne": "‘true’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "Right",
+   "Correct",
+   "False",
+   "Real"
+  ],
+  "options_ne": [
+   "Right",
+   "Correct",
+   "False",
+   "Real"
+  ],
+  "answer": 2,
+  "explanation": "False is the opposite of true.",
+  "explanation_ne": "False true को विपरीत हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the antonym of up.",
+  "question_ne": "‘up’ को विलोम शब्द छान्नुहोस्।",
+  "options": [
+   "High",
+   "Above",
+   "Down",
+   "Top"
+  ],
+  "options_ne": [
+   "High",
+   "Above",
+   "Down",
+   "Top"
+  ],
+  "answer": 2,
+  "explanation": "Down is the opposite of up.",
+  "explanation_ne": "Down up को विपरित हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: a person who writes books.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: a person who writes books.",
+  "options": [
+   "Author",
+   "Reader",
+   "Printer",
+   "Teacher"
+  ],
+  "options_ne": [
+   "Author",
+   "Reader",
+   "Printer",
+   "Teacher"
+  ],
+  "answer": 0,
+  "explanation": "An author is a person who writes books.",
+  "explanation_ne": "author पुस्तकहरू लेख्ने व्यक्ति हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: a person who can use both hands equally well.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: a person who can use both hands equally well.",
+  "options": [
+   "Ambiguous",
+   "Ambidextrous",
+   "Bilingual",
+   "Amphibious"
+  ],
+  "options_ne": [
+   "Ambiguous",
+   "Ambidextrous",
+   "Bilingual",
+   "Amphibious"
+  ],
+  "answer": 1,
+  "explanation": "Ambidextrous means able to use both hands equally well.",
+  "explanation_ne": "Ambidextrous भनेको दुबै हातलाई समान रूपमा प्रयोग गर्न सक्षम हुनु हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: the study of stars and planets.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: the study of stars and planets.",
+  "options": [
+   "Astronomy",
+   "Biology",
+   "Geology",
+   "Astrology"
+  ],
+  "options_ne": [
+   "Astronomy",
+   "Biology",
+   "Geology",
+   "Astrology"
+  ],
+  "answer": 0,
+  "explanation": "Astronomy is the scientific study of stars and planets.",
+  "explanation_ne": "Astronomy तारा र ग्रहहरूको वैज्ञानिक अध्ययन हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: a person who travels in space.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: a person who travels in space.",
+  "options": [
+   "Pilot",
+   "Driver",
+   "Astronaut",
+   "Sailor"
+  ],
+  "options_ne": [
+   "Pilot",
+   "Driver",
+   "Astronaut",
+   "Sailor"
+  ],
+  "answer": 2,
+  "explanation": "An astronaut is a person who travels in space.",
+  "explanation_ne": "astronaut अन्तरिक्षमा यात्रा गर्ने व्यक्ति हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: a person who eats only vegetables.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: a person who eats only vegetables.",
+  "options": [
+   "Herbivore",
+   "Omnivore",
+   "Vegetarian",
+   "Carnivore"
+  ],
+  "options_ne": [
+   "Herbivore",
+   "Omnivore",
+   "Vegetarian",
+   "Carnivore"
+  ],
+  "answer": 2,
+  "explanation": "A vegetarian is a person who eats only vegetables.",
+  "explanation_ne": "एक vegetarian एक व्यक्ति हो जसले तरकारी मात्र खान्छ।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "One word for: the act of killing oneself.",
+  "question_ne": "एक शब्दमा उत्तर दिनुहोस्: the act of killing oneself.",
+  "options": [
+   "Homicide",
+   "Genocide",
+   "Patricide",
+   "Suicide"
+  ],
+  "options_ne": [
+   "Homicide",
+   "Genocide",
+   "Patricide",
+   "Suicide"
+  ],
+  "answer": 3,
+  "explanation": "Suicide is the act of killing oneself.",
+  "explanation_ne": "Suicide आफैलाई मार्ने कार्य हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'once in a blue moon' mean?",
+  "question_ne": "‘once in a blue moon’ उखानको अर्थ के हो?",
+  "options": [
+   "Every day",
+   "Very often",
+   "At night",
+   "Rarely"
+  ],
+  "options_ne": [
+   "हरेक दिन",
+   "धेरै पटक",
+   "राति",
+   "विरलै"
+  ],
+  "answer": 3,
+  "explanation": "Once in a blue moon means very rarely.",
+  "explanation_ne": "Once in a blue moon को अर्थ धेरै विरलै हुन्छ।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'to break the ice' mean?",
+  "question_ne": "‘to break the ice’ उखानको अर्थ के हो?",
+  "options": [
+   "To fall on ice",
+   "To feel very cold",
+   "To break something cold",
+   "To start a conversation"
+  ],
+  "options_ne": [
+   "बरफमा खस्नु",
+   "धेरै चिसो महसुस गर्न",
+   "चिसो चीज तोड्न",
+   "कुराकानी सुरु गर्न"
+  ],
+  "answer": 3,
+  "explanation": "To break the ice means to start a conversation in a social situation.",
+  "explanation_ne": "To break the ice भनेको सामाजिक परिस्थितिमा कुराकानी सुरु गर्नु हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'at the eleventh hour' mean?",
+  "question_ne": "‘at the eleventh hour’ उखानको अर्थ के हो?",
+  "options": [
+   "Very early in the morning",
+   "At 11 o'clock exactly",
+   "At the last possible moment",
+   "After a long time"
+  ],
+  "options_ne": [
+   "धेरै बिहानै",
+   "ठीक ११ बजे",
+   "अन्तिम सम्भावित क्षणमा",
+   "धेरै समय पछि"
+  ],
+  "answer": 2,
+  "explanation": "At the eleventh hour means at the last possible moment.",
+  "explanation_ne": "At the eleventh hour को अर्थ अन्तिम सम्भावित क्षणमा।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'to beat around the bush' mean?",
+  "question_ne": "‘to beat around the bush’ उखानको अर्थ के हो?",
+  "options": [
+   "To speak loudly",
+   "To avoid giving a direct answer",
+   "To cut bushes",
+   "To walk in a garden"
+  ],
+  "options_ne": [
+   "चर्को स्वरमा बोल्ने",
+   "सीधा जवाफ दिनबाट बच्न",
+   "झाडीहरू काट्न",
+   "बगैँचामा हिंड्न"
+  ],
+  "answer": 1,
+  "explanation": "To beat around the bush means to avoid giving a direct answer.",
+  "explanation_ne": "To beat around the bush को अर्थ सीधा जवाफ दिनबाट जोगिनु हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'to bite the dust' mean?",
+  "question_ne": "‘to bite the dust’ उखानको अर्थ के हो?",
+  "options": [
+   "To be defeated",
+   "To taste food",
+   "To eat dust",
+   "To fall asleep"
+  ],
+  "options_ne": [
+   "परास्त हुने",
+   "खाना स्वाद गर्न",
+   "धूलो खाने",
+   "निदाउनु"
+  ],
+  "answer": 0,
+  "explanation": "To bite the dust means to be defeated or to fail.",
+  "explanation_ne": "To bite the dust भनेको हार्नु वा असफल हुनु हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the idiom 'in cold blood' mean?",
+  "question_ne": "‘in cold blood’ उखानको अर्थ के हो?",
+  "options": [
+   "In a hurry",
+   "In very cold weather",
+   "Without feeling or emotion",
+   "With a fever"
+  ],
+  "options_ne": [
+   "हतारमा",
+   "धेरै चिसो मौसममा",
+   "भावनाबिना",
+   "ज्वरो लिएर"
+  ],
+  "answer": 2,
+  "explanation": "In cold blood means deliberately and without feeling.",
+  "explanation_ne": "In cold blood को अर्थ जानाजानी र भावना बिना।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the correct spelling.",
+  "question_ne": "सही हिज्जे (spelling) भएको शब्द छान्नुहोस्।",
+  "options": [
+   "Beautifel",
+   "Beautiful",
+   "Beautifull",
+   "Beutiful"
+  ],
+  "options_ne": [
+   "Beautifel",
+   "Beautiful",
+   "Beautifull",
+   "Beutiful"
+  ],
+  "answer": 1,
+  "explanation": "Beautiful is the correct spelling.",
+  "explanation_ne": "Beautiful सही हिज्जे हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the word with the correct spelling.",
+  "question_ne": "सही हिज्जे (spelling) भएको शब्द छान्नुहोस्।",
+  "options": [
+   "Envirnment",
+   "Environment",
+   "Environmant",
+   "Enviroment"
+  ],
+  "options_ne": [
+   "Envirnment",
+   "Environment",
+   "Environmant",
+   "Enviroment"
+  ],
+  "answer": 1,
+  "explanation": "Environment is the correct spelling.",
+  "explanation_ne": "Environment सही हिज्जे हो।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "ioe-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these words is spelt correctly?",
+  "question_ne": "सही हिज्जे (spelling) भएको शब्द छान्नुहोस्।",
+  "options": [
+   "Occurrence",
+   "Occurance",
+   "Ocurrence",
+   "Occurence"
+  ],
+  "options_ne": [
+   "Occurrence",
+   "Occurance",
+   "Ocurrence",
+   "Occurence"
+  ],
+  "answer": 0,
+  "explanation": "Occurrence is the correct spelling, with double c and double r.",
+  "explanation_ne": "Occurrence सही हिज्जे हो, डबल c र डबल r संग।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Vocabulary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Pick the correctly spelt word.",
+  "question_ne": "सही हिज्जे (spelling) भएको शब्द छान्नुहोस्।",
+  "options": [
+   "Receive",
+   "Recieve",
+   "Receve",
+   "Riceive"
+  ],
+  "options_ne": [
+   "Receive",
+   "Recieve",
+   "Receve",
+   "Riceive"
+  ],
+  "answer": 0,
+  "explanation": "Receive follows the i before e except after c rule.",
+  "explanation_ne": "Receive मा ‘i before e except after c’ नियम लागू हुन्छ।",
+  "source": "English vocabulary"
+ },
+ {
+  "id": "ENG-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct sentence about liking tea.",
+  "question_ne": "‘liking tea’ बारे सही वाक्य छान्नुहोस्।",
+  "options": [
+   "He doesn't like tea.",
+   "He don't like tea.",
+   "He don't likes tea.",
+   "He doesn't likes tea."
+  ],
+  "options_ne": [
+   "He doesn't like tea.",
+   "He don't like tea.",
+   "He don't likes tea.",
+   "He doesn't likes tea."
+  ],
+  "answer": 0,
+  "explanation": "With he, the negative present simple is doesn't like.",
+  "explanation_ne": "He सँग negative present simple doesn’t like हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "ENG-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct sentence about going to school.",
+  "question_ne": "‘going to school’ बारे सही वाक्य छान्नुहोस्।",
+  "options": [
+   "She going to school every day.",
+   "She goes to school every day.",
+   "She gone to school every day.",
+   "She go to school every day."
+  ],
+  "options_ne": [
+   "She going to school every day.",
+   "She goes to school every day.",
+   "She gone to school every day.",
+   "She go to school every day."
+  ],
+  "answer": 1,
+  "explanation": "She takes goes in the simple present.",
+  "explanation_ne": "She सँग simple present मा goes हुन्छ।",
+  "source": "English grammar"
+ },
+ {
+  "id": "NEP-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'मुनामदन' का रचयिता को हुन्?",
+  "question_ne": "'मुनामदन' का रचयिता को हुन्?",
+  "options": [
+   "भानुभक्त आचार्य",
+   "लेखनाथ पौड्याल",
+   "मोतीराम भट्ट",
+   "लक्ष्मीप्रसाद देवकोटा"
+  ],
+  "options_ne": [
+   "भानुभक्त आचार्य",
+   "लेखनाथ पौड्याल",
+   "मोतीराम भट्ट",
+   "लक्ष्मीप्रसाद देवकोटा"
+  ],
+  "answer": 3,
+  "explanation": "मुनामदन महाकवि लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध खण्डकाव्य हो।",
+  "explanation_ne": "मुनामदन महाकवि लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध खण्डकाव्य हो।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "रामायणलाई नेपाली भाषामा अनुवाद गर्ने कवि को हुन्?",
+  "question_ne": "रामायणलाई नेपाली भाषामा अनुवाद गर्ने कवि को हुन्?",
+  "options": [
+   "लक्ष्मीप्रसाद देवकोटा",
+   "लेखनाथ पौड्याल",
+   "बालकृष्ण सम",
+   "भानुभक्त आचार्य"
+  ],
+  "options_ne": [
+   "लक्ष्मीप्रसाद देवकोटा",
+   "लेखनाथ पौड्याल",
+   "बालकृष्ण सम",
+   "भानुभक्त आचार्य"
+  ],
+  "answer": 3,
+  "explanation": "भानुभक्त आचार्यले वाल्मीकि रामायणलाई नेपालीमा अनुवाद गरेका थिए।",
+  "explanation_ne": "भानुभक्त आचार्यले वाल्मीकि रामायणलाई नेपालीमा अनुवाद गरेका थिए।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "भानुभक्त आचार्यलाई के भनेर चिनिन्छ?",
+  "question_ne": "भानुभक्त आचार्यलाई के भनेर चिनिन्छ?",
+  "options": [
+   "कवि शिरोमणि",
+   "युगकवि",
+   "आदिकवि",
+   "महाकवि"
+  ],
+  "options_ne": [
+   "कवि शिरोमणि",
+   "युगकवि",
+   "आदिकवि",
+   "महाकवि"
+  ],
+  "answer": 2,
+  "explanation": "भानुभक्त आचार्य नेपाली साहित्यका आदिकवि हुन्।",
+  "explanation_ne": "भानुभक्त आचार्य नेपाली साहित्यका आदिकवि हुन्।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "लक्ष्मीप्रसाद देवकोटालाई के भनेर चिनिन्छ?",
+  "question_ne": "लक्ष्मीप्रसाद देवकोटालाई के भनेर चिनिन्छ?",
+  "options": [
+   "महाकवि",
+   "आदिकवि",
+   "राष्ट्रकवि",
+   "कवि शिरोमणि"
+  ],
+  "options_ne": [
+   "महाकवि",
+   "आदिकवि",
+   "राष्ट्रकवि",
+   "कवि शिरोमणि"
+  ],
+  "answer": 0,
+  "explanation": "लक्ष्मीप्रसाद देवकोटा नेपाली साहित्यका महाकवि हुन्।",
+  "explanation_ne": "लक्ष्मीप्रसाद देवकोटा नेपाली साहित्यका महाकवि हुन्।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "लेखनाथ पौड्याललाई के भनेर चिनिन्छ?",
+  "question_ne": "लेखनाथ पौड्याललाई के भनेर चिनिन्छ?",
+  "options": [
+   "आदिकवि",
+   "युगकवि",
+   "कवि शिरोमणि",
+   "महाकवि"
+  ],
+  "options_ne": [
+   "आदिकवि",
+   "युगकवि",
+   "कवि शिरोमणि",
+   "महाकवि"
+  ],
+  "answer": 2,
+  "explanation": "लेखनाथ पौड्याललाई कवि शिरोमणि भनेर चिनिन्छ।",
+  "explanation_ne": "लेखनाथ पौड्याललाई कवि शिरोमणि भनेर चिनिन्छ।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'पिँजडाको सुगा' का रचयिता को हुन्?",
+  "question_ne": "'पिँजडाको सुगा' का रचयिता को हुन्?",
+  "options": [
+   "लेखनाथ पौड्याल",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "मोतीराम भट्ट"
+  ],
+  "options_ne": [
+   "लेखनाथ पौड्याल",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "मोतीराम भट्ट"
+  ],
+  "answer": 0,
+  "explanation": "पिँजडाको सुगा लेखनाथ पौड्यालको प्रसिद्ध कविता हो।",
+  "explanation_ne": "पिँजडाको सुगा लेखनाथ पौड्यालको प्रसिद्ध कविता हो।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "मुनामदन कुन विधाको रचना हो?",
+  "question_ne": "मुनामदन कुन विधाको रचना हो?",
+  "options": [
+   "खण्डकाव्य",
+   "नाटक",
+   "निबन्ध",
+   "उपन्यास"
+  ],
+  "options_ne": [
+   "खण्डकाव्य",
+   "नाटक",
+   "निबन्ध",
+   "उपन्यास"
+  ],
+  "answer": 0,
+  "explanation": "मुनामदन एक खण्डकाव्य हो।",
+  "explanation_ne": "मुनामदन एक खण्डकाव्य हो।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "भानुभक्त आचार्यको जन्मजयन्ती कहिले मनाइन्छ?",
+  "question_ne": "भानुभक्त आचार्यको जन्मजयन्ती कहिले मनाइन्छ?",
+  "options": [
+   "असार २९",
+   "चैत ८",
+   "माघ १",
+   "भदौ १५"
+  ],
+  "options_ne": [
+   "असार २९",
+   "चैत ८",
+   "माघ १",
+   "भदौ १५"
+  ],
+  "answer": 0,
+  "explanation": "भानुभक्त जयन्ती हरेक वर्ष असार २९ गते मनाइन्छ।",
+  "explanation_ne": "भानुभक्त जयन्ती हरेक वर्ष असार २९ गते मनाइन्छ।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपालको सरकारी कामकाजको (आधिकारिक) भाषा कुन हो?",
+  "question_ne": "नेपालको सरकारी कामकाजको (आधिकारिक) भाषा कुन हो?",
+  "options": [
+   "थारू",
+   "भोजपुरी",
+   "नेपाली",
+   "मैथिली"
+  ],
+  "options_ne": [
+   "थारू",
+   "भोजपुरी",
+   "नेपाली",
+   "मैथिली"
+  ],
+  "answer": 2,
+  "explanation": "नेपाली नेपालको आधिकारिक भाषा हो।",
+  "explanation_ne": "नेपाली नेपालको आधिकारिक भाषा हो।",
+  "source": "Nepali language"
+ },
+ {
+  "id": "NEP-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Literature",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध महाकाव्य कुन हो?",
+  "question_ne": "लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध महाकाव्य कुन हो?",
+  "options": [
+   "सेतो बाघ",
+   "झोला",
+   "शाकुन्तल",
+   "मुनामदन"
+  ],
+  "options_ne": [
+   "सेतो बाघ",
+   "झोला",
+   "शाकुन्तल",
+   "मुनामदन"
+  ],
+  "answer": 2,
+  "explanation": "शाकुन्तल लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध महाकाव्य हो।",
+  "explanation_ne": "शाकुन्तल लक्ष्मीप्रसाद देवकोटाको प्रसिद्ध महाकाव्य हो।",
+  "source": "Nepali literature"
+ },
+ {
+  "id": "NEP-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली भाषा कुन लिपिमा लेखिन्छ?",
+  "question_ne": "नेपाली भाषा कुन लिपिमा लेखिन्छ?",
+  "options": [
+   "रोमन",
+   "अरबी",
+   "चिनियाँ",
+   "देवनागरी"
+  ],
+  "options_ne": [
+   "रोमन",
+   "अरबी",
+   "चिनियाँ",
+   "देवनागरी"
+  ],
+  "answer": 3,
+  "explanation": "नेपाली भाषा देवनागरी लिपिमा लेखिन्छ।",
+  "explanation_ne": "नेपाली भाषा देवनागरी लिपिमा लेखिन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली भाषा कुन दिशातर्फ लेखिन्छ?",
+  "question_ne": "नेपाली भाषा कुन दिशातर्फ लेखिन्छ?",
+  "options": [
+   "माथिबाट तल",
+   "दायाँबाट बायाँ",
+   "तलबाट माथि",
+   "बायाँबाट दायाँ"
+  ],
+  "options_ne": [
+   "माथिबाट तल",
+   "दायाँबाट बायाँ",
+   "तलबाट माथि",
+   "बायाँबाट दायाँ"
+  ],
+  "answer": 3,
+  "explanation": "नेपाली देवनागरी लिपिमा बायाँबाट दायाँ लेखिन्छ।",
+  "explanation_ne": "नेपाली देवनागरी लिपिमा बायाँबाट दायाँ लेखिन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली वर्णमालामा स्वर वर्ण कति छन्?",
+  "question_ne": "नेपाली वर्णमालामा स्वर वर्ण कति छन्?",
+  "options": [
+   "१५",
+   "१०",
+   "१३",
+   "११"
+  ],
+  "options_ne": [
+   "१५",
+   "१०",
+   "१३",
+   "११"
+  ],
+  "answer": 2,
+  "explanation": "नेपाली वर्णमालामा १३ वटा स्वर वर्ण छन्।",
+  "explanation_ne": "नेपाली वर्णमालामा १३ वटा स्वर वर्ण छन्।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली वर्णमालामा व्यञ्जन वर्ण कति छन्?",
+  "question_ne": "नेपाली वर्णमालामा व्यञ्जन वर्ण कति छन्?",
+  "options": [
+   "३६",
+   "३०",
+   "३३",
+   "२५"
+  ],
+  "options_ne": [
+   "३६",
+   "३०",
+   "३३",
+   "२५"
+  ],
+  "answer": 2,
+  "explanation": "नेपाली वर्णमालामा ३३ वटा व्यञ्जन वर्ण छन्।",
+  "explanation_ne": "नेपाली वर्णमालामा ३३ वटा व्यञ्जन वर्ण छन्।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली वर्णमालामा जम्मा वर्ण कति छन्?",
+  "question_ne": "नेपाली वर्णमालामा जम्मा वर्ण कति छन्?",
+  "options": [
+   "४०",
+   "४६",
+   "४४",
+   "५०"
+  ],
+  "options_ne": [
+   "४०",
+   "४६",
+   "४४",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "१३ स्वर र ३३ व्यञ्जन गरी जम्मा ४६ वर्ण छन्।",
+  "explanation_ne": "१३ स्वर र ३३ व्यञ्जन गरी जम्मा ४६ वर्ण छन्।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "तलकामध्ये कुन स्वर वर्ण हो?",
+  "question_ne": "तलकामध्ये कुन स्वर वर्ण हो?",
+  "options": [
+   "ग",
+   "ख",
+   "क",
+   "अ"
+  ],
+  "options_ne": [
+   "ग",
+   "ख",
+   "क",
+   "अ"
+  ],
+  "answer": 3,
+  "explanation": "अ स्वर वर्ण हो, क, ख र ग व्यञ्जन वर्ण हुन्।",
+  "explanation_ne": "अ स्वर वर्ण हो, क, ख र ग व्यञ्जन वर्ण हुन्।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "तलकामध्ये कुन व्यञ्जन वर्ण हो?",
+  "question_ne": "तलकामध्ये कुन व्यञ्जन वर्ण हो?",
+  "options": [
+   "आ",
+   "क",
+   "ई",
+   "उ"
+  ],
+  "options_ne": [
+   "आ",
+   "क",
+   "ई",
+   "उ"
+  ],
+  "answer": 1,
+  "explanation": "क व्यञ्जन वर्ण हो, आ, ई र उ स्वर वर्ण हुन्।",
+  "explanation_ne": "क व्यञ्जन वर्ण हो, आ, ई र उ स्वर वर्ण हुन्।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Devanagari Script",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "नेपाली वर्णमालाको पहिलो स्वर वर्ण कुन हो?",
+  "question_ne": "नेपाली वर्णमालाको पहिलो स्वर वर्ण कुन हो?",
+  "options": [
+   "इ",
+   "आ",
+   "अ",
+   "उ"
+  ],
+  "options_ne": [
+   "इ",
+   "आ",
+   "अ",
+   "उ"
+  ],
+  "answer": 2,
+  "explanation": "नेपाली वर्णमाला अ बाट सुरु हुन्छ।",
+  "explanation_ne": "नेपाली वर्णमाला अ बाट सुरु हुन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "सन्धि भनेको के हो?",
+  "question_ne": "सन्धि भनेको के हो?",
+  "options": [
+   "शब्दको अर्थ बदलिनु",
+   "दुई शब्द जोडिनु",
+   "दुई वर्ण वा ध्वनि मिलेर नयाँ रूप बन्नु",
+   "वाक्य बनाउनु"
+  ],
+  "options_ne": [
+   "शब्दको अर्थ बदलिनु",
+   "दुई शब्द जोडिनु",
+   "दुई वर्ण वा ध्वनि मिलेर नयाँ रूप बन्नु",
+   "वाक्य बनाउनु"
+  ],
+  "answer": 2,
+  "explanation": "दुई वर्ण वा ध्वनि मिलेर नयाँ रूप बन्दा सन्धि हुन्छ।",
+  "explanation_ne": "दुई वर्ण वा ध्वनि मिलेर नयाँ रूप बन्दा सन्धि हुन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "समास भनेको के हो?",
+  "question_ne": "समास भनेको के हो?",
+  "options": [
+   "वर्ण मिल्नु",
+   "क्रियाको रूप बदलिनु",
+   "वाक्य लामो बनाउनु",
+   "दुई वा दुईभन्दा बढी शब्द मिलेर एउटा शब्द बन्नु"
+  ],
+  "options_ne": [
+   "वर्ण मिल्नु",
+   "क्रियाको रूप बदलिनु",
+   "वाक्य लामो बनाउनु",
+   "दुई वा दुईभन्दा बढी शब्द मिलेर एउटा शब्द बन्नु"
+  ],
+  "answer": 3,
+  "explanation": "दुई वा बढी शब्द मिलेर एउटा शब्द बन्दा समास हुन्छ।",
+  "explanation_ne": "दुई वा बढी शब्द मिलेर एउटा शब्द बन्दा समास हुन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'नीलकमल' मा कुन समास छ? नीलो कमल भन्ने अर्थमा",
+  "question_ne": "'नीलकमल' मा कुन समास छ? नीलो कमल भन्ने अर्थमा",
+  "options": [
+   "द्वन्द्व समास",
+   "कर्मधारय समास",
+   "बहुव्रीहि समास",
+   "तत्पुरुष समास"
+  ],
+  "options_ne": [
+   "द्वन्द्व समास",
+   "कर्मधारय समास",
+   "बहुव्रीहि समास",
+   "तत्पुरुष समास"
+  ],
+  "answer": 1,
+  "explanation": "नीलो कमल भन्ने विशेषण-विशेष्य सम्बन्ध भएकाले यो कर्मधारय समास हो।",
+  "explanation_ne": "नीलो कमल भन्ने विशेषण-विशेष्य सम्बन्ध भएकाले यो कर्मधारय समास हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'राजकुमार' मा कुन समास छ? राजाको कुमार भन्ने अर्थमा",
+  "question_ne": "'राजकुमार' मा कुन समास छ? राजाको कुमार भन्ने अर्थमा",
+  "options": [
+   "द्वन्द्व समास",
+   "षष्ठी तत्पुरुष समास",
+   "अव्ययीभाव समास",
+   "कर्मधारय समास"
+  ],
+  "options_ne": [
+   "द्वन्द्व समास",
+   "षष्ठी तत्पुरुष समास",
+   "अव्ययीभाव समास",
+   "कर्मधारय समास"
+  ],
+  "answer": 1,
+  "explanation": "राजाको कुमार भन्ने सम्बन्ध देखिने भएकाले यो षष्ठी तत्पुरुष समास हो।",
+  "explanation_ne": "राजाको कुमार भन्ने सम्बन्ध देखिने भएकाले यो षष्ठी तत्पुरुष समास हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'आमा-बुबा' मा कुन समास छ?",
+  "question_ne": "'आमा-बुबा' मा कुन समास छ?",
+  "options": [
+   "तत्पुरुष समास",
+   "बहुव्रीहि समास",
+   "द्वन्द्व समास",
+   "कर्मधारय समास"
+  ],
+  "options_ne": [
+   "तत्पुरुष समास",
+   "बहुव्रीहि समास",
+   "द्वन्द्व समास",
+   "कर्मधारय समास"
+  ],
+  "answer": 2,
+  "explanation": "आमा र बुबा दुवै पद प्रधान भएकाले यो द्वन्द्व समास हो।",
+  "explanation_ne": "आमा र बुबा दुवै पद प्रधान भएकाले यो द्वन्द्व समास हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "वाक्यमा काम गर्ने व्यक्तिलाई कुन कारक भनिन्छ?",
+  "question_ne": "वाक्यमा काम गर्ने व्यक्तिलाई कुन कारक भनिन्छ?",
+  "options": [
+   "कर्ता कारक",
+   "सम्बन्ध कारक",
+   "कर्म कारक",
+   "करण कारक"
+  ],
+  "options_ne": [
+   "कर्ता कारक",
+   "सम्बन्ध कारक",
+   "कर्म कारक",
+   "करण कारक"
+  ],
+  "answer": 0,
+  "explanation": "काम गर्ने व्यक्तिलाई कर्ता कारक भनिन्छ।",
+  "explanation_ne": "काम गर्ने व्यक्तिलाई कर्ता कारक भनिन्छ।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'रामले किताब पढ्यो।' मा किताब कुन कारक हो?",
+  "question_ne": "'रामले किताब पढ्यो।' मा किताब कुन कारक हो?",
+  "options": [
+   "कर्ता कारक",
+   "कर्म कारक",
+   "अधिकरण कारक",
+   "करण कारक"
+  ],
+  "options_ne": [
+   "कर्ता कारक",
+   "कर्म कारक",
+   "अधिकरण कारक",
+   "करण कारक"
+  ],
+  "answer": 1,
+  "explanation": "पढ्ने कामको फल किताबमा पर्ने भएकाले किताब कर्म कारक हो।",
+  "explanation_ne": "पढ्ने कामको फल किताबमा पर्ने भएकाले किताब कर्म कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'उसले कलमले लेख्यो।' मा कलम कुन कारक हो?",
+  "question_ne": "'उसले कलमले लेख्यो।' मा कलम कुन कारक हो?",
+  "options": [
+   "कर्म कारक",
+   "करण कारक",
+   "सम्प्रदान कारक",
+   "कर्ता कारक"
+  ],
+  "options_ne": [
+   "कर्म कारक",
+   "करण कारक",
+   "सम्प्रदान कारक",
+   "कर्ता कारक"
+  ],
+  "answer": 1,
+  "explanation": "कलम लेख्ने साधन भएकाले यो करण कारक हो।",
+  "explanation_ne": "कलम लेख्ने साधन भएकाले यो करण कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'मैले उसलाई किताब दिएँ।' मा उसलाई कुन कारक हो?",
+  "question_ne": "'मैले उसलाई किताब दिएँ।' मा उसलाई कुन कारक हो?",
+  "options": [
+   "अपादान कारक",
+   "कर्ता कारक",
+   "सम्प्रदान कारक",
+   "कर्म कारक"
+  ],
+  "options_ne": [
+   "अपादान कारक",
+   "कर्ता कारक",
+   "सम्प्रदान कारक",
+   "कर्म कारक"
+  ],
+  "answer": 2,
+  "explanation": "दिने कामको प्राप्तकर्ता भएकाले उसलाई सम्प्रदान कारक हो।",
+  "explanation_ne": "दिने कामको प्राप्तकर्ता भएकाले उसलाई सम्प्रदान कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'राम काठमाडौंबाट आयो।' मा काठमाडौंबाट कुन कारक हो?",
+  "question_ne": "'राम काठमाडौंबाट आयो।' मा काठमाडौंबाट कुन कारक हो?",
+  "options": [
+   "अधिकरण कारक",
+   "करण कारक",
+   "अपादान कारक",
+   "सम्बन्ध कारक"
+  ],
+  "options_ne": [
+   "अधिकरण कारक",
+   "करण कारक",
+   "अपादान कारक",
+   "सम्बन्ध कारक"
+  ],
+  "answer": 2,
+  "explanation": "बाट छुट्टिने अर्थ देखिने भएकाले यो अपादान कारक हो।",
+  "explanation_ne": "बाट छुट्टिने अर्थ देखिने भएकाले यो अपादान कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'रामको किताब' मा को कुन कारक हो?",
+  "question_ne": "'रामको किताब' मा को कुन कारक हो?",
+  "options": [
+   "कर्ता कारक",
+   "अधिकरण कारक",
+   "कर्म कारक",
+   "सम्बन्ध कारक"
+  ],
+  "options_ne": [
+   "कर्ता कारक",
+   "अधिकरण कारक",
+   "कर्म कारक",
+   "सम्बन्ध कारक"
+  ],
+  "answer": 3,
+  "explanation": "को ले सम्बन्ध देखाउने भएकाले यो सम्बन्ध कारक हो।",
+  "explanation_ne": "को ले सम्बन्ध देखाउने भएकाले यो सम्बन्ध कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'किताब टेबलमा छ।' मा टेबलमा कुन कारक हो?",
+  "question_ne": "'किताब टेबलमा छ।' मा टेबलमा कुन कारक हो?",
+  "options": [
+   "सम्बन्ध कारक",
+   "करण कारक",
+   "अपादान कारक",
+   "अधिकरण कारक"
+  ],
+  "options_ne": [
+   "सम्बन्ध कारक",
+   "करण कारक",
+   "अपादान कारक",
+   "अधिकरण कारक"
+  ],
+  "answer": 3,
+  "explanation": "मा ले स्थान देखाउने भएकाले यो अधिकरण कारक हो।",
+  "explanation_ne": "मा ले स्थान देखाउने भएकाले यो अधिकरण कारक हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "क्रिया भनेको के हो?",
+  "question_ne": "क्रिया भनेको के हो?",
+  "options": [
+   "नाम बताउने शब्द",
+   "काम वा अवस्था बताउने शब्द",
+   "गुण बताउने शब्द",
+   "स्थान बताउने शब्द"
+  ],
+  "options_ne": [
+   "नाम बताउने शब्द",
+   "काम वा अवस्था बताउने शब्द",
+   "गुण बताउने शब्द",
+   "स्थान बताउने शब्द"
+  ],
+  "answer": 1,
+  "explanation": "क्रिया काम वा अवस्था बताउने शब्द हो।",
+  "explanation_ne": "क्रिया काम वा अवस्था बताउने शब्द हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'रामले किताब पढ्यो।' मा पढ्नु कस्तो क्रिया हो?",
+  "question_ne": "'रामले किताब पढ्यो।' मा पढ्नु कस्तो क्रिया हो?",
+  "options": [
+   "सकर्मक क्रिया",
+   "अकर्मक क्रिया",
+   "अपूर्ण क्रिया",
+   "संयुक्त क्रिया"
+  ],
+  "options_ne": [
+   "सकर्मक क्रिया",
+   "अकर्मक क्रिया",
+   "अपूर्ण क्रिया",
+   "संयुक्त क्रिया"
+  ],
+  "answer": 0,
+  "explanation": "पढ्नु ले कर्म किताब लिने भएकाले यो सकर्मक क्रिया हो।",
+  "explanation_ne": "पढ्नु ले कर्म किताब लिने भएकाले यो सकर्मक क्रिया हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'राम सुत्यो।' मा सुत्नु कस्तो क्रिया हो?",
+  "question_ne": "'राम सुत्यो।' मा सुत्नु कस्तो क्रिया हो?",
+  "options": [
+   "सकर्मक क्रिया",
+   "द्विकर्मक क्रिया",
+   "प्रेरणार्थक क्रिया",
+   "अकर्मक क्रिया"
+  ],
+  "options_ne": [
+   "सकर्मक क्रिया",
+   "द्विकर्मक क्रिया",
+   "प्रेरणार्थक क्रिया",
+   "अकर्मक क्रिया"
+  ],
+  "answer": 3,
+  "explanation": "सुत्नु ले कर्म नलिने भएकाले यो अकर्मक क्रिया हो।",
+  "explanation_ne": "सुत्नु ले कर्म नलिने भएकाले यो अकर्मक क्रिया हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'घोडा' को स्त्रीलिङ्ग रूप कुन हो?",
+  "question_ne": "'घोडा' को स्त्रीलिङ्ग रूप कुन हो?",
+  "options": [
+   "घोडा",
+   "घोडीनी",
+   "घोडो",
+   "घोडी"
+  ],
+  "options_ne": [
+   "घोडा",
+   "घोडीनी",
+   "घोडो",
+   "घोडी"
+  ],
+  "answer": 3,
+  "explanation": "घोडाको स्त्रीलिङ्ग रूप घोडी हो।",
+  "explanation_ne": "घोडाको स्त्रीलिङ्ग रूप घोडी हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'केटा' को बहुवचन रूप कुन हो?",
+  "question_ne": "'केटा' को बहुवचन रूप कुन हो?",
+  "options": [
+   "केटा",
+   "केटी",
+   "केटाहरू",
+   "केटो"
+  ],
+  "options_ne": [
+   "केटा",
+   "केटी",
+   "केटाहरू",
+   "केटो"
+  ],
+  "answer": 2,
+  "explanation": "केटाको बहुवचन रूप केटाहरू हो।",
+  "explanation_ne": "केटाको बहुवचन रूप केटाहरू हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'किताब' को बहुवचन रूप कुन हो?",
+  "question_ne": "'किताब' को बहुवचन रूप कुन हो?",
+  "options": [
+   "किताब",
+   "किताबा",
+   "किताबहरू",
+   "किताबी"
+  ],
+  "options_ne": [
+   "किताब",
+   "किताबा",
+   "किताबहरू",
+   "किताबी"
+  ],
+  "answer": 2,
+  "explanation": "किताबको बहुवचन रूप किताबहरू हो।",
+  "explanation_ne": "किताबको बहुवचन रूप किताबहरू हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'एउटा किताब' मा एउटा के हो?",
+  "question_ne": "'एउटा किताब' मा एउटा के हो?",
+  "options": [
+   "बहुवचन",
+   "एकवचन",
+   "स्त्रीलिङ्ग",
+   "पुलिङ्ग"
+  ],
+  "options_ne": [
+   "बहुवचन",
+   "एकवचन",
+   "स्त्रीलिङ्ग",
+   "पुलिङ्ग"
+  ],
+  "answer": 1,
+  "explanation": "एउटा ले एउटा मात्र वस्तु जनाउने भएकाले यो एकवचन हो।",
+  "explanation_ne": "एउटा ले एउटा मात्र वस्तु जनाउने भएकाले यो एकवचन हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'ऊ विद्यालय जान्छ।' मा जान्छ कुन काल हो?",
+  "question_ne": "'ऊ विद्यालय जान्छ।' मा जान्छ कुन काल हो?",
+  "options": [
+   "आज्ञार्थ",
+   "भूतकाल",
+   "वर्तमानकाल",
+   "भविष्यत्काल"
+  ],
+  "options_ne": [
+   "आज्ञार्थ",
+   "भूतकाल",
+   "वर्तमानकाल",
+   "भविष्यत्काल"
+  ],
+  "answer": 2,
+  "explanation": "जान्छ ले अहिले हुने वा नियमित काम जनाउने भएकाले यो वर्तमानकाल हो।",
+  "explanation_ne": "जान्छ ले अहिले हुने वा नियमित काम जनाउने भएकाले यो वर्तमानकाल हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'पानी' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'पानी' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Air",
+   "Fire",
+   "Water",
+   "Milk"
+  ],
+  "options_ne": [
+   "Air",
+   "Fire",
+   "Water",
+   "Milk"
+  ],
+  "answer": 2,
+  "explanation": "पानी को अङ्ग्रेजी अर्थ Water हो।",
+  "explanation_ne": "पानी को अङ्ग्रेजी अर्थ Water हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'किताब' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'किताब' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Chair",
+   "Table",
+   "Pen",
+   "Book"
+  ],
+  "options_ne": [
+   "Chair",
+   "Table",
+   "Pen",
+   "Book"
+  ],
+  "answer": 3,
+  "explanation": "किताब को अङ्ग्रेजी अर्थ Book हो।",
+  "explanation_ne": "किताब को अङ्ग्रेजी अर्थ Book हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'घर' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'घर' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Road",
+   "House",
+   "River",
+   "School"
+  ],
+  "options_ne": [
+   "Road",
+   "House",
+   "River",
+   "School"
+  ],
+  "answer": 1,
+  "explanation": "घर को अङ्ग्रेजी अर्थ House हो।",
+  "explanation_ne": "घर को अङ्ग्रेजी अर्थ House हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'विद्यालय' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'विद्यालय' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Office",
+   "School",
+   "Hospital",
+   "Market"
+  ],
+  "options_ne": [
+   "Office",
+   "School",
+   "Hospital",
+   "Market"
+  ],
+  "answer": 1,
+  "explanation": "विद्यालय को अङ्ग्रेजी अर्थ School हो।",
+  "explanation_ne": "विद्यालय को अङ्ग्रेजी अर्थ School हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'सूर्य' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'सूर्य' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Moon",
+   "Star",
+   "Sun",
+   "Earth"
+  ],
+  "options_ne": [
+   "Moon",
+   "Star",
+   "Sun",
+   "Earth"
+  ],
+  "answer": 2,
+  "explanation": "सूर्य को अङ्ग्रेजी अर्थ Sun हो।",
+  "explanation_ne": "सूर्य को अङ्ग्रेजी अर्थ Sun हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'चन्द्रमा' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'चन्द्रमा' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Sun",
+   "Cloud",
+   "Star",
+   "Moon"
+  ],
+  "options_ne": [
+   "Sun",
+   "Cloud",
+   "Star",
+   "Moon"
+  ],
+  "answer": 3,
+  "explanation": "चन्द्रमा को अङ्ग्रेजी अर्थ Moon हो।",
+  "explanation_ne": "चन्द्रमा को अङ्ग्रेजी अर्थ Moon हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'धन्यवाद' को अङ्ग्रेजी अर्थ के हो?",
+  "question_ne": "'धन्यवाद' को अङ्ग्रेजी अर्थ के हो?",
+  "options": [
+   "Thank you",
+   "Goodbye",
+   "Welcome",
+   "Sorry"
+  ],
+  "options_ne": [
+   "Thank you",
+   "Goodbye",
+   "Welcome",
+   "Sorry"
+  ],
+  "answer": 0,
+  "explanation": "धन्यवाद को अङ्ग्रेजी अर्थ Thank you हो।",
+  "explanation_ne": "धन्यवाद को अङ्ग्रेजी अर्थ Thank you हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'म विद्यालय जान्छु।' को अङ्ग्रेजी अनुवाद के हो?",
+  "question_ne": "'म विद्यालय जान्छु।' को अङ्ग्रेजी अनुवाद के हो?",
+  "options": [
+   "I will go to school.",
+   "I went to school.",
+   "I am going to market.",
+   "I go to school."
+  ],
+  "options_ne": [
+   "I will go to school.",
+   "I went to school.",
+   "I am going to market.",
+   "I go to school."
+  ],
+  "answer": 3,
+  "explanation": "म विद्यालय जान्छु को अङ्ग्रेजी I go to school हो।",
+  "explanation_ne": "म विद्यालय जान्छु को अङ्ग्रेजी I go to school हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'यो किताब हो।' को अङ्ग्रेजी अनुवाद के हो?",
+  "question_ne": "'यो किताब हो।' को अङ्ग्रेजी अनुवाद के हो?",
+  "options": [
+   "This is a house.",
+   "This is a pen.",
+   "That is a book.",
+   "This is a book."
+  ],
+  "options_ne": [
+   "This is a house.",
+   "This is a pen.",
+   "That is a book.",
+   "This is a book."
+  ],
+  "answer": 3,
+  "explanation": "'यो किताब हो' को अङ्ग्रेजी 'This is a book' हो।",
+  "explanation_ne": "'यो किताब हो' को अङ्ग्रेजी 'This is a book' हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'Good morning' को नेपाली अर्थ के हो?",
+  "question_ne": "'Good morning' को नेपाली अर्थ के हो?",
+  "options": [
+   "धन्यवाद",
+   "नमस्कार",
+   "शुभ रात्री",
+   "शुभ प्रभात"
+  ],
+  "options_ne": [
+   "धन्यवाद",
+   "नमस्कार",
+   "शुभ रात्री",
+   "शुभ प्रभात"
+  ],
+  "answer": 3,
+  "explanation": "Good morning को नेपाली अर्थ शुभ प्रभात हो।",
+  "explanation_ne": "Good morning को नेपाली अर्थ शुभ प्रभात हो।",
+  "source": "Nepali-English translation"
+ },
+ {
+  "id": "NEP-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs and Idioms",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'हात्ती आयो हात्ती आयो फुस्सा' उखानको अर्थ के हो?",
+  "question_ne": "'हात्ती आयो हात्ती आयो फुस्सा' उखानको अर्थ के हो?",
+  "options": [
+   "ठूलो काम गर्नु",
+   "हात्ती हेर्नु",
+   "धेरै खाना खानु",
+   "ठूलो हल्ला गरेर केही नगर्नु"
+  ],
+  "options_ne": [
+   "ठूलो काम गर्नु",
+   "हात्ती हेर्नु",
+   "धेरै खाना खानु",
+   "ठूलो हल्ला गरेर केही नगर्नु"
+  ],
+  "answer": 3,
+  "explanation": "यो उखानले ठूलो हल्ला गरेर अन्तमा केही नगर्नुलाई जनाउँछ।",
+  "explanation_ne": "यो उखानले ठूलो हल्ला गरेर अन्तमा केही नगर्नुलाई जनाउँछ।",
+  "source": "Nepali proverbs"
+ },
+ {
+  "id": "NEP-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs and Idioms",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'काग कराउँदै गर्छ, पिना सुक्दै गर्छ' उखानको अर्थ के हो?",
+  "question_ne": "'काग कराउँदै गर्छ, पिना सुक्दै गर्छ' उखानको अर्थ के हो?",
+  "options": [
+   "काग कराउनु",
+   "पिना सुकाउनु",
+   "अरूले कुरा गरे पनि आफ्नो काम गरिरहनु",
+   "कागले पिना खान्छ"
+  ],
+  "options_ne": [
+   "काग कराउनु",
+   "पिना सुकाउनु",
+   "अरूले कुरा गरे पनि आफ्नो काम गरिरहनु",
+   "कागले पिना खान्छ"
+  ],
+  "answer": 2,
+  "explanation": "यो उखानले अरूले जे भने पनि आफ्नो काम निरन्तर गरिरहनुपर्छ भन्ने जनाउँछ।",
+  "explanation_ne": "यो उखानले अरूले जे भने पनि आफ्नो काम निरन्तर गरिरहनुपर्छ भन्ने जनाउँछ।",
+  "source": "Nepali proverbs"
+ },
+ {
+  "id": "NEP-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs and Idioms",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'नाक काटिनु' टुक्काको अर्थ के हो?",
+  "question_ne": "'नाक काटिनु' टुक्काको अर्थ के हो?",
+  "options": [
+   "बेइज्जत हुनु",
+   "नाक सफा गर्नु",
+   "नाक दुख्नु",
+   "रोग लाग्नु"
+  ],
+  "options_ne": [
+   "बेइज्जत हुनु",
+   "नाक सफा गर्नु",
+   "नाक दुख्नु",
+   "रोग लाग्नु"
+  ],
+  "answer": 0,
+  "explanation": "नाक काटिनु भनेको बेइज्जत हुनु हो।",
+  "explanation_ne": "नाक काटिनु भनेको बेइज्जत हुनु हो।",
+  "source": "Nepali idioms"
+ },
+ {
+  "id": "NEP-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs and Idioms",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'आँखा चिम्लिनु' टुक्काको अर्थ के हो?",
+  "question_ne": "'आँखा चिम्लिनु' टुक्काको अर्थ के हो?",
+  "options": [
+   "नदेखे जस्तो गर्नु",
+   "सुत्नु",
+   "आँखा खोल्नु",
+   "आँखा दुख्नु"
+  ],
+  "options_ne": [
+   "नदेखे जस्तो गर्नु",
+   "सुत्नु",
+   "आँखा खोल्नु",
+   "आँखा दुख्नु"
+  ],
+  "answer": 0,
+  "explanation": "आँखा चिम्लिनु भनेको थाहा पाएर पनि नदेखे जस्तो गर्नु हो।",
+  "explanation_ne": "आँखा चिम्लिनु भनेको थाहा पाएर पनि नदेखे जस्तो गर्नु हो।",
+  "source": "Nepali idioms"
+ },
+ {
+  "id": "NEP-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "नेपाली पात्रोको पहिलो महिना कुन हो?",
+  "question_ne": "नेपाली पात्रोको पहिलो महिना कुन हो?",
+  "options": [
+   "बैशाख",
+   "असार",
+   "चैत",
+   "जेठ"
+  ],
+  "options_ne": [
+   "बैशाख",
+   "असार",
+   "चैत",
+   "जेठ"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रो बैशाख महिनाबाट सुरु हुन्छ।",
+  "explanation_ne": "नेपाली पात्रो बैशाख महिनाबाट सुरु हुन्छ।",
+  "source": "Nepali language"
+ },
+ {
+  "id": "NEP-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'राम' के हो?",
+  "question_ne": "'राम' के हो?",
+  "options": [
+   "संज्ञा",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया"
+  ],
+  "options_ne": [
+   "संज्ञा",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया"
+  ],
+  "answer": 0,
+  "explanation": "राम व्यक्तिको नाम भएकाले यो संज्ञा हो।",
+  "explanation_ne": "राम व्यक्तिको नाम भएकाले यो संज्ञा हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'राम्रो' के हो?",
+  "question_ne": "'राम्रो' के हो?",
+  "options": [
+   "संज्ञा",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया"
+  ],
+  "options_ne": [
+   "संज्ञा",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया"
+  ],
+  "answer": 2,
+  "explanation": "राम्रो ले गुण बताउने भएकाले यो विशेषण हो।",
+  "explanation_ne": "राम्रो ले गुण बताउने भएकाले यो विशेषण हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'म' के हो?",
+  "question_ne": "'म' के हो?",
+  "options": [
+   "संज्ञा",
+   "क्रिया",
+   "विशेषण",
+   "सर्वनाम"
+  ],
+  "options_ne": [
+   "संज्ञा",
+   "क्रिया",
+   "विशेषण",
+   "सर्वनाम"
+  ],
+  "answer": 3,
+  "explanation": "म नामको सट्टामा प्रयोग हुने भएकाले सर्वनाम हो।",
+  "explanation_ne": "म नामको सट्टामा प्रयोग हुने भएकाले सर्वनाम हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'छिटो' के हो?",
+  "question_ne": "'छिटो' के हो?",
+  "options": [
+   "संज्ञा",
+   "क्रियाविशेषण",
+   "विशेषण",
+   "सर्वनाम"
+  ],
+  "options_ne": [
+   "संज्ञा",
+   "क्रियाविशेषण",
+   "विशेषण",
+   "सर्वनाम"
+  ],
+  "answer": 1,
+  "explanation": "छिटो ले क्रियाको तरिका बताउने भएकाले क्रियाविशेषण हो।",
+  "explanation_ne": "छिटो ले क्रियाको तरिका बताउने भएकाले क्रियाविशेषण हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "NEP-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Nepali Grammar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "'ऊ किताब पढ्छ।' वाक्यमा कर्ता को हो?",
+  "question_ne": "'ऊ किताब पढ्छ।' वाक्यमा कर्ता को हो?",
+  "options": [
+   "ऊ",
+   "पढ्छ",
+   "छ",
+   "किताब"
+  ],
+  "options_ne": [
+   "ऊ",
+   "पढ्छ",
+   "छ",
+   "किताब"
+  ],
+  "answer": 0,
+  "explanation": "काम गर्ने ऊ भएकाले ऊ कर्ता हो।",
+  "explanation_ne": "काम गर्ने ऊ भएकाले ऊ कर्ता हो।",
+  "source": "Nepali grammar"
+ },
+ {
+  "id": "COMP-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nepal-telecom"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CPU",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which part of a computer is often called its 'brain'?",
+  "question_ne": "कम्प्युटरको कुन भागलाई प्रायः यसको 'मस्तिष्क' भनिन्छ?",
+  "options": [
+   "Hard disk",
+   "Monitor",
+   "CPU",
+   "Keyboard"
+  ],
+  "options_ne": [
+   "हार्ड डिस्क",
+   "मनिटर",
+   "CPU",
+   "किबोर्ड"
+  ],
+  "answer": 2,
+  "explanation": "The CPU (Central Processing Unit) carries out instructions, so it is called the brain of the computer.",
+  "explanation_ne": "CPU (केन्द्रीय प्रशोधन इकाई) ले निर्देशनहरू पूरा गर्दछ, त्यसैले यसलाई कम्प्युटरको मस्तिष्क भनिन्छ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which memory is temporary and is lost when the computer is switched off?",
+  "question_ne": "कुन मेमोरी अस्थायी हुन्छ र कम्प्युटर बन्द हुँदा हराउँछ?",
+  "options": [
+   "ROM",
+   "RAM",
+   "Pen drive",
+   "Hard disk"
+  ],
+  "options_ne": [
+   "ROM",
+   "RAM",
+   "पेन ड्राइभ",
+   "हार्ड डिस्क"
+  ],
+  "answer": 1,
+  "explanation": "RAM is volatile memory, so its contents are lost when power is off.",
+  "explanation_ne": "RAM अस्थिर मेमोरी हो, त्यसैले पावर बन्द हुँदा यसको सामग्रीहरू हराउँछन्।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which memory is permanent and keeps data even when the computer is off?",
+  "question_ne": "कुन मेमोरी स्थायी हुन्छ र कम्प्युटर अफ हुँदा पनि डाटा राख्छ?",
+  "options": [
+   "Register",
+   "ROM",
+   "RAM",
+   "Cache"
+  ],
+  "options_ne": [
+   "दर्ता गर्नुहोस्",
+   "ROM",
+   "RAM",
+   "क्यास"
+  ],
+  "answer": 1,
+  "explanation": "ROM is non-volatile memory that keeps its data without power.",
+  "explanation_ne": "ROM गैर-अस्थिर मेमोरी हो जसले यसको डेटा बिना पावर राख्छ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does RAM stand for?",
+  "question_ne": "RAM भनेको के हो?",
+  "options": [
+   "Random Access Memory",
+   "Rapid Access Memory",
+   "Ready Access Memory",
+   "Read Access Memory"
+  ],
+  "options_ne": [
+   "अनियमित पहुँच मेमोरी",
+   "द्रुत पहुँच मेमोरी",
+   "तयार पहुँच मेमोरी",
+   "Read Access Memory"
+  ],
+  "answer": 0,
+  "explanation": "RAM stands for Random Access Memory.",
+  "explanation_ne": "RAM को पूरा रूप Random Access Memory हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does ROM stand for?",
+  "question_ne": "ROM भनेको के हो?",
+  "options": [
+   "Read Open Memory",
+   "Read Only Memory",
+   "Rapid Only Memory",
+   "Random Only Memory"
+  ],
+  "options_ne": [
+   "ओपन मेमोरी पढ्नुहोस्",
+   "पढ्ने मात्र मेमोरी",
+   "द्रुत मात्र मेमोरी",
+   "अनियमित मात्र मेमोरी"
+  ],
+  "answer": 1,
+  "explanation": "ROM stands for Read Only Memory.",
+  "explanation_ne": "ROM भनेको पढ्ने मात्रै मेमोरी हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many bits are in 1 byte?",
+  "question_ne": "१ बाइटमा कति बिटहरू छन्?",
+  "options": [
+   "8",
+   "4",
+   "6",
+   "16"
+  ],
+  "options_ne": [
+   "८",
+   "४",
+   "६",
+   "१६"
+  ],
+  "answer": 0,
+  "explanation": "1 byte is equal to 8 bits.",
+  "explanation_ne": "१ बाइट ८ बिट बराबर छ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Memory",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many bytes are in 1 kilobyte (KB)?",
+  "question_ne": "१ किलोबाइट (KB) मा कति बाइटहरू छन्?",
+  "options": [
+   "512",
+   "1024",
+   "1000",
+   "100"
+  ],
+  "options_ne": [
+   "५१२",
+   "१०२४",
+   "१०००",
+   "१००"
+  ],
+  "answer": 1,
+  "explanation": "1 KB is equal to 1024 bytes.",
+  "explanation_ne": "१ KB १०२४ बाइट बराबर छ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nec-licence"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is an input device?",
+  "question_ne": "यी मध्ये कुन इनपुट यन्त्र हो?",
+  "options": [
+   "Printer",
+   "Speaker",
+   "Keyboard",
+   "Monitor"
+  ],
+  "options_ne": [
+   "प्रिन्टर",
+   "स्पिकर",
+   "किबोर्ड",
+   "मनिटर"
+  ],
+  "answer": 2,
+  "explanation": "A keyboard is used to enter data, so it is an input device.",
+  "explanation_ne": "किबोर्ड डाटा प्रविष्ट गर्न प्रयोग गरिन्छ, त्यसैले यो एक इनपुट उपकरण हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following devices is used for input?",
+  "question_ne": "तलका मध्ये कुन यन्त्र इनपुटको लागि प्रयोग गरिन्छ?",
+  "options": [
+   "Printer",
+   "Mouse",
+   "Monitor",
+   "Speaker"
+  ],
+  "options_ne": [
+   "प्रिन्टर",
+   "माउस",
+   "मनिटर",
+   "स्पिकर"
+  ],
+  "answer": 1,
+  "explanation": "A mouse is used to enter commands, so it is an input device.",
+  "explanation_ne": "आदेशहरू प्रविष्ट गर्न माउस प्रयोग गरिन्छ, त्यसैले यो इनपुट उपकरण हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator",
+   "nec-licence"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is an output device?",
+  "question_ne": "यी मध्ये कुन आउटपुट यन्त्र हो?",
+  "options": [
+   "Scanner",
+   "Monitor",
+   "Mouse",
+   "Keyboard"
+  ],
+  "options_ne": [
+   "स्क्यानर",
+   "मनिटर",
+   "माउस",
+   "किबोर्ड"
+  ],
+  "answer": 1,
+  "explanation": "A monitor displays results, so it is an output device.",
+  "explanation_ne": "मनिटरले परिणामहरू देखाउँछ, त्यसैले यो आउटपुट उपकरण हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following devices is used for output?",
+  "question_ne": "आउटपुटका लागि तलका मध्ये कुन यन्त्र प्रयोग गरिन्छ?",
+  "options": [
+   "Mouse",
+   "Printer",
+   "Keyboard",
+   "Scanner"
+  ],
+  "options_ne": [
+   "माउस",
+   "प्रिन्टर",
+   "किबोर्ड",
+   "स्क्यानर"
+  ],
+  "answer": 1,
+  "explanation": "A printer produces printed output, so it is an output device.",
+  "explanation_ne": "प्रिन्टरले मुद्रित आउटपुट उत्पादन गर्दछ, त्यसैले यो आउटपुट उपकरण हो।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which device is used to scan a printed document into a computer?",
+  "question_ne": "कम्प्युटरमा छापिएको कागजात स्क्यान गर्न कुन उपकरण प्रयोग गरिन्छ?",
+  "options": [
+   "Monitor",
+   "Printer",
+   "Speaker",
+   "Scanner"
+  ],
+  "options_ne": [
+   "मनिटर",
+   "प्रिन्टर",
+   "स्पिकर",
+   "स्क्यानर"
+  ],
+  "answer": 3,
+  "explanation": "A scanner converts a printed page into digital form.",
+  "explanation_ne": "एक स्क्यानरले छापिएको पृष्ठलाई डिजिटल फारममा रूपान्तरण गर्दछ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Input and Output Devices",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which device is both an input and an output device?",
+  "question_ne": "कुन यन्त्र इनपुट र आउटपुट दुवै उपकरण हो?",
+  "options": [
+   "Printer",
+   "Keyboard",
+   "Monitor",
+   "Touchscreen"
+  ],
+  "options_ne": [
+   "प्रिन्टर",
+   "किबोर्ड",
+   "मनिटर",
+   "टचस्क्रिन"
+  ],
+  "answer": 3,
+  "explanation": "A touchscreen takes touch input and also displays output.",
+  "explanation_ne": "टचस्क्रिनले टच इनपुट लिन्छ र आउटपुट पनि देखाउँछ।",
+  "source": "Computer fundamentals"
+ },
+ {
+  "id": "COMP-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for a Microsoft Excel workbook?",
+  "question_ne": "Microsoft Excel कार्यपुस्तिकाको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".docx",
+   ".xlsx",
+   ".pptx",
+   ".pdf"
+  ],
+  "options_ne": [
+   ".docx",
+   ".xlsx",
+   ".pptx",
+   ".pdf"
+  ],
+  "answer": 1,
+  "explanation": "Excel workbooks use the .xlsx extension.",
+  "explanation_ne": "एक्सेल कार्यपुस्तिकाले .xlsx विस्तार प्रयोग गर्दछ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for a Microsoft PowerPoint presentation?",
+  "question_ne": "Microsoft PowerPoint प्रस्तुतीकरणको लागि कुन फाइल विस्तार प्रयोग गरिन्छ?",
+  "options": [
+   ".docx",
+   ".pptx",
+   ".xlsx",
+   ".txt"
+  ],
+  "options_ne": [
+   ".docx",
+   ".pptx",
+   ".xlsx",
+   ".txt"
+  ],
+  "answer": 1,
+  "explanation": "PowerPoint presentations use the .pptx extension.",
+  "explanation_ne": "PowerPoint प्रस्तुतीकरणहरूले .pptx विस्तार प्रयोग गर्दछ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS Word, which shortcut is used to save a document?",
+  "question_ne": "MS Word मा, कागजात बचत गर्न कुन सर्टकट प्रयोग गरिन्छ?",
+  "options": [
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + V",
+   "Ctrl + C"
+  ],
+  "options_ne": [
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + V",
+   "Ctrl + C"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl + S saves the current document.",
+  "explanation_ne": "Ctrl + S ले हालको कागजात बचत गर्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS Word, which shortcut is used to make selected text italic?",
+  "question_ne": "MS Word मा, चयन गरिएको पाठलाई इटालिक बनाउन कुन सर्टकट प्रयोग गरिन्छ?",
+  "options": [
+   "Ctrl + I",
+   "Ctrl + U",
+   "Ctrl + B",
+   "Ctrl + P"
+  ],
+  "options_ne": [
+   "Ctrl + I",
+   "Ctrl + U",
+   "Ctrl + B",
+   "Ctrl + P"
+  ],
+  "answer": 0,
+  "explanation": "Ctrl + I makes selected text italic.",
+  "explanation_ne": "Ctrl + I ले चयन गरिएको पाठलाई इटालिक बनाउँछ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS Word, which shortcut is used to underline selected text?",
+  "question_ne": "MS Word मा, चयन गरिएको पाठलाई अन्डरलाइन गर्न कुन सर्टकट प्रयोग गरिन्छ?",
+  "options": [
+   "Ctrl + U",
+   "Ctrl + B",
+   "Ctrl + Z",
+   "Ctrl + I"
+  ],
+  "options_ne": [
+   "Ctrl + U",
+   "Ctrl + B",
+   "Ctrl + Z",
+   "Ctrl + I"
+  ],
+  "answer": 0,
+  "explanation": "Ctrl + U underlines selected text.",
+  "explanation_ne": "Ctrl + U चयन गरिएको पाठलाई रेखांकित गर्दछ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS Excel, a formula always starts with which symbol?",
+  "question_ne": "MS Excel मा, सूत्र सधैं कुन प्रतीकबाट सुरु हुन्छ?",
+  "options": [
+   "=",
+   "#",
+   "+",
+   "$"
+  ],
+  "options_ne": [
+   "=",
+   "#",
+   "+",
+   "$"
+  ],
+  "answer": 0,
+  "explanation": "Every Excel formula starts with the equals sign.",
+  "explanation_ne": "प्रत्येक एक्सेल सूत्र बराबर चिन्हबाट सुरु हुन्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS Excel, what is the intersection of a row and a column called?",
+  "question_ne": "MS Excel मा, पंक्ति र स्तम्भको प्रतिच्छेदनलाई के भनिन्छ?",
+  "options": [
+   "Cell",
+   "Sheet",
+   "Table",
+   "Range"
+  ],
+  "options_ne": [
+   "सेल",
+   "पाना",
+   "तालिका",
+   "दायरा"
+  ],
+  "answer": 0,
+  "explanation": "The intersection of a row and a column is called a cell.",
+  "explanation_ne": "पङ्क्ति र स्तम्भको प्रतिच्छेदनलाई सेल भनिन्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In MS Excel, which function adds a range of numbers?",
+  "question_ne": "MS Excel मा, कुन प्रकार्यले संख्याहरूको दायरा थप्छ?",
+  "options": [
+   "MAX",
+   "COUNT",
+   "SUM",
+   "AVERAGE"
+  ],
+  "options_ne": [
+   "MAX",
+   "COUNT",
+   "SUM",
+   "औसत"
+  ],
+  "answer": 2,
+  "explanation": "The SUM function adds numbers in a range.",
+  "explanation_ne": "SUM प्रकार्यले दायरामा संख्याहरू थप्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In MS Excel, which function finds the average of numbers?",
+  "question_ne": "MS Excel मा, कुन प्रकार्यले संख्याहरूको औसत फेला पार्छ?",
+  "options": [
+   "MIN",
+   "COUNT",
+   "AVERAGE",
+   "SUM"
+  ],
+  "options_ne": [
+   "MIN",
+   "COUNT",
+   "औसत",
+   "SUM"
+  ],
+  "answer": 2,
+  "explanation": "The AVERAGE function finds the mean of numbers.",
+  "explanation_ne": "AVERAGE प्रकार्यले संख्याहरूको माध्य फेला पार्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "MS Office",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In MS PowerPoint, a single page of a presentation is called a:",
+  "question_ne": "MS PowerPoint मा, प्रस्तुतिको एकल पृष्ठलाई भनिन्छ:",
+  "options": [
+   "Cell",
+   "Sheet",
+   "Slide",
+   "Page"
+  ],
+  "options_ne": [
+   "सेल",
+   "पाना",
+   "स्लाइड",
+   "पृष्ठ"
+  ],
+  "answer": 2,
+  "explanation": "Each page of a PowerPoint presentation is called a slide.",
+  "explanation_ne": "PowerPoint प्रस्तुतीकरणको प्रत्येक पृष्ठलाई स्लाइड भनिन्छ।",
+  "source": "MS Office"
+ },
+ {
+  "id": "COMP-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut copies selected text or files?",
+  "question_ne": "कुन सर्टकटले चयन गरिएका पाठ वा फाइलहरूलाई प्रतिलिपि गर्छ?",
+  "options": [
+   "Ctrl + X",
+   "Ctrl + C",
+   "Ctrl + Z",
+   "Ctrl + V"
+  ],
+  "options_ne": [
+   "Ctrl + X",
+   "Ctrl + C",
+   "Ctrl + Z",
+   "Ctrl + V"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl + C copies the selection.",
+  "explanation_ne": "Ctrl + C चयन प्रतिलिपि गर्दछ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut pastes copied text or files?",
+  "question_ne": "कुन सर्टकटले प्रतिलिपि गरिएको पाठ वा फाइलहरू टाँस्छ?",
+  "options": [
+   "Ctrl + C",
+   "Ctrl + X",
+   "Ctrl + S",
+   "Ctrl + V"
+  ],
+  "options_ne": [
+   "Ctrl + C",
+   "Ctrl + X",
+   "Ctrl + S",
+   "Ctrl + V"
+  ],
+  "answer": 3,
+  "explanation": "Ctrl + V pastes the copied item.",
+  "explanation_ne": "Ctrl + V प्रतिलिपि गरिएको वस्तु टाँस्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut cuts selected text or files?",
+  "question_ne": "कुन सर्टकटले चयन गरिएको पाठ वा फाइलहरूलाई काट्छ?",
+  "options": [
+   "Ctrl + V",
+   "Ctrl + A",
+   "Ctrl + X",
+   "Ctrl + C"
+  ],
+  "options_ne": [
+   "Ctrl + V",
+   "Ctrl + A",
+   "Ctrl + X",
+   "Ctrl + C"
+  ],
+  "answer": 2,
+  "explanation": "Ctrl + X cuts the selection.",
+  "explanation_ne": "Ctrl + X चयन काट्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut undoes the last action?",
+  "question_ne": "कुन सर्टकटले अन्तिम कार्यलाई पूर्ववत गर्छ?",
+  "options": [
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + Y",
+   "Ctrl + Z"
+  ],
+  "options_ne": [
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + Y",
+   "Ctrl + Z"
+  ],
+  "answer": 3,
+  "explanation": "Ctrl + Z undoes the last action.",
+  "explanation_ne": "Ctrl + Z ले अन्तिम कार्यलाई अन्डू गर्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut selects all items in a document or folder?",
+  "question_ne": "कुन सर्टकटले कागजात वा फोल्डरका सबै वस्तुहरू चयन गर्छ?",
+  "options": [
+   "Ctrl + F",
+   "Ctrl + A",
+   "Ctrl + S",
+   "Ctrl + N"
+  ],
+  "options_ne": [
+   "Ctrl + F",
+   "Ctrl + A",
+   "Ctrl + S",
+   "Ctrl + N"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl + A selects all.",
+  "explanation_ne": "Ctrl + A ले सबै चयन गर्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut is used to print a document?",
+  "question_ne": "कागजात छाप्न कुन सर्टकट प्रयोग गरिन्छ?",
+  "options": [
+   "Ctrl + C",
+   "Ctrl + S",
+   "Ctrl + F",
+   "Ctrl + P"
+  ],
+  "options_ne": [
+   "Ctrl + C",
+   "Ctrl + S",
+   "Ctrl + F",
+   "Ctrl + P"
+  ],
+  "answer": 3,
+  "explanation": "Ctrl + P opens the print dialog.",
+  "explanation_ne": "Ctrl + P प्रिन्ट संवाद खोल्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which shortcut is used to find text in a document?",
+  "question_ne": "कागजातमा पाठ फेला पार्न कुन सर्टकट प्रयोग गरिन्छ?",
+  "options": [
+   "Ctrl + H",
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + F"
+  ],
+  "options_ne": [
+   "Ctrl + H",
+   "Ctrl + P",
+   "Ctrl + S",
+   "Ctrl + F"
+  ],
+  "answer": 3,
+  "explanation": "Ctrl + F opens the Find box.",
+  "explanation_ne": "Ctrl + F खोज बक्स खोल्छ।",
+  "source": "Keyboard shortcuts"
+ },
+ {
+  "id": "COMP-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the decimal value of binary 1010?",
+  "question_ne": "बाइनरी 1010 को दशमलव मान के हो?",
+  "options": [
+   "9",
+   "10",
+   "8",
+   "12"
+  ],
+  "options_ne": [
+   "९",
+   "१०",
+   "८",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Binary 1010 equals 8 + 2, which is 10 in decimal.",
+  "explanation_ne": "बाइनरी 1010 बराबर ८ + २, जुन दशमलवमा १० हो।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the decimal value of binary 101?",
+  "question_ne": "बाइनरी 101 को दशमलव मान के हो?",
+  "options": [
+   "7",
+   "6",
+   "3",
+   "5"
+  ],
+  "options_ne": [
+   "७",
+   "६",
+   "३",
+   "५"
+  ],
+  "answer": 3,
+  "explanation": "Binary 101 equals 4 + 1, which is 5 in decimal.",
+  "explanation_ne": "बाइनरी 101 बराबर ४ + १, जुन दशमलवमा ५ हो।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the decimal value of binary 111?",
+  "question_ne": "बाइनरी १११ को दशमलव मान कति हो?",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "5"
+  ],
+  "options_ne": [
+   "८",
+   "६",
+   "७",
+   "५"
+  ],
+  "answer": 2,
+  "explanation": "Binary 111 equals 4 + 2 + 1, which is 7 in decimal.",
+  "explanation_ne": "बाइनरी 111 बराबर ४ + २ + १, जुन दशमलवमा ७ हो।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the decimal value of binary 1000?",
+  "question_ne": "बाइनरी 1000 को दशमलव मान के हो?",
+  "options": [
+   "4",
+   "6",
+   "10",
+   "8"
+  ],
+  "options_ne": [
+   "४",
+   "६",
+   "१०",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "Binary 1000 equals 8 in decimal.",
+  "explanation_ne": "बाइनरी 1000 बराबर ८ दशमलवमा।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the decimal value of binary 1100?",
+  "question_ne": "बाइनरी 1100 को दशमलव मान के हो?",
+  "options": [
+   "11",
+   "12",
+   "14",
+   "10"
+  ],
+  "options_ne": [
+   "११",
+   "१२",
+   "१४",
+   "१०"
+  ],
+  "answer": 1,
+  "explanation": "Binary 1100 equals 8 + 4, which is 12 in decimal.",
+  "explanation_ne": "बाइनरी 1100 बराबर ८ + ४, जुन दशमलवमा १२ हो।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Binary and Number Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the binary value of decimal 4?",
+  "question_ne": "दशमलव ४ को बाइनरी मान के हो?",
+  "options": [
+   "10",
+   "1000",
+   "101",
+   "100"
+  ],
+  "options_ne": [
+   "१०",
+   "१०००",
+   "१०१",
+   "१००"
+  ],
+  "answer": 3,
+  "explanation": "Decimal 4 is 100 in binary.",
+  "explanation_ne": "दशमलव ४ बाइनरीमा 100 हो।",
+  "source": "Binary numbers"
+ },
+ {
+  "id": "COMP-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is an operating system?",
+  "question_ne": "यी मध्ये कुन अपरेटिङ सिस्टम हो?",
+  "options": [
+   "Google Chrome",
+   "Windows",
+   "MS Word",
+   "MS Excel"
+  ],
+  "options_ne": [
+   "गुगल क्रोम",
+   "विन्डोज",
+   "एमएस वर्ड",
+   "एमएस एक्सेल"
+  ],
+  "answer": 1,
+  "explanation": "Windows is an operating system; Word and Excel are applications.",
+  "explanation_ne": "विन्डोज एक अपरेटिङ सिस्टम हो; वर्ड र एक्सेल एप्लिकेसन हुन्।",
+  "source": "Operating systems"
+ },
+ {
+  "id": "COMP-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is an example of an operating system?",
+  "question_ne": "निम्न मध्ये कुन अपरेटिङ सिस्टमको उदाहरण हो?",
+  "options": [
+   "Photoshop",
+   "PowerPoint",
+   "Linux",
+   "MS Word"
+  ],
+  "options_ne": [
+   "फोटोशप",
+   "पावरपोइन्ट",
+   "लिनक्स",
+   "एमएस वर्ड"
+  ],
+  "answer": 2,
+  "explanation": "Linux is an operating system.",
+  "explanation_ne": "लिनक्स एक अपरेटिङ सिस्टम हो।",
+  "source": "Operating systems"
+ },
+ {
+  "id": "COMP-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which operating system is used on most Android phones?",
+  "question_ne": "सबैभन्दा धेरै एन्ड्रोइड फोनहरूमा कुन अपरेटिङ सिस्टम प्रयोग गरिन्छ?",
+  "options": [
+   "Windows",
+   "macOS",
+   "Android",
+   "Linux"
+  ],
+  "options_ne": [
+   "विन्डोज",
+   "macOS",
+   "एन्ड्रोइड",
+   "लिनक्स"
+  ],
+  "answer": 2,
+  "explanation": "Android is the operating system used on most Android phones.",
+  "explanation_ne": "एन्ड्रोइड अधिकांश एन्ड्रोइड फोनहरूमा प्रयोग हुने अपरेटिङ सिस्टम हो।",
+  "source": "Operating systems"
+ },
+ {
+  "id": "COMP-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which operating system is made by Apple for Mac computers?",
+  "question_ne": "एप्पलले म्याक कम्प्युटरका लागि कुन अपरेटिङ सिस्टम बनाएको हो?",
+  "options": [
+   "Linux",
+   "Windows",
+   "macOS",
+   "Android"
+  ],
+  "options_ne": [
+   "लिनक्स",
+   "विन्डोज",
+   "macOS",
+   "एन्ड्रोइड"
+  ],
+  "answer": 2,
+  "explanation": "macOS is Apple's operating system for Mac computers.",
+  "explanation_ne": "macOS म्याक कम्प्युटरहरूको लागि एप्पलको अपरेटिङ सिस्टम हो।",
+  "source": "Operating systems"
+ },
+ {
+  "id": "COMP-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Keyboard Shortcuts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which keyboard shortcut pastes copied text in most programs?",
+  "question_ne": "कुन किबोर्ड सर्टकटले धेरै प्रोग्रामहरूमा प्रतिलिपि गरिएको पाठ टाँस्छ?",
+  "options": [
+   "Ctrl + C",
+   "Ctrl + V",
+   "Ctrl + P",
+   "Ctrl + X"
+  ],
+  "options_ne": [
+   "Ctrl + C",
+   "Ctrl + V",
+   "Ctrl + P",
+   "Ctrl + X"
+  ],
+  "answer": 1,
+  "explanation": "Ctrl + V pastes text copied with Ctrl + C; Ctrl + X cuts and Ctrl + P prints.",
+  "explanation_ne": "Ctrl + V Ctrl + C सँग प्रतिलिपि गरिएको पाठ टाँस्छ; Ctrl + X कट र Ctrl + P प्रिन्टहरू।",
+  "source": "Internet"
+ },
+ {
+  "id": "COMP-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Internet and Email",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does HTTP stand for?",
+  "question_ne": "HTTP भनेको के हो?",
+  "options": [
+   "HighText Transfer Protocol",
+   "HyperText Transfer Protocol",
+   "High Transfer Text Protocol",
+   "HyperText Transmission Program"
+  ],
+  "options_ne": [
+   "हाईटेक्स्ट ट्रान्सफर प्रोटोकल",
+   "हाइपरटेक्स्ट ट्रान्सफर प्रोटोकल",
+   "उच्च स्थानान्तरण पाठ प्रोटोकल",
+   "हाइपरटेक्स्ट ट्रान्समिशन प्रोग्राम"
+  ],
+  "answer": 1,
+  "explanation": "HTTP stands for HyperText Transfer Protocol.",
+  "explanation_ne": "HTTP हाइपरटेक्स्ट ट्रान्सफर प्रोटोकल हो।",
+  "source": "Internet"
+ },
+ {
+  "id": "COMP-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Internet and Email",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does URL stand for?",
+  "question_ne": "URL भनेको के हो?",
+  "options": [
+   "Uniform Resource Locator",
+   "Uniform Reference Locator",
+   "Universal Record Locator",
+   "Universal Resource Link"
+  ],
+  "options_ne": [
+   "समान स्रोत लोकेटर",
+   "समान सन्दर्भ लोकेटर",
+   "विश्वव्यापी रेकर्ड लोकेटर",
+   "विश्वव्यापी संसाधन लिङ्क"
+  ],
+  "answer": 0,
+  "explanation": "URL stands for Uniform Resource Locator.",
+  "explanation_ne": "URL को पूरा रूप Uniform Resource Locator हो।",
+  "source": "Internet"
+ },
+ {
+  "id": "COMP-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Internet and Email",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which symbol must be present in every email address?",
+  "question_ne": "कुन प्रतीक प्रत्येक इमेल ठेगानामा उपस्थित हुनुपर्छ?",
+  "options": [
+   "#",
+   "@",
+   "$",
+   "%"
+  ],
+  "options_ne": [
+   "#",
+   "@",
+   "$",
+   "%"
+  ],
+  "answer": 1,
+  "explanation": "Every email address contains the @ symbol.",
+  "explanation_ne": "प्रत्येक इमेल ठेगानामा @ प्रतीक हुन्छ।",
+  "source": "Internet and email"
+ },
+ {
+  "id": "COMP-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Internet and Email",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a web browser?",
+  "question_ne": "तलका मध्ये कुन वेब ब्राउजर हो?",
+  "options": [
+   "MS Word",
+   "MS Excel",
+   "Notepad",
+   "Google Chrome"
+  ],
+  "options_ne": [
+   "एमएस वर्ड",
+   "एमएस एक्सेल",
+   "नोटप्याड",
+   "गुगल क्रोम"
+  ],
+  "answer": 3,
+  "explanation": "Google Chrome is a web browser.",
+  "explanation_ne": "गुगल क्रोम एक वेब ब्राउजर हो।",
+  "source": "Internet"
+ },
+ {
+  "id": "COMP-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Internet and Email",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a search engine?",
+  "question_ne": "तलका मध्ये कुन खोज इन्जिन हो?",
+  "options": [
+   "Windows",
+   "Chrome",
+   "MS Word",
+   "Google"
+  ],
+  "options_ne": [
+   "विन्डोज",
+   "क्रोम",
+   "एमएस वर्ड",
+   "गुगल"
+  ],
+  "answer": 3,
+  "explanation": "Google is a search engine.",
+  "explanation_ne": "गुगल एक खोज इन्जिन हो।",
+  "source": "Internet"
+ },
+ {
+  "id": "COMP-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for a PDF document?",
+  "question_ne": "PDF कागजातको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".pdf",
+   ".docx",
+   ".jpg",
+   ".xlsx"
+  ],
+  "options_ne": [
+   ".pdf",
+   ".docx",
+   ".jpg",
+   ".xlsx"
+  ],
+  "answer": 0,
+  "explanation": "PDF documents use the .pdf extension.",
+  "explanation_ne": "PDF कागजातहरूले .pdf विस्तार प्रयोग गर्दछ।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for an image file?",
+  "question_ne": "छवि फाइलको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".txt",
+   ".mp3",
+   ".jpg",
+   ".docx"
+  ],
+  "options_ne": [
+   ".txt",
+   "mp3",
+   ".jpg",
+   ".docx"
+  ],
+  "answer": 2,
+  "explanation": ".jpg is an image file extension.",
+  "explanation_ne": ".jpg छवि फाइल एक्सटेन्सन हो।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for an audio file?",
+  "question_ne": "अडियो फाइलको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".docx",
+   ".jpg",
+   ".pdf",
+   ".mp3"
+  ],
+  "options_ne": [
+   ".docx",
+   ".jpg",
+   ".pdf",
+   "mp3"
+  ],
+  "answer": 3,
+  "explanation": ".mp3 is an audio file extension.",
+  "explanation_ne": "mp3 अडियो फाइल एक्सटेन्सन हो।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for a video file?",
+  "question_ne": "भिडियो फाइलको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".jpg",
+   ".mp3",
+   ".txt",
+   ".mp4"
+  ],
+  "options_ne": [
+   ".jpg",
+   ".mp3",
+   ".txt",
+   ".mp4"
+  ],
+  "answer": 3,
+  "explanation": ".mp4 is a video file extension.",
+  "explanation_ne": ".mp4 एक भिडियो फाइल एक्सटेन्सन हो।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which file extension is used for a plain text file?",
+  "question_ne": "सादा पाठ फाइलको लागि कुन फाइल एक्सटेन्सन प्रयोग गरिन्छ?",
+  "options": [
+   ".txt",
+   ".jpg",
+   ".mp3",
+   ".pdf"
+  ],
+  "options_ne": [
+   ".txt",
+   ".jpg",
+   "mp3",
+   ".pdf"
+  ],
+  "answer": 0,
+  "explanation": ".txt is a plain text file extension.",
+  "explanation_ne": ".txt एक सादा पाठ फाइल विस्तार हो।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "File Extensions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does PDF stand for?",
+  "question_ne": "PDF भनेको के हो?",
+  "options": [
+   "Personal Document File",
+   "Printed Document Format",
+   "Portable Document Format",
+   "Public Document Format"
+  ],
+  "options_ne": [
+   "व्यक्तिगत कागजात फाइल",
+   "मुद्रित कागजात ढाँचा",
+   "पोर्टेबल कागजात ढाँचा",
+   "सार्वजनिक कागजात ढाँचा"
+  ],
+  "answer": 2,
+  "explanation": "PDF stands for Portable Document Format.",
+  "explanation_ne": "PDF को पूरा रूप Portable Document Format हो।",
+  "source": "File extensions"
+ },
+ {
+  "id": "COMP-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does LAN stand for?",
+  "question_ne": "LAN भनेको के हो?",
+  "options": [
+   "Large Area Network",
+   "Linked Area Network",
+   "Local Area Network",
+   "Long Area Network"
+  ],
+  "options_ne": [
+   "ठूलो क्षेत्र नेटवर्क",
+   "लिङ्क गरिएको क्षेत्र नेटवर्क",
+   "स्थानीय क्षेत्र नेटवर्क",
+   "लामो क्षेत्र नेटवर्क"
+  ],
+  "answer": 2,
+  "explanation": "LAN stands for Local Area Network.",
+  "explanation_ne": "LAN भनेको लोकल एरिया नेटवर्क हो।",
+  "source": "Networks"
+ },
+ {
+  "id": "COMP-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does WAN stand for?",
+  "question_ne": "WAN भनेको के हो?",
+  "options": [
+   "Wired Area Network",
+   "Wide Area Network",
+   "World Area Network",
+   "Wireless Area Network"
+  ],
+  "options_ne": [
+   "वायर्ड एरिया नेटवर्क",
+   "वाइड एरिया नेटवर्क",
+   "विश्व क्षेत्र नेटवर्क",
+   "वायरलेस एरिया नेटवर्क"
+  ],
+  "answer": 1,
+  "explanation": "WAN stands for Wide Area Network.",
+  "explanation_ne": "WAN को अर्थ वाइड एरिया नेटवर्क हो।",
+  "source": "Networks"
+ },
+ {
+  "id": "COMP-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which device directs data between different networks?",
+  "question_ne": "कुन उपकरणले विभिन्न नेटवर्कहरू बीच डाटा निर्देशित गर्दछ?",
+  "options": [
+   "Router",
+   "Printer",
+   "Keyboard",
+   "Monitor"
+  ],
+  "options_ne": [
+   "राउटर",
+   "प्रिन्टर",
+   "किबोर्ड",
+   "मनिटर"
+  ],
+  "answer": 0,
+  "explanation": "A router directs data between networks.",
+  "explanation_ne": "राउटरले नेटवर्कहरू बीच डाटा निर्देशित गर्दछ।",
+  "source": "Networks"
+ },
+ {
+  "id": "COMP-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Generations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which technology was used in the first generation of computers?",
+  "question_ne": "कम्प्युटरको पहिलो पुस्तामा कुन प्रविधि प्रयोग भएको थियो?",
+  "options": [
+   "Integrated circuits",
+   "Transistors",
+   "Vacuum tubes",
+   "Microprocessors"
+  ],
+  "options_ne": [
+   "एकीकृत सर्किट",
+   "ट्रान्जिस्टरहरू",
+   "भ्याकुम ट्यूबहरू",
+   "माइक्रोप्रोसेसरहरू"
+  ],
+  "answer": 2,
+  "explanation": "First-generation computers used vacuum tubes.",
+  "explanation_ne": "पहिलो पुस्ताका कम्प्युटरहरूले भ्याकुम ट्यूबहरू प्रयोग गर्थे।",
+  "source": "Computer generations"
+ },
+ {
+  "id": "COMP-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Generations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which technology was used in the second generation of computers?",
+  "question_ne": "दोस्रो पुस्ताको कम्प्युटरमा कुन प्रविधि प्रयोग भएको थियो?",
+  "options": [
+   "Transistors",
+   "Microprocessors",
+   "Integrated circuits",
+   "Vacuum tubes"
+  ],
+  "options_ne": [
+   "ट्रान्जिस्टरहरू",
+   "माइक्रोप्रोसेसरहरू",
+   "एकीकृत सर्किट",
+   "भ्याकुम ट्यूबहरू"
+  ],
+  "answer": 0,
+  "explanation": "Second-generation computers used transistors.",
+  "explanation_ne": "दोस्रो पुस्ताका कम्प्युटरहरूले ट्रान्जिस्टरहरू प्रयोग गर्थे।",
+  "source": "Computer generations"
+ },
+ {
+  "id": "COMP-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Generations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which technology was used in the third generation of computers?",
+  "question_ne": "तेस्रो पुस्ताको कम्प्युटरमा कुन प्रविधिको प्रयोग भएको थियो?",
+  "options": [
+   "Integrated circuits",
+   "Microprocessors",
+   "Transistors",
+   "Vacuum tubes"
+  ],
+  "options_ne": [
+   "एकीकृत सर्किट",
+   "माइक्रोप्रोसेसरहरू",
+   "ट्रान्जिस्टरहरू",
+   "भ्याकुम ट्यूबहरू"
+  ],
+  "answer": 0,
+  "explanation": "Third-generation computers used integrated circuits.",
+  "explanation_ne": "तेस्रो पुस्ताका कम्प्युटरहरूले एकीकृत सर्किटहरू प्रयोग गर्थे।",
+  "source": "Computer generations"
+ },
+ {
+  "id": "COMP-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Generations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which technology was used in the fourth generation of computers?",
+  "question_ne": "कम्प्युटरको चौथो पुस्तामा कुन प्रविधिको प्रयोग भएको थियो?",
+  "options": [
+   "Vacuum tubes",
+   "Microprocessors",
+   "Integrated circuits",
+   "Transistors"
+  ],
+  "options_ne": [
+   "भ्याकुम ट्यूबहरू",
+   "माइक्रोप्रोसेसरहरू",
+   "एकीकृत सर्किट",
+   "ट्रान्जिस्टरहरू"
+  ],
+  "answer": 1,
+  "explanation": "Fourth-generation computers used microprocessors.",
+  "explanation_ne": "चौथो पुस्ताका कम्प्युटरहरूले माइक्रोप्रोसेसरहरू प्रयोग गर्थे।",
+  "source": "Computer generations"
+ },
+ {
+  "id": "COMP-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Generations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is known as the father of the computer?",
+  "question_ne": "कम्प्युटरका पिता भनेर कसलाई चिनिन्छ?",
+  "options": [
+   "Steve Jobs",
+   "Charles Babbage",
+   "Alan Turing",
+   "Bill Gates"
+  ],
+  "options_ne": [
+   "स्टीव जब्स",
+   "चार्ल्स बैबेज",
+   "एलन ट्युरिङ",
+   "बिल गेट्स"
+  ],
+  "answer": 1,
+  "explanation": "Charles Babbage is known as the father of the computer.",
+  "explanation_ne": "चार्ल्स ब्याबेजलाई कम्प्युटरको पिता भनेर चिनिन्छ।",
+  "source": "Computer history"
+ },
+ {
+  "id": "COMP-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Cyber Safety",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the safest password practice?",
+  "question_ne": "तलका मध्ये कुन सबैभन्दा सुरक्षित पासवर्ड अभ्यास हो?",
+  "options": [
+   "Use the same password everywhere",
+   "Share your password with friends",
+   "Use a long password with letters, numbers and symbols",
+   "Use your birth date as password"
+  ],
+  "options_ne": [
+   "सबै ठाउँमा एउटै पासवर्ड प्रयोग गर्नुहोस्",
+   "साथीहरूसँग आफ्नो पासवर्ड साझा गर्नुहोस्",
+   "अक्षर, अंक र प्रतीक भएको लामो पासवर्ड प्रयोग गर्नुहोस्",
+   "पासवर्डको रूपमा आफ्नो जन्म मिति प्रयोग गर्नुहोस्"
+  ],
+  "answer": 2,
+  "explanation": "A long password with letters, numbers and symbols is much harder to guess.",
+  "explanation_ne": "अक्षर, संख्या र प्रतीक भएको लामो पासवर्ड अनुमान गर्न धेरै गाह्रो छ।",
+  "source": "Cyber safety"
+ },
+ {
+  "id": "COMP-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Cyber Safety",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is phishing?",
+  "question_ne": "फिसिङ भनेको के हो?",
+  "options": [
+   "A type of fishing",
+   "A computer game",
+   "A fraud that tricks people into sharing passwords or bank details",
+   "A virus scanner"
+  ],
+  "options_ne": [
+   "माछा मार्ने एक प्रकार",
+   "एक कम्प्युटर खेल",
+   "एक ठगी जसले मानिसहरूलाई पासवर्ड वा बैंक विवरणहरू साझेदारी गर्न छल गर्छ",
+   "एक भाइरस स्क्यानर"
+  ],
+  "answer": 2,
+  "explanation": "Phishing is a fraud that tricks people into revealing passwords or bank details.",
+  "explanation_ne": "फिसिङ भनेको ठगी हो जसले मानिसहरूलाई पासवर्ड वा बैंक विवरणहरू खुलाउन ठगाउँछ।",
+  "source": "Cyber safety"
+ },
+ {
+  "id": "COMP-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Cyber Safety",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is a computer virus?",
+  "question_ne": "कम्प्युटर भाइरस के हो?",
+  "options": [
+   "An antivirus tool",
+   "A type of hardware",
+   "A harmful program that can damage files or steal data",
+   "A useful program"
+  ],
+  "options_ne": [
+   "एक एन्टिभाइरस उपकरण",
+   "एक प्रकारको हार्डवेयर",
+   "एक हानिकारक प्रोग्राम जसले फाइलहरूलाई क्षति पुर्याउन वा डाटा चोरी गर्न सक्छ",
+   "एक उपयोगी कार्यक्रम"
+  ],
+  "answer": 2,
+  "explanation": "A computer virus is a harmful program that can damage files or steal data.",
+  "explanation_ne": "कम्प्युटर भाइरस एक हानिकारक प्रोग्राम हो जसले फाइलहरूलाई हानि गर्न वा डाटा चोरी गर्न सक्छ।",
+  "source": "Cyber safety"
+ },
+ {
+  "id": "COMP-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Cyber Safety",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the purpose of antivirus software?",
+  "question_ne": "एन्टिभाइरस सफ्टवेयर को उद्देश्य के हो?",
+  "options": [
+   "To slow down the computer",
+   "To browse the internet",
+   "To detect and remove harmful programs",
+   "To print documents"
+  ],
+  "options_ne": [
+   "कम्प्युटर ढिलो गर्न",
+   "इन्टरनेट ब्राउज गर्न",
+   "हानिकारक कार्यक्रमहरू पत्ता लगाउन र हटाउन",
+   "कागजातहरू छाप्न"
+  ],
+  "answer": 2,
+  "explanation": "Antivirus software detects and removes harmful programs.",
+  "explanation_ne": "एन्टिभाइरस सफ्टवेयरले हानिकारक प्रोग्रामहरू पत्ता लगाउँछ र हटाउँछ।",
+  "source": "Cyber safety"
+ },
+ {
+  "id": "COMP-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Cyber Safety",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a firewall?",
+  "question_ne": "फायरवाल के हो?",
+  "options": [
+   "A security system that controls incoming and outgoing network traffic",
+   "A type of printer",
+   "A wall that blocks fire",
+   "A backup device"
+  ],
+  "options_ne": [
+   "एक सुरक्षा प्रणाली जसले आगमन र बाहिर जाने नेटवर्क ट्राफिक नियन्त्रण गर्दछ",
+   "एक प्रकारको प्रिन्टर",
+   "आगो रोक्ने पर्खाल",
+   "ब्याकअप उपकरण"
+  ],
+  "answer": 0,
+  "explanation": "A firewall controls network traffic to protect a computer or network.",
+  "explanation_ne": "फायरवालले कम्प्युटर वा नेटवर्कलाई सुरक्षित राख्न नेटवर्क ट्राफिक नियन्त्रण गर्छ।",
+  "source": "Cyber safety"
+ },
+ {
+  "id": "COMP-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Nepal ICT",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does NTA stand for in Nepal?",
+  "question_ne": "नेपालमा NTA को अर्थ के हो?",
+  "options": [
+   "National Telecom Agency",
+   "Nepal Telecommunications Authority",
+   "Nepal Technology Authority",
+   "Nepal Telecom Authority"
+  ],
+  "options_ne": [
+   "राष्ट्रिय दूरसंचार एजेन्सी",
+   "नेपाल दूरसञ्चार प्राधिकरण",
+   "नेपाल प्रविधि प्राधिकरण",
+   "नेपाल दूरसञ्चार प्राधिकरण"
+  ],
+  "answer": 1,
+  "explanation": "NTA stands for Nepal Telecommunications Authority.",
+  "explanation_ne": "NTA को अर्थ नेपाल दूरसञ्चार प्राधिकरण हो।",
+  "source": "Nepal ICT"
+ },
+ {
+  "id": "COMP-071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nepal-telecom"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Nepal ICT",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the role of the Nepal Telecommunications Authority (NTA)?",
+  "question_ne": "नेपाल दूरसञ्चार प्राधिकरण (NTA) को भूमिका के छ?",
+  "options": [
+   "To build roads",
+   "To print currency",
+   "To run schools",
+   "To regulate telecommunications in Nepal"
+  ],
+  "options_ne": [
+   "सडक निर्माण गर्न",
+   "मुद्रा छाप्न",
+   "विद्यालय सञ्चालन गर्न",
+   "नेपालमा दूरसञ्चारको नियमन गर्ने"
+  ],
+  "answer": 3,
+  "explanation": "NTA is the regulator of telecommunications in Nepal.",
+  "explanation_ne": "NTA नेपालको दूरसञ्चारको नियामक हो।",
+  "source": "Nepal ICT"
+ },
+ {
+  "id": "COMP-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which storage device is usually inside a computer and stores large amounts of data?",
+  "question_ne": "कुन भण्डारण उपकरण सामान्यतया कम्प्युटर भित्र हुन्छ र ठूलो मात्रामा डाटा भण्डारण गर्छ?",
+  "options": [
+   "RAM",
+   "Monitor",
+   "Hard disk",
+   "Keyboard"
+  ],
+  "options_ne": [
+   "RAM",
+   "मनिटर",
+   "हार्ड डिस्क",
+   "किबोर्ड"
+  ],
+  "answer": 2,
+  "explanation": "A hard disk is the main internal storage device of a computer.",
+  "explanation_ne": "हार्ड डिस्क कम्प्युटरको मुख्य आन्तरिक भण्डारण यन्त्र हो।",
+  "source": "Computer fundamentals"
+ }
+]

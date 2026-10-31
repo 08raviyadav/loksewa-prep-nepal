@@ -1,0 +1,6049 @@
+[
+ {
+  "id": "HIST-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is known as the founder of modern Nepal and the unifier of the country?",
+  "question_ne": "आधुनिक नेपालका प्रणेता र देशको एकीकरणकर्ता भनेर कसलाई चिनिन्छ?",
+  "options": [
+   "Jung Bahadur Rana",
+   "Mahendra Bir Bikram Shah",
+   "King Tribhuvan",
+   "Prithvi Narayan Shah"
+  ],
+  "options_ne": [
+   "जंगबहादुर राणा",
+   "महेन्द्र वीर विक्रम शाह",
+   "राजा त्रिभुवन",
+   "पृथ्वीनारायण शाह"
+  ],
+  "answer": 3,
+  "explanation": "Prithvi Narayan Shah unified the small kingdoms into modern Nepal, beginning from Gorkha.",
+  "explanation_ne": "पृथ्वीनारायण शाहले गोरखाबाट सुरु गरी साना साना राज्यहरूलाई एकीकरण गरी आधुनिक नेपाल बनाएका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "From which kingdom did Prithvi Narayan Shah begin the unification of Nepal?",
+  "question_ne": "पृथ्वीनारायण शाहले नेपालको एकीकरणको सुरुवात कुन राज्यबाट गरेका थिए?",
+  "options": [
+   "Lalitpur",
+   "Bhaktapur",
+   "Kantipur",
+   "Gorkha"
+  ],
+  "options_ne": [
+   "ललितपुर",
+   "भक्तपुर",
+   "कान्तिपुर",
+   "गोरखा"
+  ],
+  "answer": 3,
+  "explanation": "Prithvi Narayan Shah was the king of Gorkha when he began the unification campaign.",
+  "explanation_ne": "पृथ्वीनारायण शाहले एकीकरण अभियान सुरु गर्दा गोरखाका राजा थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Prithvi Narayan Shah conquer Kathmandu Valley, completing a major step in unification?",
+  "question_ne": "पृथ्वीनारायण शाहले कुन सालमा काठमाडौं उपत्यकालाई जितेर एकीकरणको महत्वपूर्ण कदम पूरा गरेका थिए?",
+  "options": [
+   "1768",
+   "1744",
+   "1816",
+   "1846"
+  ],
+  "options_ne": [
+   "१७६८",
+   "१७४४",
+   "सन् १८१६",
+   "सन् १८४६"
+  ],
+  "answer": 0,
+  "explanation": "Kathmandu was conquered in 1768, after the earlier conquest of Nuwakot in 1744.",
+  "explanation_ne": "यसअघि सन् १७४४ मा नुवाकोट कब्जा गरेपछि १७६८ मा काठमाडौं कब्जा गरिएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which place was conquered by Prithvi Narayan Shah in 1744, opening the route toward Kathmandu Valley?",
+  "question_ne": "१७४४ मा पृथ्वीनारायण शाहले काठमाडौं उपत्यका जाने बाटो खोलेर कुन ठाउँलाई जितेका थिए?",
+  "options": [
+   "Palpa",
+   "Makwanpur",
+   "Tanahun",
+   "Nuwakot"
+  ],
+  "options_ne": [
+   "पाल्पा",
+   "मकवानपुर",
+   "तनहुँ",
+   "नुवाकोट"
+  ],
+  "answer": 3,
+  "explanation": "Nuwakot was conquered in 1744 and was a key strategic gain before Kathmandu.",
+  "explanation_ne": "नुवाकोट १७४४ मा विजयी भएको थियो र काठमाडौ अघि एक प्रमुख रणनीतिक लाभ थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What was the capital of Nepal after unification under Prithvi Narayan Shah?",
+  "question_ne": "पृथ्वीनारायण शाहको नेतृत्वमा एकीकरणपछि नेपालको राजधानी के थियो?",
+  "options": [
+   "Kathmandu",
+   "Pokhara",
+   "Biratnagar",
+   "Gorkha"
+  ],
+  "options_ne": [
+   "काठमाडौं।",
+   "पोखरा",
+   "विराटनगर",
+   "गोरखा"
+  ],
+  "answer": 0,
+  "explanation": "After unification, Kathmandu became the capital of the unified Nepal.",
+  "explanation_ne": "एकीकरणपछि काठमाडौं एकीकृत नेपालको राजधानी भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Prithvi Narayan Shah is also known for which famous teaching on foreign policy, warning Nepal to remain cautious between two large neighbours?",
+  "question_ne": "नेपाललाई दुई ठूला छिमेकीबीच होसियार रहन चेतावनी दिँदै परराष्ट्र नीतिको कुन प्रसिद्ध शिक्षाका लागि पृथ्वीनारायण शाह पनि परिचित छन्?",
+  "options": [
+   "Muluki Ain",
+   "Panchayat Policy",
+   "Dibya Upadesh (Divine Counsel)",
+   "Sugauli Treaty"
+  ],
+  "options_ne": [
+   "मुलुकी ऐन",
+   "पञ्चायत नीति",
+   "दिव्या उपदेश (ईश्वरीय सल्लाहकार)",
+   "सुगौली सन्धि"
+  ],
+  "answer": 2,
+  "explanation": "His Dibya Upadesh advised Nepal to be a yam between two boulders, India and China, and stay cautious.",
+  "explanation_ne": "उहाँका दिव्या उपदेशले नेपाललाई दुई ढुङ्गा भारत र चीनबीचको तरुल बनेर सतर्क रहन सुझाव दिनुभयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following kings succeeded Prithvi Narayan Shah?",
+  "question_ne": "पृथ्वीनारायण शाहको उत्तराधिकारी तलका राजाहरू मध्ये कुन हुन्?",
+  "options": [
+   "Birendra Bir Bikram Shah",
+   "Pratap Singh Shah",
+   "Rajendra Bikram Shah",
+   "Surendra Bikram Shah"
+  ],
+  "options_ne": [
+   "वीरेन्द्र वीरविक्रम शाह",
+   "प्रताप सिंह शाह",
+   "राजेन्द्र विक्रम शाह",
+   "सुरेन्द्र विक्रम शाह"
+  ],
+  "answer": 1,
+  "explanation": "Pratap Singh Shah succeeded his father Prithvi Narayan Shah as king.",
+  "explanation_ne": "आफ्ना पिता पृथ्वीनारायण शाहको उत्तराधिकारी प्रताप सिंह शाह राजा भए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Treaty of Sugauli was signed between Nepal and which country?",
+  "question_ne": "नेपाल र कुन देशबीच सुगौली सन्धि भएको थियो?",
+  "options": [
+   "Tibet",
+   "China",
+   "France",
+   "British East India Company (Britain)"
+  ],
+  "options_ne": [
+   "तिब्बत",
+   "चीन",
+   "फ्रान्स",
+   "ब्रिटिश ईस्ट इन्डिया कम्पनी (ब्रिटेन)"
+  ],
+  "answer": 3,
+  "explanation": "Sugauli was signed with the British East India Company after the Anglo-Nepal War of 1814-1816.",
+  "explanation_ne": "सन् १८१४–१८१६ को एङ्ग्लो नेपाल युद्धपछि सुगौलीलाई ब्रिटिश इस्ट इन्डिया कम्पनीसँग सम्झौता गरिएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Under the Treaty of Sugauli, which rivers became Nepal's western and eastern boundaries?",
+  "question_ne": "सुगौली सन्धि अन्तर्गत कुन-कुन नदीहरु नेपालको पश्चिमी र पूर्वी सिमाना बने?",
+  "options": [
+   "Karnali in the west and Koshi in the east",
+   "Gandaki in the west and Bagmati in the east",
+   "Mahakali in the west and Mechi in the east",
+   "Rapti in the west and Mechi in the east"
+  ],
+  "options_ne": [
+   "पश्चिममा कर्णाली र पूर्वमा कोशी",
+   "पश्चिममा गण्डकी र पूर्वमा बागमती",
+   "पश्चिममा महाकाली र पूर्वमा मेची",
+   "पश्चिममा राप्ती र पूर्वमा मेची"
+  ],
+  "answer": 2,
+  "explanation": "Sugauli fixed Nepal's borders at the Mahakali River in the west and the Mechi River in the east.",
+  "explanation_ne": "सुगौलीले पश्चिममा महाकाली नदी र पूर्वमा मेची नदीमा नेपालको सिमाना तोकेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which war led to the Treaty of Sugauli?",
+  "question_ne": "कुन युद्धबाट सुगौली सन्धि भयो?",
+  "options": [
+   "First World War",
+   "Anglo-Nepal War",
+   "Nepal-China War",
+   "Nepal-Tibet War"
+  ],
+  "options_ne": [
+   "प्रथम विश्व युद्ध",
+   "एङ्ग्लो नेपाल युद्ध",
+   "नेपाल-चीन युद्ध",
+   "नेपाल-तिब्बत युद्ध"
+  ],
+  "answer": 1,
+  "explanation": "The Anglo-Nepal War of 1814-1816 ended with the Treaty of Sugauli.",
+  "explanation_ne": "१८१४-१८१६ को एङ्ग्लो-नेपाल युद्ध सुगौली सन्धि संग समाप्त भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year did the Rana regime begin in Nepal?",
+  "question_ne": "नेपालमा राणा शासन कुन सालबाट सुरु भएको थियो?",
+  "options": [
+   "1846",
+   "1768",
+   "1816",
+   "1951"
+  ],
+  "options_ne": [
+   "सन् १८४६",
+   "१७६८",
+   "सन् १८१६",
+   "सन् १९५१"
+  ],
+  "answer": 0,
+  "explanation": "The Rana regime began in 1846 after the Kot Parba massacre.",
+  "explanation_ne": "सन् १८४६ मा कोटपर्व हत्याकाण्डपछि राणा शासन सुरु भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who founded the Rana regime in Nepal?",
+  "question_ne": "नेपालमा राणा शासनको स्थापना कसले गरेका हुन्?",
+  "options": [
+   "Bhimsen Thapa",
+   "Amar Singh Thapa",
+   "Jung Bahadur Rana",
+   "Chandra Shumsher Rana"
+  ],
+  "options_ne": [
+   "भीमसेन थापा",
+   "अमरसिंह थापा",
+   "जंगबहादुर राणा",
+   "चन्द्र शमशेर राणा"
+  ],
+  "answer": 2,
+  "explanation": "Jung Bahadur Rana founded the Rana regime after the Kot Parba in 1846.",
+  "explanation_ne": "सन् १८४६ को कोट पर्वपछि जंगबहादुर राणाले राणा शासनको स्थापना गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "For how long did the Rana regime rule Nepal?",
+  "question_ne": "नेपालमा राणा शासन कहिलेसम्म रह्यो?",
+  "options": [
+   "About 104 years (1846-1951)",
+   "About 50 years",
+   "About 30 years",
+   "About 200 years"
+  ],
+  "options_ne": [
+   "लगभग १०४ वर्ष (१८४६-१९५१)",
+   "लगभग ५० वर्ष",
+   "लगभग ३० वर्ष",
+   "लगभग २०० वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "The Rana regime lasted from 1846 to 1951, about 104 years.",
+  "explanation_ne": "राणा शासन सन् १८४६ देखि १९५१ सम्म करिब १०४ वर्षसम्म चलेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the last Rana prime minister of Nepal?",
+  "question_ne": "नेपालको अन्तिम राणा प्रधानमन्त्री को थिए?",
+  "options": [
+   "Padma Shumsher Rana",
+   "Chandra Shumsher Rana",
+   "Juddha Shumsher Rana",
+   "Mohan Shumsher Rana"
+  ],
+  "options_ne": [
+   "पद्मशमशेर राणा",
+   "चन्द्र शमशेर राणा",
+   "जुद्ध शमशेर राणा",
+   "मोहन शमशेर राणा"
+  ],
+  "answer": 3,
+  "explanation": "Mohan Shumsher Rana was the last Rana prime minister before the regime ended in 1951.",
+  "explanation_ne": "मोहन शमशेर राणा सन १९५१ मा शासन समाप्त हुनु अघि अन्तिम राणा प्रधानमन्त्री थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Rana prime minister introduced the Muluki Ain (National Code) in 1854?",
+  "question_ne": "सन् १८५४ मा मुलुकी ऐन (राष्ट्रिय संहिता) कुन राणा प्रधानमन्त्रीले लागू गरेका थिए?",
+  "options": [
+   "Dev Shumsher Rana",
+   "Jung Bahadur Rana",
+   "Bhimsen Thapa",
+   "Chandra Shumsher Rana"
+  ],
+  "options_ne": [
+   "देव शमशेर राणा",
+   "जंगबहादुर राणा",
+   "भीमसेन थापा",
+   "चन्द्र शमशेर राणा"
+  ],
+  "answer": 1,
+  "explanation": "Jung Bahadur Rana promulgated the Muluki Ain in 1854.",
+  "explanation_ne": "१८५४ मा जंगबहादुर राणाले मुलुकी ऐन घोषणा गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "During the Rana period, who held the real power in Nepal while the king was only a nominal head?",
+  "question_ne": "राणाकालमा राजा नाममात्र प्रधान हुँदा नेपालमा वास्तविक सत्ता कसको हातमा थियो?",
+  "options": [
+   "The army chief alone",
+   "The Rana prime minister",
+   "The British Resident",
+   "The crown prince"
+  ],
+  "options_ne": [
+   "सेना प्रमुख एक्लै",
+   "राणा प्रधानमन्त्री हुन्",
+   "ब्रिटिश निवासी",
+   "युवराज"
+  ],
+  "answer": 1,
+  "explanation": "Under the Ranas, the hereditary prime minister held real power and the king was a figurehead.",
+  "explanation_ne": "राणाको अधीनमा, वंशानुगत प्रधानमन्त्रीले वास्तविक शक्ति राखेका थिए र राजा एक व्यक्तित्व थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Rana prime minister abolished the Sati system in Nepal?",
+  "question_ne": "नेपालमा सती प्रथाको अन्त्य कुन राणा प्रधानमन्त्रीले गरेका थिए?",
+  "options": [
+   "Bir Shumsher Rana",
+   "Juddha Shumsher Rana",
+   "Jung Bahadur Rana",
+   "Chandra Shumsher Rana"
+  ],
+  "options_ne": [
+   "वीरशमशेर राणा",
+   "जुद्ध शमशेर राणा",
+   "जंगबहादुर राणा",
+   "चन्द्र शमशेर राणा"
+  ],
+  "answer": 3,
+  "explanation": "Chandra Shumsher Rana abolished the Sati system in 1920.",
+  "explanation_ne": "चन्द्रशमशेर राणाले सन् १९२० मा सती प्रथा अन्त्य गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Slavery was abolished in Nepal during the Rana period by which prime minister?",
+  "question_ne": "राणाकालमा कुन प्रधानमन्त्रीले नेपालमा दास प्रथा उन्मूलन गरेका थिए?",
+  "options": [
+   "Jung Bahadur Rana",
+   "Chandra Shumsher Rana",
+   "Mohan Shumsher Rana",
+   "Dev Shumsher Rana"
+  ],
+  "options_ne": [
+   "जंगबहादुर राणा",
+   "चन्द्र शमशेर राणा",
+   "मोहन शमशेर राणा",
+   "देव शमशेर राणा"
+  ],
+  "answer": 1,
+  "explanation": "Chandra Shumsher Rana abolished slavery in 1924.",
+  "explanation_ne": "चन्द्रशमशेर राणाले सन् १९२४ मा दास प्रथा उन्मूलन गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year did the Rana regime end and democracy begin in Nepal?",
+  "question_ne": "नेपालमा राणा शासनको अन्त्य भई प्रजातन्त्रको सुरुवात कुन सालमा भयो?",
+  "options": [
+   "1951",
+   "1990",
+   "1947",
+   "2006"
+  ],
+  "options_ne": [
+   "सन् १९५१",
+   "१९९०",
+   "सन् १९४७",
+   "२००६"
+  ],
+  "answer": 0,
+  "explanation": "The Rana regime ended in 1951 with the Delhi Agreement and the return of King Tribhuvan.",
+  "explanation_ne": "सन् १९५१ मा दिल्ली सम्झौता र राजा त्रिभुवनको पुनरागमनसँगै राणा शासनको अन्त्य भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which king returned to power in 1951 after the end of the Rana regime?",
+  "question_ne": "राणा शासनको अन्त्य भई सन् १९५१ मा कुन राजा पुनः सत्तामा आए?",
+  "options": [
+   "King Gyanendra",
+   "King Tribhuvan",
+   "King Birendra",
+   "King Mahendra"
+  ],
+  "options_ne": [
+   "राजा ज्ञानेन्द्र",
+   "राजा त्रिभुवन",
+   "राजा वीरेन्द्र",
+   "राजा महेन्द्र"
+  ],
+  "answer": 1,
+  "explanation": "King Tribhuvan returned from exile in India in 1951 as the Rana regime ended.",
+  "explanation_ne": "राणा शासन समाप्त भएपछि राजा त्रिभुवन सन् १९५१ मा भारतमा निर्वासनबाट फर्केका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who became the first elected prime minister of Nepal in 1959?",
+  "question_ne": "सन् १९५९ मा नेपालको पहिलो निर्वाचित प्रधानमन्त्री को भए?",
+  "options": [
+   "Matrika Prasad Koirala",
+   "Bishweshwar Prasad Koirala",
+   "Ganesh Man Singh",
+   "Krishna Prasad Bhattarai"
+  ],
+  "options_ne": [
+   "मातृका प्रसाद कोइराला",
+   "विश्वेश्वर प्रसाद कोइराला",
+   "गणेशमान सिंह",
+   "कृष्णप्रसाद भट्टराई"
+  ],
+  "answer": 1,
+  "explanation": "Bishweshwar Prasad Koirala of the Nepali Congress became the first elected prime minister in 1959.",
+  "explanation_ne": "नेपाली कांग्रेसका विश्वेश्वरप्रसाद कोइराला सन् १९५९ मा पहिलो निर्वाचित प्रधानमन्त्री बने।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did King Mahendra introduce the Panchayat system, ending multi-party democracy?",
+  "question_ne": "बहुदलीय प्रजातन्त्रको अन्त्य गर्दै राजा महेन्द्रले कुन सालमा पञ्चायत व्यवस्था लागू गरेका थिए?",
+  "options": [
+   "1975",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "options_ne": [
+   "१९७५",
+   "सन् १९५१",
+   "१९६०",
+   "१९९०"
+  ],
+  "answer": 2,
+  "explanation": "King Mahendra dismissed the elected government in 1960 and introduced the partyless Panchayat system.",
+  "explanation_ne": "राजा महेन्द्रले सन् १९६० मा निर्वाचित सरकारलाई बर्खास्त गरी दलविहीन पञ्चायत व्यवस्था लागू गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Panchayat system in Nepal lasted for how many years?",
+  "question_ne": "नेपालमा पञ्चायत व्यवस्था कति वर्ष चल्यो?",
+  "options": [
+   "30 years (1960-1990)",
+   "15 years",
+   "10 years",
+   "50 years"
+  ],
+  "options_ne": [
+   "३० वर्ष (१९६०-१९९०)",
+   "१५ वर्ष",
+   "१० वर्ष",
+   "५० वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "The Panchayat system lasted from 1960 until the People's Movement of 1990, about 30 years.",
+  "explanation_ne": "पञ्चायत व्यवस्था सन् १९६० देखि १९९० को जनआन्दोलनसम्म करिब ३० वर्षसम्म चलेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The People's Movement (Jana Andolan) of 1990 restored what in Nepal?",
+  "question_ne": "सन् १९९० को जनआन्दोलनले नेपालमा के पुनर्स्थापना गर्‍यो?",
+  "options": [
+   "British rule",
+   "The Rana regime",
+   "Multi-party democracy",
+   "Monarchy alone without parties"
+  ],
+  "options_ne": [
+   "ब्रिटिश शासन",
+   "राणा शासन",
+   "बहुदलीय प्रजातन्त्र",
+   "दलबिना एक्लै राजतन्त्र"
+  ],
+  "answer": 2,
+  "explanation": "Jana Andolan I in 1990 ended the Panchayat system and restored multi-party democracy.",
+  "explanation_ne": "सन् १९९० मा जनआन्दोलनले पञ्चायत व्यवस्थाको अन्त्य गरी बहुदलीय प्रजातन्त्र पुनर्स्थापित गर्‍यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the king of Nepal during the People's Movement of 1990?",
+  "question_ne": "सन् १९९० को जनआन्दोलनमा नेपालको राजा को थिए?",
+  "options": [
+   "King Tribhuvan",
+   "King Gyanendra",
+   "King Birendra",
+   "King Mahendra"
+  ],
+  "options_ne": [
+   "राजा त्रिभुवन",
+   "राजा ज्ञानेन्द्र",
+   "राजा वीरेन्द्र",
+   "राजा महेन्द्र"
+  ],
+  "answer": 2,
+  "explanation": "King Birendra was king in 1990 when the Panchayat system was abolished.",
+  "explanation_ne": "सन् १९९० मा पञ्चायत व्यवस्था खारेज हुँदा राजा वीरेन्द्र राजा थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After the 1990 movement, Nepal adopted a new constitution in which year?",
+  "question_ne": "१९९० को आन्दोलन पछि नेपालले कुन सालमा नयाँ संविधान पारित गर्यो?",
+  "options": [
+   "1960",
+   "1990",
+   "1951",
+   "2007"
+  ],
+  "options_ne": [
+   "१९६०",
+   "१९९०",
+   "सन् १९५१",
+   "२००७"
+  ],
+  "answer": 1,
+  "explanation": "The Constitution of the Kingdom of Nepal was promulgated in 1990 after the movement.",
+  "explanation_ne": "आन्दोलनपछि सन् १९९० मा नेपाल अधिराज्यको संविधान जारी भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The People's Movement of 2006 (Jana Andolan II) led to the end of what?",
+  "question_ne": "२००६ को जनआन्दोलन (जनआन्दोलन II) के को अन्त्य भयो?",
+  "options": [
+   "Direct rule by King Gyanendra and later the monarchy",
+   "British rule",
+   "The Panchayat system",
+   "The Rana regime"
+  ],
+  "options_ne": [
+   "राजा ज्ञानेन्द्रको प्रत्यक्ष शासन र पछि राजतन्त्र",
+   "ब्रिटिश शासन",
+   "पञ्चायत व्यवस्था",
+   "राणा शासन"
+  ],
+  "answer": 0,
+  "explanation": "Jana Andolan II in 2006 ended King Gyanendra's direct rule and paved the way for a republic.",
+  "explanation_ne": "सन् २००६ मा जनआन्दोलन दोस्रोले राजा ज्ञानेन्द्रको प्रत्यक्ष शासनको अन्त्य गरी गणतन्त्रको लागि मार्ग प्रशस्त गर्‍यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was Nepal declared a federal democratic republic, abolishing the monarchy?",
+  "question_ne": "नेपाललाई राजतन्त्रको अन्त्य गरी संघीय लोकतान्त्रिक गणतन्त्र कुन सालमा घोषणा गरिएको थियो?",
+  "options": [
+   "2008",
+   "2015",
+   "2006",
+   "1990"
+  ],
+  "options_ne": [
+   "२००८",
+   "२०१५",
+   "२००६",
+   "१९९०"
+  ],
+  "answer": 0,
+  "explanation": "The Constituent Assembly abolished the monarchy and declared Nepal a republic on 28 May 2008.",
+  "explanation_ne": "संविधानसभाले राजतन्त्रको अन्त्य गरी नेपाललाई २८ मे २००८ मा गणतन्त्र घोषणा गर्‍यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the last king of Nepal?",
+  "question_ne": "नेपालको अन्तिम राजा को थिए?",
+  "options": [
+   "King Mahendra",
+   "King Gyanendra",
+   "King Tribhuvan",
+   "King Birendra"
+  ],
+  "options_ne": [
+   "राजा महेन्द्र",
+   "राजा ज्ञानेन्द्र",
+   "राजा त्रिभुवन",
+   "राजा वीरेन्द्र"
+  ],
+  "answer": 1,
+  "explanation": "King Gyanendra was the last king; the monarchy ended in 2008.",
+  "explanation_ne": "राजा ज्ञानेन्द्र अन्तिम राजा थिए; २००८ मा राजतन्त्र समाप्त भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who became the first President of Nepal in 2008?",
+  "question_ne": "सन् २००८ मा नेपालको पहिलो राष्ट्रपति को भए?",
+  "options": [
+   "Girija Prasad Koirala",
+   "Bidya Devi Bhandari",
+   "Ram Baran Yadav",
+   "Kul Bahadur Gurung"
+  ],
+  "options_ne": [
+   "गिरिजाप्रसाद कोइराला",
+   "विद्यादेवी भण्डारी",
+   "रामवरण यादव",
+   "कुलबहादुर गुरुङ"
+  ],
+  "answer": 2,
+  "explanation": "Ram Baran Yadav became Nepal's first President in July 2008.",
+  "explanation_ne": "सन् २००८ को जुलाईमा रामवरण यादव नेपालको पहिलो राष्ट्रपति बने।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The present Constitution of Nepal was promulgated in which year?",
+  "question_ne": "नेपालको वर्तमान संविधान कुन साल जारी भएको हो?",
+  "options": [
+   "1990",
+   "2008",
+   "2007",
+   "2015"
+  ],
+  "options_ne": [
+   "१९९०",
+   "२००८",
+   "२००७",
+   "२०१५"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution of Nepal was promulgated on 20 September 2015 (Ashoj 3, 2072 BS).",
+  "explanation_ne": "नेपालको संविधान २० सेप्टेम्बर २०१५ (असोज ३, २०७२ बि.सं.) मा जारी भएको थियो।",
+  "source": "General knowledge / Constitution 2072 where relevant"
+ },
+ {
+  "id": "HIST-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Nepal's present constitution is known as the Constitution of Nepal of which Bikram Sambat year?",
+  "question_ne": "नेपालको वर्तमान संविधान कुन विक्रम संवत् सालको नेपालको संविधान भनेर चिनिन्छ?",
+  "options": [
+   "2015 BS",
+   "2063 BS",
+   "2047 BS",
+   "2072 BS"
+  ],
+  "options_ne": [
+   "२०१५ बि",
+   "२०६३ साल",
+   "२०४७ साल",
+   "२०७२ साल"
+  ],
+  "answer": 3,
+  "explanation": "The present constitution is the Constitution of Nepal, 2072 BS, promulgated in 2015 AD.",
+  "explanation_ne": "हालको संविधान २०७२ सालमा जारी भएको नेपालको संविधान हो।",
+  "source": "General knowledge / Constitution 2072 where relevant"
+ },
+ {
+  "id": "HIST-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "police"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first woman President of Nepal?",
+  "question_ne": "नेपालको पहिलो महिला राष्ट्रपति को हुन?",
+  "options": [
+   "Arzu Rana Deuba",
+   "Bidya Devi Bhandari",
+   "Onsari Gharti Magar",
+   "Sushila Karki"
+  ],
+  "options_ne": [
+   "आरजु राणा देउवा",
+   "विद्यादेवी भण्डारी",
+   "ओनसरी घर्ती मगर",
+   "सुशीला कार्की"
+  ],
+  "answer": 1,
+  "explanation": "Bidya Devi Bhandari became Nepal's first woman President in 2015.",
+  "explanation_ne": "विद्यादेवी भण्डारी सन् २०१५ मा नेपालको पहिलो महिला राष्ट्रपति बनेकी थिइन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first woman Speaker of Nepal's parliament?",
+  "question_ne": "नेपालको संसदको पहिलो महिला सभामुख को हुन?",
+  "options": [
+   "Pampha Bhusal",
+   "Bidya Devi Bhandari",
+   "Onsari Gharti Magar",
+   "Sushila Karki"
+  ],
+  "options_ne": [
+   "पम्फा भुसाल",
+   "विद्यादेवी भण्डारी",
+   "ओनसरी घर्ती मगर",
+   "सुशीला कार्की"
+  ],
+  "answer": 2,
+  "explanation": "Onsari Gharti Magar became the first woman Speaker of the Legislature-Parliament in 2015.",
+  "explanation_ne": "ओनसरी घर्तीमगर २०१५ मा व्यवस्थापिका–संसदको पहिलो महिला सभामुख भइन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the first woman Chief Justice of Nepal?",
+  "question_ne": "नेपालको पहिलो महिला प्रधानन्यायाधीश को हुन?",
+  "options": [
+   "Bidya Devi Bhandari",
+   "Sapana Pradhan Malla",
+   "Meera Kharel",
+   "Sushila Karki"
+  ],
+  "options_ne": [
+   "विद्यादेवी भण्डारी",
+   "सपना प्रधान मल्ल",
+   "मीरा खरेल",
+   "सुशीला कार्की"
+  ],
+  "answer": 3,
+  "explanation": "Sushila Karki became the first woman Chief Justice of Nepal in 2016.",
+  "explanation_ne": "सन् २०१६ मा सुशीला कार्की नेपालको पहिलो महिला प्रधानन्यायाधीश बनेकी थिइन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who built the Dharahara tower in Kathmandu in 1832?",
+  "question_ne": "१८३२ मा काठमाडौंमा धरहरा टावर कसले बनाएका हुन्?",
+  "options": [
+   "Prithvi Narayan Shah",
+   "Chandra Shumsher Rana",
+   "Bhimsen Thapa",
+   "Jung Bahadur Rana"
+  ],
+  "options_ne": [
+   "पृथ्वीनारायण शाह",
+   "चन्द्र शमशेर राणा",
+   "भीमसेन थापा",
+   "जंगबहादुर राणा"
+  ],
+  "answer": 2,
+  "explanation": "Dharahara was built in 1832 by Prime Minister Bhimsen Thapa during the reign of King Rajendra.",
+  "explanation_ne": "धरहरा राजा राजेन्द्रको पालामा प्रधानमन्त्री भीमसेन थापाले १८३२ मा निर्माण गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which famous Nepali military leader defended Nepal during the Anglo-Nepal War and is remembered for the Battle of Nalapani?",
+  "question_ne": "अङ्ग्रेज-नेपाल युद्धमा नेपालको रक्षा गर्ने प्रसिद्ध नेपाली सेनाका कुन नेतालाई नालापानीको युद्धका लागि सम्झिन्छ?",
+  "options": [
+   "Balbhadra Kunwar",
+   "Jung Bahadur Rana",
+   "Bhimsen Thapa",
+   "Amar Singh Thapa"
+  ],
+  "options_ne": [
+   "बलभद्र कुँवर",
+   "जंगबहादुर राणा",
+   "भीमसेन थापा",
+   "अमरसिंह थापा"
+  ],
+  "answer": 0,
+  "explanation": "Balbhadra Kunwar heroically defended Nalapani fort against the British in 1814.",
+  "explanation_ne": "सन् १८१४ मा बलभद्र कुँवरले वीरतापूर्वक नालापानी किल्लाको ब्रिटिश विरुद्ध रक्षा गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Amar Singh Thapa is best remembered as a commander in which period?",
+  "question_ne": "अमरसिंह थापा कुन कालका कमाण्डरका रूपमा सबैभन्दा बढी सम्झिन्छन्?",
+  "options": [
+   "The unification and expansion westward under the Shah kings",
+   "The Panchayat era",
+   "The 2006 movement",
+   "The Rana regime"
+  ],
+  "options_ne": [
+   "शाह राजाहरूको अधीनमा पश्चिमतर्फ एकीकरण र विस्तार",
+   "पञ्चायत जमाना",
+   "२००६ को आन्दोलन",
+   "राणा शासन"
+  ],
+  "answer": 0,
+  "explanation": "Amar Singh Thapa was a leading Gorkhali commander during the westward expansion in the early 19th century.",
+  "explanation_ne": "अमरसिंह थापा १९ औं शताब्दीको प्रारम्भमा पश्चिमतर्फ विस्तारको क्रममा एक प्रमुख गोर्खाली कमाण्डर थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhimsen Thapa served as prime minister (Mukhtiyar) of Nepal for a long period in which century?",
+  "question_ne": "भीमसेन थापाले कुन शताब्दीमा लामो समयसम्म नेपालको प्रधानमन्त्री (मुखियार) भई काम गरे?",
+  "options": [
+   "Late 20th century",
+   "Early 19th century",
+   "Late 18th century",
+   "Mid 20th century"
+  ],
+  "options_ne": [
+   "२० औं शताब्दीको उत्तरार्ध",
+   "प्रारम्भिक १९ औं शताब्दी",
+   "१८ औं शताब्दीको अन्त",
+   "मध्य २० औं शताब्दी"
+  ],
+  "answer": 1,
+  "explanation": "Bhimsen Thapa was Mukhtiyar from 1806 to 1837, in the early 19th century.",
+  "explanation_ne": "भीमसेन थापा १९ औं शताब्दीको प्रारम्भमा १८०६ देखि १८३७ सम्म मुख्तियार थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of these small kingdoms was known as one of the Chaubisi Rajya (24 principalities) in western Nepal?",
+  "question_ne": "पश्चिम नेपालको चौबिसी राज्य (२४ रियासत) मध्येको एउटा सानो राज्य कुन हो?",
+  "options": [
+   "Bhaktapur",
+   "Patan",
+   "Palpa",
+   "Kantipur"
+  ],
+  "options_ne": [
+   "भक्तपुर",
+   "पाटन",
+   "पाल्पा",
+   "कान्तिपुर"
+  ],
+  "answer": 2,
+  "explanation": "Palpa was one of the Chaubisi (24) principalities of western Nepal before unification.",
+  "explanation_ne": "पाल्पा एकीकरण हुनुअघि पश्चिम नेपालको चौबिसी (२४) राज्यहरू मध्ये एक थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Baisi Rajya were a group of how many principalities in far-western Nepal?",
+  "question_ne": "बैसी राज्य सुदूरपश्चिम नेपालमा कतिवटा राज्यहरूको समूह थियो?",
+  "options": [
+   "24",
+   "22",
+   "10",
+   "12"
+  ],
+  "options_ne": [
+   "२४",
+   "२२",
+   "१०",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Baisi means 22 principalities, in the Karnali region, while Chaubisi means 24 in the Gandaki region.",
+  "explanation_ne": "बैसी भन्नाले कर्णाली क्षेत्रमा २२ वटा रियासत र चौबिसी भनेको गण्डकी क्षेत्रमा २४ वटा रियासत हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Kathmandu Valley before unification was divided among which three main kingdoms?",
+  "question_ne": "एकीकरण हुनुअघि काठमाडौं उपत्यकालाई कुन तीन प्रमुख राज्यमा विभाजन गरिएको थियो?",
+  "options": [
+   "Makwanpur, Sindhuli and Kavre",
+   "Palpa, Gulmi and Arghakhanchi",
+   "Kantipur, Lalitpur and Bhaktapur",
+   "Gorkha, Lamjung and Tanahun"
+  ],
+  "options_ne": [
+   "मकवानपुर, सिन्धुली र काभ्रे",
+   "पाल्पा, गुल्मी र अर्घाखाँची",
+   "कान्तिपुर, ललितपुर र भक्तपुर",
+   "गोरखा, लमजुङ र तनहुँ"
+  ],
+  "answer": 2,
+  "explanation": "Before unification the valley was ruled by the three Malla kingdoms of Kantipur, Lalitpur and Bhaktapur.",
+  "explanation_ne": "एकीकरण हुनुअघि उपत्यकामा कान्तिपुर, ललितपुर र भक्तपुरका तीन मल्ल राज्य थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Malla period in Kathmandu Valley is best known for advances in which field?",
+  "question_ne": "काठमाडौं उपत्यकाको मल्लकाल कुन क्षेत्रमा प्रगतिका लागि प्रख्यात छ?",
+  "options": [
+   "Modern industry",
+   "Air travel",
+   "Art, architecture and culture",
+   "Railways"
+  ],
+  "options_ne": [
+   "आधुनिक उद्योग",
+   "हवाई यात्रा",
+   "कला, वास्तुकला र संस्कृति",
+   "रेलवे"
+  ],
+  "answer": 2,
+  "explanation": "The Malla kings patronised temples, palaces, art and festivals that still define Kathmandu Valley.",
+  "explanation_ne": "मल्ल राजाहरूले मन्दिर, दरबार, कला र चाडपर्वहरूलाई संरक्षण गरेका थिए जसले अझै पनि काठमाडौं उपत्यकालाई परिभाषित गर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which treaty of 1792 ended the Nepal-Tibet war and involved China as a mediator?",
+  "question_ne": "१७९२ को कुन सन्धिले नेपाल-तिब्बत युद्ध समाप्त गर्यो र चीनलाई मध्यस्थकर्ताको रूपमा समावेश गर्यो?",
+  "options": [
+   "Treaty of Thapathali",
+   "Treaty of Kathmandu",
+   "Treaty of Betrawati",
+   "Treaty of Sugauli"
+  ],
+  "options_ne": [
+   "थापाथली सन्धि",
+   "काठमाडौं सन्धि",
+   "बेत्रावती सन्धि",
+   "सुगौली सन्धि"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Betrawati in 1792 ended the war with Tibet.",
+  "explanation_ne": "सन् १७९२ मा भएको बेत्रावती सन्धिले तिब्बतसँगको युद्ध समाप्त भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which Rana prime minister is credited with opening the first college in Nepal, Tri-Chandra College, in 1918?",
+  "question_ne": "सन् १९१८ मा नेपालको पहिलो कलेज त्रिचन्द्र कलेज खोल्ने श्रेय कुन राणा प्रधानमन्त्रीलाई दिइन्छ?",
+  "options": [
+   "Dev Shumsher Rana",
+   "Jung Bahadur Rana",
+   "Juddha Shumsher Rana",
+   "Chandra Shumsher Rana"
+  ],
+  "options_ne": [
+   "देव शमशेर राणा",
+   "जंगबहादुर राणा",
+   "जुद्ध शमशेर राणा",
+   "चन्द्र शमशेर राणा"
+  ],
+  "answer": 3,
+  "explanation": "Tri-Chandra College was established in 1918 during Chandra Shumsher Rana's prime ministership.",
+  "explanation_ne": "त्रिचन्द्र कलेज सन् १९१८ मा चन्द्रशमशेर राणाको प्रधानमन्त्री हुँदा स्थापना भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Nepali Congress was founded in which year?",
+  "question_ne": "नेपाली कांग्रेसको स्थापना कुन सालमा भएको हो?",
+  "options": [
+   "1947 (2003 BS)",
+   "1951",
+   "1990",
+   "1960"
+  ],
+  "options_ne": [
+   "१९४७ (२००३ BS)",
+   "सन् १९५१",
+   "१९९०",
+   "१९६०"
+  ],
+  "answer": 0,
+  "explanation": "The Nepali Congress was founded in 1947, before the 1951 democratic movement.",
+  "explanation_ne": "नेपाली कांग्रेसको स्थापना सन् १९५१ को प्रजातान्त्रिक आन्दोलन अघि सन् १९४७ मा भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ganesh Man Singh is remembered as the leader of which movement?",
+  "question_ne": "गणेशमान सिंहलाई कुन आन्दोलनका नेताका रूपमा स्मरण गरिन्छ?",
+  "options": [
+   "The 1951 revolution alone",
+   "The Rana regime",
+   "The unification campaign",
+   "The 1990 People's Movement (Jana Andolan I)"
+  ],
+  "options_ne": [
+   "सन् १९५१ को क्रान्ति मात्रै हो",
+   "राणा शासन",
+   "एकीकरण अभियान",
+   "१९९० जनआन्दोलन (जनआन्दोलन I)"
+  ],
+  "answer": 3,
+  "explanation": "Ganesh Man Singh led the Nepali Congress during Jana Andolan I in 1990.",
+  "explanation_ne": "गणेशमान सिंहले सन् १९९० को जनआन्दोलनमा नेपाली कांग्रेसको नेतृत्व गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which political party led the armed Maoist insurgency that began in 1996?",
+  "question_ne": "सन् १९९६ मा सुरु भएको सशस्त्र माओवादी विद्रोहको नेतृत्व कुन राजनीतिक दलले गरेको थियो?",
+  "options": [
+   "CPN (UML)",
+   "CPN (Maoist)",
+   "Nepali Congress",
+   "Rastriya Prajatantra Party"
+  ],
+  "options_ne": [
+   "नेकपा (एमाले)",
+   "नेकपा (माओवादी)",
+   "नेपाली कांग्रेस",
+   "राष्ट्रिय प्रजातन्त्र पार्टी"
+  ],
+  "answer": 1,
+  "explanation": "The Maoist insurgency (People's War) was launched by CPN (Maoist) in 1996.",
+  "explanation_ne": "नेकपा (माओवादी)ले सन् १९९६ मा माओवादी विद्रोह (जनयुद्ध) सुरु गरेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Comprehensive Peace Agreement ending the Maoist insurgency was signed in which year?",
+  "question_ne": "माओवादी विद्रोह अन्त्य गर्ने बृहत् शान्ति सम्झौता कुन सालमा भएको थियो?",
+  "options": [
+   "2008",
+   "2006",
+   "1996",
+   "2001"
+  ],
+  "options_ne": [
+   "२००८",
+   "२००६",
+   "१९९६",
+   "२००१"
+  ],
+  "answer": 1,
+  "explanation": "The Comprehensive Peace Agreement was signed on 21 November 2006.",
+  "explanation_ne": "२१ नोभेम्बर २००६ मा विस्तृत शान्ति सम्झौतामा हस्ताक्षर भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The royal massacre in which King Birendra and his family died took place in which year?",
+  "question_ne": "राजा वीरेन्द्र र उनको परिवारको मृत्यु भएको शाही नरसंहार कुन साल भएको थियो?",
+  "options": [
+   "2015",
+   "2001",
+   "1990",
+   "2006"
+  ],
+  "options_ne": [
+   "२०१५",
+   "२००१",
+   "१९९०",
+   "२००६"
+  ],
+  "answer": 1,
+  "explanation": "The Narayanhiti royal massacre occurred on 1 June 2001.",
+  "explanation_ne": "१ जुन २००१ मा नारायणहिटी शाही हत्याकाण्ड भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who succeeded King Dipendra as the reigning king of Nepal in 2001?",
+  "question_ne": "सन् २००१ मा नेपालका राजा दीपेन्द्रको उत्तराधिकारी कसले सम्हालेका थिए?",
+  "options": [
+   "King Mahendra",
+   "King Gyanendra",
+   "King Tribhuvan",
+   "King Birendra"
+  ],
+  "options_ne": [
+   "राजा महेन्द्र",
+   "राजा ज्ञानेन्द्र",
+   "राजा त्रिभुवन",
+   "राजा वीरेन्द्र"
+  ],
+  "answer": 1,
+  "explanation": "Crown Prince Dipendra was king only briefly while in a coma after the royal massacre; Gyanendra then became the reigning king.",
+  "explanation_ne": "युवराज दीपेन्द्र शाही हत्याकाण्डपछि कोमामा हुँदा केही समयका लागि मात्र राजा थिए; त्यसपछि ज्ञानेन्द्र राजा भए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first prime minister of Nepal after the 2006 People's Movement, leading the interim government?",
+  "question_ne": "सन् २००६ को जनआन्दोलनपछि अन्तरिम सरकारको नेतृत्व गर्ने नेपालको पहिलो प्रधानमन्त्री को थिए?",
+  "options": [
+   "Pushpa Kamal Dahal",
+   "Madhav Kumar Nepal",
+   "Baburam Bhattarai",
+   "Girija Prasad Koirala"
+  ],
+  "options_ne": [
+   "पुष्पकमल दाहाल",
+   "माधवकुमार नेपाल",
+   "बाबुराम भट्टराई",
+   "गिरिजाप्रसाद कोइराला"
+  ],
+  "answer": 3,
+  "explanation": "Girija Prasad Koirala headed the interim government after Jana Andolan II in 2006.",
+  "explanation_ne": "सन् २००६ मा जनआन्दोलन २ पछि गिरिजाप्रसाद कोइरालाले अन्तरिम सरकारको नेतृत्व गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was the first prime minister of the Federal Democratic Republic of Nepal after the 2008 Constituent Assembly election?",
+  "question_ne": "२००८ को संविधानसभा निर्वाचन पछि संघीय लोकतान्त्रिक गणतन्त्र नेपालको पहिलो प्रधानमन्त्री को थिए?",
+  "options": [
+   "Madhav Kumar Nepal",
+   "Jhalanath Khanal",
+   "Girija Prasad Koirala",
+   "Pushpa Kamal Dahal (Prachanda)"
+  ],
+  "options_ne": [
+   "माधवकुमार नेपाल",
+   "झलनाथ खनाल",
+   "गिरिजाप्रसाद कोइराला",
+   "पुष्पकमल दाहाल (प्रचण्ड)"
+  ],
+  "answer": 3,
+  "explanation": "Pushpa Kamal Dahal became prime minister in August 2008 after the first Constituent Assembly election.",
+  "explanation_ne": "पहिलो संविधानसभाको निर्वाचनपछि सन् २००८ भदौमा पुष्पकमल दाहाल प्रधानमन्त्री बने।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "King Mahendra is known for introducing which system in 1960?",
+  "question_ne": "राजा महेन्द्रले सन् १९६० मा कुन प्रणाली लागू गरेका हुन्?",
+  "options": [
+   "Panchayat system",
+   "Rana regime",
+   "Federalism",
+   "Multi-party democracy"
+  ],
+  "options_ne": [
+   "पञ्चायत व्यवस्था",
+   "राणा शासन",
+   "संघीयता",
+   "बहुदलीय प्रजातन्त्र"
+  ],
+  "answer": 0,
+  "explanation": "King Mahendra introduced the partyless Panchayat system in 1960.",
+  "explanation_ne": "सन् १९६० मा राजा महेन्द्रले दलविहीन पञ्चायत व्यवस्था लागू गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "King Tribhuvan is remembered mainly for his role in which event?",
+  "question_ne": "राजा त्रिभुवनलाई मुख्यतया कुन कार्यक्रममा उनको भूमिकाका लागि सम्झिन्छ?",
+  "options": [
+   "Unifying Nepal",
+   "Signing Sugauli",
+   "Introducing Panchayat",
+   "Ending the Rana regime in 1951"
+  ],
+  "options_ne": [
+   "नेपाललाई एकीकरण गर्ने",
+   "सुगौलीमा हस्ताक्षर",
+   "पञ्चायत परिचय",
+   "सन् १९५१ मा राणा शासनको अन्त्य भयो"
+  ],
+  "answer": 3,
+  "explanation": "King Tribhuvan's flight to India and return in 1951 helped end the Rana regime.",
+  "explanation_ne": "सन् १९५१ मा राजा त्रिभुवनको भारत उडान र फिर्ताले राणा शासनको अन्त्य गर्न मद्दत गर्‍यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Interim Constitution of Nepal was promulgated in which year?",
+  "question_ne": "नेपालको अन्तरिम संविधान कुन सालमा जारी भएको हो?",
+  "options": [
+   "1990",
+   "1951",
+   "2007",
+   "2015"
+  ],
+  "options_ne": [
+   "१९९०",
+   "सन् १९५१",
+   "२००७",
+   "२०१५"
+  ],
+  "answer": 2,
+  "explanation": "The Interim Constitution was promulgated in 2007, governing Nepal until the 2015 constitution.",
+  "explanation_ne": "सन् २००७ मा अन्तरिम संविधान जारी भएको थियो, २०१५ को संविधानसम्म नेपाललाई शासन गर्दै।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The second Constituent Assembly election was held in which year?",
+  "question_ne": "दोस्रो संविधानसभाको निर्वाचन कुन साल भएको थियो?",
+  "options": [
+   "2015",
+   "2013",
+   "2008",
+   "2017"
+  ],
+  "options_ne": [
+   "२०१५",
+   "२०१३",
+   "२००८",
+   "२०१७"
+  ],
+  "answer": 1,
+  "explanation": "After the first assembly failed to deliver a constitution, a second election was held in November 2013.",
+  "explanation_ne": "पहिलो संविधानसभाले संविधान दिन नसकेपछि २०१३ नोभेम्बरमा दोस्रो निर्वाचन भयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who was Nepal's first female prime minister in an interim capacity in 2025?",
+  "question_ne": "२०२५ मा अन्तरिम क्षमतामा नेपालको पहिलो महिला प्रधानमन्त्री को हुनुहुन्थ्यो?",
+  "options": [
+   "Arzu Rana Deuba",
+   "Bidya Devi Bhandari",
+   "Onsari Gharti Magar",
+   "Sushila Karki"
+  ],
+  "options_ne": [
+   "आरजु राणा देउवा",
+   "विद्यादेवी भण्डारी",
+   "ओनसरी घर्ती मगर",
+   "सुशीला कार्की"
+  ],
+  "answer": 3,
+  "explanation": "Sushila Karki, former Chief Justice, became interim prime minister in September 2025 after the Gen-Z protests.",
+  "explanation_ne": "पूर्व प्रधानन्यायाधीश सुशीला कार्की जेन-जेडको विरोधपछि सेप्टेम्बर २०२५ मा अन्तरिम प्रधानमन्त्री बनेकी थिइन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Gen-Z protests of September 2025 in Nepal were mainly triggered by what?",
+  "question_ne": "नेपालमा सेप्टेम्बर २०२५ को Gen-Z को विरोध मुख्यतया के को कारणले भएको थियो?",
+  "options": [
+   "An earthquake",
+   "A royal restoration demand",
+   "A border dispute",
+   "A social-media ban and anger over corruption and governance"
+  ],
+  "options_ne": [
+   "भूकम्प",
+   "शाही पुनर्स्थापनाको माग",
+   "सीमा विवाद",
+   "सामाजिक सञ्जाल प्रतिबन्ध र भ्रष्टाचार र सुशासनप्रतिको आक्रोश"
+  ],
+  "answer": 3,
+  "explanation": "The September 2025 protests followed a social-media ban amid wider anger over corruption and poor governance.",
+  "explanation_ne": "सेप्टेम्बर २०२५ को विरोधले भ्रष्टाचार र खराब शासनको बारेमा व्यापक क्रोधको बीचमा सामाजिक-सञ्चालमा प्रतिबन्ध लगाइयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which king of Nepal reigned during the 2015 earthquake and the promulgation of the new constitution?",
+  "question_ne": "२०१५ को भूकम्प र नयाँ संविधान जारी हुँदा नेपालको कुन राजाले शासन गरेका थिए?",
+  "options": [
+   "King Gyanendra",
+   "King Mahendra",
+   "No king - Nepal was already a republic in 2015",
+   "King Birendra"
+  ],
+  "options_ne": [
+   "राजा ज्ञानेन्द्र",
+   "राजा महेन्द्र",
+   "कुनै राजा छैन - नेपाल २०१५ मा गणतन्त्र भइसकेको थियो",
+   "राजा वीरेन्द्र"
+  ],
+  "answer": 2,
+  "explanation": "Nepal had been a republic since 2008, so there was no king in 2015.",
+  "explanation_ne": "नेपाल सन् २००८ देखि गणतन्त्र भएकोले २०१५ मा राजा थिएन।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal's national anthem 'Sayaun Thunga Phool Ka' was adopted in which period?",
+  "question_ne": "नेपालको राष्ट्रिय गान 'स्याँ थुङ्गा फुल का' कुन कालमा ग्रहण गरिएको थियो?",
+  "options": [
+   "During the Panchayat era",
+   "In 1951",
+   "During the Rana regime",
+   "After the 2006 movement, replacing the old royal anthem"
+  ],
+  "options_ne": [
+   "पञ्चायतकालमा",
+   "१९५१ मा",
+   "राणा शासनकालमा",
+   "२००६ आन्दोलन पछि, पुरानो शाही गान प्रतिस्थापन"
+  ],
+  "answer": 3,
+  "explanation": "The present anthem was adopted in 2007, replacing the Panchayat-era royal anthem.",
+  "explanation_ne": "हालको गान पञ्चायतकालीन शाही गानलाई प्रतिस्थापन गर्दै २००७ मा अपनाइयो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Unification",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which fort in Nuwakot is associated with Prithvi Narayan Shah's unification campaign?",
+  "question_ne": "नुवाकोटको कुन किल्ला पृथ्वीनारायण शाहको एकीकरण अभियानसँग सम्बन्धित छ?",
+  "options": [
+   "Gorkha Durbar",
+   "Patan Durbar",
+   "Nuwakot Durbar (Saat Tale Durbar)",
+   "Hanuman Dhoka"
+  ],
+  "options_ne": [
+   "गोरखा दरबार",
+   "पाटन दरबार",
+   "नुवाकोट दरबार (सातले दरबार)",
+   "हनुमान ढोका"
+  ],
+  "answer": 2,
+  "explanation": "Nuwakot Durbar, the seven-storey palace, is linked to Prithvi Narayan Shah's campaign.",
+  "explanation_ne": "सात तले दरबार नुवाकोट दरबार पृथ्वीनारायण शाहको अभियानसँग जोडिएको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Gorkha Durbar is located in which district?",
+  "question_ne": "गोरखा दरबार कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Kaski",
+   "Palpa",
+   "Kathmandu",
+   "Gorkha"
+  ],
+  "options_ne": [
+   "कास्की",
+   "पाल्पा",
+   "काठमाडौं।",
+   "गोरखा"
+  ],
+  "answer": 3,
+  "explanation": "Gorkha Durbar is in Gorkha district, the home of Prithvi Narayan Shah.",
+  "explanation_ne": "गोरखा दरबार पृथ्वीनारायण शाहको घर गोरखा जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Rana Period",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Singha Durbar in Kathmandu was built during which period?",
+  "question_ne": "काठमाडौंको सिंहदरबार कुन अवधिमा बनेको थियो?",
+  "options": [
+   "Rana period",
+   "Shah unification period",
+   "Panchayat period",
+   "Malla period"
+  ],
+  "options_ne": [
+   "राणा काल",
+   "शाह एकीकरण काल",
+   "पञ्चायत काल",
+   "मल्ल काल"
+  ],
+  "answer": 0,
+  "explanation": "Singha Durbar was built in the Rana period, under Chandra Shumsher Rana, and became the seat of government.",
+  "explanation_ne": "राणाकालमा चन्द्रशमशेर राणाको नेतृत्वमा बनेको सिंहदरबार सरकारको गठबन्धन बनेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which agreement in 1951, signed in Delhi, ended the Rana regime?",
+  "question_ne": "सन् १९५१ मा दिल्लीमा भएको कुन सम्झौताले राणा शासनको अन्त्य गर्यो?",
+  "options": [
+   "Comprehensive Peace Agreement",
+   "12-point Understanding",
+   "Sugauli Treaty",
+   "Delhi Agreement (Delhi Compromise)"
+  ],
+  "options_ne": [
+   "विस्तृत शान्ति सम्झौता",
+   "१२-बिन्दु समझ",
+   "सुगौली सन्धि",
+   "दिल्ली सम्झौता (दिल्ली सम्झौता)"
+  ],
+  "answer": 3,
+  "explanation": "The Delhi Agreement of 1951 restored King Tribhuvan and ended Rana rule.",
+  "explanation_ne": "१९५१ को दिल्ली सम्झौताले राजा त्रिभुवनलाई पुनर्स्थापित गर्यो र राणा शासन समाप्त गर्यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Democracy Movements",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The 12-point Understanding of 2005 was signed between which two sides?",
+  "question_ne": "२००५ को १२ बुँदे समझदारी कुन दुई पक्ष बीच हस्ताक्षर भएको थियो?",
+  "options": [
+   "Nepal and India",
+   "Nepal and China",
+   "The Seven Party Alliance and the Maoists",
+   "The King and the Rana family"
+  ],
+  "options_ne": [
+   "नेपाल र भारत",
+   "नेपाल र चीन",
+   "सात दलको गठबन्धन र माओवादी",
+   "राजा र राणा परिवार"
+  ],
+  "answer": 2,
+  "explanation": "The 12-point Understanding between the Seven Party Alliance and the Maoists in 2005 paved the way for Jana Andolan II.",
+  "explanation_ne": "सन् २००५ मा सात दलीय गठबन्धन र माओवादीबीच भएको १२ बुँदे समझदारीले जनआन्दोलन २ को लागि मार्ग प्रशस्त गर्यो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Who wrote the Nepali national anthem 'Sayaun Thunga Phool Ka'?",
+  "question_ne": "नेपाली राष्ट्रिय गान ‘स्याँ थुङ्गा फुल का’ कसले लेखेका हुन्?",
+  "options": [
+   "Amber Gurung",
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya",
+   "Byakul Maila (Pradeep Kumar Rai)"
+  ],
+  "options_ne": [
+   "अम्बर गुरुङ",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "ब्याकुल माइला (प्रदीप कुमार राई)"
+  ],
+  "answer": 3,
+  "explanation": "The lyrics were written by Byakul Maila (Pradeep Kumar Rai); the music was composed by Amber Gurung.",
+  "explanation_ne": "गीतको शब्द व्याकुल माइला (प्रदीप कुमार राई)ले लेखेका हुन्। गीतमा अम्बर गुरुङको संगीत रहेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Shah Period",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The Shah dynasty ruled Nepal from unification until which year?",
+  "question_ne": "नेपाल एकीकरण देखि कुन साल सम्म शाह वंशले शासन गरेको थियो?",
+  "options": [
+   "2015",
+   "1951",
+   "1990",
+   "2008"
+  ],
+  "options_ne": [
+   "२०१५",
+   "सन् १९५१",
+   "१९९०",
+   "२००८"
+  ],
+  "answer": 3,
+  "explanation": "The Shah dynasty ruled from Prithvi Narayan Shah's unification until the monarchy was abolished in 2008.",
+  "explanation_ne": "पृथ्वीनारायण शाहको एकीकरणदेखि सन् २००८ मा राजतन्त्रको अन्त्य नभएसम्म शाह वंशले शासन गरेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which province of Nepal has the most districts?",
+  "question_ne": "नेपालको सबैभन्दा बढी जिल्ला कुन प्रदेशमा छन्?",
+  "options": [
+   "Koshi",
+   "Bagmati",
+   "Gandaki",
+   "Lumbini"
+  ],
+  "options_ne": [
+   "कोशी",
+   "बागमती",
+   "गण्डकी",
+   "लुम्बिनी"
+  ],
+  "answer": 0,
+  "explanation": "Koshi Province has 14 districts, the most of any province in Nepal.",
+  "explanation_ne": "कोशी प्रदेशमा १४ जिल्लाहरू छन्, जुन नेपालको कुनै पनि प्रदेशमध्ये सबैभन्दा बढी हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many local levels (municipalities and rural municipalities) are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा स्थानीय तह (नगरपालिका र गाउँपालिका) रहेका छन्?",
+  "options": [
+   "1000",
+   "753",
+   "500",
+   "77"
+  ],
+  "options_ne": [
+   "१०००",
+   "७५३",
+   "५००",
+   "७७"
+  ],
+  "answer": 1,
+  "explanation": "Nepal has 753 local levels: municipalities and rural municipalities.",
+  "explanation_ne": "नेपालमा ७५३ स्थानीय तहहरू छन्: नगरपालिका र गाउँपालिका।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest province of Nepal by area?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो प्रदेश कुन हो?",
+  "options": [
+   "Koshi",
+   "Lumbini",
+   "Bagmati",
+   "Karnali"
+  ],
+  "options_ne": [
+   "कोशी",
+   "लुम्बिनी",
+   "बागमती",
+   "कर्णाली"
+  ],
+  "answer": 3,
+  "explanation": "Karnali is the largest province by area.",
+  "explanation_ne": "कर्णाली क्षेत्रफलको हिसाबले सबैभन्दा ठूलो प्रदेश हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the smallest province of Nepal by area?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा सानो प्रदेश कुन हो?",
+  "options": [
+   "Madhesh",
+   "Gandaki",
+   "Bagmati",
+   "Sudurpashchim"
+  ],
+  "options_ne": [
+   "मधेस",
+   "गण्डकी",
+   "बागमती",
+   "सुदूरपश्चिम"
+  ],
+  "answer": 0,
+  "explanation": "Madhesh is the smallest province by area.",
+  "explanation_ne": "क्षेत्रफलको आधारमा मधेस सबैभन्दा सानो प्रदेश हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "foreign-service",
+   "police",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the capital of Bagmati Province?",
+  "question_ne": "वाग्मती प्रदेशको राजधानी के हो?",
+  "options": [
+   "Chitwan",
+   "Kathmandu",
+   "Hetauda",
+   "Bhaktapur"
+  ],
+  "options_ne": [
+   "चितवन",
+   "काठमाडौं।",
+   "हेटौंडा",
+   "भक्तपुर"
+  ],
+  "answer": 2,
+  "explanation": "Hetauda is the capital of Bagmati Province, although Kathmandu is the national capital.",
+  "explanation_ne": "राष्ट्रिय राजधानी काठमाडौं भए पनि बागमती प्रदेशको राजधानी हेटौंडा हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dolpa, the largest district of Nepal by area, is in which province?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला डोल्पा कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Sudurpashchim",
+   "Koshi",
+   "Karnali",
+   "Gandaki"
+  ],
+  "options_ne": [
+   "सुदूरपश्चिम",
+   "कोशी",
+   "कर्णाली",
+   "गण्डकी"
+  ],
+  "answer": 2,
+  "explanation": "Dolpa is in Karnali Province and is Nepal's largest district by area.",
+  "explanation_ne": "डोल्पा कर्णाली प्रदेशमा पर्छ र क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhaktapur, the smallest district of Nepal by area, is in which province?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा सानो जिल्ला भक्तपुर कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Bagmati",
+   "Gandaki",
+   "Koshi",
+   "Madhesh"
+  ],
+  "options_ne": [
+   "बागमती",
+   "गण्डकी",
+   "कोशी",
+   "मधेस"
+  ],
+  "answer": 0,
+  "explanation": "Bhaktapur, the smallest district by area, lies in Bagmati Province.",
+  "explanation_ne": "क्षेत्रफलका हिसाबले सबैभन्दा सानो जिल्ला भक्तपुर वाग्मती प्रदेशमा पर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Kathmandu, the capital of Nepal, lies in which province?",
+  "question_ne": "नेपालको राजधानी काठमाडौं कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Lumbini",
+   "Koshi",
+   "Bagmati",
+   "Gandaki"
+  ],
+  "options_ne": [
+   "लुम्बिनी",
+   "कोशी",
+   "बागमती",
+   "गण्डकी"
+  ],
+  "answer": 2,
+  "explanation": "Kathmandu lies in Bagmati Province.",
+  "explanation_ne": "काठमाडौं बागमती प्रदेशमा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the height of Mount Everest (Sagarmatha) as officially recognised after the joint Nepal-China survey?",
+  "question_ne": "नेपाल-चीन संयुक्त सर्वेक्षण पछि आधिकारिक रूपमा सगरमाथा (सगरमाथा) को उचाइ कति छ?",
+  "options": [
+   "8,844 metres",
+   "8,850 metres",
+   "8,848 metres",
+   "8,848.86 metres"
+  ],
+  "options_ne": [
+   "८,८४४ मिटर",
+   "८,८५० मिटर",
+   "८,८४८ मिटर",
+   "८,८४८.८६ मिटर"
+  ],
+  "answer": 3,
+  "explanation": "The revised height announced in 2020 is 8,848.86 metres.",
+  "explanation_ne": "२०२० मा घोषणा गरिएको संशोधित उचाइ ८,८४८.८६ मिटर छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Mount Everest is known in Nepali as what?",
+  "question_ne": "सगरमाथालाई नेपालीमा के भनेर चिनिन्छ?",
+  "options": [
+   "Sagarmatha",
+   "Kanchenjunga",
+   "Machhapuchhre",
+   "Annapurna"
+  ],
+  "options_ne": [
+   "सगरमाथा",
+   "कञ्चनजङ्घा",
+   "माछापुच्छ्रे",
+   "अन्नपूर्ण"
+  ],
+  "answer": 0,
+  "explanation": "Everest is called Sagarmatha in Nepali.",
+  "explanation_ne": "सगरमाथालाई नेपालीमा सगरमाथा भनिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the second-highest mountain in Nepal after Everest?",
+  "question_ne": "नेपालको सगरमाथा पछिको दोस्रो अग्लो हिमाल कुन हो?",
+  "options": [
+   "Dhaulagiri",
+   "Kanchenjunga",
+   "Manaslu",
+   "Annapurna I"
+  ],
+  "options_ne": [
+   "धौलागिरी",
+   "कञ्चनजङ्घा",
+   "मनास्लु",
+   "अन्नपूर्ण आई"
+  ],
+  "answer": 1,
+  "explanation": "Kanchenjunga (8,586 m) is the second-highest mountain in Nepal and the third-highest in the world.",
+  "explanation_ne": "कञ्चनजङ्घा (८,५८६ मिटर) नेपालको दोस्रो-अग्लो र विश्वको तेस्रो-अग्लो हिमाल हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the height of Kanchenjunga?",
+  "question_ne": "कञ्चनजङ्घाको उचाइ कति छ?",
+  "options": [
+   "8,516 metres",
+   "8,091 metres",
+   "8,586 metres",
+   "8,485 metres"
+  ],
+  "options_ne": [
+   "८,५१६ मिटर",
+   "८,०९१ मिटर",
+   "८,५८६ मिटर",
+   "८,४८५ मिटर"
+  ],
+  "answer": 2,
+  "explanation": "Kanchenjunga is 8,586 metres high.",
+  "explanation_ne": "कञ्चनजङ्घा ८,५८६ मिटर अग्लो छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mountain is known as the 'Fishtail' because of its shape?",
+  "question_ne": "कुन हिमाललाई यसको आकारका कारण 'फिसटेल' भनेर चिनिन्छ?",
+  "options": [
+   "Annapurna",
+   "Manaslu",
+   "Machhapuchhre",
+   "Dhaulagiri"
+  ],
+  "options_ne": [
+   "अन्नपूर्ण",
+   "मनास्लु",
+   "माछापुच्छ्रे",
+   "धौलागिरी"
+  ],
+  "answer": 2,
+  "explanation": "Machhapuchhre is called the Fishtail for its twin peaks resembling a fish tail.",
+  "explanation_ne": "माछापुच्छ्रे माछाको पुच्छर जस्तो हुने जुम्ल्याहा चुचुराका कारण माछापुच्छ्रेलाई माछापुच्छर भनिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Machhapuchhre is located near which city?",
+  "question_ne": "माछापुच्छ्रे कुन सहरको नजिक पर्छ?",
+  "options": [
+   "Pokhara",
+   "Nepalgunj",
+   "Biratnagar",
+   "Kathmandu"
+  ],
+  "options_ne": [
+   "पोखरा",
+   "नेपालगन्ज",
+   "विराटनगर",
+   "काठमाडौं।"
+  ],
+  "answer": 0,
+  "explanation": "Machhapuchhre rises above Pokhara in Gandaki Province.",
+  "explanation_ne": "माछापुच्छ्रे गण्डकी प्रदेशको पोखराभन्दा माथि छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the highest mountain in the world that has never been officially climbed to its summit?",
+  "question_ne": "अहिलेसम्म आधिकारिक रूपमा आरोहण नभएको विश्वको सबैभन्दा अग्लो हिमाल कुन हो?",
+  "options": [
+   "Machhapuchhre",
+   "Kanchenjunga",
+   "Annapurna I",
+   "Manaslu"
+  ],
+  "options_ne": [
+   "माछापुच्छ्रे",
+   "कञ्चनजङ्घा",
+   "अन्नपूर्ण आई",
+   "मनास्लु"
+  ],
+  "answer": 0,
+  "explanation": "Machhapuchhre has never been officially climbed to the summit, as climbing is restricted out of respect for its sacred status.",
+  "explanation_ne": "माछापुच्छ्रेको पवित्र स्थानको सम्मानका कारण आरोहण प्रतिबन्धित भएकाले आरोहण औपचारिक रूपमा कहिल्यै भएको छैन।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "foreign-service",
+   "police"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Mount Everest was first successfully climbed in which year?",
+  "question_ne": "सगरमाथाको पहिलो सफल आरोहण कुन सालमा भएको थियो?",
+  "options": [
+   "1953",
+   "1924",
+   "1950",
+   "1960"
+  ],
+  "options_ne": [
+   "सन् १९५३",
+   "सन् १९२४",
+   "१९५०",
+   "१९६०"
+  ],
+  "answer": 0,
+  "explanation": "Everest was first climbed in 1953 by Edmund Hillary and Tenzing Norgay Sherpa.",
+  "explanation_ne": "सन् १९५३ मा एडमण्ड हिलारी र तेन्जिङ नोर्गे शेर्पाले पहिलोपटक सगरमाथा आरोहण गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "foreign-service",
+   "police"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who were the first people to climb Mount Everest in 1953?",
+  "question_ne": "सन् १९५३ मा सगरमाथा आरोहण गर्ने पहिलो व्यक्ति को थिए?",
+  "options": [
+   "Reinhold Messner and Peter Habeler",
+   "George Mallory and Andrew Irvine",
+   "Maurice Herzog and Louis Lachenal",
+   "Edmund Hillary and Tenzing Norgay Sherpa"
+  ],
+  "options_ne": [
+   "Reinhold Messner र Peter Habeler",
+   "जर्ज मैलोरी र एन्ड्रयू इरविन",
+   "मौरिस हर्जोग र लुइस लाचेनल",
+   "एडमन्ड हिलारी र तेन्जिङ नोर्गे शेर्पा"
+  ],
+  "answer": 3,
+  "explanation": "Edmund Hillary of New Zealand and Tenzing Norgay Sherpa of Nepal first reached the summit in 1953.",
+  "explanation_ne": "सन् १९५३ मा न्यूजिल्याण्डका एडमण्ड हिलारी र नेपालका तेन्जिङ नोर्गे शेर्पा पहिलो पटक शिखरमा पुगेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many of the world's 14 mountains above 8,000 metres are in Nepal?",
+  "question_ne": "विश्वका ८ हजार मिटरभन्दा अग्ला १४ वटा हिमालमध्ये कतिवटा नेपालमा छन्?",
+  "options": [
+   "5",
+   "8",
+   "14",
+   "10"
+  ],
+  "options_ne": [
+   "५",
+   "८",
+   "१४",
+   "१०"
+  ],
+  "answer": 1,
+  "explanation": "Eight of the fourteen 8,000-metre peaks are in Nepal, wholly or partly.",
+  "explanation_ne": "चौध ८,००० मिटर अग्ला चुचुराहरूमध्ये आठ वटा पूर्ण वा आंशिक रूपमा नेपालमा छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mountain is the eighth-highest in the world and located in Nepal?",
+  "question_ne": "विश्वको आठौं अग्लो र नेपालमा रहेको हिमाल कुन हो?",
+  "options": [
+   "Lhotse",
+   "Manaslu",
+   "Cho Oyu",
+   "Makalu"
+  ],
+  "options_ne": [
+   "ल्होत्से",
+   "मनास्लु",
+   "चो ओयु",
+   "मकालु"
+  ],
+  "answer": 1,
+  "explanation": "Manaslu (8,163 m) is the eighth-highest mountain in the world.",
+  "explanation_ne": "मनास्लु (८,१६३ मिटर) विश्वको आठौं अग्लो हिमाल हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which river is called the Karnali in Nepal and the Ghaghara in India?",
+  "question_ne": "नेपालमा कर्णाली र भारतमा घाघरा भनेर कुन नदीलाई चिनिन्छ?",
+  "options": [
+   "Mahakali",
+   "Gandaki",
+   "Koshi",
+   "Karnali"
+  ],
+  "options_ne": [
+   "महाकाली",
+   "गण्डकी",
+   "कोशी",
+   "कर्णाली"
+  ],
+  "answer": 3,
+  "explanation": "The Karnali, Nepal's longest river, is known as the Ghaghara after it enters India.",
+  "explanation_ne": "नेपालको सबैभन्दा लामो नदी कर्णालीलाई भारतमा प्रवेश गरेपछि घाघरा भनिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Gandaki River is known as Narayani in which region?",
+  "question_ne": "गण्डकी नदीलाई नारायणी भनेर कुन क्षेत्रमा चिनिन्छ?",
+  "options": [
+   "In Karnali",
+   "In the high Himalaya only",
+   "In the Terai / southern plains",
+   "In Kathmandu Valley"
+  ],
+  "options_ne": [
+   "कर्णालीमा",
+   "उच्च हिमालयमा मात्र",
+   "तराई/दक्षिणी तराईमा",
+   "काठमाडौं उपत्यकामा"
+  ],
+  "answer": 2,
+  "explanation": "The Gandaki becomes the Narayani as it flows through the southern plains.",
+  "explanation_ne": "गण्डकी दक्षिणी समतल भूभाग भएर बगेपछि नारायणी बनेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which river forms part of Nepal's western border with India?",
+  "question_ne": "नेपालको पश्चिमी सिमाना भारतसँगको भाग कुन नदी हो?",
+  "options": [
+   "Karnali",
+   "Bagmati",
+   "Mahakali",
+   "Koshi"
+  ],
+  "options_ne": [
+   "कर्णाली",
+   "बागमती",
+   "महाकाली",
+   "कोशी"
+  ],
+  "answer": 2,
+  "explanation": "The Mahakali River forms the western border between Nepal and India.",
+  "explanation_ne": "महाकाली नदीले नेपाल र भारतको पश्चिमी सिमाना बनाउँछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which river forms part of Nepal's eastern border with India?",
+  "question_ne": "नेपालको पूर्वी भारतसँगको सिमाना कुन नदीले बनेको छ?",
+  "options": [
+   "Gandaki",
+   "Bagmati",
+   "Mechi",
+   "Koshi"
+  ],
+  "options_ne": [
+   "गण्डकी",
+   "बागमती",
+   "मेची",
+   "कोशी"
+  ],
+  "answer": 2,
+  "explanation": "The Mechi River forms part of Nepal's eastern border.",
+  "explanation_ne": "मेची नदी नेपालको पूर्वी सिमानाको हिस्सा हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Rara Lake, the largest lake in Nepal, lies in which district?",
+  "question_ne": "नेपालको सबैभन्दा ठूलो ताल रारा ताल कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Mugu",
+   "Jumla",
+   "Kaski",
+   "Dolpa"
+  ],
+  "options_ne": [
+   "मुगु",
+   "जुम्ला",
+   "कास्की",
+   "डोल्पा"
+  ],
+  "answer": 0,
+  "explanation": "Rara Lake, Nepal's largest lake, is in Mugu district.",
+  "explanation_ne": "नेपालको सबैभन्दा ठूलो ताल रारा ताल मुगु जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rara Lake is located in which district?",
+  "question_ne": "रारा ताल कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Jumla",
+   "Kaski",
+   "Dolpa",
+   "Mugu"
+  ],
+  "options_ne": [
+   "जुम्ला",
+   "कास्की",
+   "डोल्पा",
+   "मुगु"
+  ],
+  "answer": 3,
+  "explanation": "Rara Lake lies in Mugu district in Karnali Province.",
+  "explanation_ne": "रारा ताल कर्णाली प्रदेशको मुगु जिल्लामा पर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Phewa Lake is located in which city?",
+  "question_ne": "फेवा ताल कुन सहरमा पर्दछ?",
+  "options": [
+   "Nepalgunj",
+   "Pokhara",
+   "Biratnagar",
+   "Kathmandu"
+  ],
+  "options_ne": [
+   "नेपालगन्ज",
+   "पोखरा",
+   "विराटनगर",
+   "काठमाडौं।"
+  ],
+  "answer": 1,
+  "explanation": "Phewa Lake is in Pokhara, Kaski district.",
+  "explanation_ne": "फेवाताल कास्की जिल्लाको पोखरामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which lake is known as one of the highest lakes in the world?",
+  "question_ne": "विश्वको सबैभन्दा अग्लो ताल भनेर कुन ताललाई चिनिन्छ?",
+  "options": [
+   "Rara Lake",
+   "Phewa Lake",
+   "Tilicho Lake",
+   "Begnas Lake"
+  ],
+  "options_ne": [
+   "रारा ताल",
+   "फेवा ताल",
+   "तिलिचो ताल",
+   "बेगनास ताल"
+  ],
+  "answer": 2,
+  "explanation": "Tilicho Lake, at about 4,919 metres, is one of the highest lakes in the world.",
+  "explanation_ne": "करिब ४,९१९ मिटर उचाइमा रहेको तिलिचो ताल विश्वको सबैभन्दा अग्लो ताल मध्ये एक हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Gosaikunda Lake is a sacred lake for Hindus, located in which district?",
+  "question_ne": "गोसाइकुण्ड ताल हिन्दुहरुको पवित्र ताल कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Mugu",
+   "Kaski",
+   "Solukhumbu",
+   "Rasuwa"
+  ],
+  "options_ne": [
+   "मुगु",
+   "कास्की",
+   "सोलुखुम्बु",
+   "रसुवा"
+  ],
+  "answer": 3,
+  "explanation": "Gosaikunda lies in Rasuwa district in the Langtang region.",
+  "explanation_ne": "गोसाइकुण्ड लाङटाङ क्षेत्रको रसुवा जिल्लामा पर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which river flows through Kathmandu Valley?",
+  "question_ne": "काठमाडौं उपत्यका भएर बग्ने नदी कुन हो?",
+  "options": [
+   "Koshi",
+   "Gandaki",
+   "Bagmati",
+   "Karnali"
+  ],
+  "options_ne": [
+   "कोशी",
+   "गण्डकी",
+   "बागमती",
+   "कर्णाली"
+  ],
+  "answer": 2,
+  "explanation": "The Bagmati River flows through Kathmandu Valley.",
+  "explanation_ne": "बागमती नदी काठमाडौं उपत्यकाबाट बग्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Bagmati River originates from which place?",
+  "question_ne": "बागमती नदी कुन ठाउँबाट निस्कन्छ?",
+  "options": [
+   "Rara Lake",
+   "Annapurna",
+   "Shivapuri (Bagdwar)",
+   "Tilicho Lake"
+  ],
+  "options_ne": [
+   "रारा ताल",
+   "अन्नपूर्ण",
+   "शिवपुरी (बगद्वार)",
+   "तिलिचो ताल"
+  ],
+  "answer": 2,
+  "explanation": "The Bagmati originates at Bagdwar in the Shivapuri hills north of Kathmandu.",
+  "explanation_ne": "बाग्मती काठमाडौंको उत्तरमा शिवपुरी पहाडको बागद्वारमा उत्पत्ति भएको हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was Chitwan National Park listed as a UNESCO World Heritage Site?",
+  "question_ne": "चितवन राष्ट्रिय निकुञ्ज कुन सालमा युनेस्कोको विश्व सम्पदा सूचीमा परेको थियो?",
+  "options": [
+   "1976",
+   "1990",
+   "1984",
+   "1973"
+  ],
+  "options_ne": [
+   "सन् १९७६",
+   "१९९०",
+   "सन् १९८४",
+   "१९७३"
+  ],
+  "answer": 2,
+  "explanation": "Chitwan National Park, established in 1973, was listed as a UNESCO World Heritage Site in 1984.",
+  "explanation_ne": "सन् १९७३ मा स्थापना भएको चितवन राष्ट्रिय निकुञ्जलाई सन् १९८४ मा युनेस्कोले विश्व सम्पदा सूचीमा राखेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sagarmatha National Park is famous for protecting which mountain?",
+  "question_ne": "सगरमाथा राष्ट्रिय निकुञ्ज कुन हिमालको संरक्षणका लागि प्रसिद्ध छ?",
+  "options": [
+   "Dhaulagiri",
+   "Annapurna",
+   "Kanchenjunga",
+   "Mount Everest"
+  ],
+  "options_ne": [
+   "धौलागिरी",
+   "अन्नपूर्ण",
+   "कञ्चनजङ्घा",
+   "सगरमाथा"
+  ],
+  "answer": 3,
+  "explanation": "Sagarmatha National Park, established in 1976, protects the Everest region.",
+  "explanation_ne": "सन् १९७६ मा स्थापना भएको सगरमाथा राष्ट्रिय निकुञ्जले सगरमाथा क्षेत्रको संरक्षण गर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which animal is Chitwan National Park most famous for protecting?",
+  "question_ne": "चितवन राष्ट्रिय निकुञ्ज संरक्षणका लागि सबैभन्दा प्रसिद्ध कुन प्राणी हो?",
+  "options": [
+   "Red panda",
+   "Snow leopard",
+   "Musk deer",
+   "One-horned rhinoceros"
+  ],
+  "options_ne": [
+   "रातो पाण्डा",
+   "हिउँ चितुवा",
+   "कस्तुरी हिरण",
+   "एकसिङ्गे गैंडा"
+  ],
+  "answer": 3,
+  "explanation": "Chitwan is famous for the one-horned rhinoceros and the Bengal tiger.",
+  "explanation_ne": "चितवन एकसिङ्गे गैंडा र बंगाली बाघका लागि प्रख्यात छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many national parks are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा राष्ट्रिय निकुञ्ज छन्?",
+  "options": [
+   "12",
+   "15",
+   "8",
+   "10"
+  ],
+  "options_ne": [
+   "१२",
+   "१५",
+   "८",
+   "१०"
+  ],
+  "answer": 0,
+  "explanation": "Nepal has 12 national parks.",
+  "explanation_ne": "नेपालमा १२ वटा राष्ट्रिय निकुञ्ज छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Rara National Park is located in which province?",
+  "question_ne": "रारा राष्ट्रिय निकुञ्ज कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Gandaki",
+   "Bagmati",
+   "Karnali",
+   "Koshi"
+  ],
+  "options_ne": [
+   "गण्डकी",
+   "बागमती",
+   "कर्णाली",
+   "कोशी"
+  ],
+  "answer": 2,
+  "explanation": "Rara National Park, around Rara Lake, is in Karnali Province.",
+  "explanation_ne": "रारा तालको वरिपरि रहेको रारा राष्ट्रिय निकुञ्ज कर्णाली प्रदेशमा पर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Shey-Phoksundo National Park is the largest national park in Nepal and lies in which region?",
+  "question_ne": "शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो र कुन क्षेत्रमा पर्दछ?",
+  "options": [
+   "Kathmandu Valley",
+   "Dolpa / Karnali region",
+   "Chitwan",
+   "Terai"
+  ],
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "डोल्पा / कर्णाली क्षेत्र",
+   "चितवन",
+   "तराई"
+  ],
+  "answer": 1,
+  "explanation": "Shey-Phoksundo in Dolpa is Nepal's largest national park.",
+  "explanation_ne": "डोल्पाको शे-फोक्सुण्डो नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Bardia National Park is located in which province?",
+  "question_ne": "बर्दिया राष्ट्रिय निकुञ्ज कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Bagmati",
+   "Lumbini",
+   "Karnali",
+   "Koshi"
+  ],
+  "options_ne": [
+   "बागमती",
+   "लुम्बिनी",
+   "कर्णाली",
+   "कोशी"
+  ],
+  "answer": 1,
+  "explanation": "Bardia National Park is in Lumbini Province in western Nepal.",
+  "explanation_ne": "बर्दिया राष्ट्रिय निकुञ्ज पश्चिम नेपालको लुम्बिनी प्रान्तमा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal is divided into how many main ecological regions?",
+  "question_ne": "नेपाललाई मुख्य पारिस्थितिक क्षेत्रमा कति भागमा विभाजन गरिएको छ?",
+  "options": [
+   "3 - Mountain, Hill and Terai",
+   "5",
+   "4 - Mountain, Hill, Terai and Desert",
+   "2 - Hill and Terai"
+  ],
+  "options_ne": [
+   "३ - पहाड, पहाड र तराई",
+   "५",
+   "४ - पहाड, पहाड, तराई र मरुभूमि",
+   "२ - पहाड र तराई"
+  ],
+  "answer": 0,
+  "explanation": "Nepal has three ecological regions: Mountain, Hill and Terai.",
+  "explanation_ne": "नेपालमा हिमाल, पहाड र तराई गरी तीन पारिस्थितिक क्षेत्र छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Approximately what share of Nepal's area is the Hill region?",
+  "question_ne": "नेपालको पहाडी क्षेत्रको करिब कति हिस्सा छ?",
+  "options": [
+   "About 68%",
+   "About 15%",
+   "About 17%",
+   "About 50%"
+  ],
+  "options_ne": [
+   "लगभग ६८%",
+   "लगभग १५%",
+   "लगभग १७%",
+   "लगभग ५०%"
+  ],
+  "answer": 0,
+  "explanation": "The Hill region covers about 68% of Nepal's area, the Mountain about 15% and the Terai about 17%.",
+  "explanation_ne": "पहाडी क्षेत्रले नेपालको करिब ६८%, हिमालले १५% र तराईले १७% ओगटेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Approximately what share of Nepal's area is the Terai region?",
+  "question_ne": "नेपालको तराई क्षेत्रको करिब कति हिस्सा छ?",
+  "options": [
+   "About 17%",
+   "About 40%",
+   "About 68%",
+   "About 15%"
+  ],
+  "options_ne": [
+   "लगभग १७%",
+   "लगभग ४०%",
+   "लगभग ६८%",
+   "लगभग १५%"
+  ],
+  "answer": 0,
+  "explanation": "The Terai covers about 17% of Nepal's area.",
+  "explanation_ne": "तराईले नेपालको १७% क्षेत्र ओगटेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which neighbouring countries share a border with Nepal?",
+  "question_ne": "नेपालसँग सिमाना जोडिएका छिमेकी राष्ट्र कुन हो?",
+  "options": [
+   "India and Pakistan",
+   "China and Bhutan",
+   "India and Bangladesh",
+   "India and China"
+  ],
+  "options_ne": [
+   "भारत र पाकिस्तान",
+   "चीन र भुटान",
+   "भारत र बंगलादेश",
+   "भारत र चीन"
+  ],
+  "answer": 3,
+  "explanation": "Nepal is landlocked between India to the south, east and west, and China to the north.",
+  "explanation_ne": "नेपाल दक्षिण, पूर्व र पश्चिममा भारत र उत्तरमा चीनको बीचमा भूपरिवेष्ठित छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Nepal is a landlocked country - what does this mean?",
+  "question_ne": "नेपाल भूपरिवेष्ठित देश हो - यसको अर्थ के हो?",
+  "options": [
+   "It has no neighbours",
+   "It has no mountains",
+   "It has no rivers",
+   "It has no sea coast"
+  ],
+  "options_ne": [
+   "यसको कुनै छिमेकी छैन",
+   "यसमा पहाडहरू छैनन्",
+   "यसमा नदीहरू छैनन्",
+   "यसको कुनै समुद्री तट छैन"
+  ],
+  "answer": 3,
+  "explanation": "Landlocked means a country has no coastline on a sea or ocean.",
+  "explanation_ne": "भूपरिवेष्ठित भन्नाले कुनै देशको समुन्द्र वा महासागरमा कुनै तटीय रेखा छैन।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which season brings most of Nepal's rainfall?",
+  "question_ne": "नेपालमा सबैभन्दा बढी पानी कुन सिजनमा ल्याउँछ?",
+  "options": [
+   "Monsoon (summer)",
+   "Autumn",
+   "Winter",
+   "Spring"
+  ],
+  "options_ne": [
+   "मनसुन (गर्मी)",
+   "शरद ऋतु",
+   "जाडो",
+   "वसन्त"
+  ],
+  "answer": 0,
+  "explanation": "The summer monsoon, roughly June to September, brings most of Nepal's rain.",
+  "explanation_ne": "ग्रीष्मकालीन मनसुन, लगभग जुन देखि सेप्टेम्बर सम्म, नेपालको अधिकांश वर्षा ल्याउँछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Terai region of Nepal is known mainly for what?",
+  "question_ne": "नेपालको तराई क्षेत्र मुख्यतया केका लागि परिचित छ?",
+  "options": [
+   "High Himalayan peaks",
+   "Cold desert",
+   "Dense pine forest only",
+   "Flat fertile plains and agriculture"
+  ],
+  "options_ne": [
+   "उच्च हिमालयन चुचुराहरू",
+   "चिसो मरुभूमि",
+   "घना पाइन वन मात्र",
+   "समतल उर्वर मैदान र कृषि"
+  ],
+  "answer": 3,
+  "explanation": "The Terai is the flat southern plain, Nepal's main food-producing region.",
+  "explanation_ne": "तराई समतल दक्षिणी तराई हो, नेपालको मुख्य खाद्य उत्पादन गर्ने क्षेत्र हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-128",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which district is known as the headquarters of the Everest region and the gateway to Everest Base Camp?",
+  "question_ne": "सगरमाथा क्षेत्रको सदरमुकाम र सगरमाथा आधार शिविरको प्रवेशद्वार भनेर कुन जिल्लालाई चिनिन्छ?",
+  "options": [
+   "Taplejung",
+   "Kaski",
+   "Solukhumbu (Lukla / Namche)",
+   "Gorkha"
+  ],
+  "options_ne": [
+   "ताप्लेजुङ",
+   "कास्की",
+   "सोलुखुम्बु (लुक्ला/नामचे)",
+   "गोरखा"
+  ],
+  "answer": 2,
+  "explanation": "Solukhumbu district, via Lukla and Namche Bazaar, is the gateway to Everest.",
+  "explanation_ne": "लुक्ला र नाम्चे बजार हुँदै सोलुखुम्बु जिल्ला सगरमाथाको प्रवेशद्वार हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which province has the highest number of districts?",
+  "question_ne": "सबैभन्दा बढी जिल्ला भएको प्रदेश कुन हो?",
+  "options": [
+   "Lumbini (12 districts)",
+   "Koshi (14 districts)",
+   "Karnali (10 districts)",
+   "Bagmati (13 districts)"
+  ],
+  "options_ne": [
+   "लुम्बिनी (१२ जिल्ला)",
+   "कोशी (१४ जिल्ला)",
+   "कर्णाली (१० जिल्ला)",
+   "बागमती (१३ जिल्ला)"
+  ],
+  "answer": 1,
+  "explanation": "Koshi Province has 14 districts, the most of any province, ahead of Bagmati with 13.",
+  "explanation_ne": "कोशी प्रदेशमा १४ जिल्लाहरू छन्, जुन कुनै पनि प्रदेशको सबैभन्दा बढी हो, १३ संग बागमती अगाडि छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which district is home to Lumbini, the birthplace of Buddha?",
+  "question_ne": "बुद्धको जन्मस्थल लुम्बिनी कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Dang",
+   "Rupandehi",
+   "Kapilvastu",
+   "Nawalparasi"
+  ],
+  "options_ne": [
+   "दाङ",
+   "रुपन्देही",
+   "कपिलवस्तु",
+   "नवलपरासी"
+  ],
+  "answer": 1,
+  "explanation": "Lumbini is in Rupandehi district, Lumbini Province.",
+  "explanation_ne": "लुम्बिनी लुम्बिनी प्रान्तको रुपन्देही जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Kanchenjunga is located on the border of Nepal and which Indian state?",
+  "question_ne": "कञ्चनजङ्घा नेपाल र भारतको कुन राज्यको सिमानामा पर्दछ?",
+  "options": [
+   "Himachal Pradesh",
+   "Arunachal Pradesh",
+   "Uttarakhand",
+   "Sikkim"
+  ],
+  "options_ne": [
+   "हिमाचल प्रदेश",
+   "अरुणाचल प्रदेश",
+   "उत्तराखण्ड",
+   "सिक्किम"
+  ],
+  "answer": 3,
+  "explanation": "Kanchenjunga lies on the Nepal-Sikkim border.",
+  "explanation_ne": "कञ्चनजङ्घा नेपाल-सिकिम सीमामा अवस्थित छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Karnali River is also known as Ghaghara after it enters which country?",
+  "question_ne": "कर्णाली नदी कुन देशमा प्रवेश गरेपछि यसलाई घाघरा पनि भनिन्छ?",
+  "options": [
+   "Bangladesh",
+   "India",
+   "Bhutan",
+   "China"
+  ],
+  "options_ne": [
+   "बंगलादेश",
+   "भारत",
+   "भुटान",
+   "चीन"
+  ],
+  "answer": 1,
+  "explanation": "After entering India, the Karnali is known as the Ghaghara.",
+  "explanation_ne": "भारत प्रवेश गरेपछि कर्णालीलाई घाघरा भनिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which national park is home to the endangered red panda in eastern Nepal?",
+  "question_ne": "पूर्वी नेपालको लोपोन्मुख रेड पाण्डाको घर कुन राष्ट्रिय निकुञ्जमा छ?",
+  "options": [
+   "Chitwan National Park",
+   "Parsa National Park",
+   "Bardia National Park",
+   "Makalu Barun National Park"
+  ],
+  "options_ne": [
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "पर्सा राष्ट्रिय निकुञ्ज",
+   "बर्दिया राष्ट्रिय निकुञ्ज",
+   "मकालु बरुण राष्ट्रिय निकुञ्ज"
+  ],
+  "answer": 3,
+  "explanation": "Makalu Barun and the eastern Himalaya are important red panda habitat in Nepal.",
+  "explanation_ne": "मकालु बरुण र पूर्वी हिमालय नेपालका महत्वपूर्ण रेड पाण्डा बासस्थान हुन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The highest point in Nepal is Mount Everest, and the lowest point is in which district?",
+  "question_ne": "नेपालको सबैभन्दा अग्लो बिन्दु सगरमाथा हो र सबैभन्दा तल्लो बिन्दु कुन जिल्लामा छ?",
+  "options": [
+   "Kailali",
+   "Morang",
+   "Banke",
+   "Jhapa (Kechana Kalan, about 59 m)"
+  ],
+  "options_ne": [
+   "कैलाली",
+   "मोरङ",
+   "बाँके",
+   "झापा (केचना कला, करिब ५९ मिटर)"
+  ],
+  "answer": 3,
+  "explanation": "Kechana Kalan in Jhapa district, at about 59 metres, is Nepal's lowest point.",
+  "explanation_ne": "झापा जिल्लाको केचना कलान, करिब ५९ मिटर, नेपालको सबैभन्दा तल्लो बिन्दु हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pokhara is located in which district?",
+  "question_ne": "पोखरा कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Kaski",
+   "Gorkha",
+   "Syangja",
+   "Tanahun"
+  ],
+  "options_ne": [
+   "कास्की",
+   "गोरखा",
+   "स्याङ्जा",
+   "तनहुँ"
+  ],
+  "answer": 0,
+  "explanation": "Pokhara is in Kaski district.",
+  "explanation_ne": "पोखरा कास्की जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Birgunj, a major trade city on the Indian border, is in which district?",
+  "question_ne": "भारतीय सीमामा पर्ने प्रमुख व्यापारिक सहर वीरगन्ज कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Parsa",
+   "Bara",
+   "Rautahat",
+   "Morang"
+  ],
+  "options_ne": [
+   "पर्सा",
+   "बारा",
+   "रौतहट",
+   "मोरङ"
+  ],
+  "answer": 0,
+  "explanation": "Birgunj is in Parsa district, Madhesh Province.",
+  "explanation_ne": "वीरगन्ज मधेस प्रदेशको पर्सा जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Begnas Lake is located near which city?",
+  "question_ne": "बेगनास ताल कुन सहरको नजिक पर्छ?",
+  "options": [
+   "Dhangadhi",
+   "Kathmandu",
+   "Biratnagar",
+   "Pokhara"
+  ],
+  "options_ne": [
+   "धनगढी",
+   "काठमाडौं।",
+   "विराटनगर",
+   "पोखरा"
+  ],
+  "answer": 3,
+  "explanation": "Begnas Lake is near Pokhara in Kaski district.",
+  "explanation_ne": "बेगनास ताल कास्की जिल्लाको पोखरा नजिकै छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Dhaulagiri is the seventh-highest mountain in the world - in which province is it mainly located?",
+  "question_ne": "धौलागिरी विश्वको सातौं अग्लो हिमाल हो - यो मुख्यतया कुन प्रदेशमा पर्दछ?",
+  "options": [
+   "Gandaki",
+   "Koshi",
+   "Karnali",
+   "Bagmati"
+  ],
+  "options_ne": [
+   "गण्डकी",
+   "कोशी",
+   "कर्णाली",
+   "बागमती"
+  ],
+  "answer": 0,
+  "explanation": "Dhaulagiri lies in Gandaki Province, west of Annapurna.",
+  "explanation_ne": "धौलागिरी अन्नपूर्णको पश्चिममा रहेको गण्डकी प्रदेशमा पर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Langtang National Park is closest to which valley?",
+  "question_ne": "लाङटाङ राष्ट्रिय निकुञ्ज कुन उपत्यकाबाट सबैभन्दा नजिक छ?",
+  "options": [
+   "Kathmandu Valley",
+   "Dang Valley",
+   "Chitwan Valley",
+   "Pokhara Valley"
+  ],
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "दाङ उपत्यका",
+   "चितवन उपत्यका",
+   "पोखरा उपत्यका"
+  ],
+  "answer": 0,
+  "explanation": "Langtang National Park lies north of Kathmandu Valley, in Rasuwa district.",
+  "explanation_ne": "लाङटाङ राष्ट्रिय निकुञ्ज काठमाडौं उपत्यकाको उत्तरमा रसुवा जिल्लामा अवस्थित छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal's total area is approximately how large?",
+  "question_ne": "नेपालको कुल क्षेत्रफल लगभग कति छ?",
+  "options": [
+   "About 147,516 square kilometres",
+   "About 100,000 square kilometres",
+   "About 200,000 square kilometres",
+   "About 50,000 square kilometres"
+  ],
+  "options_ne": [
+   "लगभग १४७,५१६ वर्ग किलोमिटर",
+   "लगभग १००,००० वर्ग किलोमिटर",
+   "लगभग २००,००० वर्ग किलोमिटर",
+   "लगभग ५०,००० वर्ग किलोमिटर"
+  ],
+  "answer": 0,
+  "explanation": "Nepal covers about 147,516 square kilometres.",
+  "explanation_ne": "नेपालले लगभग १४७,५१६ वर्ग किलोमिटर ओगटेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which province is the most populous in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा बढी जनसङ्ख्या भएको प्रदेश कुन हो?",
+  "options": [
+   "Lumbini",
+   "Madhesh",
+   "Koshi",
+   "Bagmati"
+  ],
+  "options_ne": [
+   "लुम्बिनी",
+   "मधेस",
+   "कोशी",
+   "बागमती"
+  ],
+  "answer": 3,
+  "explanation": "Bagmati is the most populous province according to the 2021 census, with 6,116,866 people, ahead of Madhesh (6,114,600).",
+  "explanation_ne": "२०२१ को जनगणना अनुसार बागमती नेपालको सबैभन्दा बढी जनसंख्या भएको प्रदेश हो, ६,११६,८६६ जनसंख्या, मधेस (६,११४,६००) भन्दा अगाडि।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Provinces & Districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which province is the least populous in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा कम जनसङ्ख्या भएको प्रदेश कुन हो?",
+  "options": [
+   "Gandaki",
+   "Karnali",
+   "Sudurpashchim",
+   "Madhesh"
+  ],
+  "options_ne": [
+   "गण्डकी",
+   "कर्णाली",
+   "सुदूरपश्चिम",
+   "मधेस"
+  ],
+  "answer": 1,
+  "explanation": "Karnali is the least populous province.",
+  "explanation_ne": "कर्णाली सबैभन्दा कम जनसंख्या भएको प्रदेश हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Lhotse, the fourth-highest mountain in the world, is located next to which mountain?",
+  "question_ne": "विश्वको चौथो अग्लो हिमाल ल्होत्से कुन हिमालको छेउमा अवस्थित छ?",
+  "options": [
+   "Mount Everest",
+   "Annapurna I",
+   "Makalu",
+   "Kanchenjunga"
+  ],
+  "options_ne": [
+   "सगरमाथा",
+   "अन्नपूर्ण आई",
+   "मकालु",
+   "कञ्चनजङ्घा"
+  ],
+  "answer": 0,
+  "explanation": "Lhotse (8,516 m) is connected to Everest by the South Col.",
+  "explanation_ne": "ल्होत्से (८,५१६ मिटर) दक्षिण कर्नलद्वारा सगरमाथासँग जोडिएको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers & Lakes",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which lake in Pokhara is famous for the reflection of Machhapuchhre and Annapurna?",
+  "question_ne": "माछापुच्छ्रे र अन्नपूर्णको प्रतिबिम्बका लागि पोखराको कुन ताल प्रसिद्ध छ?",
+  "options": [
+   "Rara Lake",
+   "Tilicho Lake",
+   "Phewa Lake",
+   "Gosaikunda"
+  ],
+  "options_ne": [
+   "रारा ताल",
+   "तिलिचो ताल",
+   "फेवा ताल",
+   "गोसाइकुण्ड"
+  ],
+  "answer": 2,
+  "explanation": "Phewa Lake in Pokhara is famous for mountain reflections, including Machhapuchhre.",
+  "explanation_ne": "पोखराको फेवाताल माछापुच्छ्रेलगायत हिमाली प्रतिबिम्बका लागि प्रसिद्ध छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Parks",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Shivapuri-Nagarjun National Park is located just north of which city?",
+  "question_ne": "शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज कुन सहरको उत्तरमा अवस्थित छ?",
+  "options": [
+   "Pokhara",
+   "Kathmandu",
+   "Butwal",
+   "Biratnagar"
+  ],
+  "options_ne": [
+   "पोखरा",
+   "काठमाडौं।",
+   "बुटवल",
+   "विराटनगर"
+  ],
+  "answer": 1,
+  "explanation": "Shivapuri-Nagarjun National Park lies just north of Kathmandu.",
+  "explanation_ne": "शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज काठमाडौंको उत्तरमा अवस्थित छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Climate & Regions",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal lies in which continent?",
+  "question_ne": "नेपाल कुन महादेशमा पर्दछ?",
+  "options": [
+   "Europe",
+   "Asia",
+   "Africa",
+   "Australia"
+  ],
+  "options_ne": [
+   "युरोप",
+   "एशिया",
+   "अफ्रिका",
+   "अस्ट्रेलिया"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is in South Asia, between India and China.",
+  "explanation_ne": "नेपाल दक्षिण एसियामा भारत र चीनको बीचमा छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the longest and most important festival in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा लामो र महत्वपूर्ण चाड कुन हो?",
+  "options": [
+   "Teej",
+   "Dashain",
+   "Holi",
+   "Tihar"
+  ],
+  "options_ne": [
+   "तीज",
+   "दशैं",
+   "होली",
+   "तिहार"
+  ],
+  "answer": 1,
+  "explanation": "Dashain, also called Vijaya Dashami, is Nepal's longest and most important festival.",
+  "explanation_ne": "दशैं, जसलाई विजया दशमी पनि भनिन्छ, नेपालको सबैभन्दा लामो र महत्त्वपूर्ण चाड हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Dashain celebrates the victory of good over evil, associated with which goddess?",
+  "question_ne": "दशैंलाई कुन देवीसँग जोडेर मनाइन्छ?",
+  "options": [
+   "Saraswati",
+   "Laxmi",
+   "Parvati",
+   "Durga"
+  ],
+  "options_ne": [
+   "सरस्वती",
+   "लक्ष्मी",
+   "पार्वती",
+   "दुर्गा"
+  ],
+  "answer": 3,
+  "explanation": "Dashain honours goddess Durga and her victory over the demon Mahishasura.",
+  "explanation_ne": "दशैंले देवी दुर्गाको सम्मान र दैत्य महिषासुरमाथिको विजयलाई सम्मान गर्दछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "During Dashain, elders give Tika and Jamara to younger family members on which day?",
+  "question_ne": "दशैंको समयमा जेष्ठहरूले कुन दिन घरका साना सदस्यहरूलाई टीका र जमरा दिन्छन्?",
+  "options": [
+   "Phulpati (the seventh day)",
+   "Vijaya Dashami (the tenth day)",
+   "Ghatasthapana (the first day)",
+   "Kojagrat Purnima"
+  ],
+  "options_ne": [
+   "फुलपाती (सातौं दिन)",
+   "विजया दशमी (दशौं दिन)",
+   "घटस्थापना (पहिलो दिन)",
+   "कोजाग्रत पूर्णिमा"
+  ],
+  "answer": 1,
+  "explanation": "Tika and Jamara are given on Vijaya Dashami, the tenth and main day of Dashain.",
+  "explanation_ne": "दशैंको दशौं र मुख्य दिन विजयादशमीमा टीका र जमरा दिइन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dashain begins with which day, when Jamara is sown?",
+  "question_ne": "जमरा रोप्ने दिन कुन दिनबाट दशैं सुरु हुन्छ?",
+  "options": [
+   "Phulpati",
+   "Vijaya Dashami",
+   "Ghatasthapana",
+   "Maha Asthami"
+  ],
+  "options_ne": [
+   "फुलपाती",
+   "विजया दशमी",
+   "घटस्थापना",
+   "महाअष्टमी"
+  ],
+  "answer": 2,
+  "explanation": "Dashain begins on Ghatasthapana, when barley seeds (Jamara) are sown.",
+  "explanation_ne": "जौको बीउ (जमरा) रोप्दा घटस्थापनाबाट दशैं सुरु हुन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many days does Tihar (Deepawali) last?",
+  "question_ne": "तिहार (दीपावली) कति दिन रहन्छ?",
+  "options": [
+   "15 days",
+   "5 days",
+   "3 days",
+   "10 days"
+  ],
+  "options_ne": [
+   "१५ दिन",
+   "५ दिन",
+   "३ दिन",
+   "१० दिन"
+  ],
+  "answer": 1,
+  "explanation": "Tihar is a five-day festival of lights.",
+  "explanation_ne": "तिहार उज्यालोको पाँच दिने पर्व हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Tihar is also known as the festival of what?",
+  "question_ne": "तिहारलाई कुन चाड भनेर पनि चिनिन्छ?",
+  "options": [
+   "Water",
+   "Kites",
+   "Colours",
+   "Lights"
+  ],
+  "options_ne": [
+   "पानी",
+   "पतंग",
+   "रंगहरू",
+   "बत्तीहरू"
+  ],
+  "answer": 3,
+  "explanation": "Tihar, or Deepawali, is the festival of lights, when homes are lit with oil lamps.",
+  "explanation_ne": "तिहार, वा दीपावली, बत्तीहरूको पर्व हो, जब घरहरू तेलको बत्तीहरू बालिन्छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On which day of Tihar is Laxmi, the goddess of wealth, worshipped?",
+  "question_ne": "तिहारको कुन दिन धनकी देवी लक्ष्मीको पूजा गरिन्छ?",
+  "options": [
+   "Second day (Kukur Tihar)",
+   "Third day (Laxmi Puja)",
+   "Fifth day (Bhai Tika)",
+   "First day (Kaag Tihar)"
+  ],
+  "options_ne": [
+   "दोस्रो दिन (कुकुर तिहार)",
+   "तेस्रो दिन (लक्ष्मी पूजा)",
+   "पाँचौं दिन (भाई टिका)",
+   "पहिलो दिन (काग तिहार)"
+  ],
+  "answer": 1,
+  "explanation": "Laxmi Puja is on the third day of Tihar.",
+  "explanation_ne": "तिहारको तेस्रो दिन लक्ष्मी पुजा परेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which animal is worshipped on the second day of Tihar?",
+  "question_ne": "तिहारको दोस्रो दिन कुन जनावरको पूजा गरिन्छ?",
+  "options": [
+   "Dog (Kukur Tihar)",
+   "Ox",
+   "Crow",
+   "Cow"
+  ],
+  "options_ne": [
+   "कुकुर (कुकुर तिहार)",
+   "गोरु",
+   "काग",
+   "गाई"
+  ],
+  "answer": 0,
+  "explanation": "The second day is Kukur Tihar, when dogs are honoured with tika and garlands.",
+  "explanation_ne": "कुकुर तिहारको दोस्रो दिन कुकुरलाई टीका र मालाले सम्मान गरिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which animal is worshipped on the first day of Tihar?",
+  "question_ne": "तिहारको पहिलो दिन कुन जनावरको पूजा गरिन्छ?",
+  "options": [
+   "Crow (Kaag Tihar)",
+   "Ox",
+   "Cow",
+   "Dog"
+  ],
+  "options_ne": [
+   "काग (काग तिहार)",
+   "गोरु",
+   "गाई",
+   "कुकुर"
+  ],
+  "answer": 0,
+  "explanation": "The first day is Kaag Tihar, when crows are offered food.",
+  "explanation_ne": "काग तिहारको पहिलो दिन कागलाई खाना खुवाउने गरिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhai Tika, when sisters pray for their brothers' long life, is on which day of Tihar?",
+  "question_ne": "भाइटीका, दिदीबहिनीले दाजुभाइको दीर्घायुको कामना गर्दा तिहार कुन दिन हो?",
+  "options": [
+   "Fifth day",
+   "Fourth day",
+   "First day",
+   "Third day"
+  ],
+  "options_ne": [
+   "पाँचौं दिन",
+   "चौथो दिन",
+   "पहिलो दिन",
+   "तेस्रो दिन"
+  ],
+  "answer": 0,
+  "explanation": "Bhai Tika is the fifth and last day of Tihar.",
+  "explanation_ne": "भाइटीका तिहारको पाँचौ र अन्तिम दिन हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Holi is known as the festival of what?",
+  "question_ne": "होलीलाई कुन चाड भनेर चिनिन्छ?",
+  "options": [
+   "Colours",
+   "Lights",
+   "Music",
+   "Harvest"
+  ],
+  "options_ne": [
+   "रंगहरू",
+   "बत्तीहरू",
+   "संगीत",
+   "फसल"
+  ],
+  "answer": 0,
+  "explanation": "Holi is the festival of colours, celebrated by throwing coloured powder and water.",
+  "explanation_ne": "होली रंगहरुको पर्व हो, रङको धुलो र पानी फालेर मनाइन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Teej is a festival mainly celebrated by which group?",
+  "question_ne": "तीज मुख्यतया कुन समुहले मनाउने चाड हो?",
+  "options": [
+   "Tharu men",
+   "Newar children",
+   "Hindu women",
+   "Buddhist monks"
+  ],
+  "options_ne": [
+   "थारु पुरुष",
+   "नेवार बालबालिका",
+   "हिन्दु नारी",
+   "बौद्ध भिक्षुहरू"
+  ],
+  "answer": 2,
+  "explanation": "Teej is celebrated by Hindu women, who fast and pray for their husbands' long life.",
+  "explanation_ne": "तीज हिन्दू महिलाहरूले मनाउने गरिन्छ, जसले आफ्ना पतिको दीर्घायुको कामना गरी व्रत बस्छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Chhath is a festival mainly celebrated in which region of Nepal?",
+  "question_ne": "छठ मुख्यतया नेपालको कुन क्षेत्रमा मनाइने चाड हो?",
+  "options": [
+   "Kathmandu Valley only",
+   "Karnali",
+   "Terai",
+   "High Himalaya"
+  ],
+  "options_ne": [
+   "काठमाडौं उपत्यका मात्र",
+   "कर्णाली",
+   "तराई",
+   "उच्च हिमालय"
+  ],
+  "answer": 2,
+  "explanation": "Chhath, dedicated to the Sun god, is mainly celebrated in the Terai.",
+  "explanation_ne": "सूर्य देवतालाई समर्पित छठ मुख्यतया तराईमा मनाइन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Losar is the New Year festival of which communities?",
+  "question_ne": "ल्होसार कुन समुदायको नयाँ वर्ष पर्व हो?",
+  "options": [
+   "Maithil",
+   "Newar only",
+   "Tharu",
+   "Tamang, Sherpa and other Himalayan Buddhist communities"
+  ],
+  "options_ne": [
+   "मैथिल",
+   "नेवार मात्र",
+   "थारु",
+   "तामाङ, शेर्पा र अन्य हिमाली बौद्ध समुदाय"
+  ],
+  "answer": 3,
+  "explanation": "Losar is the Tibetan-Buddhist New Year celebrated by Tamang, Sherpa, Gurung and other Himalayan communities.",
+  "explanation_ne": "ल्होसार तामाङ, शेर्पा, गुरुङ र अन्य हिमाली समुदायले मनाउने तिब्बती-बौद्ध नयाँ वर्ष हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Sonam Losar is mainly celebrated by which ethnic group?",
+  "question_ne": "सोनाम ल्होसार मुख्यतया कुन जातिले मनाउने गर्छ?",
+  "options": [
+   "Tamang",
+   "Rai",
+   "Tharu",
+   "Magar"
+  ],
+  "options_ne": [
+   "तामाङ",
+   "राई",
+   "थारु",
+   "मगर"
+  ],
+  "answer": 0,
+  "explanation": "Sonam Losar is the Tamang community's New Year festival.",
+  "explanation_ne": "सोनाम ल्होसार तामाङ समुदायको नयाँ वर्ष पर्व हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-162",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Gyalpo Losar is mainly celebrated by which community?",
+  "question_ne": "ग्याल्पो ल्होसार मुख्यतया कुन समुदायले मनाउने गर्दछ?",
+  "options": [
+   "Newar",
+   "Sherpa",
+   "Tharu",
+   "Tamang"
+  ],
+  "options_ne": [
+   "नेवार",
+   "शेर्पा",
+   "थारु",
+   "तामाङ"
+  ],
+  "answer": 1,
+  "explanation": "Gyalpo Losar is the Sherpa New Year festival.",
+  "explanation_ne": "ग्याल्पो ल्होसार शेर्पाको नयाँ वर्ष पर्व हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-163",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Maghe Sankranti is celebrated in which Nepali month?",
+  "question_ne": "माघे संक्रान्ति कुन नेपाली महिनामा मनाइन्छ?",
+  "options": [
+   "Ashadh",
+   "Baisakh",
+   "Magh",
+   "Kartik"
+  ],
+  "options_ne": [
+   "आषाढ",
+   "बैशाख",
+   "माघ",
+   "कार्तिक"
+  ],
+  "answer": 2,
+  "explanation": "Maghe Sankranti falls in the month of Magh (mid-January).",
+  "explanation_ne": "माघे संक्रान्ति माघ महिना (मध्य जनवरी) मा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-164",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which festival marks the Nepali New Year?",
+  "question_ne": "नेपाली नयाँ वर्ष कुन पर्वलाई मनाइन्छ?",
+  "options": [
+   "Baisakh 1 (Nepali New Year)",
+   "Tihar",
+   "Maghe Sankranti",
+   "Dashain"
+  ],
+  "options_ne": [
+   "बैशाख १ (नेपाली नयाँ वर्ष)",
+   "तिहार",
+   "माघे संक्रान्ति",
+   "दशैं"
+  ],
+  "answer": 0,
+  "explanation": "Nepali New Year falls on Baisakh 1, in mid-April.",
+  "explanation_ne": "नेपाली नयाँ वर्ष वैशाख १ मा, मध्य अप्रिलमा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Indra Jatra is a major festival of which city?",
+  "question_ne": "इन्द्रजात्रा कुन सहरको प्रमुख चाड हो?",
+  "options": [
+   "Kathmandu",
+   "Biratnagar",
+   "Janakpur",
+   "Pokhara"
+  ],
+  "options_ne": [
+   "काठमाडौं।",
+   "विराटनगर",
+   "जनकपुर",
+   "पोखरा"
+  ],
+  "answer": 0,
+  "explanation": "Indra Jatra is Kathmandu's major festival, honouring Lord Indra and the living goddess Kumari.",
+  "explanation_ne": "इन्द्रजात्रा काठमाडौंको प्रमुख चाड हो, भगवान इन्द्र र जीवित देवी कुमारीको सम्मान।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The living goddess Kumari is associated with which city?",
+  "question_ne": "जीवित देवी कुमारी कुन सहरसँग सम्बन्धित छ?",
+  "options": [
+   "Pokhara",
+   "Kathmandu (and also Bhaktapur and Lalitpur)",
+   "Nepalgunj",
+   "Birgunj"
+  ],
+  "options_ne": [
+   "पोखरा",
+   "काठमाडौं (र भक्तपुर र ललितपुर पनि)",
+   "नेपालगन्ज",
+   "वीरगन्ज"
+  ],
+  "answer": 1,
+  "explanation": "The Kumari tradition is centred in Kathmandu Valley, with Kumaris in Kathmandu, Bhaktapur and Lalitpur.",
+  "explanation_ne": "कुमारी परम्परा काठमाडौं उपत्यकामा केन्द्रित छ भने कुमारीहरू काठमाडौं, भक्तपुर र ललितपुरमा छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the official language of Nepal?",
+  "question_ne": "नेपालको सरकारी कामकाजको भाषा के हो?",
+  "options": [
+   "Newari",
+   "Maithili",
+   "Nepali",
+   "English"
+  ],
+  "options_ne": [
+   "नेवारी",
+   "मैथिली",
+   "नेपाली",
+   "अंग्रेजी"
+  ],
+  "answer": 2,
+  "explanation": "Nepali is the official language of Nepal.",
+  "explanation_ne": "नेपाली नेपालको आधिकारिक भाषा हो।",
+  "source": "General knowledge / Constitution 2072 where relevant"
+ },
+ {
+  "id": "HIST-168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepali language is written in which script?",
+  "question_ne": "नेपाली भाषा कुन लिपिमा लेखिन्छ?",
+  "options": [
+   "Tibetan",
+   "Bengali",
+   "Roman",
+   "Devanagari"
+  ],
+  "options_ne": [
+   "तिब्बती",
+   "बंगाली",
+   "रोमन",
+   "देवनागरी"
+  ],
+  "answer": 3,
+  "explanation": "Nepali is written in the Devanagari script.",
+  "explanation_ne": "नेपाली भाषा देवनागरी लिपिमा लेखिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-169",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2011 census, about how many languages are spoken in Nepal?",
+  "question_ne": "२०११ को जनगणना अनुसार नेपालमा कति वटा भाषा बोलिन्छ?",
+  "options": [
+   "200",
+   "25",
+   "50",
+   "123"
+  ],
+  "options_ne": [
+   "२००",
+   "२५",
+   "५०",
+   "१२३"
+  ],
+  "answer": 3,
+  "explanation": "The 2011 census recorded 123 languages spoken in Nepal.",
+  "explanation_ne": "२०११ को जनगणनाले नेपालमा बोलिने १२३ भाषाहरू रेकर्ड गरेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-170",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest ethnic/caste group in Nepal by population?",
+  "question_ne": "नेपालमा जनसंख्याको हिसाबले सबैभन्दा ठूलो जातीय/जाति समूह कुन हो?",
+  "options": [
+   "Magar",
+   "Tharu",
+   "Chhetri",
+   "Brahman-Hill"
+  ],
+  "options_ne": [
+   "मगर",
+   "थारु",
+   "क्षेत्री",
+   "ब्राह्मण पहाड"
+  ],
+  "answer": 2,
+  "explanation": "Chhetri is the largest group in Nepal by population.",
+  "explanation_ne": "क्षेत्री नेपालको जनसंख्याको हिसाबले सबैभन्दा ठूलो समूह हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest indigenous (Janajati) group in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा ठूलो जनजाति (जनजाति) समूह कुन हो?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Magar",
+   "Tamang"
+  ],
+  "options_ne": [
+   "थारु",
+   "नेवार",
+   "मगर",
+   "तामाङ"
+  ],
+  "answer": 2,
+  "explanation": "Magar is the largest Janajati group in Nepal.",
+  "explanation_ne": "मगर नेपालको सबैभन्दा ठूलो जनजाति समूह हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-172",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Tharu people mainly live in which region?",
+  "question_ne": "थारु जाति मुख्यतया कुन क्षेत्रमा बसोबास गर्छन्?",
+  "options": [
+   "High Himalaya",
+   "Karnali mountains",
+   "Terai",
+   "Kathmandu Valley"
+  ],
+  "options_ne": [
+   "उच्च हिमालय",
+   "कर्णाली हिमाल",
+   "तराई",
+   "काठमाडौं उपत्यका"
+  ],
+  "answer": 2,
+  "explanation": "The Tharu are the indigenous people of the Terai plains.",
+  "explanation_ne": "थारुहरू तराईका तराईका आदिवासीहरू हुन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-173",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Newar people are the indigenous people of which place?",
+  "question_ne": "नेवारहरू कुन ठाउँका आदिवासी हुन्?",
+  "options": [
+   "Karnali",
+   "Pokhara Valley",
+   "Kathmandu Valley",
+   "Terai"
+  ],
+  "options_ne": [
+   "कर्णाली",
+   "पोखरा उपत्यका",
+   "काठमाडौं उपत्यका",
+   "तराई"
+  ],
+  "answer": 2,
+  "explanation": "The Newar are the indigenous people of Kathmandu Valley.",
+  "explanation_ne": "नेवारहरू काठमाडौं उपत्यकाका आदिवासी हुन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Sherpa people mainly live in which region?",
+  "question_ne": "शेर्पा जाति मुख्यतया कुन क्षेत्रमा बसोबास गर्छन्?",
+  "options": [
+   "Kathmandu Valley",
+   "Solukhumbu / Everest region",
+   "Far-western hills",
+   "Terai"
+  ],
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "सोलुखुम्बु / सगरमाथा क्षेत्र",
+   "सुदूरपश्चिम पहाड",
+   "तराई"
+  ],
+  "answer": 1,
+  "explanation": "The Sherpa live mainly in Solukhumbu in the Everest region.",
+  "explanation_ne": "शेर्पाहरू मुख्यतया सगरमाथा क्षेत्रको सोलुखुम्बुमा बस्छन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Maithili is mainly spoken in which region?",
+  "question_ne": "मैथिली भाषा मुख्यतया कुन क्षेत्रमा बोलिन्छ?",
+  "options": [
+   "Pokhara",
+   "High Himalaya",
+   "Karnali",
+   "Eastern Terai (Madhesh)"
+  ],
+  "options_ne": [
+   "पोखरा",
+   "उच्च हिमालय",
+   "कर्णाली",
+   "पूर्वी तराई (मधेश)"
+  ],
+  "answer": 3,
+  "explanation": "Maithili is spoken mainly in the eastern Terai, in Madhesh Province.",
+  "explanation_ne": "मैथिली भाषा मुख्यतया मधेस प्रान्तको पूर्वी तराईमा बोलिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the majority religion in Nepal?",
+  "question_ne": "नेपालमा बहुसंख्यक धर्म कुन हो?",
+  "options": [
+   "Christianity",
+   "Buddhism",
+   "Islam",
+   "Hinduism"
+  ],
+  "options_ne": [
+   "ईसाई धर्म",
+   "बुद्ध धर्म",
+   "इस्लाम",
+   "हिन्दू धर्म"
+  ],
+  "answer": 3,
+  "explanation": "Hinduism is the majority religion, followed by about four-fifths of the population.",
+  "explanation_ne": "हिन्दू धर्म बहुसंख्यक धर्म हो, जसलाई जनसंख्याको चार-पाँच भागले पछ्याउँछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-177",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which religion is followed by the second-largest share of Nepal's population?",
+  "question_ne": "नेपालको जनसङ्ख्याको दोस्रो ठूलो हिस्सा कुन धर्मलाई मानिन्छ?",
+  "options": [
+   "Christianity",
+   "Islam",
+   "Kirat",
+   "Buddhism"
+  ],
+  "options_ne": [
+   "ईसाई धर्म",
+   "इस्लाम",
+   "किरात",
+   "बुद्ध धर्म"
+  ],
+  "answer": 3,
+  "explanation": "Buddhism is the second-largest religion in Nepal, followed by about 8.21% of the population according to the 2021 census.",
+  "explanation_ne": "बौद्ध धर्म नेपालको दोस्रो ठूलो धर्म हो, जसलाई २०२१ को जनगणना अनुसार जनसंख्याको लगभग ८.२१% ले पछ्याउँछ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Lumbini is sacred to followers of which religion?",
+  "question_ne": "लुम्बिनी कुन धर्मका अनुयायीहरुको लागि पवित्र मानिन्छ?",
+  "options": [
+   "Islam",
+   "Hinduism",
+   "Jainism",
+   "Buddhism"
+  ],
+  "options_ne": [
+   "इस्लाम",
+   "हिन्दू धर्म",
+   "जैन धर्म",
+   "बुद्ध धर्म"
+  ],
+  "answer": 3,
+  "explanation": "Lumbini is the birthplace of Gautam Buddha and sacred to Buddhists.",
+  "explanation_ne": "लुम्बिनी गौतम बुद्धको जन्मस्थल र बौद्ध धर्मावलम्बीहरूको पवित्र स्थान हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-179",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was born in Lumbini?",
+  "question_ne": "लुम्बिनीमा को जन्मेका हुन्?",
+  "options": [
+   "King Prithvi Narayan Shah",
+   "Bhanubhakta Acharya",
+   "Gautam Buddha",
+   "Araniko"
+  ],
+  "options_ne": [
+   "राजा पृथ्वीनारायण शाह",
+   "भानुभक्त आचार्य",
+   "गौतम बुद्ध",
+   "अरनिको"
+  ],
+  "answer": 2,
+  "explanation": "Gautam Buddha was born in Lumbini in 623 BC, according to tradition.",
+  "explanation_ne": "परम्परा अनुसार गौतम बुद्धको जन्म लुम्बिनीमा ईसापूर्व ६२३ मा भएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pashupatinath Temple in Kathmandu is dedicated to which Hindu god?",
+  "question_ne": "काठमाडौंको पशुपतिनाथ मन्दिर कुन हिन्दू देवतालाई समर्पित छ?",
+  "options": [
+   "Brahma",
+   "Krishna",
+   "Shiva",
+   "Vishnu"
+  ],
+  "options_ne": [
+   "ब्रह्मा",
+   "कृष्ण",
+   "शिव",
+   "विष्णु"
+  ],
+  "answer": 2,
+  "explanation": "Pashupatinath is Nepal's most sacred Shiva temple.",
+  "explanation_ne": "पशुपतिनाथ नेपालको सबैभन्दा पवित्र शिव मन्दिर हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Swayambhunath (the Monkey Temple) is a sacred site for which religions?",
+  "question_ne": "स्वयम्भूनाथ (बाँदर मन्दिर) कुन धर्मका लागि पवित्र स्थल हो?",
+  "options": [
+   "Buddhism only",
+   "Both Buddhism and Hinduism",
+   "Hinduism only",
+   "Islam only"
+  ],
+  "options_ne": [
+   "बुद्ध धर्म मात्र",
+   "बुद्ध र हिन्दू दुवै धर्म",
+   "हिन्दु धर्म मात्र हो",
+   "इस्लाम मात्र"
+  ],
+  "answer": 1,
+  "explanation": "Swayambhunath is sacred to both Buddhists and Hindus.",
+  "explanation_ne": "स्वयम्भूनाथ बौद्ध र हिन्दू दुवैको लागि पवित्र छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-182",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Boudhanath Stupa in Kathmandu is one of the largest stupas in the world and sacred to whom?",
+  "question_ne": "काठमाडौंको बौद्धनाथ स्तुपा विश्वको सबैभन्दा ठुलो र कसको लागि पवित्र स्तूप हो?",
+  "options": [
+   "Buddhists",
+   "Jains",
+   "Hindus",
+   "Sikhs"
+  ],
+  "options_ne": [
+   "बौद्धहरू",
+   "जैन",
+   "हिन्दुहरु",
+   "सिखहरू"
+  ],
+  "answer": 0,
+  "explanation": "Boudhanath is a major Buddhist stupa and pilgrimage site.",
+  "explanation_ne": "बौद्धनाथ एक प्रमुख बौद्ध स्तूप र तीर्थस्थल हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is NOT a UNESCO World Heritage Site in Nepal?",
+  "question_ne": "यी मध्ये कुन नेपालमा युनेस्कोको विश्व सम्पदा स्थल होइन?",
+  "options": [
+   "Lumbini",
+   "Bhaktapur Durbar Square",
+   "Chitwan National Park",
+   "Pokhara"
+  ],
+  "options_ne": [
+   "लुम्बिनी",
+   "भक्तपुर दरबार स्क्वायर",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "पोखरा"
+  ],
+  "answer": 3,
+  "explanation": "Lumbini, Chitwan and Bhaktapur Durbar Square are UNESCO sites; Pokhara is not listed.",
+  "explanation_ne": "लुम्बिनी, चितवन र भक्तपुर दरबार स्क्वायर युनेस्को साइटहरू हुन्; पोखरा सूचीकृत छैन।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-184",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of these is a UNESCO World Heritage Site in Nepal?",
+  "question_ne": "यि मध्ये कुन नेपाल को युनेस्को विश्व सम्पदा स्थल हो?",
+  "options": [
+   "Biratnagar",
+   "Lumbini",
+   "Pokhara",
+   "Janakpur"
+  ],
+  "options_ne": [
+   "विराटनगर",
+   "लुम्बिनी",
+   "पोखरा",
+   "जनकपुर"
+  ],
+  "answer": 1,
+  "explanation": "Lumbini, the birthplace of Buddha, is a UNESCO World Heritage Site.",
+  "explanation_ne": "बुद्धको जन्मस्थल लुम्बिनी युनेस्कोको विश्व सम्पदा क्षेत्र हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Kathmandu Valley as a UNESCO site includes how many monument zones?",
+  "question_ne": "काठमाडौं उपत्यकामा युनेस्कोले कतिवटा स्मारक क्षेत्र समावेश गरेको छ?",
+  "options": [
+   "4",
+   "7",
+   "3",
+   "12"
+  ],
+  "options_ne": [
+   "४",
+   "७",
+   "३",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Kathmandu Valley World Heritage Site comprises seven monument zones.",
+  "explanation_ne": "काठमाडौं उपत्यका विश्व सम्पदा क्षेत्र सात स्मारक क्षेत्र समेटिएको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which national park is a UNESCO World Heritage Site?",
+  "question_ne": "कुन राष्ट्रिय निकुञ्ज UNESCO को विश्व सम्पदा स्थल हो?",
+  "options": [
+   "Langtang National Park",
+   "Chitwan National Park",
+   "Rara National Park",
+   "Bardia National Park"
+  ],
+  "options_ne": [
+   "लाङटाङ राष्ट्रिय निकुञ्ज",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "रारा राष्ट्रिय निकुञ्ज",
+   "बर्दिया राष्ट्रिय निकुञ्ज"
+  ],
+  "answer": 1,
+  "explanation": "Chitwan National Park was listed as a UNESCO World Heritage Site in 1984.",
+  "explanation_ne": "चितवन राष्ट्रिय निकुञ्ज सन् १९८४ मा युनेस्कोको विश्व सम्पदा सूचीमा परेको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which temple in Bhaktapur is the tallest temple in Nepal?",
+  "question_ne": "भक्तपुरमा रहेको नेपालको सबैभन्दा अग्लो मन्दिर कुन हो?",
+  "options": [
+   "Changunarayan Temple",
+   "Nyatapola Temple",
+   "Krishna Mandir",
+   "Pashupatinath Temple"
+  ],
+  "options_ne": [
+   "चाँगुनारायण मन्दिर",
+   "न्यातापोला मन्दिर",
+   "कृष्ण मन्दिर",
+   "पशुपतिनाथ मन्दिर"
+  ],
+  "answer": 1,
+  "explanation": "Nyatapola Temple in Bhaktapur, built in 1702, is the tallest temple in Nepal.",
+  "explanation_ne": "सन् १७०२ मा बनेको भक्तपुरको न्यातापोला मन्दिर नेपालको सबैभन्दा अग्लो मन्दिर हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is known as Adikavi (the first poet) of Nepali literature?",
+  "question_ne": "नेपाली साहित्यका आदिकवि (प्रथम कवि) भनेर कसलाई चिनिन्छ?",
+  "options": [
+   "Lekhnath Paudyal",
+   "Bhanubhakta Acharya",
+   "Laxmi Prasad Devkota",
+   "Motiram Bhatta"
+  ],
+  "options_ne": [
+   "लेखनाथ पौड्याल",
+   "भानुभक्त आचार्य",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "मोतीराम भट्ट"
+  ],
+  "answer": 1,
+  "explanation": "Bhanubhakta Acharya is called Adikavi for translating the Ramayana into Nepali.",
+  "explanation_ne": "भानुभक्त आचार्यलाई रामायण नेपालीमा अनुवाद गर्ने आदिकवि भनिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bhanubhakta Acharya is best known for translating which epic into Nepali?",
+  "question_ne": "भानुभक्त आचार्य कुन महाकाव्यलाई नेपालीमा अनुवाद गर्नका लागि प्रसिद्ध छन्?",
+  "options": [
+   "Mahabharata",
+   "Bhagavad Gita",
+   "Vedas",
+   "Ramayana"
+  ],
+  "options_ne": [
+   "महाभारत",
+   "भगवद् गीता",
+   "वेद",
+   "रामायण"
+  ],
+  "answer": 3,
+  "explanation": "Bhanubhakta translated Valmiki's Ramayana into Nepali.",
+  "explanation_ne": "भानुभक्तले वाल्मीकिको रामायणलाई नेपालीमा अनुवाद गरे।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who wrote 'Muna Madan', one of the most famous works in Nepali literature?",
+  "question_ne": "नेपाली साहित्यको सबैभन्दा प्रसिद्ध कृति ‘मुना मदन’ कसले लेखेका हुन्?",
+  "options": [
+   "Motiram Bhatta",
+   "Siddhicharan Shrestha",
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya"
+  ],
+  "options_ne": [
+   "मोतीराम भट्ट",
+   "सिद्धिचरण श्रेष्ठ",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य"
+  ],
+  "answer": 2,
+  "explanation": "Laxmi Prasad Devkota wrote Muna Madan, published in 1936.",
+  "explanation_ne": "लक्ष्मीप्रसाद देवकोटाले सन् १९३६ मा प्रकाशित मुना मदन लेखेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Laxmi Prasad Devkota is known by which title in Nepali literature?",
+  "question_ne": "लक्ष्मीप्रसाद देवकोटालाई नेपाली साहित्यमा कुन उपाधिले चिनिन्छ?",
+  "options": [
+   "Rastra Kavi",
+   "Adikavi",
+   "Yug Kavi",
+   "Maha Kavi (Great Poet)"
+  ],
+  "options_ne": [
+   "राष्ट्रकवि",
+   "आदिकवि",
+   "युग कवि",
+   "महाकवि (महाकवि)"
+  ],
+  "answer": 3,
+  "explanation": "Devkota is honoured as Maha Kavi, the Great Poet of Nepal.",
+  "explanation_ne": "देवकोटालाई नेपालका महाकवि महाकविको रूपमा सम्मान गरिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Motiram Bhatta is remembered for what contribution to Nepali literature?",
+  "question_ne": "मोतीराम भट्टलाई नेपाली साहित्यमा कुन योगदानका लागि स्मरण गरिन्छ?",
+  "options": [
+   "Publishing Bhanubhakta's Ramayana and promoting Nepali literature",
+   "Founding the Panchayat system",
+   "Translating the Mahabharata",
+   "Writing Muna Madan"
+  ],
+  "options_ne": [
+   "भानुभक्तको रामायण प्रकाशन र नेपाली साहित्यको प्रवद्र्धन गर्ने",
+   "पञ्चायत व्यवस्थाको स्थापना",
+   "महाभारत अनुवाद",
+   "मुना मदन लेख्दै"
+  ],
+  "answer": 0,
+  "explanation": "Motiram Bhatta published Bhanubhakta's Ramayana in 1887 and promoted Nepali language and literature.",
+  "explanation_ne": "मोतीराम भट्टले १८८७ मा भानुभक्तको रामायण प्रकाशित गरी नेपाली भाषा र साहित्यको प्रवर्द्धन गरे।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Araniko is a famous Nepali artist known for his work in which country?",
+  "question_ne": "अरनिको कुन देशका प्रसिद्ध नेपाली कलाकार हुन्?",
+  "options": [
+   "Tibet only",
+   "Japan",
+   "India",
+   "China"
+  ],
+  "options_ne": [
+   "तिब्बत मात्र",
+   "जापान",
+   "भारत",
+   "चीन"
+  ],
+  "answer": 3,
+  "explanation": "Araniko (1245-1306) was a Nepali artist and architect who worked in China under Kublai Khan.",
+  "explanation_ne": "अरनिको (१२४५-१३०६) एक नेपाली कलाकार र वास्तुकार थिए जसले कुबलाई खानको नेतृत्वमा चीनमा काम गरेका थिए।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-195",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Nepali writer wrote the novel 'Seto Bagh'?",
+  "question_ne": "‘सेतोबाग’ उपन्यास कुन नेपाली लेखकले लेखेका हुन्?",
+  "options": [
+   "Bhanubhakta Acharya",
+   "Laxmi Prasad Devkota",
+   "Diamond Shumsher Rana",
+   "Parijat"
+  ],
+  "options_ne": [
+   "भानुभक्त आचार्य",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "हीरा शमशेर राणा",
+   "पारिजात"
+  ],
+  "answer": 2,
+  "explanation": "Seto Bagh (White Tiger) was written by Diamond Shumsher Rana.",
+  "explanation_ne": "सेतो बाग (सेतो बाघ) डायमण्ड शमशेर राणाले लेखेका हुन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-196",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Parijat, author of 'Shirish ko Phool', is known by what real name?",
+  "question_ne": "'शिरीषको फूल' का लेखक पारिजातलाई कुन नामले चिनिन्छ?",
+  "options": [
+   "Madan Mani Dixit",
+   "Siddhicharan Shrestha",
+   "Bishnu Kumari Waiba",
+   "Laxmi Prasad Devkota"
+  ],
+  "options_ne": [
+   "मदनमणि दीक्षित",
+   "सिद्धिचरण श्रेष्ठ",
+   "विष्णु कुमारी वाइबा",
+   "लक्ष्मीप्रसाद देवकोटा"
+  ],
+  "answer": 2,
+  "explanation": "Parijat's real name was Bishnu Kumari Waiba; Shirish ko Phool won the Madan Puraskar in 1965.",
+  "explanation_ne": "पारिजातको वास्तविक नाम विष्णुकुमारी वाइबा थियो; शिरीषको फूलले सन् १९६५ मा मदन पुरस्कार जिते।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-197",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Danphe, the national bird of Nepal, is known in English as the what?",
+  "question_ne": "नेपालको राष्ट्रिय चरा डाँफेलाई अंग्रेजीमा के भनिन्छ?",
+  "options": [
+   "Peacock",
+   "Himalayan Monal",
+   "Golden Eagle",
+   "Snow Partridge"
+  ],
+  "options_ne": [
+   "मयूर",
+   "हिमालय मोनाल",
+   "गोल्डेन ईगल",
+   "हिउँ तीतर"
+  ],
+  "answer": 1,
+  "explanation": "Danphe is the Himalayan Monal (Lophophorus impejanus).",
+  "explanation_ne": "डान्फे हिमालयन मोनाल (लोफोफोरस इम्पेजानस) हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-198",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which season does Laliguran, the national flower of Nepal, mainly bloom in the hills?",
+  "question_ne": "नेपालको राष्ट्रिय फूल लालीगुरान कुन मौसममा मुख्यतया पहाडमा फुल्छ?",
+  "options": [
+   "Winter",
+   "Autumn",
+   "Monsoon",
+   "Spring"
+  ],
+  "options_ne": [
+   "जाडो",
+   "शरद ऋतु",
+   "मनसुन",
+   "वसन्त"
+  ],
+  "answer": 3,
+  "explanation": "Laliguran (rhododendron) blooms mainly in spring, around Chaitra–Baisakh.",
+  "explanation_ne": "लालीगुरान (रोडोडेन्ड्रन) मुख्यतया वसन्त ऋतुमा, चैत्र-वैशाखको वरिपरि फूल्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-200",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is special about the flag of Nepal?",
+  "question_ne": "नेपालको झण्डाको खास के छ?",
+  "options": [
+   "It is square",
+   "It has no colour",
+   "It is the largest flag in the world",
+   "It is the only national flag in the world that is not rectangular"
+  ],
+  "options_ne": [
+   "यो वर्ग छ",
+   "यसको कुनै रंग छैन",
+   "यो संसारको सबैभन्दा ठूलो झण्डा हो",
+   "यो संसारको एक मात्र राष्ट्रिय झण्डा हो जुन आयताकार छैन"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's flag is the world's only non-rectangular national flag, made of two triangles.",
+  "explanation_ne": "नेपालको झण्डा विश्वको एकमात्र गैर-आयताकार राष्ट्रिय झण्डा हो, जुन दुई त्रिकोणबाट बनेको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-201",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What are the main colours of Nepal's national flag?",
+  "question_ne": "नेपालको राष्ट्रिय झण्डाको मुख्य रङ के हो?",
+  "options": [
+   "Green and white",
+   "Crimson red and blue",
+   "Yellow and red",
+   "Orange and green"
+  ],
+  "options_ne": [
+   "हरियो र सेतो",
+   "क्रिमसन रातो र नीलो",
+   "पहेंलो र रातो",
+   "सुन्तला र हरियो"
+  ],
+  "answer": 1,
+  "explanation": "Nepal's flag is crimson red with a blue border.",
+  "explanation_ne": "नेपालको झण्डा रातो रङको नीलो रंगको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-202",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What do the sun and moon on Nepal's flag traditionally symbolise?",
+  "question_ne": "नेपालको झण्डामा रहेको सूर्य र चन्द्रमालाई परम्परागत रूपमा केको प्रतीक मानिन्छ?",
+  "options": [
+   "Day and night festivals",
+   "That Nepal will last as long as the sun and moon",
+   "The king and queen",
+   "Two rivers"
+  ],
+  "options_ne": [
+   "दिन र रात उत्सवहरू",
+   "त्यो नेपाल सूर्य र चन्द्रमा जत्तिकै रहनेछ",
+   "राजा र रानी",
+   "दुई नदी"
+  ],
+  "answer": 1,
+  "explanation": "The sun and moon symbolise Nepal's longevity, lasting as long as the sun and moon endure.",
+  "explanation_ne": "सूर्य र चन्द्रमा नेपालको दीर्घायुको प्रतीक हो, जबसम्म सूर्य र चन्द्रमा रहन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-203",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is Nepal's national anthem?",
+  "question_ne": "नेपालको राष्ट्रिय गान के हो?",
+  "options": [
+   "Simsime Pani",
+   "Jana Gana Mana",
+   "Rato Ra Chandra Surya",
+   "Sayaun Thunga Phool Ka"
+  ],
+  "options_ne": [
+   "सिमसिमे पानी",
+   "जन गण मन",
+   "रातो र चन्द्र सुर्य",
+   "साउं थुंगा फुल का"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's national anthem is 'Sayaun Thunga Phool Ka'.",
+  "explanation_ne": "नेपालको राष्ट्रिय गान ‘स्याँ थुंगा फुल का’ हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-204",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the national dress for Nepali men?",
+  "question_ne": "नेपाली पुरुषहरुको राष्ट्रिय पोशाक के हो?",
+  "options": [
+   "Kurta Suruwal",
+   "Dhoti Kurta",
+   "Daura Suruwal with Dhaka topi",
+   "Sherwani"
+  ],
+  "options_ne": [
+   "कुर्ता सुरुवाल",
+   "धोती कुर्ता",
+   "ढाका टोपीको साथ दौरा सुरुवाल",
+   "शेरवानी"
+  ],
+  "answer": 2,
+  "explanation": "Daura Suruwal, worn with a Dhaka topi, is the national dress for Nepali men.",
+  "explanation_ne": "ढाका टोपी लगाएको दौरा सुरुवाल नेपाली पुरुषहरूको राष्ट्रिय पोशाक हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-205",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "foreign-service",
+   "ioe-entrance"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the national sport of Nepal?",
+  "question_ne": "नेपालको राष्ट्रिय खेल कुन हो?",
+  "options": [
+   "Cricket",
+   "Football",
+   "Kabaddi",
+   "Volleyball"
+  ],
+  "options_ne": [
+   "क्रिकेट",
+   "फुटबल",
+   "कबड्डी",
+   "भलिबल"
+  ],
+  "answer": 3,
+  "explanation": "Volleyball was declared Nepal's national sport in 2017.",
+  "explanation_ne": "भलिबललाई सन् २०१७ मा नेपालको राष्ट्रिय खेल घोषणा गरिएको थियो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-207",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the national motto / emblem of Nepal based on?",
+  "question_ne": "नेपालको राष्ट्रिय नारा/चिन्ह केमा आधारित छ?",
+  "options": [
+   "A tiger only",
+   "The national emblem includes the Himalayas, hills, Terai, and the map of Nepal",
+   "The crown only",
+   "The flag only"
+  ],
+  "options_ne": [
+   "बाघ मात्र",
+   "राष्ट्रिय प्रतीकमा हिमालय, पहाड, तराई र नेपालको नक्सा समावेश छ",
+   "मुकुट मात्र",
+   "झण्डा मात्र"
+  ],
+  "answer": 1,
+  "explanation": "Nepal's national emblem features the Himalayas, hills, Terai, rhododendron and the map of Nepal.",
+  "explanation_ne": "नेपालको राष्ट्रिय प्रतीकमा हिमालय, पहाड, तराई, रोडोडेन्ड्रन र नेपालको नक्सा समेटिएको छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-209",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Udhauli is a festival of which community, celebrating the harvest and migration downhill?",
+  "question_ne": "उधौली कुन समुदायको पर्व हो, जसले फसल काट्ने र बसाइँसराइ मनाउने पर्व हो?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Kirat (Rai / Limbu)",
+   "Sherpa"
+  ],
+  "options_ne": [
+   "थारु",
+   "नेवार",
+   "किरात (राई/लिम्बु)",
+   "शेर्पा"
+  ],
+  "answer": 2,
+  "explanation": "Udhauli is a Kirat festival marking the harvest and winter migration to lower altitudes.",
+  "explanation_ne": "उधौली एक किरात पर्व हो जुन फसल काट्ने र हिउँदमा तल्लो उचाइमा बसाइँ सराइको प्रतीक हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-210",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which language is the second-most spoken mother tongue in Nepal after Nepali?",
+  "question_ne": "नेपालमा नेपाली पछि दोस्रो धेरै बोलिने मातृभाषा कुन हो?",
+  "options": [
+   "Bhojpuri",
+   "Maithili",
+   "Tharu",
+   "Tamang"
+  ],
+  "options_ne": [
+   "भोजपुरी",
+   "मैथिली",
+   "थारु",
+   "तामाङ"
+  ],
+  "answer": 1,
+  "explanation": "Maithili is the second-most spoken mother tongue in Nepal after Nepali.",
+  "explanation_ne": "नेपालमा नेपाली पछिको दोस्रो धेरै बोलिने मातृभाषा मैथिली हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-211",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kirat religion is mainly followed by which groups?",
+  "question_ne": "किरात धर्मलाई मुख्यतया कुन-कुन समुहले मान्छन्?",
+  "options": [
+   "Newar and Tamang",
+   "Sherpa and Gurung",
+   "Tharu and Maithil",
+   "Rai and Limbu"
+  ],
+  "options_ne": [
+   "नेवार र तामाङ",
+   "शेर्पा र गुरुङ",
+   "थारु र मैथिल",
+   "राई र लिम्बु"
+  ],
+  "answer": 3,
+  "explanation": "Kirat is followed mainly by the Rai and Limbu peoples of eastern Nepal.",
+  "explanation_ne": "किरातलाई मुख्यतया पूर्वी नेपालका राई र लिम्बु जातिले पछ्याउँछन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-212",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Changunarayan Temple, the oldest temple in Kathmandu Valley, is in which district?",
+  "question_ne": "काठमाडौं उपत्यकाको सबैभन्दा पुरानो मन्दिर चाँगुनारायण मन्दिर कुन जिल्लामा पर्दछ?",
+  "options": [
+   "Bhaktapur",
+   "Lalitpur",
+   "Kaski",
+   "Kathmandu"
+  ],
+  "options_ne": [
+   "भक्तपुर",
+   "ललितपुर",
+   "कास्की",
+   "काठमाडौं।"
+  ],
+  "answer": 0,
+  "explanation": "Changunarayan Temple is in Bhaktapur district.",
+  "explanation_ne": "चाँगुनारायण मन्दिर भक्तपुर जिल्लामा पर्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-213",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Madan Puraskar is Nepal's most prestigious award for what?",
+  "question_ne": "मदन पुरस्कार नेपालको सबैभन्दा प्रतिष्ठित पुरस्कार कुन हो?",
+  "options": [
+   "Music",
+   "Sports",
+   "Science",
+   "Literature"
+  ],
+  "options_ne": [
+   "संगीत",
+   "खेलकुद",
+   "विज्ञान",
+   "साहित्य"
+  ],
+  "answer": 3,
+  "explanation": "The Madan Puraskar, established in 1955, is Nepal's highest literary award.",
+  "explanation_ne": "सन् १९५५ मा स्थापित मदन पुरस्कार नेपालको सर्वोच्च साहित्यिक पुरस्कार हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-214",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 'Deusi-Bhailo' associated with?",
+  "question_ne": "‘देउसी-भैलो’ केसँग सम्बन्धित छ?",
+  "options": [
+   "Dashain, when kites are flown",
+   "Teej, when women fast",
+   "Tihar, when groups sing and dance door to door",
+   "Holi, when colours are thrown"
+  ],
+  "options_ne": [
+   "दशैं, जब चङ्गा उडाइन्छ",
+   "तीज, जब महिलाहरु व्रत",
+   "तिहार, जब घरघरमा समूहहरू गाउँछन् र नाच्छन्",
+   "होली, जब रंगहरू फ्याँकिन्छ"
+  ],
+  "answer": 2,
+  "explanation": "Deusi and Bhailo are songs sung door to door during Tihar.",
+  "explanation_ne": "देउसी र भैलो तिहारमा घर-घरमा गाइने गीत हुन्।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-215",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 'Kauda' dance associated with?",
+  "question_ne": "'कौडा' नाच केसँग सम्बन्धित छ?",
+  "options": [
+   "Tharu community",
+   "Magar community",
+   "Sherpa community",
+   "Newar community"
+  ],
+  "options_ne": [
+   "थारु समुदाय",
+   "मगर समुदाय",
+   "शेर्पा समुदाय",
+   "नेवार समुदाय"
+  ],
+  "answer": 1,
+  "explanation": "Kauda is a traditional dance of the Magar community.",
+  "explanation_ne": "कौडा मगर समुदायको परम्परागत नृत्य हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-216",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which dance is associated with the Tharu community?",
+  "question_ne": "थारु समुदायसँग सम्बन्धित नृत्य कुन हो?",
+  "options": [
+   "Lakhe",
+   "Jhumra (and Maghauta)",
+   "Maruni",
+   "Kauda"
+  ],
+  "options_ne": [
+   "लाखे",
+   "झुमरा (र मघौता)",
+   "मारुनी",
+   "कौडा"
+  ],
+  "answer": 1,
+  "explanation": "Jhumra is a traditional dance of the Tharu community.",
+  "explanation_ne": "झुमरा थारु समुदायको परम्परागत नृत्य हो।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-217",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Maruni dance is associated with which community?",
+  "question_ne": "मारुनी नृत्य कुन समुदायसँग सम्बन्धित छ?",
+  "options": [
+   "Tharu",
+   "Magar and eastern Nepali communities",
+   "Newar only",
+   "Sherpa"
+  ],
+  "options_ne": [
+   "थारु",
+   "मगर र पूर्वी नेपाली समुदाय",
+   "नेवार मात्र",
+   "शेर्पा"
+  ],
+  "answer": 1,
+  "explanation": "Maruni is a traditional dance of the Magar community in eastern Nepal, performed at festivals.",
+  "explanation_ne": "मारुनी पूर्वी नेपालमा मगर समुदायको परम्परागत नाच हो, जुन चाडपर्वहरूमा गरिन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-218",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Himalayan Monal (Danphe) is the national bird - in which habitat is it mainly found?",
+  "question_ne": "हिमालय मोनाल (डाँफे) राष्ट्रिय चरा हो - यो मुख्यतया कुन बासस्थानमा पाइन्छ?",
+  "options": [
+   "Desert",
+   "Kathmandu Valley gardens",
+   "Terai grasslands",
+   "High Himalayan forests"
+  ],
+  "options_ne": [
+   "मरुभूमि",
+   "काठमाडौं उपत्यका बगैंचा",
+   "तराई घाँसे मैदान",
+   "उच्च हिमाली जंगल"
+  ],
+  "answer": 3,
+  "explanation": "The Danphe lives in high Himalayan forests, mainly in rhododendron and coniferous forests.",
+  "explanation_ne": "दाँफे उच्च हिमाली जंगलमा बस्छ, मुख्यतया रोडोडेन्ड्रन र शंकुयुक्त जंगलमा।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-219",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which day of Dashain is known as Kojagrat Purnima, the last day?",
+  "question_ne": "दशैंको अन्तिम दिनलाई कोजाग्रत पूर्णिमा भनिन्छ?",
+  "options": [
+   "The tenth day",
+   "The fifteenth day (full moon)",
+   "The seventh day",
+   "The first day"
+  ],
+  "options_ne": [
+   "दशौं दिन",
+   "पन्ध्रौं दिन (पूर्णिमा)",
+   "सातौं दिन",
+   "पहिलो दिन"
+  ],
+  "answer": 1,
+  "explanation": "Dashain ends on Kojagrat Purnima, the full-moon fifteenth day.",
+  "explanation_ne": "कोजाग्रत पूर्णिमा अर्थात् पन्ध्रौं पूर्णिमाका दिन दशैंको समापन हुन्छ।",
+  "source": "General knowledge"
+ },
+ {
+  "id": "HIST-220",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture & Society",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Nepal's time zone is how far ahead of Greenwich Mean Time (GMT)?",
+  "question_ne": "नेपालको समय क्षेत्र ग्रीनविच मीन टाइम (GMT) भन्दा कति टाढा छ?",
+  "options": [
+   "UTC +5:30",
+   "UTC +5:45",
+   "UTC +5:00",
+   "UTC +6:00"
+  ],
+  "options_ne": [
+   "UTC +५:३०",
+   "UTC +५:४५",
+   "UTC +५:००",
+   "UTC +६:००"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is UTC +5:45, one of the few time zones offset by 45 minutes.",
+  "explanation_ne": "नेपाल UTC +५:४५ हो, ४५ मिनेटले अफसेट गरिएका केही समय क्षेत्रहरू मध्ये एक हो।",
+  "source": "General knowledge"
+ }
+]

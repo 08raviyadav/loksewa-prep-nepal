@@ -1,0 +1,6355 @@
+[
+  {
+    "id": "R10-OEL-0001",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of RTI?",
+    "question_ne": "RTI को पूरा रूप के हो?",
+    "options": [
+      "Right to Internet",
+      "Right to Income",
+      "Right to Inspection",
+      "Right to Information"
+    ],
+    "options_ne": [
+      "इन्टरनेटको अधिकार",
+      "आयको अधिकार",
+      "निरीक्षणको अधिकार",
+      "सूचनाको हक"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Right to Information.",
+    "explanation_ne": "उत्तर सूचनाको हक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0002",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act guarantees the right to information in Nepal?",
+    "question_ne": "नेपालमा सूचनाको हक कुन ऐनले सुनिश्चित गर्छ?",
+    "options": [
+      "Good Governance Act, 2008",
+      "Right to Information Act, 2007",
+      "Civil Service Act, 1993",
+      "Public Procurement Act, 2007"
+    ],
+    "options_ne": [
+      "सुशासन ऐन, २०६४",
+      "सूचनाको हकसम्बन्धी ऐन, २०६४",
+      "निजामती सेवा ऐन, २०४९",
+      "सार्वजनिक खरिद ऐन, २०६३"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Right to Information Act, 2007.",
+    "explanation_ne": "उत्तर सूचनाको हकसम्बन्धी ऐन, २०६४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0003",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which body hears complaints about information denial in Nepal?",
+    "question_ne": "नेपालमा सूचना नपाएको उजुरी सुन्ने निकाय कुन हो?",
+    "options": [
+      "Public Service Commission",
+      "National Human Rights Commission",
+      "Commission for Investigation of Abuse of Authority",
+      "National Information Commission"
+    ],
+    "options_ne": [
+      "लोक सेवा आयोग",
+      "राष्ट्रिय मानव अधिकार आयोग",
+      "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+      "राष्ट्रिय सूचना आयोग"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is National Information Commission.",
+    "explanation_ne": "उत्तर राष्ट्रिय सूचना आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0006",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NVC?",
+    "question_ne": "NVC को पूरा रूप के हो?",
+    "options": [
+      "National Vigilance Commission",
+      "National Valuation Centre",
+      "National Vigilance Centre",
+      "Nepal Vigilance Centre"
+    ],
+    "options_ne": [
+      "राष्ट्रिय सतर्कता आयोग",
+      "राष्ट्रिय मूल्याङ्कन केन्द्र",
+      "राष्ट्रिय सतर्कता केन्द्र",
+      "नेपाल सतर्कता केन्द्र"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is National Vigilance Centre.",
+    "explanation_ne": "उत्तर राष्ट्रिय सतर्कता केन्द्र हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0007",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article of the Constitution establishes the Public Service Commission?",
+    "question_ne": "संविधानको कुन धाराले लोक सेवा आयोगको स्थापना गर्छ?",
+    "options": [
+      "Article 238",
+      "Article 242",
+      "Article 240",
+      "Article 245"
+    ],
+    "options_ne": [
+      "धारा २३८",
+      "धारा २४२",
+      "धारा २४०",
+      "धारा २४५"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Article 242.",
+    "explanation_ne": "उत्तर धारा २४२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0008",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many members are there in the Public Service Commission of Nepal?",
+    "question_ne": "नेपालको लोक सेवा आयोगमा कति सदस्य हुन्छन्?",
+    "options": [
+      "A chairperson and five members",
+      "A chairperson and three members",
+      "A chairperson and four members",
+      "A chairperson and six members"
+    ],
+    "options_ne": [
+      "अध्यक्ष र पाँच सदस्य",
+      "अध्यक्ष र तीन सदस्य",
+      "अध्यक्ष र चार सदस्य",
+      "अध्यक्ष र छ सदस्य"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is A chairperson and four members.",
+    "explanation_ne": "उत्तर अध्यक्ष र चार सदस्य हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0010",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act governs civil service in Nepal?",
+    "question_ne": "नेपालमा निजामती सेवा कुन ऐनले नियन्त्रण गर्छ?",
+    "options": [
+      "Civil Service Act, 1993",
+      "Public Service Act, 1993",
+      "Civil Service Act, 2007",
+      "Government Service Act, 1993"
+    ],
+    "options_ne": [
+      "निजामती सेवा ऐन, २०४९",
+      "सार्वजनिक सेवा ऐन, २०४९",
+      "निजामती सेवा ऐन, २०६३",
+      "सरकारी सेवा ऐन, २०४९"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Civil Service Act, 1993.",
+    "explanation_ne": "उत्तर निजामती सेवा ऐन, २०४९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0011",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PMO?",
+    "question_ne": "PMO को पूरा रूप के हो?",
+    "options": [
+      "Personnel Management Office",
+      "Prime Minister Organisation",
+      "Prime Minister's Office",
+      "Public Management Office"
+    ],
+    "options_ne": [
+      "कर्मचारी व्यवस्थापन कार्यालय",
+      "प्रधानमन्त्री सङ्गठन",
+      "प्रधानमन्त्रीको कार्यालय",
+      "सार्वजनिक व्यवस्थापन कार्यालय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Prime Minister's Office.",
+    "explanation_ne": "उत्तर प्रधानमन्त्रीको कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0012",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which office is the chief coordinating body of the Government of Nepal?",
+    "question_ne": "नेपाल सरकारको मुख्य समन्वयकारी निकाय कुन कार्यालय हो?",
+    "options": [
+      "National Planning Commission",
+      "Ministry of Home Affairs",
+      "Office of the Prime Minister and Council of Ministers",
+      "Ministry of Finance"
+    ],
+    "options_ne": [
+      "राष्ट्रिय योजना आयोग",
+      "गृह मन्त्रालय",
+      "प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय",
+      "अर्थ मन्त्रालय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Office of the Prime Minister and Council of Ministers.",
+    "explanation_ne": "उत्तर प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0013",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NPC?",
+    "question_ne": "NPC को पूरा रूप के हो?",
+    "options": [
+      "National Planning Commission",
+      "Nepal Planning Commission",
+      "National Planning Committee",
+      "National Public Commission"
+    ],
+    "options_ne": [
+      "राष्ट्रिय योजना आयोग",
+      "नेपाल योजना आयोग",
+      "राष्ट्रिय योजना समिति",
+      "राष्ट्रिय सार्वजनिक आयोग"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is National Planning Commission.",
+    "explanation_ne": "उत्तर राष्ट्रिय योजना आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0015",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of OAG?",
+    "question_ne": "OAG को पूरा रूप के हो?",
+    "options": [
+      "Office of the Administration General",
+      "Office of the Accountant General",
+      "Office of the Auditor General",
+      "Office of the Attorney General"
+    ],
+    "options_ne": [
+      "प्रशासन महानिर्देशकको कार्यालय",
+      "महालेखा नियन्त्रकको कार्यालय",
+      "महालेखापरीक्षकको कार्यालय",
+      "महान्यायाधिवक्ताको कार्यालय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Office of the Auditor General.",
+    "explanation_ne": "उत्तर महालेखापरीक्षकको कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0018",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of FCGO?",
+    "question_ne": "FCGO को पूरा रूप के हो?",
+    "options": [
+      "Fiscal Comptroller General Office",
+      "Federal Comptroller General Office",
+      "Financial Control General Office",
+      "Financial Comptroller General Office"
+    ],
+    "options_ne": [
+      "राजस्व लेखा नियन्त्रकको कार्यालय",
+      "सङ्घीय लेखा नियन्त्रकको कार्यालय",
+      "वित्तीय नियन्त्रण महानिर्देशकको कार्यालय",
+      "महालेखा नियन्त्रकको कार्यालय"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Financial Comptroller General Office.",
+    "explanation_ne": "उत्तर महालेखा नियन्त्रकको कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0019",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which office manages government accounts in Nepal?",
+    "question_ne": "नेपालमा सरकारी खाताको व्यवस्थापन गर्ने कार्यालय कुन हो?",
+    "options": [
+      "Ministry of Finance",
+      "Nepal Rastra Bank",
+      "Office of the Auditor General",
+      "Financial Comptroller General Office"
+    ],
+    "options_ne": [
+      "अर्थ मन्त्रालय",
+      "नेपाल राष्ट्र बैंक",
+      "महालेखापरीक्षकको कार्यालय",
+      "महालेखा नियन्त्रकको कार्यालय"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Financial Comptroller General Office.",
+    "explanation_ne": "उत्तर महालेखा नियन्त्रकको कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0020",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PPMO?",
+    "question_ne": "PPMO को पूरा रूप के हो?",
+    "options": [
+      "Public Procurement Management Office",
+      "Public Procurement Monitoring Organisation",
+      "Public Project Monitoring Office",
+      "Public Procurement Monitoring Office"
+    ],
+    "options_ne": [
+      "सार्वजनिक खरिद व्यवस्थापन कार्यालय",
+      "सार्वजनिक खरिद अनुगमन सङ्गठन",
+      "सार्वजनिक आयोजना अनुगमन कार्यालय",
+      "सार्वजनिक खरिद अनुगमन कार्यालय"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Public Procurement Monitoring Office.",
+    "explanation_ne": "उत्तर सार्वजनिक खरिद अनुगमन कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0021",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act governs public procurement in Nepal?",
+    "question_ne": "नेपालमा सार्वजनिक खरिद कुन ऐनले नियन्त्रण गर्छ?",
+    "options": [
+      "Procurement Act, 2017",
+      "Tender Act, 2007",
+      "Public Procurement Act, 1993",
+      "Public Procurement Act, 2007"
+    ],
+    "options_ne": [
+      "खरिद ऐन, २०७३",
+      "टेन्डर ऐन, २०६३",
+      "सार्वजनिक खरिद ऐन, २०४९",
+      "सार्वजनिक खरिद ऐन, २०६३"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Public Procurement Act, 2007.",
+    "explanation_ne": "उत्तर सार्वजनिक खरिद ऐन, २०६३ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0022",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of GON?",
+    "question_ne": "GON को पूरा रूप के हो?",
+    "options": [
+      "Government of Nation",
+      "General Office of Nepal",
+      "Government of Nepal",
+      "Gazette of Nepal"
+    ],
+    "options_ne": [
+      "राष्ट्र सरकार",
+      "नेपालको सामान्य कार्यालय",
+      "नेपाल सरकार",
+      "नेपाल राजपत्र"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Government of Nepal.",
+    "explanation_ne": "उत्तर नेपाल सरकार हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0023",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of MoF?",
+    "question_ne": "MoF को पूरा रूप के हो?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Foreign Affairs",
+      "Ministry of Forests",
+      "Ministry of Federal Affairs"
+    ],
+    "options_ne": [
+      "अर्थ मन्त्रालय",
+      "परराष्ट्र मन्त्रालय",
+      "वन मन्त्रालय",
+      "सङ्घीय मामिला मन्त्रालय"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Ministry of Finance.",
+    "explanation_ne": "उत्तर अर्थ मन्त्रालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0024",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of MoHA?",
+    "question_ne": "MoHA को पूरा रूप के हो?",
+    "options": [
+      "Ministry of Housing Affairs",
+      "Ministry of Human Affairs",
+      "Ministry of Health Affairs",
+      "Ministry of Home Affairs"
+    ],
+    "options_ne": [
+      "आवास मामिला मन्त्रालय",
+      "मानव मामिला मन्त्रालय",
+      "स्वास्थ्य मामिला मन्त्रालय",
+      "गृह मन्त्रालय"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Ministry of Home Affairs.",
+    "explanation_ne": "उत्तर गृह मन्त्रालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0025",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of MoFA?",
+    "question_ne": "MoFA को पूरा रूप के हो?",
+    "options": [
+      "Ministry of Foreign Affairs",
+      "Ministry of Forest Affairs",
+      "Ministry of Finance Affairs",
+      "Ministry of Federal Affairs"
+    ],
+    "options_ne": [
+      "परराष्ट्र मन्त्रालय",
+      "वन मामिला मन्त्रालय",
+      "वित्त मामिला मन्त्रालय",
+      "सङ्घीय मामिला मन्त्रालय"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Ministry of Foreign Affairs.",
+    "explanation_ne": "उत्तर परराष्ट्र मन्त्रालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0026",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which ministry handles foreign relations of Nepal?",
+    "question_ne": "नेपालको वैदेशिक सम्बन्ध हेर्ने मन्त्रालय कुन हो?",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Law",
+      "Ministry of Home Affairs",
+      "Ministry of Foreign Affairs"
+    ],
+    "options_ne": [
+      "अर्थ मन्त्रालय",
+      "कानुन मन्त्रालय",
+      "गृह मन्त्रालय",
+      "परराष्ट्र मन्त्रालय"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Ministry of Foreign Affairs.",
+    "explanation_ne": "उत्तर परराष्ट्र मन्त्रालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0027",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of DAO?",
+    "question_ne": "DAO को पूरा रूप के हो?",
+    "options": [
+      "District Agriculture Office",
+      "District Accounts Office",
+      "District Administration Office",
+      "District Audit Office"
+    ],
+    "options_ne": [
+      "जिल्ला कृषि कार्यालय",
+      "जिल्ला लेखा कार्यालय",
+      "जिल्ला प्रशासन कार्यालय",
+      "जिल्ला लेखापरीक्षण कार्यालय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is District Administration Office.",
+    "explanation_ne": "उत्तर जिल्ला प्रशासन कार्यालय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0029",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CDO?",
+    "question_ne": "CDO को पूरा रूप के हो?",
+    "options": [
+      "Chief Development Officer",
+      "Central District Officer",
+      "Chief Department Officer",
+      "Chief District Officer"
+    ],
+    "options_ne": [
+      "मुख्य विकास अधिकारी",
+      "केन्द्रीय जिल्ला अधिकारी",
+      "मुख्य विभाग अधिकारी",
+      "प्रमुख जिल्ला अधिकारी"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Chief District Officer.",
+    "explanation_ne": "उत्तर प्रमुख जिल्ला अधिकारी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0030",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of LDO?",
+    "question_ne": "LDO को पूरा रूप के हो?",
+    "options": [
+      "Legal Development Officer",
+      "Land Development Officer",
+      "Local District Officer",
+      "Local Development Officer"
+    ],
+    "options_ne": [
+      "कानुनी विकास अधिकारी",
+      "भूमि विकास अधिकारी",
+      "स्थानीय जिल्ला अधिकारी",
+      "स्थानीय विकास अधिकारी"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Local Development Officer.",
+    "explanation_ne": "उत्तर स्थानीय विकास अधिकारी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0031",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of VDC?",
+    "question_ne": "VDC को पूरा रूप के हो?",
+    "options": [
+      "Village Development Committee",
+      "Village Development Council",
+      "Village District Committee",
+      "Village Development Centre"
+    ],
+    "options_ne": [
+      "गाउँ विकास समिति",
+      "गाउँ विकास परिषद्",
+      "गाउँ जिल्ला समिति",
+      "गाउँ विकास केन्द्र"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Village Development Committee.",
+    "explanation_ne": "उत्तर गाउँ विकास समिति हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0038",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of DDC?",
+    "question_ne": "DDC को पूरा रूप के हो?",
+    "options": [
+      "District Development Council",
+      "District District Committee",
+      "District Development Centre",
+      "District Development Committee"
+    ],
+    "options_ne": [
+      "जिल्ला विकास परिषद्",
+      "जिल्ला जिल्ला समिति",
+      "जिल्ला विकास केन्द्र",
+      "जिल्ला विकास समिति"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is District Development Committee.",
+    "explanation_ne": "उत्तर जिल्ला विकास समिति हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0039",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which body replaced the District Development Committee after federalism?",
+    "question_ne": "सङ्घीयतापछि जिल्ला विकास समितिलाई कुन निकायले प्रतिस्थापन गर्यो?",
+    "options": [
+      "District Assembly",
+      "District Administration Office",
+      "District Coordination Committee",
+      "District Council"
+    ],
+    "options_ne": [
+      "जिल्ला सभा",
+      "जिल्ला प्रशासन कार्यालय",
+      "जिल्ला समन्वय समिति",
+      "जिल्ला परिषद्"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is District Coordination Committee.",
+    "explanation_ne": "उत्तर जिल्ला समन्वय समिति हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0040",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of DCC?",
+    "question_ne": "DCC को पूरा रूप के हो?",
+    "options": [
+      "District Coordination Committee",
+      "District Development Committee",
+      "District Coordination Council",
+      "District Control Committee"
+    ],
+    "options_ne": [
+      "जिल्ला समन्वय समिति",
+      "जिल्ला विकास समिति",
+      "जिल्ला समन्वय परिषद्",
+      "जिल्ला नियन्त्रण समिति"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is District Coordination Committee.",
+    "explanation_ne": "उत्तर जिल्ला समन्वय समिति हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0043",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CEO in local government?",
+    "question_ne": "स्थानीय सरकारमा CEO को पूरा रूप के हो?",
+    "options": [
+      "Chief Administrative Officer",
+      "Chief Education Officer",
+      "Chief Election Officer",
+      "Chief Executive Officer"
+    ],
+    "options_ne": [
+      "प्रमुख प्रशासकीय अधिकृत",
+      "मुख्य शिक्षा अधिकारी",
+      "मुख्य निर्वाचन अधिकारी",
+      "प्रमुख कार्यकारी अधिकृत"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Chief Administrative Officer.",
+    "explanation_ne": "उत्तर प्रमुख प्रशासकीय अधिकृत हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0045",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article of the Constitution lists the powers of provinces?",
+    "question_ne": "संविधानको कुन अनुसूचीमा प्रदेशका अधिकार सूचीबद्ध छन्?",
+    "options": [
+      "Schedule 7",
+      "Schedule 5",
+      "Schedule 6",
+      "Schedule 8"
+    ],
+    "options_ne": [
+      "अनुसूची ७",
+      "अनुसूची ५",
+      "अनुसूची ६",
+      "अनुसूची ८"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Schedule 6.",
+    "explanation_ne": "उत्तर अनुसूची ६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0046",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which schedule lists the powers of the federal government?",
+    "question_ne": "संविधानको कुन अनुसूचीमा सङ्घीय सरकारका अधिकार सूचीबद्ध छन्?",
+    "options": [
+      "Schedule 5",
+      "Schedule 6",
+      "Schedule 7",
+      "Schedule 9"
+    ],
+    "options_ne": [
+      "अनुसूची ५",
+      "अनुसूची ६",
+      "अनुसूची ७",
+      "अनुसूची ९"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Schedule 5.",
+    "explanation_ne": "उत्तर अनुसूची ५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0047",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PSC?",
+    "question_ne": "PSC को पूरा रूप के हो?",
+    "options": [
+      "Public Service Commission",
+      "Public Sector Commission",
+      "Provincial Service Commission",
+      "Public Service Committee"
+    ],
+    "options_ne": [
+      "लोक सेवा आयोग",
+      "सार्वजनिक क्षेत्र आयोग",
+      "प्रादेशिक सेवा आयोग",
+      "लोक सेवा समिति"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Public Service Commission.",
+    "explanation_ne": "उत्तर लोक सेवा आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0051",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NWC?",
+    "question_ne": "NWC को पूरा रूप के हो?",
+    "options": [
+      "National Women Commission",
+      "National Welfare Commission",
+      "National Workers Commission",
+      "Nepal Women Commission"
+    ],
+    "options_ne": [
+      "राष्ट्रिय महिला आयोग",
+      "राष्ट्रिय कल्याण आयोग",
+      "राष्ट्रिय मजदुर आयोग",
+      "नेपाल महिला आयोग"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is National Women Commission.",
+    "explanation_ne": "उत्तर राष्ट्रिय महिला आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0052",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NDC?",
+    "question_ne": "NDC को पूरा रूप के हो?",
+    "options": [
+      "Nepal Dalit Commission",
+      "National Development Commission",
+      "National Dalit Commission",
+      "National Dalit Council"
+    ],
+    "options_ne": [
+      "नेपाल दलित आयोग",
+      "राष्ट्रिय विकास आयोग",
+      "राष्ट्रिय दलित आयोग",
+      "राष्ट्रिय दलित परिषद्"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is National Dalit Commission.",
+    "explanation_ne": "उत्तर राष्ट्रिय दलित आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0053",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NIC?",
+    "question_ne": "NIC को पूरा रूप के हो?",
+    "options": [
+      "Nepal Inclusion Commission",
+      "National Investigation Commission",
+      "National Inclusion Commission",
+      "National Information Commission"
+    ],
+    "options_ne": [
+      "नेपाल समावेशी आयोग",
+      "राष्ट्रिय अनुसन्धान आयोग",
+      "राष्ट्रिय समावेशी आयोग",
+      "राष्ट्रिय सूचना आयोग"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is National Inclusion Commission.",
+    "explanation_ne": "उत्तर राष्ट्रिय समावेशी आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0054",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NMC in the context of indigenous peoples?",
+    "question_ne": "आदिवासी जनजातिका सन्दर्भमा NMC को पूरा रूप के हो?",
+    "options": [
+      "National Foundation for Development of Indigenous Nationalities",
+      "National Minority Commission",
+      "National Muslim Commission",
+      "Nepal Minority Council"
+    ],
+    "options_ne": [
+      "आदिवासी जनजाति उत्थान राष्ट्रिय प्रतिष्ठान",
+      "राष्ट्रिय अल्पसङ्ख्यक आयोग",
+      "राष्ट्रिय मुस्लिम आयोग",
+      "नेपाल अल्पसङ्ख्यक परिषद्"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is National Foundation for Development of Indigenous Nationalities.",
+    "explanation_ne": "उत्तर आदिवासी जनजाति उत्थान राष्ट्रिय प्रतिष्ठान हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0055",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of FNCCI?",
+    "question_ne": "FNCCI को पूरा रूप के हो?",
+    "options": [
+      "Federation of National Chambers of Commerce and Industry",
+      "Federation of Nepalese Chambers of Commerce and Industry",
+      "Federation of Nepalese Commerce and Industry",
+      "Federation of Nepal Chambers of Commerce"
+    ],
+    "options_ne": [
+      "राष्ट्रिय उद्योग वाणिज्य महासङ्घ",
+      "नेपाल उद्योग वाणिज्य महासङ्घ",
+      "नेपाल वाणिज्य उद्योग महासङ्घ",
+      "नेपाल उद्योग वाणिज्य सङ्घ"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Federation of Nepalese Chambers of Commerce and Industry.",
+    "explanation_ne": "उत्तर नेपाल उद्योग वाणिज्य महासङ्घ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0056",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was FNCCI established?",
+    "question_ne": "नेपाल उद्योग वाणिज्य महासङ्घ (FNCCI) कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1965",
+      "1980",
+      "1955",
+      "1975"
+    ],
+    "options_ne": [
+      "सन् १९६५",
+      "सन् १९८०",
+      "सन् १९५५",
+      "सन् १९७५"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 1965.",
+    "explanation_ne": "उत्तर सन् १९६५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0059",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NTC?",
+    "question_ne": "NTC को पूरा रूप के हो?",
+    "options": [
+      "Nepal Telephone Corporation",
+      "National Telecom Company",
+      "Nepal Telecommunication Company",
+      "Nepal Telecom"
+    ],
+    "options_ne": [
+      "नेपाल टेलिफोन निगम",
+      "राष्ट्रिय टेलिकम कम्पनी",
+      "नेपाल दूरसञ्चार कम्पनी",
+      "नेपाल टेलिकम"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Nepal Telecom.",
+    "explanation_ne": "उत्तर नेपाल टेलिकम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0061",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups",
+      "computer-operator",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Office Management & Public Service",
+    "subtopic": "Office Management & Public Service",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NTA?",
+    "question_ne": "NTA को पूरा रूप के हो?",
+    "options": [
+      "Nepal Telecom Authority",
+      "Nepal Telephone Authority",
+      "National Telecom Authority",
+      "Nepal Telecommunications Authority"
+    ],
+    "options_ne": [
+      "नेपाल टेलिकम प्राधिकरण",
+      "नेपाल टेलिफोन प्राधिकरण",
+      "राष्ट्रिय दूरसञ्चार प्राधिकरण",
+      "नेपाल दूरसञ्चार प्राधिकरण"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Nepal Telecommunications Authority.",
+    "explanation_ne": "उत्तर नेपाल दूरसञ्चार प्राधिकरण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0064",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who is known as the father of child-centred education?",
+    "question_ne": "बालकेन्द्रित शिक्षाका पिता भनेर कसलाई चिनिन्छ?",
+    "options": [
+      "John Dewey",
+      "Maria Montessori",
+      "Friedrich Froebel",
+      "John Amos Comenius"
+    ],
+    "options_ne": [
+      "जोन डिउई",
+      "मारिया मोन्टेसरी",
+      "फ्रेडरिक फ्रोबेल",
+      "जोन आमोस कमेनियस"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is John Dewey.",
+    "explanation_ne": "उत्तर जोन डिउई हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0068",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many stages are there in Piaget's cognitive development theory?",
+    "question_ne": "पियाजेको संज्ञानात्मक विकास सिद्धान्तमा कति चरण छन्?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "options_ne": [
+      "३",
+      "५",
+      "४",
+      "६"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 4.",
+    "explanation_ne": "उत्तर ४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0069",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the first stage of Piaget's cognitive development?",
+    "question_ne": "पियाजेको संज्ञानात्मक विकासको पहिलो चरण कुन हो?",
+    "options": [
+      "Formal operational stage",
+      "Concrete operational stage",
+      "Preoperational stage",
+      "Sensorimotor stage"
+    ],
+    "options_ne": [
+      "औपचारिक सञ्चालनात्मक चरण",
+      "मूर्त सञ्चालनात्मक चरण",
+      "पूर्व-सञ्चालनात्मक चरण",
+      "संवेदी-गतिशील चरण"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Sensorimotor stage.",
+    "explanation_ne": "उत्तर संवेदी-गतिशील चरण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0070",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the zone of proximal development (ZPD)?",
+    "question_ne": "निकट विकास क्षेत्र (ZPD) को अवधारणा कसले प्रस्ताव गरे?",
+    "options": [
+      "Lev Vygotsky",
+      "Erik Erikson",
+      "Jean Piaget",
+      "Jerome Bruner"
+    ],
+    "options_ne": [
+      "लेभ भाइगोत्स्की",
+      "एरिक एरिक्सन",
+      "जिन पियाजे",
+      "जेरोम ब्रुनर"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Lev Vygotsky.",
+    "explanation_ne": "उत्तर लेभ भाइगोत्स्की हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0071",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the theory of operant conditioning?",
+    "question_ne": "सञ्चालनात्मक अनुबन्धनको सिद्धान्त कसले प्रस्ताव गरे?",
+    "options": [
+      "Edward Thorndike",
+      "John Watson",
+      "Ivan Pavlov",
+      "B.F. Skinner"
+    ],
+    "options_ne": [
+      "एडवर्ड थोर्नडाइक",
+      "जोन वाट्सन",
+      "इभान पाभलोभ",
+      "बी.एफ. स्किनर"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is B.F. Skinner.",
+    "explanation_ne": "उत्तर बी.एफ. स्किनर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0072",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the theory of classical conditioning?",
+    "question_ne": "शास्त्रीय अनुबन्धनको सिद्धान्त कसले प्रस्ताव गरे?",
+    "options": [
+      "Ivan Pavlov",
+      "John Watson",
+      "Sigmund Freud",
+      "B.F. Skinner"
+    ],
+    "options_ne": [
+      "इभान पाभलोभ",
+      "जोन वाट्सन",
+      "सिग्मन्ड फ्रायड",
+      "बी.एफ. स्किनर"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Ivan Pavlov.",
+    "explanation_ne": "उत्तर इभान पाभलोभ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0073",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who is known as the father of behaviourism?",
+    "question_ne": "व्यवहारवादका पिता भनेर कसलाई चिनिन्छ?",
+    "options": [
+      "John Watson",
+      "B.F. Skinner",
+      "Ivan Pavlov",
+      "Sigmund Freud"
+    ],
+    "options_ne": [
+      "जोन वाट्सन",
+      "बी.एफ. स्किनर",
+      "इभान पाभलोभ",
+      "सिग्मन्ड फ्रायड"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is John Watson.",
+    "explanation_ne": "उत्तर जोन वाट्सन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0074",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many stages are there in Erikson's psychosocial development theory?",
+    "question_ne": "एरिक्सनको मनोसामाजिक विकास सिद्धान्तमा कति चरण छन्?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "8"
+    ],
+    "options_ne": [
+      "४",
+      "६",
+      "५",
+      "८"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 8.",
+    "explanation_ne": "उत्तर ८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0076",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many levels are there in Maslow's hierarchy of needs?",
+    "question_ne": "मास्लोको आवश्यकताको पदानुक्रममा कति तह छन्?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "options_ne": [
+      "४",
+      "३",
+      "६",
+      "५"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 5.",
+    "explanation_ne": "उत्तर ५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0077",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the theory of multiple intelligences?",
+    "question_ne": "बहुबुद्धिमत्ताको सिद्धान्त कसले प्रस्ताव गरे?",
+    "options": [
+      "Robert Sternberg",
+      "Lewis Terman",
+      "Howard Gardner",
+      "Alfred Binet"
+    ],
+    "options_ne": [
+      "रोबर्ट स्टर्नबर्ग",
+      "लुइस टर्मन",
+      "हावर्ड गार्डनर",
+      "अल्फ्रेड बिने"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Howard Gardner.",
+    "explanation_ne": "उत्तर हावर्ड गार्डनर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0078",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many intelligences did Gardner originally propose?",
+    "question_ne": "गार्डनरले सुरुमा कति बुद्धिमत्ता प्रस्ताव गरे?",
+    "options": [
+      "7",
+      "5",
+      "9",
+      "8"
+    ],
+    "options_ne": [
+      "७",
+      "५",
+      "९",
+      "८"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 7.",
+    "explanation_ne": "उत्तर ७ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0079",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who developed the first intelligence test?",
+    "question_ne": "पहिलो बुद्धिमत्ता परीक्षण कसले विकास गरे?",
+    "options": [
+      "Francis Galton",
+      "Alfred Binet",
+      "David Wechsler",
+      "Lewis Terman"
+    ],
+    "options_ne": [
+      "फ्रान्सिस गाल्टन",
+      "अल्फ्रेड बिने",
+      "डेभिड वेक्सलर",
+      "लुइस टर्मन"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Alfred Binet.",
+    "explanation_ne": "उत्तर अल्फ्रेड बिने हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0080",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What does IQ stand for?",
+    "question_ne": "IQ को पूरा रूप के हो?",
+    "options": [
+      "Intelligence Quotient",
+      "Intelligence Question",
+      "Intellectual Quotient",
+      "Intelligence Quality"
+    ],
+    "options_ne": [
+      "बुद्धि लब्धि",
+      "बुद्धि प्रश्न",
+      "बौद्धिक लब्धि",
+      "बुद्धि गुणस्तर"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Intelligence Quotient.",
+    "explanation_ne": "उत्तर बुद्धि लब्धि हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0081",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who coined the term \"intelligence quotient\"?",
+    "question_ne": "\"Intelligence quotient\" शब्द कसले प्रयोग गरे?",
+    "options": [
+      "William Stern",
+      "Alfred Binet",
+      "Francis Galton",
+      "Lewis Terman"
+    ],
+    "options_ne": [
+      "विलियम स्टर्न",
+      "अल्फ्रेड बिने",
+      "फ्रान्सिस गाल्टन",
+      "लुइस टर्मन"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is William Stern.",
+    "explanation_ne": "उत्तर विलियम स्टर्न हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0082",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the average IQ score?",
+    "question_ne": "औसत बुद्धि लब्धि (IQ) कति हुन्छ?",
+    "options": [
+      "120",
+      "110",
+      "90",
+      "100"
+    ],
+    "options_ne": [
+      "१२०",
+      "११०",
+      "९०",
+      "१००"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 100.",
+    "explanation_ne": "उत्तर १०० हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0083",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the discovery learning method?",
+    "question_ne": "खोजमूलक सिकाइ विधि कसले प्रस्ताव गरे?",
+    "options": [
+      "Jerome Bruner",
+      "Lev Vygotsky",
+      "John Dewey",
+      "Jean Piaget"
+    ],
+    "options_ne": [
+      "जेरोम ब्रुनर",
+      "लेभ भाइगोत्स्की",
+      "जोन डिउई",
+      "जिन पियाजे"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Jerome Bruner.",
+    "explanation_ne": "उत्तर जेरोम ब्रुनर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0084",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who is known as the father of the project method?",
+    "question_ne": "परियोजना विधिका पिता भनेर कसलाई चिनिन्छ?",
+    "options": [
+      "Friedrich Froebel",
+      "John Dewey",
+      "Maria Montessori",
+      "William Kilpatrick"
+    ],
+    "options_ne": [
+      "फ्रेडरिक फ्रोबेल",
+      "जोन डिउई",
+      "मारिया मोन्टेसरी",
+      "विलियम किलप्याट्रिक"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is William Kilpatrick.",
+    "explanation_ne": "उत्तर विलियम किलप्याट्रिक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0085",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which learning theory is based on \"learning by doing\"?",
+    "question_ne": "कुन सिकाइ सिद्धान्त \"गरेर सिक्ने\" मा आधारित छ?",
+    "options": [
+      "Dewey's pragmatism",
+      "Behaviourism",
+      "Constructivism",
+      "Cognitivism"
+    ],
+    "options_ne": [
+      "डिउईको प्रयोगवाद",
+      "व्यवहारवाद",
+      "रचनावाद",
+      "संज्ञानवाद"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Dewey's pragmatism.",
+    "explanation_ne": "उत्तर डिउईको प्रयोगवाद हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0086",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What does CCE stand for in education?",
+    "question_ne": "शिक्षामा CCE को पूरा रूप के हो?",
+    "options": [
+      "Continuous and Comprehensive Evaluation",
+      "Comprehensive and Central Evaluation",
+      "Continuous and Classroom Evaluation",
+      "Continuous and Cumulative Evaluation"
+    ],
+    "options_ne": [
+      "निरन्तर तथा व्यापक मूल्याङ्कन",
+      "व्यापक तथा केन्द्रीय मूल्याङ्कन",
+      "निरन्तर तथा कक्षागत मूल्याङ्कन",
+      "निरन्तर तथा संचयी मूल्याङ्कन"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Continuous and Comprehensive Evaluation.",
+    "explanation_ne": "उत्तर निरन्तर तथा व्यापक मूल्याङ्कन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0087",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SEE?",
+    "question_ne": "SEE को पूरा रूप के हो?",
+    "options": [
+      "Secondary Entrance Examination",
+      "School Education Examination",
+      "Secondary Education Examination",
+      "Secondary Education Evaluation"
+    ],
+    "options_ne": [
+      "माध्यमिक प्रवेश परीक्षा",
+      "विद्यालय शिक्षा परीक्षा",
+      "माध्यमिक शिक्षा परीक्षा",
+      "माध्यमिक शिक्षा मूल्याङ्कन"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Secondary Education Examination.",
+    "explanation_ne": "उत्तर माध्यमिक शिक्षा परीक्षा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0088",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SLC?",
+    "question_ne": "SLC को पूरा रूप के हो?",
+    "options": [
+      "Secondary Level Certificate",
+      "School Leaving Certificate",
+      "School Leaving Course",
+      "School Level Certificate"
+    ],
+    "options_ne": [
+      "माध्यमिक तह प्रमाणपत्र",
+      "विद्यालय छाड्ने प्रमाणपत्र",
+      "विद्यालय छाड्ने पाठ्यक्रम",
+      "विद्यालय तह प्रमाणपत्र"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is School Leaving Certificate.",
+    "explanation_ne": "उत्तर विद्यालय छाड्ने प्रमाणपत्र हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0089",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was SLC replaced by SEE in Nepal?",
+    "question_ne": "नेपालमा SLC लाई SEE ले कुन वर्ष प्रतिस्थापन गर्यो?",
+    "options": [
+      "2017",
+      "2016",
+      "2018",
+      "2015"
+    ],
+    "options_ne": [
+      "सन् २०१७",
+      "सन् २०१६",
+      "सन् २०१८",
+      "सन् २०१५"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 2016.",
+    "explanation_ne": "उत्तर सन् २०१६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0090",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NEB?",
+    "question_ne": "NEB को पूरा रूप के हो?",
+    "options": [
+      "National Examination Board",
+      "National Education Board",
+      "National Evaluation Board",
+      "Nepal Examination Board"
+    ],
+    "options_ne": [
+      "राष्ट्रिय परीक्षा बोर्ड",
+      "राष्ट्रिय शिक्षा बोर्ड",
+      "राष्ट्रिय मूल्याङ्कन बोर्ड",
+      "नेपाल परीक्षा बोर्ड"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is National Examination Board.",
+    "explanation_ne": "उत्तर राष्ट्रिय परीक्षा बोर्ड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0091",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CDC?",
+    "question_ne": "CDC को पूरा रूप के हो?",
+    "options": [
+      "Curriculum Design Centre",
+      "Curriculum Development Centre",
+      "Curriculum Development Committee",
+      "Central Development Centre"
+    ],
+    "options_ne": [
+      "पाठ्यक्रम डिजाइन केन्द्र",
+      "पाठ्यक्रम विकास केन्द्र",
+      "पाठ्यक्रम विकास समिति",
+      "केन्द्रीय विकास केन्द्र"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Curriculum Development Centre.",
+    "explanation_ne": "उत्तर पाठ्यक्रम विकास केन्द्र हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0092",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of TSC?",
+    "question_ne": "TSC को पूरा रूप के हो?",
+    "options": [
+      "Teachers Service Commission",
+      "Teachers Service Committee",
+      "Teaching Service Commission",
+      "Teachers Selection Commission"
+    ],
+    "options_ne": [
+      "शिक्षक सेवा आयोग",
+      "शिक्षक सेवा समिति",
+      "अध्यापन सेवा आयोग",
+      "शिक्षक छनोट आयोग"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Teachers Service Commission.",
+    "explanation_ne": "उत्तर शिक्षक सेवा आयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0096",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NEB in the context of Nepal education?",
+    "question_ne": "नेपाल शिक्षाका सन्दर्भमा NEB को पूरा रूप के हो?",
+    "options": [
+      "Nepal Education Board",
+      "National Examination Board",
+      "National Education Board",
+      "National Entrance Board"
+    ],
+    "options_ne": [
+      "नेपाल शिक्षा बोर्ड",
+      "राष्ट्रिय परीक्षा बोर्ड",
+      "राष्ट्रिय शिक्षा बोर्ड",
+      "राष्ट्रिय प्रवेश बोर्ड"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is National Examination Board.",
+    "explanation_ne": "उत्तर राष्ट्रिय परीक्षा बोर्ड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0097",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which level of education is free in Nepal by the Constitution?",
+    "question_ne": "संविधानअनुसार नेपालमा कुन तहको शिक्षा निःशुल्क छ?",
+    "options": [
+      "Secondary education",
+      "Higher education",
+      "Basic education",
+      "Technical education"
+    ],
+    "options_ne": [
+      "माध्यमिक शिक्षा",
+      "उच्च शिक्षा",
+      "आधारभूत शिक्षा",
+      "प्राविधिक शिक्षा"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Basic education.",
+    "explanation_ne": "उत्तर आधारभूत शिक्षा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0098",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Up to which grade is education free in Nepal?",
+    "question_ne": "नेपालमा कुन कक्षासम्म शिक्षा निःशुल्क छ?",
+    "options": [
+      "Grade 8 (basic level)",
+      "Grade 12",
+      "Grade 5",
+      "Grade 10"
+    ],
+    "options_ne": [
+      "कक्षा ८ (आधारभूत तह)",
+      "कक्षा १२",
+      "कक्षा ५",
+      "कक्षा १०"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Grade 8 (basic level).",
+    "explanation_ne": "उत्तर कक्षा ८ (आधारभूत तह) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0099",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of EFA?",
+    "question_ne": "EFA को पूरा रूप के हो?",
+    "options": [
+      "Education for Asia",
+      "Education for Advancement",
+      "Education for Adult",
+      "Education for All"
+    ],
+    "options_ne": [
+      "एसियाका लागि शिक्षा",
+      "प्रगतिका लागि शिक्षा",
+      "वयस्कका लागि शिक्षा",
+      "सबैका लागि शिक्षा"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Education for All.",
+    "explanation_ne": "उत्तर सबैका लागि शिक्षा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0100",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of MDG?",
+    "question_ne": "MDG को पूरा रूप के हो?",
+    "options": [
+      "Millennium Development Goals",
+      "Millennium Development Guide",
+      "Millennium Development Group",
+      "Modern Development Goals"
+    ],
+    "options_ne": [
+      "सहस्राब्दी विकास लक्ष्य",
+      "सहस्राब्दी विकास निर्देशिका",
+      "सहस्राब्दी विकास समूह",
+      "आधुनिक विकास लक्ष्य"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Millennium Development Goals.",
+    "explanation_ne": "उत्तर सहस्राब्दी विकास लक्ष्य हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0101",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SDG?",
+    "question_ne": "SDG को पूरा रूप के हो?",
+    "options": [
+      "Social Development Goals",
+      "Sustainable Development Group",
+      "Sustainable Development Guide",
+      "Sustainable Development Goals"
+    ],
+    "options_ne": [
+      "सामाजिक विकास लक्ष्य",
+      "दिगो विकास समूह",
+      "दिगो विकास निर्देशिका",
+      "दिगो विकास लक्ष्य"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Sustainable Development Goals.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0104",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about quality education?",
+    "question_ne": "गुणस्तरीय शिक्षासम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 3",
+      "SDG 1",
+      "SDG 5",
+      "SDG 4"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य ३",
+      "दिगो विकास लक्ष्य १",
+      "दिगो विकास लक्ष्य ५",
+      "दिगो विकास लक्ष्य ४"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is SDG 4.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य ४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0105",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about gender equality?",
+    "question_ne": "लैङ्गिक समानतासम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 10",
+      "SDG 4",
+      "SDG 5",
+      "SDG 3"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य १०",
+      "दिगो विकास लक्ष्य ४",
+      "दिगो विकास लक्ष्य ५",
+      "दिगो विकास लक्ष्य ३"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is SDG 5.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य ५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0106",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about good health and well-being?",
+    "question_ne": "राम्रो स्वास्थ्य र कल्याणसम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 4",
+      "SDG 6",
+      "SDG 3",
+      "SDG 1"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य ४",
+      "दिगो विकास लक्ष्य ६",
+      "दिगो विकास लक्ष्य ३",
+      "दिगो विकास लक्ष्य १"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is SDG 3.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य ३ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0107",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about clean water and sanitation?",
+    "question_ne": "स्वच्छ पानी र सरसफाइसम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 6",
+      "SDG 3",
+      "SDG 7",
+      "SDG 13"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य ६",
+      "दिगो विकास लक्ष्य ३",
+      "दिगो विकास लक्ष्य ७",
+      "दिगो विकास लक्ष्य १३"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is SDG 6.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य ६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0108",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about climate action?",
+    "question_ne": "जलवायु कार्यसम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 13",
+      "SDG 15",
+      "SDG 14",
+      "SDG 12"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य १३",
+      "दिगो विकास लक्ष्य १५",
+      "दिगो विकास लक्ष्य १४",
+      "दिगो विकास लक्ष्य १२"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is SDG 13.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य १३ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0109",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about no poverty?",
+    "question_ne": "गरिबी अन्त्यसम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 8",
+      "SDG 2",
+      "SDG 3",
+      "SDG 1"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य ८",
+      "दिगो विकास लक्ष्य २",
+      "दिगो विकास लक्ष्य ३",
+      "दिगो विकास लक्ष्य १"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is SDG 1.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य १ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0110",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which SDG is about zero hunger?",
+    "question_ne": "भोकमरी अन्त्यसम्बन्धी दिगो विकास लक्ष्य कुन हो?",
+    "options": [
+      "SDG 2",
+      "SDG 1",
+      "SDG 6",
+      "SDG 3"
+    ],
+    "options_ne": [
+      "दिगो विकास लक्ष्य २",
+      "दिगो विकास लक्ष्य १",
+      "दिगो विकास लक्ष्य ६",
+      "दिगो विकास लक्ष्य ३"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is SDG 2.",
+    "explanation_ne": "उत्तर दिगो विकास लक्ष्य २ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0112",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of UNESCO?",
+    "question_ne": "UNESCO को पूरा रूप के हो?",
+    "options": [
+      "United Nations Environmental, Scientific and Cultural Organisation",
+      "United Nations Educational, Scientific and Cultural Organization",
+      "United Nations Economic, Social and Cultural Organisation",
+      "United Nations Education, Science and Culture Organisation"
+    ],
+    "options_ne": [
+      "संयुक्त राष्ट्र वातावरणीय, वैज्ञानिक तथा सांस्कृतिक सङ्गठन",
+      "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक तथा सांस्कृतिक सङ्गठन",
+      "संयुक्त राष्ट्र आर्थिक, सामाजिक तथा सांस्कृतिक सङ्गठन",
+      "संयुक्त राष्ट्र शिक्षा, विज्ञान तथा संस्कृति सङ्गठन"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is United Nations Educational, Scientific and Cultural Organization.",
+    "explanation_ne": "उत्तर संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक तथा सांस्कृतिक सङ्गठन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0115",
+    "exam": [
+      "tsc-primary",
+      "tsc-lower-secondary",
+      "tsc-secondary",
+      "tsc-license",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Education & Pedagogy",
+    "subtopic": "Education & Pedagogy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was UNICEF founded?",
+    "question_ne": "युनिसेफ कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1950",
+      "1946",
+      "1945",
+      "1948"
+    ],
+    "options_ne": [
+      "सन् १९५०",
+      "सन् १९४६",
+      "सन् १९४५",
+      "सन् १९४८"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 1946.",
+    "explanation_ne": "उत्तर सन् १९४६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0117",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act is the main criminal law of Nepal?",
+    "question_ne": "नेपालको मुख्य फौजदारी कानुन कुन ऐन हो?",
+    "options": [
+      "National Civil Code Act, 2017",
+      "Evidence Act, 1974",
+      "Criminal Procedure Code, 2017",
+      "National Criminal Code Act, 2017"
+    ],
+    "options_ne": [
+      "मुलुकी देवानी संहिता ऐन, २०७४",
+      "प्रमाण ऐन, २०३१",
+      "फौजदारी कार्यविधि संहिता, २०७४",
+      "मुलुकी अपराध संहिता ऐन, २०७४"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is National Criminal Code Act, 2017.",
+    "explanation_ne": "उत्तर मुलुकी अपराध संहिता ऐन, २०७४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0118",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act is the main civil law of Nepal?",
+    "question_ne": "नेपालको मुख्य देवानी कानुन कुन ऐन हो?",
+    "options": [
+      "Civil Procedure Code, 2017",
+      "National Criminal Code Act, 2017",
+      "National Civil Code Act, 2017",
+      "Contract Act, 2000"
+    ],
+    "options_ne": [
+      "देवानी कार्यविधि संहिता, २०७४",
+      "मुलुकी अपराध संहिता ऐन, २०७४",
+      "मुलुकी देवानी संहिता ऐन, २०७४",
+      "करार ऐन, २०५६"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is National Civil Code Act, 2017.",
+    "explanation_ne": "उत्तर मुलुकी देवानी संहिता ऐन, २०७४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0119",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year did the National Criminal Code come into force?",
+    "question_ne": "मुलुकी अपराध संहिता कुन वर्ष लागू भयो?",
+    "options": [
+      "2019",
+      "2017",
+      "2020",
+      "2018"
+    ],
+    "options_ne": [
+      "सन् २०१९",
+      "सन् २०१७",
+      "सन् २०२०",
+      "सन् २०१८"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 2018.",
+    "explanation_ne": "उत्तर सन् २०१८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0121",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article guarantees freedom of opinion and expression?",
+    "question_ne": "संविधानको कुन धाराले विचार तथा अभिव्यक्तिको स्वतन्त्रताको ग्यारेन्टी गर्छ?",
+    "options": [
+      "Article 17",
+      "Article 20",
+      "Article 19",
+      "Article 18"
+    ],
+    "options_ne": [
+      "धारा १७",
+      "धारा २०",
+      "धारा १९",
+      "धारा १८"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Article 17.",
+    "explanation_ne": "उत्तर धारा १७ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0130",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article guarantees the right to labour?",
+    "question_ne": "संविधानको कुन धाराले श्रमको हकको ग्यारेन्टी गर्छ?",
+    "options": [
+      "Article 34",
+      "Article 36",
+      "Article 33",
+      "Article 35"
+    ],
+    "options_ne": [
+      "धारा ३४",
+      "धारा ३६",
+      "धारा ३३",
+      "धारा ३५"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Article 34.",
+    "explanation_ne": "उत्तर धारा ३४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0131",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article guarantees the right to health?",
+    "question_ne": "संविधानको कुन धाराले स्वास्थ्यको हकको ग्यारेन्टी गर्छ?",
+    "options": [
+      "Article 35",
+      "Article 36",
+      "Article 37",
+      "Article 34"
+    ],
+    "options_ne": [
+      "धारा ३५",
+      "धारा ३६",
+      "धारा ३७",
+      "धारा ३४"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Article 35.",
+    "explanation_ne": "उत्तर धारा ३५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0141",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article guarantees the right against exile?",
+    "question_ne": "संविधानको कुन धाराले देश निकाला विरुद्धको हकको ग्यारेन्टी गर्छ?",
+    "options": [
+      "Article 46",
+      "Article 44",
+      "Article 47",
+      "Article 45"
+    ],
+    "options_ne": [
+      "धारा ४६",
+      "धारा ४४",
+      "धारा ४७",
+      "धारा ४५"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Article 45.",
+    "explanation_ne": "उत्तर धारा ४५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0143",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article lists the duties of citizens?",
+    "question_ne": "संविधानको कुन धारामा नागरिकका कर्तव्य सूचीबद्ध छन्?",
+    "options": [
+      "Article 47",
+      "Article 49",
+      "Article 48",
+      "Article 50"
+    ],
+    "options_ne": [
+      "धारा ४७",
+      "धारा ४९",
+      "धारा ४८",
+      "धारा ५०"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 48.",
+    "explanation_ne": "उत्तर धारा ४८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0145",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many fundamental rights are there in the Constitution of Nepal 2015?",
+    "question_ne": "नेपालको संविधान २०७२ मा कति मौलिक हक छन्?",
+    "options": [
+      "21",
+      "28",
+      "31",
+      "25"
+    ],
+    "options_ne": [
+      "२१",
+      "२८",
+      "३१",
+      "२५"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 31.",
+    "explanation_ne": "उत्तर ३१ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0146",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article declares Nepal a secular state?",
+    "question_ne": "संविधानको कुन धाराले नेपाललाई धर्मनिरपेक्ष राज्य घोषणा गर्छ?",
+    "options": [
+      "Article 5",
+      "Article 6",
+      "Article 4",
+      "Article 3"
+    ],
+    "options_ne": [
+      "धारा ५",
+      "धारा ६",
+      "धारा ४",
+      "धारा ३"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 4.",
+    "explanation_ne": "उत्तर धारा ४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0147",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article defines the national flag of Nepal?",
+    "question_ne": "संविधानको कुन धाराले नेपालको राष्ट्रिय झण्डा परिभाषित गर्छ?",
+    "options": [
+      "Article 10",
+      "Article 7",
+      "Article 8",
+      "Article 9"
+    ],
+    "options_ne": [
+      "धारा १०",
+      "धारा ७",
+      "धारा ८",
+      "धारा ९"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 8.",
+    "explanation_ne": "उत्तर धारा ८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0148",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article defines the national anthem of Nepal?",
+    "question_ne": "संविधानको कुन धाराले नेपालको राष्ट्रिय गान परिभाषित गर्छ?",
+    "options": [
+      "Article 10",
+      "Article 8",
+      "Article 9",
+      "Article 11"
+    ],
+    "options_ne": [
+      "धारा १०",
+      "धारा ८",
+      "धारा ९",
+      "धारा ११"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 9.",
+    "explanation_ne": "उत्तर धारा ९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0149",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article deals with citizenship of Nepal?",
+    "question_ne": "संविधानको कुन धारामा नागरिकतासम्बन्धी व्यवस्था छ?",
+    "options": [
+      "Article 11",
+      "Article 12",
+      "Article 10",
+      "Article 9"
+    ],
+    "options_ne": [
+      "धारा ११",
+      "धारा १२",
+      "धारा १०",
+      "धारा ९"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 10.",
+    "explanation_ne": "उत्तर धारा १० हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0151",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many articles are there in the Constitution of Nepal 2015?",
+    "question_ne": "नेपालको संविधान २०७२ मा कति धारा छन्?",
+    "options": [
+      "300",
+      "310",
+      "296",
+      "308"
+    ],
+    "options_ne": [
+      "३००",
+      "३१०",
+      "२९६",
+      "३०८"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 308.",
+    "explanation_ne": "उत्तर ३०८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0152",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many parts are there in the Constitution of Nepal 2015?",
+    "question_ne": "नेपालको संविधान २०७२ मा कति भाग छन्?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "options_ne": [
+      "२५",
+      "३०",
+      "३५",
+      "४०"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 35.",
+    "explanation_ne": "उत्तर ३५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0153",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many schedules are there in the Constitution of Nepal 2015?",
+    "question_ne": "नेपालको संविधान २०७२ मा कति अनुसूची छन्?",
+    "options": [
+      "12",
+      "11",
+      "7",
+      "9"
+    ],
+    "options_ne": [
+      "१२",
+      "११",
+      "७",
+      "९"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 9.",
+    "explanation_ne": "उत्तर ९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0154",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article establishes the Supreme Court of Nepal?",
+    "question_ne": "संविधानको कुन धाराले नेपालको सर्वोच्च अदालतको स्थापना गर्छ?",
+    "options": [
+      "Article 127",
+      "Article 128",
+      "Article 130",
+      "Article 126"
+    ],
+    "options_ne": [
+      "धारा १२७",
+      "धारा १२८",
+      "धारा १३०",
+      "धारा १२६"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Article 127.",
+    "explanation_ne": "उत्तर धारा १२७ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0155",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many justices are there in the Supreme Court of Nepal?",
+    "question_ne": "नेपालको सर्वोच्च अदालतमा कति न्यायाधीश हुन्छन्?",
+    "options": [
+      "11",
+      "21",
+      "15",
+      "25"
+    ],
+    "options_ne": [
+      "११",
+      "२१",
+      "१५",
+      "२५"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 21.",
+    "explanation_ne": "उत्तर २१ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0162",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article establishes the Judicial Council?",
+    "question_ne": "संविधानको कुन धाराले न्याय परिषद्को स्थापना गर्छ?",
+    "options": [
+      "Article 152",
+      "Article 150",
+      "Article 155",
+      "Article 153"
+    ],
+    "options_ne": [
+      "धारा १५२",
+      "धारा १५०",
+      "धारा १५५",
+      "धारा १५३"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Article 153.",
+    "explanation_ne": "उत्तर धारा १५३ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0163",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which article establishes the Constitutional Council?",
+    "question_ne": "संविधानको कुन धाराले संवैधानिक परिषद्को स्थापना गर्छ?",
+    "options": [
+      "Article 280",
+      "Article 282",
+      "Article 284",
+      "Article 286"
+    ],
+    "options_ne": [
+      "धारा २८०",
+      "धारा २८२",
+      "धारा २८४",
+      "धारा २८६"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Article 284.",
+    "explanation_ne": "उत्तर धारा २८४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0164",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NBA?",
+    "question_ne": "NBA को पूरा रूप के हो?",
+    "options": [
+      "Nepal Bar Academy",
+      "Nepal Bar Association",
+      "Nepal Bar Authority",
+      "National Bar Association"
+    ],
+    "options_ne": [
+      "नेपाल बार एकेडेमी",
+      "नेपाल बार एसोसिएसन",
+      "नेपाल बार प्राधिकरण",
+      "राष्ट्रिय बार एसोसिएसन"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Nepal Bar Association.",
+    "explanation_ne": "उत्तर नेपाल बार एसोसिएसन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0166",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the minimum age to be a judge of the Supreme Court of Nepal?",
+    "question_ne": "नेपालको सर्वोच्च अदालतको न्यायाधीश बन्न न्यूनतम उमेर कति हुनुपर्छ?",
+    "options": [
+      "No minimum age specified",
+      "40 years",
+      "30 years",
+      "35 years"
+    ],
+    "options_ne": [
+      "कुनै न्यूनतम उमेर तोकिएको छैन",
+      "४० वर्ष",
+      "३० वर्ष",
+      "३५ वर्ष"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is No minimum age specified.",
+    "explanation_ne": "उत्तर कुनै न्यूनतम उमेर तोकिएको छैन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0167",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of FIR?",
+    "question_ne": "FIR को पूरा रूप के हो?",
+    "options": [
+      "First Information Report",
+      "Formal Information Report",
+      "First Incident Report",
+      "First Investigation Report"
+    ],
+    "options_ne": [
+      "प्रथम सूचना प्रतिवेदन",
+      "औपचारिक सूचना प्रतिवेदन",
+      "प्रथम घटना प्रतिवेदन",
+      "प्रथम अनुसन्धान प्रतिवेदन"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is First Information Report.",
+    "explanation_ne": "उत्तर प्रथम सूचना प्रतिवेदन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0168",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which Act governs the police in Nepal?",
+    "question_ne": "नेपालमा प्रहरी कुन ऐनले नियन्त्रण गर्छ?",
+    "options": [
+      "Police Service Act, 1955",
+      "Police Act, 1990",
+      "Police Act, 1955",
+      "Nepal Police Act, 2017"
+    ],
+    "options_ne": [
+      "प्रहरी सेवा ऐन, २०१२",
+      "प्रहरी ऐन, २०४७",
+      "प्रहरी ऐन, २०१२",
+      "नेपाल प्रहरी ऐन, २०७४"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Police Act, 1955.",
+    "explanation_ne": "उत्तर प्रहरी ऐन, २०१२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0169",
+    "exam": [
+      "judicial-service",
+      "bar-council",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "mecee-bl",
+      "provincial-psc"
+    ],
+    "topic": "Law",
+    "subtopic": "Law",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NPA?",
+    "question_ne": "NPA को पूरा रूप के हो?",
+    "options": [
+      "Nepal Police Authority",
+      "Nepal Police Academy",
+      "National Police Academy",
+      "National Police Association"
+    ],
+    "options_ne": [
+      "नेपाल प्रहरी प्राधिकरण",
+      "नेपाल प्रहरी प्रतिष्ठान",
+      "राष्ट्रिय प्रहरी प्रतिष्ठान",
+      "राष्ट्रिय प्रहरी सङ्घ"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Nepal Police Academy.",
+    "explanation_ne": "उत्तर नेपाल प्रहरी प्रतिष्ठान हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0170",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the standard size of an A4 sheet?",
+    "question_ne": "A4 सिटको मानक आकार के हो?",
+    "options": [
+      "210 x 297 mm",
+      "210 x 297 cm",
+      "148 x 210 mm",
+      "297 x 420 mm"
+    ],
+    "options_ne": [
+      "२१० x २९७ मिमी",
+      "२१० x २९७ सेमी",
+      "१४८ x २१० मिमी",
+      "२९७ x ४२० मिमी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 210 x 297 mm.",
+    "explanation_ne": "उत्तर २१० x २९७ मिमी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0171",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the standard size of an A3 sheet?",
+    "question_ne": "A3 सिटको मानक आकार के हो?",
+    "options": [
+      "148 x 210 mm",
+      "420 x 594 mm",
+      "297 x 420 mm",
+      "210 x 297 mm"
+    ],
+    "options_ne": [
+      "१४८ x २१० मिमी",
+      "४२० x ५९४ मिमी",
+      "२९७ x ४२० मिमी",
+      "२१० x २९७ मिमी"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 297 x 420 mm.",
+    "explanation_ne": "उत्तर २९७ x ४२० मिमी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0172",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the standard size of an A0 sheet?",
+    "question_ne": "A0 सिटको मानक आकार के हो?",
+    "options": [
+      "841 x 1189 mm",
+      "1189 x 1682 mm",
+      "594 x 841 mm",
+      "420 x 594 mm"
+    ],
+    "options_ne": [
+      "८४१ x ११८९ मिमी",
+      "११८९ x १६८२ मिमी",
+      "५९४ x ८४१ मिमी",
+      "४२० x ५९४ मिमी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 841 x 1189 mm.",
+    "explanation_ne": "उत्तर ८४१ x ११८९ मिमी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0173",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the area of an A0 sheet?",
+    "question_ne": "A0 सिटको क्षेत्रफल कति हुन्छ?",
+    "options": [
+      "2 square metres",
+      "1 square metre",
+      "4 square metres",
+      "0.5 square metre"
+    ],
+    "options_ne": [
+      "२ वर्ग मिटर",
+      "१ वर्ग मिटर",
+      "४ वर्ग मिटर",
+      "०.५ वर्ग मिटर"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 1 square metre.",
+    "explanation_ne": "उत्तर १ वर्ग मिटर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0175",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which line is used to show hidden edges?",
+    "question_ne": "लुकेका किनारा देखाउन कुन रेखा प्रयोग गरिन्छ?",
+    "options": [
+      "Thick continuous line",
+      "Dashed line",
+      "Centre line",
+      "Thin continuous line"
+    ],
+    "options_ne": [
+      "बाक्लो निरन्तर रेखा",
+      "ड्यास रेखा",
+      "केन्द्र रेखा",
+      "पातलो निरन्तर रेखा"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Dashed line.",
+    "explanation_ne": "उत्तर ड्यास रेखा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0176",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which line is used as a centre line?",
+    "question_ne": "केन्द्र रेखाका रूपमा कुन रेखा प्रयोग गरिन्छ?",
+    "options": [
+      "Long-dash short-dash (chain thin) line",
+      "Thick continuous line",
+      "Thin continuous line",
+      "Dashed line"
+    ],
+    "options_ne": [
+      "लामो-ड्यास छोटो-ड्यास (चेन पातलो) रेखा",
+      "बाक्लो निरन्तर रेखा",
+      "पातलो निरन्तर रेखा",
+      "ड्यास रेखा"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Long-dash short-dash (chain thin) line.",
+    "explanation_ne": "उत्तर लामो-ड्यास छोटो-ड्यास (चेन पातलो) रेखा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0177",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the ratio of length to width of A-series paper?",
+    "question_ne": "A-शृङ्खलाको कागजको लम्बाइ र चौडाइको अनुपात कति हुन्छ?",
+    "options": [
+      "1 : 1.618",
+      "1 : 1.5",
+      "1 : 1.414",
+      "1 : 2"
+    ],
+    "options_ne": [
+      "१ : १.६१८",
+      "१ : १.५",
+      "१ : १.४१४",
+      "१ : २"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 1 : 1.414.",
+    "explanation_ne": "उत्तर १ : १.४१४ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0178",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which projection is most commonly used in Nepal and India?",
+    "question_ne": "नेपाल र भारतमा सबैभन्दा बढी प्रयोग हुने प्रक्षेपण कुन हो?",
+    "options": [
+      "Fourth angle projection",
+      "Second angle projection",
+      "First angle projection",
+      "Third angle projection"
+    ],
+    "options_ne": [
+      "चौथो कोण प्रक्षेपण",
+      "दोस्रो कोण प्रक्षेपण",
+      "पहिलो कोण प्रक्षेपण",
+      "तेस्रो कोण प्रक्षेपण"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is First angle projection.",
+    "explanation_ne": "उत्तर पहिलो कोण प्रक्षेपण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0179",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which projection is most commonly used in the USA?",
+    "question_ne": "अमेरिकामा सबैभन्दा बढी प्रयोग हुने प्रक्षेपण कुन हो?",
+    "options": [
+      "Third angle projection",
+      "First angle projection",
+      "Second angle projection",
+      "Fourth angle projection"
+    ],
+    "options_ne": [
+      "तेस्रो कोण प्रक्षेपण",
+      "पहिलो कोण प्रक्षेपण",
+      "दोस्रो कोण प्रक्षेपण",
+      "चौथो कोण प्रक्षेपण"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Third angle projection.",
+    "explanation_ne": "उत्तर तेस्रो कोण प्रक्षेपण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0180",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many views are there in orthographic projection (main)?",
+    "question_ne": "अर्थोग्राफिक प्रक्षेपणमा मुख्य दृश्य कति हुन्छन्?",
+    "options": [
+      "2",
+      "6",
+      "4",
+      "3 (front, top, side)"
+    ],
+    "options_ne": [
+      "२",
+      "६",
+      "४",
+      "३ (अगाडि, माथि, छेउ)"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 3 (front, top, side).",
+    "explanation_ne": "उत्तर ३ (अगाडि, माथि, छेउ) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0181",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the angle of isometric axes to the horizontal?",
+    "question_ne": "आइसोमेट्रिक अक्षहरू तेर्सोसँग कति कोणमा हुन्छन्?",
+    "options": [
+      "30 degrees",
+      "60 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "options_ne": [
+      "३० डिग्री",
+      "६० डिग्री",
+      "४५ डिग्री",
+      "९० डिग्री"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 30 degrees.",
+    "explanation_ne": "उत्तर ३० डिग्री हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0182",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CAD?",
+    "question_ne": "CAD को पूरा रूप के हो?",
+    "options": [
+      "Computer Automated Design",
+      "Computer Assisted Design",
+      "Computer-Aided Design",
+      "Computer-Aided Drawing"
+    ],
+    "options_ne": [
+      "कम्प्युटर स्वचालित डिजाइन",
+      "कम्प्युटर सहयोगी डिजाइन",
+      "कम्प्युटर सहायता प्राप्त डिजाइन",
+      "कम्प्युटर सहायता प्राप्त ड्रइङ"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Computer-Aided Design.",
+    "explanation_ne": "उत्तर कम्प्युटर सहायता प्राप्त डिजाइन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0183",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CAM?",
+    "question_ne": "CAM को पूरा रूप के हो?",
+    "options": [
+      "Computer Assisted Management",
+      "Computer Automated Manufacturing",
+      "Computer-Aided Manufacturing",
+      "Computer-Aided Modelling"
+    ],
+    "options_ne": [
+      "कम्प्युटर सहयोगी व्यवस्थापन",
+      "कम्प्युटर स्वचालित निर्माण",
+      "कम्प्युटर सहायता प्राप्त निर्माण",
+      "कम्प्युटर सहायता प्राप्त मोडलिङ"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Computer-Aided Manufacturing.",
+    "explanation_ne": "उत्तर कम्प्युटर सहायता प्राप्त निर्माण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0185",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which instrument is used to measure angles?",
+    "question_ne": "कोण नाप्न कुन उपकरण प्रयोग गरिन्छ?",
+    "options": [
+      "Compass",
+      "Scale",
+      "Divider",
+      "Protractor"
+    ],
+    "options_ne": [
+      "कम्पास",
+      "स्केल",
+      "डिभाइडर",
+      "प्रोट्र्याक्टर"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Protractor.",
+    "explanation_ne": "उत्तर प्रोट्र्याक्टर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0186",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which instrument is used to draw horizontal lines?",
+    "question_ne": "तेर्सो रेखा कोर्न कुन उपकरण प्रयोग गरिन्छ?",
+    "options": [
+      "Set square",
+      "T-square",
+      "French curve",
+      "Compass"
+    ],
+    "options_ne": [
+      "सेट स्क्वायर",
+      "टी-स्क्वायर",
+      "फ्रेन्च कर्भ",
+      "कम्पास"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is T-square.",
+    "explanation_ne": "उत्तर टी-स्क्वायर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0188",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PCC?",
+    "question_ne": "PCC को पूरा रूप के हो?",
+    "options": [
+      "Precast Cement Concrete",
+      "Plain Concrete Cement",
+      "Plain Cement Concrete",
+      "Portland Cement Concrete"
+    ],
+    "options_ne": [
+      "पूर्वनिर्मित सिमेन्ट कङ्क्रिट",
+      "सादा कङ्क्रिट सिमेन्ट",
+      "सादा सिमेन्ट कङ्क्रिट",
+      "पोर्टल्यान्ड सिमेन्ट कङ्क्रिट"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Plain Cement Concrete.",
+    "explanation_ne": "उत्तर सादा सिमेन्ट कङ्क्रिट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0190",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the standard ratio for M20 concrete?",
+    "question_ne": "M20 कङ्क्रिटको मानक अनुपात के हो?",
+    "options": [
+      "1:3:6",
+      "1:2:4",
+      "1:4:8",
+      "1:1.5:3"
+    ],
+    "options_ne": [
+      "१:३:६",
+      "१:२:४",
+      "१:४:८",
+      "१:१.५:३"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 1:1.5:3.",
+    "explanation_ne": "उत्तर १:१.५:३ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0191",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of measurement of cement?",
+    "question_ne": "सिमेन्ट नाप्ने एकाइ के हो?",
+    "options": [
+      "Cubic metre",
+      "Litre",
+      "Bag (50 kg)",
+      "Tonne"
+    ],
+    "options_ne": [
+      "घन मिटर",
+      "लिटर",
+      "बोरा (५० केजी)",
+      "टन"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Bag (50 kg).",
+    "explanation_ne": "उत्तर बोरा (५० केजी) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0193",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NEC?",
+    "question_ne": "NEC को पूरा रूप के हो?",
+    "options": [
+      "Nepal Electrical Council",
+      "Nepal Engineering Council",
+      "Nepal Engineering College",
+      "National Engineering Council"
+    ],
+    "options_ne": [
+      "नेपाल विद्युतीय परिषद्",
+      "नेपाल इन्जिनियरिङ परिषद्",
+      "नेपाल इन्जिनियरिङ कलेज",
+      "राष्ट्रिय इन्जिनियरिङ परिषद्"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Nepal Engineering Council.",
+    "explanation_ne": "उत्तर नेपाल इन्जिनियरिङ परिषद् हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0194",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Nepal Engineering Council established?",
+    "question_ne": "नेपाल इन्जिनियरिङ परिषद् कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1999",
+      "1990",
+      "1995",
+      "2000"
+    ],
+    "options_ne": [
+      "सन् १९९९",
+      "सन् १९९०",
+      "सन् १९९५",
+      "सन् २०००"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 1999.",
+    "explanation_ne": "उत्तर सन् १९९९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0195",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of IOE?",
+    "question_ne": "IOE को पूरा रूप के हो?",
+    "options": [
+      "Institute of Electronics",
+      "Institution of Engineers",
+      "Institute of Education",
+      "Institute of Engineering"
+    ],
+    "options_ne": [
+      "इलेक्ट्रोनिक्स अध्ययन संस्थान",
+      "इन्जिनियर संस्था",
+      "शिक्षा अध्ययन संस्थान",
+      "इन्जिनियरिङ अध्ययन संस्थान"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Institute of Engineering.",
+    "explanation_ne": "उत्तर इन्जिनियरिङ अध्ययन संस्थान हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0196",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Where is the Institute of Engineering (IOE) located?",
+    "question_ne": "इन्जिनियरिङ अध्ययन संस्थान (IOE) कहाँ छ?",
+    "options": [
+      "Pulchowk, Lalitpur",
+      "Pokhara, Kaski",
+      "Dharan, Sunsari",
+      "Kirtipur, Kathmandu"
+    ],
+    "options_ne": [
+      "पुल्चोक, ललितपुर",
+      "पोखरा, कास्की",
+      "धरान, सुनसरी",
+      "कीर्तिपुर, काठमाडौँ"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Pulchowk, Lalitpur.",
+    "explanation_ne": "उत्तर पुल्चोक, ललितपुर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0197",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of BE?",
+    "question_ne": "BE को पूरा रूप के हो?",
+    "options": [
+      "Bachelor of Education",
+      "Bachelor of Engineering",
+      "Bachelor of Electronics",
+      "Bachelor of Economics"
+    ],
+    "options_ne": [
+      "शिक्षा स्नातक",
+      "इन्जिनियरिङ स्नातक",
+      "इलेक्ट्रोनिक्स स्नातक",
+      "अर्थशास्त्र स्नातक"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Bachelor of Engineering.",
+    "explanation_ne": "उत्तर इन्जिनियरिङ स्नातक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0199",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the SI unit of pressure?",
+    "question_ne": "चापको SI एकाइ के हो?",
+    "options": [
+      "Atmosphere",
+      "Pascal",
+      "Bar",
+      "Newton"
+    ],
+    "options_ne": [
+      "वायुमण्डल",
+      "पास्कल",
+      "बार",
+      "न्युटन"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Pascal.",
+    "explanation_ne": "उत्तर पास्कल हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0205",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the voltage of domestic electricity in Nepal?",
+    "question_ne": "नेपालमा घरायसी विद्युत्को भोल्टेज कति हुन्छ?",
+    "options": [
+      "110 V",
+      "230 V",
+      "440 V",
+      "220 V"
+    ],
+    "options_ne": [
+      "११० भोल्ट",
+      "२३० भोल्ट",
+      "४४० भोल्ट",
+      "२२० भोल्ट"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 230 V.",
+    "explanation_ne": "उत्तर २३० भोल्ट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0206",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of AC?",
+    "question_ne": "AC को पूरा रूप के हो?",
+    "options": [
+      "Alternate Circuit",
+      "Alternating Current",
+      "Active Current",
+      "Automatic Current"
+    ],
+    "options_ne": [
+      "वैकल्पिक सर्किट",
+      "प्रत्यावर्ती धारा",
+      "सक्रिय धारा",
+      "स्वचालित धारा"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Alternating Current.",
+    "explanation_ne": "उत्तर प्रत्यावर्ती धारा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0207",
+    "exam": [
+      "sub-engineer",
+      "engineering",
+      "nec-licence",
+      "ioe-entrance",
+      "nea",
+      "csit-entrance"
+    ],
+    "topic": "Engineering Drawing",
+    "subtopic": "Engineering Drawing",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of DC?",
+    "question_ne": "DC को पूरा रूप के हो?",
+    "options": [
+      "Direct Circuit",
+      "Digital Current",
+      "Dynamic Current",
+      "Direct Current"
+    ],
+    "options_ne": [
+      "प्रत्यक्ष सर्किट",
+      "डिजिटल धारा",
+      "गतिशील धारा",
+      "प्रत्यक्ष धारा"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Direct Current.",
+    "explanation_ne": "उत्तर प्रत्यक्ष धारा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0212",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year did Nepal first send troops to a UN peacekeeping mission?",
+    "question_ne": "नेपालले संयुक्त राष्ट्र शान्ति मिसनमा पहिलोपटक सेना कुन वर्ष पठायो?",
+    "options": [
+      "1955",
+      "1970",
+      "1960",
+      "1978"
+    ],
+    "options_ne": [
+      "सन् १९५५",
+      "सन् १९७०",
+      "सन् १९६०",
+      "सन् १९७८"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 1978.",
+    "explanation_ne": "उत्तर सन् १९७८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0217",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year did Afghanistan join SAARC?",
+    "question_ne": "अफगानिस्तान सार्कमा कुन वर्ष सामेल भयो?",
+    "options": [
+      "2010",
+      "2007",
+      "1985",
+      "2005"
+    ],
+    "options_ne": [
+      "सन् २०१०",
+      "सन् २००७",
+      "सन् १९८५",
+      "सन् २००५"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 2007.",
+    "explanation_ne": "उत्तर सन् २००७ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0226",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the WTO established?",
+    "question_ne": "विश्व व्यापार सङ्गठन (WTO) कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1990",
+      "2000",
+      "1947",
+      "1995"
+    ],
+    "options_ne": [
+      "सन् १९९०",
+      "सन् २०००",
+      "सन् १९४७",
+      "सन् १९९५"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 1995.",
+    "explanation_ne": "उत्तर सन् १९९५ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0232",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the term of a judge of the International Court of Justice?",
+    "question_ne": "अन्तर्राष्ट्रिय न्यायालयका न्यायाधीशको कार्यकाल कति हुन्छ?",
+    "options": [
+      "9 years",
+      "6 years",
+      "10 years",
+      "5 years"
+    ],
+    "options_ne": [
+      "९ वर्ष",
+      "६ वर्ष",
+      "१० वर्ष",
+      "५ वर्ष"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 9 years.",
+    "explanation_ne": "उत्तर ९ वर्ष हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0233",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Where is the headquarters of the International Criminal Court?",
+    "question_ne": "अन्तर्राष्ट्रिय फौजदारी अदालतको मुख्यालय कहाँ छ?",
+    "options": [
+      "Brussels, Belgium",
+      "Geneva, Switzerland",
+      "New York, USA",
+      "The Hague, Netherlands"
+    ],
+    "options_ne": [
+      "ब्रसेल्स, बेल्जियम",
+      "जेनेभा, स्विट्जरल्यान्ड",
+      "न्युयोर्क, अमेरिका",
+      "द हेग, नेदरल्यान्ड्स"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is The Hague, Netherlands.",
+    "explanation_ne": "उत्तर द हेग, नेदरल्यान्ड्स हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0234",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the International Criminal Court established?",
+    "question_ne": "अन्तर्राष्ट्रिय फौजदारी अदालत कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1995",
+      "2002",
+      "2000",
+      "1998"
+    ],
+    "options_ne": [
+      "सन् १९९५",
+      "सन् २००२",
+      "सन् २०००",
+      "सन् १९९८"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 2002.",
+    "explanation_ne": "उत्तर सन् २००२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0240",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "How many member states does ASEAN have?",
+    "question_ne": "आसियानमा कति सदस्य राष्ट्र छन्?",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "11"
+    ],
+    "options_ne": [
+      "१०",
+      "९",
+      "८",
+      "११"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 10.",
+    "explanation_ne": "उत्तर १० हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0248",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Where is the headquarters of the FAO?",
+    "question_ne": "खाद्य तथा कृषि सङ्गठन (FAO) को मुख्यालय कहाँ छ?",
+    "options": [
+      "Geneva, Switzerland",
+      "Paris, France",
+      "Rome, Italy",
+      "New York, USA"
+    ],
+    "options_ne": [
+      "जेनेभा, स्विट्जरल्यान्ड",
+      "पेरिस, फ्रान्स",
+      "रोम, इटाली",
+      "न्युयोर्क, अमेरिका"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Rome, Italy.",
+    "explanation_ne": "उत्तर रोम, इटाली हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0251",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was OPEC founded?",
+    "question_ne": "ओपेक कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1965",
+      "1950",
+      "1970",
+      "1960"
+    ],
+    "options_ne": [
+      "सन् १९६५",
+      "सन् १९५०",
+      "सन् १९७०",
+      "सन् १९६०"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 1960.",
+    "explanation_ne": "उत्तर सन् १९६० हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0255",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NAM?",
+    "question_ne": "NAM को पूरा रूप के हो?",
+    "options": [
+      "Non-Alliance Movement",
+      "Non-Aligned Mission",
+      "National Alliance Movement",
+      "Non-Aligned Movement"
+    ],
+    "options_ne": [
+      "असंलग्नता आन्दोलन",
+      "असंलग्न अभियान",
+      "राष्ट्रिय गठबन्धन आन्दोलन",
+      "असंलग्न आन्दोलन"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Non-Aligned Movement.",
+    "explanation_ne": "उत्तर असंलग्न आन्दोलन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0257",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Where was the first NAM summit held?",
+    "question_ne": "पहिलो असंलग्न आन्दोलन शिखर सम्मेलन कहाँ भयो?",
+    "options": [
+      "Belgrade, Yugoslavia",
+      "Bandung, Indonesia",
+      "Cairo, Egypt",
+      "New Delhi, India"
+    ],
+    "options_ne": [
+      "बेलग्रेड, युगोस्लाभिया",
+      "बान्डुङ, इन्डोनेसिया",
+      "कायरो, इजिप्ट",
+      "नयाँ दिल्ली, भारत"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Belgrade, Yugoslavia.",
+    "explanation_ne": "उत्तर बेलग्रेड, युगोस्लाभिया हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0258",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of G20?",
+    "question_ne": "G20 को पूरा रूप के हो?",
+    "options": [
+      "Group of Twenty Economies",
+      "Global Twenty",
+      "Group of Twenty Nations",
+      "Group of Twenty"
+    ],
+    "options_ne": [
+      "बीस अर्थतन्त्रको समूह",
+      "विश्व बीस",
+      "बीस राष्ट्रको समूह",
+      "बीसको समूह"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Group of Twenty.",
+    "explanation_ne": "उत्तर बीसको समूह हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0260",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of BRICS?",
+    "question_ne": "BRICS को पूरा रूप के हो?",
+    "options": [
+      "Britain, Russia, India, China and South Africa",
+      "Brazil, Russia, India, Canada and South Africa",
+      "Brazil, Russia, India, China and South Africa",
+      "Brazil, Romania, India, China and South Africa"
+    ],
+    "options_ne": [
+      "बेलायत, रुस, भारत, चीन र दक्षिण अफ्रिका",
+      "ब्राजिल, रुस, भारत, क्यानडा र दक्षिण अफ्रिका",
+      "ब्राजिल, रुस, भारत, चीन र दक्षिण अफ्रिका",
+      "ब्राजिल, रोमानिया, भारत, चीन र दक्षिण अफ्रिका"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Brazil, Russia, India, China and South Africa.",
+    "explanation_ne": "उत्तर ब्राजिल, रुस, भारत, चीन र दक्षिण अफ्रिका हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0261",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was BRICS established?",
+    "question_ne": "ब्रिक्स कुन वर्ष स्थापना भयो?",
+    "options": [
+      "2015",
+      "2010",
+      "2006",
+      "2009"
+    ],
+    "options_ne": [
+      "सन् २०१५",
+      "सन् २०१०",
+      "सन् २००६",
+      "सन् २००९"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 2009.",
+    "explanation_ne": "उत्तर सन् २००९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0263",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SCO?",
+    "question_ne": "SCO को पूरा रूप के हो?",
+    "options": [
+      "Southeast Cooperation Organisation",
+      "South Cooperation Organisation",
+      "Shanghai Cooperation Organisation",
+      "Shanghai Council Organisation"
+    ],
+    "options_ne": [
+      "दक्षिणपूर्व सहयोग सङ्गठन",
+      "दक्षिण सहयोग सङ्गठन",
+      "साङ्घाई सहयोग सङ्गठन",
+      "साङ्घाई परिषद् सङ्गठन"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Shanghai Cooperation Organisation.",
+    "explanation_ne": "उत्तर साङ्घाई सहयोग सङ्गठन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0264",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Shanghai Cooperation Organisation established?",
+    "question_ne": "साङ्घाई सहयोग सङ्गठन कुन वर्ष स्थापना भयो?",
+    "options": [
+      "2005",
+      "2010",
+      "1996",
+      "2001"
+    ],
+    "options_ne": [
+      "सन् २००५",
+      "सन् २०१०",
+      "सन् १९९६",
+      "सन् २००१"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 2001.",
+    "explanation_ne": "उत्तर सन् २००१ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0265",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Where is the headquarters of the Shanghai Cooperation Organisation?",
+    "question_ne": "साङ्घाई सहयोग सङ्गठनको मुख्यालय कहाँ छ?",
+    "options": [
+      "Moscow, Russia",
+      "Shanghai, China",
+      "Beijing, China",
+      "Tashkent, Uzbekistan"
+    ],
+    "options_ne": [
+      "मस्को, रुस",
+      "साङ्घाई, चीन",
+      "बेइजिङ, चीन",
+      "ताशकन्द, उज्बेकिस्तान"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Beijing, China.",
+    "explanation_ne": "उत्तर बेइजिङ, चीन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0266",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of APEC?",
+    "question_ne": "APEC को पूरा रूप के हो?",
+    "options": [
+      "Asian Pacific Economic Cooperation",
+      "Asia-Pacific Economic Council",
+      "Asia-Pacific Economic Cooperation",
+      "Asia-Pacific Economic Community"
+    ],
+    "options_ne": [
+      "एसियाली प्रशान्त आर्थिक सहयोग",
+      "एसिया-प्रशान्त आर्थिक परिषद्",
+      "एसिया-प्रशान्त आर्थिक सहयोग",
+      "एसिया-प्रशान्त आर्थिक समुदाय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Asia-Pacific Economic Cooperation.",
+    "explanation_ne": "उत्तर एसिया-प्रशान्त आर्थिक सहयोग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0267",
+    "exam": [
+      "foreign-service",
+      "section-officer",
+      "deputy-secretary",
+      "kharidar",
+      "nasu",
+      "psc-service-groups"
+    ],
+    "topic": "Foreign Service & Diplomacy",
+    "subtopic": "Foreign Service & Diplomacy",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was APEC established?",
+    "question_ne": "एपेक कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1985",
+      "1989",
+      "1995",
+      "1990"
+    ],
+    "options_ne": [
+      "सन् १९८५",
+      "सन् १९८९",
+      "सन् १९९५",
+      "सन् १९९०"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 1989.",
+    "explanation_ne": "उत्तर सन् १९८९ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0268",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PCI?",
+    "question_ne": "PCI को पूरा रूप के हो?",
+    "options": [
+      "Per Capita Income",
+      "Per Capita Index",
+      "Public Capital Income",
+      "Per Capita Investment"
+    ],
+    "options_ne": [
+      "प्रतिव्यक्ति आय",
+      "प्रतिव्यक्ति सूचकाङ्क",
+      "सार्वजनिक पुँजी आय",
+      "प्रतिव्यक्ति लगानी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Per Capita Income.",
+    "explanation_ne": "उत्तर प्रतिव्यक्ति आय हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0269",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of HDI?",
+    "question_ne": "HDI को पूरा रूप के हो?",
+    "options": [
+      "Human Development Index",
+      "Human Development Indicator",
+      "Health Development Index",
+      "Human Development Income"
+    ],
+    "options_ne": [
+      "मानव विकास सूचकाङ्क",
+      "मानव विकास सूचक",
+      "स्वास्थ्य विकास सूचकाङ्क",
+      "मानव विकास आय"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Human Development Index.",
+    "explanation_ne": "उत्तर मानव विकास सूचकाङ्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0271",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of UNDP?",
+    "question_ne": "UNDP को पूरा रूप के हो?",
+    "options": [
+      "United Nations Development Policy",
+      "United Nations Development Project",
+      "United Nations Development Programme",
+      "United Nations Development Plan"
+    ],
+    "options_ne": [
+      "संयुक्त राष्ट्र विकास नीति",
+      "संयुक्त राष्ट्र विकास आयोजना",
+      "संयुक्त राष्ट्र विकास कार्यक्रम",
+      "संयुक्त राष्ट्र विकास योजना"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is United Nations Development Programme.",
+    "explanation_ne": "उत्तर संयुक्त राष्ट्र विकास कार्यक्रम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0275",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PAN?",
+    "question_ne": "PAN को पूरा रूप के हो?",
+    "options": [
+      "Personal Account Number",
+      "Permanent Account Number",
+      "Public Account Number",
+      "Permanent Assessment Number"
+    ],
+    "options_ne": [
+      "व्यक्तिगत लेखा नम्बर",
+      "स्थायी लेखा नम्बर",
+      "सार्वजनिक लेखा नम्बर",
+      "स्थायी मूल्याङ्कन नम्बर"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Permanent Account Number.",
+    "explanation_ne": "उत्तर स्थायी लेखा नम्बर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0276",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of TDS?",
+    "question_ne": "TDS को पूरा रूप के हो?",
+    "options": [
+      "Tax Deposit at Source",
+      "Tax Deducted at Source",
+      "Tax Deduction at Source",
+      "Total Deduction at Source"
+    ],
+    "options_ne": [
+      "स्रोतमै कर जम्मा",
+      "स्रोतमै कर कट्टी",
+      "स्रोतमै कर कटौती",
+      "स्रोतमै कुल कटौती"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Tax Deducted at Source.",
+    "explanation_ne": "उत्तर स्रोतमै कर कट्टी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0279",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of repo rate?",
+    "question_ne": "रेपो दरको पूरा रूप के हो?",
+    "options": [
+      "Repo rate",
+      "Retail purchase rate",
+      "Repurchase rate",
+      "Reserve purchase rate"
+    ],
+    "options_ne": [
+      "रेपो दर",
+      "खुद्रा खरिद दर",
+      "पुनर्खरिद दर",
+      "मौज्दात खरिद दर"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Repurchase rate.",
+    "explanation_ne": "उत्तर पुनर्खरिद दर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0280",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which institution sets monetary policy in Nepal?",
+    "question_ne": "नेपालमा मौद्रिक नीति कुन संस्थाले निर्धारण गर्छ?",
+    "options": [
+      "National Planning Commission",
+      "Securities Board of Nepal",
+      "Ministry of Finance",
+      "Nepal Rastra Bank"
+    ],
+    "options_ne": [
+      "राष्ट्रिय योजना आयोग",
+      "नेपाल धितोपत्र बोर्ड",
+      "अर्थ मन्त्रालय",
+      "नेपाल राष्ट्र बैंक"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Nepal Rastra Bank.",
+    "explanation_ne": "उत्तर नेपाल राष्ट्र बैंक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0289",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of RBB?",
+    "question_ne": "RBB को पूरा रूप के हो?",
+    "options": [
+      "Rastriya Banking Board",
+      "Rastriya Banijya Board",
+      "Rastriya Banijya Bank",
+      "Rastriya Bank of Nepal"
+    ],
+    "options_ne": [
+      "राष्ट्रिय बैङ्किङ बोर्ड",
+      "राष्ट्रिय वाणिज्य बोर्ड",
+      "राष्ट्रिय वाणिज्य बैंक",
+      "राष्ट्रिय बैंक नेपाल"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Rastriya Banijya Bank.",
+    "explanation_ne": "उत्तर राष्ट्रिय वाणिज्य बैंक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0291",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NBL?",
+    "question_ne": "NBL को पूरा रूप के हो?",
+    "options": [
+      "Nepal Bank Limited",
+      "Nepal Banking Limited",
+      "Nepal Banijya Limited",
+      "National Bank Limited"
+    ],
+    "options_ne": [
+      "नेपाल बैंक लिमिटेड",
+      "नेपाल बैङ्किङ लिमिटेड",
+      "नेपाल वाणिज्य लिमिटेड",
+      "राष्ट्रिय बैंक लिमिटेड"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Nepal Bank Limited.",
+    "explanation_ne": "उत्तर नेपाल बैंक लिमिटेड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0296",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of ADB in the context of Nepal banking?",
+    "question_ne": "नेपाल बैङ्किङका सन्दर्भमा ADB को पूरा रूप के हो?",
+    "options": [
+      "Agricultural Development Board",
+      "Asian Development Bank",
+      "Asian Development Board",
+      "Agricultural Development Bank"
+    ],
+    "options_ne": [
+      "कृषि विकास बोर्ड",
+      "एसियाली विकास बैंक",
+      "एसियाली विकास बोर्ड",
+      "कृषि विकास बैंक"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Agricultural Development Bank.",
+    "explanation_ne": "उत्तर कृषि विकास बैंक हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0297",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Agricultural Development Bank established?",
+    "question_ne": "कृषि विकास बैंक कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1960",
+      "1968",
+      "1975",
+      "1970"
+    ],
+    "options_ne": [
+      "सन् १९६०",
+      "सन् १९६८",
+      "सन् १९७५",
+      "सन् १९७०"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 1968.",
+    "explanation_ne": "उत्तर सन् १९६८ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0298",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NIBL?",
+    "question_ne": "NIBL को पूरा रूप के हो?",
+    "options": [
+      "Nepal International Bank Limited",
+      "National Investment Bank Limited",
+      "Nepal Investment Bank Limited",
+      "Nepal Industrial Bank Limited"
+    ],
+    "options_ne": [
+      "नेपाल अन्तर्राष्ट्रिय बैंक लिमिटेड",
+      "राष्ट्रिय लगानी बैंक लिमिटेड",
+      "नेपाल इन्भेस्टमेन्ट बैंक लिमिटेड",
+      "नेपाल औद्योगिक बैंक लिमिटेड"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Nepal Investment Bank Limited.",
+    "explanation_ne": "उत्तर नेपाल इन्भेस्टमेन्ट बैंक लिमिटेड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0299",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of EPF?",
+    "question_ne": "EPF को पूरा रूप के हो?",
+    "options": [
+      "Employment Provident Fund",
+      "Employees Provident Fund",
+      "Employees Pension Fund",
+      "Employees Provident Finance"
+    ],
+    "options_ne": [
+      "रोजगार सञ्चय कोष",
+      "कर्मचारी सञ्चय कोष",
+      "कर्मचारी पेन्सन कोष",
+      "कर्मचारी सञ्चय वित्त"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Employees Provident Fund.",
+    "explanation_ne": "उत्तर कर्मचारी सञ्चय कोष हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0300",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Employees Provident Fund established?",
+    "question_ne": "कर्मचारी सञ्चय कोष कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1960",
+      "1956",
+      "1962",
+      "1970"
+    ],
+    "options_ne": [
+      "सन् १९६०",
+      "सन् १९५६",
+      "सन् १९६२",
+      "सन् १९७०"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 1962.",
+    "explanation_ne": "उत्तर सन् १९६२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0301",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CIT?",
+    "question_ne": "CIT को पूरा रूप के हो?",
+    "options": [
+      "Citizen Investment Treasury",
+      "Citizen Investment Trust",
+      "Central Investment Trust",
+      "Citizen Income Tax"
+    ],
+    "options_ne": [
+      "नागरिक लगानी कोषागार",
+      "नागरिक लगानी कोष",
+      "केन्द्रीय लगानी कोष",
+      "नागरिक आयकर"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Citizen Investment Trust.",
+    "explanation_ne": "उत्तर नागरिक लगानी कोष हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0302",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Citizen Investment Trust established?",
+    "question_ne": "नागरिक लगानी कोष कुन वर्ष स्थापना भयो?",
+    "options": [
+      "1990",
+      "1995",
+      "1991",
+      "1985"
+    ],
+    "options_ne": [
+      "सन् १९९०",
+      "सन् १९९५",
+      "सन् १९९१",
+      "सन् १९८५"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 1991.",
+    "explanation_ne": "उत्तर सन् १९९१ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0303",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SSF?",
+    "question_ne": "SSF को पूरा रूप के हो?",
+    "options": [
+      "Social Security Finance",
+      "State Security Fund",
+      "Social Service Fund",
+      "Social Security Fund"
+    ],
+    "options_ne": [
+      "सामाजिक सुरक्षा वित्त",
+      "राज्य सुरक्षा कोष",
+      "सामाजिक सेवा कोष",
+      "सामाजिक सुरक्षा कोष"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Social Security Fund.",
+    "explanation_ne": "उत्तर सामाजिक सुरक्षा कोष हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0304",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was the Social Security Fund established?",
+    "question_ne": "सामाजिक सुरक्षा कोष कुन वर्ष स्थापना भयो?",
+    "options": [
+      "2010",
+      "2008",
+      "2011",
+      "2015"
+    ],
+    "options_ne": [
+      "सन् २०१०",
+      "सन् २००८",
+      "सन् २०११",
+      "सन् २०१५"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 2011.",
+    "explanation_ne": "उत्तर सन् २०११ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0305",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of NEA in the context of trade?",
+    "question_ne": "व्यापारका सन्दर्भमा NEA को पूरा रूप के हो?",
+    "options": [
+      "Nepal Electricity Authority",
+      "Nepal Export Agency",
+      "Nepal Employment Agency",
+      "Nepal Economic Association"
+    ],
+    "options_ne": [
+      "नेपाल विद्युत् प्राधिकरण",
+      "नेपाल निर्यात निकाय",
+      "नेपाल रोजगार निकाय",
+      "नेपाल आर्थिक सङ्घ"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Nepal Electricity Authority.",
+    "explanation_ne": "उत्तर नेपाल विद्युत् प्राधिकरण हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0306",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the largest export of Nepal?",
+    "question_ne": "नेपालको सबैभन्दा ठूलो निर्यात के हो?",
+    "options": [
+      "Tea",
+      "Carpets and textiles",
+      "Pashmina",
+      "Cardamom"
+    ],
+    "options_ne": [
+      "चिया",
+      "गलैँचा र कपडा",
+      "पस्मिना",
+      "अलैँची"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Carpets and textiles.",
+    "explanation_ne": "उत्तर गलैँचा र कपडा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0309",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year did SAFTA come into force?",
+    "question_ne": "साफ्टा कुन वर्ष लागू भयो?",
+    "options": [
+      "2010",
+      "2006",
+      "2004",
+      "2005"
+    ],
+    "options_ne": [
+      "सन् २०१०",
+      "सन् २००६",
+      "सन् २००४",
+      "सन् २००५"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is 2006.",
+    "explanation_ne": "उत्तर सन् २००६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0310",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of LDC?",
+    "question_ne": "LDC को पूरा रूप के हो?",
+    "options": [
+      "Least Developed Country",
+      "Low Developed Country",
+      "Least Development Country",
+      "Less Developed Country"
+    ],
+    "options_ne": [
+      "अल्पविकसित देश",
+      "न्यून विकसित देश",
+      "अल्पविकास देश",
+      "कम विकसित देश"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Least Developed Country.",
+    "explanation_ne": "उत्तर अल्पविकसित देश हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0313",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PPP?",
+    "question_ne": "PPP को पूरा रूप के हो?",
+    "options": [
+      "Public-Private Partnership",
+      "Public Project Partnership",
+      "Purchasing Power Parity",
+      "Public Private Participation"
+    ],
+    "options_ne": [
+      "सार्वजनिक-निजी साझेदारी",
+      "सार्वजनिक आयोजना साझेदारी",
+      "क्रयशक्ति समता",
+      "सार्वजनिक निजी सहभागिता"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Public-Private Partnership.",
+    "explanation_ne": "उत्तर सार्वजनिक-निजी साझेदारी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0314",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What does purchasing power parity (PPP) measure?",
+    "question_ne": "क्रयशक्ति समता (PPP) ले के मापन गर्छ?",
+    "options": [
+      "Relative value of currencies based on the cost of a basket of goods",
+      "Total value of exports",
+      "Rate of inflation",
+      "Unemployment rate"
+    ],
+    "options_ne": [
+      "वस्तुहरूको टोकरीको लागतमा आधारित मुद्राहरूको सापेक्ष मूल्य",
+      "निर्यातको कुल मूल्य",
+      "मुद्रास्फीतिको दर",
+      "बेरोजगारी दर"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Relative value of currencies based on the cost of a basket of goods.",
+    "explanation_ne": "उत्तर वस्तुहरूको टोकरीको लागतमा आधारित मुद्राहरूको सापेक्ष मूल्य हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0315",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who wrote \"The Wealth of Nations\"?",
+    "question_ne": "\"द वेल्थ अफ नेसन्स\" कसले लेखे?",
+    "options": [
+      "Karl Marx",
+      "Adam Smith",
+      "David Ricardo",
+      "John Maynard Keynes"
+    ],
+    "options_ne": [
+      "कार्ल मार्क्स",
+      "एडम स्मिथ",
+      "डेभिड रिकार्डो",
+      "जोन मेनार्ड केन्स"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Adam Smith.",
+    "explanation_ne": "उत्तर एडम स्मिथ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0316",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which year was \"The Wealth of Nations\" published?",
+    "question_ne": "\"द वेल्थ अफ नेसन्स\" कुन वर्ष प्रकाशित भयो?",
+    "options": [
+      "1770",
+      "1790",
+      "1776",
+      "1780"
+    ],
+    "options_ne": [
+      "सन् १७७०",
+      "सन् १७९०",
+      "सन् १७७६",
+      "सन् १७८०"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is 1776.",
+    "explanation_ne": "उत्तर सन् १७७६ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0317",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who wrote \"Das Kapital\"?",
+    "question_ne": "\"दास कापिटल\" कसले लेखे?",
+    "options": [
+      "Karl Marx",
+      "Friedrich Engels",
+      "John Maynard Keynes",
+      "Adam Smith"
+    ],
+    "options_ne": [
+      "कार्ल मार्क्स",
+      "फ्रेडरिक एङ्गेल्स",
+      "जोन मेनार्ड केन्स",
+      "एडम स्मिथ"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Karl Marx.",
+    "explanation_ne": "उत्तर कार्ल मार्क्स हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0318",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who wrote \"The General Theory of Employment, Interest and Money\"?",
+    "question_ne": "\"द जनरल थ्योरी अफ एम्प्लोइमेन्ट, इन्ट्रेस्ट एन्ड मनी\" कसले लेखे?",
+    "options": [
+      "John Maynard Keynes",
+      "Karl Marx",
+      "Milton Friedman",
+      "Adam Smith"
+    ],
+    "options_ne": [
+      "जोन मेनार्ड केन्स",
+      "कार्ल मार्क्स",
+      "मिल्टन फ्रिडम्यान",
+      "एडम स्मिथ"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is John Maynard Keynes.",
+    "explanation_ne": "उत्तर जोन मेनार्ड केन्स हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0319",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who is known as the father of modern economics?",
+    "question_ne": "आधुनिक अर्थशास्त्रका पिता भनेर कसलाई चिनिन्छ?",
+    "options": [
+      "Karl Marx",
+      "Adam Smith",
+      "John Maynard Keynes",
+      "David Ricardo"
+    ],
+    "options_ne": [
+      "कार्ल मार्क्स",
+      "एडम स्मिथ",
+      "जोन मेनार्ड केन्स",
+      "डेभिड रिकार्डो"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Adam Smith.",
+    "explanation_ne": "उत्तर एडम स्मिथ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0323",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CPI?",
+    "question_ne": "CPI को पूरा रूप के हो?",
+    "options": [
+      "Consumer Price Index",
+      "Cost Price Index",
+      "Central Price Index",
+      "Consumer Product Index"
+    ],
+    "options_ne": [
+      "उपभोक्ता मूल्य सूचकाङ्क",
+      "लागत मूल्य सूचकाङ्क",
+      "केन्द्रीय मूल्य सूचकाङ्क",
+      "उपभोक्ता उत्पादन सूचकाङ्क"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Consumer Price Index.",
+    "explanation_ne": "उत्तर उपभोक्ता मूल्य सूचकाङ्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0324",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of WPI?",
+    "question_ne": "WPI को पूरा रूप के हो?",
+    "options": [
+      "Wholesale Product Index",
+      "Wholesale Price Index",
+      "Wholesale Purchase Index",
+      "World Price Index"
+    ],
+    "options_ne": [
+      "थोक उत्पादन सूचकाङ्क",
+      "थोक मूल्य सूचकाङ्क",
+      "थोक खरिद सूचकाङ्क",
+      "विश्व मूल्य सूचकाङ्क"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Wholesale Price Index.",
+    "explanation_ne": "उत्तर थोक मूल्य सूचकाङ्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0325",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is a fiscal year in Nepal?",
+    "question_ne": "नेपालमा आर्थिक वर्ष कुन हो?",
+    "options": [
+      "July to June",
+      "April to March",
+      "January to December",
+      "Mid-July to mid-July (Shrawan to Ashadh)"
+    ],
+    "options_ne": [
+      "जुलाईदेखि जुन",
+      "अप्रिलदेखि मार्च",
+      "जनवरीदेखि डिसेम्बर",
+      "मध्य जुलाईदेखि मध्य जुलाई (श्रावणदेखि आषाढ)"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Mid-July to mid-July (Shrawan to Ashadh).",
+    "explanation_ne": "उत्तर मध्य जुलाईदेखि मध्य जुलाई (श्रावणदेखि आषाढ) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0327",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the first five-year plan of Nepal?",
+    "question_ne": "नेपालको पहिलो पञ्चवर्षीय योजना कुन हो?",
+    "options": [
+      "Third Five-Year Plan",
+      "Second Five-Year Plan",
+      "First Three-Year Plan",
+      "First Five-Year Plan (1956-1961)"
+    ],
+    "options_ne": [
+      "तेस्रो पञ्चवर्षीय योजना",
+      "दोस्रो पञ्चवर्षीय योजना",
+      "पहिलो त्रिवर्षीय योजना",
+      "पहिलो पञ्चवर्षीय योजना (१९५६-१९६१)"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is First Five-Year Plan (1956-1961).",
+    "explanation_ne": "उत्तर पहिलो पञ्चवर्षीय योजना (१९५६-१९६१) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0329",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the current periodic plan of Nepal (as of 2026)?",
+    "question_ne": "सन् २०२६ सम्म नेपालको चालु आवधिक योजना कुन हो?",
+    "options": [
+      "Fifteenth Periodic Plan",
+      "Seventeenth Periodic Plan",
+      "Fourteenth Periodic Plan",
+      "Sixteenth Periodic Plan (2024/25-2028/29)"
+    ],
+    "options_ne": [
+      "पन्ध्रौँ आवधिक योजना",
+      "सत्रौँ आवधिक योजना",
+      "चौधौँ आवधिक योजना",
+      "सोह्रौँ आवधिक योजना (२०८१/८२-२०८५/८६)"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Sixteenth Periodic Plan (2024/25-2028/29).",
+    "explanation_ne": "उत्तर सोह्रौँ आवधिक योजना (२०८१/८२-२०८५/८६) हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0330",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CBS?",
+    "question_ne": "CBS को पूरा रूप के हो?",
+    "options": [
+      "Central Banking Statistics",
+      "Central Board of Statistics",
+      "Central Bureau of Standards",
+      "Central Bureau of Statistics"
+    ],
+    "options_ne": [
+      "केन्द्रीय बैङ्किङ तथ्याङ्क",
+      "केन्द्रीय तथ्याङ्क बोर्ड",
+      "केन्द्रीय मानक ब्युरो",
+      "केन्द्रीय तथ्याङ्क विभाग"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Central Bureau of Statistics.",
+    "explanation_ne": "उत्तर केन्द्रीय तथ्याङ्क विभाग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-OEL-0331",
+    "exam": [
+      "nrb-assistant",
+      "nrb-officer",
+      "rbb",
+      "rbb-senior-assistant",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "computer-operator"
+    ],
+    "topic": "Economy & Development",
+    "subtopic": "Economy & Development",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which body conducts the national census in Nepal?",
+    "question_ne": "नेपालमा राष्ट्रिय जनगणना कुन निकायले गर्छ?",
+    "options": [
+      "Election Commission",
+      "National Planning Commission",
+      "Central Bureau of Statistics",
+      "Ministry of Home Affairs"
+    ],
+    "options_ne": [
+      "निर्वाचन आयोग",
+      "राष्ट्रिय योजना आयोग",
+      "केन्द्रीय तथ्याङ्क विभाग",
+      "गृह मन्त्रालय"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Central Bureau of Statistics.",
+    "explanation_ne": "उत्तर केन्द्रीय तथ्याङ्क विभाग हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  }
+]

@@ -1,0 +1,6129 @@
+[
+ {
+  "id": "CSIT5-001",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 11110?",
+  "question_ne": "बाइनरी संख्या 11110 को दशमलव मान कति हो?",
+  "options": [
+   "30",
+   "31",
+   "29",
+   "32"
+  ],
+  "options_ne": [
+   "३०",
+   "३१",
+   "२९",
+   "३२"
+  ],
+  "answer": 0,
+  "explanation": "Binary 11110 = 30 in decimal.",
+  "explanation_ne": "बाइनरी 11110 = दशमलवमा ३० हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-002",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 11101?",
+  "question_ne": "बाइनरी संख्या 11101 को दशमलव मान कति हो?",
+  "options": [
+   "30",
+   "29",
+   "28",
+   "31"
+  ],
+  "options_ne": [
+   "३०",
+   "२९",
+   "२८",
+   "३१"
+  ],
+  "answer": 1,
+  "explanation": "Binary 11101 = 29 in decimal.",
+  "explanation_ne": "बाइनरी 11101 = दशमलवमा २९ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-003",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10001?",
+  "question_ne": "बाइनरी संख्या 10001 को दशमलव मान कति हो?",
+  "options": [
+   "16",
+   "18",
+   "17",
+   "19"
+  ],
+  "options_ne": [
+   "१६",
+   "१८",
+   "१७",
+   "१९"
+  ],
+  "answer": 2,
+  "explanation": "Binary 10001 = 17 in decimal.",
+  "explanation_ne": "बाइनरी 10001 = दशमलवमा १७ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-004",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 101011?",
+  "question_ne": "बाइनरी संख्या 101011 को दशमलव मान कति हो?",
+  "options": [
+   "45",
+   "44",
+   "42",
+   "43"
+  ],
+  "options_ne": [
+   "४५",
+   "४४",
+   "४२",
+   "४३"
+  ],
+  "answer": 3,
+  "explanation": "Binary 101011 = 43 in decimal.",
+  "explanation_ne": "बाइनरी 101011 = दशमलवमा ४३ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-005",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10000?",
+  "question_ne": "बाइनरी संख्या 10000 को दशमलव मान कति हो?",
+  "options": [
+   "16",
+   "17",
+   "15",
+   "18"
+  ],
+  "options_ne": [
+   "१६",
+   "१७",
+   "१५",
+   "१८"
+  ],
+  "answer": 0,
+  "explanation": "Binary 10000 = 16 in decimal.",
+  "explanation_ne": "बाइनरी 10000 = दशमलवमा १६ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-006",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10011?",
+  "question_ne": "बाइनरी संख्या 10011 को दशमलव मान कति हो?",
+  "options": [
+   "20",
+   "19",
+   "18",
+   "21"
+  ],
+  "options_ne": [
+   "२०",
+   "१९",
+   "१८",
+   "२१"
+  ],
+  "answer": 1,
+  "explanation": "Binary 10011 = 19 in decimal.",
+  "explanation_ne": "बाइनरी 10011 = दशमलवमा १९ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-007",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10100?",
+  "question_ne": "बाइनरी संख्या 10100 को दशमलव मान कति हो?",
+  "options": [
+   "19",
+   "21",
+   "20",
+   "22"
+  ],
+  "options_ne": [
+   "१९",
+   "२१",
+   "२०",
+   "२२"
+  ],
+  "answer": 2,
+  "explanation": "Binary 10100 = 20 in decimal.",
+  "explanation_ne": "बाइनरी 10100 = दशमलवमा २० हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-008",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 1101?",
+  "question_ne": "बाइनरी संख्या 1101 को दशमलव मान कति हो?",
+  "options": [
+   "15",
+   "14",
+   "12",
+   "13"
+  ],
+  "options_ne": [
+   "१५",
+   "१४",
+   "१२",
+   "१३"
+  ],
+  "answer": 3,
+  "explanation": "Binary 1101 = 13 in decimal.",
+  "explanation_ne": "बाइनरी 1101 = दशमलवमा १३ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-009",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 110101?",
+  "question_ne": "बाइनरी संख्या 110101 को दशमलव मान कति हो?",
+  "options": [
+   "53",
+   "54",
+   "52",
+   "55"
+  ],
+  "options_ne": [
+   "५३",
+   "५४",
+   "५२",
+   "५५"
+  ],
+  "answer": 0,
+  "explanation": "Binary 110101 = 53 in decimal.",
+  "explanation_ne": "बाइनरी 110101 = दशमलवमा ५३ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-010",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10101?",
+  "question_ne": "बाइनरी संख्या 10101 को दशमलव मान कति हो?",
+  "options": [
+   "22",
+   "21",
+   "20",
+   "23"
+  ],
+  "options_ne": [
+   "२२",
+   "२१",
+   "२०",
+   "२३"
+  ],
+  "answer": 1,
+  "explanation": "Binary 10101 = 21 in decimal.",
+  "explanation_ne": "बाइनरी 10101 = दशमलवमा २१ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-011",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 110011?",
+  "question_ne": "बाइनरी संख्या 110011 को दशमलव मान कति हो?",
+  "options": [
+   "50",
+   "52",
+   "51",
+   "53"
+  ],
+  "options_ne": [
+   "५०",
+   "५२",
+   "५१",
+   "५३"
+  ],
+  "answer": 2,
+  "explanation": "Binary 110011 = 51 in decimal.",
+  "explanation_ne": "बाइनरी 110011 = दशमलवमा ५१ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-012",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 100110?",
+  "question_ne": "बाइनरी संख्या 100110 को दशमलव मान कति हो?",
+  "options": [
+   "40",
+   "39",
+   "37",
+   "38"
+  ],
+  "options_ne": [
+   "४०",
+   "३९",
+   "३७",
+   "३८"
+  ],
+  "answer": 3,
+  "explanation": "Binary 100110 = 38 in decimal.",
+  "explanation_ne": "बाइनरी 100110 = दशमलवमा ३८ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-013",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 110000?",
+  "question_ne": "बाइनरी संख्या 110000 को दशमलव मान कति हो?",
+  "options": [
+   "48",
+   "49",
+   "47",
+   "50"
+  ],
+  "options_ne": [
+   "४८",
+   "४९",
+   "४७",
+   "५०"
+  ],
+  "answer": 0,
+  "explanation": "Binary 110000 = 48 in decimal.",
+  "explanation_ne": "बाइनरी 110000 = दशमलवमा ४८ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-014",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 110001?",
+  "question_ne": "बाइनरी संख्या 110001 को दशमलव मान कति हो?",
+  "options": [
+   "50",
+   "49",
+   "48",
+   "51"
+  ],
+  "options_ne": [
+   "५०",
+   "४९",
+   "४८",
+   "५१"
+  ],
+  "answer": 1,
+  "explanation": "Binary 110001 = 49 in decimal.",
+  "explanation_ne": "बाइनरी 110001 = दशमलवमा ४९ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-015",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 100111?",
+  "question_ne": "बाइनरी संख्या 100111 को दशमलव मान कति हो?",
+  "options": [
+   "38",
+   "40",
+   "39",
+   "41"
+  ],
+  "options_ne": [
+   "३८",
+   "४०",
+   "३९",
+   "४१"
+  ],
+  "answer": 2,
+  "explanation": "Binary 100111 = 39 in decimal.",
+  "explanation_ne": "बाइनरी 100111 = दशमलवमा ३९ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-016",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 101100?",
+  "question_ne": "बाइनरी संख्या 101100 को दशमलव मान कति हो?",
+  "options": [
+   "46",
+   "45",
+   "43",
+   "44"
+  ],
+  "options_ne": [
+   "४६",
+   "४५",
+   "४३",
+   "४४"
+  ],
+  "answer": 3,
+  "explanation": "Binary 101100 = 44 in decimal.",
+  "explanation_ne": "बाइनरी 101100 = दशमलवमा ४४ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-017",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 100100?",
+  "question_ne": "बाइनरी संख्या 100100 को दशमलव मान कति हो?",
+  "options": [
+   "36",
+   "37",
+   "35",
+   "38"
+  ],
+  "options_ne": [
+   "३६",
+   "३७",
+   "३५",
+   "३८"
+  ],
+  "answer": 0,
+  "explanation": "Binary 100100 = 36 in decimal.",
+  "explanation_ne": "बाइनरी 100100 = दशमलवमा ३६ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-018",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 11111?",
+  "question_ne": "बाइनरी संख्या 11111 को दशमलव मान कति हो?",
+  "options": [
+   "32",
+   "31",
+   "30",
+   "33"
+  ],
+  "options_ne": [
+   "३२",
+   "३१",
+   "३०",
+   "३३"
+  ],
+  "answer": 1,
+  "explanation": "Binary 11111 = 31 in decimal.",
+  "explanation_ne": "बाइनरी 11111 = दशमलवमा ३१ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-019",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 101010?",
+  "question_ne": "बाइनरी संख्या 101010 को दशमलव मान कति हो?",
+  "options": [
+   "41",
+   "43",
+   "42",
+   "44"
+  ],
+  "options_ne": [
+   "४१",
+   "४३",
+   "४२",
+   "४४"
+  ],
+  "answer": 2,
+  "explanation": "Binary 101010 = 42 in decimal.",
+  "explanation_ne": "बाइनरी 101010 = दशमलवमा ४२ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-020",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 10010?",
+  "question_ne": "बाइनरी संख्या 10010 को दशमलव मान कति हो?",
+  "options": [
+   "20",
+   "19",
+   "17",
+   "18"
+  ],
+  "options_ne": [
+   "२०",
+   "१९",
+   "१७",
+   "१८"
+  ],
+  "answer": 3,
+  "explanation": "Binary 10010 = 18 in decimal.",
+  "explanation_ne": "बाइनरी 10010 = दशमलवमा १८ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-021",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 110111?",
+  "question_ne": "बाइनरी संख्या 110111 को दशमलव मान कति हो?",
+  "options": [
+   "55",
+   "56",
+   "54",
+   "57"
+  ],
+  "options_ne": [
+   "५५",
+   "५६",
+   "५४",
+   "५७"
+  ],
+  "answer": 0,
+  "explanation": "Binary 110111 = 55 in decimal.",
+  "explanation_ne": "बाइनरी 110111 = दशमलवमा ५५ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-022",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 111110?",
+  "question_ne": "बाइनरी संख्या 111110 को दशमलव मान कति हो?",
+  "options": [
+   "63",
+   "62",
+   "61",
+   "64"
+  ],
+  "options_ne": [
+   "६३",
+   "६२",
+   "६१",
+   "६४"
+  ],
+  "answer": 1,
+  "explanation": "Binary 111110 = 62 in decimal.",
+  "explanation_ne": "बाइनरी 111110 = दशमलवमा ६२ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-023",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 11100?",
+  "question_ne": "बाइनरी संख्या 11100 को दशमलव मान कति हो?",
+  "options": [
+   "27",
+   "29",
+   "28",
+   "30"
+  ],
+  "options_ne": [
+   "२७",
+   "२९",
+   "२८",
+   "३०"
+  ],
+  "answer": 2,
+  "explanation": "Binary 11100 = 28 in decimal.",
+  "explanation_ne": "बाइनरी 11100 = दशमलवमा २८ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-024",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 111001?",
+  "question_ne": "बाइनरी संख्या 111001 को दशमलव मान कति हो?",
+  "options": [
+   "59",
+   "58",
+   "56",
+   "57"
+  ],
+  "options_ne": [
+   "५९",
+   "५८",
+   "५६",
+   "५७"
+  ],
+  "answer": 3,
+  "explanation": "Binary 111001 = 57 in decimal.",
+  "explanation_ne": "बाइनरी 111001 = दशमलवमा ५७ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-025",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 111100?",
+  "question_ne": "बाइनरी संख्या 111100 को दशमलव मान कति हो?",
+  "options": [
+   "60",
+   "61",
+   "59",
+   "62"
+  ],
+  "options_ne": [
+   "६०",
+   "६१",
+   "५९",
+   "६२"
+  ],
+  "answer": 0,
+  "explanation": "Binary 111100 = 60 in decimal.",
+  "explanation_ne": "बाइनरी 111100 = दशमलवमा ६० हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-026",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 1110?",
+  "question_ne": "बाइनरी संख्या 1110 को दशमलव मान कति हो?",
+  "options": [
+   "15",
+   "14",
+   "13",
+   "16"
+  ],
+  "options_ne": [
+   "१५",
+   "१४",
+   "१३",
+   "१६"
+  ],
+  "answer": 1,
+  "explanation": "Binary 1110 = 14 in decimal.",
+  "explanation_ne": "बाइनरी 1110 = दशमलवमा १४ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-027",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 100010?",
+  "question_ne": "बाइनरी संख्या 100010 को दशमलव मान कति हो?",
+  "options": [
+   "33",
+   "35",
+   "34",
+   "36"
+  ],
+  "options_ne": [
+   "३३",
+   "३५",
+   "३४",
+   "३६"
+  ],
+  "answer": 2,
+  "explanation": "Binary 100010 = 34 in decimal.",
+  "explanation_ne": "बाइनरी 100010 = दशमलवमा ३४ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-028",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 101111?",
+  "question_ne": "बाइनरी संख्या 101111 को दशमलव मान कति हो?",
+  "options": [
+   "49",
+   "48",
+   "46",
+   "47"
+  ],
+  "options_ne": [
+   "४९",
+   "४८",
+   "४६",
+   "४७"
+  ],
+  "answer": 3,
+  "explanation": "Binary 101111 = 47 in decimal.",
+  "explanation_ne": "बाइनरी 101111 = दशमलवमा ४७ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-029",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the decimal value of the binary number 111011?",
+  "question_ne": "बाइनरी संख्या 111011 को दशमलव मान कति हो?",
+  "options": [
+   "59",
+   "60",
+   "58",
+   "61"
+  ],
+  "options_ne": [
+   "५९",
+   "६०",
+   "५८",
+   "६१"
+  ],
+  "answer": 0,
+  "explanation": "Binary 111011 = 59 in decimal.",
+  "explanation_ne": "बाइनरी 111011 = दशमलवमा ५९ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-030",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 27?",
+  "question_ne": "दशमलव २७ को बाइनरी बराबर कति हो?",
+  "options": [
+   "11100",
+   "11011",
+   "11010",
+   "11101"
+  ],
+  "options_ne": [
+   "11100",
+   "11011",
+   "11010",
+   "11101"
+  ],
+  "answer": 1,
+  "explanation": "Decimal 27 in binary is 11011.",
+  "explanation_ne": "दशमलव २७ को बाइनरी 11011 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-032",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 50?",
+  "question_ne": "दशमलव ५० को बाइनरी बराबर कति हो?",
+  "options": [
+   "110100",
+   "110011",
+   "110001",
+   "110010"
+  ],
+  "options_ne": [
+   "110100",
+   "110011",
+   "110001",
+   "110010"
+  ],
+  "answer": 3,
+  "explanation": "Decimal 50 in binary is 110010.",
+  "explanation_ne": "दशमलव ५० को बाइनरी 110010 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-033",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 33?",
+  "question_ne": "दशमलव ३३ को बाइनरी बराबर कति हो?",
+  "options": [
+   "100001",
+   "100010",
+   "100000",
+   "100011"
+  ],
+  "options_ne": [
+   "100001",
+   "100010",
+   "100000",
+   "100011"
+  ],
+  "answer": 0,
+  "explanation": "Decimal 33 in binary is 100001.",
+  "explanation_ne": "दशमलव ३३ को बाइनरी 100001 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-034",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 9?",
+  "question_ne": "दशमलव ९ को बाइनरी बराबर कति हो?",
+  "options": [
+   "1010",
+   "1001",
+   "1000",
+   "1011"
+  ],
+  "options_ne": [
+   "1010",
+   "1001",
+   "1000",
+   "1011"
+  ],
+  "answer": 1,
+  "explanation": "Decimal 9 in binary is 1001.",
+  "explanation_ne": "दशमलव ९ को बाइनरी 1001 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-035",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 21?",
+  "question_ne": "दशमलव २१ को बाइनरी बराबर कति हो?",
+  "options": [
+   "10100",
+   "10110",
+   "10101",
+   "10111"
+  ],
+  "options_ne": [
+   "10100",
+   "10110",
+   "10101",
+   "10111"
+  ],
+  "answer": 2,
+  "explanation": "Decimal 21 in binary is 10101.",
+  "explanation_ne": "दशमलव २१ को बाइनरी 10101 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-036",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 6?",
+  "question_ne": "दशमलव ६ को बाइनरी बराबर कति हो?",
+  "options": [
+   "1000",
+   "111",
+   "101",
+   "110"
+  ],
+  "options_ne": [
+   "1000",
+   "111",
+   "101",
+   "110"
+  ],
+  "answer": 3,
+  "explanation": "Decimal 6 in binary is 110.",
+  "explanation_ne": "दशमलव ६ को बाइनरी 110 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-037",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 42?",
+  "question_ne": "दशमलव ४२ को बाइनरी बराबर कति हो?",
+  "options": [
+   "101010",
+   "101011",
+   "101001",
+   "101100"
+  ],
+  "options_ne": [
+   "101010",
+   "101011",
+   "101001",
+   "101100"
+  ],
+  "answer": 0,
+  "explanation": "Decimal 42 in binary is 101010.",
+  "explanation_ne": "दशमलव ४२ को बाइनरी 101010 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-038",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 17?",
+  "question_ne": "दशमलव १७ को बाइनरी बराबर कति हो?",
+  "options": [
+   "10010",
+   "10001",
+   "10000",
+   "10011"
+  ],
+  "options_ne": [
+   "10010",
+   "10001",
+   "10000",
+   "10011"
+  ],
+  "answer": 1,
+  "explanation": "Decimal 17 in binary is 10001.",
+  "explanation_ne": "दशमलव १७ को बाइनरी 10001 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-039",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 31?",
+  "question_ne": "दशमलव ३१ को बाइनरी बराबर कति हो?",
+  "options": [
+   "11110",
+   "100000",
+   "11111",
+   "100001"
+  ],
+  "options_ne": [
+   "11110",
+   "100000",
+   "11111",
+   "100001"
+  ],
+  "answer": 2,
+  "explanation": "Decimal 31 in binary is 11111.",
+  "explanation_ne": "दशमलव ३१ को बाइनरी 11111 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-040",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 45?",
+  "question_ne": "दशमलव ४५ को बाइनरी बराबर कति हो?",
+  "options": [
+   "101111",
+   "101110",
+   "101100",
+   "101101"
+  ],
+  "options_ne": [
+   "101111",
+   "101110",
+   "101100",
+   "101101"
+  ],
+  "answer": 3,
+  "explanation": "Decimal 45 in binary is 101101.",
+  "explanation_ne": "दशमलव ४५ को बाइनरी 101101 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-041",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 13?",
+  "question_ne": "दशमलव १३ को बाइनरी बराबर कति हो?",
+  "options": [
+   "1101",
+   "1110",
+   "1100",
+   "1111"
+  ],
+  "options_ne": [
+   "1101",
+   "1110",
+   "1100",
+   "1111"
+  ],
+  "answer": 0,
+  "explanation": "Decimal 13 in binary is 1101.",
+  "explanation_ne": "दशमलव १३ को बाइनरी 1101 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-042",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 15?",
+  "question_ne": "दशमलव १५ को बाइनरी बराबर कति हो?",
+  "options": [
+   "10000",
+   "1111",
+   "1110",
+   "10001"
+  ],
+  "options_ne": [
+   "10000",
+   "1111",
+   "1110",
+   "10001"
+  ],
+  "answer": 1,
+  "explanation": "Decimal 15 in binary is 1111.",
+  "explanation_ne": "दशमलव १५ को बाइनरी 1111 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-043",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the binary equivalent of decimal 12?",
+  "question_ne": "दशमलव १२ को बाइनरी बराबर कति हो?",
+  "options": [
+   "1011",
+   "1101",
+   "1100",
+   "1110"
+  ],
+  "options_ne": [
+   "1011",
+   "1101",
+   "1100",
+   "1110"
+  ],
+  "answer": 2,
+  "explanation": "Decimal 12 in binary is 1100.",
+  "explanation_ne": "दशमलव १२ को बाइनरी 1100 हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-044",
+  "exam": [
+   "csit-entrance",
+   "nec-licence"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which is the brain of the computer?",
+  "question_ne": "कम्प्युटरको मस्तिष्क कुन हो?",
+  "options": [
+   "Monitor",
+   "RAM",
+   "Hard disk",
+   "CPU"
+  ],
+  "options_ne": [
+   "मनिटर",
+   "र्याम",
+   "हार्ड डिस्क",
+   "सीपीयू"
+  ],
+  "answer": 3,
+  "explanation": "The CPU (Central Processing Unit) is the brain of the computer; it executes instructions.",
+  "explanation_ne": "सीपीयू (केन्द्रीय प्रशोधन एकाइ) कम्प्युटरको मस्तिष्क हो; यसले निर्देशन कार्यान्वयन गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-046",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which memory is volatile?",
+  "question_ne": "कुन मेमोरी अस्थायी (भोलाटाइल) हो?",
+  "options": [
+   "ROM",
+   "RAM",
+   "Hard disk",
+   "CD-ROM"
+  ],
+  "options_ne": [
+   "रोम",
+   "र्याम",
+   "हार्ड डिस्क",
+   "सीडी-रोम"
+  ],
+  "answer": 1,
+  "explanation": "RAM (Random Access Memory) is volatile: its contents are lost when power is switched off.",
+  "explanation_ne": "र्याम (र्याण्डम एक्सेस मेमोरी) अस्थायी हो: बिजुली बन्द हुँदा यसको सामग्री हराउँछ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-047",
+  "exam": [
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which memory is non-volatile?",
+  "question_ne": "कुन मेमोरी स्थायी (नन-भोलाटाइल) हो?",
+  "options": [
+   "Cache only",
+   "RAM",
+   "ROM",
+   "Register"
+  ],
+  "options_ne": [
+   "केवल क्यास",
+   "र्याम",
+   "रोम",
+   "रजिस्टर"
+  ],
+  "answer": 2,
+  "explanation": "ROM (Read Only Memory) is non-volatile and retains its contents without power.",
+  "explanation_ne": "रोम (रिड ओन्ली मेमोरी) स्थायी हो र बिजुलीबिना पनि सामग्री राख्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-048",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "BIOS is stored in which memory?",
+  "question_ne": "BIOS कुन मेमोरीमा भण्डारण गरिन्छ?",
+  "options": [
+   "Cache",
+   "RAM",
+   "Hard disk",
+   "ROM"
+  ],
+  "options_ne": [
+   "क्यास",
+   "र्याम",
+   "हार्ड डिस्क",
+   "रोम"
+  ],
+  "answer": 3,
+  "explanation": "BIOS, the basic input/output system, is stored in ROM (now flash memory) on the motherboard.",
+  "explanation_ne": "BIOS, आधारभूत इनपुट/आउटपुट प्रणाली, मदरबोर्डको रोम (अहिले फ्ल्यास मेमोरी) मा भण्डारण गरिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-049",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "1 KB is equal to how many bytes?",
+  "question_ne": "१ KB मा कति बाइट हुन्छ?",
+  "options": [
+   "1024 bytes",
+   "1000 bytes",
+   "512 bytes",
+   "2048 bytes"
+  ],
+  "options_ne": [
+   "१०२४ बाइट",
+   "१००० बाइट",
+   "५१२ बाइट",
+   "२०४८ बाइट"
+  ],
+  "answer": 0,
+  "explanation": "1 KB = 1024 bytes in the binary convention used in computing.",
+  "explanation_ne": "कम्प्युटिङमा प्रयोग हुने बाइनरी परम्पराअनुसार १ KB = १०२४ बाइट हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-050",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "1 MB is equal to how many KB?",
+  "question_ne": "१ MB मा कति KB हुन्छ?",
+  "options": [
+   "1000 KB",
+   "1024 KB",
+   "512 KB",
+   "2048 KB"
+  ],
+  "options_ne": [
+   "१००० KB",
+   "१०२४ KB",
+   "५१२ KB",
+   "२०४८ KB"
+  ],
+  "answer": 1,
+  "explanation": "1 MB = 1024 KB.",
+  "explanation_ne": "१ MB = १०२४ KB हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-051",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The operating system is what type of software?",
+  "question_ne": "अपरेटिङ सिस्टम कुन प्रकारको सफ्टवेयर हो?",
+  "options": [
+   "Utility software only",
+   "Application software",
+   "System software",
+   "Firmware only"
+  ],
+  "options_ne": [
+   "केवल युटिलिटी सफ्टवेयर",
+   "एप्लिकेसन सफ्टवेयर",
+   "सिस्टम सफ्टवेयर",
+   "केवल फर्मवेयर"
+  ],
+  "answer": 2,
+  "explanation": "An operating system is system software that manages hardware and provides services to applications.",
+  "explanation_ne": "अपरेटिङ सिस्टम सिस्टम सफ्टवेयर हो जसले हार्डवेयर व्यवस्थापन गर्छ र एप्लिकेसनलाई सेवा दिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-053",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The kernel of an operating system does what?",
+  "question_ne": "अपरेटिङ सिस्टमको कर्नेलले के गर्छ?",
+  "options": [
+   "Manages hardware, memory and processes",
+   "Displays the desktop wallpaper",
+   "Runs web browsers",
+   "Stores user files only"
+  ],
+  "options_ne": [
+   "हार्डवेयर, मेमोरी र प्रक्रियाहरू व्यवस्थापन गर्छ",
+   "डेस्कटप वालपेपर देखाउँछ",
+   "वेब ब्राउजर चलाउँछ",
+   "केवल प्रयोगकर्ता फाइल भण्डारण गर्छ"
+  ],
+  "answer": 0,
+  "explanation": "The kernel is the core of the OS; it manages hardware, memory, processes and system calls.",
+  "explanation_ne": "कर्नेल अपरेटिङ सिस्टमको मुटु हो; यसले हार्डवेयर, मेमोरी, प्रक्रिया र सिस्टम कल व्यवस्थापन गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-054",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which scheduling algorithm gives the CPU to the process with the shortest next burst first?",
+  "question_ne": "कुन सेड्युलिङ एल्गोरिदमले सबैभन्दा छोटो अर्को बर्स्ट भएको प्रक्रियालाई पहिले CPU दिन्छ?",
+  "options": [
+   "First Come First Served",
+   "Shortest Job First (SJF)",
+   "Round Robin",
+   "Priority only"
+  ],
+  "options_ne": [
+   "फर्स्ट कम फर्स्ट सर्भ्ड",
+   "सर्टेस्ट जब फर्स्ट (SJF)",
+   "राउन्ड रोबिन",
+   "केवल प्राथमिकता"
+  ],
+  "answer": 1,
+  "explanation": "Shortest Job First schedules the process with the smallest next CPU burst first.",
+  "explanation_ne": "सर्टेस्ट जब फर्स्टले सबैभन्दा सानो अर्को CPU बर्स्ट भएको प्रक्रियालाई पहिले सेड्युल गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-055",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Operating Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Deadlock in an operating system means what?",
+  "question_ne": "अपरेटिङ सिस्टममा डेडलक भनेको के हो?",
+  "options": [
+   "A process finishes early",
+   "The system runs too fast",
+   "Processes wait forever for resources held by each other",
+   "Memory is full only"
+  ],
+  "options_ne": [
+   "प्रक्रिया चाँडै सकिन्छ",
+   "प्रणाली धेरै छिटो चल्छ",
+   "प्रक्रियाहरू एकअर्काले राखेको स्रोतको लागि अनन्त पर्खन्छन्",
+   "केवल मेमोरी भरिन्छ"
+  ],
+  "answer": 2,
+  "explanation": "Deadlock occurs when processes are blocked forever, each waiting for a resource held by another.",
+  "explanation_ne": "डेडलक तब हुन्छ जब प्रक्रियाहरू अनन्त रूपमा रोकिन्छन्, प्रत्येकले अर्कोले राखेको स्रोत पर्खिरहेको हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-057",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Data Structures",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which data structure follows Last In, First Out (LIFO)?",
+  "question_ne": "कुन डाटा संरचनाले लास्ट इन, फर्स्ट आउट (LIFO) पालना गर्छ?",
+  "options": [
+   "Stack",
+   "Queue",
+   "Array",
+   "Linked list"
+  ],
+  "options_ne": [
+   "स्ट्याक",
+   "क्यु",
+   "एरे",
+   "लिङ्क्ड लिस्ट"
+  ],
+  "answer": 0,
+  "explanation": "A stack follows LIFO: the last element pushed is the first popped.",
+  "explanation_ne": "स्ट्याकले LIFO पालना गर्छ: अन्तिममा राखिएको तत्त्व पहिले निकालिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-058",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In C, which header file is needed for printf() and scanf()?",
+  "question_ne": "C मा printf() र scanf() का लागि कुन हेडर फाइल चाहिन्छ?",
+  "options": [
+   "conio.h",
+   "stdio.h",
+   "math.h",
+   "string.h"
+  ],
+  "options_ne": [
+   "conio.h",
+   "stdio.h",
+   "math.h",
+   "string.h"
+  ],
+  "answer": 1,
+  "explanation": "stdio.h (standard input/output) declares printf() and scanf().",
+  "explanation_ne": "stdio.h (स्ट्यान्डर्ड इनपुट/आउटपुट) ले printf() र scanf() घोषणा गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-059",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In C, what is the correct way to declare an integer variable?",
+  "question_ne": "C मा पूर्णाङ्क चर घोषणा गर्ने सही तरिका कुन हो?",
+  "options": [
+   "int x = 'a';",
+   "integer x;",
+   "int x;",
+   "float x;"
+  ],
+  "options_ne": [
+   "int x = 'a';",
+   "integer x;",
+   "int x;",
+   "float x;"
+  ],
+  "answer": 2,
+  "explanation": "In C, an integer is declared as 'int x;'.",
+  "explanation_ne": "C मा पूर्णाङ्क 'int x;' भनेर घोषणा गरिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-060",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the output of printf(\"%d\", 5 + 3 * 2); in C?",
+  "question_ne": "C मा printf(\"%d\", ५ + ३ * २); को आउटपुट के हुन्छ?",
+  "options": [
+   "13",
+   "16",
+   "10",
+   "11"
+  ],
+  "options_ne": [
+   "१३",
+   "१६",
+   "१०",
+   "११"
+  ],
+  "answer": 3,
+  "explanation": "Multiplication has higher precedence than addition: 3*2 = 6, then 5+6 = 11.",
+  "explanation_ne": "गुणनको प्राथमिकता जोडभन्दा बढी छ: ३*२ = ६, त्यसपछि ५+६ = ११।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-061",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In C, the operator '==' is used for what?",
+  "question_ne": "C मा '==' अपरेटर केका लागि प्रयोग हुन्छ?",
+  "options": [
+   "Comparison (equality test)",
+   "Assignment",
+   "Logical AND",
+   "Increment"
+  ],
+  "options_ne": [
+   "तुलना (समानता परीक्षण)",
+   "असाइनमेन्ट",
+   "लजिकल AND",
+   "वृद्धि"
+  ],
+  "answer": 0,
+  "explanation": "'==' tests equality; '=' is assignment.",
+  "explanation_ne": "'==' ले समानता परीक्षण गर्छ; '=' असाइनमेन्ट हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-062",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In C, a loop that runs at least once is which loop?",
+  "question_ne": "C मा कम्तीमा एक पटक चल्ने लूप कुन हो?",
+  "options": [
+   "for",
+   "do-while",
+   "while",
+   "if"
+  ],
+  "options_ne": [
+   "for",
+   "do-while",
+   "while",
+   "if"
+  ],
+  "answer": 1,
+  "explanation": "A do-while loop checks its condition after the body, so it runs at least once.",
+  "explanation_ne": "do-while लूपले सर्त शरीरपछि जाँच्छ, त्यसैले कम्तीमा एक पटक चल्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-063",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the size of an int in C on most modern systems?",
+  "question_ne": "अधिकांश आधुनिक प्रणालीमा C मा int को आकार कति हुन्छ?",
+  "options": [
+   "2 bytes",
+   "1 byte",
+   "4 bytes",
+   "8 bytes"
+  ],
+  "options_ne": [
+   "२ बाइट",
+   "१ बाइट",
+   "४ बाइट",
+   "८ बाइट"
+  ],
+  "answer": 2,
+  "explanation": "On most modern systems, an int is 4 bytes (32 bits).",
+  "explanation_ne": "अधिकांश आधुनिक प्रणालीमा int ४ बाइट (३२ बिट) हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-064",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which symbol is used for a single-line comment in C?",
+  "question_ne": "C मा एक लाइन टिप्पणीका लागि कुन चिन्ह प्रयोग हुन्छ?",
+  "options": [
+   "--",
+   "/* */",
+   "#",
+   "//"
+  ],
+  "options_ne": [
+   "--",
+   "/* */",
+   "#",
+   "//"
+  ],
+  "answer": 3,
+  "explanation": "'//' starts a single-line comment in C; '/* */' is for multi-line comments.",
+  "explanation_ne": "'//' ले C मा एक लाइन टिप्पणी सुरु गर्छ; '/* */' बहु-लाइन टिप्पणीका लागि हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-065",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "C Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In C, which function is the entry point of a program?",
+  "question_ne": "C मा प्रोग्रामको प्रवेश बिन्दु कुन फंक्शन हो?",
+  "options": [
+   "main()",
+   "start()",
+   "init()",
+   "run()"
+  ],
+  "options_ne": [
+   "main()",
+   "start()",
+   "init()",
+   "run()"
+  ],
+  "answer": 0,
+  "explanation": "Execution of a C program begins in main().",
+  "explanation_ne": "C प्रोग्रामको कार्यान्वयन main() बाट सुरु हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-066",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Databases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of the following is a DBMS?",
+  "question_ne": "निम्नमध्ये कुन DBMS हो?",
+  "options": [
+   "HTML",
+   "MySQL",
+   "Python",
+   "Linux"
+  ],
+  "options_ne": [
+   "HTML",
+   "MySQL",
+   "Python",
+   "Linux"
+  ],
+  "answer": 1,
+  "explanation": "MySQL is a relational DBMS; HTML is a markup language, Python a programming language, Linux an OS.",
+  "explanation_ne": "MySQL सम्बन्धात्मक DBMS हो; HTML मार्कअप भाषा, Python प्रोग्रामिङ भाषा, Linux अपरेटिङ सिस्टम हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-067",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Databases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In a relational database, data is stored in what form?",
+  "question_ne": "सम्बन्धात्मक डाटाबेसमा डाटा कुन रूपमा भण्डारण गरिन्छ?",
+  "options": [
+   "Graphs",
+   "Trees",
+   "Tables (relations)",
+   "Files only"
+  ],
+  "options_ne": [
+   "ग्राफ",
+   "रूख",
+   "तालिका (सम्बन्ध)",
+   "केवल फाइल"
+  ],
+  "answer": 2,
+  "explanation": "A relational database stores data in tables (relations) made of rows and columns.",
+  "explanation_ne": "सम्बन्धात्मक डाटाबेसले डाटा पङ्क्ति र स्तम्भ भएका तालिकामा भण्डारण गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-068",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Databases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which key uniquely identifies each row in a table?",
+  "question_ne": "तालिकामा प्रत्येक पङ्क्तिलाई विशिष्ट रूपमा चिन्ने कुञ्जी कुन हो?",
+  "options": [
+   "Index only",
+   "Foreign key",
+   "Candidate key only",
+   "Primary key"
+  ],
+  "options_ne": [
+   "केवल इन्डेक्स",
+   "फरेन कि",
+   "केवल क्यान्डिडेट कि",
+   "प्राइमरी कि"
+  ],
+  "answer": 3,
+  "explanation": "A primary key uniquely identifies each row and cannot be null or duplicated.",
+  "explanation_ne": "प्राइमरी किले प्रत्येक पङ्क्तिलाई विशिष्ट रूपमा चिन्छ र यो शून्य वा दोहोरिन सक्दैन।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-070",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Databases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which SQL statement is used to add a new row to a table?",
+  "question_ne": "तालिकामा नयाँ पङ्क्ति थप्न कुन SQL कथन प्रयोग हुन्छ?",
+  "options": [
+   "SELECT",
+   "INSERT",
+   "UPDATE",
+   "DELETE"
+  ],
+  "options_ne": [
+   "SELECT",
+   "INSERT",
+   "UPDATE",
+   "DELETE"
+  ],
+  "answer": 1,
+  "explanation": "INSERT adds a new row to a table.",
+  "explanation_ne": "INSERT ले तालिकामा नयाँ पङ्क्ति थप्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-071",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Databases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which normal form eliminates partial dependency on the primary key?",
+  "question_ne": "कुन सामान्य रूपले प्राइमरी किमा आंशिक निर्भरता हटाउँछ?",
+  "options": [
+   "Third Normal Form (3NF)",
+   "First Normal Form (1NF)",
+   "Second Normal Form (2NF)",
+   "BCNF"
+  ],
+  "options_ne": [
+   "तेस्रो सामान्य रूप (3NF)",
+   "पहिलो सामान्य रूप (1NF)",
+   "दोस्रो सामान्य रूप (2NF)",
+   "BCNF"
+  ],
+  "answer": 2,
+  "explanation": "Second Normal Form (2NF) removes partial dependencies, where a non-key attribute depends on only part of a composite key.",
+  "explanation_ne": "दोस्रो सामान्य रूप (2NF) ले आंशिक निर्भरता हटाउँछ, जहाँ गैर-कुञ्जी विशेषता कम्पोजिट किको एक भागमा मात्र निर्भर हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-072",
+  "exam": [
+   "csit-entrance",
+   "nepal-telecom"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networking",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which layer of the OSI model is responsible for routing?",
+  "question_ne": "OSI मोडेलको कुन तह राउटिङका लागि जिम्मेवार छ?",
+  "options": [
+   "Physical layer",
+   "Data link layer",
+   "Transport layer",
+   "Network layer"
+  ],
+  "options_ne": [
+   "फिजिकल तह",
+   "डाटा लिङ्क तह",
+   "ट्रान्सपोर्ट तह",
+   "नेटवर्क तह"
+  ],
+  "answer": 3,
+  "explanation": "The network layer (Layer 3) handles routing and logical addressing (IP).",
+  "explanation_ne": "नेटवर्क तह (तह ३) ले राउटिङ र तार्किक ठेगाना (IP) हेर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-073",
+  "exam": [
+   "csit-entrance",
+   "nepal-telecom"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networking",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many layers are there in the OSI model?",
+  "question_ne": "OSI मोडेलमा कति तह छन्?",
+  "options": [
+   "7",
+   "4",
+   "5",
+   "6"
+  ],
+  "options_ne": [
+   "७",
+   "४",
+   "५",
+   "६"
+  ],
+  "answer": 0,
+  "explanation": "The OSI model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation and Application.",
+  "explanation_ne": "OSI मोडेलमा ७ तह छन्: फिजिकल, डाटा लिङ्क, नेटवर्क, ट्रान्सपोर्ट, सेसन, प्रेजेन्टेसन र एप्लिकेसन।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-075",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networking",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which protocol assigns IP addresses automatically to devices on a network?",
+  "question_ne": "नेटवर्कमा उपकरणलाई स्वचालित रूपमा IP ठेगाना दिने प्रोटोकल कुन हो?",
+  "options": [
+   "FTP",
+   "DNS",
+   "DHCP",
+   "SMTP"
+  ],
+  "options_ne": [
+   "FTP",
+   "DNS",
+   "DHCP",
+   "SMTP"
+  ],
+  "answer": 2,
+  "explanation": "DHCP (Dynamic Host Configuration Protocol) assigns IP addresses automatically.",
+  "explanation_ne": "DHCP (डाइनामिक होस्ट कन्फिगरेसन प्रोटोकल) ले IP ठेगाना स्वचालित रूपमा दिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-077",
+  "exam": [
+   "csit-entrance",
+   "nepal-telecom"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networking",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "An IPv4 address has how many bits?",
+  "question_ne": "IPv4 ठेगानामा कति बिट हुन्छ?",
+  "options": [
+   "32 bits",
+   "64 bits",
+   "128 bits",
+   "16 bits"
+  ],
+  "options_ne": [
+   "३२ बिट",
+   "६४ बिट",
+   "१२८ बिट",
+   "१६ बिट"
+  ],
+  "answer": 0,
+  "explanation": "An IPv4 address is 32 bits long; IPv6 addresses are 128 bits.",
+  "explanation_ne": "IPv4 ठेगाना ३२ बिट लामो हुन्छ; IPv6 ठेगाना १२८ बिट हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-079",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Networking",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which device connects two different networks and routes packets between them?",
+  "question_ne": "दुई फरक नेटवर्क जोड्ने र प्याकेट राउट गर्ने उपकरण कुन हो?",
+  "options": [
+   "Hub",
+   "Switch",
+   "Router",
+   "Modem"
+  ],
+  "options_ne": [
+   "हब",
+   "स्विच",
+   "राउटर",
+   "मोडेम"
+  ],
+  "answer": 2,
+  "explanation": "A router connects different networks and forwards packets between them using IP addresses.",
+  "explanation_ne": "राउटरले फरक नेटवर्क जोड्छ र IP ठेगाना प्रयोग गरी प्याकेट अर्को नेटवर्कमा पठाउँछ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-080",
+  "exam": [
+   "csit-entrance",
+   "computer-operator"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Web & Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "HTML stands for what?",
+  "question_ne": "HTML को पूरा रूप के हो?",
+  "options": [
+   "Home Tool Markup Language",
+   "HighText Machine Language",
+   "Hyperlink Text Mode Language",
+   "HyperText Markup Language"
+  ],
+  "options_ne": [
+   "होम टुल मार्कअप ल्याङ्ग्वेज",
+   "हाईटेक्स्ट मेसिन ल्याङ्ग्वेज",
+   "हाइपरलिङ्क टेक्स्ट मोड ल्याङ्ग्वेज",
+   "हाइपरटेक्स्ट मार्कअप ल्याङ्ग्वेज"
+  ],
+  "answer": 3,
+  "explanation": "HTML stands for HyperText Markup Language, the standard language for web pages.",
+  "explanation_ne": "HTML को पूरा रूप हाइपरटेक्स्ट मार्कअप ल्याङ्ग्वेज हो, वेब पृष्ठका लागि मानक भाषा।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-081",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Web & Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "CSS is used for what in web pages?",
+  "question_ne": "वेब पृष्ठमा CSS केका लागि प्रयोग हुन्छ?",
+  "options": [
+   "Styling and layout",
+   "Structure only",
+   "Database storage",
+   "Server logic"
+  ],
+  "options_ne": [
+   "स्टाइलिङ र लेआउट",
+   "केवल संरचना",
+   "डाटाबेस भण्डारण",
+   "सर्भर तर्क"
+  ],
+  "answer": 0,
+  "explanation": "CSS (Cascading Style Sheets) controls the styling, colours and layout of web pages.",
+  "explanation_ne": "CSS (क्यास्केडिङ स्टाइल सिट) ले वेब पृष्ठको स्टाइल, रङ र लेआउट नियन्त्रण गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-082",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Web & Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which language runs in the browser to make web pages interactive?",
+  "question_ne": "वेब पृष्ठ अन्तरक्रियात्मक बनाउन ब्राउजरमा चल्ने भाषा कुन हो?",
+  "options": [
+   "Python",
+   "JavaScript",
+   "C++",
+   "SQL"
+  ],
+  "options_ne": [
+   "पाइथन",
+   "जाभास्क्रिप्ट",
+   "C++",
+   "SQL"
+  ],
+  "answer": 1,
+  "explanation": "JavaScript runs in the browser and makes web pages interactive.",
+  "explanation_ne": "जाभास्क्रिप्ट ब्राउजरमा चल्छ र वेब पृष्ठ अन्तरक्रियात्मक बनाउँछ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-083",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Web & Programming",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of the following is a compiled language?",
+  "question_ne": "निम्नमध्ये कुन कम्पाइल हुने भाषा हो?",
+  "options": [
+   "JavaScript",
+   "Python",
+   "C",
+   "PHP"
+  ],
+  "options_ne": [
+   "जाभास्क्रिप्ट",
+   "पाइथन",
+   "C",
+   "PHP"
+  ],
+  "answer": 2,
+  "explanation": "C is a compiled language; Python and JavaScript are interpreted.",
+  "explanation_ne": "C कम्पाइल हुने भाषा हो; पाइथन र जाभास्क्रिप्ट इन्टरप्रेट हुने भाषा हुन्।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-084",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Number Systems",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is 1010 in binary plus 0101 in binary?",
+  "question_ne": "बाइनरी १०१० र बाइनरी ०१०१ जोड्दा कति हुन्छ?",
+  "options": [
+   "1001",
+   "1011",
+   "1101",
+   "1111"
+  ],
+  "options_ne": [
+   "१००१",
+   "१०११",
+   "११०१",
+   "११११"
+  ],
+  "answer": 3,
+  "explanation": "1010 + 0101 = 1111 in binary (10 + 5 = 15 in decimal).",
+  "explanation_ne": "बाइनरी १०१० + ०१०१ = ११११ हुन्छ (दशमलवमा १० + ५ = १५)।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-085",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Digital Logic",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which logic gate outputs 1 only when both inputs are 1?",
+  "question_ne": "कुन लजिक गेटले दुवै इनपुट १ हुँदा मात्र १ दिन्छ?",
+  "options": [
+   "AND gate",
+   "OR gate",
+   "NOT gate",
+   "XOR gate"
+  ],
+  "options_ne": [
+   "AND गेट",
+   "OR गेट",
+   "NOT गेट",
+   "XOR गेट"
+  ],
+  "answer": 0,
+  "explanation": "An AND gate outputs 1 only when all its inputs are 1.",
+  "explanation_ne": "AND गेटले सबै इनपुट १ हुँदा मात्र १ दिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-086",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Digital Logic",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which logic gate outputs 1 when at least one input is 1?",
+  "question_ne": "कुन लजिक गेटले कम्तीमा एक इनपुट १ हुँदा १ दिन्छ?",
+  "options": [
+   "AND gate",
+   "OR gate",
+   "NOT gate",
+   "NAND gate"
+  ],
+  "options_ne": [
+   "AND गेट",
+   "OR गेट",
+   "NOT गेट",
+   "NAND गेट"
+  ],
+  "answer": 1,
+  "explanation": "An OR gate outputs 1 when at least one input is 1.",
+  "explanation_ne": "OR गेटले कम्तीमा एक इनपुट १ हुँदा १ दिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-087",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Digital Logic",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which logic gate inverts its input?",
+  "question_ne": "कुन लजिक गेटले इनपुट उल्टाउँछ?",
+  "options": [
+   "OR gate",
+   "AND gate",
+   "NOT gate",
+   "XOR gate"
+  ],
+  "options_ne": [
+   "OR गेट",
+   "AND गेट",
+   "NOT गेट",
+   "XOR गेट"
+  ],
+  "answer": 2,
+  "explanation": "A NOT gate outputs the opposite of its input: 1 becomes 0 and 0 becomes 1.",
+  "explanation_ne": "NOT गेटले इनपुटको विपरीत दिन्छ: १ हुन्छ ० र ० हुन्छ १।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-088",
+  "exam": [
+   "csit-entrance",
+   "nec-licence"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Digital Logic",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The 2's complement of binary 0101 is what?",
+  "question_ne": "बाइनरी ०१०१ को २'s कम्प्लिमेन्ट कति हो?",
+  "options": [
+   "1100",
+   "1010",
+   "0101",
+   "1011"
+  ],
+  "options_ne": [
+   "११००",
+   "१०१०",
+   "०१०१",
+   "१०११"
+  ],
+  "answer": 3,
+  "explanation": "1's complement of 0101 is 1010; adding 1 gives the 2's complement 1011.",
+  "explanation_ne": "०१०१ को १'s कम्प्लिमेन्ट १०१० हो; १ थप्दा २'s कम्प्लिमेन्ट १०११ हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-090",
+  "exam": [
+   "csit-entrance",
+   "nec-licence"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Algorithms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the time complexity of binary search on a sorted array?",
+  "question_ne": "सर्टेड एरेमा बाइनरी सर्चको समय जटिलता कति हो?",
+  "options": [
+   "O(n)",
+   "O(log n)",
+   "O(n log n)",
+   "O(1)"
+  ],
+  "options_ne": [
+   "O(n)",
+   "O(log n)",
+   "O(n log n)",
+   "O(१)"
+  ],
+  "answer": 1,
+  "explanation": "Binary search halves the search space each step, so it runs in O(log n) time.",
+  "explanation_ne": "बाइनरी सर्चले प्रत्येक चरणमा खोज क्षेत्र आधा गर्छ, त्यसैले यो O(log n) समयमा चल्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-091",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Algorithms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which search algorithm works only on a sorted list?",
+  "question_ne": "कुन खोज एल्गोरिदम सर्टेड सूचीमा मात्र काम गर्छ?",
+  "options": [
+   "Depth-first search",
+   "Linear search",
+   "Binary search",
+   "Breadth-first search"
+  ],
+  "options_ne": [
+   "डेप्थ-फर्स्ट सर्च",
+   "लिनियर सर्च",
+   "बाइनरी सर्च",
+   "ब्रेड्थ-फर्स्ट सर्च"
+  ],
+  "answer": 2,
+  "explanation": "Binary search requires a sorted list; linear search works on any list.",
+  "explanation_ne": "बाइनरी सर्चलाई सर्टेड सूची चाहिन्छ; लिनियर सर्च कुनै पनि सूचीमा काम गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-092",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Data Structures",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A linked list is best described as what?",
+  "question_ne": "लिङ्क्ड लिस्टलाई सबैभन्दा राम्रोसँग कसरी वर्णन गरिन्छ?",
+  "options": [
+   "A hash table",
+   "A fixed-size array",
+   "A tree structure",
+   "A collection of nodes linked by pointers"
+  ],
+  "options_ne": [
+   "ह्यास तालिका",
+   "स्थिर आकारको एरे",
+   "रूख संरचना",
+   "पोइन्टरले जोडिएका नोडहरूको सङ्ग्रह"
+  ],
+  "answer": 3,
+  "explanation": "A linked list is a collection of nodes, each holding data and a pointer to the next node.",
+  "explanation_ne": "लिङ्क्ड लिस्ट नोडहरूको सङ्ग्रह हो, प्रत्येकमा डाटा र अर्को नोडतर्फको पोइन्टर हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-093",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Data Structures",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In a binary tree, each node has at most how many children?",
+  "question_ne": "बाइनरी ट्रीमा प्रत्येक नोडका बढीमा कति सन्तान हुन्छन्?",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "4"
+  ],
+  "options_ne": [
+   "२",
+   "१",
+   "३",
+   "४"
+  ],
+  "answer": 0,
+  "explanation": "In a binary tree, each node has at most two children (left and right).",
+  "explanation_ne": "बाइनरी ट्रीमा प्रत्येक नोडका बढीमा दुई सन्तान (बायाँ र दायाँ) हुन्छन्।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-094",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Data Structures",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which traversal of a binary search tree gives the keys in sorted order?",
+  "question_ne": "बाइनरी सर्च ट्रीको कुन ट्राभर्सलले कुञ्जीलाई सर्टेड क्रममा दिन्छ?",
+  "options": [
+   "Pre-order traversal",
+   "In-order traversal",
+   "Post-order traversal",
+   "Level-order traversal"
+  ],
+  "options_ne": [
+   "प्रि-अर्डर ट्राभर्सल",
+   "इन-अर्डर ट्राभर्सल",
+   "पोस्ट-अर्डर ट्राभर्सल",
+   "लेभल-अर्डर ट्राभर्सल"
+  ],
+  "answer": 1,
+  "explanation": "In-order traversal of a binary search tree visits keys in ascending sorted order.",
+  "explanation_ne": "बाइनरी सर्च ट्रीको इन-अर्डर ट्राभर्सलले कुञ्जीलाई बढ्दो सर्टेड क्रममा भेट्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-095",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "OOP Concepts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What does OOP stand for?",
+  "question_ne": "OOP को पूरा रूप के हो?",
+  "options": [
+   "Open Operating Program",
+   "Object-Ordered Processing",
+   "Object-Oriented Programming",
+   "Object-Oriented Protocol"
+  ],
+  "options_ne": [
+   "ओपन अपरेटिङ प्रोग्राम",
+   "अब्जेक्ट-अर्डर्ड प्रोसेसिङ",
+   "अब्जेक्ट-ओरिएन्टेड प्रोग्रामिङ",
+   "अब्जेक्ट-ओरिएन्टेड प्रोटोकल"
+  ],
+  "answer": 2,
+  "explanation": "OOP stands for Object-Oriented Programming.",
+  "explanation_ne": "OOP को पूरा रूप अब्जेक्ट-ओरिएन्टेड प्रोग्रामिङ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-096",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "OOP Concepts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which is NOT a pillar of object-oriented programming?",
+  "question_ne": "निम्नमध्ये कुन अब्जेक्ट-ओरिएन्टेड प्रोग्रामिङको स्तम्भ होइन?",
+  "options": [
+   "Polymorphism",
+   "Encapsulation",
+   "Inheritance",
+   "Compilation"
+  ],
+  "options_ne": [
+   "पोलिमर्फिज्म",
+   "इन्क्याप्सुलेसन",
+   "इन्हेरिटेन्स",
+   "कम्पाइलेसन"
+  ],
+  "answer": 3,
+  "explanation": "The four pillars of OOP are encapsulation, abstraction, inheritance and polymorphism; compilation is not one.",
+  "explanation_ne": "OOP का चार स्तम्भ इन्क्याप्सुलेसन, एब्स्ट्र्याक्सन, इन्हेरिटेन्स र पोलिमर्फिज्म हुन्; कम्पाइलेसन होइन।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-097",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "OOP Concepts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Encapsulation in OOP means what?",
+  "question_ne": "OOP मा इन्क्याप्सुलेसन भनेको के हो?",
+  "options": [
+   "Bundling data and methods that operate on it into one unit",
+   "Inheriting from a parent class",
+   "Using the same method name differently",
+   "Hiding the program code"
+  ],
+  "options_ne": [
+   "डाटा र त्यसमा काम गर्ने विधिलाई एक एकाइमा बाँध्नु",
+   "अभिभावक वर्गबाट उत्तराधिकार लिनु",
+   "एउटै विधिको नाम फरक तरिकाले प्रयोग गर्नु",
+   "प्रोग्राम कोड लुकाउनु"
+  ],
+  "answer": 0,
+  "explanation": "Encapsulation bundles data and the methods that operate on it into a single unit (a class) and restricts direct access.",
+  "explanation_ne": "इन्क्याप्सुलेसनले डाटा र त्यसमा काम गर्ने विधिलाई एक एकाइ (वर्ग) मा बाँध्छ र प्रत्यक्ष पहुँच सीमित गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-098",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "OOP Concepts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Inheritance in OOP allows what?",
+  "question_ne": "OOP मा इन्हेरिटेन्सले के गर्न दिन्छ?",
+  "options": [
+   "A program to run faster",
+   "A class to acquire properties of another class",
+   "Data to be hidden",
+   "Multiple programs to share memory"
+  ],
+  "options_ne": [
+   "प्रोग्राम छिटो चलाउन",
+   "एउटा वर्गले अर्को वर्गका गुण प्राप्त गर्न",
+   "डाटा लुकाउन",
+   "धेरै प्रोग्रामले मेमोरी साझा गर्न"
+  ],
+  "answer": 1,
+  "explanation": "Inheritance lets a class (child) acquire the properties and methods of another class (parent).",
+  "explanation_ne": "इन्हेरिटेन्सले एउटा वर्ग (सन्तान) लाई अर्को वर्ग (अभिभावक) का गुण र विधि प्राप्त गर्न दिन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-099",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "OOP Concepts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Polymorphism in OOP means what?",
+  "question_ne": "OOP मा पोलिमर्फिज्म भनेको के हो?",
+  "options": [
+   "Hiding data",
+   "One class only",
+   "The same interface taking many forms",
+   "Compiling once"
+  ],
+  "options_ne": [
+   "डाटा लुकाउनु",
+   "केवल एक वर्ग",
+   "एउटै इन्टरफेसले धेरै रूप लिनु",
+   "एक पटक कम्पाइल गर्नु"
+  ],
+  "answer": 2,
+  "explanation": "Polymorphism means the same interface or method can take many forms, e.g. method overriding and overloading.",
+  "explanation_ne": "पोलिमर्फिज्म भनेको एउटै इन्टरफेस वा विधिले धेरै रूप लिन सक्नु हो, जस्तै विधि ओभरराइडिङ र ओभरलोडिङ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-100",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CSIT Entrance",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which is the first university in Nepal to offer BSc CSIT?",
+  "question_ne": "BSc CSIT प्रस्ताव गर्ने नेपालको पहिलो विश्वविद्यालय कुन हो?",
+  "options": [
+   "Purbanchal University",
+   "Kathmandu University",
+   "Pokhara University",
+   "Tribhuvan University"
+  ],
+  "options_ne": [
+   "पूर्वाञ्चल विश्वविद्यालय",
+   "काठमाडौं विश्वविद्यालय",
+   "पोखरा विश्वविद्यालय",
+   "त्रिभुवन विश्वविद्यालय"
+  ],
+  "answer": 3,
+  "explanation": "BSc CSIT is offered by Tribhuvan University through its Institute of Science and Technology (IOST).",
+  "explanation_ne": "BSc CSIT त्रिभुवन विश्वविद्यालयले विज्ञान तथा प्रविधि अध्ययन संस्थान (IOST) मार्फत प्रस्ताव गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-101",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CSIT Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The BSc CSIT entrance examination has how many MCQs?",
+  "question_ne": "BSc CSIT प्रवेश परीक्षामा कति बहुविकल्पीय प्रश्न छन्?",
+  "options": [
+   "100",
+   "50",
+   "140",
+   "200"
+  ],
+  "options_ne": [
+   "१००",
+   "५०",
+   "१४०",
+   "२००"
+  ],
+  "answer": 0,
+  "explanation": "The BSc CSIT entrance has 100 MCQs worth 100 marks in 2 hours, with no negative marking and a pass mark of 35.",
+  "explanation_ne": "BSc CSIT प्रवेश परीक्षामा १०० बहुविकल्पीय प्रश्न, १०० अङ्क, २ घण्टा हुन्छ, नकारात्मक अङ्कन हुँदैन र उत्तीर्ण अङ्क ३५ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-102",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CSIT Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "What is the pass mark for the BSc CSIT entrance examination?",
+  "question_ne": "BSc CSIT प्रवेश परीक्षाको उत्तीर्ण अङ्क कति हो?",
+  "options": [
+   "40",
+   "35",
+   "45",
+   "50"
+  ],
+  "options_ne": [
+   "४०",
+   "३५",
+   "४५",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "The pass mark for the BSc CSIT entrance is 35 out of 100.",
+  "explanation_ne": "BSc CSIT प्रवेश परीक्षाको उत्तीर्ण अङ्क १०० मा ३५ हो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-103",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CSIT Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many marks is the Mathematics section worth in the BSc CSIT entrance?",
+  "question_ne": "BSc CSIT प्रवेश परीक्षामा गणित खण्ड कति अङ्कको हुन्छ?",
+  "options": [
+   "15",
+   "50",
+   "25",
+   "10"
+  ],
+  "options_ne": [
+   "१५",
+   "५०",
+   "२५",
+   "१०"
+  ],
+  "answer": 2,
+  "explanation": "The CSIT entrance is Maths 25, Physics 25, Chemistry 25, English 15 and Computer GK 10.",
+  "explanation_ne": "CSIT प्रवेश परीक्षा गणित २५, भौतिकशास्त्र २५, रसायनशास्त्र २५, अङ्ग्रेजी १५ र कम्प्युटर सामान्य ज्ञान १० को हुन्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-104",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "CSIT Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many marks is the Computer GK section worth in the BSc CSIT entrance?",
+  "question_ne": "BSc CSIT प्रवेश परीक्षामा कम्प्युटर सामान्य ज्ञान खण्ड कति अङ्कको हुन्छ?",
+  "options": [
+   "20",
+   "25",
+   "15",
+   "10"
+  ],
+  "options_ne": [
+   "२०",
+   "२५",
+   "१५",
+   "१०"
+  ],
+  "answer": 3,
+  "explanation": "Computer GK is worth 10 marks in the CSIT entrance (Maths 25, Physics 25, Chemistry 25, English 15).",
+  "explanation_ne": "कम्प्युटर सामान्य ज्ञान CSIT प्रवेश परीक्षामा १० अङ्कको हुन्छ (गणित २५, भौतिकशास्त्र २५, रसायनशास्त्र २५, अङ्ग्रेजी १५)।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-106",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Web & Programming",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Assembly language is converted to machine code by which program?",
+  "question_ne": "एसेम्बली भाषालाई मेसिन कोडमा कुन प्रोग्रामले रूपान्तरण गर्छ?",
+  "options": [
+   "Compiler",
+   "Assembler",
+   "Interpreter",
+   "Linker"
+  ],
+  "options_ne": [
+   "कम्पाइलर",
+   "एसेम्बलर",
+   "इन्टरप्रेटर",
+   "लिङ्कर"
+  ],
+  "answer": 1,
+  "explanation": "An assembler converts assembly language into machine code.",
+  "explanation_ne": "एसेम्बलरले एसेम्बली भाषालाई मेसिन कोडमा रूपान्तरण गर्छ।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-107",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer History",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The first computer programmer is generally regarded as whom?",
+  "question_ne": "पहिलो कम्प्युटर प्रोग्रामर सामान्यतया कसलाई मानिन्छ?",
+  "options": [
+   "Alan Turing",
+   "Charles Babbage",
+   "Ada Lovelace",
+   "Bill Gates"
+  ],
+  "options_ne": [
+   "एलन ट्युरिङ",
+   "चार्ल्स ब्याबेज",
+   "एडा लभलेस",
+   "बिल गेट्स"
+  ],
+  "answer": 2,
+  "explanation": "Ada Lovelace is regarded as the first computer programmer for her work on Babbage's Analytical Engine.",
+  "explanation_ne": "एडा लभलेस ब्याबेजको एनालिटिकल इन्जिनमा गरेको कामका लागि पहिलो कम्प्युटर प्रोग्रामर मानिन्छिन्।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-108",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer History",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Charles Babbage is known as the father of what?",
+  "question_ne": "चार्ल्स ब्याबेज कुनका पिता भनेर चिनिन्छन्?",
+  "options": [
+   "The printing press",
+   "The internet",
+   "The telephone",
+   "The computer"
+  ],
+  "options_ne": [
+   "छपाइखाना",
+   "इन्टरनेट",
+   "टेलिफोन",
+   "कम्प्युटर"
+  ],
+  "answer": 3,
+  "explanation": "Charles Babbage is known as the father of the computer for designing the Analytical Engine.",
+  "explanation_ne": "चार्ल्स ब्याबेज एनालिटिकल इन्जिन डिजाइन गरेकाले कम्प्युटरका पिता भनेर चिनिन्छन्।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-110",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer History",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The first electronic computer, ENIAC, was completed in which year?",
+  "question_ne": "पहिलो इलेक्ट्रोनिक कम्प्युटर, ENIAC, कुन वर्ष पूरा भयो?",
+  "options": [
+   "1935",
+   "1945",
+   "1955",
+   "1965"
+  ],
+  "options_ne": [
+   "१९३५",
+   "१९४५",
+   "१९५५",
+   "१९६५"
+  ],
+  "answer": 1,
+  "explanation": "ENIAC (Electronic Numerical Integrator and Computer) was completed in 1945.",
+  "explanation_ne": "ENIAC (इलेक्ट्रोनिक न्युमेरिकल इन्टिग्रेटर एन्ड कम्प्युटर) सन् १९४५ मा पूरा भयो।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "CSIT5-111",
+  "exam": [
+   "csit-entrance"
+  ],
+  "topic": "Computer & ICT",
+  "subtopic": "Computer History",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which generation of computers used integrated circuits?",
+  "question_ne": "कम्प्युटरको कुन पुस्ताले इन्टिग्रेटेड सर्किट प्रयोग गर्‍यो?",
+  "options": [
+   "Second generation",
+   "First generation",
+   "Third generation",
+   "Fourth generation"
+  ],
+  "options_ne": [
+   "दोस्रो पुस्ता",
+   "पहिलो पुस्ता",
+   "तेस्रो पुस्ता",
+   "चौथो पुस्ता"
+  ],
+  "answer": 2,
+  "explanation": "Third-generation computers used integrated circuits (ICs).",
+  "explanation_ne": "तेस्रो पुस्ताका कम्प्युटरले इन्टिग्रेटेड सर्किट (IC) प्रयोग गरे।",
+  "source": "BSc CSIT Entrance — TU IOST syllabus"
+ },
+ {
+  "id": "IOE5-001",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 8 kg at 6 m/s²?",
+  "question_ne": "८ किग्रा द्रव्यमानलाई ६ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "48 N",
+   "53 N",
+   "43 N",
+   "96 N"
+  ],
+  "options_ne": [
+   "४८ N",
+   "५३ N",
+   "४३ N",
+   "९६ N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 8 x 6 = 48 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ८ × ६ = ४८ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-002",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 3 kg at 4 m/s²?",
+  "question_ne": "३ किग्रा द्रव्यमानलाई ४ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "17 N",
+   "12 N",
+   "7 N",
+   "24 N"
+  ],
+  "options_ne": [
+   "१७ N",
+   "१२ N",
+   "७ N",
+   "२४ N"
+  ],
+  "answer": 1,
+  "explanation": "Force = mass x acceleration = 3 x 4 = 12 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ३ × ४ = १२ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-003",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 6 kg at 2 m/s²?",
+  "question_ne": "६ किग्रा द्रव्यमानलाई २ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "7 N",
+   "17 N",
+   "12 N",
+   "24 N"
+  ],
+  "options_ne": [
+   "७ N",
+   "१७ N",
+   "१२ N",
+   "२४ N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 6 x 2 = 12 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ६ × २ = १२ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-004",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 3 kg at 3 m/s²?",
+  "question_ne": "३ किग्रा द्रव्यमानलाई ३ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "18 N",
+   "14 N",
+   "4 N",
+   "9 N"
+  ],
+  "options_ne": [
+   "१८ N",
+   "१४ N",
+   "४ N",
+   "९ N"
+  ],
+  "answer": 3,
+  "explanation": "Force = mass x acceleration = 3 x 3 = 9 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ३ × ३ = ९ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-005",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 4 kg at 2 m/s²?",
+  "question_ne": "४ किग्रा द्रव्यमानलाई २ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "8 N",
+   "13 N",
+   "3 N",
+   "16 N"
+  ],
+  "options_ne": [
+   "८ N",
+   "१३ N",
+   "३ N",
+   "१६ N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 4 x 2 = 8 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ४ × २ = ८ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-006",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 6 kg at 5 m/s²?",
+  "question_ne": "६ किग्रा द्रव्यमानलाई ५ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "35 N",
+   "30 N",
+   "25 N",
+   "60 N"
+  ],
+  "options_ne": [
+   "३५ N",
+   "३० N",
+   "२५ N",
+   "६० N"
+  ],
+  "answer": 1,
+  "explanation": "Force = mass x acceleration = 6 x 5 = 30 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ६ × ५ = ३० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-007",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 6 kg at 4 m/s²?",
+  "question_ne": "६ किग्रा द्रव्यमानलाई ४ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "19 N",
+   "29 N",
+   "24 N",
+   "48 N"
+  ],
+  "options_ne": [
+   "१९ N",
+   "२९ N",
+   "२४ N",
+   "४८ N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 6 x 4 = 24 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ६ × ४ = २४ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-008",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 8 kg at 4 m/s²?",
+  "question_ne": "८ किग्रा द्रव्यमानलाई ४ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "64 N",
+   "37 N",
+   "27 N",
+   "32 N"
+  ],
+  "options_ne": [
+   "६४ N",
+   "३७ N",
+   "२७ N",
+   "३२ N"
+  ],
+  "answer": 3,
+  "explanation": "Force = mass x acceleration = 8 x 4 = 32 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ८ × ४ = ३२ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-009",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 3 kg at 2 m/s²?",
+  "question_ne": "३ किग्रा द्रव्यमानलाई २ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "6 N",
+   "11 N",
+   "1 N",
+   "12 N"
+  ],
+  "options_ne": [
+   "६ N",
+   "११ N",
+   "१ N",
+   "१२ N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 3 x 2 = 6 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ३ × २ = ६ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-011",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 8 kg at 10 m/s²?",
+  "question_ne": "८ किग्रा द्रव्यमानलाई १० मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "75 N",
+   "85 N",
+   "80 N",
+   "160 N"
+  ],
+  "options_ne": [
+   "७५ N",
+   "८५ N",
+   "८० N",
+   "१६० N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 8 x 10 = 80 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ८ × १० = ८० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-012",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 8 kg at 3 m/s²?",
+  "question_ne": "८ किग्रा द्रव्यमानलाई ३ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "48 N",
+   "29 N",
+   "19 N",
+   "24 N"
+  ],
+  "options_ne": [
+   "४८ N",
+   "२९ N",
+   "१९ N",
+   "२४ N"
+  ],
+  "answer": 3,
+  "explanation": "Force = mass x acceleration = 8 x 3 = 24 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ८ × ३ = २४ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-013",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 5 kg at 3 m/s²?",
+  "question_ne": "५ किग्रा द्रव्यमानलाई ३ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "15 N",
+   "20 N",
+   "10 N",
+   "30 N"
+  ],
+  "options_ne": [
+   "१५ N",
+   "२० N",
+   "१० N",
+   "३० N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 5 x 3 = 15 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ५ × ३ = १५ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-014",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 4 kg at 4 m/s²?",
+  "question_ne": "४ किग्रा द्रव्यमानलाई ४ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "21 N",
+   "16 N",
+   "11 N",
+   "32 N"
+  ],
+  "options_ne": [
+   "२१ N",
+   "१६ N",
+   "११ N",
+   "३२ N"
+  ],
+  "answer": 1,
+  "explanation": "Force = mass x acceleration = 4 x 4 = 16 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ४ × ४ = १६ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-015",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 10 kg at 3 m/s²?",
+  "question_ne": "१० किग्रा द्रव्यमानलाई ३ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "25 N",
+   "35 N",
+   "30 N",
+   "60 N"
+  ],
+  "options_ne": [
+   "२५ N",
+   "३५ N",
+   "३० N",
+   "६० N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 10 x 3 = 30 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = १० × ३ = ३० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-017",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 10 kg at 10 m/s²?",
+  "question_ne": "१० किग्रा द्रव्यमानलाई १० मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "100 N",
+   "105 N",
+   "95 N",
+   "200 N"
+  ],
+  "options_ne": [
+   "१०० N",
+   "१०५ N",
+   "९५ N",
+   "२०० N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 10 x 10 = 100 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = १० × १० = १०० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-018",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 2 kg at 10 m/s²?",
+  "question_ne": "२ किग्रा द्रव्यमानलाई १० मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "25 N",
+   "20 N",
+   "15 N",
+   "40 N"
+  ],
+  "options_ne": [
+   "२५ N",
+   "२० N",
+   "१५ N",
+   "४० N"
+  ],
+  "answer": 1,
+  "explanation": "Force = mass x acceleration = 2 x 10 = 20 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = २ × १० = २० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-019",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 10 kg at 5 m/s²?",
+  "question_ne": "१० किग्रा द्रव्यमानलाई ५ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "45 N",
+   "55 N",
+   "50 N",
+   "100 N"
+  ],
+  "options_ne": [
+   "४५ N",
+   "५५ N",
+   "५० N",
+   "१०० N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 10 x 5 = 50 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = १० × ५ = ५० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-020",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 4 kg at 10 m/s²?",
+  "question_ne": "४ किग्रा द्रव्यमानलाई १० मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "80 N",
+   "45 N",
+   "35 N",
+   "40 N"
+  ],
+  "options_ne": [
+   "८० N",
+   "४५ N",
+   "३५ N",
+   "४० N"
+  ],
+  "answer": 3,
+  "explanation": "Force = mass x acceleration = 4 x 10 = 40 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ४ × १० = ४० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-021",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 8 kg at 5 m/s²?",
+  "question_ne": "८ किग्रा द्रव्यमानलाई ५ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "40 N",
+   "45 N",
+   "35 N",
+   "80 N"
+  ],
+  "options_ne": [
+   "४० N",
+   "४५ N",
+   "३५ N",
+   "८० N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 8 x 5 = 40 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ८ × ५ = ४० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-023",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 5 kg at 5 m/s²?",
+  "question_ne": "५ किग्रा द्रव्यमानलाई ५ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "20 N",
+   "30 N",
+   "25 N",
+   "50 N"
+  ],
+  "options_ne": [
+   "२० N",
+   "३० N",
+   "२५ N",
+   "५० N"
+  ],
+  "answer": 2,
+  "explanation": "Force = mass x acceleration = 5 x 5 = 25 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ५ × ५ = २५ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-024",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 5 kg at 2 m/s²?",
+  "question_ne": "५ किग्रा द्रव्यमानलाई २ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "20 N",
+   "15 N",
+   "5 N",
+   "10 N"
+  ],
+  "options_ne": [
+   "२० N",
+   "१५ N",
+   "५ N",
+   "१० N"
+  ],
+  "answer": 3,
+  "explanation": "Force = mass x acceleration = 5 x 2 = 10 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = ५ × २ = १० N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-025",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the force required to accelerate a mass of 2 kg at 2 m/s²?",
+  "question_ne": "२ किग्रा द्रव्यमानलाई २ मि/से² को त्वरण दिन आवश्यक बल कति हो?",
+  "options": [
+   "4 N",
+   "9 N",
+   "14 N",
+   "8 N"
+  ],
+  "options_ne": [
+   "४ N",
+   "९ N",
+   "१४ N",
+   "८ N"
+  ],
+  "answer": 0,
+  "explanation": "Force = mass x acceleration = 2 x 2 = 4 N.",
+  "explanation_ne": "बल = द्रव्यमान × त्वरण = २ × २ = ४ N।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-026",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 6 kg object moving at 3 m/s?",
+  "question_ne": "३ मि/से को गतिमा चलिरहेको ६ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "37 J",
+   "27 J",
+   "17 J",
+   "54 J"
+  ],
+  "options_ne": [
+   "३७ J",
+   "२७ J",
+   "१७ J",
+   "५४ J"
+  ],
+  "answer": 1,
+  "explanation": "KE = 1/2 mv² = 1/2 x 6 x 3² = 27 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ६ × ३² = २७ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-027",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 10 kg object moving at 6 m/s?",
+  "question_ne": "६ मि/से को गतिमा चलिरहेको १० किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "170 J",
+   "190 J",
+   "180 J",
+   "360 J"
+  ],
+  "options_ne": [
+   "१७० J",
+   "१९० J",
+   "१८० J",
+   "३६० J"
+  ],
+  "answer": 2,
+  "explanation": "KE = 1/2 mv² = 1/2 x 10 x 6² = 180 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × १० × ६² = १८० J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-028",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 8 kg object moving at 2 m/s?",
+  "question_ne": "२ मि/से को गतिमा चलिरहेको ८ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "32 J",
+   "26 J",
+   "6 J",
+   "16 J"
+  ],
+  "options_ne": [
+   "३२ J",
+   "२६ J",
+   "६ J",
+   "१६ J"
+  ],
+  "answer": 3,
+  "explanation": "KE = 1/2 mv² = 1/2 x 8 x 2² = 16 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ८ × २² = १६ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-029",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 6 kg object moving at 2 m/s?",
+  "question_ne": "२ मि/से को गतिमा चलिरहेको ६ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "12 J",
+   "22 J",
+   "2 J",
+   "24 J"
+  ],
+  "options_ne": [
+   "१२ J",
+   "२२ J",
+   "२ J",
+   "२४ J"
+  ],
+  "answer": 0,
+  "explanation": "KE = 1/2 mv² = 1/2 x 6 x 2² = 12 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ६ × २² = १२ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-030",
+  "exam": [
+   "ioe-entrance",
+   "csit-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 10 kg object moving at 2 m/s?",
+  "question_ne": "२ मि/से को गतिमा चलिरहेको १० किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "30 J",
+   "20 J",
+   "10 J",
+   "40 J"
+  ],
+  "options_ne": [
+   "३० J",
+   "२० J",
+   "१० J",
+   "४० J"
+  ],
+  "answer": 1,
+  "explanation": "KE = 1/2 mv² = 1/2 x 10 x 2² = 20 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × १० × २² = २० J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-031",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 2 kg object moving at 4 m/s?",
+  "question_ne": "४ मि/से को गतिमा चलिरहेको २ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "6 J",
+   "26 J",
+   "16 J",
+   "32 J"
+  ],
+  "options_ne": [
+   "६ J",
+   "२६ J",
+   "१६ J",
+   "३२ J"
+  ],
+  "answer": 2,
+  "explanation": "KE = 1/2 mv² = 1/2 x 2 x 4² = 16 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × २ × ४² = १६ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-032",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 8 kg object moving at 6 m/s?",
+  "question_ne": "६ मि/से को गतिमा चलिरहेको ८ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "288 J",
+   "154 J",
+   "134 J",
+   "144 J"
+  ],
+  "options_ne": [
+   "२८८ J",
+   "१५४ J",
+   "१३४ J",
+   "१४४ J"
+  ],
+  "answer": 3,
+  "explanation": "KE = 1/2 mv² = 1/2 x 8 x 6² = 144 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ८ × ६² = १४४ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-033",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 10 kg object moving at 5 m/s?",
+  "question_ne": "५ मि/से को गतिमा चलिरहेको १० किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "125 J",
+   "135 J",
+   "115 J",
+   "250 J"
+  ],
+  "options_ne": [
+   "१२५ J",
+   "१३५ J",
+   "११५ J",
+   "२५० J"
+  ],
+  "answer": 0,
+  "explanation": "KE = 1/2 mv² = 1/2 x 10 x 5² = 125 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × १० × ५² = १२५ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-034",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 2 kg object moving at 6 m/s?",
+  "question_ne": "६ मि/से को गतिमा चलिरहेको २ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "46 J",
+   "36 J",
+   "26 J",
+   "72 J"
+  ],
+  "options_ne": [
+   "४६ J",
+   "३६ J",
+   "२६ J",
+   "७२ J"
+  ],
+  "answer": 1,
+  "explanation": "KE = 1/2 mv² = 1/2 x 2 x 6² = 36 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × २ × ६² = ३६ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-035",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 8 kg object moving at 4 m/s?",
+  "question_ne": "४ मि/से को गतिमा चलिरहेको ८ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "54 J",
+   "74 J",
+   "64 J",
+   "128 J"
+  ],
+  "options_ne": [
+   "५४ J",
+   "७४ J",
+   "६४ J",
+   "१२८ J"
+  ],
+  "answer": 2,
+  "explanation": "KE = 1/2 mv² = 1/2 x 8 x 4² = 64 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ८ × ४² = ६४ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-036",
+  "exam": [
+   "ioe-entrance",
+   "csit-entrance",
+   "mecee-bl",
+   "nec-licence"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 2 kg object moving at 3 m/s?",
+  "question_ne": "३ मि/से को गतिमा चलिरहेको २ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "18 J",
+   "19 J",
+   "29 J",
+   "9 J"
+  ],
+  "options_ne": [
+   "१८ J",
+   "१९ J",
+   "२९ J",
+   "९ J"
+  ],
+  "answer": 3,
+  "explanation": "KE = 1/2 mv² = 1/2 x 2 x 3² = 9 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × २ × ३² = ९ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-037",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 6 kg object moving at 6 m/s?",
+  "question_ne": "६ मि/से को गतिमा चलिरहेको ६ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "108 J",
+   "118 J",
+   "98 J",
+   "216 J"
+  ],
+  "options_ne": [
+   "१०८ J",
+   "११८ J",
+   "९८ J",
+   "२१६ J"
+  ],
+  "answer": 0,
+  "explanation": "KE = 1/2 mv² = 1/2 x 6 x 6² = 108 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ६ × ६² = १०८ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-038",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 10 kg object moving at 10 m/s?",
+  "question_ne": "१० मि/से को गतिमा चलिरहेको १० किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "510 J",
+   "500 J",
+   "490 J",
+   "1000 J"
+  ],
+  "options_ne": [
+   "५१० J",
+   "५०० J",
+   "४९० J",
+   "१००० J"
+  ],
+  "answer": 1,
+  "explanation": "KE = 1/2 mv² = 1/2 x 10 x 10² = 500 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × १० × १०² = ५०० J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-039",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 4 kg object moving at 10 m/s?",
+  "question_ne": "१० मि/से को गतिमा चलिरहेको ४ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "190 J",
+   "210 J",
+   "200 J",
+   "400 J"
+  ],
+  "options_ne": [
+   "१९० J",
+   "२१० J",
+   "२०० J",
+   "४०० J"
+  ],
+  "answer": 2,
+  "explanation": "KE = 1/2 mv² = 1/2 x 4 x 10² = 200 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ४ × १०² = २०० J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-040",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 8 kg object moving at 3 m/s?",
+  "question_ne": "३ मि/से को गतिमा चलिरहेको ८ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "72 J",
+   "46 J",
+   "26 J",
+   "36 J"
+  ],
+  "options_ne": [
+   "७२ J",
+   "४६ J",
+   "२६ J",
+   "३६ J"
+  ],
+  "answer": 3,
+  "explanation": "KE = 1/2 mv² = 1/2 x 8 x 3² = 36 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ८ × ३² = ३६ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-041",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 4 kg object moving at 4 m/s?",
+  "question_ne": "४ मि/से को गतिमा चलिरहेको ४ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "32 J",
+   "42 J",
+   "22 J",
+   "64 J"
+  ],
+  "options_ne": [
+   "३२ J",
+   "४२ J",
+   "२२ J",
+   "६४ J"
+  ],
+  "answer": 0,
+  "explanation": "KE = 1/2 mv² = 1/2 x 4 x 4² = 32 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ४ × ४² = ३२ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-042",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 4 kg object moving at 5 m/s?",
+  "question_ne": "५ मि/से को गतिमा चलिरहेको ४ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "60 J",
+   "50 J",
+   "40 J",
+   "100 J"
+  ],
+  "options_ne": [
+   "६० J",
+   "५० J",
+   "४० J",
+   "१०० J"
+  ],
+  "answer": 1,
+  "explanation": "KE = 1/2 mv² = 1/2 x 4 x 5² = 50 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ४ × ५² = ५० J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-043",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Work, Energy and Power",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the kinetic energy of a 4 kg object moving at 2 m/s?",
+  "question_ne": "२ मि/से को गतिमा चलिरहेको ४ किग्रा वस्तुको गतिज ऊर्जा कति हो?",
+  "options": [
+   "28 J",
+   "18 J",
+   "8 J",
+   "16 J"
+  ],
+  "options_ne": [
+   "२८ J",
+   "१८ J",
+   "८ J",
+   "१६ J"
+  ],
+  "answer": 2,
+  "explanation": "KE = 1/2 mv² = 1/2 x 4 x 2² = 8 J.",
+  "explanation_ne": "गतिज ऊर्जा = १/२ mv² = १/२ × ४ × २² = ८ J।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-044",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 4 Ω resistor when a current of 10 A flows through it?",
+  "question_ne": "४ Ω प्रतिरोधकमा १० A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "50 V",
+   "45 V",
+   "35 V",
+   "40 V"
+  ],
+  "options_ne": [
+   "५० V",
+   "४५ V",
+   "३५ V",
+   "४० V"
+  ],
+  "answer": 3,
+  "explanation": "V = IR = 10 x 4 = 40 V.",
+  "explanation_ne": "V = IR = १० × ४ = ४० V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-045",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 2 Ω resistor when a current of 3 A flows through it?",
+  "question_ne": "२ Ω प्रतिरोधकमा ३ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "6 V",
+   "11 V",
+   "1 V",
+   "9 V"
+  ],
+  "options_ne": [
+   "६ V",
+   "११ V",
+   "१ V",
+   "९ V"
+  ],
+  "answer": 0,
+  "explanation": "V = IR = 3 x 2 = 6 V.",
+  "explanation_ne": "V = IR = ३ × २ = ६ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-047",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 2 Ω resistor when a current of 6 A flows through it?",
+  "question_ne": "२ Ω प्रतिरोधकमा ६ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "7 V",
+   "17 V",
+   "12 V",
+   "18 V"
+  ],
+  "options_ne": [
+   "७ V",
+   "१७ V",
+   "१२ V",
+   "१८ V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 6 x 2 = 12 V.",
+  "explanation_ne": "V = IR = ६ × २ = १२ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-048",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 5 Ω resistor when a current of 6 A flows through it?",
+  "question_ne": "५ Ω प्रतिरोधकमा ६ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "36 V",
+   "35 V",
+   "25 V",
+   "30 V"
+  ],
+  "options_ne": [
+   "३६ V",
+   "३५ V",
+   "२५ V",
+   "३० V"
+  ],
+  "answer": 3,
+  "explanation": "V = IR = 6 x 5 = 30 V.",
+  "explanation_ne": "V = IR = ६ × ५ = ३० V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-050",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 6 Ω resistor when a current of 6 A flows through it?",
+  "question_ne": "६ Ω प्रतिरोधकमा ६ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "41 V",
+   "36 V",
+   "31 V",
+   "42 V"
+  ],
+  "options_ne": [
+   "४१ V",
+   "३६ V",
+   "३१ V",
+   "४२ V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 6 x 6 = 36 V.",
+  "explanation_ne": "V = IR = ६ × ६ = ३६ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-051",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 12 Ω resistor when a current of 6 A flows through it?",
+  "question_ne": "१२ Ω प्रतिरोधकमा ६ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "67 V",
+   "77 V",
+   "72 V",
+   "78 V"
+  ],
+  "options_ne": [
+   "६७ V",
+   "७७ V",
+   "७२ V",
+   "७८ V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 6 x 12 = 72 V.",
+  "explanation_ne": "V = IR = ६ × १२ = ७२ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-052",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 10 Ω resistor when a current of 6 A flows through it?",
+  "question_ne": "१० Ω प्रतिरोधकमा ६ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "66 V",
+   "65 V",
+   "55 V",
+   "60 V"
+  ],
+  "options_ne": [
+   "६६ V",
+   "६५ V",
+   "५५ V",
+   "६० V"
+  ],
+  "answer": 3,
+  "explanation": "V = IR = 6 x 10 = 60 V.",
+  "explanation_ne": "V = IR = ६ × १० = ६० V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-054",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 2 Ω resistor when a current of 10 A flows through it?",
+  "question_ne": "२ Ω प्रतिरोधकमा १० A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "25 V",
+   "20 V",
+   "15 V",
+   "30 V"
+  ],
+  "options_ne": [
+   "२५ V",
+   "२० V",
+   "१५ V",
+   "३० V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 10 x 2 = 20 V.",
+  "explanation_ne": "V = IR = १० × २ = २० V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-055",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 2 Ω resistor when a current of 4 A flows through it?",
+  "question_ne": "२ Ω प्रतिरोधकमा ४ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "3 V",
+   "13 V",
+   "8 V",
+   "12 V"
+  ],
+  "options_ne": [
+   "३ V",
+   "१३ V",
+   "८ V",
+   "१२ V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 4 x 2 = 8 V.",
+  "explanation_ne": "V = IR = ४ × २ = ८ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-056",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 5 Ω resistor when a current of 3 A flows through it?",
+  "question_ne": "५ Ω प्रतिरोधकमा ३ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "18 V",
+   "20 V",
+   "10 V",
+   "15 V"
+  ],
+  "options_ne": [
+   "१८ V",
+   "२० V",
+   "१० V",
+   "१५ V"
+  ],
+  "answer": 3,
+  "explanation": "V = IR = 3 x 5 = 15 V.",
+  "explanation_ne": "V = IR = ३ × ५ = १५ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-057",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 2 Ω resistor when a current of 2 A flows through it?",
+  "question_ne": "२ Ω प्रतिरोधकमा २ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "4 V",
+   "9 V",
+   "14 V",
+   "6 V"
+  ],
+  "options_ne": [
+   "४ V",
+   "९ V",
+   "१४ V",
+   "६ V"
+  ],
+  "answer": 0,
+  "explanation": "V = IR = 2 x 2 = 4 V.",
+  "explanation_ne": "V = IR = २ × २ = ४ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-058",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 12 Ω resistor when a current of 4 A flows through it?",
+  "question_ne": "१२ Ω प्रतिरोधकमा ४ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "53 V",
+   "48 V",
+   "43 V",
+   "52 V"
+  ],
+  "options_ne": [
+   "५३ V",
+   "४८ V",
+   "४३ V",
+   "५२ V"
+  ],
+  "answer": 1,
+  "explanation": "V = IR = 4 x 12 = 48 V.",
+  "explanation_ne": "V = IR = ४ × १२ = ४८ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-059",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 4 Ω resistor when a current of 4 A flows through it?",
+  "question_ne": "४ Ω प्रतिरोधकमा ४ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "11 V",
+   "21 V",
+   "16 V",
+   "20 V"
+  ],
+  "options_ne": [
+   "११ V",
+   "२१ V",
+   "१६ V",
+   "२० V"
+  ],
+  "answer": 2,
+  "explanation": "V = IR = 4 x 4 = 16 V.",
+  "explanation_ne": "V = IR = ४ × ४ = १६ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-060",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 5 Ω resistor when a current of 2 A flows through it?",
+  "question_ne": "५ Ω प्रतिरोधकमा २ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "12 V",
+   "15 V",
+   "5 V",
+   "10 V"
+  ],
+  "options_ne": [
+   "१२ V",
+   "१५ V",
+   "५ V",
+   "१० V"
+  ],
+  "answer": 3,
+  "explanation": "V = IR = 2 x 5 = 10 V.",
+  "explanation_ne": "V = IR = २ × ५ = १० V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-061",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the voltage across a 3 Ω resistor when a current of 4 A flows through it?",
+  "question_ne": "३ Ω प्रतिरोधकमा ४ A विद्युत् प्रवाह हुँदा त्यसको भोल्टेज कति हो?",
+  "options": [
+   "12 V",
+   "17 V",
+   "7 V",
+   "16 V"
+  ],
+  "options_ne": [
+   "१२ V",
+   "१७ V",
+   "७ V",
+   "१६ V"
+  ],
+  "answer": 0,
+  "explanation": "V = IR = 4 x 3 = 12 V.",
+  "explanation_ne": "V = IR = ४ × ३ = १२ V।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-062",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 10 V with a current of 4 A?",
+  "question_ne": "१० V मा ४ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "60 W",
+   "40 W",
+   "20 W",
+   "80 W"
+  ],
+  "options_ne": [
+   "६० W",
+   "४० W",
+   "२० W",
+   "८० W"
+  ],
+  "answer": 1,
+  "explanation": "Power = VI = 10 x 4 = 40 W.",
+  "explanation_ne": "शक्ति = VI = १० × ४ = ४० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-063",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 24 V with a current of 3 A?",
+  "question_ne": "२४ V मा ३ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "52 W",
+   "92 W",
+   "72 W",
+   "144 W"
+  ],
+  "options_ne": [
+   "५२ W",
+   "९२ W",
+   "७२ W",
+   "१४४ W"
+  ],
+  "answer": 2,
+  "explanation": "Power = VI = 24 x 3 = 72 W.",
+  "explanation_ne": "शक्ति = VI = २४ × ३ = ७२ W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-064",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 100 V with a current of 10 A?",
+  "question_ne": "१०० V मा १० A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "2000 W",
+   "1020 W",
+   "980 W",
+   "1000 W"
+  ],
+  "options_ne": [
+   "२००० W",
+   "१०२० W",
+   "९८० W",
+   "१००० W"
+  ],
+  "answer": 3,
+  "explanation": "Power = VI = 100 x 10 = 1000 W.",
+  "explanation_ne": "शक्ति = VI = १०० × १० = १००० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-065",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 100 V with a current of 2 A?",
+  "question_ne": "१०० V मा २ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "200 W",
+   "220 W",
+   "180 W",
+   "400 W"
+  ],
+  "options_ne": [
+   "२०० W",
+   "२२० W",
+   "१८० W",
+   "४०० W"
+  ],
+  "answer": 0,
+  "explanation": "Power = VI = 100 x 2 = 200 W.",
+  "explanation_ne": "शक्ति = VI = १०० × २ = २०० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-066",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 100 V with a current of 3 A?",
+  "question_ne": "१०० V मा ३ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "320 W",
+   "300 W",
+   "280 W",
+   "600 W"
+  ],
+  "options_ne": [
+   "३२० W",
+   "३०० W",
+   "२८० W",
+   "६०० W"
+  ],
+  "answer": 1,
+  "explanation": "Power = VI = 100 x 3 = 300 W.",
+  "explanation_ne": "शक्ति = VI = १०० × ३ = ३०० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-067",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 24 V with a current of 10 A?",
+  "question_ne": "२४ V मा १० A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "220 W",
+   "260 W",
+   "240 W",
+   "480 W"
+  ],
+  "options_ne": [
+   "२२० W",
+   "२६० W",
+   "२४० W",
+   "४८० W"
+  ],
+  "answer": 2,
+  "explanation": "Power = VI = 24 x 10 = 240 W.",
+  "explanation_ne": "शक्ति = VI = २४ × १० = २४० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-068",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 100 V with a current of 5 A?",
+  "question_ne": "१०० V मा ५ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "1000 W",
+   "520 W",
+   "480 W",
+   "500 W"
+  ],
+  "options_ne": [
+   "१००० W",
+   "५२० W",
+   "४८० W",
+   "५०० W"
+  ],
+  "answer": 3,
+  "explanation": "Power = VI = 100 x 5 = 500 W.",
+  "explanation_ne": "शक्ति = VI = १०० × ५ = ५०० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-069",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 220 V with a current of 4 A?",
+  "question_ne": "२२० V मा ४ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "880 W",
+   "900 W",
+   "860 W",
+   "1760 W"
+  ],
+  "options_ne": [
+   "८८० W",
+   "९०० W",
+   "८६० W",
+   "१७६० W"
+  ],
+  "answer": 0,
+  "explanation": "Power = VI = 220 x 4 = 880 W.",
+  "explanation_ne": "शक्ति = VI = २२० × ४ = ८८० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-070",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 20 V with a current of 3 A?",
+  "question_ne": "२० V मा ३ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "80 W",
+   "60 W",
+   "40 W",
+   "120 W"
+  ],
+  "options_ne": [
+   "८० W",
+   "६० W",
+   "४० W",
+   "१२० W"
+  ],
+  "answer": 1,
+  "explanation": "Power = VI = 20 x 3 = 60 W.",
+  "explanation_ne": "शक्ति = VI = २० × ३ = ६० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-071",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 10 V with a current of 3 A?",
+  "question_ne": "१० V मा ३ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "10 W",
+   "50 W",
+   "30 W",
+   "60 W"
+  ],
+  "options_ne": [
+   "१० W",
+   "५० W",
+   "३० W",
+   "६० W"
+  ],
+  "answer": 2,
+  "explanation": "Power = VI = 10 x 3 = 30 W.",
+  "explanation_ne": "शक्ति = VI = १० × ३ = ३० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-072",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 12 V with a current of 6 A?",
+  "question_ne": "१२ V मा ६ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "144 W",
+   "92 W",
+   "52 W",
+   "72 W"
+  ],
+  "options_ne": [
+   "१४४ W",
+   "९२ W",
+   "५२ W",
+   "७२ W"
+  ],
+  "answer": 3,
+  "explanation": "Power = VI = 12 x 6 = 72 W.",
+  "explanation_ne": "शक्ति = VI = १२ × ६ = ७२ W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-073",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 220 V with a current of 10 A?",
+  "question_ne": "२२० V मा १० A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "2200 W",
+   "2220 W",
+   "2180 W",
+   "4400 W"
+  ],
+  "options_ne": [
+   "२२०० W",
+   "२२२० W",
+   "२१८० W",
+   "४४०० W"
+  ],
+  "answer": 0,
+  "explanation": "Power = VI = 220 x 10 = 2200 W.",
+  "explanation_ne": "शक्ति = VI = २२० × १० = २२०० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-074",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 24 V with a current of 2 A?",
+  "question_ne": "२४ V मा २ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "68 W",
+   "48 W",
+   "28 W",
+   "96 W"
+  ],
+  "options_ne": [
+   "६८ W",
+   "४८ W",
+   "२८ W",
+   "९६ W"
+  ],
+  "answer": 1,
+  "explanation": "Power = VI = 24 x 2 = 48 W.",
+  "explanation_ne": "शक्ति = VI = २४ × २ = ४८ W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-075",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the power consumed by a device operating at 20 V with a current of 5 A?",
+  "question_ne": "२० V मा ५ A विद्युत् लिएर चल्ने उपकरणले खपत गर्ने शक्ति कति हो?",
+  "options": [
+   "80 W",
+   "120 W",
+   "100 W",
+   "200 W"
+  ],
+  "options_ne": [
+   "८० W",
+   "१२० W",
+   "१०० W",
+   "२०० W"
+  ],
+  "answer": 2,
+  "explanation": "Power = VI = 20 x 5 = 100 W.",
+  "explanation_ne": "शक्ति = VI = २० × ५ = १०० W।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-076",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trigonometry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the value of sin 0°?",
+  "question_ne": "sin ०° को मान कति हो?",
+  "options": [
+   "√3/2",
+   "0.5",
+   "1",
+   "0"
+  ],
+  "options_ne": [
+   "√३/२",
+   "०.५",
+   "१",
+   "०"
+  ],
+  "answer": 3,
+  "explanation": "The value of sin 0° is 0.",
+  "explanation_ne": "sin ०° को मान ० हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-077",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trigonometry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the value of tan 0°?",
+  "question_ne": "tan ०° को मान कति हो?",
+  "options": [
+   "0",
+   "0.5",
+   "1",
+   "√3/2"
+  ],
+  "options_ne": [
+   "०",
+   "०.५",
+   "१",
+   "√३/२"
+  ],
+  "answer": 0,
+  "explanation": "The value of tan 0° is 0.",
+  "explanation_ne": "tan ०° को मान ० हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-078",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trigonometry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the value of cos 90°?",
+  "question_ne": "cos ९०° को मान कति हो?",
+  "options": [
+   "0.5",
+   "0",
+   "1",
+   "√3/2"
+  ],
+  "options_ne": [
+   "०.५",
+   "०",
+   "१",
+   "√३/२"
+  ],
+  "answer": 1,
+  "explanation": "The value of cos 90° is 0.",
+  "explanation_ne": "cos ९०° को मान ० हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-086",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Newton's third law states that every action has what?",
+  "question_ne": "न्युटनको तेस्रो नियमले प्रत्येक क्रियाको के हुन्छ भन्छ?",
+  "options": [
+   "A greater reaction",
+   "An equal and opposite reaction",
+   "No reaction",
+   "A delayed reaction"
+  ],
+  "options_ne": [
+   "ठूलो प्रतिक्रिया",
+   "बराबर र विपरीत प्रतिक्रिया",
+   "कुनै प्रतिक्रिया हुँदैन",
+   "ढिलो प्रतिक्रिया"
+  ],
+  "answer": 1,
+  "explanation": "Newton's third law: for every action there is an equal and opposite reaction.",
+  "explanation_ne": "न्युटनको तेस्रो नियम: प्रत्येक क्रियाको बराबर र विपरीत प्रतिक्रिया हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-087",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Laws of Motion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Momentum is defined as mass times what?",
+  "question_ne": "संवेगलाई द्रव्यमान गुणन के भनेर परिभाषित गरिन्छ?",
+  "options": [
+   "Force",
+   "Acceleration",
+   "Velocity",
+   "Time"
+  ],
+  "options_ne": [
+   "बल",
+   "त्वरण",
+   "वेग",
+   "समय"
+  ],
+  "answer": 2,
+  "explanation": "Momentum p = mass x velocity.",
+  "explanation_ne": "संवेग p = द्रव्यमान × वेग हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-088",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Vectors",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a scalar quantity?",
+  "question_ne": "निम्नमध्ये कुन अदिश राशि हो?",
+  "options": [
+   "Force",
+   "Velocity",
+   "Acceleration",
+   "Speed"
+  ],
+  "options_ne": [
+   "बल",
+   "वेग",
+   "त्वरण",
+   "चाल"
+  ],
+  "answer": 3,
+  "explanation": "Speed has magnitude only, so it is a scalar; velocity, acceleration and force are vectors.",
+  "explanation_ne": "चालमा केवल परिमाण हुन्छ, त्यसैले यो अदिश हो; वेग, त्वरण र बल सदिश हुन्।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-089",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Light",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The speed of light in a vacuum is approximately what?",
+  "question_ne": "शून्यतामा प्रकाशको गति लगभग कति हो?",
+  "options": [
+   "3 × 10⁸ m/s",
+   "3 × 10⁶ m/s",
+   "3 × 10⁵ m/s",
+   "1.5 × 10⁸ m/s"
+  ],
+  "options_ne": [
+   "३ × १०⁸ मि/से",
+   "३ × १०⁶ मि/से",
+   "३ × १०⁵ मि/से",
+   "१.५ × १०⁸ मि/से"
+  ],
+  "answer": 0,
+  "explanation": "The speed of light in a vacuum is about 3 × 10⁸ m/s.",
+  "explanation_ne": "शून्यतामा प्रकाशको गति करिब ३ × १०⁸ मि/से हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-091",
+  "exam": [
+   "ioe-entrance",
+   "mecee-bl"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Sound",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sound travels fastest through which medium?",
+  "question_ne": "ध्वनि कुन माध्यमबाट सबैभन्दा छिटो चल्छ?",
+  "options": [
+   "Gas",
+   "Liquid",
+   "Solid",
+   "Vacuum"
+  ],
+  "options_ne": [
+   "ग्यास",
+   "तरल",
+   "ठोस",
+   "शून्यता"
+  ],
+  "answer": 2,
+  "explanation": "Sound travels fastest in solids, slower in liquids and slowest in gases; it cannot travel in a vacuum.",
+  "explanation_ne": "ध्वनि ठोसमा सबैभन्दा छिटो, तरलमा ढिलो र ग्यासमा सबैभन्दा ढिलो चल्छ; शून्यतामा चल्न सक्दैन।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-092",
+  "exam": [
+   "ioe-entrance",
+   "csit-entrance",
+   "kharidar",
+   "mecee-bl",
+   "nasu",
+   "nmc-mbbs",
+   "provincial-psc",
+   "section-officer"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Light",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The phenomenon of light bending as it passes from one medium to another is called what?",
+  "question_ne": "प्रकाश एक माध्यमबाट अर्कोमा जाँदा बाङ्गिनुलाई के भनिन्छ?",
+  "options": [
+   "Dispersion",
+   "Reflection",
+   "Diffraction",
+   "Refraction"
+  ],
+  "options_ne": [
+   "विक्षेपण",
+   "परावर्तन",
+   "विवर्तन",
+   "अपवर्तन"
+  ],
+  "answer": 3,
+  "explanation": "Refraction is the bending of light when it passes from one medium into another of different density.",
+  "explanation_ne": "अपवर्तन भनेको प्रकाश फरक घनत्वको एक माध्यमबाट अर्कोमा जाँदा बाङ्गिनु हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-093",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Light",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The splitting of white light into its colours is called what?",
+  "question_ne": "सेतो प्रकाशलाई यसका रङमा छुट्याउनुलाई के भनिन्छ?",
+  "options": [
+   "Dispersion",
+   "Refraction",
+   "Reflection",
+   "Interference"
+  ],
+  "options_ne": [
+   "विक्षेपण",
+   "अपवर्तन",
+   "परावर्तन",
+   "व्यतिकरण"
+  ],
+  "answer": 0,
+  "explanation": "Dispersion splits white light into its component colours, as in a prism forming a spectrum.",
+  "explanation_ne": "विक्षेपणले सेतो प्रकाशलाई यसका रङमा छुट्याउँछ, जस्तै प्रिज्मले वर्णक्रम बनाउँछ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-094",
+  "exam": [
+   "ioe-entrance",
+   "engineering",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Waves",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The SI unit of frequency is what?",
+  "question_ne": "आवृत्तिको SI एकाइ के हो?",
+  "options": [
+   "Second",
+   "Hertz",
+   "Metre",
+   "Decibel"
+  ],
+  "options_ne": [
+   "सेकेन्ड",
+   "हर्ट्ज",
+   "मिटर",
+   "डेसिबल"
+  ],
+  "answer": 1,
+  "explanation": "Frequency is measured in hertz (Hz), the number of cycles per second.",
+  "explanation_ne": "आवृत्ति हर्ट्ज (Hz) मा नापिन्छ, प्रति सेकेन्ड चक्र संख्या।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-095",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Waves",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The time period of a wave is the reciprocal of what?",
+  "question_ne": "तरङ्गको आवर्तकाल कुनको व्युत्क्रम हो?",
+  "options": [
+   "Amplitude",
+   "Wavelength",
+   "Frequency",
+   "Speed"
+  ],
+  "options_ne": [
+   "आयाम",
+   "तरङ्गदैर्ध्य",
+   "आवृत्ति",
+   "गति"
+  ],
+  "answer": 2,
+  "explanation": "Time period T = 1/frequency.",
+  "explanation_ne": "आवर्तकाल T = १/आवृत्ति हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-096",
+  "exam": [
+   "ioe-entrance",
+   "csit-entrance",
+   "mecee-bl",
+   "nec-licence"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ohm's law states that V equals what?",
+  "question_ne": "ओह्मको नियमले V के बराबर हुन्छ भन्छ?",
+  "options": [
+   "I²R",
+   "I/R",
+   "R/I",
+   "IR"
+  ],
+  "options_ne": [
+   "I²R",
+   "I/R",
+   "R/I",
+   "IR"
+  ],
+  "answer": 3,
+  "explanation": "Ohm's law: V = IR (voltage = current × resistance).",
+  "explanation_ne": "ओह्मको नियम: V = IR (भोल्टेज = विद्युत् × प्रतिरोध)।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-097",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Electrical resistance is measured in which unit?",
+  "question_ne": "विद्युत् प्रतिरोध कुन एकाइमा नापिन्छ?",
+  "options": [
+   "Ohm",
+   "Volt",
+   "Ampere",
+   "Watt"
+  ],
+  "options_ne": [
+   "ओह्म",
+   "भोल्ट",
+   "एम्पियर",
+   "वाट"
+  ],
+  "answer": 0,
+  "explanation": "Resistance is measured in ohms (Ω).",
+  "explanation_ne": "प्रतिरोध ओह्म (Ω) मा नापिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-098",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a series circuit, the current through each component is what?",
+  "question_ne": "श्रेणी सर्किटमा प्रत्येक घटकबाट बग्ने विद्युत् कस्तो हुन्छ?",
+  "options": [
+   "Different",
+   "The same",
+   "Zero",
+   "Doubled"
+  ],
+  "options_ne": [
+   "फरक",
+   "एउटै",
+   "शून्य",
+   "दोब्बर"
+  ],
+  "answer": 1,
+  "explanation": "In a series circuit the same current flows through every component.",
+  "explanation_ne": "श्रेणी सर्किटमा प्रत्येक घटकबाट एउटै विद्युत् बग्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-100",
+  "exam": [
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Physics",
+  "subtopic": "Physics — Electricity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which instrument measures voltage?",
+  "question_ne": "भोल्टेज नाप्ने उपकरण कुन हो?",
+  "options": [
+   "Barometer",
+   "Ammeter",
+   "Ohmmeter",
+   "Voltmeter"
+  ],
+  "options_ne": [
+   "ब्यारोमिटर",
+   "एम्मिटर",
+   "ओह्ममिटर",
+   "भोल्टमिटर"
+  ],
+  "answer": 3,
+  "explanation": "A voltmeter measures voltage and is connected in parallel.",
+  "explanation_ne": "भोल्टमिटरले भोल्टेज नाप्छ र समानान्तरमा जोडिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-102",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Basics",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The chemical symbol for common salt is what?",
+  "question_ne": "साधारण नुनको रासायनिक सङ्केत के हो?",
+  "options": [
+   "KCl",
+   "NaCl",
+   "CaCO₃",
+   "NaOH"
+  ],
+  "options_ne": [
+   "KCl",
+   "NaCl",
+   "CaCO₃",
+   "NaOH"
+  ],
+  "answer": 1,
+  "explanation": "Common salt is sodium chloride, NaCl.",
+  "explanation_ne": "साधारण नुन सोडियम क्लोराइड, NaCl हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-104",
+  "exam": [
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Basics",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The atomic number of carbon is what?",
+  "question_ne": "कार्बनको परमाणु संख्या कति हो?",
+  "options": [
+   "4",
+   "12",
+   "8",
+   "6"
+  ],
+  "options_ne": [
+   "४",
+   "१२",
+   "८",
+   "६"
+  ],
+  "answer": 3,
+  "explanation": "Carbon has atomic number 6 and atomic mass about 12.",
+  "explanation_ne": "कार्बनको परमाणु संख्या ६ र परमाणु भार करिब १२ हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-105",
+  "exam": [
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Basics",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The atomic number of oxygen is what?",
+  "question_ne": "अक्सिजनको परमाणु संख्या कति हो?",
+  "options": [
+   "8",
+   "6",
+   "16",
+   "10"
+  ],
+  "options_ne": [
+   "८",
+   "६",
+   "१६",
+   "१०"
+  ],
+  "answer": 0,
+  "explanation": "Oxygen has atomic number 8 and atomic mass about 16.",
+  "explanation_ne": "अक्सिजनको परमाणु संख्या ८ र परमाणु भार करिब १६ हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-108",
+  "exam": [
+   "ioe-entrance",
+   "kharidar",
+   "mecee-bl",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Acids and Bases",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The gas released when an acid reacts with a metal is usually which gas?",
+  "question_ne": "अम्लले धातुसँग प्रतिक्रिया गर्दा प्रायः कुन ग्यास निस्कन्छ?",
+  "options": [
+   "Nitrogen",
+   "Oxygen",
+   "Carbon dioxide",
+   "Hydrogen"
+  ],
+  "options_ne": [
+   "नाइट्रोजन",
+   "अक्सिजन",
+   "कार्बन डाइअक्साइड",
+   "हाइड्रोजन"
+  ],
+  "answer": 3,
+  "explanation": "Acids react with most metals to release hydrogen gas.",
+  "explanation_ne": "अम्लले धेरैजसो धातुसँग प्रतिक्रिया गरी हाइड्रोजन ग्यास निकाल्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-109",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Industrial Chemistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which gas is used in the Haber process to make ammonia?",
+  "question_ne": "अमोनिया बनाउने हेबर प्रक्रियामा कुन ग्यास प्रयोग हुन्छ?",
+  "options": [
+   "Nitrogen and hydrogen",
+   "Oxygen and hydrogen",
+   "Carbon dioxide and nitrogen",
+   "Methane and oxygen"
+  ],
+  "options_ne": [
+   "नाइट्रोजन र हाइड्रोजन",
+   "अक्सिजन र हाइड्रोजन",
+   "कार्बन डाइअक्साइड र नाइट्रोजन",
+   "मिथेन र अक्सिजन"
+  ],
+  "answer": 0,
+  "explanation": "The Haber process combines nitrogen and hydrogen to make ammonia (NH₃).",
+  "explanation_ne": "हेबर प्रक्रियाले नाइट्रोजन र हाइड्रोजन मिलाएर अमोनिया (NH₃) बनाउँछ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-111",
+  "exam": [
+   "ioe-entrance",
+   "csit-entrance",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Organic Chemistry",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The chemical formula of methane is what?",
+  "question_ne": "मिथेनको रासायनिक सूत्र के हो?",
+  "options": [
+   "CO₂",
+   "C₂H₆",
+   "CH₄",
+   "C₃H₈"
+  ],
+  "options_ne": [
+   "CO₂",
+   "C₂H₆",
+   "CH₄",
+   "C₃H₈"
+  ],
+  "answer": 2,
+  "explanation": "Methane is CH₄: one carbon atom and four hydrogen atoms.",
+  "explanation_ne": "मिथेन CH₄ हो: एक कार्बन परमाणु र चार हाइड्रोजन परमाणु।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-112",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Periodic Table",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The first element in the periodic table is which?",
+  "question_ne": "आवर्त तालिकाको पहिलो तत्त्व कुन हो?",
+  "options": [
+   "Carbon",
+   "Helium",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "options_ne": [
+   "कार्बन",
+   "हेलियम",
+   "अक्सिजन",
+   "हाइड्रोजन"
+  ],
+  "answer": 3,
+  "explanation": "Hydrogen (atomic number 1) is the first element in the periodic table.",
+  "explanation_ne": "हाइड्रोजन (परमाणु संख्या १) आवर्त तालिकाको पहिलो तत्त्व हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-113",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Periodic Table",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many groups are there in the modern periodic table?",
+  "question_ne": "आधुनिक आवर्त तालिकामा कति समूह छन्?",
+  "options": [
+   "18",
+   "8",
+   "7",
+   "10"
+  ],
+  "options_ne": [
+   "१८",
+   "८",
+   "७",
+   "१०"
+  ],
+  "answer": 0,
+  "explanation": "The modern periodic table has 18 groups and 7 periods.",
+  "explanation_ne": "आधुनिक आवर्त तालिकामा १८ समूह र ७ आवर्त छन्।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-114",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Chemistry",
+  "subtopic": "Chemistry — Periodic Table",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many periods are there in the modern periodic table?",
+  "question_ne": "आधुनिक आवर्त तालिकामा कति आवर्त छन्?",
+  "options": [
+   "18",
+   "7",
+   "8",
+   "6"
+  ],
+  "options_ne": [
+   "१८",
+   "७",
+   "८",
+   "६"
+  ],
+  "answer": 1,
+  "explanation": "The modern periodic table has 7 periods and 18 groups.",
+  "explanation_ne": "आधुनिक आवर्त तालिकामा ७ आवर्त र १८ समूह छन्।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-117",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Logarithms",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The value of log₁₀ 100 is what?",
+  "question_ne": "log₁₀ 100 को मान कति हो?",
+  "options": [
+   "2",
+   "10",
+   "1",
+   "0"
+  ],
+  "options_ne": [
+   "२",
+   "१०",
+   "१",
+   "०"
+  ],
+  "answer": 0,
+  "explanation": "log₁₀ 100 = 2, because 10² = 100.",
+  "explanation_ne": "log₁₀ 100 = २ हो, किनभने १०² = १००।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-118",
+  "exam": [
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Logarithms",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The value of log₁₀ 1000 is what?",
+  "question_ne": "log₁₀ 1000 को मान कति हो?",
+  "options": [
+   "10",
+   "3",
+   "2",
+   "1"
+  ],
+  "options_ne": [
+   "१०",
+   "३",
+   "२",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "log₁₀ 1000 = 3, because 10³ = 1000.",
+  "explanation_ne": "log₁₀ 1000 = ३ हो, किनभने १०³ = १०००।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-119",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Geometry",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The sum of the angles of a triangle is how many degrees?",
+  "question_ne": "त्रिभुजका कोणहरूको योग कति डिग्री हुन्छ?",
+  "options": [
+   "360°",
+   "90°",
+   "180°",
+   "270°"
+  ],
+  "options_ne": [
+   "३६०°",
+   "९०°",
+   "१८०°",
+   "२७०°"
+  ],
+  "answer": 2,
+  "explanation": "The interior angles of a triangle sum to 180°.",
+  "explanation_ne": "त्रिभुजका भित्री कोणहरूको योग १८०° हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-120",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Geometry",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The sum of the angles of a quadrilateral is how many degrees?",
+  "question_ne": "चतुर्भुजका कोणहरूको योग कति डिग्री हुन्छ?",
+  "options": [
+   "90°",
+   "180°",
+   "270°",
+   "360°"
+  ],
+  "options_ne": [
+   "९०°",
+   "१८०°",
+   "२७०°",
+   "३६०°"
+  ],
+  "answer": 3,
+  "explanation": "The interior angles of a quadrilateral sum to 360°.",
+  "explanation_ne": "चतुर्भुजका भित्री कोणहरूको योग ३६०° हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-121",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Geometry",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The area of a circle of radius r is given by which formula?",
+  "question_ne": "त्रिज्या r भएको वृत्तको क्षेत्रफल कुन सूत्रले दिइन्छ?",
+  "options": [
+   "πr²",
+   "2πr",
+   "πd",
+   "πr"
+  ],
+  "options_ne": [
+   "πr²",
+   "२πr",
+   "πd",
+   "πr"
+  ],
+  "answer": 0,
+  "explanation": "Area of a circle = πr²; circumference = 2πr.",
+  "explanation_ne": "वृत्तको क्षेत्रफल = πr²; परिधि = 2πr हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-122",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Maths — Geometry",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The circumference of a circle of radius r is given by which formula?",
+  "question_ne": "त्रिज्या r भएको वृत्तको परिधि कुन सूत्रले दिइन्छ?",
+  "options": [
+   "πr²",
+   "2πr",
+   "πd²",
+   "r²"
+  ],
+  "options_ne": [
+   "πr²",
+   "२πr",
+   "πd²",
+   "r²"
+  ],
+  "answer": 1,
+  "explanation": "Circumference = 2πr; area = πr².",
+  "explanation_ne": "परिधि = 2πr हो; क्षेत्रफल = πr² हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-123",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Views",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "In engineering drawing, the top view is also called what?",
+  "question_ne": "इन्जिनियरिङ रेखाचित्रमा टप भ्यु लाई के पनि भनिन्छ?",
+  "options": [
+   "Section",
+   "Elevation",
+   "Plan",
+   "Isometric view"
+  ],
+  "options_ne": [
+   "सेक्सन",
+   "एलिभेसन",
+   "प्लान",
+   "आइसोमेट्रिक भ्यु"
+  ],
+  "answer": 2,
+  "explanation": "The top view is called the plan; the front view is the elevation.",
+  "explanation_ne": "टप भ्यु लाई प्लान भनिन्छ; फ्रन्ट भ्यु लाई एलिभेसन भनिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-124",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Views",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "In engineering drawing, the front view is also called what?",
+  "question_ne": "इन्जिनियरिङ रेखाचित्रमा फ्रन्ट भ्यु लाई के पनि भनिन्छ?",
+  "options": [
+   "Auxiliary view",
+   "Plan",
+   "Section",
+   "Elevation"
+  ],
+  "options_ne": [
+   "अक्जिलियरी भ्यु",
+   "प्लान",
+   "सेक्सन",
+   "एलिभेसन"
+  ],
+  "answer": 3,
+  "explanation": "The front view is called the elevation; the top view is the plan.",
+  "explanation_ne": "फ्रन्ट भ्यु लाई एलिभेसन भनिन्छ; टप भ्यु लाई प्लान भनिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-125",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Views",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "An isometric view shows an object in how many dimensions?",
+  "question_ne": "आइसोमेट्रिक भ्युले वस्तुलाई कति आयाममा देखाउँछ?",
+  "options": [
+   "Three",
+   "Two",
+   "One",
+   "Four"
+  ],
+  "options_ne": [
+   "तीन",
+   "दुई",
+   "एक",
+   "चार"
+  ],
+  "answer": 0,
+  "explanation": "An isometric view shows an object in three dimensions (length, width and height).",
+  "explanation_ne": "आइसोमेट्रिक भ्युले वस्तुलाई तीन आयाममा (लम्बाइ, चौडाइ र उचाइ) देखाउँछ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-126",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Projection",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "In first-angle projection, the object is placed in which quadrant?",
+  "question_ne": "फर्स्ट-एङ्गल प्रोजेक्सनमा वस्तु कुन चतुर्थांशमा राखिन्छ?",
+  "options": [
+   "Third quadrant",
+   "First quadrant",
+   "Second quadrant",
+   "Fourth quadrant"
+  ],
+  "options_ne": [
+   "तेस्रो चतुर्थांश",
+   "पहिलो चतुर्थांश",
+   "दोस्रो चतुर्थांश",
+   "चौथो चतुर्थांश"
+  ],
+  "answer": 1,
+  "explanation": "In first-angle projection the object is placed in the first quadrant, above the horizontal plane and in front of the vertical plane.",
+  "explanation_ne": "फर्स्ट-एङ्गल प्रोजेक्सनमा वस्तु पहिलो चतुर्थांशमा, तेर्सो तलभन्दा माथि र ठाडो तलबाट अगाडि राखिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-127",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Projection",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "In third-angle projection, the object is placed in which quadrant?",
+  "question_ne": "थर्ड-एङ्गल प्रोजेक्सनमा वस्तु कुन चतुर्थांशमा राखिन्छ?",
+  "options": [
+   "Second quadrant",
+   "First quadrant",
+   "Third quadrant",
+   "Fourth quadrant"
+  ],
+  "options_ne": [
+   "दोस्रो चतुर्थांश",
+   "पहिलो चतुर्थांश",
+   "तेस्रो चतुर्थांश",
+   "चौथो चतुर्थांश"
+  ],
+  "answer": 2,
+  "explanation": "In third-angle projection the object is placed in the third quadrant.",
+  "explanation_ne": "थर्ड-एङ्गल प्रोजेक्सनमा वस्तु तेस्रो चतुर्थांशमा राखिन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-128",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Lines",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which line type is used for hidden edges in engineering drawing?",
+  "question_ne": "इन्जिनियरिङ रेखाचित्रमा लुकेका किनाराका लागि कुन रेखा प्रयोग हुन्छ?",
+  "options": [
+   "Dimension line",
+   "Continuous thick line",
+   "Centre line",
+   "Dashed line"
+  ],
+  "options_ne": [
+   "आयाम रेखा",
+   "निरन्तर बाक्लो रेखा",
+   "केन्द्र रेखा",
+   "ड्यास्ड रेखा"
+  ],
+  "answer": 3,
+  "explanation": "Hidden edges are shown with dashed (short-dash) lines.",
+  "explanation_ne": "लुकेका किनारा ड्यास्ड (छोटो ड्यास) रेखाले देखाइन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-129",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Engineering Drawing",
+  "subtopic": "Engineering Drawing — Lines",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which line type is used for the centre line of a circle?",
+  "question_ne": "वृत्तको केन्द्र रेखाका लागि कुन रेखा प्रयोग हुन्छ?",
+  "options": [
+   "Long-dash short-dash (chain) line",
+   "Continuous thick line",
+   "Dashed line",
+   "Dimension line"
+  ],
+  "options_ne": [
+   "लामो-ड्यास छोटो-ड्यास (चेन) रेखा",
+   "निरन्तर बाक्लो रेखा",
+   "ड्यास्ड रेखा",
+   "आयाम रेखा"
+  ],
+  "answer": 0,
+  "explanation": "Centre lines are drawn as long-dash short-dash (chain) lines.",
+  "explanation_ne": "केन्द्र रेखा लामो-ड्यास छोटो-ड्यास (चेन) रेखाले कोइन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-130",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The IOE entrance examination has how many questions in total?",
+  "question_ne": "IOE प्रवेश परीक्षामा जम्मा कति प्रश्न छन्?",
+  "options": [
+   "140",
+   "100",
+   "200",
+   "50"
+  ],
+  "options_ne": [
+   "१४०",
+   "१००",
+   "२००",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "The IOE entrance has 100 MCQs worth 140 marks (60 × 1 mark + 40 × 2 marks) in 2 hours.",
+  "explanation_ne": "IOE प्रवेश परीक्षामा १०० बहुविकल्पीय प्रश्न, १४० अङ्क (६० × १ अङ्क + ४० × २ अङ्क), २ घण्टा हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-131",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many marks is the IOE entrance examination worth in total?",
+  "question_ne": "IOE प्रवेश परीक्षाको जम्मा अङ्क कति हो?",
+  "options": [
+   "200",
+   "100",
+   "140",
+   "120"
+  ],
+  "options_ne": [
+   "२००",
+   "१००",
+   "१४०",
+   "१२०"
+  ],
+  "answer": 2,
+  "explanation": "The IOE entrance is worth 140 marks: 60 questions × 1 mark + 40 questions × 2 marks.",
+  "explanation_ne": "IOE प्रवेश परीक्षा १४० अङ्कको हुन्छ: ६० प्रश्न × १ अङ्क + ४० प्रश्न × २ अङ्क।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-132",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many marks is the Mathematics section worth in the IOE entrance?",
+  "question_ne": "IOE प्रवेश परीक्षामा गणित खण्ड कति अङ्कको हुन्छ?",
+  "options": [
+   "20",
+   "40",
+   "30",
+   "50"
+  ],
+  "options_ne": [
+   "२०",
+   "४०",
+   "३०",
+   "५०"
+  ],
+  "answer": 3,
+  "explanation": "In the IOE entrance, Maths is 50 marks, Physics 40, Chemistry 30 and English 20.",
+  "explanation_ne": "IOE प्रवेश परीक्षामा गणित ५०, भौतिकशास्त्र ४०, रसायनशास्त्र ३० र अङ्ग्रेजी २० अङ्कको हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-133",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "How many marks is the Physics section worth in the IOE entrance?",
+  "question_ne": "IOE प्रवेश परीक्षामा भौतिकशास्त्र खण्ड कति अङ्कको हुन्छ?",
+  "options": [
+   "40",
+   "50",
+   "30",
+   "20"
+  ],
+  "options_ne": [
+   "४०",
+   "५०",
+   "३०",
+   "२०"
+  ],
+  "answer": 0,
+  "explanation": "In the IOE entrance, Physics is 40 marks, Maths 50, Chemistry 30 and English 20.",
+  "explanation_ne": "IOE प्रवेश परीक्षामा भौतिकशास्त्र ४०, गणित ५०, रसायनशास्त्र ३० र अङ्ग्रेजी २० अङ्कको हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-134",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "What is the negative marking in the IOE entrance examination?",
+  "question_ne": "IOE प्रवेश परीक्षामा नकारात्मक अङ्कन कति छ?",
+  "options": [
+   "25% of the question's marks",
+   "10% of the question's marks",
+   "No negative marking",
+   "20% of the question's marks"
+  ],
+  "options_ne": [
+   "प्रश्नको अङ्कको २५%",
+   "प्रश्नको अङ्कको १०%",
+   "नकारात्मक अङ्कन छैन",
+   "प्रश्नको अङ्कको २०%"
+  ],
+  "answer": 1,
+  "explanation": "The IOE entrance deducts 10% of a question's marks for a wrong answer.",
+  "explanation_ne": "IOE प्रवेश परीक्षामा गलत उत्तरमा प्रश्नको अङ्कको १०% कटौती हुन्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-135",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "IOE Entrance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The IOE entrance examination is conducted by which institution?",
+  "question_ne": "IOE प्रवेश परीक्षा कुन संस्थाले सञ्चालन गर्छ?",
+  "options": [
+   "Kathmandu University",
+   "Institute of Science and Technology, TU",
+   "Institute of Engineering (IOE), Tribhuvan University",
+   "Nepal Engineering Council"
+  ],
+  "options_ne": [
+   "काठमाडौं विश्वविद्यालय",
+   "विज्ञान तथा प्रविधि अध्ययन संस्थान, त्रिभुवन विश्वविद्यालय",
+   "इन्स्टिच्युट अफ इन्जिनियरिङ (IOE), त्रिभुवन विश्वविद्यालय",
+   "नेपाल इन्जिनियरिङ काउन्सिल"
+  ],
+  "answer": 2,
+  "explanation": "The IOE entrance is conducted by the Institute of Engineering (IOE) of Tribhuvan University.",
+  "explanation_ne": "IOE प्रवेश परीक्षा त्रिभुवन विश्वविद्यालयको इन्स्टिच्युट अफ इन्जिनियरिङ (IOE) ले सञ्चालन गर्छ।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-136",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "English — Grammar",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which of the following is a correct sentence?",
+  "question_ne": "निम्नमध्ये कुन सही वाक्य हो?",
+  "options": [
+   "She is study for two hours.",
+   "She have been studying for two hours.",
+   "She has being studying for two hours.",
+   "She has been studying for two hours."
+  ],
+  "options_ne": [
+   "उनी दुई घण्टा अध्ययन गर्छिन्।",
+   "उनी दुई घण्टादेखि अध्ययन गरिरहेका छन्।",
+   "उनी दुई घण्टादेखि अध्ययन भइरहेकी छिन्।",
+   "उनी दुई घण्टादेखि अध्ययन गरिरहेकी छिन्।"
+  ],
+  "answer": 3,
+  "explanation": "'She has been studying for two hours' is the correct present perfect continuous form.",
+  "explanation_ne": "'She has been studying for two hours' सही प्रेजेन्ट पर्फेक्ट कन्टिन्युअस रूप हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-137",
+  "exam": [
+   "ioe-entrance"
+  ],
+  "topic": "English",
+  "subtopic": "English — Grammar",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Choose the correct passive voice of 'The teacher praised the student.'",
+  "question_ne": "'The teacher praised the student.' को सही कर्मवाच्य कुन हो?",
+  "options": [
+   "The student was praised by the teacher.",
+   "The student is praised by the teacher.",
+   "The student has praised by the teacher.",
+   "The teacher was praised by the student."
+  ],
+  "options_ne": [
+   "विद्यार्थीलाई शिक्षकले प्रशंसा गरे।",
+   "विद्यार्थीलाई शिक्षकले प्रशंसा गर्छन्।",
+   "विद्यार्थीले शिक्षकलाई प्रशंसा गरे।",
+   "शिक्षकलाई विद्यार्थीले प्रशंसा गरे।"
+  ],
+  "answer": 0,
+  "explanation": "The passive of the past simple 'praised' is 'was praised'.",
+  "explanation_ne": "भूतकाल 'praised' को कर्मवाच्य 'was praised' हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ },
+ {
+  "id": "IOE5-139",
+  "exam": [
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "nrb-assistant",
+   "section-officer"
+  ],
+  "topic": "English",
+  "subtopic": "English — Vocabulary",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The antonym of 'brave' is what?",
+  "question_ne": "'brave' को विलोम के हो?",
+  "options": [
+   "Strong",
+   "Bold",
+   "Cowardly",
+   "Heroic"
+  ],
+  "options_ne": [
+   "बलियो",
+   "साहसी",
+   "डरपोक",
+   "वीर"
+  ],
+  "answer": 2,
+  "explanation": "'Cowardly' is the antonym of 'brave'.",
+  "explanation_ne": "'Cowardly' 'brave' को विलोम हो।",
+  "source": "IOE Entrance — TU Institute of Engineering syllabus"
+ }
+]

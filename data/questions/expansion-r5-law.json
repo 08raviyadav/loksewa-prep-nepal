@@ -1,0 +1,4819 @@
+[
+ {
+  "id": "LAW5-003",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Who appoints judges of the Supreme Court of Nepal?",
+  "question_ne": "नेपालको सर्वोच्च अदालतका न्यायाधीश कसले नियुक्त गर्छ?",
+  "options": [
+   "The Chief Justice alone",
+   "The Prime Minister alone",
+   "The President, on the recommendation of the Judicial Council",
+   "The Parliament by vote"
+  ],
+  "options_ne": [
+   "प्रधानन्यायाधीशले एक्लै",
+   "प्रधानमन्त्रीले एक्लै",
+   "राष्ट्रपतिले न्याय परिषद्को सिफारिसमा",
+   "संसद्ले मतदानबाट"
+  ],
+  "answer": 2,
+  "explanation": "Supreme Court judges are appointed by the President on the recommendation of the Judicial Council.",
+  "explanation_ne": "सर्वोच्च अदालतका न्यायाधीश राष्ट्रपतिले न्याय परिषद्को सिफारिसमा नियुक्त गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-004",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the retirement age of a Supreme Court judge in Nepal?",
+  "question_ne": "नेपालमा सर्वोच्च अदालतका न्यायाधीशको अवकाश उमेर कति हो?",
+  "options": [
+   "58 years",
+   "60 years",
+   "70 years",
+   "65 years"
+  ],
+  "options_ne": [
+   "५८ वर्ष",
+   "६० वर्ष",
+   "७० वर्ष",
+   "६५ वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "A Supreme Court judge retires at 65 years of age.",
+  "explanation_ne": "सर्वोच्च अदालतका न्यायाधीश ६५ वर्षको उमेरमा अवकाश पाउँछन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-006",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which writ is issued to produce a person illegally detained before a court?",
+  "question_ne": "गैरकानुनी रूपमा थुनिएको व्यक्तिलाई अदालतसमक्ष उपस्थित गराउन कुन रिट जारी हुन्छ?",
+  "options": [
+   "Mandamus",
+   "Habeas corpus",
+   "Certiorari",
+   "Quo warranto"
+  ],
+  "options_ne": [
+   "परमादेश",
+   "बन्दी प्रत्यक्षीकरण",
+   "उत्प्रेषण",
+   "अधिकार पृच्छा"
+  ],
+  "answer": 1,
+  "explanation": "Habeas corpus (Bandi Pratyakshikaran) orders the production of a person detained unlawfully.",
+  "explanation_ne": "बन्दी प्रत्यक्षीकरणले गैरकानुनी रूपमा थुनिएको व्यक्तिलाई उपस्थित गराउन आदेश दिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-007",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which writ orders a public authority to perform its legal duty?",
+  "question_ne": "सार्वजनिक अधिकारीलाई कानुनी कर्तव्य पूरा गर्न आदेश दिने रिट कुन हो?",
+  "options": [
+   "Prohibition",
+   "Habeas corpus",
+   "Mandamus",
+   "Certiorari"
+  ],
+  "options_ne": [
+   "निषेधाज्ञा",
+   "बन्दी प्रत्यक्षीकरण",
+   "परमादेश",
+   "उत्प्रेषण"
+  ],
+  "answer": 2,
+  "explanation": "Mandamus (Paramadesh) commands a public authority to perform a duty it is legally bound to perform.",
+  "explanation_ne": "परमादेशले सार्वजनिक अधिकारीलाई कानुनले बाँधिएको कर्तव्य पूरा गर्न आदेश दिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-008",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which writ is issued to quash the decision of a lower court or tribunal?",
+  "question_ne": "तल्लो अदालत वा न्यायाधिकरणको निर्णय बदर गर्न कुन रिट जारी हुन्छ?",
+  "options": [
+   "Prohibition",
+   "Mandamus",
+   "Habeas corpus",
+   "Certiorari"
+  ],
+  "options_ne": [
+   "निषेधाज्ञा",
+   "परमादेश",
+   "बन्दी प्रत्यक्षीकरण",
+   "उत्प्रेषण"
+  ],
+  "answer": 3,
+  "explanation": "Certiorari (Utpreshan) quashes a decision of a lower court or tribunal made without jurisdiction or in excess of it.",
+  "explanation_ne": "उत्प्रेषणले क्षेत्राधिकारबिना वा त्यसभन्दा बढी गरी गरिएको तल्लो अदालत वा न्यायाधिकरणको निर्णय बदर गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-009",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which writ prevents a lower court from proceeding in excess of its jurisdiction?",
+  "question_ne": "तल्लो अदालतलाई क्षेत्राधिकारभन्दा बढी कारबाही गर्न रोक्ने रिट कुन हो?",
+  "options": [
+   "Prohibition",
+   "Certiorari",
+   "Mandamus",
+   "Quo warranto"
+  ],
+  "options_ne": [
+   "निषेधाज्ञा",
+   "उत्प्रेषण",
+   "परमादेश",
+   "अधिकार पृच्छा"
+  ],
+  "answer": 0,
+  "explanation": "Prohibition (Nishedhagya) prevents a lower court or tribunal from acting beyond its jurisdiction.",
+  "explanation_ne": "निषेधाज्ञाले तल्लो अदालत वा न्यायाधिकरणलाई क्षेत्राधिकारभन्दा बाहिर काम गर्न रोक्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-010",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which writ questions by what authority a person holds a public office?",
+  "question_ne": "कुन अधिकारले व्यक्ति सार्वजनिक पद धारण गरेको छ भनी प्रश्न गर्ने रिट कुन हो?",
+  "options": [
+   "Habeas corpus",
+   "Quo warranto",
+   "Mandamus",
+   "Certiorari"
+  ],
+  "options_ne": [
+   "बन्दी प्रत्यक्षीकरण",
+   "अधिकार पृच्छा",
+   "परमादेश",
+   "उत्प्रेषण"
+  ],
+  "answer": 1,
+  "explanation": "Quo warranto (Adhikar Prichchha) asks by what authority a person holds a public office.",
+  "explanation_ne": "अधिकार पृच्छाले कुन अधिकारले व्यक्ति सार्वजनिक पद धारण गरेको छ भनी प्रश्न गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-011",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Writs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many writs can the Supreme Court of Nepal issue under Article 133?",
+  "question_ne": "धारा १३३ अनुसार नेपालको सर्वोच्च अदालतले कति रिट जारी गर्न सक्छ?",
+  "options": [
+   "Seven",
+   "Three",
+   "Five",
+   "Four"
+  ],
+  "options_ne": [
+   "सात",
+   "तीन",
+   "पाँच",
+   "चार"
+  ],
+  "answer": 2,
+  "explanation": "Under Article 133, the Supreme Court can issue five writs: habeas corpus, mandamus, certiorari, prohibition and quo warranto.",
+  "explanation_ne": "धारा १३३ अनुसार सर्वोच्च अदालतले पाँच रिट जारी गर्न सक्छ: बन्दी प्रत्यक्षीकरण, परमादेश, उत्प्रेषण, निषेधाज्ञा र अधिकार पृच्छा।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-012",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The Muluki Civil Code, 2074 came into force on which date?",
+  "question_ne": "मुलुकी देवानी संहिता, २०७४ कहिले लागू भयो?",
+  "options": [
+   "20 September 2015",
+   "1 January 2018",
+   "15 April 2017",
+   "17 August 2018 (Bhadra 1, 2075)"
+  ],
+  "options_ne": [
+   "२० सेप्टेम्बर २०१५",
+   "१ जनवरी २०१८",
+   "१५ अप्रिल २०१७",
+   "१७ अगस्ट २०१८ (भदौ १, २०७५)"
+  ],
+  "answer": 3,
+  "explanation": "The Muluki Civil Code, 2074 and the Muluki Criminal Code, 2074 both came into force on 17 August 2018 (Bhadra 1, 2075).",
+  "explanation_ne": "मुलुकी देवानी संहिता, २०७४ र मुलुकी अपराध संहिता, २०७४ दुवै १७ अगस्ट २०१८ (भदौ १, २०७५) मा लागू भए।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-013",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The Muluki Criminal Code, 2074 came into force on which date?",
+  "question_ne": "मुलुकी अपराध संहिता, २०७४ कहिले लागू भयो?",
+  "options": [
+   "17 August 2018 (Bhadra 1, 2075)",
+   "20 September 2015",
+   "1 January 2019",
+   "15 April 2017"
+  ],
+  "options_ne": [
+   "१७ अगस्ट २०१८ (भदौ १, २०७५)",
+   "२० सेप्टेम्बर २०१५",
+   "१ जनवरी २०१९",
+   "१५ अप्रिल २०१७"
+  ],
+  "answer": 0,
+  "explanation": "The Muluki Criminal Code, 2074 came into force on 17 August 2018 (Bhadra 1, 2075), replacing the Muluki Ain, 2020.",
+  "explanation_ne": "मुलुकी अपराध संहिता, २०७४ १७ अगस्ट २०१८ (भदौ १, २०७५) मा लागू भई मुलुकी ऐन, २०२० लाई प्रतिस्थापन गर्‍यो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-014",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which code replaced the Muluki Ain, 2020 in Nepal?",
+  "question_ne": "नेपालमा मुलुकी ऐन, २०२० लाई कुन संहिताले प्रतिस्थापन गर्‍यो?",
+  "options": [
+   "Constitution of Nepal 2072",
+   "Muluki Civil Code, 2074 and Muluki Criminal Code, 2074",
+   "Evidence Act, 2031",
+   "Civil Procedure Code, 2074"
+  ],
+  "options_ne": [
+   "नेपालको संविधान २०७२",
+   "मुलुकी देवानी संहिता, २०७४ र मुलुकी अपराध संहिता, २०७४",
+   "प्रमाण ऐन, २०३१",
+   "देवानी कार्यविधि संहिता, २०७४"
+  ],
+  "answer": 1,
+  "explanation": "The Muluki Civil Code, 2074 and Muluki Criminal Code, 2074 replaced the Muluki Ain, 2020 on 17 August 2018.",
+  "explanation_ne": "मुलुकी देवानी संहिता, २०७४ र मुलुकी अपराध संहिता, २०७४ ले १७ अगस्ट २०१८ मा मुलुकी ऐन, २०२० लाई प्रतिस्थापन गरे।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-015",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the legal age of majority in Nepal?",
+  "question_ne": "नेपालमा वयस्कताको कानुनी उमेर कति हो?",
+  "options": [
+   "21 years",
+   "16 years",
+   "18 years",
+   "20 years"
+  ],
+  "options_ne": [
+   "२१ वर्ष",
+   "१६ वर्ष",
+   "१८ वर्ष",
+   "२० वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "A person attains majority at 18 years of age in Nepal.",
+  "explanation_ne": "नेपालमा व्यक्ति १८ वर्षको उमेरमा वयस्क हुन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-016",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the minimum legal age of marriage in Nepal?",
+  "question_ne": "नेपालमा विवाहको न्यूनतम कानुनी उमेर कति हो?",
+  "options": [
+   "21 years",
+   "18 years",
+   "16 years",
+   "20 years"
+  ],
+  "options_ne": [
+   "२१ वर्ष",
+   "१८ वर्ष",
+   "१६ वर्ष",
+   "२० वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "The minimum legal age of marriage in Nepal is 20 years for both men and women.",
+  "explanation_ne": "नेपालमा विवाहको न्यूनतम कानुनी उमेर पुरुष र महिला दुवैका लागि २० वर्ष हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-017",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Muluki Codes",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Child marriage in Nepal is punishable under which law?",
+  "question_ne": "नेपालमा बाल विवाह कुन कानुनअन्तर्गत दण्डनीय छ?",
+  "options": [
+   "Muluki Criminal Code, 2074",
+   "Constitution only",
+   "Evidence Act, 2031",
+   "Local Government Operation Act, 2074"
+  ],
+  "options_ne": [
+   "मुलुकी अपराध संहिता, २०७४",
+   "केवल संविधान",
+   "प्रमाण ऐन, २०३१",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४"
+  ],
+  "answer": 0,
+  "explanation": "Child marriage is an offence under the Muluki Criminal Code, 2074, punishable with imprisonment and a fine.",
+  "explanation_ne": "बाल विवाह मुलुकी अपराध संहिता, २०७४ अन्तर्गत अपराध हो, कैद र जरिवानाले दण्डनीय छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-018",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Act governs the legal profession and advocate licensing in Nepal?",
+  "question_ne": "नेपालमा कानुनी पेशा र अधिवक्ता लाइसेन्स कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Advocates Act, 2028",
+   "Nepal Bar Council Act, 2050",
+   "Legal Practitioners Act, 2074",
+   "Court Fees Act, 2017"
+  ],
+  "options_ne": [
+   "अधिवक्ता ऐन, २०२८",
+   "नेपाल बार काउन्सिल ऐन, २०५०",
+   "कानुनी व्यवसायी ऐन, २०७४",
+   "अदालत शुल्क ऐन, २०१७"
+  ],
+  "answer": 1,
+  "explanation": "The Nepal Bar Council Act, 2050 (1993) governs the legal profession and the advocate licensing examination.",
+  "explanation_ne": "नेपाल बार काउन्सिल ऐन, २०५० (सन् १९९३) ले कानुनी पेशा र अधिवक्ता लाइसेन्स परीक्षा नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-019",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The Nepal Bar Council advocate licence examination Paper 1 has how many MCQs?",
+  "question_ne": "नेपाल बार काउन्सिल अधिवक्ता लाइसेन्स परीक्षाको पेपर १ मा कति बहुविकल्पीय प्रश्न छन्?",
+  "options": [
+   "150",
+   "50",
+   "100",
+   "200"
+  ],
+  "options_ne": [
+   "१५०",
+   "५०",
+   "१००",
+   "२००"
+  ],
+  "answer": 2,
+  "explanation": "Bar Council Paper 1 (Constitution and Law) has 100 MCQs, 100 marks, 90 minutes, pass 50, with no negative marking.",
+  "explanation_ne": "बार काउन्सिल पेपर १ (संविधान र कानुन) मा १०० बहुविकल्पीय प्रश्न, १०० अङ्क, ९० मिनेट, उत्तीर्ण ५० हुन्छ, नकारात्मक अङ्कन हुँदैन।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-020",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the pass mark for Nepal Bar Council Paper 1?",
+  "question_ne": "नेपाल बार काउन्सिल पेपर १ को उत्तीर्ण अङ्क कति हो?",
+  "options": [
+   "60",
+   "40",
+   "45",
+   "50"
+  ],
+  "options_ne": [
+   "६०",
+   "४०",
+   "४५",
+   "५०"
+  ],
+  "answer": 3,
+  "explanation": "The pass mark for Bar Council Paper 1 is 50 out of 100.",
+  "explanation_ne": "बार काउन्सिल पेपर १ को उत्तीर्ण अङ्क १०० मा ५० हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-021",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "After passing the Bar Council written examinations, an advocate candidate must complete what before enrolment?",
+  "question_ne": "बार काउन्सिल लिखित परीक्षा उत्तीर्ण गरेपछि अधिवक्ता उम्मेदवारले दर्ताअघि के पूरा गर्नुपर्छ?",
+  "options": [
+   "Supervised internship and training",
+   "A foreign degree",
+   "Five years of government service",
+   "A second written exam only"
+  ],
+  "options_ne": [
+   "पर्यवेक्षणमा इन्टर्नसिप र तालिम",
+   "विदेशी उपाधि",
+   "पाँच वर्ष सरकारी सेवा",
+   "केवल दोस्रो लिखित परीक्षा"
+  ],
+  "answer": 0,
+  "explanation": "After the written papers and interview, candidates complete a supervised internship and training before enrolment as an advocate.",
+  "explanation_ne": "लिखित पेपर र अन्तर्वार्तापछि उम्मेदवारले अधिवक्ताका रूपमा दर्ताअघि पर्यवेक्षणमा इन्टर्नसिप र तालिम पूरा गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-022",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which body conducts the advocate licensing examination in Nepal?",
+  "question_ne": "नेपालमा अधिवक्ता लाइसेन्स परीक्षा कुन निकायले सञ्चालन गर्छ?",
+  "options": [
+   "Supreme Court",
+   "Nepal Bar Council",
+   "Public Service Commission",
+   "Ministry of Law"
+  ],
+  "options_ne": [
+   "सर्वोच्च अदालत",
+   "नेपाल बार काउन्सिल",
+   "लोक सेवा आयोग",
+   "कानुन मन्त्रालय"
+  ],
+  "answer": 1,
+  "explanation": "The Nepal Bar Council conducts the advocate licensing examination.",
+  "explanation_ne": "नेपाल बार काउन्सिलले अधिवक्ता लाइसेन्स परीक्षा सञ्चालन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-023",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "In Nepal, a person accused of a crime is presumed what until proven guilty?",
+  "question_ne": "नेपालमा अपराधको आरोप लागेको व्यक्ति दोषी प्रमाणित नभएसम्म के मानिन्छ?",
+  "options": [
+   "A convict",
+   "Guilty",
+   "Innocent",
+   "An absconder"
+  ],
+  "options_ne": [
+   "अपराधी",
+   "दोषी",
+   "निर्दोष",
+   "फरार"
+  ],
+  "answer": 2,
+  "explanation": "Under the right to justice (Article 20), a person accused of an offence is presumed innocent until proven guilty.",
+  "explanation_ne": "न्याय सम्बन्धी हक (धारा २०) अनुसार अपराधको आरोप लागेको व्यक्ति दोषी प्रमाणित नभएसम्म निर्दोष मानिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-024",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "No person shall be punished for an act that was not an offence when committed. This principle is called what?",
+  "question_ne": "गरिएको बेला अपराध नभएको कार्यका लागि कसैलाई सजाय दिनु हुँदैन। यो सिद्धान्तलाई के भनिन्छ?",
+  "options": [
+   "Right to silence",
+   "Double jeopardy",
+   "Presumption of innocence",
+   "Prohibition of ex post facto law"
+  ],
+  "options_ne": [
+   "मौन रहने अधिकार",
+   "दोहोरो जोखिम",
+   "निर्दोषको अनुमान",
+   "भूतलक्षी कानुनको निषेध"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution prohibits ex post facto punishment: no one may be punished for an act that was not an offence when it was done.",
+  "explanation_ne": "संविधानले भूतलक्षी सजाय निषेध गर्छ: गरिएको बेला अपराध नभएको कार्यका लागि कसैलाई सजाय दिनु हुँदैन।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-025",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "No person shall be tried twice for the same offence. This principle is called what?",
+  "question_ne": "एउटै अपराधका लागि कसैलाई दुई पटक मुद्दा चलाउनु हुँदैन। यो सिद्धान्तलाई के भनिन्छ?",
+  "options": [
+   "Double jeopardy",
+   "Ex post facto law",
+   "Habeas corpus",
+   "Res judicata"
+  ],
+  "options_ne": [
+   "दोहोरो जोखिम",
+   "भूतलक्षी कानुन",
+   "बन्दी प्रत्यक्षीकरण",
+   "रिस जुडिकाटा"
+  ],
+  "answer": 0,
+  "explanation": "Double jeopardy prohibits a person from being prosecuted or punished twice for the same offence.",
+  "explanation_ne": "दोहोरो जोखिमले एउटै अपराधका लागि व्यक्तिलाई दुई पटक अभियोजन वा सजाय गर्न निषेध गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-026",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which constitutional body investigates corruption in Nepal?",
+  "question_ne": "नेपालमा भ्रष्टाचारको अनुसन्धान गर्ने संवैधानिक निकाय कुन हो?",
+  "options": [
+   "National Human Rights Commission",
+   "Commission for the Investigation of Abuse of Authority (CIAA)",
+   "Election Commission",
+   "Auditor General"
+  ],
+  "options_ne": [
+   "राष्ट्रिय मानव अधिकार आयोग",
+   "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+   "निर्वाचन आयोग",
+   "महालेखा परीक्षक"
+  ],
+  "answer": 1,
+  "explanation": "The Commission for the Investigation of Abuse of Authority (CIAA) investigates corruption by public officials.",
+  "explanation_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोगले सार्वजनिक अधिकारीको भ्रष्टाचारको अनुसन्धान गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-028",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which constitutional body recruits civil servants in Nepal?",
+  "question_ne": "नेपालमा निजामती कर्मचारी भर्ना गर्ने संवैधानिक निकाय कुन हो?",
+  "options": [
+   "Judicial Council",
+   "Election Commission",
+   "CIAA",
+   "Public Service Commission"
+  ],
+  "options_ne": [
+   "न्याय परिषद्",
+   "निर्वाचन आयोग",
+   "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+   "लोक सेवा आयोग"
+  ],
+  "answer": 3,
+  "explanation": "The Public Service Commission (Lok Sewa Aayog) recruits civil servants through competitive examinations.",
+  "explanation_ne": "लोक सेवा आयोगले प्रतिस्पर्धात्मक परीक्षामार्फत निजामती कर्मचारी भर्ना गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-029",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "computer-operator"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which constitutional body audits government accounts in Nepal?",
+  "question_ne": "नेपालमा सरकारी लेखा परीक्षण गर्ने संवैधानिक निकाय कुन हो?",
+  "options": [
+   "Office of the Auditor General",
+   "CIAA",
+   "National Planning Commission",
+   "Public Service Commission"
+  ],
+  "options_ne": [
+   "महालेखा परीक्षकको कार्यालय",
+   "अख्तियार दुरुपयोग अनुसन्धान आयोग",
+   "राष्ट्रिय योजना आयोग",
+   "लोक सेवा आयोग"
+  ],
+  "answer": 0,
+  "explanation": "The Auditor General audits the accounts of the government and public bodies.",
+  "explanation_ne": "महालेखा परीक्षकले सरकार र सार्वजनिक निकायका लेखा परीक्षण गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-030",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The Attorney General of Nepal is appointed by whom?",
+  "question_ne": "नेपालको महान्यायाधिवक्ता कसले नियुक्त गर्छ?",
+  "options": [
+   "The Prime Minister alone",
+   "The President, on the recommendation of the Prime Minister",
+   "The Chief Justice",
+   "The Parliament"
+  ],
+  "options_ne": [
+   "प्रधानमन्त्रीले एक्लै",
+   "राष्ट्रपतिले प्रधानमन्त्रीको सिफारिसमा",
+   "प्रधानन्यायाधीशले",
+   "संसद्ले"
+  ],
+  "answer": 1,
+  "explanation": "The Attorney General is appointed by the President on the recommendation of the Prime Minister.",
+  "explanation_ne": "महान्यायाधिवक्ता राष्ट्रपतिले प्रधानमन्त्रीको सिफारिसमा नियुक्त गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-031",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Evidence",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Act governs evidence in Nepali courts?",
+  "question_ne": "नेपाली अदालतमा प्रमाण कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Criminal Code, 2074",
+   "Civil Code, 2074",
+   "Evidence Act, 2031",
+   "Court Fees Act, 2017"
+  ],
+  "options_ne": [
+   "अपराध संहिता, २०७४",
+   "देवानी संहिता, २०७४",
+   "प्रमाण ऐन, २०३१",
+   "अदालत शुल्क ऐन, २०१७"
+  ],
+  "answer": 2,
+  "explanation": "The Evidence Act, 2031 (1974) governs the law of evidence in Nepali courts.",
+  "explanation_ne": "प्रमाण ऐन, २०३१ (सन् १९७४) ले नेपाली अदालतमा प्रमाणको कानुन नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-032",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Evidence",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The burden of proof in a criminal case lies on whom?",
+  "question_ne": "फौजदारी मुद्दामा प्रमाणको भार कसमा हुन्छ?",
+  "options": [
+   "The witness",
+   "The accused",
+   "The judge",
+   "The prosecution"
+  ],
+  "options_ne": [
+   "साक्षी",
+   "प्रतिवादी",
+   "न्यायाधीश",
+   "अभियोजन पक्ष"
+  ],
+  "answer": 3,
+  "explanation": "In a criminal case the prosecution must prove the accused's guilt beyond reasonable doubt.",
+  "explanation_ne": "फौजदारी मुद्दामा अभियोजन पक्षले प्रतिवादीको दोष शङ्कारहित रूपमा प्रमाणित गर्नुपर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-033",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Contract",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A contract made by a minor in Nepal is generally what?",
+  "question_ne": "नेपालमा नाबालकले गरेको करार सामान्यतया के हुन्छ?",
+  "options": [
+   "Void",
+   "Valid",
+   "Voidable only",
+   "Enforceable"
+  ],
+  "options_ne": [
+   "शून्य",
+   "मान्य",
+   "केवल शून्ययोग्य",
+   "लागू गर्न मिल्ने"
+  ],
+  "answer": 0,
+  "explanation": "A contract with a minor is generally void in Nepal, as a minor lacks capacity to contract.",
+  "explanation_ne": "नेपालमा नाबालकसँगको करार सामान्यतया शून्य हुन्छ, किनभने नाबालकमा करार गर्ने क्षमता हुँदैन।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-034",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Contract",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "For a valid contract in Nepal, which element is essential?",
+  "question_ne": "नेपालमा मान्य करारका लागि कुन तत्त्व आवश्यक छ?",
+  "options": [
+   "Registration only",
+   "Free consent of the parties",
+   "Witnesses only",
+   "Court approval"
+  ],
+  "options_ne": [
+   "केवल दर्ता",
+   "पक्षहरूको स्वतन्त्र सहमति",
+   "केवल साक्षी",
+   "अदालतको स्वीकृति"
+  ],
+  "answer": 1,
+  "explanation": "A valid contract requires offer and acceptance, free consent, lawful consideration and lawful object, and capacity of the parties.",
+  "explanation_ne": "मान्य करारका लागि प्रस्ताव र स्वीकृति, स्वतन्त्र सहमति, कानुनी प्रतिफल र कानुनी उद्देश्य, र पक्षहरूको क्षमता आवश्यक छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-035",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Contract",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A contract entered into by coercion is what under Nepali law?",
+  "question_ne": "जबरजस्ती गरेर गरिएको करार नेपाली कानुनअनुसार के हुन्छ?",
+  "options": [
+   "Void from the start",
+   "Valid",
+   "Voidable at the option of the coerced party",
+   "A criminal offence only"
+  ],
+  "options_ne": [
+   "सुरुबाटै शून्य",
+   "मान्य",
+   "पीडित पक्षको विकल्पमा शून्ययोग्य",
+   "केवल फौजदारी अपराध"
+  ],
+  "answer": 2,
+  "explanation": "A contract made by coercion is voidable at the option of the party whose consent was obtained by coercion.",
+  "explanation_ne": "जबरजस्ती गरेर गरिएको करार पीडित पक्षको विकल्पमा शून्ययोग्य हुन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-036",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Local Government",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which law governs local governments in Nepal?",
+  "question_ne": "नेपालमा स्थानीय सरकार कुन कानुनले नियमन गर्छ?",
+  "options": [
+   "Municipal Act, 2048",
+   "Civil Code, 2074",
+   "Constitution only",
+   "Local Government Operation Act, 2074"
+  ],
+  "options_ne": [
+   "नगरपालिका ऐन, २०४८",
+   "देवानी संहिता, २०७४",
+   "केवल संविधान",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४"
+  ],
+  "answer": 3,
+  "explanation": "The Local Government Operation Act, 2074 governs the operation of rural municipalities and municipalities.",
+  "explanation_ne": "स्थानीय सरकार सञ्चालन ऐन, २०७४ ले गाउँपालिका र नगरपालिकाको सञ्चालन नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-037",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many fundamental duties are listed in Article 48 of the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ को धारा ४८ मा कति मौलिक कर्तव्य सूचीबद्ध छन्?",
+  "options": [
+   "Eleven",
+   "Seven",
+   "Five",
+   "Nine"
+  ],
+  "options_ne": [
+   "एघार",
+   "सात",
+   "पाँच",
+   "नौ"
+  ],
+  "answer": 0,
+  "explanation": "Article 48 lists eleven fundamental duties of citizens, including safeguarding national unity and protecting public property.",
+  "explanation_ne": "धारा ४८ मा नागरिकका एघार मौलिक कर्तव्य सूचीबद्ध छन्, जसमा राष्ट्रिय एकता जोगाउने र सार्वजनिक सम्पत्ति संरक्षण गर्ने पनि पर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-038",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which article of the Constitution deals with the directive principles of state policy?",
+  "question_ne": "संविधानको कुन धाराले राज्यका निर्देशक सिद्धान्तसँग सम्बन्धित छ?",
+  "options": [
+   "Article 48",
+   "Article 51",
+   "Article 31",
+   "Article 56"
+  ],
+  "options_ne": [
+   "धारा ४८",
+   "धारा ५१",
+   "धारा ३१",
+   "धारा ५६"
+  ],
+  "answer": 1,
+  "explanation": "Article 51 sets out the directive principles of state policy, including policies on social justice, economy and environment.",
+  "explanation_ne": "धारा ५१ ले राज्यका निर्देशक सिद्धान्तहरू निर्धारण गर्छ, जसमा सामाजिक न्याय, अर्थतन्त्र र वातावरणका नीति पर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-039",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The National Assembly of Nepal has how many members nominated by the President?",
+  "question_ne": "नेपालको राष्ट्रिय सभामा राष्ट्रपतिले मनोनयन गर्ने सदस्य कति छन्?",
+  "options": [
+   "7",
+   "5",
+   "3",
+   "10"
+  ],
+  "options_ne": [
+   "७",
+   "५",
+   "३",
+   "१०"
+  ],
+  "answer": 2,
+  "explanation": "Of the 59 National Assembly members, 3 are nominated by the President on the government's recommendation.",
+  "explanation_ne": "राष्ट्रिय सभाका ५९ सदस्यमध्ये ३ जना सरकारको सिफारिसमा राष्ट्रपतिले मनोनयन गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-040",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How is the Speaker of the House of Representatives elected?",
+  "question_ne": "प्रतिनिधि सभाका सभामुख कसरी निर्वाचित हुन्छन्?",
+  "options": [
+   "By direct public vote",
+   "By the President",
+   "By the Prime Minister",
+   "By the members of the House from among themselves"
+  ],
+  "options_ne": [
+   "जनताको प्रत्यक्ष मतले",
+   "राष्ट्रपतिले",
+   "प्रधानमन्त्रीले",
+   "सभाका सदस्यहरूले आफूहरूमध्येबाट"
+  ],
+  "answer": 3,
+  "explanation": "The Speaker is elected by the members of the House of Representatives from among themselves.",
+  "explanation_ne": "सभामुख प्रतिनिधि सभाका सदस्यहरूले आफूहरूमध्येबाट निर्वाचित गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-041",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Prime Minister of Nepal must be a member of which body?",
+  "question_ne": "नेपालका प्रधानमन्त्री कुन निकायको सदस्य हुनुपर्छ?",
+  "options": [
+   "The House of Representatives",
+   "The National Assembly only",
+   "The Supreme Court",
+   "A local council"
+  ],
+  "options_ne": [
+   "प्रतिनिधि सभा",
+   "केवल राष्ट्रिय सभा",
+   "सर्वोच्च अदालत",
+   "स्थानीय परिषद्"
+  ],
+  "answer": 0,
+  "explanation": "The Prime Minister must be a member of the House of Representatives.",
+  "explanation_ne": "प्रधानमन्त्री प्रतिनिधि सभाको सदस्य हुनुपर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-042",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A vote of no confidence against the Prime Minister requires the support of how many House members?",
+  "question_ne": "प्रधानमन्त्रीविरुद्ध अविश्वास प्रस्तावका लागि सभाका कति सदस्यको समर्थन चाहिन्छ?",
+  "options": [
+   "One-half",
+   "One-fourth of the total members",
+   "Two-thirds",
+   "One-tenth"
+  ],
+  "options_ne": [
+   "आधा",
+   "कुल सदस्यको एक चौथाइ",
+   "दुई तिहाइ",
+   "एक दशांश"
+  ],
+  "answer": 1,
+  "explanation": "A no-confidence motion against the Prime Minister requires the support of one-fourth of the total members of the House to be tabled.",
+  "explanation_ne": "प्रधानमन्त्रीविरुद्ध अविश्वास प्रस्ताव पेस गर्न सभाका कुल सदस्यको एक चौथाइको समर्थन चाहिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-043",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which article provides that Nepal is a secular state?",
+  "question_ne": "कुन धाराले नेपाल धर्मनिरपेक्ष राज्य हो भनी व्यवस्था गर्छ?",
+  "options": [
+   "Article 1",
+   "Article 26",
+   "Article 4",
+   "Article 6"
+  ],
+  "options_ne": [
+   "धारा १",
+   "धारा २६",
+   "धारा ४",
+   "धारा ६"
+  ],
+  "answer": 2,
+  "explanation": "Article 4 declares Nepal a secular state, while Article 26 guarantees religious freedom.",
+  "explanation_ne": "धारा ४ ले नेपाललाई धर्मनिरपेक्ष राज्य घोषणा गर्छ, धारा २६ ले धार्मिक स्वतन्त्रता प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-044",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal's official language at the federal level is which language?",
+  "question_ne": "संघीय तहमा नेपालको आधिकारिक भाषा कुन हो?",
+  "options": [
+   "Newari",
+   "English",
+   "Maithili",
+   "Nepali (written in Devanagari script)"
+  ],
+  "options_ne": [
+   "नेवारी",
+   "अङ्ग्रेजी",
+   "मैथिली",
+   "नेपाली (देवनागरी लिपिमा)"
+  ],
+  "answer": 3,
+  "explanation": "Nepali, written in Devanagari script, is the official language at the federal level; provinces may also use their languages.",
+  "explanation_ne": "नेपाली, देवनागरी लिपिमा लेखिने, संघीय तहको आधिकारिक भाषा हो; प्रदेशले आफ्ना भाषा पनि प्रयोग गर्न सक्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-045",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which article guarantees the right to language and culture?",
+  "question_ne": "भाषा तथा संस्कृतिको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 32",
+   "Article 31",
+   "Article 26",
+   "Article 18"
+  ],
+  "options_ne": [
+   "धारा ३२",
+   "धारा ३१",
+   "धारा २६",
+   "धारा १८"
+  ],
+  "answer": 0,
+  "explanation": "Article 32 guarantees the right to language and culture.",
+  "explanation_ne": "धारा ३२ ले भाषा तथा संस्कृतिको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-046",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — International Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Universal Declaration of Human Rights was adopted in which year?",
+  "question_ne": "मानव अधिकारको विश्वव्यापी घोषणापत्र कुन वर्ष अपनाइयो?",
+  "options": [
+   "1945",
+   "1948",
+   "1950",
+   "1966"
+  ],
+  "options_ne": [
+   "१९४५",
+   "१९४८",
+   "१९५०",
+   "१९६६"
+  ],
+  "answer": 1,
+  "explanation": "The Universal Declaration of Human Rights was adopted by the UN General Assembly on 10 December 1948.",
+  "explanation_ne": "मानव अधिकारको विश्वव्यापी घोषणापत्र संयुक्त राष्ट्रसंघ महासभाले १० डिसेम्बर १९४८ मा अपनायो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-048",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "foreign-service"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — International Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Vienna Convention on Diplomatic Relations was adopted in which year?",
+  "question_ne": "कूटनीतिक सम्बन्धसम्बन्धी भियना महासन्धि कुन वर्ष अपनाइयो?",
+  "options": [
+   "1970",
+   "1948",
+   "1955",
+   "1961"
+  ],
+  "options_ne": [
+   "१९७०",
+   "१९४८",
+   "१९५५",
+   "१९६१"
+  ],
+  "answer": 3,
+  "explanation": "The Vienna Convention on Diplomatic Relations was adopted in 1961 and governs diplomatic immunity and privileges.",
+  "explanation_ne": "कूटनीतिक सम्बन्धसम्बन्धी भियना महासन्धि सन् १९६१ मा अपनाइयो र यसले कूटनीतिक उन्मुक्ति र सुविधा नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-049",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — International Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Diplomatic immunity in Nepal is governed mainly by which convention?",
+  "question_ne": "नेपालमा कूटनीतिक उन्मुक्ति मुख्यतया कुन महासन्धिले नियमन गर्छ?",
+  "options": [
+   "Vienna Convention on Diplomatic Relations, 1961",
+   "Geneva Convention, 1949",
+   "Hague Convention, 1907",
+   "Paris Agreement, 2015"
+  ],
+  "options_ne": [
+   "कूटनीतिक सम्बन्धसम्बन्धी भियना महासन्धि, १९६१",
+   "जेनेभा महासन्धि, १९४९",
+   "हेग महासन्धि, १९०७",
+   "पेरिस सम्झौता, २०१५"
+  ],
+  "answer": 0,
+  "explanation": "Diplomatic immunity is governed by the Vienna Convention on Diplomatic Relations, 1961.",
+  "explanation_ne": "कूटनीतिक उन्मुक्ति कूटनीतिक सम्बन्धसम्बन्धी भियना महासन्धि, १९६१ ले नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-050",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — International Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Geneva Conventions of 1949 mainly deal with what?",
+  "question_ne": "सन् १९४९ का जेनेभा महासन्धिहरू मुख्यतया के सँग सम्बन्धित छन्?",
+  "options": [
+   "Trade",
+   "Protection of victims of armed conflict",
+   "Diplomatic immunity",
+   "Environment"
+  ],
+  "options_ne": [
+   "व्यापार",
+   "सशस्त्र द्वन्द्वका पीडितको संरक्षण",
+   "कूटनीतिक उन्मुक्ति",
+   "वातावरण"
+  ],
+  "answer": 1,
+  "explanation": "The Geneva Conventions of 1949 protect wounded soldiers, prisoners of war and civilians in armed conflict.",
+  "explanation_ne": "सन् १९४९ का जेनेभा महासन्धिहरूले घाइते सैनिक, युद्धबन्दी र सशस्त्र द्वन्द्वमा सर्वसाधारणको संरक्षण गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-051",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "foreign-service"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — International Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The International Court of Justice is located in which city?",
+  "question_ne": "अन्तर्राष्ट्रिय न्याय अदालत कुन सहरमा छ?",
+  "options": [
+   "New York",
+   "Geneva",
+   "The Hague",
+   "Paris"
+  ],
+  "options_ne": [
+   "न्युयोर्क",
+   "जेनेभा",
+   "हेग",
+   "पेरिस"
+  ],
+  "answer": 2,
+  "explanation": "The International Court of Justice, the UN's principal judicial organ, sits in The Hague, Netherlands.",
+  "explanation_ne": "अन्तर्राष्ट्रिय न्याय अदालत, संयुक्त राष्ट्रसंघको प्रमुख न्यायिक निकाय, नेदरल्यान्डको हेगमा छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-055",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Treaties",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal signed the Treaty of Sugauli with the British East India Company in which year?",
+  "question_ne": "नेपालले ब्रिटिस इस्ट इन्डिया कम्पनीसँग सुगौली सन्धि कुन वर्ष गर्‍यो?",
+  "options": [
+   "1857",
+   "1814",
+   "1816",
+   "1923"
+  ],
+  "options_ne": [
+   "१८५७",
+   "१८१४",
+   "१८१६",
+   "१९२३"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Sugauli was signed in 1816, ending the Anglo-Nepalese War.",
+  "explanation_ne": "सुगौली सन्धि सन् १८१६ मा हस्ताक्षर भयो, जसले एङ्ग्लो-नेपाल युद्ध समाप्त गर्‍यो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-056",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "foreign-service"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Treaties",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Nepal–India Treaty of Peace and Friendship was signed in which year?",
+  "question_ne": "नेपाल–भारत शान्ति तथा मैत्री सन्धि कुन वर्ष हस्ताक्षर भयो?",
+  "options": [
+   "1960",
+   "1947",
+   "1955",
+   "1950"
+  ],
+  "options_ne": [
+   "१९६०",
+   "१९४७",
+   "१९५५",
+   "१९५०"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal–India Treaty of Peace and Friendship was signed on 31 July 1950.",
+  "explanation_ne": "नेपाल–भारत शान्ति तथा मैत्री सन्धि ३१ जुलाई १९५० मा हस्ताक्षर भयो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-058",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under the Constitution, the President of Nepal can be removed by impeachment by what majority?",
+  "question_ne": "संविधानअनुसार नेपालका राष्ट्रपतिलाई महाभियोगबाट हटाउन कति बहुमत चाहिन्छ?",
+  "options": [
+   "Simple majority",
+   "Two-thirds majority of the total members of the Federal Parliament",
+   "One-fourth",
+   "Three-fourths"
+  ],
+  "options_ne": [
+   "साधारण बहुमत",
+   "संघीय संसद्का कुल सदस्यको दुई तिहाइ बहुमत",
+   "एक चौथाइ",
+   "तीन चौथाइ"
+  ],
+  "answer": 1,
+  "explanation": "The President can be removed by impeachment passed by a two-thirds majority of the total members of the Federal Parliament.",
+  "explanation_ne": "राष्ट्रपतिलाई संघीय संसद्का कुल सदस्यको दुई तिहाइ बहुमतले पारित महाभियोगबाट हटाउन सकिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-059",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A person can be elected President of Nepal for at most how many terms?",
+  "question_ne": "व्यक्ति नेपालको राष्ट्रपति बढीमा कति कार्यकाल निर्वाचित हुन सक्छ?",
+  "options": [
+   "Three terms",
+   "One term",
+   "Two terms",
+   "Unlimited"
+  ],
+  "options_ne": [
+   "तीन कार्यकाल",
+   "एक कार्यकाल",
+   "दुई कार्यकाल",
+   "असीमित"
+  ],
+  "answer": 2,
+  "explanation": "A person who has been elected President twice cannot stand for the office again.",
+  "explanation_ne": "दुई पटक राष्ट्रपति निर्वाचित भएको व्यक्ति फेरि उक्त पदका लागि उम्मेदवार हुन सक्दैन।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-060",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Police Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act regulates the Nepal Police?",
+  "question_ne": "नेपाल प्रहरी कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Public Service Commission Act",
+   "Police Regulations, 2071 only",
+   "Muluki Criminal Code, 2074",
+   "Nepal Police Act, 2012 (1955)"
+  ],
+  "options_ne": [
+   "लोक सेवा आयोग ऐन",
+   "केवल प्रहरी नियमावली, २०७१",
+   "मुलुकी अपराध संहिता, २०७४",
+   "नेपाल प्रहरी ऐन, २०१२ (सन् १९५५)"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal Police Act, 2012 (1955 AD) is the principal law governing the Nepal Police.",
+  "explanation_ne": "नेपाल प्रहरी ऐन, २०१२ (सन् १९५५) नेपाल प्रहरीलाई नियमन गर्ने प्रमुख कानुन हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-061",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Police Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Armed Police Force of Nepal was established under which Act?",
+  "question_ne": "नेपालको सशस्त्र प्रहरी बल कुन ऐनअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Armed Police Force Act, 2058",
+   "Nepal Police Act, 2012",
+   "Army Act, 2063",
+   "Public Security Act"
+  ],
+  "options_ne": [
+   "सशस्त्र प्रहरी बल ऐन, २०५८",
+   "नेपाल प्रहरी ऐन, २०१२",
+   "सैनिक ऐन, २०६३",
+   "सार्वजनिक सुरक्षा ऐन"
+  ],
+  "answer": 0,
+  "explanation": "The Armed Police Force was established under the Armed Police Force Act, 2058 (2001).",
+  "explanation_ne": "सशस्त्र प्रहरी बल सशस्त्र प्रहरी बल ऐन, २०५८ (सन् २००१) अन्तर्गत स्थापना भयो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-062",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Army Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Nepal Army is governed by which Act?",
+  "question_ne": "नेपाल सेना कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Nepal Police Act, 2012",
+   "Army Act, 2063",
+   "Armed Police Force Act, 2058",
+   "Defence Act, 2050"
+  ],
+  "options_ne": [
+   "नेपाल प्रहरी ऐन, २०१२",
+   "सैनिक ऐन, २०६३",
+   "सशस्त्र प्रहरी बल ऐन, २०५८",
+   "रक्षा ऐन, २०५०"
+  ],
+  "answer": 1,
+  "explanation": "The Nepal Army is governed by the Army Act, 2063 (2006).",
+  "explanation_ne": "नेपाल सेना सैनिक ऐन, २०६३ (सन् २००६) ले नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-064",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Army Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The National Security Council of Nepal is chaired by whom?",
+  "question_ne": "नेपालको राष्ट्रिय सुरक्षा परिषद्को अध्यक्षता कसले गर्छ?",
+  "options": [
+   "The Chief of Army Staff",
+   "The President",
+   "The Defence Minister",
+   "The Prime Minister"
+  ],
+  "options_ne": [
+   "प्रधानसेनापति",
+   "राष्ट्रपति",
+   "रक्षा मन्त्री",
+   "प्रधानमन्त्री"
+  ],
+  "answer": 3,
+  "explanation": "The National Security Council is chaired by the Prime Minister.",
+  "explanation_ne": "राष्ट्रिय सुरक्षा परिषद्को अध्यक्षता प्रधानमन्त्रीले गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-065",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Election Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the minimum age to be a voter in Nepal?",
+  "question_ne": "नेपालमा मतदाता बन्ने न्यूनतम उमेर कति हो?",
+  "options": [
+   "18 years",
+   "16 years",
+   "21 years",
+   "20 years"
+  ],
+  "options_ne": [
+   "१८ वर्ष",
+   "१६ वर्ष",
+   "२१ वर्ष",
+   "२० वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "A Nepali citizen who has attained 18 years of age is eligible to vote.",
+  "explanation_ne": "१८ वर्ष पुगेको नेपाली नागरिक मतदान गर्न योग्य हुन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-066",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Election Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which body prepares the voters' list in Nepal?",
+  "question_ne": "नेपालमा मतदाता नामावली कसले तयार गर्छ?",
+  "options": [
+   "Local government",
+   "Election Commission",
+   "Public Service Commission",
+   "District Administration Office"
+  ],
+  "options_ne": [
+   "स्थानीय सरकार",
+   "निर्वाचन आयोग",
+   "लोक सेवा आयोग",
+   "जिल्ला प्रशासन कार्यालय"
+  ],
+  "answer": 1,
+  "explanation": "The Election Commission prepares and updates the voters' list.",
+  "explanation_ne": "निर्वाचन आयोगले मतदाता नामावली तयार र अद्यावधिक गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-067",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The first Constituent Assembly of Nepal was elected in which year?",
+  "question_ne": "नेपालको पहिलो संविधान सभा कुन वर्ष निर्वाचित भयो?",
+  "options": [
+   "2013",
+   "2006",
+   "2008",
+   "2015"
+  ],
+  "options_ne": [
+   "२०१३",
+   "२००६",
+   "२००८",
+   "२०१५"
+  ],
+  "answer": 2,
+  "explanation": "The first Constituent Assembly was elected in 2008 and declared Nepal a republic on 28 May 2008.",
+  "explanation_ne": "पहिलो संविधान सभा सन् २००८ मा निर्वाचित भयो र २८ मे २००८ मा नेपाललाई गणतन्त्र घोषणा गर्‍यो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-068",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The second Constituent Assembly of Nepal was elected in which year?",
+  "question_ne": "नेपालको दोस्रो संविधान सभा कुन वर्ष निर्वाचित भयो?",
+  "options": [
+   "2017",
+   "2008",
+   "2015",
+   "2013"
+  ],
+  "options_ne": [
+   "२०१७",
+   "२००८",
+   "२०१५",
+   "२०१३"
+  ],
+  "answer": 3,
+  "explanation": "The second Constituent Assembly was elected in 2013 and promulgated the Constitution on 20 September 2015.",
+  "explanation_ne": "दोस्रो संविधान सभा सन् २०१३ मा निर्वाचित भयो र २० सेप्टेम्बर २०१५ मा संविधान जारी गर्‍यो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-069",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "provincial-psc"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal was declared a federal democratic republic on which date?",
+  "question_ne": "नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र कुन मितिमा घोषणा गरियो?",
+  "options": [
+   "28 May 2008",
+   "20 September 2015",
+   "15 January 2007",
+   "18 May 2006"
+  ],
+  "options_ne": [
+   "२८ मे २००८",
+   "२० सेप्टेम्बर २०१५",
+   "१५ जनवरी २००७",
+   "१८ मे २००६"
+  ],
+  "answer": 0,
+  "explanation": "The first Constituent Assembly declared Nepal a federal democratic republic on 28 May 2008, ending the monarchy.",
+  "explanation_ne": "पहिलो संविधान सभाले २८ मे २००८ मा नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरी राजतन्त्र अन्त्य गर्‍यो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-070",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Tort",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of the following is a civil wrong (tort) rather than a crime?",
+  "question_ne": "निम्नमध्ये कुन अपराध होइन, देवानी गलत कार्य (टोर्ट) हो?",
+  "options": [
+   "Murder",
+   "Defamation by a private person (civil suit)",
+   "Theft",
+   "Robbery"
+  ],
+  "options_ne": [
+   "हत्या",
+   "निजी व्यक्तिद्वारा मानहानि (देवानी मुद्दा)",
+   "चोरी",
+   "डकैती"
+  ],
+  "answer": 1,
+  "explanation": "Defamation can be pursued as a civil wrong (tort) for compensation, while murder, theft and robbery are crimes.",
+  "explanation_ne": "मानहानि क्षतिपूर्तिका लागि देवानी गलत कार्यका रूपमा मुद्दा चलाउन सकिन्छ, जबकि हत्या, चोरी र डकैती अपराध हुन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-071",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Evidence",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "In a civil case, the standard of proof is generally what?",
+  "question_ne": "देवानी मुद्दामा प्रमाणको मापदण्ड सामान्यतया के हुन्छ?",
+  "options": [
+   "Absolute certainty",
+   "Beyond reasonable doubt",
+   "Balance of probabilities",
+   "Presumption of guilt"
+  ],
+  "options_ne": [
+   "पूर्ण निश्चितता",
+   "शङ्कारहित प्रमाण",
+   "सम्भावनाको सन्तुलन",
+   "दोषको अनुमान"
+  ],
+  "answer": 2,
+  "explanation": "Civil cases are decided on the balance of probabilities, a lower standard than the criminal standard of beyond reasonable doubt.",
+  "explanation_ne": "देवानी मुद्दा सम्भावनाको सन्तुलनमा निर्णय गरिन्छ, जुन फौजदारी मापदण्ड शङ्कारहित प्रमाणभन्दा तल्लो हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-072",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Legal Concepts",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "What does 'res judicata' mean in law?",
+  "question_ne": "कानुनमा 'रिस जुडिकाटा' को अर्थ के हो?",
+  "options": [
+   "A dismissed appeal",
+   "A new trial",
+   "A pending case",
+   "A matter already decided cannot be tried again"
+  ],
+  "options_ne": [
+   "खारेज भएको पुनरावेदन",
+   "नयाँ मुद्दा",
+   "विचाराधीन मुद्दा",
+   "निर्णय भइसकेको विषय फेरि मुद्दा चलाउन सकिँदैन"
+  ],
+  "answer": 3,
+  "explanation": "Res judicata means a matter already finally decided by a competent court cannot be re-litigated between the same parties.",
+  "explanation_ne": "रिस जुडिकाटा भनेको सक्षम अदालतले अन्तिम निर्णय गरिसकेको विषय उही पक्षबीच फेरि मुद्दा चलाउन नसकिने हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-073",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Legal Concepts",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "What does 'stare decisis' mean in law?",
+  "question_ne": "कानुनमा 'स्टेर डिसिसिस' को अर्थ के हो?",
+  "options": [
+   "Courts should follow precedents",
+   "Courts may ignore the law",
+   "Judges are elected",
+   "Laws expire after ten years"
+  ],
+  "options_ne": [
+   "अदालतले नजिर पालना गर्नुपर्छ",
+   "अदालतले कानुन बेवास्ता गर्न सक्छ",
+   "न्यायाधीश निर्वाचित हुन्छन्",
+   "कानुन दस वर्षपछि समाप्त हुन्छ"
+  ],
+  "answer": 0,
+  "explanation": "Stare decisis is the principle that courts should follow precedents set by higher courts.",
+  "explanation_ne": "स्टेर डिसिसिस भनेको अदालतले माथिल्लो अदालतले स्थापित नजिर पालना गर्नुपर्छ भन्ने सिद्धान्त हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-074",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Legal Concepts",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Supreme Court's decisions in Nepal serve as what for lower courts?",
+  "question_ne": "नेपालमा सर्वोच्च अदालतका निर्णय तल्लो अदालतका लागि के हुन्?",
+  "options": [
+   "Advisory opinions only",
+   "Binding precedents",
+   "Optional guidance",
+   "Non-binding suggestions"
+  ],
+  "options_ne": [
+   "केवल सल्लाहकार राय",
+   "बाध्यकारी नजिर",
+   "वैकल्पिक मार्गदर्शन",
+   "गैर-बाध्यकारी सुझाव"
+  ],
+  "answer": 1,
+  "explanation": "Decisions of the Supreme Court are binding precedents for lower courts in Nepal.",
+  "explanation_ne": "सर्वोच्च अदालतका निर्णय नेपालमा तल्लो अदालतका लागि बाध्यकारी नजिर हुन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-075",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which court in Nepal has the power of judicial review of laws?",
+  "question_ne": "नेपालमा कुन अदालतसँग कानुनको न्यायिक पुनरावलोकन गर्ने शक्ति छ?",
+  "options": [
+   "High Court only",
+   "District Court",
+   "Supreme Court",
+   "Special Court"
+  ],
+  "options_ne": [
+   "केवल उच्च अदालत",
+   "जिल्ला अदालत",
+   "सर्वोच्च अदालत",
+   "विशेष अदालत"
+  ],
+  "answer": 2,
+  "explanation": "The Supreme Court can declare a law inconsistent with the Constitution void through judicial review.",
+  "explanation_ne": "सर्वोच्च अदालतले न्यायिक पुनरावलोकनमार्फत संविधानसँग बाझिएको कानुनलाई बदर घोषणा गर्न सक्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-076",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A person arrested in Nepal must be produced before a court within how many hours?",
+  "question_ne": "नेपालमा पक्राउ परेको व्यक्तिलाई कति घण्टाभित्र अदालतसमक्ष उपस्थित गराउनुपर्छ?",
+  "options": [
+   "72 hours",
+   "48 hours",
+   "12 hours",
+   "24 hours"
+  ],
+  "options_ne": [
+   "७२ घण्टा",
+   "४८ घण्टा",
+   "१२ घण्टा",
+   "२४ घण्टा"
+  ],
+  "answer": 3,
+  "explanation": "A person arrested must be produced before a court within 24 hours of arrest, excluding travel time.",
+  "explanation_ne": "पक्राउ परेको व्यक्तिलाई यात्राको समयबाहेक पक्राउको २४ घण्टाभित्र अदालतसमक्ष उपस्थित गराउनुपर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-077",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act governs the Commission for the Investigation of Abuse of Authority?",
+  "question_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोग कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Commission for the Investigation of Abuse of Authority Act, 2048",
+   "Prevention of Corruption Act, 2059",
+   "Good Governance Act, 2064",
+   "CIAA Regulations only"
+  ],
+  "options_ne": [
+   "अख्तियार दुरुपयोग अनुसन्धान आयोग ऐन, २०४८",
+   "भ्रष्टाचार निवारण ऐन, २०५९",
+   "सुशासन ऐन, २०६४",
+   "केवल अख्तियार नियमावली"
+  ],
+  "answer": 0,
+  "explanation": "The CIAA Act, 2048 (1991) governs the Commission for the Investigation of Abuse of Authority.",
+  "explanation_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोग ऐन, २०४८ (सन् १९९१) ले अख्तियार दुरुपयोग अनुसन्धान आयोगलाई नियमन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-078",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Anti-Corruption",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Prevention of Corruption Act of Nepal was enacted in which year (BS)?",
+  "question_ne": "नेपालको भ्रष्टाचार निवारण ऐन कुन वर्ष (वि.सं.) मा बन्यो?",
+  "options": [
+   "2048",
+   "2059",
+   "2064",
+   "2074"
+  ],
+  "options_ne": [
+   "२०४८",
+   "२०५९",
+   "२०६४",
+   "२०७४"
+  ],
+  "answer": 1,
+  "explanation": "The Prevention of Corruption Act, 2059 (2002) is Nepal's main anti-corruption law.",
+  "explanation_ne": "भ्रष्टाचार निवारण ऐन, २०५९ (सन् २००२) नेपालको मुख्य भ्रष्टाचार विरोधी कानुन हो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-079",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Governance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Good Governance (Management and Operation) Act was enacted in which year (BS)?",
+  "question_ne": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन कुन वर्ष (वि.सं.) मा बन्यो?",
+  "options": [
+   "2074",
+   "2059",
+   "2064",
+   "2048"
+  ],
+  "options_ne": [
+   "२०७४",
+   "२०५९",
+   "२०६४",
+   "२०४८"
+  ],
+  "answer": 2,
+  "explanation": "The Good Governance (Management and Operation) Act, 2064 (2008) promotes transparency and accountability in public administration.",
+  "explanation_ne": "सुशासन (व्यवस्थापन तथा सञ्चालन) ऐन, २०६४ (सन् २००८) ले सार्वजनिक प्रशासनमा पारदर्शिता र जवाफदेहिता प्रवर्द्धन गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-080",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Governance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Right to Information Act of Nepal was enacted in which year (BS)?",
+  "question_ne": "नेपालको सूचनाको हकसम्बन्धी ऐन कुन वर्ष (वि.सं.) मा बन्यो?",
+  "options": [
+   "2048",
+   "2059",
+   "2074",
+   "2064"
+  ],
+  "options_ne": [
+   "२०४८",
+   "२०५९",
+   "२०७४",
+   "२०६४"
+  ],
+  "answer": 3,
+  "explanation": "The Right to Information Act, 2064 (2007) gives citizens the right to seek information from public bodies.",
+  "explanation_ne": "सूचनाको हकसम्बन्धी ऐन, २०६४ (सन् २००७) ले नागरिकलाई सार्वजनिक निकायबाट सूचना माग्ने अधिकार दिन्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-081",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Governance",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which commission oversees the right to information in Nepal?",
+  "question_ne": "नेपालमा सूचनाको हकको निरीक्षण गर्ने आयोग कुन हो?",
+  "options": [
+   "National Information Commission",
+   "Election Commission",
+   "National Human Rights Commission",
+   "Public Service Commission"
+  ],
+  "options_ne": [
+   "राष्ट्रिय सूचना आयोग",
+   "निर्वाचन आयोग",
+   "राष्ट्रिय मानव अधिकार आयोग",
+   "लोक सेवा आयोग"
+  ],
+  "answer": 0,
+  "explanation": "The National Information Commission oversees implementation of the right to information.",
+  "explanation_ne": "राष्ट्रिय सूचना आयोगले सूचनाको हकको कार्यान्वयन निरीक्षण गर्छ।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-082",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The National Human Rights Commission of Nepal was established in which year?",
+  "question_ne": "नेपालको राष्ट्रिय मानव अधिकार आयोग कुन वर्ष स्थापना भयो?",
+  "options": [
+   "1990",
+   "2000 (2057 BS)",
+   "2015",
+   "2007"
+  ],
+  "options_ne": [
+   "सन् १९९०",
+   "सन् २००० (२०५७ वि.सं.)",
+   "सन् २०१५",
+   "सन् २००७"
+  ],
+  "answer": 1,
+  "explanation": "The National Human Rights Commission was established in 2000 (2057 BS) under the Human Rights Commission Act, 2053.",
+  "explanation_ne": "राष्ट्रिय मानव अधिकार आयोग मानव अधिकार आयोग ऐन, २०५३ अन्तर्गत सन् २००० (२०५७ वि.सं.) मा स्थापना भयो।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-083",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Judicial Council of Nepal is chaired by whom?",
+  "question_ne": "नेपालको न्याय परिषद्को अध्यक्षता कसले गर्छ?",
+  "options": [
+   "The Prime Minister",
+   "The President",
+   "The Chief Justice",
+   "The Law Minister"
+  ],
+  "options_ne": [
+   "प्रधानमन्त्री",
+   "राष्ट्रपति",
+   "प्रधानन्यायाधीश",
+   "कानुन मन्त्री"
+  ],
+  "answer": 2,
+  "explanation": "The Judicial Council is chaired by the Chief Justice of Nepal.",
+  "explanation_ne": "न्याय परिषद्को अध्यक्षता नेपालका प्रधानन्यायाधीशले गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW5-084",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Constitutional Council of Nepal is chaired by whom?",
+  "question_ne": "नेपालको संवैधानिक परिषद्को अध्यक्षता कसले गर्छ?",
+  "options": [
+   "The Speaker",
+   "The President",
+   "The Chief Justice",
+   "The Prime Minister"
+  ],
+  "options_ne": [
+   "सभामुख",
+   "राष्ट्रपति",
+   "प्रधानन्यायाधीश",
+   "प्रधानमन्त्री"
+  ],
+  "answer": 3,
+  "explanation": "The Constitutional Council is chaired by the Prime Minister.",
+  "explanation_ne": "संवैधानिक परिषद्को अध्यक्षता प्रधानमन्त्रीले गर्छन्।",
+  "source": "Nepal law — Constitution of Nepal 2072, Muluki Codes 2074, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-001",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under the Muluki Criminal Code, 2074, theft is defined as dishonestly taking property of another without what?",
+  "question_ne": "मुलुकी अपराध संहिता, २०७४ अनुसार चोरी भनेको अर्काको सम्पत्ति के बिना बेइमानीपूर्वक लिनु हो?",
+  "options": [
+   "Consent",
+   "Payment",
+   "A weapon",
+   "A vehicle"
+  ],
+  "options_ne": [
+   "सहमति",
+   "भुक्तानी",
+   "हतियार",
+   "सवारी साधन"
+  ],
+  "answer": 0,
+  "explanation": "Theft is dishonestly taking movable property of another without that person's consent.",
+  "explanation_ne": "चोरी भनेको अर्को व्यक्तिको सहमतिबिना उसको चल सम्पत्ति बेइमानीपूर्वक लिनु हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-002",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Robbery differs from theft mainly because it involves what?",
+  "question_ne": "डकैती चोरीभन्दा मुख्यतया के मा फरक छ?",
+  "options": [
+   "Taking property at night",
+   "Use or threat of force",
+   "Taking property of high value",
+   "Taking from a shop"
+  ],
+  "options_ne": [
+   "राति सम्पत्ति लिनु",
+   "बल प्रयोग वा धम्की",
+   "उच्च मूल्यको सम्पत्ति लिनु",
+   "पसलबाट लिनु"
+  ],
+  "answer": 1,
+  "explanation": "Robbery is theft aggravated by the use or threat of force against a person.",
+  "explanation_ne": "डकैती भनेको व्यक्तिविरुद्ध बल प्रयोग वा धम्की दिएर गरिने चोरी हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-003",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Murder under the Muluki Criminal Code, 2074 is punishable with what?",
+  "question_ne": "मुलुकी अपराध संहिता, २०७४ अनुसार हत्याको सजाय के हो?",
+  "options": [
+   "Community service only",
+   "A fine only",
+   "Life imprisonment",
+   "One year imprisonment"
+  ],
+  "options_ne": [
+   "केवल सामुदायिक सेवा",
+   "केवल जरिवाना",
+   "आजीवन कारावास",
+   "एक वर्ष कैद"
+  ],
+  "answer": 2,
+  "explanation": "Murder is punishable with life imprisonment under the Muluki Criminal Code, 2074.",
+  "explanation_ne": "मुलुकी अपराध संहिता, २०७४ अनुसार हत्याको सजाय आजीवन कारावास हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-004",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Procedure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of the following is a bailable offence in general?",
+  "question_ne": "निम्नमध्ये कुन सामान्यतया जमानतयोग्य अपराध हो?",
+  "options": [
+   "Treason",
+   "Murder",
+   "Rape",
+   "A minor offence with a short sentence"
+  ],
+  "options_ne": [
+   "राजद्रोह",
+   "हत्या",
+   "बलात्कार",
+   "छोटो सजाय हुने सानो अपराध"
+  ],
+  "answer": 3,
+  "explanation": "Minor offences are generally bailable, while grave offences such as murder and rape are generally non-bailable.",
+  "explanation_ne": "साना अपराध सामान्यतया जमानतयोग्य हुन्छन्, जबकि हत्या र बलात्कार जस्ता गम्भीर अपराध सामान्यतया जमानत अयोग्य हुन्छन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-005",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Procedure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "An FIR in Nepal is filed at which office?",
+  "question_ne": "नेपालमा जाहेरी (FIR) कुन कार्यालयमा दिइन्छ?",
+  "options": [
+   "Police office",
+   "Court directly",
+   "District Administration Office",
+   "Village council"
+  ],
+  "options_ne": [
+   "प्रहरी कार्यालय",
+   "सिधै अदालत",
+   "जिल्ला प्रशासन कार्यालय",
+   "गाउँ परिषद्"
+  ],
+  "answer": 0,
+  "explanation": "A First Information Report (FIR) about a cognizable offence is filed at a police office.",
+  "explanation_ne": "संज्ञेय अपराधबारे पहिलो सूचना प्रतिवेदन (जाहेरी) प्रहरी कार्यालयमा दिइन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-006",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Procedure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Who conducts the prosecution in a criminal case in Nepal?",
+  "question_ne": "नेपालमा फौजदारी मुद्दामा अभियोजन कसले गर्छ?",
+  "options": [
+   "The victim personally",
+   "Government attorney (public prosecutor)",
+   "The police inspector",
+   "The judge"
+  ],
+  "options_ne": [
+   "पीडित स्वयं",
+   "सरकारी वकिल (सार्वजनिक अभियोजक)",
+   "प्रहरी निरीक्षक",
+   "न्यायाधीश"
+  ],
+  "answer": 1,
+  "explanation": "Criminal cases are prosecuted by government attorneys (public prosecutors) on behalf of the state.",
+  "explanation_ne": "फौजदारी मुद्दा राज्यको तर्फबाट सरकारी वकिल (सार्वजनिक अभियोजक) ले चलाउँछन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-007",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Office of the Attorney General represents the Government of Nepal in which matters?",
+  "question_ne": "महान्यायाधिवक्ताको कार्यालयले नेपाल सरकारको प्रतिनिधित्व कुन मामिलामा गर्छ?",
+  "options": [
+   "Budget preparation",
+   "Elections only",
+   "Legal matters and court cases",
+   "Foreign trade only"
+  ],
+  "options_ne": [
+   "बजेट तयारी",
+   "केवल निर्वाचन",
+   "कानुनी मामिला र अदालतका मुद्दा",
+   "केवल विदेशी व्यापार"
+  ],
+  "answer": 2,
+  "explanation": "The Attorney General's office represents the Government of Nepal in legal matters and court cases.",
+  "explanation_ne": "महान्यायाधिवक्ताको कार्यालयले नेपाल सरकारको प्रतिनिधित्व कानुनी मामिला र अदालतका मुद्दामा गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-008",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Citizenship",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which law governs the citizenship of Nepal?",
+  "question_ne": "नेपालको नागरिकता कुन कानुनले नियमन गर्छ?",
+  "options": [
+   "Local Government Operation Act",
+   "Passport Act only",
+   "Immigration Act only",
+   "Nepal Citizenship Act, 2063 and the Constitution"
+  ],
+  "options_ne": [
+   "स्थानीय सरकार सञ्चालन ऐन",
+   "केवल राहदानी ऐन",
+   "केवल अध्यागमन ऐन",
+   "नेपाल नागरिकता ऐन, २०६३ र संविधान"
+  ],
+  "answer": 3,
+  "explanation": "Citizenship is governed by the Constitution (Articles 10–15) and the Nepal Citizenship Act, 2063.",
+  "explanation_ne": "नागरिकता संविधान (धारा १०–१५) र नेपाल नागरिकता ऐन, २०६३ ले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-009",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Citizenship",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A child born in Nepal to a Nepali citizen father or mother is generally what?",
+  "question_ne": "नेपाली नागरिक बुबा वा आमाबाट नेपालमा जन्मिएको बच्चा सामान्यतया के हुन्छ?",
+  "options": [
+   "A citizen of Nepal by descent",
+   "A foreigner",
+   "Stateless",
+   "A citizen only after 18 years"
+  ],
+  "options_ne": [
+   "वंशजको आधारमा नेपालको नागरिक",
+   "विदेशी",
+   "राज्यविहीन",
+   "१८ वर्षपछि मात्र नागरिक"
+  ],
+  "answer": 0,
+  "explanation": "A child born to a Nepali citizen father or mother is a citizen of Nepal by descent.",
+  "explanation_ne": "नेपाली नागरिक बुबा वा आमाबाट जन्मिएको बच्चा वंशजको आधारमा नेपालको नागरिक हुन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-010",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Citizenship",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which article of the Constitution deals with citizenship?",
+  "question_ne": "संविधानको कुन धाराले नागरिकतासँग सम्बन्धित छ?",
+  "options": [
+   "Articles 16–46",
+   "Articles 10–15",
+   "Article 4",
+   "Article 56"
+  ],
+  "options_ne": [
+   "धारा १६–४६",
+   "धारा १०–१५",
+   "धारा ४",
+   "धारा ५६"
+  ],
+  "answer": 1,
+  "explanation": "Citizenship is dealt with in Part 2 (Articles 10–15) of the Constitution of Nepal 2072.",
+  "explanation_ne": "नागरिकता नेपालको संविधान २०७२ को भाग २ (धारा १०–१५) मा व्यवस्था छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-011",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Citizenship",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Naturalised citizenship in Nepal is granted to a foreign person married to a Nepali citizen after what process?",
+  "question_ne": "नेपाली नागरिकसँग विवाह गरेको विदेशी व्यक्तिलाई नेपालमा अङ्गीकृत नागरिकता कुन प्रक्रियापछि दिइन्छ?",
+  "options": [
+   "After one month only",
+   "Immediately on marriage",
+   "After renunciation of foreign citizenship and due process",
+   "Never"
+  ],
+  "options_ne": [
+   "एक महिनापछि मात्र",
+   "विवाहलगत्तै",
+   "विदेशी नागरिकता त्यागेर र प्रक्रिया पूरा गरेपछि",
+   "कहिल्यै होइन"
+  ],
+  "answer": 2,
+  "explanation": "A foreign person married to a Nepali citizen may obtain naturalised citizenship after renouncing foreign citizenship and completing the legal process.",
+  "explanation_ne": "नेपाली नागरिकसँग विवाह गरेको विदेशी व्यक्तिले विदेशी नागरिकता त्यागेर कानुनी प्रक्रिया पूरा गरेपछि अङ्गीकृत नागरिकता पाउन सक्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-012",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Civil Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs the registration of births, deaths and marriages in Nepal?",
+  "question_ne": "नेपालमा जन्म, मृत्यु र विवाह दर्ता कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Local Government Operation Act, 2074",
+   "Citizenship Act, 2063",
+   "Civil Code, 2074",
+   "Birth, Death and Other Personal Events Registration Act, 2033"
+  ],
+  "options_ne": [
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४",
+   "नागरिकता ऐन, २०६३",
+   "देवानी संहिता, २०७४",
+   "जन्म, मृत्यु तथा अन्य व्यक्तिगत घटना दर्ता गर्ने ऐन, २०३३"
+  ],
+  "answer": 3,
+  "explanation": "Personal events are registered under the Birth, Death and Other Personal Events (Registration) Act, 2033.",
+  "explanation_ne": "व्यक्तिगत घटना जन्म, मृत्यु तथा अन्य व्यक्तिगत घटना दर्ता गर्ने ऐन, २०३३ अन्तर्गत दर्ता गरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-013",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Civil Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under the Muluki Civil Code, 2074, a will must be made by a person of what minimum age?",
+  "question_ne": "मुलुकी देवानी संहिता, २०७४ अनुसार इच्छापत्र कति न्यूनतम उमेरको व्यक्तिले बनाउन सक्छ?",
+  "options": [
+   "18 years",
+   "16 years",
+   "21 years",
+   "25 years"
+  ],
+  "options_ne": [
+   "१८ वर्ष",
+   "१६ वर्ष",
+   "२१ वर्ष",
+   "२५ वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "A will can be made by a person who has attained 18 years of age and is of sound mind.",
+  "explanation_ne": "इच्छापत्र १८ वर्ष पुगेको र स्वस्थ मस्तिष्क भएको व्यक्तिले बनाउन सक्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-014",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Civil Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Inheritance in Nepal is governed mainly by which law?",
+  "question_ne": "नेपालमा अंशबण्डा मुख्यतया कुन कानुनले नियमन गर्छ?",
+  "options": [
+   "Muluki Criminal Code, 2074",
+   "Muluki Civil Code, 2074",
+   "Evidence Act, 2031",
+   "Land Act, 2021"
+  ],
+  "options_ne": [
+   "मुलुकी अपराध संहिता, २०७४",
+   "मुलुकी देवानी संहिता, २०७४",
+   "प्रमाण ऐन, २०३१",
+   "भूमि ऐन, २०२१"
+  ],
+  "answer": 1,
+  "explanation": "Inheritance and partition of property are governed by the Muluki Civil Code, 2074.",
+  "explanation_ne": "अंशबण्डा र सम्पत्ति विभाजन मुलुकी देवानी संहिता, २०७४ ले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-015",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Civil Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under Nepali law, a daughter has an equal right to her parents' property as a son. This is based on what?",
+  "question_ne": "नेपाली कानुनअनुसार छोरीको आमाबुबाको सम्पत्तिमा छोरासरह समान हक छ। यो के मा आधारित छ?",
+  "options": [
+   "Religious law only",
+   "Custom only",
+   "The Muluki Civil Code, 2074 and the right to equality (Article 18)",
+   "A court order only"
+  ],
+  "options_ne": [
+   "केवल धार्मिक कानुन",
+   "केवल चलन",
+   "मुलुकी देवानी संहिता, २०७४ र समानताको हक (धारा १८)",
+   "केवल अदालतको आदेश"
+  ],
+  "answer": 2,
+  "explanation": "Daughters have an equal right to ancestral property under the Muluki Civil Code, 2074, consistent with the constitutional right to equality.",
+  "explanation_ne": "छोरीको पैतृक सम्पत्तिमा समान हक मुलुकी देवानी संहिता, २०७४ अन्तर्गत छ, जुन समानताको संवैधानिक हकसँग मिल्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-016",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Labour Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs labour relations and workers' rights in Nepal?",
+  "question_ne": "नेपालमा श्रम सम्बन्ध र श्रमिक अधिकार कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Social Security Act, 2074",
+   "Civil Service Act, 2049",
+   "Trade Union Act, 2049",
+   "Labour Act, 2074"
+  ],
+  "options_ne": [
+   "सामाजिक सुरक्षा ऐन, २०७४",
+   "निजामती सेवा ऐन, २०४९",
+   "ट्रेड युनियन ऐन, २०४९",
+   "श्रम ऐन, २०७४"
+  ],
+  "answer": 3,
+  "explanation": "The Labour Act, 2074 (2017) governs employment, working hours, wages and workers' rights in Nepal.",
+  "explanation_ne": "श्रम ऐन, २०७४ (सन् २०१७) ले नेपालमा रोजगारी, काम गर्ने घण्टा, ज्याला र श्रमिक अधिकार नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-017",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Labour Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the standard maximum working time per week under the Labour Act, 2074?",
+  "question_ne": "श्रम ऐन, २०७४ अनुसार हप्तामा मानक अधिकतम काम गर्ने समय कति हो?",
+  "options": [
+   "48 hours",
+   "40 hours",
+   "60 hours",
+   "35 hours"
+  ],
+  "options_ne": [
+   "४८ घण्टा",
+   "४० घण्टा",
+   "६० घण्टा",
+   "३५ घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "The Labour Act, 2074 sets a standard working week of 48 hours (8 hours a day, 6 days a week).",
+  "explanation_ne": "श्रम ऐन, २०७४ ले मानक काम गर्ने हप्ता ४८ घण्टा (दिनमा ८ घण्टा, हप्तामा ६ दिन) निर्धारण गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-018",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Labour Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act established the social security fund for workers in Nepal?",
+  "question_ne": "नेपालमा श्रमिकका लागि सामाजिक सुरक्षा कोष कुन ऐनले स्थापना गर्‍यो?",
+  "options": [
+   "Labour Act, 2074",
+   "Social Security Act, 2074",
+   "Civil Service Act, 2049",
+   "Insurance Act, 2049"
+  ],
+  "options_ne": [
+   "श्रम ऐन, २०७४",
+   "सामाजिक सुरक्षा ऐन, २०७४",
+   "निजामती सेवा ऐन, २०४९",
+   "बीमा ऐन, २०४९"
+  ],
+  "answer": 1,
+  "explanation": "The Social Security Act, 2074 established the Social Security Fund covering medical, accident, maternity and old-age benefits.",
+  "explanation_ne": "सामाजिक सुरक्षा ऐन, २०७४ ले चिकित्सा, दुर्घटना, प्रसूति र वृद्धावस्था सुविधासहितको सामाजिक सुरक्षा कोष स्थापना गर्‍यो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-019",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Consumer Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs consumer protection in Nepal?",
+  "question_ne": "नेपालमा उपभोक्ता संरक्षण कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Civil Code, 2074",
+   "Labour Act, 2074",
+   "Consumer Protection Act, 2075",
+   "Trade Act, 2049"
+  ],
+  "options_ne": [
+   "देवानी संहिता, २०७४",
+   "श्रम ऐन, २०७४",
+   "उपभोक्ता संरक्षण ऐन, २०७५",
+   "व्यापार ऐन, २०४९"
+  ],
+  "answer": 2,
+  "explanation": "The Consumer Protection Act, 2075 (2018) protects consumers against unfair trade, adulteration and defective goods.",
+  "explanation_ne": "उपभोक्ता संरक्षण ऐन, २०७५ (सन् २०१८) ले उपभोक्तालाई अनुचित व्यापार, मिलावट र दोषपूर्ण सामानबाट जोगाउँछ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-020",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The right of consumers is guaranteed by which article of the Constitution?",
+  "question_ne": "उपभोक्ताको हक संविधानको कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 38",
+   "Article 43",
+   "Article 42",
+   "Article 44"
+  ],
+  "options_ne": [
+   "धारा ३८",
+   "धारा ४३",
+   "धारा ४२",
+   "धारा ४४"
+  ],
+  "answer": 3,
+  "explanation": "Article 44 guarantees the right of consumers to quality goods and services.",
+  "explanation_ne": "धारा ४४ ले गुणस्तरीय वस्तु र सेवा पाउने उपभोक्ताको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-021",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Environment Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs environmental protection in Nepal?",
+  "question_ne": "नेपालमा वातावरण संरक्षण कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Environment Protection Act, 2076",
+   "Forest Act, 2076",
+   "Civil Code, 2074",
+   "Local Government Operation Act, 2074"
+  ],
+  "options_ne": [
+   "वातावरण संरक्षण ऐन, २०७६",
+   "वन ऐन, २०७६",
+   "देवानी संहिता, २०७४",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४"
+  ],
+  "answer": 0,
+  "explanation": "The Environment Protection Act, 2076 (2019) governs environmental protection, including environmental impact assessment.",
+  "explanation_ne": "वातावरण संरक्षण ऐन, २०७६ (सन् २०१९) ले वातावरणीय प्रभाव मूल्याङ्कनसहित वातावरण संरक्षण नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-022",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The right to a clean environment is guaranteed by which article?",
+  "question_ne": "स्वच्छ वातावरणको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 35",
+   "Article 30",
+   "Article 36",
+   "Article 44"
+  ],
+  "options_ne": [
+   "धारा ३५",
+   "धारा ३०",
+   "धारा ३६",
+   "धारा ४४"
+  ],
+  "answer": 1,
+  "explanation": "Article 30 guarantees every citizen the right to live in a clean and healthy environment.",
+  "explanation_ne": "धारा ३० ले प्रत्येक नागरिकलाई स्वच्छ र स्वस्थ वातावरणमा बाँच्न पाउने हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-023",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Environment Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs forests in Nepal?",
+  "question_ne": "नेपालमा वन कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "National Parks Act, 2029",
+   "Environment Protection Act, 2076",
+   "Forest Act, 2076",
+   "Land Act, 2021"
+  ],
+  "options_ne": [
+   "राष्ट्रिय निकुञ्ज ऐन, २०२९",
+   "वातावरण संरक्षण ऐन, २०७६",
+   "वन ऐन, २०७६",
+   "भूमि ऐन, २०२१"
+  ],
+  "answer": 2,
+  "explanation": "The Forest Act, 2076 (2019) governs the conservation and management of forests in Nepal.",
+  "explanation_ne": "वन ऐन, २०७६ (सन् २०१९) ले नेपालमा वनको संरक्षण र व्यवस्थापन नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-024",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Environment Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Community forests in Nepal are managed mainly by whom?",
+  "question_ne": "नेपालमा सामुदायिक वन मुख्यतया कसले व्यवस्थापन गर्छ?",
+  "options": [
+   "Foreign NGOs",
+   "The central government alone",
+   "Private companies",
+   "Local community user groups"
+  ],
+  "options_ne": [
+   "विदेशी गैरसरकारी संस्था",
+   "केवल केन्द्र सरकार",
+   "निजी कम्पनी",
+   "स्थानीय सामुदायिक उपभोक्ता समूह"
+  ],
+  "answer": 3,
+  "explanation": "Community forests are handed over to and managed by local community forest user groups.",
+  "explanation_ne": "सामुदायिक वन स्थानीय सामुदायिक वन उपभोक्ता समूहलाई हस्तान्तरण गरी व्यवस्थापन गरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-025",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Cyber Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs cybercrime in Nepal?",
+  "question_ne": "नेपालमा साइबर अपराध कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Electronic Transactions Act, 2063",
+   "Information Technology Act, 2074",
+   "Cyber Security Act, 2075",
+   "Telecommunications Act, 2053"
+  ],
+  "options_ne": [
+   "विद्युतीय कारोबार ऐन, २०६३",
+   "सूचना प्रविधि ऐन, २०७४",
+   "साइबर सुरक्षा ऐन, २०७५",
+   "दूरसञ्चार ऐन, २०५३"
+  ],
+  "answer": 0,
+  "explanation": "Cyber offences in Nepal are mainly dealt with under the Electronic Transactions Act, 2063 (2006).",
+  "explanation_ne": "नेपालमा साइबर अपराध मुख्यतया विद्युतीय कारोबार ऐन, २०६३ (सन् २००६) अन्तर्गत हेरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-026",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Cyber Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs telecommunications in Nepal?",
+  "question_ne": "नेपालमा दूरसञ्चार कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Electronic Transactions Act, 2063",
+   "Telecommunications Act, 2053",
+   "Information Technology Act, 2074",
+   "Broadcasting Act, 2049"
+  ],
+  "options_ne": [
+   "विद्युतीय कारोबार ऐन, २०६३",
+   "दूरसञ्चार ऐन, २०५३",
+   "सूचना प्रविधि ऐन, २०७४",
+   "प्रसारण ऐन, २०४९"
+  ],
+  "answer": 1,
+  "explanation": "The Telecommunications Act, 2053 (1997) governs telecommunications services in Nepal.",
+  "explanation_ne": "दूरसञ्चार ऐन, २०५३ (सन् १९९७) ले नेपालमा दूरसञ्चार सेवा नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-027",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Civil Service",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs the civil service in Nepal?",
+  "question_ne": "नेपालमा निजामती सेवा कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Public Service Commission Act, 2066",
+   "Labour Act, 2074",
+   "Civil Service Act, 2049",
+   "Local Government Operation Act, 2074"
+  ],
+  "options_ne": [
+   "लोक सेवा आयोग ऐन, २०६६",
+   "श्रम ऐन, २०७४",
+   "निजामती सेवा ऐन, २०४९",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४"
+  ],
+  "answer": 2,
+  "explanation": "The Civil Service Act, 2049 (1993) governs the civil service in Nepal.",
+  "explanation_ne": "निजामती सेवा ऐन, २०४९ (सन् १९९३) ले नेपालमा निजामती सेवा नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-028",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Public Service Commission of Nepal was established under which article of the Constitution?",
+  "question_ne": "नेपालको लोक सेवा आयोग संविधानको कुन धाराअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Article 250",
+   "Article 245",
+   "Article 238",
+   "Article 242"
+  ],
+  "options_ne": [
+   "धारा २५०",
+   "धारा २४५",
+   "धारा २३८",
+   "धारा २४२"
+  ],
+  "answer": 3,
+  "explanation": "The Public Service Commission is established under Article 242 of the Constitution of Nepal 2072.",
+  "explanation_ne": "लोक सेवा आयोग नेपालको संविधान २०७२ को धारा २४२ अन्तर्गत स्थापना भएको हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-029",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Election Commission of Nepal is established under which article?",
+  "question_ne": "नेपालको निर्वाचन आयोग कुन धाराअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Article 245",
+   "Article 242",
+   "Article 238",
+   "Article 249"
+  ],
+  "options_ne": [
+   "धारा २४५",
+   "धारा २४२",
+   "धारा २३८",
+   "धारा २४९"
+  ],
+  "answer": 0,
+  "explanation": "The Election Commission is established under Article 245 of the Constitution of Nepal 2072.",
+  "explanation_ne": "निर्वाचन आयोग नेपालको संविधान २०७२ को धारा २४५ अन्तर्गत स्थापना भएको हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-030",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Commission for the Investigation of Abuse of Authority is established under which article?",
+  "question_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोग कुन धाराअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Article 242",
+   "Article 238",
+   "Article 245",
+   "Article 249"
+  ],
+  "options_ne": [
+   "धारा २४२",
+   "धारा २३८",
+   "धारा २४५",
+   "धारा २४९"
+  ],
+  "answer": 1,
+  "explanation": "The CIAA is established under Article 238 of the Constitution of Nepal 2072.",
+  "explanation_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोग नेपालको संविधान २०७२ को धारा २३८ अन्तर्गत स्थापना भएको हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-031",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The National Human Rights Commission is established under which article?",
+  "question_ne": "राष्ट्रिय मानव अधिकार आयोग कुन धाराअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Article 242",
+   "Article 238",
+   "Article 248",
+   "Article 245"
+  ],
+  "options_ne": [
+   "धारा २४२",
+   "धारा २३८",
+   "धारा २४८",
+   "धारा २४५"
+  ],
+  "answer": 2,
+  "explanation": "The National Human Rights Commission is established under Article 248 of the Constitution of Nepal 2072.",
+  "explanation_ne": "राष्ट्रिय मानव अधिकार आयोग नेपालको संविधान २०७२ को धारा २४८ अन्तर्गत स्थापना भएको हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-032",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Auditor General of Nepal is appointed by whom?",
+  "question_ne": "नेपालको महालेखा परीक्षक कसले नियुक्त गर्छ?",
+  "options": [
+   "The Chief Justice",
+   "The Prime Minister alone",
+   "The Parliament",
+   "The President, on the recommendation of the Constitutional Council"
+  ],
+  "options_ne": [
+   "प्रधानन्यायाधीशले",
+   "प्रधानमन्त्रीले एक्लै",
+   "संसद्ले",
+   "राष्ट्रपतिले संवैधानिक परिषद्को सिफारिसमा"
+  ],
+  "answer": 3,
+  "explanation": "The Auditor General is appointed by the President on the recommendation of the Constitutional Council.",
+  "explanation_ne": "महालेखा परीक्षक राष्ट्रपतिले संवैधानिक परिषद्को सिफारिसमा नियुक्त गर्छन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-034",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Banks and financial institutions in Nepal are governed mainly by which Act?",
+  "question_ne": "नेपालमा बैंक तथा वित्तीय संस्था मुख्यतया कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Nepal Rastra Bank Act, 2058",
+   "Bank and Financial Institution Act, 2073",
+   "Company Act, 2063",
+   "Securities Act, 2063"
+  ],
+  "options_ne": [
+   "नेपाल राष्ट्र बैंक ऐन, २०५८",
+   "बैंक तथा वित्तीय संस्था ऐन, २०७३",
+   "कम्पनी ऐन, २०६३",
+   "धितोपत्र ऐन, २०६३"
+  ],
+  "answer": 1,
+  "explanation": "The Bank and Financial Institution Act, 2073 (2017), known as BAFIA, governs banks and financial institutions.",
+  "explanation_ne": "बैंक तथा वित्तीय संस्था ऐन, २०७३ (सन् २०१७), जसलाई BAFIA भनिन्छ, ले बैंक तथा वित्तीय संस्था नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-035",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Who is the Governor of the Nepal Rastra Bank as of 2026?",
+  "question_ne": "सन् २०२६ सम्म नेपाल राष्ट्र बैंकका गभर्नर को हुन्?",
+  "options": [
+   "Chiranjibi Nepal",
+   "Maha Prasad Adhikari",
+   "Biswo Nath Poudel",
+   "Yuba Raj Khatiwada"
+  ],
+  "options_ne": [
+   "चिरञ्जीवी नेपाल",
+   "महाप्रसाद अधिकारी",
+   "विश्वनाथ पौडेल",
+   "युवराज खतिवडा"
+  ],
+  "answer": 2,
+  "explanation": "Biswo Nath Poudel was appointed Governor of the Nepal Rastra Bank in May 2025.",
+  "explanation_ne": "विश्वनाथ पौडेल सन् २०२५ मे मा नेपाल राष्ट्र बैंकका गभर्नर नियुक्त भए।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-036",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Companies in Nepal are registered under which Act?",
+  "question_ne": "नेपालमा कम्पनी कुन ऐनअन्तर्गत दर्ता गरिन्छ?",
+  "options": [
+   "Industrial Enterprises Act, 2076",
+   "Partnership Act, 2020",
+   "Trade Act, 2049",
+   "Company Act, 2063"
+  ],
+  "options_ne": [
+   "औद्योगिक व्यवसाय ऐन, २०७६",
+   "साझेदारी ऐन, २०२०",
+   "व्यापार ऐन, २०४९",
+   "कम्पनी ऐन, २०६३"
+  ],
+  "answer": 3,
+  "explanation": "Companies in Nepal are registered under the Company Act, 2063 (2006).",
+  "explanation_ne": "नेपालमा कम्पनी कम्पनी ऐन, २०६३ (सन् २००६) अन्तर्गत दर्ता गरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-037",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which office registers companies in Nepal?",
+  "question_ne": "नेपालमा कम्पनी दर्ता गर्ने कार्यालय कुन हो?",
+  "options": [
+   "Office of the Company Registrar",
+   "Department of Industry",
+   "Nepal Rastra Bank",
+   "District Administration Office"
+  ],
+  "options_ne": [
+   "कम्पनी रजिस्ट्रारको कार्यालय",
+   "उद्योग विभाग",
+   "नेपाल राष्ट्र बैंक",
+   "जिल्ला प्रशासन कार्यालय"
+  ],
+  "answer": 0,
+  "explanation": "Companies are registered at the Office of the Company Registrar.",
+  "explanation_ne": "कम्पनी कम्पनी रजिस्ट्रारको कार्यालयमा दर्ता गरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-038",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The minimum number of promoters required to register a private limited company in Nepal is how many?",
+  "question_ne": "नेपालमा प्राइभेट लिमिटेड कम्पनी दर्ता गर्न आवश्यक न्यूनतम प्रवर्तक कति छन्?",
+  "options": [
+   "Two",
+   "One",
+   "Seven",
+   "Five"
+  ],
+  "options_ne": [
+   "दुई",
+   "एक",
+   "सात",
+   "पाँच"
+  ],
+  "answer": 1,
+  "explanation": "A private limited company in Nepal can be registered with a single promoter.",
+  "explanation_ne": "नेपालमा प्राइभेट लिमिटेड कम्पनी एक जना प्रवर्तकबाट दर्ता गर्न सकिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-039",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The minimum number of promoters required to register a public limited company in Nepal is how many?",
+  "question_ne": "नेपालमा पब्लिक लिमिटेड कम्पनी दर्ता गर्न आवश्यक न्यूनतम प्रवर्तक कति छन्?",
+  "options": [
+   "Three",
+   "One",
+   "Seven",
+   "Five"
+  ],
+  "options_ne": [
+   "तीन",
+   "एक",
+   "सात",
+   "पाँच"
+  ],
+  "answer": 2,
+  "explanation": "A public limited company in Nepal requires at least seven promoters.",
+  "explanation_ne": "नेपालमा पब्लिक लिमिटेड कम्पनीका लागि कम्तीमा सात प्रवर्तक चाहिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-040",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Education Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs the education system and teachers in Nepal?",
+  "question_ne": "नेपालमा शिक्षा प्रणाली र शिक्षक कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Local Government Operation Act, 2074",
+   "Teacher Service Commission Act, 2057",
+   "Civil Service Act, 2049",
+   "Education Act, 2028"
+  ],
+  "options_ne": [
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४",
+   "शिक्षक सेवा आयोग ऐन, २०५७",
+   "निजामती सेवा ऐन, २०४९",
+   "शिक्षा ऐन, २०२८"
+  ],
+  "answer": 3,
+  "explanation": "The Education Act, 2028 (1971) is the principal law governing education in Nepal.",
+  "explanation_ne": "शिक्षा ऐन, २०२८ (सन् १९७१) नेपालमा शिक्षा नियमन गर्ने प्रमुख कानुन हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-041",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Education Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Teacher Service Commission of Nepal is governed by which Act?",
+  "question_ne": "नेपालको शिक्षक सेवा आयोग कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Teacher Service Commission Act, 2057",
+   "Education Act, 2028",
+   "Civil Service Act, 2049",
+   "Public Service Commission Act, 2066"
+  ],
+  "options_ne": [
+   "शिक्षक सेवा आयोग ऐन, २०५७",
+   "शिक्षा ऐन, २०२८",
+   "निजामती सेवा ऐन, २०४९",
+   "लोक सेवा आयोग ऐन, २०६६"
+  ],
+  "answer": 0,
+  "explanation": "The Teacher Service Commission is governed by the Teacher Service Commission Act, 2057 (2000).",
+  "explanation_ne": "शिक्षक सेवा आयोग शिक्षक सेवा आयोग ऐन, २०५७ (सन् २०००) ले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-042",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Education Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Compulsory and free education in Nepal is guaranteed up to which level?",
+  "question_ne": "नेपालमा अनिवार्य र निःशुल्क शिक्षा कुन तहसम्म प्रत्याभूत छ?",
+  "options": [
+   "Secondary level",
+   "Basic level (up to class 8)",
+   "Bachelor's level",
+   "Primary level only (class 5)"
+  ],
+  "options_ne": [
+   "माध्यमिक तह",
+   "आधारभूत तह (कक्षा ८ सम्म)",
+   "स्नातक तह",
+   "केवल प्राथमिक तह (कक्षा ५)"
+  ],
+  "answer": 1,
+  "explanation": "Article 31 guarantees free education up to the secondary level and compulsory and free education up to the basic level.",
+  "explanation_ne": "धारा ३१ ले माध्यमिक तहसम्म निःशुल्क शिक्षा र आधारभूत तहसम्म अनिवार्य र निःशुल्क शिक्षा प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-043",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Army Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which law governs the use of the Nepal Army in aid of civil power?",
+  "question_ne": "नेपाल सेनालाई नागरिक शक्तिको सहयोगमा प्रयोग गर्ने कानुन कुन हो?",
+  "options": [
+   "Armed Police Force Act, 2058",
+   "Nepal Police Act, 2012",
+   "Army Act, 2063 and the Constitution",
+   "Public Security Act"
+  ],
+  "options_ne": [
+   "सशस्त्र प्रहरी बल ऐन, २०५८",
+   "नेपाल प्रहरी ऐन, २०१२",
+   "सैनिक ऐन, २०६३ र संविधान",
+   "सार्वजनिक सुरक्षा ऐन"
+  ],
+  "answer": 2,
+  "explanation": "The Nepal Army may be mobilised in aid of civil power under the Constitution and the Army Act, 2063.",
+  "explanation_ne": "नेपाल सेनालाई संविधान र सैनिक ऐन, २०६३ अन्तर्गत नागरिक शक्तिको सहयोगमा परिचालन गर्न सकिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-044",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A legal person (such as a company) can own property and sue in its own name. This is called what?",
+  "question_ne": "कानुनी व्यक्ति (जस्तै कम्पनी) ले आफ्नै नाममा सम्पत्ति राख्न र मुद्दा चलाउन सक्छ। यसलाई के भनिन्छ?",
+  "options": [
+   "Limited liability only",
+   "Natural personality",
+   "Sovereign immunity",
+   "Separate legal personality"
+  ],
+  "options_ne": [
+   "केवल सीमित दायित्व",
+   "प्राकृतिक व्यक्तित्व",
+   "सार्वभौम उन्मुक्ति",
+   "छुट्टै कानुनी व्यक्तित्व"
+  ],
+  "answer": 3,
+  "explanation": "A company has a separate legal personality, distinct from its shareholders.",
+  "explanation_ne": "कम्पनीको आफ्ना शेयरधनीबाट छुट्टै कानुनी व्यक्तित्व हुन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-045",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Company Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Limited liability in a company means what?",
+  "question_ne": "कम्पनीमा सीमित दायित्व भनेको के हो?",
+  "options": [
+   "Shareholders are liable only up to their unpaid share amount",
+   "Shareholders have unlimited liability",
+   "The company cannot be sued",
+   "Directors are never liable"
+  ],
+  "options_ne": [
+   "शेयरधनीको दायित्व नतिरेको शेयर रकमसम्म मात्र सीमित हुन्छ",
+   "शेयरधनीको असीमित दायित्व हुन्छ",
+   "कम्पनीमाथि मुद्दा चलाउन सकिँदैन",
+   "सञ्चालक कहिल्यै जिम्मेवार हुँदैनन्"
+  ],
+  "answer": 0,
+  "explanation": "Limited liability means a shareholder's liability is limited to the amount unpaid on their shares.",
+  "explanation_ne": "सीमित दायित्व भनेको शेयरधनीको दायित्व आफ्नो शेयरमा नतिरेको रकमसम्म मात्र सीमित हुनु हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-046",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of the following is an example of a negotiable instrument?",
+  "question_ne": "निम्नमध्ये कुन विनिमययोग्य लिखतको उदाहरण हो?",
+  "options": [
+   "A land title deed",
+   "A cheque",
+   "A citizenship certificate",
+   "A passport"
+  ],
+  "options_ne": [
+   "जग्गाधनी प्रमाणपत्र",
+   "चेक",
+   "नागरिकता प्रमाणपत्र",
+   "राहदानी"
+  ],
+  "answer": 1,
+  "explanation": "A cheque is a negotiable instrument; it can be transferred by endorsement and delivery.",
+  "explanation_ne": "चेक विनिमययोग्य लिखत हो; यसलाई पृष्ठाङ्कन र वितरणद्वारा हस्तान्तरण गर्न सकिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-047",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A cheque that is crossed cannot be encashed in what way?",
+  "question_ne": "क्रस गरिएको चेक कसरी नगद गर्न सकिँदैन?",
+  "options": [
+   "By deposit",
+   "Through a bank account",
+   "Over the counter in cash",
+   "By clearing"
+  ],
+  "options_ne": [
+   "जम्मा गरेर",
+   "बैंक खातामार्फत",
+   "काउन्टरबाट नगद",
+   "क्लियरिङबाट"
+  ],
+  "answer": 2,
+  "explanation": "A crossed cheque cannot be encashed over the counter in cash; it must be deposited into a bank account.",
+  "explanation_ne": "क्रस गरिएको चेक काउन्टरबाट नगद गर्न सकिँदैन; यसलाई बैंक खातामा जम्मा गर्नुपर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-048",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "csit-entrance",
+   "ioe-entrance",
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Nepal Rastra Bank was established in which year?",
+  "question_ne": "नेपाल राष्ट्र बैंक कुन वर्ष स्थापना भयो?",
+  "options": [
+   "2002",
+   "1937",
+   "1960",
+   "1956"
+  ],
+  "options_ne": [
+   "२००२",
+   "१९३७",
+   "१९६०",
+   "१९५६"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal Rastra Bank was established on 26 April 1956 under the Nepal Rastra Bank Act, 1955.",
+  "explanation_ne": "नेपाल राष्ट्र बैंक २६ अप्रिल १९५६ मा नेपाल राष्ट्र बैंक ऐन, १९५५ अन्तर्गत स्थापना भयो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-049",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal's first commercial bank, Nepal Bank Ltd., was established in which year?",
+  "question_ne": "नेपालको पहिलो वाणिज्य बैंक, नेपाल बैंक लिमिटेड, कुन वर्ष स्थापना भयो?",
+  "options": [
+   "1937",
+   "1956",
+   "1945",
+   "1960"
+  ],
+  "options_ne": [
+   "१९३७",
+   "१९५६",
+   "१९४५",
+   "१९६०"
+  ],
+  "answer": 0,
+  "explanation": "Nepal Bank Ltd., Nepal's first commercial bank, was established in 1937.",
+  "explanation_ne": "नेपाल बैंक लिमिटेड, नेपालको पहिलो वाणिज्य बैंक, सन् १९३७ मा स्थापना भयो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-050",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which Act governs the Securities Board of Nepal (SEBON)?",
+  "question_ne": "नेपाल धितोपत्र बोर्ड (सेबोन) कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Company Act, 2063",
+   "Securities Act, 2063",
+   "Bank and Financial Institution Act, 2073",
+   "Nepal Rastra Bank Act, 2058"
+  ],
+  "options_ne": [
+   "कम्पनी ऐन, २०६३",
+   "धितोपत्र ऐन, २०६३",
+   "बैंक तथा वित्तीय संस्था ऐन, २०७३",
+   "नेपाल राष्ट्र बैंक ऐन, २०५८"
+  ],
+  "answer": 1,
+  "explanation": "The Securities Board of Nepal (SEBON) is governed by the Securities Act, 2063 (2006).",
+  "explanation_ne": "नेपाल धितोपत्र बोर्ड (सेबोन) धितोपत्र ऐन, २०६३ (सन् २००६) ले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-051",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Banking Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The stock exchange of Nepal is known as what?",
+  "question_ne": "नेपालको स्टक एक्सचेन्ज के भनेर चिनिन्छ?",
+  "options": [
+   "Nepal Securities Exchange",
+   "Kathmandu Stock Exchange",
+   "Nepal Stock Exchange (NEPSE)",
+   "Himalayan Stock Exchange"
+  ],
+  "options_ne": [
+   "नेपाल धितोपत्र एक्सचेन्ज",
+   "काठमाडौं स्टक एक्सचेन्ज",
+   "नेपाल स्टक एक्सचेन्ज (नेप्से)",
+   "हिमालयन स्टक एक्सचेन्ज"
+  ],
+  "answer": 2,
+  "explanation": "The Nepal Stock Exchange (NEPSE) is Nepal's only stock exchange.",
+  "explanation_ne": "नेपाल स्टक एक्सचेन्ज (नेप्से) नेपालको एक मात्र स्टक एक्सचेन्ज हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-052",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Land Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act governs the registration of land in Nepal?",
+  "question_ne": "नेपालमा जग्गा दर्ता कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Forest Act, 2076",
+   "Civil Code, 2074",
+   "Local Government Operation Act, 2074",
+   "Land Act, 2021 (1964)"
+  ],
+  "options_ne": [
+   "वन ऐन, २०७६",
+   "देवानी संहिता, २०७४",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४",
+   "भूमि ऐन, २०२१ (सन् १९६४)"
+  ],
+  "answer": 3,
+  "explanation": "Land registration and land reform in Nepal are governed mainly by the Land Act, 2021 (1964).",
+  "explanation_ne": "नेपालमा जग्गा दर्ता र भूमि सुधार मुख्यतया भूमि ऐन, २०२१ (सन् १९६४) ले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-053",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Land Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Land ownership in Nepal is proved by which document?",
+  "question_ne": "नेपालमा जग्गा स्वामित्व कुन कागजातले प्रमाणित गर्छ?",
+  "options": [
+   "Lalpurja (land ownership certificate)",
+   "Citizenship certificate",
+   "Passport",
+   "Voter ID card"
+  ],
+  "options_ne": [
+   "लालपुर्जा (जग्गाधनी प्रमाणपत्र)",
+   "नागरिकता प्रमाणपत्र",
+   "राहदानी",
+   "मतदाता परिचयपत्र"
+  ],
+  "answer": 0,
+  "explanation": "Lalpurja, the land ownership certificate, is the proof of land ownership in Nepal.",
+  "explanation_ne": "लालपुर्जा, जग्गाधनी प्रमाणपत्र, नेपालमा जग्गा स्वामित्वको प्रमाण हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-054",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Land Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act governs the survey and measurement of land in Nepal?",
+  "question_ne": "नेपालमा जग्गा नापजाँच कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Land Act, 2021",
+   "Survey and Measurement Act, 2019",
+   "Civil Code, 2074",
+   "Local Government Operation Act, 2074"
+  ],
+  "options_ne": [
+   "भूमि ऐन, २०२१",
+   "नापी ऐन, २०१९",
+   "देवानी संहिता, २०७४",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४"
+  ],
+  "answer": 1,
+  "explanation": "The Survey and Measurement Act, 2019 (1962) governs the survey and measurement of land in Nepal.",
+  "explanation_ne": "नापी ऐन, २०१९ (सन् १९६२) ले नेपालमा जग्गा नापजाँच नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-055",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Land Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A person who occupies land without legal title is called what in law?",
+  "question_ne": "कानुनी हकबिना जग्गा ओगट्ने व्यक्तिलाई कानुनमा के भनिन्छ?",
+  "options": [
+   "Mortgagee",
+   "Tenant",
+   "Trespasser / encroacher",
+   "Lessee"
+  ],
+  "options_ne": [
+   "धितो लिने",
+   "भाडादार",
+   "अतिक्रमणकारी",
+   "पट्टा लिने"
+  ],
+  "answer": 2,
+  "explanation": "A person occupying land without legal title is a trespasser or encroacher.",
+  "explanation_ne": "कानुनी हकबिना जग्गा ओगट्ने व्यक्ति अतिक्रमणकारी हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-056",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which of the following is a fundamental right under Article 25?",
+  "question_ne": "निम्नमध्ये कुन धारा २५ अन्तर्गतको मौलिक हक हो?",
+  "options": [
+   "Right to employment",
+   "Right to education",
+   "Right to health",
+   "Right relating to property"
+  ],
+  "options_ne": [
+   "रोजगारीको हक",
+   "शिक्षा सम्बन्धी हक",
+   "स्वास्थ्य सम्बन्धी हक",
+   "सम्पत्तिको हक"
+  ],
+  "answer": 3,
+  "explanation": "Article 25 guarantees the right relating to property; no person shall be deprived of property except in accordance with law.",
+  "explanation_ne": "धारा २५ ले सम्पत्तिको हक प्रत्याभूत गर्छ; कानुनबमोजिमबाहेक कसैलाई सम्पत्तिबाट वञ्चित गरिने छैन।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-057",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the right to information?",
+  "question_ne": "सूचनाको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 27",
+   "Article 28",
+   "Article 19",
+   "Article 17"
+  ],
+  "options_ne": [
+   "धारा २७",
+   "धारा २८",
+   "धारा १९",
+   "धारा १७"
+  ],
+  "answer": 0,
+  "explanation": "Article 27 guarantees the right to information.",
+  "explanation_ne": "धारा २७ ले सूचनाको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-058",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the right to privacy?",
+  "question_ne": "गोपनीयताको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 27",
+   "Article 28",
+   "Article 20",
+   "Article 16"
+  ],
+  "options_ne": [
+   "धारा २७",
+   "धारा २८",
+   "धारा २०",
+   "धारा १६"
+  ],
+  "answer": 1,
+  "explanation": "Article 28 guarantees the right to privacy.",
+  "explanation_ne": "धारा २८ ले गोपनीयताको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-060",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the right to food?",
+  "question_ne": "खाद्य सम्बन्धी हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 33",
+   "Article 35",
+   "Article 37",
+   "Article 36"
+  ],
+  "options_ne": [
+   "धारा ३३",
+   "धारा ३५",
+   "धारा ३७",
+   "धारा ३६"
+  ],
+  "answer": 3,
+  "explanation": "Article 36 guarantees the right relating to food, including food sovereignty.",
+  "explanation_ne": "धारा ३६ ले खाद्य सम्प्रभुतासहित खाद्य सम्बन्धी हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-061",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the right to housing?",
+  "question_ne": "आवासको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 37",
+   "Article 36",
+   "Article 38",
+   "Article 35"
+  ],
+  "options_ne": [
+   "धारा ३७",
+   "धारा ३६",
+   "धारा ३८",
+   "धारा ३५"
+  ],
+  "answer": 0,
+  "explanation": "Article 37 guarantees the right relating to housing.",
+  "explanation_ne": "धारा ३७ ले आवासको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-062",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the rights of women?",
+  "question_ne": "महिलाको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 39",
+   "Article 38",
+   "Article 40",
+   "Article 41"
+  ],
+  "options_ne": [
+   "धारा ३९",
+   "धारा ३८",
+   "धारा ४०",
+   "धारा ४१"
+  ],
+  "answer": 1,
+  "explanation": "Article 38 guarantees the rights of women, including equal lineage rights and protection from violence.",
+  "explanation_ne": "धारा ३८ ले वंशीय हकमा समानता र हिंसाबाट संरक्षणसहित महिलाको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-063",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the rights of the child?",
+  "question_ne": "बालबालिकाको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 40",
+   "Article 38",
+   "Article 39",
+   "Article 41"
+  ],
+  "options_ne": [
+   "धारा ४०",
+   "धारा ३८",
+   "धारा ३९",
+   "धारा ४१"
+  ],
+  "answer": 2,
+  "explanation": "Article 39 guarantees the rights of the child, including protection from exploitation and the right to education.",
+  "explanation_ne": "धारा ३९ ले शोषणबाट संरक्षण र शिक्षा पाउने हकसहित बालबालिकाको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-064",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the rights of Dalit?",
+  "question_ne": "दलितको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 42",
+   "Article 39",
+   "Article 41",
+   "Article 40"
+  ],
+  "options_ne": [
+   "धारा ४२",
+   "धारा ३९",
+   "धारा ४१",
+   "धारा ४०"
+  ],
+  "answer": 3,
+  "explanation": "Article 40 guarantees the rights of Dalit, including the right to participate in public services.",
+  "explanation_ne": "धारा ४० ले सार्वजनिक सेवामा सहभागितासहित दलितको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-066",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which article guarantees the right to constitutional remedies?",
+  "question_ne": "संवैधानिक उपचारको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 45",
+   "Article 46",
+   "Article 20",
+   "Article 133"
+  ],
+  "options_ne": [
+   "धारा ४५",
+   "धारा ४६",
+   "धारा २०",
+   "धारा १३३"
+  ],
+  "answer": 1,
+  "explanation": "Article 46 guarantees the right to constitutional remedies for the enforcement of fundamental rights.",
+  "explanation_ne": "धारा ४६ ले मौलिक हक कार्यान्वयनका लागि संवैधानिक उपचारको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-067",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A law that is inconsistent with the Constitution is void to the extent of the inconsistency. This is stated in which article?",
+  "question_ne": "संविधानसँग बाझिएको कानुन बाझिएको हदसम्म बदर हुन्छ। यो कुन धारामा छ?",
+  "options": [
+   "Article 133",
+   "Article 4",
+   "Article 1",
+   "Article 274"
+  ],
+  "options_ne": [
+   "धारा १३३",
+   "धारा ४",
+   "धारा १",
+   "धारा २७४"
+  ],
+  "answer": 2,
+  "explanation": "Article 1 of the Constitution provides that laws inconsistent with the Constitution are void to the extent of the inconsistency.",
+  "explanation_ne": "संविधानको धारा १ ले संविधानसँग बाझिएको कानुन बाझिएको हदसम्म बदर हुन्छ भनी व्यवस्था गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-068",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The preamble of the Constitution of Nepal 2072 begins by remembering whom?",
+  "question_ne": "नेपालको संविधान २०७२ को प्रस्तावना कसलाई सम्झेर सुरु हुन्छ?",
+  "options": [
+   "The Constituent Assembly members",
+   "The kings",
+   "Foreign donors",
+   "The martyrs and the people's movements"
+  ],
+  "options_ne": [
+   "संविधान सभा सदस्य",
+   "राजाहरू",
+   "विदेशी दाता",
+   "सहिद र जनआन्दोलन"
+  ],
+  "answer": 3,
+  "explanation": "The preamble remembers the martyrs and the people's movements, including the People's War and the 2006 movement.",
+  "explanation_ne": "प्रस्तावनाले सहिद र जनआन्दोलन, जनयुद्ध र २००६ को आन्दोलनसहित, सम्झन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-069",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which schedule lists the concurrent powers of the federal and provincial governments?",
+  "question_ne": "संघ र प्रदेश सरकारको साझा अधिकार कुन अनुसूचीले सूचीबद्ध गर्छ?",
+  "options": [
+   "Schedule 7",
+   "Schedule 5",
+   "Schedule 6",
+   "Schedule 8"
+  ],
+  "options_ne": [
+   "अनुसूची ७",
+   "अनुसूची ५",
+   "अनुसूची ६",
+   "अनुसूची ८"
+  ],
+  "answer": 0,
+  "explanation": "Schedule 7 lists the concurrent powers of the federation and the provinces.",
+  "explanation_ne": "अनुसूची ७ ले संघ र प्रदेशको साझा अधिकार सूचीबद्ध गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-070",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which schedule lists the powers of local governments?",
+  "question_ne": "स्थानीय सरकारको अधिकार कुन अनुसूचीले सूचीबद्ध गर्छ?",
+  "options": [
+   "Schedule 5",
+   "Schedule 8",
+   "Schedule 6",
+   "Schedule 9"
+  ],
+  "options_ne": [
+   "अनुसूची ५",
+   "अनुसूची ८",
+   "अनुसूची ६",
+   "अनुसूची ९"
+  ],
+  "answer": 1,
+  "explanation": "Schedule 8 lists the powers of local levels, and Schedule 9 lists concurrent powers of all three tiers.",
+  "explanation_ne": "अनुसूची ८ ले स्थानीय तहको अधिकार र अनुसूची ९ ले तीनै तहको साझा अधिकार सूचीबद्ध गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-071",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitutional Bodies",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The National Natural Resources and Fiscal Commission is established under which article?",
+  "question_ne": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग कुन धाराअन्तर्गत स्थापना भयो?",
+  "options": [
+   "Article 245",
+   "Article 242",
+   "Article 250",
+   "Article 249"
+  ],
+  "options_ne": [
+   "धारा २४५",
+   "धारा २४२",
+   "धारा २५०",
+   "धारा २४९"
+  ],
+  "answer": 2,
+  "explanation": "The National Natural Resources and Fiscal Commission is established under Article 250 of the Constitution.",
+  "explanation_ne": "राष्ट्रिय प्राकृतिक स्रोत तथा वित्त आयोग संविधानको धारा २५० अन्तर्गत स्थापना भएको हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-072",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act governs the Judicial Service in Nepal?",
+  "question_ne": "नेपालमा न्याय सेवा कुन ऐनले नियमन गर्छ?",
+  "options": [
+   "Legal Practitioners Act, 2074",
+   "Civil Service Act, 2049",
+   "Court Fees Act, 2017",
+   "Judicial Service Commission Act, 2073"
+  ],
+  "options_ne": [
+   "कानुनी व्यवसायी ऐन, २०७४",
+   "निजामती सेवा ऐन, २०४९",
+   "अदालत शुल्क ऐन, २०१७",
+   "न्याय सेवा आयोग ऐन, २०७३"
+  ],
+  "answer": 3,
+  "explanation": "The Judicial Service is governed by the Judicial Service Commission Act, 2073 and related laws.",
+  "explanation_ne": "न्याय सेवा न्याय सेवा आयोग ऐन, २०७३ र सम्बन्धित कानुनले नियमन गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-073",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A District Court judge in Nepal retires at what age?",
+  "question_ne": "नेपालमा जिल्ला अदालतका न्यायाधीश कति उमेरमा अवकाश पाउँछन्?",
+  "options": [
+   "63 years",
+   "65 years",
+   "60 years",
+   "58 years"
+  ],
+  "options_ne": [
+   "६३ वर्ष",
+   "६५ वर्ष",
+   "६० वर्ष",
+   "५८ वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "District Court judges retire at 63 years of age, like High Court judges.",
+  "explanation_ne": "जिल्ला अदालतका न्यायाधीश उच्च अदालतका न्यायाधीशसरह ६३ वर्षको उमेरमा अवकाश पाउँछन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-074",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which court hears appeals from District Courts in Nepal?",
+  "question_ne": "नेपालमा जिल्ला अदालतबाट पुनरावेदन कुन अदालतले सुन्छ?",
+  "options": [
+   "Supreme Court",
+   "High Court",
+   "Special Court",
+   "Tribunal"
+  ],
+  "options_ne": [
+   "सर्वोच्च अदालत",
+   "उच्च अदालत",
+   "विशेष अदालत",
+   "न्यायाधिकरण"
+  ],
+  "answer": 1,
+  "explanation": "Appeals from District Courts generally go to the High Court, and from the High Court to the Supreme Court.",
+  "explanation_ne": "जिल्ला अदालतबाट पुनरावेदन सामान्यतया उच्च अदालतमा र उच्च अदालतबाट सर्वोच्च अदालतमा जान्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-075",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Special Court of Nepal mainly hears which cases?",
+  "question_ne": "नेपालको विशेष अदालतले मुख्यतया कुन मुद्दा सुन्छ?",
+  "options": [
+   "Family cases only",
+   "Civil disputes only",
+   "Corruption and serious criminal cases referred by law",
+   "Election petitions only"
+  ],
+  "options_ne": [
+   "केवल पारिवारिक मुद्दा",
+   "केवल देवानी विवाद",
+   "भ्रष्टाचार र कानुनले तोकेका गम्भीर फौजदारी मुद्दा",
+   "केवल निर्वाचन उजुरी"
+  ],
+  "answer": 2,
+  "explanation": "The Special Court hears corruption cases and other serious cases assigned to it by law.",
+  "explanation_ne": "विशेष अदालतले भ्रष्टाचारका मुद्दा र कानुनले तोकेका अन्य गम्भीर मुद्दा सुन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-076",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Court System",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act established the Special Court in Nepal?",
+  "question_ne": "नेपालमा विशेष अदालत कुन ऐनले स्थापना गर्‍यो?",
+  "options": [
+   "Prevention of Corruption Act, 2059",
+   "Court Fees Act, 2017",
+   "Judicial Service Commission Act, 2073",
+   "Special Court Act, 2059"
+  ],
+  "options_ne": [
+   "भ्रष्टाचार निवारण ऐन, २०५९",
+   "अदालत शुल्क ऐन, २०१७",
+   "न्याय सेवा आयोग ऐन, २०७३",
+   "विशेष अदालत ऐन, २०५९"
+  ],
+  "answer": 3,
+  "explanation": "The Special Court was established under the Special Court Act, 2059 (2002).",
+  "explanation_ne": "विशेष अदालत विशेष अदालत ऐन, २०५९ (सन् २००२) अन्तर्गत स्थापना भयो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-078",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Human trafficking in Nepal is an offence under which Act?",
+  "question_ne": "नेपालमा मानव बेचबिखन कुन ऐनअन्तर्गत अपराध हो?",
+  "options": [
+   "Muluki Criminal Code, 2074 only",
+   "Human Trafficking and Transportation (Control) Act, 2064",
+   "Immigration Act, 2049",
+   "Labour Act, 2074"
+  ],
+  "options_ne": [
+   "केवल मुलुकी अपराध संहिता, २०७४",
+   "मानव बेचबिखन तथा ओसारपसार (नियन्त्रण) ऐन, २०६४",
+   "अध्यागमन ऐन, २०४९",
+   "श्रम ऐन, २०७४"
+  ],
+  "answer": 1,
+  "explanation": "Human trafficking is an offence under the Human Trafficking and Transportation (Control) Act, 2064 (2007).",
+  "explanation_ne": "मानव बेचबिखन मानव बेचबिखन तथा ओसारपसार (नियन्त्रण) ऐन, २०६४ (सन् २००७) अन्तर्गत अपराध हो।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-079",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Children Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Children Act of Nepal was enacted in which year (BS)?",
+  "question_ne": "नेपालको बालबालिकासम्बन्धी ऐन कुन वर्ष (वि.सं.) मा बन्यो?",
+  "options": [
+   "2048",
+   "2066",
+   "2075",
+   "2074"
+  ],
+  "options_ne": [
+   "२०४८",
+   "२०६६",
+   "२०७५",
+   "२०७४"
+  ],
+  "answer": 2,
+  "explanation": "The Act Relating to Children, 2075 (2018) protects children's rights in Nepal.",
+  "explanation_ne": "बालबालिकासम्बन्धी ऐन, २०७५ (सन् २०१८) ले नेपालमा बालबालिकाका अधिकार संरक्षण गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-080",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Criminal Law",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act prohibits caste-based discrimination and untouchability in Nepal?",
+  "question_ne": "नेपालमा जातीय भेदभाव र छुवाछूत निषेध गर्ने ऐन कुन हो?",
+  "options": [
+   "Education Act, 2028",
+   "Muluki Civil Code, 2074",
+   "Labour Act, 2074",
+   "Caste-based Discrimination and Untouchability (Offence and Punishment) Act, 2068"
+  ],
+  "options_ne": [
+   "शिक्षा ऐन, २०२८",
+   "मुलुकी देवानी संहिता, २०७४",
+   "श्रम ऐन, २०७४",
+   "जातीय भेदभाव तथा छुवाछूत (कसूर र सजाय) ऐन, २०६८"
+  ],
+  "answer": 3,
+  "explanation": "Caste-based discrimination and untouchability are offences under the Caste-based Discrimination and Untouchability (Offence and Punishment) Act, 2068 (2011).",
+  "explanation_ne": "जातीय भेदभाव र छुवाछूत जातीय भेदभाव तथा छुवाछूत (कसूर र सजाय) ऐन, २०६८ (सन् २०११) अन्तर्गत अपराध हुन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-081",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Constitution",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The right against untouchability and discrimination is guaranteed by which article?",
+  "question_ne": "छुवाछूत तथा भेदभाव विरुद्धको हक कुन धाराले प्रत्याभूत गर्छ?",
+  "options": [
+   "Article 24",
+   "Article 18",
+   "Article 40",
+   "Article 42"
+  ],
+  "options_ne": [
+   "धारा २४",
+   "धारा १८",
+   "धारा ४०",
+   "धारा ४२"
+  ],
+  "answer": 0,
+  "explanation": "Article 24 guarantees the right against untouchability and discrimination.",
+  "explanation_ne": "धारा २४ ले छुवाछूत तथा भेदभाव विरुद्धको हक प्रत्याभूत गर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-082",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Act governs the Nepal Bar Council's disciplinary action against advocates?",
+  "question_ne": "नेपाल बार काउन्सिलले अधिवक्ताविरुद्ध अनुशासनात्मक कारबाही कुन ऐनअन्तर्गत गर्छ?",
+  "options": [
+   "Advocates Discipline Act, 2074",
+   "Nepal Bar Council Act, 2050",
+   "Civil Code, 2074",
+   "Court Fees Act, 2017"
+  ],
+  "options_ne": [
+   "अधिवक्ता अनुशासन ऐन, २०७४",
+   "नेपाल बार काउन्सिल ऐन, २०५०",
+   "देवानी संहिता, २०७४",
+   "अदालत शुल्क ऐन, २०१७"
+  ],
+  "answer": 1,
+  "explanation": "Disciplinary action against advocates is taken under the Nepal Bar Council Act, 2050.",
+  "explanation_ne": "अधिवक्ताविरुद्ध अनुशासनात्मक कारबाही नेपाल बार काउन्सिल ऐन, २०५० अन्तर्गत गरिन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-083",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Bar Council",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "An advocate in Nepal must renew their licence every how many years?",
+  "question_ne": "नेपालमा अधिवक्ताले आफ्नो लाइसेन्स कति वर्षमा नवीकरण गर्नुपर्छ?",
+  "options": [
+   "Every three years",
+   "Every five years",
+   "Every year",
+   "Never"
+  ],
+  "options_ne": [
+   "हरेक तीन वर्ष",
+   "हरेक पाँच वर्ष",
+   "हरेक वर्ष",
+   "कहिल्यै होइन"
+  ],
+  "answer": 2,
+  "explanation": "Advocates in Nepal must renew their licence annually with the Nepal Bar Council.",
+  "explanation_ne": "नेपालमा अधिवक्ताले नेपाल बार काउन्सिलसँग हरेक वर्ष आफ्नो लाइसेन्स नवीकरण गर्नुपर्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-084",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Legal Concepts",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which of the following is NOT a source of law in Nepal?",
+  "question_ne": "निम्नमध्ये कुन नेपालमा कानुनको स्रोत होइन?",
+  "options": [
+   "Customary practice recognised by law",
+   "The Constitution",
+   "Acts of Parliament",
+   "Foreign court judgments as binding law"
+  ],
+  "options_ne": [
+   "कानुनले मान्यता दिएको चलन",
+   "संविधान",
+   "संसद्का ऐन",
+   "विदेशी अदालतका निर्णय बाध्यकारी कानुनका रूपमा"
+  ],
+  "answer": 3,
+  "explanation": "Foreign court judgments are not a binding source of law in Nepal; the Constitution, Acts, and recognised custom and precedent are.",
+  "explanation_ne": "विदेशी अदालतका निर्णय नेपालमा बाध्यकारी कानुनको स्रोत होइनन्; संविधान, ऐन र मान्यता प्राप्त चलन तथा नजिर हुन्।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "LAW6-085",
+  "exam": [
+   "bar-council",
+   "section-officer",
+   "nasu",
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Law — Legal Concepts",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Custom becomes a source of law in Nepal when it is what?",
+  "question_ne": "नेपालमा चलन कानुनको स्रोत कहिले बन्छ?",
+  "options": [
+   "Long-standing, reasonable and not contrary to law",
+   "Practised once",
+   "Written in a book",
+   "Approved by a foreign court"
+  ],
+  "options_ne": [
+   "लामो समयदेखि चलिआएको, उचित र कानुनविपरीत नभएको",
+   "एक पटक अभ्यास गरिएको",
+   "किताबमा लेखिएको",
+   "विदेशी अदालतले स्वीकृत गरेको"
+  ],
+  "answer": 0,
+  "explanation": "Custom is a source of law when it is long-standing, reasonable, certain and not contrary to statute or the Constitution.",
+  "explanation_ne": "चलन लामो समयदेखि चलिआएको, उचित, निश्चित र ऐन वा संविधानविपरीत नभएमा कानुनको स्रोत बन्छ।",
+  "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ }
+]

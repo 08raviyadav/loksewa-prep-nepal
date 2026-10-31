@@ -1,0 +1,6674 @@
+[
+ {
+  "id": "CONST-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When was the Constitution of Nepal 2072 promulgated?",
+  "question_ne": "नेपालको संविधान २०७२ कहिले जारी भएको हो?",
+  "options": [
+   "20 September 2016",
+   "20 September 2015",
+   "15 August 2015",
+   "3 Ashoj 2073"
+  ],
+  "options_ne": [
+   "२० सेप्टेम्बर २०१६",
+   "२० सेप्टेम्बर २०१५",
+   "१५ अगस्ट २०१५",
+   "३ असोज २०७३"
+  ],
+  "answer": 1,
+  "explanation": "The Constitution of Nepal was promulgated on 20 September 2015, which is Ashoj 3, 2072 BS.",
+  "explanation_ne": "नेपालको संविधान २० सेप्टेम्बर २०१५, असोज ३, २०७२ बि.सं. मा जारी भएको थियो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which date in the Bikram Sambat calendar was the Constitution of Nepal 2072 promulgated?",
+  "question_ne": "नेपालको संविधान २०७२ को विक्रम संवत् पात्रोको कुन मितिमा जारी भएको हो?",
+  "options": [
+   "Ashoj 3, 2072",
+   "Ashadh 3, 2072",
+   "Kartik 3, 2072",
+   "Bhadra 3, 2072"
+  ],
+  "options_ne": [
+   "असोज ३, २०७२",
+   "असार ३, २०७२",
+   "कार्तिक ३, २०७२",
+   "भदौ ३, २०७२"
+  ],
+  "answer": 0,
+  "explanation": "The Constitution was promulgated on Ashoj 3, 2072 BS, corresponding to 20 September 2015 AD.",
+  "explanation_ne": "असोज ३, २०७२ बि.सं. मा संविधान जारी भएको थियो, २० सेप्टेम्बर २०१५ AD को अनुरूप।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many provinces are there in Nepal under the federal structure?",
+  "question_ne": "संघीय संरचना अन्तर्गत नेपालमा कतिवटा प्रदेश छन्?",
+  "options": [
+   "9",
+   "7",
+   "6",
+   "5"
+  ],
+  "options_ne": [
+   "९",
+   "७",
+   "६",
+   "५"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is divided into 7 provinces under the federal structure of the Constitution of Nepal 2072.",
+  "explanation_ne": "नेपालको संविधान २०७२ को संघीय संरचना अनुसार नेपाललाई ७ प्रदेशमा विभाजन गरिएको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many tiers of government are there in Nepal?",
+  "question_ne": "नेपालमा कति तहका सरकार छन्?",
+  "options": [
+   "5",
+   "2",
+   "4",
+   "3"
+  ],
+  "options_ne": [
+   "५",
+   "२",
+   "४",
+   "३"
+  ],
+  "answer": 3,
+  "explanation": "Nepal has three tiers of government: federal, provincial and local.",
+  "explanation_ne": "नेपालमा संघ, प्रदेश र स्थानीय गरी तीन तहका सरकार छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many metropolitan cities are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा महानगर रहेका छन्?",
+  "options": [
+   "6",
+   "5",
+   "11",
+   "7"
+  ],
+  "options_ne": [
+   "६",
+   "५",
+   "११",
+   "७"
+  ],
+  "answer": 0,
+  "explanation": "Nepal has 6 metropolitan cities.",
+  "explanation_ne": "नेपालमा ६ वटा महानगरपालिका छन्।",
+  "source": "Local Government Operation Act 2074"
+ },
+ {
+  "id": "CONST-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many rural municipalities (gaunpalika) are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा गाउँपालिका (गाउँपालिका) रहेका छन्?",
+  "options": [
+   "460",
+   "276",
+   "481",
+   "753"
+  ],
+  "options_ne": [
+   "४६०",
+   "२७६",
+   "४८१",
+   "७५३"
+  ],
+  "answer": 0,
+  "explanation": "Nepal has 460 rural municipalities, along with 276 municipalities, 11 sub-metropolitan cities and 6 metropolitan cities, totalling 753 local levels.",
+  "explanation_ne": "नेपालमा ४६० गाउँपालिका, २७६ नगरपालिका, ११ उपमहानगरपालिका र ६ महानगरपालिका गरी जम्मा ७५३ स्थानीय तह छन्।",
+  "source": "Local Government Operation Act 2074"
+ },
+ {
+  "id": "CONST-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many municipalities (nagarpalika) are there in Nepal, excluding metropolitan and sub-metropolitan cities?",
+  "question_ne": "नेपालमा महानगर र उपमहानगरपालिका बाहेक कति नगरपालिका (नगरपालिका) रहेका छन्?",
+  "options": [
+   "460",
+   "293",
+   "753",
+   "276"
+  ],
+  "options_ne": [
+   "४६०",
+   "२९३",
+   "७५३",
+   "२७६"
+  ],
+  "answer": 3,
+  "explanation": "Nepal has 276 municipalities, in addition to 6 metropolitan cities and 11 sub-metropolitan cities.",
+  "explanation_ne": "नेपालमा ६ महानगर र ११ उपमहानगरपालिकाका अतिरिक्त २७६ नगरपालिका छन्।",
+  "source": "Local Government Operation Act 2074"
+ },
+ {
+  "id": "CONST-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many members are there in the House of Representatives of Nepal?",
+  "question_ne": "नेपालको प्रतिनिधि सभामा कति सदस्य छन्?",
+  "options": [
+   "165",
+   "59",
+   "275",
+   "259"
+  ],
+  "options_ne": [
+   "१६५",
+   "५९",
+   "२७५",
+   "२५९"
+  ],
+  "answer": 2,
+  "explanation": "The House of Representatives has 275 members: 165 elected by first-past-the-post and 110 by proportional representation.",
+  "explanation_ne": "प्रतिनिधि सभामा २७५ सदस्यहरू छन्: १६५ पहिलो-निर्वाचित र समानुपातिक प्रतिनिधित्वबाट 110 निर्वाचित।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many members are there in the National Assembly of Nepal?",
+  "question_ne": "नेपालको राष्ट्रिय सभामा कति सदस्य छन्?",
+  "options": [
+   "69",
+   "49",
+   "79",
+   "59"
+  ],
+  "options_ne": [
+   "६९",
+   "४९",
+   "७९",
+   "५९"
+  ],
+  "answer": 3,
+  "explanation": "The National Assembly has 59 members: 56 elected and 3 nominated by the President.",
+  "explanation_ne": "राष्ट्रिय सभामा ५९ सदस्य छन्: ५६ निर्वाचित र ३ राष्ट्रपतिबाट मनोनीत।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many members of the House of Representatives are elected through the first-past-the-post system?",
+  "question_ne": "प्रतिनिधि सभामा प्रथम निर्वाचित हुने प्रणालीबाट कति सदस्य निर्वाचित हुन्छन्?",
+  "options": [
+   "59",
+   "165",
+   "275",
+   "110"
+  ],
+  "options_ne": [
+   "५९",
+   "१६५",
+   "२७५",
+   "११०"
+  ],
+  "answer": 1,
+  "explanation": "Of the 275 members of the House of Representatives, 165 are elected by first-past-the-post and 110 by proportional representation.",
+  "explanation_ne": "प्रतिनिधिसभाका २७५ सदस्यमध्ये १ सय ६५ प्रथम पदबाट र १ सय १० समानुपातिकबाट निर्वाचित भएका छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many members of the House of Representatives are elected through proportional representation?",
+  "question_ne": "प्रतिनिधि सभामा समानुपातिक प्रतिनिधित्वबाट कति सदस्य निर्वाचित हुन्छन्?",
+  "options": [
+   "165",
+   "59",
+   "275",
+   "110"
+  ],
+  "options_ne": [
+   "१६५",
+   "५९",
+   "२७५",
+   "११०"
+  ],
+  "answer": 3,
+  "explanation": "Of the 275 members of the House of Representatives, 110 are elected by proportional representation and 165 by first-past-the-post.",
+  "explanation_ne": "प्रतिनिधिसभाका २७५ सदस्यमध्ये १ सय १० समानुपातिक र १ सय ६५ प्रथम पदबाट निर्वाचित भएका छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the name of the federal legislature of Nepal?",
+  "question_ne": "नेपालको संघीय व्यवस्थापिकाको नाम के हो?",
+  "options": [
+   "Federal Parliament",
+   "National Council",
+   "State Assembly",
+   "Constituent Assembly"
+  ],
+  "options_ne": [
+   "संघीय संसद",
+   "राष्ट्रिय परिषद्",
+   "प्रदेश सभा",
+   "संविधान सभा"
+  ],
+  "answer": 0,
+  "explanation": "The federal legislature of Nepal is called the Federal Parliament, consisting of the House of Representatives and the National Assembly.",
+  "explanation_ne": "नेपालको संघीय व्यवस्थापिकालाई संघीय संसद भनिन्छ, जसमा प्रतिनिधि सभा र राष्ट्रिय सभा मिलेर बनेको हुन्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council",
+   "foreign-service"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Parliament",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the term of a member of the National Assembly of Nepal?",
+  "question_ne": "नेपालको राष्ट्रिय सभा सदस्यको कार्यकाल कति हुन्छ?",
+  "options": [
+   "5 years",
+   "4 years",
+   "6 years",
+   "3 years"
+  ],
+  "options_ne": [
+   "५ वर्ष",
+   "४ वर्ष",
+   "६ वर्ष",
+   "३ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "A member of the National Assembly serves a term of six years, with one-third retiring every two years.",
+  "explanation_ne": "राष्ट्रिय सभाको सदस्यको कार्यकाल छ वर्षको हुन्छ, जसमा प्रत्येक दुई वर्षमा एक तिहाइले अवकाश लिन्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "President",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the Head of State of Nepal?",
+  "question_ne": "नेपालको राष्ट्र प्रमुख को हुन?",
+  "options": [
+   "Speaker",
+   "Prime Minister",
+   "President",
+   "Chief Justice"
+  ],
+  "options_ne": [
+   "सभामुख",
+   "प्रधानमन्त्री",
+   "राष्ट्रपति",
+   "प्रधानन्यायाधीश"
+  ],
+  "answer": 2,
+  "explanation": "The President is the Head of State of Nepal under the Constitution of Nepal 2072.",
+  "explanation_ne": "नेपालको संविधान २०७२ बमोजिम राष्ट्रपति नेपालको राज्य प्रमुख हुन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "President",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who elects the President of Nepal?",
+  "question_ne": "नेपालको राष्ट्रपति कसले चुन्छ?",
+  "options": [
+   "People directly",
+   "An electoral college",
+   "The Chief Justice",
+   "The Prime Minister"
+  ],
+  "options_ne": [
+   "मानिसहरू प्रत्यक्ष",
+   "एक निर्वाचन कलेज",
+   "प्रधानन्यायाधीश",
+   "प्रधानमन्त्री"
+  ],
+  "answer": 1,
+  "explanation": "The President is elected by an electoral college consisting of members of the Federal Parliament and the Provincial Assemblies.",
+  "explanation_ne": "राष्ट्रपतिको निर्वाचन संघीय संसद र प्रदेश सभाका सदस्य रहेको निर्वाचक मण्डलबाट हुन्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Executive",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the Head of Government of Nepal?",
+  "question_ne": "नेपालको सरकार प्रमुख को हुन?",
+  "options": [
+   "President",
+   "Chief Justice",
+   "Prime Minister",
+   "Speaker"
+  ],
+  "options_ne": [
+   "राष्ट्रपति",
+   "प्रधानन्यायाधीश",
+   "प्रधानमन्त्री",
+   "सभामुख"
+  ],
+  "answer": 2,
+  "explanation": "The Prime Minister is the Head of Government of Nepal.",
+  "explanation_ne": "प्रधानमन्त्री नेपाल सरकारका प्रमुख हुन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which article of the Constitution of Nepal defines Nepal as a federal democratic republic?",
+  "question_ne": "नेपालको संविधानको कुन धाराले नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र भनेर परिभाषित गरेको छ?",
+  "options": [
+   "Article 1",
+   "Article 10",
+   "Article 50",
+   "Article 4"
+  ],
+  "options_ne": [
+   "धारा १",
+   "धारा १०",
+   "धारा ५०",
+   "धारा ४"
+  ],
+  "answer": 3,
+  "explanation": "Article 4 of the Constitution of Nepal 2072 states that Nepal is an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented federal democratic republican state.",
+  "explanation_ne": "नेपालको संविधान २०७२ को धारा ४ मा नेपाल एक स्वतन्त्र, अविभाज्य, सार्वभौमसत्ता सम्पन्न, धर्मनिरपेक्ष, समावेशी, लोकतान्त्रिक, समाजवाद उन्मुख संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य हो भनी उल्लेख छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which part of the Constitution of Nepal 2072 are fundamental rights provided?",
+  "question_ne": "नेपालको संविधान २०७२ को कुन भागमा मौलिक हकको व्यवस्था गरिएको छ?",
+  "options": [
+   "Part 3",
+   "Part 2",
+   "Part 4",
+   "Part 5"
+  ],
+  "options_ne": [
+   "भाग ३",
+   "भाग २",
+   "भाग ४",
+   "भाग ५"
+  ],
+  "answer": 0,
+  "explanation": "Fundamental rights are provided in Part 3 of the Constitution of Nepal 2072.",
+  "explanation_ne": "नेपालको संविधान २०७२ को भाग ३ मा मौलिक हकहरू व्यवस्था गरिएको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a fundamental right guaranteed by the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ ले प्रत्याभूत गरेको मौलिक हक तलका मध्ये कुन हो?",
+  "options": [
+   "Right to live with dignity",
+   "Right to own a car",
+   "Right to foreign employment",
+   "Right to free internet"
+  ],
+  "options_ne": [
+   "सम्मानपूर्वक बाँच्न पाउने अधिकार",
+   "कारको स्वामित्व पाउने अधिकार",
+   "वैदेशिक रोजगारीको हक",
+   "नि:शुल्क इन्टरनेटको अधिकार"
+  ],
+  "answer": 0,
+  "explanation": "The right to live with dignity is a fundamental right under Article 16 of the Constitution of Nepal 2072.",
+  "explanation_ne": "नेपालको संविधान २०७२ को धारा १६ अन्तर्गत सम्मानपूर्वक बाँच्न पाउने हक मौलिक हक हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The right to freedom is guaranteed under which article of the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ को कुन धारामा स्वतन्त्रताको हकको प्रत्याभूति गरिएको छ?",
+  "options": [
+   "Article 17",
+   "Article 18",
+   "Article 16",
+   "Article 19"
+  ],
+  "options_ne": [
+   "धारा १७",
+   "धारा १८",
+   "धारा १६",
+   "धारा १९"
+  ],
+  "answer": 0,
+  "explanation": "Article 17 of the Constitution guarantees the right to freedom, including freedom of opinion, assembly, movement and profession.",
+  "explanation_ne": "संविधानको धारा १७ ले विचार, भेला, आन्दोलन र पेशाको स्वतन्त्रता लगायतका स्वतन्त्रताको अधिकारको प्रत्याभूति गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the right to equality in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ मा समानताको हकको प्रत्याभूति कुन धाराले गरेको छ?",
+  "options": [
+   "Article 16",
+   "Article 17",
+   "Article 20",
+   "Article 18"
+  ],
+  "options_ne": [
+   "धारा १६",
+   "धारा १७",
+   "धारा २०",
+   "धारा १८"
+  ],
+  "answer": 3,
+  "explanation": "Article 18 of the Constitution guarantees the right to equality before the law and equal protection of the laws.",
+  "explanation_ne": "संविधानको धारा १८ ले कानूनको अगाडि समानताको हक र कानूनको समान संरक्षणको प्रत्याभूति गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "judicial-service",
+   "provincial-psc",
+   "psc-service-groups",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article of the Constitution of Nepal guarantees the right to education?",
+  "question_ne": "नेपालको संविधानको कुन धाराले शिक्षाको हकको प्रत्याभूति गरेको छ?",
+  "options": [
+   "Article 31",
+   "Article 35",
+   "Article 43",
+   "Article 27"
+  ],
+  "options_ne": [
+   "धारा ३१",
+   "धारा ३५",
+   "धारा ४३",
+   "धारा २७"
+  ],
+  "answer": 0,
+  "explanation": "Article 31 guarantees the right to education, including free basic education and free secondary education in public schools.",
+  "explanation_ne": "धारा ३१ ले सामुदायिक विद्यालयमा निःशुल्क आधारभूत शिक्षा र निःशुल्क माध्यमिक शिक्षालगायत शिक्षाको अधिकारको ग्यारेन्टी गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the right to information in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ मा सूचनाको हकको प्रत्याभूति कुन धाराले गरेको छ?",
+  "options": [
+   "Article 25",
+   "Article 27",
+   "Article 29",
+   "Article 31"
+  ],
+  "options_ne": [
+   "धारा २५",
+   "धारा २७",
+   "धारा २९",
+   "धारा ३१"
+  ],
+  "answer": 1,
+  "explanation": "Article 27 guarantees the right to information, allowing every citizen to seek information on matters of public importance.",
+  "explanation_ne": "धारा २७ ले सूचनाको हकको ग्यारेन्टी गर्दै प्रत्येक नागरिकलाई सार्वजनिक महत्वका विषयमा जानकारी लिन अनुमति दिएको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the right to employment in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ को कुन धाराले रोजगारीको हकको प्रत्याभूति गरेको छ?",
+  "options": [
+   "Article 31",
+   "Article 33",
+   "Article 43",
+   "Article 35"
+  ],
+  "options_ne": [
+   "धारा ३१",
+   "धारा ३३",
+   "धारा ४३",
+   "धारा ३५"
+  ],
+  "answer": 1,
+  "explanation": "Article 33 guarantees the right to employment, including the right to choose employment.",
+  "explanation_ne": "धारा ३३ ले रोजगारी छनौट गर्ने अधिकार सहित रोजगारीको अधिकारको ग्यारेन्टी गर्दछ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the right to food in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ को कुन धाराले खाद्य अधिकारको प्रत्याभूति गरेको छ?",
+  "options": [
+   "Article 40",
+   "Article 38",
+   "Article 33",
+   "Article 36"
+  ],
+  "options_ne": [
+   "धारा ४०",
+   "धारा ३८",
+   "धारा ३३",
+   "धारा ३६"
+  ],
+  "answer": 3,
+  "explanation": "Article 36 guarantees the right to food, including the right to food sovereignty.",
+  "explanation_ne": "धारा ३६ ले खाद्य सम्प्रभुताको अधिकार सहित खाद्य अधिकारको ग्यारेन्टी गर्दछ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the right to housing in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ को कुन धाराले आवासको हक सुनिश्चित गरेको छ?",
+  "options": [
+   "Article 39",
+   "Article 35",
+   "Article 37",
+   "Article 41"
+  ],
+  "options_ne": [
+   "धारा ३९",
+   "धारा ३५",
+   "धारा ३७",
+   "धारा ४१"
+  ],
+  "answer": 2,
+  "explanation": "Article 37 guarantees the right to housing, including protection from arbitrary eviction.",
+  "explanation_ne": "धारा ३७ ले मनमानी निष्कासनबाट संरक्षण सहित आवासको अधिकारको ग्यारेन्टी गर्दछ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article of the Constitution provides the right to constitutional remedies?",
+  "question_ne": "संवैधानिक उपचारको हक संविधानको कुन धारामा दिइएको छ?",
+  "options": [
+   "Article 46",
+   "Article 44",
+   "Article 47",
+   "Article 48"
+  ],
+  "options_ne": [
+   "धारा ४६",
+   "धारा ४४",
+   "धारा ४७",
+   "धारा ४८"
+  ],
+  "answer": 0,
+  "explanation": "Article 46 provides the right to constitutional remedies, allowing a person to move the Supreme Court for enforcement of fundamental rights.",
+  "explanation_ne": "धारा ४६ ले संवैधानिक उपचारको अधिकार प्रदान गरेको छ, जसले व्यक्तिलाई मौलिक हकको कार्यान्वयनका लागि सर्वोच्च अदालतमा जान अनुमति दिएको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council",
+   "police"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the highest court in Nepal?",
+  "question_ne": "नेपालको सर्वोच्च अदालत कुन हो?",
+  "options": [
+   "Special Court",
+   "High Court",
+   "Supreme Court",
+   "District Court"
+  ],
+  "options_ne": [
+   "विशेष अदालत",
+   "उच्च अदालत",
+   "सर्वोच्च अदालत",
+   "जिल्ला अदालत"
+  ],
+  "answer": 2,
+  "explanation": "The Supreme Court is the highest court in Nepal and the final interpreter of the Constitution.",
+  "explanation_ne": "सर्वोच्च अदालत नेपालको सर्वोच्च अदालत र संविधानको अन्तिम व्याख्याकर्ता हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is the Supreme Court of Nepal located?",
+  "question_ne": "नेपालको सर्वोच्च अदालत कहाँ रहेको छ?",
+  "options": [
+   "Kathmandu",
+   "Nepalgunj",
+   "Pokhara",
+   "Biratnagar"
+  ],
+  "options_ne": [
+   "काठमाडौं।",
+   "नेपालगन्ज",
+   "पोखरा",
+   "विराटनगर"
+  ],
+  "answer": 0,
+  "explanation": "The Supreme Court of Nepal is located in Kathmandu.",
+  "explanation_ne": "नेपालको सर्वोच्च अदालत काठमाडौंमा अवस्थित छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who appoints the Chief Justice of Nepal?",
+  "question_ne": "नेपालको प्रधानन्यायाधीशको नियुक्ति कसले गर्छ?",
+  "options": [
+   "Attorney General",
+   "Prime Minister",
+   "Speaker",
+   "President"
+  ],
+  "options_ne": [
+   "महान्यायाधिवक्ता",
+   "प्रधानमन्त्री",
+   "सभामुख",
+   "राष्ट्रपति"
+  ],
+  "answer": 3,
+  "explanation": "The President appoints the Chief Justice on the recommendation of the Constitutional Council.",
+  "explanation_ne": "संवैधानिक परिषद्को सिफारिसमा राष्ट्रपतिले प्रधानन्यायाधीश नियुक्त गर्ने व्यवस्था छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "At what age does a Justice of the Supreme Court of Nepal retire?",
+  "question_ne": "नेपालको सर्वोच्च अदालतका न्यायाधीश कति वर्षको उमेरमा अवकाश लिन्छन्?",
+  "options": [
+   "63 years",
+   "65 years",
+   "68 years",
+   "60 years"
+  ],
+  "options_ne": [
+   "६३ वर्ष",
+   "६५ वर्ष",
+   "६८ वर्ष",
+   "६० वर्ष"
+  ],
+  "answer": 1,
+  "explanation": "A Justice of the Supreme Court retires at the age of 65 years.",
+  "explanation_ne": "सर्वोच्च अदालतका न्यायाधीश ६५ वर्षको उमेरमा अवकाश पाउँछन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many High Courts are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा उच्च अदालत छन्?",
+  "options": [
+   "5",
+   "7",
+   "9",
+   "16"
+  ],
+  "options_ne": [
+   "५",
+   "७",
+   "९",
+   "१६"
+  ],
+  "answer": 1,
+  "explanation": "Nepal has 7 High Courts, one in each province.",
+  "explanation_ne": "नेपालमा प्रत्येक प्रदेशमा एक गरी ७ उच्च अदालत छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the official language of Nepal according to the Constitution?",
+  "question_ne": "नेपालको संविधान अनुसार नेपालको आधिकारिक भाषा कुन हो?",
+  "options": [
+   "Nepali",
+   "Newari",
+   "English",
+   "Maithili"
+  ],
+  "options_ne": [
+   "नेपाली",
+   "नेवारी",
+   "अंग्रेजी",
+   "मैथिली"
+  ],
+  "answer": 0,
+  "explanation": "Nepali, written in the Devanagari script, is the official language of Nepal under Article 7(1) of the Constitution; all languages spoken in Nepal are national languages under Article 6.",
+  "explanation_ne": "संविधानको धारा ७(१) अनुसार देवनागरी लिपिमा लेखिएको नेपाली नेपालको आधिकारिक भाषा हो; धारा ६ अनुसार नेपालमा बोलिने सबै भाषा राष्ट्रिय भाषा हुन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the national colour of Nepal?",
+  "question_ne": "नेपालको राष्ट्रिय रंग के हो?",
+  "options": [
+   "Red",
+   "Green",
+   "Blue",
+   "Crimson"
+  ],
+  "options_ne": [
+   "रातो",
+   "हरियो",
+   "निलो",
+   "सिम्रिक"
+  ],
+  "answer": 3,
+  "explanation": "Crimson is the national colour of Nepal.",
+  "explanation_ne": "नेपालको राष्ट्रिय रङ सिम्रिक हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is unique about the national flag of Nepal?",
+  "question_ne": "नेपालको राष्ट्रिय झण्डाको विशेषता के छ?",
+  "options": [
+   "It has no symbol",
+   "It is the only non-rectangular national flag in the world",
+   "It is rectangular",
+   "It has three colours"
+  ],
+  "options_ne": [
+   "यसको कुनै प्रतीक छैन",
+   "यो संसारको एक मात्र गैर-आयताकार राष्ट्रिय झण्डा हो",
+   "यो आयताकार छ",
+   "यसमा तीन रंग छन्"
+  ],
+  "answer": 1,
+  "explanation": "The flag of Nepal is the only non-rectangular national flag in the world, made of two overlapping triangles.",
+  "explanation_ne": "नेपालको झण्डा विश्वको एकमात्र गैर-आयताकार राष्ट्रिय झण्डा हो, जुन दुई ओभरल्यापिङ त्रिकोणबाट बनेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the national anthem of Nepal called?",
+  "question_ne": "नेपालको राष्ट्रिय गानलाई के भनिन्छ?",
+  "options": [
+   "Hamro Nepal",
+   "Sayaun Thunga Phool Ka",
+   "Rato Ra Chandra Surya",
+   "Jana Gana Mana"
+  ],
+  "options_ne": [
+   "हाम्रो नेपाल",
+   "सयौँ थुँगा फूलका",
+   "रातो र चन्द्र सुर्य",
+   "जन गण मन"
+  ],
+  "answer": 1,
+  "explanation": "The national anthem of Nepal is 'Sayaun Thunga Phool Ka'.",
+  "explanation_ne": "नेपालको राष्ट्रिय गान ‘स्यौं थुंगा फुल का’ हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many parts does the Constitution of Nepal 2072 have?",
+  "question_ne": "नेपालको संविधान २०७२ मा कति भाग रहेको छ?",
+  "options": [
+   "25",
+   "37",
+   "30",
+   "35"
+  ],
+  "options_ne": [
+   "२५",
+   "३७",
+   "३०",
+   "३५"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution of Nepal 2072 has 35 parts.",
+  "explanation_ne": "नेपालको संविधान २०७२ मा ३५ भाग छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many schedules does the Constitution of Nepal 2072 have?",
+  "question_ne": "नेपालको संविधान २०७२ मा कतिवटा अनुसूची छन्?",
+  "options": [
+   "11",
+   "7",
+   "9",
+   "13"
+  ],
+  "options_ne": [
+   "११",
+   "७",
+   "९",
+   "१३"
+  ],
+  "answer": 2,
+  "explanation": "The Constitution of Nepal 2072 has 9 schedules.",
+  "explanation_ne": "नेपालको संविधान २०७२ मा ९ अनुसूची छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Citizenship",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which part of the Constitution of Nepal deals with citizenship?",
+  "question_ne": "नेपालको संविधानको कुन भागमा नागरिकता सम्बन्धी व्यवस्था छ?",
+  "options": [
+   "Part 4",
+   "Part 2",
+   "Part 1",
+   "Part 3"
+  ],
+  "options_ne": [
+   "भाग ४",
+   "भाग २",
+   "भाग १",
+   "भाग ३"
+  ],
+  "answer": 1,
+  "explanation": "Part 2 of the Constitution of Nepal 2072 deals with citizenship.",
+  "explanation_ne": "नेपालको संविधान २०७२ को भाग २ ले नागरिकता सम्बन्धी व्यवस्था गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Citizenship",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By which means can Nepali citizenship be acquired according to the Constitution?",
+  "question_ne": "संविधान बमोजिम नेपाली नागरिकता कुन माध्यमबाट लिन सकिन्छ?",
+  "options": [
+   "By descent only",
+   "By descent, naturalisation and honorary citizenship",
+   "By birth only",
+   "By marriage only"
+  ],
+  "options_ne": [
+   "केवल वंश द्वारा",
+   "वंशज, अंगीकृत र मानार्थ नागरिकता द्वारा",
+   "जन्मले मात्र",
+   "विवाह गरेर मात्रै"
+  ],
+  "answer": 1,
+  "explanation": "Nepali citizenship can be acquired by descent, by naturalisation and by honorary citizenship under the Constitution.",
+  "explanation_ne": "नेपाली नागरिकता संविधान बमोजिम वंशज, अंगीकृत र मानार्थ नागरिकता प्राप्त गर्न सकिन्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Lok Sewa Aayog",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the full name of Lok Sewa Aayog in English?",
+  "question_ne": "लोक सेवा आयोगको अंग्रेजीमा पूरा नाम के हो?",
+  "options": [
+   "Civil Service Commission",
+   "Public Administration Commission",
+   "National Service Commission",
+   "Public Service Commission"
+  ],
+  "options_ne": [
+   "लोक सेवा आयोग",
+   "लोक प्रशासन आयोग",
+   "राष्ट्रिय सेवा आयोग",
+   "लोक सेवा आयोग"
+  ],
+  "answer": 3,
+  "explanation": "Lok Sewa Aayog is the Public Service Commission of Nepal.",
+  "explanation_ne": "लोक सेवा आयोग नेपालको लोक सेवा आयोग हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Lok Sewa Aayog",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Under which part of the Constitution is the Public Service Commission provided for?",
+  "question_ne": "लोकसेवा आयोगको व्यवस्था संविधानको कुन भागमा छ?",
+  "options": [
+   "Part 27",
+   "Part 20",
+   "Part 25",
+   "Part 23"
+  ],
+  "options_ne": [
+   "भाग २७",
+   "भाग २०",
+   "भाग २५",
+   "भाग २३"
+  ],
+  "answer": 3,
+  "explanation": "The Public Service Commission is provided for in Part 23 of the Constitution of Nepal 2072.",
+  "explanation_ne": "नेपालको संविधान २०७२ को भाग २३ मा लोक सेवा आयोगको व्यवस्था गरिएको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Lok Sewa Aayog",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who appoints the Chairperson of the Public Service Commission?",
+  "question_ne": "लोकसेवा आयोगको अध्यक्षमा कसले नियुक्त गर्छ?",
+  "options": [
+   "President",
+   "Prime Minister",
+   "Speaker",
+   "Chief Justice"
+  ],
+  "options_ne": [
+   "राष्ट्रपति",
+   "प्रधानमन्त्री",
+   "सभामुख",
+   "प्रधानन्यायाधीश"
+  ],
+  "answer": 0,
+  "explanation": "The President appoints the Chairperson and members of the Public Service Commission on the recommendation of the Constitutional Council.",
+  "explanation_ne": "संवैधानिक परिषद्को सिफारिसमा राष्ट्रपतिले लोकसेवा आयोगका अध्यक्ष र सदस्यको नियुक्ति गर्ने व्यवस्था छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "CIAA",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does CIAA stand for?",
+  "question_ne": "CIAA भनेको के हो?",
+  "options": [
+   "Central Investigation Agency of Authority",
+   "Committee for Investigation of Abuse of Authority",
+   "Commission for Integrity and Anti-Corruption Authority",
+   "Commission for the Investigation of Abuse of Authority"
+  ],
+  "options_ne": [
+   "प्राधिकरणको केन्द्रीय अनुसन्धान एजेन्सी",
+   "अख्तियार दुरुपयोग अनुसन्धान समिति",
+   "अखण्डता र भ्रष्टाचार विरोधी प्राधिकरण आयोग",
+   "अख्तियार दुरुपयोग अनुसन्धान आयोग"
+  ],
+  "answer": 3,
+  "explanation": "CIAA stands for the Commission for the Investigation of Abuse of Authority.",
+  "explanation_ne": "CIAA भनेको अख्तियार दुरुपयोग अनुसन्धान आयोग हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "CIAA",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is the head office of the Commission for the Investigation of Abuse of Authority located?",
+  "question_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोगको प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "Lalitpur",
+   "Kathmandu",
+   "Bhaktapur",
+   "Pokhara"
+  ],
+  "options_ne": [
+   "ललितपुर",
+   "काठमाडौं।",
+   "भक्तपुर",
+   "पोखरा"
+  ],
+  "answer": 1,
+  "explanation": "The head office of the CIAA is located in Kathmandu.",
+  "explanation_ne": "अख्तियारको प्रधान कार्यालय काठमाडौंमा छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Election Commission",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which constitutional body conducts elections in Nepal?",
+  "question_ne": "नेपालमा निर्वाचन गर्ने संवैधानिक निकाय कुन हो?",
+  "options": [
+   "National Human Rights Commission",
+   "Election Commission",
+   "Public Service Commission",
+   "CIAA"
+  ],
+  "options_ne": [
+   "राष्ट्रिय मानव अधिकार आयोग",
+   "निर्वाचन आयोग",
+   "लोक सेवा आयोग",
+   "CIAA"
+  ],
+  "answer": 1,
+  "explanation": "The Election Commission of Nepal conducts, supervises and manages elections in Nepal.",
+  "explanation_ne": "नेपालको निर्वाचन आयोगले नेपालमा निर्वाचन सञ्चालन, पर्यवेक्षण र व्यवस्थापन गर्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Election Commission",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who appoints the Chief Election Commissioner of Nepal?",
+  "question_ne": "नेपालको प्रमुख निर्वाचन आयुक्तको नियुक्ति कसले गर्छ?",
+  "options": [
+   "President",
+   "Chief Justice",
+   "Speaker",
+   "Prime Minister"
+  ],
+  "options_ne": [
+   "राष्ट्रपति",
+   "प्रधानन्यायाधीश",
+   "सभामुख",
+   "प्रधानमन्त्री"
+  ],
+  "answer": 0,
+  "explanation": "The President appoints the Chief Election Commissioner on the recommendation of the Constitutional Council.",
+  "explanation_ne": "संवैधानिक परिषद्को सिफारिसमा राष्ट्रपतिले प्रमुख निर्वाचन आयुक्त नियुक्त गर्ने व्यवस्था छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "police"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Election Commission",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the minimum voting age in Nepal?",
+  "question_ne": "नेपालमा मतदान गर्ने न्यूनतम उमेर कति छ?",
+  "options": [
+   "18 years",
+   "21 years",
+   "16 years",
+   "25 years"
+  ],
+  "options_ne": [
+   "१८ वर्ष",
+   "२१ वर्ष",
+   "१६ वर्ष",
+   "२५ वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "A Nepali citizen who has attained 18 years of age is eligible to vote.",
+  "explanation_ne": "१८ वर्ष उमेर पुगेका नेपाली नागरिकले मतदान गर्न पाउनेछन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Biratnagar as its capital?",
+  "question_ne": "विराटनगर कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Lumbini Province",
+   "Koshi Province",
+   "Madhesh Province",
+   "Bagmati Province"
+  ],
+  "options_ne": [
+   "लुम्बिनी प्रदेश",
+   "कोशी प्रदेश",
+   "मधेश प्रदेश",
+   "बागमती प्रदेश"
+  ],
+  "answer": 1,
+  "explanation": "Biratnagar is the capital of Koshi Province.",
+  "explanation_ne": "विराटनगर कोशी प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Janakpur as its capital?",
+  "question_ne": "जनकपुर कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Sudurpashchim Province",
+   "Madhesh Province",
+   "Koshi Province",
+   "Gandaki Province"
+  ],
+  "options_ne": [
+   "सुदूरपश्चिम प्रदेश",
+   "मधेश प्रदेश",
+   "कोशी प्रदेश",
+   "गण्डकी प्रदेश"
+  ],
+  "answer": 1,
+  "explanation": "Janakpur is the capital of Madhesh Province.",
+  "explanation_ne": "जनकपुर मधेश प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Pokhara as its capital?",
+  "question_ne": "पोखरा कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Karnali Province",
+   "Gandaki Province",
+   "Lumbini Province",
+   "Bagmati Province"
+  ],
+  "options_ne": [
+   "कर्णाली प्रदेश",
+   "गण्डकी प्रदेश",
+   "लुम्बिनी प्रदेश",
+   "बागमती प्रदेश"
+  ],
+  "answer": 1,
+  "explanation": "Pokhara is the capital of Gandaki Province.",
+  "explanation_ne": "पोखरा गण्डकी प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Hetauda as its capital?",
+  "question_ne": "हेटौंडा कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Lumbini Province",
+   "Madhesh Province",
+   "Koshi Province",
+   "Bagmati Province"
+  ],
+  "options_ne": [
+   "लुम्बिनी प्रदेश",
+   "मधेश प्रदेश",
+   "कोशी प्रदेश",
+   "बागमती प्रदेश"
+  ],
+  "answer": 3,
+  "explanation": "Hetauda is the capital of Bagmati Province.",
+  "explanation_ne": "हेटौंडा बागमती प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Butwal as its temporary capital?",
+  "question_ne": "बुटवल कुन प्रदेशको अस्थायी राजधानी हो?",
+  "options": [
+   "Karnali Province",
+   "Gandaki Province",
+   "Sudurpashchim Province",
+   "Lumbini Province"
+  ],
+  "options_ne": [
+   "कर्णाली प्रदेश",
+   "गण्डकी प्रदेश",
+   "सुदूरपश्चिम प्रदेश",
+   "लुम्बिनी प्रदेश"
+  ],
+  "answer": 3,
+  "explanation": "Butwal is the temporary capital of Lumbini Province; the permanent capital is Deukhuri (Rapti Valley, Dang), designated in October 2020.",
+  "explanation_ne": "बुटवल लुम्बिनी प्रदेशको अस्थायी राजधानी हो; स्थायी राजधानी देउखुरी (राप्ती उपत्यका, दाङ) हो, जुन अक्टोबर २०२० मा तोकिएको थियो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Surkhet as its capital?",
+  "question_ne": "सुर्खेत कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Karnali Province",
+   "Lumbini Province",
+   "Gandaki Province",
+   "Sudurpashchim Province"
+  ],
+  "options_ne": [
+   "कर्णाली प्रदेश",
+   "लुम्बिनी प्रदेश",
+   "गण्डकी प्रदेश",
+   "सुदूरपश्चिम प्रदेश"
+  ],
+  "answer": 0,
+  "explanation": "Surkhet is the capital of Karnali Province.",
+  "explanation_ne": "सुर्खेत कर्णाली प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which province has Dhangadhi as its capital?",
+  "question_ne": "धनगढी कुन प्रदेशको राजधानी हो?",
+  "options": [
+   "Madhesh Province",
+   "Karnali Province",
+   "Lumbini Province",
+   "Sudurpashchim Province"
+  ],
+  "options_ne": [
+   "मधेश प्रदेश",
+   "कर्णाली प्रदेश",
+   "लुम्बिनी प्रदेश",
+   "सुदूरपश्चिम प्रदेश"
+  ],
+  "answer": 3,
+  "explanation": "Dhangadhi is the capital of Sudurpashchim Province.",
+  "explanation_ne": "धनगढी सुदूरपश्चिम प्रदेशको राजधानी हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Judiciary",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which body recommends the appointment of judges in Nepal?",
+  "question_ne": "नेपालमा न्यायाधीश नियुक्तिका लागि कुन निकायले सिफारिस गर्छ?",
+  "options": [
+   "Constitutional Council",
+   "Public Service Commission",
+   "Judicial Council",
+   "Bar Council"
+  ],
+  "options_ne": [
+   "संवैधानिक परिषद",
+   "लोक सेवा आयोग",
+   "न्यायिक परिषद्",
+   "बार काउन्सिल"
+  ],
+  "answer": 2,
+  "explanation": "The Judicial Council recommends the appointment, transfer and discipline of judges in Nepal.",
+  "explanation_ne": "न्याय परिषद्ले नेपालमा न्यायाधीशको नियुक्ति, सरुवा र अनुशासनको सिफारिस गर्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which constitutional body protects and promotes human rights in Nepal?",
+  "question_ne": "नेपालमा मानव अधिकारको संरक्षण र प्रवर्द्धन गर्ने संवैधानिक निकाय कुन हो?",
+  "options": [
+   "Election Commission",
+   "CIAA",
+   "National Human Rights Commission",
+   "Auditor General"
+  ],
+  "options_ne": [
+   "निर्वाचन आयोग",
+   "CIAA",
+   "राष्ट्रिय मानव अधिकार आयोग",
+   "महालेखा परीक्षक"
+  ],
+  "answer": 2,
+  "explanation": "The National Human Rights Commission is the constitutional body that protects and promotes human rights in Nepal.",
+  "explanation_ne": "राष्ट्रिय मानव अधिकार आयोग नेपालमा मानवअधिकारको संरक्षण र प्रवर्द्धन गर्ने संवैधानिक निकाय हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who audits the accounts of the Government of Nepal?",
+  "question_ne": "नेपाल सरकारको लेखापरीक्षण कसले गर्छ?",
+  "options": [
+   "Finance Minister",
+   "Chief Justice",
+   "Governor of Nepal Rastra Bank",
+   "Auditor General"
+  ],
+  "options_ne": [
+   "अर्थमन्त्री",
+   "प्रधानन्यायाधीश",
+   "नेपाल राष्ट्र बैंकका गभर्नर",
+   "महालेखा परीक्षक"
+  ],
+  "answer": 3,
+  "explanation": "The Auditor General audits the accounts of the Government of Nepal and other public bodies.",
+  "explanation_ne": "महालेखा परीक्षकले नेपाल सरकार र अन्य सार्वजनिक निकायको लेखा परीक्षण गर्दछ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitutional Bodies",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which constitutional body investigates abuse of authority by public officials?",
+  "question_ne": "कुन संवैधानिक निकायले सार्वजनिक अधिकारीहरूले अख्तियार दुरुपयोगको अनुसन्धान गर्दछ?",
+  "options": [
+   "National Vigilance Centre",
+   "CIAA",
+   "Election Commission",
+   "Public Service Commission"
+  ],
+  "options_ne": [
+   "राष्ट्रिय सतर्कता केन्द्र",
+   "CIAA",
+   "निर्वाचन आयोग",
+   "लोक सेवा आयोग"
+  ],
+  "answer": 1,
+  "explanation": "The Commission for the Investigation of Abuse of Authority investigates abuse of authority by persons holding public office.",
+  "explanation_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोगले सार्वजनिक पद धारण गरेका व्यक्तिले अख्तियारको दुरुपयोग गरेको अनुसन्धान गर्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who heads a rural municipality in Nepal?",
+  "question_ne": "नेपालमा गाँउपालिकाको नेतृत्व कसले गर्छ?",
+  "options": [
+   "Mayor",
+   "Ward Chairperson",
+   "Chairperson",
+   "Chief District Officer"
+  ],
+  "options_ne": [
+   "मेयर",
+   "वडा अध्यक्ष",
+   "अध्यक्ष",
+   "प्रमुख जिल्ला अधिकारी"
+  ],
+  "answer": 2,
+  "explanation": "A rural municipality is headed by a Chairperson, while a municipality is headed by a Mayor.",
+  "explanation_ne": "गाउँपालिकाको अध्यक्षता एकजना अध्यक्षले गर्छ भने नगरपालिकाको नेतृत्व मेयरले गर्छ।",
+  "source": "Local Government Operation Act 2074"
+ },
+ {
+  "id": "CONST-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who heads a municipality in Nepal?",
+  "question_ne": "नेपालमा नगरपालिकाको नेतृत्व कसले गर्छ?",
+  "options": [
+   "Chairperson",
+   "Chief Administrative Officer",
+   "Mayor",
+   "Ward Member"
+  ],
+  "options_ne": [
+   "अध्यक्ष",
+   "प्रमुख प्रशासकीय अधिकृत",
+   "मेयर",
+   "वडा सदस्य"
+  ],
+  "answer": 2,
+  "explanation": "A municipality is headed by a Mayor, while a rural municipality is headed by a Chairperson.",
+  "explanation_ne": "नगरपालिकाको नेतृत्व मेयरले गर्छ भने गाउँपालिकाको अध्यक्षतामा अध्यक्ष हुन्छ।",
+  "source": "Local Government Operation Act 2074"
+ },
+ {
+  "id": "CONST-074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "judicial-service",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Local Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the term of office of local level representatives in Nepal?",
+  "question_ne": "नेपालमा स्थानीय तहका प्रतिनिधिको पदावधि कति हुन्छ?",
+  "options": [
+   "4 years",
+   "3 years",
+   "5 years",
+   "6 years"
+  ],
+  "options_ne": [
+   "४ वर्ष",
+   "३ वर्ष",
+   "५ वर्ष",
+   "६ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Local level representatives in Nepal are elected for a term of five years.",
+  "explanation_ne": "नेपालमा स्थानीय तहका प्रतिनिधि पाँच वर्षको लागि निर्वाचित हुन्छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Provincial Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is the head of a province in Nepal?",
+  "question_ne": "नेपालको प्रदेश प्रमुख को हो?",
+  "options": [
+   "Speaker",
+   "Governor",
+   "Chief Minister",
+   "Provincial Chief"
+  ],
+  "options_ne": [
+   "सभामुख",
+   "गभर्नर",
+   "मुख्यमन्त्री",
+   "प्रदेश प्रमुख"
+  ],
+  "answer": 3,
+  "explanation": "Each province is headed by a Provincial Chief, who is the representative of the federal government in the province.",
+  "explanation_ne": "प्रत्येक प्रदेशको नेतृत्व एक प्रान्तीय प्रमुखले गर्छ, जो प्रान्तमा संघीय सरकारको प्रतिनिधि हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Provincial Government",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is the head of government of a province in Nepal?",
+  "question_ne": "नेपालको कुनै प्रदेशको सरकार प्रमुख को हो?",
+  "options": [
+   "Chief Minister",
+   "Provincial Chief",
+   "Chief Secretary",
+   "Speaker"
+  ],
+  "options_ne": [
+   "मुख्यमन्त्री",
+   "प्रदेश प्रमुख",
+   "मुख्य सचिव",
+   "सभामुख"
+  ],
+  "answer": 0,
+  "explanation": "The Chief Minister is the head of government of a province in Nepal.",
+  "explanation_ne": "मुख्यमन्त्री नेपालको कुनै प्रदेशको सरकार प्रमुख हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which constitution is currently in force in Nepal?",
+  "question_ne": "नेपालमा हाल कुन संबिधान लागू छ?",
+  "options": [
+   "Interim Constitution 2063",
+   "Constitution of Nepal 2047",
+   "Constitution of Nepal 2015 BS",
+   "Constitution of Nepal 2072"
+  ],
+  "options_ne": [
+   "अन्तरिम संविधान २०६३",
+   "नेपालको संविधान २०४७",
+   "नेपालको संविधान २०१५",
+   "नेपालको संविधान २०७२"
+  ],
+  "answer": 3,
+  "explanation": "The Constitution of Nepal 2072, promulgated in 2015, is the constitution currently in force in Nepal.",
+  "explanation_ne": "सन् २०१५ मा जारी भएको नेपालको संविधान २०७२ नेपालमा हाल लागू भएको संविधान हो।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution 2072",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Nepal is described in the Constitution as a secular state. What does secular mean in this context?",
+  "question_ne": "संविधानमा नेपाललाई धर्मनिरपेक्ष राज्य भनिएको छ। यस सन्दर्भमा धर्मनिरपेक्ष भनेको के हो?",
+  "options": [
+   "Religion is banned",
+   "Hinduism is the state religion",
+   "Only one religion is allowed",
+   "No official state religion"
+  ],
+  "options_ne": [
+   "धर्म प्रतिबन्ध छ",
+   "हिन्दू धर्म राज्य धर्म हो",
+   "एउटा मात्र धर्मलाई अनुमति छ",
+   "कुनै आधिकारिक राज्य धर्म छैन"
+  ],
+  "answer": 3,
+  "explanation": "Secular means Nepal has no official state religion and guarantees religious freedom to all.",
+  "explanation_ne": "धर्मनिरपेक्ष भनेको नेपालको कुनै आधिकारिक राज्य धर्म छैन र सबैलाई धार्मिक स्वतन्त्रताको ग्यारेन्टी गर्दछ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which fundamental right prohibits untouchability and discrimination based on caste?",
+  "question_ne": "छुवाछुत र जातीय भेदभावलाई कुन मौलिक अधिकारले निषेध गर्छ?",
+  "options": [
+   "Right to equality",
+   "Right to freedom",
+   "Right against untouchability and discrimination",
+   "Right to justice"
+  ],
+  "options_ne": [
+   "समानताको हक",
+   "स्वतन्त्रताको अधिकार",
+   "छुवाछुत र भेदभाव विरुद्धको हक",
+   "न्यायको अधिकार"
+  ],
+  "answer": 2,
+  "explanation": "Article 24 guarantees the right against untouchability and discrimination, prohibiting discrimination based on caste, origin or descent.",
+  "explanation_ne": "धारा २४ ले छुवाछुत र भेदभाव विरुद्धको अधिकारको ग्यारेन्टी गर्दै जात, उत्पत्ति वा वंशको आधारमा भेदभाव गर्न निषेध गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental Rights",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which article guarantees the rights of women in the Constitution of Nepal 2072?",
+  "question_ne": "नेपालको संविधान २०७२ मा महिलाको हकको प्रत्याभूति कुन धाराले गरेको छ?",
+  "options": [
+   "Article 36",
+   "Article 42",
+   "Article 40",
+   "Article 38"
+  ],
+  "options_ne": [
+   "धारा ३६",
+   "धारा ४२",
+   "धारा ४०",
+   "धारा ३८"
+  ],
+  "answer": 3,
+  "explanation": "Article 38 guarantees the rights of women, including equal rights, reproductive health and protection from violence.",
+  "explanation_ne": "धारा ३८ ले समान अधिकार, प्रजनन स्वास्थ्य र हिंसा विरुद्धको सुरक्षा लगायतका महिलाको अधिकारको प्रत्याभूति गरेको छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "csit-entrance",
+   "ioe-entrance",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Central Bank",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the central bank of Nepal?",
+  "question_ne": "नेपालको केन्द्रीय बैंक कुन हो?",
+  "options": [
+   "Nepal Bank Limited",
+   "Nepal Rastra Bank",
+   "Agricultural Development Bank",
+   "Rastriya Banijya Bank"
+  ],
+  "options_ne": [
+   "नेपाल बैंक लि",
+   "नेपाल राष्ट्र बैंक",
+   "कृषि विकास बैंक",
+   "राष्ट्रिय वाणिज्य बैंक"
+  ],
+  "answer": 1,
+  "explanation": "Nepal Rastra Bank is the central bank of Nepal, responsible for monetary policy and issuing currency.",
+  "explanation_ne": "नेपाल राष्ट्र बैंक नेपालको केन्द्रीय बैंक हो, जसले मौद्रिक नीति र मुद्रा जारी गर्ने जिम्मेवारी दिन्छ।",
+  "source": "Nepal Rastra Bank Act 2058"
+ },
+ {
+  "id": "CONST-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Currency",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many paisa make one Nepalese rupee?",
+  "question_ne": "एक नेपाली रुपैयाँले कति पैसा बनाउँछ?",
+  "options": [
+   "100",
+   "50",
+   "10",
+   "1000"
+  ],
+  "options_ne": [
+   "१००",
+   "५०",
+   "१०",
+   "१०००"
+  ],
+  "answer": 0,
+  "explanation": "One Nepalese rupee is divided into 100 paisa.",
+  "explanation_ne": "एक नेपाली रुपैयाँ 100 पैसामा विभाजन गरिएको छ।",
+  "source": "Nepal Rastra Bank"
+ },
+ {
+  "id": "CONST-085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Currency",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the fixed exchange rate between the Nepalese rupee and the Indian rupee?",
+  "question_ne": "नेपाली रुपैयाँ र भारतीय रुपैयाँ बीचको स्थिर विनिमय दर कति छ?",
+  "options": [
+   "1 INR = 2.00 NPR",
+   "1 INR = 1.00 NPR",
+   "1 INR = 1.50 NPR",
+   "1 INR = 1.60 NPR"
+  ],
+  "options_ne": [
+   "१ INR = २.०० NPR",
+   "१ INR = १.०० NPR",
+   "१ INR = १.५० NPR",
+   "१ INR = १.६० NPR"
+  ],
+  "answer": 3,
+  "explanation": "The Nepalese rupee is pegged to the Indian rupee at the rate of 1 INR = 1.60 NPR.",
+  "explanation_ne": "नेपाली रुपैयाँ भारतीय रुपैयाँसँग १ INR = 1.60 NPR को दरमा जोडिएको छ।",
+  "source": "Nepal Rastra Bank"
+ },
+ {
+  "id": "CONST-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Fiscal Year",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When does the fiscal year in Nepal begin?",
+  "question_ne": "नेपालमा आर्थिक वर्ष कहिले सुरु हुन्छ?",
+  "options": [
+   "1 Magh",
+   "1 Kartik",
+   "1 Shrawan",
+   "1 Baisakh"
+  ],
+  "options_ne": [
+   "१ माघ",
+   "१ कार्तिक",
+   "१ श्रावण",
+   "१ वैशाख"
+  ],
+  "answer": 2,
+  "explanation": "The fiscal year in Nepal begins on 1 Shrawan and ends in Ashadh, roughly mid-July to mid-July.",
+  "explanation_ne": "नेपालमा आर्थिक वर्ष १ श्रावणबाट सुरु भई असारको मध्यदेखि असारको मध्यमा अन्त्य हुन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Fiscal Year",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When does the fiscal year in Nepal end?",
+  "question_ne": "नेपालमा आर्थिक वर्ष कहिले सकिन्छ?",
+  "options": [
+   "End of Ashadh",
+   "End of Chaitra",
+   "End of Bhadra",
+   "End of Poush"
+  ],
+  "options_ne": [
+   "आषाढ समापन",
+   "चैत्रको अन्त्य",
+   "भाद्रको अन्त्य",
+   "पौषको अन्त्य"
+  ],
+  "answer": 0,
+  "explanation": "The fiscal year in Nepal runs from Shrawan 1 to the end of Ashadh.",
+  "explanation_ne": "नेपालमा आर्थिक वर्ष श्रावण १ देखि असार मसान्तसम्म चल्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Budget",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On which date is the annual budget of Nepal usually presented to Parliament?",
+  "question_ne": "नेपालको वार्षिक बजेट सामान्यतया कुन मितिमा संसदमा प्रस्तुत हुन्छ?",
+  "options": [
+   "Ashadh 15",
+   "Shrawan 1",
+   "Jestha 15",
+   "Baisakh 1"
+  ],
+  "options_ne": [
+   "असार १५",
+   "श्रावण १",
+   "जेठ १५",
+   "बैशाख १"
+  ],
+  "answer": 2,
+  "explanation": "The annual budget is presented to the Federal Parliament on Jestha 15 each year, as required by the Constitution.",
+  "explanation_ne": "प्रत्येक वर्ष जेठ १५ गते संघीय संसदमा संविधानको आवश्यकता अनुसार वार्षिक बजेट प्रस्तुत हुन्छ।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Budget",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who presents the annual budget in the Federal Parliament of Nepal?",
+  "question_ne": "नेपालको संघीय संसदमा वार्षिक बजेट कसले प्रस्तुत गर्छ?",
+  "options": [
+   "Finance Minister",
+   "Governor of Nepal Rastra Bank",
+   "Prime Minister",
+   "Speaker"
+  ],
+  "options_ne": [
+   "अर्थमन्त्री",
+   "नेपाल राष्ट्र बैंकका गभर्नर",
+   "प्रधानमन्त्री",
+   "सभामुख"
+  ],
+  "answer": 0,
+  "explanation": "The Finance Minister presents the annual budget in the Federal Parliament.",
+  "explanation_ne": "अर्थमन्त्रीले संघीय संसदमा वार्षिक बजेट प्रस्तुत गर्छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Planning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When did Nepal launch its First Five-Year Plan?",
+  "question_ne": "नेपालले आफ्नो पहिलो पञ्चवर्षीय योजना कहिले सुरु गर्यो?",
+  "options": [
+   "1951",
+   "1961",
+   "1966",
+   "1956"
+  ],
+  "options_ne": [
+   "सन् १९५१",
+   "सन् १९६१",
+   "सन् १९६६",
+   "सन् १९५६"
+  ],
+  "answer": 3,
+  "explanation": "Nepal launched its First Five-Year Plan in 1956, covering 1956-1961.",
+  "explanation_ne": "नेपालले आफ्नो पहिलो पञ्चवर्षीय योजना सन् १९५६ मा शुरु गर्यो, जसमा १९५६-१९६१ सम्म समावेश गरिएको थियो।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nrb-officer",
+   "provincial-psc",
+   "rbb",
+   "rbb-senior-assistant"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Planning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which body formulates development plans in Nepal?",
+  "question_ne": "नेपालको विकास योजना कुन निकायले तर्जुमा गर्छ?",
+  "options": [
+   "Ministry of Finance",
+   "Nepal Rastra Bank",
+   "Public Service Commission",
+   "National Planning Commission"
+  ],
+  "options_ne": [
+   "अर्थ मन्त्रालय",
+   "नेपाल राष्ट्र बैंक",
+   "लोक सेवा आयोग",
+   "राष्ट्रिय योजना आयोग"
+  ],
+  "answer": 3,
+  "explanation": "The National Planning Commission formulates national development plans and policies in Nepal.",
+  "explanation_ne": "राष्ट्रिय योजना आयोगले नेपालमा राष्ट्रिय विकास योजना र नीतिहरू तर्जुमा गर्छ।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Agriculture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which sector employs the largest share of Nepal's workforce?",
+  "question_ne": "नेपालको श्रमशक्तिको सबैभन्दा बढी हिस्सा कुन क्षेत्रमा रहेको छ?",
+  "options": [
+   "Agriculture",
+   "Industry",
+   "Tourism",
+   "Services"
+  ],
+  "options_ne": [
+   "कृषि",
+   "उद्योग",
+   "पर्यटन",
+   "सेवाहरू"
+  ],
+  "answer": 0,
+  "explanation": "Agriculture employs the largest share of Nepal's workforce, providing livelihoods to most of the population.",
+  "explanation_ne": "नेपालको श्रमशक्तिको सबैभन्दा ठूलो हिस्सा कृषिले ओगटेको छ, जसले अधिकांश जनसंख्यालाई जीविका उपलब्ध गराउँछ।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Agriculture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main staple crop of Nepal?",
+  "question_ne": "नेपालको प्रमुख बाली कुन हो?",
+  "options": [
+   "Maize",
+   "Millet",
+   "Rice (paddy)",
+   "Wheat"
+  ],
+  "options_ne": [
+   "मकै",
+   "कोदो",
+   "धान (धान)",
+   "गहुँ"
+  ],
+  "answer": 2,
+  "explanation": "Rice (paddy) is the main staple crop of Nepal and the most widely grown food crop.",
+  "explanation_ne": "धान (धान) नेपालको मुख्य बाली हो र सबै भन्दा व्यापक रूपमा उत्पादन हुने खाद्य बाली हो।",
+  "source": "Ministry of Agriculture"
+ },
+ {
+  "id": "CONST-094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Agriculture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which spice crop of Nepal is known as black gold?",
+  "question_ne": "नेपालको कुन मसला बालीलाई कालो सुन भनिन्छ?",
+  "options": [
+   "Coffee",
+   "Turmeric",
+   "Tea",
+   "Large cardamom"
+  ],
+  "options_ne": [
+   "कफी",
+   "बेसार",
+   "चिया",
+   "ठूलो अलैंची"
+  ],
+  "answer": 3,
+  "explanation": "Large cardamom is known as black gold and is a major cash crop export of Nepal.",
+  "explanation_ne": "ठुलो अलैँचीलाई कालो सुन भनिन्छ र नेपालको प्रमुख नगदे बाली हो।",
+  "source": "Ministry of Agriculture"
+ },
+ {
+  "id": "CONST-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Remittance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is remittance?",
+  "question_ne": "रेमिट्यान्स भनेको के हो?",
+  "options": [
+   "Tourism income",
+   "Foreign aid from donors",
+   "Money sent home by Nepalis working abroad",
+   "Export earnings"
+  ],
+  "options_ne": [
+   "पर्यटन आय",
+   "दाताहरूबाट वैदेशिक सहायता",
+   "वैदेशिक रोजगारीमा रहेका नेपालीले घर पठाउने पैसा",
+   "निर्यात आम्दानी"
+  ],
+  "answer": 2,
+  "explanation": "Remittance is money sent home by Nepalis working abroad, and it is a major source of foreign exchange for Nepal.",
+  "explanation_ne": "रेमिट्यान्स भनेको विदेशमा काम गर्ने नेपालीहरूले घर पठाउने पैसा हो र यो नेपालको लागि विदेशी मुद्राको प्रमुख स्रोत हो।",
+  "source": "Nepal Rastra Bank"
+ },
+ {
+  "id": "CONST-096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Remittance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What must a Nepali worker obtain before going abroad for foreign employment?",
+  "question_ne": "नेपाली कामदारले वैदेशिक रोजगारीका लागि विदेश जानुअघि के लिनुपर्छ?",
+  "options": [
+   "PAN card",
+   "Driving licence",
+   "Labour permit",
+   "Trade licence"
+  ],
+  "options_ne": [
+   "प्यान कार्ड",
+   "ड्राइभिङ लाइसेन्स",
+   "श्रम स्वीकृति",
+   "ट्रेड लाइसेन्स"
+  ],
+  "answer": 2,
+  "explanation": "A Nepali worker must obtain a labour permit from the Department of Foreign Employment before going abroad for foreign employment.",
+  "explanation_ne": "नेपाली कामदारले वैदेशिक रोजगारीका लागि विदेश जानुअघि वैदेशिक रोजगार विभागबाट श्रम स्वीकृति लिनुपर्छ।",
+  "source": "Department of Foreign Employment"
+ },
+ {
+  "id": "CONST-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Hydropower",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the estimated total hydropower potential of Nepal?",
+  "question_ne": "नेपालको अनुमानित कुल जलविद्युत क्षमता कति छ?",
+  "options": [
+   "83,000 MW",
+   "100,000 MW",
+   "23,000 MW",
+   "43,000 MW"
+  ],
+  "options_ne": [
+   "८३,००० मेगावाट",
+   "१००,००० मेगावाट",
+   "२३,००० मेगावाट",
+   "४३,००० मेगावाट"
+  ],
+  "answer": 0,
+  "explanation": "Nepal's total hydropower potential is estimated at about 83,000 MW, of which about 43,000 MW is considered economically feasible.",
+  "explanation_ne": "नेपालको कुल जलविद्युत क्षमता करिब ८३,००० मेगावाट रहेको अनुमान गरिएको छ, जसमध्ये करिब ४३,००० मेगावाट आर्थिक रुपमा सम्भाव्य मानिन्छ।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Hydropower",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which river is the largest hydropower project, Kulekhani, built on?",
+  "question_ne": "सबैभन्दा ठूलो जलविद्युत आयोजना कुलेखानी कुन नदीमा निर्माण भएको हो?",
+  "options": [
+   "Karnali River",
+   "Koshi River",
+   "Kulekhani River",
+   "Gandaki River"
+  ],
+  "options_ne": [
+   "कर्णाली नदी",
+   "कोशी नदी",
+   "कुलेखानी नदी",
+   "गण्डकी नदी"
+  ],
+  "answer": 2,
+  "explanation": "The Kulekhani hydropower project, Nepal's first storage-type project, is built on the Kulekhani River in Makwanpur.",
+  "explanation_ne": "कुलेखानी जलविद्युत आयोजना, नेपालको पहिलो भण्डारण प्रकारको आयोजना, मकवानपुरको कुलेखानी नदीमा निर्माण गरिएको हो।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Tourism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the most popular trekking region in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा लोकप्रिय पदयात्रा क्षेत्र कुन हो?",
+  "options": [
+   "Langtang",
+   "Annapurna",
+   "Everest",
+   "Manaslu"
+  ],
+  "options_ne": [
+   "लाङटाङ",
+   "अन्नपूर्ण",
+   "सगरमाथा",
+   "मनास्लु"
+  ],
+  "answer": 1,
+  "explanation": "The Annapurna region is one of the most popular trekking regions in Nepal, along with Everest.",
+  "explanation_ne": "अन्नपूर्ण क्षेत्र सगरमाथासँगै नेपालको सबैभन्दा लोकप्रिय पदयात्रा क्षेत्र हो।",
+  "source": "Nepal Tourism Board"
+ },
+ {
+  "id": "CONST-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Tourism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Where is Lumbini, the birthplace of Gautam Buddha, located?",
+  "question_ne": "गौतम बुद्धको जन्मस्थल लुम्बिनी कहाँ पर्छ?",
+  "options": [
+   "Chitwan district",
+   "Kapilvastu district",
+   "Rupandehi district",
+   "Nawalparasi district"
+  ],
+  "options_ne": [
+   "चितवन जिल्ला",
+   "कपिलवस्तु जिल्ला",
+   "रुपन्देही जिल्ला",
+   "नवलपरासी जिल्ला"
+  ],
+  "answer": 2,
+  "explanation": "Lumbini is located in Rupandehi district of Lumbini Province.",
+  "explanation_ne": "लुम्बिनी लुम्बिनी प्रदेशको रुपन्देही जिल्लामा अवस्थित छ।",
+  "source": "UNESCO"
+ },
+ {
+  "id": "CONST-101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Tourism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which mountain is the highest in the world and a major attraction for tourism in Nepal?",
+  "question_ne": "विश्वको सबैभन्दा अग्लो हिमाल र नेपालको पर्यटनको प्रमुख आकर्षण कुन हो?",
+  "options": [
+   "Makalu",
+   "Mount Everest",
+   "Annapurna I",
+   "Kanchenjunga"
+  ],
+  "options_ne": [
+   "मकालु",
+   "सगरमाथा",
+   "अन्नपूर्ण आई",
+   "कञ्चनजङ्घा"
+  ],
+  "answer": 1,
+  "explanation": "Mount Everest (Sagarmatha), at 8,848.86 metres, is the highest mountain in the world.",
+  "explanation_ne": "८,८४८.८६ मिटरको उचाइमा रहेको सगरमाथा (सगरमाथा) विश्वको सबैभन्दा अग्लो हिमाल हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Tourism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many UNESCO World Heritage Sites are there in Nepal?",
+  "question_ne": "नेपालमा कतिवटा युनेस्को विश्व सम्पदा स्थलहरु रहेका छन्?",
+  "options": [
+   "7",
+   "10",
+   "2",
+   "4"
+  ],
+  "options_ne": [
+   "७",
+   "१०",
+   "२",
+   "४"
+  ],
+  "answer": 3,
+  "explanation": "Nepal has 4 UNESCO World Heritage Sites: Kathmandu Valley, Lumbini, Chitwan National Park and Sagarmatha National Park.",
+  "explanation_ne": "नेपालमा ४ वटा युनेस्को विश्व सम्पदा स्थलहरू छन्: काठमाडौं उपत्यका, लुम्बिनी, चितवन राष्ट्रिय निकुञ्ज र सगरमाथा राष्ट्रिय निकुञ्ज।",
+  "source": "UNESCO"
+ },
+ {
+  "id": "CONST-103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Tourism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a UNESCO World Heritage Site in Nepal?",
+  "question_ne": "नेपालमा तलका मध्ये कुन युनेस्को विश्व सम्पदा स्थल हो?",
+  "options": [
+   "Pokhara Lakeside",
+   "Gosaikunda",
+   "Kathmandu Valley",
+   "Rara Lake"
+  ],
+  "options_ne": [
+   "पोखरा लेकसाइड",
+   "गोसाइकुण्ड",
+   "काठमाडौं उपत्यका",
+   "रारा ताल"
+  ],
+  "answer": 2,
+  "explanation": "Kathmandu Valley, with its seven monument zones, is a UNESCO World Heritage Site.",
+  "explanation_ne": "काठमाडौं उपत्यका, यसको सात स्मारक क्षेत्रहरु संग, एक युनेस्को विश्व सम्पदा स्थल हो।",
+  "source": "UNESCO"
+ },
+ {
+  "id": "CONST-104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance",
+   "nrb-assistant",
+   "nrb-officer",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Trade",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which country is Nepal's largest trading partner?",
+  "question_ne": "नेपालको सबैभन्दा ठूलो व्यापार साझेदार राष्ट्र कुन हो?",
+  "options": [
+   "Bangladesh",
+   "India",
+   "China",
+   "USA"
+  ],
+  "options_ne": [
+   "बंगलादेश",
+   "भारत",
+   "चीन",
+   "USA"
+  ],
+  "answer": 1,
+  "explanation": "India is Nepal's largest trading partner, accounting for the largest share of both imports and exports.",
+  "explanation_ne": "भारत नेपालको सबैभन्दा ठूलो व्यापार साझेदार हो, जसले आयात र निर्यात दुवैमा सबैभन्दा ठूलो हिस्सा ओगटेको छ।",
+  "source": "Department of Customs"
+ },
+ {
+  "id": "CONST-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Trade",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal exports electricity to which neighbouring country?",
+  "question_ne": "नेपालले कुन छिमेकी देशमा बिजुली निर्यात गर्छ?",
+  "options": [
+   "China",
+   "India",
+   "Pakistan",
+   "Bangladesh"
+  ],
+  "options_ne": [
+   "चीन",
+   "भारत",
+   "पाकिस्तान",
+   "बंगलादेश"
+  ],
+  "answer": 1,
+  "explanation": "Nepal exports electricity to India, and electricity has become an important export for Nepal.",
+  "explanation_ne": "नेपालले भारतमा बिजुली निर्यात गर्छ, र बिजुली नेपालको लागि महत्वपूर्ण निर्यात भएको छ।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Trade",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the name of Nepal's main international airport?",
+  "question_ne": "नेपालको प्रमुख अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?",
+  "options": [
+   "Tribhuvan International Airport",
+   "Gautam Buddha International Airport",
+   "Nepalgunj Airport",
+   "Pokhara International Airport"
+  ],
+  "options_ne": [
+   "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल",
+   "गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल",
+   "नेपालगन्ज विमानस्थल",
+   "पोखरा अन्तर्राष्ट्रिय विमानस्थल"
+  ],
+  "answer": 0,
+  "explanation": "Tribhuvan International Airport in Kathmandu is Nepal's main international airport.",
+  "explanation_ne": "काठमाडौंको त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल नेपालको प्रमुख अन्तर्राष्ट्रिय विमानस्थल हो।",
+  "source": "Civil Aviation Authority of Nepal"
+ },
+ {
+  "id": "CONST-107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Banks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which was the first commercial bank established in Nepal?",
+  "question_ne": "नेपालमा स्थापना भएको पहिलो वाणिज्य बैंक कुन हो?",
+  "options": [
+   "Rastriya Banijya Bank",
+   "Nabil Bank",
+   "Nepal Bank Limited",
+   "Himalayan Bank"
+  ],
+  "options_ne": [
+   "राष्ट्रिय वाणिज्य बैंक",
+   "नबिल बैंक",
+   "नेपाल बैंक लि",
+   "हिमालयन बैंक"
+  ],
+  "answer": 2,
+  "explanation": "Nepal Bank Limited, established in 1937 AD (1994 BS), was the first commercial bank in Nepal.",
+  "explanation_ne": "नेपाल बैंक लिमिटेड, सन् १९३७ (वि.सं. १९९४) मा स्थापना भएको नेपालको पहिलो वाणिज्य बैंक थियो।",
+  "source": "Nepal Rastra Bank"
+ },
+ {
+  "id": "CONST-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Banks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which bank is fully owned by the Government of Nepal?",
+  "question_ne": "नेपाल सरकारको पूर्ण स्वामित्वमा रहेको बैंक कुन हो?",
+  "options": [
+   "Rastriya Banijya Bank",
+   "Himalayan Bank",
+   "Nabil Bank",
+   "Standard Chartered Bank Nepal"
+  ],
+  "options_ne": [
+   "राष्ट्रिय वाणिज्य बैंक",
+   "हिमालयन बैंक",
+   "नबिल बैंक",
+   "स्ट्याण्डर्ड चार्टर्ड बैंक नेपाल"
+  ],
+  "answer": 0,
+  "explanation": "Rastriya Banijya Bank is a government-owned commercial bank in Nepal.",
+  "explanation_ne": "राष्ट्रिय वाणिज्य बैंक नेपालको एक सरकारी स्वामित्वको वाणिज्य बैंक हो।",
+  "source": "Nepal Rastra Bank"
+ },
+ {
+  "id": "CONST-110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Banks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main function of Nepal Rastra Bank?",
+  "question_ne": "नेपाल राष्ट्र बैंकको मुख्य काम के हो?",
+  "options": [
+   "Collecting taxes",
+   "Issuing currency and conducting monetary policy",
+   "Providing foreign employment permits",
+   "Building roads"
+  ],
+  "options_ne": [
+   "कर संकलन गर्ने",
+   "मुद्रा जारी गर्ने र मौद्रिक नीति सञ्चालन गर्ने",
+   "वैदेशिक रोजगार अनुमति प्रदान गर्ने",
+   "सडक निर्माण गर्ने"
+  ],
+  "answer": 1,
+  "explanation": "Nepal Rastra Bank issues currency and conducts monetary policy as the central bank.",
+  "explanation_ne": "नेपाल राष्ट्र बैंकले मुद्रा जारी गर्छ र केन्द्रीय बैंकको रूपमा मौद्रिक नीति सञ्चालन गर्दछ।",
+  "source": "Nepal Rastra Bank Act 2058"
+ },
+ {
+  "id": "CONST-112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "GDP",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does GDP stand for?",
+  "question_ne": "GDP भनेको के हो?",
+  "options": [
+   "Government Development Programme",
+   "Gross Domestic Price",
+   "General Development Plan",
+   "Gross Domestic Product"
+  ],
+  "options_ne": [
+   "सरकारी विकास कार्यक्रम",
+   "सकल घरेलू मूल्य",
+   "सामान्य विकास योजना",
+   "सकल घरेलु उत्पादन"
+  ],
+  "answer": 3,
+  "explanation": "GDP stands for Gross Domestic Product, the total value of goods and services produced within a country.",
+  "explanation_ne": "GDP भनेको कुल गार्हस्थ उत्पादन हो, देश भित्र उत्पादित वस्तु र सेवाहरूको कुल मूल्य।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "GDP",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does GNP stand for?",
+  "question_ne": "GNP भनेको के हो?",
+  "options": [
+   "Government National Plan",
+   "General National Price",
+   "Gross National Product",
+   "Gross Nepal Product"
+  ],
+  "options_ne": [
+   "सरकारको राष्ट्रिय योजना",
+   "सामान्य राष्ट्रिय मूल्य",
+   "सकल राष्ट्रिय उत्पादन",
+   "कुल नेपाल उत्पादन"
+  ],
+  "answer": 2,
+  "explanation": "GNP stands for Gross National Product, the total value of goods and services produced by a country's residents.",
+  "explanation_ne": "GNP भनेको सकल राष्ट्रिय उत्पादन हो, देशका बासिन्दाहरूले उत्पादित वस्तु र सेवाहरूको कुल मूल्य।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Poverty",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which sector is most important for reducing poverty in rural Nepal?",
+  "question_ne": "नेपालको ग्रामीण क्षेत्रमा गरिबी न्यूनीकरणका लागि कुन क्षेत्र सबैभन्दा महत्त्वपूर्ण छ?",
+  "options": [
+   "Mining",
+   "Aviation",
+   "Agriculture",
+   "Software"
+  ],
+  "options_ne": [
+   "खानी",
+   "उड्डयन",
+   "कृषि",
+   "सफ्टवेयर"
+  ],
+  "answer": 2,
+  "explanation": "Agriculture is the main livelihood in rural Nepal, so raising farm productivity is central to reducing rural poverty.",
+  "explanation_ne": "ग्रामीण नेपालको मुख्य जिविकोपार्जन भनेको कृषि हो, त्यसैले ग्रामीण गरिबी घटाउनको लागि कृषि उत्पादकत्व बढाउने मुख्य कुरा हो।",
+  "source": "National Planning Commission"
+ },
+ {
+  "id": "CONST-115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Foreign Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is foreign aid?",
+  "question_ne": "वैदेशिक सहायता भनेको के हो?",
+  "options": [
+   "Remittance from workers abroad",
+   "Assistance from foreign governments and agencies",
+   "Money borrowed from Nepali banks",
+   "Tax collected from tourists"
+  ],
+  "options_ne": [
+   "वैदेशिक रोजगारीबाट आएको रेमिट्यान्स",
+   "विदेशी सरकार र एजेन्सीहरूबाट सहयोग",
+   "नेपाली बैंकबाट ऋण लिएको पैसा",
+   "पर्यटकबाट कर उठाउने"
+  ],
+  "answer": 1,
+  "explanation": "Foreign aid is assistance in the form of grants or concessional loans from foreign governments and international agencies.",
+  "explanation_ne": "वैदेशिक सहायता भनेको विदेशी सरकार र अन्तर्राष्ट्रिय एजेन्सीहरूबाट अनुदान वा सहुलियतपूर्ण ऋणको रूपमा सहयोग हो।",
+  "source": "Ministry of Finance"
+ },
+ {
+  "id": "CONST-116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Foreign Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a form of foreign aid that does not need to be repaid?",
+  "question_ne": "तलका मध्ये कुन वैदेशिक सहायताको रूप हो जसलाई फिर्ता गर्न आवश्यक छैन?",
+  "options": [
+   "Grant",
+   "Credit",
+   "Bond",
+   "Loan"
+  ],
+  "options_ne": [
+   "अनुदान",
+   "क्रेडिट",
+   "बन्ड",
+   "ऋण"
+  ],
+  "answer": 0,
+  "explanation": "A grant is foreign aid that does not need to be repaid, unlike a loan.",
+  "explanation_ne": "अनुदान भनेको वैदेशिक सहायता हो जसलाई ऋण जस्तो तिर्नु पर्दैन।",
+  "source": "Ministry of Finance"
+ },
+ {
+  "id": "CONST-117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Energy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is Nepal's main source of electricity?",
+  "question_ne": "नेपालको बिजुलीको प्रमुख स्रोत कुन हो?",
+  "options": [
+   "Nuclear",
+   "Coal",
+   "Hydropower",
+   "Solar"
+  ],
+  "options_ne": [
+   "आणविक",
+   "कोइला",
+   "जलविद्युत",
+   "सौर्य"
+  ],
+  "answer": 2,
+  "explanation": "Hydropower is Nepal's main source of electricity, using its abundant rivers.",
+  "explanation_ne": "जलविद्युत नेपालको प्रचुर मात्रामा नदीहरू प्रयोग गरी विद्युतको मुख्य स्रोत हो।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Energy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is Nepal's first storage-type hydropower project?",
+  "question_ne": "नेपालको पहिलो भण्डारण प्रकारको जलविद्युत आयोजना कुन हो?",
+  "options": [
+   "Chilime",
+   "Middle Marsyangdi",
+   "Upper Tamakoshi",
+   "Kulekhani"
+  ],
+  "options_ne": [
+   "चिलिमे",
+   "मध्य मस्र्याङ्दी",
+   "माथिल्लो तामाकोशी",
+   "कुलेखानी"
+  ],
+  "answer": 3,
+  "explanation": "Kulekhani is Nepal's first storage-type hydropower project, completed in the 1980s.",
+  "explanation_ne": "कुलेखानी नेपालको पहिलो भण्डारण प्रकारको जलविद्युत आयोजना हो, जुन सन् १९८० को दशकमा सम्पन्न भएको थियो।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Energy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest hydropower project in Nepal by installed capacity?",
+  "question_ne": "स्थापित क्षमताको आधारमा नेपालको सबैभन्दा ठूलो जलविद्युत आयोजना कुन हो?",
+  "options": [
+   "Middle Marsyangdi",
+   "Kulekhani",
+   "Chilime",
+   "Upper Tamakoshi"
+  ],
+  "options_ne": [
+   "मध्य मस्र्याङ्दी",
+   "कुलेखानी",
+   "चिलिमे",
+   "माथिल्लो तामाकोशी"
+  ],
+  "answer": 3,
+  "explanation": "Upper Tamakoshi, with 456 MW installed capacity, is the largest hydropower project in Nepal.",
+  "explanation_ne": "४५६ मेगावाट क्षमताको माथिल्लो तामाकोशी नेपालको सबैभन्दा ठूलो जलविद्युत आयोजना हो।",
+  "source": "Nepal Electricity Authority"
+ },
+ {
+  "id": "CONST-120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Industry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which industry is famous in the Terai region of Nepal?",
+  "question_ne": "नेपालको तराई क्षेत्रमा कुन उद्योग प्रसिद्ध छ?",
+  "options": [
+   "Sugar industry",
+   "Carpet industry",
+   "Software industry",
+   "Pashmina industry"
+  ],
+  "options_ne": [
+   "चिनी उद्योग",
+   "कार्पेट उद्योग",
+   "सफ्टवेयर उद्योग",
+   "पश्मिना उद्योग"
+  ],
+  "answer": 0,
+  "explanation": "The sugar industry is prominent in the Terai, where sugarcane is widely grown.",
+  "explanation_ne": "तराईमा चिनी उद्योग प्रख्यात छ, जहाँ उखु धेरै उत्पादन हुन्छ।",
+  "source": "Ministry of Industry"
+ },
+ {
+  "id": "CONST-121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Industry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pashmina is a famous export product of Nepal. What is it made from?",
+  "question_ne": "पश्मिना नेपालको प्रसिद्ध निर्यात उत्पादन हो। यो के बाट बनेको हो?",
+  "options": [
+   "Cashmere goat wool",
+   "Cotton",
+   "Sheep wool",
+   "Silk"
+  ],
+  "options_ne": [
+   "कश्मीरी बाख्राको ऊन",
+   "कपास",
+   "भेडाको ऊन",
+   "रेशम"
+  ],
+  "answer": 0,
+  "explanation": "Pashmina is made from the fine wool of the cashmere goat, found in the Himalayan region.",
+  "explanation_ne": "पश्मिना हिमालय क्षेत्रमा पाइने कश्मीरी बाख्राको मसिनो ऊनबाट बनाइन्छ।",
+  "source": "Ministry of Industry"
+ },
+ {
+  "id": "CONST-122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Industry",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which Nepali product is famous worldwide as a handmade woollen export?",
+  "question_ne": "हस्तनिर्मित ऊनी निर्यातका रूपमा विश्वभर प्रसिद्ध नेपाली उत्पादन कुन हो?",
+  "options": [
+   "Jute",
+   "Carpet",
+   "Pashmina",
+   "Dhaka fabric"
+  ],
+  "options_ne": [
+   "जुट",
+   "कार्पेट",
+   "पश्मिना",
+   "ढाका कपडा"
+  ],
+  "answer": 1,
+  "explanation": "Hand-knotted woollen carpets are one of Nepal's famous handmade export products.",
+  "explanation_ne": "ह्यान्ड नॉटेड ऊनी गलैंचा नेपालको प्रसिद्ध हस्तनिर्मित निर्यात उत्पादनहरू मध्ये एक हो।",
+  "source": "Ministry of Industry"
+ },
+ {
+  "id": "CONST-123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Transport",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the longest highway in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा लामो राजमार्ग कुन हो?",
+  "options": [
+   "Siddhartha Highway",
+   "Prithvi Highway",
+   "Mahendra Highway",
+   "Araniko Highway"
+  ],
+  "options_ne": [
+   "सिद्धार्थ राजमार्ग",
+   "पृथ्वी राजमार्ग",
+   "महेन्द्र राजमार्ग",
+   "अरनिको राजमार्ग"
+  ],
+  "answer": 2,
+  "explanation": "The Mahendra Highway (East-West Highway) is the longest highway in Nepal, running across the Terai.",
+  "explanation_ne": "महेन्द्र राजमार्ग (पूर्व-पश्चिम राजमार्ग) नेपालको सबैभन्दा लामो राजमार्ग हो, तराई हुँदै गुडिरहेको छ।",
+  "source": "Department of Roads"
+ },
+ {
+  "id": "CONST-124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Transport",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which highway connects Kathmandu to Pokhara?",
+  "question_ne": "काठमाडौंलाई पोखरासँग जोड्ने राजमार्ग कुन हो?",
+  "options": [
+   "BP Highway",
+   "Mahendra Highway",
+   "Araniko Highway",
+   "Prithvi Highway"
+  ],
+  "options_ne": [
+   "बीपी राजमार्ग",
+   "महेन्द्र राजमार्ग",
+   "अरनिको राजमार्ग",
+   "पृथ्वी राजमार्ग"
+  ],
+  "answer": 3,
+  "explanation": "The Prithvi Highway connects Kathmandu (via Naubise) to Pokhara.",
+  "explanation_ne": "पृथ्वी राजमार्गले काठमाडौं (नौबिसे हुँदै) पोखरा जोड्छ।",
+  "source": "Department of Roads"
+ },
+ {
+  "id": "CONST-125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Transport",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which highway connects Kathmandu to the Chinese border at Kodari?",
+  "question_ne": "काठमाडौंलाई चीनको सीमाना कोदारीमा जोड्ने राजमार्ग कुन हो?",
+  "options": [
+   "Mahendra Highway",
+   "Siddhartha Highway",
+   "Prithvi Highway",
+   "Araniko Highway"
+  ],
+  "options_ne": [
+   "महेन्द्र राजमार्ग",
+   "सिद्धार्थ राजमार्ग",
+   "पृथ्वी राजमार्ग",
+   "अरनिको राजमार्ग"
+  ],
+  "answer": 3,
+  "explanation": "The Araniko Highway connects Kathmandu to Kodari on the Nepal-China border.",
+  "explanation_ne": "अरनिको राजमार्गले काठमाडौंलाई नेपाल–चीन सीमामा पर्ने कोदारीदेखि जोड्छ।",
+  "source": "Department of Roads"
+ },
+ {
+  "id": "CONST-126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Development",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does HDI stand for?",
+  "question_ne": "HDI भनेको के हो?",
+  "options": [
+   "Human Development Investment",
+   "High Development Indicator",
+   "Himalayan Development Index",
+   "Human Development Index"
+  ],
+  "options_ne": [
+   "मानव विकास लगानी",
+   "उच्च विकास सूचक",
+   "हिमालयन विकास सूचकांक",
+   "मानव विकास सूचकांक"
+  ],
+  "answer": 3,
+  "explanation": "HDI stands for Human Development Index, which measures health, education and income.",
+  "explanation_ne": "एचडीआई भनेको मानव विकास सूचकांक हो, जसले स्वास्थ्य, शिक्षा र आय मापन गर्दछ।",
+  "source": "UNDP"
+ },
+ {
+  "id": "CONST-127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "provincial-psc"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Development",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organisation publishes the Human Development Index?",
+  "question_ne": "मानव विकास सूचकांक कुन संस्थाले प्रकाशित गर्छ?",
+  "options": [
+   "IMF",
+   "WHO",
+   "World Bank",
+   "UNDP"
+  ],
+  "options_ne": [
+   "IMF",
+   "WHO",
+   "विश्व बैंक",
+   "UNDP"
+  ],
+  "answer": 3,
+  "explanation": "The United Nations Development Programme (UNDP) publishes the Human Development Index.",
+  "explanation_ne": "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP) ले मानव विकास सूचकांक प्रकाशित गर्दछ।",
+  "source": "UNDP"
+ },
+ {
+  "id": "CONST-129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Development",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a Sustainable Development Goal?",
+  "question_ne": "दिगो विकास लक्ष्य तलका मध्ये कुन हो?",
+  "options": [
+   "No poverty",
+   "No education",
+   "More pollution",
+   "Less health care"
+  ],
+  "options_ne": [
+   "गरिबीको अन्त्य",
+   "शिक्षा छैन",
+   "थप प्रदूषण",
+   "कम स्वास्थ्य सेवा"
+  ],
+  "answer": 0,
+  "explanation": "No poverty is Goal 1 of the Sustainable Development Goals adopted by the United Nations in 2015.",
+  "explanation_ne": "संयुक्त राष्ट्र संघले सन् २०१५ मा अपनाएको दिगो विकास लक्ष्यहरूमध्ये लक्ष्य १ गरिबीको अन्त्य हो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Development",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year were the Sustainable Development Goals adopted?",
+  "question_ne": "दिगो विकास लक्ष्यहरू कुन वर्षमा स्वीकृत गरियो?",
+  "options": [
+   "2000",
+   "2015",
+   "2010",
+   "2020"
+  ],
+  "options_ne": [
+   "२०००",
+   "२०१५",
+   "२०१०",
+   "२०२०"
+  ],
+  "answer": 1,
+  "explanation": "The Sustainable Development Goals were adopted by the United Nations in 2015, to be achieved by 2030.",
+  "explanation_ne": "सन् २०३० सम्ममा हासिल गर्ने दिगो विकास लक्ष्यहरू संयुक्त राष्ट्र संघले सन् २०१५ मा स्वीकृत गरेको थियो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Cooperatives",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which economic principle is central to cooperatives in Nepal?",
+  "question_ne": "नेपालमा सहकारीको केन्द्रबिन्दु कुन आर्थिक सिद्धान्त हो?",
+  "options": [
+   "Mutual help and self-help among members",
+   "State ownership only",
+   "Foreign investment only",
+   "Profit maximisation for one owner"
+  ],
+  "options_ne": [
+   "सदस्यहरू बीच आपसी सहयोग र आत्म-सहायता",
+   "राज्य स्वामित्व मात्र",
+   "विदेशी लगानी मात्र",
+   "एक मालिकको लागि नाफा अधिकतम"
+  ],
+  "answer": 0,
+  "explanation": "Cooperatives are based on mutual help, self-help and democratic member control.",
+  "explanation_ne": "सहकारीहरू आपसी सहयोग, आत्म-सहयोग र लोकतान्त्रिक सदस्य नियन्त्रणमा आधारित हुन्छन्।",
+  "source": "Constitution of Nepal 2072"
+ },
+ {
+  "id": "CONST-133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Taxation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which tax is levied on goods and services in Nepal?",
+  "question_ne": "नेपालमा वस्तु तथा सेवामा कुन कर लगाइन्छ?",
+  "options": [
+   "Value Added Tax (VAT)",
+   "Land tax only",
+   "Income tax",
+   "Customs duty only"
+  ],
+  "options_ne": [
+   "मूल्य अभिवृद्धि कर (VAT)",
+   "भूमि कर मात्र",
+   "आयकर",
+   "भन्सार मात्र"
+  ],
+  "answer": 0,
+  "explanation": "Value Added Tax (VAT) is levied on the supply of goods and services in Nepal.",
+  "explanation_ne": "नेपालमा वस्तु तथा सेवाको आपूर्तिमा मूल्य अभिवृद्धि कर (भ्याट) लगाइन्छ।",
+  "source": "Inland Revenue Department"
+ },
+ {
+  "id": "CONST-134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Taxation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which body collects income tax and VAT in Nepal?",
+  "question_ne": "नेपालमा आयकर र भ्याट संकलन गर्ने निकाय कुन हो?",
+  "options": [
+   "Inland Revenue Department",
+   "Nepal Rastra Bank",
+   "Department of Customs",
+   "National Planning Commission"
+  ],
+  "options_ne": [
+   "आन्तरिक राजस्व विभाग",
+   "नेपाल राष्ट्र बैंक",
+   "भन्सार विभाग",
+   "राष्ट्रिय योजना आयोग"
+  ],
+  "answer": 0,
+  "explanation": "The Inland Revenue Department collects income tax, VAT and excise duty in Nepal.",
+  "explanation_ne": "आन्तरिक राजस्व विभागले नेपालमा आयकर, भ्याट र अन्तःशुल्क संकलन गर्छ।",
+  "source": "Inland Revenue Department"
+ },
+ {
+  "id": "CONST-135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Taxation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the standard rate of VAT in Nepal?",
+  "question_ne": "नेपालमा VAT को मानक दर कति छ?",
+  "options": [
+   "18 percent",
+   "10 percent",
+   "13 percent",
+   "15 percent"
+  ],
+  "options_ne": [
+   "१८ प्रतिशत",
+   "१० प्रतिशत",
+   "१३ प्रतिशत",
+   "१५ प्रतिशत"
+  ],
+  "answer": 2,
+  "explanation": "The standard rate of Value Added Tax in Nepal is 13 percent.",
+  "explanation_ne": "नेपालमा मूल्य अभिवृद्धि करको मानक दर १३ प्रतिशत छ।",
+  "source": "Inland Revenue Department"
+ },
+ {
+  "id": "CONST-136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "United Nations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year did Nepal become a member of the United Nations?",
+  "question_ne": "नेपाल कुन सालमा संयुक्त राष्ट्र संघको सदस्य भएको थियो?",
+  "options": [
+   "1955",
+   "1945",
+   "1975",
+   "1965"
+  ],
+  "options_ne": [
+   "सन् १९५५",
+   "सन् १९४५",
+   "१९७५",
+   "सन् १९६५"
+  ],
+  "answer": 0,
+  "explanation": "Nepal became a member of the United Nations on 14 December 1955.",
+  "explanation_ne": "नेपाल १४ डिसेम्बर १९५५ मा संयुक्त राष्ट्र संघको सदस्य भयो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "United Nations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Where is the headquarters of the United Nations located?",
+  "question_ne": "संयुक्त राष्ट्र संघको प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "Paris",
+   "Geneva",
+   "London",
+   "New York"
+  ],
+  "options_ne": [
+   "पेरिस",
+   "जेनेभा",
+   "लन्डन",
+   "न्यूयोर्क"
+  ],
+  "answer": 3,
+  "explanation": "The headquarters of the United Nations is in New York, USA.",
+  "explanation_ne": "संयुक्त राष्ट्र संघको मुख्यालय अमेरिकाको न्यूयोर्कमा छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "United Nations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the United Nations founded?",
+  "question_ne": "संयुक्त राष्ट्र संघको स्थापना कुन सालमा भएको थियो?",
+  "options": [
+   "1965",
+   "1919",
+   "1945",
+   "1955"
+  ],
+  "options_ne": [
+   "सन् १९६५",
+   "१९१९",
+   "सन् १९४५",
+   "सन् १९५५"
+  ],
+  "answer": 2,
+  "explanation": "The United Nations was founded in 1945 after the Second World War.",
+  "explanation_ne": "संयुक्त राष्ट्रसंघको स्थापना सन् १९४५ मा दोस्रो विश्वयुद्धपछि भएको थियो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Where is the headquarters of SAARC located?",
+  "question_ne": "सार्कको प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "Kathmandu",
+   "Islamabad",
+   "New Delhi",
+   "Dhaka"
+  ],
+  "options_ne": [
+   "काठमाडौं।",
+   "इस्लामाबाद",
+   "नयाँ दिल्ली",
+   "ढाका"
+  ],
+  "answer": 0,
+  "explanation": "The headquarters of the South Asian Association for Regional Cooperation (SAARC) is in Kathmandu, Nepal.",
+  "explanation_ne": "दक्षिण एसियाली क्षेत्रीय सहयोग सङ्गठन (सार्क) को मुख्यालय काठमाडौं, नेपालमा छ।",
+  "source": "SAARC Secretariat"
+ },
+ {
+  "id": "CONST-140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which year was SAARC founded?",
+  "question_ne": "सार्कको स्थापना कुन सालमा भएको हो?",
+  "options": [
+   "1995",
+   "1980",
+   "1990",
+   "1985"
+  ],
+  "options_ne": [
+   "१९९५",
+   "१९८०",
+   "१९९०",
+   "१९८५"
+  ],
+  "answer": 3,
+  "explanation": "SAARC was founded in 1985 in Dhaka, Bangladesh.",
+  "explanation_ne": "सार्कको स्थापना सन् १९८५ मा बंगलादेशको ढाकामा भएको थियो।",
+  "source": "SAARC Secretariat"
+ },
+ {
+  "id": "CONST-141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "bar-council",
+   "foreign-service",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many member countries are there in SAARC?",
+  "question_ne": "सार्कमा कति सदस्य राष्ट्र रहेका छन्?",
+  "options": [
+   "8",
+   "9",
+   "7",
+   "6"
+  ],
+  "options_ne": [
+   "८",
+   "९",
+   "७",
+   "६"
+  ],
+  "answer": 0,
+  "explanation": "SAARC has 8 member countries: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.",
+  "explanation_ne": "अफगानिस्तान, बंगलादेश, भुटान, भारत, माल्दिभ्स, नेपाल, पाकिस्तान र श्रीलंका गरी सार्कमा ८ सदस्य राष्ट्र छन्।",
+  "source": "SAARC Secretariat"
+ },
+ {
+  "id": "CONST-142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which country was the last to join SAARC?",
+  "question_ne": "पछिल्लो पटक सार्कमा सम्मिलित हुने राष्ट्र कुन हो?",
+  "options": [
+   "Afghanistan",
+   "Nepal",
+   "Bhutan",
+   "Maldives"
+  ],
+  "options_ne": [
+   "अफगानिस्तान",
+   "नेपाल",
+   "भुटान",
+   "माल्दिभ्स"
+  ],
+  "answer": 0,
+  "explanation": "Afghanistan joined SAARC in 2007, becoming its eighth member.",
+  "explanation_ne": "अफगानिस्तान सन् २००७ मा सार्कको आठौं सदस्य बनेको थियो।",
+  "source": "SAARC Secretariat"
+ },
+ {
+  "id": "CONST-143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "BIMSTEC",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Where is the headquarters of BIMSTEC located?",
+  "question_ne": "BIMSTEC को प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "Bangkok",
+   "Kathmandu",
+   "Dhaka",
+   "New Delhi"
+  ],
+  "options_ne": [
+   "बैंकक",
+   "काठमाडौं।",
+   "ढाका",
+   "नयाँ दिल्ली"
+  ],
+  "answer": 2,
+  "explanation": "The headquarters of BIMSTEC is in Dhaka, Bangladesh.",
+  "explanation_ne": "BIMSTEC को मुख्यालय बंगलादेशको ढाकामा छ।",
+  "source": "BIMSTEC"
+ },
+ {
+  "id": "CONST-144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "BIMSTEC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was BIMSTEC founded?",
+  "question_ne": "BIMSTEC को स्थापना कुन सालमा भएको थियो?",
+  "options": [
+   "2005",
+   "2000",
+   "1995",
+   "1997"
+  ],
+  "options_ne": [
+   "२००५",
+   "२०००",
+   "१९९५",
+   "सन् १९९७"
+  ],
+  "answer": 3,
+  "explanation": "BIMSTEC was founded in 1997.",
+  "explanation_ne": "बिमस्टेकको स्थापना सन् १९९७ मा भएको थियो।",
+  "source": "BIMSTEC"
+ },
+ {
+  "id": "CONST-145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "BIMSTEC",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many member countries are there in BIMSTEC?",
+  "question_ne": "BIMSTEC मा कति सदस्य राष्ट्र रहेका छन्?",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "8"
+  ],
+  "options_ne": [
+   "५",
+   "७",
+   "६",
+   "८"
+  ],
+  "answer": 1,
+  "explanation": "BIMSTEC has 7 member countries: Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand.",
+  "explanation_ne": "बिमस्टेकमा बंगलादेश, भुटान, भारत, म्यानमार, नेपाल, श्रीलंका र थाइल्याण्ड गरी ७ सदस्य राष्ट्र छन्।",
+  "source": "BIMSTEC"
+ },
+ {
+  "id": "CONST-146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Nepal join the World Trade Organization (WTO)?",
+  "question_ne": "नेपाल कुन सालमा विश्व व्यापार संगठन (WTO) मा सामेल भएको थियो?",
+  "options": [
+   "2015",
+   "1995",
+   "2004",
+   "2010"
+  ],
+  "options_ne": [
+   "२०१५",
+   "१९९५",
+   "२००४",
+   "२०१०"
+  ],
+  "answer": 2,
+  "explanation": "Nepal joined the WTO in 2004, becoming its 147th member.",
+  "explanation_ne": "नेपाल २००४ मा WTO मा सामेल भयो र यसको १४७ औं सदस्य बनेको थियो।",
+  "source": "World Trade Organization"
+ },
+ {
+  "id": "CONST-148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is the headquarters of the World Bank located?",
+  "question_ne": "विश्व बैंकको प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "New York",
+   "London",
+   "Washington D.C.",
+   "Paris"
+  ],
+  "options_ne": [
+   "न्यूयोर्क",
+   "लन्डन",
+   "वाशिंगटन डी.सी.",
+   "पेरिस"
+  ],
+  "answer": 2,
+  "explanation": "The headquarters of the World Bank is in Washington D.C., USA.",
+  "explanation_ne": "विश्व बैंकको मुख्यालय वाशिंगटन डीसी, संयुक्त राज्य अमेरिकामा छ।",
+  "source": "World Bank"
+ },
+ {
+  "id": "CONST-150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is the headquarters of UNESCO located?",
+  "question_ne": "UNESCO को प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "New York",
+   "Paris",
+   "Geneva",
+   "Rome"
+  ],
+  "options_ne": [
+   "न्यूयोर्क",
+   "पेरिस",
+   "जेनेभा",
+   "रोम"
+  ],
+  "answer": 1,
+  "explanation": "The headquarters of UNESCO is in Paris, France.",
+  "explanation_ne": "युनेस्कोको मुख्यालय पेरिस, फ्रान्समा छ।",
+  "source": "UNESCO"
+ },
+ {
+  "id": "CONST-152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organisation is Nepal a member of that promotes non-alignment in foreign policy?",
+  "question_ne": "परराष्ट्र नीतिमा असंलग्नतालाई प्रवर्द्धन गर्ने नेपाल कुन संस्थाको सदस्य हो?",
+  "options": [
+   "Non-Aligned Movement",
+   "NATO",
+   "European Union",
+   "ASEAN"
+  ],
+  "options_ne": [
+   "असंलग्न आन्दोलन",
+   "NATO",
+   "युरोपेली संघ",
+   "ASEAN"
+  ],
+  "answer": 0,
+  "explanation": "Nepal is a member of the Non-Aligned Movement and follows a policy of non-alignment.",
+  "explanation_ne": "नेपाल असंलग्न आन्दोलनको सदस्य हो र असंलग्नताको नीति अवलम्बन गर्दछ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal-India Relations",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which treaty of 1950 governs peace and friendship between Nepal and India?",
+  "question_ne": "१९५० को कुन सन्धिले नेपाल र भारत बिच शान्ति र मित्रतालाई नियन्त्रित गर्दछ?",
+  "options": [
+   "Mahakali Treaty",
+   "Gandak Treaty",
+   "Treaty of Peace and Friendship 1950",
+   "Treaty of Sugauli"
+  ],
+  "options_ne": [
+   "महाकाली सन्धि",
+   "गण्डक सन्धि",
+   "शान्ति र मैत्री सन्धि १९५०",
+   "सुगौली सन्धि"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Peace and Friendship of 1950 governs relations between Nepal and India.",
+  "explanation_ne": "सन् १९५० को शान्ति तथा मैत्री सन्धिले नेपाल र भारतबीचको सम्बन्धलाई नियन्त्रित गर्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal-India Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the Treaty of Sugauli signed between Nepal and the British East India Company?",
+  "question_ne": "नेपाल र बेलायती इस्ट इन्डिया कम्पनीबीच सुगौली सन्धि कुन सालमा भएको थियो?",
+  "options": [
+   "1950",
+   "1816",
+   "1923",
+   "1850"
+  ],
+  "options_ne": [
+   "१९५०",
+   "सन् १८१६",
+   "सन् १९२३",
+   "सन् १८५०"
+  ],
+  "answer": 1,
+  "explanation": "The Treaty of Sugauli was signed in 1816, defining Nepal's borders after the Anglo-Nepalese War.",
+  "explanation_ne": "सन् १८१६ मा एङ्ग्लो-नेपाल युद्धपछि नेपालको सिमाना निर्धारण गर्दै सुगौली सन्धिमा हस्ताक्षर भएको थियो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal-China Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the main land border crossing between Nepal and China at Kodari?",
+  "question_ne": "कोदारीमा नेपाल र चीनको मुख्य भूमि नाका कुन हो?",
+  "options": [
+   "Rasuwagadhi",
+   "Hilsa",
+   "Korala",
+   "Tatopani"
+  ],
+  "options_ne": [
+   "रसुवागढी",
+   "हिल्सा",
+   "कोरला",
+   "तातोपानी"
+  ],
+  "answer": 3,
+  "explanation": "Tatopani, near Kodari, is a major land border crossing between Nepal and China.",
+  "explanation_ne": "कोदारी नजिकैको तातोपानी नेपाल र चीनबीचको प्रमुख भूमि नाका हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal-China Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which pass connects Nepal to China in the Rasuwa district?",
+  "question_ne": "रसुवा जिल्लामा रहेको नेपाललाई चीनसँग जोड्ने बाटो कुन हो?",
+  "options": [
+   "Tatopani",
+   "Rasuwagadhi",
+   "Korala",
+   "Kimathanka"
+  ],
+  "options_ne": [
+   "तातोपानी",
+   "रसुवागढी",
+   "कोरला",
+   "किमाथान्का"
+  ],
+  "answer": 1,
+  "explanation": "Rasuwagadhi in Rasuwa district is a major Nepal-China border crossing.",
+  "explanation_ne": "रसुवा जिल्लाको रसुवागढी नेपाल–चीन सीमा नाका हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Days",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When is Constitution Day celebrated in Nepal?",
+  "question_ne": "नेपालमा संविधान दिवस कहिले मनाइन्छ?",
+  "options": [
+   "Jestha 15",
+   "Falgun 7",
+   "Ashoj 3",
+   "Baisakh 1"
+  ],
+  "options_ne": [
+   "जेठ १५",
+   "फाल्गुन ७",
+   "असोज ३",
+   "बैशाख १"
+  ],
+  "answer": 2,
+  "explanation": "Constitution Day is celebrated on Ashoj 3, the day the Constitution of Nepal 2072 was promulgated.",
+  "explanation_ne": "नेपालको संविधान २०७२ जारी भएको दिन असोज ३ गते संविधान दिवस मनाइन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Days",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When is Democracy Day (Prajatantra Diwas) celebrated in Nepal?",
+  "question_ne": "नेपालमा प्रजातन्त्र दिवस कहिले मनाइन्छ?",
+  "options": [
+   "Bhadra 15",
+   "Falgun 7",
+   "Jestha 15",
+   "Ashoj 3"
+  ],
+  "options_ne": [
+   "भाद्र १५",
+   "फाल्गुन ७",
+   "जेठ १५",
+   "असोज ३"
+  ],
+  "answer": 1,
+  "explanation": "Democracy Day is celebrated on Falgun 7, marking the establishment of democracy in 1951.",
+  "explanation_ne": "सन् १९५१ मा प्रजातन्त्र स्थापना भएको दिन फागुन ७ गते प्रजातन्त्र दिवस मनाइन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Days",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When is National Unity Day celebrated in Nepal?",
+  "question_ne": "नेपालमा राष्ट्रिय एकता दिवस कहिले मनाइन्छ?",
+  "options": [
+   "Falgun 7",
+   "Poush 27",
+   "Ashoj 3",
+   "Magh 16"
+  ],
+  "options_ne": [
+   "फाल्गुन ७",
+   "पौष २७",
+   "असोज ३",
+   "माघ १६"
+  ],
+  "answer": 1,
+  "explanation": "National Unity Day is celebrated on Poush 27, the birth anniversary of Prithvi Narayan Shah.",
+  "explanation_ne": "पृथ्वीनारायण शाहको जन्मजयन्ती पुस २७ गते राष्ट्रिय एकता दिवस मनाइँदैछ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who unified Nepal in the 18th century?",
+  "question_ne": "१८ औं शताब्दीमा नेपाललाई एकीकरण कसले गर्यो?",
+  "options": [
+   "Mahendra Bir Bikram Shah",
+   "Prithvi Narayan Shah",
+   "Jung Bahadur Rana",
+   "Tribhuvan Bir Bikram Shah"
+  ],
+  "options_ne": [
+   "महेन्द्र वीर विक्रम शाह",
+   "पृथ्वीनारायण शाह",
+   "जंगबहादुर राणा",
+   "त्रिभुवन वीर विक्रम शाह"
+  ],
+  "answer": 1,
+  "explanation": "Prithvi Narayan Shah unified Nepal, beginning with the conquest of the Kathmandu Valley in 1768-69.",
+  "explanation_ne": "पृथ्वीनारायण शाहले सन् १७६८-६९ मा काठमाडौं उपत्यकाको विजयसँगै नेपाललाई एकीकरण गरेका थिए।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-162",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Prithvi Narayan Shah conquer the Kathmandu Valley?",
+  "question_ne": "पृथ्वीनारायण शाहले काठमाडौं उपत्यकालाई कुन सालमा जितेका थिए?",
+  "options": [
+   "1846",
+   "1816",
+   "1768",
+   "1951"
+  ],
+  "options_ne": [
+   "सन् १८४६",
+   "सन् १८१६",
+   "१७६८",
+   "सन् १९५१"
+  ],
+  "answer": 2,
+  "explanation": "Prithvi Narayan Shah conquered the Kathmandu Valley in 1768-69, a key step in the unification of Nepal.",
+  "explanation_ne": "पृथ्वीनारायण शाहले १७६८-६९ मा काठमाडौं उपत्यकालाई जितेका थिए, जुन नेपालको एकीकरणको महत्वपूर्ण कदम हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-163",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first Prime Minister of Nepal after the establishment of democracy in 1951?",
+  "question_ne": "सन् १९५१ मा प्रजातन्त्र स्थापनापछि नेपालको पहिलो प्रधानमन्त्री को थिए?",
+  "options": [
+   "Krishna Prasad Bhattarai",
+   "B.P. Koirala",
+   "Matrika Prasad Koirala",
+   "Girija Prasad Koirala"
+  ],
+  "options_ne": [
+   "कृष्णप्रसाद भट्टराई",
+   "बी.पी. कोइराला",
+   "मातृका प्रसाद कोइराला",
+   "गिरिजाप्रसाद कोइराला"
+  ],
+  "answer": 2,
+  "explanation": "Matrika Prasad Koirala became the first Prime Minister after the establishment of democracy in 1951.",
+  "explanation_ne": "सन् १९५१ मा प्रजातन्त्र स्थापनापछि मातृकाप्रसाद कोइराला पहिलो प्रधानमन्त्री बने।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-164",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first elected Prime Minister of Nepal?",
+  "question_ne": "नेपालको पहिलो निर्वाचित प्रधानमन्त्री को थिए?",
+  "options": [
+   "Man Mohan Adhikari",
+   "Matrika Prasad Koirala",
+   "B.P. Koirala",
+   "Girija Prasad Koirala"
+  ],
+  "options_ne": [
+   "मनमोहन अधिकारी",
+   "मातृका प्रसाद कोइराला",
+   "बी.पी. कोइराला",
+   "गिरिजाप्रसाद कोइराला"
+  ],
+  "answer": 2,
+  "explanation": "B.P. Koirala became the first elected Prime Minister of Nepal after the 1959 general election.",
+  "explanation_ne": "बी.पी. कोइराला सन् १९५९ को आम निर्वाचनपछि नेपालको पहिलो निर्वाचित प्रधानमन्त्री बने।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the monarchy abolished and Nepal declared a republic?",
+  "question_ne": "नेपालमा राजतन्त्रको अन्त्य र गणतन्त्र कुन सालमा भएको थियो?",
+  "options": [
+   "2006",
+   "2008",
+   "2010",
+   "2015"
+  ],
+  "options_ne": [
+   "२००६",
+   "२००८",
+   "२०१०",
+   "२०१५"
+  ],
+  "answer": 1,
+  "explanation": "Nepal was declared a federal democratic republic on 28 May 2008 by the first Constituent Assembly.",
+  "explanation_ne": "नेपाललाई पहिलो संविधानसभाले २८ मे २००८ मा संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरेको थियो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first President of Nepal?",
+  "question_ne": "नेपालको पहिलो राष्ट्रपति को थिए?",
+  "options": [
+   "Ram Baran Yadav",
+   "Kul Bahadur Gurung",
+   "Ram Chandra Poudel",
+   "Bidya Devi Bhandari"
+  ],
+  "options_ne": [
+   "रामवरण यादव",
+   "कुलबहादुर गुरुङ",
+   "रामचन्द्र पौडेल",
+   "विद्यादेवी भण्डारी"
+  ],
+  "answer": 0,
+  "explanation": "Dr Ram Baran Yadav was the first President of the Republic of Nepal, serving from 2008 to 2015.",
+  "explanation_ne": "डा रामवरण यादव गणतन्त्र नेपालको पहिलो राष्ट्रपति थिए, जसले सन् २००८ देखि २०१५ सम्म कार्यभार सम्हालेका थिए।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which countries border Nepal?",
+  "question_ne": "नेपालको सिमाना कुन कुन देशमा छ?",
+  "options": [
+   "India and Bhutan",
+   "India and Pakistan",
+   "China and Bangladesh",
+   "India and China"
+  ],
+  "options_ne": [
+   "भारत र भुटान",
+   "भारत र पाकिस्तान",
+   "चीन र बंगलादेश",
+   "भारत र चीन"
+  ],
+  "answer": 3,
+  "explanation": "Nepal is a landlocked country bordered by India to the south, east and west, and China to the north.",
+  "explanation_ne": "नेपाल एक भूपरिवेष्ठित देश हो जुन दक्षिण, पूर्व र पश्चिममा भारत र उत्तरमा चीनसँग जोडिएको छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "staff-nurse-psc"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the total area of Nepal?",
+  "question_ne": "नेपालको कुल क्षेत्रफल कति छ?",
+  "options": [
+   "140,000 sq km",
+   "147,181 sq km",
+   "147,516 sq km",
+   "154,000 sq km"
+  ],
+  "options_ne": [
+   "१४०,००० वर्ग किमी",
+   "१४७,१८१ वर्ग किमी",
+   "१४७,५१६ वर्ग किमी",
+   "१५४,००० वर्ग किमी"
+  ],
+  "answer": 2,
+  "explanation": "The total area of Nepal is 147,516 square kilometres according to the updated official map.",
+  "explanation_ne": "अद्यावधिक आधिकारिक नक्सा अनुसार नेपालको कुल क्षेत्रफल १ लाख ४७ हजार ५१६ वर्ग किलोमिटर रहेको छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "foreign-service",
+   "police"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the deepest lake in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा गहिरो ताल कुन हो?",
+  "options": [
+   "Rara Lake",
+   "Shey Phoksundo Lake",
+   "Phewa Lake",
+   "Begnas Lake"
+  ],
+  "options_ne": [
+   "रारा ताल",
+   "शे फोक्सुण्डो ताल",
+   "फेवा ताल",
+   "बेगनास ताल"
+  ],
+  "answer": 1,
+  "explanation": "Shey Phoksundo Lake in Dolpa is the deepest lake in Nepal.",
+  "explanation_ne": "डोल्पाको शे फोक्सुण्डो ताल नेपालको सबैभन्दा गहिरो ताल हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-172",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the highest lake in the world, located in Nepal?",
+  "question_ne": "नेपालमा रहेको विश्वको सबैभन्दा अग्लो ताल कुन हो?",
+  "options": [
+   "Gosaikunda",
+   "Rara Lake",
+   "Phewa Lake",
+   "Tilicho Lake"
+  ],
+  "options_ne": [
+   "गोसाइकुण्ड",
+   "रारा ताल",
+   "फेवा ताल",
+   "तिलिचो ताल"
+  ],
+  "answer": 3,
+  "explanation": "Tilicho Lake, at about 4,919 metres, is one of the highest lakes in the world.",
+  "explanation_ne": "करिब ४,९१९ मिटर उचाइमा रहेको तिलिचो ताल विश्वको सबैभन्दा अग्लो ताल मध्ये एक हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-173",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the largest district of Nepal by area?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला कुन हो?",
+  "options": [
+   "Mustang",
+   "Humla",
+   "Dolpa",
+   "Taplejung"
+  ],
+  "options_ne": [
+   "मुस्ताङ",
+   "हुम्ला",
+   "डोल्पा",
+   "ताप्लेजुङ"
+  ],
+  "answer": 2,
+  "explanation": "Dolpa is the largest district of Nepal by area.",
+  "explanation_ne": "डोल्पा क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो जिल्ला हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the smallest district of Nepal by area?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा सानो जिल्ला कुन हो?",
+  "options": [
+   "Kaski",
+   "Kathmandu",
+   "Lalitpur",
+   "Bhaktapur"
+  ],
+  "options_ne": [
+   "कास्की",
+   "काठमाडौं।",
+   "ललितपुर",
+   "भक्तपुर"
+  ],
+  "answer": 3,
+  "explanation": "Bhaktapur is the smallest district of Nepal by area.",
+  "explanation_ne": "भक्तपुर क्षेत्रफलको हिसाबले नेपालको सबैभन्दा सानो जिल्ला हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Geography",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which district has the highest population in Nepal?",
+  "question_ne": "नेपालमा सबैभन्दा बढी जनसङ्ख्या भएको जिल्ला कुन हो?",
+  "options": [
+   "Jhapa",
+   "Morang",
+   "Kathmandu",
+   "Rupandehi"
+  ],
+  "options_ne": [
+   "झापा",
+   "मोरङ",
+   "काठमाडौं।",
+   "रुपन्देही"
+  ],
+  "answer": 2,
+  "explanation": "Kathmandu district has the highest population in Nepal.",
+  "explanation_ne": "नेपालमा सबैभन्दा बढी जनसंख्या भएको काठमाडौं जिल्ला हो।",
+  "source": "Central Bureau of Statistics"
+ },
+ {
+  "id": "CONST-176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Parks",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the first national park established in Nepal?",
+  "question_ne": "नेपालमा स्थापना भएको पहिलो राष्ट्रिय निकुञ्ज कुन हो?",
+  "options": [
+   "Bardia National Park",
+   "Langtang National Park",
+   "Chitwan National Park",
+   "Sagarmatha National Park"
+  ],
+  "options_ne": [
+   "बर्दिया राष्ट्रिय निकुञ्ज",
+   "लाङटाङ राष्ट्रिय निकुञ्ज",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "सगरमाथा राष्ट्रिय निकुञ्ज"
+  ],
+  "answer": 2,
+  "explanation": "Chitwan National Park, established in 1973, was the first national park in Nepal.",
+  "explanation_ne": "सन् १९७३ मा स्थापना भएको चितवन राष्ट्रिय निकुञ्ज नेपालको पहिलो राष्ट्रिय निकुञ्ज थियो।",
+  "source": "Department of National Parks"
+ },
+ {
+  "id": "CONST-178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which national park is home to the one-horned rhinoceros in Nepal?",
+  "question_ne": "नेपालमा एकसिङ्गे गैंडा पाइने राष्ट्रिय निकुञ्ज कुन हो?",
+  "options": [
+   "Langtang National Park",
+   "Chitwan National Park",
+   "Shivapuri National Park",
+   "Sagarmatha National Park"
+  ],
+  "options_ne": [
+   "लाङटाङ राष्ट्रिय निकुञ्ज",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "शिवपुरी राष्ट्रिय निकुञ्ज",
+   "सगरमाथा राष्ट्रिय निकुञ्ज"
+  ],
+  "answer": 1,
+  "explanation": "Chitwan National Park is famous for the one-horned rhinoceros.",
+  "explanation_ne": "चितवन राष्ट्रिय निकुञ्ज एकसिङ्गे गैंडाका लागि प्रसिद्ध छ।",
+  "source": "Department of National Parks"
+ },
+ {
+  "id": "CONST-179",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Parks",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the largest national park in Nepal by area?",
+  "question_ne": "क्षेत्रफलको आधारमा नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज कुन हो?",
+  "options": [
+   "Chitwan National Park",
+   "Sagarmatha National Park",
+   "Shey Phoksundo National Park",
+   "Bardia National Park"
+  ],
+  "options_ne": [
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "सगरमाथा राष्ट्रिय निकुञ्ज",
+   "शे फोक्सुण्डो राष्ट्रिय निकुञ्ज",
+   "बर्दिया राष्ट्रिय निकुञ्ज"
+  ],
+  "answer": 2,
+  "explanation": "Shey Phoksundo National Park in Dolpa is the largest national park in Nepal by area.",
+  "explanation_ne": "डोल्पाको शे-फोक्सुण्डो राष्ट्रिय निकुञ्ज क्षेत्रफलका हिसाबले नेपालको सबैभन्दा ठूलो राष्ट्रिय निकुञ्ज हो।",
+  "source": "Department of National Parks"
+ },
+ {
+  "id": "CONST-180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Culture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which festival is known as the festival of lights in Nepal?",
+  "question_ne": "नेपालमा उज्यालोको पर्व भनेर कुन चाडलाई चिनिन्छ?",
+  "options": [
+   "Teej",
+   "Tihar",
+   "Dashain",
+   "Holi"
+  ],
+  "options_ne": [
+   "तीज",
+   "तिहार",
+   "दशैं",
+   "होली"
+  ],
+  "answer": 1,
+  "explanation": "Tihar, also called Deepawali, is known as the festival of lights in Nepal.",
+  "explanation_ne": "तिहार, जसलाई दीपावली पनि भनिन्छ, नेपालमा उज्यालोको पर्व भनेर चिनिन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Culture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the longest festival celebrated in Nepal?",
+  "question_ne": "नेपालमा मनाइने सबैभन्दा लामो चाड कुन हो?",
+  "options": [
+   "Tihar",
+   "Holi",
+   "Indra Jatra",
+   "Dashain"
+  ],
+  "options_ne": [
+   "तिहार",
+   "होली",
+   "इन्द्र जात्रा",
+   "दशैं"
+  ],
+  "answer": 3,
+  "explanation": "Dashain, lasting 15 days, is the longest and most important festival in Nepal.",
+  "explanation_ne": "दशैं, १५ दिनसम्म चल्ने, नेपालको सबैभन्दा लामो र महत्त्वपूर्ण चाड हो।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-182",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which festival is celebrated by women for the long life of their husbands?",
+  "question_ne": "पतिको दीर्घायुको कामना गर्दै महिलाले कुन चाड मनाउने गर्छन्?",
+  "options": [
+   "Dashain",
+   "Tihar",
+   "Maghe Sankranti",
+   "Teej"
+  ],
+  "options_ne": [
+   "दशैं",
+   "तिहार",
+   "माघे संक्रान्ति",
+   "तीज"
+  ],
+  "answer": 3,
+  "explanation": "Teej is celebrated by Hindu women, who fast and pray for the long life of their husbands.",
+  "explanation_ne": "तीज हिन्दू नारीहरूले मनाउने गरिन्छ, जसले आफ्ना पतिको दीर्घायुको कामना गर्दै व्रत बस्छन्।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which festival marks the beginning of the Nepali New Year?",
+  "question_ne": "नेपाली नयाँ वर्षको सुरुवात कुन चाडबाट हुन्छ?",
+  "options": [
+   "Maghe Sankranti",
+   "Bisket Jatra",
+   "Dashain",
+   "New Year (Baisakh 1)"
+  ],
+  "options_ne": [
+   "माघे संक्रान्ति",
+   "बिस्केट जात्रा",
+   "दशैं",
+   "नयाँ वर्ष (वैशाख १)"
+  ],
+  "answer": 3,
+  "explanation": "The Nepali New Year begins on Baisakh 1 in the Bikram Sambat calendar.",
+  "explanation_ne": "नेपाली नयाँ वर्ष विक्रम संवत् पात्रो अनुसार वैशाख १ गतेबाट सुरु हुन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the traditional Nepali cap called?",
+  "question_ne": "नेपाली परम्परागत टोपीलाई के भनिन्छ?",
+  "options": [
+   "Turban",
+   "Gandhi Topi",
+   "Topi (Dhaka Topi)",
+   "Pagri"
+  ],
+  "options_ne": [
+   "पगडी",
+   "गान्धी टोपी",
+   "टोपी (ढाका टोपी)",
+   "पग्री"
+  ],
+  "answer": 2,
+  "explanation": "The traditional Nepali cap is called Dhaka Topi, made from Dhaka fabric.",
+  "explanation_ne": "परम्परागत नेपाली टोपीलाई ढाका कपडाबाट बनेको ढाका टोपी भनिन्छ।",
+  "source": "Government of Nepal"
+ },
+ {
+  "id": "CONST-186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is the headquarters of the International Court of Justice located?",
+  "question_ne": "अन्तर्राष्ट्रिय न्यायालयको प्रधान कार्यालय कहाँ रहेको छ?",
+  "options": [
+   "Paris",
+   "New York",
+   "The Hague",
+   "Geneva"
+  ],
+  "options_ne": [
+   "पेरिस",
+   "न्यूयोर्क",
+   "हेग",
+   "जेनेभा"
+  ],
+  "answer": 2,
+  "explanation": "The International Court of Justice is headquartered in The Hague, Netherlands.",
+  "explanation_ne": "न्यायको अन्तर्राष्ट्रिय अदालतको मुख्यालय हेग, नेदरल्याण्डमा छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-187",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organisation is responsible for international peace and security in the UN system?",
+  "question_ne": "संयुक्त राष्ट्र संघ प्रणालीमा अन्तर्राष्ट्रिय शान्ति र सुरक्षाको लागि कुन संस्था जिम्मेवार छ?",
+  "options": [
+   "Economic and Social Council",
+   "General Assembly",
+   "Trusteeship Council",
+   "Security Council"
+  ],
+  "options_ne": [
+   "आर्थिक तथा सामाजिक परिषद्",
+   "महासभा",
+   "ट्रस्टीशिप परिषद",
+   "सुरक्षा परिषद्"
+  ],
+  "answer": 3,
+  "explanation": "The UN Security Council is primarily responsible for maintaining international peace and security.",
+  "explanation_ne": "संयुक्त राष्ट्र सुरक्षा परिषद मुख्य रूपमा अन्तर्राष्ट्रिय शान्ति र सुरक्षा कायम राख्न जिम्मेवार छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many permanent members are there in the UN Security Council?",
+  "question_ne": "संयुक्त राष्ट्र सुरक्षा परिषद्मा कति स्थायी सदस्य छन्?",
+  "options": [
+   "10",
+   "7",
+   "3",
+   "5"
+  ],
+  "options_ne": [
+   "१०",
+   "७",
+   "३",
+   "५"
+  ],
+  "answer": 3,
+  "explanation": "The UN Security Council has 5 permanent members: China, France, Russia, the United Kingdom and the United States.",
+  "explanation_ne": "संयुक्त राष्ट्र सुरक्षा परिषदमा ५ स्थायी सदस्यहरू छन्: चीन, फ्रान्स, रूस, बेलायत र संयुक्त राज्य।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal is a major contributor to which UN activity?",
+  "question_ne": "नेपालले संयुक्त राष्ट्र संघको कुन गतिविधिमा ठूलो योगदान पुर्‍याएको छ?",
+  "options": [
+   "UN Security Council veto",
+   "UNESCO heritage listing only",
+   "UN peacekeeping missions",
+   "World Bank lending"
+  ],
+  "options_ne": [
+   "संयुक्त राष्ट्र सुरक्षा परिषद्को भिटो",
+   "युनेस्को सम्पदा सूची मात्र",
+   "संयुक्त राष्ट्र शान्ति मिसनहरू",
+   "विश्व बैंक ऋण"
+  ],
+  "answer": 2,
+  "explanation": "Nepal is one of the largest contributors of troops to UN peacekeeping missions.",
+  "explanation_ne": "संयुक्त राष्ट्रसंघीय शान्ति मिसनमा नेपाल सबैभन्दा बढी सेना पठाउने देश हो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Organisations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year did Nepal first participate in UN peacekeeping?",
+  "question_ne": "नेपालले पहिलो पटक संयुक्त राष्ट्रसंघीय शान्ति सेनामा कुन सालमा भाग लिएको थियो?",
+  "options": [
+   "1965",
+   "1974",
+   "1980",
+   "1958"
+  ],
+  "options_ne": [
+   "सन् १९६५",
+   "सन् १९७४",
+   "१९८०",
+   "सन् १९५८"
+  ],
+  "answer": 3,
+  "explanation": "Nepal first participated in UN peacekeeping in 1958, sending troops to Lebanon.",
+  "explanation_ne": "नेपालले पहिलो पटक सन् १९५८ मा लेबनानमा सेना पठाएर संयुक्त राष्ट्रसंघीय शान्ति सेनामा भाग लिएको थियो।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "ioe-entrance",
+   "nepal-telecom"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the chemical formula of water?",
+  "question_ne": "पानीको रासायनिक सूत्र के हो?",
+  "options": [
+   "O2",
+   "H2O",
+   "NaCl",
+   "CO2"
+  ],
+  "options_ne": [
+   "O2",
+   "H2O",
+   "NaCl",
+   "CO2"
+  ],
+  "answer": 1,
+  "explanation": "Water is made of two hydrogen atoms and one oxygen atom, so its formula is H2O.",
+  "explanation_ne": "पानी दुई हाइड्रोजन परमाणु र एक अक्सिजन परमाणुबाट बनेको छ, त्यसैले यसको सूत्र H2O हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "mecee-bl",
+   "nec-licence"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the chemical symbol for gold?",
+  "question_ne": "सुनको रासायनिक प्रतीक के हो?",
+  "options": [
+   "Ag",
+   "Gd",
+   "Go",
+   "Au"
+  ],
+  "options_ne": [
+   "Ag",
+   "Gd",
+   "Go",
+   "Au"
+  ],
+  "answer": 3,
+  "explanation": "The chemical symbol for gold is Au, from its Latin name aurum.",
+  "explanation_ne": "सुनको लागि रासायनिक प्रतीक Au हो, यसको ल्याटिन नाम aurum बाट।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the chemical symbol for iron?",
+  "question_ne": "फलामको रासायनिक प्रतीक के हो?",
+  "options": [
+   "Fe",
+   "Ir",
+   "In",
+   "I"
+  ],
+  "options_ne": [
+   "Fe",
+   "Ir",
+   "In",
+   "I"
+  ],
+  "answer": 0,
+  "explanation": "The chemical symbol for iron is Fe, from its Latin name ferrum.",
+  "explanation_ne": "फलामको लागि रासायनिक प्रतीक Fe हो, यसको ल्याटिन नाम फेरमबाट।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what temperature does water boil at sea level?",
+  "question_ne": "समुन्द्री सतहमा पानी कति तापक्रममा उम्लिन्छ?",
+  "options": [
+   "120 degrees Celsius",
+   "80 degrees Celsius",
+   "100 degrees Celsius",
+   "90 degrees Celsius"
+  ],
+  "options_ne": [
+   "१२० डिग्री सेल्सियस",
+   "८० डिग्री सेल्सियस",
+   "१०० डिग्री सेल्सियस",
+   "९० डिग्री सेल्सियस"
+  ],
+  "answer": 2,
+  "explanation": "Water boils at 100 degrees Celsius at sea level under normal atmospheric pressure.",
+  "explanation_ne": "पानी सामान्य वायुमण्डलीय चापमा समुद्री सतहमा 100 डिग्री सेल्सियसमा उम्लिन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-195",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what temperature does water freeze?",
+  "question_ne": "कुन तापक्रममा पानी जम्छ?",
+  "options": [
+   "10 degrees Celsius",
+   "0 degrees Celsius",
+   "-10 degrees Celsius",
+   "5 degrees Celsius"
+  ],
+  "options_ne": [
+   "१० डिग्री सेल्सियस",
+   "० डिग्री सेल्सियस",
+   "-१० डिग्री सेल्सियस",
+   "५ डिग्री सेल्सियस"
+  ],
+  "answer": 1,
+  "explanation": "Water freezes at 0 degrees Celsius under normal atmospheric pressure.",
+  "explanation_ne": "सामान्य वायुमण्डलीय दबावमा ० डिग्री सेल्सियसमा पानी जम्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-196",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which gas do plants absorb from the air for photosynthesis?",
+  "question_ne": "प्रकाश संश्लेषणका लागि बिरुवाले हावाबाट कुन ग्यास सोस्छन्?",
+  "options": [
+   "Oxygen",
+   "Nitrogen",
+   "Hydrogen",
+   "Carbon dioxide"
+  ],
+  "options_ne": [
+   "अक्सिजन",
+   "नाइट्रोजन",
+   "हाइड्रोजन",
+   "कार्बन डाइअक्साइड"
+  ],
+  "answer": 3,
+  "explanation": "Plants absorb carbon dioxide from the air and release oxygen during photosynthesis.",
+  "explanation_ne": "बिरुवाहरूले हावाबाट कार्बन डाइअक्साइड सोस्छन् र प्रकाश संश्लेषणको क्रममा अक्सिजन छोड्छन्।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-197",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which pigment in leaves is essential for photosynthesis?",
+  "question_ne": "प्रकाश संश्लेषणको लागि पातहरूमा कुन रङ्ग आवश्यक छ?",
+  "options": [
+   "Carotene",
+   "Chlorophyll",
+   "Melanin",
+   "Haemoglobin"
+  ],
+  "options_ne": [
+   "क्यारोटिन",
+   "क्लोरोफिल",
+   "मेलानिन",
+   "हेमोग्लोबिन"
+  ],
+  "answer": 1,
+  "explanation": "Chlorophyll is the green pigment in leaves that captures sunlight for photosynthesis.",
+  "explanation_ne": "क्लोरोफिल पातहरूमा रहेको हरियो रङ्गद्रव्य हो जसले प्रकाश संश्लेषणको लागि सूर्यको किरण कब्जा गर्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-198",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which gas do humans need to breathe to live?",
+  "question_ne": "मानिसले बाँच्नको लागि सास फेर्न कुन ग्यास चाहिन्छ?",
+  "options": [
+   "Helium",
+   "Nitrogen",
+   "Oxygen",
+   "Carbon dioxide"
+  ],
+  "options_ne": [
+   "हेलियम",
+   "नाइट्रोजन",
+   "अक्सिजन",
+   "कार्बन डाइअक्साइड"
+  ],
+  "answer": 2,
+  "explanation": "Humans need oxygen to breathe, which is carried by the blood to the body's cells.",
+  "explanation_ne": "मानिसलाई सास फेर्न अक्सिजन चाहिन्छ, जुन रगतले शरीरका कोषहरूमा पुर्‍याउँछ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-199",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "engineering"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ pumps blood through the human body?",
+  "question_ne": "मानव शरीरमा रगत पम्प गर्ने अंग कुन हो?",
+  "options": [
+   "Kidney",
+   "Liver",
+   "Heart",
+   "Lung"
+  ],
+  "options_ne": [
+   "मिर्गौला",
+   "कलेजो",
+   "मुटु",
+   "फोक्सो"
+  ],
+  "answer": 2,
+  "explanation": "The heart pumps blood through the human body, delivering oxygen and nutrients to tissues.",
+  "explanation_ne": "मुटुले मानव शरीरमा रगत पम्प गर्छ, अक्सिजन र पोषक तत्वहरू ऊतकहरूमा पुर्‍याउँछ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-201",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "mecee-bl",
+   "nmc-bds",
+   "nmc-mbbs"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the powerhouse of the cell?",
+  "question_ne": "कोशिकाको पावर हाउस के हो?",
+  "options": [
+   "Golgi body",
+   "Mitochondria",
+   "Nucleus",
+   "Ribosome"
+  ],
+  "options_ne": [
+   "गोल्गी बडी",
+   "माइटोकोन्ड्रिया",
+   "न्यूक्लियस",
+   "रिबोसोम"
+  ],
+  "answer": 1,
+  "explanation": "Mitochondria produce most of the cell's energy and are known as the powerhouse of the cell.",
+  "explanation_ne": "माइटोकोन्ड्रियाले कोशिकाको अधिकांश ऊर्जा उत्पादन गर्छ र यसलाई सेलको पावरहाउस भनेर चिनिन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-202",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nmc-mbbs",
+   "provincial-psc"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vitamin is produced in the skin by sunlight?",
+  "question_ne": "सूर्यको प्रकाशले छालामा कुन भिटामिन उत्पादन हुन्छ?",
+  "options": [
+   "Vitamin D",
+   "Vitamin B",
+   "Vitamin A",
+   "Vitamin C"
+  ],
+  "options_ne": [
+   "भिटामिन डी",
+   "भिटामिन बी",
+   "भिटामिन ए",
+   "भिटामिन सी"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin D is produced in the skin when it is exposed to sunlight.",
+  "explanation_ne": "घामको किरणमा पर्दा छालामा भिटामिन डी उत्पादन हुन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-203",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vitamin is abundant in citrus fruits and prevents scurvy?",
+  "question_ne": "सिट्रस फलफूलमा प्रचुर मात्रामा पाइने र स्कर्वीबाट बचाउने भिटामिन कुन हो?",
+  "options": [
+   "Vitamin C",
+   "Vitamin B12",
+   "Vitamin A",
+   "Vitamin D"
+  ],
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन B12",
+   "भिटामिन ए",
+   "भिटामिन डी"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin C is abundant in citrus fruits and its deficiency causes scurvy.",
+  "explanation_ne": "सिट्रस फलफूलमा भिटामिन सी प्रचुर मात्रामा पाइन्छ र यसको कमीले स्कर्भी निम्त्याउँछ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-204",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "health",
+   "nhpc-lab"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which blood cells carry oxygen in the body?",
+  "question_ne": "कुन रक्त कोशिकाहरूले शरीरमा अक्सिजन पुर्‍याउँछ?",
+  "options": [
+   "Red blood cells",
+   "Platelets",
+   "White blood cells",
+   "Plasma cells"
+  ],
+  "options_ne": [
+   "रातो रक्त कोशिकाहरू",
+   "प्लेटलेट्स",
+   "सेतो रक्त कोशिकाहरू",
+   "प्लाज्मा कोशिकाहरू"
+  ],
+  "answer": 0,
+  "explanation": "Red blood cells carry oxygen from the lungs to the body's tissues.",
+  "explanation_ne": "रातो रक्त कोशिकाहरूले फोक्सोबाट शरीरको तन्तुहरूमा अक्सिजन पुर्‍याउँछन्।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-205",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal body temperature of a healthy human?",
+  "question_ne": "स्वस्थ मानिसको सामान्य शरीरको तापक्रम कति हुन्छ?",
+  "options": [
+   "37 degrees Celsius",
+   "36 degrees Celsius",
+   "38 degrees Celsius",
+   "39 degrees Celsius"
+  ],
+  "options_ne": [
+   "३७ डिग्री सेल्सियस",
+   "३६ डिग्री सेल्सियस",
+   "३८ डिग्री सेल्सियस",
+   "३९ डिग्री सेल्सियस"
+  ],
+  "answer": 0,
+  "explanation": "The normal human body temperature is about 37 degrees Celsius.",
+  "explanation_ne": "मानव शरीरको सामान्य तापक्रम ३७ डिग्री सेल्सियस हुन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-206",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "ioe-entrance",
+   "mecee-bl",
+   "nec-licence"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Physics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of force?",
+  "question_ne": "बलको SI एकाइ के हो?",
+  "options": [
+   "Newton",
+   "Joule",
+   "Watt",
+   "Pascal"
+  ],
+  "options_ne": [
+   "न्यूटन",
+   "जुल",
+   "वाट",
+   "पास्कल"
+  ],
+  "answer": 0,
+  "explanation": "The SI unit of force is the newton, named after Isaac Newton.",
+  "explanation_ne": "बलको SI एकाइ न्यूटन हो, जसको नाम आइज्याक न्यूटनको नाममा राखिएको हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-208",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Physics",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the SI unit of electric current?",
+  "question_ne": "विद्युत् प्रवाहको SI एकाइ के हो?",
+  "options": [
+   "Volt",
+   "Ampere",
+   "Ohm",
+   "Watt"
+  ],
+  "options_ne": [
+   "भोल्ट",
+   "एम्पीयर",
+   "ओम",
+   "वाट"
+  ],
+  "answer": 1,
+  "explanation": "The SI unit of electric current is the ampere.",
+  "explanation_ne": "विद्युतीय प्रवाहको SI एकाइ एम्पियर हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-209",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Physics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the speed of light in a vacuum?",
+  "question_ne": "भ्याकुममा प्रकाशको गति कति हुन्छ?",
+  "options": [
+   "3,000 km per second",
+   "150,000 km per second",
+   "30,000 km per second",
+   "300,000 km per second"
+  ],
+  "options_ne": [
+   "३,००० किमी प्रति सेकेन्ड",
+   "१५०,००० किमी प्रति सेकेन्ड",
+   "३०,००० किमी प्रति सेकेन्ड",
+   "३००,००० किमी प्रति सेकेन्ड"
+  ],
+  "answer": 3,
+  "explanation": "The speed of light in a vacuum is about 300,000 kilometres per second.",
+  "explanation_ne": "भ्याकुममा प्रकाशको गति लगभग ३००,००० किलोमिटर प्रति सेकेन्ड हुन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-210",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Physics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who formulated the laws of motion and universal gravitation?",
+  "question_ne": "गति र विश्वव्यापी गुरुत्वाकर्षण को नियम कसले बनाए?",
+  "options": [
+   "Galileo Galilei",
+   "Albert Einstein",
+   "Isaac Newton",
+   "Thomas Edison"
+  ],
+  "options_ne": [
+   "ग्यालिलियो ग्यालिली",
+   "अल्बर्ट आइन्स्टाइन",
+   "आइज्याक न्यूटन",
+   "थोमस एडिसन"
+  ],
+  "answer": 2,
+  "explanation": "Isaac Newton formulated the laws of motion and the law of universal gravitation.",
+  "explanation_ne": "आइज्याक न्यूटनले गतिको नियम र विश्वव्यापी गुरुत्वाकर्षणको नियम बनाए।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-211",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Physics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who proposed the theory of relativity?",
+  "question_ne": "सापेक्षताको सिद्धान्त कसले प्रस्तुत गरेका थिए?",
+  "options": [
+   "Niels Bohr",
+   "Albert Einstein",
+   "Max Planck",
+   "Isaac Newton"
+  ],
+  "options_ne": [
+   "निल्स बोहर",
+   "अल्बर्ट आइन्स्टाइन",
+   "म्याक्स प्लांक",
+   "आइज्याक न्यूटन"
+  ],
+  "answer": 1,
+  "explanation": "Albert Einstein proposed the theory of relativity, including the famous equation E = mc squared.",
+  "explanation_ne": "अल्बर्ट आइन्स्टाइनले प्रसिद्ध समीकरण E = mc वर्ग सहित सापेक्षताको सिद्धान्त प्रस्तावित गरे।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-212",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which planet is known as the Red Planet?",
+  "question_ne": "रातो ग्रह भनेर कुन ग्रहलाई चिनिन्छ?",
+  "options": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Saturn"
+  ],
+  "options_ne": [
+   "शुक्र",
+   "मंगल",
+   "बृहस्पति",
+   "शनि"
+  ],
+  "answer": 1,
+  "explanation": "Mars is known as the Red Planet because of its reddish appearance from iron oxide on its surface.",
+  "explanation_ne": "मंगल ग्रहको सतहमा आइरन अक्साइडबाट रातो देखिने भएकाले यसलाई रातो ग्रह भनिन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-213",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "engineering",
+   "nepal-telecom"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which planet is the largest in the solar system?",
+  "question_ne": "सौर्यमण्डलको सबैभन्दा ठूलो ग्रह कुन हो?",
+  "options": [
+   "Saturn",
+   "Neptune",
+   "Earth",
+   "Jupiter"
+  ],
+  "options_ne": [
+   "शनि",
+   "नेप्च्युन",
+   "पृथ्वी",
+   "बृहस्पति"
+  ],
+  "answer": 3,
+  "explanation": "Jupiter is the largest planet in the solar system.",
+  "explanation_ne": "बृहस्पति सौर्यमण्डलको सबैभन्दा ठूलो ग्रह हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-214",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which planet is closest to the Sun?",
+  "question_ne": "सूर्यको सबैभन्दा नजिकको ग्रह कुन हो?",
+  "options": [
+   "Venus",
+   "Mars",
+   "Mercury",
+   "Earth"
+  ],
+  "options_ne": [
+   "शुक्र",
+   "मंगल",
+   "बुध",
+   "पृथ्वी"
+  ],
+  "answer": 2,
+  "explanation": "Mercury is the closest planet to the Sun.",
+  "explanation_ne": "बुध सूर्यको सबैभन्दा नजिकको ग्रह हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-215",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the natural satellite of the Earth?",
+  "question_ne": "पृथ्वीको प्राकृतिक उपग्रह कुन हो?",
+  "options": [
+   "Sun",
+   "Mars",
+   "Titan",
+   "Moon"
+  ],
+  "options_ne": [
+   "सूर्य",
+   "मंगल",
+   "टाइटन",
+   "चन्द्रमा"
+  ],
+  "answer": 3,
+  "explanation": "The Moon is the Earth's only natural satellite.",
+  "explanation_ne": "चन्द्रमा पृथ्वीको एक मात्र प्राकृतिक उपग्रह हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-216",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first person to step on the Moon?",
+  "question_ne": "चन्द्रमामा पाइला राख्ने पहिलो व्यक्ति को थिए?",
+  "options": [
+   "Neil Armstrong",
+   "Yuri Gagarin",
+   "Michael Collins",
+   "Buzz Aldrin"
+  ],
+  "options_ne": [
+   "नील आर्मस्ट्रङ",
+   "युरी गागारिन",
+   "माइकल कोलिन्स",
+   "बज एल्ड्रिन"
+  ],
+  "answer": 0,
+  "explanation": "Neil Armstrong was the first person to step on the Moon, on 20 July 1969 during Apollo 11.",
+  "explanation_ne": "Apollo ११ को समयमा २० जुलाई १९६९ मा चन्द्रमामा पाइला टेक्ने पहिलो व्यक्ति नील आर्मस्ट्रङ थिए।",
+  "source": "NASA"
+ },
+ {
+  "id": "CONST-217",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first human in space?",
+  "question_ne": "अन्तरिक्षमा जाने पहिलो मानव को थिए?",
+  "options": [
+   "Alan Shepard",
+   "Neil Armstrong",
+   "Yuri Gagarin",
+   "Valentina Tereshkova"
+  ],
+  "options_ne": [
+   "एलन शेपर्ड",
+   "नील आर्मस्ट्रङ",
+   "युरी गागारिन",
+   "भ्यालेन्टिना तेरेस्कोवा"
+  ],
+  "answer": 2,
+  "explanation": "Yuri Gagarin was the first human in space, orbiting the Earth in 1961.",
+  "explanation_ne": "युरी गागारिन सन् १९६१ मा पृथ्वीको परिक्रमा गर्ने अन्तरिक्षमा पहिलो मानव थिए।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-218",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which gas is mainly responsible for global warming?",
+  "question_ne": "ग्लोबल वार्मिङको लागि कुन ग्यास मुख्य रूपमा जिम्मेवार छ?",
+  "options": [
+   "Hydrogen",
+   "Nitrogen",
+   "Oxygen",
+   "Carbon dioxide"
+  ],
+  "options_ne": [
+   "हाइड्रोजन",
+   "नाइट्रोजन",
+   "अक्सिजन",
+   "कार्बन डाइअक्साइड"
+  ],
+  "answer": 3,
+  "explanation": "Carbon dioxide is the main greenhouse gas driving global warming.",
+  "explanation_ne": "कार्बन डाइअक्साइड ग्लोबल वार्मिंग ड्राइभिङ मुख्य हरितगृह ग्यास हो।",
+  "source": "UNEP"
+ },
+ {
+  "id": "CONST-219",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which layer of the atmosphere protects the Earth from harmful ultraviolet rays?",
+  "question_ne": "वायुमण्डलको कुन तहले पृथ्वीलाई हानिकारक पराबैंगनी किरणहरूबाट जोगाउँछ?",
+  "options": [
+   "Mesosphere",
+   "Thermosphere",
+   "Stratosphere (ozone layer)",
+   "Troposphere"
+  ],
+  "options_ne": [
+   "मेसोस्फियर",
+   "थर्मोस्फियर",
+   "स्ट्र्याटोस्फियर (ओजोन तह)",
+   "ट्रपोस्फियर"
+  ],
+  "answer": 2,
+  "explanation": "The ozone layer in the stratosphere absorbs harmful ultraviolet radiation from the Sun.",
+  "explanation_ne": "स्ट्र्याटोस्फियरमा रहेको ओजोन तहले सूर्यबाट आउने हानिकारक पराबैंगनी विकिरणलाई अवशोषित गर्छ।",
+  "source": "UNEP"
+ },
+ {
+  "id": "CONST-220",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When is World Environment Day celebrated?",
+  "question_ne": "विश्व वातावरण दिवस कहिले मनाइन्छ?",
+  "options": [
+   "5 June",
+   "21 March",
+   "16 September",
+   "22 April"
+  ],
+  "options_ne": [
+   "५ जुन",
+   "२१ मार्च",
+   "१६ सेप्टेम्बर",
+   "२२ अप्रेल"
+  ],
+  "answer": 0,
+  "explanation": "World Environment Day is celebrated on 5 June each year.",
+  "explanation_ne": "विश्व वातावरण दिवस हरेक वर्ष जुन ५ मा मनाइन्छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-221",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When is Earth Day celebrated?",
+  "question_ne": "पृथ्वी दिवस कहिले मनाइन्छ?",
+  "options": [
+   "16 September",
+   "22 April",
+   "21 March",
+   "5 June"
+  ],
+  "options_ne": [
+   "१६ सेप्टेम्बर",
+   "२२ अप्रेल",
+   "२१ मार्च",
+   "५ जुन"
+  ],
+  "answer": 1,
+  "explanation": "Earth Day is celebrated on 22 April each year.",
+  "explanation_ne": "पृथ्वी दिवस हरेक वर्ष अप्रिल २२ मा मनाइन्छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-222",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a renewable source of energy?",
+  "question_ne": "तलका मध्ये कुन ऊर्जाको नवीकरणीय स्रोत हो?",
+  "options": [
+   "Solar energy",
+   "Coal",
+   "Petroleum",
+   "Natural gas"
+  ],
+  "options_ne": [
+   "सौर्य ऊर्जा",
+   "कोइला",
+   "पेट्रोलियम",
+   "प्राकृतिक ग्यास"
+  ],
+  "answer": 0,
+  "explanation": "Solar energy is renewable because it is naturally replenished, unlike coal, petroleum and natural gas.",
+  "explanation_ne": "कोइला, पेट्रोलियम र प्राकृतिक ग्यासको विपरीत, सौर्य ऊर्जा नवीकरणीय छ किनभने यो प्राकृतिक रूपमा पुन: भरिएको छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-223",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a non-renewable source of energy?",
+  "question_ne": "तलका मध्ये कुन अनवीकरणीय उर्जाको स्रोत हो?",
+  "options": [
+   "Wind energy",
+   "Solar energy",
+   "Coal",
+   "Hydropower"
+  ],
+  "options_ne": [
+   "पवन ऊर्जा",
+   "सौर्य ऊर्जा",
+   "कोइला",
+   "जलविद्युत"
+  ],
+  "answer": 2,
+  "explanation": "Coal is a non-renewable fossil fuel that takes millions of years to form.",
+  "explanation_ne": "कोइला एक गैर-नवीकरणीय जीवाश्म ईन्धन हो जुन बन्न लाखौं वर्ष लाग्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-224",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Biodiversity",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the fastest land animal in the world?",
+  "question_ne": "संसारको सबैभन्दा छिटो जमिनमा जाने जनावर कुन हो?",
+  "options": [
+   "Tiger",
+   "Lion",
+   "Horse",
+   "Cheetah"
+  ],
+  "options_ne": [
+   "बाघ",
+   "सिंह",
+   "घोडा",
+   "चित्ता"
+  ],
+  "answer": 3,
+  "explanation": "The cheetah is the fastest land animal in the world, capable of reaching about 100 km per hour in short bursts.",
+  "explanation_ne": "चितुवा संसारको सबैभन्दा छिटो जमिनको जनावर हो, छोटो फटमा लगभग 100 किलोमिटर प्रति घण्टा पुग्न सक्षम छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-225",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Biodiversity",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which endangered animal is famous in Chitwan National Park?",
+  "question_ne": "चितवन राष्ट्रिय निकुञ्जको लोपोन्मुख जनावर कुन हो?",
+  "options": [
+   "Snow leopard",
+   "One-horned rhinoceros",
+   "Red panda",
+   "Bengal tiger only"
+  ],
+  "options_ne": [
+   "हिउँ चितुवा",
+   "एकसिङ्गे गैंडा",
+   "रातो पाण्डा",
+   "बंगाल बाघ मात्र"
+  ],
+  "answer": 1,
+  "explanation": "Chitwan National Park is famous for the endangered one-horned rhinoceros.",
+  "explanation_ne": "चितवन राष्ट्रिय निकुञ्ज लोपोन्मुख एकसिङ्गे गैंडाका लागि प्रसिद्ध छ।",
+  "source": "Department of National Parks"
+ },
+ {
+  "id": "CONST-227",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Inventions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who invented the telephone?",
+  "question_ne": "टेलिफोनको आविष्कार कसले गरेका हुन्?",
+  "options": [
+   "Thomas Edison",
+   "James Watt",
+   "Isaac Newton",
+   "Alexander Graham Bell"
+  ],
+  "options_ne": [
+   "थोमस एडिसन",
+   "जेम्स वाट",
+   "आइज्याक न्यूटन",
+   "अलेक्जेंडर ग्राहम बेल"
+  ],
+  "answer": 3,
+  "explanation": "Alexander Graham Bell is credited with inventing the telephone in 1876.",
+  "explanation_ne": "१८७६ मा टेलिफोन आविष्कार गर्ने श्रेय अलेक्जेन्डर ग्राहम बेललाई दिइन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-228",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Inventions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who invented the electric light bulb?",
+  "question_ne": "बिजुलीको बत्तीको आविष्कार कसले गरेका हुन्?",
+  "options": [
+   "Benjamin Franklin",
+   "Thomas Edison",
+   "Nikola Tesla",
+   "Alexander Graham Bell"
+  ],
+  "options_ne": [
+   "बेन्जामिन फ्रैंकलिन",
+   "थोमस एडिसन",
+   "निकोला टेस्ला",
+   "अलेक्जेंडर ग्राहम बेल"
+  ],
+  "answer": 1,
+  "explanation": "Thomas Edison is credited with developing the first practical electric light bulb.",
+  "explanation_ne": "थोमस एडिसनलाई पहिलो व्यावहारिक बिजुली बत्तीको विकासको श्रेय दिइएको छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-229",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Inventions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who invented the World Wide Web?",
+  "question_ne": "वर्ल्ड वाइड वेब को आविष्कार कसले गर्नुभयो?",
+  "options": [
+   "Bill Gates",
+   "Steve Jobs",
+   "Mark Zuckerberg",
+   "Tim Berners-Lee"
+  ],
+  "options_ne": [
+   "बिल गेट्स",
+   "स्टीव जब्स",
+   "मार्क जुकरबर्ग",
+   "टिम बर्नर्स-ली"
+  ],
+  "answer": 3,
+  "explanation": "Tim Berners-Lee invented the World Wide Web in 1989.",
+  "explanation_ne": "टिम बर्नर्स-लीले १९८९ मा वर्ल्ड वाइड वेबको आविष्कार गरे।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-230",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does CPU stand for?",
+  "question_ne": "CPU भनेको के हो?",
+  "options": [
+   "Computer Personal Unit",
+   "Central Program Unit",
+   "Central Processing Unit",
+   "Computer Processing Utility"
+  ],
+  "options_ne": [
+   "कम्प्युटर व्यक्तिगत एकाइ",
+   "केन्द्रीय कार्यक्रम इकाई",
+   "केन्द्रीय प्रशोधन इकाई",
+   "कम्प्युटर प्रशोधन उपयोगिता"
+  ],
+  "answer": 2,
+  "explanation": "CPU stands for Central Processing Unit, the main processor of a computer.",
+  "explanation_ne": "CPU भनेको सेन्ट्रल प्रोसेसिङ युनिट हो, कम्प्युटरको मुख्य प्रोसेसर।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-231",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "nepal-telecom"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does WWW stand for?",
+  "question_ne": "WWW भनेको के हो?",
+  "options": [
+   "World Web Window",
+   "Web World Wide",
+   "Wide World Web",
+   "World Wide Web"
+  ],
+  "options_ne": [
+   "विश्व वेब विन्डो",
+   "वेब वर्ल्ड वाइड",
+   "वाइड वर्ल्ड वेब",
+   "वर्ल्ड वाइड वेब"
+  ],
+  "answer": 3,
+  "explanation": "WWW stands for World Wide Web.",
+  "explanation_ne": "WWW को अर्थ वर्ल्ड वाइड वेब हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-232",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does RAM stand for in computing?",
+  "question_ne": "कम्प्युटिङमा RAM को अर्थ के हो?",
+  "options": [
+   "Rapid Access Machine",
+   "Read Access Memory",
+   "Read And Memory",
+   "Random Access Memory"
+  ],
+  "options_ne": [
+   "द्रुत पहुँच मेसिन",
+   "Read Access Memory",
+   "Read And Memory",
+   "अनियमित पहुँच मेमोरी"
+  ],
+  "answer": 3,
+  "explanation": "RAM stands for Random Access Memory, the temporary memory used by a computer while it is running.",
+  "explanation_ne": "RAM भनेको Random Access Memory को लागि खडा हुन्छ, यो चलिरहेको बेला कम्प्युटरले प्रयोग गर्ने अस्थायी मेमोरी।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-233",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "computer-operator"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is an input device of a computer?",
+  "question_ne": "तलका मध्ये कुन कम्प्युटरको इनपुट यन्त्र हो?",
+  "options": [
+   "Speaker",
+   "Monitor",
+   "Printer",
+   "Keyboard"
+  ],
+  "options_ne": [
+   "स्पिकर",
+   "मनिटर",
+   "प्रिन्टर",
+   "किबोर्ड"
+  ],
+  "answer": 3,
+  "explanation": "A keyboard is an input device, while a monitor, printer and speaker are output devices.",
+  "explanation_ne": "किबोर्ड एक इनपुट उपकरण हो, जबकि एक मनिटर, प्रिन्टर र स्पिकर आउटपुट उपकरण हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-234",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "computer-operator"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is an output device of a computer?",
+  "question_ne": "निम्न मध्ये कुन कम्प्युटरको आउटपुट यन्त्र हो?",
+  "options": [
+   "Monitor",
+   "Scanner",
+   "Keyboard",
+   "Mouse"
+  ],
+  "options_ne": [
+   "मनिटर",
+   "स्क्यानर",
+   "किबोर्ड",
+   "माउस"
+  ],
+  "answer": 0,
+  "explanation": "A monitor is an output device that displays information from the computer.",
+  "explanation_ne": "मोनिटर एक आउटपुट उपकरण हो जसले कम्प्युटरबाट जानकारी प्रदर्शन गर्दछ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-235",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "computer-operator"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many bytes are there in one kilobyte?",
+  "question_ne": "एक किलोबाइटमा कति बाइटहरू हुन्छन्?",
+  "options": [
+   "512 bytes",
+   "1024 bytes",
+   "1000 bytes",
+   "100 bytes"
+  ],
+  "options_ne": [
+   "५१२ बाइट्स",
+   "१०२४ बाइट्स",
+   "१००० बाइट्स",
+   "१०० बाइट्स"
+  ],
+  "answer": 1,
+  "explanation": "In computing, one kilobyte is commonly defined as 1024 bytes.",
+  "explanation_ne": "कम्प्युटिङमा, एक किलोबाइटलाई सामान्यतया १०२४ बाइट भनिन्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-236",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which acid is present in the human stomach?",
+  "question_ne": "मानिसको पेटमा कुन एसिड हुन्छ?",
+  "options": [
+   "Sulphuric acid",
+   "Hydrochloric acid",
+   "Nitric acid",
+   "Acetic acid"
+  ],
+  "options_ne": [
+   "सल्फ्यूरिक एसिड",
+   "हाइड्रोक्लोरिक एसिड",
+   "नाइट्रिक एसिड",
+   "एसिटिक एसिड"
+  ],
+  "answer": 1,
+  "explanation": "Hydrochloric acid is present in the human stomach and helps digest food.",
+  "explanation_ne": "मानव पेटमा हाइड्रोक्लोरिक एसिड हुन्छ र खाना पचाउन मद्दत गर्दछ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-237",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "mecee-bl"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the chemical formula of common salt?",
+  "question_ne": "सामान्य नुन को रासायनिक सूत्र के हो?",
+  "options": [
+   "KCl",
+   "CaCO3",
+   "NaOH",
+   "NaCl"
+  ],
+  "options_ne": [
+   "KCl",
+   "CaCO3",
+   "NaOH",
+   "NaCl"
+  ],
+  "answer": 3,
+  "explanation": "Common salt is sodium chloride, with the chemical formula NaCl.",
+  "explanation_ne": "सामान्य नुन सोडियम क्लोराइड हो, रासायनिक सूत्र NaCl संग।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-238",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "ioe-entrance"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the chemical formula of carbon dioxide?",
+  "question_ne": "कार्बन डाइअक्साइड को रासायनिक सूत्र के हो?",
+  "options": [
+   "CO",
+   "CO2",
+   "C2O",
+   "O2"
+  ],
+  "options_ne": [
+   "CO",
+   "CO2",
+   "C2O",
+   "O2"
+  ],
+  "answer": 1,
+  "explanation": "Carbon dioxide is made of one carbon atom and two oxygen atoms, so its formula is CO2.",
+  "explanation_ne": "कार्बन डाइअक्साइड एक कार्बन परमाणु र दुई अक्सिजन परमाणुहरूबाट बनेको छ, त्यसैले यसको सूत्र CO2 हो।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-239",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which international agreement aims to limit global warming to well below 2 degrees Celsius?",
+  "question_ne": "कुन अन्तर्राष्ट्रिय सम्झौताले ग्लोबल वार्मिङलाई २ डिग्री सेल्सियसभन्दा कममा सीमित गर्ने लक्ष्य राखेको छ?",
+  "options": [
+   "Montreal Protocol",
+   "Paris Agreement",
+   "Kyoto Protocol",
+   "Ramsar Convention"
+  ],
+  "options_ne": [
+   "मोन्ट्रियल प्रोटोकल",
+   "पेरिस सम्झौता",
+   "क्योटो प्रोटोकल",
+   "रामसार महाधिवेशन"
+  ],
+  "answer": 1,
+  "explanation": "The Paris Agreement, adopted in 2015, aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels.",
+  "explanation_ne": "२०१५ मा अपनाएको पेरिस सम्झौताले ग्लोबल वार्मिङलाई पूर्व-औद्योगिक स्तर भन्दा माथि २ डिग्री सेल्सियस भन्दा कममा सीमित गर्ने लक्ष्य राखेको छ।",
+  "source": "United Nations"
+ },
+ {
+  "id": "CONST-240",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which gas depletes the ozone layer?",
+  "question_ne": "ओजोन तहलाई कुन ग्यासले घटाउँछ?",
+  "options": [
+   "Chlorofluorocarbons (CFCs)",
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen"
+  ],
+  "options_ne": [
+   "क्लोरोफ्लोरोकार्बन (CFCs)",
+   "कार्बन डाइअक्साइड",
+   "नाइट्रोजन",
+   "अक्सिजन"
+  ],
+  "answer": 0,
+  "explanation": "Chlorofluorocarbons (CFCs) release chlorine that depletes the ozone layer.",
+  "explanation_ne": "क्लोरोफ्लोरोकार्बन (CFCs) ले क्लोरीन छोड्छ जसले ओजोन तहलाई घटाउँछ।",
+  "source": "UNEP"
+ },
+ {
+  "id": "CONST-241",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which part of the plant makes food through photosynthesis?",
+  "question_ne": "बिरुवाको कुन भागले प्रकाश संश्लेषण मार्फत खाना बनाउँछ?",
+  "options": [
+   "Leaf",
+   "Root",
+   "Stem",
+   "Flower"
+  ],
+  "options_ne": [
+   "पात",
+   "रूट",
+   "स्टेम",
+   "फूल"
+  ],
+  "answer": 0,
+  "explanation": "Leaves make food through photosynthesis, using sunlight, water and carbon dioxide.",
+  "explanation_ne": "पातहरूले सूर्यको प्रकाश, पानी र कार्बन डाइअक्साइड प्रयोग गरेर प्रकाश संश्लेषणको माध्यमबाट खाना बनाउँछन्।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-242",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary",
+   "health"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Basic Science",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which organ in the human body filters blood and produces urine?",
+  "question_ne": "मानव शरीरको कुन अंगले रगत फिल्टर गरी पिसाब उत्पादन गर्छ?",
+  "options": [
+   "Heart",
+   "Liver",
+   "Kidney",
+   "Lung"
+  ],
+  "options_ne": [
+   "मुटु",
+   "कलेजो",
+   "मिर्गौला",
+   "फोक्सो"
+  ],
+  "answer": 2,
+  "explanation": "The kidneys filter blood and produce urine.",
+  "explanation_ne": "मृगौलाले रगत फिल्टर गर्छ र पिसाब उत्पादन गर्छ।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-244",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Space",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many planets are there in the solar system?",
+  "question_ne": "सौर्यमण्डलमा कति वटा ग्रह छन्?",
+  "options": [
+   "9",
+   "10",
+   "7",
+   "8"
+  ],
+  "options_ne": [
+   "९",
+   "१०",
+   "७",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "There are 8 planets in the solar system since Pluto was reclassified as a dwarf planet in 2006.",
+  "explanation_ne": "२००६ मा प्लुटोलाई बौना ग्रहको रूपमा पुन: वर्गीकृत गरेदेखि सौर्यमण्डलमा ८ ग्रहहरू छन्।",
+  "source": "General Science"
+ },
+ {
+  "id": "CONST-245",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Technology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What does ICT stand for?",
+  "question_ne": "ICT भनेको के हो?",
+  "options": [
+   "Information and Communication Technology",
+   "Internet and Computer Technology",
+   "International Communication Technology",
+   "Information and Computer Training"
+  ],
+  "options_ne": [
+   "सूचना र सञ्चार प्रविधि",
+   "इन्टरनेट र कम्प्युटर प्रविधि",
+   "अन्तर्राष्ट्रिय सञ्चार प्रविधि",
+   "सूचना तथा कम्प्युटर तालिम"
+  ],
+  "answer": 0,
+  "explanation": "ICT stands for Information and Communication Technology.",
+  "explanation_ne": "ICT भनेको सूचना र सञ्चार प्रविधि हो।",
+  "source": "General Science"
+ }
+]

@@ -1,0 +1,3874 @@
+[
+ {
+  "id": "DENT5-001",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many deciduous (milk) teeth does a child have?",
+  "question_ne": "बच्चामा दूधे दाँत कति हुन्छन्?",
+  "options": [
+   "20",
+   "24",
+   "28",
+   "32"
+  ],
+  "options_ne": [
+   "२०",
+   "२४",
+   "२८",
+   "३२"
+  ],
+  "answer": 0,
+  "explanation": "A child has 20 deciduous teeth: 8 incisors, 4 canines and 8 molars.",
+  "explanation_ne": "बच्चामा २० दूधे दाँत हुन्छन्: ८ इन्साइजर, ४ क्यानाइन र ८ मोलर।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-004",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many canines are there in the permanent dentition?",
+  "question_ne": "स्थायी दाँतमा क्यानाइन कति हुन्छन्?",
+  "options": [
+   "6",
+   "8",
+   "2",
+   "4"
+  ],
+  "options_ne": [
+   "६",
+   "८",
+   "२",
+   "४"
+  ],
+  "answer": 3,
+  "explanation": "There are 4 canines in the permanent dentition, one in each quadrant.",
+  "explanation_ne": "स्थायी दाँतमा ४ क्यानाइन हुन्छन्, प्रत्येक चतुर्थांशमा एक।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-005",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many molars are there in the permanent dentition, including wisdom teeth?",
+  "question_ne": "बुद्धि दाँतसहित स्थायी दाँतमा मोलर कति हुन्छन्?",
+  "options": [
+   "12",
+   "8",
+   "10",
+   "16"
+  ],
+  "options_ne": [
+   "१२",
+   "८",
+   "१०",
+   "१६"
+  ],
+  "answer": 0,
+  "explanation": "There are 12 molars including the four third molars (wisdom teeth).",
+  "explanation_ne": "बुद्धि दाँतसहित १२ मोलर हुन्छन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-006",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Wisdom teeth are which molars?",
+  "question_ne": "बुद्धि दाँत कुन मोलर हुन्?",
+  "options": [
+   "First molars",
+   "Third molars",
+   "Second molars",
+   "Premolars"
+  ],
+  "options_ne": [
+   "पहिलो मोलर",
+   "तेस्रो मोलर",
+   "दोस्रो मोलर",
+   "प्रिमोलर"
+  ],
+  "answer": 1,
+  "explanation": "Wisdom teeth are the third molars, the last teeth to erupt.",
+  "explanation_ne": "बुद्धि दाँत तेस्रो मोलर हुन्, सबैभन्दा पछि निस्कने दाँत।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-007",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Tooth Notation",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "In the FDI notation, which tooth is 11?",
+  "question_ne": "FDI सङ्केतमा ११ नम्बरको दाँत कुन हो?",
+  "options": [
+   "Lower right central incisor",
+   "Upper left central incisor",
+   "Upper right central incisor",
+   "Upper right canine"
+  ],
+  "options_ne": [
+   "तल्लो दायाँ केन्द्रीय इन्साइजर",
+   "माथिल्लो बायाँ केन्द्रीय इन्साइजर",
+   "माथिल्लो दायाँ केन्द्रीय इन्साइजर",
+   "माथिल्लो दायाँ क्यानाइन"
+  ],
+  "answer": 2,
+  "explanation": "In FDI notation, 11 is the upper right central incisor (quadrant 1, tooth 1).",
+  "explanation_ne": "FDI सङ्केतमा ११ माथिल्लो दायाँ केन्द्रीय इन्साइजर हो (चतुर्थांश १, दाँत १)।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-008",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Tooth Notation",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "In the FDI notation, which quadrant is the upper left?",
+  "question_ne": "FDI सङ्केतमा माथिल्लो बायाँ कुन चतुर्थांश हो?",
+  "options": [
+   "Quadrant 4",
+   "Quadrant 1",
+   "Quadrant 3",
+   "Quadrant 2"
+  ],
+  "options_ne": [
+   "चतुर्थांश ४",
+   "चतुर्थांश १",
+   "चतुर्थांश ३",
+   "चतुर्थांश २"
+  ],
+  "answer": 3,
+  "explanation": "Quadrant 2 is the upper left; quadrant 1 is upper right, 3 lower left and 4 lower right.",
+  "explanation_ne": "चतुर्थांश २ माथिल्लो बायाँ हो; १ माथिल्लो दायाँ, ३ तल्लो बायाँ र ४ तल्लो दायाँ हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-010",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Cariology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Dental caries is mainly caused by the action of what on tooth enamel?",
+  "question_ne": "दन्त क्यारिज मुख्यतया के ले इनामेलमा असर गरेर हुन्छ?",
+  "options": [
+   "Excess calcium",
+   "Acid produced by bacteria from sugars",
+   "Vitamin deficiency alone",
+   "Cold drinks only"
+  ],
+  "options_ne": [
+   "अधिक क्याल्सियम",
+   "जीवाणुले चिनीबाट बनाएको एसिड",
+   "केवल भिटामिनको कमी",
+   "केवल चिसो पेय"
+  ],
+  "answer": 1,
+  "explanation": "Bacteria ferment sugars to acid, which demineralises enamel and forms a cavity.",
+  "explanation_ne": "जीवाणुले चिनीलाई किण्वन गरी एसिड बनाउँछन्, जसले इनामेल खियाएर प्वाल बनाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-011",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which mineral in toothpaste helps prevent dental caries?",
+  "question_ne": "दाँतको क्यारिज रोक्न टुथपेस्टमा कुन खनिज हुन्छ?",
+  "options": [
+   "Zinc",
+   "Iron",
+   "Fluoride",
+   "Iodine"
+  ],
+  "options_ne": [
+   "जिंक",
+   "फलाम",
+   "फ्लोराइड",
+   "आयोडिन"
+  ],
+  "answer": 2,
+  "explanation": "Fluoride strengthens enamel and promotes remineralisation, reducing caries.",
+  "explanation_ne": "फ्लोराइडले इनामेल बलियो बनाउँछ र पुनः खनिजीकरण बढाएर क्यारिज घटाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-012",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Excess fluoride during tooth development causes which condition?",
+  "question_ne": "दाँत विकास हुँदा अधिक फ्लोराइडले कुन अवस्था हुन्छ?",
+  "options": [
+   "Periodontitis",
+   "Dental caries",
+   "Gingivitis",
+   "Dental fluorosis"
+  ],
+  "options_ne": [
+   "पेरियोडोन्टाइटिस",
+   "दन्त क्यारिज",
+   "जिन्जिभाइटिस",
+   "दन्त फ्लोरोसिस"
+  ],
+  "answer": 3,
+  "explanation": "Excess fluoride while teeth are forming causes dental fluorosis, seen as white or brown mottling of enamel.",
+  "explanation_ne": "दाँत बन्दै गर्दा अधिक फ्लोराइडले दन्त फ्लोरोसिस हुन्छ, इनामेलमा सेतो वा खैरो दाग देखिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-013",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Inflammation of the gums without loss of attachment is called what?",
+  "question_ne": "गिजा सुन्निने तर अडान नगुम्ने अवस्थालाई के भनिन्छ?",
+  "options": [
+   "Gingivitis",
+   "Periodontitis",
+   "Pulpitis",
+   "Stomatitis"
+  ],
+  "options_ne": [
+   "जिन्जिभाइटिस",
+   "पेरियोडोन्टाइटिस",
+   "पल्पाइटिस",
+   "स्टोमाटाइटिस"
+  ],
+  "answer": 0,
+  "explanation": "Gingivitis is reversible inflammation of the gums caused by plaque, without loss of the tissues that support the tooth.",
+  "explanation_ne": "जिन्जिभाइटिस प्लाकले हुने गिजाको सुजन हो, दाँतलाई सहयोग गर्ने तन्तु नगुमीकन हुन्छ र यो निको हुन सक्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-015",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Hardened dental plaque is called what?",
+  "question_ne": "कडा भएको दन्त प्लाकलाई के भनिन्छ?",
+  "options": [
+   "Stain",
+   "Caries",
+   "Calculus (tartar)",
+   "Biofilm"
+  ],
+  "options_ne": [
+   "दाग",
+   "क्यारिज",
+   "क्याल्कुलस (टार्टर)",
+   "बायोफिल्म"
+  ],
+  "answer": 2,
+  "explanation": "Plaque that mineralises becomes calculus (tartar), which can only be removed by professional scaling.",
+  "explanation_ne": "खनिजीकृत प्लाक क्याल्कुलस (टार्टर) बन्छ, जुन व्यावसायिक स्केलिङबाट मात्र हट्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-016",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Scaling in dentistry is done to remove what?",
+  "question_ne": "दन्त चिकित्सामा स्केलिङ के हटाउन गरिन्छ?",
+  "options": [
+   "Wisdom teeth",
+   "Tooth enamel",
+   "Dental fillings",
+   "Calculus and plaque"
+  ],
+  "options_ne": [
+   "बुद्धि दाँत",
+   "दाँतको इनामेल",
+   "दाँतको भर्ने पदार्थ",
+   "क्याल्कुलस र प्लाक"
+  ],
+  "answer": 3,
+  "explanation": "Scaling removes calculus and plaque from the tooth surfaces, especially below the gum line.",
+  "explanation_ne": "स्केलिङले दाँतको सतह, विशेष गरी गिजामुनिबाट क्याल्कुलस र प्लाक हटाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-017",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Endodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Inflammation of the dental pulp is called what?",
+  "question_ne": "दाँतको पल्प सुन्निनुलाई के भनिन्छ?",
+  "options": [
+   "Pulpitis",
+   "Gingivitis",
+   "Periodontitis",
+   "Pericoronitis"
+  ],
+  "options_ne": [
+   "पल्पाइटिस",
+   "जिन्जिभाइटिस",
+   "पेरियोडोन्टाइटिस",
+   "पेरिकोरोनाइटिस"
+  ],
+  "answer": 0,
+  "explanation": "Pulpitis is inflammation of the pulp, often from deep caries, and causes toothache.",
+  "explanation_ne": "पल्पाइटिस पल्पको सुजन हो, प्रायः गहिरो क्यारिजबाट हुन्छ र दाँत दुख्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-018",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Endodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Root canal treatment is performed to treat disease of which tissue?",
+  "question_ne": "रूट क्यानल उपचार कुन तन्तुको रोगको लागि गरिन्छ?",
+  "options": [
+   "Enamel",
+   "Dental pulp",
+   "Cementum",
+   "Gingiva"
+  ],
+  "options_ne": [
+   "इनामेल",
+   "दन्त पल्प",
+   "सिमेन्टम",
+   "गिजा"
+  ],
+  "answer": 1,
+  "explanation": "Root canal treatment removes infected or inflamed pulp and seals the root canal.",
+  "explanation_ne": "रूट क्यानल उपचारले संक्रमित वा सुन्निएको पल्प हटाएर रूट क्यानल बन्द गर्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-019",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Endodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A dental abscess is best described as what?",
+  "question_ne": "दन्त एब्सेसलाई सबैभन्दा राम्रोसँग कसरी वर्णन गरिन्छ?",
+  "options": [
+   "A loose filling",
+   "A cracked tooth",
+   "A collection of pus from bacterial infection",
+   "A gum tumour"
+  ],
+  "options_ne": [
+   "खुकुलो भर्ने पदार्थ",
+   "फुटेको दाँत",
+   "जीवाणु संक्रमणबाट बनेको पिपको थुप्रो",
+   "गिजाको ट्युमर"
+  ],
+  "answer": 2,
+  "explanation": "A dental abscess is a localised collection of pus caused by bacterial infection, usually at the tooth root.",
+  "explanation_ne": "दन्त एब्सेस जीवाणु संक्रमणबाट बनेको पिपको स्थानीय थुप्रो हो, प्रायः दाँतको जरामा हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-020",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Orthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Misalignment of teeth or an incorrect bite is called what?",
+  "question_ne": "दाँतको गलत मिलान वा गलत टोकाइलाई के भनिन्छ?",
+  "options": [
+   "Ankylosis",
+   "Bruxism",
+   "Edentulism",
+   "Malocclusion"
+  ],
+  "options_ne": [
+   "एन्किलोसिस",
+   "ब्रुक्सिज्म",
+   "इडेन्टुलिज्म",
+   "म्यालअक्लुजन"
+  ],
+  "answer": 3,
+  "explanation": "Malocclusion is misalignment of the teeth or an incorrect relationship between the upper and lower teeth when the jaws close.",
+  "explanation_ne": "म्यालअक्लुजन दाँतको गलत मिलान वा बङ्गारा बन्द हुँदा माथिल्लो र तल्लो दाँतको गलत सम्बन्ध हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-021",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Orthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Orthodontic treatment mainly corrects what?",
+  "question_ne": "अर्थोडोन्टिक उपचारले मुख्यतया के सच्याउँछ?",
+  "options": [
+   "Misaligned teeth and jaws",
+   "Tooth decay",
+   "Gum disease",
+   "Bad breath"
+  ],
+  "options_ne": [
+   "बाङ्गा दाँत र बङ्गारा",
+   "दाँत कुहिनु",
+   "गिजाको रोग",
+   "मुख गन्हाउनु"
+  ],
+  "answer": 0,
+  "explanation": "Orthodontics uses braces and appliances to straighten teeth and correct jaw alignment.",
+  "explanation_ne": "अर्थोडोन्टिक्सले ब्रेस र उपकरण प्रयोग गरी दाँत सोझ्याउँछ र बङ्गाराको मिलान सच्याउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-022",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Grinding or clenching of teeth, often during sleep, is called what?",
+  "question_ne": "प्रायः निद्रामा दाँत किट्ने वा पिस्ने बानीलाई के भनिन्छ?",
+  "options": [
+   "Malocclusion",
+   "Bruxism",
+   "Xerostomia",
+   "Halitosis"
+  ],
+  "options_ne": [
+   "म्यालअक्लुजन",
+   "ब्रुक्सिज्म",
+   "जेरोस्टोमिया",
+   "ह्यालिटोसिस"
+  ],
+  "answer": 1,
+  "explanation": "Bruxism is involuntary grinding or clenching of the teeth, often during sleep, which can wear enamel.",
+  "explanation_ne": "ब्रुक्सिज्म अनैच्छिक रूपमा दाँत किट्ने वा पिस्ने बानी हो, प्रायः निद्रामा हुन्छ र यसले इनामेल खियाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-023",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Dry mouth due to reduced saliva is called what?",
+  "question_ne": "र्‍याल कम भएर मुख सुख्खा हुने अवस्थालाई के भनिन्छ?",
+  "options": [
+   "Sialorrhoea",
+   "Halitosis",
+   "Xerostomia",
+   "Glossitis"
+  ],
+  "options_ne": [
+   "सियालोरिया",
+   "ह्यालिटोसिस",
+   "जेरोस्टोमिया",
+   "ग्लोसाइटिस"
+  ],
+  "answer": 2,
+  "explanation": "Xerostomia is dry mouth caused by reduced saliva flow; it increases the risk of caries.",
+  "explanation_ne": "जेरोस्टोमिया र्‍याल कम भएर मुख सुख्खा हुने अवस्था हो; यसले क्यारिजको जोखिम बढाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-024",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Persistent bad breath is called what?",
+  "question_ne": "लगातार मुख गन्हाउने अवस्थालाई के भनिन्छ?",
+  "options": [
+   "Gingivitis",
+   "Xerostomia",
+   "Bruxism",
+   "Halitosis"
+  ],
+  "options_ne": [
+   "जिन्जिभाइटिस",
+   "जेरोस्टोमिया",
+   "ब्रुक्सिज्म",
+   "ह्यालिटोसिस"
+  ],
+  "answer": 3,
+  "explanation": "Halitosis is persistent bad breath, often from poor oral hygiene, gum disease or tongue coating.",
+  "explanation_ne": "ह्यालिटोसिस लगातार मुख गन्हाउनु हो, प्रायः खराब मौखिक सरसफाइ, गिजाको रोग वा जिब्रोको लेपबाट हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-025",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Prosthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A complete loss of all natural teeth is called what?",
+  "question_ne": "सबै प्राकृतिक दाँत गुम्नुलाई के भनिन्छ?",
+  "options": [
+   "Edentulism",
+   "Malocclusion",
+   "Anodontia",
+   "Hypodontia"
+  ],
+  "options_ne": [
+   "इडेन्टुलिज्म",
+   "म्यालअक्लुजन",
+   "एनोडोन्टिया",
+   "हाइपोडोन्टिया"
+  ],
+  "answer": 0,
+  "explanation": "Edentulism is the loss of all natural teeth; it is usually managed with complete dentures or implants.",
+  "explanation_ne": "इडेन्टुलिज्म सबै प्राकृतिक दाँत गुम्नु हो; यसलाई प्रायः पूर्ण डेन्चर वा इम्प्लान्टबाट व्यवस्थापन गरिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-026",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Prosthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A removable replacement for missing teeth is called what?",
+  "question_ne": "हराएका दाँतको हटाउन मिल्ने प्रतिस्थापनलाई के भनिन्छ?",
+  "options": [
+   "Crown",
+   "Denture",
+   "Bridge",
+   "Implant"
+  ],
+  "options_ne": [
+   "क्राउन",
+   "डेन्चर",
+   "ब्रिज",
+   "इम्प्लान्ट"
+  ],
+  "answer": 1,
+  "explanation": "A denture is a removable appliance that replaces missing teeth and surrounding tissues.",
+  "explanation_ne": "डेन्चर हराएका दाँत र वरपरका तन्तु प्रतिस्थापन गर्ने हटाउन मिल्ने उपकरण हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-027",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Prosthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A cap placed over a damaged tooth to restore its shape is called what?",
+  "question_ne": "क्षतिग्रस्त दाँतमाथि राखिने टोपी (क्याप) लाई के भनिन्छ?",
+  "options": [
+   "Veneer",
+   "Bridge",
+   "Crown",
+   "Filling"
+  ],
+  "options_ne": [
+   "भेनियर",
+   "ब्रिज",
+   "क्राउन",
+   "फिलिङ"
+  ],
+  "answer": 2,
+  "explanation": "A crown is a cap that covers a damaged tooth to restore its shape, strength and appearance.",
+  "explanation_ne": "क्राउन क्षतिग्रस्त दाँतलाई ढाक्ने टोपी हो, जसले आकार, बल र रूप पुनर्स्थापना गर्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-028",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Prosthodontics",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A dental implant is usually made of which metal?",
+  "question_ne": "दन्त इम्प्लान्ट प्रायः कुन धातुबाट बनेको हुन्छ?",
+  "options": [
+   "Iron",
+   "Gold",
+   "Silver",
+   "Titanium"
+  ],
+  "options_ne": [
+   "फलाम",
+   "सुन",
+   "चाँदी",
+   "टाइटानियम"
+  ],
+  "answer": 3,
+  "explanation": "Dental implants are usually made of titanium, which bonds well with bone (osseointegration).",
+  "explanation_ne": "दन्त इम्प्लान्ट प्रायः टाइटानियमबाट बनेको हुन्छ, जुन हाडसँग राम्रोसँग जोडिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-030",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Medicine",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which vitamin is essential for calcium absorption and healthy teeth and bones?",
+  "question_ne": "क्याल्सियम अवशोषण र स्वस्थ दाँत-हाडका लागि कुन भिटामिन आवश्यक छ?",
+  "options": [
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B1",
+   "Vitamin E"
+  ],
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन डी",
+   "भिटामिन बी१",
+   "भिटामिन ई"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin D is needed for calcium absorption; its deficiency weakens teeth and bones.",
+  "explanation_ne": "भिटामिन डी क्याल्सियम अवशोषणका लागि चाहिन्छ; यसको कमीले दाँत र हाड कमजोर हुन्छन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-031",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A white patch inside the mouth that cannot be scraped off and is linked to tobacco use is called what?",
+  "question_ne": "मुखभित्रको सेतो दाग जुन पुछेर हट्दैन र सुर्ती सेवनसँग सम्बन्धित छ, त्यसलाई के भनिन्छ?",
+  "options": [
+   "Aphthous ulcer",
+   "Candidiasis",
+   "Leukoplakia",
+   "Lichen planus"
+  ],
+  "options_ne": [
+   "एफ्थस अल्सर",
+   "क्यान्डिडियासिस",
+   "ल्युकोप्लाकिया",
+   "लाइकेन प्लानस"
+  ],
+  "answer": 2,
+  "explanation": "Leukoplakia is a white patch on the oral mucosa, often linked to tobacco, that cannot be scraped off and may be precancerous.",
+  "explanation_ne": "ल्युकोप्लाकिया मुखको श्लेष्मा झिल्लीमा हुने सेतो दाग हो, प्रायः सुर्तीसँग सम्बन्धित, पुछेर हट्दैन र क्यान्सरपूर्व हुन सक्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-032",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Oral thrush is most commonly caused by which organism?",
+  "question_ne": "मुखको थ्रस प्रायः कुन जीवले गराउँछ?",
+  "options": [
+   "Staphylococcus aureus",
+   "Streptococcus mutans",
+   "Herpes simplex virus",
+   "Candida albicans"
+  ],
+  "options_ne": [
+   "स्ट्याफिलोकोकस ओरियस",
+   "स्ट्रेप्टोकोकस म्युटान्स",
+   "हर्पेस सिम्प्लेक्स भाइरस",
+   "क्यान्डिडा एल्बिकान्स"
+  ],
+  "answer": 3,
+  "explanation": "Oral thrush (candidiasis) is a fungal infection caused by Candida albicans, seen as creamy white patches.",
+  "explanation_ne": "मुखको थ्रस (क्यान्डिडियासिस) क्यान्डिडा एल्बिकान्सले हुने फंगल संक्रमण हो, सेतो दहीजस्तो दाग देखिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-033",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The first permanent molar usually erupts at about what age?",
+  "question_ne": "पहिलो स्थायी मोलर प्रायः कति वर्षको उमेरमा निस्कन्छ?",
+  "options": [
+   "6 years",
+   "3 years",
+   "9 years",
+   "12 years"
+  ],
+  "options_ne": [
+   "६ वर्ष",
+   "३ वर्ष",
+   "९ वर्ष",
+   "१२ वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "The first permanent molar usually erupts at about 6 years of age, behind the deciduous molars.",
+  "explanation_ne": "पहिलो स्थायी मोलर प्रायः ६ वर्षको उमेरमा दूधे मोलरको पछाडि निस्कन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-035",
+  "exam": [
+   "nhpc-dental",
+   "nmc-bds"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Pharmacology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which local anaesthetic is most commonly used in dentistry?",
+  "question_ne": "दन्त चिकित्सामा सबैभन्दा बढी प्रयोग हुने स्थानीय एनेस्थेटिक कुन हो?",
+  "options": [
+   "Paracetamol",
+   "General anaesthesia",
+   "Lidocaine (lignocaine)",
+   "Aspirin"
+  ],
+  "options_ne": [
+   "प्यारासिटामोल",
+   "सामान्य एनेस्थेसिया",
+   "लिडोकेन (लिग्नोकेन)",
+   "एस्पिरिन"
+  ],
+  "answer": 2,
+  "explanation": "Lidocaine (lignocaine), often with adrenaline, is the most commonly used local anaesthetic in dentistry.",
+  "explanation_ne": "लिडोकेन (लिग्नोकेन), प्रायः एड्रेनालिनसहित, दन्त चिकित्सामा सबैभन्दा बढी प्रयोग हुने स्थानीय एनेस्थेटिक हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-036",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Radiology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A panoramic dental X-ray is also known as what?",
+  "question_ne": "पानोरामिक दन्त एक्स-रे लाई के पनि भनिन्छ?",
+  "options": [
+   "Cephalogram",
+   "CBCT",
+   "Periapical film",
+   "OPG (orthopantomogram)"
+  ],
+  "options_ne": [
+   "सेफालोग्राम",
+   "सीबीसीटी",
+   "पेरियापिकल फिल्म",
+   "ओपीजी (अर्थोप्यान्टोमोग्राम)"
+  ],
+  "answer": 3,
+  "explanation": "A panoramic X-ray (OPG/orthopantomogram) shows the whole mouth, both jaws and all teeth in one image.",
+  "explanation_ne": "पानोरामिक एक्स-रे (ओपीजी) ले एउटै तस्बिरमा पूरै मुख, दुवै बङ्गारा र सबै दाँत देखाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-037",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Radiology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which imaging technique gives a three-dimensional view of teeth and jaws?",
+  "question_ne": "दाँत र बङ्गाराको त्रिआयामिक दृश्य दिने इमेजिङ प्रविधि कुन हो?",
+  "options": [
+   "CBCT (cone-beam CT)",
+   "Periapical X-ray",
+   "Bitewing X-ray",
+   "OPG"
+  ],
+  "options_ne": [
+   "सीबीसीटी (कोन-बीम सीटी)",
+   "पेरियापिकल एक्स-रे",
+   "बाइटविङ एक्स-रे",
+   "ओपीजी"
+  ],
+  "answer": 0,
+  "explanation": "Cone-beam computed tomography (CBCT) gives a 3D view of teeth, jaws and surrounding bone.",
+  "explanation_ne": "कोन-बीम कम्प्युटेड टोमोग्राफी (सीबीसीटी) ले दाँत, बङ्गारा र वरपरको हाडको त्रिआयामिक दृश्य दिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-038",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Radiology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A bitewing X-ray is mainly used to detect what?",
+  "question_ne": "बाइटविङ एक्स-रे मुख्यतया के पत्ता लगाउन प्रयोग गरिन्छ?",
+  "options": [
+   "Jaw fractures",
+   "Caries between teeth",
+   "Sinus disease",
+   "Tooth number"
+  ],
+  "options_ne": [
+   "बङ्गारा भाँचिनु",
+   "दाँतबीचको क्यारिज",
+   "साइनस रोग",
+   "दाँतको संख्या"
+  ],
+  "answer": 1,
+  "explanation": "Bitewing X-rays show the crowns of upper and lower teeth together and are best for detecting caries between teeth.",
+  "explanation_ne": "बाइटविङ एक्स-रेले माथिल्लो र तल्लो दाँतको मुकुट सँगै देखाउँछ र दाँतबीचको क्यारिज पत्ता लगाउन उत्तम हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-039",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The recommended brushing time for effective cleaning is about how long?",
+  "question_ne": "प्रभावकारी सफाइका लागि सिफारिस गरिएको ब्रस गर्ने समय कति हो?",
+  "options": [
+   "5 minutes",
+   "30 seconds",
+   "2 minutes",
+   "10 seconds"
+  ],
+  "options_ne": [
+   "५ मिनेट",
+   "३० सेकेन्ड",
+   "२ मिनेट",
+   "१० सेकेन्ड"
+  ],
+  "answer": 2,
+  "explanation": "Brushing for about 2 minutes, twice a day, with fluoride toothpaste is recommended.",
+  "explanation_ne": "फ्लोराइड टुथपेस्टले दिनमा दुई पटक करिब २ मिनेट ब्रस गर्न सिफारिस गरिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-040",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Dental floss is used mainly to clean where?",
+  "question_ne": "डेन्टल फ्लस मुख्यतया कहाँ सफा गर्न प्रयोग गरिन्छ?",
+  "options": [
+   "The gums only",
+   "The tongue only",
+   "The outer tooth surface",
+   "Between the teeth"
+  ],
+  "options_ne": [
+   "केवल गिजा",
+   "केवल जिब्रो",
+   "दाँतको बाहिरी सतह मात्र",
+   "दाँतबीच"
+  ],
+  "answer": 3,
+  "explanation": "Floss cleans between teeth where a toothbrush cannot reach, removing plaque and food debris.",
+  "explanation_ne": "फ्लसले दाँतबीच सफा गर्छ जहाँ ब्रस पुग्दैन, प्लाक र खानाका कण हटाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-042",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Inflammation around a partially erupted wisdom tooth is called what?",
+  "question_ne": "आंशिक रूपमा निस्किएको बुद्धि दाँत वरपरको सुजनलाई के भनिन्छ?",
+  "options": [
+   "Pulpitis",
+   "Pericoronitis",
+   "Gingivitis",
+   "Periodontitis"
+  ],
+  "options_ne": [
+   "पल्पाइटिस",
+   "पेरिकोरोनाइटिस",
+   "जिन्जिभाइटिस",
+   "पेरियोडोन्टाइटिस"
+  ],
+  "answer": 1,
+  "explanation": "Pericoronitis is inflammation of the gum around a partially erupted tooth, most often a lower wisdom tooth.",
+  "explanation_ne": "पेरिकोरोनाइटिस आंशिक रूपमा निस्किएको दाँत, प्रायः तल्लो बुद्धि दाँत वरपरको गिजाको सुजन हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-043",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A small painful ulcer inside the mouth that heals in 1–2 weeks is most likely what?",
+  "question_ne": "मुखभित्रको सानो पीडादायी घाउ जुन १–२ हप्तामा निको हुन्छ, त्यो के होला?",
+  "options": [
+   "Leukoplakia",
+   "Oral cancer",
+   "Aphthous ulcer",
+   "Dental abscess"
+  ],
+  "options_ne": [
+   "ल्युकोप्लाकिया",
+   "मुखको क्यान्सर",
+   "एफ्थस अल्सर",
+   "दन्त एब्सेस"
+  ],
+  "answer": 2,
+  "explanation": "An aphthous ulcer (mouth ulcer) is a small painful sore inside the mouth that usually heals within 1–2 weeks.",
+  "explanation_ne": "एफ्थस अल्सर (मुखको घाउ) मुखभित्रको सानो पीडादायी घाउ हो जुन प्रायः १–२ हप्तामा निको हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-044",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Dental sealants are applied mainly to which teeth to prevent caries?",
+  "question_ne": "दन्त सिलेन्ट मुख्यतया कुन दाँतमा क्यारिज रोक्न लगाइन्छ?",
+  "options": [
+   "Deciduous incisors",
+   "Front incisors",
+   "Canines",
+   "Permanent molars"
+  ],
+  "options_ne": [
+   "दूधे इन्साइजर",
+   "अगाडिका इन्साइजर",
+   "क्यानाइन",
+   "स्थायी मोलर"
+  ],
+  "answer": 3,
+  "explanation": "Sealants are thin coatings applied to the chewing surfaces of molars, where pits and fissures trap food and bacteria.",
+  "explanation_ne": "सिलेन्ट मोलरको चपाउने सतहमा लगाइने पातलो लेप हो, जहाँ खाडलमा खाना र जीवाणु अड्किन्छन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-045",
+  "exam": [
+   "nhpc-dental",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Physiology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The normal pH of saliva is approximately what?",
+  "question_ne": "र्‍यालको सामान्य pH लगभग कति हुन्छ?",
+  "options": [
+   "6.2–7.6",
+   "4.0–5.0",
+   "8.5–9.5",
+   "2.0–3.0"
+  ],
+  "options_ne": [
+   "६.२–७.६",
+   "४.०–५.०",
+   "८.५–९.५",
+   "२.०–३.०"
+  ],
+  "answer": 0,
+  "explanation": "Saliva is normally near neutral, about pH 6.2–7.6; below pH 5.5 enamel begins to demineralise.",
+  "explanation_ne": "र्‍याल सामान्यतया तटस्थ नजिक, करिब pH ६.२–७.६ हुन्छ; pH ५.५ भन्दा तल इनामेल खियाउन थाल्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-047",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Instruments",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which instrument is used to examine the mouth and reflect light onto teeth?",
+  "question_ne": "मुख जाँच्न र दाँतमा प्रकाश परावर्तन गर्न कुन उपकरण प्रयोग गरिन्छ?",
+  "options": [
+   "Forceps",
+   "Probe",
+   "Mouth mirror",
+   "Scaler"
+  ],
+  "options_ne": [
+   "फोर्सेप्स",
+   "प्रोब",
+   "माउथ मिरर",
+   "स्केलर"
+  ],
+  "answer": 2,
+  "explanation": "A mouth mirror lets the dentist see tooth surfaces indirectly and reflect light into the mouth.",
+  "explanation_ne": "माउथ मिररले दन्त चिकित्सकलाई दाँतको सतह अप्रत्यक्ष रूपमा हेर्न र मुखमा प्रकाश परावर्तन गर्न दिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-048",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Instruments",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Dental forceps are used mainly for what?",
+  "question_ne": "दन्त फोर्सेप्स मुख्यतया केका लागि प्रयोग गरिन्छ?",
+  "options": [
+   "Taking X-rays",
+   "Tooth filling",
+   "Scaling",
+   "Tooth extraction"
+  ],
+  "options_ne": [
+   "एक्स-रे लिन",
+   "दाँत भर्न",
+   "स्केलिङ गर्न",
+   "दाँत उखेल्न"
+  ],
+  "answer": 3,
+  "explanation": "Dental forceps are used to grip and extract teeth.",
+  "explanation_ne": "दन्त फोर्सेप्स दाँत समातेर उखेल्न प्रयोग गरिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-049",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Restorative Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which material is commonly used for a tooth-coloured filling?",
+  "question_ne": "दाँतको रङको फिलिङका लागि कुन पदार्थ बढी प्रयोग गरिन्छ?",
+  "options": [
+   "Composite resin",
+   "Amalgam",
+   "Gold foil",
+   "Zinc oxide only"
+  ],
+  "options_ne": [
+   "कम्पोजिट रेजिन",
+   "अमलगम",
+   "सुनको पाता",
+   "केवल जिंक अक्साइड"
+  ],
+  "answer": 0,
+  "explanation": "Composite resin is a tooth-coloured filling material that bonds to the tooth.",
+  "explanation_ne": "कम्पोजिट रेजिन दाँतको रङको भर्ने पदार्थ हो जुन दाँतसँग टाँसिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-050",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Restorative Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Amalgam filling is an alloy containing which metal?",
+  "question_ne": "अमलगम फिलिङ कुन धातु भएको मिश्रधातु हो?",
+  "options": [
+   "Titanium",
+   "Mercury",
+   "Copper only",
+   "Iron"
+  ],
+  "options_ne": [
+   "टाइटानियम",
+   "पारा",
+   "केवल तामा",
+   "फलाम"
+  ],
+  "answer": 1,
+  "explanation": "Dental amalgam is an alloy of mercury with silver, tin and copper.",
+  "explanation_ne": "दन्त अमलगम पारा, चाँदी, टिन र तामाको मिश्रधातु हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-051",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The chewing surface of a tooth is called what?",
+  "question_ne": "दाँतको चपाउने सतहलाई के भनिन्छ?",
+  "options": [
+   "Buccal surface",
+   "Lingual surface",
+   "Occlusal surface",
+   "Mesial surface"
+  ],
+  "options_ne": [
+   "बुकल सतह",
+   "लिङ्गुअल सतह",
+   "अक्लुजल सतह",
+   "मेसियल सतह"
+  ],
+  "answer": 2,
+  "explanation": "The occlusal surface is the chewing surface of posterior teeth; the incisal edge is the biting edge of front teeth.",
+  "explanation_ne": "अक्लुजल सतह पछाडिका दाँतको चपाउने सतह हो; अगाडिका दाँतको टोक्ने किनारा इन्साइजर किनारा हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-052",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The tongue-side surface of a lower tooth is called what?",
+  "question_ne": "तल्लो दाँतको जिब्रोतर्फको सतहलाई के भनिन्छ?",
+  "options": [
+   "Distal surface",
+   "Buccal surface",
+   "Occlusal surface",
+   "Lingual surface"
+  ],
+  "options_ne": [
+   "डिस्टल सतह",
+   "बुकल सतह",
+   "अक्लुजल सतह",
+   "लिङ्गुअल सतह"
+  ],
+  "answer": 3,
+  "explanation": "The lingual surface faces the tongue; the buccal surface faces the cheek.",
+  "explanation_ne": "लिङ्गुअल सतह जिब्रोतर्फ हुन्छ; बुकल सतह गालातर्फ हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-053",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which nerve supplies sensation to the lower teeth?",
+  "question_ne": "तल्लो दाँतलाई संवेदना दिने स्नायु कुन हो?",
+  "options": [
+   "Inferior alveolar nerve",
+   "Facial nerve",
+   "Lingual nerve",
+   "Hypoglossal nerve"
+  ],
+  "options_ne": [
+   "इन्फेरियर एल्भियोलर स्नायु",
+   "फेसियल स्नायु",
+   "लिङ्गुअल स्नायु",
+   "हाइपोग्लोसल स्नायु"
+  ],
+  "answer": 0,
+  "explanation": "The inferior alveolar nerve, a branch of the mandibular nerve, supplies the lower teeth.",
+  "explanation_ne": "इन्फेरियर एल्भियोलर स्नायु, म्यान्डिबुलर स्नायुको शाखा, तल्लो दाँतलाई संवेदना दिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-054",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which nerve supplies sensation to the upper teeth?",
+  "question_ne": "माथिल्लो दाँतलाई संवेदना दिने स्नायु कुन हो?",
+  "options": [
+   "Inferior alveolar nerve",
+   "Superior alveolar nerves",
+   "Facial nerve",
+   "Glossopharyngeal nerve"
+  ],
+  "options_ne": [
+   "इन्फेरियर एल्भियोलर स्नायु",
+   "सुपेरियर एल्भियोलर स्नायुहरू",
+   "फेसियल स्नायु",
+   "ग्लोसोफ्यारिन्जियल स्नायु"
+  ],
+  "answer": 1,
+  "explanation": "The superior alveolar nerves, branches of the maxillary nerve, supply the upper teeth.",
+  "explanation_ne": "सुपेरियर एल्भियोलर स्नायुहरू, म्याक्सिलरी स्नायुका शाखा, माथिल्लो दाँतलाई संवेदना दिन्छन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-055",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Gum bleeding on brushing is most often an early sign of what?",
+  "question_ne": "ब्रस गर्दा गिजाबाट रगत बग्नु प्रायः कुनको प्रारम्भिक संकेत हो?",
+  "options": [
+   "Oral cancer",
+   "Tooth decay",
+   "Gingivitis",
+   "Vitamin D deficiency"
+  ],
+  "options_ne": [
+   "मुखको क्यान्सर",
+   "दाँत कुहिनु",
+   "जिन्जिभाइटिस",
+   "भिटामिन डी को कमी"
+  ],
+  "answer": 2,
+  "explanation": "Bleeding gums on brushing are most often an early sign of gingivitis from plaque build-up.",
+  "explanation_ne": "ब्रस गर्दा गिजाबाट रगत बग्नु प्रायः प्लाक जमेर हुने जिन्जिभाइटिसको प्रारम्भिक संकेत हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-056",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which dental disease is characterised by deep periodontal pockets?",
+  "question_ne": "दाँतको कुन रोगमा गहिरो पेरियोडोन्टल पकेट बन्छ?",
+  "options": [
+   "Pulpitis",
+   "Gingivitis",
+   "Dental caries",
+   "Periodontitis"
+  ],
+  "options_ne": [
+   "पल्पाइटिस",
+   "जिन्जिभाइटिस",
+   "दन्त क्यारिज",
+   "पेरियोडोन्टाइटिस"
+  ],
+  "answer": 3,
+  "explanation": "Periodontitis causes deep periodontal pockets as attachment and bone are lost around the tooth.",
+  "explanation_ne": "पेरियोडोन्टाइटिसमा दाँत वरपर अडान र हाड गुम्दा गहिरो पेरियोडोन्टल पकेट बन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-057",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Dental Hygiene",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "A dental hygienist's main role in preventive care is what?",
+  "question_ne": "निवारक हेरचाहमा दन्त हाइजिनिस्टको मुख्य भूमिका के हो?",
+  "options": [
+   "Cleaning teeth, scaling and oral-health education",
+   "Extracting all teeth",
+   "Prescribing antibiotics alone",
+   "Performing root canals"
+  ],
+  "options_ne": [
+   "दाँत सफा गर्ने, स्केलिङ र मौखिक स्वास्थ्य शिक्षा",
+   "सबै दाँत उखेल्ने",
+   "केवल एन्टिबायोटिक लेख्ने",
+   "रूट क्यानल गर्ने"
+  ],
+  "answer": 0,
+  "explanation": "A dental hygienist focuses on preventive care: cleaning, scaling, polishing and teaching oral hygiene.",
+  "explanation_ne": "दन्त हाइजिनिस्टले निवारक हेरचाहमा ध्यान दिन्छन्: सफाइ, स्केलिङ, पालिस र मौखिक सरसफाइ सिकाउने।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-058",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Dental Hygiene",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which council licenses dental hygienists in Nepal?",
+  "question_ne": "नेपालमा दन्त हाइजिनिस्टलाई कुन परिषद्ले लाइसेन्स दिन्छ?",
+  "options": [
+   "Nepal Medical Council",
+   "Nepal Health Professional Council (NHPC)",
+   "Nepal Nursing Council",
+   "Nepal Pharmacy Council"
+  ],
+  "options_ne": [
+   "नेपाल मेडिकल काउन्सिल",
+   "नेपाल स्वास्थ्य व्यावसायी परिषद् (NHPC)",
+   "नेपाल नर्सिङ काउन्सिल",
+   "नेपाल फार्मेसी काउन्सिल"
+  ],
+  "answer": 1,
+  "explanation": "The Nepal Health Professional Council (NHPC) licenses dental hygienists and other allied health professionals.",
+  "explanation_ne": "नेपाल स्वास्थ्य व्यावसायी परिषद् (NHPC) ले दन्त हाइजिनिस्ट र अन्य सम्बद्ध स्वास्थ्य व्यावसायीलाई लाइसेन्स दिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-060",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which toothpaste ingredient helps remineralise early caries?",
+  "question_ne": "प्रारम्भिक क्यारिजलाई पुनः खनिजीकरण गर्न टुथपेस्टको कुन सामग्रीले सहयोग गर्छ?",
+  "options": [
+   "Sugar",
+   "Charcoal",
+   "Baking soda alone",
+   "Fluoride"
+  ],
+  "options_ne": [
+   "चिनी",
+   "चारकोल",
+   "केवल बेकिङ सोडा",
+   "फ्लोराइड"
+  ],
+  "answer": 3,
+  "explanation": "Fluoride promotes remineralisation of early enamel lesions and makes enamel more acid-resistant.",
+  "explanation_ne": "फ्लोराइडले प्रारम्भिक इनामेल घाउको पुनः खनिजीकरण बढाउँछ र इनामेललाई एसिडप्रति बढी प्रतिरोधी बनाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-061",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Sugar-free chewing gum after meals helps oral health mainly by doing what?",
+  "question_ne": "खानापछि चिनीमुक्त च्युइङ गमले मौखिक स्वास्थ्यमा मुख्यतया के गरेर सहयोग गर्छ?",
+  "options": [
+   "Stimulating saliva flow",
+   "Whitening teeth instantly",
+   "Killing all bacteria",
+   "Replacing brushing"
+  ],
+  "options_ne": [
+   "र्‍यालको प्रवाह बढाएर",
+   "दाँत तुरुन्तै सेतो बनाएर",
+   "सबै जीवाणु मारेर",
+   "ब्रसको विकल्प बनेर"
+  ],
+  "answer": 0,
+  "explanation": "Sugar-free gum stimulates saliva, which neutralises acid and helps remineralise enamel.",
+  "explanation_ne": "चिनीमुक्त गमले र्‍याल बढाउँछ, जसले एसिडलाई तटस्थ गर्छ र इनामेलको पुनः खनिजीकरणमा सहयोग गर्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-063",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The eruption of the first deciduous tooth usually occurs at about what age?",
+  "question_ne": "पहिलो दूधे दाँत प्रायः कति उमेरमा निस्कन्छ?",
+  "options": [
+   "12 months",
+   "2 months",
+   "6 months",
+   "18 months"
+  ],
+  "options_ne": [
+   "१२ महिना",
+   "२ महिना",
+   "६ महिना",
+   "१८ महिना"
+  ],
+  "answer": 2,
+  "explanation": "The first deciduous tooth usually erupts at about 6 months of age.",
+  "explanation_ne": "पहिलो दूधे दाँत प्रायः करिब ६ महिनाको उमेरमा निस्कन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-064",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "All deciduous teeth have usually erupted by about what age?",
+  "question_ne": "सबै दूधे दाँत प्रायः कति उमेरसम्म निस्किसक्छन्?",
+  "options": [
+   "6 years",
+   "1 year",
+   "5 years",
+   "2–3 years"
+  ],
+  "options_ne": [
+   "६ वर्ष",
+   "१ वर्ष",
+   "५ वर्ष",
+   "२–३ वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "All 20 deciduous teeth have usually erupted by about 2–3 years of age.",
+  "explanation_ne": "सबै २० दूधे दाँत प्रायः २–३ वर्षको उमेरसम्म निस्किसक्छन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-065",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which surface of a tooth faces the midline?",
+  "question_ne": "दाँतको कुन सतह मध्यरेखातर्फ हुन्छ?",
+  "options": [
+   "Mesial surface",
+   "Distal surface",
+   "Buccal surface",
+   "Lingual surface"
+  ],
+  "options_ne": [
+   "मेसियल सतह",
+   "डिस्टल सतह",
+   "बुकल सतह",
+   "लिङ्गुअल सतह"
+  ],
+  "answer": 0,
+  "explanation": "The mesial surface faces the midline of the dental arch; the distal surface faces away from it.",
+  "explanation_ne": "मेसियल सतह दन्त चापको मध्यरेखातर्फ हुन्छ; डिस्टल सतह त्यसबाट टाढातर्फ हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-066",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A tooth that fails to erupt and remains in the jaw is called what?",
+  "question_ne": "ननिस्कीकन बङ्गारामै रहने दाँतलाई के भनिन्छ?",
+  "options": [
+   "Deciduous tooth",
+   "Impacted tooth",
+   "Supernumerary tooth",
+   "Fractured tooth"
+  ],
+  "options_ne": [
+   "दूधे दाँत",
+   "इम्प्याक्टेड दाँत",
+   "अतिरिक्त दाँत",
+   "भाँचिएको दाँत"
+  ],
+  "answer": 1,
+  "explanation": "An impacted tooth fails to erupt into its normal position, most commonly a wisdom tooth.",
+  "explanation_ne": "इम्प्याक्टेड दाँत आफ्नो सामान्य स्थानमा निस्कन सक्दैन, प्रायः बुद्धि दाँत हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-067",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "An extra tooth beyond the normal number is called what?",
+  "question_ne": "सामान्य संख्याभन्दा बढी हुने अतिरिक्त दाँतलाई के भनिन्छ?",
+  "options": [
+   "Deciduous tooth",
+   "Impacted tooth",
+   "Supernumerary tooth",
+   "Ectopic tooth"
+  ],
+  "options_ne": [
+   "दूधे दाँत",
+   "इम्प्याक्टेड दाँत",
+   "अतिरिक्त (सुपरन्युमेररी) दाँत",
+   "एक्टोपिक दाँत"
+  ],
+  "answer": 2,
+  "explanation": "A supernumerary tooth is an extra tooth beyond the normal number in the dentition.",
+  "explanation_ne": "सुपरन्युमेररी दाँत सामान्य संख्याभन्दा बढी हुने अतिरिक्त दाँत हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-068",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Congenital absence of one or more teeth is called what?",
+  "question_ne": "जन्मजात रूपमा एक वा बढी दाँत नहुनुलाई के भनिन्छ?",
+  "options": [
+   "Malocclusion",
+   "Hyperdontia",
+   "Ankylosis",
+   "Hypodontia"
+  ],
+  "options_ne": [
+   "म्यालअक्लुजन",
+   "हाइपरडोन्टिया",
+   "एन्किलोसिस",
+   "हाइपोडोन्टिया"
+  ],
+  "answer": 3,
+  "explanation": "Hypodontia is the congenital absence of one or more teeth; complete absence is anodontia.",
+  "explanation_ne": "हाइपोडोन्टिया जन्मजात रूपमा एक वा बढी दाँत नहुनु हो; पूरै नहुनुलाई एनोडोन्टिया भनिन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-069",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which layer of the tooth is sensitive and contains dentinal tubules?",
+  "question_ne": "दाँतको कुन तह संवेदनशील छ र त्यसमा डेन्टिनल ट्युब्युल हुन्छन्?",
+  "options": [
+   "Dentin",
+   "Enamel",
+   "Cementum",
+   "Pulp"
+  ],
+  "options_ne": [
+   "डेन्टिन",
+   "इनामेल",
+   "सिमेन्टम",
+   "पल्प"
+  ],
+  "answer": 0,
+  "explanation": "Dentin is softer than enamel, contains microscopic tubules, and is sensitive when exposed.",
+  "explanation_ne": "डेन्टिन इनामेलभन्दा नरम हुन्छ, त्यसमा सूक्ष्म नली हुन्छन् र खुला हुँदा संवेदनशील हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-070",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Pathology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Dentin hypersensitivity is most often triggered by what?",
+  "question_ne": "डेन्टिन हाइपरसेन्सिटिभिटी प्रायः के ले ट्रिगर हुन्छ?",
+  "options": [
+   "Brushing with fluoride",
+   "Cold, hot, sweet or acidic stimuli on exposed dentin",
+   "Eating vegetables",
+   "Drinking water"
+  ],
+  "options_ne": [
+   "फ्लोराइडले ब्रस गर्नु",
+   "खुला डेन्टिनमा चिसो, तातो, गुलियो वा अम्लीय उत्तेजना",
+   "तरकारी खानु",
+   "पानी पिउनु"
+  ],
+  "answer": 1,
+  "explanation": "Exposed dentin reacts to cold, heat, sweet or acidic stimuli, causing sharp, short pain.",
+  "explanation_ne": "खुला डेन्टिन चिसो, तातो, गुलियो वा अम्लीय उत्तेजनामा प्रतिक्रिया दिन्छ र तीखो, छोटो पीडा हुन्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-071",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Infection Control",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which sterilisation method is standard for dental instruments?",
+  "question_ne": "दन्त उपकरणका लागि मानक निर्जलीकरण विधि कुन हो?",
+  "options": [
+   "Sun drying",
+   "Washing with water only",
+   "Autoclaving (steam under pressure)",
+   "Wiping with cloth"
+  ],
+  "options_ne": [
+   "घाममा सुकाउनु",
+   "केवल पानीले धुनु",
+   "अटोक्लेभिङ (दबाबमा बाफ)",
+   "कपडाले पुछ्नु"
+  ],
+  "answer": 2,
+  "explanation": "Autoclaving — steam sterilisation under pressure — is the standard method for dental instruments.",
+  "explanation_ne": "अटोक्लेभिङ — दबाबमा बाफद्वारा निर्जलीकरण — दन्त उपकरणका लागि मानक विधि हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-072",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Infection Control",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Why must dental staff wear gloves, mask and eye protection?",
+  "question_ne": "दन्त कर्मचारीले पञ्जा, मास्क र आँखा सुरक्षा किन लगाउनुपर्छ?",
+  "options": [
+   "To avoid sunlight",
+   "To look professional only",
+   "To keep hands warm",
+   "To prevent cross-infection"
+  ],
+  "options_ne": [
+   "घामबाट बच्न",
+   "केवल व्यावसायिक देखिन",
+   "हात न्यानो राख्न",
+   "क्रस-संक्रमण रोक्न"
+  ],
+  "answer": 3,
+  "explanation": "Gloves, mask and eye protection are standard precautions against cross-infection between patients and staff.",
+  "explanation_ne": "पञ्जा, मास्क र आँखा सुरक्षा बिरामी र कर्मचारीबीच क्रस-संक्रमण रोक्ने मानक सावधानी हुन्।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-073",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which mouthwash ingredient is effective against plaque and gingivitis?",
+  "question_ne": "प्लाक र जिन्जिभाइटिस विरुद्ध प्रभावकारी माउथवास सामग्री कुन हो?",
+  "options": [
+   "Chlorhexidine",
+   "Sugar",
+   "Alcohol only",
+   "Salt only"
+  ],
+  "options_ne": [
+   "क्लोरहेक्सिडिन",
+   "चिनी",
+   "केवल अल्कोहल",
+   "केवल नुन"
+  ],
+  "answer": 0,
+  "explanation": "Chlorhexidine is an antiseptic mouthwash effective against plaque bacteria and gingivitis.",
+  "explanation_ne": "क्लोरहेक्सिडिन प्लाक जीवाणु र जिन्जिभाइटिस विरुद्ध प्रभावकारी एन्टिसेप्टिक माउथवास हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-074",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Periodontology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "What is the main cause of tooth loss in adults?",
+  "question_ne": "वयस्कमा दाँत गुम्नुको मुख्य कारण के हो?",
+  "options": [
+   "Tooth whitening",
+   "Periodontal (gum) disease",
+   "Braces",
+   "Fluoride use"
+  ],
+  "options_ne": [
+   "दाँत सेतो बनाउनु",
+   "पेरियोडोन्टल (गिजा) रोग",
+   "ब्रेस",
+   "फ्लोराइड प्रयोग"
+  ],
+  "answer": 1,
+  "explanation": "Periodontal disease is the main cause of tooth loss in adults, ahead of caries.",
+  "explanation_ne": "पेरियोडोन्टल रोग वयस्कमा दाँत गुम्नुको मुख्य कारण हो, क्यारिजभन्दा अगाडि।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-075",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Prosthodontics",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "A fixed replacement for a missing tooth that is cemented to neighbouring teeth is called what?",
+  "question_ne": "हराएको दाँतको लागि छिमेकी दाँतमा सिमेन्ट गरिने स्थिर प्रतिस्थापनलाई के भनिन्छ?",
+  "options": [
+   "Crown",
+   "Denture",
+   "Bridge",
+   "Implant"
+  ],
+  "options_ne": [
+   "क्राउन",
+   "डेन्चर",
+   "ब्रिज",
+   "इम्प्लान्ट"
+  ],
+  "answer": 2,
+  "explanation": "A bridge is a fixed prosthesis cemented to neighbouring teeth to replace one or more missing teeth.",
+  "explanation_ne": "ब्रिज छिमेकी दाँतमा सिमेन्ट गरिने स्थिर कृत्रिम दाँत हो जसले एक वा बढी हराएका दाँत प्रतिस्थापन गर्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-076",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Cariology",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which dental condition is a deep hole in the tooth caused by decay?",
+  "question_ne": "क्षयले दाँतमा बनेको गहिरो प्वाल कुन अवस्था हो?",
+  "options": [
+   "Fracture",
+   "Abscess",
+   "Cyst",
+   "Cavity"
+  ],
+  "options_ne": [
+   "फ्र्याक्चर",
+   "एब्सेस",
+   "सिस्ट",
+   "क्याभिटी"
+  ],
+  "answer": 3,
+  "explanation": "A cavity is a hole in the tooth formed when decay destroys enamel and dentin.",
+  "explanation_ne": "क्याभिटी क्षयले इनामेल र डेन्टिन नष्ट गर्दा दाँतमा बन्ने प्वाल हो।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-077",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Preventive Dentistry",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Pit and fissure sealants protect teeth mainly from what?",
+  "question_ne": "पिट र फिसर सिलेन्टले दाँतलाई मुख्यतया के बाट जोगाउँछ?",
+  "options": [
+   "Occlusal caries",
+   "Gum disease",
+   "Tooth fracture",
+   "Bad breath"
+  ],
+  "options_ne": [
+   "अक्लुजल क्यारिज",
+   "गिजाको रोग",
+   "दाँत भाँचिनु",
+   "मुख गन्हाउनु"
+  ],
+  "answer": 0,
+  "explanation": "Sealants fill pits and fissures on chewing surfaces, protecting them from occlusal caries.",
+  "explanation_ne": "सिलेन्टले चपाउने सतहका खाडल भर्छ र अक्लुजल क्यारिजबाट जोगाउँछ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-078",
+  "exam": [
+   "nhpc-dental",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which group of teeth is used for cutting food?",
+  "question_ne": "खाना काट्न कुन समूहका दाँत प्रयोग हुन्छन्?",
+  "options": [
+   "Molars",
+   "Incisors",
+   "Premolars",
+   "Canines"
+  ],
+  "options_ne": [
+   "मोलर",
+   "इन्साइजर",
+   "प्रिमोलर",
+   "क्यानाइन"
+  ],
+  "answer": 1,
+  "explanation": "Incisors have sharp edges for cutting food; canines tear it and molars grind it.",
+  "explanation_ne": "इन्साइजरको धारिलो किनाराले खाना काट्छ; क्यानाइनले च्यात्छ र मोलरले पिस्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "DENT5-079",
+  "exam": [
+   "nhpc-dental"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Dental — Oral Anatomy",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which group of teeth is used for grinding food?",
+  "question_ne": "खाना पिस्न कुन समूहका दाँत प्रयोग हुन्छन्?",
+  "options": [
+   "Canines",
+   "Incisors",
+   "Molars",
+   "Premolars only"
+  ],
+  "options_ne": [
+   "क्यानाइन",
+   "इन्साइजर",
+   "मोलर",
+   "केवल प्रिमोलर"
+  ],
+  "answer": 2,
+  "explanation": "Molars have broad chewing surfaces for grinding food.",
+  "explanation_ne": "मोलरको फराकिलो चपाउने सतहले खाना पिस्छ।",
+  "source": "NHPC Dental Hygiene syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-001",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many doshas are there in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कति दोष छन्?",
+  "options": [
+   "Three",
+   "Two",
+   "Five",
+   "Seven"
+  ],
+  "options_ne": [
+   "तीन",
+   "दुई",
+   "पाँच",
+   "सात"
+  ],
+  "answer": 0,
+  "explanation": "Ayurveda recognises three doshas: Vata, Pitta and Kapha.",
+  "explanation_ne": "आयुर्वेदमा तीन दोष छन्: वात, पित्त र कफ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-003",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Vata dosha is mainly composed of which two elements?",
+  "question_ne": "वात दोष मुख्यतया कुन दुई तत्त्वबाट बनेको छ?",
+  "options": [
+   "Earth and water",
+   "Fire and water",
+   "Air and space (ether)",
+   "Fire and air"
+  ],
+  "options_ne": [
+   "पृथ्वी र जल",
+   "अग्नि र जल",
+   "वायु र आकाश",
+   "अग्नि र वायु"
+  ],
+  "answer": 2,
+  "explanation": "Vata is composed of air (Vayu) and space/ether (Akasha).",
+  "explanation_ne": "वात वायु र आकाशबाट बनेको छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-004",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Pitta dosha is mainly composed of which two elements?",
+  "question_ne": "पित्त दोष मुख्यतया कुन दुई तत्त्वबाट बनेको छ?",
+  "options": [
+   "Earth and fire",
+   "Air and space",
+   "Earth and water",
+   "Fire and water"
+  ],
+  "options_ne": [
+   "पृथ्वी र अग्नि",
+   "वायु र आकाश",
+   "पृथ्वी र जल",
+   "अग्नि र जल"
+  ],
+  "answer": 3,
+  "explanation": "Pitta is composed of fire (Agni) and water (Jala).",
+  "explanation_ne": "पित्त अग्नि र जलबाट बनेको छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-005",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Kapha dosha is mainly composed of which two elements?",
+  "question_ne": "कफ दोष मुख्यतया कुन दुई तत्त्वबाट बनेको छ?",
+  "options": [
+   "Earth and water",
+   "Fire and water",
+   "Air and space",
+   "Fire and earth"
+  ],
+  "options_ne": [
+   "पृथ्वी र जल",
+   "अग्नि र जल",
+   "वायु र आकाश",
+   "अग्नि र पृथ्वी"
+  ],
+  "answer": 0,
+  "explanation": "Kapha is composed of earth (Prithvi) and water (Jala).",
+  "explanation_ne": "कफ पृथ्वी र जलबाट बनेको छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-006",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many Panchamahabhutas are there in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कति पञ्चमहाभूत छन्?",
+  "options": [
+   "Three",
+   "Five",
+   "Seven",
+   "Nine"
+  ],
+  "options_ne": [
+   "तीन",
+   "पाँच",
+   "सात",
+   "नौ"
+  ],
+  "answer": 1,
+  "explanation": "The five great elements are Akasha (space), Vayu (air), Agni (fire), Jala (water) and Prithvi (earth).",
+  "explanation_ne": "पाँच महाभूत आकाश, वायु, अग्नि, जल र पृथ्वी हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-007",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of these is NOT one of the Panchamahabhutas?",
+  "question_ne": "यीमध्ये कुन पञ्चमहाभूत होइन?",
+  "options": [
+   "Vayu",
+   "Akasha",
+   "Ojas",
+   "Agni"
+  ],
+  "options_ne": [
+   "वायु",
+   "आकाश",
+   "ओजस",
+   "अग्नि"
+  ],
+  "answer": 2,
+  "explanation": "Ojas is the essence of the dhatus, not one of the five great elements.",
+  "explanation_ne": "ओजस धातुहरूको सार हो, पाँच महाभूतमध्ये एक होइन।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-008",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many procedures are there in Panchakarma?",
+  "question_ne": "पञ्चकर्ममा कति प्रक्रिया छन्?",
+  "options": [
+   "Four",
+   "Three",
+   "Seven",
+   "Five"
+  ],
+  "options_ne": [
+   "चार",
+   "तीन",
+   "सात",
+   "पाँच"
+  ],
+  "answer": 3,
+  "explanation": "Panchakarma has five procedures: Vamana, Virechana, Basti, Nasya and Raktamokshana.",
+  "explanation_ne": "पञ्चकर्ममा पाँच प्रक्रिया छन्: वमन, विरेचन, बस्ति, नस्य र रक्तमोक्षण।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-009",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Panchakarma procedure is therapeutic emesis (induced vomiting)?",
+  "question_ne": "कुन पञ्चकर्म प्रक्रिया उपचारात्मक वमन (बान्ता गराउने) हो?",
+  "options": [
+   "Vamana",
+   "Virechana",
+   "Basti",
+   "Nasya"
+  ],
+  "options_ne": [
+   "वमन",
+   "विरेचन",
+   "बस्ति",
+   "नस्य"
+  ],
+  "answer": 0,
+  "explanation": "Vamana is therapeutic emesis, used mainly for Kapha disorders.",
+  "explanation_ne": "वमन उपचारात्मक बान्ता हो, मुख्यतया कफ विकारमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-010",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Panchakarma procedure is therapeutic purgation?",
+  "question_ne": "कुन पञ्चकर्म प्रक्रिया उपचारात्मक विरेचन (झाडा गराउने) हो?",
+  "options": [
+   "Vamana",
+   "Virechana",
+   "Basti",
+   "Raktamokshana"
+  ],
+  "options_ne": [
+   "वमन",
+   "विरेचन",
+   "बस्ति",
+   "रक्तमोक्षण"
+  ],
+  "answer": 1,
+  "explanation": "Virechana is therapeutic purgation, used mainly for Pitta disorders.",
+  "explanation_ne": "विरेचन उपचारात्मक झाडा गराउने प्रक्रिया हो, मुख्यतया पित्त विकारमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-011",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Panchakarma procedure is a medicated enema?",
+  "question_ne": "कुन पञ्चकर्म प्रक्रिया औषधीय बस्ति (एनिमा) हो?",
+  "options": [
+   "Vamana",
+   "Nasya",
+   "Basti",
+   "Virechana"
+  ],
+  "options_ne": [
+   "वमन",
+   "नस्य",
+   "बस्ति",
+   "विरेचन"
+  ],
+  "answer": 2,
+  "explanation": "Basti is the administration of medicated oil or decoction through the rectum, used mainly for Vata disorders.",
+  "explanation_ne": "बस्ति मलद्वारबाट औषधीय तेल वा काढा दिने प्रक्रिया हो, मुख्यतया वात विकारमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-012",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Panchakarma procedure is administered through the nose?",
+  "question_ne": "कुन पञ्चकर्म प्रक्रिया नाकबाट दिइन्छ?",
+  "options": [
+   "Raktamokshana",
+   "Basti",
+   "Vamana",
+   "Nasya"
+  ],
+  "options_ne": [
+   "रक्तमोक्षण",
+   "बस्ति",
+   "वमन",
+   "नस्य"
+  ],
+  "answer": 3,
+  "explanation": "Nasya is the administration of medicine through the nose, used for diseases above the neck.",
+  "explanation_ne": "नस्य नाकबाट औषधि दिने प्रक्रिया हो, घाँटीभन्दा माथिका रोगमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-013",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Panchakarma",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Panchakarma procedure is bloodletting?",
+  "question_ne": "कुन पञ्चकर्म प्रक्रिया रक्तमोक्षण (रगत निकाल्ने) हो?",
+  "options": [
+   "Raktamokshana",
+   "Vamana",
+   "Basti",
+   "Nasya"
+  ],
+  "options_ne": [
+   "रक्तमोक्षण",
+   "वमन",
+   "बस्ति",
+   "नस्य"
+  ],
+  "answer": 0,
+  "explanation": "Raktamokshana is therapeutic bloodletting, used for blood-related and Pitta disorders.",
+  "explanation_ne": "रक्तमोक्षण उपचारात्मक रूपमा रगत निकाल्ने प्रक्रिया हो, रक्त र पित्त विकारमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-014",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Classical Texts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The classical text Charaka Samhita mainly deals with which branch?",
+  "question_ne": "चरक संहिता मुख्यतया कुन शाखासँग सम्बन्धित छ?",
+  "options": [
+   "Shalya Tantra (surgery)",
+   "Kaya Chikitsa (internal medicine)",
+   "Shalakya Tantra",
+   "Kaumarabhritya"
+  ],
+  "options_ne": [
+   "शल्य तन्त्र (शल्यक्रिया)",
+   "काय चिकित्सा (आन्तरिक चिकित्सा)",
+   "शालाक्य तन्त्र",
+   "कौमारभृत्य"
+  ],
+  "answer": 1,
+  "explanation": "Charaka Samhita is the foremost text of Kaya Chikitsa, the internal medicine branch of Ayurveda.",
+  "explanation_ne": "चरक संहिता काय चिकित्सा, आयुर्वेदको आन्तरिक चिकित्सा शाखाको प्रमुख ग्रन्थ हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-015",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Classical Texts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The classical text Sushruta Samhita mainly deals with which branch?",
+  "question_ne": "सुश्रुत संहिता मुख्यतया कुन शाखासँग सम्बन्धित छ?",
+  "options": [
+   "Rasayana",
+   "Kaya Chikitsa",
+   "Shalya Tantra (surgery)",
+   "Vajikarana"
+  ],
+  "options_ne": [
+   "रसायन",
+   "काय चिकित्सा",
+   "शल्य तन्त्र (शल्यक्रिया)",
+   "वाजीकरण"
+  ],
+  "answer": 2,
+  "explanation": "Sushruta Samhita is the foremost text of Shalya Tantra (surgery); Sushruta is regarded as the father of surgery.",
+  "explanation_ne": "सुश्रुत संहिता शल्य तन्त्रको प्रमुख ग्रन्थ हो; सुश्रुतलाई शल्यक्रियाका पिता मानिन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-016",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Classical Texts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Who is regarded as the father of Ayurvedic medicine (Kaya Chikitsa)?",
+  "question_ne": "आयुर्वेदिक चिकित्सा (काय चिकित्सा) का पिता कसलाई मानिन्छ?",
+  "options": [
+   "Bhela",
+   "Sushruta",
+   "Vagbhata",
+   "Charaka"
+  ],
+  "options_ne": [
+   "भेल",
+   "सुश्रुत",
+   "वाग्भट",
+   "चरक"
+  ],
+  "answer": 3,
+  "explanation": "Charaka, author of Charaka Samhita, is regarded as the father of Ayurvedic medicine.",
+  "explanation_ne": "चरक संहिताका लेखक चरकलाई आयुर्वेदिक चिकित्साका पिता मानिन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-017",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Classical Texts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Ashtanga Hridaya was written by whom?",
+  "question_ne": "अष्टाङ्ग हृदय कसले लेखेका हुन्?",
+  "options": [
+   "Vagbhata",
+   "Charaka",
+   "Sushruta",
+   "Kashyapa"
+  ],
+  "options_ne": [
+   "वाग्भट",
+   "चरक",
+   "सुश्रुत",
+   "कश्यप"
+  ],
+  "answer": 0,
+  "explanation": "Ashtanga Hridaya, one of the three great texts (Brihat Trayi), was written by Vagbhata.",
+  "explanation_ne": "अष्टाङ्ग हृदय, तीन महान ग्रन्थ (बृहत् त्रयी) मध्ये एक, वाग्भटले लेखेका हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-018",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Classical Texts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The three great texts of Ayurveda (Brihat Trayi) are which?",
+  "question_ne": "आयुर्वेदका तीन महान ग्रन्थ (बृहत् त्रयी) कुन हुन्?",
+  "options": [
+   "Rigveda, Yajurveda, Samaveda",
+   "Charaka Samhita, Sushruta Samhita, Ashtanga Hridaya",
+   "Charaka Samhita, Bhela Samhita, Kashyapa Samhita",
+   "Sushruta Samhita, Ashtanga Sangraha, Madhava Nidana"
+  ],
+  "options_ne": [
+   "ऋग्वेद, यजुर्वेद, सामवेद",
+   "चरक संहिता, सुश्रुत संहिता, अष्टाङ्ग हृदय",
+   "चरक संहिता, भेल संहिता, कश्यप संहिता",
+   "सुश्रुत संहिता, अष्टाङ्ग संग्रह, माधव निदान"
+  ],
+  "answer": 1,
+  "explanation": "The Brihat Trayi are Charaka Samhita, Sushruta Samhita and Ashtanga Hridaya.",
+  "explanation_ne": "बृहत् त्रयी चरक संहिता, सुश्रुत संहिता र अष्टाङ्ग हृदय हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-019",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Who is the god of Ayurveda?",
+  "question_ne": "आयुर्वेदका देवता को हुन्?",
+  "options": [
+   "Agni",
+   "Indra",
+   "Dhanvantari",
+   "Vishnu"
+  ],
+  "options_ne": [
+   "अग्नि",
+   "इन्द्र",
+   "धन्वन्तरि",
+   "विष्णु"
+  ],
+  "answer": 2,
+  "explanation": "Dhanvantari is regarded as the god of Ayurveda; Ayurveda Day is observed on Dhanteras.",
+  "explanation_ne": "धन्वन्तरिलाई आयुर्वेदका देवता मानिन्छ; आयुर्वेद दिवस धनतेरसमा मनाइन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-020",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Ayurveda Day is observed on which day?",
+  "question_ne": "आयुर्वेद दिवस कुन दिन मनाइन्छ?",
+  "options": [
+   "Janmashtami",
+   "Diwali",
+   "Holi",
+   "Dhanteras"
+  ],
+  "options_ne": [
+   "जन्माष्टमी",
+   "दिवाली",
+   "होली",
+   "धनतेरस"
+  ],
+  "answer": 3,
+  "explanation": "Ayurveda Day is observed every year on Dhanteras (Dhanvantari Jayanti).",
+  "explanation_ne": "आयुर्वेद दिवस हरेक वर्ष धनतेरस (धन्वन्तरि जयन्ती) मा मनाइन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-021",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many Dhatus (body tissues) are there in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कति धातु (शरीरका तन्तु) छन्?",
+  "options": [
+   "Seven",
+   "Three",
+   "Five",
+   "Nine"
+  ],
+  "options_ne": [
+   "सात",
+   "तीन",
+   "पाँच",
+   "नौ"
+  ],
+  "answer": 0,
+  "explanation": "The seven dhatus are Rasa, Rakta, Mamsa, Meda, Asthi, Majja and Shukra.",
+  "explanation_ne": "सात धातु रस, रक्त, मांस, मेद, अस्थि, मज्जा र शुक्र हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-022",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which is the first Dhatu formed after digestion?",
+  "question_ne": "पाचनपछि सबैभन्दा पहिले बन्ने धातु कुन हो?",
+  "options": [
+   "Rakta",
+   "Rasa",
+   "Mamsa",
+   "Shukra"
+  ],
+  "options_ne": [
+   "रक्त",
+   "रस",
+   "मांस",
+   "शुक्र"
+  ],
+  "answer": 1,
+  "explanation": "Rasa (plasma/nutrient fluid) is the first dhatu formed from digested food.",
+  "explanation_ne": "रस (प्लाज्मा/पोषक तरल) पचेको खानाबाट बन्ने पहिलो धातु हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-023",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which Dhatu is bone tissue?",
+  "question_ne": "हाडको तन्तु कुन धातु हो?",
+  "options": [
+   "Meda",
+   "Majja",
+   "Asthi",
+   "Mamsa"
+  ],
+  "options_ne": [
+   "मेद",
+   "मज्जा",
+   "अस्थि",
+   "मांस"
+  ],
+  "answer": 2,
+  "explanation": "Asthi is the bone tissue; Majja is bone marrow and nervous tissue.",
+  "explanation_ne": "अस्थि हाडको तन्तु हो; मज्जा हाडको मासी र स्नायु तन्तु हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-024",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Agni in Ayurveda refers to what?",
+  "question_ne": "आयुर्वेदमा अग्नि भनेको के हो?",
+  "options": [
+   "Appetite only",
+   "Body heat only",
+   "Fever",
+   "Digestive fire / metabolic power"
+  ],
+  "options_ne": [
+   "केवल भोक",
+   "केवल शरीरको ताप",
+   "ज्वरो",
+   "पाचन अग्नि / चयापचय शक्ति"
+  ],
+  "answer": 3,
+  "explanation": "Agni is the digestive and metabolic fire; balanced Agni is essential for health, and weak Agni produces Ama (toxins).",
+  "explanation_ne": "अग्नि पाचन र चयापचय शक्ति हो; सन्तुलित अग्नि स्वास्थ्यका लागि आवश्यक छ, कमजोर अग्निले आम (विष) बनाउँछ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-025",
+  "exam": [
+   "nhpc-ayurveda",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Ama in Ayurveda refers to what?",
+  "question_ne": "आयुर्वेदमा आम भनेको के हो?",
+  "options": [
+   "Undigested toxic residue",
+   "Digestive enzyme",
+   "Healthy tissue",
+   "Body fat"
+  ],
+  "options_ne": [
+   "नपचेको विषाक्त अवशेष",
+   "पाचन इन्जाइम",
+   "स्वस्थ तन्तु",
+   "शरीरको बोसो"
+  ],
+  "answer": 0,
+  "explanation": "Ama is undigested, toxic residue from weak digestion; it is considered a root cause of disease.",
+  "explanation_ne": "आम कमजोर पाचनबाट बनेको नपचेको विषाक्त अवशेष हो; यसलाई रोगको मूल कारण मानिन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-026",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Prakriti in Ayurveda means what?",
+  "question_ne": "आयुर्वेदमा प्रकृति भनेको के हो?",
+  "options": [
+   "A disease",
+   "A person's innate constitution (dosha balance at birth)",
+   "A medicine",
+   "A season"
+  ],
+  "options_ne": [
+   "एउटा रोग",
+   "व्यक्तिको जन्मजात प्रकृति (जन्मदेखिको दोष सन्तुलन)",
+   "एउटा औषधि",
+   "एउटा ऋतु"
+  ],
+  "answer": 1,
+  "explanation": "Prakriti is a person's innate constitution, determined by the dosha balance at birth.",
+  "explanation_ne": "प्रकृति व्यक्तिको जन्मजात संरचना हो, जन्मदेखिको दोष सन्तुलनले निर्धारण हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-027",
+  "exam": [
+   "nhpc-ayurveda",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Lifestyle",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Dinacharya in Ayurveda means what?",
+  "question_ne": "आयुर्वेदमा दिनचर्या भनेको के हो?",
+  "options": [
+   "Diet only",
+   "Seasonal routine",
+   "Daily routine for health",
+   "Medicine timing"
+  ],
+  "options_ne": [
+   "केवल आहार",
+   "मौसमी दिनचर्या",
+   "स्वास्थ्यका लागि दैनिक दिनचर्या",
+   "केवल औषधि समय"
+  ],
+  "answer": 2,
+  "explanation": "Dinacharya is the daily routine — waking, cleansing, exercise, meals and sleep — recommended for health.",
+  "explanation_ne": "दिनचर्या स्वास्थ्यका लागि सिफारिस गरिएको दैनिक दिनचर्या हो — उठ्ने, सफाइ, व्यायाम, खाना र निद्रा।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-030",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Ashwagandha (Withania somnifera) is mainly used in Ayurveda as what?",
+  "question_ne": "अश्वगन्धा (Withania somnifera) आयुर्वेदमा मुख्यतया के रूपमा प्रयोग हुन्छ?",
+  "options": [
+   "A purgative",
+   "An adaptogen and rejuvenative (Rasayana)",
+   "An emetic",
+   "A blood thinner"
+  ],
+  "options_ne": [
+   "विरेचक",
+   "एडाप्टोजेन र रसायन (कायाकल्प)",
+   "वमनकारक",
+   "रगत पातलो पार्ने"
+  ],
+  "answer": 1,
+  "explanation": "Ashwagandha is a Rasayana (rejuvenative) and adaptogen, used for strength, stress and vitality.",
+  "explanation_ne": "अश्वगन्धा रसायन (कायाकल्प) र एडाप्टोजेन हो, बल, तनाव र जीवनशक्तिका लागि प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-031",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Turmeric (Curcuma longa) contains which active compound?",
+  "question_ne": "बेसार (Curcuma longa) मा कुन सक्रिय यौगिक हुन्छ?",
+  "options": [
+   "Withanolide",
+   "Piperine",
+   "Curcumin",
+   "Gingerol"
+  ],
+  "options_ne": [
+   "विथानोलाइड",
+   "पिपेरिन",
+   "कुर्कुमिन",
+   "जिन्जेरोल"
+  ],
+  "answer": 2,
+  "explanation": "Turmeric's active compound is curcumin, known for anti-inflammatory action.",
+  "explanation_ne": "बेसारको सक्रिय यौगिक कुर्कुमिन हो, जुन सूजनरोधी गुणका लागि जानिन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-032",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Tulsi (Ocimum sanctum) is known in Ayurveda as what?",
+  "question_ne": "तुलसी (Ocimum sanctum) आयुर्वेदमा के भनेर चिनिन्छ?",
+  "options": [
+   "A root vegetable",
+   "A poison",
+   "A food grain",
+   "Holy Basil, a sacred and medicinal plant"
+  ],
+  "options_ne": [
+   "एक जरेबाली",
+   "एक विष",
+   "एक खाद्यान्न",
+   "पवित्र तुलसी, पवित्र र औषधीय वनस्पति"
+  ],
+  "answer": 3,
+  "explanation": "Tulsi (Holy Basil) is a sacred plant in Ayurveda, used for respiratory and immune health.",
+  "explanation_ne": "तुलसी (पवित्र तुलसी) आयुर्वेदमा पवित्र वनस्पति हो, श्वासप्रश्वास र प्रतिरक्षा स्वास्थ्यका लागि प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-033",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Neem (Azadirachta indica) is mainly valued in Ayurveda for which property?",
+  "question_ne": "निम (Azadirachta indica) आयुर्वेदमा मुख्यतया कुन गुणका लागि मूल्यवान छ?",
+  "options": [
+   "Antibacterial and skin-purifying",
+   "Sweet taste",
+   "Sleep-inducing",
+   "Bone strengthening only"
+  ],
+  "options_ne": [
+   "जीवाणुरोधी र छाला शुद्ध गर्ने",
+   "गुलियो स्वाद",
+   "निद्रा लगाउने",
+   "केवल हाड बलियो बनाउने"
+  ],
+  "answer": 0,
+  "explanation": "Neem is valued for its antibacterial, antifungal and blood-purifying properties, especially for skin disorders.",
+  "explanation_ne": "निम जीवाणुरोधी, फंगलरोधी र रगत शुद्ध गर्ने गुणका लागि मूल्यवान छ, विशेष गरी छालाका रोगमा।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-034",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Brahmi (Bacopa monnieri) is mainly used in Ayurveda for what?",
+  "question_ne": "ब्राह्मी (Bacopa monnieri) आयुर्वेदमा मुख्यतया केका लागि प्रयोग हुन्छ?",
+  "options": [
+   "Digestion only",
+   "Memory and brain health (Medhya Rasayana)",
+   "Skin whitening",
+   "Bone fracture"
+  ],
+  "options_ne": [
+   "केवल पाचन",
+   "स्मरणशक्ति र मस्तिष्क स्वास्थ्य (मेध्य रसायन)",
+   "छाला गोरो बनाउने",
+   "हाड भाँचिनु"
+  ],
+  "answer": 1,
+  "explanation": "Brahmi is a Medhya Rasayana, used to support memory, intellect and brain health.",
+  "explanation_ne": "ब्राह्मी मेध्य रसायन हो, स्मरणशक्ति, बुद्धि र मस्तिष्क स्वास्थ्यका लागि प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-035",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Amla (Emblica officinalis) is the richest natural source of which vitamin?",
+  "question_ne": "अमला (Emblica officinalis) कुन भिटामिनको सबैभन्दा धनी प्राकृतिक स्रोत हो?",
+  "options": [
+   "Vitamin B12",
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin A"
+  ],
+  "options_ne": [
+   "भिटामिन बी१२",
+   "भिटामिन डी",
+   "भिटामिन सी",
+   "भिटामिन ए"
+  ],
+  "answer": 2,
+  "explanation": "Amla is one of the richest natural sources of vitamin C and is a key Rasayana fruit.",
+  "explanation_ne": "अमला भिटामिन सी को सबैभन्दा धनी प्राकृतिक स्रोतमध्ये एक हो र प्रमुख रसायन फल हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-036",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Guduchi (Tinospora cordifolia) is known in Ayurveda as what?",
+  "question_ne": "गुडूची (Tinospora cordifolia) आयुर्वेदमा के भनेर चिनिन्छ?",
+  "options": [
+   "A laxative only",
+   "A poison",
+   "A sleep medicine",
+   "Amrita (nectar) — an immunomodulator"
+  ],
+  "options_ne": [
+   "केवल विरेचक",
+   "एक विष",
+   "निद्राको औषधि",
+   "अमृत — प्रतिरक्षा नियन्त्रक"
+  ],
+  "answer": 3,
+  "explanation": "Guduchi (Giloy) is called Amrita, the nectar, and is used as an immunomodulator and Rasayana.",
+  "explanation_ne": "गुडूची (गिलोय) लाई अमृत भनिन्छ र यो प्रतिरक्षा नियन्त्रक र रसायनका रूपमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-037",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Shatavari (Asparagus racemosus) is mainly used in Ayurveda for what?",
+  "question_ne": "शतावरी (Asparagus racemosus) आयुर्वेदमा मुख्यतया केका लागि प्रयोग हुन्छ?",
+  "options": [
+   "Women's reproductive and hormonal health",
+   "Bone surgery",
+   "Eye surgery",
+   "Hair colouring"
+  ],
+  "options_ne": [
+   "महिलाको प्रजनन र हार्मोनल स्वास्थ्य",
+   "हाडको शल्यक्रिया",
+   "आँखाको शल्यक्रिया",
+   "कपाल रङ्गाउने"
+  ],
+  "answer": 0,
+  "explanation": "Shatavari is a Rasayana for women's reproductive health, lactation and hormonal balance.",
+  "explanation_ne": "शतावरी महिलाको प्रजनन स्वास्थ्य, दूध उत्पादन र हार्मोनल सन्तुलनका लागि रसायन हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-038",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Ginger (Zingiber officinale) is known in Ayurveda as what?",
+  "question_ne": "अदुवा (Zingiber officinale) आयुर्वेदमा के भनेर चिनिन्छ?",
+  "options": [
+   "A sedative",
+   "A digestive and anti-nausea herb (Deepana)",
+   "A blood thinner only",
+   "A skin bleach"
+  ],
+  "options_ne": [
+   "निद्रा लगाउने औषधि",
+   "पाचन र वान्तारोधी जडीबुटी (दीपन)",
+   "केवल रगत पातलो पार्ने",
+   "छाला गोरो बनाउने"
+  ],
+  "answer": 1,
+  "explanation": "Ginger (Shunthi/Adrak) is a Deepana herb that kindles Agni, aids digestion and relieves nausea.",
+  "explanation_ne": "अदुवा (सुन्थी/अद्रक) दीपन जडीबुटी हो जसले अग्नि बढाउँछ, पाचनमा सहयोग गर्छ र वान्ता कम गर्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-039",
+  "exam": [
+   "nhpc-ayurveda",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many tastes (Rasa) are recognised in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कति रस (स्वाद) मानिन्छन्?",
+  "options": [
+   "Five",
+   "Four",
+   "Six",
+   "Eight"
+  ],
+  "options_ne": [
+   "पाँच",
+   "चार",
+   "छ",
+   "आठ"
+  ],
+  "answer": 2,
+  "explanation": "The six tastes are Madhura (sweet), Amla (sour), Lavana (salty), Katu (pungent), Tikta (bitter) and Kashaya (astringent).",
+  "explanation_ne": "छ रस मधुर (गुलियो), अम्ल (अमिलो), लवण (नुनिलो), कटु (पिरो), तिक्त (तितो) र कषाय (ट्रो) हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-040",
+  "exam": [
+   "nhpc-ayurveda",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which taste (Rasa) increases Kapha most?",
+  "question_ne": "कुन रसले कफ सबैभन्दा बढी बढाउँछ?",
+  "options": [
+   "Kashaya (astringent)",
+   "Katu (pungent)",
+   "Tikta (bitter)",
+   "Madhura (sweet)"
+  ],
+  "options_ne": [
+   "कषाय (ट्रो)",
+   "कटु (पिरो)",
+   "तिक्त (तितो)",
+   "मधुर (गुलियो)"
+  ],
+  "answer": 3,
+  "explanation": "Sweet taste (Madhura) increases Kapha; pungent, bitter and astringent tastes decrease it.",
+  "explanation_ne": "गुलियो स्वाद (मधुर) ले कफ बढाउँछ; पिरो, तितो र ट्रो स्वादले घटाउँछ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-041",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Abhyanga in Ayurveda is what?",
+  "question_ne": "आयुर्वेदमा अभ्यङ्ग के हो?",
+  "options": [
+   "Therapeutic oil massage",
+   "Herbal steam",
+   "Nasal drops",
+   "Bloodletting"
+  ],
+  "options_ne": [
+   "चिकित्सीय तेल मालिस",
+   "जडीबुटी बाफ",
+   "नाकको थोपा",
+   "रक्तमोक्षण"
+  ],
+  "answer": 0,
+  "explanation": "Abhyanga is a full-body massage with warm medicated oil, part of daily routine and Panchakarma preparation.",
+  "explanation_ne": "अभ्यङ्ग न्यानो औषधीय तेलले गरिने पूरै शरीरको मालिस हो, दैनिक दिनचर्या र पञ्चकर्म तयारीको भाग।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-042",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Shirodhara in Ayurveda is what?",
+  "question_ne": "आयुर्वेदमा शिरोधारा के हो?",
+  "options": [
+   "Pouring oil in the ears",
+   "Pouring warm oil in a stream over the forehead",
+   "Massaging the feet",
+   "Herbal fumigation"
+  ],
+  "options_ne": [
+   "कानमा तेल हाल्ने",
+   "निधारमाथि न्यानो तेल धारामा खन्याउने",
+   "खुट्टा मालिस गर्ने",
+   "जडीबुटी धुवाँ दिने"
+  ],
+  "answer": 1,
+  "explanation": "Shirodhara is the continuous pouring of warm oil over the forehead, used for stress, insomnia and mental calm.",
+  "explanation_ne": "शिरोधारा निधारमाथि निरन्तर न्यानो तेल खन्याउने प्रक्रिया हो, तनाव, अनिद्रा र मानसिक शान्तिका लागि प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-044",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Shamana in Ayurveda means what?",
+  "question_ne": "आयुर्वेदमा शमन भनेको के हो?",
+  "options": [
+   "Fasting only",
+   "Purification therapy",
+   "Surgery",
+   "Palliative therapy that pacifies doshas without elimination"
+  ],
+  "options_ne": [
+   "केवल उपवास",
+   "शुद्धीकरण चिकित्सा",
+   "शल्यक्रिया",
+   "दोषलाई नहटाई शान्त पार्ने शामक चिकित्सा"
+  ],
+  "answer": 3,
+  "explanation": "Shamana is palliative treatment that pacifies aggravated doshas in the body without eliminating them.",
+  "explanation_ne": "शमन शरीरभित्रै बिग्रिएका दोषलाई नहटाई शान्त पार्ने शामक उपचार हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-045",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Rasayana in Ayurveda refers to what?",
+  "question_ne": "आयुर्वेदमा रसायन भनेको के हो?",
+  "options": [
+   "Rejuvenation therapy for longevity and immunity",
+   "Surgery",
+   "Purgation",
+   "Fasting"
+  ],
+  "options_ne": [
+   "कायाकल्प चिकित्सा — आयु र प्रतिरक्षाका लागि",
+   "शल्यक्रिया",
+   "विरेचन",
+   "उपवास"
+  ],
+  "answer": 0,
+  "explanation": "Rasayana is rejuvenation therapy that promotes longevity, immunity, memory and vitality.",
+  "explanation_ne": "रसायन कायाकल्प चिकित्सा हो जसले आयु, प्रतिरक्षा, स्मरणशक्ति र जीवनशक्ति बढाउँछ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-046",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Vajikarana in Ayurveda is the branch dealing with what?",
+  "question_ne": "आयुर्वेदमा वाजीकरण कुनसँग सम्बन्धित शाखा हो?",
+  "options": [
+   "Paediatrics",
+   "Reproductive health and vitality",
+   "Surgery",
+   "Eye diseases"
+  ],
+  "options_ne": [
+   "बाल चिकित्सा",
+   "प्रजनन स्वास्थ्य र जीवनशक्ति",
+   "शल्यक्रिया",
+   "आँखाका रोग"
+  ],
+  "answer": 1,
+  "explanation": "Vajikarana deals with reproductive health, aphrodisiacs and vitality.",
+  "explanation_ne": "वाजीकरण प्रजनन स्वास्थ्य, कामोत्तेजक र जीवनशक्तिसँग सम्बन्धित छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-047",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Kaumarabhritya in Ayurveda is the branch dealing with what?",
+  "question_ne": "आयुर्वेदमा कौमारभृत्य कुनसँग सम्बन्धित शाखा हो?",
+  "options": [
+   "Surgery",
+   "Geriatrics",
+   "Paediatrics (child health)",
+   "Toxicology"
+  ],
+  "options_ne": [
+   "शल्यक्रिया",
+   "वृद्ध चिकित्सा",
+   "बाल चिकित्सा (बाल स्वास्थ्य)",
+   "विष विज्ञान"
+  ],
+  "answer": 2,
+  "explanation": "Kaumarabhritya is the Ayurvedic branch of paediatrics, child health and care.",
+  "explanation_ne": "कौमारभृत्य आयुर्वेदको बाल चिकित्सा, बाल स्वास्थ्य र हेरचाहको शाखा हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-048",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Agada Tantra in Ayurveda deals with what?",
+  "question_ne": "आयुर्वेदमा अगद तन्त्र कुनसँग सम्बन्धित छ?",
+  "options": [
+   "Mental illness",
+   "Surgery",
+   "Eye diseases",
+   "Toxicology (poisons and antidotes)"
+  ],
+  "options_ne": [
+   "मानसिक रोग",
+   "शल्यक्रिया",
+   "आँखाका रोग",
+   "विष विज्ञान (विष र प्रतिविष)"
+  ],
+  "answer": 3,
+  "explanation": "Agada Tantra is the Ayurvedic branch of toxicology, dealing with poisons, bites and antidotes.",
+  "explanation_ne": "अगद तन्त्र आयुर्वेदको विष विज्ञान शाखा हो, विष, टोकाइ र प्रतिविषसँग सम्बन्धित छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-049",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Bhuta Vidya in Ayurveda deals with what?",
+  "question_ne": "आयुर्वेदमा भूत विद्या कुनसँग सम्बन्धित छ?",
+  "options": [
+   "Mental illness and psychiatry",
+   "Surgery",
+   "Paediatrics",
+   "Eye diseases"
+  ],
+  "options_ne": [
+   "मानसिक रोग र मनोचिकित्सा",
+   "शल्यक्रिया",
+   "बाल चिकित्सा",
+   "आँखाका रोग"
+  ],
+  "answer": 0,
+  "explanation": "Bhuta Vidya is the Ayurvedic branch dealing with mental illness, spirits and psychiatry.",
+  "explanation_ne": "भूत विद्या आयुर्वेदको मानसिक रोग, भूत र मनोचिकित्सासँग सम्बन्धित शाखा हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-050",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Therapies",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Shalakya Tantra in Ayurveda deals with diseases of which parts?",
+  "question_ne": "आयुर्वेदमा शालाक्य तन्त्र कुन भागका रोगसँग सम्बन्धित छ?",
+  "options": [
+   "Abdomen only",
+   "Eye, ear, nose, throat, head and mouth",
+   "Bones only",
+   "Skin only"
+  ],
+  "options_ne": [
+   "केवल पेट",
+   "आँखा, कान, नाक, घाँटी, टाउको र मुख",
+   "केवल हाड",
+   "केवल छाला"
+  ],
+  "answer": 1,
+  "explanation": "Shalakya Tantra deals with diseases of the eye, ear, nose, throat, head and oral cavity (above the neck).",
+  "explanation_ne": "शालाक्य तन्त्र आँखा, कान, नाक, घाँटी, टाउको र मुख (घाँटीभन्दा माथि) का रोगसँग सम्बन्धित छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-051",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many branches (Ashtanga) are there in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कति शाखा (अष्टाङ्ग) छन्?",
+  "options": [
+   "Five",
+   "Six",
+   "Eight",
+   "Ten"
+  ],
+  "options_ne": [
+   "पाँच",
+   "छ",
+   "आठ",
+   "दस"
+  ],
+  "answer": 2,
+  "explanation": "Ayurveda has eight branches (Ashtanga): Kaya, Bala, Graha, Urdhvanga, Shalya, Damshtra, Jara and Vajikarana.",
+  "explanation_ne": "आयुर्वेदमा आठ शाखा (अष्टाङ्ग) छन्: काय, बाल, ग्रह, ऊर्ध्वाङ्ग, शल्य, दंष्ट्र, जरा र वाजीकरण।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-052",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Nepal",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which council regulates Ayurveda practice in Nepal?",
+  "question_ne": "नेपालमा आयुर्वेद अभ्यासलाई कुन परिषद्ले नियमन गर्छ?",
+  "options": [
+   "Nepal Pharmacy Council",
+   "Nepal Medical Council",
+   "Nepal Health Professional Council",
+   "Nepal Ayurveda Medical Council (NAMC)"
+  ],
+  "options_ne": [
+   "नेपाल फार्मेसी काउन्सिल",
+   "नेपाल मेडिकल काउन्सिल",
+   "नेपाल स्वास्थ्य व्यावसायी परिषद्",
+   "नेपाल आयुर्वेद चिकित्सा परिषद् (NAMC)"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal Ayurveda Medical Council (NAMC) regulates Ayurveda practice and registers Ayurveda practitioners in Nepal.",
+  "explanation_ne": "नेपाल आयुर्वेद चिकित्सा परिषद् (NAMC) ले नेपालमा आयुर्वेद अभ्यास नियमन गर्छ र आयुर्वेद चिकित्सक दर्ता गर्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-053",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Nepal",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Bachelor of Ayurvedic Medicine and Surgery degree is abbreviated as what?",
+  "question_ne": "आयुर्वेदिक चिकित्सा र शल्यक्रियाको स्नातक उपाधिलाई के भनेर संक्षेप गरिन्छ?",
+  "options": [
+   "BAMS",
+   "MBBS",
+   "BDS",
+   "BHMS"
+  ],
+  "options_ne": [
+   "BAMS",
+   "MBBS",
+   "BDS",
+   "BHMS"
+  ],
+  "answer": 0,
+  "explanation": "BAMS is the Bachelor of Ayurvedic Medicine and Surgery degree.",
+  "explanation_ne": "BAMS आयुर्वेदिक चिकित्सा र शल्यक्रिया स्नातक उपाधि हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-054",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Nepal",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which ministry oversees Ayurveda in Nepal?",
+  "question_ne": "नेपालमा आयुर्वेद कुन मन्त्रालयको मातहत छ?",
+  "options": [
+   "Ministry of Education",
+   "Ministry of Health and Population",
+   "Ministry of Agriculture",
+   "Ministry of Culture"
+  ],
+  "options_ne": [
+   "शिक्षा मन्त्रालय",
+   "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+   "कृषि मन्त्रालय",
+   "संस्कृति मन्त्रालय"
+  ],
+  "answer": 1,
+  "explanation": "Ayurveda in Nepal is overseen by the Ministry of Health and Population, through the Department of Ayurveda and Alternative Medicine.",
+  "explanation_ne": "नेपालमा आयुर्वेद स्वास्थ्य तथा जनसंख्या मन्त्रालय मातहत, आयुर्वेद तथा वैकल्पिक चिकित्सा विभागमार्फत हेर्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-055",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Lifestyle",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Yoga is recognised in Ayurveda mainly as what?",
+  "question_ne": "योग आयुर्वेदमा मुख्यतया के रूपमा मानिन्छ?",
+  "options": [
+   "A surgery",
+   "A medicine",
+   "A practice for physical and mental balance",
+   "A diet only"
+  ],
+  "options_ne": [
+   "एउटा शल्यक्रिया",
+   "एउटा औषधि",
+   "शारीरिक र मानसिक सन्तुलनको अभ्यास",
+   "केवल आहार"
+  ],
+  "answer": 2,
+  "explanation": "Yoga is recognised in Ayurveda as a practice that balances body and mind and supports health.",
+  "explanation_ne": "योग आयुर्वेदमा शरीर र मनलाई सन्तुलन गर्ने र स्वास्थ्यलाई सहयोग गर्ने अभ्यासका रूपमा मानिन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-056",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which dosha is aggravated by cold, dry and irregular routine?",
+  "question_ne": "चिसो, सुख्खा र अनियमित दिनचर्याले कुन दोष बढ्छ?",
+  "options": [
+   "None",
+   "Pitta",
+   "Kapha",
+   "Vata"
+  ],
+  "options_ne": [
+   "कुनै पनि होइन",
+   "पित्त",
+   "कफ",
+   "वात"
+  ],
+  "answer": 3,
+  "explanation": "Vata is aggravated by cold, dry, light and irregular factors.",
+  "explanation_ne": "वात चिसो, सुख्खा, हलुका र अनियमित कारकले बढ्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-057",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which dosha is aggravated by heat, spicy food and anger?",
+  "question_ne": "तातो, पिरो खाना र क्रोधले कुन दोष बढ्छ?",
+  "options": [
+   "Pitta",
+   "Vata",
+   "Kapha",
+   "None"
+  ],
+  "options_ne": [
+   "पित्त",
+   "वात",
+   "कफ",
+   "कुनै पनि होइन"
+  ],
+  "answer": 0,
+  "explanation": "Pitta is aggravated by heat, spicy and sour food, and anger.",
+  "explanation_ne": "पित्त तातो, पिरो र अमिलो खाना र क्रोधले बढ्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-058",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which dosha is aggravated by cold, damp, heavy food and lack of exercise?",
+  "question_ne": "चिसो, ओसिलो, भारी खाना र व्यायामको कमीले कुन दोष बढ्छ?",
+  "options": [
+   "Vata",
+   "Kapha",
+   "Pitta",
+   "None"
+  ],
+  "options_ne": [
+   "वात",
+   "कफ",
+   "पित्त",
+   "कुनै पनि होइन"
+  ],
+  "answer": 1,
+  "explanation": "Kapha is aggravated by cold, damp, heavy and oily food and by inactivity.",
+  "explanation_ne": "कफ चिसो, ओसिलो, भारी र चिल्लो खाना र निष्क्रियताले बढ्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-059",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Srotas in Ayurveda refers to what?",
+  "question_ne": "आयुर्वेदमा स्रोतस भनेको के हो?",
+  "options": [
+   "Muscles",
+   "Bones",
+   "Channels that carry nutrients and wastes in the body",
+   "Nerves only"
+  ],
+  "options_ne": [
+   "मांसपेशी",
+   "हाड",
+   "शरीरमा पोषक र फोहोर बोक्ने नलीहरू",
+   "केवल स्नायु"
+  ],
+  "answer": 2,
+  "explanation": "Srotas are the channels in the body that transport nutrients, dhatus and wastes.",
+  "explanation_ne": "स्रोतस शरीरमा पोषक, धातु र फोहोर बोक्ने नलीहरू हुन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-060",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which is the main site (seat) of Vata dosha?",
+  "question_ne": "वात दोषको मुख्य स्थान कुन हो?",
+  "options": [
+   "Heart",
+   "Stomach",
+   "Liver",
+   "Large intestine (Pakvashaya)"
+  ],
+  "options_ne": [
+   "मुटु",
+   "पेट",
+   "कलेजो",
+   "ठूलो आन्द्रा (पक्वाशय)"
+  ],
+  "answer": 3,
+  "explanation": "The main seat of Vata is the large intestine (Pakvashaya).",
+  "explanation_ne": "वातको मुख्य स्थान ठूलो आन्द्रा (पक्वाशय) हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-061",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which is the main site (seat) of Pitta dosha?",
+  "question_ne": "पित्त दोषको मुख्य स्थान कुन हो?",
+  "options": [
+   "Small intestine (Grahani)",
+   "Large intestine",
+   "Lungs",
+   "Kidney"
+  ],
+  "options_ne": [
+   "सानो आन्द्रा (ग्रहणी)",
+   "ठूलो आन्द्रा",
+   "फोक्सो",
+   "मिर्गौला"
+  ],
+  "answer": 0,
+  "explanation": "The main seat of Pitta is the small intestine (Grahani), with the stomach as its secondary seat.",
+  "explanation_ne": "पित्तको मुख्य स्थान सानो आन्द्रा (ग्रहणी) हो, पेट यसको दोस्रो स्थान हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-063",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Ghee (clarified butter) is valued in Ayurveda mainly because it does what?",
+  "question_ne": "घिउ आयुर्वेदमा मुख्यतया के गर्छ भनेर मूल्यवान छ?",
+  "options": [
+   "Is a poison",
+   "Causes weight loss only",
+   "Carries medicine into tissues and kindles Agni",
+   "Replaces water"
+  ],
+  "options_ne": [
+   "विष हो",
+   "केवल तौल घटाउँछ",
+   "औषधिलाई तन्तुमा पुर्‍याउँछ र अग्नि बढाउँछ",
+   "पानीको विकल्प हो"
+  ],
+  "answer": 2,
+  "explanation": "Ghee is valued as a carrier (Anupana) that takes medicine deep into tissues and supports Agni.",
+  "explanation_ne": "घिउ औषधिलाई तन्तुको गहिराइसम्म पुर्‍याउने वाहक (अनुपान) का रूपमा मूल्यवान छ र अग्निलाई सहयोग गर्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-064",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Honey in Ayurveda is used mainly as what?",
+  "question_ne": "मह आयुर्वेदमा मुख्यतया के रूपमा प्रयोग हुन्छ?",
+  "options": [
+   "A surgical tool",
+   "A poison",
+   "A food grain",
+   "A carrier (Anupana) and medicine"
+  ],
+  "options_ne": [
+   "शल्यक्रिया उपकरण",
+   "एक विष",
+   "एक खाद्यान्न",
+   "वाहक (अनुपान) र औषधि"
+  ],
+  "answer": 3,
+  "explanation": "Honey is used as a carrier (Anupana) for medicines and has its own healing properties; it should not be heated.",
+  "explanation_ne": "मह औषधिका लागि वाहक (अनुपान) का रूपमा प्रयोग हुन्छ र यसको आफ्नै उपचारात्मक गुण छन्; यसलाई तताउनु हुँदैन।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-065",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which herb is known as the 'king of herbs' for liver health in Ayurveda?",
+  "question_ne": "आयुर्वेदमा कलेजो स्वास्थ्यका लागि 'जडीबुटीका राजा' भनेर कुन जडीबुटी चिनिन्छ?",
+  "options": [
+   "Bhumyamalaki (Phyllanthus niruri)",
+   "Tulsi",
+   "Neem",
+   "Ginger"
+  ],
+  "options_ne": [
+   "भूम्यामलकी (Phyllanthus niruri)",
+   "तुलसी",
+   "निम",
+   "अदुवा"
+  ],
+  "answer": 0,
+  "explanation": "Bhumyamalaki is valued in Ayurveda for liver health and jaundice.",
+  "explanation_ne": "भूम्यामलकी आयुर्वेदमा कलेजो स्वास्थ्य र जन्डिसका लागि मूल्यवान छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-066",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Pippali (long pepper) is mainly used in Ayurveda for what?",
+  "question_ne": "पिप्पली (लामो मरिच) आयुर्वेदमा मुख्यतया केका लागि प्रयोग हुन्छ?",
+  "options": [
+   "Bone surgery",
+   "Respiratory health and digestion",
+   "Eye surgery",
+   "Skin whitening"
+  ],
+  "options_ne": [
+   "हाडको शल्यक्रिया",
+   "श्वासप्रश्वास स्वास्थ्य र पाचन",
+   "आँखाको शल्यक्रिया",
+   "छाला गोरो बनाउने"
+  ],
+  "answer": 1,
+  "explanation": "Pippali is used for respiratory disorders, cough and to kindle digestive fire.",
+  "explanation_ne": "पिप्पली श्वासप्रश्वास रोग, खोकी र पाचन अग्नि बढाउन प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-067",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Herbs",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Haritaki is one of the three fruits of Triphala and is known for what?",
+  "question_ne": "हरीतकी त्रिफलाको तीन फलमध्ये एक हो र केका लागि चिनिन्छ?",
+  "options": [
+   "Bone surgery",
+   "Causing sleep only",
+   "Mild laxative and rejuvenative action",
+   "Eye drops only"
+  ],
+  "options_ne": [
+   "हाडको शल्यक्रिया",
+   "केवल निद्रा लगाउने",
+   "हल्का विरेचक र रसायन गुण",
+   "केवल आँखाको थोपा"
+  ],
+  "answer": 2,
+  "explanation": "Haritaki is a mild laxative and Rasayana, used for digestion and detoxification.",
+  "explanation_ne": "हरीतकी हल्का विरेचक र रसायन हो, पाचन र विषहरणका लागि प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-068",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Formulations",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which Ayurvedic formulation is a decoction (Kwatha)?",
+  "question_ne": "कुन आयुर्वेदिक तयारी काढा (क्वाथ) हो?",
+  "options": [
+   "Ghrita (ghee)",
+   "Churna (powder)",
+   "Taila (oil)",
+   "Kwatha (herbal decoction)"
+  ],
+  "options_ne": [
+   "घृत (घिउ)",
+   "चूर्ण (धुलो)",
+   "तैल (तेल)",
+   "क्वाथ (जडीबुटी काढा)"
+  ],
+  "answer": 3,
+  "explanation": "Kwatha is a decoction made by boiling herbs in water and reducing it.",
+  "explanation_ne": "क्वाथ जडीबुटीलाई पानीमा उमालेर घटाएर बनाइने काढा हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-069",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Formulations",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Churna in Ayurveda is what form of medicine?",
+  "question_ne": "आयुर्वेदमा चूर्ण कुन रूपमा औषधि हो?",
+  "options": [
+   "Fine powder",
+   "Oil",
+   "Decoction",
+   "Tablet only"
+  ],
+  "options_ne": [
+   "मसिनो धुलो",
+   "तेल",
+   "काढा",
+   "केवल चक्की"
+  ],
+  "answer": 0,
+  "explanation": "Churna is a fine powder of dried herbs, taken with water, honey or ghee.",
+  "explanation_ne": "चूर्ण सुकेका जडीबुटीको मसिनो धुलो हो, पानी, मह वा घिउसँग लिइन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-070",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Formulations",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Taila in Ayurveda is what form of medicine?",
+  "question_ne": "आयुर्वेदमा तैल कुन रूपमा औषधि हो?",
+  "options": [
+   "Powder",
+   "Medicated oil",
+   "Decoction",
+   "Ghee only"
+  ],
+  "options_ne": [
+   "धुलो",
+   "औषधीय तेल",
+   "काढा",
+   "केवल घिउ"
+  ],
+  "answer": 1,
+  "explanation": "Taila is medicated oil, used for massage, Nasya and Basti.",
+  "explanation_ne": "तैल औषधीय तेल हो, मालिस, नस्य र बस्तिमा प्रयोग हुन्छ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-071",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "The Ayurvedic principle 'Swasthasya Swasthya Rakshanam' means what?",
+  "question_ne": "आयुर्वेदिक सिद्धान्त 'स्वस्थस्य स्वास्थ्य रक्षणम्' को अर्थ के हो?",
+  "options": [
+   "Surgery first",
+   "Treat only the sick",
+   "Protect the health of the healthy",
+   "Fasting always"
+  ],
+  "options_ne": [
+   "पहिले शल्यक्रिया",
+   "बिरामीलाई मात्र उपचार गर्नु",
+   "स्वस्थ व्यक्तिको स्वास्थ्य रक्षा गर्नु",
+   "सधैँ उपवास"
+  ],
+  "answer": 2,
+  "explanation": "Ayurveda's first aim is to protect the health of the healthy; its second is to cure disease.",
+  "explanation_ne": "आयुर्वेदको पहिलो उद्देश्य स्वस्थ व्यक्तिको स्वास्थ्य रक्षा गर्नु हो; दोस्रो रोग निको पार्नु हो।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-072",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "According to Ayurveda, health is the balance of what?",
+  "question_ne": "आयुर्वेदअनुसार स्वास्थ्य के को सन्तुलन हो?",
+  "options": [
+   "Mala only",
+   "Dosha only",
+   "Agni only",
+   "Dosha, Agni, Dhatu and Mala"
+  ],
+  "options_ne": [
+   "केवल मल",
+   "केवल दोष",
+   "केवल अग्नि",
+   "दोष, अग्नि, धातु र मल"
+  ],
+  "answer": 3,
+  "explanation": "Health is the balance of dosha, agni, dhatu and mala, with a happy mind, senses and soul.",
+  "explanation_ne": "स्वास्थ्य दोष, अग्नि, धातु र मलको सन्तुलन हो, साथै प्रसन्न मन, इन्द्रिय र आत्मा।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-073",
+  "exam": [
+   "nhpc-ayurveda",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Dosha",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which season is Vata most aggravated in Ayurveda?",
+  "question_ne": "आयुर्वेदमा वात कुन ऋतुमा सबैभन्दा बढी बढ्छ?",
+  "options": [
+   "Autumn (Sharad) / rainy season",
+   "Summer",
+   "Spring",
+   "Winter only"
+  ],
+  "options_ne": [
+   "शरद / वर्षा ऋतु",
+   "ग्रीष्म",
+   "वसन्त",
+   "केवल जाडो"
+  ],
+  "answer": 0,
+  "explanation": "Vata is aggravated in the rainy and autumn seasons, when cold and dry qualities increase.",
+  "explanation_ne": "वात वर्षा र शरद ऋतुमा बढ्छ, जब चिसो र सुख्खा गुण बढ्छन्।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ },
+ {
+  "id": "AYUR5-074",
+  "exam": [
+   "nhpc-ayurveda"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Ayurveda — Fundamentals",
+  "difficulty": "hard",
+  "marks": 1,
+  "question": "Which taste pacifies Vata dosha?",
+  "question_ne": "कुन स्वादले वात दोष शान्त गर्छ?",
+  "options": [
+   "Bitter and astringent",
+   "Sweet, sour and salty",
+   "Pungent only",
+   "Sour only"
+  ],
+  "options_ne": [
+   "तितो र ट्रो",
+   "गुलियो, अमिलो र नुनिलो",
+   "केवल पिरो",
+   "केवल अमिलो"
+  ],
+  "answer": 1,
+  "explanation": "Sweet, sour and salty tastes pacify Vata; bitter, pungent and astringent tastes aggravate it.",
+  "explanation_ne": "गुलियो, अमिलो र नुनिलो स्वादले वात शान्त गर्छ; तितो, पिरो र ट्रो स्वादले बढाउँछ।",
+  "source": "Nepal Ayurveda Medical Council / NHPC Ayurveda syllabus — Nepal"
+ }
+]

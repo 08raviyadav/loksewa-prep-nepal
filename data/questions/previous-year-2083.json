@@ -1,0 +1,3737 @@
+[
+ {
+  "id": "NASU-2083-01",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "National Film Award 2082",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which film won the National Film Award, 2082?",
+  "question_ne": "राष्ट्रिय चलचित्र अवार्ड, २०८२ प्राप्त गर्ने चलचित्र कुन हो?",
+  "options": [
+   "Purna Bahadur ko Sarangi",
+   "Sambala",
+   "Pitaambar",
+   "Chhakka Panja"
+  ],
+  "options_ne": [
+   "पूर्ण बहादुरको सारङ्गी",
+   "साम्बाला",
+   "पिताम्बर",
+   "छक्का पञ्जा"
+  ],
+  "answer": 1,
+  "explanation": "Sambala won the National Film Award, 2082.",
+  "explanation_ne": "साम्बालाले राष्ट्रिय चलचित्र अवार्ड, २०८२ प्राप्त गरेको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-02",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "IPL 2023",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The IPL 2023 final was played between which two teams?",
+  "question_ne": "IPL २०२३ को फाइनल खेल कुन-कुन टोली बीच भएको थियो?",
+  "options": [
+   "Sunrisers Hyderabad and Gujarat Titans",
+   "Mumbai Indians and Chennai Super Kings",
+   "Royal Challengers Bangalore and Punjab Kings",
+   "Mumbai Indians and Punjab Kings"
+  ],
+  "options_ne": [
+   "सनराइजर्स हैदराबाद र गुजरात टाइटन्स",
+   "मुम्बई इन्डियन्स र चेन्नई सुपर किङ्ग्स",
+   "रोयल च्यालेन्जर्स बैंग्लोर र पञ्जाब किङ्ग्स",
+   "मुम्बई इन्डियन्स र पञ्जाब किङ्ग्स"
+  ],
+  "answer": 2,
+  "explanation": "The paper's answer key marks (C) Royal Challengers Bangalore and Punjab Kings. Note: the actual IPL 2023 final was Chennai Super Kings vs Gujarat Titans; the key is reproduced here as printed in the paper.",
+  "explanation_ne": "प्रश्नपत्रको उत्तर कुञ्जी अनुसार (C) रोयल च्यालेन्जर्स बैंग्लोर र पञ्जाब किङ्ग्स हो। (वास्तविक IPL २०२३ को फाइनल चेन्नई सुपर किङ्ग्स र गुजरात टाइटन्सबीच भएको थियो; यहाँ प्रश्नपत्रको कुञ्जी जस्ताको तस्तै राखिएको छ।)",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-03",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "ASEAN Way",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does the 'ASEAN Way' refer to?",
+  "question_ne": "ASEAN Way ले तलका मध्ये केलाई जनाउँछ?",
+  "options": [
+   "A fast trade route",
+   "Consultation and non-interference process",
+   "A common currency",
+   "A military alliance"
+  ],
+  "options_ne": [
+   "द्रुत व्यापार मार्ग",
+   "परामर्श र अहस्तक्षेप प्रक्रिया",
+   "साझा मुद्रा",
+   "सैन्य गठबन्धन"
+  ],
+  "answer": 1,
+  "explanation": "The ASEAN Way is the practice of consultation, consensus and non-interference in the internal affairs of member states.",
+  "explanation_ne": "आसियान तरिका (ASEAN Way) भनेको परामर्श, सहमति र सदस्य राष्ट्रहरूको आन्तरिक मामिलामा अहस्तक्षेप हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-04",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Carbon emissions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which country emits the most carbon?",
+  "question_ne": "सबैभन्दा बढी कार्बन उत्सर्जन गर्ने देश कुन हो?",
+  "options": [
+   "India",
+   "China",
+   "Russia",
+   "Japan"
+  ],
+  "options_ne": [
+   "भारत",
+   "चीन",
+   "रूस",
+   "जापान"
+  ],
+  "answer": 1,
+  "explanation": "China is the world's largest emitter of carbon dioxide.",
+  "explanation_ne": "चीन विश्वको सबैभन्दा ठूलो कार्बन डाइअक्साइड उत्सर्जन गर्ने देश हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-05",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Census population growth",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to Nepal's census, what was Nepal's population growth rate between 2011 and 2021?",
+  "question_ne": "नेपालको जनगणना अनुसार सन् २०११ र सन् २०२१ को बीचमा नेपालको जनसंख्या वृद्धिदर कति रहेको थियो?",
+  "options": [
+   "1.35%",
+   "2.25%",
+   "0.92%",
+   "1.56%"
+  ],
+  "options_ne": [
+   "१.३५%",
+   "२.२५%",
+   "०.९२%",
+   "१.५६%"
+  ],
+  "answer": 2,
+  "explanation": "Nepal's average annual population growth rate fell to 0.92% between the 2011 and 2021 censuses.",
+  "explanation_ne": "सन् २०११ र २०२१ को जनगणनाबीच नेपालको औसत वार्षिक जनसंख्या वृद्धिदर ०.९२% रहेको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-06",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Mercantilism",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Mercantilism is related to what?",
+  "question_ne": "वणिकवाद (Mercantilism) के सँग सम्बन्धित छ?",
+  "options": [
+   "Religious thought",
+   "Economic thought",
+   "Caste-related thought",
+   "Communal thought"
+  ],
+  "options_ne": [
+   "धार्मिक विचार",
+   "आर्थिक विचार",
+   "जातिगत सम्बन्धी विचार",
+   "सम्प्रदायिक विचार"
+  ],
+  "answer": 1,
+  "explanation": "Mercantilism is an economic doctrine that stressed accumulating wealth, especially gold and silver, through trade.",
+  "explanation_ne": "वणिकवाद व्यापारबाट सम्पत्ति, विशेष गरी सुन र चाँदी, सञ्चय गर्नुपर्छ भन्ने आर्थिक विचार हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-07",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Books and authors",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the books with their authors and choose the correct answer. Books: a) The Thursday Murder Club, b) Afropean, c) The Sentinel, d) Cook it, Eat it, Repeat. Authors: 1. Nadia Hussain, 2. Lee and Andrew Child, 3. Johny Pitts, 4. Richard Osman.",
+  "question_ne": "पुस्तक र लेखकबीच जोडा मिलाउनुहोस् र सही उत्तर छान्नुहोस्। पुस्तक: a) The Thursday Murder Club, b) Afropean, c) The Sentinel, d) Cook it, Eat it, Repeat; लेखक: १. Nadia Hussain, २. Lee and Andrew Child, ३. Johny Pitts, ४. Richard Osman।",
+  "options": [
+   "a-1, b-2, c-3, d-4",
+   "a-2, b-3, c-4, d-1",
+   "a-3, b-1, c-2, d-4",
+   "a-4, b-3, c-2, d-1"
+  ],
+  "options_ne": [
+   "a-१, b-२, c-३, d-४",
+   "a-२, b-३, c-४, d-१",
+   "a-३, b-१, c-२, d-४",
+   "a-४, b-३, c-२, d-१"
+  ],
+  "answer": 3,
+  "explanation": "The Thursday Murder Club — Richard Osman; Afropean — Johny Pitts; The Sentinel — Lee and Andrew Child; Cook it, Eat it, Repeat — Nadia Hussain.",
+  "explanation_ne": "The Thursday Murder Club — Richard Osman; Afropean — Johny Pitts; The Sentinel — Lee and Andrew Child; Cook it, Eat it, Repeat — Nadia Hussain।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-08",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment statements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following statements is NOT true?",
+  "question_ne": "तलका कुन भनाइ सत्य होइन?",
+  "options": [
+   "The famous Chipko movement was led by Sundarlal Bahuguna.",
+   "26 species of mammals are on Nepal's list of protected animals.",
+   "More than 10 animals can be hunted in Nepal.",
+   "An environmental study is carried out when doing development construction work."
+  ],
+  "options_ne": [
+   "बहुचर्चित चिपको आन्दोलन Sundarlal Bahuguna ले नेतृत्व गरेका हुन्।",
+   "नेपालमा २६ प्रजातिका स्तनधारी संरक्षित जनावरको सूचीमा छन्।",
+   "नेपालमा १० भन्दा बढी जनावरको सिकार गर्न पाइन्छ।",
+   "विकास निर्माणको काम गर्दा वातावरणीय अध्ययन गरिन्छ।"
+  ],
+  "answer": 2,
+  "explanation": "Hunting is prohibited in Nepal, so the statement that more than 10 animals can be hunted is false. The Chipko movement was led by Sundarlal Bahuguna, and an environmental study is required for development works.",
+  "explanation_ne": "नेपालमा सिकार गर्न निषेध छ; १० भन्दा बढी जनावरको सिकार गर्न पाइन्छ भन्ने भनाइ गलत हो। चिपको आन्दोलनको नेतृत्व सुन्दरलाल बहुगुणाले गरेका हुन् र विकास निर्माणमा वातावरणीय अध्ययन गरिन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-09",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Licchavi administration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the Licchavi-era administration, who was the second most powerful person?",
+  "question_ne": "लिच्छवी कालीन शासनमा प्रशासनको दोस्रो शक्तिशाली व्यक्ति को हुन्थ्यो?",
+  "options": [
+   "Rajputra",
+   "Mahapratihara",
+   "Mahasamanta",
+   "Sarvadandanayaka"
+  ],
+  "options_ne": [
+   "राजपुत्र",
+   "महाप्रतिहार",
+   "महासामन्त",
+   "सर्वदण्डनायक"
+  ],
+  "answer": 2,
+  "explanation": "In Licchavi administration, the Mahasamanta was the second most powerful figure after the king.",
+  "explanation_ne": "लिच्छवी प्रशासनमा राजापछि महासामन्त दोस्रो शक्तिशाली व्यक्ति हुन्थ्यो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-10",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC diplomatic relations",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the SAARC countries with the year Nepal established bilateral relations with them and choose the correct answer. Countries: a) India, b) Sri Lanka, c) Pakistan, d) Afghanistan. Years: 1. 1961 AD, 2. 1960 AD, 3. 1957 AD, 4. 1947 AD.",
+  "question_ne": "SAARC राष्ट्र र नेपालसँग दौत्य सम्बन्ध कायम भएको मिति बीच जोडा मिलाउनुहोस् र कोडबाट सही उत्तर छान्नुहोस्। राष्ट्र: a) भारत, b) श्रीलंका, c) पाकिस्तान, d) अफगानिस्तान; वर्ष: १. १९६१ AD, २. १९६० AD, ३. १९५७ AD, ४. १९४७ AD।",
+  "options": [
+   "a-4, b-3, c-2, d-1",
+   "a-4, b-3, c-1, d-2",
+   "a-4, b-2, c-3, d-1",
+   "a-4, b-2, c-1, d-3"
+  ],
+  "options_ne": [
+   "a-४, b-३, c-२, d-१",
+   "a-४, b-३, c-१, d-२",
+   "a-४, b-२, c-३, d-१",
+   "a-४, b-२, c-१, d-३"
+  ],
+  "answer": 0,
+  "explanation": "Nepal established diplomatic relations with India in 1947, Sri Lanka in 1957, Pakistan in 1960 and Afghanistan in 1961.",
+  "explanation_ne": "नेपालले भारतसँग १९४७, श्रीलंकासँग १९५७, पाकिस्तानसँग १९६० र अफगानिस्तानसँग १९६१ मा कूटनीतिक सम्बन्ध कायम गरेको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-11",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Diseases — dual-answer (flawed question — two options correct)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is NOT a disease caused by a virus?",
+  "question_ne": "तलका मध्ये कुन रोग भाइरसको कारणबाट लाग्ने रोग होइन?",
+  "options": [
+   "Tuberculosis",
+   "Meningitis",
+   "Jaundice",
+   "Leprosy"
+  ],
+  "options_ne": [
+   "क्षयरोग (Tuberculosis)",
+   "मेनिन्जाइटिस (Meningitis)",
+   "कमलपित्त (Jaundice)",
+   "कुष्ठरोग (Leprosy)"
+  ],
+  "answer": 0,
+  "explanation": "Dual-answer (flawed) question: both (A) Tuberculosis and (D) Leprosy are correct, because both are caused by bacteria, not by a virus — tuberculosis by Mycobacterium tuberculosis and leprosy by Mycobacterium leprae. The paper itself notes that both answers are correct; the first correct option (A) is recorded as the answer. Meningitis can be viral or bacterial, and jaundice (hepatitis) is commonly viral.",
+  "explanation_ne": "दुईवटा सही उत्तर भएको त्रुटिपूर्ण प्रश्न हो: (A) क्षयरोग र (D) कुष्ठरोग दुवै सही हुन्, किनभने यी दुवै रोग भाइरसले नभई जीवाणु (ब्याक्टेरिया) बाट लाग्छन् — क्षयरोग Mycobacterium tuberculosis बाट र कुष्ठरोग Mycobacterium leprae बाट लाग्छ। प्रश्नपत्रकै टिप्पणी अनुसार दुवै उत्तर सही छन्; पहिलो सही विकल्प (A) लाई उत्तर मानिएको छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-12",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Vaccines",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following statements about vaccines are correct? (i) Vaccines activate the immune system to produce antibodies. (ii) Vaccines can be given only after a person falls ill. (iii) Vaccines help achieve 'herd immunity'.",
+  "question_ne": "खोपको बारेमा तलका मध्ये कुन भनाइहरू सही छन्? (i) खोपले एन्टीबडी उत्पादन गर्न प्रतिरक्षा प्रणालीलाई सक्रिय पार्दछ। (ii) खोप मानिस बिरामी भएपछि मात्र दिन सकिन्छ। (iii) खोपले 'हर्ड इम्युनिटी' प्राप्त गर्न मद्दत गर्दछ।",
+  "options": [
+   "i and ii only",
+   "ii and iii only",
+   "i and iii only",
+   "All of them"
+  ],
+  "options_ne": [
+   "i र ii मात्र",
+   "ii र iii मात्र",
+   "i र iii मात्र",
+   "सबै"
+  ],
+  "answer": 2,
+  "explanation": "Vaccines train the immune system to make antibodies and help build herd immunity; they are given to healthy people to prevent disease, not only after falling ill — so (i) and (iii) are correct.",
+  "explanation_ne": "खोपले प्रतिरक्षा प्रणालीलाई एन्टीबडी बनाउन सक्रिय पार्छ र हर्ड इम्युनिटी प्राप्त गर्न मद्दत गर्छ; खोप बिरामी भएपछि मात्र नभई रोग लाग्नुअघि स्वस्थ मानिसलाई दिइन्छ — त्यसैले (i) र (iii) सही छन्।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-13",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "First vaccine at birth",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the first vaccine given to a newborn baby at birth?",
+  "question_ne": "नवजात शिशुलाई जन्मने बित्तिकै लगाउने प्रथम खोप कुन हो?",
+  "options": [
+   "DPT",
+   "BCG",
+   "PCV",
+   "FIPV"
+  ],
+  "options_ne": [
+   "DPT",
+   "BCG",
+   "PCV",
+   "FIPV"
+  ],
+  "answer": 1,
+  "explanation": "BCG is the first vaccine given to a newborn, at birth (against tuberculosis).",
+  "explanation_ne": "BCG नवजात शिशुलाई जन्मनेबित्तिकै लगाइने पहिलो खोप हो (क्षयरोग विरुद्ध)।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-14",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Dry port",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the context of transport, what is meant by a 'dry port'?",
+  "question_ne": "यातायातको सन्दर्भमा 'सुख्खा बन्दरगाह' भन्नाले के बुझिन्छ?",
+  "options": [
+   "A port where water is prohibited",
+   "A place where ships are repaired",
+   "An airport designated only for paper",
+   "An inland terminal connected by road or rail"
+  ],
+  "options_ne": [
+   "पानी निषेध गरिएको बन्दरगाह",
+   "पानी जहाज मर्मत गर्ने ठाउँ",
+   "कागजका लागि मात्र तोकिएको विमानस्थल",
+   "सडक वा रेलबाट जोडिएको आन्तरिक टर्मिनल"
+  ],
+  "answer": 3,
+  "explanation": "A dry port is an inland terminal connected to a seaport by road or rail, where cargo is handled and customs clearance is done.",
+  "explanation_ne": "सुख्खा बन्दरगाह भनेको सडक वा रेलबाट समुद्री बन्दरगाहसँग जोडिएको आन्तरिक टर्मिनल हो, जहाँ सामानको जाँच र भन्सार प्रक्रिया हुन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-15",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Lumbini UNESCO listing",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When was Lumbini, the birthplace of Lord Buddha, listed in the World Heritage List?",
+  "question_ne": "भगवान बुद्धको जन्मस्थल लुम्बिनीलाई कहिले विश्व सम्पदा सूचीमा सूचीकृत गरिएको हो?",
+  "options": [
+   "1989 AD",
+   "1991 AD",
+   "1997 AD",
+   "1999 AD"
+  ],
+  "options_ne": [
+   "१९८९ ई.सं.",
+   "१९९१ ई.सं.",
+   "१९९७ ई.सं.",
+   "१९९९ ई.सं."
+  ],
+  "answer": 2,
+  "explanation": "Lumbini was inscribed on UNESCO's World Heritage List in 1997.",
+  "explanation_ne": "लुम्बिनी सन् १९९७ मा युनेस्कोको विश्व सम्पदा सूचीमा सूचीकृत भएको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-16",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Muglin-Pokhara road loan",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which donor agency provided the loan assistance for the Muglin-Pokhara road currently being expanded?",
+  "question_ne": "हाल विस्तार गरिएको मुग्लिन पोखरा सडकका लागि कुन दातृ निकायको ऋण सहायता प्राप्त भएको छ?",
+  "options": [
+   "World Bank",
+   "Government of China",
+   "Government of Japan",
+   "Asian Development Bank"
+  ],
+  "options_ne": [
+   "विश्व बैंक",
+   "चीन सरकार",
+   "जापान सरकार",
+   "एसियाली विकास बैंक"
+  ],
+  "answer": 3,
+  "explanation": "The Muglin-Pokhara road expansion is supported by a loan from the Asian Development Bank (ADB).",
+  "explanation_ne": "मुग्लिन-पोखरा सडक विस्तारका लागि एसियाली विकास बैंक (ADB) को ऋण सहायता प्राप्त भएको छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-17",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Solar system galaxy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which galaxy is the solar system located?",
+  "question_ne": "सौर्यमण्डल कुन आकाशगंगामा अवस्थित छ?",
+  "options": [
+   "Andromeda Galaxy",
+   "Whirlpool Galaxy",
+   "Milky Way Galaxy",
+   "Sombrero Galaxy"
+  ],
+  "options_ne": [
+   "एन्ड्रोमेडा आकाशगंगा",
+   "व्हर्लपुल आकाशगंगा",
+   "आकाशगंगा (Milky Way)",
+   "सोम्ब्रेरो आकाशगंगा"
+  ],
+  "answer": 2,
+  "explanation": "The solar system is located in the Milky Way galaxy.",
+  "explanation_ne": "सौर्यमण्डल आकाशगंगा (Milky Way) मा अवस्थित छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-18",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Monkey Temple",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which cultural heritage of Nepal is known by the nickname 'Monkey Temple'?",
+  "question_ne": "नेपालको कुन सांस्कृतिक सम्पदालाई 'मन्की टेम्पल' उपनामले चिनिन्छ?",
+  "options": [
+   "Pashupatinath",
+   "Swayambhunath",
+   "Boudhanath",
+   "Muktinath"
+  ],
+  "options_ne": [
+   "पशुपतिनाथ",
+   "स्वयम्भूनाथ",
+   "बौद्धनाथ",
+   "मुक्तिनाथ"
+  ],
+  "answer": 1,
+  "explanation": "Swayambhunath is popularly known as the Monkey Temple because of the monkeys that live around the stupa.",
+  "explanation_ne": "स्वयम्भूनाथलाई त्यहाँ बस्ने बाँदरहरूका कारण 'मन्की टेम्पल' भनेर चिनिन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-19",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountain passes and districts",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which districts do the Luguwa Bhanjyang and Namja Bhanjyang lie, respectively?",
+  "question_ne": "लुगुवा भञ्ज्याङ र नामजा भञ्ज्याङ क्रमशः कुन कुन जिल्लामा पर्दछन्?",
+  "options": [
+   "Manang and Mustang",
+   "Manang and Mugu",
+   "Solukhumbu and Manang",
+   "Mustang and Solukhumbu"
+  ],
+  "options_ne": [
+   "मनाङ र मुस्ताङ",
+   "मनाङ र मुगु",
+   "सोलुखुम्बु र मनाङ",
+   "मुस्ताङ र सोलुखुम्बु"
+  ],
+  "answer": 1,
+  "explanation": "Luguwa Bhanjyang lies in Manang and Namja Bhanjyang lies in Mugu.",
+  "explanation_ne": "लुगुवा भञ्ज्याङ मनाङमा र नामजा भञ्ज्याङ मुगुमा पर्दछ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-20",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Canals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which canal shortens the sea distance between Europe and Asia?",
+  "question_ne": "युरोप र एशियाबीचको समुद्री दूरी छोट्याउने नहर कुन हो?",
+  "options": [
+   "Panama Canal",
+   "Suez Canal",
+   "Kiel Canal",
+   "Corinth Canal"
+  ],
+  "options_ne": [
+   "पनामा नहर",
+   "स्वेज नहर",
+   "किल नहर",
+   "कोरिन्थ नहर"
+  ],
+  "answer": 1,
+  "explanation": "The Suez Canal connects the Mediterranean Sea with the Red Sea and shortens the sea route between Europe and Asia.",
+  "explanation_ne": "स्वेज नहरले भूमध्यसागर र रातो सागरलाई जोड्छ र युरोप-एशियाबीचको समुद्री दूरी छोट्याउँछ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-21",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Hydropower capacity matching",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the hydropower projects (Group I) with their capacity (Group II) and choose the correct option. Group I: a) Pharping, b) Devighat, c) Kaligandaki A, d) Trishuli. Group II: i. 14.1 MW, ii. 24 MW, iii. 144 MW, iv. 500 KW.",
+  "question_ne": "जलविद्युत आयोजना (समूह I) र आयोजनाको क्षमता (समूह II) बीचको जोडा मिलाउनुहोस् र सही विकल्पको छनौट गर्नुहोस्। समूह I: a) फर्पिङ, b) देवीघाट, c) कालीगण्डकी A, d) त्रिशुली; समूह II: i. १४.१ MW, ii. २४ MW, iii. १४४ MW, iv. ५०० KW।",
+  "options": [
+   "a-4, b-2, c-3, d-1",
+   "a-4, b-1, c-3, d-2",
+   "a-2, b-1, c-3, d-4",
+   "a-3, b-1, c-2, d-4"
+  ],
+  "options_ne": [
+   "a-४, b-२, c-३, d-१",
+   "a-४, b-१, c-३, d-२",
+   "a-२, b-१, c-३, d-४",
+   "a-३, b-१, c-२, d-४"
+  ],
+  "answer": 1,
+  "explanation": "Pharping — 500 KW; Devighat — 14.1 MW; Kaligandaki A — 144 MW; Trishuli — 24 MW.",
+  "explanation_ne": "फर्पिङ — ५०० KW; देवीघाट — १४.१ MW; कालीगण्डकी A — १४४ MW; त्रिशुली — २४ MW।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-22",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Continental drift statements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following statements about continental displacement is NOT correct?",
+  "question_ne": "महादेशीय विस्थापन सम्बन्धी कुन भनाइ सत्य होइन?",
+  "options": [
+   "The continental drift theory was discovered by Alfred Wegener.",
+   "The Rikanpiya tectonic theory is related to Harry Hess.",
+   "Trade winds blow at the equator.",
+   "Monsoon winds blow from land to sea in winter."
+  ],
+  "options_ne": [
+   "महादेशीय प्रवाह सिद्धान्त अल्फ्रेड वेगेनरले पत्ता लगाएका हुन्।",
+   "रिकान्पिय विवर्तनिय सिद्धान्त हेरी हेससँग सम्बन्धित हो।",
+   "व्यापारिक वायु भूमध्य रेखामा चल्छन्।",
+   "मनसुनी वायु हिउँदमा जमिनबाट समुद्रतर्फ चल्छन्।"
+  ],
+  "answer": 3,
+  "explanation": "The paper's answer key marks (D). Note: the winter monsoon does blow from land to sea, so the key is reproduced here as printed in the paper. Option (B)'s first word is printed unclearly in the paper ('रिकान्पिय') and is reproduced as printed.",
+  "explanation_ne": "प्रश्नपत्रको उत्तर कुञ्जी अनुसार (D) हो। (हिउँदे मनसुन जमिनबाट समुद्रतर्फ नै चल्छ, त्यसैले यहाँ प्रश्नपत्रको कुञ्जी जस्ताको तस्तै राखिएको छ। विकल्प (B) को पहिलो शब्द प्रश्नपत्रमा अस्पष्ट रूपमा छापिएको छ ('रिकान्पिय') र जस्ताको तस्तै राखिएको छ।)",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-23",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Caste honorifics matching",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the ethnic groups with the honorific words used for them. Groups: a) Newar, b) Tamang, c) Thakali, d) Sherpa. Honorific words: 1. Kaji, 2. Sahuji, 3. Lama, 4. Subba.",
+  "question_ne": "जाति र सम्बन्धित आदरार्थी प्रयोग गरिने शब्दहरूको जोडा मिलाउनुहोस्। जाति: a) नेवार, b) तामाङ, c) थकाली, d) शेर्पा; आदरार्थी शब्द: १. काजी, २. साहुजी, ३. लामा, ४. सुब्बा।",
+  "options": [
+   "a-1, b-2, c-3, d-4",
+   "a-2, b-3, c-4, d-1",
+   "a-3, b-4, c-1, d-2",
+   "a-4, b-3, c-2, d-1"
+  ],
+  "options_ne": [
+   "a-१, b-२, c-३, d-४",
+   "a-२, b-३, c-४, d-१",
+   "a-३, b-४, c-१, d-२",
+   "a-४, b-३, c-२, d-१"
+  ],
+  "answer": 1,
+  "explanation": "Newar — Sahuji; Tamang — Lama; Thakali — Subba; Sherpa — Kaji.",
+  "explanation_ne": "नेवार — साहुजी; तामाङ — लामा; थकाली — सुब्बा; शेर्पा — काजी।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-24",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Chronological order of events",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Arrange the following events in order from the oldest to the newest. i) Emperor Ashoka's visit to Nepal, ii) Construction of Palpa Durbar, iii) Murder of Damodar Pande, iv) Alau Parva.",
+  "question_ne": "निम्न घटनाक्रमहरूलाई सबैभन्दा पुरानोदेखि नयाँको क्रममा मिलाउनुहोस्। i) सम्राट अशोकको नेपाल भ्रमण, ii) पाल्पा दरबार निर्माण, iii) दामोदर पाण्डेको हत्या, iv) अलौ पर्व।",
+  "options": [
+   "i-ii-iii-iv",
+   "i-iii-iv-ii",
+   "i-iv-ii-iii",
+   "iv-ii-iii-i"
+  ],
+  "options_ne": [
+   "i-ii-iii-iv",
+   "i-iii-iv-ii",
+   "i-iv-ii-iii",
+   "iv-ii-iii-i"
+  ],
+  "answer": 1,
+  "explanation": "Emperor Ashoka's visit to Nepal (3rd century BCE) came first, then the murder of Damodar Pande (1804 AD), then Alau Parva (1847 AD), and finally the construction of Palpa Durbar (1927 AD).",
+  "explanation_ne": "सम्राट अशोकको नेपाल भ्रमण (ईसापूर्व तेस्रो शताब्दी) सबैभन्दा पुरानो हो, त्यसपछि दामोदर पाण्डेको हत्या (सन् १८०४), अलौ पर्व (सन् १८४७) र अन्तमा पाल्पा दरबार निर्माण (सन् १९२७) भएको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-25",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Himalayan region development challenge",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main challenge for the socio-economic development of Nepal's Himalayan region?",
+  "question_ne": "नेपालको हिमाली क्षेत्रको सामाजिक-आर्थिक विकासका लागि मुख्य चुनौती के हो?",
+  "options": [
+   "Lack of tourism potential",
+   "Lack of water resources",
+   "Excessive population",
+   "Difficult geography"
+  ],
+  "options_ne": [
+   "पर्यटन सम्भावनाको कमी",
+   "जलस्रोतको अभाव",
+   "अत्यधिक जनसंख्या",
+   "कठिन भूगोल"
+  ],
+  "answer": 3,
+  "explanation": "The Himalayan region's difficult geography — high mountains, remoteness and harsh terrain — is the main challenge for its socio-economic development.",
+  "explanation_ne": "हिमाली क्षेत्रको कठिन भूगोल — अग्ला हिमाल, दुर्गमता र कठोर भू-बनोट — नै त्यस क्षेत्रको सामाजिक-आर्थिक विकासको मुख्य चुनौती हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-26",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "End of First World War",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which treaty formally ended the First World War?",
+  "question_ne": "कुन सन्धिले औपचारिक रूपमा पहिलो विश्व युद्धको अन्त्य गरेको हो?",
+  "options": [
+   "Treaty of London",
+   "Treaty of Paris",
+   "Treaty of Versailles",
+   "Treaty of Brest-Litovsk"
+  ],
+  "options_ne": [
+   "लण्डन सन्धि",
+   "पेरिस सन्धि",
+   "भर्साइल्स सन्धि",
+   "ब्रेस्ट-लिटोभस्क सन्धि"
+  ],
+  "answer": 2,
+  "explanation": "The Treaty of Versailles (1919) formally ended the First World War.",
+  "explanation_ne": "भर्साइल्स सन्धि (१९१९) ले औपचारिक रूपमा पहिलो विश्व युद्धको अन्त्य गरेको थियो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-27",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Fikdar Birta",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is 'Fikdar Birta' related to?",
+  "question_ne": "'फिकदर विर्ता' के सँग सम्बन्धित रहेको छ?",
+  "options": [
+   "Land given as relief to the families of soldiers killed in war",
+   "Land given as a reward to government employees for good performance",
+   "Land given as a reward to the general public for good work in social service",
+   "Land given as a reward to security personnel for contributing to peace and security"
+  ],
+  "options_ne": [
+   "युद्धमा मरेका सैनिक परिवारलाई राहत स्वरुप दिइने जग्गा",
+   "राम्रो कार्य सम्पादन गर्ने सरकारी कर्मचारीलाई पुरस्कार स्वरुप दिइने जग्गा",
+   "सामाजिक सेवामा राम्रो कार्य सम्पादन गर्ने सर्वसाधारणलाई पुरस्कार स्वरुप दिइने जग्गा",
+   "शान्ति सुरक्षा कायम गर्न योगदान गर्ने सुरक्षाकर्मीलाई पुरस्कार स्वरुप दिइने जग्गा"
+  ],
+  "answer": 1,
+  "explanation": "Fikdar Birta was land granted as a reward to government employees for good performance in service.",
+  "explanation_ne": "फिकदर विर्ता भनेको राम्रो कार्य सम्पादन गर्ने सरकारी कर्मचारीलाई पुरस्कार स्वरुप दिइने जग्गा हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-28",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO sites in Nepal",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many archaeological sites of Nepal has UNESCO included in the World Heritage List?",
+  "question_ne": "UNESCO ले नेपालका कतिवटा पुरातात्विक क्षेत्रलाई विश्व सम्पदा सूचीमा समावेश गरेको छ?",
+  "options": [
+   "5",
+   "10",
+   "2",
+   "12"
+  ],
+  "options_ne": [
+   "५",
+   "१०",
+   "२",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Nepal has 10 UNESCO-listed heritage sites: the 7 monument zones of Kathmandu Valley, Lumbini, Chitwan and Sagarmatha.",
+  "explanation_ne": "नेपालका १० वटा सम्पदा क्षेत्र युनेस्को सूचीमा छन्: काठमाडौं उपत्यकाका ७ वटा स्मारक क्षेत्र, लुम्बिनी, चितवन र सगरमाथा।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-29",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains and districts",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the mountains with the districts they lie in. Mountains: a) Makalu, b) Pumori, c) Gaurishankar, d) Dorje Lakpa. Districts: 1. Sindhupalchok, 2. Dolakha, 3. Solukhumbu, 4. Sankhuwasabha.",
+  "question_ne": "निम्न हिमालहरू कुन-कुन जिल्लामा पर्दछन्? हिमाल: a) मकालु, b) पुमोरी, c) गौरीशंकर, d) दोर्जेलाक्पा; जिल्ला: १. सिन्धुपाल्चोक, २. दोलखा, ३. सोलुखुम्बु, ४. संखुवासभा।",
+  "options": [
+   "a-1, b-3, c-2, d-4",
+   "a-4, b-3, c-2, d-1",
+   "a-3, b-4, c-2, d-1",
+   "a-2, b-3, c-4, d-1"
+  ],
+  "options_ne": [
+   "a-१, b-३, c-२, d-४",
+   "a-४, b-३, c-२, d-१",
+   "a-३, b-४, c-२, d-१",
+   "a-२, b-३, c-४, d-१"
+  ],
+  "answer": 1,
+  "explanation": "Makalu — Sankhuwasabha; Pumori — Solukhumbu; Gaurishankar — Dolakha; Dorje Lakpa — Sindhupalchok.",
+  "explanation_ne": "मकालु — संखुवासभा; पुमोरी — सोलुखुम्बु; गौरीशंकर — दोलखा; दोर्जेलाक्पा — सिन्धुपाल्चोक।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-30",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Nepali authors and works",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following author-work pairs is correct? (a) Siddhicharan Shrestha – Urvashi, (b) Bhavani Bhikshu – Aagat, (c) Gopal Prasad Rimal – Aama ko Sapana.",
+  "question_ne": "तल उल्लेख गरिएका लेखकहरू र तिनका कृतिहरूमध्ये कुन सही छ? (a) सिद्धिचरण श्रेष्ठ – उर्वशी, (b) भवानी भिक्षु – आगत, (c) गोपाल प्रसाद रिमाल – आमाको सपना।",
+  "options": [
+   "a correct, b and c wrong",
+   "b correct, a and c wrong",
+   "All correct",
+   "All wrong"
+  ],
+  "options_ne": [
+   "a सही b, c गलत",
+   "b सही a, c गलत",
+   "सबै सही",
+   "सबै गलत"
+  ],
+  "answer": 2,
+  "explanation": "All three are correct: Siddhicharan Shrestha wrote Urvashi, Bhavani Bhikshu wrote Aagat, and Gopal Prasad Rimal wrote Aama ko Sapana.",
+  "explanation_ne": "तीनैवटा सही छन्: सिद्धिचरण श्रेष्ठले उर्वशी, भवानी भिक्षुले आगत र गोपाल प्रसाद रिमालले आमाको सपना लेखेका हुन्।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-31",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number grid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In the question given below, the numbers a, b, c, d are given after the series. Find the number in place of the fixed digit. First row: 12, 26, 11, 36, 9. Second row: 7, a, b, c, d. Which number comes in place of (c)?",
+  "question_ne": "दिइएको प्रश्नमा श्रेणीका पछि संख्या a, b, c, d दिइएको छ। निश्चित अंकको ठाउँमा नम्बर पत्ता लगाउनुहोस्। पहिलो पंक्ति: १२, २६, ११, ३६, ९; दोस्रो पंक्ति: ७, a, b, c, d। (c) को ठाउँमा कुन संख्या आउँछ?",
+  "options": [
+   "21",
+   "25",
+   "27",
+   "30"
+  ],
+  "options_ne": [
+   "२१",
+   "२५",
+   "२७",
+   "३०"
+  ],
+  "answer": 0,
+  "explanation": "The numbers are set out in two rows (12, 26, 11, 36, 9 over 7, a, b, c, d); the paper's answer key gives (c) = 21, option (A).",
+  "explanation_ne": "संख्याहरू दुई पंक्तिमा राखिएका छन् (12, 26, 11, 36, 9 र 7, a, b, c, d); प्रश्नपत्रको उत्तर कुञ्जी अनुसार (c) = 21, विकल्प (A) हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-32",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd one out (letters)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which option is different?",
+  "question_ne": "कुन विकल्प फरक छ?",
+  "options": [
+   "BF",
+   "HL",
+   "SW",
+   "JN"
+  ],
+  "options_ne": [
+   "BF",
+   "HL",
+   "SW",
+   "JN"
+  ],
+  "answer": 3,
+  "explanation": "In BF, HL and SW both letters lie in the same half of the alphabet (B, F, H, L in the first half; S, W in the second half), while J (10th letter) is in the first half and N (14th letter) is in the second half — so JN is the odd one out.",
+  "explanation_ne": "BF, HL र SW मा दुवै अक्षर वर्णमालाको एउटै आधा भागमा पर्छन् (B, F, H, L पहिलो आधामा; S, W दोस्रो आधामा), तर J (१०औं अक्षर) पहिलो आधामा र N (१४औं अक्षर) दोस्रो आधामा पर्छ — त्यसैले JN फरक हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-33",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following options replaces the question mark? 4 : 269 :: 5 : ?",
+  "question_ne": "तल दिइएका मध्ये कुन विकल्पले प्रश्न चिन्हलाई प्रतिस्थापन गर्दछ? ४ : २६९ :: ५ : ?",
+  "options": [
+   "529",
+   "538",
+   "629",
+   "638"
+  ],
+  "options_ne": [
+   "५२९",
+   "५३८",
+   "६२९",
+   "६३८"
+  ],
+  "answer": 3,
+  "explanation": "4 to the power 4 plus 13 is 269 (256 + 13), so 5 to the power 4 plus 13 is 638 (625 + 13).",
+  "explanation_ne": "४ को ४ घातमा १३ जोड्दा २६९ हुन्छ (२५६ + १३), त्यसैले ५ को ४ घातमा १३ जोड्दा ६३८ हुन्छ (६२५ + १३)।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-34",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average weight",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The average weight of a class of 24 students is 35 kilograms. If the average weight increases by 400 grams when the teacher's weight is included, what is the teacher's weight?",
+  "question_ne": "२४ जना विद्यार्थीहरूको कक्षाको औसत तौल ३५ किलोग्राम छ। शिक्षकको तौल समावेश गर्दा औसत तौल ४०० ग्राम बढ्छ भने शिक्षकको तौल कति रहेछ?",
+  "options": [
+   "45 kg",
+   "46 kg",
+   "47 kg",
+   "48 kg"
+  ],
+  "options_ne": [
+   "४५ केजी",
+   "४६ केजी",
+   "४७ केजी",
+   "४८ केजी"
+  ],
+  "answer": 0,
+  "explanation": "24 students average 35 kg = 840 kg in total. With the teacher, 25 people average 35.4 kg = 885 kg. Teacher = 885 − 840 = 45 kg.",
+  "explanation_ne": "24 जना विद्यार्थीको औसत 35 kg भएकाले जम्मा 840 kg हुन्छ। शिक्षकसहित 25 जनाको औसत 35.4 kg भएकाले जम्मा 885 kg हुन्छ। शिक्षकको तौल = 885 − 840 = 45 kg।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-35",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pass percentage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Sanjay scored 42% marks in an exam and failed by 60 marks. If the total full marks of the exam is 750, find the minimum percentage required to pass the exam.",
+  "question_ne": "सञ्जयले परीक्षामा ४२% अंक प्राप्त गर्यो र ६० अंकले अनुत्तीर्ण भयो। यदि परीक्षाको कुल पूर्णाङ्क ७५० हो भने परीक्षा उत्तीर्ण हुन चाहिने न्यूनतम प्रतिशत पत्ता लगाउनुहोस्।",
+  "options": [
+   "45%",
+   "46%",
+   "48%",
+   "50%"
+  ],
+  "options_ne": [
+   "४५%",
+   "४६%",
+   "४८%",
+   "५०%"
+  ],
+  "answer": 3,
+  "explanation": "42% of 750 = 315 marks. Pass mark = 315 + 60 = 375, which is 50% of 750.",
+  "explanation_ne": "750 को 42% = 315 अंक। उत्तीर्ण अंक = 315 + 60 = 375, जुन 750 को 50% हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-36",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Work and time",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sonam can complete a work in 30 days and Dilip can complete the same work in 40 days. If Sonam starts the work alone and leaves after 6 days, in how many days can Dilip complete the remaining work?",
+  "question_ne": "सोनाम कुनै कामलाई ३० दिनमा र दिलीप सो काम ४० दिनमा पूरा गर्न सक्छन्। यदि सोनामले एक्लै काम सुरु गरेर ६ दिन पछि छोडेमा दिलीपले सो काम बाँकी काम कति दिनमा पूरा गर्न सक्छ?",
+  "options": [
+   "30 days",
+   "32 days",
+   "34 days",
+   "36 days"
+  ],
+  "options_ne": [
+   "३० दिन",
+   "३२ दिन",
+   "३४ दिन",
+   "३६ दिन"
+  ],
+  "answer": 1,
+  "explanation": "Sonam does 1/30 of the work a day; in 6 days he does 6/30 = 1/5, leaving 4/5. Dilip does 1/40 a day, so he needs (4/5) ÷ (1/40) = 32 days.",
+  "explanation_ne": "सोनामले दिनमा कामको 1/30 भाग गर्छ; 6 दिनमा 6/30 = 1/5 भाग पूरा हुन्छ, 4/5 भाग बाँकी रहन्छ। दिलीपले दिनमा 1/40 भाग गर्छ, त्यसैले उसलाई (4/5) ÷ (1/40) = 32 दिन लाग्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-37",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If 40% of one number is equal to two-thirds of another number, what is the ratio of the first number to the second number?",
+  "question_ne": "यदि एउटा संख्याको ४०%, अर्को संख्याको दुई तिहाइ बराबर छ भने, पहिलो संख्या र दोस्रो संख्याको अनुपात कति हो?",
+  "options": [
+   "2:5",
+   "5:3",
+   "5:2",
+   "7:3"
+  ],
+  "options_ne": [
+   "२:५",
+   "५:३",
+   "५:२",
+   "७:३"
+  ],
+  "answer": 1,
+  "explanation": "40% of the first = 2/3 of the second, so first/second = (2/3) ÷ (40/100) = 5/3.",
+  "explanation_ne": "पहिलो संख्याको 40% = दोस्रो संख्याको 2/3 भएकाले, पहिलो/दोस्रो = (2/3) ÷ (40/100) = 5/3 हुन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-38",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and marked price",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "To gain a profit of 27.8% after giving a 10% discount, by what percentage above the cost price should the marked price of an item be fixed?",
+  "question_ne": "लागतलाई १०% छुट दिएर २७.८% नाफा प्राप्त गर्नको लागि कुनै एउटा सामानको खरिद मूल्य भन्दा कति प्रतिशतले बढी त्यस सामानको अंकित मूल्य निर्धारण गर्नुपर्छ?",
+  "options": [
+   "37.8%",
+   "40%",
+   "42%",
+   "45.6%"
+  ],
+  "options_ne": [
+   "३७.८%",
+   "४०%",
+   "४२%",
+   "४५.६%"
+  ],
+  "answer": 2,
+  "explanation": "Let cost price = 100. Selling price after 27.8% profit = 127.8. With a 10% discount, marked price × 0.9 = 127.8, so marked price = 142 — 42% above cost.",
+  "explanation_ne": "खरिद मूल्य 100 मानौं। 27.8% नाफापछि विक्री मूल्य = 127.8 हुन्छ। 10% छुटमा अंकित मूल्य × 0.9 = 127.8 भएकाले अंकित मूल्य = 142 हुन्छ — अर्थात् लागतभन्दा 42% बढी।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-39",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number figure (circle-square diagram)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In the figure shown, which option correctly replaces the question mark? The figure is a circle with a square inside it (the square's diagonals are drawn). The numbers outside the square are 7 (top), 9 (right), 15 (bottom) and 2 (left). The numbers inside the four triangles formed by the diagonals are 63 (top), 14 (left), ? (right) and 30 (bottom).",
+  "question_ne": "प्रस्तुत चित्रको श्रेणीमा प्रश्न चिन्हलाई कुन विकल्पले उपयुक्त हुन्छ? चित्रमा वृत्तभित्र वर्ग छ (वर्गका विकर्णहरू कोरिएका छन्)। वर्गबाहिरका संख्याहरू ७ (माथि), ९ (दायाँ), १५ (तल) र २ (बायाँ) छन्। विकर्णहरूले बनाएका चार त्रिभुजभित्रका संख्याहरू ६३ (माथि), १४ (बायाँ), ? (दायाँ) र ३० (तल) छन्।",
+  "options": [
+   "18",
+   "33",
+   "135",
+   "145"
+  ],
+  "options_ne": [
+   "१८",
+   "३३",
+   "१३५",
+   "१४५"
+  ],
+  "answer": 2,
+  "explanation": "Each inner number is the product of the two adjacent outer numbers: top 7 × 9 = 63, left 2 × 7 = 14, bottom 15 × 2 = 30, so right 9 × 15 = 135.",
+  "explanation_ne": "भित्रको प्रत्येक संख्या त्यससँग जोडिएका दुईवटा बाहिरी संख्याको गुणनफल हो: माथि 7 × 9 = 63, बायाँ 2 × 7 = 14, तल 15 × 2 = 30, त्यसैले दायाँ 9 × 15 = 135 हुन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-41",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which option is correct in place of the question mark (?) in the series given below? UAC, ZSG, ?, YEA",
+  "question_ne": "तल दिइएको प्रश्नवाचक(?) चिन्हमा कुन विकल्प सही हुन्छ? UAC, ZSG, ?, YEA",
+  "options": [
+   "JCO",
+   "ICO",
+   "JDO",
+   "JBO"
+  ],
+  "options_ne": [
+   "JCO",
+   "ICO",
+   "JDO",
+   "JBO"
+  ],
+  "answer": 0,
+  "explanation": "First letters increase by 5, 10, 15 (U→Z→J→Y); second letters increase by 18, 10, 2 (A→S→C→E); third letters increase by 4, 8, 12 (C→G→O→A). So the missing term is JCO.",
+  "explanation_ne": "पहिलो अक्षर ५, १०, १५ ले बढ्छ (U→Z→J→Y); दोस्रो अक्षर १८, १०, २ ले बढ्छ (A→S→C→E); तेस्रो अक्षर ४, ८, १२ ले बढ्छ (C→G→O→A)। त्यसैले छुटेको पद JCO हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-42",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dinesh starts walking from his home towards the east. After walking 25 metres he turns right and walks 10 metres. Then he turns right again and walks 15 metres. After that, if he has to turn right at an angle of 45 degrees and walk 30 metres, in which direction will he be going?",
+  "question_ne": "दिनेश आफ्नो घरबाट पूर्वतिर हिँड्न थाल्यो। २५ मिटर हिँडेपछि उ दायाँतिर मोडिएर १० मिटर हिँड्यो। त्यसपछि फेरि दायाँतिर मोडिएर १५ मिटर हिँड्यो। त्यसपछि उसलाई दायाँतिर ४५ डिग्रीको कोणमा मोडिएर ३० मिटर हिँड्नुपर्ने रहेछ भने उ कुन दिशा तर्फ जानुपर्ला?",
+  "options": [
+   "South-West",
+   "South-East",
+   "North-West",
+   "North-East"
+  ],
+  "options_ne": [
+   "दक्षिण-पश्चिम",
+   "दक्षिण-पूर्व",
+   "उत्तर-पश्चिम",
+   "उत्तर-पूर्व"
+  ],
+  "answer": 2,
+  "explanation": "Dinesh starts walking east, turns right to face south, then right again to face west. Turning right by 45 degrees from west points him north-west.",
+  "explanation_ne": "दिनेश पूर्वतिर हिँड्न सुरु गर्छ, दायाँ मोडिएर दक्षिणतिर, फेरि दायाँ मोडिएर पश्चिमतिर फर्कन्छ। पश्चिमबाट दायाँतिर ४५ डिग्री मोडिँदा उ उत्तर-पश्चिमतिर जान्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-43",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Reversed alphabet code",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the order of the English alphabet is reversed and each letter represents the letter in its new position, which of the following represents 'NASU EXAM'?",
+  "question_ne": "यदि अंग्रेजी वर्णमालाको क्रम उल्टो पारियो र प्रत्येक अक्षरले आफूले ओगटेको नयाँ स्थानको अक्षरलाई प्रतिनिधित्व गर्दछ भने, तलका मध्ये कुनले 'NASU EXAM' लाई प्रतिनिधित्व गर्दछ?",
+  "options": [
+   "MZGF VCZN",
+   "MZHF VCZN",
+   "MYGF VCZN",
+   "MZGE VCZN"
+  ],
+  "options_ne": [
+   "MZGF VCZN",
+   "MZHF VCZN",
+   "MYGF VCZN",
+   "MZGE VCZN"
+  ],
+  "answer": 1,
+  "explanation": "Reversing the alphabet (A↔Z, B↔Y, and so on): N→M, A→Z, S→H, U→F and E→V, X→C, A→Z, M→N, giving MZHF VCZN.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा (A↔Z, B↔Y, आदि): N→M, A→Z, S→H, U→F र E→V, X→C, A→Z, M→N हुन्छ, जसबाट MZHF VCZN बन्छ।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "NASU-2083-46",
+  "exam": [
+   "nasu"
+  ],
+  "topic": "English",
+  "subtopic": "Word analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which option is correct in place of the question mark (?) in the following? peach : cheap :: regul : ?",
+  "question_ne": "तल दिइएको प्रश्नवाचक(?) चिन्हमा कुन विकल्प सही हुन्छ? peach : cheap :: regul : ?",
+  "options": [
+   "majestic",
+   "king",
+   "large",
+   "special"
+  ],
+  "options_ne": [
+   "majestic",
+   "king",
+   "large",
+   "special"
+  ],
+  "answer": 2,
+  "explanation": "CHEAP is an anagram of PEACH (the same letters rearranged); LARGE is the corresponding anagram match for REGUL.",
+  "explanation_ne": "CHEAP भनेको PEACH का अक्षरहरू मिलाएर बनेको शब्द हो; त्यसैगरी REGUL का लागि मिल्ने शब्द LARGE हो।",
+  "source": "Previous Year — NaSu First Paper 2083-01-20"
+ },
+ {
+  "id": "KHAR-2083-01",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SDG Goal 5",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Among the 17 Sustainable Development Goals, what is Goal 5 related to?",
+  "question_ne": "दिगो विकासका १७ वटा लक्ष्यमध्ये Goal ५ के सँग सम्बन्धित छ?",
+  "options": [
+   "Gender Equality",
+   "Quality Education",
+   "Zero Hunger",
+   "Affordable and Clean Energy"
+  ],
+  "options_ne": [
+   "लैङ्गिक समानता",
+   "गुणस्तरीय शिक्षा",
+   "शून्य भोकमरी",
+   "किफायती र स्वच्छ ऊर्जा"
+  ],
+  "answer": 0,
+  "explanation": "SDG Goal 5 is Gender Equality.",
+  "explanation_ne": "दिगो विकास लक्ष्य ५ लैङ्गिक समानता हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-02",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Vaccines and diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the given statements are correct and which are wrong? (I) The DPT vaccine is given against diphtheria, tetanus and whooping cough. (II) The BCG vaccine is given within 1 year of a child's birth. (III) The polio vaccine is given to children to protect them from paralysis. (IV) Bifer disease is caused by the Lissa virus.",
+  "question_ne": "तल दिइएका भनाइ सही वा गलत के छन्? छुट्याउनुहोस्। (I) DPT खोप भ्यागुते रोग, धनुष्टङ्कार र लहरे खोकी विरुद्ध दिइने खोप हो। (II) BCG खोप बच्चा जन्मेको १ वर्ष भित्र दिइन्छ। (III) पक्षघातबाट बचाउन बच्चालाई पोलियो खोप दिइन्छ। (IV) बिफर रोग लिसा भाइरस (Lissa Virus) को कारण लाग्दछ।",
+  "options": [
+   "I and II correct, III and IV incorrect",
+   "I, II, III correct, IV incorrect",
+   "II, III, IV correct, I incorrect",
+   "I, II, III, IV all correct"
+  ],
+  "options_ne": [
+   "I र II ठीक, III र IV बेठीक",
+   "I, II, III ठीक, IV बेठीक",
+   "II, III, IV ठीक, I बेठीक",
+   "I, II, III, IV सबै ठीक"
+  ],
+  "answer": 1,
+  "explanation": "DPT protects against diphtheria, tetanus and whooping cough; BCG is given within the first year of birth; polio vaccine prevents paralysis. Statement (IV) is incorrect.",
+  "explanation_ne": "DPT ले भ्यागुते रोग, धनुष्टङ्कार र लहरे खोकीबाट बचाउँछ; BCG जन्मेको १ वर्षभित्र दिइन्छ; पोलियो खोपले पक्षघातबाट बचाउँछ। भनाइ (IV) गलत छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-03",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Vitamins and rickets",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Deficiency of which vitamin causes rickets in humans?",
+  "question_ne": "कुन भिटामिनको कमिले गर्दा मानिसमा रिकेट्स रोग लाग्दछ?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "options_ne": [
+   "भिटामिन A",
+   "भिटामिन B",
+   "भिटामिन C",
+   "भिटामिन D"
+  ],
+  "answer": 3,
+  "explanation": "Vitamin D deficiency causes rickets (weak, soft bones) in children.",
+  "explanation_ne": "भिटामिन D को कमीले बच्चाहरूमा रिकेट्स रोग (कमजोर र नरम हड्डी) लाग्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-04",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Bird flu and swine flu",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Study the statements below and choose the correct answer. (I) Bird flu is a disease that spreads from animals to humans. (II) Swine flu is a respiratory disease. (III) Bird flu was first seen in Cambodia.",
+  "question_ne": "तलको भनाइ अध्ययन गरी विकल्पबाट सही उत्तर छान्नुहोस्। (I) बर्डफ्लु जनावरबाट मानिसमा सर्ने रोग हो। (II) स्वाइनफ्लु श्वास-प्रश्वास सम्बन्धी रोग हो। (III) बर्डफ्लु सर्वप्रथम कम्बोडियामा देखा परेको थियो।",
+  "options": [
+   "I correct, II and III incorrect",
+   "I incorrect, II and III correct",
+   "I and II correct, III incorrect",
+   "I and III incorrect, II correct"
+  ],
+  "options_ne": [
+   "I ठीक, II र III बेठीक",
+   "I बेठीक, II र III ठीक",
+   "I र II ठीक, III बेठीक",
+   "I र III बेठीक, II ठीक"
+  ],
+  "answer": 2,
+  "explanation": "Bird flu (avian influenza) spreads from birds to humans, and swine flu is a respiratory illness. Bird flu was not first seen in Cambodia — so (I) and (II) are correct and (III) is incorrect.",
+  "explanation_ne": "बर्डफ्लु चराबाट मानिसमा सर्छ र स्वाइनफ्लु श्वास-प्रश्वास सम्बन्धी रोग हो। बर्डफ्लु सर्वप्रथम कम्बोडियामा देखा परेको थिएन — त्यसैले (I) र (II) सही र (III) गलत छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-05",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC objectives",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following are objectives of the SAARC organisation? (i) Promotion of economic growth, (ii) Promotion of cultural cooperation, (iii) Military cooperation against terrorism.",
+  "question_ne": "तलका मध्ये कुन चाहिँ सार्क संगठनका उद्देश्यहरू हुन्? (i) आर्थिक वृद्धि प्रवर्द्धन, (ii) सांस्कृतिक सहयोग अभिवृद्धि, (iii) आतङ्कवाद विरुद्ध सैन्य सहयोग।",
+  "options": [
+   "i and ii",
+   "ii and iii",
+   "i and iii",
+   "i, ii and iii all"
+  ],
+  "options_ne": [
+   "i र ii",
+   "ii र iii",
+   "i र iii",
+   "i, ii र iii सबै"
+  ],
+  "answer": 0,
+  "explanation": "SAARC's objectives include promoting economic growth and cultural cooperation. Military cooperation against terrorism is not a SAARC objective.",
+  "explanation_ne": "सार्कका उद्देश्यहरूमा आर्थिक वृद्धि र सांस्कृतिक सहयोगको प्रवर्द्धन पर्छ। आतङ्कवाद विरुद्ध सैन्य सहयोग सार्कको उद्देश्य होइन।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-06",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal T20 World Cup appearances",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In how many T20 World Cup cricket tournaments has Nepal participated so far?",
+  "question_ne": "नेपालले हालसम्म कतिवटा T20 विश्वकप क्रिकेट प्रतियोगितामा सहभागिता जनाएको छ?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "options_ne": [
+   "२",
+   "३",
+   "४",
+   "५"
+  ],
+  "answer": 1,
+  "explanation": "Nepal has played in three T20 World Cups (2014, 2024 and 2026).",
+  "explanation_ne": "नेपालले तीनवटा T20 विश्वकप (२०१४, २०२४ र २०२६) खेलेको छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-07",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Socrates birthplace",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In which country was the world-famous philosopher Socrates (Socrats) born?",
+  "question_ne": "विश्व विख्यात दार्शनिक सुकरात (Socrates) को जन्म कुन देशमा भएको हो?",
+  "options": [
+   "Russia",
+   "America",
+   "Germany",
+   "Greece"
+  ],
+  "options_ne": [
+   "रूस",
+   "अमेरिका",
+   "जर्मनी",
+   "ग्रीक"
+  ],
+  "answer": 3,
+  "explanation": "Socrates was born in Athens, Greece.",
+  "explanation_ne": "सुकरातको जन्म ग्रीसको एथेन्समा भएको थियो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-08",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "European Union",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following statements about the European Union is NOT true?",
+  "question_ne": "European Union का सम्बन्धमा देहायका मध्ये कुन भनाइ सत्य होइन?",
+  "options": [
+   "Its capital is in Belgium",
+   "It has 31 member countries",
+   "Britain is not its member",
+   "Spain is its member"
+  ],
+  "options_ne": [
+   "राजधानी बेल्जियममा रहेको छ",
+   "३१ राष्ट्र सदस्य छन्",
+   "बेलायत यसको सदस्य होइन",
+   "स्पेन यसको सदस्य हो"
+  ],
+  "answer": 1,
+  "explanation": "The European Union has 27 member countries, not 31. Its headquarters is in Brussels, Belgium; Britain is no longer a member, and Spain is a member.",
+  "explanation_ne": "युरोपेली संघमा २७ वटा सदस्य राष्ट्र छन्, ३१ होइनन्। यसको मुख्यालय बेल्जियमको ब्रसेल्समा छ; बेलायत अब सदस्य होइन र स्पेन सदस्य हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-09",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC population order",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the correct order of SAARC countries from largest to smallest by population?",
+  "question_ne": "तल दिइएका मध्ये जनसंख्याको आधारमा ठूलो देखि सानो सार्क राष्ट्रको क्रम कुन सही छ?",
+  "options": [
+   "Pakistan, Bangladesh, Nepal, Afghanistan",
+   "Pakistan, Bangladesh, Afghanistan, Nepal",
+   "Bangladesh, Pakistan, Nepal, Afghanistan",
+   "Afghanistan, Pakistan, Bangladesh, Nepal"
+  ],
+  "options_ne": [
+   "पाकिस्तान, बंगलादेश, नेपाल, अफगानिस्तान",
+   "पाकिस्तान, बंगलादेश, अफगानिस्तान, नेपाल",
+   "बंगलादेश, पाकिस्तान, नेपाल, अफगानिस्तान",
+   "अफगानिस्तान, पाकिस्तान, बंगलादेश, नेपाल"
+  ],
+  "answer": 1,
+  "explanation": "By population: Pakistan (about 240 million), Bangladesh (about 170 million), Afghanistan (about 40 million), Nepal (about 30 million).",
+  "explanation_ne": "जनसंख्याका आधारमा: पाकिस्तान (करिब २४ करोड), बंगलादेश (करिब १७ करोड), अफगानिस्तान (करिब ४ करोड), नेपाल (करिब ३ करोड)।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-10",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "ASEAN founding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When was the Association of Southeast Asian Nations (ASEAN) established?",
+  "question_ne": "दक्षिणपूर्वी एसियाली राष्ट्रहरूको संगठन (ASEAN) को स्थापना कहिले भएको हो?",
+  "options": [
+   "8 August 1967",
+   "8 August 1976",
+   "8 August 1977",
+   "8 August 1987"
+  ],
+  "options_ne": [
+   "सन् १९६७ अगस्ट ८",
+   "सन् १९७६ अगस्ट ८",
+   "सन् १९७७ अगस्ट ८",
+   "सन् १९८७ अगस्ट ८"
+  ],
+  "answer": 0,
+  "explanation": "ASEAN was founded on 8 August 1967 with the Bangkok Declaration.",
+  "explanation_ne": "आसियानको स्थापना ८ अगस्ट १९६७ मा बैंकक घोषणापत्रबाट भएको थियो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-11",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountain ranges matching",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the following about the world's mountain ranges and choose the correct answer. Group I: a) The world's longest mountain range, b) The highest peak of the African continent, c) Height of Mt. Manaslu, d) Height of Mt. Kanchenjunga. Group II: 1. Mount Kilimanjaro, 2. Andes, 3. 8586 metres, 4. 8163 metres.",
+  "question_ne": "विश्वका पर्वत शृङ्खलाहरूको सम्बन्धमा जोडा मिलाई सही उत्तर छान्नुहोस्। समूह I: a) विश्वको सबैभन्दा लामो पर्वतमाला, b) अफ्रिका महादेशको सर्वोच्च शिखर, c) मनास्लु हिमालको उचाइ, d) कञ्चनजङ्घा हिमालको उचाइ; समूह II: १. माउन्ट किलिमन्जारो, २. एण्डिज, ३. ८५८६ मिटर, ४. ८१६३ मिटर।",
+  "options": [
+   "a-2, b-1, c-3, d-4",
+   "a-4, b-3, c-2, d-1",
+   "a-2, b-1, c-4, d-3",
+   "a-1, b-2, c-3, d-4"
+  ],
+  "options_ne": [
+   "a-२, b-१, c-३, d-४",
+   "a-४, b-३, c-२, d-१",
+   "a-२, b-१, c-४, d-३",
+   "a-१, b-२, c-३, d-४"
+  ],
+  "answer": 2,
+  "explanation": "The world's longest mountain range is the Andes; Africa's highest peak is Mount Kilimanjaro; Manaslu is 8163 metres; Kanchenjunga is 8586 metres.",
+  "explanation_ne": "विश्वको सबैभन्दा लामो पर्वतमाला एण्डिज हो; अफ्रिकाको सर्वोच्च शिखर माउन्ट किलिमन्जारो हो; मनास्लु ८१६३ मिटर र कञ्चनजङ्घा ८५८६ मिटर अग्लो छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-12",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "SAARC time differences",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to Nepal Standard Time, when it is 9:15 in the morning in Nepal, which of the following times in SAARC countries is correct? (I) It is 9:30 in the morning in India. (II) It is 9:00 in the morning in Sri Lanka. (III) It is 8:30 at night in Pakistan. (IV) It is 8:00 at night in Afghanistan.",
+  "question_ne": "नेपालको प्रामाणिक समय अनुसार नेपालमा बिहानको ९:१५ बज्दा सार्क राष्ट्रहरूमा हुने समय फरकका आधारमा तलका मध्ये के/कुन समय सही हुन्छ? (I) भारतमा बिहानको ९:३० बज्छ। (II) श्रीलंकामा बिहानको ९:०० बज्छ। (III) पाकिस्तानमा रातको ८:३० बज्छ। (IV) अफगानिस्तानमा रातको ८:०० बज्छ।",
+  "options": [
+   "I and II are correct",
+   "Only II is correct",
+   "I, II and IV are correct",
+   "III and IV are correct"
+  ],
+  "options_ne": [
+   "I र II सही छन्",
+   "II मात्र सही छ",
+   "I, II र IV सही छन्",
+   "III र IV सही छन्"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is UTC+5:45, India and Sri Lanka are UTC+5:30 (15 minutes behind Nepal, so 9:00), Pakistan is UTC+5:00 (8:30 in the morning, not at night) and Afghanistan is UTC+4:30 (8:00 in the morning, not at night). Only (II) is correct.",
+  "explanation_ne": "नेपाल UTC+५:४५, भारत र श्रीलंका UTC+५:३० (नेपालभन्दा १५ मिनेट पछाडि, अर्थात् ९:००), पाकिस्तान UTC+५:०० (बिहान ८:३०, राति होइन) र अफगानिस्तान UTC+४:३० (बिहान ८:००, राति होइन) छन्। त्यसैले (II) मात्र सही छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-13",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Largest South American country",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the largest country in South America by area and population?",
+  "question_ne": "क्षेत्रफल तथा जनसंख्याका हिसाबले दक्षिण अमेरिका महादेशको सबैभन्दा ठूलो राष्ट्र कुन हो?",
+  "options": [
+   "Venezuela",
+   "Argentina",
+   "Chile",
+   "Brazil"
+  ],
+  "options_ne": [
+   "भेनेजुएला",
+   "अर्जेन्टिना",
+   "चिली",
+   "ब्राजिल"
+  ],
+  "answer": 3,
+  "explanation": "Brazil is the largest country in South America by both area and population.",
+  "explanation_ne": "ब्राजिल क्षेत्रफल र जनसंख्या दुवै हिसाबले दक्षिण अमेरिकाको सबैभन्दा ठूलो राष्ट्र हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-14",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Second World War Axis Powers",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who was the ruler of Italy, a member of the Axis Powers during the Second World War?",
+  "question_ne": "द्वितीय विश्वयुद्धका समयमा Axis Power अन्तर्गत रहेको राष्ट्र इटालीका शासक को थिए?",
+  "options": [
+   "Adolf Hitler",
+   "Archduke Ferdinand",
+   "Benito Mussolini",
+   "Harry Truman"
+  ],
+  "options_ne": [
+   "एडोल्फ हिटलर",
+   "अर्कड्यूक फर्डिनेन्ड",
+   "बेनिटो मुसोलिनी",
+   "ह्यारी ट्रम्यान"
+  ],
+  "answer": 2,
+  "explanation": "Benito Mussolini was the ruler of Italy during the Second World War; Hitler led Germany and Truman was the US President.",
+  "explanation_ne": "बेनिटो मुसोलिनी द्वितीय विश्वयुद्धका समयमा इटालीका शासक थिए; हिटलर जर्मनीका र ट्रम्यान अमेरिकी राष्ट्रपति थिए।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-15",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Geological time divisions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The geological history of the Earth, based on the origin of living beings, is divided into four parts: Eon, Era, Period and Epoch. Which is the largest division?",
+  "question_ne": "जीवहरूको उत्पत्तिको आधारमा पृथ्वीको भौगोलिक इतिहासलाई इओन (Eon), इरा (Era), पिरियड (Period) र इपोक (Epoch) गरी चार भागमा बाँडिएको छ। जसमा सबैभन्दा ठूलो भाग कुन हो?",
+  "options": [
+   "Eon",
+   "Era",
+   "Period",
+   "Epoch"
+  ],
+  "options_ne": [
+   "इओन",
+   "इरा",
+   "पिरियड",
+   "इपोक"
+  ],
+  "answer": 0,
+  "explanation": "The Eon is the largest division of geological time; it is divided into eras, which are divided into periods, which are divided into epochs.",
+  "explanation_ne": "इओन भौगोलिक समयको सबैभन्दा ठूलो विभाजन हो; इओनलाई इरामा, इरालाई पिरियडमा र पिरियडलाई इपोकमा विभाजन गरिन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-16",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers and their origins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the rivers with their places of origin and choose the correct answer. Rivers: 1) Sano Bheri, 2) Budhigandaki, 3) Trishuli, 4) Modi. Places of origin: a. Annapurna Himal, b. Gosaikunda, c. Dhaulagiri Himal, d. Ganesh Himal.",
+  "question_ne": "तल दिइएका नदीहरू र तिनका उत्पत्ति स्थलहरू बीच जोडा मिलाउनुहोस्। नदीहरू: १) सानो भेरी, २) बुढीगण्डकी, ३) त्रिशुली, ४) मोदी; उत्पत्ति स्थल: a. अन्नपूर्ण हिमाल, b. गोसाँईकुण्ड, c. धौलागिरी हिमाल, d. गणेश हिमाल।",
+  "options": [
+   "1-c, 2-d, 3-b, 4-a",
+   "1-c, 2-b, 3-d, 4-a",
+   "1-a, 2-c, 3-d, 4-b",
+   "1-d, 2-c, 3-b, 4-a"
+  ],
+  "options_ne": [
+   "१-c, २-d, ३-b, ४-a",
+   "१-c, २-b, ३-d, ४-a",
+   "१-a, २-c, ३-d, ४-b",
+   "१-d, २-c, ३-b, ४-a"
+  ],
+  "answer": 0,
+  "explanation": "Sano Bheri originates from Dhaulagiri Himal, Budhigandaki from Ganesh Himal, Trishuli from Gosaikunda and Modi from Annapurna Himal — 1-c, 2-d, 3-b, 4-a.",
+  "explanation_ne": "सानो भेरी धौलागिरी हिमालबाट, बुढीगण्डकी गणेश हिमालबाट, त्रिशुली गोसाँईकुण्डबाट र मोदी अन्नपूर्ण हिमालबाट उत्पत्ति हुन्छन् — १-c, २-d, ३-b, ४-a।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-17",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Historical massacres (Parva)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match Group I with Group II and choose the correct answer. Group I: a) Makai Parva, b) Langri Parva, c) Alau Parva, d) Bhandarkhal Parva. Group II: i. B.S. 1903, ii. B.S. 1987, iii. B.S. 1904, iv. B.S. 1977.",
+  "question_ne": "समूह I सँग समूह II को जोडा मिलाई सही विकल्प रोज्नुहोस्। समूह I: a) मकै पर्व, b) लाङ्ग्री पर्व, c) अलौ पर्व, d) भण्डारखाल पर्व; समूह II: i. वि.सं. १९०३, ii. वि.सं. १९८७, iii. वि.सं. १९०४, iv. वि.सं. १९७७।",
+  "options": [
+   "a-i, b-iv, c-ii, d-iii",
+   "a-i, b-ii, c-iii, d-iv",
+   "a-ii, b-iv, c-i, d-iii",
+   "a-iv, b-ii, c-iii, d-i"
+  ],
+  "options_ne": [
+   "a-i, b-iv, c-ii, d-iii",
+   "a-i, b-ii, c-iii, d-iv",
+   "a-ii, b-iv, c-i, d-iii",
+   "a-iv, b-ii, c-iii, d-i"
+  ],
+  "answer": 3,
+  "explanation": "Makai Parva took place in B.S. 1977, Langri Parva in B.S. 1987, Alau Parva in B.S. 1904 and Bhandarkhal Parva in B.S. 1903 — a-iv, b-ii, c-iii, d-i.",
+  "explanation_ne": "मकै पर्व वि.सं. १९७७ मा, लाङ्ग्री पर्व वि.सं. १९८७ मा, अलौ पर्व वि.सं. १९०४ मा र भण्डारखाल पर्व वि.सं. १९०३ मा भएको थियो — a-iv, b-ii, c-iii, d-i।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-18",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nelson Mandela death",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When did Nelson Mandela, the world leader against apartheid (racial discrimination), die?",
+  "question_ne": "रंगभेद विरुद्धका विश्व नेता नेल्सन मण्डेलाको निधन कहिले भएको थियो?",
+  "options": [
+   "2 December 2013",
+   "4 December 2013",
+   "5 December 2013",
+   "10 December 2013"
+  ],
+  "options_ne": [
+   "२ डिसेम्बर २०१३",
+   "४ डिसेम्बर २०१३",
+   "५ डिसेम्बर २०१३",
+   "१० डिसेम्बर २०१३"
+  ],
+  "answer": 2,
+  "explanation": "Nelson Mandela died on 5 December 2013 at the age of 95.",
+  "explanation_ne": "नेल्सन मण्डेलाको ५ डिसेम्बर २०१३ मा ९५ वर्षको उमेरमा निधन भएको थियो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-19",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichchhavi period administration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the Lichchhavi period, what was the body that settled small disputes in a village called?",
+  "question_ne": "लिच्छवीकालमा गाउँको सानातिना मुद्दा मिलाउने निकायलाई के भनिन्थ्यो?",
+  "options": [
+   "Mahapratihar",
+   "Panchali",
+   "Samanta",
+   "Mahasamanta"
+  ],
+  "options_ne": [
+   "महाप्रतिहार",
+   "पाञ्चाली",
+   "सामन्त",
+   "महासामन्त"
+  ],
+  "answer": 1,
+  "explanation": "In the Lichchhavi period the Panchali was the local body that settled small disputes in a village.",
+  "explanation_ne": "लिच्छवीकालमा पाञ्चाली गाउँका सानातिना मुद्दा मिलाउने स्थानीय निकाय थियो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-20",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Jana Andolan 2062/63 duration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many days did the Jana Andolan of 2062/63 last?",
+  "question_ne": "वि.सं. २०६२/६३ को जनआन्दोलन कति दिन सम्म चलेको थियो?",
+  "options": [
+   "15 days",
+   "17 days",
+   "19 days",
+   "21 days"
+  ],
+  "options_ne": [
+   "१५ दिन",
+   "१७ दिन",
+   "१९ दिन",
+   "२१ दिन"
+  ],
+  "answer": 2,
+  "explanation": "The People's Movement of 2062/63 lasted 19 days (from Chaitra 24, 2062 to Baisakh 11, 2063).",
+  "explanation_ne": "२०६२/६३ को जनआन्दोलन १९ दिन चलेको थियो (२०६२ चैत २४ देखि २०६३ वैशाख ११ सम्म)।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-21",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Official list comparison",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Study the information given below. The original list reads: 'Hetauda Kapada Udyog Ltd Hetauda, Bagmati Province, Nepal Hetauda Industrial Area'. The list to be compared with it is presented in three columns: Column I — 'Hetauda Kapada Udyog Pvt. Ltd'; Column II — 'Bagmati Province, Nepal'; Column III — 'Hetauda Industrial District'. Comparing the information in the columns with the original list, choose the correct option.",
+  "question_ne": "दिइएका सूचनाहरूको अध्ययन गर्नुहोस्। मूल सूची (त्रुटी रहित सूची) मा 'Hetauda Kapada Udyog Ltd Hetauda, Bagmati Province, Nepal Hetauda Industrial Area' लेखिएको छ। माथि उल्लेखित सूचनालाई रुजु गर्नुपर्ने सूचीलाई तीन महलहरूमा प्रस्तुत गरिएको छ: महल I — 'Hetauda Kapada Udyog Pvt. Ltd'; महल II — 'Bagmati Province, Nepal'; महल III — 'Hetauda Industrial District'। रुजु गर्नुपर्ने सूचीमा दिइएका सूचनाहरूलाई मूल सूचीमा दिइएका सूचनाहरूसँग तुलना गरी दिइएका मध्ये सही विकल्प छान्नुहोस्।",
+  "options": [
+   "There is no error in any column",
+   "There is an error in one column",
+   "There are errors in two columns",
+   "There are errors in all three columns"
+  ],
+  "options_ne": [
+   "कुनै पनि महलमा त्रुटी छैन",
+   "एउटा महलमा त्रुटी रहेको छ",
+   "दुईवटा महलहरूमा त्रुटी रहेका छन्",
+   "तीनैवटा महलहरूमा त्रुटी रहेका छन्"
+  ],
+  "answer": 3,
+  "explanation": "All three columns differ from the original list: Column I adds \"Pvt.\" (the original says \"Ltd\"), Column II drops \"Hetauda,\" and Column III writes \"District\" in place of \"Area\".",
+  "explanation_ne": "तीनैवटा महल मूल सूचीभन्दा फरक छन्: महल I मा \"Pvt.\" थपिएको छ (मूलमा \"Ltd\" छ), महल II मा \"Hetauda,\" छुटेको छ र महल III मा \"Area\" को ठाउँमा \"District\" लेखिएको छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-22",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Letter proofreading (error count)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "An original paragraph and an answer copy of the same paragraph are shown. The paragraph is about Nepal's role in solving problems such as climate change through diplomacy, Nepal's participation in the Non-Aligned Movement, and discussions on the challenges, the impact of climate change and reducing the immediate effects on Nepal and countries like Nepal. After reading both copies, find out in how many places there is an error in the answer copy.",
+  "question_ne": "मूल प्रति र उत्तर प्रति देखाइएका छन्। उक्त अनुच्छेद नेपालले जलवायु परिवर्तन लगायतका विभिन्न ठाउँमा देखा परिरहेका समस्या समाधान गर्नलाई कूटनीतिक ढङ्गबाट संसदले खेल्ने भूमिका, नन एलाइण्मेण्ट मोमेण्टमा नेपालको सहभागिता, र अहिले देखा परेका चुनौती, जलवायु परिवर्तनले पारिरहेको प्रभाव र नेपाल तथा नेपालजस्ता मुलुकहरूमा तत्काल परेका असरहरूलाई न्यूनीकरण गर्ने लगायतका विषयमा छलफल हुनुपर्ने बारेमा हो। माथिका हरफहरू पढी उत्तर प्रतिमा कति ठाउँमा त्रुटी भएको छ, पत्ता लगाउनुहोस्।",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "options_ne": [
+   "१",
+   "२",
+   "३",
+   "४"
+  ],
+  "answer": 0,
+  "explanation": "The paper's answer key gives 1 error. (The single differing character between the original paragraph and the answer copy could not be pinpointed from the scanned image.)",
+  "explanation_ne": "प्रश्नपत्रको उत्तर कुञ्जी अनुसार १ वटा त्रुटि छ। (मूल अनुच्छेद र उत्तर प्रतिलिपिबीच फरक परेको एउटै अक्षर स्क्यान गरिएको तस्बिरबाट ठ्याक्कै छुट्याउन सकिएन।)",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-24",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the series given below, what comes in place of the question mark (?)? Find out. BEH, EID, ?, KUV",
+  "question_ne": "तल दिइएको क्रमांकमा प्रश्नवाचक चिन्ह (?) को ठाउँमा के हुन्छ? पत्ता लगाउनुहोस्। BEH, EID, ?, KUV",
+  "options": [
+   "HOZ",
+   "IOV",
+   "VOP",
+   "GOY"
+  ],
+  "options_ne": [
+   "HOZ",
+   "IOV",
+   "VOP",
+   "GOY"
+  ],
+  "answer": 0,
+  "explanation": "First letters increase by 3 (B→E→H→K); third letters decrease by 4 (H→D→Z→V). So the missing term is HOZ.",
+  "explanation_ne": "पहिलो अक्षर ३ ले बढ्छ (B→E→H→K); तेस्रो अक्षर ४ ले घट्छ (H→D→Z→V)। त्यसैले छुटेको पद HOZ हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-26",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd one out (letters)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the odd one out from the options given below.",
+  "question_ne": "तल दिइएका विकल्पहरूबाट नमिल्ने विकल्प छनौट गर्नुहोस्।",
+  "options": [
+   "PNLJ",
+   "VTRP",
+   "JHFD",
+   "TQOM"
+  ],
+  "options_ne": [
+   "PNLJ",
+   "VTRP",
+   "JHFD",
+   "TQOM"
+  ],
+  "answer": 3,
+  "explanation": "In PNLJ, VTRP and JHFD each letter decreases by 2 from the previous one (P→N→L→J, V→T→R→P, J→H→F→D), while in TQOM the first step decreases by 3 (T→Q→O→M) — so TQOM is the odd one out.",
+  "explanation_ne": "PNLJ, VTRP र JHFD मा प्रत्येक अक्षर अघिल्लोभन्दा २ ले घट्छ (P→N→L→J, V→T→R→P, J→H→F→D), तर TQOM मा पहिलो चरण ३ ले घट्छ (T→Q→O→M) — त्यसैले TQOM फरक छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-27",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the suitable option to replace the question mark (?) in the question below. 6 : 35 :: 7 : ?",
+  "question_ne": "तलको प्रश्नमा दिइएको प्रश्नवाचक चिन्ह (?) रहेको स्थानमा उपयुक्त विकल्प छनौट गर्नुहोस्। ६ : ३५ :: ७ : ?",
+  "options": [
+   "48",
+   "42",
+   "34",
+   "13"
+  ],
+  "options_ne": [
+   "४८",
+   "४२",
+   "३४",
+   "१३"
+  ],
+  "answer": 0,
+  "explanation": "6 squared minus 1 is 35 (36 − 1); 7 squared minus 1 is 48 (49 − 1).",
+  "explanation_ne": "६ को वर्गबाट १ घटाउँदा ३५ हुन्छ (३६ − १); ७ को वर्गबाट १ घटाउँदा ४८ हुन्छ (४९ − १)।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-29",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ordering decimals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When the numbers given below are arranged in numerical order, in which place does the underlined number fall? Find out. 7.215, 72.15, 721.5 and 7.251 (7.251 is underlined).",
+  "question_ne": "तल दिइएका अंकहरूलाई संख्यात्मक क्रममा फाइलिद गर्दा underlined गरिएको अंक कुन स्थानमा पर्दछ? पत्ता लगाउनुहोस्। ७.२१५, ७२.१५, ७२१.५ र ७.२५१ (७.२५१ मा रेखाङ्कन गरिएको छ)।",
+  "options": [
+   "First",
+   "Second",
+   "Third",
+   "Fourth"
+  ],
+  "options_ne": [
+   "पहिलो",
+   "दोस्रो",
+   "तेस्रो",
+   "चौथो"
+  ],
+  "answer": 1,
+  "explanation": "In ascending order: 7.215 < 7.251 < 72.15 < 721.5, so the underlined number 7.251 is in the second place.",
+  "explanation_ne": "बढ्दो क्रममा: ७.२१५ < ७.२५१ < ७२.१५ < ७२१.५ हुन्छ, त्यसैले रेखाङ्कन गरिएको संख्या ७.२५१ दोस्रो स्थानमा पर्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-30",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Alphabetical order of names",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When the names given below are arranged in alphabetical order, which is the correct order? 1. Anukram, 2. Sitaram, 3. Anayas, 4. Jagat, 5. Thanbahadur, 6. Indramaya.",
+  "question_ne": "तलका नामहरूलाई वर्णानुक्रम अनुसार राख्दा कुन चाहि सही हुन्छ? १. अनुक्रम, २. सिताराम, ३. अनायस, ४. जगत, ५. थानबहादुर, ६. इन्द्रमाया।",
+  "options": [
+   "1, 3, 5, 4, 6, 2",
+   "3, 1, 5, 6, 4, 2",
+   "3, 1, 4, 5, 6, 2",
+   "3, 1, 6, 4, 5, 2"
+  ],
+  "options_ne": [
+   "१, ३, ५, ४, ६, २",
+   "३, १, ५, ६, ४, २",
+   "३, १, ४, ५, ६, २",
+   "३, १, ६, ४, ५, २"
+  ],
+  "answer": 3,
+  "explanation": "In Devanagari alphabetical order: Anayas (3), Anukram (1), Indramaya (6), Jagat (4), Thanbahadur (5), Sitaram (2) — order 3, 1, 6, 4, 5, 2.",
+  "explanation_ne": "देवनागरी वर्णानुक्रम अनुसार: अनायस (३), अनुक्रम (१), इन्द्रमाया (६), जगत (४), थानबहादुर (५), सिताराम (२) — क्रम ३, १, ६, ४, ५, २ हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-31",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "League of Nations founding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When was the League of Nations established?",
+  "question_ne": "राष्ट्र संघ (League of Nations) को स्थापना कहिले भएको हो?",
+  "options": [
+   "1917",
+   "1918",
+   "1919",
+   "1920"
+  ],
+  "options_ne": [
+   "१९१७",
+   "१९१८",
+   "१९१९",
+   "१९२०"
+  ],
+  "answer": 3,
+  "explanation": "The League of Nations was established in 1920 (its Covenant came into force on 10 January 1920).",
+  "explanation_ne": "राष्ट्र संघको स्थापना सन् १९२० मा भएको थियो (यसको विधान १० जनवरी १९२० मा लागू भएको थियो)।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-32",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Industrial Revolution inventions and inventors",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match the inventions made during the Industrial Revolution with their inventors. Inventions: i) Powerloom, ii) Steam Engine, iii) Steam Railway Engine, iv) Safety Lamp. Inventors: a. James Watt, b. Edmund Cartwright, c. Humphry Davy, d. George Stephenson.",
+  "question_ne": "औद्योगिक क्रान्तिको क्रममा भएका तलका आविष्कार र आविष्कारकबीच जोडा मिलाउनुहोस्। आविष्कार: i) पावरलुम, ii) स्टिम इञ्जिन, iii) वाफबाट चल्ने रेल इञ्जिन, iv) सेफ्टील्याम्प; आविष्कारक: a. जेम्सवाट, b. एडमण्ड कार्ट राइट, c. हम्फ्री डेभि, d. जर्ज स्टिफेन्सन।",
+  "options": [
+   "i-b, ii-a, iii-d, iv-c",
+   "i-d, ii-c, iii-b, iv-a",
+   "i-b, ii-d, iii-a, iv-c",
+   "i-d, ii-a, iii-b, iv-c"
+  ],
+  "options_ne": [
+   "i-b, ii-a, iii-d, iv-c",
+   "i-d, ii-c, iii-b, iv-a",
+   "i-b, ii-d, iii-a, iv-c",
+   "i-d, ii-a, iii-b, iv-c"
+  ],
+  "answer": 0,
+  "explanation": "The powerloom was invented by Edmund Cartwright, the steam engine by James Watt, the steam railway engine by George Stephenson and the safety lamp by Humphry Davy — i-b, ii-a, iii-d, iv-c.",
+  "explanation_ne": "पावरलुम एडमण्ड कार्ट राइटले, स्टिम इञ्जिन जेम्सवाटले, वाफबाट चल्ने रेल इञ्जिन जर्ज स्टिफेन्सनले र सेफ्टील्याम्प हम्फ्री डेभिले आविष्कार गरेका थिए — i-b, ii-a, iii-d, iv-c।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-33",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fundamental rights (Part 3)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following rights does NOT fall under the fundamental rights mentioned in Part 3 of the Constitution of Nepal?",
+  "question_ne": "देहायका मध्ये कुन हक नेपालको संविधानको भाग ३ मा उल्लेख गरिएका मौलिक हकहरू अन्तर्गत पर्दैन?",
+  "options": [
+   "Right to a clean environment",
+   "Right relating to food",
+   "Right to inclusion",
+   "Right to social justice"
+  ],
+  "options_ne": [
+   "स्वच्छ वातावरणको हक",
+   "खाद्य सम्बन्धी हक",
+   "समावेशीताको हक",
+   "सामाजिक न्यायको हक"
+  ],
+  "answer": 2,
+  "explanation": "The right to a clean environment (Article 30), the right relating to food (Article 36) and the right to social justice (Article 42) are fundamental rights in Part 3; the right to inclusion is not listed as a fundamental right there.",
+  "explanation_ne": "स्वच्छ वातावरणको हक (धारा ३०), खाद्य सम्बन्धी हक (धारा ३६) र सामाजिक न्यायको हक (धारा ४२) भाग ३ का मौलिक हक हुन्; समावेशीताको हक त्यहाँ मौलिक हकका रूपमा सूचीकृत छैन।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-34",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Matching (festivals, persons, vehicles)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the following and choose the correct answer. Group Ka: 1) Vasant Panchami, 2) Vaidehi, 3) Airavat Elephant, 4) Ganesh. Group Kha: a. Sita, b. Saraswati, c. Mouse, d. Indra.",
+  "question_ne": "जोडा मिलाउनुहोस्। समूह क: १) वसन्तपञ्चमी, २) वैदेही, ३) ऐरावत हाती, ४) गणेश; समूह ख: a. सीता, b. सरस्वती, c. मुसो, d. इन्द्र।",
+  "options": [
+   "1-b, 2-a, 3-d, 4-c",
+   "1-a, 2-c, 3-b, 4-d",
+   "1-a, 2-b, 3-d, 4-c",
+   "1-d, 2-c, 3-a, 4-b"
+  ],
+  "options_ne": [
+   "१-b, २-a, ३-d, ४-c",
+   "१-a, २-c, ३-b, ४-d",
+   "१-a, २-b, ३-d, ४-c",
+   "१-d, २-c, ३-a, ४-b"
+  ],
+  "answer": 0,
+  "explanation": "Vasant Panchami is the festival of Saraswati, Vaidehi is Sita, the Airavat elephant is Indra's vehicle and the mouse is Ganesh's vehicle — 1-b, 2-a, 3-d, 4-c.",
+  "explanation_ne": "वसन्तपञ्चमी सरस्वतीको पर्व हो, वैदेही सीता हुन्, ऐरावत हाती इन्द्रको वाहन हो र मुसो गणेशको वाहन हो — १-b, २-a, ३-d, ४-c।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-35",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "16th Periodic Plan per capita income target",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By the end of the 16th Periodic Plan, what is the target set for Nepal's per capita income in US dollars?",
+  "question_ne": "सोर्हौं आवधिक योजनाको अन्त्यसम्म नेपालको प्रतिव्यक्ति आय कति अमेरिकी डलर पुर्याउने लक्ष्य राखिएको छ?",
+  "options": [
+   "1456",
+   "2150",
+   "2351",
+   "2525"
+  ],
+  "options_ne": [
+   "१४५६",
+   "२१५०",
+   "२३५१",
+   "२५२५"
+  ],
+  "answer": 2,
+  "explanation": "The 16th Periodic Plan (2081/82–2085/86) targets raising Nepal's per capita income to USD 2,351 by the end of the plan period.",
+  "explanation_ne": "सोर्हौं आवधिक योजना (२०८१/८२–२०८५/८६) ले योजनाको अन्त्यसम्म नेपालको प्रतिव्यक्ति आय २,३५१ अमेरिकी डलर पुर्याउने लक्ष्य राखेको छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-36",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Foreign employment (Economic Survey 2081/82)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the Economic Survey 2081/82, how many countries have been opened institutionally for foreign employment?",
+  "question_ne": "आर्थिक सर्वेक्षण, २०८१/८२ अनुसार वैदेशिक रोजगारीका लागि संस्थागत रूपमा खुला गरिएका मुलुकको संख्या कति रहेको छ?",
+  "options": [
+   "105",
+   "111",
+   "160",
+   "178"
+  ],
+  "options_ne": [
+   "१०५",
+   "१११",
+   "१६०",
+   "१७८"
+  ],
+  "answer": 1,
+  "explanation": "According to the Economic Survey 2081/82, 111 countries have been opened institutionally for foreign employment.",
+  "explanation_ne": "आर्थिक सर्वेक्षण २०८१/८२ अनुसार वैदेशिक रोजगारीका लागि संस्थागत रूपमा 111 वटा मुलुक खुला गरिएका छन्।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-37",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Constitution of Nepal (rights, schedules, duties)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Choose the correct answer about the Constitution of Nepal from the following. I. The Constitution of Nepal has 31 fundamental rights. II. The Constitution of Nepal has 9 schedules. III. Article 48 of the Constitution of Nepal provides for 4 duties of citizens.",
+  "question_ne": "नेपालको संविधानको सम्बन्धमा देहायका मध्येबाट ठीक उत्तर छान्नुहोस्? I. नेपालको संविधानमा ३१ वटा मौलिक हकहरू रहेका छन्। II. नेपालको संविधानमा ९ वटा अनुसूचीहरू रहेका छन्। III. नेपालको संविधानको धारा ४८ मा नागरिकका ४ वटा कर्तव्य हुने प्रावधान रहेको छ।",
+  "options": [
+   "Only I is correct",
+   "I and II are correct",
+   "I, II and III are all correct",
+   "II and III are correct"
+  ],
+  "options_ne": [
+   "I मात्र ठीक",
+   "I र II ठीक",
+   "I, II र III तीनवटै ठीक",
+   "II र III ठीक"
+  ],
+  "answer": 2,
+  "explanation": "The Constitution of Nepal has 31 fundamental rights, 9 schedules, and Article 48 lists 4 duties of citizens — so all three statements are correct.",
+  "explanation_ne": "नेपालको संविधानमा ३१ वटा मौलिक हक, ९ वटा अनुसूची छन् र धारा ४८ मा नागरिकका ४ वटा कर्तव्य उल्लेख छन् — त्यसैले तीनवटै भनाइ सही छन्।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-38",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Nepali authors and their works",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Match Group A with Group B and choose the correct answer. Group A: a) Bhawani Bhikshu, b) Siddhicharan Shrestha, c) Madhavprasad Ghimire, d) Motiram Bhatta. Group B: 1. Gajendra Moksha, 2. Navamanjari, 3. Gunkeshari, 4. Urvashi.",
+  "question_ne": "तल दिइएको समूह A र समूह B बीच जोडा मिलाई सही उत्तर छान्नुहोस्। समूह A: a) भवानी भिक्षु, b) सिद्धिचरण श्रेष्ठ, c) माधवप्रसाद घिमिरे, d) मोतिराम भट्ट; समूह B: १. गजेन्द्र मोक्ष, २. नवमञ्जरी, ३. गुनकेशरी, ४. उर्वशी।",
+  "options": [
+   "a-3, b-2, c-4, d-1",
+   "a-3, b-4, c-2, d-1",
+   "a-3, b-4, c-1, d-2",
+   "a-1, b-4, c-2, d-3"
+  ],
+  "options_ne": [
+   "a-३, b-२, c-४, d-१",
+   "a-३, b-४, c-२, d-१",
+   "a-३, b-४, c-१, d-२",
+   "a-१, b-४, c-२, d-३"
+  ],
+  "answer": 1,
+  "explanation": "Bhawani Bhikshu wrote Gunkeshari, Siddhicharan Shrestha wrote Urvashi, Madhavprasad Ghimire wrote Navamanjari and Motiram Bhatta wrote Gajendra Moksha — a-3, b-4, c-2, d-1.",
+  "explanation_ne": "भवानी भिक्षुले गुनकेशरी, सिद्धिचरण श्रेष्ठले उर्वशी, माधवप्रसाद घिमिरेले नवमञ्जरी र मोतिराम भट्टले गजेन्द्र मोक्ष लेखेका हुन् — a-३, b-४, c-२, d-१।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-39",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "provincial-psc",
+   "section-officer"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "International Yoga Day",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which date is International Yoga Day celebrated?",
+  "question_ne": "अन्तर्राष्ट्रिय योग दिवस कुन मितिमा मनाइन्छ?",
+  "options": [
+   "21 January",
+   "21 March",
+   "21 June",
+   "21 July"
+  ],
+  "options_ne": [
+   "२१ जनवरी",
+   "२१ मार्च",
+   "२१ जुन",
+   "२१ जुलाई"
+  ],
+  "answer": 2,
+  "explanation": "International Yoga Day is celebrated on 21 June every year.",
+  "explanation_ne": "अन्तर्राष्ट्रिय योग दिवस हरेक वर्ष २१ जुनमा मनाइन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-40",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "WHO Nepal membership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When did Nepal become a member of the World Health Organization (WHO)?",
+  "question_ne": "नेपाल विश्व स्वास्थ्य संगठन (WHO) को सदस्य कहिले भएको हो?",
+  "options": [
+   "2 September 1935",
+   "2 June 1935",
+   "2 September 1953",
+   "2 June 1953"
+  ],
+  "options_ne": [
+   "२ सेप्टेम्बर १९३५",
+   "२ जुन १९३५",
+   "२ सेप्टेम्बर १९५३",
+   "२ जुन १९५३"
+  ],
+  "answer": 2,
+  "explanation": "Nepal became a member of the World Health Organization on 2 September 1953.",
+  "explanation_ne": "नेपाल २ सेप्टेम्बर १९५३ मा विश्व स्वास्थ्य संगठनको सदस्य भएको थियो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-42",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Calendar (every fourth day)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If Padam starts cricket practice on Ashoj 1 and practises every fourth day of that month, on which day of the month will his last practice day fall?",
+  "question_ne": "यदि पदम असोज १ गते देखि सुरु गरी उक्त महिनाको हरेक चौथो दिन क्रिकेट अभ्यास गर्छ भने, उक्त महिनाको कुन दिन उसको अभ्यास गर्ने अन्तिम दिन हुनेछ?",
+  "options": [
+   "27 Ashoj",
+   "28 Ashoj",
+   "29 Ashoj",
+   "30 Ashoj"
+  ],
+  "options_ne": [
+   "२७ असोज",
+   "२८ असोज",
+   "२९ असोज",
+   "३० असोज"
+  ],
+  "answer": 2,
+  "explanation": "Practising every fourth day from Ashoj 1 gives the days 1, 5, 9, 13, 17, 21, 25, 29 — so the last practice day is 29 Ashoj.",
+  "explanation_ne": "असोज १ बाट हरेक चौथो दिन अभ्यास गर्दा १, ५, ९, १३, १७, २१, २५, २९ गते पर्छन् — त्यसैले अन्तिम अभ्यास गर्ने दिन २९ असोज हो।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-43",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average of divisible numbers",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the average of all the numbers between 1 and 35 that are divisible by both 3 and 5?",
+  "question_ne": "१-३५ भित्रका ३ र ५ ले निःशेष भाग जाने सबै अंकहरूको औसत कति हुन्छ?",
+  "options": [
+   "20",
+   "21",
+   "22.5",
+   "23.25"
+  ],
+  "options_ne": [
+   "२०",
+   "२१",
+   "२२.५",
+   "२३.२५"
+  ],
+  "answer": 2,
+  "explanation": "The numbers between 1 and 35 divisible by both 3 and 5 (i.e. by 15) are 15 and 30; their average is (15 + 30) ÷ 2 = 22.5.",
+  "explanation_ne": "1-35 भित्र 3 र 5 दुवैले भाग जाने (अर्थात् 15 ले भाग जाने) संख्याहरू 15 र 30 हुन्; तिनको औसत (15 + 30) ÷ 2 = 22.5 हुन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-44",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Symbol interchange",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "If '÷' means '-', '×' means '+', '-' means '÷' and '+' means '×', which of the following equations is correct?",
+  "question_ne": "यदि '÷' भनेको '-', '×' भनेको '+', '-' भनेको '÷', '+' भनेको '×' हुन्छ भने तल दिइएका समीकरणहरू मध्ये कुन समीकरण पूर्ण हुन्छ? पत्ता लगाउनुहोस्।",
+  "options": [
+   "30-6+5×4÷2=27",
+   "30+6-5÷4×2=30",
+   "30×6+5-4+2=32",
+   "30÷6×5+4-2=40"
+  ],
+  "options_ne": [
+   "30-6+5×4÷2=27",
+   "30+6-5÷4×2=30",
+   "30×6+5-4+2=32",
+   "30÷6×5+4-2=40"
+  ],
+  "answer": 0,
+  "explanation": "After swapping the symbols, option (A) becomes 30÷6×5+4−2 = 5×5+4−2 = 27, which is correct.",
+  "explanation_ne": "चिन्हहरू साटेपछि विकल्प (A) 30÷6×5+4−2 = 5×5+4−2 = 27 हुन्छ, जुन सही छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-45",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter coding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a certain code language, 'DOWN' is written as '5@9#' and 'NAME' is written as '#6%3'. What code is used for 'MODE'?",
+  "question_ne": "यदि कुनै भाषाको कोडमा 'DOWN' लाई '५@९#', 'NAME' लाई '#६%३' लेखिन्छ भने 'MODE' लाई कुन कोड प्रयोग गरिन्छ?",
+  "options": [
+   "%653",
+   "%@63",
+   "%5@3",
+   "%@53"
+  ],
+  "options_ne": [
+   "%६५३",
+   "%@६३",
+   "%५@३",
+   "%@५३"
+  ],
+  "answer": 3,
+  "explanation": "From DOWN = 5@9# we get D=5, O=@, W=9, N=#; from NAME = #6%3 we get N=#, A=6, M=%, E=3. So MODE = %@53.",
+  "explanation_ne": "DOWN = 5@9# बाट D=5, O=@, W=9, N=# र NAME = #6%3 बाट N=#, A=6, M=%, E=3 थाहा हुन्छ। त्यसैले MODE = %@53 हुन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-46",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Artificial language",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Some words translated from an artificial language are given here. On the basis of these, choose the correct answer from the options. 'hapllesh' means 'cloudburst', 'srenchoch' means 'pinball', 'resbosrench' means 'ninepin'. What does 'Cloud nine' refer to?",
+  "question_ne": "यहाँ कृत्रिम भाषाबाट अनुवाद गरिएका केही शब्दहरू दिइएका छन्। तिनीहरूको आधारमा सही उत्तर विकल्पबाट छान्नुहोस्। 'hapllesh' को अर्थ 'cloudburst', 'srenchoch' को अर्थ 'pinball', 'resbosrench' को अर्थ 'ninepin' हो भने 'Cloud nine' भन्नाले कुन लाई जनाउँछ?",
+  "options": [
+   "leshsrench",
+   "ochhapl",
+   "haploch",
+   "haplresbo"
+  ],
+  "options_ne": [
+   "leshsrench",
+   "ochhapl",
+   "haploch",
+   "haplresbo"
+  ],
+  "answer": 3,
+  "explanation": "hapllesh = cloudburst gives hapl = cloud and lesh = burst; srenchoch = pinball gives srench = pin and och = ball; resbosrench = ninepin gives resbo = nine. So 'cloud nine' = hapl + resbo = haplresbo.",
+  "explanation_ne": "hapllesh = cloudburst बाट hapl = cloud र lesh = burst; srenchoch = pinball बाट srench = pin र och = ball; resbosrench = ninepin बाट resbo = nine थाहा हुन्छ। त्यसैले 'cloud nine' = hapl + resbo = haplresbo हुन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-47",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rank from back",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a class of 55 students, Roshani ranks 14th from the front. If 4 more students join her class and after that she falls 3 places behind her previous position, in which place from the back will Roshani now be?",
+  "question_ne": "पचपन्न जना विद्यार्थीहरू भएको कक्षामा रोशनी अगाडीबाट चौधौं स्थानमा पर्ने रहिछन्। यदि उनको कक्षामा अरु चार जना विद्यार्थीहरू थप भर्ना भएपछि उनी अघिल्लो स्थान भन्दा तीन स्थान पछाडि परिछन् भने, अब रोशनी पछाडीबाट कतिऔं स्थानमा पर्दछिन् होला?",
+  "options": [
+   "41",
+   "42",
+   "43",
+   "44"
+  ],
+  "options_ne": [
+   "४१",
+   "४२",
+   "४३",
+   "४४"
+  ],
+  "answer": 2,
+  "explanation": "After 4 more students join, the class has 59 students. Roshani moves 3 places back from the front, so she is now 17th from the front. From the back she is 59 − 17 + 1 = 43rd.",
+  "explanation_ne": "4 जना थपिएपछि कक्षामा 59 जना हुन्छन्। रोशनी अगाडीबाट 3 स्थान पछाडि परेर अब 17औं स्थानमा छिन्। पछाडीबाट उनको स्थान 59 − 17 + 1 = 43औं हुन्छ।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-49",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction sense (rotation)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A girl facing north turns 180 degrees anti-clockwise and then turns 225 degrees clockwise. In which direction is she facing now? Find out.",
+  "question_ne": "उत्तर तर्फ फर्किरहेको एकजना केटी १८०° घडिको सुईको विपरित दिशा घुम्दछिन् र फेरि घडिको सुईको दिशामा २२५° घुम्दछिन् भने अहिले उनी कतातर्फ फर्किरहेकी होलिन्? पत्ता लगाउनुहोस्।",
+  "options": [
+   "North-West",
+   "North-East",
+   "South-West",
+   "West"
+  ],
+  "options_ne": [
+   "उत्तर-पश्चिम",
+   "उत्तर-पूर्व",
+   "दक्षिण-पश्चिम",
+   "पश्चिम"
+  ],
+  "answer": 1,
+  "explanation": "Facing north, a 180-degree anti-clockwise turn points her south. A further 225-degree clockwise turn from south is 180 + 225 = 405 degrees from north, i.e. 45 degrees — north-east.",
+  "explanation_ne": "उत्तरतिर फर्केर 180 डिग्री घडिको सुईको विपरित दिशा घुम्दा उनी दक्षिणतिर फर्किन्छिन्। दक्षिणबाट थप 225 डिग्री घडिको सुईको दिशामा घुम्दा उत्तरबाट 180 + 225 = 405 डिग्री, अर्थात् 45 डिग्री हुन्छ — उत्तर-पूर्व।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KHAR-2083-50",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating arrangement (trees)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The following question is based on the information given. P, Q, R, S, T and U are the names of six mango trees standing in a garden in two rows, facing north and south. Tree Q faces north and is not joined with S. Trees S and U face each other diagonally. U and R face south, while T and R face north and south respectively. Which of the following combinations shows the trees facing south?",
+  "question_ne": "निम्न प्रश्न दिइएको जानकारीमा आधारित छ। P, Q, R, S, T र U दुई पंक्तिमा उत्तर र दक्षिण फर्केर बगैंचामा उभिएका छ वटा आँपका रुखहरूको नाम हुन्। रुख Q उत्तरतिर फर्केको छ र S सँग जोडिएको छैन। रुख S र U एकअर्कातिर विकर्ण रूपमा फर्किएका छन्। U र R दक्षिणतिर फर्किएका छन्, जबकि T र R क्रमशः उत्तर र दक्षिणतिर फर्किएका छन्। निम्न मध्ये कुन संयोजनले दक्षिणतिर फर्केका रुखहरू देखाउँछ?",
+  "options": [
+   "QTS",
+   "UPT",
+   "URP",
+   "QSR"
+  ],
+  "options_ne": [
+   "QTS",
+   "UPT",
+   "URP",
+   "QSR"
+  ],
+  "answer": 2,
+  "explanation": "U and R face south (given), T faces north, and Q faces north. The remaining tree P is in the south-facing row, so the south-facing trees are U, R and P.",
+  "explanation_ne": "U र R दक्षिणतिर फर्किएका छन् (दिइएको छ), T उत्तरतिर र Q उत्तरतिर फर्किएका छन्। बाँकी रुख P दक्षिणतिर फर्किने पंक्तिमा छ, त्यसैले दक्षिणतिर फर्केका रुखहरू U, R र P हुन्।",
+  "source": "Previous Year — Kharidar First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-01",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "World geography (deepest ocean point)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the deepest ocean point in the world?",
+  "question_ne": "संसारकै सबैभन्दा गहिरो समुद्री बिन्दु कुन हो?",
+  "options": [
+   "Factorian Deep",
+   "Sirena Deep",
+   "Emerald Deep",
+   "Challenger Deep"
+  ],
+  "options_ne": [
+   "Factorian Deep",
+   "Sirena Deep",
+   "Emerald Deep",
+   "Challenger Deep"
+  ],
+  "answer": 3,
+  "explanation": "The Challenger Deep in the Mariana Trench is the deepest ocean point in the world.",
+  "explanation_ne": "मारियाना खाडलमा रहेको च्यालेन्जर डिप संसारकै सबैभन्दा गहिरो समुद्री बिन्दु हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-02",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "World geography statements",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following statements is wrong?",
+  "question_ne": "तलका मध्ये कुन भनाइ गलत छ?",
+  "options": [
+   "The world's largest landlocked country is Afghanistan.",
+   "The grasslands found in Australia are called Downs.",
+   "The longest river of South America is the Amazon.",
+   "Bullfighting is the national game of Spain."
+  ],
+  "options_ne": [
+   "विश्वको सबैभन्दा ठूलो भूपरिवेष्ठित देश अफगानिस्तान हो।",
+   "अस्ट्रेलियामा पाइने घाँसे मैदानलाई डाउन्स भनिन्छ।",
+   "दक्षिण अमेरिकाको सबैभन्दा ठूलो नदी अमेजन हो।",
+   "साँढे जुधाइ स्पेनको राष्ट्रिय खेल हो।"
+  ],
+  "answer": 0,
+  "explanation": "The world's largest landlocked country is Kazakhstan, not Afghanistan. The Downs are grasslands in Australia, the Amazon is South America's longest river, and bullfighting is Spain's national game.",
+  "explanation_ne": "विश्वको सबैभन्दा ठूलो भूपरिवेष्ठित देश काजाकिस्तान हो, अफगानिस्तान होइन। डाउन्स अस्ट्रेलियाका घाँसे मैदान हुन्, अमेजन दक्षिण अमेरिकाको सबैभन्दा लामो नदी हो र साँढे जुधाइ स्पेनको राष्ट्रिय खेल हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-03",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Chhayanath National Park area",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the area of Chhayanath National Park in square kilometres?",
+  "question_ne": "छायाँनाथ राष्ट्रिय निकुञ्जको क्षेत्रफल ............ वर्ग कि.मी. रहेको छ।",
+  "options": [
+   "834",
+   "843",
+   "952",
+   "968"
+  ],
+  "options_ne": [
+   "८३४",
+   "८४३",
+   "९५२",
+   "९६८"
+  ],
+  "answer": 1,
+  "explanation": "Chhayanath National Park covers 843 square kilometres.",
+  "explanation_ne": "छायाँनाथ राष्ट्रिय निकुञ्जको क्षेत्रफल ८४३ वर्ग किलोमिटर छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-04",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Lichchhavi dynasty founder",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who is regarded as the founder and ancestor of the Lichchhavi dynasty?",
+  "question_ne": "लिच्छवी वंशका संस्थापक र आदिपुरुष कसलाई मानिन्छ?",
+  "options": [
+   "Supushpa",
+   "Manadeva",
+   "Udaya Deva",
+   "Narendra Deva"
+  ],
+  "options_ne": [
+   "सुपुष्प",
+   "मानदेव",
+   "उदय देव",
+   "नरेन्द्र देव"
+  ],
+  "answer": 0,
+  "explanation": "Supushpa is regarded as the founder and ancestor of the Lichchhavi dynasty.",
+  "explanation_ne": "सुपुष्पलाई लिच्छवी वंशका संस्थापक र आदिपुरुष मानिन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-05",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "First World War",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The First World War took place mainly in which continent?",
+  "question_ne": "पहिलो विश्वयुद्ध मूलतः कुन महादेशमा भएको थियो?",
+  "options": [
+   "Asia",
+   "Europe",
+   "Africa",
+   "North America"
+  ],
+  "options_ne": [
+   "एसिया",
+   "युरोप",
+   "अफ्रिका",
+   "उत्तर अमेरिका"
+  ],
+  "answer": 1,
+  "explanation": "The First World War was fought mainly in Europe.",
+  "explanation_ne": "पहिलो विश्वयुद्ध मूलतः युरोपमा भएको थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-06",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "First woman Prime Minister of Nepal",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When was Sushila Karki, Nepal's first woman Prime Minister, appointed as Prime Minister of Nepal?",
+  "question_ne": "नेपालको प्रथम महिला प्रधानमन्त्री सुशीला कार्की कहिले नेपालको प्रधानमन्त्री नियुक्त हुनु भएको थियो?",
+  "options": [
+   "2082 Bhadra 27",
+   "2082 Bhadra 28",
+   "2082 Bhadra 29",
+   "2082 Bhadra 30"
+  ],
+  "options_ne": [
+   "२०८२ भाद्र २७ गते",
+   "२०८२ भाद्र २८ गते",
+   "२०८२ भाद्र २९ गते",
+   "२०८२ भाद्र ३० गते"
+  ],
+  "answer": 0,
+  "explanation": "Sushila Karki was appointed Nepal's first woman Prime Minister on 2082 Bhadra 27.",
+  "explanation_ne": "सुशीला कार्की २०८२ भाद्र २७ गते नेपालको प्रथम महिला प्रधानमन्त्री नियुक्त हुनुभएको थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-07",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Chonam festival",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which caste in Nepal celebrates the Chonam festival?",
+  "question_ne": "नेपालको कुन जातिले चोनाम पर्व मनाउँछन्?",
+  "options": [
+   "Chepang",
+   "Chaudhary",
+   "Tharu",
+   "Rajbanshi"
+  ],
+  "options_ne": [
+   "चेपाङ",
+   "चौधरी",
+   "थारु",
+   "राजवंशी"
+  ],
+  "answer": 0,
+  "explanation": "The Chepang community celebrates the Chonam festival.",
+  "explanation_ne": "चेपाङ समुदायले चोनाम पर्व मनाउँछन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-08",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Nepali literature (authors)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following statements is NOT correct?",
+  "question_ne": "तलको कुन भनाइ सही होइन?",
+  "options": [
+   "Bhupi Sherchan is the author of the poetry collection 'Ghumne Mech Mathi Andho Manchhe'.",
+   "Bishweshwar Prasad Koirala is the author of the novel 'Sumnima'.",
+   "Guru Prasad Mainali is the author of the story collection 'Naso'.",
+   "Pushkar Shumsher Rana is the author of the novel 'Seto Bagh'."
+  ],
+  "options_ne": [
+   "\"घुम्ने मेच माथि अन्धो मान्छे\" कविता संग्रहका लेखक भूपी शेरचन हुन्।",
+   "\"सुम्निमा\" उपन्यासका लेखक विश्वेश्वर प्रसाद कोइराला हुन्।",
+   "\"नासो\" कथा संग्रहका लेखक गुरु प्रसाद मैनाली हुन्।",
+   "\"सेतो बाघ\" उपन्यासका लेखक पुस्कर शमशेर राणा हुन्।"
+  ],
+  "answer": 3,
+  "explanation": "'Seto Bagh' was written by Diamond Shumsher Rana, not Pushkar Shumsher Rana. The other three statements are correct.",
+  "explanation_ne": "\"सेतो बाघ\" डायमण्ड शमशेर राणाले लेखेका हुन्, पुस्कर शमशेर राणाले होइनन्। अरू तीनवटा भनाइ सही छन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-09",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Vedas",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which statement about the Vedas is wrong?",
+  "question_ne": "वेदका सम्बन्धमा कुन कथन गलत छ?",
+  "options": [
+   "Music originated from the Samaveda.",
+   "The oldest of the Vedas is the Yajurveda.",
+   "The last Veda to be composed is the Atharvaveda.",
+   "There are four Vedas: Rigveda, Yajurveda, Samaveda and Atharvaveda."
+  ],
+  "options_ne": [
+   "सामवेदबाट संगीतको उत्पत्ति भएको हो।",
+   "वेदहरूमा सबै भन्दा पुरानो यजुर्वेद हो।",
+   "सबै भन्दा पछाडि रचना भएको वेद अथर्ववेद हो।",
+   "ऋग्वेद, यजुर्वेद, सामवेद र अथर्ववेद गरी वेद चार प्रकारका छन्।"
+  ],
+  "answer": 1,
+  "explanation": "The oldest Veda is the Rigveda, not the Yajurveda. Music is said to originate from the Samaveda, the Atharvaveda was composed last, and there are four Vedas.",
+  "explanation_ne": "सबैभन्दा पुरानो वेद ऋग्वेद हो, यजुर्वेद होइन। संगीत सामवेदबाट उत्पत्ति भएको मानिन्छ, अथर्ववेद सबैभन्दा पछाडि रचना भएको हो र वेद चार प्रकारका छन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-10",
+  "exam": [
+   "kharidar",
+   "foreign-service",
+   "nasu",
+   "nrb-assistant",
+   "provincial-psc",
+   "psc-service-groups",
+   "section-officer"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "National Census 2078 (castes)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the National Census 2078, how many castes/ethnic groups are there in Nepal?",
+  "question_ne": "राष्ट्रिय जनगणना, २०७८ अनुसार नेपालमा जातजातिको संख्या कति रहेको छ?",
+  "options": [
+   "141",
+   "142",
+   "143",
+   "144"
+  ],
+  "options_ne": [
+   "१४१",
+   "१४२",
+   "१४३",
+   "१४४"
+  ],
+  "answer": 1,
+  "explanation": "According to the National Census 2078, Nepal has 142 castes/ethnic groups.",
+  "explanation_ne": "राष्ट्रिय जनगणना २०७८ अनुसार नेपालमा १४२ वटा जातजाति छन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-11",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "16th Plan per capita income target",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By the end of the 16th Plan, what is the target set for the per capita income of Nepali people in US dollars?",
+  "question_ne": "सोह्रौं योजनाको अन्त्यसम्ममा नेपालीको प्रतिव्यक्ति आय कति अमेरिकी डलर पुर्याउने लक्ष्य राखिएको छ?",
+  "options": [
+   "2156",
+   "2271",
+   "2351",
+   "2439"
+  ],
+  "options_ne": [
+   "२१५६",
+   "२२७१",
+   "२३५१",
+   "२४३९"
+  ],
+  "answer": 2,
+  "explanation": "The 16th Periodic Plan (2081/82–2085/86) targets raising Nepal's per capita income to USD 2,351 by the end of the plan period.",
+  "explanation_ne": "सोह्रौं आवधिक योजना (२०८१/८२–२०८५/८६) ले योजनाको अन्त्यसम्म नेपालीको प्रतिव्यक्ति आय २,३५१ अमेरिकी डलर पुर्याउने लक्ष्य राखेको छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-12",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Chaite Dashain",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When does Chaite Dashain fall?",
+  "question_ne": "चैते दशैं कहिले पर्छ?",
+  "options": [
+   "Chaitra Shukla Ashtami",
+   "Chaitra Shukla Navami",
+   "Chaitra Shukla Dashami",
+   "Chaitra Shukla Ekadashi"
+  ],
+  "options_ne": [
+   "चैत्र शुक्ल अष्टमी",
+   "चैत्र शुक्ल नवमी",
+   "चैत्र शुक्ल दशमी",
+   "चैत्र शुक्ल एकादशी"
+  ],
+  "answer": 0,
+  "explanation": "Chaite Dashain falls on Chaitra Shukla Ashtami.",
+  "explanation_ne": "चैते दशैं चैत्र शुक्ल अष्टमीमा पर्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-13",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Koshi Tourism Year 2082 slogan",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What was the slogan of Koshi Province Tourism Year 2082?",
+  "question_ne": "कोशी प्रदेश पर्यटन वर्ष, २०८२ को नारा के रहेको थियो?",
+  "options": [
+   "Conserved biodiversity and watershed — the basis of Koshi Tourism Year",
+   "Picturesque Koshi",
+   "The glory of Koshi, the pride of the Himalayas — everyone is welcome in Tourism Year",
+   "In the shadow of Kanchenjunga, the love of Koshi Province"
+  ],
+  "options_ne": [
+   "संरक्षित जैविक विविधता र जलाधार कोशी पर्यटन वर्षको आधार",
+   "रमणीय कोशी",
+   "कोशीको गौरव हिमालको शान, पर्यटन वर्षमा सबैलाई सम्मान",
+   "कञ्चनजङ्घाको छायाँ, कोशी प्रदेशको माया"
+  ],
+  "answer": 2,
+  "explanation": "The slogan of Koshi Province Tourism Year 2082 was 'कोशीको गौरव हिमालको शान, पर्यटन वर्षमा सबैलाई सम्मान' (The glory of Koshi, the pride of the Himalayas — everyone is welcome in Tourism Year).",
+  "explanation_ne": "कोशी प्रदेश पर्यटन वर्ष २०८२ को नारा 'कोशीको गौरव हिमालको शान, पर्यटन वर्षमा सबैलाई सम्मान' थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-14",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Most populous local level in Koshi",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the most populous local level in Koshi Province?",
+  "question_ne": "कोशी प्रदेशको सबैभन्दा बढी जनसङ्ख्या भएको स्थानीय तह कुन हो?",
+  "options": [
+   "Biratnagar",
+   "Itahari",
+   "Dharan",
+   "Damak"
+  ],
+  "options_ne": [
+   "विराटनगर",
+   "इटहरी",
+   "धरान",
+   "दमक"
+  ],
+  "answer": 0,
+  "explanation": "Biratnagar is the most populous local level in Koshi Province.",
+  "explanation_ne": "विराटनगर कोशी प्रदेशको सबैभन्दा बढी जनसङ्ख्या भएको स्थानीय तह हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-15",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Microscope use",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Why is a 'microscope' used? Choose the correct answer from the options given below.",
+  "question_ne": "\"माइक्रोस्कोप\" को प्रयोग किन गरिन्छ? तल दिइएका विकल्प मध्येबाट सही उत्तर छान्नुहोस्।",
+  "options": [
+   "To know how far an object is",
+   "To know that a small object appears large",
+   "To know how pure an object is",
+   "To know how heavy an object is"
+  ],
+  "options_ne": [
+   "कुनै वस्तु कति टाढा छ थाहा पाउन",
+   "कुनै सानो वस्तु ठूलो देखिएको थाहा पाउन",
+   "कुनै वस्तु कति शुद्ध छ थाहा पाउन",
+   "कुनै वस्तु कति गह्रुङ्गो छ थाहा पाउन"
+  ],
+  "answer": 1,
+  "explanation": "A microscope is used to see small objects magnified.",
+  "explanation_ne": "माइक्रोस्कोप साना वस्तुलाई ठूलो देखाएर हेर्न प्रयोग गरिन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-16",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Mobile phone inventor",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who invented the Mobile Phone?",
+  "question_ne": "Mobile Phone को आविष्कार कसले गरेका हुन्?",
+  "options": [
+   "James Watson",
+   "Alexander Graham Bell",
+   "John Logie Baird",
+   "Martin Cooper"
+  ],
+  "options_ne": [
+   "James Watson",
+   "Alexander Graham Bell",
+   "John Logie Baird",
+   "Martin Cooper"
+  ],
+  "answer": 3,
+  "explanation": "Martin Cooper invented the mobile phone.",
+  "explanation_ne": "मार्टिन कूपरले मोबाइल फोनको आविष्कार गरेका हुन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-17",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Telemedicine objective",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main objective of telemedicine technology?",
+  "question_ne": "टेलिमेडिसिन प्रविधिको मुख्य उद्देश्य के हो?",
+  "options": [
+   "To reduce service recipients in hospitals",
+   "To provide health services from a distance",
+   "To produce medicines",
+   "To research diseases"
+  ],
+  "options_ne": [
+   "अस्पतालमा सेवाग्राही घटाउन",
+   "टाढाबाट स्वास्थ्य सेवा प्रदान गर्नु",
+   "औषधिको उत्पादन गर्नु",
+   "रोगको अनुसन्धान गर्नु"
+  ],
+  "answer": 1,
+  "explanation": "The main objective of telemedicine is to provide health services from a distance.",
+  "explanation_ne": "टेलिमेडिसिनको मुख्य उद्देश्य टाढाबाट स्वास्थ्य सेवा प्रदान गर्नु हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-18",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Immigrants in the world",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which country in the world has the most immigrants living in it?",
+  "question_ne": "विश्वमा सबैभन्दा बढी आप्रवासी बसोबास गर्ने देश कुन हो?",
+  "options": [
+   "Canada",
+   "Australia",
+   "America",
+   "Germany"
+  ],
+  "options_ne": [
+   "क्यानडा",
+   "अस्ट्रेलिया",
+   "अमेरिका",
+   "जर्मनी"
+  ],
+  "answer": 2,
+  "explanation": "The United States (America) hosts the most immigrants in the world.",
+  "explanation_ne": "अमेरिकामा विश्वमा सबैभन्दा बढी आप्रवासी बसोबास गर्छन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-19",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Copenhagen climate conference",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When was the Copenhagen conference on climate change held?",
+  "question_ne": "जलवायु परिवर्तन सम्बन्धी कोपनहेगन सम्मेलन कहिले भएको थियो?",
+  "options": [
+   "2008",
+   "2009",
+   "2010",
+   "2011"
+  ],
+  "options_ne": [
+   "सन् २००८",
+   "सन् २००९",
+   "सन् २०१०",
+   "सन् २०११"
+  ],
+  "answer": 1,
+  "explanation": "The Copenhagen climate conference (COP15) was held in 2009.",
+  "explanation_ne": "कोपनहेगन जलवायु सम्मेलन (COP15) सन् २००९ मा भएको थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-20",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Biodiversity Day 2025 theme",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What was the theme of Biodiversity Day 2025?",
+  "question_ne": "जैविक विविधता दिवस, २०२५ को नारा के थियो?",
+  "options": [
+   "Harmony with nature and sustainable development",
+   "Be part of the plan",
+   "From agreement to action: Build back biodiversity",
+   "Building a shared future for all life"
+  ],
+  "options_ne": [
+   "प्रकृतिसँग सामञ्जस्य र दिगो विकास",
+   "योजनाको हिस्सा बनौँ",
+   "सहमतिबाट कार्यान्वयनतर्फ: जैविक विविधता पुनर्स्थापना गरौँ",
+   "सबै जीवका लागि साझा भविष्य निर्माण"
+  ],
+  "answer": 0,
+  "explanation": "The theme of International Day for Biological Diversity 2025 was 'Harmony with nature and sustainable development'.",
+  "explanation_ne": "जैविक विविधता दिवस २०२५ को नारा 'प्रकृतिसँग सामञ्जस्य र दिगो विकास' थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-21",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Right to information about action taken",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "'Every person shall have the right to obtain information about any action taken against him/her' — where is this mentioned in the Constitution of Nepal?",
+  "question_ne": "\"प्रत्येक व्यक्तिलाई निज विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक हुनेछ\" भनेर नेपालको संविधानमा कहाँ उल्लेख गरिएको छ?",
+  "options": [
+   "Article 17, sub-article (2)",
+   "Article 22, sub-article (1)",
+   "Article 23, sub-article (2)",
+   "Article 20, sub-article (8)"
+  ],
+  "options_ne": [
+   "धारा १७ को उपधारा (२)",
+   "धारा २२ को उपधारा (१)",
+   "धारा २३ को उपधारा (२)",
+   "धारा २० को उपधारा (८)"
+  ],
+  "answer": 3,
+  "explanation": "Article 20(8) of the Constitution of Nepal provides that every person shall have the right to obtain information about any action taken against him/her.",
+  "explanation_ne": "नेपालको संविधानको धारा २० को उपधारा (८) मा प्रत्येक व्यक्तिलाई निज विरुद्ध गरिएको कारबाहीको जानकारी पाउने हक हुने व्यवस्था छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-22",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Family planning and population management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the Constitution of Nepal, under whose jurisdiction does 'family planning and population management' fall?",
+  "question_ne": "नेपालको संविधान अनुसार \"परिवार नियोजन र जनसङ्ख्या व्यवस्थापन\" कसको अधिकार क्षेत्र भित्र पर्छ?",
+  "options": [
+   "Federal",
+   "Province",
+   "Local level",
+   "Concurrent (federal and provincial)"
+  ],
+  "options_ne": [
+   "संघ",
+   "प्रदेश",
+   "स्थानीय तह",
+   "संघ र प्रदेशको साझा अधिकार"
+  ],
+  "answer": 3,
+  "explanation": "Family planning and population management is in the concurrent list — the shared jurisdiction of the federal and provincial governments.",
+  "explanation_ne": "परिवार नियोजन र जनसङ्ख्या व्यवस्थापन साझा अधिकार सूचीमा पर्छ — संघ र प्रदेश दुवैको अधिकार क्षेत्र भित्र।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-23",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Right to live with dignity (no death penalty)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Under which right does the guarantee fall that, according to the Constitution of Nepal, no law shall be made providing for the death penalty?",
+  "question_ne": "नेपालको संविधान बमोजिम मृत्युदण्डको सजाय हुने गरी कानून नबनाइने ग्यारेन्टी कुन हक अन्तर्गत पर्छ?",
+  "options": [
+   "Right to live with dignity",
+   "Right to equality",
+   "Right to freedom",
+   "Right relating to justice"
+  ],
+  "options_ne": [
+   "सम्मानपूर्वक बाँच्न पाउने हक",
+   "समानताको हक",
+   "स्वतन्त्रताको हक",
+   "न्याय सम्बन्धी हक"
+  ],
+  "answer": 0,
+  "explanation": "The right to live with dignity (Article 16) guarantees that no law shall be made providing for the death penalty.",
+  "explanation_ne": "सम्मानपूर्वक बाँच्न पाउने हक (धारा १६) अन्तर्गत मृत्युदण्डको सजाय हुने गरी कानून नबनाइने ग्यारेन्टी गरिएको छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-24",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "UN official languages",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following languages is NOT a language officially recognised by the United Nations?",
+  "question_ne": "तलका मध्ये कुन भाषा संयुक्त राष्ट्र संघमा आधिकारिक मान्यता पाएको भाषा होइन?",
+  "options": [
+   "Chinese",
+   "Japanese",
+   "Russian",
+   "Arabic"
+  ],
+  "options_ne": [
+   "चिनियाँ",
+   "जापानी",
+   "रुसी",
+   "अरबी"
+  ],
+  "answer": 1,
+  "explanation": "Japanese is not an official language of the United Nations; Chinese, Russian and Arabic are.",
+  "explanation_ne": "जापानी संयुक्त राष्ट्र संघको आधिकारिक भाषा होइन; चिनियाँ, रुसी र अरबी आधिकारिक भाषाहरू हुन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-25",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "SAARC Day",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "On which day is SAARC Day celebrated?",
+  "question_ne": "सार्क दिवस (SAARC Day) कुन दिन मनाइन्छ?",
+  "options": [
+   "2 June",
+   "11 January",
+   "25 October",
+   "8 December"
+  ],
+  "options_ne": [
+   "जुन २",
+   "जनवरी ११",
+   "अक्टोबर २५",
+   "डिसेम्बर ८"
+  ],
+  "answer": 3,
+  "explanation": "SAARC Day is observed on 8 December every year.",
+  "explanation_ne": "सार्क दिवस हरेक वर्ष डिसेम्बर ८ मा मनाइन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-26",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Fields Medal",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Fields Medal is a world-famous award given in which field?",
+  "question_ne": "Field Medal कुन विधामा दिइने विश्व प्रसिद्ध पुरस्कार हो?",
+  "options": [
+   "Science",
+   "Mathematics",
+   "Medicine",
+   "Literature"
+  ],
+  "options_ne": [
+   "विज्ञान",
+   "गणित",
+   "चिकित्साशास्त्र",
+   "साहित्य"
+  ],
+  "answer": 1,
+  "explanation": "The Fields Medal is awarded for outstanding achievement in mathematics.",
+  "explanation_ne": "फिल्ड मेडल गणितमा उत्कृष्ट उपलब्धिका लागि दिइने पुरस्कार हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-27",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Labour agreement January 2026",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In January 2026, with which country was a labour agreement made for the safety of Nepali workers engaged in foreign employment?",
+  "question_ne": "वैदेशिक रोजगारीमा संलग्न नेपाली श्रमिकको सुरक्षाका लागि सन् २०२६ जनवरीमा कुन देशसँग श्रम सम्झौता भएको छ?",
+  "options": [
+   "Qatar",
+   "Japan",
+   "Saudi Arabia",
+   "Romania"
+  ],
+  "options_ne": [
+   "कतार",
+   "जापान",
+   "साउदी अरेबिया",
+   "रोमानिया"
+  ],
+  "answer": 2,
+  "explanation": "The paper's answer key gives (C) Saudi Arabia.",
+  "explanation_ne": "प्रश्नपत्रको उत्तर कुञ्जी अनुसार (C) साउदी अरेबिया हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-28",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Satyamohan Joshi Nepal Bhasha Sahitya Sirapa 2081",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "To whom was the Satyamohan Joshi Nepal Bhasha Sahitya Sirapa (Award), 2081 given?",
+  "question_ne": "सत्यमोहन जोशी नेपाल भाषा साहित्य सिरपा (पुरस्कार), २०८१ कसलाई प्रदान गरियो?",
+  "options": [
+   "Tilak Prasad Kayastha",
+   "Dhuswan Sayami",
+   "Parashu Pradhan",
+   "Ashesh Malla"
+  ],
+  "options_ne": [
+   "तिलक प्रसाद कायस्थ",
+   "धुस्वाँ सायमी",
+   "परशु प्रधान",
+   "अशेष मल्ल"
+  ],
+  "answer": 0,
+  "explanation": "The Satyamohan Joshi Nepal Bhasha Sahitya Sirapa 2081 was given to Tilak Prasad Kayastha.",
+  "explanation_ne": "सत्यमोहन जोशी नेपाल भाषा साहित्य सिरपा २०८१ तिलक प्रसाद कायस्थलाई प्रदान गरियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-29",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Pancharatna",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is NOT among the Pancharatna?",
+  "question_ne": "पञ्चरत्नमा तलका मध्ये कुन पर्दैन?",
+  "options": [
+   "Gold",
+   "Silver",
+   "Diamond",
+   "Sapphire (Neel)"
+  ],
+  "options_ne": [
+   "सुन",
+   "चाँदी",
+   "हिरा",
+   "नील"
+  ],
+  "answer": 1,
+  "explanation": "The Pancharatna (five gems) are gold, diamond, pearl, ruby and sapphire — silver is not among them.",
+  "explanation_ne": "पञ्चरत्न (पाँच रत्न) सुन, हिरा, मोती, माणिक र नीलम हुन् — चाँदी त्यसमा पर्दैन।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-30",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "First Vice-Chancellor of Tribhuvan University",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Who was the first Vice-Chancellor of Tribhuvan University?",
+  "question_ne": "त्रिभुवन विश्वविद्यालयका प्रथम उपकुलपति को हुन्?",
+  "options": [
+   "Suvarna Shumsher",
+   "Dr. Khadga K.C.",
+   "Kedar Bhakta Mathema",
+   "Dr. Keshar Jung Baral"
+  ],
+  "options_ne": [
+   "सुवर्ण शमशेर",
+   "डा. खड्ग के.सी.",
+   "केदार भक्त माथेमा",
+   "डा. केशर जंग बराल"
+  ],
+  "answer": 0,
+  "explanation": "Suvarna Shumsher was the first Vice-Chancellor of Tribhuvan University.",
+  "explanation_ne": "सुवर्ण शमशेर त्रिभुवन विश्वविद्यालयका प्रथम उपकुलपति हुन्।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-31",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Current Affairs",
+  "subtopic": "Nepal Premier League season 2 winner",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which team won the second season of the Nepal Premier League (NPL) cricket tournament?",
+  "question_ne": "क्रिकेट खेल अन्तर्गत नेपाल प्रिमियर लिग (NPL) दोस्रो संस्करणको विजेता टिम कुन हो?",
+  "options": [
+   "Janakpur Bolts",
+   "Sudurpaschim Royals",
+   "Biratnagar Kings",
+   "Lumbini Lions"
+  ],
+  "options_ne": [
+   "जनकपुर बोल्ट्स",
+   "सुदूरपश्चिम रोयल्स",
+   "विराटनगर किङ्ग्स",
+   "लुम्बिनी लायन्स"
+  ],
+  "answer": 3,
+  "explanation": "Lumbini Lions won the second season of the Nepal Premier League.",
+  "explanation_ne": "लुम्बिनी लायन्सले नेपाल प्रिमियर लिगको दोस्रो संस्करण जितेको हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-32",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Prefix (upasarga) — 'karan'",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In the word 'karan', which prefix, when added, gives the meaning 'to adopt or accept something'?",
+  "question_ne": "\"करण\" शब्दमा तलको मध्ये कुन उपसर्ग लगाएको खण्डमा \"कुनै कुरा अपनाउनु वा मान्नु\" भन्ने अर्थ आउँछ?",
+  "options": [
+   "sami",
+   "anu",
+   "upa",
+   "nira"
+  ],
+  "options_ne": [
+   "समि",
+   "अनु",
+   "उप",
+   "निर"
+  ],
+  "answer": 1,
+  "explanation": "अनु + करण = अनुकरण, which means to imitate or follow (adopt) something.",
+  "explanation_ne": "अनु + करण = अनुकरण हुन्छ, जसको अर्थ कुनै कुराको नक्कल गर्नु वा अपनाउनु हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-33",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Part of speech — 'ghar'",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In the sentence 'Sagar ghar janchha' (Sagar goes home), what is the part of speech of the word 'ghar'?",
+  "question_ne": "\"सागर घर जान्छ\" यो वाक्यमा घर शब्दको पदवर्ग के हो?",
+  "options": [
+   "Noun (naam)",
+   "Pronoun (sarvanaam)",
+   "Adjective (visheshan)",
+   "Adverb (kriya visheshan)"
+  ],
+  "options_ne": [
+   "नाम",
+   "सर्वनाम",
+   "विशेषण",
+   "क्रिया विशेषण"
+  ],
+  "answer": 0,
+  "explanation": "In this sentence 'ghar' (home) is a noun (नाम).",
+  "explanation_ne": "यो वाक्यमा 'घर' नाम हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-34",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Remittance share of GDP",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "About what percentage of Nepal's Gross Domestic Product is received from remittance?",
+  "question_ne": "नेपालको कुल गार्हस्थ्य उत्पादनको करिब कति प्रतिशत विप्रेषण (Remittance) बाट प्राप्त हुने गरेको छ?",
+  "options": [
+   "20%",
+   "25%",
+   "33%",
+   "38%"
+  ],
+  "options_ne": [
+   "२०%",
+   "२५%",
+   "३३%",
+   "३८%"
+  ],
+  "answer": 1,
+  "explanation": "Remittance is about 25% of Nepal's Gross Domestic Product.",
+  "explanation_ne": "विप्रेषण नेपालको कुल गार्हस्थ्य उत्पादनको करिब २५% छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-35",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Periodic plans (average growth rate)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which periodic plan was the average economic growth rate the highest?",
+  "question_ne": "तलका मध्ये कुन आवधिक योजनामा औसत आर्थिक वृद्धिदर उच्च रहेको थियो?",
+  "options": [
+   "Eleventh",
+   "Twelfth",
+   "Thirteenth",
+   "Fourteenth"
+  ],
+  "options_ne": [
+   "एघारौं",
+   "बाह्रौं",
+   "तेह्रौं",
+   "चौधौं"
+  ],
+  "answer": 3,
+  "explanation": "The 14th Periodic Plan recorded the highest average economic growth rate among the options.",
+  "explanation_ne": "चौधौं आवधिक योजनामा औसत आर्थिक वृद्धिदर सबैभन्दा उच्च रहेको थियो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-36",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter series (paired sums)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which letter comes in place of the question mark (?) in the letter series given below? G, T, I, R, L, O, P, K, U, ?",
+  "question_ne": "तलको अक्षर क्रममा प्रश्नवाचक चिन्ह (?) मा कुन अक्षर आउँछ? G, T, I, R, L, O, P, K, U, ?",
+  "options": [
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "options_ne": [
+   "E",
+   "F",
+   "G",
+   "H"
+  ],
+  "answer": 1,
+  "explanation": "The letters form pairs (G,T), (I,R), (L,O), (P,K), (U,?) whose letter positions add to 27 in each pair: 7+20, 9+18, 12+15, 16+11, so 21+? = 27 and ? = 6 = F.",
+  "explanation_ne": "अक्षरहरू (G,T), (I,R), (L,O), (P,K), (U,?) जोडामा छन् र हरेक जोडाका अक्षरहरूको स्थानको योग 27 हुन्छ: 7+20, 9+18, 12+15, 16+11, त्यसैले 21+? = 27 भएकाले ? = 6 = F हुन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-37",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy (circle-square)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Complete the analogy: Circle : Circumference :: Square : ?",
+  "question_ne": "वृत्त (Circle) : परिधि (Circumference) :: वर्ग (Square) : ? को समरूपता (Analogy) पुरा गर्नुहोस्।",
+  "options": [
+   "Perimeter (parimiti)",
+   "Area (kshetrafal)",
+   "Volume (aayatan)",
+   "Diagonal (vikarna)"
+  ],
+  "options_ne": [
+   "परिमिति (Perimeter)",
+   "क्षेत्रफल (Area)",
+   "आयतन (Volume)",
+   "विकर्ण (Diagonal)"
+  ],
+  "answer": 0,
+  "explanation": "The circumference is the boundary length of a circle; the perimeter is the boundary length of a square.",
+  "explanation_ne": "परिधि वृत्तको घेराको लम्बाइ हो; परिमिति वर्गको घेराको लम्बाइ हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-38",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Word coding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the code for the word 'Teacher'? Find out on the basis of the information given below. 'Royal black car' is coded as M5R2, L5B1, S3C1. 'Beautiful yellow flower' is coded as M9B5, X6Y2, S6F2. 'Talent young brother' is coded as U6T2, H5Y2, S7B2.",
+  "question_ne": "Teacher शब्दको कोड के हुन्छ? तलको जानकारीको आधारमा पत्ता लगाउनुहोस्। Royal black car लाई M5R2, L5B1, S3C1 को रुपमा कोड गरिन्छ। Beautiful yellow flower लाई M9B5, X6Y2, S6F2 को रुपमा कोड गरिन्छ। Talent young brother लाई U6T2, H5Y2, S7B2 को रुपमा कोड गरिन्छ।",
+  "options": [
+   "S7S2",
+   "S7T2",
+   "S6T3",
+   "S7T3"
+  ],
+  "options_ne": [
+   "S7S2",
+   "S7T2",
+   "S6T3",
+   "S7T3"
+  ],
+  "answer": 3,
+  "explanation": "The code for a word is the next letter after its last letter, followed by the number of letters, the first letter, and the number of vowels. Teacher: last letter R → next letter S; 7 letters; first letter T; 3 vowels (e, a, e) → S7T3.",
+  "explanation_ne": "शब्दको कोड त्यसको अन्तिम अक्षरपछिको अक्षर, अक्षर संख्या, पहिलो अक्षर र स्वर संख्या मिलेर बन्छ। Teacher: अन्तिम अक्षर R → त्यसपछिको अक्षर S; ७ वटा अक्षर; पहिलो अक्षर T; ३ वटा स्वर (e, a, e) → S7T3।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-39",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction renaming",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If south-east is called north and north-east is called west, then in the same way what is west called?",
+  "question_ne": "यदि दक्षिण-पूर्वलाई उत्तर भनिन्छ, उत्तर-पूर्वलाई पश्चिम भनिन्छ भने यही प्रकारले पश्चिमलाई के भन्नुपर्ला?",
+  "options": [
+   "North-East",
+   "North-West",
+   "South-East",
+   "South-West"
+  ],
+  "options_ne": [
+   "उत्तर-पूर्व",
+   "उत्तर-पश्चिम",
+   "दक्षिण-पूर्व",
+   "दक्षिण-पश्चिम"
+  ],
+  "answer": 2,
+  "explanation": "The directions are rotated by 225 degrees clockwise: south-east (135°) is called north (0°), north-east (45°) is called west (270°), so west (270°) is called south-east (135°).",
+  "explanation_ne": "दिशाहरू २२५ डिग्री घडिको सुईको दिशामा घुमाइएका छन्: दक्षिण-पूर्व (१३५°) लाई उत्तर (०°) भनिन्छ, उत्तर-पूर्व (४५°) लाई पश्चिम (२७०°) भनिन्छ, त्यसैले पश्चिम (२७०°) लाई दक्षिण-पूर्व (१३५°) भनिन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-40a",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number analogy (first of two questions numbered 40)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the number that comes in place of the question mark as per the pattern given. 24 : 30; 60 : ? ; 120 : 130",
+  "question_ne": "रिक्त दिए अनुसार प्रश्नचिन्ह भएको ठाउँमा आउने संख्या पत्ता लगाउनुहोस्। २४ : ३०; ६० : ? ; १२० : १३०",
+  "options": [
+   "64",
+   "66",
+   "68",
+   "70"
+  ],
+  "options_ne": [
+   "६४",
+   "६६",
+   "६८",
+   "७०"
+  ],
+  "answer": 2,
+  "explanation": "The second number is the first plus 6, 8, 10 in turn: 24+6=30, 60+8=68, 120+10=130. Note: the paper numbers two questions 40; this is the first of them.",
+  "explanation_ne": "दोस्रो संख्या पहिलोमा 6, 8, 10 क्रमशः जोडेर बनेको छ: 24+6=30, 60+8=68, 120+10=130। नोट: प्रश्नपत्रमा दुईवटा प्रश्नलाई 40 नम्बर दिइएको छ; यो तीमध्ये पहिलो हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-40b",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter matrix (second of two questions numbered 40)",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Complete the matrix. The matrix has 3 rows and 3 columns: row 1: G, O, D; row 2: M, A, N; row 3: T, ?, R. What letter replaces the question mark?",
+  "question_ne": "मेट्रिक्स पुरा गर्नुहोस्। मेट्रिक्समा ३ पंक्ति र ३ स्तम्भ छन्: पहिलो पंक्ति: G, O, D; दोस्रो पंक्ति: M, A, N; तेस्रो पंक्ति: T, ?, R। प्रश्नचिन्हको ठाउँमा कुन अक्षर आउँछ?",
+  "options": [
+   "A",
+   "E",
+   "I",
+   "P"
+  ],
+  "options_ne": [
+   "A",
+   "E",
+   "I",
+   "P"
+  ],
+  "answer": 3,
+  "explanation": "The letter positions in each row add up to 26, 28 and 54: row 1: G(7)+O(15)+D(4)=26; row 2: M(13)+A(1)+N(14)=28; row 3: T(20)+?+R(18)=54, so ? = 16 = P. Note: the paper numbers two questions 40; this is the second of them.",
+  "explanation_ne": "हरेक पंक्तिका अक्षरहरूको स्थानको योग 26, 28 र 54 हुन्छ: पहिलो पंक्ति: G(7)+O(15)+D(4)=26; दोस्रो पंक्ति: M(13)+A(1)+N(14)=28; तेस्रो पंक्ति: T(20)+?+R(18)=54, त्यसैले ? = 16 = P हुन्छ। नोट: प्रश्नपत्रमा दुईवटा प्रश्नलाई 40 नम्बर दिइएको छ; यो तीमध्ये दोस्रो हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-42",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number group analogy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the relationship in the given groups of numbers and choose the group of numbers of the same nature from the options. (9, 5, 704) (6, 2, 212)",
+  "question_ne": "दिएका संख्याको समूहमा रहेको सम्बन्ध पत्ता लगाई सोही प्रकृतिको संख्याको समूह विकल्पबाट छान्नुहोस्। (९, ५, ७०४) (६, २, २१२)",
+  "options": [
+   "(8, 2, 508)",
+   "(9, 2, 308)",
+   "(8, 2, 58)",
+   "(9, 2, 86)"
+  ],
+  "options_ne": [
+   "(८, २, ५०८)",
+   "(९, २, ३०८)",
+   "(८, २, ५८)",
+   "(९, २, ८६)"
+  ],
+  "answer": 0,
+  "explanation": "The third number is the cube of the first minus the square of the second: 9³−5² = 729−25 = 704; 6³−2² = 216−4 = 212; so 8³−2² = 512−4 = 508.",
+  "explanation_ne": "तेस्रो संख्या पहिलोको घनबाट दोस्रोको वर्ग घटाएर बनेको छ: 9³−5² = 729−25 = 704; 6³−2² = 216−4 = 212; त्यसैले 8³−2² = 512−4 = 508 हुन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-43",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio (dogs and cats)",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nina has many dogs and cats in her house. The ratio of the number of dogs to cats in her house is 1:3. If the total number of dogs and cats is 8, how many cats does Nina have?",
+  "question_ne": "स्माकरहरू मन पराउने नीनाको घरमा धेरै कुकुर र बिरालोहरू छन्। उनको घरमा भएका कुकुर र बिरालोको संख्याको अनुपात १:३ छ। कुकुर र बिरालोहरूको कुल संख्या ८ भए नीनासँग कतिवटा बिरालोहरू छन्?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "options_ne": [
+   "४",
+   "५",
+   "६",
+   "७"
+  ],
+  "answer": 2,
+  "explanation": "Dogs:cats = 1:3 and the total is 8, so cats = 8 × 3/4 = 6.",
+  "explanation_ne": "कुकुर:बिरालो = 1:3 र जम्मा 8 भएकाले बिरालो = 8 × 3/4 = 6 हुन्छ।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-44",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number series (digit-sum)",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Complete the series: 105, 99, 81, 72, ?, 54",
+  "question_ne": "श्रेणी पुरा गर्नुहोस्: १०५, ९९, ८१, ७२, ?, ५४",
+  "options": [
+   "65",
+   "64",
+   "63",
+   "62"
+  ],
+  "options_ne": [
+   "६५",
+   "६४",
+   "६३",
+   "६२"
+  ],
+  "answer": 2,
+  "explanation": "Each term minus the sum of its digits gives the next: 105−6=99, 99−18=81, 81−9=72, 72−9=63, 63−9=54.",
+  "explanation_ne": "हरेक पदबाट त्यसका अंकहरूको योग घटाउँदा अर्को पद बन्छ: 105−6=99, 99−18=81, 81−9=72, 72−9=63, 63−9=54।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ },
+ {
+  "id": "KOSHI-2083-45",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter values puzzle",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The table shown has 6 letters: first row A, B, C; second row D, E, F. The values of these letters are 1–6. Find the value of C on the basis of the information given. Information: 1. (B × B) ÷ B = A; 2. A + C + E = 14; 3. C, D, E, F are in decreasing order.",
+  "question_ne": "देखाएको तालिकामा ६ वटा अक्षरहरू छन्। यी अक्षरहरूको मान १-६ सम्म रहेको छ। उपलब्ध जानकारीको आधारमा C को मान निकाल्नुहोस्। तालिका: पहिलो पंक्ति A, B, C; दोस्रो पंक्ति D, E, F। जानकारी: १. (B × B) ÷ B = A; २. A+C+E = 14; ३. C, D, E, F क्रमशः घट्दो क्रममा रहेका छन्।",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "3"
+  ],
+  "options_ne": [
+   "६",
+   "५",
+   "४",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "(B×B)÷B = B, so A = B; with A+C+E = 14 and C, D, E, F in decreasing order, the values are A = B = 6, C = 5, D = 4, E = 3, so C = 5.",
+  "explanation_ne": "(B×B)÷B = B भएकाले A = B हुन्छ; A+C+E = 14 र C, D, E, F घट्दो क्रममा भएकाले मानहरू A = B = 6, C = 5, D = 4, E = 3 हुन्छन्, त्यसैले C = 5 हो।",
+  "source": "Previous Year — Koshi Province 4th Level First Paper 2083-01-26"
+ }
+]

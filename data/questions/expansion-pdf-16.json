@@ -1,0 +1,1612 @@
+[
+ {
+  "id": "PDF-9714",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 7 m carries a uniformly distributed load (UDL) of w = 196 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 7 m को एक सरल समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 196 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 686.0 kN; Max BM = 1200.50 kN·m",
+   "Max SF = 1372.0 kN; Max BM = 2401.00 kN·m",
+   "Max SF = 686.0 kN; Max BM = 800.33 kN·m",
+   "Max SF = 343.0 kN; Max BM = 4802.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 686.0 kN; अधिकतम BM = 1200.50 kN·m",
+   "अधिकतम SF = 1372.0 kN; अधिकतम BM = 2401.00 kN·m",
+   "अधिकतम SF = 686.0 kN; अधिकतम BM = 800.33 kN·m",
+   "अधिकतम SF = 343.0 kN; अधिकतम BM = 4802.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 686.0 kN; Max BM = 1200.50 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 686.0 kN हो; अधिकतम BM = 1200.50 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9715",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 1.75 m is taken on a Benchmark of Reduced Level (RL) = 1665.00 m, and a foresight (FS) of 1.15 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1665.00 मिटरको बेन्चमार्कमा 1.75 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.15 मिटरको दूरदर्शिता (FS) लिइन्छ। स्टेशन P को उपकरणको उचाइ (HI) र घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1666.75 m; RL of Station P = 1667.90 m",
+   "HI = 1663.25 m; RL of Station P = 1664.40 m",
+   "HI = 1666.15 m; RL of Station P = 1664.40 m",
+   "HI = 1666.75 m; RL of Station P = 1665.60 m"
+  ],
+  "options_ne": [
+   "HI = 1666.75 m; स्टेशन P = 1667.90 मिटरको RL",
+   "HI = 1663.25 m; स्टेशन P = 1664.40 मिटरको RL",
+   "HI = 1666.15 m; स्टेशन P = 1664.40 मिटरको RL",
+   "HI = 1666.75 m; स्टेशन P = 1665.60 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1666.75 m; RL of Station P = 1665.60 m.",
+  "explanation_ne": "सही उत्तर HI = 1666.75 m; स्टेशन P = 1665.60 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9716",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 8 m carries a uniformly distributed load (UDL) of w = 198 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 8 m को एक सरल समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 198 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 1584.0 kN; Max BM = 3168.00 kN·m",
+   "Max SF = 792.0 kN; Max BM = 1056.00 kN·m",
+   "Max SF = 792.0 kN; Max BM = 1584.00 kN·m",
+   "Max SF = 396.0 kN; Max BM = 6336.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 1584.0 kN; अधिकतम BM = 3168.00 kN·m",
+   "अधिकतम SF = 792.0 kN; अधिकतम BM = 1056.00 kN·m",
+   "अधिकतम SF = 792.0 kN; अधिकतम BM = 1584.00 kN·m",
+   "अधिकतम SF = 396.0 kN; अधिकतम BM = 6336.00 kN·m"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Max SF = 792.0 kN; Max BM = 1584.00 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 792.0 kN हो; अधिकतम BM = 1584.00 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9717",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 1.85 m is taken on a Benchmark of Reduced Level (RL) = 1670.00 m, and a foresight (FS) of 1.30 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1670.00 मिटरको बेन्चमार्कमा 1.85 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.30 मिटरको दूरदर्शिता (FS) लिइन्छ। उपकरणको उचाइ (HI) र स्टेशन P को घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1671.30 m; RL of Station P = 1669.45 m",
+   "HI = 1671.85 m; RL of Station P = 1670.55 m",
+   "HI = 1668.15 m; RL of Station P = 1669.45 m",
+   "HI = 1671.85 m; RL of Station P = 1673.15 m"
+  ],
+  "options_ne": [
+   "HI = 1671.30 मी; स्टेशन P = 1669.45 मिटरको RL",
+   "HI = 1671.85 m; स्टेशन P = 1670.55 मिटरको RL",
+   "HI = 1668.15 m; स्टेशन P = 1669.45 मिटरको RL",
+   "HI = 1671.85 m; स्टेशन P = 1673.15 मिटरको RL"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is HI = 1671.85 m; RL of Station P = 1670.55 m.",
+  "explanation_ne": "सही उत्तर HI = 1671.85 m; स्टेशन P = 1670.55 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9718",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 9 m carries a uniformly distributed load (UDL) of w = 200 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 9 m को एक सरल समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 200 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 900.0 kN; Max BM = 2025.00 kN·m",
+   "Max SF = 900.0 kN; Max BM = 1350.00 kN·m",
+   "Max SF = 1800.0 kN; Max BM = 4050.00 kN·m",
+   "Max SF = 450.0 kN; Max BM = 8100.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 900.0 kN; अधिकतम BM = 2025.00 kN·m",
+   "अधिकतम SF = 900.0 kN; अधिकतम BM = 1350.00 kN·m",
+   "अधिकतम SF = 1800.0 kN; अधिकतम BM = 4050.00 kN·m",
+   "अधिकतम SF = 450.0 kN; अधिकतम BM = 8100.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 900.0 kN; Max BM = 2025.00 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 900.0 kN हो; अधिकतम BM = 2025.00 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9719",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 1.95 m is taken on a Benchmark of Reduced Level (RL) = 1675.00 m, and a foresight (FS) of 1.45 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1675.00 मिटरको बेन्चमार्कमा 1.95 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.45 मिटरको दूरदर्शिता (FS) लिइन्छ। उपकरणको उचाइ (HI) र स्टेशन P को घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1676.95 m; RL of Station P = 1675.50 m",
+   "HI = 1673.05 m; RL of Station P = 1674.50 m",
+   "HI = 1676.45 m; RL of Station P = 1674.50 m",
+   "HI = 1676.95 m; RL of Station P = 1678.40 m"
+  ],
+  "options_ne": [
+   "HI = 1676.95 m; स्टेशन P = 1675.50 मिटरको RL",
+   "HI = 1673.05 m; स्टेशन P = 1674.50 मिटरको RL",
+   "HI = 1676.45 m; स्टेशन P = 1674.50 मिटरको RL",
+   "HI = 1676.95 m; स्टेशन P = 1678.40 मिटरको RL"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is HI = 1676.95 m; RL of Station P = 1675.50 m.",
+  "explanation_ne": "सही उत्तर HI = 1676.95 m; स्टेशन P = 1675.50 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9720",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 10 m carries a uniformly distributed load (UDL) of w = 202 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 10 m को एक साधारण समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 202 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 1010.0 kN; Max BM = 2525.00 kN·m",
+   "Max SF = 1010.0 kN; Max BM = 1683.33 kN·m",
+   "Max SF = 2020.0 kN; Max BM = 5050.00 kN·m",
+   "Max SF = 505.0 kN; Max BM = 10100.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 1010.0 kN; अधिकतम BM = 2525.00 kN·m",
+   "अधिकतम SF = 1010.0 kN; अधिकतम BM = १६८३.३३ kN·m",
+   "अधिकतम SF = 2020.0 kN; अधिकतम BM = ५०५०.०० kN·m",
+   "अधिकतम SF = ५०५.० kN; अधिकतम BM = 10100.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 1010.0 kN; Max BM = 2525.00 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 1010.0 kN हो; अधिकतम BM = 2525.00 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9721",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 2.05 m is taken on a Benchmark of Reduced Level (RL) = 1680.00 m, and a foresight (FS) of 1.60 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1680.00 मिटरको बेन्चमार्कमा 2.05 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.60 मिटरको दूरदर्शिता (FS) लिइन्छ। उपकरणको उचाइ (HI) र स्टेशन P को घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1681.60 m; RL of Station P = 1679.55 m",
+   "HI = 1677.95 m; RL of Station P = 1679.55 m",
+   "HI = 1682.05 m; RL of Station P = 1683.65 m",
+   "HI = 1682.05 m; RL of Station P = 1680.45 m"
+  ],
+  "options_ne": [
+   "HI = 1681.60 मी; स्टेशन P = 1679.55 मिटरको RL",
+   "HI = 1677.95 m; स्टेशन P = 1679.55 मिटरको RL",
+   "HI = 1682.05 m; स्टेशन P = 1683.65 मिटरको RL",
+   "HI = 1682.05 m; स्टेशन P = 1680.45 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1682.05 m; RL of Station P = 1680.45 m.",
+  "explanation_ne": "सही उत्तर HI = 1682.05 m; स्टेशन P = 1680.45 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9722",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 11 m carries a uniformly distributed load (UDL) of w = 204 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 11 m को एक सरल समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 204 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 1122.0 kN; Max BM = 3085.50 kN·m",
+   "Max SF = 2244.0 kN; Max BM = 6171.00 kN·m",
+   "Max SF = 561.0 kN; Max BM = 12342.00 kN·m",
+   "Max SF = 1122.0 kN; Max BM = 2057.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 1122.0 kN; अधिकतम BM = ३०८५.५० kN·m",
+   "अधिकतम SF = 2244.0 kN; अधिकतम BM = 6171.00 kN·m",
+   "अधिकतम SF = 561.0 kN; अधिकतम BM = 12342.00 kN·m",
+   "अधिकतम SF = 1122.0 kN; अधिकतम BM = 2057.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 1122.0 kN; Max BM = 3085.50 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 1122.0 kN हो; अधिकतम BM = ३०८५.५० kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9723",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 2.15 m is taken on a Benchmark of Reduced Level (RL) = 1685.00 m, and a foresight (FS) of 1.75 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1685.00 मिटरको बेन्चमार्कमा 2.15 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.75 मिटरको दूरदर्शिता (FS) लिइन्छ। स्टेशन P को उपकरणको उचाइ (HI) र घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1686.75 m; RL of Station P = 1684.60 m",
+   "HI = 1687.15 m; RL of Station P = 1688.90 m",
+   "HI = 1682.85 m; RL of Station P = 1684.60 m",
+   "HI = 1687.15 m; RL of Station P = 1685.40 m"
+  ],
+  "options_ne": [
+   "HI = 1686.75 m; स्टेशन P = 1684.60 मिटरको RL",
+   "HI = 1687.15 m; स्टेशन P = 1688.90 मिटरको RL",
+   "HI = 1682.85 m; स्टेशन P = 1684.60 मिटरको RL",
+   "HI = 1687.15 m; स्टेशन P = 1685.40 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1687.15 m; RL of Station P = 1685.40 m.",
+  "explanation_ne": "सही उत्तर HI = 1687.15 m; स्टेशन P = 1685.40 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9724",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 12 m carries a uniformly distributed load (UDL) of w = 206 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 12 m को एक साधारण समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 206 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 1236.0 kN; Max BM = 3708.00 kN·m",
+   "Max SF = 1236.0 kN; Max BM = 2472.00 kN·m",
+   "Max SF = 2472.0 kN; Max BM = 7416.00 kN·m",
+   "Max SF = 618.0 kN; Max BM = 14832.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 1236.0 kN; अधिकतम BM = 3708.00 kN·m",
+   "अधिकतम SF = 1236.0 kN; अधिकतम BM = 2472.00 kN·m",
+   "अधिकतम SF = 2472.0 kN; अधिकतम BM = 7416.00 kN·m",
+   "अधिकतम SF = 618.0 kN; अधिकतम BM = 14832.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 1236.0 kN; Max BM = 3708.00 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 1236.0 kN हो; अधिकतम BM = 3708.00 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9725",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 2.25 m is taken on a Benchmark of Reduced Level (RL) = 1690.00 m, and a foresight (FS) of 0.85 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1690.00 मिटरको बेन्चमार्कमा 2.25 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 0.85 मिटरको दूरदर्शिता (FS) लिइन्छ। उपकरणको उचाइ (HI) र स्टेशन P को घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1687.75 m; RL of Station P = 1688.60 m",
+   "HI = 1692.25 m; RL of Station P = 1693.10 m",
+   "HI = 1690.85 m; RL of Station P = 1688.60 m",
+   "HI = 1692.25 m; RL of Station P = 1691.40 m"
+  ],
+  "options_ne": [
+   "HI = 1687.75 m; स्टेशन P = 1688.60 मिटरको RL",
+   "HI = 1692.25 मी; स्टेशन P = 1693.10 मिटरको RL",
+   "HI = 1690.85 m; स्टेशन P = 1688.60 मिटरको RL",
+   "HI = 1692.25 मी; स्टेशन P = 1691.40 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1692.25 m; RL of Station P = 1691.40 m.",
+  "explanation_ne": "सही उत्तर HI = 1692.25 m; स्टेशन P = 1691.40 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9726",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 4 m carries a uniformly distributed load (UDL) of w = 208 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 4 m को एक सरल समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 208 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 416.0 kN; Max BM = 416.00 kN·m",
+   "Max SF = 416.0 kN; Max BM = 277.33 kN·m",
+   "Max SF = 832.0 kN; Max BM = 832.00 kN·m",
+   "Max SF = 208.0 kN; Max BM = 1664.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 416.0 kN; अधिकतम BM = 416.00 kN·m",
+   "अधिकतम SF = 416.0 kN; अधिकतम BM = 277.33 kN·m",
+   "अधिकतम SF = 832.0 kN; अधिकतम BM = 832.00 kN·m",
+   "अधिकतम SF = 208.0 kN; अधिकतम BM = 1664.00 kN·m"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Max SF = 416.0 kN; Max BM = 416.00 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 416.0 kN हो; अधिकतम BM = 416.00 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9727",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 2.35 m is taken on a Benchmark of Reduced Level (RL) = 1695.00 m, and a foresight (FS) of 1.00 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1695.00 मिटरको बेन्चमार्कमा 2.35 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.00 मिटरको दूरदर्शिता (FS) लिइन्छ। उपकरणको उचाइ (HI) र स्टेशन P को घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1697.35 m; RL of Station P = 1698.35 m",
+   "HI = 1696.00 m; RL of Station P = 1693.65 m",
+   "HI = 1692.65 m; RL of Station P = 1693.65 m",
+   "HI = 1697.35 m; RL of Station P = 1696.35 m"
+  ],
+  "options_ne": [
+   "HI = 1697.35 m; स्टेशन P = 1698.35 मिटरको RL",
+   "HI = 1696.00 मी; स्टेशन P = 1693.65 मिटरको RL",
+   "HI = 1692.65 m; स्टेशन P = 1693.65 मिटरको RL",
+   "HI = 1697.35 m; स्टेशन P = 1696.35 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1697.35 m; RL of Station P = 1696.35 m.",
+  "explanation_ne": "सही उत्तर HI = 1697.35 m; स्टेशन P = 1696.35 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9728",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A simply supported reinforced concrete beam of clear span L = 5 m carries a uniformly distributed load (UDL) of w = 210 kN/m over its entire span. What are the Maximum Shear Force at the supports and the Maximum Bending Moment at mid-span?",
+  "question_ne": "स्पष्ट स्प्यान L = 5 m को एक साधारण समर्थित प्रबलित कंक्रीट बीमले यसको सम्पूर्ण स्प्यानमा w = 210 kN/m को समान रूपमा वितरित लोड (UDL) बोक्छ। समर्थनमा अधिकतम शियर बल र मध्य-स्पानमा अधिकतम झुकाउने क्षण के हो?",
+  "options": [
+   "Max SF = 525.0 kN; Max BM = 437.50 kN·m",
+   "Max SF = 525.0 kN; Max BM = 656.25 kN·m",
+   "Max SF = 1050.0 kN; Max BM = 1312.50 kN·m",
+   "Max SF = 262.5 kN; Max BM = 2625.00 kN·m"
+  ],
+  "options_ne": [
+   "अधिकतम SF = 525.0 kN; अधिकतम BM = 437.50 kN·m",
+   "अधिकतम SF = 525.0 kN; अधिकतम BM = 656.25 kN·m",
+   "अधिकतम SF = 1050.0 kN; अधिकतम BM = 1312.50 kN·m",
+   "अधिकतम SF = 262.5 kN; अधिकतम BM = 2625.00 kN·m"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Max SF = 525.0 kN; Max BM = 656.25 kN·m.",
+  "explanation_ne": "सही उत्तर अधिकतम SF = 525.0 kN हो; अधिकतम BM = 656.25 kN·m।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9729",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In differential spirit levelling, a backsight (BS) of 1.45 m is taken on a Benchmark of Reduced Level (RL) = 1700.00 m, and a foresight (FS) of 1.15 m is taken on Station P. What are the Height of Instrument (HI) and the Reduced Level (RL) of Station P?",
+  "question_ne": "डिफरेंशियल स्पिरिट लेभलिङमा, घटाइएको स्तर (RL) = 1700.00 मिटरको बेन्चमार्कमा 1.45 मिटरको ब्याकसाइट (BS) लिइन्छ, र स्टेशन P मा 1.15 मिटरको दूरदर्शिता (FS) लिइन्छ। स्टेशन P को उपकरणको उचाइ (HI) र घटाइएको स्तर (RL) के हो?",
+  "options": [
+   "HI = 1698.55 m; RL of Station P = 1699.70 m",
+   "HI = 1701.15 m; RL of Station P = 1699.70 m",
+   "HI = 1701.45 m; RL of Station P = 1702.60 m",
+   "HI = 1701.45 m; RL of Station P = 1700.30 m"
+  ],
+  "options_ne": [
+   "HI = 1698.55 m; स्टेशन P = 1699.70 मिटरको RL",
+   "HI = 1701.15 m; स्टेशन P = 1699.70 मिटरको RL",
+   "HI = 1701.45 m; स्टेशन P = 1702.60 मिटरको RL",
+   "HI = 1701.45 m; स्टेशन P = 1700.30 मिटरको RL"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is HI = 1701.45 m; RL of Station P = 1700.30 m.",
+  "explanation_ne": "सही उत्तर HI = 1701.45 m; स्टेशन P = 1700.30 मिटरको RL।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9730",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'Ziehl-Neelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram- negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)"
+  ],
+  "options_ne": [
+   "L३–L४ वा L४–L५ लम्बर कशेरुका बीचको सबराक्नोइड स्पेसबाट सङ्कलन गरिएको; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नेगेटिभ गुलाबी-रातो (पातलो पेप्टिडोग्लाइकन + बाहिरी लिपोपोलिसैकराइड झिल्ली) राख्छ।",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background.",
+  "explanation_ne": "सही उत्तर प्राथमिक दाग हो: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखिन्छन्।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9731",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background'?",
+  "question_ne": "कुन चिकित्सा, नर्सिंग, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा उज्यालो रातो रडहरू देखा पर्छन्'?",
+  "options": [
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles"
+  ],
+  "options_ne": [
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology).",
+  "explanation_ne": "सही उत्तर Ziehl-Neelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी) हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9732",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो) लाई नियन्त्रण गर्छ। डिकोलोराइजर: २०% H₂SO...'?",
+  "options": [
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors"
+  ],
+  "options_ne": [
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology).",
+  "explanation_ne": "सही उत्तर Ziehl-Neelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी) हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9733",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'ग्राम दाग प्रक्रिया (ह्यान्स क्रिश्चियन ग्राम, 1884 - मेडिकल ल्याब टेक्नोलोजी)' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background"
+  ],
+  "options_ne": [
+   "L३–L४ वा L४–L५ लम्बर कशेरुका बीचको सबराक्नोइड स्पेसबाट सङ्कलन गरिएको; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is 1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane).",
+  "explanation_ne": "सही उत्तर हो 1. क्रिस्टल वायलेट (प्राथमिक दाग, 1 मिनेट), 2. ग्राम आयोडिन (मोर्डन्ट, 1 मिनेट), 3. एसीटोन / 95% इथाइल अल्कोहल (डिकोलोराइजर), 4. सफारानिन / न्यूट्रल रेड (काउन्टरस्टेन); ग्राम-सकारात्मक ब्याक्टेरियाले बैजनी-बैजनी रंग (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो (पातलो पेप्टिडोग्लाइकन + बाहिरी लिपोपोलिसेकराइड झिल्ली) राख्छ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9734",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: '1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: '1। क्रिस्टल बैजनी (प्राथमिक दाग, 1 मिनेट), 2. ग्राम आयोडिन (मोर्डन्ट, 1 मिनेट), 3. एसीटोन / 95% इथाइल अल्कोहल (डिकोलोराइजर), 4. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नेगेटिभ गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लाइक्यान + बाहिरी लिपोपोलिसकेराइड झिल्ली)'?",
+  "options": [
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology).",
+  "explanation_ne": "सही उत्तर ग्राम दाग प्रक्रिया (ह्यान्स क्रिश्चियन ग्राम, 1884 - मेडिकल ल्याब टेक्नोलोजी) हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9735",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs '1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले '1 लाई नियन्त्रण गर्दछ। क्रिस्टल वायलेट (प्राथमिक दाग, 1 मिनेट), 2. ग्राम आयोडिन (मोर्डन्ट, 1...'?",
+  "options": [
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors"
+  ],
+  "options_ne": [
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology).",
+  "explanation_ne": "सही उत्तर ग्राम दाग प्रक्रिया (ह्यान्स क्रिश्चियन ग्राम, 1884 - मेडिकल ल्याब टेक्नोलोजी) हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9736",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'फ्लेबोटोमी / हेमाटोलोजीमा एन्टिकोआगुलेन्ट्स र भ्याकुटेनर ट्यूब क्याप कलर्स' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose"
+  ],
+  "options_ne": [
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)",
+   "L३–L४ वा L४–L५ लम्बर कशेरुका बीचको सबराक्नोइड स्पेसबाट सङ्कलन गरिएको; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum).",
+  "explanation_ne": "सही उत्तर हो लैभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, CBC/HbA1c/ESR को लागि Wintrobe द्वारा उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट सक्रियकर्ता)।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9737",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)'?",
+  "question_ne": "कुन चिकित्सा, नर्सिंग, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'ल्याभेन्डर/पर्पल शीर्ष (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो/गोल्ड टप (सीरमको लागि प्लेन/क्लोट एक्टिभेटर)'?",
+  "options": [
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles"
+  ],
+  "options_ne": [
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology.",
+  "explanation_ne": "सही उत्तर फ्लेबोटोमी / हेमाटोलोजीमा एन्टिकोआगुलेन्ट्स र भ्याकुटेनर ट्यूब क्याप कलर्स हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9738",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by W...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, CBC/HbA1c/ESR by W...' को लागि उत्तम हुन्छ?",
+  "options": [
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors"
+  ],
+  "options_ne": [
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology.",
+  "explanation_ne": "सही उत्तर फ्लेबोटोमी / हेमाटोलोजीमा एन्टिकोआगुलेन्ट्स र भ्याकुटेनर ट्यूब क्याप कलर्स हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9739",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पन्क्चर साइट र मेनिन्जाइटिस प्रोफाइल' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)"
+  ],
+  "options_ne": [
+   "L३–L४ वा L४–L५ लम्बर कशेरुका बीचको सबराक्नोइड स्पेसबाट सङ्कलन गरिएको; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose.",
+  "explanation_ne": "सही उत्तर L3–L4 वा L4–L5 लम्बर कशेरुका बीचको सबराक्नोइड स्पेसबाट सङ्कलन गरिएको हो; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9740",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Collected from subarachnoid space between L3–L4 or L4–L5 lumbar vertebrae; Bacterial (Pyogenic) Meningitis shows markedly elevated Neutrophils, high protein, and very low glucose; Tuberculous Meningitis shows Lymphocytic pleocytosis, 'cobweb coagulum', high protein, and low glucose; Viral Meningitis shows Lymphocytosis with normal glucose'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'L3–L4 वा L4–L5 लम्बर कशेरुका बीचको सबराकोइड स्पेसबाट सङ्कलन गरिएको; ब्याक्टेरियल (पियोजेनिक) मेनिन्जाइटिसले स्पष्ट रूपमा उच्च न्यूट्रोफिल, उच्च प्रोटीन, र धेरै कम ग्लुकोज देखाउँछ; ट्युबरकुलस मेनिन्जाइटिसले लिम्फोसाइटिक प्लोसाइटोसिस, 'कोबवेब कोगुलम', उच्च प्रोटीन, र कम ग्लुकोज देखाउँछ; भाइरल मेनिन्जाइटिसले सामान्य ग्लुकोजको साथ लिम्फोसाइटोसिस देखाउँछ?",
+  "options": [
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology"
+  ],
+  "options_ne": [
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles.",
+  "explanation_ne": "सही उत्तर सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइलहरू हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9741",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Collected from subarachnoid space between L3–L4 or L4–L5 lumbar verteb...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'L3–L4 वा L4–L5 लुम्बर कशेरुका बीचको सबराकोइड स्पेसबाट सङ्कलन...' लाई नियन्त्रण गर्छ?",
+  "options": [
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors"
+  ],
+  "options_ne": [
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles.",
+  "explanation_ne": "सही उत्तर सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइलहरू हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9742",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA प्रिन्सिपल र कन्ट्रास्ट मिडिया' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "Rotating anode target is made of Tungsten + 10% Rhenium alloy (high Z=74, melting point 3422°C); ALARA stands for 'As Low As Reasonably Achievable' (Time, Distance, Lead Shielding ≥0.5 mm Pb equivalent); Barium Sulfate (BaSO₄) is inert oral/rectal GI contrast (contraindicated in suspected perforation — use water-soluble iodinated contrast instead); MRI uses strong magnetic fields (Tesla) and RF pulses with ZERO ionizing radiation"
+  ],
+  "options_ne": [
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "घुमाउने एनोड लक्ष्य टंगस्टन + 10% रेनियम मिश्र धातुबाट बनेको छ (उच्च Z=74, पिघलने बिन्दु 3422 डिग्री सेल्सियस); ALARA को अर्थ 'जति कम उचित रूपमा प्राप्त गर्न सकिन्छ' (समय, दूरी, लीड शिल्डिंग ≥0.5 मिमी Pb बराबर); बेरियम सल्फेट (BaSO₄) निष्क्रिय मौखिक/रेक्टल GI कन्ट्रास्ट हो (संदिग्ध पर्फोरेसनमा निषेधित - यसको सट्टा पानीमा घुलनशील आयोडिनेटेड कन्ट्रास्ट प्रयोग गर्नुहोस्); एमआरआईले बलियो चुम्बकीय क्षेत्र (टेस्ला) र आरएफ पल्सहरू शून्य आयनाइजिङ विकिरणको साथ प्रयोग गर्दछ।"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is Rotating anode target is made of Tungsten + 10% Rhenium alloy (high Z=74, melting point 3422°C); ALARA stands for 'As Low As Reasonably Achievable' (Time, Distance, Lead Shielding ≥0.5 mm Pb equivalent); Barium Sulfate (BaSO₄) is inert oral/rectal GI contrast (contraindicated in suspected perforation — use water-soluble iodinated contrast instead); MRI uses strong magnetic fields (Tesla) and RF pulses with ZERO ionizing radiation.",
+  "explanation_ne": "सही उत्तर हो घुमाउने एनोड लक्ष्य टंगस्टन + 10% रेनियम मिश्र धातुबाट बनेको छ (उच्च Z=74, पिघलने बिन्दु 3422 डिग्री सेल्सियस); ALARA को अर्थ 'जति कम उचित रूपमा प्राप्त गर्न सकिन्छ' (समय, दूरी, लीड शिल्डिंग ≥0.5 मिमी Pb बराबर); बेरियम सल्फेट (BaSO₄) निष्क्रिय मौखिक/रेक्टल GI कन्ट्रास्ट हो (संदिग्ध पर्फोरेसनमा निषेधित - यसको सट्टा पानीमा घुलनशील आयोडिनेटेड कन्ट्रास्ट प्रयोग गर्नुहोस्); एमआरआईले बलियो चुम्बकीय क्षेत्र (टेस्ला) र आरएफ पल्सहरू शून्य आयनाइजिङ विकिरणको साथ प्रयोग गर्दछ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9743",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Rotating anode target is made of Tungsten + 10% Rhenium alloy (high Z=74, melting point 3422°C); ALARA stands for 'As Low As Reasonably Achievable' (Time, Distance, Lead Shielding ≥0.5 mm Pb equivalent); Barium Sulfate (BaSO₄) is inert oral/rectal GI contrast (contraindicated in suspected perforation — use water-soluble iodinated contrast instead); MRI uses strong magnetic fields (Tesla) and RF pulses with ZERO ionizing radiation'?",
+  "question_ne": "कुन चिकित्सा, नर्सिंग, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'घुम्ने एनोड लक्ष्य टंगस्टन + 10% रेनियम मिश्र धातु (उच्च Z=74, पिघलने बिन्दु 3422 डिग्री सेल्सियस) बाट बनेको छ; ALARA को अर्थ 'जति कम उचित रूपमा प्राप्त गर्न सकिन्छ' (समय, दूरी, लीड शिल्डिंग ≥0.5 मिमी Pb बराबर); बेरियम सल्फेट (BaSO₄) निष्क्रिय मौखिक/रेक्टल GI कन्ट्रास्ट हो (संदिग्ध पर्फोरेसनमा निषेधित - यसको सट्टा पानीमा घुलनशील आयोडिनेटेड कन्ट्रास्ट प्रयोग गर्नुहोस्); एमआरआईले बलियो चुम्बकीय क्षेत्र (टेस्ला) र आरएफ पल्सहरू शून्य आयनाइजिंग विकिरणको साथ प्रयोग गर्दछ?",
+  "options": [
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media.",
+  "explanation_ne": "सही उत्तर रेडियोग्राफी र मेडिकल इमेजिङ हो: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9744",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Rotating anode target is made of Tungsten + 10% Rhenium alloy (high Z=...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिंदा, कुन प्रोटोकलले 'घुमाउने एनोड लक्ष्य टंगस्टन + 10% रेनियम मिश्र धातु (उच्च Z=...' बाट बनेको छ) लाई नियन्त्रित गर्दछ?",
+  "options": [
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors"
+  ],
+  "options_ne": [
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media.",
+  "explanation_ne": "सही उत्तर रेडियोग्राफी र मेडिकल इमेजिङ हो: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9745",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (Oxford MRC स्केल 0-5) र इलेक्ट्रोथेरापी' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "Oxford Muscle Grading: Grade 0 (No contraction), Grade 1 (Flicker/trace of contraction), Grade 2 (Full ROM with gravity eliminated), Grade 3 (Full ROM against gravity without resistance), Grade 4 (Full ROM against gravity with moderate resistance), Grade 5 (Normal power against maximal resistance); TENS (Transcutaneous Electrical Nerve Stimulation) relieves pain via Melzack & Wall's Pain Gate Control Theory"
+  ],
+  "options_ne": [
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "अक्सफोर्ड मांसपेशी ग्रेडिंग: ग्रेड 0 (कुनै संकुचन छैन), ग्रेड 1 (फ्लिकर/संकुचनको ट्रेस), ग्रेड 2 (गुरुत्वाकर्षणको साथ पूर्ण रोम), ग्रेड 3 (प्रतिरोधविना गुरुत्वाकर्षण विरुद्ध पूर्ण रोम), ग्रेड 4 (मध्यम प्रतिरोधको साथ गुरुत्वाकर्षण विरुद्ध पूर्ण रोम), ग्रेड 5 (मध्यम प्रतिरोध संग गुरुत्वाकर्षण विरुद्ध पूर्ण रोम); TENS (ट्रान्स्क्युटेनियस इलेक्ट्रिकल नर्भ स्टिमुलेशन) ले मेल्ज्याक र वालको पेन गेट कन्ट्रोल थ्योरी मार्फत दुखाइ कम गर्छ।"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is Oxford Muscle Grading: Grade 0 (No contraction), Grade 1 (Flicker/trace of contraction), Grade 2 (Full ROM with gravity eliminated), Grade 3 (Full ROM against gravity without resistance), Grade 4 (Full ROM against gravity with moderate resistance), Grade 5 (Normal power against maximal resistance); TENS (Transcutaneous Electrical Nerve Stimulation) relieves pain via Melzack & Wall's Pain Gate Control Theory.",
+  "explanation_ne": "सही उत्तर अक्सफोर्ड मांसपेशी ग्रेडिङ हो: ग्रेड 0 (कुनै संकुचन छैन), ग्रेड 1 (फ्लिकर/संकुचनको ट्रेस), ग्रेड 2 (गुरुत्वाकर्षणको साथ पूर्ण रोम), ग्रेड 3 (प्रतिरोध बिना गुरुत्वाकर्षण विरुद्ध पूर्ण रोम), ग्रेड 4 (मध्यम प्रतिरोधको साथ गुरुत्वाकर्षण विरुद्ध पूर्ण रोम), ग्रेडमाल प्रतिरोध (5) TENS (Transcutaneous Electrical Nerve Stimulation) ले Melzack र Wall's Pain Gate Control Theory मार्फत दुखाई कम गर्छ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9746",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Oxford Muscle Grading: Grade 0 (No contraction), Grade 1 (Flicker/trace of contraction), Grade 2 (Full ROM with gravity eliminated), Grade 3 (Full ROM against gravity without resistance), Grade 4 (Full ROM against gravity with moderate resistance), Grade 5 (Normal power against maximal resistance); TENS (Transcutaneous Electrical Nerve Stimulation) relieves pain via Melzack & Wall's Pain Gate Control Theory'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'अक्सफोर्ड मांसपेशी ग्रेडिंग: ग्रेड 0 (कुनै संकुचन छैन), ग्रेड 1 (फ्लिकर/संकुचनको ट्रेस), ग्रेड 2 (गुरुत्वाकर्षणको साथ पूर्ण रोम), ग्रेड 3 (गुरुत्वाकर्षण विरुद्ध पूर्ण रोम), प्रतिरोध बिना ग्रेड 4ओएम (ग्रेड 4ओएम)। ग्रेड 5 (अधिकतम प्रतिरोध विरुद्ध सामान्य शक्ति); TENS (Transcutaneous Electrical Nerve Stimulation) ले Melzack & Wall's Pain Gate Control Theory' मार्फत दुखाई कम गर्छ?",
+  "options": [
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy.",
+  "explanation_ne": "सही उत्तर फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (Oxford MRC स्केल 0-5) र इलेक्ट्रोथेरापी हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9747",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Oxford Muscle Grading: Grade 0 (No contraction), Grade 1 (Flicker/trac...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'Oxford Muscle Grading: Grade 0 (No Contraction), Grade 1 (Flicker/trac...' लाई नियन्त्रित गर्छ?",
+  "options": [
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy"
+  ],
+  "options_ne": [
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy.",
+  "explanation_ne": "सही उत्तर फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (Oxford MRC स्केल 0-5) र इलेक्ट्रोथेरापी हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9748",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "Snellen visual acuity is tested at 6 meters (20 feet — normal is 6/6 or 20/20; legally blind is <3/60 in the better eye with best correction); Intraocular Pressure (IOP, normal 10–21 mmHg) is measured by Goldmann Applanation Tonometer (elevated in Glaucoma); Ishihara pseudoisochromatic plates test congenital Red-Green Color Vision deficiency",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram- negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)"
+  ],
+  "options_ne": [
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "Snellen दृश्य तीक्ष्णता 6 मिटर (20 फीट - सामान्य छ 6/6 वा 20/20; कानुनी रूपमा अन्धा राम्रो सुधार संग राम्रो आँखा मा <3/60 छ) मा परीक्षण गरिन्छ; इन्ट्राओकुलर प्रेसर (IOP, सामान्य 10-21 mmHg) Goldmann Applanation Tonometer (ग्लुकोमामा बढेको) द्वारा मापन गरिन्छ; इशिहारा स्यूडोइसोक्रोमेटिक प्लेटहरू जन्मजात रातो-हरियो रंगको दृष्टिको कमीको परीक्षण गर्दछ",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नेगेटिभ गुलाबी-रातो (पातलो पेप्टिडोग्लाइकन + बाहिरी लिपोपोलिसैकराइड झिल्ली) राख्छ।"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Snellen visual acuity is tested at 6 meters (20 feet — normal is 6/6 or 20/20; legally blind is <3/60 in the better eye with best correction); Intraocular Pressure (IOP, normal 10–21 mmHg) is measured by Goldmann Applanation Tonometer (elevated in Glaucoma); Ishihara pseudoisochromatic plates test congenital Red-Green Color Vision deficiency.",
+  "explanation_ne": "सही उत्तर हो स्नेलेन भिजुअल एक्युटी 6 मिटर (20 फीट — सामान्य 6/6 वा 20/20 हो; राम्रो सुधारको साथ राम्रो आँखामा कानूनी रूपमा अन्धा <3/60) मा परीक्षण गरिन्छ; इन्ट्राओकुलर प्रेसर (IOP, सामान्य 10-21 mmHg) Goldmann Applanation Tonometer (ग्लुकोमामा बढेको) द्वारा मापन गरिन्छ; इशिहारा स्यूडोइसोक्रोमेटिक प्लेटहरूले जन्मजात रातो-हरियो रंगको दृष्टिको कमीको परीक्षण गर्दछ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9749",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Snellen visual acuity is tested at 6 meters (20 feet — normal is 6/6 or 20/20; legally blind is <3/60 in the better eye with best correction); Intraocular Pressure (IOP, normal 10–21 mmHg) is measured by Goldmann Applanation Tonometer (elevated in Glaucoma); Ishihara pseudoisochromatic plates test congenital Red-Green Color Vision deficiency'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'स्नेलेन दृश्य तीक्ष्णता 6 मिटरमा परीक्षण गरिन्छ (20 फीट - सामान्य 6/6 वा 20/20 हुन्छ; कानुनी रूपमा अन्धा राम्रो सुधार संग राम्रो आँखामा <3/60 हो); इन्ट्राओकुलर प्रेसर (IOP, सामान्य 10-21 mmHg) Goldmann Applanation Tonometer (ग्लुकोमामा बढेको) द्वारा मापन गरिन्छ; इशिहारा स्यूडोइसोक्रोमेटिक प्लेटले जन्मजात रातो-हरियो रंगको दृष्टिको कमीको परीक्षण गर्छ?",
+  "options": [
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors.",
+  "explanation_ne": "सही उत्तर Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9750",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Snellen visual acuity is tested at 6 meters (20 feet — normal is 6/6 o...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'स्नेलेन भिजुअल एक्युटी 6 मिटर (20 फीट - सामान्य छ 6/6 ओ...' मा परीक्षण गरिन्छ) लाई नियन्त्रण गर्छ?",
+  "options": [
+   "Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles"
+  ],
+  "options_ne": [
+   "अप्टोमेट्री (B.Optom): स्नेलेन चार्ट भिजुअल एक्युटी, टोनोमेट्री र अपवर्तक त्रुटिहरू",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors.",
+  "explanation_ne": "सही उत्तर Optometry (B.Optom): Snellen Chart Visual Acuity, Tonometry & Refractive Errors हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9751",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Dental Science (BDS / Dental Hygiene): FDI Two-Digit Tooth Numbering System & Dental Caries'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'दन्त विज्ञान (BDS / दन्त स्वच्छता): FDI दुई-अंकको दाँत नम्बरिङ प्रणाली र दन्त क्षय' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "FDI 2- digit system: First digit denotes Quadrant (Permanent: 1=Upper Right, 2=Upper Left, 3=Lower Left, 4=Lower Right; Deciduous/Primary: 5, 6, 7, 8) and second digit denotes tooth from midline (1=Central Incisor to 8=Third Molar; Adults have 32 teeth = 2123/2123 × 2, Children have 20 deciduous teeth = 2102/2102 × 2); Streptococcus mutans is the primary cariogenic bacterium; optimal drinking water Fluoride is 0.7–1.2 ppm (excess >1.5 ppm causes Dental Fluorosis)",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background"
+  ],
+  "options_ne": [
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "FDI 2-अङ्कको प्रणाली: पहिलो अंकले चतुर्भुजलाई जनाउँछ (स्थायी: 1=माथिल्लो दायाँ, 2=माथिल्लो बायाँ, 3=तल्लो बाँया, 4=तल्लो दायाँ; पातलो/प्राथमिक: 5, 6, 7, 8) र दोस्रो अंकले मध्यरेखाबाट दाँतलाई जनाउँछ (1=Hird=C सम्मको विज्ञापन; 32 दाँत = 2123/2123 × 2, बच्चाहरूको 20 पातलो दाँत = 2102/2102 × 2); Streptococcus mutans प्राथमिक क्यारियोजेनिक ब्याक्टेरियम हो; इष्टतम पिउने पानी फ्लोराइड ०.७–१.२ पीपीएम हो (अधिक> १.५ पीपीएमले डेन्टल फ्लोरोसिस निम्त्याउँछ)",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is FDI 2- digit system: First digit denotes Quadrant (Permanent: 1=Upper Right, 2=Upper Left, 3=Lower Left, 4=Lower Right; Deciduous/Primary: 5, 6, 7, 8) and second digit denotes tooth from midline (1=Central Incisor to 8=Third Molar; Adults have 32 teeth = 2123/2123 × 2, Children have 20 deciduous teeth = 2102/2102 × 2); Streptococcus mutans is the primary cariogenic bacterium; optimal drinking water Fluoride is 0.7–1.2 ppm (excess >1.5 ppm causes Dental Fluorosis).",
+  "explanation_ne": "सही उत्तर हो FDI 2-अङ्कको प्रणाली: पहिलो अंकले चतुर्भुजलाई जनाउँछ (स्थायी: 1=माथिल्लो दायाँ, 2=माथिल्लो बायाँ, 3=तल्लो बाँया, 4=तल्लो दायाँ; पातलो/प्राथमिक: 5, 6, 7, 8) र दोस्रो अंकले दाँतलाई entral=Cdr=1 बाट मध्य रेखासम्म जनाउँछ; वयस्कहरूको 32 दाँत = 2123/2123 × 2, बच्चाहरूको 20 पातलो दाँत = 2102/2102 × 2); Streptococcus mutans प्राथमिक क्यारियोजेनिक ब्याक्टेरियम हो; इष्टतम पिउने पानी फ्लोराइड ०.७–१.२ पीपीएम हो (अधिक> १.५ पीपीएमले डेन्टल फ्लोरोसिस निम्त्याउँछ)।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9752",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'FDI 2-digit system: First digit denotes Quadrant (Permanent: 1=Upper Right, 2=Upper Left, 3=Lower Left, 4=Lower Right; Deciduous/Primary: 5, 6, 7, 8) and second digit denotes tooth from midline (1=Central Incisor to 8=Third Molar; Adults have 32 teeth = 2123/2123 × 2, Children have 20 deciduous teeth = 2102/2102 × 2); Streptococcus mutans is the primary cariogenic bacterium; optimal drinking water Fluoride is 0.7–1.2 ppm (excess >1.5 ppm causes Dental Fluorosis)'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'FDI २-अंक प्रणाली: पहिलो अंकले चतुर्भुज जनाउँछ (स्थायी: 1=माथिल्लो दायाँ, 2=माथिल्लो बायाँ, 3=तल्लो बाँया, 4=तल्लो दायाँ; पातलो/प्राथमिक: 5, 6-अङ्कको मध्य रेखादेखि 7 अंकसम्म)। (१=केन्द्रीय इन्सिसर टु 8=थर्ड मोलर; वयस्कहरूको ३२ दाँत = २१२३/२१२३ × २, बालबालिकाको २० झरना दाँत = २१०२/२१०२ × २); Streptococcus mutans प्राथमिक क्यारियोजेनिक ब्याक्टेरियम हो; इष्टतम पिउने पानी फ्लोराइड ०.७-१.२ पीपीएम हो (अधिक> १.५ पीपीएमले डेन्टल फ्लोरोसिस निम्त्याउँछ)'?",
+  "options": [
+   "Dental Science (BDS / Dental Hygiene): FDI Two-Digit Tooth Numbering System & Dental Caries",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)",
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "दन्त विज्ञान (BDS / दन्त स्वच्छता): FDI दुई-अङ्कको दाँत नम्बरिङ प्रणाली र दन्त क्षय",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)",
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Dental Science (BDS / Dental Hygiene): FDI Two-Digit Tooth Numbering System & Dental Caries.",
+  "explanation_ne": "सही उत्तर दन्त विज्ञान (BDS / दन्त स्वच्छता): FDI दुई-अंकको दाँत नम्बरिङ प्रणाली र दन्त क्षय।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9753",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'FDI 2-digit system: First digit denotes Quadrant (Permanent: 1=Upper R...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'FDI 2-अंक प्रणाली: पहिलो अंकले क्वाड्रन्टलाई जनाउँछ (स्थायी: 1=माथिल्लो R...'?",
+  "options": [
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Dental Science (BDS / Dental Hygiene): FDI Two-Digit Tooth Numbering System & Dental Caries",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy"
+  ],
+  "options_ne": [
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "दन्त विज्ञान (BDS / दन्त स्वच्छता): FDI दुई-अंकको दाँत नम्बरिङ प्रणाली र दन्त क्षय",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी"
+  ],
+  "answer": 1,
+  "explanation": "The correct answer is Dental Science (BDS / Dental Hygiene): FDI Two-Digit Tooth Numbering System & Dental Caries.",
+  "explanation_ne": "सही उत्तर दन्त विज्ञान (BDS / दन्त स्वच्छता): FDI दुई-अंकको दाँत नम्बरिङ प्रणाली र दन्त क्षय।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9754",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Ayurveda (BAMS / AHA): Tridosha, Panchamahabhuta, Sapta Dhatu & Brihat-Trayi Classics'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'आयुर्वेद (BAMS / AHA): त्रिदोष, पंचमहाभूत, सप्त धातु र बृहत-त्रयी क्लासिक्स' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram- negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "Tridosha: Vata (Akasha + Vayu), Pitta (Agni + Jala), and Kapha (Prithvi + Jala); Brihat-Trayi (Three Great Classics): 1. Charaka Samhita (Kayachikitsa / Internal Medicine), 2. Sushruta Samhita (Shalya Tantra / Surgery — Sushruta is Father of Surgery), and 3. Ashtanga Hridaya by Vagbhata; Triphala consists of Amalaki (Emblica officinalis), Bibhitaki (Terminalia bellirica), and Haritaki (Terminalia chebula)",
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background"
+  ],
+  "options_ne": [
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नेगेटिभ गुलाबी-रातो (पातलो पेप्टिडोग्लाइकन + बाहिरी लिपोपोलिसैकराइड झिल्ली) राख्छ।",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "त्रिदोष: वात (आकाश + वायु), पित्त (अग्नि + जल), कफ (पृथ्वी + जल); बृहत-त्रयी (तीन उत्कृष्ट शास्त्रीय): १. चरक संहिता (कायाचिकित्स / आन्तरिक चिकित्सा), २. सुश्रुत संहिता (शल्य तंत्र / शल्य चिकित्सा - सुश्रुत शल्यक्रियाका पिता हुन्), र ३. वाग्भट द्वारा अष्टांग हृदय; त्रिफलामा अमलाकी (एम्ब्लिका अफिसिनालिस), बिभिताकी (टर्मिनलिया बेलिरिका), र हरिताकी (टर्मिनालिया चेबुला) समावेश हुन्छ।",
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Tridosha: Vata (Akasha + Vayu), Pitta (Agni + Jala), and Kapha (Prithvi + Jala); Brihat-Trayi (Three Great Classics): 1. Charaka Samhita (Kayachikitsa / Internal Medicine), 2. Sushruta Samhita (Shalya Tantra / Surgery — Sushruta is Father of Surgery), and 3. Ashtanga Hridaya by Vagbhata; Triphala consists of Amalaki (Emblica officinalis), Bibhitaki (Terminalia bellirica), and Haritaki (Terminalia chebula).",
+  "explanation_ne": "सही उत्तर हो त्रिदोष: वात (आकाश + वायु), पित्त (अग्नि + जल), र कफ (पृथ्वी + जल); बृहत-त्रयी (तीन उत्कृष्ट शास्त्रीय): 1. चरक संहिता (कायाचिकित्स / आन्तरिक चिकित्सा), 2. सुश्रुत संहिता (शल्य तंत्र / शल्य चिकित्सा - सुश्रुत शल्यक्रियाका पिता हुन्), र 3. वाग्भट द्वारा अष्टांग हृदय; त्रिफलामा अमलाकी (एम्ब्लिका अफिसिनालिस), बिभिताकी (टर्मिनलिया बेलिरिका), र हरिताकी (टर्मिनालिया चेबुला) हुन्छन्।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9755",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Tridosha: Vata (Akasha + Vayu), Pitta (Agni + Jala), and Kapha (Prithvi + Jala); Brihat-Trayi (Three Great Classics): 1. Charaka Samhita (Kayachikitsa / Internal Medicine), 2. Sushruta Samhita (Shalya Tantra / Surgery — Sushruta is Father of Surgery), and 3. Ashtanga Hridaya by Vagbhata; Triphala consists of Amalaki (Emblica officinalis), Bibhitaki (Terminalia bellirica), and Haritaki (Terminalia chebula)'?",
+  "question_ne": "कुन चिकित्सा, नर्सिंग, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'त्रिदोष: वात (आकाश + वायु), पित्त (अग्नि + जल), र कफ (पृथ्वी + जल); बृहत-त्रयी (तीन उत्कृष्ट शास्त्रीय): 1. चरक संहिता (कायाचिकित्स / आन्तरिक चिकित्सा), 2. सुश्रुत संहिता (शल्य तंत्र / शल्य चिकित्सा - सुश्रुत शल्यक्रियाका पिता हुन्), र 3. वाग्भट द्वारा अष्टांग हृदय; त्रिफलामा अमलाकी (एम्ब्लिका अफिसिनालिस), बिभिताकी (टर्मिनालिया बेलिरिका) र हरिताकी (टर्मिनालिया चेबुला) समावेश छ?",
+  "options": [
+   "Ziehl-Neelsen (ZN) Acid-Fast Staining Procedure (Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Ayurveda (BAMS / AHA): Tridosha, Panchamahabhuta, Sapta Dhatu & Brihat-Trayi Classics",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "Ziehl-Nelsen (ZN) एसिड-फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "आयुर्वेद (BAMS / AHA): त्रिदोष, पंचमहाभूत, सप्त धातु र बृहत-त्रयी क्लासिक्स",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Ayurveda (BAMS / AHA): Tridosha, Panchamahabhuta, Sapta Dhatu & Brihat-Trayi Classics.",
+  "explanation_ne": "सही उत्तर आयुर्वेद (BAMS/AHA): त्रिदोष, पंचमहाभूत, सप्त धातु र बृहत-त्रयी क्लासिक्स हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9756",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Tridosha: Vata (Akasha + Vayu), Pitta (Agni + Jala), and Kapha (Prithv...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'त्रिदोष: वात (आकाश + वायु), पित्त (अग्नि + जल), र कफ (पृथ्व...' लाई नियन्त्रित गर्छ?",
+  "options": [
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles",
+   "Ayurveda (BAMS / AHA): Tridosha, Panchamahabhuta, Sapta Dhatu & Brihat-Trayi Classics"
+  ],
+  "options_ne": [
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल",
+   "आयुर्वेद (BAMS / AHA): त्रिदोष, पंचमहाभूत, सप्त धातु र बृहत-त्रयी क्लासिक्स"
+  ],
+  "answer": 3,
+  "explanation": "The correct answer is Ayurveda (BAMS / AHA): Tridosha, Panchamahabhuta, Sapta Dhatu & Brihat-Trayi Classics.",
+  "explanation_ne": "सही उत्तर आयुर्वेद (BAMS/AHA): त्रिदोष, पंचमहाभूत, सप्त धातु र बृहत-त्रयी क्लासिक्स हो।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9757",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In Nepal's professional licensing examinations (NMC, NNC, NHPC, NPC), what is the clinical or statutory standard for 'Pharmacy (NPC Licence): Drug Act 2035 BS of Nepal & Prescription Categories (Group A, B, C)'?",
+  "question_ne": "नेपालको व्यावसायिक इजाजतपत्र परीक्षाहरू (NMC, NNC, NHPC, NPC) मा 'फार्मेसी (NPC लाइसेन्स): औषधि ऐन २०३५ नेपाल र प्रिस्क्रिप्शन कोटीहरू (समूह A, B, C)' को लागि क्लिनिकल वा वैधानिक मानक के हो?",
+  "options": [
+   "Primary stain: Carbol Fuchsin (heated to steam); Decolorizer: 20% H₂SO₄ (or 3% Acid-Alcohol); Counterstain: Methylene Blue (or Malachite Green); Acid-fast bacilli (M. tuberculosis / M. leprae) appear bright red rods against a blue background",
+   "Lavender/Purple top (EDTA — chelates Ca²⁺, best for CBC/HbA1c/ESR by Wintrobe); Light Blue top (3.2% Trisodium Citrate in 1:9 ratio for PT/INR & aPTT coagulation studies, or 1:4 for Westergren ESR); Green top (Lithium/Sodium Heparin — activates Antithrombin III for arterial blood gas/chemistry); Grey top (Sodium Fluoride + Potassium Oxalate — inhibits enolase enzyme in glycolysis for blood glucose); Red/Gold top (Plain/Clot activator for serum)",
+   "Drug Act, 2035 BS establishes the Department of Drug Administration (DDA / औषधि व्यवस्था विभाग); classifies drugs into Group 'Ka' (Narcotic and poisonous drugs — dispensed only on prescription, record kept for 2 years), Group 'Kha' (Antibiotics/prescription-only drugs — dispensed only on doctor's prescription by a registered pharmacist/professional), and Group 'Ga' (Over-the-Counter / OTC household drugs)",
+   "1. Crystal Violet (primary stain, 1 min), 2. Gram's Iodine (mordant, 1 min), 3. Acetone / 95% Ethyl Alcohol (decolorizer), 4. Safranin / Neutral Red (counterstain); Gram-positive bacteria retain violet-purple color (thick peptidoglycan), Gram-negative appear pink-red (thin peptidoglycan + outer lipopolysaccharide membrane)"
+  ],
+  "options_ne": [
+   "प्राथमिक दाग: कार्बोल फुचसिन (बाफमा तातो); डिकोलोराइजर: 20% H₂SO₄ (वा 3% एसिड-अल्कोहल); काउन्टरस्टेन: मेथिलीन ब्लू (वा मलाकाइट हरियो); एसिड-फास्ट ब्यासिलि (M. क्षयरोग / M. leprae) नीलो पृष्ठभूमिमा चम्किलो रातो रडहरू देखा पर्छन्",
+   "ल्याभेन्डर/पर्पल टप (EDTA — chelates Ca²⁺, Wintrobe द्वारा CBC/HbA1c/ESR को लागि उत्तम); हल्का नीलो शीर्ष (PT/INR र aPTT कोगुलेसन अध्ययनको लागि 1:9 अनुपातमा 3.2% ट्रिसोडियम साइट्रेट, वा Westergren ESR को लागि 1:4); हरियो शीर्ष (लिथियम/सोडियम हेपरिन - धमनी रक्त ग्यास/रसायन को लागी एन्टिथ्रोम्बिन III सक्रिय गर्दछ); खैरो शीर्ष (सोडियम फ्लोराइड + पोटासियम ओक्सालेट - रगत ग्लुकोजको लागि ग्लाइकोलिसिसमा एनोलेज इन्जाइमलाई रोक्छ); रातो / सुनको शीर्ष (सीरमको लागि सादा / क्लट एक्टिभेटर)",
+   "औषधि ऐन, २०३५ ले औषधि प्रशासन विभाग (DDA / औषधि व्यवस्था विभाग) स्थापना गर्दछ; समूह 'का' (नारकोटिक र विषाक्त औषधिहरू - प्रिस्क्रिप्शनमा मात्र वितरण गरिएको, 2 वर्षको रेकर्ड राखिएको), समूह 'खा' (एन्टिबायोटिक्स/प्रिस्क्रिप्शन-केवल औषधिहरू - एक दर्ता फार्मासिस्ट/पेशेवरले डाक्टरको सिफारिसमा मात्र वितरण गरिएको), र समूह 'गा' (ओभर-द-होल्ड ड्रग्स) मा वर्गीकरण गर्दछ।",
+   "१. क्रिस्टल बैजनी (प्राथमिक दाग, १ मिनेट), २. ग्राम आयोडिन (मोर्डन्ट, १ मिनेट), ३. एसीटोन / ९५% इथाइल अल्कोहल (डिकोलोराइजर), ४. सफारानिन / तटस्थ रातो (काउन्टरस्टेन); ग्राम-पॉजिटिभ ब्याक्टेरियाले बैजनी-बैजनी रंग राख्छ (बाक्लो पेप्टिडोग्लाइकन), ग्राम-नकारात्मक गुलाबी-रातो देखिन्छ (पातलो पेप्टिडोग्लिकन + बाहिरी लिपोपोलिसेकराइड झिल्ली)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Drug Act, 2035 BS establishes the Department of Drug Administration (DDA / औषधि व्यवस्था विभाग); classifies drugs into Group 'Ka' (Narcotic and poisonous drugs — dispensed only on prescription, record kept for 2 years), Group 'Kha' (Antibiotics/prescription-only drugs — dispensed only on doctor's prescription by a registered pharmacist/professional), and Group 'Ga' (Over-the-Counter / OTC household drugs).",
+  "explanation_ne": "सही उत्तर हो औषधि ऐन, २०३५ बीएसले औषधि प्रशासन विभाग (DDA / औषधि व्यवस्था विभाग) स्थापना गर्दछ; समूह 'का' (मादक पदार्थ र विषाक्त औषधिहरू - प्रिस्क्रिप्शनमा मात्र वितरण गरिएको, 2 वर्षको रेकर्ड राखिएको), समूह 'खा' (एन्टिबायोटिक्स/प्रिस्क्रिप्शन-मात्र औषधिहरू - दर्ता फार्मासिस्ट/पेशेवरले डाक्टरको सिफारिसमा मात्र वितरण गरिएको), र समूह 'गा' (ओभर-द-होल्ड ड्रग्स) मा वर्गीकरण गर्दछ।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9758",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which medical, nursing, laboratory, or pharmacy standard is defined by: 'Drug Act, 2035 BS establishes the Department of Drug Administration (DDA / औषधि व्यवस्था विभाग); classifies drugs into Group 'Ka' (Narcotic and poisonous drugs — dispensed only on prescription, record kept for 2 years), Group 'Kha' (Antibiotics/prescription-only drugs — dispensed only on doctor's prescription by a registered pharmacist/professional), and Group 'Ga' (Over-the-Counter / OTC household drugs)'?",
+  "question_ne": "कुन चिकित्सा, नर्सिङ, प्रयोगशाला, वा फार्मेसी मानक द्वारा परिभाषित गरिएको छ: 'औषधि ऐन, 2035 BS औषधि प्रशासन विभाग (DDA / औषधि व्यवस्था विभाग) स्थापना गर्दछ; समूह 'का' (मादक पदार्थ र विषाक्त औषधिहरू - प्रिस्क्रिप्शनमा मात्र वितरण गरिएको, 2 वर्षको रेकर्ड राखिएको), समूह 'खा' (एन्टिबायोटिक्स/प्रिस्क्रिप्शन-केवल औषधिहरू - एक दर्ता फार्मासिस्ट/पेशेवरले डाक्टरको सिफारिसमा मात्र वितरण गरिएको), र समूह 'गा' (ओभर-द-कोड-होल्ड) मा वर्गीकरण गर्दछ।",
+  "options": [
+   "Ziehl-Neelsen (ZN) Acid- Fast Staining Procedure (Medical Lab Technology)",
+   "Anticoagulants & Vacutainer Tube Cap Colors in Phlebotomy / Hematology",
+   "Pharmacy (NPC Licence): Drug Act 2035 BS of Nepal & Prescription Categories (Group A, B, C)",
+   "Gram Staining Procedure (Hans Christian Gram, 1884 — Medical Lab Technology)"
+  ],
+  "options_ne": [
+   "Ziehl-Neelsen (ZN) एसिड- फास्ट स्टेनिङ प्रक्रिया (मेडिकल ल्याब टेक्नोलोजी)",
+   "Phlebotomy / Hematology मा Anticoagulants र Vacutainer Tube Cap Colors",
+   "फार्मेसी (NPC लाइसेन्स): औषधि ऐन २०३५ नेपाल र प्रिस्क्रिप्शन कोटीहरू (समूह ए, बी, सी)",
+   "ग्राम दाग प्रक्रिया (हंस क्रिश्चियन ग्राम, १८८४ - मेडिकल ल्याब टेक्नोलोजी)"
+  ],
+  "answer": 2,
+  "explanation": "The correct answer is Pharmacy (NPC Licence): Drug Act 2035 BS of Nepal & Prescription Categories (Group A, B, C).",
+  "explanation_ne": "सही उत्तर हो फार्मेसी (NPC लाइसेन्स): औषधि ऐन २०३५ नेपाल र प्रिस्क्रिप्शन कोटीहरू (समूह A, B, C)।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ },
+ {
+  "id": "PDF-9759",
+  "exam": [
+   "health",
+   "nhpc-ha",
+   "staff-nurse-psc",
+   "nnc-rn",
+   "nhpc-lab",
+   "nhpc-public-health",
+   "anm-guide",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health/Technical basics",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "When answering clinical licensing questions, which protocol governs 'Drug Act, 2035 BS establishes the Department of Drug Administration (D...'?",
+  "question_ne": "क्लिनिकल इजाजतपत्र प्रश्नहरूको जवाफ दिँदा, कुन प्रोटोकलले 'औषधि ऐन, 2035 BS औषधि प्रशासन विभाग (D...' स्थापना गर्दछ?",
+  "options": [
+   "Pharmacy (NPC Licence): Drug Act 2035 BS of Nepal & Prescription Categories (Group A, B, C)",
+   "Radiography & Medical Imaging: X-Ray Tube Anode, ALARA Principle & Contrast Media",
+   "Physiotherapy (BPT): Goniometry, Manual Muscle Testing (Oxford MRC Scale 0–5) & Electrotherapy",
+   "Cerebrospinal Fluid (CSF) Lumbar Puncture Site & Meningitis Profiles"
+  ],
+  "options_ne": [
+   "फार्मेसी (NPC लाइसेन्स): औषधि ऐन २०३५ नेपाल र प्रिस्क्रिप्शन कोटीहरू (समूह ए, बी, सी)",
+   "रेडियोग्राफी र मेडिकल इमेजिङ: एक्स-रे ट्यूब एनोड, ALARA सिद्धान्त र कन्ट्रास्ट मिडिया",
+   "फिजियोथेरापी (BPT): गोनियोमेट्री, म्यानुअल मांसपेशी परीक्षण (अक्सफोर्ड एमआरसी स्केल ०–५) र इलेक्ट्रोथेरापी",
+   "सेरेब्रोस्पाइनल फ्लुइड (CSF) लुम्बर पंक्चर साइट र मेनिन्जाइटिस प्रोफाइल"
+  ],
+  "answer": 0,
+  "explanation": "The correct answer is Pharmacy (NPC Licence): Drug Act 2035 BS of Nepal & Prescription Categories (Group A, B, C).",
+  "explanation_ne": "सही उत्तर हो फार्मेसी (NPC लाइसेन्स): औषधि ऐन २०३५ नेपाल र प्रिस्क्रिप्शन कोटीहरू (समूह A, B, C)।",
+  "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Health/Technical basics"
+ }
+]

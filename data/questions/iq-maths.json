@@ -1,0 +1,6066 @@
+[
+ {
+  "id": "IQ-001",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 3, 7, 11, 15, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ३, ७, ११, १५, ?",
+  "options": [
+   "19",
+   "21",
+   "17",
+   "24"
+  ],
+  "options_ne": [
+   "१९",
+   "२१",
+   "१७",
+   "२४"
+  ],
+  "answer": 0,
+  "explanation": "Each term increases by 4: 15 + 4 = 19.",
+  "explanation_ne": "प्रत्येक पद 4: 15 + 4 = 19 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-002",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 5, 8, 11, 14, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ५, ८, ११, १४, ?",
+  "options": [
+   "15",
+   "19",
+   "22",
+   "17"
+  ],
+  "options_ne": [
+   "१५",
+   "१९",
+   "२२",
+   "१७"
+  ],
+  "answer": 3,
+  "explanation": "Each term increases by 3: 14 + 3 = 17.",
+  "explanation_ne": "प्रत्येक पद 3: 14 + 3 = 17 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 2, 7, 12, 17, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: २, ७, १२, १७, ?",
+  "options": [
+   "20",
+   "27",
+   "24",
+   "22"
+  ],
+  "options_ne": [
+   "२०",
+   "२७",
+   "२४",
+   "२२"
+  ],
+  "answer": 3,
+  "explanation": "Each term increases by 5: 17 + 5 = 22.",
+  "explanation_ne": "प्रत्येक पद 5: 17 + 5 = 22 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-004",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 7, 13, 19, 25, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ७, १३, १९, २५, ?",
+  "options": [
+   "33",
+   "31",
+   "36",
+   "29"
+  ],
+  "options_ne": [
+   "३३",
+   "३१",
+   "३६",
+   "२९"
+  ],
+  "answer": 1,
+  "explanation": "Each term increases by 6: 25 + 6 = 31.",
+  "explanation_ne": "प्रत्येक पद 6: 25 + 6 = 31 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-005",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 10, 17, 24, 31, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: १०, १७, २४, ३१, ?",
+  "options": [
+   "38",
+   "43",
+   "36",
+   "40"
+  ],
+  "options_ne": [
+   "३८",
+   "४३",
+   "३६",
+   "४०"
+  ],
+  "answer": 0,
+  "explanation": "Each term increases by 7: 31 + 7 = 38.",
+  "explanation_ne": "प्रत्येक पद 7: 31 + 7 = 38 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-006",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 4, 13, 22, 31, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ४, १३, २२, ३१, ?",
+  "options": [
+   "38",
+   "42",
+   "40",
+   "45"
+  ],
+  "options_ne": [
+   "३८",
+   "४२",
+   "४०",
+   "४५"
+  ],
+  "answer": 2,
+  "explanation": "Each term increases by 9: 31 + 9 = 40.",
+  "explanation_ne": "प्रत्येक पद 9: 31 + 9 = 40 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-007",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 6, 8, 10, 12, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ६, ८, १०, १२, ?",
+  "options": [
+   "19",
+   "16",
+   "14",
+   "12"
+  ],
+  "options_ne": [
+   "१९",
+   "१६",
+   "१४",
+   "१२"
+  ],
+  "answer": 2,
+  "explanation": "Each term increases by 2: 12 + 2 = 14.",
+  "explanation_ne": "प्रत्येक पद 2: 12 + 2 = 14 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-008",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next number: 12, 17, 22, 27, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: १२, १७, २२, २७, ?",
+  "options": [
+   "32",
+   "37",
+   "34",
+   "30"
+  ],
+  "options_ne": [
+   "३२",
+   "३७",
+   "३४",
+   "३०"
+  ],
+  "answer": 0,
+  "explanation": "Each term increases by 5: 27 + 5 = 32.",
+  "explanation_ne": "प्रत्येक पद 5: 27 + 5 = 32 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-009",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 9, 13, 17, 21, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ९, १३, १७, २१, ?",
+  "options": [
+   "30",
+   "27",
+   "23",
+   "25"
+  ],
+  "options_ne": [
+   "३०",
+   "२७",
+   "२३",
+   "२५"
+  ],
+  "answer": 3,
+  "explanation": "Each term increases by 4: 21 + 4 = 25.",
+  "explanation_ne": "प्रत्येक पद 4: 21 + 4 = 25 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 15, 18, 21, 24, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: १५, १८, २१, २४, ?",
+  "options": [
+   "29",
+   "27",
+   "32",
+   "25"
+  ],
+  "options_ne": [
+   "२९",
+   "२७",
+   "३२",
+   "२५"
+  ],
+  "answer": 1,
+  "explanation": "Each term increases by 3: 24 + 3 = 27.",
+  "explanation_ne": "प्रत्येक पद 3: 24 + 3 = 27 ले बढ्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-012",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 3, 9, 27, 81, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ३, ९, २७, ८१, ?",
+  "options": [
+   "245",
+   "241",
+   "248",
+   "243"
+  ],
+  "options_ne": [
+   "२४५",
+   "२४१",
+   "२४८",
+   "२४३"
+  ],
+  "answer": 3,
+  "explanation": "Each term is multiplied by 3: 81 x 3 = 243.",
+  "explanation_ne": "प्रत्येक पदलाई 3: 81 x 3 = 243 ले गुणन गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "nepal-telecom",
+   "nrb-assistant",
+   "police"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 2, 6, 18, 54, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: २, ६, १८, ५४, ?",
+  "options": [
+   "167",
+   "162",
+   "164",
+   "160"
+  ],
+  "options_ne": [
+   "१६७",
+   "१६२",
+   "१६४",
+   "१६०"
+  ],
+  "answer": 1,
+  "explanation": "Each term is multiplied by 3: 54 x 3 = 162.",
+  "explanation_ne": "प्रत्येक पदलाई 3: 54 x 3 = 162 ले गुणन गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-014",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary",
+   "police"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 5, 10, 20, 40, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ५, १०, २०, ४०, ?",
+  "options": [
+   "80",
+   "78",
+   "82",
+   "85"
+  ],
+  "options_ne": [
+   "८०",
+   "७८",
+   "८२",
+   "८५"
+  ],
+  "answer": 0,
+  "explanation": "Each term is multiplied by 2: 40 x 2 = 80.",
+  "explanation_ne": "प्रत्येक पदलाई 2: 40 x 2 = 80 ले गुणन गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-015",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 4, 8, 16, 32, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ४, ८, १६, ३२, ?",
+  "options": [
+   "62",
+   "64",
+   "66",
+   "69"
+  ],
+  "options_ne": [
+   "६२",
+   "६४",
+   "६६",
+   "६९"
+  ],
+  "answer": 1,
+  "explanation": "Each term is multiplied by 2: 32 x 2 = 64.",
+  "explanation_ne": "प्रत्येक पदलाई 2: 32 x 2 = 64 ले गुणन गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-017",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 1, 4, 9, 16, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: १, ४, ९, १६, ?",
+  "options": [
+   "23",
+   "30",
+   "25",
+   "27"
+  ],
+  "options_ne": [
+   "२३",
+   "३०",
+   "२५",
+   "२७"
+  ],
+  "answer": 2,
+  "explanation": "Terms are squares: 1^2, 2^2, 3^2, 4^2, so next is 5^2 = 25.",
+  "explanation_ne": "पदहरू वर्ग हुन्: 1^2, 2^2, 3^2, 4^2, त्यसैले अर्को 5^2 = 25 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-019",
+  "exam": [
+   "section-officer",
+   "nrb-officer",
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 9, 16, 25, 36, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ९, १६, २५, ३६, ?",
+  "options": [
+   "49",
+   "54",
+   "51",
+   "47"
+  ],
+  "options_ne": [
+   "४९",
+   "५४",
+   "५१",
+   "४७"
+  ],
+  "answer": 0,
+  "explanation": "Terms are squares: 3^2, 4^2, 5^2, 6^2, so next is 7^2 = 49.",
+  "explanation_ne": "पदहरू वर्ग हुन्: 3^2, 4^2, 5^2, 6^2, त्यसैले अर्को 7^2 = 49 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 2, 5, 9, 14, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: २, ५, ९, १४, ?",
+  "options": [
+   "22",
+   "18",
+   "25",
+   "20"
+  ],
+  "options_ne": [
+   "२२",
+   "१८",
+   "२५",
+   "२०"
+  ],
+  "answer": 3,
+  "explanation": "Differences are 3, 4, 5, so the next difference is 6: 14 + 6 = 20.",
+  "explanation_ne": "भिन्नताहरू 3, 4, 5 हुन्, त्यसैले अर्को भिन्नता 6: 14 + 6 = 20 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-021",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 1, 3, 6, 10, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: १, ३, ६, १०, ?",
+  "options": [
+   "17",
+   "15",
+   "13",
+   "20"
+  ],
+  "options_ne": [
+   "१७",
+   "१५",
+   "१३",
+   "२०"
+  ],
+  "answer": 1,
+  "explanation": "Differences are 2, 3, 4, so the next difference is 5: 10 + 5 = 15.",
+  "explanation_ne": "भिन्नताहरू 2, 3, 4 हुन्, त्यसैले अर्को भिन्नता 5: 10 + 5 = 15 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-022",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number: 5, 11, 19, 29, ?",
+  "question_ne": "श्रेणीको अर्को सङ्ख्या पत्ता लगाउनुहोस्: ५, ११, १९, २९, ?",
+  "options": [
+   "46",
+   "43",
+   "39",
+   "41"
+  ],
+  "options_ne": [
+   "४६",
+   "४३",
+   "३९",
+   "४१"
+  ],
+  "answer": 3,
+  "explanation": "Differences are 6, 8, 10, so the next difference is 12: 29 + 12 = 41.",
+  "explanation_ne": "भिन्नताहरू 6, 8, 10 हुन्, त्यसैले अर्को भिन्नता 12: 29 + 12 = 41 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-023",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: A, B, C, D, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: A, B, C, D, ?",
+  "options": [
+   "G",
+   "D",
+   "F",
+   "E"
+  ],
+  "options_ne": [
+   "G",
+   "D",
+   "F",
+   "E"
+  ],
+  "answer": 3,
+  "explanation": "Each letter increases by 1: D + 1 = E.",
+  "explanation_ne": "प्रत्येक अक्षर 1 ले बढ्छ: D + 1 = E।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-024",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: A, C, E, G, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: A, C, E, G, ?",
+  "options": [
+   "J",
+   "K",
+   "I",
+   "H"
+  ],
+  "options_ne": [
+   "J",
+   "K",
+   "I",
+   "H"
+  ],
+  "answer": 2,
+  "explanation": "Each letter increases by 2: G + 2 = I.",
+  "explanation_ne": "प्रत्येक अक्षर 2 ले बढ्छ: G + 2 = I।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: C, E, G, I, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: C, E, G, I, ?",
+  "options": [
+   "L",
+   "M",
+   "K",
+   "J"
+  ],
+  "options_ne": [
+   "L",
+   "M",
+   "K",
+   "J"
+  ],
+  "answer": 2,
+  "explanation": "Each letter increases by 2: I + 2 = K.",
+  "explanation_ne": "प्रत्येक अक्षर 2 ले बढ्छ: I + 2 = K।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-026",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: A, D, G, J, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: A, D, G, J, ?",
+  "options": [
+   "M",
+   "O",
+   "N",
+   "L"
+  ],
+  "options_ne": [
+   "M",
+   "O",
+   "N",
+   "L"
+  ],
+  "answer": 0,
+  "explanation": "Each letter increases by 3: J + 3 = M.",
+  "explanation_ne": "प्रत्येक अक्षर 3 ले बढ्छ: J + 3 = M।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-027",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: B, D, F, H, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: B, D, F, H, ?",
+  "options": [
+   "K",
+   "I",
+   "J",
+   "L"
+  ],
+  "options_ne": [
+   "K",
+   "I",
+   "J",
+   "L"
+  ],
+  "answer": 2,
+  "explanation": "Each letter increases by 2: H + 2 = J.",
+  "explanation_ne": "प्रत्येक अक्षर 2 ले बढ्छ: H + 2 = J।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-028",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: Z, Y, X, W, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: Z, Y, X, W, ?",
+  "options": [
+   "X",
+   "U",
+   "W",
+   "V"
+  ],
+  "options_ne": [
+   "X",
+   "U",
+   "W",
+   "V"
+  ],
+  "answer": 3,
+  "explanation": "Each letter decreases by 1: W - 1 = V.",
+  "explanation_ne": "प्रत्येक अक्षर 1 ले घट्छ: W - 1 = V।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-029",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: Y, W, U, S, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: Y, W, U, S, ?",
+  "options": [
+   "S",
+   "P",
+   "R",
+   "Q"
+  ],
+  "options_ne": [
+   "S",
+   "P",
+   "R",
+   "Q"
+  ],
+  "answer": 3,
+  "explanation": "Each letter decreases by 2: S - 2 = Q.",
+  "explanation_ne": "प्रत्येक अक्षर 2 ले घट्छ: S - 2 = Q।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-031",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter: A, B, D, G, K, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: A, B, D, G, K, ?",
+  "options": [
+   "N",
+   "Q",
+   "P",
+   "O"
+  ],
+  "options_ne": [
+   "N",
+   "Q",
+   "P",
+   "O"
+  ],
+  "answer": 2,
+  "explanation": "Differences are 1, 2, 3, 4, so the next difference is 5: K + 5 = P.",
+  "explanation_ne": "भिन्नताहरू 1, 2, 3, 4 हुन्, त्यसैले अर्को भिन्नता 5 हो: K + 5 = P।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-033",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the next letter: C, F, I, L, ?",
+  "question_ne": "श्रेणीको अर्को अक्षर पत्ता लगाउनुहोस्: C, F, I, L, ?",
+  "options": [
+   "P",
+   "N",
+   "O",
+   "Q"
+  ],
+  "options_ne": [
+   "P",
+   "N",
+   "O",
+   "Q"
+  ],
+  "answer": 2,
+  "explanation": "Each letter increases by 3: L + 3 = O.",
+  "explanation_ne": "प्रत्येक अक्षर 3 ले बढ्छ: L + 3 = O।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Book is to Read as Pen is to ?",
+  "question_ne": "पुस्तक : पढ्नु :: कलम : ?",
+  "options": [
+   "Book",
+   "Writing",
+   "Write",
+   "Draw"
+  ],
+  "options_ne": [
+   "पुस्तक",
+   "लेख्दै",
+   "लेख्नु",
+   "कोर्नु"
+  ],
+  "answer": 2,
+  "explanation": "A book is used to read; a pen is used to write.",
+  "explanation_ne": "किताब पढ्न प्रयोग गरिन्छ; कलम लेख्न प्रयोग गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-038",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Cat is to Kitten as Dog is to ?",
+  "question_ne": "बिरालो : बिरालाको बच्चा :: कुकुर : ?",
+  "options": [
+   "Cub",
+   "Puppy",
+   "Calf",
+   "Book"
+  ],
+  "options_ne": [
+   "छाउरो",
+   "कुकुरको बच्चा",
+   "बाछो",
+   "पुस्तक"
+  ],
+  "answer": 1,
+  "explanation": "A young cat is a kitten; a young dog is a puppy.",
+  "explanation_ne": "एक जवान बिरालो एक बिरालाको बच्चा हो; एक जवान कुकुर एक कुकुर हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-041",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Knife is to Cut as Pen is to ?",
+  "question_ne": "चक्कु : काट्नु :: कलम : ?",
+  "options": [
+   "Write",
+   "Draw",
+   "Paint",
+   "Book"
+  ],
+  "options_ne": [
+   "लेख्नु",
+   "कोर्नु",
+   "रङ्गाउनु",
+   "पुस्तक"
+  ],
+  "answer": 0,
+  "explanation": "A knife is used to cut; a pen is used to write.",
+  "explanation_ne": "चक्कु काट्न प्रयोग गरिन्छ; कलम लेख्न प्रयोग गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-042",
+  "exam": [
+   "kharidar",
+   "tsc-primary",
+   "army",
+   "nasu",
+   "nepal-telecom",
+   "nrb-assistant",
+   "police",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Eye is to See as Ear is to ?",
+  "question_ne": "आँखा : हेर्नु :: कान : ?",
+  "options": [
+   "Book",
+   "Hear",
+   "Smell",
+   "Touch"
+  ],
+  "options_ne": [
+   "पुस्तक",
+   "सुन्नु",
+   "सुँघ्नु",
+   "छुनु"
+  ],
+  "answer": 1,
+  "explanation": "The eye is used to see; the ear is used to hear.",
+  "explanation_ne": "आँखा हेर्न प्रयोग गरिन्छ; कान सुन्न प्रयोग गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-043",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "King is to Queen as Man is to ?",
+  "question_ne": "राजा : रानी :: पुरुष : ?",
+  "options": [
+   "Girl",
+   "Boy",
+   "Book",
+   "Woman"
+  ],
+  "options_ne": [
+   "केटी",
+   "केटा",
+   "पुस्तक",
+   "महिला"
+  ],
+  "answer": 3,
+  "explanation": "King is the masculine of queen; man is the masculine of woman.",
+  "explanation_ne": "राजा रानी को पुरुष हो; पुरुष नारीको मर्द हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Iron is to Metal as Oxygen is to ?",
+  "question_ne": "फलाम : धातु :: अक्सिजन : ?",
+  "options": [
+   "Gas",
+   "Liquid",
+   "Solid",
+   "Book"
+  ],
+  "options_ne": [
+   "ग्यास",
+   "तरल",
+   "ठोस",
+   "पुस्तक"
+  ],
+  "answer": 0,
+  "explanation": "Iron is a metal; oxygen is a gas.",
+  "explanation_ne": "फलाम एक धातु हो; अक्सिजन एक ग्यास हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-045",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Rain is to Umbrella as Sun is to ?",
+  "question_ne": "वर्षा : छाता :: घाम : ?",
+  "options": [
+   "Sunglasses",
+   "Book",
+   "Hat",
+   "Coat"
+  ],
+  "options_ne": [
+   "सनग्लास",
+   "पुस्तक",
+   "टोपी",
+   "कोट"
+  ],
+  "answer": 0,
+  "explanation": "An umbrella protects from rain; sunglasses protect from the sun.",
+  "explanation_ne": "छाताले वर्षाबाट जोगाउँछ; सनग्लासले घामबाट जोगाउँछ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-048",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: 2, 3, 5, 9.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: २, ३, ५, ९।",
+  "options": [
+   "2",
+   "5",
+   "3",
+   "9"
+  ],
+  "options_ne": [
+   "२",
+   "५",
+   "३",
+   "९"
+  ],
+  "answer": 3,
+  "explanation": "9 is composite (3 x 3); the others are prime numbers.",
+  "explanation_ne": "९ कम्पोजिट हो (३ x ३); अन्य अविभाज्य संख्याहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: January, March, May, June.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: जनवरी, मार्च, मे, जुन।",
+  "options": [
+   "March",
+   "May",
+   "January",
+   "June"
+  ],
+  "options_ne": [
+   "मार्च",
+   "मे",
+   "जनवरी",
+   "जुन"
+  ],
+  "answer": 3,
+  "explanation": "June has 30 days; the others have 31 days.",
+  "explanation_ne": "जुनमा ३० दिन हुन्छ; अन्यसँग ३१ दिन छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-050",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Cat, Dog, Lion, Cow.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: बिरालो, कुकुर, सिंह, गाई।",
+  "options": [
+   "Dog",
+   "Cow",
+   "Lion",
+   "Cat"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "गाई",
+   "सिंह",
+   "बिरालो"
+  ],
+  "answer": 2,
+  "explanation": "A lion is wild; the others are domestic animals.",
+  "explanation_ne": "सिंह जंगली हुन्छ; अरू घरपालुवा जनावर हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-051",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "engineering"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Pen, Pencil, Eraser, Book.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: कलम, पेन्सिल, इरेजर, किताब।",
+  "options": [
+   "Pen",
+   "Eraser",
+   "Pencil",
+   "Book"
+  ],
+  "options_ne": [
+   "कलम",
+   "इरेजर",
+   "पेन्सिल",
+   "पुस्तक"
+  ],
+  "answer": 3,
+  "explanation": "A book is not a writing instrument; the others are used for writing/drawing.",
+  "explanation_ne": "किताब लेख्ने औजार होइन; अरूहरू लेखन/चित्रको लागि प्रयोग गरिन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-052",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Delhi, Kathmandu, Paris, Nepal.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: दिल्ली, काठमाडौं, पेरिस, नेपाल।",
+  "options": [
+   "Kathmandu",
+   "Nepal",
+   "Paris",
+   "Delhi"
+  ],
+  "options_ne": [
+   "काठमाडौं।",
+   "नेपाल",
+   "पेरिस",
+   "दिल्ली"
+  ],
+  "answer": 1,
+  "explanation": "Nepal is a country; the others are capital cities.",
+  "explanation_ne": "नेपाल एउटा देश हो; अन्य राजधानी सहरहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-053",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: 4, 9, 16, 20.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: ४, ९, १६, २०।",
+  "options": [
+   "9",
+   "20",
+   "4",
+   "16"
+  ],
+  "options_ne": [
+   "९",
+   "२०",
+   "४",
+   "१६"
+  ],
+  "answer": 1,
+  "explanation": "20 is not a perfect square; 4, 9 and 16 are squares.",
+  "explanation_ne": "२० एक उत्तम वर्ग होइन; ४, ९ र १६ वर्गहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-054",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Red, Blue, Green, Sweet.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: रातो, नीलो, हरियो, मीठो।",
+  "options": [
+   "Red",
+   "Sweet",
+   "Green",
+   "Blue"
+  ],
+  "options_ne": [
+   "रातो",
+   "मीठो",
+   "हरियो",
+   "निलो"
+  ],
+  "answer": 1,
+  "explanation": "Sweet is a taste; the others are colours.",
+  "explanation_ne": "मीठो स्वाद छ; अरू रंगहरू छन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-055",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Bus, Train, Car, Bicycle.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: बस, ट्रेन, कार, साइकल।",
+  "options": [
+   "Bus",
+   "Train",
+   "Car",
+   "Bicycle"
+  ],
+  "options_ne": [
+   "बस",
+   "रेल",
+   "कार",
+   "साइकल"
+  ],
+  "answer": 1,
+  "explanation": "A train runs on rails; the others run on roads (bus/car/bicycle are road vehicles).",
+  "explanation_ne": "रेलमा रेल चल्छ; अन्य सडकमा दौडिन्छन् (बस/कार/साइकल सडक सवारी हुन्)।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary",
+   "army",
+   "police",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Rose, Lotus, Lily, Mango.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: गुलाब, कमल, लिली, आम।",
+  "options": [
+   "Rose",
+   "Lily",
+   "Lotus",
+   "Mango"
+  ],
+  "options_ne": [
+   "गुलाब",
+   "लिली",
+   "कमल",
+   "आँप"
+  ],
+  "answer": 3,
+  "explanation": "Mango is a fruit/tree; the others are flowers.",
+  "explanation_ne": "आँप एउटा फल/रुख हो; अरू फूलहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-057",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: 10, 20, 30, 33.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: १०, २०, ३०, ३३।",
+  "options": [
+   "10",
+   "20",
+   "30",
+   "33"
+  ],
+  "options_ne": [
+   "१०",
+   "२०",
+   "३०",
+   "३३"
+  ],
+  "answer": 3,
+  "explanation": "33 is not divisible by 10; the others are multiples of 10.",
+  "explanation_ne": "३३ लाई १० ले भाग गर्न मिल्दैन; अन्य १० को गुणन हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-058",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the odd one out: Eye, Ear, Nose, Hand.",
+  "question_ne": "फरक पत्ता लगाउनुहोस्: आँखा, कान, नाक, हात।",
+  "options": [
+   "Ear",
+   "Eye",
+   "Nose",
+   "Hand"
+  ],
+  "options_ne": [
+   "कान",
+   "आँखा",
+   "नाक",
+   "हात"
+  ],
+  "answer": 3,
+  "explanation": "The hand is not a sense organ on the face; eye, ear and nose are sense organs.",
+  "explanation_ne": "हात अनुहारमा इन्द्रिय अंग होइन; आँखा, कान र नाक इन्द्रिय हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-059",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 1 place(s). How is CAT coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई १ स्थान अगाडि सारिन्छ। CAT लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "ECV",
+   "FDW",
+   "GEX",
+   "DBU"
+  ],
+  "options_ne": [
+   "ECV",
+   "FDW",
+   "GEX",
+   "DBU"
+  ],
+  "answer": 3,
+  "explanation": "Shift each letter forward by 1: CAT -> DBU.",
+  "explanation_ne": "प्रत्येक अक्षरलाई १ द्वारा अगाडि सार्नुहोस्: CAT -> DBU।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-060",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 2 place(s). How is DOG coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई २ स्थान अगाडि सारिन्छ। DOG लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "GRJ",
+   "EPH",
+   "HSK",
+   "FQI"
+  ],
+  "options_ne": [
+   "GRJ",
+   "EPH",
+   "HSK",
+   "FQI"
+  ],
+  "answer": 3,
+  "explanation": "Shift each letter forward by 2: DOG -> FQI.",
+  "explanation_ne": "प्रत्येक अक्षरलाई २ द्वारा अगाडि सार्नुहोस्: DOG -> FQI।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 1 place(s). How is BALL coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई १ स्थान अगाडि सारिन्छ। BALL लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "DCNN",
+   "EDOO",
+   "FEPP",
+   "CBMM"
+  ],
+  "options_ne": [
+   "DCNN",
+   "EDOO",
+   "FEPP",
+   "CBMM"
+  ],
+  "answer": 3,
+  "explanation": "Shift each letter forward by 1: BALL -> CBMM.",
+  "explanation_ne": "प्रत्येक अक्षरलाई १ द्वारा अगाडि सार्नुहोस्: BALL -> CBMM।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-062",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 3 place(s). How is FISH coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई ३ स्थान अगाडि सारिन्छ। FISH लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "ILVK",
+   "HKUJ",
+   "JMWL",
+   "KNXM"
+  ],
+  "options_ne": [
+   "ILVK",
+   "HKUJ",
+   "JMWL",
+   "KNXM"
+  ],
+  "answer": 0,
+  "explanation": "Shift each letter forward by 3: FISH -> ILVK.",
+  "explanation_ne": "प्रत्येक अक्षरलाई ३ द्वारा अगाडि सार्नुहोस्: FISH -> ILVK।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-063",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 2 place(s). How is BOOK coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई २ स्थान अगाडि सारिन्छ। BOOK लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "ERRN",
+   "DQQM",
+   "CPPL",
+   "FSSO"
+  ],
+  "options_ne": [
+   "ERRN",
+   "DQQM",
+   "CPPL",
+   "FSSO"
+  ],
+  "answer": 1,
+  "explanation": "Shift each letter forward by 2: BOOK -> DQQM.",
+  "explanation_ne": "प्रत्येक अक्षरलाई २ द्वारा अगाडि सार्नुहोस्: BOOK -> DQQM।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-064",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 1 place(s). How is LION coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई १ स्थान अगाडि सारिन्छ। LION लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "PMSR",
+   "MJPO",
+   "OLRQ",
+   "NKQP"
+  ],
+  "options_ne": [
+   "PMSR",
+   "MJPO",
+   "OLRQ",
+   "NKQP"
+  ],
+  "answer": 1,
+  "explanation": "Shift each letter forward by 1: LION -> MJPO.",
+  "explanation_ne": "प्रत्येक अक्षरलाई १ द्वारा अगाडि सार्नुहोस्: LION -> MJPO।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-065",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 2 place(s). How is NEPAL coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई २ स्थान अगाडि सारिन्छ। NEPAL लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "OFQBM",
+   "QHSDO",
+   "PGRCN",
+   "RITEP"
+  ],
+  "options_ne": [
+   "OFQBM",
+   "QHSDO",
+   "PGRCN",
+   "RITEP"
+  ],
+  "answer": 2,
+  "explanation": "Shift each letter forward by 2: NEPAL -> PGRCN.",
+  "explanation_ne": "प्रत्येक अक्षरलाई २ द्वारा अगाडि सार्नुहोस्: NEPAL -> PGRCN।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-066",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 3 place(s). How is MATH coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई ३ स्थान अगाडि सारिन्छ। MATH लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "RFYM",
+   "QEXL",
+   "PDWK",
+   "OCVJ"
+  ],
+  "options_ne": [
+   "RFYM",
+   "QEXL",
+   "PDWK",
+   "OCVJ"
+  ],
+  "answer": 2,
+  "explanation": "Shift each letter forward by 3: MATH -> PDWK.",
+  "explanation_ne": "प्रत्येक अक्षरलाई ३ द्वारा अगाडि सार्नुहोस्: MATH -> PDWK।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-067",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 1 place(s). How is KING coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई १ स्थान अगाडि सारिन्छ। KING लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "NLQJ",
+   "LJOH",
+   "MKPI",
+   "OMRK"
+  ],
+  "options_ne": [
+   "NLQJ",
+   "LJOH",
+   "MKPI",
+   "OMRK"
+  ],
+  "answer": 1,
+  "explanation": "Shift each letter forward by 1: KING -> LJOH.",
+  "explanation_ne": "प्रत्येक अक्षरलाई १ द्वारा अगाडि सार्नुहोस्: KING -> LJOH।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 2 place(s). How is STAR coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई २ स्थान अगाडि सारिन्छ। STAR लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "VWDU",
+   "WXEV",
+   "TUBS",
+   "UVCT"
+  ],
+  "options_ne": [
+   "VWDU",
+   "WXEV",
+   "TUBS",
+   "UVCT"
+  ],
+  "answer": 3,
+  "explanation": "Shift each letter forward by 2: STAR -> UVCT.",
+  "explanation_ne": "प्रत्येक अक्षरलाई २ द्वारा अगाडि सार्नुहोस्: STAR -> UVCT।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-069",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 1 place(s). How is ROAD coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई १ स्थान अगाडि सारिन्छ। ROAD लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "URDG",
+   "SPBE",
+   "VSEH",
+   "TQCF"
+  ],
+  "options_ne": [
+   "URDG",
+   "SPBE",
+   "VSEH",
+   "TQCF"
+  ],
+  "answer": 1,
+  "explanation": "Shift each letter forward by 1: ROAD -> SPBE.",
+  "explanation_ne": "प्रत्येक अक्षरलाई १ द्वारा अगाडि सार्नुहोस्: ROAD -> SPBE।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-070",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a code, each letter is shifted forward by 3 place(s). How is WATER coded?",
+  "question_ne": "एउटा कोडमा प्रत्येक अक्षरलाई ३ स्थान अगाडि सारिन्छ। WATER लाई कसरी कोड गरिन्छ?",
+  "options": [
+   "ZDWHU",
+   "AEXIV",
+   "BFYJW",
+   "YCVGT"
+  ],
+  "options_ne": [
+   "ZDWHU",
+   "AEXIV",
+   "BFYJW",
+   "YCVGT"
+  ],
+  "answer": 0,
+  "explanation": "Shift each letter forward by 3: WATER -> ZDWHU.",
+  "explanation_ne": "प्रत्येक अक्षरलाई ३ द्वारा अगाडि सार्नुहोस्: WATER -> ZDWHU।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-071",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A man faces North and turns 90 degrees to his right. Which direction is he now facing?",
+  "question_ne": "एउटा मानिस उत्तरतिर फर्केर ९० डिग्री दायाँतिर घुम्छ। अब उसले कुन दिशातर्फ उन्मुख छ?",
+  "options": [
+   "West",
+   "East",
+   "North",
+   "South"
+  ],
+  "options_ne": [
+   "पश्चिम",
+   "पूर्व",
+   "उत्तर",
+   "दक्षिण"
+  ],
+  "answer": 1,
+  "explanation": "Turning right from North faces East.",
+  "explanation_ne": "उत्तरबाट दाँया घुम्दै पूर्वतिर।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-072",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A woman walks 5 km North, then 3 km East, then 5 km South. How far is she from her starting point?",
+  "question_ne": "एउटी महिला ५ किमी उत्तर, त्यसपछि ३ किमी पूर्व, त्यसपछि ५ किमी दक्षिण। उनी आफ्नो सुरुवात बिन्दुबाट कति टाढा छिन्?",
+  "options": [
+   "8 km",
+   "13 km",
+   "5 km",
+   "3 km"
+  ],
+  "options_ne": [
+   "८ किमी",
+   "१३ किमी",
+   "५ किमी",
+   "३ किमी"
+  ],
+  "answer": 3,
+  "explanation": "North and South cancel (5 - 5 = 0), so she is 3 km East of the start.",
+  "explanation_ne": "उत्तर र दक्षिण रद्द (5 - 5 = 0), त्यसैले उनी सुरुको 3 किमी पूर्वमा छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "army",
+   "nrb-assistant",
+   "police",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Ravi walks 4 km East and then 3 km North. How far is he from his starting point?",
+  "question_ne": "रवि ४ किमी पूर्व र त्यसपछि ३ किमी उत्तरमा हिँड्छ। उहाँ आफ्नो सुरुवात बिन्दुबाट कति टाढा हुनुहुन्छ?",
+  "options": [
+   "4 km",
+   "5 km",
+   "7 km",
+   "6 km"
+  ],
+  "options_ne": [
+   "४ किमी",
+   "५ किमी",
+   "७ किमी",
+   "६ किमी"
+  ],
+  "answer": 1,
+  "explanation": "By Pythagoras: sqrt(4^2 + 3^2) = sqrt(25) = 5 km.",
+  "explanation_ne": "पाइथागोरस द्वारा: sqrt(4^2 + 3^2) = sqrt(25) = 5 किमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-074",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A man faces South and turns 180 degrees. Which direction is he now facing?",
+  "question_ne": "एउटा मानिस दक्षिणतिर फर्कन्छ र १८० डिग्री घुम्छ। अब उसले कुन दिशातर्फ उन्मुख छ?",
+  "options": [
+   "West",
+   "South",
+   "East",
+   "North"
+  ],
+  "options_ne": [
+   "पश्चिम",
+   "दक्षिण",
+   "पूर्व",
+   "उत्तर"
+  ],
+  "answer": 3,
+  "explanation": "Turning 180 degrees from South faces the opposite direction, North.",
+  "explanation_ne": "दक्षिणबाट १८० डिग्री घुमाउँदा विपरित दिशा, उत्तर।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-075",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sita walks 6 km West, then 2 km South, then 6 km East. How far is she from her starting point?",
+  "question_ne": "सीता ६ किमी पश्चिम, त्यसपछि २ किमी दक्षिण, त्यसपछि ६ किमी पूर्व। उनी आफ्नो सुरुवात बिन्दुबाट कति टाढा छिन्?",
+  "options": [
+   "14 km",
+   "6 km",
+   "8 km",
+   "2 km"
+  ],
+  "options_ne": [
+   "१४ किमी",
+   "६ किमी",
+   "८ किमी",
+   "२ किमी"
+  ],
+  "answer": 3,
+  "explanation": "West and East cancel (6 - 6 = 0), so she is 2 km South of the start.",
+  "explanation_ne": "पश्चिम र पूर्व रद्द (6 - 6 = 0), त्यसैले उनी सुरुको 2 किमी दक्षिणमा छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-076",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boy faces East, turns left, then turns left again. Which direction is he now facing?",
+  "question_ne": "एउटा केटा पूर्वतिर फर्कन्छ, बायाँ घुम्छ, त्यसपछि फेरि बायाँ घुम्छ। अब उसले कुन दिशातर्फ उन्मुख छ?",
+  "options": [
+   "South",
+   "East",
+   "West",
+   "North"
+  ],
+  "options_ne": [
+   "दक्षिण",
+   "पूर्व",
+   "पश्चिम",
+   "उत्तर"
+  ],
+  "answer": 2,
+  "explanation": "East -> left is North -> left again is West.",
+  "explanation_ne": "पूर्व -> बाँया उत्तर -> बायाँ फेरि पश्चिम छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-077",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A girl walks 10 km North and then 10 km South. Where is she now?",
+  "question_ne": "एउटी केटी १० किमी उत्तर र त्यसपछि १० किमी दक्षिणमा हिंड्छिन्। उनी अहिले कहाँ छिन्?",
+  "options": [
+   "10 km North",
+   "20 km North",
+   "At the starting point",
+   "10 km South"
+  ],
+  "options_ne": [
+   "१० किमी उत्तर",
+   "२० किमी उत्तर",
+   "सुरुवात बिन्दुमा",
+   "१० किमी दक्षिण"
+  ],
+  "answer": 2,
+  "explanation": "10 km North and 10 km South cancel out, so she is back at the start.",
+  "explanation_ne": "१० किमी उत्तर र १० किमी दक्षिण रद्द भयो, त्यसैले उनी सुरुमा फर्किइन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-078",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A man walks 3 km South, then 4 km West. How far is he from his starting point?",
+  "question_ne": "एक जना मानिस ३ किमी दक्षिण, त्यसपछि ४ किमी पश्चिममा हिंड्छ। उहाँ आफ्नो सुरुवात बिन्दुबाट कति टाढा हुनुहुन्छ?",
+  "options": [
+   "7 km",
+   "5 km",
+   "3 km",
+   "6 km"
+  ],
+  "options_ne": [
+   "७ किमी",
+   "५ किमी",
+   "३ किमी",
+   "६ किमी"
+  ],
+  "answer": 1,
+  "explanation": "By Pythagoras: sqrt(3^2 + 4^2) = sqrt(25) = 5 km.",
+  "explanation_ne": "पाइथागोरस द्वारा: sqrt(3^2 + 4^2) = sqrt(25) = 5 किमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-079",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A is the brother of B. B is the mother of C. How is A related to C?",
+  "question_ne": "A B को भाइ हो। B C को आमा हो। A C सँग कसरी सम्बन्धित छ?",
+  "options": [
+   "Grandfather",
+   "Maternal uncle",
+   "Father",
+   "Brother"
+  ],
+  "options_ne": [
+   "हजुरबुबा",
+   "मामा",
+   "बुबा",
+   "भाइ"
+  ],
+  "answer": 1,
+  "explanation": "A is the brother of C's mother, so A is C's maternal uncle.",
+  "explanation_ne": "A C को आमाको भाइ हो, त्यसैले A C को मामा हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-080",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ram is the father of Sita. Sita is the sister of Hari. How is Ram related to Hari?",
+  "question_ne": "राम सीताका पिता हुन्। सीता हरिकी बहिनी हुन्। हरिसँग रामको सम्बन्ध कस्तो छ?",
+  "options": [
+   "Father",
+   "Uncle",
+   "Brother",
+   "Grandfather"
+  ],
+  "options_ne": [
+   "बुबा",
+   "अंकल",
+   "भाइ",
+   "हजुरबुबा"
+  ],
+  "answer": 0,
+  "explanation": "Ram is Sita's father and Hari is Sita's brother, so Ram is also Hari's father.",
+  "explanation_ne": "राम सीताका पिता हुन् र हरि सीताका भाइ हुन्, त्यसैले राम पनि हरिका पिता हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A woman says: 'He is the son of my mother's only daughter.' How is the boy related to the woman?",
+  "question_ne": "एउटी आइमाई भन्छिन्: 'उ मेरो आमाको एक्लो छोरीको छोरा हो।' केटाको महिलासँग कस्तो सम्बन्ध छ?",
+  "options": [
+   "Nephew",
+   "Son",
+   "Brother",
+   "Husband"
+  ],
+  "options_ne": [
+   "भतिजा",
+   "छोरा",
+   "भाइ",
+   "श्रीमान्"
+  ],
+  "answer": 1,
+  "explanation": "The mother's only daughter is the woman herself, so the boy is her son.",
+  "explanation_ne": "आमाको एउटै छोरी स्वयं नारी हो, त्यसैले केटा उसको छोरो हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-082",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "X is the son of Y. Y is the wife of Z. How is X related to Z?",
+  "question_ne": "X Y को छोरा हो। Y Z को पत्नी हो। X Z सँग कसरी सम्बन्धित छ?",
+  "options": [
+   "Son",
+   "Nephew",
+   "Brother",
+   "Grandson"
+  ],
+  "options_ne": [
+   "छोरा",
+   "भतिजा",
+   "भाइ",
+   "नाति"
+  ],
+  "answer": 0,
+  "explanation": "X is Y's son and Z is Y's husband, so X is Z's son.",
+  "explanation_ne": "X Y को छोरा हो र Z Y को पति हो, त्यसैले X Z को छोरा हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-083",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Mina is the daughter of Gita. Gita is the wife of Ramesh. How is Mina related to Ramesh?",
+  "question_ne": "मीना गीताकी छोरी हुन्। गीता रमेशकी पत्नी हुन्। रमेशसँग मिनाको सम्बन्ध कस्तो छ?",
+  "options": [
+   "Sister",
+   "Daughter",
+   "Granddaughter",
+   "Niece"
+  ],
+  "options_ne": [
+   "बहिनी",
+   "छोरी",
+   "नातिनी",
+   "भान्जी"
+  ],
+  "answer": 1,
+  "explanation": "Mina is Gita's daughter and Ramesh is Gita's husband, so Mina is Ramesh's daughter.",
+  "explanation_ne": "मीना गीताकी छोरी हुन् र रमेश गीताका पति हुन्, त्यसैले मीना रमेशकी छोरी हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-084",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A man points to a photo and says: 'She is the daughter of my father.' How is she related to him?",
+  "question_ne": "एकजना मानिसले एउटा तस्बिरलाई औंल्याएर भने: 'उनी मेरो बुबाकी छोरी हुन्।' उनीसँग कसरी सम्बन्ध छ?",
+  "options": [
+   "Daughter",
+   "Sister",
+   "Mother",
+   "Wife"
+  ],
+  "options_ne": [
+   "छोरी",
+   "बहिनी",
+   "आमा",
+   "पत्नी"
+  ],
+  "answer": 1,
+  "explanation": "The daughter of his father is his sister.",
+  "explanation_ne": "बुबाकी छोरी बहिनी हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-085",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "P is the mother of Q. Q is the brother of R. How is P related to R?",
+  "question_ne": "P Q को आमा हो। Q R को भाइ हो। P R सँग कसरी सम्बन्धित छ?",
+  "options": [
+   "Grandmother",
+   "Mother",
+   "Sister",
+   "Aunt"
+  ],
+  "options_ne": [
+   "हजुरआमा",
+   "आमा",
+   "बहिनी",
+   "काकी"
+  ],
+  "answer": 1,
+  "explanation": "P is Q's mother and R is Q's sibling, so P is also R's mother.",
+  "explanation_ne": "P Q को आमा हो र R Q को दाजुभाइ हो, त्यसैले P R को आमा पनि हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-086",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sita's father is the only son of Rita's mother. How is Sita related to Rita?",
+  "question_ne": "सीताका बुबा रीताकी आमाका एक मात्र छोरा हुन्। रीतासँग सीताको सम्बन्ध कस्तो छ?",
+  "options": [
+   "Sister",
+   "Cousin",
+   "Niece",
+   "Daughter"
+  ],
+  "options_ne": [
+   "बहिनी",
+   "काका",
+   "भान्जी",
+   "छोरी"
+  ],
+  "answer": 2,
+  "explanation": "Rita's mother's only son is Rita's brother, who is Sita's father; so Sita is Rita's niece.",
+  "explanation_ne": "रीताकी आमाको एक मात्र छोरा रीताका भाइ हुन्, जो सीताका पिता हुन्; त्यसैले सीता रीताकी भान्जी हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-087",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 30 students, Ram is 12th from the left. What is his position from the right?",
+  "question_ne": "३० विद्यार्थीको पङ्क्तिमा, राम बायाँबाट १२ औं स्थानमा छन्। दायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "21th",
+   "20th",
+   "18th",
+   "19th"
+  ],
+  "options_ne": [
+   "२१ औं",
+   "२० औं",
+   "१८ औं",
+   "१९ औं"
+  ],
+  "answer": 3,
+  "explanation": "Position from right = total - position from left + 1 = 30 - 12 + 1 = 19.",
+  "explanation_ne": "दायाँबाट स्थिति = कुल - बायाँबाट स्थिति + 1 = 30 - 12 + 1 = 19।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-088",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 40 students, Sita is 15th from the right. What is her position from the left?",
+  "question_ne": "४० विद्यार्थीको पङ्क्तिमा सीता दायाँबाट १५ औं स्थानमा छिन्। बायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "27th",
+   "26th",
+   "25th",
+   "28th"
+  ],
+  "options_ne": [
+   "२७ औं",
+   "२६ औं",
+   "२५ औं",
+   "२८ औं"
+  ],
+  "answer": 1,
+  "explanation": "Position from left = total - position from right + 1 = 40 - 15 + 1 = 26.",
+  "explanation_ne": "बायाँबाट स्थिति = कुल - दायाँबाट स्थिति + 1 = 40 - 15 + 1 = 26।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 25 students, Ram is 7th from the left. What is his position from the right?",
+  "question_ne": "२५ विद्यार्थीहरूको पङ्क्तिमा, राम बायाँबाट ७ औं स्थानमा छन्। दायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "20th",
+   "21th",
+   "19th",
+   "18th"
+  ],
+  "options_ne": [
+   "२० औं",
+   "२१ औं",
+   "१९ औं",
+   "१८ औं"
+  ],
+  "answer": 2,
+  "explanation": "Position from right = total - position from left + 1 = 25 - 7 + 1 = 19.",
+  "explanation_ne": "दायाँबाट स्थिति = कुल - बायाँबाट स्थिति + 1 = 25 - 7 + 1 = 19।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-090",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 50 students, Sita is 20th from the right. What is her position from the left?",
+  "question_ne": "५० विद्यार्थीको पङ्क्तिमा सीता दायाँबाट २० औं स्थानमा छिन्। बायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "32th",
+   "31th",
+   "33th",
+   "30th"
+  ],
+  "options_ne": [
+   "३२ औं",
+   "३१ औं",
+   "३३ औं",
+   "३० औं"
+  ],
+  "answer": 1,
+  "explanation": "Position from left = total - position from right + 1 = 50 - 20 + 1 = 31.",
+  "explanation_ne": "बायाँबाट स्थिति = कुल - दायाँबाट स्थिति + 1 = 50 - 20 + 1 = 31।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-091",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 35 students, Ram is 10th from the left. What is his position from the right?",
+  "question_ne": "३५ विद्यार्थीहरूको पङ्क्तिमा, राम बायाँबाट १० औं हुनुहुन्छ। दायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "27th",
+   "25th",
+   "26th",
+   "28th"
+  ],
+  "options_ne": [
+   "२७ औं",
+   "२५ औं",
+   "२६ औं",
+   "२८ औं"
+  ],
+  "answer": 2,
+  "explanation": "Position from right = total - position from left + 1 = 35 - 10 + 1 = 26.",
+  "explanation_ne": "दायाँबाट स्थिति = कुल - बायाँबाट स्थिति + 1 = 35 - 10 + 1 = 26।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-092",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 28 students, Sita is 9th from the right. What is her position from the left?",
+  "question_ne": "२८ विद्यार्थीको पङ्क्तिमा सीता दायाँबाट ९ औं स्थानमा छिन्। बायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "22th",
+   "21th",
+   "20th",
+   "19th"
+  ],
+  "options_ne": [
+   "२२ औं",
+   "२१ औं",
+   "२० औं",
+   "१९ औं"
+  ],
+  "answer": 2,
+  "explanation": "Position from left = total - position from right + 1 = 28 - 9 + 1 = 20.",
+  "explanation_ne": "बायाँबाट स्थिति = कुल - दायाँबाट स्थिति + 1 = 28 - 9 + 1 = 20।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-093",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 45 students, Ram is 18th from the left. What is his position from the right?",
+  "question_ne": "४५ विद्यार्थीको पङ्क्तिमा, राम बायाँबाट १८ औं स्थानमा छन्। दायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "30th",
+   "28th",
+   "27th",
+   "29th"
+  ],
+  "options_ne": [
+   "३० औं",
+   "२८ औं",
+   "२७ औं",
+   "२९ औं"
+  ],
+  "answer": 1,
+  "explanation": "Position from right = total - position from left + 1 = 45 - 18 + 1 = 28.",
+  "explanation_ne": "दायाँबाट स्थिति = कुल - बायाँबाट स्थिति + 1 = 45 - 18 + 1 = 28।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-094",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking and Order",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In a row of 60 students, Sita is 25th from the right. What is her position from the left?",
+  "question_ne": "६० विद्यार्थीको पङ्क्तिमा सीता दायाँबाट २५ औं स्थानमा छिन्। बायाँबाट उनको स्थिति के छ?",
+  "options": [
+   "35th",
+   "38th",
+   "37th",
+   "36th"
+  ],
+  "options_ne": [
+   "३५ औं",
+   "३८ औं",
+   "३७ औं",
+   "३६ औं"
+  ],
+  "answer": 3,
+  "explanation": "Position from left = total - position from right + 1 = 60 - 25 + 1 = 36.",
+  "explanation_ne": "बायाँबाट स्थिति = कुल - दायाँबाट स्थिति + 1 = 60 - 25 + 1 = 36।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "army",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which word is most similar in meaning to 'Happy'?",
+  "question_ne": "‘Happy’ सँग मिल्दोजुल्दो अर्थ भएको शब्द कुन हो?",
+  "options": [
+   "Joyful",
+   "Sad",
+   "Tired",
+   "Angry"
+  ],
+  "options_ne": [
+   "खुसी",
+   "दुःखी",
+   "थाकेको",
+   "रिसाएको"
+  ],
+  "answer": 0,
+  "explanation": "Joyful means happy; the others are opposite or unrelated.",
+  "explanation_ne": "Joyful को अर्थ happy; अन्य विपरीत वा असंबद्ध छन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Choose the word that does not belong to the group: Book, Pen, Pencil, Chair.",
+  "question_ne": "समूहमा नमिल्ने शब्द छान्नुहोस्: किताब, कलम, पेन्सिल, कुर्सी।",
+  "options": [
+   "Book",
+   "Chair",
+   "Pen",
+   "Pencil"
+  ],
+  "options_ne": [
+   "पुस्तक",
+   "कुर्सी",
+   "कलम",
+   "पेन्सिल"
+  ],
+  "answer": 1,
+  "explanation": "Chair is furniture; book, pen and pencil are study items.",
+  "explanation_ne": "कुर्सी फर्नीचर हो; किताब, कलम र पेन्सिल अध्ययन सामग्री हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-098",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If 'EARTH' is related to 'PLANET', then 'SUN' is related to?",
+  "question_ne": "यदि ‘EARTH’ को सम्बन्ध ‘PLANET’ सँग छ भने ‘SUN’ को सम्बन्ध के सँग छ?",
+  "options": [
+   "Moon",
+   "Planet",
+   "Galaxy",
+   "Star"
+  ],
+  "options_ne": [
+   "चन्द्रमा",
+   "ग्रह",
+   "ग्यालेक्सी",
+   "तारा"
+  ],
+  "answer": 3,
+  "explanation": "Earth is a planet; the Sun is a star.",
+  "explanation_ne": "पृथ्वी एउटा ग्रह हो; सूर्य एउटा तारा हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-099",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the missing word: Cat is to Meow as Dog is to ?",
+  "question_ne": "हराएको शब्द पत्ता लगाउनुहोस्: बिरालो : म्याऊ :: कुकुर : ?",
+  "options": [
+   "Moo",
+   "Neigh",
+   "Bark",
+   "Roar"
+  ],
+  "options_ne": [
+   "बाँ",
+   "हिनहिन",
+   "भुकाइ",
+   "गर्जन"
+  ],
+  "answer": 2,
+  "explanation": "A cat meows; a dog barks.",
+  "explanation_ne": "एक बिरालो म्याऊ; एउटा कुकुर भुक्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-100",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the largest?",
+  "question_ne": "सबैभन्दा ठूलो कुन हो?",
+  "options": [
+   "River",
+   "Ocean",
+   "Lake",
+   "Pond"
+  ],
+  "options_ne": [
+   "नदी",
+   "महासागर",
+   "ताल",
+   "पोखरी"
+  ],
+  "answer": 1,
+  "explanation": "An ocean is larger than a lake, river or pond.",
+  "explanation_ne": "ताल, खोला वा पोखरीभन्दा महासागर ठूलो हुन्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-101",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Arrange in order of size from smallest to largest: Ant, Dog, Elephant, Cat. Which comes second?",
+  "question_ne": "आकार अनुसार सानोबाट ठूलो क्रममा मिलाउनुहोस्: कमिला, कुकुर, हात्ती, बिरालो। दोस्रोमा कुन आउँछ?",
+  "options": [
+   "Dog",
+   "Ant",
+   "Cat",
+   "Elephant"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "कमिला",
+   "बिरालो",
+   "हात्ती"
+  ],
+  "answer": 2,
+  "explanation": "Order: Ant < Cat < Dog < Elephant, so second is Cat.",
+  "explanation_ne": "अर्डर: कमिला < बिरालो < कुकुर < हात्ती, त्यसैले दोस्रो बिरालो हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-102",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Verbal Reasoning",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which number is different from the others: 121, 144, 169, 150?",
+  "question_ne": "अरूभन्दा फरक सङ्ख्या कुन हो: १२१, १४४, १६९, १५०?",
+  "options": [
+   "144",
+   "150",
+   "169",
+   "121"
+  ],
+  "options_ne": [
+   "१४४",
+   "१५०",
+   "१६९",
+   "१२१"
+  ],
+  "answer": 1,
+  "explanation": "150 is not a perfect square; 121, 144 and 169 are squares.",
+  "explanation_ne": "१५० एक उत्तम वर्ग होइन; १२१, १४४ र १६९ वर्गहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-103",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Non-Verbal Reasoning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A figure has 3 sides, the next has 4 sides, the next has 5 sides. How many sides will the next figure have?",
+  "question_ne": "एउटा फिगरमा ३ वटा पाटा हुन्छ, अर्कोमा ४ वटा पाटा हुन्छ, अर्कोमा ५ वटा पाटा हुन्छ। अर्को अंकमा कति पक्ष हुनेछन्?",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "8"
+  ],
+  "options_ne": [
+   "५",
+   "७",
+   "६",
+   "८"
+  ],
+  "answer": 2,
+  "explanation": "The number of sides increases by 1 each time: 3, 4, 5, so next is 6.",
+  "explanation_ne": "पक्षहरूको संख्या प्रत्येक पटक १ ले बढ्छ: ३, ४, ५, त्यसैले अर्को ६ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-104",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Non-Verbal Reasoning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A pattern shows 1 dot, then 3 dots, then 5 dots. How many dots will the next figure have?",
+  "question_ne": "एउटा ढाँचाले १ डट, त्यसपछि ३ डटहरू, त्यसपछि ५ डटहरू देखाउँछ। अर्को चित्रमा कतिवटा थोप्लाहरू हुनेछन्?",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "6"
+  ],
+  "options_ne": [
+   "७",
+   "८",
+   "९",
+   "६"
+  ],
+  "answer": 0,
+  "explanation": "Dots increase by 2 each time: 1, 3, 5, so next is 7.",
+  "explanation_ne": "थोप्लाहरू प्रत्येक पटक २ ले बढ्छ: १, ३, ५, त्यसैले अर्को ७ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Non-Verbal Reasoning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A triangle, a square and a pentagon are shown in order. Which shape comes next?",
+  "question_ne": "एक त्रिकोण, एक वर्ग र एक पेन्टागन क्रम मा देखाइएको छ। अर्को कुन आकार आउँछ?",
+  "options": [
+   "Circle",
+   "Octagon",
+   "Heptagon",
+   "Hexagon"
+  ],
+  "options_ne": [
+   "सर्कल",
+   "अष्टभुज",
+   "हेप्टागन",
+   "हेक्सागन"
+  ],
+  "answer": 3,
+  "explanation": "Sides increase by 1: 3, 4, 5, so next is a 6-sided hexagon.",
+  "explanation_ne": "पक्षहरू १: ३, ४, ५ ले बढ्छ, त्यसैले अर्को ६-पक्षीय हेक्सागन हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-106",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Non-Verbal Reasoning",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a pattern, the number of lines is 2, 4, 6, 8. How many lines are in the next figure?",
+  "question_ne": "ढाँचामा, रेखाहरूको संख्या २, ४, ६, ८ हो। अर्को चित्रमा कतिवटा रेखाहरू छन्?",
+  "options": [
+   "11",
+   "12",
+   "10",
+   "9"
+  ],
+  "options_ne": [
+   "११",
+   "१२",
+   "१०",
+   "९"
+  ],
+  "answer": 2,
+  "explanation": "Lines increase by 2 each time, so next is 8 + 2 = 10.",
+  "explanation_ne": "रेखाहरू प्रत्येक पटक 2 ले बढ्छ, त्यसैले अर्को 8 + 2 = 10 हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-107",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Syllogism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "All cats are animals. All animals are living things. Which conclusion follows?",
+  "question_ne": "सबै बिरालाहरू जनावर हुन्। सबै प्राणीहरू जीवित चीजहरू हुन्। कुन निष्कर्ष पछ्याउँछ?",
+  "options": [
+   "All living things are cats",
+   "No cats are living things",
+   "All cats are living things",
+   "Some cats are not animals"
+  ],
+  "options_ne": [
+   "सबै जीवित चीजहरू बिरालोहरू हुन्",
+   "कुनै बिरालाहरू जीवित चीजहरू छैनन्",
+   "सबै बिरालोहरू जीवित चीजहरू हुन्",
+   "केही बिरालाहरू जनावरहरू होइनन्"
+  ],
+  "answer": 2,
+  "explanation": "If all cats are animals and all animals are living things, then all cats are living things.",
+  "explanation_ne": "यदि सबै बिरालाहरू जनावर हुन् र सबै जनावरहरू जीवित चीजहरू हुन् भने, सबै बिरालाहरू जीवित चीजहरू हुन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-108",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Syllogism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "All pens are books. Some books are red. Which conclusion is definitely true?",
+  "question_ne": "सबै कलम किताब हुन्। केही किताबहरू रातो छन्। कुन निष्कर्ष पक्कै सत्य हो?",
+  "options": [
+   "Some pens are red",
+   "All pens are red",
+   "None of the above is definitely true",
+   "No pen is red"
+  ],
+  "options_ne": [
+   "केही कलमहरू रातो छन्",
+   "सबै कलमहरू रातो छन्",
+   "माथिका कुनै पनि पक्कै सत्य होइन",
+   "कुनै कलम रातो छैन"
+  ],
+  "answer": 2,
+  "explanation": "Some books are red, but we do not know whether any pen is among the red books.",
+  "explanation_ne": "केही किताबहरू रातो छन्, तर हामीलाई थाहा छैन कि रातो किताबहरू मध्ये कुनै कलम छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-109",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Syllogism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "No birds are mammals. A bat is a mammal. Which conclusion follows?",
+  "question_ne": "कुनै चराहरू स्तनपायी होइनन्। चमेरो एक स्तनधारी प्राणी हो। कुन निष्कर्ष पछ्याउँछ?",
+  "options": [
+   "Some birds are mammals",
+   "All bats are birds",
+   "A bat is a bird",
+   "A bat is not a bird"
+  ],
+  "options_ne": [
+   "केही चराहरू स्तनपायी हुन्",
+   "सबै चमेरो पंक्षी हुन्",
+   "चमेरो एउटा चरा हो",
+   "चमेरो चरा होइन"
+  ],
+  "answer": 3,
+  "explanation": "Since no bird is a mammal and a bat is a mammal, a bat cannot be a bird.",
+  "explanation_ne": "कुनै पनि चरा स्तनपायी होइन र चमेरो स्तनपायी हो, चमेरो चरा हुन सक्दैन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "IQ-110",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Syllogism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "All students are hardworking. Ram is a student. What follows?",
+  "question_ne": "सबै विद्यार्थी मेहनती छन्। राम विद्यार्थी हुन्। के पछ्याउँछ?",
+  "options": [
+   "Ram is a teacher",
+   "Ram is hardworking",
+   "Ram is not hardworking",
+   "Ram is lazy"
+  ],
+  "options_ne": [
+   "राम शिक्षक हुन्",
+   "राम मेहनती हुनुहुन्छ",
+   "राम मेहनती होइन",
+   "राम अल्छी छ"
+  ],
+  "answer": 1,
+  "explanation": "Ram belongs to the group 'students', and all students are hardworking, so Ram is hardworking.",
+  "explanation_ne": "राम 'विद्यार्थी' समूहको हो, र सबै विद्यार्थी मेहनती छन्, त्यसैले राम मेहनती छन्।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-001",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 20% of 500?",
+  "question_ne": "५०० को २०% के हो?",
+  "options": [
+   "100",
+   "120",
+   "110",
+   "90"
+  ],
+  "options_ne": [
+   "100",
+   "१२०",
+   "110",
+   "९०"
+  ],
+  "answer": 0,
+  "explanation": "20% of 500 = 20/100 x 500 = 100.",
+  "explanation_ne": "500 को 20% = 20/100 x 500 = 100।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-002",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 10% of 800?",
+  "question_ne": "८०० को १०% के हो?",
+  "options": [
+   "80",
+   "70",
+   "90",
+   "100"
+  ],
+  "options_ne": [
+   "८०",
+   "७०",
+   "९०",
+   "100"
+  ],
+  "answer": 0,
+  "explanation": "10% of 800 = 10/100 x 800 = 80.",
+  "explanation_ne": "800 को 10% = 10/100 x 800 = 80।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 25% of 400?",
+  "question_ne": "४०० को २५% के हो?",
+  "options": [
+   "120",
+   "110",
+   "90",
+   "100"
+  ],
+  "options_ne": [
+   "१२०",
+   "110",
+   "९०",
+   "100"
+  ],
+  "answer": 3,
+  "explanation": "25% of 400 = 25/100 x 400 = 100.",
+  "explanation_ne": "400 को 25% = 25/100 x 400 = 100।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-004",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 15% of 600?",
+  "question_ne": "६०० को १५% के हो?",
+  "options": [
+   "110",
+   "90",
+   "100",
+   "80"
+  ],
+  "options_ne": [
+   "110",
+   "९०",
+   "100",
+   "८०"
+  ],
+  "answer": 1,
+  "explanation": "15% of 600 = 15/100 x 600 = 90.",
+  "explanation_ne": "600 को 15% = 15/100 x 600 = 90।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-005",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 30% of 700?",
+  "question_ne": "७०० को ३०% के हो?",
+  "options": [
+   "220",
+   "200",
+   "230",
+   "210"
+  ],
+  "options_ne": [
+   "२२०",
+   "२००",
+   "२३०",
+   "२१०"
+  ],
+  "answer": 3,
+  "explanation": "30% of 700 = 30/100 x 700 = 210.",
+  "explanation_ne": "700 को 30% = 30/100 x 700 = 210।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-006",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 5% of 1200?",
+  "question_ne": "१२०० को ५% के हो?",
+  "options": [
+   "50",
+   "80",
+   "60",
+   "70"
+  ],
+  "options_ne": [
+   "५०",
+   "८०",
+   "६०",
+   "७०"
+  ],
+  "answer": 2,
+  "explanation": "5% of 1200 = 5/100 x 1200 = 60.",
+  "explanation_ne": "1200 को 5% = 5/100 x 1200 = 60।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-007",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 40% of 250?",
+  "question_ne": "२५० को ४०% के हो?",
+  "options": [
+   "110",
+   "100",
+   "120",
+   "90"
+  ],
+  "options_ne": [
+   "110",
+   "100",
+   "१२०",
+   "९०"
+  ],
+  "answer": 1,
+  "explanation": "40% of 250 = 40/100 x 250 = 100.",
+  "explanation_ne": "250 को 40% = 40/100 x 250 = 100।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-008",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 12% of 1500?",
+  "question_ne": "१५०० को १२% के हो?",
+  "options": [
+   "200",
+   "180",
+   "190",
+   "170"
+  ],
+  "options_ne": [
+   "२००",
+   "१८०",
+   "१९०",
+   "१७०"
+  ],
+  "answer": 1,
+  "explanation": "12% of 1500 = 12/100 x 1500 = 180.",
+  "explanation_ne": "1500 को 12% = 12/100 x 1500 = 180।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-009",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 50% of 360?",
+  "question_ne": "३६० को ५०% के हो?",
+  "options": [
+   "200",
+   "190",
+   "180",
+   "170"
+  ],
+  "options_ne": [
+   "२००",
+   "१९०",
+   "१८०",
+   "१७०"
+  ],
+  "answer": 2,
+  "explanation": "50% of 360 = 50/100 x 360 = 180.",
+  "explanation_ne": "360 को 50% = 50/100 x 360 = 180।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 60% of 450?",
+  "question_ne": "४५० को ६०% के हो?",
+  "options": [
+   "260",
+   "280",
+   "270",
+   "290"
+  ],
+  "options_ne": [
+   "२६०",
+   "२८०",
+   "२७०",
+   "२९०"
+  ],
+  "answer": 2,
+  "explanation": "60% of 450 = 60/100 x 450 = 270.",
+  "explanation_ne": "450 को 60% = 60/100 x 450 = 270।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-011",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 8% of 2500?",
+  "question_ne": "२५०० को ८% के हो?",
+  "options": [
+   "200",
+   "220",
+   "210",
+   "190"
+  ],
+  "options_ne": [
+   "२००",
+   "२२०",
+   "२१०",
+   "१९०"
+  ],
+  "answer": 0,
+  "explanation": "8% of 2500 = 8/100 x 2500 = 200.",
+  "explanation_ne": "2500 को 8% = 8/100 x 2500 = 200।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-012",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 1000 and sells it at a 10% profit. What is the selling price?",
+  "question_ne": "पसले एक हजार रुपैयाँमा सामान किनेर १०% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1150",
+   "1050",
+   "1200",
+   "1100"
+  ],
+  "options_ne": [
+   "११५०",
+   "१०५०",
+   "१२००",
+   "1100"
+  ],
+  "answer": 3,
+  "explanation": "SP = CP + profit = 1000 + 10% of 1000 = 1000 + 100 = 1100.",
+  "explanation_ne": "SP = CP + लाभ = १००० + १०% को १००० = १००० + १०० = ११००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-013",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 800 and sells it at a 25% profit. What is the selling price?",
+  "question_ne": "एक पसलले ८०० रुपैयाँमा सामान किनेर २५% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1000",
+   "950",
+   "1100",
+   "1050"
+  ],
+  "options_ne": [
+   "1000",
+   "९५०",
+   "1100",
+   "१०५०"
+  ],
+  "answer": 0,
+  "explanation": "SP = 800 + 25% of 800 = 800 + 200 = 1000.",
+  "explanation_ne": "SP = ८०० + २५% को ८०० = ८०० + २०० = १०००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 500 and sells it at a 20% profit. What is the selling price?",
+  "question_ne": "पसले ५०० रुपैयाँमा सामान किनेर २०% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "650",
+   "550",
+   "600",
+   "700"
+  ],
+  "options_ne": [
+   "६५०",
+   "५५०",
+   "६००",
+   "७००"
+  ],
+  "answer": 2,
+  "explanation": "SP = 500 + 20% of 500 = 500 + 100 = 600.",
+  "explanation_ne": "SP = ५०० + २०% को ५०० = ५०० + १०० = ६००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-015",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 1200 and sells it at a 15% profit. What is the selling price?",
+  "question_ne": "एक पसलले १२०० रुपैयाँमा सामान किनेर १५% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1330",
+   "1380",
+   "1430",
+   "1480"
+  ],
+  "options_ne": [
+   "१३३०",
+   "१३८०",
+   "१४३०",
+   "१४८०"
+  ],
+  "answer": 1,
+  "explanation": "SP = 1200 + 15% of 1200 = 1200 + 180 = 1380.",
+  "explanation_ne": "SP = १२०० + १५% को १२०० = १२०० + १८० = १३८०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-016",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 2000 and sells it at a 5% profit. What is the selling price?",
+  "question_ne": "एक पसलले २००० रुपैयाँमा सामान किन्छन् र ५% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "2050",
+   "2100",
+   "2200",
+   "2150"
+  ],
+  "options_ne": [
+   "२०५०",
+   "२१००",
+   "२२००",
+   "२१५०"
+  ],
+  "answer": 1,
+  "explanation": "SP = 2000 + 5% of 2000 = 2000 + 100 = 2100.",
+  "explanation_ne": "SP = २००० + ५% को २००० = २००० + १०० = २१००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-017",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 600 and sells it at a 50% profit. What is the selling price?",
+  "question_ne": "एक पसलले ६०० रुपैयाँमा सामान किनेर ५०% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "900",
+   "1000",
+   "950",
+   "850"
+  ],
+  "options_ne": [
+   "९००",
+   "1000",
+   "९५०",
+   "८५०"
+  ],
+  "answer": 0,
+  "explanation": "SP = 600 + 50% of 600 = 600 + 300 = 900.",
+  "explanation_ne": "SP = ६०० + ५०% को ६०० = ६०० + ३०० = ९००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-018",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 1500 and sells it at a 10% loss. What is the selling price?",
+  "question_ne": "पसले १५०० रुपैयाँमा सामान किन्छन् र १०% घाटामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1450",
+   "1350",
+   "1400",
+   "1300"
+  ],
+  "options_ne": [
+   "१४५०",
+   "१३५०",
+   "१४००",
+   "१३००"
+  ],
+  "answer": 1,
+  "explanation": "SP = CP - loss = 1500 - 10% of 1500 = 1500 - 150 = 1350.",
+  "explanation_ne": "SP = CP - घाटा = १५०० - १०% को १५०० = १५०० - १५० = १३५०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-019",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 900 and sells it at a 20% loss. What is the selling price?",
+  "question_ne": "पसले ९०० रुपैयाँमा सामान किनेर २० प्रतिशत घाटामा बेच्छ। बिक्री मूल्य के हो?",
+  "options": [
+   "670",
+   "820",
+   "720",
+   "770"
+  ],
+  "options_ne": [
+   "६७०",
+   "८२०",
+   "७२०",
+   "७७०"
+  ],
+  "answer": 2,
+  "explanation": "SP = 900 - 20% of 900 = 900 - 180 = 720.",
+  "explanation_ne": "SP = ९०० - २०% को ९०० = ९०० - १८० = ७२०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-020",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 400 and sells it at a 25% loss. What is the selling price?",
+  "question_ne": "एक पसलले ४०० रुपैयाँमा सामान किन्छन् र २५% घाटामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "400",
+   "350",
+   "300",
+   "250"
+  ],
+  "options_ne": [
+   "४००",
+   "३५०",
+   "३००",
+   "२५०"
+  ],
+  "answer": 2,
+  "explanation": "SP = 400 - 25% of 400 = 400 - 100 = 300.",
+  "explanation_ne": "SP = ४०० - २५% को ४०० = ४०० - १०० = ३००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 1000 and sells it at a 12% profit. What is the selling price?",
+  "question_ne": "एक पसले एक हजार रुपैयाँमा सामान किन्छन् र १२% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1070",
+   "1220",
+   "1170",
+   "1120"
+  ],
+  "options_ne": [
+   "१०७०",
+   "१२२०",
+   "११७०",
+   "११२०"
+  ],
+  "answer": 3,
+  "explanation": "SP = 1000 + 12% of 1000 = 1000 + 120 = 1120.",
+  "explanation_ne": "SP = १००० + १२% को १००० = १००० + १२० = ११२०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-022",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A shopkeeper buys an article for Rs 700 and sells it at a 30% profit. What is the selling price?",
+  "question_ne": "एक पसलले ७०० रुपैयाँमा सामान किनेर ३०% नाफामा बेच्छन्। बिक्री मूल्य के हो?",
+  "options": [
+   "1010",
+   "860",
+   "910",
+   "960"
+  ],
+  "options_ne": [
+   "1010",
+   "८६०",
+   "९१०",
+   "९६०"
+  ],
+  "answer": 2,
+  "explanation": "SP = 700 + 30% of 700 = 700 + 210 = 910.",
+  "explanation_ne": "SP = ७०० + ३०% को ७०० = ७०० + २१० = ९१०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-023",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 1000 at 10% per annum for 2 year(s).",
+  "question_ne": "1000 रुपैयाँमा २ वर्षको लागि वार्षिक १०% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "200",
+   "300",
+   "250",
+   "180"
+  ],
+  "options_ne": [
+   "२००",
+   "३००",
+   "२५०",
+   "१८०"
+  ],
+  "answer": 0,
+  "explanation": "SI = P x R x T / 100 = 1000 x 10 x 2 / 100 = Rs 200.",
+  "explanation_ne": "SI = P x R x T / १०० = १००० x १० x २ / १०० = रु २००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-024",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 2000 at 5% per annum for 3 year(s).",
+  "question_ne": "२००० रुपैयाँमा ३ वर्षको लागि वार्षिक ५% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "350",
+   "300",
+   "400",
+   "280"
+  ],
+  "options_ne": [
+   "३५०",
+   "३००",
+   "४००",
+   "२८०"
+  ],
+  "answer": 1,
+  "explanation": "SI = P x R x T / 100 = 2000 x 5 x 3 / 100 = Rs 300.",
+  "explanation_ne": "SI = P x R x T / १०० = २००० x ५ x ३ / १०० = रु ३००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 5000 at 4% per annum for 2 year(s).",
+  "question_ne": "५००० रुपैयाँमा २ वर्षको लागि वार्षिक ४% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "450",
+   "380",
+   "400",
+   "500"
+  ],
+  "options_ne": [
+   "४५०",
+   "३८०",
+   "४००",
+   "५००"
+  ],
+  "answer": 2,
+  "explanation": "SI = P x R x T / 100 = 5000 x 4 x 2 / 100 = Rs 400.",
+  "explanation_ne": "SI = P x R x T / १०० = ५००० x ४ x २ / १०० = रु ४००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-026",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 1500 at 8% per annum for 3 year(s).",
+  "question_ne": "१५०० रुपैयाँमा ३ वर्षको लागि वार्षिक ८% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "360",
+   "410",
+   "340",
+   "460"
+  ],
+  "options_ne": [
+   "३६०",
+   "४१०",
+   "३४०",
+   "४६०"
+  ],
+  "answer": 0,
+  "explanation": "SI = P x R x T / 100 = 1500 x 8 x 3 / 100 = Rs 360.",
+  "explanation_ne": "SI = P x R x T / १०० = १५०० x ८ x ३ / १०० = रु ३६०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-027",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 4000 at 6% per annum for 2 year(s).",
+  "question_ne": "४००० रुपैयाँमा २ वर्षको लागि वार्षिक ६% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "480",
+   "460",
+   "580",
+   "530"
+  ],
+  "options_ne": [
+   "४८०",
+   "४६०",
+   "५८०",
+   "५३०"
+  ],
+  "answer": 0,
+  "explanation": "SI = P x R x T / 100 = 4000 x 6 x 2 / 100 = Rs 480.",
+  "explanation_ne": "SI = P x R x T / १०० = ४००० x ६ x २ / १०० = रु ४८०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-028",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 3000 at 10% per annum for 1 year(s).",
+  "question_ne": "३००० रुपैयाँमा १ वर्षको लागि वार्षिक १०% मा साधारण ब्याज फेला पार्नुहोस्।",
+  "options": [
+   "300",
+   "350",
+   "280",
+   "400"
+  ],
+  "options_ne": [
+   "३००",
+   "३५०",
+   "२८०",
+   "४००"
+  ],
+  "answer": 0,
+  "explanation": "SI = P x R x T / 100 = 3000 x 10 x 1 / 100 = Rs 300.",
+  "explanation_ne": "SI = P x R x T / १०० = ३००० x १० x १ / १०० = रु ३००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-029",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 2500 at 12% per annum for 2 year(s).",
+  "question_ne": "२५०० रुपैयाँमा २ वर्षको लागि १२% वार्षिक दरमा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "580",
+   "600",
+   "700",
+   "650"
+  ],
+  "options_ne": [
+   "५८०",
+   "६००",
+   "७००",
+   "६५०"
+  ],
+  "answer": 1,
+  "explanation": "SI = P x R x T / 100 = 2500 x 12 x 2 / 100 = Rs 600.",
+  "explanation_ne": "SI = P x R x T / १०० = २५०० x १२ x २ / १०० = रु ६००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-030",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 800 at 15% per annum for 2 year(s).",
+  "question_ne": "८०० रुपैयाँमा २ वर्षको लागि १५% वार्षिक दरमा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "340",
+   "220",
+   "290",
+   "240"
+  ],
+  "options_ne": [
+   "३४०",
+   "२२०",
+   "२९०",
+   "२४०"
+  ],
+  "answer": 3,
+  "explanation": "SI = P x R x T / 100 = 800 x 15 x 2 / 100 = Rs 240.",
+  "explanation_ne": "SI = P x R x T / १०० = ८०० x १५ x २ / १०० = रु २४०।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-031",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the simple interest on Rs 6000 at 5% per annum for 4 year(s).",
+  "question_ne": "६००० रुपैयाँमा ४ वर्षको लागि वार्षिक ५% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "1200",
+   "1250",
+   "1300",
+   "1180"
+  ],
+  "options_ne": [
+   "१२००",
+   "१२५०",
+   "१३००",
+   "११८०"
+  ],
+  "answer": 0,
+  "explanation": "SI = P x R x T / 100 = 6000 x 5 x 4 / 100 = Rs 1200.",
+  "explanation_ne": "SI = P x R x T / १०० = ६००० x ५ x ४ / १०० = रु १२००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-032",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the compound interest on Rs 1000 at 10% per annum for 2 years.",
+  "question_ne": "1000 रुपैयाँमा २ वर्षको लागि १०% वार्षिक रूपमा चक्रवृद्धि ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "200",
+   "220",
+   "310",
+   "210"
+  ],
+  "options_ne": [
+   "२००",
+   "२२०",
+   "३१०",
+   "२१०"
+  ],
+  "answer": 3,
+  "explanation": "Amount = 1000 x (1 + 10/100)^2 = 1000 x 1.1^2 = Rs 1210. CI = Amount - P = 1210 - 1000 = Rs 210.",
+  "explanation_ne": "रकम = 1000 x (1 + 10/100)^2 = 1000 x 1.1^2 = रु 1210। CI = रकम - P = 1210 - 1000 = रु 210।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-033",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple and Compound Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the compound interest on Rs 2000 at 10% per annum for 2 years.",
+  "question_ne": "२००० रुपैयाँमा २ वर्षको लागि १०% प्रति वर्ष चक्रवृद्धि ब्याज पत्ता लगाउनुहोस्।",
+  "options": [
+   "410",
+   "420",
+   "430",
+   "520"
+  ],
+  "options_ne": [
+   "४१०",
+   "४२०",
+   "४३०",
+   "५२०"
+  ],
+  "answer": 1,
+  "explanation": "Amount = 2000 x (1 + 10/100)^2 = 2000 x 1.1^2 = Rs 2420. CI = Amount - P = 2420 - 2000 = Rs 420.",
+  "explanation_ne": "रकम = 2000 x (1 + 10/100)^2 = 2000 x 1.1^2 = रु 2420। CI = रकम - P = 2420 - 2000 = रु 420।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "csit-entrance",
+   "ioe-entrance",
+   "nrb-assistant",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 10, 20, 30.",
+  "question_ne": "१०, २०, ३० को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "30",
+   "15",
+   "20",
+   "25"
+  ],
+  "options_ne": [
+   "३०",
+   "१५",
+   "२०",
+   "२५"
+  ],
+  "answer": 2,
+  "explanation": "Average = sum / count = 60 / 3 = 20.",
+  "explanation_ne": "औसत = योग / गणना = 60 / 3 = 20।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-035",
+  "exam": [
+   "nasu",
+   "section-officer",
+   "csit-entrance",
+   "ioe-entrance",
+   "kharidar",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 5, 15, 25, 35.",
+  "question_ne": "५, १५, २५, ३५ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "15",
+   "30",
+   "25",
+   "20"
+  ],
+  "options_ne": [
+   "१५",
+   "३०",
+   "२५",
+   "२०"
+  ],
+  "answer": 3,
+  "explanation": "Average = sum / count = 80 / 4 = 20.",
+  "explanation_ne": "औसत = योग / गणना = 80 / 4 = 20।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 12, 18, 24.",
+  "question_ne": "१२, १८, २४ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "18",
+   "13",
+   "28",
+   "23"
+  ],
+  "options_ne": [
+   "१८",
+   "१३",
+   "२८",
+   "२३"
+  ],
+  "answer": 0,
+  "explanation": "Average = sum / count = 54 / 3 = 18.",
+  "explanation_ne": "औसत = योग / गणना = 54 / 3 = 18।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-037",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 40, 50, 60, 70.",
+  "question_ne": "४०, ५०, ६०, ७० को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "65",
+   "55",
+   "60",
+   "50"
+  ],
+  "options_ne": [
+   "६५",
+   "५५",
+   "६०",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "Average = sum / count = 220 / 4 = 55.",
+  "explanation_ne": "औसत = योग / गणना = 220 / 4 = 55।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-038",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 8, 12, 16, 20, 24.",
+  "question_ne": "८, १२, १६, २०, २४ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "21",
+   "11",
+   "26",
+   "16"
+  ],
+  "options_ne": [
+   "२१",
+   "११",
+   "२६",
+   "१६"
+  ],
+  "answer": 3,
+  "explanation": "Average = sum / count = 80 / 5 = 16.",
+  "explanation_ne": "औसत = योग / गणना = 80 / 5 = 16।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-039",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 100, 200, 300.",
+  "question_ne": "100, २००, ३०० को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "200",
+   "195",
+   "205",
+   "210"
+  ],
+  "options_ne": [
+   "२००",
+   "१९५",
+   "२०५",
+   "२१०"
+  ],
+  "answer": 0,
+  "explanation": "Average = sum / count = 600 / 3 = 200.",
+  "explanation_ne": "औसत = योग / गणना = 600 / 3 = 200।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-040",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 7, 14, 21, 28.",
+  "question_ne": "७, १४, २१, २८ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "17.5",
+   "12.5",
+   "27.5",
+   "22.5"
+  ],
+  "options_ne": [
+   "१७.५",
+   "१२.५",
+   "२७.५",
+   "२२.५"
+  ],
+  "answer": 0,
+  "explanation": "Average = sum / count = 70 / 4 = 17.5.",
+  "explanation_ne": "औसत = योग / गणना = 70 / 4 = 17.5।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-041",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 15, 25, 35, 45, 55.",
+  "question_ne": "१५, २५, ३५, ४५, ५५ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "45",
+   "40",
+   "30",
+   "35"
+  ],
+  "options_ne": [
+   "४५",
+   "४०",
+   "३०",
+   "३५"
+  ],
+  "answer": 3,
+  "explanation": "Average = sum / count = 175 / 5 = 35.",
+  "explanation_ne": "औसत = योग / गणना = 175 / 5 = 35।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-042",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 60, 70, 80.",
+  "question_ne": "६०, ७०, ८० को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "70",
+   "65",
+   "80",
+   "75"
+  ],
+  "options_ne": [
+   "७०",
+   "६५",
+   "८०",
+   "७५"
+  ],
+  "answer": 0,
+  "explanation": "Average = sum / count = 210 / 3 = 70.",
+  "explanation_ne": "औसत = योग / गणना = 210 / 3 = 70।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Averages",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the average of 3, 6, 9, 12, 15.",
+  "question_ne": "३, ६, ९, १२, १५ को औसत पत्ता लगाउनुहोस्।",
+  "options": [
+   "9",
+   "14",
+   "4",
+   "19"
+  ],
+  "options_ne": [
+   "९",
+   "१४",
+   "४",
+   "१९"
+  ],
+  "answer": 0,
+  "explanation": "Average = sum / count = 45 / 5 = 9.",
+  "explanation_ne": "औसत = योग / गणना = 45 / 5 = 9।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-044",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The ratio of boys to girls in a class is 2:3. If there are 30 girls, how many boys are there?",
+  "question_ne": "एक कक्षामा केटा र केटीहरूको अनुपात २:३ छ। यदि त्यहाँ ३० केटीहरू छन्, त्यहाँ केटाहरू कति छन्?",
+  "options": [
+   "30",
+   "25",
+   "15",
+   "20"
+  ],
+  "options_ne": [
+   "३०",
+   "२५",
+   "१५",
+   "२०"
+  ],
+  "answer": 3,
+  "explanation": "Boys = 30 x 2/3 = 20.",
+  "explanation_ne": "केटा = 30 x 2/3 = 20।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-045",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Divide Rs 500 in the ratio 3:2. What is the larger share?",
+  "question_ne": "५०० रुपैयाँलाई ३:२ को अनुपातमा विभाजन गर्नुहोस्। ठूलो सेयर के हो?",
+  "options": [
+   "200",
+   "300",
+   "250",
+   "150"
+  ],
+  "options_ne": [
+   "२००",
+   "३००",
+   "२५०",
+   "१५०"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 5; larger share = 500 x 3/5 = 300.",
+  "explanation_ne": "कुल भाग = 5; ठूलो सेयर = 500 x 3/5 = 300।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A and B share Rs 900 in the ratio 4:5. What is B's share?",
+  "question_ne": "A र B ले ४:५ को अनुपातमा ९०० रुपैयाँ साझेदारी गर्दछ। B को शेयर के हो?",
+  "options": [
+   "400",
+   "550",
+   "500",
+   "450"
+  ],
+  "options_ne": [
+   "४००",
+   "५५०",
+   "५००",
+   "४५०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 9; B's share = 900 x 5/9 = 500.",
+  "explanation_ne": "कुल भाग = 9; B को शेयर = 900 x 5/9 = 500।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-047",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If 3:5 = x:20, find x.",
+  "question_ne": "यदि 3:5 = x:20, x पत्ता लगाउनुहोस्।",
+  "options": [
+   "9",
+   "10",
+   "12",
+   "15"
+  ],
+  "options_ne": [
+   "९",
+   "१०",
+   "१२",
+   "१५"
+  ],
+  "answer": 2,
+  "explanation": "3/5 = x/20, so x = 3 x 20 / 5 = 12.",
+  "explanation_ne": "3/5 = x/20, त्यसैले x = 3 x 20 / 5 = 12।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-048",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The ratio of two numbers is 5:7 and their sum is 60. What is the smaller number?",
+  "question_ne": "दुई संख्याको अनुपात ५:७ र तिनीहरूको योगफल ६० हो। सानो संख्या के हो?",
+  "options": [
+   "30",
+   "25",
+   "20",
+   "35"
+  ],
+  "options_ne": [
+   "३०",
+   "२५",
+   "२०",
+   "३५"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 12; smaller = 60 x 5/12 = 25.",
+  "explanation_ne": "कुल भाग = 12; सानो = 60 x 5/12 = 25।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-049",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Rs 1200 is divided in the ratio 1:2:3. What is the middle share?",
+  "question_ne": "रु १२०० लाई १:२:३ को अनुपातमा विभाजन गरिएको छ। बीचको शेयर के हो?",
+  "options": [
+   "200",
+   "400",
+   "600",
+   "300"
+  ],
+  "options_ne": [
+   "२००",
+   "४००",
+   "६००",
+   "३००"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 6; middle share = 1200 x 2/6 = 400.",
+  "explanation_ne": "कुल भाग = 6; मध्य सेयर = 1200 x 2/6 = 400।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-050",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If x:y = 3:4 and x = 18, find y.",
+  "question_ne": "यदि x:y = 3:4 र x = 18, y पत्ता लगाउनुहोस्।",
+  "options": [
+   "24",
+   "16",
+   "20",
+   "27"
+  ],
+  "options_ne": [
+   "२४",
+   "१६",
+   "२०",
+   "२७"
+  ],
+  "answer": 0,
+  "explanation": "y = 18 x 4/3 = 24.",
+  "explanation_ne": "y = १८ x ४/३ = २४।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-051",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Two numbers are in the ratio 2:5. If their difference is 18, what is the larger number?",
+  "question_ne": "दुई नम्बरहरू २:५ को अनुपातमा छन्। यदि तिनीहरूको भिन्नता १८ हो भने, ठूलो संख्या के हो?",
+  "options": [
+   "30",
+   "20",
+   "36",
+   "24"
+  ],
+  "options_ne": [
+   "३०",
+   "२०",
+   "३६",
+   "२४"
+  ],
+  "answer": 0,
+  "explanation": "Difference in parts = 3; larger = 18 x 5/3 = 30.",
+  "explanation_ne": "भागहरूमा भिन्नता = 3; ठूलो = 18 x 5/3 = 30।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-052",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The ages of A and B are in the ratio 3:5. If A is 15 years old, how old is B?",
+  "question_ne": "A र B को उमेरहरू ३:५ को अनुपातमा छन्। यदि A १५ वर्षको छ भने, B कति वर्षको हुन्छ?",
+  "options": [
+   "20",
+   "25",
+   "18",
+   "30"
+  ],
+  "options_ne": [
+   "२०",
+   "२५",
+   "१८",
+   "३०"
+  ],
+  "answer": 1,
+  "explanation": "B = 15 x 5/3 = 25 years.",
+  "explanation_ne": "B = 15 x 5/3 = 25 वर्ष।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio and Proportion",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Divide 84 in the ratio 2:3:7. What is the smallest part?",
+  "question_ne": "८४ लाई २:३:७ को अनुपातमा विभाजन गर्नुहोस्। सबैभन्दा सानो भाग के हो?",
+  "options": [
+   "12",
+   "28",
+   "21",
+   "14"
+  ],
+  "options_ne": [
+   "१२",
+   "२८",
+   "२१",
+   "१४"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 12; smallest = 84 x 2/12 = 14.",
+  "explanation_ne": "कुल भाग = 12; सबैभन्दा सानो = 84 x 2/12 = 14।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "computer-operator",
+   "nrb-assistant",
+   "rbb",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A car travels at 60 km/h for 3 hours. How far does it travel?",
+  "question_ne": "एउटा कारले ३ घण्टाको लागि ६० किमी/घन्टाको गतिमा यात्रा गर्छ। यसले कति टाढा यात्रा गर्छ?",
+  "options": [
+   "200",
+   "150",
+   "180",
+   "120"
+  ],
+  "options_ne": [
+   "२००",
+   "१५०",
+   "१८०",
+   "१२०"
+  ],
+  "answer": 2,
+  "explanation": "Distance = speed x time = 60 x 3 = 180 km.",
+  "explanation_ne": "दूरी = गति x समय = 60 x 3 = 180 किमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-055",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A train covers 240 km in 4 hours. What is its speed?",
+  "question_ne": "एउटा रेलले ४ घण्टामा २४० किलोमिटरको दूरी तय गर्छ। यसको गति के हो?",
+  "options": [
+   "70",
+   "50",
+   "80",
+   "60"
+  ],
+  "options_ne": [
+   "७०",
+   "५०",
+   "८०",
+   "६०"
+  ],
+  "answer": 3,
+  "explanation": "Speed = distance / time = 240 / 4 = 60 km/h.",
+  "explanation_ne": "गति = दूरी / समय = 240 / 4 = 60 किमी / घन्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How long will it take to travel 150 km at 50 km/h?",
+  "question_ne": "५० km/h को गतिमा १५० km को यात्रा गर्न कति समय लाग्छ?",
+  "options": [
+   "2",
+   "5",
+   "4",
+   "3"
+  ],
+  "options_ne": [
+   "२",
+   "५",
+   "४",
+   "३"
+  ],
+  "answer": 3,
+  "explanation": "Time = distance / speed = 150 / 50 = 3 hours.",
+  "explanation_ne": "समय = दूरी / गति = 150 / 50 = 3 घण्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-057",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A man walks at 5 km/h for 2 hours. How far does he walk?",
+  "question_ne": "एकजना मानिस २ घण्टा ५ किलोमिटर प्रतिघण्टाको गतिमा हिँड्छन्। ऊ कति टाढा हिँड्छ?",
+  "options": [
+   "8",
+   "10",
+   "12",
+   "15"
+  ],
+  "options_ne": [
+   "८",
+   "१०",
+   "१२",
+   "१५"
+  ],
+  "answer": 1,
+  "explanation": "Distance = 5 x 2 = 10 km.",
+  "explanation_ne": "दूरी = 5 x 2 = 10 किमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-058",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A bus travels 300 km in 5 hours. What is its speed?",
+  "question_ne": "एउटा बसले ५ घण्टामा ३०० किलोमिटरको यात्रा गर्छ। यसको गति के हो?",
+  "options": [
+   "60",
+   "65",
+   "50",
+   "55"
+  ],
+  "options_ne": [
+   "६०",
+   "६५",
+   "५०",
+   "५५"
+  ],
+  "answer": 0,
+  "explanation": "Speed = 300 / 5 = 60 km/h.",
+  "explanation_ne": "गति = 300/5 = 60 किमी/घन्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-059",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A cyclist covers 90 km in 3 hours. What is his speed?",
+  "question_ne": "एक साइकल यात्रीले ३ घण्टामा ९० किलोमिटरको दुरी पार गर्छ। उसको गति के हो?",
+  "options": [
+   "25",
+   "30",
+   "35",
+   "40"
+  ],
+  "options_ne": [
+   "२५",
+   "३०",
+   "३५",
+   "४०"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 90 / 3 = 30 km/h.",
+  "explanation_ne": "गति = 90/3 = 30 किमी/घन्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-060",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A car travels 120 km at 40 km/h. How long does it take?",
+  "question_ne": "एउटा कार ४० किमी/घन्टाको गतिमा १२० किलोमिटरको यात्रा गर्छ। कति समय लाग्छ?",
+  "options": [
+   "4",
+   "3",
+   "6",
+   "2"
+  ],
+  "options_ne": [
+   "४",
+   "३",
+   "६",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "Time = 120 / 40 = 3 hours.",
+  "explanation_ne": "समय = 120/40 = 3 घण्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-061",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If a train runs at 80 km/h for 2.5 hours, how far does it go?",
+  "question_ne": "यदि एउटा ट्रेन ८० km/h को गतिमा २.५ घण्टा चल्छ भने, यो कति टाढा जान्छ?",
+  "options": [
+   "180",
+   "200",
+   "220",
+   "160"
+  ],
+  "options_ne": [
+   "१८०",
+   "२००",
+   "२२०",
+   "१६०"
+  ],
+  "answer": 1,
+  "explanation": "Distance = 80 x 2.5 = 200 km.",
+  "explanation_ne": "दूरी = 80 x 2.5 = 200 किमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-062",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A boy runs 400 m in 50 seconds. What is his speed in m/s?",
+  "question_ne": "एउटा केटा ५० सेकेन्डमा ४०० मिटर दौडन्छ। m/s मा उसको गति कति छ?",
+  "options": [
+   "6",
+   "10",
+   "5",
+   "8"
+  ],
+  "options_ne": [
+   "६",
+   "१०",
+   "५",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "Speed = 400 / 50 = 8 m/s.",
+  "explanation_ne": "गति = 400 / 50 = 8 m/s।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time, Speed and Distance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A vehicle covers 180 km in 3 hours. What is its speed?",
+  "question_ne": "एउटा गाडीले ३ घण्टामा १८० किलोमिटरको दूरी तय गर्छ। यसको गति के हो?",
+  "options": [
+   "90",
+   "60",
+   "70",
+   "45"
+  ],
+  "options_ne": [
+   "९०",
+   "६०",
+   "७०",
+   "४५"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 180 / 3 = 60 km/h.",
+  "explanation_ne": "गति = 180/3 = 60 किमी/घन्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-065",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A can do 1/5 of a work in a day. In how many days will A finish the whole work?",
+  "question_ne": "A ले एक दिनमा १/५ काम गर्न सक्छ। A ले सम्पूर्ण काम कति दिनमा पूरा गर्नेछ?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "10"
+  ],
+  "options_ne": [
+   "४",
+   "५",
+   "६",
+   "१०"
+  ],
+  "answer": 1,
+  "explanation": "Days needed = 1 / (1/5) = 5 days.",
+  "explanation_ne": "दिन आवश्यक = 1 / (1/5) = 5 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 5 workers can build a wall in 12 days, how many days will 10 workers take?",
+  "question_ne": "यदि ५ जना कामदारले १२ दिनमा पर्खाल बनाउन सक्छ भने १० जना कामदारले कति दिनमा पर्खाल बनाउन सक्छन्?",
+  "options": [
+   "15",
+   "10",
+   "24",
+   "6"
+  ],
+  "options_ne": [
+   "१५",
+   "१०",
+   "२४",
+   "६"
+  ],
+  "answer": 3,
+  "explanation": "Work is constant: 5 x 12 = 60 worker-days; 60 / 10 = 6 days.",
+  "explanation_ne": "काम स्थिर छ: 5 x 12 = 60 कार्यकर्ता-दिन; 60 / 10 = 6 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-067",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A can do a piece of work in 20 days and B in 30 days. Together, how many days will they take?",
+  "question_ne": "A ले २० दिनमा र B ३० दिनमा काम गर्न सक्छ। सँगै, तिनीहरूले कति दिन लिन्छन्?",
+  "options": [
+   "15",
+   "18",
+   "12",
+   "10"
+  ],
+  "options_ne": [
+   "१५",
+   "१८",
+   "१२",
+   "१०"
+  ],
+  "answer": 2,
+  "explanation": "Together in 1 day: 1/20 + 1/30 = 1/12, so 12 days.",
+  "explanation_ne": "1 दिनमा सँगै: 1/20 + 1/30 = 1/12, त्यसैले 12 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-068",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 4 men can do a job in 6 days, how many men are needed to do it in 3 days?",
+  "question_ne": "यदि ४ जना पुरुषले ६ दिनमा एउटा काम गर्न सक्छन् भने ३ दिनमा कति जना पुरुषको आवश्यकता पर्छ?",
+  "options": [
+   "10",
+   "12",
+   "6",
+   "8"
+  ],
+  "options_ne": [
+   "१०",
+   "१२",
+   "६",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "Total work = 4 x 6 = 24 man-days; men needed = 24 / 3 = 8.",
+  "explanation_ne": "कुल काम = 4 x 6 = 24 जन-दिन; पुरुष आवश्यक = 24 / 3 = 8।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-069",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A does 1/8 of a work in a day. In how many days will A finish the whole work?",
+  "question_ne": "A ले एक दिनमा १/८ काम गर्छ। A ले सम्पूर्ण काम कति दिनमा पूरा गर्नेछ?",
+  "options": [
+   "10",
+   "6",
+   "12",
+   "8"
+  ],
+  "options_ne": [
+   "१०",
+   "६",
+   "१२",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "Days = 1 / (1/8) = 8 days.",
+  "explanation_ne": "दिन = 1 / (1/8) = 8 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-070",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "X can complete a task in 8 days and Y in 16 days. Working together, how many days will they take?",
+  "question_ne": "X ले एउटा कार्य ८ दिनमा र Y १६ दिनमा पूरा गर्न सक्छ। सँगै काम गर्दा कति दिन लाग्ने?",
+  "options": [
+   "10.67",
+   "2.67",
+   "5.33",
+   "3.2"
+  ],
+  "options_ne": [
+   "१०.६७",
+   "२.६७",
+   "५.३३",
+   "३.२"
+  ],
+  "answer": 2,
+  "explanation": "Together in 1 day: 1/8 + 1/16 = 3/16, so days = 16/3 = 5.33 days.",
+  "explanation_ne": "1 दिनमा सँगै: 1/8 + 1/16 = 3/16, त्यसैले दिनहरू = 16/3 = 5.33 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-071",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 6 workers finish a job in 10 days, how long will 12 workers take?",
+  "question_ne": "यदि ६ कामदारले १० दिनमा काम पूरा गरे, १२ कामदारहरूले कति समय लिनेछन्?",
+  "options": [
+   "5",
+   "20",
+   "8",
+   "15"
+  ],
+  "options_ne": [
+   "५",
+   "२०",
+   "८",
+   "१५"
+  ],
+  "answer": 0,
+  "explanation": "Total = 6 x 10 = 60 worker-days; 60 / 12 = 5 days.",
+  "explanation_ne": "कुल = 6 x 10 = 60 कामदार दिन; 60 / 12 = 5 दिन।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-072",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A and B together can do a work in 4 days. A alone can do it in 6 days. In how many days can B alone do it?",
+  "question_ne": "A र B सँगै ४ दिनमा काम गर्न सकिन्छ। A एक्लैले ६ दिनमा गर्न सक्छ। B एक्लैले कति दिनमा गर्न सक्छ?",
+  "options": [
+   "8",
+   "12",
+   "10",
+   "9"
+  ],
+  "options_ne": [
+   "८",
+   "१२",
+   "१०",
+   "९"
+  ],
+  "answer": 1,
+  "explanation": "B in 1 day = 1/4 - 1/6 = 1/12, so B alone takes 12 days.",
+  "explanation_ne": "B 1 दिनमा = 1/4 - 1/6 = 1/12, त्यसैले B मात्र 12 दिन लाग्छ।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time and Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A machine can produce 120 items in 6 hours. How many items can it produce in 10 hours?",
+  "question_ne": "एउटा मेसिनले ६ घण्टामा १२० वस्तु उत्पादन गर्न सक्छ। यसले १० घण्टामा कति वस्तुहरू उत्पादन गर्न सक्छ?",
+  "options": [
+   "150",
+   "200",
+   "180",
+   "240"
+  ],
+  "options_ne": [
+   "१५०",
+   "२००",
+   "१८०",
+   "२४०"
+  ],
+  "answer": 1,
+  "explanation": "Rate = 120 / 6 = 20 per hour; in 10 hours = 20 x 10 = 200.",
+  "explanation_ne": "दर = 120 / 6 = 20 प्रति घण्टा; 10 घण्टामा = 20 x 10 = 200।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-074",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a square with side 8 cm.",
+  "question_ne": "८ सेमी पक्ष भएको वर्गको क्षेत्रफल पत्ता लगाउनुहोस्।",
+  "options": [
+   "72",
+   "64",
+   "48",
+   "56"
+  ],
+  "options_ne": [
+   "७२",
+   "६४",
+   "४८",
+   "५६"
+  ],
+  "answer": 1,
+  "explanation": "Area = side^2 = 8 x 8 = 64 sq cm.",
+  "explanation_ne": "क्षेत्रफल = साइड^2 = 8 x 8 = 64 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-075",
+  "exam": [
+   "nasu",
+   "section-officer",
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the perimeter of a square with side 9 cm.",
+  "question_ne": "९ सेमी पक्ष भएको वर्गको परिधि पत्ता लगाउनुहोस्।",
+  "options": [
+   "36",
+   "40",
+   "32",
+   "27"
+  ],
+  "options_ne": [
+   "३६",
+   "४०",
+   "३२",
+   "२७"
+  ],
+  "answer": 0,
+  "explanation": "Perimeter = 4 x side = 4 x 9 = 36 cm.",
+  "explanation_ne": "परिधि = 4 x साइड = 4 x 9 = 36 सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a rectangle 12 cm long and 5 cm wide.",
+  "question_ne": "१२ सेमी लामो र ५ सेन्टिमिटर चौडाइको आयतको क्षेत्रफल पत्ता लगाउनुहोस्।",
+  "options": [
+   "50",
+   "65",
+   "70",
+   "60"
+  ],
+  "options_ne": [
+   "५०",
+   "६५",
+   "७०",
+   "६०"
+  ],
+  "answer": 3,
+  "explanation": "Area = length x width = 12 x 5 = 60 sq cm.",
+  "explanation_ne": "क्षेत्रफल = लम्बाइ x चौडाइ = 12 x 5 = 60 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-077",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the perimeter of a rectangle 10 cm long and 6 cm wide.",
+  "question_ne": "१० सेमी लामो र ६ सेमी चौडाइको आयतको परिधि पत्ता लगाउनुहोस्।",
+  "options": [
+   "36",
+   "32",
+   "34",
+   "30"
+  ],
+  "options_ne": [
+   "३६",
+   "३२",
+   "३४",
+   "३०"
+  ],
+  "answer": 1,
+  "explanation": "Perimeter = 2 x (10 + 6) = 32 cm.",
+  "explanation_ne": "परिधि = 2 x (10 + 6) = 32 सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-078",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer",
+   "army",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a circle with radius 7 cm. (Use pi = 22/7)",
+  "question_ne": "7 सेमी त्रिज्या भएको वृत्तको क्षेत्रफल पत्ता लगाउनुहोस्। (pi = 22/7 प्रयोग गर्नुहोस्)",
+  "options": [
+   "154",
+   "132",
+   "144",
+   "164"
+  ],
+  "options_ne": [
+   "१५४",
+   "१३२",
+   "१४४",
+   "१६४"
+  ],
+  "answer": 0,
+  "explanation": "Area = pi x r^2 = 22/7 x 49 = 154 sq cm.",
+  "explanation_ne": "क्षेत्रफल = pi x r^2 = 22/7 x 49 = 154 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-079",
+  "exam": [
+   "rbb",
+   "nrb-assistant",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the circumference of a circle with radius 14 cm. (Use pi = 22/7)",
+  "question_ne": "14 सेमी त्रिज्या भएको वृत्तको परिधि पत्ता लगाउनुहोस्। (pi = 22/7 प्रयोग गर्नुहोस्)",
+  "options": [
+   "66",
+   "99",
+   "77",
+   "88"
+  ],
+  "options_ne": [
+   "६६",
+   "९९",
+   "७७",
+   "८८"
+  ],
+  "answer": 3,
+  "explanation": "Circumference = 2 x pi x r = 2 x 22/7 x 14 = 88 cm.",
+  "explanation_ne": "परिधि = २ x pi x r = २ x २२/७ x १४ = ८८ सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-080",
+  "exam": [
+   "police",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a square with side 12 cm.",
+  "question_ne": "१२ सेमी पक्ष भएको वर्गको क्षेत्रफल पत्ता लगाउनुहोस्।",
+  "options": [
+   "132",
+   "156",
+   "120",
+   "144"
+  ],
+  "options_ne": [
+   "१३२",
+   "१५६",
+   "१२०",
+   "१४४"
+  ],
+  "answer": 3,
+  "explanation": "Area = 12 x 12 = 144 sq cm.",
+  "explanation_ne": "क्षेत्रफल = 12 x 12 = 144 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-081",
+  "exam": [
+   "kharidar",
+   "tsc-primary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the perimeter of a rectangle 15 cm long and 8 cm wide.",
+  "question_ne": "१५ सेमी लामो र ८ सेन्टिमिटर चौडाइको आयतको परिधि पत्ता लगाउनुहोस्।",
+  "options": [
+   "48",
+   "40",
+   "46",
+   "44"
+  ],
+  "options_ne": [
+   "४८",
+   "४०",
+   "४६",
+   "४४"
+  ],
+  "answer": 2,
+  "explanation": "Perimeter = 2 x (15 + 8) = 46 cm.",
+  "explanation_ne": "परिधि = 2 x (15 + 8) = 46 सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-082",
+  "exam": [
+   "section-officer",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a rectangle 20 cm long and 10 cm wide.",
+  "question_ne": "२० सेमी लामो र १० सेन्टिमिटर चौडाइको आयतको क्षेत्रफल पत्ता लगाउनुहोस्।",
+  "options": [
+   "220",
+   "150",
+   "200",
+   "180"
+  ],
+  "options_ne": [
+   "२२०",
+   "१५०",
+   "२००",
+   "१८०"
+  ],
+  "answer": 2,
+  "explanation": "Area = 20 x 10 = 200 sq cm.",
+  "explanation_ne": "क्षेत्रफल = 20 x 10 = 200 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "tsc-secondary",
+   "army"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Find the area of a circle with radius 14 cm. (Use pi = 22/7)",
+  "question_ne": "14 सेमी त्रिज्या भएको वृत्तको क्षेत्रफल पत्ता लगाउनुहोस्। (pi = 22/7 प्रयोग गर्नुहोस्)",
+  "options": [
+   "638",
+   "616",
+   "600",
+   "594"
+  ],
+  "options_ne": [
+   "६३८",
+   "६१६",
+   "६००",
+   "५९४"
+  ],
+  "answer": 1,
+  "explanation": "Area = 22/7 x 14 x 14 = 616 sq cm.",
+  "explanation_ne": "क्षेत्रफल = 22/7 x 14 x 14 = 616 वर्ग सेमी।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the HCF of 12 and 18.",
+  "question_ne": "१२ र १८ को HCF पत्ता लगाउनुहोस्।",
+  "options": [
+   "5",
+   "6",
+   "8",
+   "12"
+  ],
+  "options_ne": [
+   "५",
+   "६",
+   "८",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Factors: HCF of 12 and 18 is 6.",
+  "explanation_ne": "कारकहरू: १२ र १८ को HCF ६ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-085",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the HCF of 15 and 25.",
+  "question_ne": "१५ र २५ को HCF पत्ता लगाउनुहोस्।",
+  "options": [
+   "7",
+   "4",
+   "11",
+   "5"
+  ],
+  "options_ne": [
+   "७",
+   "४",
+   "११",
+   "५"
+  ],
+  "answer": 3,
+  "explanation": "Factors: HCF of 15 and 25 is 5.",
+  "explanation_ne": "कारकहरू: १५ र २५ को HCF ५ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the HCF of 8 and 12.",
+  "question_ne": "८ र १२ को HCF पत्ता लगाउनुहोस्।",
+  "options": [
+   "6",
+   "10",
+   "3",
+   "4"
+  ],
+  "options_ne": [
+   "६",
+   "१०",
+   "३",
+   "४"
+  ],
+  "answer": 3,
+  "explanation": "Factors: HCF of 8 and 12 is 4.",
+  "explanation_ne": "कारकहरू: ८ र १२ को HCF ४ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-087",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the HCF of 20 and 30.",
+  "question_ne": "२० र ३० को HCF पत्ता लगाउनुहोस्।",
+  "options": [
+   "16",
+   "12",
+   "9",
+   "10"
+  ],
+  "options_ne": [
+   "१६",
+   "१२",
+   "९",
+   "१०"
+  ],
+  "answer": 3,
+  "explanation": "Factors: HCF of 20 and 30 is 10.",
+  "explanation_ne": "कारकहरू: २० र ३० को HCF १० हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-088",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the LCM of 4 and 6.",
+  "question_ne": "४ र ६ को LCM पत्ता लगाउनुहोस्।",
+  "options": [
+   "14",
+   "18",
+   "12",
+   "10"
+  ],
+  "options_ne": [
+   "१४",
+   "१८",
+   "१२",
+   "१०"
+  ],
+  "answer": 2,
+  "explanation": "LCM of 4 and 6 is 12.",
+  "explanation_ne": "४ र ६ को LCM १२ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-089",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the LCM of 6 and 8.",
+  "question_ne": "६ र ८ को LCM पत्ता लगाउनुहोस्।",
+  "options": [
+   "22",
+   "30",
+   "24",
+   "26"
+  ],
+  "options_ne": [
+   "२२",
+   "३०",
+   "२४",
+   "२६"
+  ],
+  "answer": 2,
+  "explanation": "LCM of 6 and 8 is 24.",
+  "explanation_ne": "६ र ८ को LCM २४ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the LCM of 5 and 10.",
+  "question_ne": "५ र १० को LCM पत्ता लगाउनुहोस्।",
+  "options": [
+   "12",
+   "16",
+   "8",
+   "10"
+  ],
+  "options_ne": [
+   "१२",
+   "१६",
+   "८",
+   "१०"
+  ],
+  "answer": 3,
+  "explanation": "LCM of 5 and 10 is 10.",
+  "explanation_ne": "५ र १० को LCM १० हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-091",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF and LCM",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Find the LCM of 8 and 12.",
+  "question_ne": "८ र १२ को LCM पत्ता लगाउनुहोस्।",
+  "options": [
+   "26",
+   "22",
+   "30",
+   "24"
+  ],
+  "options_ne": [
+   "२६",
+   "२२",
+   "३०",
+   "२४"
+  ],
+  "answer": 3,
+  "explanation": "LCM of 8 and 12 is 24.",
+  "explanation_ne": "८ र १२ को LCM २४ हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-092",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the sum of the first 10 natural numbers?",
+  "question_ne": "पहिलो १० प्राकृतिक संख्या को योग के हो?",
+  "options": [
+   "60",
+   "55",
+   "45",
+   "50"
+  ],
+  "options_ne": [
+   "६०",
+   "५५",
+   "४५",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "Sum = n(n+1)/2 = 10 x 11 / 2 = 55.",
+  "explanation_ne": "योग = n(n+१)/२ = १० x ११ / २ = ५५।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-093",
+  "exam": [
+   "nasu",
+   "section-officer",
+   "engineering"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the smallest prime number?",
+  "question_ne": "सबैभन्दा सानो अभाज्य संख्या कुन हो?",
+  "options": [
+   "3",
+   "0",
+   "2",
+   "1"
+  ],
+  "options_ne": [
+   "३",
+   "०",
+   "२",
+   "१"
+  ],
+  "answer": 2,
+  "explanation": "2 is the smallest prime number.",
+  "explanation_ne": "२ सबैभन्दा सानो अभाज्य संख्या हो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many prime numbers are there between 1 and 20?",
+  "question_ne": "१ र २० को बीचमा कतिवटा अभाज्य संख्याहरू छन्?",
+  "options": [
+   "9",
+   "10",
+   "7",
+   "8"
+  ],
+  "options_ne": [
+   "९",
+   "१०",
+   "७",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "Primes: 2, 3, 5, 7, 11, 13, 17, 19 = 8 numbers.",
+  "explanation_ne": "प्राइमहरू: 2, 3, 5, 7, 11, 13, 17, 19 = 8 संख्याहरू।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-095",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 25 x 16?",
+  "question_ne": "२५ x १६ के हो?",
+  "options": [
+   "350",
+   "400",
+   "450",
+   "375"
+  ],
+  "options_ne": [
+   "३५०",
+   "४००",
+   "४५०",
+   "३७५"
+  ],
+  "answer": 1,
+  "explanation": "25 x 16 = 400.",
+  "explanation_ne": "२५ x १६ = ४००।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-096",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the square of 15?",
+  "question_ne": "१५ को वर्ग के हो?",
+  "options": [
+   "200",
+   "250",
+   "225",
+   "215"
+  ],
+  "options_ne": [
+   "२००",
+   "२५०",
+   "२२५",
+   "२१५"
+  ],
+  "answer": 2,
+  "explanation": "15^2 = 225.",
+  "explanation_ne": "15^2 = 225।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-097",
+  "exam": [
+   "rbb",
+   "nrb-assistant"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the cube of 4?",
+  "question_ne": "४ को घन के हो?",
+  "options": [
+   "64",
+   "48",
+   "80",
+   "60"
+  ],
+  "options_ne": [
+   "६४",
+   "४८",
+   "८०",
+   "६०"
+  ],
+  "answer": 0,
+  "explanation": "4^3 = 64.",
+  "explanation_ne": "4^3 = 64।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-098",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Ram is 20 years old and Shyam is 15 years old. What is the sum of their ages?",
+  "question_ne": "राम २० वर्ष र श्याम १५ वर्षका छन्। उनीहरुको उमेरको योगफल कति हो?",
+  "options": [
+   "35",
+   "30",
+   "40",
+   "25"
+  ],
+  "options_ne": [
+   "३५",
+   "३०",
+   "४०",
+   "२५"
+  ],
+  "answer": 0,
+  "explanation": "20 + 15 = 35 years.",
+  "explanation_ne": "20 + 15 = 35 वर्ष।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-099",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "A father is 40 years old and his son is 10 years old. After how many years will the father be twice as old as his son?",
+  "question_ne": "बाबु ४० वर्षको छ भने छोरा १० वर्षको छ। कति वर्षपछि बाबु छोराको भन्दा दोब्बर उमेरको हुन्छ?",
+  "options": [
+   "25",
+   "15",
+   "20",
+   "10"
+  ],
+  "options_ne": [
+   "२५",
+   "१५",
+   "२०",
+   "१०"
+  ],
+  "answer": 2,
+  "explanation": "Let x years later: 40 + x = 2(10 + x) => 40 + x = 20 + 2x => x = 20.",
+  "explanation_ne": "x वर्ष पछि मानौं: 40 + x = 2(10 + x) => 40 + x = 20 + 2x => x = 20।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The present age of A is twice the age of B. If B is 12 years old, how old is A?",
+  "question_ne": "A को वर्तमान उमेर B को उमेर दोब्बर छ। यदि B १२ वर्षको छ भने, A कति वर्षको हुन्छ?",
+  "options": [
+   "20",
+   "18",
+   "24",
+   "26"
+  ],
+  "options_ne": [
+   "२०",
+   "१८",
+   "२४",
+   "२६"
+  ],
+  "answer": 2,
+  "explanation": "A = 2 x 12 = 24 years.",
+  "explanation_ne": "A = 2 x 12 = 24 वर्ष।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-101",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Five years ago, Ram was 15 years old. How old is he now?",
+  "question_ne": "पाँच वर्षअघि राम १५ वर्षका थिए। उहाँ अहिले कति वर्षको हुनुहुन्छ?",
+  "options": [
+   "25",
+   "20",
+   "18",
+   "22"
+  ],
+  "options_ne": [
+   "२५",
+   "२०",
+   "१८",
+   "२२"
+  ],
+  "answer": 1,
+  "explanation": "15 + 5 = 20 years.",
+  "explanation_ne": "15 + 5 = 20 वर्ष।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-102",
+  "exam": [
+   "nrb-assistant",
+   "nrb-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The sum of the ages of two brothers is 30. If one is 18, how old is the other?",
+  "question_ne": "दुई दाजुभाइको उमेरको योगफल ३० हो। यदि एकजना १८ वर्षको छ भने अर्कोको उमेर कति हुन्छ?",
+  "options": [
+   "12",
+   "16",
+   "10",
+   "14"
+  ],
+  "options_ne": [
+   "१२",
+   "१६",
+   "१०",
+   "१४"
+  ],
+  "answer": 0,
+  "explanation": "30 - 18 = 12 years.",
+  "explanation_ne": "30 - 18 = 12 वर्ष।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-103",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures and Alligation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A mixture contains milk and water in the ratio 3:1. If there are 12 litres of milk, how many litres of water are there?",
+  "question_ne": "मिश्रणमा दूध र पानी ३:१ अनुपातमा हुन्छ। यदि १२ लिटर दूध छ भने, पानी कति लीटर छ?",
+  "options": [
+   "6",
+   "4",
+   "3",
+   "2"
+  ],
+  "options_ne": [
+   "६",
+   "४",
+   "३",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "Water = 12 x 1/3 = 4 litres.",
+  "explanation_ne": "पानी = 12 x 1/3 = 4 लिटर।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-104",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures and Alligation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tea at Rs 200 per kg is mixed with tea at Rs 300 per kg in the ratio 2:1. What is the cost per kg of the mixture?",
+  "question_ne": "प्रतिकिलो २ सयको चियामा २:१ को अनुपातमा ३ सय रुपैयाँ प्रतिकिलोको चिया मिसाइन्छ। प्रति किलो मिश्रणको मूल्य कति छ?",
+  "options": [
+   "233.33",
+   "220",
+   "250",
+   "240"
+  ],
+  "options_ne": [
+   "२३३.३३",
+   "२२०",
+   "२५०",
+   "२४०"
+  ],
+  "answer": 0,
+  "explanation": "Cost = (2x200 + 1x300)/3 = 700/3 = 233.33 Rs per kg.",
+  "explanation_ne": "लागत = (2x200 + 1x300)/3 = 700/3 = 233.33 रु प्रति किलो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures and Alligation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In 40 litres of mixture, milk and water are in the ratio 3:2. How many litres of milk are there?",
+  "question_ne": "४० लिटर मिश्रणमा, दूध र पानी ३:२ अनुपातमा हुन्छ। त्यहाँ कति लिटर दूध छ?",
+  "options": [
+   "24",
+   "20",
+   "16",
+   "30"
+  ],
+  "options_ne": [
+   "२४",
+   "२०",
+   "१६",
+   "३०"
+  ],
+  "answer": 0,
+  "explanation": "Milk = 40 x 3/5 = 24 litres.",
+  "explanation_ne": "दूध = 40 x 3/5 = 24 लिटर।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-106",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures and Alligation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper mixes 10 kg of rice at Rs 50 per kg with 10 kg at Rs 70 per kg. What is the average price per kg?",
+  "question_ne": "एक पसले ५० रुपैयाँमा १० किलो चामल र ७० रुपैयाँमा १० किलो चामल मिसाउँछन्। प्रतिकिलो औसत मूल्य कति छ?",
+  "options": [
+   "58",
+   "55",
+   "60",
+   "65"
+  ],
+  "options_ne": [
+   "५८",
+   "५५",
+   "६०",
+   "६५"
+  ],
+  "answer": 2,
+  "explanation": "Average = (10x50 + 10x70)/20 = 1200/20 = 60 Rs per kg.",
+  "explanation_ne": "औसत = (10x50 + 10x70)/20 = 1200/20 = 60 रु प्रति किलो।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-107",
+  "exam": [
+   "kharidar",
+   "nasu"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Train and Boat Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A train 120 m long runs at 20 m/s. How long does it take to cross a pole?",
+  "question_ne": "१२० मिटर लामो ट्रेन २० मि/सेकेन्डमा दौडन्छ। एउटा पोल पार गर्न कति समय लाग्छ?",
+  "options": [
+   "6",
+   "8",
+   "5",
+   "10"
+  ],
+  "options_ne": [
+   "६",
+   "८",
+   "५",
+   "१०"
+  ],
+  "answer": 0,
+  "explanation": "Time = length / speed = 120 / 20 = 6 seconds.",
+  "explanation_ne": "समय = लम्बाइ / गति = 120 / 20 = 6 सेकेन्ड।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-108",
+  "exam": [
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Train and Boat Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat travels downstream at 12 km/h and upstream at 8 km/h. What is the speed of the boat in still water?",
+  "question_ne": "एउटा डुङ्गा १२ किमी/घण्टाको गतिमा डाउनस्ट्रीम र ८ किमी/घन्टाको गतिमा माथिल्लो भागमा यात्रा गर्छ। स्थिर पानीमा डुङ्गाको गति कति हुन्छ?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "20"
+  ],
+  "options_ne": [
+   "१०",
+   "११",
+   "९",
+   "२०"
+  ],
+  "answer": 0,
+  "explanation": "Boat speed = (12 + 8)/2 = 10 km/h.",
+  "explanation_ne": "डुङ्गाको गति = (12 + 8)/2 = 10 किमी/घन्टा।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Train and Boat Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A train 150 m long crosses a platform 150 m long in 15 seconds. What is its speed in m/s?",
+  "question_ne": "१५० मिटर लामो ट्रेनले १५ सेकेन्डमा १५० मिटर लामो प्लेटफर्म पार गर्छ। m/s मा यसको गति कति छ?",
+  "options": [
+   "15",
+   "25",
+   "10",
+   "20"
+  ],
+  "options_ne": [
+   "१५",
+   "२५",
+   "१०",
+   "२०"
+  ],
+  "answer": 3,
+  "explanation": "Total distance = 150 + 150 = 300 m; speed = 300/15 = 20 m/s.",
+  "explanation_ne": "कुल दूरी = 150 + 150 = 300 मी; गति = 300/15 = 20 m/s।",
+  "source": "Aptitude"
+ },
+ {
+  "id": "MATH-110",
+  "exam": [
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Train and Boat Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat's speed in still water is 15 km/h and the stream speed is 5 km/h. What is its downstream speed?",
+  "question_ne": "स्थिर पानीमा डुङ्गाको गति १५ किमी/घन्टा र धाराको गति ५ किमी/घण्टा छ। यसको डाउनस्ट्रीम गति के हो?",
+  "options": [
+   "25",
+   "20",
+   "10",
+   "18"
+  ],
+  "options_ne": [
+   "२५",
+   "२०",
+   "१०",
+   "१८"
+  ],
+  "answer": 1,
+  "explanation": "Downstream = 15 + 5 = 20 km/h.",
+  "explanation_ne": "डाउनस्ट्रीम = 15 + 5 = 20 किमी/घन्टा।",
+  "source": "Aptitude"
+ }
+]

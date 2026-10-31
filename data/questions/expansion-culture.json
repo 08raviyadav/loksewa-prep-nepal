@@ -1,0 +1,5885 @@
+[
+ {
+  "id": "CULT2-001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many days does Dashain, the longest festival of Nepal, last?",
+  "options": [
+   "10 days",
+   "12 days",
+   "15 days",
+   "7 days"
+  ],
+  "answer": 2,
+  "explanation": "Dashain lasts for 15 days, from Ghatasthapana to Kojagrat Purnima.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा लामो चाड दशैं कति दिनसम्म मनाइन्छ?",
+  "options_ne": [
+   "१० दिन",
+   "१२ दिन",
+   "१५ दिन",
+   "७ दिन"
+  ],
+  "explanation_ne": "दशैं घटस्थापनादेखि कोजाग्रत पूर्णिमासम्म १५ दिन मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On which day of Dashain is Phulpati brought to Kathmandu from Gorkha?",
+  "options": [
+   "Ghatasthapana",
+   "Maha Asthami",
+   "Phulpati (the seventh day)",
+   "Vijaya Dashami"
+  ],
+  "answer": 2,
+  "explanation": "Phulpati is brought from Gorkha to Kathmandu on the seventh day of Dashain.",
+  "source": "General knowledge",
+  "question_ne": "दशैंको कुन दिन फूलपाती गोरखाबाट काठमाडौं ल्याइन्छ?",
+  "options_ne": [
+   "घटस्थापना",
+   "महाअष्टमी",
+   "फूलपाती (सातौं दिन)",
+   "विजया दशमी"
+  ],
+  "explanation_ne": "फूलपाती दशैंको सातौं दिन गोरखाबाट काठमाडौं ल्याइन्छ।"
+ },
+ {
+  "id": "CULT2-003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Tihar is also known by which name?",
+  "options": [
+   "Vishnu Panchak",
+   "Indra Panchak",
+   "Shiva Panchak",
+   "Yama Panchak"
+  ],
+  "answer": 3,
+  "explanation": "Tihar is also called Yama Panchak because it is celebrated for five days in honour of Yama, the god of death.",
+  "source": "General knowledge",
+  "question_ne": "तिहारलाई अर्को कुन नामले पनि चिनिन्छ?",
+  "options_ne": [
+   "विष्णु पञ्चक",
+   "इन्द्र पञ्चक",
+   "शिव पञ्चक",
+   "यम पञ्चक"
+  ],
+  "explanation_ne": "तिहारलाई यम पञ्चक पनि भनिन्छ किनभने यो मृत्युका देवता यमको सम्मानमा पाँच दिन मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On the fourth day of Tihar, which animal is worshipped during Govardhan Puja and Goru Tihar?",
+  "options": [
+   "Crow",
+   "Dog",
+   "Cow",
+   "Brother"
+  ],
+  "answer": 2,
+  "explanation": "The fourth day of Tihar is Govardhan Puja and Goru Tihar, when cows and oxen are worshipped.",
+  "source": "General knowledge",
+  "question_ne": "तिहारको चौथो दिन गोवर्धन पूजा र गोरु तिहारमा कुन जनावरको पूजा गरिन्छ?",
+  "options_ne": [
+   "काग",
+   "कुकुर",
+   "गाई",
+   "भाइ"
+  ],
+  "explanation_ne": "तिहारको चौथो दिन गोवर्धन पूजा र गोरु तिहार मनाइन्छ, जसमा गाईगोरुको पूजा गरिन्छ।"
+ },
+ {
+  "id": "CULT2-005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Mha Puja, the Newar New Year, is celebrated on which day of Tihar?",
+  "options": [
+   "First day",
+   "Second day",
+   "Third day",
+   "Fourth day"
+  ],
+  "answer": 3,
+  "explanation": "Mha Puja is celebrated on the fourth day of Tihar, which also marks the beginning of the Nepal Sambat new year.",
+  "source": "General knowledge",
+  "question_ne": "म्ह पूजा, नेवारहरूको नयाँ वर्ष, तिहारको कुन दिन मनाइन्छ?",
+  "options_ne": [
+   "पहिलो दिन",
+   "दोस्रो दिन",
+   "तेस्रो दिन",
+   "चौथो दिन"
+  ],
+  "explanation_ne": "म्ह पूजा तिहारको चौथो दिन मनाइन्छ र त्यही दिन नेपाल संवतको नयाँ वर्ष सुरु हुन्छ।"
+ },
+ {
+  "id": "CULT2-006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which festival marks the birth, enlightenment and death (Mahaparinirvana) of Lord Buddha?",
+  "options": [
+   "Lhosar",
+   "Buddha Jayanti",
+   "Shivaratri",
+   "Janai Purnima"
+  ],
+  "answer": 1,
+  "explanation": "Buddha Jayanti celebrates the birth, enlightenment and Mahaparinirvana of Gautam Buddha, all believed to have occurred on the same full-moon day.",
+  "source": "General knowledge",
+  "question_ne": "भगवान् बुद्धको जन्म, ज्ञान प्राप्ति र महापरिनिर्वाण कुन चाडमा मनाइन्छ?",
+  "options_ne": [
+   "ल्होसार",
+   "बुद्ध जयन्ती",
+   "शिवरात्री",
+   "जनै पूर्णिमा"
+  ],
+  "explanation_ne": "बुद्ध जयन्तीमा बुद्धको जन्म, बुद्धत्व प्राप्ति र महापरिनिर्वाण तीनै घटना सम्झिइन्छ।"
+ },
+ {
+  "id": "CULT2-007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Buddha Jayanti is celebrated on the full moon day of which Nepali month?",
+  "options": [
+   "Baisakh",
+   "Asar",
+   "Kartik",
+   "Magh"
+  ],
+  "answer": 0,
+  "explanation": "Buddha Jayanti falls on the full moon day of Baisakh.",
+  "source": "General knowledge",
+  "question_ne": "बुद्ध जयन्ती कुन महिनाको पूर्णिमामा मनाइन्छ?",
+  "options_ne": [
+   "वैशाख",
+   "असार",
+   "कार्तिक",
+   "माघ"
+  ],
+  "explanation_ne": "बुद्ध जयन्ती वैशाख शुक्ल पूर्णिमामा मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Maha Shivaratri is dedicated to which god?",
+  "options": [
+   "Vishnu",
+   "Shiva",
+   "Brahma",
+   "Indra"
+  ],
+  "answer": 1,
+  "explanation": "Maha Shivaratri is the great night of Lord Shiva.",
+  "source": "General knowledge",
+  "question_ne": "महाशिवरात्री कुन देवतामा समर्पित छ?",
+  "options_ne": [
+   "विष्णु",
+   "शिव",
+   "ब्रह्मा",
+   "इन्द्र"
+  ],
+  "explanation_ne": "महाशिवरात्री भगवान् शिवको महान् रात हो।"
+ },
+ {
+  "id": "CULT2-009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "During Maha Shivaratri, devotees gather in huge numbers at which temple in Kathmandu?",
+  "options": [
+   "Swayambhunath",
+   "Pashupatinath",
+   "Janaki Mandir",
+   "Muktinath"
+  ],
+  "answer": 1,
+  "explanation": "On Maha Shivaratri, lakhs of devotees gather at Pashupatinath Temple to worship Lord Shiva.",
+  "source": "General knowledge",
+  "question_ne": "महाशिवरात्रीमा भक्तजनहरू ठूलो संख्यामा काठमाडौंको कुन मन्दिरमा जम्मा हुन्छन्?",
+  "options_ne": [
+   "स्वयम्भू",
+   "पशुपतिनाथ",
+   "जानकी मन्दिर",
+   "मुक्तिनाथ"
+  ],
+  "explanation_ne": "महाशिवरात्रीमा लाखौं भक्तजन भगवान् शिवको पूजा गर्न पशुपतिनाथ मन्दिरमा जम्मा हुन्छन्।"
+ },
+ {
+  "id": "CULT2-010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Krishna Janmashtami celebrates the birth of which god?",
+  "options": [
+   "Ram",
+   "Krishna",
+   "Shiva",
+   "Ganesh"
+  ],
+  "answer": 1,
+  "explanation": "Krishna Janmashtami marks the birth of Lord Krishna.",
+  "source": "General knowledge",
+  "question_ne": "कृष्ण जन्माष्टमीले कुन देवताको जन्म मनाउँछ?",
+  "options_ne": [
+   "राम",
+   "कृष्ण",
+   "शिव",
+   "गणेश"
+  ],
+  "explanation_ne": "कृष्ण जन्माष्टमीमा भगवान् श्रीकृष्णको जन्म मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Janakpur, where Ram Navami is celebrated with special devotion, is the birthplace of whom?",
+  "options": [
+   "Parvati",
+   "Laxmi",
+   "Sita",
+   "Draupadi"
+  ],
+  "answer": 2,
+  "explanation": "Janakpur is the birthplace of Sita, the wife of Lord Ram, and Ram Navami is celebrated there with great devotion.",
+  "source": "General knowledge",
+  "question_ne": "राम नवमी विशेष भक्तिसाथ मनाइने जनकपुर कसको जन्मभूमि हो?",
+  "options_ne": [
+   "पार्वती",
+   "लक्ष्मी",
+   "सीता",
+   "द्रौपदी"
+  ],
+  "explanation_ne": "जनकपुर भगवान् रामकी पत्नी सीताको जन्मभूमि हो र त्यहाँ राम नवमी विशेष भक्तिसाथ मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Vivah Panchami, which marks the wedding of Ram and Sita, is celebrated in which city?",
+  "options": [
+   "Birgunj",
+   "Janakpur",
+   "Nepalgunj",
+   "Butwal"
+  ],
+  "answer": 1,
+  "explanation": "Vivah Panchami is celebrated in Janakpur, where the wedding of Ram and Sita is believed to have taken place.",
+  "source": "General knowledge",
+  "question_ne": "राम र सीताको विवाह सम्झने विवाह पञ्चमी कुन सहरमा मनाइन्छ?",
+  "options_ne": [
+   "वीरगञ्ज",
+   "जनकपुर",
+   "नेपालगञ्ज",
+   "बुटवल"
+  ],
+  "explanation_ne": "विवाह पञ्चमी जनकपुरमा मनाइन्छ जहाँ राम र सीताको विवाह भएको मानिन्छ।"
+ },
+ {
+  "id": "CULT2-013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gai Jatra is celebrated by the Newar community in memory of whom?",
+  "options": [
+   "Newborn babies",
+   "Deceased family members",
+   "Newly married couples",
+   "New kings"
+  ],
+  "answer": 1,
+  "explanation": "During Gai Jatra, families who lost a member in the past year lead a cow in procession in their memory.",
+  "source": "General knowledge",
+  "question_ne": "गाईजात्रा नेवार समुदायले कसको सम्झनामा मनाउँछ?",
+  "options_ne": [
+   "नवजात शिशु",
+   "मृत परिवारका सदस्य",
+   "नवविवाहित जोडी",
+   "नयाँ राजा"
+  ],
+  "explanation_ne": "गाईजात्रामा गत वर्ष परिवारका सदस्य गुमाएका परिवारले उनीहरूको सम्झनामा गाईको जुलुस निकाल्छन्।"
+ },
+ {
+  "id": "CULT2-014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gai Jatra is celebrated in which Nepali month?",
+  "options": [
+   "Baisakh",
+   "Bhadra",
+   "Magh",
+   "Chaitra"
+  ],
+  "answer": 1,
+  "explanation": "Gai Jatra is celebrated in Bhadra (August-September).",
+  "source": "General knowledge",
+  "question_ne": "गाईजात्रा कुन महिनामा मनाइन्छ?",
+  "options_ne": [
+   "वैशाख",
+   "भाद्र",
+   "माघ",
+   "चैत"
+  ],
+  "explanation_ne": "गाईजात्रा भाद्र महिनामा मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which festival is known as the festival of horses and is celebrated with a horse race at Tundikhel?",
+  "options": [
+   "Indra Jatra",
+   "Ghode Jatra",
+   "Bisket Jatra",
+   "Rato Machhindranath Jatra"
+  ],
+  "answer": 1,
+  "explanation": "Ghode Jatra is celebrated at Tundikhel in Kathmandu with horse races and parades, traditionally to ward off evil spirits.",
+  "source": "General knowledge",
+  "question_ne": "टुँडिखेलमा घोडा दौडाएर मनाइने घोडाको चाड कुन हो?",
+  "options_ne": [
+   "इन्द्रजात्रा",
+   "घोडेजात्रा",
+   "बिस्केट जात्रा",
+   "रातो मच्छिन्द्रनाथ जात्रा"
+  ],
+  "explanation_ne": "घोडेजात्रा काठमाडौंको टुँडिखेलमा घोडा दौड र परेडसहित मनाइन्छ, परम्परागत रूपमा दुष्ट आत्माहरूलाई भगाउन।"
+ },
+ {
+  "id": "CULT2-016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bisket Jatra is the New Year festival of which city?",
+  "options": [
+   "Kathmandu",
+   "Lalitpur",
+   "Bhaktapur",
+   "Kirtipur"
+  ],
+  "answer": 2,
+  "explanation": "Bisket Jatra is the famous Nepali New Year festival of Bhaktapur, celebrated in Baisakh.",
+  "source": "General knowledge",
+  "question_ne": "बिस्केट जात्रा कुन सहरको नयाँ वर्षको चाड हो?",
+  "options_ne": [
+   "काठमाडौं",
+   "ललितपुर",
+   "भक्तपुर",
+   "कीर्तिपुर"
+  ],
+  "explanation_ne": "बिस्केट जात्रा भक्तपुरको प्रसिद्ध नयाँ वर्षको जात्रा हो जुन वैशाखमा मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "During Bisket Jatra, the chariot of which god is pulled through Bhaktapur?",
+  "options": [
+   "Krishna",
+   "Ganesh",
+   "Bhairav",
+   "Vishnu"
+  ],
+  "answer": 2,
+  "explanation": "During Bisket Jatra, the chariot of Lord Bhairav (and Bhadrakali) is pulled through the streets of Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "बिस्केट जात्रामा कुन देवताको रथ भक्तपुरमा तानिन्छ?",
+  "options_ne": [
+   "कृष्ण",
+   "गणेश",
+   "भैरव",
+   "विष्णु"
+  ],
+  "explanation_ne": "बिस्केट जात्रामा भैरव (र भद्रकाली) को रथ भक्तपुरका सडकहरूमा तानिन्छ।"
+ },
+ {
+  "id": "CULT2-018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Sindoor Jatra, the vermilion powder festival, is celebrated in which town?",
+  "options": [
+   "Thimi",
+   "Banepa",
+   "Dhulikhel",
+   "Kirtipur"
+  ],
+  "answer": 0,
+  "explanation": "Sindoor Jatra is celebrated in Madhyapur Thimi, where devotees throw vermilion powder at each other during the Nepali New Year.",
+  "source": "General knowledge",
+  "question_ne": "सिन्दूर जात्रा, सिन्दूरको चाड, कुन सहरमा मनाइन्छ?",
+  "options_ne": [
+   "ठिमी",
+   "बनेपा",
+   "धुलिखेल",
+   "कीर्तिपुर"
+  ],
+  "explanation_ne": "सिन्दूर जात्रा मध्यपुर ठिमीमा मनाइन्छ जहाँ भक्तजनहरूले नयाँ वर्षमा एकअर्कामाथि सिन्दूर छर्कन्छन्।"
+ },
+ {
+  "id": "CULT2-019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Yomari Punhi is a festival of which community?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Gurung",
+   "Limbu"
+  ],
+  "answer": 1,
+  "explanation": "Yomari Punhi is a Newar festival celebrated on the full moon of Poush, when yomari sweets are eaten.",
+  "source": "General knowledge",
+  "question_ne": "योमरी पुन्ही कुन समुदायको चाड हो?",
+  "options_ne": [
+   "थारू",
+   "नेवार",
+   "गुरुङ",
+   "लिम्बू"
+  ],
+  "explanation_ne": "योमरी पुन्ही नेवार समुदायको चाड हो जुन पुसको पूर्णिमामा योमरी खाएर मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Yomari Punhi is also known by which other name?",
+  "options": [
+   "Guru Purnima",
+   "Kojagrat Purnima",
+   "Janai Purnima",
+   "Dhanya Purnima"
+  ],
+  "answer": 3,
+  "explanation": "Yomari Punhi is also called Dhanya Purnima, the full moon of the rice harvest.",
+  "source": "General knowledge",
+  "question_ne": "योमरी पुन्हीलाई अर्को कुन नामले पनि चिनिन्छ?",
+  "options_ne": [
+   "गुरु पूर्णिमा",
+   "कोजाग्रत पूर्णिमा",
+   "जनै पूर्णिमा",
+   "धान्य पूर्णिमा"
+  ],
+  "explanation_ne": "योमरी पुन्हीलाई धान्य पूर्णिमा पनि भनिन्छ, अर्थात् धान भित्र्याउने पूर्णिमा।"
+ },
+ {
+  "id": "CULT2-021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tamu Losar is the New Year festival of which community?",
+  "options": [
+   "Tamang",
+   "Gurung",
+   "Sherpa",
+   "Magar"
+  ],
+  "answer": 1,
+  "explanation": "Tamu Losar is the New Year of the Gurung community, who call themselves Tamu.",
+  "source": "General knowledge",
+  "question_ne": "तमु ल्होसार कुन समुदायको नयाँ वर्षको चाड हो?",
+  "options_ne": [
+   "तामाङ",
+   "गुरुङ",
+   "शेर्पा",
+   "मगर"
+  ],
+  "explanation_ne": "तमु ल्होसार गुरुङ समुदायको नयाँ वर्ष हो, गुरुङहरू आफूलाई तमु भन्छन्।"
+ },
+ {
+  "id": "CULT2-022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tamu Losar is celebrated on which day?",
+  "options": [
+   "Magh 1",
+   "Poush 15",
+   "Baisakh 1",
+   "Falgun 15"
+  ],
+  "answer": 1,
+  "explanation": "Tamu Losar is celebrated on Poush 15 every year.",
+  "source": "General knowledge",
+  "question_ne": "तमु ल्होसार कुन दिन मनाइन्छ?",
+  "options_ne": [
+   "माघ १",
+   "पुस १५",
+   "वैशाख १",
+   "फाल्गुन १५"
+  ],
+  "explanation_ne": "तमु ल्होसार हरेक वर्ष पुस १५ गते मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the word 'Losar' mean?",
+  "options": [
+   "New Year",
+   "Harvest",
+   "Full Moon",
+   "Spring"
+  ],
+  "answer": 0,
+  "explanation": "In Tibetan, 'Lo' means year and 'Sar' means new, so Losar means New Year.",
+  "source": "General knowledge",
+  "question_ne": "'ल्होसार' शब्दको अर्थ के हो?",
+  "options_ne": [
+   "नयाँ वर्ष",
+   "फसल",
+   "पूर्णिमा",
+   "वसन्त"
+  ],
+  "explanation_ne": "तिब्बती भाषामा 'ल्हो' को अर्थ वर्ष र 'सार' को अर्थ नयाँ हो, अर्थात् ल्होसार भनेको नयाँ वर्ष हो।"
+ },
+ {
+  "id": "CULT2-024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which festival is celebrated by the Tharu community as their biggest festival and New Year on Magh 1?",
+  "options": [
+   "Maghi",
+   "Jitiya",
+   "Sama Chakeva",
+   "Faguwa"
+  ],
+  "answer": 0,
+  "explanation": "Maghi is the biggest festival of the Tharu community, celebrated as their New Year on Magh 1.",
+  "source": "General knowledge",
+  "question_ne": "माघ १ गते थारू समुदायले आफ्नो सबैभन्दा ठूलो चाड र नयाँ वर्षका रूपमा कुन चाड मनाउँछ?",
+  "options_ne": [
+   "माघी",
+   "जितिया",
+   "सामा चकेवा",
+   "फगुवा"
+  ],
+  "explanation_ne": "माघी थारू समुदायको नयाँ वर्ष र सबैभन्दा ठूलो चाड हो।"
+ },
+ {
+  "id": "CULT2-025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ubhauli is celebrated by the Rai community in which month?",
+  "options": [
+   "Baisakh",
+   "Mangsir",
+   "Poush",
+   "Asar"
+  ],
+  "answer": 0,
+  "explanation": "Ubhauli is celebrated in Baisakh, when the Rai people mark the migration uphill for the summer.",
+  "source": "General knowledge",
+  "question_ne": "उभौली राई समुदायले कुन महिनामा मनाउँछ?",
+  "options_ne": [
+   "वैशाख",
+   "मंसिर",
+   "पुस",
+   "असार"
+  ],
+  "explanation_ne": "उभौली वैशाखमा मनाइन्छ जब राई समुदाय गर्मीका लागि पहाडतिर बसाइँ सर्छन्।"
+ },
+ {
+  "id": "CULT2-026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sakela dance is performed during Ubhauli and Udhauli by which community?",
+  "options": [
+   "Tamang",
+   "Tharu",
+   "Newar",
+   "Rai"
+  ],
+  "answer": 3,
+  "explanation": "Sakela is the traditional dance of the Rai (Kirat) community, performed during Ubhauli and Udhauli.",
+  "source": "General knowledge",
+  "question_ne": "उभौली र उधौलीमा साकेला नाच कुन समुदायले नाच्छ?",
+  "options_ne": [
+   "तामाङ",
+   "थारू",
+   "नेवार",
+   "राई"
+  ],
+  "explanation_ne": "साकेला राई (किरात) समुदायको परम्परागत नाच हो जुन उभौली र उधौलीमा नाचिन्छ।"
+ },
+ {
+  "id": "CULT2-027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Chasok Tangnam is a harvest festival of which community?",
+  "options": [
+   "Limbu",
+   "Rai",
+   "Gurung",
+   "Magar"
+  ],
+  "answer": 0,
+  "explanation": "Chasok Tangnam is the harvest festival of the Limbu community, celebrated to thank the gods for the new harvest.",
+  "source": "General knowledge",
+  "question_ne": "चासोक ताङनाम कुन समुदायको फसलको चाड हो?",
+  "options_ne": [
+   "लिम्बू",
+   "राई",
+   "गुरुङ",
+   "मगर"
+  ],
+  "explanation_ne": "चासोक ताङनाम लिम्बू समुदायको फसलको चाड हो जुन नयाँ फसलका लागि देवताहरूलाई धन्यवाद दिन मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Jitiya is a festival in which women fast for the long life of their children. It is mainly celebrated by which community?",
+  "options": [
+   "Newar",
+   "Maithil",
+   "Tharu",
+   "Sherpa"
+  ],
+  "answer": 1,
+  "explanation": "Jitiya is observed by Maithil women, who fast without water for the long life and well-being of their children.",
+  "source": "General knowledge",
+  "question_ne": "जितिया चाडमा महिलाहरू आफ्ना सन्तानको दीर्घायुका लागि व्रत बस्छन्। यो मुख्य रूपमा कुन समुदायले मनाउँछ?",
+  "options_ne": [
+   "नेवार",
+   "मैथिल",
+   "थारू",
+   "शेर्पा"
+  ],
+  "explanation_ne": "जितिया मैथिल महिलाहरूले आफ्ना सन्तानको दीर्घायु र कल्याणका लागि व्रत बस्ने चाड हो।"
+ },
+ {
+  "id": "CULT2-029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sama Chakeva is a festival of the Maithil community in which sisters pray for whom?",
+  "options": [
+   "Husbands",
+   "Brothers",
+   "Children",
+   "Parents"
+  ],
+  "answer": 1,
+  "explanation": "In Sama Chakeva, Maithil sisters pray for the long life of their brothers.",
+  "source": "General knowledge",
+  "question_ne": "सामा चकेवा मैथिल समुदायको चाड हो जसमा दिदीबहिनीहरू कसका लागि प्रार्थना गर्छन्?",
+  "options_ne": [
+   "पति",
+   "भाइ",
+   "सन्तान",
+   "आमाबुबा"
+  ],
+  "explanation_ne": "सामा चकेवामा दिदीबहिनीहरू आफ्ना भाइहरूको दीर्घायुका लागि प्रार्थना गर्छन्।"
+ },
+ {
+  "id": "CULT2-030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nag Panchami is the festival of worshipping which creature?",
+  "options": [
+   "Crows",
+   "Cows",
+   "Snakes",
+   "Dogs"
+  ],
+  "answer": 2,
+  "explanation": "On Nag Panchami, observed in Shrawan, Hindus worship snakes (Nag devta) and paste pictures of snakes on their doors.",
+  "source": "General knowledge",
+  "question_ne": "नाग पञ्चमी कुन जीवको पूजा गर्ने चाड हो?",
+  "options_ne": [
+   "काग",
+   "गाई",
+   "सर्प",
+   "कुकुर"
+  ],
+  "explanation_ne": "श्रावणमा पर्ने नाग पञ्चमीमा हिन्दूहरूले सर्प देवताको पूजा गर्छन् र ढोकामा सर्पका तस्बिर टाँस्छन्।"
+ },
+ {
+  "id": "CULT2-031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepali language was earlier known by which name?",
+  "options": [
+   "Nepal Bhasa",
+   "Khas Kura",
+   "Maithili",
+   "Awadhi"
+  ],
+  "answer": 1,
+  "explanation": "Nepali was earlier known as Khas Kura, the language of the Khas people, and later as Gorkhali.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली भाषालाई पहिले कुन नामले चिनिन्थ्यो?",
+  "options_ne": [
+   "नेपाल भाषा",
+   "खस कुरा",
+   "मैथिली",
+   "अवधी"
+  ],
+  "explanation_ne": "नेपाली भाषालाई पहिले खस कुरा वा गोरखाली भनिन्थ्यो।"
+ },
+ {
+  "id": "CULT2-032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepali language belongs to which language family?",
+  "options": [
+   "Tibeto-Burman",
+   "Indo-Aryan",
+   "Dravidian",
+   "Austro-Asiatic"
+  ],
+  "answer": 1,
+  "explanation": "Nepali is an Indo-Aryan language, part of the Indo-European family.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली भाषा कुन भाषा परिवारमा पर्छ?",
+  "options_ne": [
+   "तिब्बती-बर्मेली",
+   "इन्डो-आर्यन",
+   "द्रविड",
+   "अष्ट्रो-एसियाटिक"
+  ],
+  "explanation_ne": "नेपाली इन्डो-आर्यन भाषा परिवारको भाषा हो।"
+ },
+ {
+  "id": "CULT2-033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2011 census, Nepali is the mother tongue of about what percentage of Nepal's population?",
+  "options": [
+   "32.5%",
+   "44.6%",
+   "58.2%",
+   "25.1%"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2011 census, about 44.6% of Nepal's population speaks Nepali as their mother tongue.",
+  "source": "General knowledge",
+  "question_ne": "२०११ को जनगणनाअनुसार नेपाली कति प्रतिशत जनसंख्याको मातृभाषा हो?",
+  "options_ne": [
+   "३२.५%",
+   "४४.६%",
+   "५८.२%",
+   "२५.१%"
+  ],
+  "explanation_ne": "२०११ को जनगणनाअनुसार करिब ४४.६% जनसंख्याको मातृभाषा नेपाली हो।"
+ },
+ {
+  "id": "CULT2-034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the third most spoken mother tongue in Nepal after Nepali and Maithili?",
+  "options": [
+   "Tharu",
+   "Bhojpuri",
+   "Tamang",
+   "Newari"
+  ],
+  "answer": 1,
+  "explanation": "According to the 2011 census, Bhojpuri (about 6%) is the third most spoken mother tongue in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली र मैथिलीपछि नेपालमा तेस्रो धेरै बोलिने मातृभाषा कुन हो?",
+  "options_ne": [
+   "थारू",
+   "भोजपुरी",
+   "तामाङ",
+   "नेवारी"
+  ],
+  "explanation_ne": "२०११ को जनगणनाअनुसार भोजपुरी (करिब ६%) नेपालको तेस्रो धेरै बोलिने मातृभाषा हो।"
+ },
+ {
+  "id": "CULT2-035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal Bhasa is the language of which people?",
+  "options": [
+   "Magar",
+   "Tharu",
+   "Tamang",
+   "Newar"
+  ],
+  "answer": 3,
+  "explanation": "Nepal Bhasa, also called Newari, is the language of the Newar people of the Kathmandu Valley.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल भाषा कुन जातिको भाषा हो?",
+  "options_ne": [
+   "मगर",
+   "थारू",
+   "तामाङ",
+   "नेवार"
+  ],
+  "explanation_ne": "नेपाल भाषा नेवार समुदायको भाषा हो।"
+ },
+ {
+  "id": "CULT2-036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Limbu language is written in which script?",
+  "options": [
+   "Devanagari",
+   "Sirijanga",
+   "Tirhuta",
+   "Ranjana"
+  ],
+  "answer": 1,
+  "explanation": "The Limbu language is written in the Sirijanga script, named after the Limbu scholar Sirijanga.",
+  "source": "General knowledge",
+  "question_ne": "लिम्बू भाषा कुन लिपिमा लेखिन्छ?",
+  "options_ne": [
+   "देवनागरी",
+   "सिरिजंगा",
+   "तिरहुता",
+   "रञ्जना"
+  ],
+  "explanation_ne": "लिम्बू भाषा सिरिजंगा लिपिमा लेखिन्छ, जसको नाम लिम्बू विद्वान् सिरिजंगाको नामबाट राखिएको हो।"
+ },
+ {
+  "id": "CULT2-037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Maithili is traditionally written in which script?",
+  "options": [
+   "Ranjana",
+   "Tirhuta",
+   "Sirijanga",
+   "Brahmi"
+  ],
+  "answer": 1,
+  "explanation": "Maithili was traditionally written in the Tirhuta script, also called Mithilakshar, though Devanagari is widely used today.",
+  "source": "General knowledge",
+  "question_ne": "मैथिली भाषा परम्परागत रूपमा कुन लिपिमा लेखिन्छ?",
+  "options_ne": [
+   "रञ्जना",
+   "तिरहुता",
+   "सिरिजंगा",
+   "ब्राह्मी"
+  ],
+  "explanation_ne": "मैथिली परम्परागत रूपमा तिरहुता (मिथिलाक्षर) लिपिमा लेखिन्छ, यद्यपि आज देवनागरी पनि व्यापक रूपमा प्रयोग हुन्छ।"
+ },
+ {
+  "id": "CULT2-038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many major language families are found in Nepal?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Five"
+  ],
+  "answer": 2,
+  "explanation": "Nepal has four major language families: Indo-Aryan, Tibeto-Burman, Austro-Asiatic and Dravidian.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा कति प्रमुख भाषा परिवारहरू पाइन्छन्?",
+  "options_ne": [
+   "दुई",
+   "तीन",
+   "चार",
+   "पाँच"
+  ],
+  "explanation_ne": "नेपालमा इन्डो-आर्यन, तिब्बती-बर्मेली, अष्ट्रो-एसियाटिक र द्रविड गरी चार भाषा परिवार पाइन्छन्।"
+ },
+ {
+  "id": "CULT2-039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bhanu Jayanti, the birth anniversary of Bhanubhakta Acharya, is celebrated on which day?",
+  "options": [
+   "Shrawan 15",
+   "Baisakh 1",
+   "Asar 29",
+   "Magh 1"
+  ],
+  "answer": 2,
+  "explanation": "Bhanu Jayanti is celebrated every year on Asar 29, the birth anniversary of Adikavi Bhanubhakta Acharya.",
+  "source": "General knowledge",
+  "question_ne": "भानुभक्त आचार्यको जन्मजयन्ती भानु जयन्ती कुन दिन मनाइन्छ?",
+  "options_ne": [
+   "श्रावण १५",
+   "वैशाख १",
+   "असार २९",
+   "माघ १"
+  ],
+  "explanation_ne": "भानु जयन्ती हरेक वर्ष असार २९ गते मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Doteli language is mainly spoken in which region of Nepal?",
+  "options": [
+   "Far-western Nepal",
+   "Eastern Terai",
+   "Kathmandu Valley",
+   "Gandaki region"
+  ],
+  "answer": 0,
+  "explanation": "Doteli is mainly spoken in the far-western region of Nepal, in the Doti area.",
+  "source": "General knowledge",
+  "question_ne": "डोटेली भाषा मुख्य रूपमा नेपालको कुन क्षेत्रमा बोलिन्छ?",
+  "options_ne": [
+   "सुदूरपश्चिम",
+   "पूर्वी तराई",
+   "काठमाडौं उपत्यका",
+   "गण्डकी क्षेत्र"
+  ],
+  "explanation_ne": "डोटेली सुदूरपश्चिम नेपालमा बोलिने भाषा हो।"
+ },
+ {
+  "id": "CULT2-041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the second largest caste/ethnic group in Nepal by population?",
+  "options": [
+   "Magar",
+   "Brahmin (Bahun)",
+   "Tharu",
+   "Tamang"
+  ],
+  "answer": 1,
+  "explanation": "After Chhetri, Brahmin (Bahun) is the second largest caste/ethnic group in Nepal by population.",
+  "source": "General knowledge",
+  "question_ne": "जनसंख्याका आधारमा नेपालको दोस्रो ठूलो जातीय समूह कुन हो?",
+  "options_ne": [
+   "मगर",
+   "ब्राह्मण (बाहुन)",
+   "थारू",
+   "तामाङ"
+  ],
+  "explanation_ne": "क्षेत्रीपछिको दोस्रो ठूलो जातीय समूह ब्राह्मण (बाहुन) हो।"
+ },
+ {
+  "id": "CULT2-042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "According to the 2011 census, about how many caste/ethnic groups are there in Nepal?",
+  "options": [
+   "59",
+   "125",
+   "102",
+   "142"
+  ],
+  "answer": 1,
+  "explanation": "The 2011 census recorded 125 caste/ethnic groups and 123 languages in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "२०११ को जनगणनाअनुसार नेपालमा करिब कति जातीय समूह छन्?",
+  "options_ne": [
+   "५९",
+   "१२५",
+   "१०२",
+   "१४२"
+  ],
+  "explanation_ne": "२०११ को जनगणनाअनुसार नेपालमा १२५ जातीय समूह र १२३ भाषा छन्।"
+ },
+ {
+  "id": "CULT2-043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Gurung people call themselves by which name?",
+  "options": [
+   "Yakthung",
+   "Tamu",
+   "Kirat",
+   "Kham"
+  ],
+  "answer": 1,
+  "explanation": "The Gurung people call themselves Tamu, which is why their New Year is called Tamu Losar.",
+  "source": "General knowledge",
+  "question_ne": "गुरुङ समुदायले आफूलाई कुन नामले चिन्छ?",
+  "options_ne": [
+   "याक्थुङ",
+   "तमु",
+   "किरात",
+   "खाम"
+  ],
+  "explanation_ne": "गुरुङहरू आफूलाई तमु भन्छन्, त्यसैले उनीहरूको नयाँ वर्षलाई तमु ल्होसार भनिन्छ।"
+ },
+ {
+  "id": "CULT2-044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Rai and Limbu peoples belong to which larger group?",
+  "options": [
+   "Madhesi",
+   "Tharu",
+   "Newar",
+   "Kirat"
+  ],
+  "answer": 3,
+  "explanation": "The Rai and Limbu are Kirat peoples, the indigenous groups of eastern Nepal.",
+  "source": "General knowledge",
+  "question_ne": "राई र लिम्बू समुदाय कुन ठूलो समूहमा पर्छन्?",
+  "options_ne": [
+   "मधेसी",
+   "थारू",
+   "नेवार",
+   "किरात"
+  ],
+  "explanation_ne": "राई र लिम्बू पूर्वी नेपालका आदिवासी किरात समुदाय हुन्।"
+ },
+ {
+  "id": "CULT2-045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Raute people are known as what in Nepal?",
+  "options": [
+   "The oldest traders of Kathmandu",
+   "The largest Janajati group",
+   "Nepal's last nomadic tribe",
+   "The royal priests"
+  ],
+  "answer": 2,
+  "explanation": "The Raute are Nepal's last nomadic tribe, traditionally moving through the forests of the mid-western hills.",
+  "source": "General knowledge",
+  "question_ne": "राउटे समुदाय नेपालमा के भनेर चिनिन्छ?",
+  "options_ne": [
+   "काठमाडौंका पुराना व्यापारी",
+   "सबैभन्दा ठूलो जनजाति",
+   "नेपालको अन्तिम घुमन्ते जाति",
+   "शाही पुजारी"
+  ],
+  "explanation_ne": "राउटे नेपालको अन्तिम घुमन्ते जाति हो, परम्परागत रूपमा मध्यपश्चिमका जंगलहरूमा घुम्दै हिँड्छन्।"
+ },
+ {
+  "id": "CULT2-046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Thakali people are native to which region?",
+  "options": [
+   "Jumla",
+   "Ilam",
+   "Thak Khola (Mustang)",
+   "Dang"
+  ],
+  "answer": 2,
+  "explanation": "The Thakali people are native to Thak Khola in the Mustang district, along the Kali Gandaki valley.",
+  "source": "General knowledge",
+  "question_ne": "थकाली समुदाय कुन क्षेत्रका मूल बासिन्दा हुन्?",
+  "options_ne": [
+   "जुम्ला",
+   "इलाम",
+   "थाक खोला (मुस्ताङ)",
+   "दाङ"
+  ],
+  "explanation_ne": "थकालीहरू मुस्ताङको थाक खोला क्षेत्रका हुन्, कालीगण्डकी उपत्यकामा।"
+ },
+ {
+  "id": "CULT2-047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which group is the largest among the Dalit communities of Nepal?",
+  "options": [
+   "Damai",
+   "Sarki",
+   "Kami",
+   "Gaine"
+  ],
+  "answer": 2,
+  "explanation": "The Kami (blacksmith) community is the largest Dalit group in Nepal, followed by Damai and Sarki.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका दलित समुदायहरूमध्ये सबैभन्दा ठूलो समूह कुन हो?",
+  "options_ne": [
+   "दमाई",
+   "सार्की",
+   "कामी",
+   "गाइने"
+  ],
+  "explanation_ne": "कामी (लोहार) नेपालको सबैभन्दा ठूलो दलित समुदाय हो, त्यसपछि दमाई र सार्की पर्छन्।"
+ },
+ {
+  "id": "CULT2-048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Muluki Ain of 1854, which codified the caste hierarchy, was introduced by whom?",
+  "options": [
+   "King Mahendra",
+   "Prithvi Narayan Shah",
+   "Chandra Shumsher",
+   "Jung Bahadur Rana"
+  ],
+  "answer": 3,
+  "explanation": "The Muluki Ain of 1854 was introduced by Jung Bahadur Rana and legally codified Nepal's caste hierarchy.",
+  "source": "General knowledge",
+  "question_ne": "जातीय व्यवस्था संहिताबद्ध गर्ने १८५४ को मुलुकी ऐन कसले ल्याएका थिए?",
+  "options_ne": [
+   "राजा महेन्द्र",
+   "पृथ्वीनारायण शाह",
+   "चन्द्र शमशेर",
+   "जंगबहादुर राणा"
+  ],
+  "explanation_ne": "१८५४ को मुलुकी ऐन जंगबहादुर राणाले जारी गरेका थिए जसले नेपालको जातीय व्यवस्थालाई कानुनी रूप दियो।"
+ },
+ {
+  "id": "CULT2-049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Caste-based discrimination and untouchability were legally abolished in Nepal in which year?",
+  "options": [
+   "1951",
+   "1963",
+   "1990",
+   "2007"
+  ],
+  "answer": 1,
+  "explanation": "The Muluki Ain of 1963 declared caste-based discrimination and untouchability illegal in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा जातीय भेदभाव र छुवाछुत कानुनी रूपमा कुन वर्ष अन्त्य गरियो?",
+  "options_ne": [
+   "१९५१",
+   "१९६३",
+   "१९९०",
+   "२००७"
+  ],
+  "explanation_ne": "१९६३ को मुलुकी ऐनले जातीय भेदभाव र छुवाछुतलाई अवैध घोषणा गर्‍यो।"
+ },
+ {
+  "id": "CULT2-050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Languages & Ethnic Groups",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Sherpa, Tamang and Gurung peoples mainly belong to which language family?",
+  "options": [
+   "Indo-Aryan",
+   "Tibeto-Burman",
+   "Dravidian",
+   "Austro-Asiatic"
+  ],
+  "answer": 1,
+  "explanation": "Sherpa, Tamang and Gurung are Tibeto-Burman peoples of the Himalayan and hill regions.",
+  "source": "General knowledge",
+  "question_ne": "शेर्पा, तामाङ र गुरुङ समुदाय मुख्य रूपमा कुन भाषा परिवारमा पर्छन्?",
+  "options_ne": [
+   "इन्डो-आर्यन",
+   "तिब्बती-बर्मेली",
+   "द्रविड",
+   "अष्ट्रो-एसियाटिक"
+  ],
+  "explanation_ne": "शेर्पा, तामाङ र गुरुङ हिमाली र पहाडी क्षेत्रका तिब्बती-बर्मेली समुदाय हुन्।"
+ },
+ {
+  "id": "CULT2-052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Lumbini, the birthplace of Lord Buddha, was listed as a UNESCO World Heritage Site in which year?",
+  "options": [
+   "1979",
+   "1984",
+   "1997",
+   "2003"
+  ],
+  "answer": 2,
+  "explanation": "Lumbini was inscribed on the UNESCO World Heritage List in 1997.",
+  "source": "General knowledge",
+  "question_ne": "भगवान् बुद्धको जन्मस्थल लुम्बिनी कुन वर्ष युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भयो?",
+  "options_ne": [
+   "१९७९",
+   "१९८४",
+   "१९९७",
+   "२००३"
+  ],
+  "explanation_ne": "लुम्बिनी सन् १९९७ मा युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भएको थियो।"
+ },
+ {
+  "id": "CULT2-054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which UNESCO World Heritage Site in Nepal is the birthplace of Gautam Buddha?",
+  "options": [
+   "Kathmandu Valley",
+   "Lumbini",
+   "Chitwan National Park",
+   "Sagarmatha National Park"
+  ],
+  "answer": 1,
+  "explanation": "Lumbini, in Rupandehi district, is the birthplace of Gautam Buddha.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको कुन युनेस्को विश्व सम्पदा स्थल गौतम बुद्धको जन्मस्थल हो?",
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "लुम्बिनी",
+   "चितवन राष्ट्रिय निकुञ्ज",
+   "सगरमाथा राष्ट्रिय निकुञ्ज"
+  ],
+  "explanation_ne": "रुपन्देही जिल्लाको लुम्बिनी गौतम बुद्धको जन्मस्थल हो।"
+ },
+ {
+  "id": "CULT2-055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of these is one of the seven monument zones of the Kathmandu Valley UNESCO site?",
+  "options": [
+   "Muktinath",
+   "Janaki Mandir",
+   "Changu Narayan",
+   "Gorkha Durbar"
+  ],
+  "answer": 2,
+  "explanation": "The seven monument zones are Kathmandu, Patan and Bhaktapur Durbar Squares, Swayambhu, Boudhanath, Pashupatinath and Changu Narayan.",
+  "source": "General knowledge",
+  "question_ne": "यीमध्ये कुन काठमाडौं उपत्यका युनेस्को स्थलका सात स्मारक क्षेत्रहरूमध्ये एक हो?",
+  "options_ne": [
+   "मुक्तिनाथ",
+   "जानकी मन्दिर",
+   "चाँगुनारायण",
+   "गोरखा दरबार"
+  ],
+  "explanation_ne": "सात स्मारक क्षेत्रहरू हुन्: काठमाडौं, पाटन र भक्तपुर दरबार क्षेत्र, स्वयम्भू, बौद्धनाथ, पशुपतिनाथ र चाँगुनारायण।"
+ },
+ {
+  "id": "CULT2-056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Ashoka Pillar in Lumbini was erected by Emperor Ashoka in about which year?",
+  "options": [
+   "249 BC",
+   "100 AD",
+   "500 BC",
+   "600 AD"
+  ],
+  "answer": 0,
+  "explanation": "Emperor Ashoka erected the pillar at Lumbini in about 249 BC to mark the birthplace of Buddha.",
+  "source": "General knowledge",
+  "question_ne": "लुम्बिनीको अशोक स्तम्भ सम्राट अशोकले करिब कुन वर्ष खडा गरेका थिए?",
+  "options_ne": [
+   "ई.पू. २४९",
+   "ई.सं. १००",
+   "ई.पू. ५००",
+   "ई.सं. ६००"
+  ],
+  "explanation_ne": "सम्राट अशोकले बुद्धको जन्मस्थल चिनाउन लुम्बिनीमा करिब ई.पू. २४९ मा स्तम्भ खडा गरेका थिए।"
+ },
+ {
+  "id": "CULT2-057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tilaurakot is believed to be the ancient capital of which kingdom?",
+  "options": [
+   "Shakya (Kapilvastu)",
+   "Malla",
+   "Kirat",
+   "Licchavi"
+  ],
+  "answer": 0,
+  "explanation": "Tilaurakot, in Kapilvastu district, is believed to be the ancient capital of the Shakya kingdom where Buddha spent his early life.",
+  "source": "General knowledge",
+  "question_ne": "तिलौराकोट कुन राज्यको प्राचीन राजधानी मानिन्छ?",
+  "options_ne": [
+   "शाक्य (कपिलवस्तु)",
+   "मल्ल",
+   "किरात",
+   "लिच्छवि"
+  ],
+  "explanation_ne": "कपिलवस्तु जिल्लाको तिलौराकोट शाक्य राज्यको प्राचीन राजधानी मानिन्छ जहाँ बुद्धले आफ्नो प्रारम्भिक जीवन बिताएका थिए।"
+ },
+ {
+  "id": "CULT2-058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Pashupatinath Temple stands on the banks of which river?",
+  "options": [
+   "Bagmati",
+   "Gandaki",
+   "Koshi",
+   "Karnali"
+  ],
+  "answer": 0,
+  "explanation": "Pashupatinath Temple stands on the banks of the Bagmati River in Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "पशुपतिनाथ मन्दिर कुन नदीको किनारमा अवस्थित छ?",
+  "options_ne": [
+   "बागमती",
+   "गण्डकी",
+   "कोशी",
+   "कर्णाली"
+  ],
+  "explanation_ne": "पशुपतिनाथ मन्दिर काठमाडौंमा बागमती नदीको किनारमा अवस्थित छ।"
+ },
+ {
+  "id": "CULT2-059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nyatapola Temple in Bhaktapur was built in 1702 AD by which king?",
+  "options": [
+   "Bhupatindra Malla",
+   "Pratap Malla",
+   "Siddhi Narsingh Malla",
+   "Jayasthiti Malla"
+  ],
+  "answer": 0,
+  "explanation": "Nyatapola, the tallest temple in Nepal, was built in 1702 by King Bhupatindra Malla of Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "भक्तपुरको न्यातपोल मन्दिर ई.सं. १७०२ मा कुन राजाले बनाएका थिए?",
+  "options_ne": [
+   "भूपतीन्द्र मल्ल",
+   "प्रताप मल्ल",
+   "सिद्धिनरसिंह मल्ल",
+   "जयस्थिति मल्ल"
+  ],
+  "explanation_ne": "नेपालको सबैभन्दा अग्लो मन्दिर न्यातपोल भक्तपुरका राजा भूपतीन्द्र मल्लले १७०२ मा बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nyatapola Temple in Bhaktapur is dedicated to which goddess?",
+  "options": [
+   "Siddhi Laxmi",
+   "Taleju",
+   "Durga",
+   "Saraswati"
+  ],
+  "answer": 0,
+  "explanation": "Nyatapola Temple is dedicated to Siddhi Laxmi, the tantric form of the goddess Laxmi.",
+  "source": "General knowledge",
+  "question_ne": "भक्तपुरको न्यातपोल मन्दिर कुन देवीमा समर्पित छ?",
+  "options_ne": [
+   "सिद्धि लक्ष्मी",
+   "तलेजु",
+   "दुर्गा",
+   "सरस्वती"
+  ],
+  "explanation_ne": "न्यातपोल मन्दिर देवी लक्ष्मीको तान्त्रिक रूप सिद्धि लक्ष्मीमा समर्पित छ।"
+ },
+ {
+  "id": "CULT2-061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The 55-Window Palace (Pachpanna Jhyale Darbar) is located in which Durbar Square?",
+  "options": [
+   "Kathmandu",
+   "Patan",
+   "Bhaktapur",
+   "Gorkha"
+  ],
+  "answer": 2,
+  "explanation": "The 55-Window Palace is in Bhaktapur Durbar Square, famous for its beautifully carved wooden windows.",
+  "source": "General knowledge",
+  "question_ne": "पचपन्न झ्याले दरबार कुन दरबार क्षेत्रमा अवस्थित छ?",
+  "options_ne": [
+   "काठमाडौं",
+   "पाटन",
+   "भक्तपुर",
+   "गोरखा"
+  ],
+  "explanation_ne": "पचपन्न झ्याले दरबार भक्तपुर दरबार क्षेत्रमा छ, जुन सुन्दर काठका झ्यालहरूका लागि प्रसिद्ध छ।"
+ },
+ {
+  "id": "CULT2-062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The 55-Window Palace in Bhaktapur was built by which king?",
+  "options": [
+   "Yakshya Malla",
+   "Pratap Malla",
+   "Ranjit Malla",
+   "Bhupatindra Malla"
+  ],
+  "answer": 3,
+  "explanation": "The 55-Window Palace was built by King Bhupatindra Malla of Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "भक्तपुरको पचपन्न झ्याले दरबार कुन राजाले बनाएका थिए?",
+  "options_ne": [
+   "यक्ष मल्ल",
+   "प्रताप मल्ल",
+   "रणजित मल्ल",
+   "भूपतीन्द्र मल्ल"
+  ],
+  "explanation_ne": "पचपन्न झ्याले दरबार भक्तपुरका राजा भूपतीन्द्र मल्लले बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Hanuman Dhoka palace complex in Kathmandu is named after the statue of which god at its entrance?",
+  "options": [
+   "Hanuman",
+   "Ganesh",
+   "Bhairav",
+   "Vishnu"
+  ],
+  "answer": 0,
+  "explanation": "Hanuman Dhoka is named after the statue of Hanuman that guards its main entrance.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौंको हनुमानढोका दरबार परिसरको नाम प्रवेशद्वारमा रहेको कुन देवताको मूर्तिबाट राखिएको हो?",
+  "options_ne": [
+   "हनुमान",
+   "गणेश",
+   "भैरव",
+   "विष्णु"
+  ],
+  "explanation_ne": "हनुमानढोकाको नाम मुख्य प्रवेशद्वारमा रहेको हनुमानको मूर्तिबाट राखिएको हो।"
+ },
+ {
+  "id": "CULT2-064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Krishna Mandir in Patan Durbar Square was built in 1637 AD by which king?",
+  "options": [
+   "Pratap Malla",
+   "Bhupatindra Malla",
+   "Siddhi Narsingh Malla",
+   "Srinivasa Malla"
+  ],
+  "answer": 2,
+  "explanation": "Krishna Mandir, the stone temple of Patan Durbar Square, was built in 1637 by King Siddhi Narsingh Malla.",
+  "source": "General knowledge",
+  "question_ne": "पाटन दरबार क्षेत्रको कृष्ण मन्दिर ई.सं. १६३७ मा कुन राजाले बनाएका थिए?",
+  "options_ne": [
+   "प्रताप मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "सिद्धिनरसिंह मल्ल",
+   "श्रीनिवास मल्ल"
+  ],
+  "explanation_ne": "पाटन दरबार क्षेत्रको ढुंगाको कृष्ण मन्दिर राजा सिद्धिनरसिंह मल्लले १६३७ मा बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Krishna Mandir in Patan is built in which architectural style?",
+  "options": [
+   "Pagoda style",
+   "Shikhara style",
+   "Stupa style",
+   "Mughal style"
+  ],
+  "answer": 1,
+  "explanation": "Unlike most Nepali temples in pagoda style, Krishna Mandir in Patan is built in the Shikhara (North Indian) style, entirely of stone.",
+  "source": "General knowledge",
+  "question_ne": "पाटनको कृष्ण मन्दिर कुन वास्तुकला शैलीमा बनेको छ?",
+  "options_ne": [
+   "प्यागोडा शैली",
+   "शिखर शैली",
+   "स्तूप शैली",
+   "मुगल शैली"
+  ],
+  "explanation_ne": "धेरैजसो नेपाली मन्दिर प्यागोडा शैलीमा बनेका छन्, तर पाटनको कृष्ण मन्दिर पूर्ण रूपमा ढुंगाले शिखर (उत्तर भारतीय) शैलीमा बनेको छ।"
+ },
+ {
+  "id": "CULT2-066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Ranipokhari in Kathmandu was built by King Pratap Malla in memory of whom?",
+  "options": [
+   "His father",
+   "His wife",
+   "His son",
+   "His guru"
+  ],
+  "answer": 2,
+  "explanation": "Ranipokhari was built in 1670 by King Pratap Malla in memory of his son Chakravartendra, who died young.",
+  "source": "General knowledge",
+  "question_ne": "काठमाडौंको रानीपोखरी राजा प्रताप मल्लले कसको सम्झनामा बनाएका थिए?",
+  "options_ne": [
+   "आफ्ना बुबा",
+   "आफ्नी पत्नी",
+   "आफ्ना छोरा",
+   "आफ्ना गुरु"
+  ],
+  "explanation_ne": "रानीपोखरी राजा प्रताप मल्लले १६७० मा आफ्ना छोरा चक्रवर्तेन्द्रको सम्झनामा बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Singha Durbar, the largest palace in Nepal, was built by whom?",
+  "options": [
+   "Jung Bahadur Rana",
+   "Chandra Shumsher",
+   "Bir Shumsher",
+   "Juddha Shumsher"
+  ],
+  "answer": 1,
+  "explanation": "Singha Durbar, the largest palace in Nepal, was built by Prime Minister Chandra Shumsher Rana.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा ठूलो दरबार सिंहदरबार कसले बनाएका थिए?",
+  "options_ne": [
+   "जंगबहादुर राणा",
+   "चन्द्र शमशेर",
+   "वीर शमशेर",
+   "जुद्ध शमशेर"
+  ],
+  "explanation_ne": "नेपालको सबैभन्दा ठूलो दरबार सिंहदरबार प्रधानमन्त्री चन्द्र शमशेर राणाले बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gorkha Durbar is famous as the birthplace of whom?",
+  "options": [
+   "Prithvi Narayan Shah",
+   "King Tribhuvan",
+   "King Mahendra",
+   "Jung Bahadur Rana"
+  ],
+  "answer": 0,
+  "explanation": "Gorkha Durbar is the birthplace of Prithvi Narayan Shah, who began the unification of Nepal from Gorkha.",
+  "source": "General knowledge",
+  "question_ne": "गोरखा दरबार कसको जन्मस्थलका रूपमा प्रसिद्ध छ?",
+  "options_ne": [
+   "पृथ्वीनारायण शाह",
+   "राजा त्रिभुवन",
+   "राजा महेन्द्र",
+   "जंगबहादुर राणा"
+  ],
+  "explanation_ne": "गोरखा दरबार पृथ्वीनारायण शाहको जन्मस्थल हो, जसले गोरखाबाट नेपाल एकीकरण सुरु गरेका थिए।"
+ },
+ {
+  "id": "CULT2-069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nuwakot Durbar, the famous seven-storey palace, was built by whom?",
+  "options": [
+   "Girvan Yuddha",
+   "Pratap Malla",
+   "Bhupatindra Malla",
+   "Prithvi Narayan Shah"
+  ],
+  "answer": 3,
+  "explanation": "The seven-storey Nuwakot Durbar was built by Prithvi Narayan Shah in the 18th century.",
+  "source": "General knowledge",
+  "question_ne": "प्रसिद्ध साततले नुवाकोट दरबार कसले बनाएका थिए?",
+  "options_ne": [
+   "गीर्वाणयुद्ध",
+   "प्रताप मल्ल",
+   "भूपतीन्द्र मल्ल",
+   "पृथ्वीनारायण शाह"
+  ],
+  "explanation_ne": "साततले नुवाकोट दरबार १८औं शताब्दीमा पृथ्वीनारायण शाहले बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "UNESCO & Heritage",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Janaki Mandir in Janakpur is dedicated to whom?",
+  "options": [
+   "Goddess Durga",
+   "Goddess Laxmi",
+   "Goddess Parvati",
+   "Goddess Sita"
+  ],
+  "answer": 3,
+  "explanation": "Janaki Mandir is the grand palace-like temple in Janakpur dedicated to Goddess Sita (Janaki).",
+  "source": "General knowledge",
+  "question_ne": "जनकपुरको जानकी मन्दिर कसलाई समर्पित छ?",
+  "options_ne": [
+   "देवी दुर्गा",
+   "देवी लक्ष्मी",
+   "देवी पार्वती",
+   "देवी सीता"
+  ],
+  "explanation_ne": "जानकी मन्दिर जनकपुरमा देवी सीता (जानकी) लाई समर्पित भव्य दरबारजस्तो मन्दिर हो।"
+ },
+ {
+  "id": "CULT2-071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The multi-tiered roof temple style characteristic of Nepal is called what?",
+  "options": [
+   "Pagoda style",
+   "Shikhara style",
+   "Stupa style",
+   "Dome style"
+  ],
+  "answer": 0,
+  "explanation": "The pagoda style, with its multi-tiered roofs, is the characteristic temple architecture of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको विशेषता रहेको बहु-तले छानो भएको मन्दिर शैलीलाई के भनिन्छ?",
+  "options_ne": [
+   "प्यागोडा शैली",
+   "शिखर शैली",
+   "स्तूप शैली",
+   "गुम्बज शैली"
+  ],
+  "explanation_ne": "बहु-तले छानो भएको प्यागोडा शैली नेपालको विशेषता रहेको मन्दिर वास्तुकला हो।"
+ },
+ {
+  "id": "CULT2-072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Araniko is famous for building the White Dagoba (White Pagoda) in which city?",
+  "options": [
+   "Beijing",
+   "Lhasa",
+   "Kathmandu",
+   "Delhi"
+  ],
+  "answer": 0,
+  "explanation": "Araniko, the famous Nepali artist, built the White Dagoba in Beijing, China, in the 13th century.",
+  "source": "General knowledge",
+  "question_ne": "अरनिको सेतो दगोबा (सेतो प्यागोडा) बनाएर कुन सहरमा प्रसिद्ध छन्?",
+  "options_ne": [
+   "बेइजिङ",
+   "ल्हासा",
+   "काठमाडौं",
+   "दिल्ली"
+  ],
+  "explanation_ne": "प्रसिद्ध नेपाली कलाकार अरनिकोले १३औं शताब्दीमा चीनको बेइजिङमा सेतो दगोबा बनाएका थिए।"
+ },
+ {
+  "id": "CULT2-073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Thangka is a traditional scroll painting associated with which religion?",
+  "options": [
+   "Hinduism",
+   "Buddhism",
+   "Jainism",
+   "Kirat"
+  ],
+  "answer": 1,
+  "explanation": "Thangka is a traditional Buddhist scroll painting depicting deities, mandalas and scenes from Buddhist life.",
+  "source": "General knowledge",
+  "question_ne": "थाङ्का कुन धर्मसँग सम्बन्धित परम्परागत चित्रकला हो?",
+  "options_ne": [
+   "हिन्दू धर्म",
+   "बौद्ध धर्म",
+   "जैन धर्म",
+   "किरात"
+  ],
+  "explanation_ne": "थाङ्का बौद्ध धर्मको परम्परागत चित्रकला हो जसमा देवता, मण्डल र बौद्ध जीवनका दृश्यहरू चित्रित हुन्छन्।"
+ },
+ {
+  "id": "CULT2-074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Paubha painting is the traditional religious painting of which community?",
+  "options": [
+   "Gurung",
+   "Tharu",
+   "Tamang",
+   "Newar"
+  ],
+  "answer": 3,
+  "explanation": "Paubha is the traditional religious painting of the Newar community of the Kathmandu Valley.",
+  "source": "General knowledge",
+  "question_ne": "पौभा चित्रकला कुन समुदायको परम्परागत धार्मिक चित्रकला हो?",
+  "options_ne": [
+   "गुरुङ",
+   "थारू",
+   "तामाङ",
+   "नेवार"
+  ],
+  "explanation_ne": "पौभा काठमाडौं उपत्यकाका नेवार समुदायको परम्परागत धार्मिक चित्रकला हो।"
+ },
+ {
+  "id": "CULT2-075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Mithila painting is the folk art of which community?",
+  "options": [
+   "Maithil",
+   "Newar",
+   "Sherpa",
+   "Magar"
+  ],
+  "answer": 0,
+  "explanation": "Mithila painting, also called Madhubani, is the folk art of the Maithil people of the Terai.",
+  "source": "General knowledge",
+  "question_ne": "मिथिला चित्रकला कुन समुदायको लोककला हो?",
+  "options_ne": [
+   "मैथिल",
+   "नेवार",
+   "शेर्पा",
+   "मगर"
+  ],
+  "explanation_ne": "मिथिला चित्रकला (मधुबनी पनि भनिने) तराईका मैथिल समुदायको लोककला हो।"
+ },
+ {
+  "id": "CULT2-076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The famous Peacock Window (Mayur Jhyal) is located in which city?",
+  "options": [
+   "Bhaktapur",
+   "Patan",
+   "Kathmandu",
+   "Kirtipur"
+  ],
+  "answer": 0,
+  "explanation": "The Peacock Window, a masterpiece of Newar wood carving, is in Bhaktapur Durbar Square.",
+  "source": "General knowledge",
+  "question_ne": "प्रसिद्ध मयूर झ्याल कुन सहरमा अवस्थित छ?",
+  "options_ne": [
+   "भक्तपुर",
+   "पाटन",
+   "काठमाडौं",
+   "कीर्तिपुर"
+  ],
+  "explanation_ne": "नेवार काठकलाको उत्कृष्ट नमुना मयूर झ्याल भक्तपुर दरबार क्षेत्रमा छ।"
+ },
+ {
+  "id": "CULT2-077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Dhaka topi, the traditional Nepali cap, is made from which fabric?",
+  "options": [
+   "Silk",
+   "Pashmina",
+   "Dhaka fabric",
+   "Khadi"
+  ],
+  "answer": 2,
+  "explanation": "Dhaka topi is made from handwoven Dhaka fabric, traditionally woven in Palpa and other hill districts.",
+  "source": "General knowledge",
+  "question_ne": "परम्परागत नेपाली टोपी ढाका टोपी कुन कपडाबाट बनाइन्छ?",
+  "options_ne": [
+   "रेशम",
+   "पश्मिना",
+   "ढाका कपडा",
+   "खादी"
+  ],
+  "explanation_ne": "ढाका टोपी हातले बुनेको ढाका कपडाबाट बनाइन्छ, जुन परम्परागत रूपमा पाल्पा र अन्य पहाडी जिल्लाहरूमा बुनेको हुन्छ।"
+ },
+ {
+  "id": "CULT2-078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pashmina wool comes from which animal?",
+  "options": [
+   "Yak",
+   "Sheep",
+   "Himalayan goat (Chyangra)",
+   "Camel"
+  ],
+  "answer": 2,
+  "explanation": "Pashmina is the fine wool of the Himalayan goat (Chyangra), found in the high Himalayas.",
+  "source": "General knowledge",
+  "question_ne": "पश्मिना ऊन कुन जनावरबाट प्राप्त हुन्छ?",
+  "options_ne": [
+   "याक",
+   "भेडा",
+   "हिमाली बाख्रा (च्याङ्ग्रा)",
+   "ऊँट"
+  ],
+  "explanation_ne": "पश्मिना उच्च हिमालमा पाइने हिमाली बाख्रा (च्याङ्ग्रा) को मसिनो ऊन हो।"
+ },
+ {
+  "id": "CULT2-079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which city is most famous for pottery in Nepal?",
+  "options": [
+   "Pokhara",
+   "Bhaktapur",
+   "Janakpur",
+   "Dharan"
+  ],
+  "answer": 1,
+  "explanation": "Bhaktapur is famous for its traditional pottery, made in the potters' squares of the city.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा माटाका भाँडाका लागि कुन सहर सबैभन्दा प्रसिद्ध छ?",
+  "options_ne": [
+   "पोखरा",
+   "भक्तपुर",
+   "जनकपुर",
+   "धरान"
+  ],
+  "explanation_ne": "भक्तपुर आफ्नो परम्परागत माटाका भाँडाका लागि प्रसिद्ध छ।"
+ },
+ {
+  "id": "CULT2-080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Patan (Lalitpur) is famous for which traditional craft?",
+  "options": [
+   "Wooden masks",
+   "Pottery",
+   "Paper making",
+   "Metal statues and images"
+  ],
+  "answer": 3,
+  "explanation": "Patan is renowned for its metal craft, especially the lost-wax casting of bronze statues of gods and goddesses.",
+  "source": "General knowledge",
+  "question_ne": "पाटन (ललितपुर) कुन परम्परागत शिल्पका लागि प्रसिद्ध छ?",
+  "options_ne": [
+   "काठका मुखौटा",
+   "माटाका भाँडा",
+   "कागज बनाउने",
+   "धातुका मूर्ति"
+  ],
+  "explanation_ne": "पाटन आफ्नो धातुकलाका लागि प्रसिद्ध छ, विशेष गरी देवीदेवताका काँसाका मूर्तिहरू बनाउने लस्ट-वाक्स विधिका लागि।"
+ },
+ {
+  "id": "CULT2-081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kailashnath Mahadev statue near Bhaktapur is one of the tallest statues of which god in the world?",
+  "options": [
+   "Vishnu",
+   "Shiva",
+   "Buddha",
+   "Krishna"
+  ],
+  "answer": 1,
+  "explanation": "Kailashnath Mahadev, near Bhaktapur, is one of the tallest Shiva statues in the world at about 143 feet.",
+  "source": "General knowledge",
+  "question_ne": "भक्तपुर नजिकको कैलाशनाथ महादेवको मूर्ति संसारकै सबैभन्दा अग्ला मूर्तिहरूमध्ये कुन देवताको हो?",
+  "options_ne": [
+   "विष्णु",
+   "शिव",
+   "बुद्ध",
+   "कृष्ण"
+  ],
+  "explanation_ne": "भक्तपुर नजिकको कैलाशनाथ महादेव करिब १४३ फिट अग्लो संसारकै अग्लो शिव मूर्तिहरूमध्ये एक हो।"
+ },
+ {
+  "id": "CULT2-082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Durbar High School, the oldest school in Nepal, was established in which year?",
+  "options": [
+   "1951",
+   "1901",
+   "1854",
+   "1881"
+  ],
+  "answer": 2,
+  "explanation": "Durbar High School was established in 1854 by Jung Bahadur Rana and is the oldest school in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा पुरानो विद्यालय दरबार हाई स्कुल कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९५१",
+   "१९०१",
+   "१८५४",
+   "१८८१"
+  ],
+  "explanation_ne": "दरबार हाई स्कुल १८५४ मा जंगबहादुर राणाले स्थापना गरेका थिए र यो नेपालको सबैभन्दा पुरानो विद्यालय हो।"
+ },
+ {
+  "id": "CULT2-083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Golden Temple (Hiranya Varna Mahavihar) is located in which city?",
+  "options": [
+   "Kirtipur",
+   "Bhaktapur",
+   "Kathmandu",
+   "Patan"
+  ],
+  "answer": 3,
+  "explanation": "The Golden Temple, a famous Buddhist monastery, is in Patan (Lalitpur).",
+  "source": "General knowledge",
+  "question_ne": "स्वर्ण मन्दिर (हिरण्य वर्ण महाविहार) कुन सहरमा अवस्थित छ?",
+  "options_ne": [
+   "कीर्तिपुर",
+   "भक्तपुर",
+   "काठमाडौं",
+   "पाटन"
+  ],
+  "explanation_ne": "स्वर्ण मन्दिर, प्रसिद्ध बौद्ध गुम्बा, पाटन (ललितपुर) मा छ।"
+ },
+ {
+  "id": "CULT2-084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Muktinath Temple, sacred to both Hindus and Buddhists, is located in which district?",
+  "options": [
+   "Solukhumbu",
+   "Manang",
+   "Mustang",
+   "Dolpa"
+  ],
+  "answer": 2,
+  "explanation": "Muktinath Temple is in the Mustang district, at the foot of the Thorong La pass, and is sacred to both Hindus and Buddhists.",
+  "source": "General knowledge",
+  "question_ne": "हिन्दू र बौद्ध दुवैका लागि पवित्र मुक्तिनाथ मन्दिर कुन जिल्लामा अवस्थित छ?",
+  "options_ne": [
+   "सोलुखुम्बु",
+   "मनाङ",
+   "मुस्ताङ",
+   "डोल्पा"
+  ],
+  "explanation_ne": "मुक्तिनाथ मन्दिर मुस्ताङ जिल्लामा थोरोङ ला भञ्ज्याङको फेदमा छ र हिन्दू तथा बौद्ध दुवैका लागि पवित्र छ।"
+ },
+ {
+  "id": "CULT2-085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Art & Architecture",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Gosaikunda, the sacred alpine lake, is located in which district?",
+  "options": [
+   "Nuwakot",
+   "Sindhupalchok",
+   "Rasuwa",
+   "Dhading"
+  ],
+  "answer": 2,
+  "explanation": "Gosaikunda, sacred to Hindus and the destination of the Janai Purnima pilgrimage, lies in Rasuwa district.",
+  "source": "General knowledge",
+  "question_ne": "पवित्र उच्च हिमाली ताल गोसाइँकुण्ड कुन जिल्लामा अवस्थित छ?",
+  "options_ne": [
+   "नुवाकोट",
+   "सिन्धुपाल्चोक",
+   "रसुवा",
+   "धादिङ"
+  ],
+  "explanation_ne": "हिन्दूहरूका लागि पवित्र र जनै पूर्णिमाको तीर्थस्थल गोसाइँकुण्ड रसुवा जिल्लामा पर्छ।"
+ },
+ {
+  "id": "CULT2-086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Lekhnath Paudyal is known by which title in Nepali literature?",
+  "options": [
+   "Yug Kavi",
+   "Maha Kavi",
+   "Kavi Shiromani",
+   "Natak Samrat"
+  ],
+  "answer": 2,
+  "explanation": "Lekhnath Paudyal is known as Kavi Shiromani (the crest-jewel of poets) in Nepali literature.",
+  "source": "General knowledge",
+  "question_ne": "लेखनाथ पौड्याल नेपाली साहित्यमा कुन उपाधिले चिनिन्छन्?",
+  "options_ne": [
+   "युगकवि",
+   "महाकवि",
+   "कवि शिरोमणि",
+   "नाटक सम्राट"
+  ],
+  "explanation_ne": "लेखनाथ पौड्याल नेपाली साहित्यमा कवि शिरोमणिका रूपमा चिनिन्छन्।"
+ },
+ {
+  "id": "CULT2-087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Balkrishna Sama is known by which title in Nepali literature?",
+  "options": [
+   "Natak Samrat",
+   "Maha Kavi",
+   "Yug Kavi",
+   "Kavi Shiromani"
+  ],
+  "answer": 0,
+  "explanation": "Balkrishna Sama, the great playwright, is known as Natak Samrat (emperor of drama).",
+  "source": "General knowledge",
+  "question_ne": "बालकृष्ण सम नेपाली साहित्यमा कुन उपाधिले चिनिन्छन्?",
+  "options_ne": [
+   "नाटक सम्राट",
+   "महाकवि",
+   "युगकवि",
+   "कवि शिरोमणि"
+  ],
+  "explanation_ne": "महान् नाटककार बालकृष्ण सम नाटक सम्राटका रूपमा चिनिन्छन्।"
+ },
+ {
+  "id": "CULT2-088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Siddhicharan Shrestha is known by which title in Nepali literature?",
+  "options": [
+   "Yug Kavi",
+   "Maha Kavi",
+   "Natak Samrat",
+   "Adikavi"
+  ],
+  "answer": 0,
+  "explanation": "Siddhicharan Shrestha is known as Yug Kavi (the poet of the era).",
+  "source": "General knowledge",
+  "question_ne": "सिद्धिचरण श्रेष्ठ नेपाली साहित्यमा कुन उपाधिले चिनिन्छन्?",
+  "options_ne": [
+   "युगकवि",
+   "महाकवि",
+   "नाटक सम्राट",
+   "आदिकवि"
+  ],
+  "explanation_ne": "सिद्धिचरण श्रेष्ठ युगकविका रूपमा चिनिन्छन्।"
+ },
+ {
+  "id": "CULT2-089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Devkota's famous poem about a mad man is called what?",
+  "options": [
+   "Pagal",
+   "Muna Madan",
+   "Shakuntal",
+   "Prithviraj"
+  ],
+  "answer": 0,
+  "explanation": "Laxmi Prasad Devkota wrote the famous poem 'Pagal' (The Lunatic), describing himself as mad for truth and beauty.",
+  "source": "General knowledge",
+  "question_ne": "देवकोटाको पागल मानिसबारे प्रसिद्ध कविता के हो?",
+  "options_ne": [
+   "पागल",
+   "मुनामदन",
+   "शकुन्तल",
+   "पृथ्वीराज"
+  ],
+  "explanation_ne": "लक्ष्मीप्रसाद देवकोटाले सत्य र सौन्दर्यका लागि आफूलाई पागल बताउने प्रसिद्ध कविता 'पागल' लेखेका थिए।"
+ },
+ {
+  "id": "CULT2-090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Parijat was the first woman to win which prestigious Nepali literary award?",
+  "options": [
+   "Jagadamba Shree",
+   "Sajha Puraskar",
+   "Madan Puraskar",
+   "Ratna Shree"
+  ],
+  "answer": 2,
+  "explanation": "Parijat was the first woman to receive the Madan Puraskar, for her novel 'Shirish ko Phool' in 1965.",
+  "source": "General knowledge",
+  "question_ne": "पारिजात कुन प्रतिष्ठित नेपाली साहित्यिक पुरस्कार पाउने पहिलो महिला थिइन्?",
+  "options_ne": [
+   "जगदम्बा श्री",
+   "साझा पुरस्कार",
+   "मदन पुरस्कार",
+   "रत्न श्री"
+  ],
+  "explanation_ne": "पारिजात सन् १९६५ मा आफ्नो उपन्यास 'शिरीषको फूल' का लागि मदन पुरस्कार पाउने पहिलो महिला थिइन्।"
+ },
+ {
+  "id": "CULT2-091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Parijat won the Madan Puraskar for 'Shirish ko Phool' in which year?",
+  "options": [
+   "1958",
+   "1972",
+   "1965",
+   "1980"
+  ],
+  "answer": 2,
+  "explanation": "Parijat won the Madan Puraskar in 1965 (2022 BS) for her novel 'Shirish ko Phool'.",
+  "source": "General knowledge",
+  "question_ne": "पारिजातले 'शिरीषको फूल' का लागि मदन पुरस्कार कुन वर्ष पाइन्?",
+  "options_ne": [
+   "१९५८",
+   "१९७२",
+   "१९६५",
+   "१९८०"
+  ],
+  "explanation_ne": "पारिजातले आफ्नो उपन्यास 'शिरीषको फूल' का लागि १९६५ (२०२२ साल) मा मदन पुरस्कार पाइन्।"
+ },
+ {
+  "id": "CULT2-092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The novel 'Seto Bagh' is about which historical figure?",
+  "options": [
+   "Jung Bahadur Rana",
+   "Prithvi Narayan Shah",
+   "Bhimsen Thapa",
+   "Amar Singh Thapa"
+  ],
+  "answer": 0,
+  "explanation": "'Seto Bagh', written by Diamond Shumsher Rana, is a historical novel about Jung Bahadur Rana.",
+  "source": "General knowledge",
+  "question_ne": "'सेतो बाघ' उपन्यास कुन ऐतिहासिक व्यक्तित्वबारे हो?",
+  "options_ne": [
+   "जंगबहादुर राणा",
+   "पृथ्वीनारायण शाह",
+   "भीमसेन थापा",
+   "अमरसिंह थापा"
+  ],
+  "explanation_ne": "डायमण्ड शमशेर राणाद्वारा लिखित 'सेतो बाघ' जंगबहादुर राणाबारे ऐतिहासिक उपन्यास हो।"
+ },
+ {
+  "id": "CULT2-093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The novel 'Basain', which won the Madan Puraskar, was written by which author?",
+  "options": [
+   "Lil Bahadur Chhetri",
+   "Ramesh Bikal",
+   "Daulat Bikram Bista",
+   "Govinda Bahadur Malla"
+  ],
+  "answer": 0,
+  "explanation": "'Basain', the classic novel about migration from the hills, was written by Lil Bahadur Chhetri.",
+  "source": "General knowledge",
+  "question_ne": "मदन पुरस्कार विजेता उपन्यास 'बसाइँ' कुन लेखकले लेखेका हुन्?",
+  "options_ne": [
+   "लीलबहादुर क्षेत्री",
+   "रमेश विकल",
+   "दौलतविक्रम विष्ट",
+   "गोविन्दबहादुर मल्ल"
+  ],
+  "explanation_ne": "पहाडबाट बसाइँ सर्ने कथामा आधारित प्रसिद्ध उपन्यास 'बसाइँ' लीलबहादुर क्षेत्रीले लेखेका हुन्।"
+ },
+ {
+  "id": "CULT2-094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "provincial-psc"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gorkhapatra, Nepal's first newspaper, was started in which year?",
+  "options": [
+   "1921",
+   "1951",
+   "1881",
+   "1901"
+  ],
+  "answer": 3,
+  "explanation": "Gorkhapatra, Nepal's first newspaper, began publication in 1901 (1958 BS).",
+  "source": "General knowledge",
+  "question_ne": "नेपालको पहिलो पत्रिका गोरखापत्र कुन वर्ष सुरु भएको थियो?",
+  "options_ne": [
+   "१९२१",
+   "१९५१",
+   "१८८१",
+   "१९०१"
+  ],
+  "explanation_ne": "नेपालको पहिलो पत्रिका गोरखापत्र १९०१ (वि.सं. १९५८) मा प्रकाशन सुरु भएको थियो।"
+ },
+ {
+  "id": "CULT2-095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Gorkhapatra was started by which Rana prime minister?",
+  "options": [
+   "Chandra Shumsher",
+   "Jung Bahadur Rana",
+   "Dev Shumsher",
+   "Bir Shumsher"
+  ],
+  "answer": 2,
+  "explanation": "Gorkhapatra was started in 1901 by Prime Minister Dev Shumsher Rana.",
+  "source": "General knowledge",
+  "question_ne": "गोरखापत्र कुन राणा प्रधानमन्त्रीले सुरु गरेका थिए?",
+  "options_ne": [
+   "चन्द्र शमशेर",
+   "जंगबहादुर राणा",
+   "देव शमशेर",
+   "वीर शमशेर"
+  ],
+  "explanation_ne": "गोरखापत्र १९०१ मा प्रधानमन्त्री देव शमशेर राणाले सुरु गरेका थिए।"
+ },
+ {
+  "id": "CULT2-096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The first Nepali film 'Aama' was released in which year?",
+  "options": [
+   "1985",
+   "1951",
+   "1975",
+   "1964"
+  ],
+  "answer": 3,
+  "explanation": "'Aama', directed by Hira Singh Khatri, was the first Nepali film, released in 1964.",
+  "source": "General knowledge",
+  "question_ne": "पहिलो नेपाली चलचित्र 'आमा' कुन वर्ष रिलिज भएको थियो?",
+  "options_ne": [
+   "१९८५",
+   "१९५१",
+   "१९७५",
+   "१९६४"
+  ],
+  "explanation_ne": "हीरा सिंह खत्रीद्वारा निर्देशित 'आमा' पहिलो नेपाली चलचित्र हो, जुन १९६४ मा रिलिज भएको थियो।"
+ },
+ {
+  "id": "CULT2-097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Radio Nepal, the national radio broadcaster, began broadcasting in which year?",
+  "options": [
+   "1951",
+   "1964",
+   "1945",
+   "1985"
+  ],
+  "answer": 0,
+  "explanation": "Radio Nepal began broadcasting on 2 April 1951.",
+  "source": "General knowledge",
+  "question_ne": "राष्ट्रिय रेडियो प्रसारक रेडियो नेपालले कुन वर्षदेखि प्रसारण सुरु गर्‍यो?",
+  "options_ne": [
+   "१९५१",
+   "१९६४",
+   "१९४५",
+   "१९८५"
+  ],
+  "explanation_ne": "रेडियो नेपालले २ अप्रिल १९५१ देखि प्रसारण सुरु गरेको थियो।"
+ },
+ {
+  "id": "CULT2-098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal Television was established in which year?",
+  "options": [
+   "1985",
+   "1975",
+   "1990",
+   "1995"
+  ],
+  "answer": 0,
+  "explanation": "Nepal Television, the national television broadcaster, was established in 1985.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल टेलिभिजन कुन वर्ष स्थापना भएको थियो?",
+  "options_ne": [
+   "१९८५",
+   "१९७५",
+   "१९९०",
+   "१९९५"
+  ],
+  "explanation_ne": "राष्ट्रिय टेलिभिजन प्रसारक नेपाल टेलिभिजन १९८५ मा स्थापना भएको थियो।"
+ },
+ {
+  "id": "CULT2-099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Madan Puraskar was established in memory of whom?",
+  "options": [
+   "Madan Krishna Shrestha",
+   "Madan Bhandari",
+   "Madan Mani Dixit",
+   "Madan Shumsher Rana"
+  ],
+  "answer": 3,
+  "explanation": "The Madan Puraskar was established by Jagadamba Kumari Devi in memory of her husband, Madan Shumsher Rana.",
+  "source": "General knowledge",
+  "question_ne": "मदन पुरस्कार कसको सम्झनामा स्थापना गरिएको थियो?",
+  "options_ne": [
+   "मदनकृष्ण श्रेष्ठ",
+   "मदन भण्डारी",
+   "मदनमणि दीक्षित",
+   "मदन शमशेर राणा"
+  ],
+  "explanation_ne": "मदन पुरस्कार जगदम्बा कुमारी देवीले आफ्ना पति मदन शमशेर राणाको सम्झनामा स्थापना गरेकी थिइन्।"
+ },
+ {
+  "id": "CULT2-100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Literature & Art",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Bhupi Sherchan won the Madan Puraskar for which of his works?",
+  "options": [
+   "Seto Bagh",
+   "Muna Madan",
+   "Shirish ko Phool",
+   "Ghumne Mechmathi Andho Manche"
+  ],
+  "answer": 3,
+  "explanation": "Bhupi Sherchan won the Madan Puraskar in 1969 for his poetry collection 'Ghumne Mechmathi Andho Manche'.",
+  "source": "General knowledge",
+  "question_ne": "भूपि शेरचनले कुन कृतिका लागि मदन पुरस्कार पाएका थिए?",
+  "options_ne": [
+   "सेतो बाघ",
+   "मुनामदन",
+   "शिरीषको फूल",
+   "घुम्ने मेचमाथि अन्धो मान्छे"
+  ],
+  "explanation_ne": "भूपि शेरचनले आफ्नो कविता संग्रह 'घुम्ने मेचमाथि अन्धो मान्छे' का लागि १९६९ मा मदन पुरस्कार पाएका थिए।"
+ },
+ {
+  "id": "CULT2-101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "According to the 2011 census, what percentage of Nepal's population follows Hinduism?",
+  "options": [
+   "91.3%",
+   "71.3%",
+   "81.3%",
+   "61.3%"
+  ],
+  "answer": 2,
+  "explanation": "According to the 2011 census, about 81.3% of Nepal's population is Hindu.",
+  "source": "General knowledge",
+  "question_ne": "२०११ को जनगणनाअनुसार नेपालको कति प्रतिशत जनसंख्याले हिन्दू धर्म मान्छ?",
+  "options_ne": [
+   "९१.३%",
+   "७१.३%",
+   "८१.३%",
+   "६१.३%"
+  ],
+  "explanation_ne": "२०११ को जनगणनाअनुसार नेपालको करिब ८१.३% जनसंख्या हिन्दू धर्म मान्छ।"
+ },
+ {
+  "id": "CULT2-102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the third largest religion in Nepal by population?",
+  "options": [
+   "Buddhism",
+   "Islam",
+   "Kirat",
+   "Christianity"
+  ],
+  "answer": 1,
+  "explanation": "After Hinduism (81.3%) and Buddhism (9%), Islam (about 4.4%) is the third largest religion in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "जनसंख्याका आधारमा नेपालको तेस्रो ठूलो धर्म कुन हो?",
+  "options_ne": [
+   "बौद्ध धर्म",
+   "इस्लाम धर्म",
+   "किरात धर्म",
+   "ईसाई धर्म"
+  ],
+  "explanation_ne": "हिन्दू धर्म (८१.३%) र बौद्ध धर्म (९%) पछि इस्लाम धर्म (करिब ४.४%) नेपालको तेस्रो ठूलो धर्म हो।"
+ },
+ {
+  "id": "CULT2-103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Constitution of Nepal (2015) declares Nepal what kind of state in matters of religion?",
+  "options": [
+   "Hindu state",
+   "Secular state",
+   "Buddhist state",
+   "Theocratic state"
+  ],
+  "answer": 1,
+  "explanation": "The Constitution of Nepal 2015 declares Nepal a secular state, with freedom of religion for all.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको संविधान (२०१५) ले धर्मका मामिलामा नेपाललाई कस्तो राज्य घोषणा गरेको छ?",
+  "options_ne": [
+   "हिन्दू राज्य",
+   "धर्मनिरपेक्ष राज्य",
+   "बौद्ध राज्य",
+   "धर्मशासित राज्य"
+  ],
+  "explanation_ne": "नेपालको संविधान २०१५ ले नेपाललाई धर्मनिरपेक्ष राज्य घोषणा गरेको छ, सबैलाई धार्मिक स्वतन्त्रता छ।"
+ },
+ {
+  "id": "CULT2-104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Lord Buddha attained enlightenment at which place?",
+  "options": [
+   "Lumbini",
+   "Bodh Gaya",
+   "Sarnath",
+   "Kushinagar"
+  ],
+  "answer": 1,
+  "explanation": "Siddhartha Gautam attained enlightenment under the Bodhi tree at Bodh Gaya in India and became the Buddha.",
+  "source": "General knowledge",
+  "question_ne": "भगवान् बुद्धले कुन ठाउँमा ज्ञान प्राप्त गर्नुभयो?",
+  "options_ne": [
+   "लुम्बिनी",
+   "बोधगया",
+   "सारनाथ",
+   "कुशीनगर"
+  ],
+  "explanation_ne": "सिद्धार्थ गौतमले भारतको बोधगयामा बोधि वृक्षमुनि ज्ञान प्राप्त गरी बुद्ध बन्नुभयो।"
+ },
+ {
+  "id": "CULT2-105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The holy scripture of the Kirat religion is called what?",
+  "options": [
+   "Quran",
+   "Veda",
+   "Tripitaka",
+   "Mundhum"
+  ],
+  "answer": 3,
+  "explanation": "Mundhum is the holy scripture of the Kirat religion, passed down through oral tradition.",
+  "source": "General knowledge",
+  "question_ne": "किरात धर्मको पवित्र धर्मग्रन्थलाई के भनिन्छ?",
+  "options_ne": [
+   "कुरान",
+   "वेद",
+   "त्रिपिटक",
+   "मुन्धुम"
+  ],
+  "explanation_ne": "मुन्धुम किरात धर्मको पवित्र धर्मग्रन्थ हो, जुन मौखिक परम्पराबाट हस्तान्तरण हुँदै आएको छ।"
+ },
+ {
+  "id": "CULT2-106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Kumari, the living goddess of Nepal, is chosen from girls of which caste?",
+  "options": [
+   "Brahmin",
+   "Shakya",
+   "Chhetri",
+   "Tamang"
+  ],
+  "answer": 1,
+  "explanation": "The Kumari is chosen from pre-pubescent girls of the Shakya caste of the Newar community.",
+  "source": "General knowledge",
+  "question_ne": "नेपालकी जीवित देवी कुमारी कुन जातका बालिकाबाट छानिन्छिन्?",
+  "options_ne": [
+   "ब्राह्मण",
+   "शाक्य",
+   "क्षेत्री",
+   "तामाङ"
+  ],
+  "explanation_ne": "कुमारी नेवार समुदायको शाक्य जातका किशोरावस्था नपुगेका बालिकाबाट छानिन्छिन्।"
+ },
+ {
+  "id": "CULT2-107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Kumari lives in the Kumari Ghar located in which Durbar Square?",
+  "options": [
+   "Bhaktapur",
+   "Patan",
+   "Kathmandu",
+   "Gorkha"
+  ],
+  "answer": 2,
+  "explanation": "The Kumari Ghar, the home of the living goddess Kumari, is in Kathmandu Durbar Square.",
+  "source": "General knowledge",
+  "question_ne": "कुमारी कुमारी घरमा बस्छिन्, जुन कुन दरबार क्षेत्रमा अवस्थित छ?",
+  "options_ne": [
+   "भक्तपुर",
+   "पाटन",
+   "काठमाडौं",
+   "गोरखा"
+  ],
+  "explanation_ne": "जीवित देवी कुमारीको घर कुमारी घर काठमाडौं दरबार क्षेत्रमा छ।"
+ },
+ {
+  "id": "CULT2-108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The temple of Taleju, the royal goddess of the Malla kings, opens only once a year on which day?",
+  "options": [
+   "Maha Navami",
+   "Vijaya Dashami",
+   "Ghatasthapana",
+   "Janai Purnima"
+  ],
+  "answer": 0,
+  "explanation": "The Taleju Temple in Kathmandu Durbar Square opens to the public only once a year, on Maha Navami during Dashain.",
+  "source": "General knowledge",
+  "question_ne": "मल्ल राजाहरूकी राजदेवी तलेजुको मन्दिर वर्षमा एक पटक मात्र कुन दिन खुल्छ?",
+  "options_ne": [
+   "महानवमी",
+   "विजया दशमी",
+   "घटस्थापना",
+   "जनै पूर्णिमा"
+  ],
+  "explanation_ne": "काठमाडौं दरबार क्षेत्रको तलेजु मन्दिर वर्षमा एक पटक मात्र दशैंको महानवमीमा सर्वसाधारणका लागि खुल्छ।"
+ },
+ {
+  "id": "CULT2-109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rato Machhindranath is worshipped as the god of what?",
+  "options": [
+   "Rain",
+   "War",
+   "Wealth",
+   "Knowledge"
+  ],
+  "answer": 0,
+  "explanation": "Rato Machhindranath, the red god of Patan, is worshipped as the god of rain and good harvests.",
+  "source": "General knowledge",
+  "question_ne": "रातो मच्छिन्द्रनाथलाई कुन कुराका देवताका रूपमा पूजा गरिन्छ?",
+  "options_ne": [
+   "वर्षा",
+   "युद्ध",
+   "धन",
+   "ज्ञान"
+  ],
+  "explanation_ne": "पाटनका रातो मच्छिन्द्रनाथलाई वर्षा र राम्रो फसलका देवताका रूपमा पूजा गरिन्छ।"
+ },
+ {
+  "id": "CULT2-110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Seto Machhindranath, also called Janabaha Dyo, is worshipped in which city?",
+  "options": [
+   "Pokhara",
+   "Patan",
+   "Bhaktapur",
+   "Kathmandu"
+  ],
+  "answer": 3,
+  "explanation": "Seto Machhindranath (Janabaha Dyo), the white god, is worshipped in Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "जनबहा द्यो पनि भनिने सेतो मच्छिन्द्रनाथ कुन सहरमा पूजा गरिन्छ?",
+  "options_ne": [
+   "पोखरा",
+   "पाटन",
+   "भक्तपुर",
+   "काठमाडौं"
+  ],
+  "explanation_ne": "सेतो मच्छिन्द्रनाथ (जनबहा द्यो) काठमाडौंमा पूजा गरिने सेता देवता हुन्।"
+ },
+ {
+  "id": "CULT2-111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which festival celebrates the victory of goddess Durga over the demon Mahishasura?",
+  "options": [
+   "Tihar",
+   "Dashain",
+   "Holi",
+   "Teej"
+  ],
+  "answer": 1,
+  "explanation": "Dashain celebrates the victory of goddess Durga over the demon Mahishasura, the triumph of good over evil.",
+  "source": "General knowledge",
+  "question_ne": "देवी दुर्गाले महिषासुरमाथि विजय प्राप्त गरेको कुन चाडले मनाउँछ?",
+  "options_ne": [
+   "तिहार",
+   "दशैं",
+   "होली",
+   "तीज"
+  ],
+  "explanation_ne": "दशैंले देवी दुर्गाले महिषासुरमाथि प्राप्त गरेको विजय, अर्थात् असत्यमाथि सत्यको विजय मनाउँछ।"
+ },
+ {
+  "id": "CULT2-112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Rigveda, the oldest Hindu scripture, belongs to which group of texts?",
+  "options": [
+   "Tripitaka",
+   "Puranas",
+   "Upanishads",
+   "Vedas"
+  ],
+  "answer": 3,
+  "explanation": "The Rigveda is the oldest of the four Vedas, the most ancient Hindu scriptures.",
+  "source": "General knowledge",
+  "question_ne": "सबैभन्दा पुरानो हिन्दू धर्मग्रन्थ ऋग्वेद कुन ग्रन्थ समूहमा पर्छ?",
+  "options_ne": [
+   "त्रिपिटक",
+   "पुराण",
+   "उपनिषद्",
+   "वेद"
+  ],
+  "explanation_ne": "ऋग्वेद चार वेदहरूमध्ये सबैभन्दा पुरानो हो, जुन सबैभन्दा प्राचीन हिन्दू धर्मग्रन्थहरू हुन्।"
+ },
+ {
+  "id": "CULT2-113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Bhagavad Gita is a dialogue between Krishna and Arjuna in which epic?",
+  "options": [
+   "Bhagavata",
+   "Ramayana",
+   "Mahabharata",
+   "Shiva Purana"
+  ],
+  "answer": 2,
+  "explanation": "The Bhagavad Gita is part of the Mahabharata, a dialogue between Lord Krishna and Arjuna on the battlefield of Kurukshetra.",
+  "source": "General knowledge",
+  "question_ne": "श्रीकृष्ण र अर्जुनबीचको संवाद भगवद् गीता कुन महाकाव्यमा पर्छ?",
+  "options_ne": [
+   "भागवत",
+   "रामायण",
+   "महाभारत",
+   "शिव पुराण"
+  ],
+  "explanation_ne": "भगवद् गीता महाभारतको अंश हो, कुरुक्षेत्रको युद्धभूमिमा श्रीकृष्ण र अर्जुनबीचको संवाद।"
+ },
+ {
+  "id": "CULT2-114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Ramayana was written by which sage?",
+  "options": [
+   "Vashistha",
+   "Vyasa",
+   "Valmiki",
+   "Vishwamitra"
+  ],
+  "answer": 2,
+  "explanation": "The Ramayana was written by the sage Valmiki, while the Mahabharata was written by Vyasa.",
+  "source": "General knowledge",
+  "question_ne": "रामायण कुन ऋषिले लेखेका थिए?",
+  "options_ne": [
+   "वशिष्ठ",
+   "व्यास",
+   "वाल्मीकि",
+   "विश्वामित्र"
+  ],
+  "explanation_ne": "रामायण ऋषि वाल्मीकिले लेखेका थिए भने महाभारत व्यासले लेखेका थिए।"
+ },
+ {
+  "id": "CULT2-115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Eid-ul-Fitr is the festival of which religious community?",
+  "options": [
+   "Muslim",
+   "Buddhist",
+   "Christian",
+   "Kirat"
+  ],
+  "answer": 0,
+  "explanation": "Eid-ul-Fitr is the festival of the Muslim community, marking the end of the holy month of Ramadan.",
+  "source": "General knowledge",
+  "question_ne": "ईद-उल-फित्र कुन धार्मिक समुदायको चाड हो?",
+  "options_ne": [
+   "मुस्लिम",
+   "बौद्ध",
+   "ईसाई",
+   "किरात"
+  ],
+  "explanation_ne": "ईद-उल-फित्र मुस्लिम समुदायको चाड हो जसले पवित्र रमजान महिनाको अन्त्य मनाउँछ।"
+ },
+ {
+  "id": "CULT2-116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Christmas, the birth of Jesus Christ, is celebrated on which date?",
+  "options": [
+   "31 December",
+   "1 January",
+   "25 November",
+   "25 December"
+  ],
+  "answer": 3,
+  "explanation": "Christmas is celebrated on 25 December every year and is a public holiday in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "येशू ख्रीष्टको जन्मदिन क्रिसमस कुन मितिमा मनाइन्छ?",
+  "options_ne": [
+   "३१ डिसेम्बर",
+   "१ जनवरी",
+   "२५ नोभेम्बर",
+   "२५ डिसेम्बर"
+  ],
+  "explanation_ne": "क्रिसमस हरेक वर्ष २५ डिसेम्बरमा मनाइन्छ र नेपालमा यो सार्वजनिक बिदा हो।"
+ },
+ {
+  "id": "CULT2-117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Bon religion is the ancient pre-Buddhist religion of which region?",
+  "options": [
+   "Kathmandu Valley",
+   "Terai",
+   "Himalayas",
+   "Chitwan"
+  ],
+  "answer": 2,
+  "explanation": "Bon is the ancient indigenous religion of the Himalayan region, practised before the arrival of Buddhism.",
+  "source": "General knowledge",
+  "question_ne": "बोन धर्म बौद्ध धर्मभन्दा पहिलेको कुन क्षेत्रको प्राचीन धर्म हो?",
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "तराई",
+   "हिमाल",
+   "चितवन"
+  ],
+  "explanation_ne": "बोन हिमाली क्षेत्रको प्राचीन आदिवासी धर्म हो, जुन बौद्ध धर्म आउनुभन्दा पहिले अभ्यास गरिन्थ्यो।"
+ },
+ {
+  "id": "CULT2-118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Indra Jatra, the festival of the rain god Indra, lasts for how many days?",
+  "options": [
+   "8 days",
+   "5 days",
+   "15 days",
+   "3 days"
+  ],
+  "answer": 0,
+  "explanation": "Indra Jatra is celebrated in Kathmandu for eight days in the month of Bhadra.",
+  "source": "General knowledge",
+  "question_ne": "वर्षाका देवता इन्द्रको चाड इन्द्रजात्रा कति दिनसम्म मनाइन्छ?",
+  "options_ne": [
+   "८ दिन",
+   "५ दिन",
+   "१५ दिन",
+   "३ दिन"
+  ],
+  "explanation_ne": "इन्द्रजात्रा काठमाडौंमा भाद्र महिनामा आठ दिनसम्म मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Indra Jatra is called Yenya by which community?",
+  "options": [
+   "Gurung",
+   "Tharu",
+   "Newar",
+   "Magar"
+  ],
+  "answer": 2,
+  "explanation": "Indra Jatra is called Yenya in Nepal Bhasa by the Newar community of Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "इन्द्रजात्रालाई कुन समुदायले येँया भन्छ?",
+  "options_ne": [
+   "गुरुङ",
+   "थारू",
+   "नेवार",
+   "मगर"
+  ],
+  "explanation_ne": "इन्द्रजात्रालाई काठमाडौंका नेवार समुदायले नेपाल भाषामा येँया भन्छन्।"
+ },
+ {
+  "id": "CULT2-120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Religions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "During Indra Jatra, the chariot of which living goddess is pulled through Kathmandu?",
+  "options": [
+   "Durga",
+   "Taleju",
+   "Kumari",
+   "Laxmi"
+  ],
+  "answer": 2,
+  "explanation": "During Indra Jatra, the chariots of the living goddess Kumari, along with Ganesh and Bhairav, are pulled through Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "इन्द्रजात्रामा कुन जीवित देवीको रथ काठमाडौंमा तानिन्छ?",
+  "options_ne": [
+   "दुर्गा",
+   "तलेजु",
+   "कुमारी",
+   "लक्ष्मी"
+  ],
+  "explanation_ne": "इन्द्रजात्रामा जीवित देवी कुमारीसहित गणेश र भैरवका रथहरू काठमाडौंमा तानिन्छन्।"
+ },
+ {
+  "id": "CULT2-121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Dal Bhat, the staple meal of Nepal, consists mainly of what?",
+  "options": [
+   "Bread and cheese",
+   "Noodles and meat",
+   "Rice and lentil soup",
+   "Maize and milk"
+  ],
+  "answer": 2,
+  "explanation": "Dal Bhat is steamed rice (bhat) served with lentil soup (dal), usually with vegetables, pickles and sometimes meat.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको मुख्य खाना दाल भात मुख्य रूपमा केबाट बनेको हुन्छ?",
+  "options_ne": [
+   "रोटी र चिज",
+   "चाउमिन र मासु",
+   "भात र दाल",
+   "मकै र दूध"
+  ],
+  "explanation_ne": "दाल भात भनेको भातसँग दाल, तरकारी, अचार र कहिलेकाहीँ मासु खाइने खाना हो।"
+ },
+ {
+  "id": "CULT2-122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Momo, the popular dumpling of Nepal, came from which region?",
+  "options": [
+   "Thailand",
+   "Tibet",
+   "Myanmar",
+   "Sri Lanka"
+  ],
+  "answer": 1,
+  "explanation": "Momo came to Nepal from Tibet and is now the most popular fast food in the country.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको लोकप्रिय परिकार मःम कुन क्षेत्रबाट आएको हो?",
+  "options_ne": [
+   "थाइल्याण्ड",
+   "तिब्बत",
+   "म्यानमार",
+   "श्रीलंका"
+  ],
+  "explanation_ne": "मःम तिब्बतबाट नेपाल आएको हो र अहिले देशको सबैभन्दा लोकप्रिय फास्ट फुड हो।"
+ },
+ {
+  "id": "CULT2-123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gundruk is made by fermenting which food?",
+  "options": [
+   "Milk",
+   "Leafy green vegetables",
+   "Rice",
+   "Meat"
+  ],
+  "answer": 1,
+  "explanation": "Gundruk is made by fermenting leafy green vegetables such as mustard leaves, and is a traditional food of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "गुन्द्रुक कुन खानेकुरा कुहाएर (फर्मेन्ट गरेर) बनाइन्छ?",
+  "options_ne": [
+   "दूध",
+   "हरियो सागपात",
+   "चामल",
+   "मासु"
+  ],
+  "explanation_ne": "गुन्द्रुक तोरीको सागजस्ता हरियो सागपात कुहाएर बनाइन्छ र यो नेपालको परम्परागत खाना हो।"
+ },
+ {
+  "id": "CULT2-124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dhindo is a traditional porridge made from the flour of which grains?",
+  "options": [
+   "Soya and gram",
+   "Rice and wheat",
+   "Barley and oats",
+   "Maize and millet"
+  ],
+  "answer": 3,
+  "explanation": "Dhindo is a thick porridge made from maize or millet flour, traditionally eaten in the hills with gundruk and pickles.",
+  "source": "General knowledge",
+  "question_ne": "ढिँडो कुन अन्नको पिठोबाट बनाइने परम्परागत खाना हो?",
+  "options_ne": [
+   "सोया र चना",
+   "चामल र गहुँ",
+   "जौ र ओट",
+   "मकै र कोदो"
+  ],
+  "explanation_ne": "ढिँडो मकै वा कोदोको पिठोबाट बनाइने बाक्लो खाना हो, जुन पहाडमा गुन्द्रुक र अचारसँग खाइन्छ।"
+ },
+ {
+  "id": "CULT2-125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Sel roti is a ring-shaped sweet bread made from which flour?",
+  "options": [
+   "Millet flour",
+   "Wheat flour",
+   "Maize flour",
+   "Rice flour"
+  ],
+  "answer": 3,
+  "explanation": "Sel roti is a ring-shaped sweet bread made from rice flour, eaten during festivals like Dashain and Tihar.",
+  "source": "General knowledge",
+  "question_ne": "सेल रोटी कुन पिठोबाट बनाइने गोलो मिठो रोटी हो?",
+  "options_ne": [
+   "कोदोको पिठो",
+   "गहुँको पिठो",
+   "मकैको पिठो",
+   "चामलको पिठो"
+  ],
+  "explanation_ne": "सेल रोटी चामलको पिठोबाट बनाइने गोलो मिठो रोटी हो, जुन दशैं र तिहारजस्ता चाडहरूमा खाइन्छ।"
+ },
+ {
+  "id": "CULT2-126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Yomari is a steamed sweet made from rice flour and filled with what?",
+  "options": [
+   "Meat and onion",
+   "Jaggery (chaku) and sesame",
+   "Cheese and potato",
+   "Lentils and spices"
+  ],
+  "answer": 1,
+  "explanation": "Yomari is a steamed rice-flour dumpling filled with jaggery (chaku) and sesame seeds, eaten on Yomari Punhi.",
+  "source": "General knowledge",
+  "question_ne": "योमरी चामलको पिठोबाट बनाइने बाफमा पकाइएको मिठाई हो, यसभित्र के भरिन्छ?",
+  "options_ne": [
+   "मासु र प्याज",
+   "चाकु र तिल",
+   "चिज र आलु",
+   "दाल र मसलाहरू"
+  ],
+  "explanation_ne": "योमरी चामलको पिठोबाट बनाइने बाफमा पकाइएको मिठाई हो जसभित्र चाकु र तिल भरिन्छ, यो योमरी पुन्हीमा खाइन्छ।"
+ },
+ {
+  "id": "CULT2-127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Chatamari, often called the 'Newari pizza', is made from which flour?",
+  "options": [
+   "Buckwheat flour",
+   "Wheat flour",
+   "Rice flour",
+   "Gram flour"
+  ],
+  "answer": 2,
+  "explanation": "Chatamari is a thin rice-flour crepe topped with meat, egg or vegetables, a traditional Newar dish.",
+  "source": "General knowledge",
+  "question_ne": "'नेवारी पिज्जा' भनिने चटामरी कुन पिठोबाट बनाइन्छ?",
+  "options_ne": [
+   "फापरको पिठो",
+   "गहुँको पिठो",
+   "चामलको पिठो",
+   "बेसन"
+  ],
+  "explanation_ne": "चटामरी चामलको पिठोबाट बनाइने पातलो रोटी हो जसमा मासु, अण्डा वा तरकारी राखिन्छ, यो नेवारहरूको परम्परागत परिकार हो।"
+ },
+ {
+  "id": "CULT2-128",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A Thakali set meal originates from which region?",
+  "options": [
+   "Jumla",
+   "Ilam",
+   "Terai",
+   "Thak Khola (Mustang)"
+  ],
+  "answer": 3,
+  "explanation": "The Thakali meal comes from Thak Khola in Mustang, the home of the Thakali people.",
+  "source": "General knowledge",
+  "question_ne": "थकाली खाना सेट कुन क्षेत्रबाट उत्पत्ति भएको हो?",
+  "options_ne": [
+   "जुम्ला",
+   "इलाम",
+   "तराई",
+   "थाक खोला (मुस्ताङ)"
+  ],
+  "explanation_ne": "थकाली खाना मुस्ताङको थाक खोला क्षेत्रबाट आएको हो, जहाँ थकाली समुदाय बस्छन्।"
+ },
+ {
+  "id": "CULT2-129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Chhurpi is a hard cheese made in the Himalayan region from the milk of which animal?",
+  "options": [
+   "Buffalo",
+   "Cow",
+   "Goat",
+   "Yak"
+  ],
+  "answer": 3,
+  "explanation": "Chhurpi is a hard, long-lasting cheese made from yak (chauri) milk in the Himalayan region.",
+  "source": "General knowledge",
+  "question_ne": "छुर्पी हिमाली क्षेत्रमा कुन जनावरको दूधबाट बनाइने कडा चिज हो?",
+  "options_ne": [
+   "भैंसी",
+   "गाई",
+   "बाख्रा",
+   "याक"
+  ],
+  "explanation_ne": "छुर्पी हिमाली क्षेत्रमा याक (चौरी) को दूधबाट बनाइने कडा र लामो समय टिक्ने चिज हो।"
+ },
+ {
+  "id": "CULT2-130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Sukuti is dried meat, traditionally made from the meat of which animal?",
+  "options": [
+   "Buffalo",
+   "Chicken",
+   "Fish",
+   "Duck"
+  ],
+  "answer": 0,
+  "explanation": "Sukuti is traditionally made by drying buffalo (or goat) meat, a popular snack in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "सुकुटी सुकाएको मासु हो, यो परम्परागत रूपमा कुन जनावरको मासुबाट बनाइन्छ?",
+  "options_ne": [
+   "भैंसी",
+   "कुखुरा",
+   "माछा",
+   "हाँस"
+  ],
+  "explanation_ne": "सुकुटी परम्परागत रूपमा भैंसी (वा खसी) को मासु सुकाएर बनाइन्छ, यो नेपालको लोकप्रिय खाजा हो।"
+ },
+ {
+  "id": "CULT2-131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Aila is a traditional distilled liquor of which community?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Limbu",
+   "Sherpa"
+  ],
+  "answer": 1,
+  "explanation": "Aila is the traditional distilled liquor of the Newar community, served at festivals and feasts.",
+  "source": "General knowledge",
+  "question_ne": "ऐला कुन समुदायको परम्परागत मदिरा हो?",
+  "options_ne": [
+   "थारू",
+   "नेवार",
+   "लिम्बू",
+   "शेर्पा"
+  ],
+  "explanation_ne": "ऐला नेवार समुदायको परम्परागत मदिरा हो, जुन चाडपर्व र भोजहरूमा पिइन्छ।"
+ },
+ {
+  "id": "CULT2-132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Tongba is a traditional millet beer of which community?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Limbu",
+   "Brahmin"
+  ],
+  "answer": 2,
+  "explanation": "Tongba is the traditional millet beer of the Limbu community of eastern Nepal, served warm in a wooden vessel.",
+  "source": "General knowledge",
+  "question_ne": "तोङ्बा कुन समुदायको परम्परागत कोदोको जाँड हो?",
+  "options_ne": [
+   "थारू",
+   "नेवार",
+   "लिम्बू",
+   "ब्राह्मण"
+  ],
+  "explanation_ne": "तोङ्बा पूर्वी नेपालका लिम्बू समुदायको परम्परागत कोदोको जाँड हो, जुन काठको भाँडामा तातो गरी पिइन्छ।"
+ },
+ {
+  "id": "CULT2-133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Juju Dhau, the famous 'king curd', comes from which city?",
+  "options": [
+   "Pokhara",
+   "Patan",
+   "Kathmandu",
+   "Bhaktapur"
+  ],
+  "answer": 3,
+  "explanation": "Juju Dhau, the thick and sweet 'king curd', is the famous speciality of Bhaktapur.",
+  "source": "General knowledge",
+  "question_ne": "प्रसिद्ध 'राजा दही' जुजु धौ कुन सहरबाट आउँछ?",
+  "options_ne": [
+   "पोखरा",
+   "पाटन",
+   "काठमाडौं",
+   "भक्तपुर"
+  ],
+  "explanation_ne": "जुजु धौ भक्तपुरको प्रसिद्ध बाक्लो र मिठो 'राजा दही' हो।"
+ },
+ {
+  "id": "CULT2-134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Kwati, a soup of mixed beans, is eaten on which day?",
+  "options": [
+   "Asar 15",
+   "Maghe Sankranti",
+   "Janai Purnima",
+   "Buddha Jayanti"
+  ],
+  "answer": 2,
+  "explanation": "Kwati, a nutritious soup of nine mixed beans, is eaten on Janai Purnima, also called Kwati Khane Din.",
+  "source": "General knowledge",
+  "question_ne": "मिसाएको गेडागुडीको झोल क्वाटी कुन दिन खाइन्छ?",
+  "options_ne": [
+   "असार १५",
+   "माघे संक्रान्ति",
+   "जनै पूर्णिमा",
+   "बुद्ध जयन्ती"
+  ],
+  "explanation_ne": "नौ थरी गेडागुडी मिसाएर बनाइने पौष्टिक झोल क्वाटी जनै पूर्णिमामा खाइन्छ, त्यसैले त्यस दिनलाई क्वाटी खाने दिन पनि भनिन्छ।"
+ },
+ {
+  "id": "CULT2-135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Samay Baji is a festive food platter of which community?",
+  "options": [
+   "Magar",
+   "Gurung",
+   "Newar",
+   "Tamang"
+  ],
+  "answer": 2,
+  "explanation": "Samay Baji is a traditional Newar festive platter of beaten rice, meat, egg, beans and pickles.",
+  "source": "General knowledge",
+  "question_ne": "समय बजि कुन समुदायको चाडपर्वको खाना हो?",
+  "options_ne": [
+   "मगर",
+   "गुरुङ",
+   "नेवार",
+   "तामाङ"
+  ],
+  "explanation_ne": "समय बजि चिउरा, मासु, अण्डा, गेडागुडी र अचारसहितको नेवार समुदायको परम्परागत चाडपर्वको खाना हो।"
+ },
+ {
+  "id": "CULT2-136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Bara (Wo) is a lentil pancake of which community?",
+  "options": [
+   "Tharu",
+   "Newar",
+   "Rai",
+   "Sherpa"
+  ],
+  "answer": 1,
+  "explanation": "Bara, also called Wo, is a lentil pancake of the Newar community, often served with meat or egg on top.",
+  "source": "General knowledge",
+  "question_ne": "बारा (वो) कुन समुदायको दालको प्यानकेक हो?",
+  "options_ne": [
+   "थारू",
+   "नेवार",
+   "राई",
+   "शेर्पा"
+  ],
+  "explanation_ne": "बारा (वो) नेवार समुदायको दालको प्यानकेक हो, जसमा प्रायः मासु वा अण्डा राखेर खाइन्छ।"
+ },
+ {
+  "id": "CULT2-137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Thukpa is a noodle soup popular in which region of Nepal?",
+  "options": [
+   "Kathmandu Valley only",
+   "Terai",
+   "Himalayan region",
+   "Far-western hills"
+  ],
+  "answer": 2,
+  "explanation": "Thukpa is a warm noodle soup popular in the Himalayan region of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "थुक्पा नेपालको कुन क्षेत्रमा लोकप्रिय चाउचाउको झोल हो?",
+  "options_ne": [
+   "काठमाडौं उपत्यका मात्र",
+   "तराई",
+   "हिमाली क्षेत्र",
+   "सुदूरपश्चिमका पहाड"
+  ],
+  "explanation_ne": "थुक्पा नेपालको हिमाली क्षेत्रमा लोकप्रिय तातो चाउचाउको झोल हो।"
+ },
+ {
+  "id": "CULT2-138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Dahi Chiura (curd and beaten rice) is eaten on which day?",
+  "options": [
+   "Asar 15",
+   "Magh 1",
+   "Baisakh 1",
+   "Falgun 15"
+  ],
+  "answer": 0,
+  "explanation": "Asar 15 is celebrated as Dahi Chiura Khane Din, when people eat curd and beaten rice during rice planting.",
+  "source": "General knowledge",
+  "question_ne": "दही चिउरा कुन दिन खाइन्छ?",
+  "options_ne": [
+   "असार १५",
+   "माघ १",
+   "वैशाख १",
+   "फाल्गुन १५"
+  ],
+  "explanation_ne": "असार १५ लाई दही चिउरा खाने दिनका रूपमा मनाइन्छ, जसमा धान रोप्दा दही चिउरा खाइन्छ।"
+ },
+ {
+  "id": "CULT2-139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Ilam district is famous for which crop?",
+  "options": [
+   "Sugarcane",
+   "Rice",
+   "Wheat",
+   "Tea"
+  ],
+  "answer": 3,
+  "explanation": "Ilam, in eastern Nepal, is famous for its tea gardens and high-quality tea.",
+  "source": "General knowledge",
+  "question_ne": "इलाम जिल्ला कुन बालीका लागि प्रसिद्ध छ?",
+  "options_ne": [
+   "उखु",
+   "धान",
+   "गहुँ",
+   "चिया"
+  ],
+  "explanation_ne": "पूर्वी नेपालको इलाम आफ्ना चिया बगान र उच्च गुणस्तरको चियाका लागि प्रसिद्ध छ।"
+ },
+ {
+  "id": "CULT2-140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Food & Cuisine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On Maghe Sankranti, people traditionally eat tarul, ghee and which sweet?",
+  "options": [
+   "Chaku",
+   "Juju Dhau",
+   "Sel roti",
+   "Peda"
+  ],
+  "answer": 0,
+  "explanation": "On Maghe Sankranti (Magh 1), people eat yam (tarul), ghee, sesame sweets and chaku (molasses).",
+  "source": "General knowledge",
+  "question_ne": "माघे संक्रान्तिमा मानिसहरूले परम्परागत रूपमा तरुल, घिउ र कुन मिठाई खान्छन्?",
+  "options_ne": [
+   "चाकु",
+   "जुजु धौ",
+   "सेल रोटी",
+   "पेडा"
+  ],
+  "explanation_ne": "माघे संक्रान्ति (माघ १) मा मानिसहरूले तरुल, घिउ, तिलको मिठाई र चाकु खान्छन्।"
+ },
+ {
+  "id": "CULT2-141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Dhaka topi is the traditional cap worn with which national dress of Nepali men?",
+  "options": [
+   "Sherwani",
+   "Kurta Suruwal",
+   "Daura Suruwal",
+   "Bhoto"
+  ],
+  "answer": 2,
+  "explanation": "Dhaka topi is worn with Daura Suruwal, the national dress of Nepali men.",
+  "source": "General knowledge",
+  "question_ne": "ढाका टोपी नेपाली पुरुषहरूको कुन राष्ट्रिय पोसाकसँग लगाइन्छ?",
+  "options_ne": [
+   "सेरवानी",
+   "कुर्ता सुरुवाल",
+   "दौरा सुरुवाल",
+   "भोटो"
+  ],
+  "explanation_ne": "ढाका टोपी नेपाली पुरुषहरूको राष्ट्रिय पोसाक दौरा सुरुवालसँग लगाइन्छ।"
+ },
+ {
+  "id": "CULT2-142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Gunyu Cholo is the traditional dress of which group?",
+  "options": [
+   "Nepali women",
+   "Nepali men",
+   "Newar men",
+   "Tharu men"
+  ],
+  "answer": 0,
+  "explanation": "Gunyu Cholo (blouse and sari-like wrap) is the traditional dress of Nepali women.",
+  "source": "General knowledge",
+  "question_ne": "गुन्यु चोलो कुन समूहको परम्परागत पोसाक हो?",
+  "options_ne": [
+   "नेपाली महिला",
+   "नेपाली पुरुष",
+   "नेवार पुरुष",
+   "थारू पुरुष"
+  ],
+  "explanation_ne": "गुन्यु चोलो नेपाली महिलाहरूको परम्परागत पोसाक हो।"
+ },
+ {
+  "id": "CULT2-143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Haku Patasi is the traditional dress of the women of which community?",
+  "options": [
+   "Tharu",
+   "Gurung",
+   "Tamang",
+   "Newar"
+  ],
+  "answer": 3,
+  "explanation": "Haku Patasi, a black sari with a red border, is the traditional dress of Newar women.",
+  "source": "General knowledge",
+  "question_ne": "हाकु पतासी कुन समुदायका महिलाहरूको परम्परागत पोसाक हो?",
+  "options_ne": [
+   "थारू",
+   "गुरुङ",
+   "तामाङ",
+   "नेवार"
+  ],
+  "explanation_ne": "हाकु पतासी, रातो किनार भएको कालो सारी, नेवार महिलाहरूको परम्परागत पोसाक हो।"
+ },
+ {
+  "id": "CULT2-144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Patuka is a cloth worn around which part of the body?",
+  "options": [
+   "The waist",
+   "The head",
+   "The shoulders",
+   "The feet"
+  ],
+  "answer": 0,
+  "explanation": "Patuka is a long sash worn around the waist with Daura Suruwal.",
+  "source": "General knowledge",
+  "question_ne": "पटुका शरीरको कुन भागमा बेरिने कपडा हो?",
+  "options_ne": [
+   "कम्मर",
+   "टाउको",
+   "काँध",
+   "खुट्टा"
+  ],
+  "explanation_ne": "पटुका दौरा सुरुवालसँग कम्मरमा बेरिने लामो कपडा हो।"
+ },
+ {
+  "id": "CULT2-145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Bhadgaunle topi is a black cap traditionally worn by the men of which city?",
+  "options": [
+   "Patan",
+   "Bhaktapur",
+   "Kathmandu",
+   "Gorkha"
+  ],
+  "answer": 1,
+  "explanation": "Bhadgaunle topi is the black cap traditionally worn by Newar men of Bhaktapur (Bhadgaun).",
+  "source": "General knowledge",
+  "question_ne": "भादगाउँले टोपी कुन सहरका पुरुषहरूले परम्परागत रूपमा लगाउने कालो टोपी हो?",
+  "options_ne": [
+   "पाटन",
+   "भक्तपुर",
+   "काठमाडौं",
+   "गोरखा"
+  ],
+  "explanation_ne": "भादगाउँले टोपी भक्तपुर (भादगाउँ) का नेवार पुरुषहरूले परम्परागत रूपमा लगाउने कालो टोपी हो।"
+ },
+ {
+  "id": "CULT2-146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "'Namaste', the traditional Nepali greeting, is made by joining what together?",
+  "options": [
+   "Fists together",
+   "Palms together",
+   "Feet together",
+   "Elbows together"
+  ],
+  "answer": 1,
+  "explanation": "Namaste is said with the palms joined together in front of the chest, meaning 'I bow to you'.",
+  "source": "General knowledge",
+  "question_ne": "परम्परागत नेपाली अभिवादन 'नमस्ते' के जोडेर गरिन्छ?",
+  "options_ne": [
+   "दुवै मुठी",
+   "दुवै हत्केला",
+   "दुवै खुट्टा",
+   "दुवै कुहिनो"
+  ],
+  "explanation_ne": "नमस्ते छातीअगाडि दुवै हत्केला जोडेर भनिन्छ, जसको अर्थ 'म तपाईंलाई नमन गर्छु' हो।"
+ },
+ {
+  "id": "CULT2-147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pasni is the rice-feeding ceremony for a baby, held at what age?",
+  "options": [
+   "At birth",
+   "1 year for all babies",
+   "3 months for all babies",
+   "5 months for girls and 6 months for boys"
+  ],
+  "answer": 3,
+  "explanation": "Pasni (Annaprashan) is the first rice-feeding ceremony, held at 5 months for girls and 6 months for boys.",
+  "source": "General knowledge",
+  "question_ne": "पास्नी शिशुलाई भात खुवाउने संस्कार हो, यो कुन उमेरमा गरिन्छ?",
+  "options_ne": [
+   "जन्मँदा नै",
+   "सबै शिशुलाई १ वर्ष",
+   "सबै शिशुलाई ३ महिना",
+   "छोरीलाई ५ महिना र छोरालाई ६ महिना"
+  ],
+  "explanation_ne": "पास्नी (अन्नप्राशन) पहिलो पटक भात खुवाउने संस्कार हो, जुन छोरीलाई ५ महिना र छोरालाई ६ महिनामा गरिन्छ।"
+ },
+ {
+  "id": "CULT2-148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bratabandha is the sacred thread ceremony for boys of which religion?",
+  "options": [
+   "Christian",
+   "Buddhist",
+   "Kirat",
+   "Hindu"
+  ],
+  "answer": 3,
+  "explanation": "Bratabandha is the sacred thread ceremony for Hindu boys, marking their coming of age.",
+  "source": "General knowledge",
+  "question_ne": "व्रतबन्ध (जनै) कुन धर्मका केटाहरूको पवित्र धागोको संस्कार हो?",
+  "options_ne": [
+   "ईसाई",
+   "बौद्ध",
+   "किरात",
+   "हिन्दू"
+  ],
+  "explanation_ne": "व्रतबन्ध हिन्दू केटाहरूको पवित्र जनै धारण गर्ने संस्कार हो।"
+ },
+ {
+  "id": "CULT2-149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Hindu mourning period after a death traditionally lasts how many days?",
+  "options": [
+   "3 days",
+   "7 days",
+   "30 days",
+   "13 days"
+  ],
+  "answer": 3,
+  "explanation": "In Hindu tradition, the mourning period (Kriya) after a death lasts 13 days.",
+  "source": "General knowledge",
+  "question_ne": "हिन्दू परम्परामा मृत्यु भएपछि शोक अवधि परम्परागत रूपमा कति दिनसम्म हुन्छ?",
+  "options_ne": [
+   "३ दिन",
+   "७ दिन",
+   "३० दिन",
+   "१३ दिन"
+  ],
+  "explanation_ne": "हिन्दू परम्परामा मृत्युपछि शोक अवधि (क्रिया) १३ दिनसम्म हुन्छ।"
+ },
+ {
+  "id": "CULT2-150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Dress & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does the Nepali saying 'Atithi Devo Bhava' mean?",
+  "options": [
+   "The mother is god",
+   "The king is god",
+   "The teacher is god",
+   "The guest is god"
+  ],
+  "answer": 3,
+  "explanation": "'Atithi Devo Bhava' means 'the guest is god', expressing the Nepali tradition of honouring guests.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली उखान 'अतिथि देवो भव' को अर्थ के हो?",
+  "options_ne": [
+   "आमा नै देवता हुन्",
+   "राजा नै देवता हुन्",
+   "गुरु नै देवता हुन्",
+   "अतिथि नै देवता हुन्"
+  ],
+  "explanation_ne": "'अतिथि देवो भव' को अर्थ 'अतिथि नै देवता हुन्' हो, जसले पाहुनालाई सम्मान गर्ने नेपाली परम्परा दर्शाउँछ।"
+ },
+ {
+  "id": "CULT2-151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Madal, the most popular folk drum of Nepal, is made of wood and the skin of which animal?",
+  "options": [
+   "Goat",
+   "Cow",
+   "Buffalo",
+   "Deer"
+  ],
+  "answer": 0,
+  "explanation": "The madal is a double-headed drum made of wood with goat skin on both ends.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको सबैभन्दा लोकप्रिय लोक बाजा मादल काठ र कुन जनावरको छालाबाट बनाइन्छ?",
+  "options_ne": [
+   "बाख्रा",
+   "गाई",
+   "भैंसी",
+   "मृग"
+  ],
+  "explanation_ne": "मादल दुवैतिर बाख्राको छाला भएको काठको दुईमुखे ढोल हो।"
+ },
+ {
+  "id": "CULT2-152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sarangi is the traditional instrument of which community?",
+  "options": [
+   "Gaine (Gandharva)",
+   "Damai",
+   "Kami",
+   "Sarki"
+  ],
+  "answer": 0,
+  "explanation": "The sarangi is the traditional instrument of the Gaine (Gandharva) community, the wandering musicians of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "सारंगी कुन समुदायको परम्परागत बाजा हो?",
+  "options_ne": [
+   "गाइने (गन्धर्व)",
+   "दमाई",
+   "कामी",
+   "सार्की"
+  ],
+  "explanation_ne": "सारंगी नेपालका घुमन्ते संगीतकार गाइने (गन्धर्व) समुदायको परम्परागत बाजा हो।"
+ },
+ {
+  "id": "CULT2-153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bansuri is a flute made from what material?",
+  "options": [
+   "Bamboo",
+   "Brass",
+   "Clay",
+   "Stone"
+  ],
+  "answer": 0,
+  "explanation": "Bansuri is a flute made from bamboo, associated with Lord Krishna.",
+  "source": "General knowledge",
+  "question_ne": "बाँसुरी कुन सामग्रीबाट बनाइने बाँसको बाजा हो?",
+  "options_ne": [
+   "बाँस",
+   "पित्तल",
+   "माटो",
+   "ढुंगा"
+  ],
+  "explanation_ne": "बाँसुरी बाँसबाट बनाइने बाँसको बाजा हो, जुन भगवान् कृष्णसँग सम्बन्धित छ।"
+ },
+ {
+  "id": "CULT2-154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Damphu is the traditional drum of which community?",
+  "options": [
+   "Newar",
+   "Tamang",
+   "Tharu",
+   "Gurung"
+  ],
+  "answer": 1,
+  "explanation": "Damphu is the round traditional drum of the Tamang community, played during the Syabru dance.",
+  "source": "General knowledge",
+  "question_ne": "डम्फु कुन समुदायको परम्परागत ढोल हो?",
+  "options_ne": [
+   "नेवार",
+   "तामाङ",
+   "थारू",
+   "गुरुङ"
+  ],
+  "explanation_ne": "डम्फु तामाङ समुदायको गोलो परम्परागत ढोल हो, जुन स्याब्रु नाचमा बजाइन्छ।"
+ },
+ {
+  "id": "CULT2-155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Panche Baja is an ensemble of how many traditional instruments?",
+  "options": [
+   "Five",
+   "Three",
+   "Seven",
+   "Nine"
+  ],
+  "answer": 0,
+  "explanation": "Panche Baja is an ensemble of five traditional instruments: dholaki, tyamko, jhyali, damaha and narsinga.",
+  "source": "General knowledge",
+  "question_ne": "पञ्चे बाजामा कति वटा परम्परागत बाजाहरू हुन्छन्?",
+  "options_ne": [
+   "पाँच",
+   "तीन",
+   "सात",
+   "नौ"
+  ],
+  "explanation_ne": "पञ्चे बाजामा पाँच परम्परागत बाजाहरू हुन्छन्: ढोलकी, ट्याम्को, झ्याली, दमाहा र नरसिंगा।"
+ },
+ {
+  "id": "CULT2-156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Panche Baja is traditionally played on which occasion?",
+  "options": [
+   "Rice planting",
+   "Funerals",
+   "Weddings",
+   "Losar"
+  ],
+  "answer": 2,
+  "explanation": "Panche Baja is traditionally played at weddings and other auspicious ceremonies in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "पञ्चे बाजा परम्परागत रूपमा कुन अवसरमा बजाइन्छ?",
+  "options_ne": [
+   "धान रोपाइँ",
+   "मृत्यु संस्कार",
+   "विवाह",
+   "ल्होसार"
+  ],
+  "explanation_ne": "पञ्चे बाजा परम्परागत रूपमा नेपालमा विवाह र अन्य शुभ कार्यहरूमा बजाइन्छ।"
+ },
+ {
+  "id": "CULT2-157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Syabru is the traditional dance of which community?",
+  "options": [
+   "Magar",
+   "Gurung",
+   "Tamang",
+   "Rai"
+  ],
+  "answer": 2,
+  "explanation": "Syabru is the traditional dance of the Tamang community, performed to the beat of the damphu drum.",
+  "source": "General knowledge",
+  "question_ne": "स्याब्रु कुन समुदायको परम्परागत नाच हो?",
+  "options_ne": [
+   "मगर",
+   "गुरुङ",
+   "तामाङ",
+   "राई"
+  ],
+  "explanation_ne": "स्याब्रु तामाङ समुदायको परम्परागत नाच हो, जुन डम्फुको तालमा नाचिन्छ।"
+ },
+ {
+  "id": "CULT2-158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Ghatu is a traditional dance of which community?",
+  "options": [
+   "Tharu",
+   "Tamang",
+   "Newar",
+   "Gurung"
+  ],
+  "answer": 3,
+  "explanation": "Ghatu is a traditional dance of the Gurung community, performed by girls during festivals.",
+  "source": "General knowledge",
+  "question_ne": "घाटु कुन समुदायको परम्परागत नाच हो?",
+  "options_ne": [
+   "थारू",
+   "तामाङ",
+   "नेवार",
+   "गुरुङ"
+  ],
+  "explanation_ne": "घाटु गुरुङ समुदायको परम्परागत नाच हो, जुन चाडपर्वमा किशोरीहरूले नाच्छन्।"
+ },
+ {
+  "id": "CULT2-159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Sorathi is a folk dance-drama of which community?",
+  "options": [
+   "Limbu",
+   "Magar",
+   "Gurung",
+   "Sherpa"
+  ],
+  "answer": 2,
+  "explanation": "Sorathi is a traditional folk dance-drama of the Gurung community, telling stories through dance and song.",
+  "source": "General knowledge",
+  "question_ne": "सोरठी कुन समुदायको लोक नाच-नाटक हो?",
+  "options_ne": [
+   "लिम्बू",
+   "मगर",
+   "गुरुङ",
+   "शेर्पा"
+  ],
+  "explanation_ne": "सोरठी गुरुङ समुदायको परम्परागत लोक नाच-नाटक हो, जसले नाच र गीतबाट कथा भन्छ।"
+ },
+ {
+  "id": "CULT2-160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Rodhi is the traditional community house of which people, where young people gather to sing and dance?",
+  "options": [
+   "Newar",
+   "Gurung",
+   "Tharu",
+   "Brahmin"
+  ],
+  "answer": 1,
+  "explanation": "Rodhi is the traditional community house of the Gurung people, where young men and women gather in the evening to sing, dance and socialise.",
+  "source": "General knowledge",
+  "question_ne": "रोधी कुन समुदायको परम्परागत सामुदायिक घर हो, जहाँ युवाहरू गीत गाउन र नाच्न जम्मा हुन्छन्?",
+  "options_ne": [
+   "नेवार",
+   "गुरुङ",
+   "थारू",
+   "ब्राह्मण"
+  ],
+  "explanation_ne": "रोधी गुरुङ समुदायको परम्परागत सामुदायिक घर हो, जहाँ युवाहरू साँझ गीत गाउन, नाच्न र भेटघाट गर्न जम्मा हुन्छन्।"
+ },
+ {
+  "id": "CULT2-161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Lakhe dance, the dance of the demon Lakhe, is performed during which festival?",
+  "options": [
+   "Holi",
+   "Dashain",
+   "Tihar",
+   "Indra Jatra"
+  ],
+  "answer": 3,
+  "explanation": "The Lakhe dance is performed by the Newar community during Indra Jatra in Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "लाखे नाच, लाखे दैत्यको नाच, कुन चाडमा नाचिन्छ?",
+  "options_ne": [
+   "होली",
+   "दशैं",
+   "तिहार",
+   "इन्द्रजात्रा"
+  ],
+  "explanation_ne": "लाखे नाच नेवार समुदायले काठमाडौंमा इन्द्रजात्रामा नाच्छन्।"
+ },
+ {
+  "id": "CULT2-162",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dohori is a folk song sung as a question-and-answer duet between whom?",
+  "options": [
+   "Priests and devotees",
+   "Two men",
+   "Two women",
+   "Men and women"
+  ],
+  "answer": 3,
+  "explanation": "Dohori is a folk duet in which men and women sing questions and answers to each other in verse.",
+  "source": "General knowledge",
+  "question_ne": "दोहोरी प्रश्न-उत्तर शैलीमा कस-कसबीच गाइने लोकगीत हो?",
+  "options_ne": [
+   "पुजारी र भक्तजन",
+   "दुई पुरुष",
+   "दुई महिला",
+   "पुरुष र महिला"
+  ],
+  "explanation_ne": "दोहोरीमा पुरुष र महिलाले एकअर्कालाई गीतबाट प्रश्न सोध्छन् र उत्तर दिन्छन्।"
+ },
+ {
+  "id": "CULT2-163",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Narayan Gopal, the legendary singer of modern Nepali songs, is known by which title?",
+  "options": [
+   "Kavi Shiromani",
+   "Swor Samragyi",
+   "Nightingale of the Hills",
+   "Swar Samrat"
+  ],
+  "answer": 3,
+  "explanation": "Narayan Gopal is known as Swar Samrat (Emperor of Voice) for his modern Nepali songs.",
+  "source": "General knowledge",
+  "question_ne": "आधुनिक नेपाली गीतका महान् गायक नारायण गोपाल कुन उपाधिले चिनिन्छन्?",
+  "options_ne": [
+   "कवि शिरोमणि",
+   "स्वर सम्राज्ञी",
+   "पहाडकी कोइली",
+   "स्वर सम्राट"
+  ],
+  "explanation_ne": "नारायण गोपाल आफ्ना आधुनिक नेपाली गीतहरूका लागि स्वर सम्राटका रूपमा चिनिन्छन्।"
+ },
+ {
+  "id": "CULT2-164",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Aruna Lama, known as the 'Nightingale of the Hills', was a famous singer of which kind of songs?",
+  "options": [
+   "Nepali modern songs (Adhunik geet)",
+   "Bhajans",
+   "Dohori songs",
+   "Classical ragas"
+  ],
+  "answer": 0,
+  "explanation": "Aruna Lama, the 'Nightingale of the Hills', was one of the most beloved singers of Nepali modern songs (Adhunik geet).",
+  "source": "General knowledge",
+  "question_ne": "'पहाडकी कोइली' भनेर चिनिने अरुणा लामा कुन किसिमका गीतकी प्रसिद्ध गायिका थिइन्?",
+  "options_ne": [
+   "नेपाली आधुनिक गीत",
+   "भजन",
+   "दोहोरी गीत",
+   "शास्त्रीय राग"
+  ],
+  "explanation_ne": "'पहाडकी कोइली' अरुणा लामा नेपाली आधुनिक गीतकी सबैभन्दा प्रिय गायिकाहरूमध्ये एक थिइन्।"
+ },
+ {
+  "id": "CULT2-165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Tungna is a plucked string instrument of which communities?",
+  "options": [
+   "Rai and Limbu",
+   "Newar and Tharu",
+   "Tamang and Gurung",
+   "Sherpa and Magar"
+  ],
+  "answer": 2,
+  "explanation": "Tungna is a traditional plucked string instrument of the Tamang and Gurung communities of the hills.",
+  "source": "General knowledge",
+  "question_ne": "टुङ्ना कुन समुदायहरूको तार भएको बाजा हो?",
+  "options_ne": [
+   "राई र लिम्बू",
+   "नेवार र थारू",
+   "तामाङ र गुरुङ",
+   "शेर्पा र मगर"
+  ],
+  "explanation_ne": "टुङ्ना पहाडका तामाङ र गुरुङ समुदायहरूको परम्परागत तार बाजा हो।"
+ },
+ {
+  "id": "CULT2-166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Deuda is a traditional folk dance of which region of Nepal?",
+  "options": [
+   "Kathmandu Valley",
+   "Eastern Terai",
+   "Far-western Nepal",
+   "Mustang"
+  ],
+  "answer": 2,
+  "explanation": "Deuda is a traditional folk song and dance of far-western Nepal, performed in a circle with question-answer verses.",
+  "source": "General knowledge",
+  "question_ne": "देउडा नेपालको कुन क्षेत्रको परम्परागत लोकनाच हो?",
+  "options_ne": [
+   "काठमाडौं उपत्यका",
+   "पूर्वी तराई",
+   "सुदूरपश्चिम",
+   "मुस्ताङ"
+  ],
+  "explanation_ne": "देउडा सुदूरपश्चिम नेपालको परम्परागत लोकगीत र नाच हो, जुन घेरामा प्रश्न-उत्तर श्लोकहरूसहित नाचिन्छ।"
+ },
+ {
+  "id": "CULT2-167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "During Tihar, Deusi is traditionally sung by whom, going from house to house?",
+  "options": [
+   "Boys and men",
+   "Girls and women",
+   "Priests",
+   "Small children only"
+  ],
+  "answer": 0,
+  "explanation": "During Tihar, Deusi is sung by boys and men, while Bhailo is sung by girls and women, as they visit houses singing blessings.",
+  "source": "General knowledge",
+  "question_ne": "तिहारमा देउसी परम्परागत रूपमा कसले घर-घर गएर गाउँछ?",
+  "options_ne": [
+   "केटा र पुरुषहरू",
+   "केटी र महिलाहरू",
+   "पुजारीहरू",
+   "सानो बच्चाहरू मात्र"
+  ],
+  "explanation_ne": "तिहारमा देउसी केटा र पुरुषहरूले गाउँछन् भने भैलो केटी र महिलाहरूले गाउँछन्, घर-घर गएर आशीर्वादका गीत गाउँदै।"
+ },
+ {
+  "id": "CULT2-168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of these is a traditional Nepali string instrument, played with a bow?",
+  "options": [
+   "Bansuri",
+   "Madal",
+   "Damphu",
+   "Sarangi"
+  ],
+  "answer": 3,
+  "explanation": "The sarangi is a bowed string instrument of Nepal, while madal and damphu are drums and bansuri is a flute.",
+  "source": "General knowledge",
+  "question_ne": "यीमध्ये कुन परम्परागत नेपाली तार बाजा हो, जुन धनुषले बजाइन्छ?",
+  "options_ne": [
+   "बाँसुरी",
+   "मादल",
+   "डम्फु",
+   "सारंगी"
+  ],
+  "explanation_ne": "सारंगी नेपालको धनुषले बजाइने तार बाजा हो, जबकि मादल र डम्फु ढोल हुन् र बाँसुरी बाँसको बाजा हो।"
+ },
+ {
+  "id": "CULT2-169",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Jhyaure is a folk song and dance of which region?",
+  "options": [
+   "Western hills (Gandaki region)",
+   "Eastern Terai",
+   "Kathmandu Valley",
+   "Far-western hills"
+  ],
+  "answer": 0,
+  "explanation": "Jhyaure is a folk song and dance of the western hills, especially the Gandaki region.",
+  "source": "General knowledge",
+  "question_ne": "झ्याउरे कुन क्षेत्रको लोकगीत र नाच हो?",
+  "options_ne": [
+   "पश्चिमी पहाड (गण्डकी क्षेत्र)",
+   "पूर्वी तराई",
+   "काठमाडौं उपत्यका",
+   "सुदूरपश्चिमका पहाड"
+  ],
+  "explanation_ne": "झ्याउरे पश्चिमी पहाड, विशेष गरी गण्डकी क्षेत्रको लोकगीत र नाच हो।"
+ },
+ {
+  "id": "CULT2-170",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Music & Dance",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of these instruments is played by blowing air into it?",
+  "options": [
+   "Damphu",
+   "Madal",
+   "Sarangi",
+   "Bansuri"
+  ],
+  "answer": 3,
+  "explanation": "Bansuri is a wind instrument played by blowing air, while madal and damphu are drums and sarangi is a string instrument.",
+  "source": "General knowledge",
+  "question_ne": "यीमध्ये कुन बाजा हावा फुकेर बजाइन्छ?",
+  "options_ne": [
+   "डम्फु",
+   "मादल",
+   "सारंगी",
+   "बाँसुरी"
+  ],
+  "explanation_ne": "बाँसुरी हावा फुकेर बजाइने बाजा हो, जबकि मादल र डम्फु ढोल हुन् र सारंगी तार बाजा हो।"
+ },
+ {
+  "id": "CULT2-172",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The national anthem of Nepal, 'Sayaun Thunga Phool Ka', was written by whom?",
+  "options": [
+   "Laxmi Prasad Devkota",
+   "Byakul Maila (Pradeep Kumar Rai)",
+   "Amber Gurung",
+   "Bhanubhakta Acharya"
+  ],
+  "answer": 1,
+  "explanation": "The national anthem was written by the poet Byakul Maila (Pradeep Kumar Rai).",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय गान 'सयौँ थुँगा फूलका' कसले लेखेका हुन्?",
+  "options_ne": [
+   "लक्ष्मीप्रसाद देवकोटा",
+   "ब्याकुल माइला (प्रदीपकुमार राई)",
+   "अम्बर गुरुङ",
+   "भानुभक्त आचार्य"
+  ],
+  "explanation_ne": "राष्ट्रिय गान कवि ब्याकुल माइला (प्रदीपकुमार राई) ले लेखेका हुन्।"
+ },
+ {
+  "id": "CULT2-173",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The music of Nepal's national anthem was composed by whom?",
+  "options": [
+   "Narayan Gopal",
+   "Amber Gurung",
+   "Byakul Maila",
+   "Aruna Lama"
+  ],
+  "answer": 1,
+  "explanation": "The music of the national anthem 'Sayaun Thunga Phool Ka' was composed by Amber Gurung.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय गानको संगीत कसले रचना गरेका हुन्?",
+  "options_ne": [
+   "नारायण गोपाल",
+   "अम्बर गुरुङ",
+   "ब्याकुल माइला",
+   "अरुणा लामा"
+  ],
+  "explanation_ne": "राष्ट्रिय गान 'सयौँ थुँगा फूलका' को संगीत अम्बर गुरुङले रचना गरेका हुन्।"
+ },
+ {
+  "id": "CULT2-174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal's current national anthem was adopted in which year?",
+  "options": [
+   "2007",
+   "1990",
+   "2015",
+   "1962"
+  ],
+  "answer": 0,
+  "explanation": "The current national anthem 'Sayaun Thunga Phool Ka' was adopted in 2007, replacing the old royal anthem.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको हालको राष्ट्रिय गान कुन वर्ष अपनाइएको थियो?",
+  "options_ne": [
+   "२००७",
+   "१९९०",
+   "२०१५",
+   "१९६२"
+  ],
+  "explanation_ne": "हालको राष्ट्रिय गान 'सयौँ थुँगा फूलका' २००७ मा अपनाइएको थियो, जसले पुरानो शाही गानलाई प्रतिस्थापन गर्‍यो।"
+ },
+ {
+  "id": "CULT2-175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Nepal's old national anthem, used before 2007, was called what?",
+  "options": [
+   "Janani Janmabhumishcha",
+   "Sayaun Thunga Phool Ka",
+   "Shriman Gambhir",
+   "Rastriya Gaan"
+  ],
+  "answer": 2,
+  "explanation": "Before 2007, Nepal's national anthem was 'Shriman Gambhir Nepali', the royal anthem.",
+  "source": "General knowledge",
+  "question_ne": "२००७ भन्दा पहिले प्रयोग हुने नेपालको पुरानो राष्ट्रिय गान के थियो?",
+  "options_ne": [
+   "जननी जन्मभूमिश्च",
+   "सयौं थुँगा फूलका",
+   "श्रीमान् गम्भीर",
+   "राष्ट्रिय गान"
+  ],
+  "explanation_ne": "२००७ भन्दा पहिले नेपालको राष्ट्रिय गान 'श्रीमान् गम्भीर नेपाली' थियो, जुन शाही गान थियो।"
+ },
+ {
+  "id": "CULT2-176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "foreign-service"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Nepal's national motto 'Janani Janmabhumishcha Swargadapi Gariyasi' means what?",
+  "options": [
+   "The guest is god",
+   "Unity is strength",
+   "Truth always wins",
+   "Mother and motherland are greater than heaven"
+  ],
+  "answer": 3,
+  "explanation": "'Janani Janmabhumishcha Swargadapi Gariyasi' means 'Mother and motherland are greater than heaven'.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय आदर्श वाक्य 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' को अर्थ के हो?",
+  "options_ne": [
+   "अतिथि नै देवता हुन्",
+   "एकता नै शक्ति हो",
+   "सत्य सधैं जित्छ",
+   "आमा र जन्मभूमि स्वर्गभन्दा महान् छन्"
+  ],
+  "explanation_ne": "'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' को अर्थ 'आमा र जन्मभूमि स्वर्गभन्दा महान् छन्' हो।"
+ },
+ {
+  "id": "CULT2-178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Before volleyball, which was the national sport of Nepal?",
+  "options": [
+   "Kabaddi",
+   "Football",
+   "Cricket",
+   "Dandi Biyo"
+  ],
+  "answer": 3,
+  "explanation": "Dandi Biyo, a traditional stick game, was the national sport of Nepal before volleyball replaced it in 2017.",
+  "source": "General knowledge",
+  "question_ne": "भलिबलभन्दा पहिले नेपालको राष्ट्रिय खेल कुन थियो?",
+  "options_ne": [
+   "कबड्डी",
+   "फुटबल",
+   "क्रिकेट",
+   "डन्डी बियो"
+  ],
+  "explanation_ne": "डन्डी बियो, परम्परागत लट्ठी खेल, २०१७ मा भलिबलले प्रतिस्थापन गर्नुअघि नेपालको राष्ट्रिय खेल थियो।"
+ },
+ {
+  "id": "CULT2-179",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The two triangles of Nepal's flag represent which two things?",
+  "options": [
+   "The king and the people",
+   "The sun and the moon",
+   "The Terai and the hills",
+   "The Himalayas and the two major religions (Hinduism and Buddhism)"
+  ],
+  "answer": 3,
+  "explanation": "The two triangles of Nepal's flag represent the Himalaya mountains and the country's two major religions, Hinduism and Buddhism.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको झण्डाका दुई त्रिभुजले कुन दुई कुरालाई जनाउँछन्?",
+  "options_ne": [
+   "राजा र जनता",
+   "सूर्य र चन्द्रमा",
+   "तराई र पहाड",
+   "हिमाल र दुई प्रमुख धर्म (हिन्दू र बौद्ध)"
+  ],
+  "explanation_ne": "नेपालको झण्डाका दुई त्रिभुजले हिमाल र देशका दुई प्रमुख धर्म हिन्दू र बौद्धलाई जनाउँछन्।"
+ },
+ {
+  "id": "CULT2-180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "National Symbols",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The crimson red colour of Nepal's flag symbolises what?",
+  "options": [
+   "The monsoon",
+   "The rivers of Nepal",
+   "The wheat fields",
+   "The bravery of the Nepali people"
+  ],
+  "answer": 3,
+  "explanation": "The crimson red of Nepal's flag symbolises the bravery of the Nepali people, and is also the colour of the rhododendron.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको झण्डाको गाढा रातो रङले के जनाउँछ?",
+  "options_ne": [
+   "मनसुन",
+   "नेपालका नदीहरू",
+   "गहुँका खेतहरू",
+   "नेपाली जनताको वीरता"
+  ],
+  "explanation_ne": "नेपालको झण्डाको गाढा रातो रङले नेपाली जनताको वीरतालाई जनाउँछ, यो लालीगुराँसको रङ पनि हो।"
+ },
+ {
+  "id": "CULT2-181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Society & Customs",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the 2021 census, the population of Nepal is about how much?",
+  "options": [
+   "24.8 million",
+   "26.5 million",
+   "32.4 million",
+   "29.2 million"
+  ],
+  "answer": 3,
+  "explanation": "According to the 2021 census, Nepal's population is about 29.2 million (29,164,578).",
+  "source": "General knowledge",
+  "question_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसंख्या करिब कति छ?",
+  "options_ne": [
+   "२ करोड ४८ लाख",
+   "२ करोड ६५ लाख",
+   "३ करोड २४ लाख",
+   "२ करोड ९२ लाख"
+  ],
+  "explanation_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसंख्या करिब २ करोड ९२ लाख (२,९१,६४,५७८) छ।"
+ },
+ {
+  "id": "CULT2-182",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Society & Customs",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Chhaupadi, the practice of isolating menstruating women, was criminalised in Nepal in which year?",
+  "options": [
+   "2017",
+   "2007",
+   "1990",
+   "2015"
+  ],
+  "answer": 0,
+  "explanation": "Chhaupadi was criminalised in Nepal in 2017, with punishment of up to three months in jail or a fine.",
+  "source": "General knowledge",
+  "question_ne": "रजस्वला भएका महिलालाई अलग राख्ने छाउपडी प्रथा नेपालमा कुन वर्ष अपराध घोषित गरियो?",
+  "options_ne": [
+   "२०१७",
+   "२००७",
+   "१९९०",
+   "२०१५"
+  ],
+  "explanation_ne": "छाउपडी २०१७ मा नेपालमा अपराध घोषित गरियो, जसमा तीन महिनासम्म कैद वा जरिवानाको सजाय छ।"
+ },
+ {
+  "id": "CULT2-183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Society & Customs",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The legal age of marriage in Nepal is how many years for both men and women?",
+  "options": [
+   "20 years",
+   "18 years",
+   "21 years",
+   "16 years"
+  ],
+  "answer": 0,
+  "explanation": "The legal age of marriage in Nepal is 20 years for both men and women, with parental consent not making an earlier marriage legal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा विवाहको कानुनी उमेर महिला र पुरुष दुवैका लागि कति वर्ष हो?",
+  "options_ne": [
+   "२० वर्ष",
+   "१८ वर्ष",
+   "२१ वर्ष",
+   "१६ वर्ष"
+  ],
+  "explanation_ne": "नेपालमा विवाहको कानुनी उमेर महिला र पुरुष दुवैका लागि २० वर्ष हो।"
+ },
+ {
+  "id": "CULT2-184",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Society & Customs",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the capital city of Nepal?",
+  "options": [
+   "Biratnagar",
+   "Pokhara",
+   "Lalitpur",
+   "Kathmandu"
+  ],
+  "answer": 3,
+  "explanation": "Kathmandu is the capital and largest city of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राजधानी कुन सहर हो?",
+  "options_ne": [
+   "विराटनगर",
+   "पोखरा",
+   "ललितपुर",
+   "काठमाडौं"
+  ],
+  "explanation_ne": "काठमाडौं नेपालको राजधानी र सबैभन्दा ठूलो सहर हो।"
+ },
+ {
+  "id": "CULT2-185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Society & Customs",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The coat of arms (national emblem) of Nepal features Mount Everest, rhododendron and what?",
+  "options": [
+   "A khukuri",
+   "A one-horned rhinoceros",
+   "A handshake between a man and a woman",
+   "A peacock"
+  ],
+  "answer": 2,
+  "explanation": "Nepal's coat of arms features Mount Everest, hills, rhododendron, a handshake between a man and a woman, and the map of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको राष्ट्रिय चिह्न (कोट अफ आर्म्स) मा सगरमाथा, लालीगुराँस र के छ?",
+  "options_ne": [
+   "खुकुरी",
+   "एकसिंगे गैंडा",
+   "पुरुष र महिलाबीचको हात मिलाउने चित्र",
+   "मयूर"
+  ],
+  "explanation_ne": "नेपालको राष्ट्रिय चिह्नमा सगरमाथा, पहाड, लालीगुराँस, पुरुष र महिलाबीचको हात मिलाउने चित्र र नेपालको नक्सा छ।"
+ },
+ {
+  "id": "CULT2-186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The Nepali calendar Bikram Sambat is about how many years ahead of the Gregorian calendar?",
+  "options": [
+   "56 years",
+   "45 years",
+   "67 years",
+   "78 years"
+  ],
+  "answer": 0,
+  "explanation": "The Bikram Sambat calendar is about 56 years and 8 months ahead of the Gregorian calendar.",
+  "source": "General knowledge",
+  "question_ne": "नेपाली पात्रो विक्रम संवत् ग्रेगोरियन पात्रोभन्दा करिब कति वर्ष अगाडि छ?",
+  "options_ne": [
+   "५६ वर्ष",
+   "४५ वर्ष",
+   "६७ वर्ष",
+   "७८ वर्ष"
+  ],
+  "explanation_ne": "विक्रम संवत् पात्रो ग्रेगोरियन पात्रोभन्दा करिब ५६ वर्ष ८ महिना अगाडि छ।"
+ },
+ {
+  "id": "CULT2-187",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Bikram Sambat is believed to have been started by which king?",
+  "options": [
+   "Emperor Ashoka",
+   "King Vikramaditya",
+   "Prithvi Narayan Shah",
+   "King Mandev"
+  ],
+  "answer": 1,
+  "explanation": "Bikram Sambat is believed to have been started by King Vikramaditya in ancient India.",
+  "source": "General knowledge",
+  "question_ne": "विक्रम संवत् कुन राजाले सुरु गरेको मानिन्छ?",
+  "options_ne": [
+   "सम्राट अशोक",
+   "राजा विक्रमादित्य",
+   "पृथ्वीनारायण शाह",
+   "राजा मानदेव"
+  ],
+  "explanation_ne": "विक्रम संवत् प्राचीन भारतका राजा विक्रमादित्यले सुरु गरेको मानिन्छ।"
+ },
+ {
+  "id": "CULT2-188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal Sambat, the calendar of the Newar community, was started by whom?",
+  "options": [
+   "Sankaracharya",
+   "Araniko",
+   "Jayasthiti Malla",
+   "Shankhadhar Sakhwa"
+  ],
+  "answer": 3,
+  "explanation": "Nepal Sambat was started in 880 AD by Shankhadhar Sakhwa, a merchant of Kathmandu.",
+  "source": "General knowledge",
+  "question_ne": "नेवार समुदायको पात्रो नेपाल संवत् कसले सुरु गरेका थिए?",
+  "options_ne": [
+   "शंकराचार्य",
+   "अरनिको",
+   "जयस्थिति मल्ल",
+   "शंखधर साख्वा"
+  ],
+  "explanation_ne": "नेपाल संवत् ई.सं. ८८० मा काठमाडौंका व्यापारी शंखधर साख्वाले सुरु गरेका थिए।"
+ },
+ {
+  "id": "CULT2-189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nepal-telecom"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many months are there in a Bikram Sambat year?",
+  "options": [
+   "12",
+   "13",
+   "10",
+   "11"
+  ],
+  "answer": 0,
+  "explanation": "The Bikram Sambat year has 12 months: Baisakh, Jestha, Asar, Shrawan, Bhadra, Aswin, Kartik, Mangsir, Poush, Magh, Falgun and Chaitra.",
+  "source": "General knowledge",
+  "question_ne": "विक्रम संवत् वर्षमा कति महिना हुन्छन्?",
+  "options_ne": [
+   "१२",
+   "१३",
+   "१०",
+   "११"
+  ],
+  "explanation_ne": "विक्रम संवत् वर्षमा १२ महिना हुन्छन्: वैशाख, जेठ, असार, श्रावण, भाद्र, आश्विन, कार्तिक, मंसिर, पुस, माघ, फाल्गुन र चैत।"
+ },
+ {
+  "id": "CULT2-190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which day is celebrated as Dhan Diwas (National Paddy Day) in Nepal?",
+  "options": [
+   "Asar 15",
+   "Shrawan 15",
+   "Baisakh 1",
+   "Magh 1"
+  ],
+  "answer": 0,
+  "explanation": "Asar 15 is celebrated as Dhan Diwas (National Paddy Day), the day of rice planting, when people eat dahi chiura.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा धान दिवस (राष्ट्रिय धान दिवस) कुन दिन मनाइन्छ?",
+  "options_ne": [
+   "असार १५",
+   "श्रावण १५",
+   "वैशाख १",
+   "माघ १"
+  ],
+  "explanation_ne": "असार १५ लाई धान दिवस (राष्ट्रिय धान दिवस) का रूपमा मनाइन्छ, जुन धान रोप्ने दिन हो र दही चिउरा खाइन्छ।"
+ },
+ {
+  "id": "CULT2-191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The rice-planting festival Ropain Jatra is celebrated in which month?",
+  "options": [
+   "Asar",
+   "Baisakh",
+   "Kartik",
+   "Magh"
+  ],
+  "answer": 0,
+  "explanation": "Ropain Jatra, the joyful rice-planting festival, is celebrated in Asar during the monsoon planting season.",
+  "source": "General knowledge",
+  "question_ne": "धान रोप्ने चाड रोपाइँ जात्रा कुन महिनामा मनाइन्छ?",
+  "options_ne": [
+   "असार",
+   "वैशाख",
+   "कार्तिक",
+   "माघ"
+  ],
+  "explanation_ne": "रोपाइँ जात्रा, धान रोप्ने रमाइलो चाड, मनसुनको रोपाइँ मौसममा असारमा मनाइन्छ।"
+ },
+ {
+  "id": "CULT2-192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Ropain Jatra, the rice-planting festival, is celebrated on the same day as which food day?",
+  "options": [
+   "Dahi Chiura Khane Din",
+   "Kwati Khane Din",
+   "Yomari Punhi",
+   "Fagu Purnima"
+  ],
+  "answer": 0,
+  "explanation": "Ropain Jatra is celebrated on Asar 15, which is also Dahi Chiura Khane Din, the day of eating curd and beaten rice.",
+  "source": "General knowledge",
+  "question_ne": "धान रोप्ने चाड रोपाइँ जात्रा कुन खाने दिनसँगै मनाइन्छ?",
+  "options_ne": [
+   "दही चिउरा खाने दिन",
+   "क्वाटी खाने दिन",
+   "योमरी पुन्ही",
+   "फागु पूर्णिमा"
+  ],
+  "explanation_ne": "रोपाइँ जात्रा असार १५ मा मनाइन्छ, जुन दिन दही चिउरा खाने दिन पनि हो।"
+ },
+ {
+  "id": "CULT2-193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The Newar New Year (Nepal Sambat) begins on which day?",
+  "options": [
+   "Gai Jatra",
+   "Baisakh 1",
+   "Magh 1",
+   "Mha Puja day"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal Sambat new year begins on Mha Puja day, the fourth day of Tihar.",
+  "source": "General knowledge",
+  "question_ne": "नेवारहरूको नयाँ वर्ष (नेपाल संवत्) कुन दिन सुरु हुन्छ?",
+  "options_ne": [
+   "गाईजात्रा",
+   "वैशाख १",
+   "माघ १",
+   "म्ह पूजा"
+  ],
+  "explanation_ne": "नेपाल संवत्को नयाँ वर्ष तिहारको चौथो दिन म्ह पूजामा सुरु हुन्छ।"
+ },
+ {
+  "id": "CULT2-194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Nepal Sambat began in about which year?",
+  "options": [
+   "1854 AD",
+   "57 BC",
+   "1951 AD",
+   "880 AD"
+  ],
+  "answer": 3,
+  "explanation": "Nepal Sambat began in 880 AD, when Shankhadhar Sakhwa started the era.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल संवत् करिब कुन वर्ष सुरु भएको थियो?",
+  "options_ne": [
+   "ई.सं. १८५४",
+   "ई.पू. ५७",
+   "ई.सं. १९५१",
+   "ई.सं. ८८०"
+  ],
+  "explanation_ne": "नेपाल संवत् ई.सं. ८८० मा सुरु भएको थियो, जब शंखधर साख्वाले यो संवत् सुरु गरे।"
+ },
+ {
+  "id": "CULT2-195",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of these is the first month of the Bikram Sambat calendar?",
+  "options": [
+   "Asar",
+   "Magh",
+   "Chaitra",
+   "Baisakh"
+  ],
+  "answer": 3,
+  "explanation": "Baisakh is the first month of the Bikram Sambat calendar, and the Nepali New Year falls on Baisakh 1.",
+  "source": "General knowledge",
+  "question_ne": "यीमध्ये विक्रम संवत् पात्रोको पहिलो महिना कुन हो?",
+  "options_ne": [
+   "असार",
+   "माघ",
+   "चैत",
+   "वैशाख"
+  ],
+  "explanation_ne": "वैशाख विक्रम संवत् पात्रोको पहिलो महिना हो र नेपाली नयाँ वर्ष वैशाख १ गते पर्छ।"
+ },
+ {
+  "id": "CULT2-196",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Janai Purnima is also known as Kwati Khane Din because people eat what on that day?",
+  "options": [
+   "Sel roti",
+   "Kwati (mixed bean soup)",
+   "Yomari",
+   "Dahi Chiura"
+  ],
+  "answer": 1,
+  "explanation": "Janai Purnima is also called Kwati Khane Din because people eat kwati, a soup of nine mixed beans, on that day.",
+  "source": "General knowledge",
+  "question_ne": "जनै पूर्णिमालाई क्वाटी खाने दिन पनि भनिन्छ किनभने त्यस दिन मानिसहरूले के खान्छन्?",
+  "options_ne": [
+   "सेल रोटी",
+   "क्वाटी (मिसाएको गेडागुडीको झोल)",
+   "योमरी",
+   "दही चिउरा"
+  ],
+  "explanation_ne": "जनै पूर्णिमालाई क्वाटी खाने दिन पनि भनिन्छ किनभने त्यस दिन मानिसहरूले नौ थरी गेडागुडी मिसाएको क्वाटी खान्छन्।"
+ },
+ {
+  "id": "CULT2-197",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rishi Panchami, observed by women after Teej, honours whom?",
+  "options": [
+   "Lord Shiva",
+   "Goddess Laxmi",
+   "The Sapta Rishi (seven sages)",
+   "The Nag devta"
+  ],
+  "answer": 2,
+  "explanation": "On Rishi Panchami, women worship the Sapta Rishi, the seven great sages, and cleanse themselves after Teej.",
+  "source": "General knowledge",
+  "question_ne": "तीजपछि महिलाहरूले मनाउने ऋषि पञ्चमीले कसलाई सम्मान गर्छ?",
+  "options_ne": [
+   "भगवान् शिव",
+   "देवी लक्ष्मी",
+   "सप्त ऋषि (सात ऋषि)",
+   "नाग देवता"
+  ],
+  "explanation_ne": "ऋषि पञ्चमीमा महिलाहरूले सप्त ऋषि, सात महान् ऋषिहरूको पूजा गर्छन् र तीजपछि शुद्ध हुन्छन्।"
+ },
+ {
+  "id": "CULT2-198",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Gai Jatra is also called by which name in the Newar language (Nepal Bhasa)?",
+  "options": [
+   "Sa Paru",
+   "Yenya",
+   "Yomari Punhi",
+   "Gunla"
+  ],
+  "answer": 0,
+  "explanation": "Gai Jatra is called Sa Paru in Nepal Bhasa, meaning the festival of cows.",
+  "source": "General knowledge",
+  "question_ne": "गाईजात्रालाई नेवार भाषा (नेपाल भाषा) मा अर्को कुन नामले भनिन्छ?",
+  "options_ne": [
+   "सा पारु",
+   "येँया",
+   "योमरी पुन्ही",
+   "गुँला"
+  ],
+  "explanation_ne": "गाईजात्रालाई नेपाल भाषामा सा पारु भनिन्छ, जसको अर्थ गाईहरूको चाड हो।"
+ },
+ {
+  "id": "CULT2-199",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Chhath festival is dedicated to the worship of which god?",
+  "options": [
+   "Lord Shiva",
+   "The Moon god",
+   "The Sun god",
+   "Goddess Durga"
+  ],
+  "answer": 2,
+  "explanation": "Chhath is dedicated to the Sun god (Surya), to whom devotees offer prayers for health and prosperity.",
+  "source": "General knowledge",
+  "question_ne": "छठ चाड कुन देवताको पूजामा समर्पित छ?",
+  "options_ne": [
+   "भगवान् शिव",
+   "चन्द्र देवता",
+   "सूर्य देवता",
+   "देवी दुर्गा"
+  ],
+  "explanation_ne": "छठ सूर्य देवतामा समर्पित छ, जसलाई भक्तजनहरूले स्वास्थ्य र समृद्धिका लागि प्रार्थना गर्छन्।"
+ },
+ {
+  "id": "CULT2-200",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Festivals",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "During Chhath, devotees offer arghya (water offering) to which?",
+  "options": [
+   "The rain god",
+   "The full moon",
+   "The river goddess",
+   "The setting and rising sun"
+  ],
+  "answer": 3,
+  "explanation": "During Chhath, devotees offer arghya to the setting sun in the evening and the rising sun in the morning.",
+  "source": "General knowledge",
+  "question_ne": "छठमा भक्तजनहरूले अर्घ्य (जल अर्पण) कसलाई चढाउँछन्?",
+  "options_ne": [
+   "वर्षाका देवता",
+   "पूर्णिमा",
+   "नदी देवी",
+   "अस्ताउने र उदाउने सूर्य"
+  ],
+  "explanation_ne": "छठमा भक्तजनहरूले साँझ अस्ताउने सूर्य र बिहान उदाउने सूर्यलाई अर्घ्य चढाउँछन्।"
+ }
+]

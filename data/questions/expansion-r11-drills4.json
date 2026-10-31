@@ -1,0 +1,5510 @@
+[
+ {
+  "id": "R11-DRILL4-0001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 18, 22, 27, 29.",
+  "question_ne": "१८, २२, २७, २९ को औसत कति हो?",
+  "options": [
+   "28",
+   "32",
+   "20",
+   "24"
+  ],
+  "options_ne": [
+   "२८",
+   "३२",
+   "२०",
+   "२४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 15, 25, 26, 30.",
+  "question_ne": "१५, २५, २६, ३० को औसत कति हो?",
+  "options": [
+   "24",
+   "28",
+   "20",
+   "32"
+  ],
+  "options_ne": [
+   "२४",
+   "२८",
+   "२०",
+   "३२"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 20, 20, 25, 31.",
+  "question_ne": "२०, २०, २५, ३१ को औसत कति हो?",
+  "options": [
+   "28",
+   "32",
+   "20",
+   "24"
+  ],
+  "options_ne": [
+   "२८",
+   "३२",
+   "२०",
+   "२४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 12, 28, 28, 28.",
+  "question_ne": "१२, २८, २८, २८ को औसत कति हो?",
+  "options": [
+   "28",
+   "32",
+   "20",
+   "24"
+  ],
+  "options_ne": [
+   "२८",
+   "३२",
+   "२०",
+   "२४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 21, 23, 24, 28.",
+  "question_ne": "२१, २३, २४, २८ को औसत कति हो?",
+  "options": [
+   "28",
+   "24",
+   "20",
+   "32"
+  ],
+  "options_ne": [
+   "२८",
+   "२४",
+   "२०",
+   "३२"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 9, 29, 29, 29.",
+  "question_ne": "९, २९, २९, २९ को औसत कति हो?",
+  "options": [
+   "24",
+   "20",
+   "32",
+   "28"
+  ],
+  "options_ne": [
+   "२४",
+   "२०",
+   "३२",
+   "२८"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 26, 30, 35, 37.",
+  "question_ne": "२६, ३०, ३५, ३७ को औसत कति हो?",
+  "options": [
+   "36",
+   "28",
+   "40",
+   "32"
+  ],
+  "options_ne": [
+   "३६",
+   "२८",
+   "४०",
+   "३२"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 23, 33, 34, 38.",
+  "question_ne": "२३, ३३, ३४, ३८ को औसत कति हो?",
+  "options": [
+   "32",
+   "36",
+   "40",
+   "28"
+  ],
+  "options_ne": [
+   "३२",
+   "३६",
+   "४०",
+   "२८"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 28, 28, 33, 39.",
+  "question_ne": "२८, २८, ३३, ३९ को औसत कति हो?",
+  "options": [
+   "40",
+   "36",
+   "28",
+   "32"
+  ],
+  "options_ne": [
+   "४०",
+   "३६",
+   "२८",
+   "३२"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 20, 36, 36, 36.",
+  "question_ne": "२०, ३६, ३६, ३६ को औसत कति हो?",
+  "options": [
+   "36",
+   "32",
+   "40",
+   "28"
+  ],
+  "options_ne": [
+   "३६",
+   "३२",
+   "४०",
+   "२८"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 29, 31, 32, 36.",
+  "question_ne": "२९, ३१, ३२, ३६ को औसत कति हो?",
+  "options": [
+   "36",
+   "32",
+   "28",
+   "40"
+  ],
+  "options_ne": [
+   "३६",
+   "३२",
+   "२८",
+   "४०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 17, 37, 37, 37.",
+  "question_ne": "१७, ३७, ३७, ३७ को औसत कति हो?",
+  "options": [
+   "32",
+   "40",
+   "36",
+   "28"
+  ],
+  "options_ne": [
+   "३२",
+   "४०",
+   "३६",
+   "२८"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 35, 39, 44, 46.",
+  "question_ne": "३५, ३९, ४४, ४६ को औसत कति हो?",
+  "options": [
+   "45",
+   "49",
+   "37",
+   "41"
+  ],
+  "options_ne": [
+   "४५",
+   "४९",
+   "३७",
+   "४१"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 32, 42, 43, 47.",
+  "question_ne": "३२, ४२, ४३, ४७ को औसत कति हो?",
+  "options": [
+   "37",
+   "45",
+   "49",
+   "41"
+  ],
+  "options_ne": [
+   "३७",
+   "४५",
+   "४९",
+   "४१"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 37, 37, 42, 48.",
+  "question_ne": "३७, ३७, ४२, ४८ को औसत कति हो?",
+  "options": [
+   "45",
+   "41",
+   "37",
+   "49"
+  ],
+  "options_ne": [
+   "४५",
+   "४१",
+   "३७",
+   "४९"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 29, 45, 45, 45.",
+  "question_ne": "२९, ४५, ४५, ४५ को औसत कति हो?",
+  "options": [
+   "41",
+   "49",
+   "37",
+   "45"
+  ],
+  "options_ne": [
+   "४१",
+   "४९",
+   "३७",
+   "४५"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 38, 40, 41, 45.",
+  "question_ne": "३८, ४०, ४१, ४५ को औसत कति हो?",
+  "options": [
+   "37",
+   "45",
+   "41",
+   "49"
+  ],
+  "options_ne": [
+   "३७",
+   "४५",
+   "४१",
+   "४९"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 26, 46, 46, 46.",
+  "question_ne": "२६, ४६, ४६, ४६ को औसत कति हो?",
+  "options": [
+   "37",
+   "41",
+   "45",
+   "49"
+  ],
+  "options_ne": [
+   "३७",
+   "४१",
+   "४५",
+   "४९"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 41.",
+  "explanation_ne": "गणना गर्दा ४१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 47, 51, 56, 58.",
+  "question_ne": "४७, ५१, ५६, ५८ को औसत कति हो?",
+  "options": [
+   "57",
+   "61",
+   "53",
+   "49"
+  ],
+  "options_ne": [
+   "५७",
+   "६१",
+   "५३",
+   "४९"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 44, 54, 55, 59.",
+  "question_ne": "४४, ५४, ५५, ५९ को औसत कति हो?",
+  "options": [
+   "53",
+   "57",
+   "61",
+   "49"
+  ],
+  "options_ne": [
+   "५३",
+   "५७",
+   "६१",
+   "४९"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 49, 49, 54, 60.",
+  "question_ne": "४९, ४९, ५४, ६० को औसत कति हो?",
+  "options": [
+   "49",
+   "61",
+   "57",
+   "53"
+  ],
+  "options_ne": [
+   "४९",
+   "६१",
+   "५७",
+   "५३"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 41, 57, 57, 57.",
+  "question_ne": "४१, ५७, ५७, ५७ को औसत कति हो?",
+  "options": [
+   "57",
+   "49",
+   "53",
+   "61"
+  ],
+  "options_ne": [
+   "५७",
+   "४९",
+   "५३",
+   "६१"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 50, 52, 53, 57.",
+  "question_ne": "५०, ५२, ५३, ५७ को औसत कति हो?",
+  "options": [
+   "53",
+   "57",
+   "61",
+   "49"
+  ],
+  "options_ne": [
+   "५३",
+   "५७",
+   "६१",
+   "४९"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 38, 58, 58, 58.",
+  "question_ne": "३८, ५८, ५८, ५८ को औसत कति हो?",
+  "options": [
+   "61",
+   "49",
+   "53",
+   "57"
+  ],
+  "options_ne": [
+   "६१",
+   "४९",
+   "५३",
+   "५७"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 53.",
+  "explanation_ne": "गणना गर्दा ५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 60, 64, 69, 71.",
+  "question_ne": "६०, ६४, ६९, ७१ को औसत कति हो?",
+  "options": [
+   "66",
+   "74",
+   "62",
+   "70"
+  ],
+  "options_ne": [
+   "६६",
+   "७४",
+   "६२",
+   "७०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 57, 67, 68, 72.",
+  "question_ne": "५७, ६७, ६८, ७२ को औसत कति हो?",
+  "options": [
+   "66",
+   "74",
+   "62",
+   "70"
+  ],
+  "options_ne": [
+   "६६",
+   "७४",
+   "६२",
+   "७०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 62, 62, 67, 73.",
+  "question_ne": "६२, ६२, ६७, ७३ को औसत कति हो?",
+  "options": [
+   "62",
+   "66",
+   "70",
+   "74"
+  ],
+  "options_ne": [
+   "६२",
+   "६६",
+   "७०",
+   "७४"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 54, 70, 70, 70.",
+  "question_ne": "५४, ७०, ७०, ७० को औसत कति हो?",
+  "options": [
+   "66",
+   "62",
+   "70",
+   "74"
+  ],
+  "options_ne": [
+   "६६",
+   "६२",
+   "७०",
+   "७४"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 63, 65, 66, 70.",
+  "question_ne": "६३, ६५, ६६, ७० को औसत कति हो?",
+  "options": [
+   "70",
+   "62",
+   "66",
+   "74"
+  ],
+  "options_ne": [
+   "७०",
+   "६२",
+   "६६",
+   "७४"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 51, 71, 71, 71.",
+  "question_ne": "५१, ७१, ७१, ७१ को औसत कति हो?",
+  "options": [
+   "62",
+   "70",
+   "74",
+   "66"
+  ],
+  "options_ne": [
+   "६२",
+   "७०",
+   "७४",
+   "६६"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 72, 76, 81, 83.",
+  "question_ne": "७२, ७६, ८१, ८३ को औसत कति हो?",
+  "options": [
+   "82",
+   "74",
+   "86",
+   "78"
+  ],
+  "options_ne": [
+   "८२",
+   "७४",
+   "८६",
+   "७८"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 69, 79, 80, 84.",
+  "question_ne": "६९, ७९, ८०, ८४ को औसत कति हो?",
+  "options": [
+   "74",
+   "86",
+   "78",
+   "82"
+  ],
+  "options_ne": [
+   "७४",
+   "८६",
+   "७८",
+   "८२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 74, 74, 79, 85.",
+  "question_ne": "७४, ७४, ७९, ८५ को औसत कति हो?",
+  "options": [
+   "78",
+   "86",
+   "74",
+   "82"
+  ],
+  "options_ne": [
+   "७८",
+   "८६",
+   "७४",
+   "८२"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 66, 82, 82, 82.",
+  "question_ne": "६६, ८२, ८२, ८२ को औसत कति हो?",
+  "options": [
+   "82",
+   "86",
+   "74",
+   "78"
+  ],
+  "options_ne": [
+   "८२",
+   "८६",
+   "७४",
+   "७८"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 75, 77, 78, 82.",
+  "question_ne": "७५, ७७, ७८, ८२ को औसत कति हो?",
+  "options": [
+   "78",
+   "82",
+   "86",
+   "74"
+  ],
+  "options_ne": [
+   "७८",
+   "८२",
+   "८६",
+   "७४"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the average of 63, 83, 83, 83.",
+  "question_ne": "६३, ८३, ८३, ८३ को औसत कति हो?",
+  "options": [
+   "78",
+   "74",
+   "86",
+   "82"
+  ],
+  "options_ne": [
+   "७८",
+   "७४",
+   "८६",
+   "८२"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 78.",
+  "explanation_ne": "गणना गर्दा ७८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 72 and 108.",
+  "question_ne": "७२ र १०८ को HCF कति हो?",
+  "options": [
+   "24",
+   "72",
+   "39",
+   "36"
+  ],
+  "options_ne": [
+   "२४",
+   "७२",
+   "३९",
+   "३६"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 36.",
+  "explanation_ne": "गणना गर्दा ३६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 72 and 108.",
+  "question_ne": "७२ र १०८ को LCM कति हो?",
+  "options": [
+   "144",
+   "36",
+   "288",
+   "216"
+  ],
+  "options_ne": [
+   "१४४",
+   "३६",
+   "२८८",
+   "२१६"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 216.",
+  "explanation_ne": "गणना गर्दा २१६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 84 and 126.",
+  "question_ne": "८४ र १२६ को HCF कति हो?",
+  "options": [
+   "45",
+   "84",
+   "42",
+   "28"
+  ],
+  "options_ne": [
+   "४५",
+   "८४",
+   "४२",
+   "२८"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 42.",
+  "explanation_ne": "गणना गर्दा ४२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 84 and 126.",
+  "question_ne": "८४ र १२६ को LCM कति हो?",
+  "options": [
+   "252",
+   "168",
+   "42",
+   "336"
+  ],
+  "options_ne": [
+   "२५२",
+   "१६८",
+   "४२",
+   "३३६"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 252.",
+  "explanation_ne": "गणना गर्दा २५२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 90 and 150.",
+  "question_ne": "९० र १५० को HCF कति हो?",
+  "options": [
+   "60",
+   "30",
+   "31",
+   "33"
+  ],
+  "options_ne": [
+   "६०",
+   "३०",
+   "३१",
+   "३३"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 30.",
+  "explanation_ne": "गणना गर्दा ३० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 90 and 150.",
+  "question_ne": "९० र १५० को LCM कति हो?",
+  "options": [
+   "30",
+   "540",
+   "360",
+   "450"
+  ],
+  "options_ne": [
+   "३०",
+   "५४०",
+   "३६०",
+   "४५०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 450.",
+  "explanation_ne": "गणना गर्दा ४५० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 96 and 144.",
+  "question_ne": "९६ र १४४ को HCF कति हो?",
+  "options": [
+   "32",
+   "51",
+   "96",
+   "48"
+  ],
+  "options_ne": [
+   "३२",
+   "५१",
+   "९६",
+   "४८"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 48.",
+  "explanation_ne": "गणना गर्दा ४८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 96 and 144.",
+  "question_ne": "९६ र १४४ को LCM कति हो?",
+  "options": [
+   "48",
+   "384",
+   "288",
+   "192"
+  ],
+  "options_ne": [
+   "४८",
+   "३८४",
+   "२८८",
+   "१९२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 288.",
+  "explanation_ne": "गणना गर्दा २८८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 105 and 175.",
+  "question_ne": "१०५ र १७५ को HCF कति हो?",
+  "options": [
+   "38",
+   "36",
+   "35",
+   "70"
+  ],
+  "options_ne": [
+   "३८",
+   "३६",
+   "३५",
+   "७०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 35.",
+  "explanation_ne": "गणना गर्दा ३५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 105 and 175.",
+  "question_ne": "१०५ र १७५ को LCM कति हो?",
+  "options": [
+   "35",
+   "630",
+   "420",
+   "525"
+  ],
+  "options_ne": [
+   "३५",
+   "६३०",
+   "४२०",
+   "५२५"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 525.",
+  "explanation_ne": "गणना गर्दा ५२५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 120 and 180.",
+  "question_ne": "१२० र १८० को HCF कति हो?",
+  "options": [
+   "40",
+   "120",
+   "60",
+   "63"
+  ],
+  "options_ne": [
+   "४०",
+   "१२०",
+   "६०",
+   "६३"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 60.",
+  "explanation_ne": "गणना गर्दा ६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 120 and 180.",
+  "question_ne": "१२० र १८० को LCM कति हो?",
+  "options": [
+   "360",
+   "240",
+   "480",
+   "60"
+  ],
+  "options_ne": [
+   "३६०",
+   "२४०",
+   "४८०",
+   "६०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 360.",
+  "explanation_ne": "गणना गर्दा ३६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 66 and 99.",
+  "question_ne": "६६ र ९९ को HCF कति हो?",
+  "options": [
+   "36",
+   "33",
+   "66",
+   "22"
+  ],
+  "options_ne": [
+   "३६",
+   "३३",
+   "६६",
+   "२२"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 33.",
+  "explanation_ne": "गणना गर्दा ३३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 66 and 99.",
+  "question_ne": "६६ र ९९ को LCM कति हो?",
+  "options": [
+   "33",
+   "132",
+   "264",
+   "198"
+  ],
+  "options_ne": [
+   "३३",
+   "१३२",
+   "२६४",
+   "१९८"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 198.",
+  "explanation_ne": "गणना गर्दा १९८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 78 and 117.",
+  "question_ne": "७८ र ११७ को HCF कति हो?",
+  "options": [
+   "39",
+   "78",
+   "26",
+   "42"
+  ],
+  "options_ne": [
+   "३९",
+   "७८",
+   "२६",
+   "४२"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 39.",
+  "explanation_ne": "गणना गर्दा ३९ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 78 and 117.",
+  "question_ne": "७८ र ११७ को LCM कति हो?",
+  "options": [
+   "234",
+   "39",
+   "312",
+   "156"
+  ],
+  "options_ne": [
+   "२३४",
+   "३९",
+   "३१२",
+   "१५६"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 234.",
+  "explanation_ne": "गणना गर्दा २३४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 54 and 81.",
+  "question_ne": "५४ र ८१ को HCF कति हो?",
+  "options": [
+   "18",
+   "30",
+   "54",
+   "27"
+  ],
+  "options_ne": [
+   "१८",
+   "३०",
+   "५४",
+   "२७"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 27.",
+  "explanation_ne": "गणना गर्दा २७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 54 and 81.",
+  "question_ne": "५४ र ८१ को LCM कति हो?",
+  "options": [
+   "108",
+   "216",
+   "27",
+   "162"
+  ],
+  "options_ne": [
+   "१०८",
+   "२१६",
+   "२७",
+   "१६२"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 162.",
+  "explanation_ne": "गणना गर्दा १६२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 132 and 198.",
+  "question_ne": "१३२ र १९८ को HCF कति हो?",
+  "options": [
+   "132",
+   "66",
+   "69",
+   "44"
+  ],
+  "options_ne": [
+   "१३२",
+   "६६",
+   "६९",
+   "४४"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 66.",
+  "explanation_ne": "गणना गर्दा ६६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 132 and 198.",
+  "question_ne": "१३२ र १९८ को LCM कति हो?",
+  "options": [
+   "396",
+   "528",
+   "264",
+   "66"
+  ],
+  "options_ne": [
+   "३९६",
+   "५२८",
+   "२६४",
+   "६६"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 396.",
+  "explanation_ne": "गणना गर्दा ३९६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 48 and 120.",
+  "question_ne": "४८ र १२० को HCF कति हो?",
+  "options": [
+   "24",
+   "27",
+   "48",
+   "16"
+  ],
+  "options_ne": [
+   "२४",
+   "२७",
+   "४८",
+   "१६"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 48 and 120.",
+  "question_ne": "४८ र १२० को LCM कति हो?",
+  "options": [
+   "240",
+   "192",
+   "24",
+   "288"
+  ],
+  "options_ne": [
+   "२४०",
+   "१९२",
+   "२४",
+   "२८८"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 240.",
+  "explanation_ne": "गणना गर्दा २४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 60 and 150.",
+  "question_ne": "६० र १५० को HCF कति हो?",
+  "options": [
+   "33",
+   "20",
+   "60",
+   "30"
+  ],
+  "options_ne": [
+   "३३",
+   "२०",
+   "६०",
+   "३०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 30.",
+  "explanation_ne": "गणना गर्दा ३० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 60 and 150.",
+  "question_ne": "६० र १५० को LCM कति हो?",
+  "options": [
+   "300",
+   "360",
+   "30",
+   "240"
+  ],
+  "options_ne": [
+   "३००",
+   "३६०",
+   "३०",
+   "२४०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 300.",
+  "explanation_ne": "गणना गर्दा ३०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 75 and 125.",
+  "question_ne": "७५ र १२५ को HCF कति हो?",
+  "options": [
+   "26",
+   "50",
+   "25",
+   "28"
+  ],
+  "options_ne": [
+   "२६",
+   "५०",
+   "२५",
+   "२८"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 25.",
+  "explanation_ne": "गणना गर्दा २५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 75 and 125.",
+  "question_ne": "७५ र १२५ को LCM कति हो?",
+  "options": [
+   "25",
+   "375",
+   "300",
+   "450"
+  ],
+  "options_ne": [
+   "२५",
+   "३७५",
+   "३००",
+   "४५०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 375.",
+  "explanation_ne": "गणना गर्दा ३७५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 88 and 132.",
+  "question_ne": "८८ र १३२ को HCF कति हो?",
+  "options": [
+   "29",
+   "88",
+   "44",
+   "47"
+  ],
+  "options_ne": [
+   "२९",
+   "८८",
+   "४४",
+   "४७"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 44.",
+  "explanation_ne": "गणना गर्दा ४४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 88 and 132.",
+  "question_ne": "८८ र १३२ को LCM कति हो?",
+  "options": [
+   "264",
+   "44",
+   "176",
+   "352"
+  ],
+  "options_ne": [
+   "२६४",
+   "४४",
+   "१७६",
+   "३५२"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 264.",
+  "explanation_ne": "गणना गर्दा २६४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the HCF of 102 and 153.",
+  "question_ne": "१०२ र १५३ को HCF कति हो?",
+  "options": [
+   "102",
+   "54",
+   "34",
+   "51"
+  ],
+  "options_ne": [
+   "१०२",
+   "५४",
+   "३४",
+   "५१"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 51.",
+  "explanation_ne": "गणना गर्दा ५१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "HCF & LCM",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the LCM of 102 and 153.",
+  "question_ne": "१०२ र १५३ को LCM कति हो?",
+  "options": [
+   "204",
+   "306",
+   "51",
+   "408"
+  ],
+  "options_ne": [
+   "२०४",
+   "३०६",
+   "५१",
+   "४०८"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 306.",
+  "explanation_ne": "गणना गर्दा ३०६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 200 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू २०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 100",
+   "Rs 40",
+   "Rs 60",
+   "Rs 80"
+  ],
+  "options_ne": [
+   "रू १००",
+   "रू ४०",
+   "रू ६०",
+   "रू ८०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 200 x 3/10 = 60.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = २०० × ३/१० = ६०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू ३०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 60",
+   "Rs 150",
+   "Rs 120",
+   "Rs 90"
+  ],
+  "options_ne": [
+   "रू ६०",
+   "रू १५०",
+   "रू १२०",
+   "रू ९०"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. Second share = 300 x 3/10 = 90.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ३०० × ३/१० = ९०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 400 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू ४०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 200",
+   "Rs 160",
+   "Rs 120",
+   "Rs 80"
+  ],
+  "options_ne": [
+   "रू २००",
+   "रू १६०",
+   "रू १२०",
+   "रू ८०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 400 x 3/10 = 120.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ४०० × ३/१० = १२०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 600 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू ६०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 180",
+   "Rs 300",
+   "Rs 120",
+   "Rs 240"
+  ],
+  "options_ne": [
+   "रू १८०",
+   "रू ३००",
+   "रू १२०",
+   "रू २४०"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 10. Second share = 600 x 3/10 = 180.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ६०० × ३/१० = १८०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू ९०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 360",
+   "Rs 180",
+   "Rs 270",
+   "Rs 450"
+  ],
+  "options_ne": [
+   "रू ३६०",
+   "रू १८०",
+   "रू २७०",
+   "रू ४५०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 900 x 3/10 = 270.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ९०० × ३/१० = २७०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 1200 is divided in the ratio 2:3:5. What is the second share?",
+  "question_ne": "रू १२०० लाई २:३:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 480",
+   "Rs 600",
+   "Rs 360",
+   "Rs 240"
+  ],
+  "options_ne": [
+   "रू ४८०",
+   "रू ६००",
+   "रू ३६०",
+   "रू २४०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 1200 x 3/10 = 360.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = १२०० × ३/१० = ३६०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 3:4:5. What is the second share?",
+  "question_ne": "रू ३०० लाई ३:४:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 75",
+   "Rs 100",
+   "Rs 125",
+   "Rs 101"
+  ],
+  "options_ne": [
+   "रू ७५",
+   "रू १००",
+   "रू १२५",
+   "रू १०१"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 12. Second share = 300 x 4/12 = 100.",
+  "explanation_ne": "जम्मा भाग = १२। दोस्रो भाग = ३०० × ४/१२ = १००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 600 is divided in the ratio 3:4:5. What is the second share?",
+  "question_ne": "रू ६०० लाई ३:४:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 200",
+   "Rs 250",
+   "Rs 150",
+   "Rs 201"
+  ],
+  "options_ne": [
+   "रू २००",
+   "रू २५०",
+   "रू १५०",
+   "रू २०१"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 12. Second share = 600 x 4/12 = 200.",
+  "explanation_ne": "जम्मा भाग = १२। दोस्रो भाग = ६०० × ४/१२ = २००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 3:4:5. What is the second share?",
+  "question_ne": "रू ९०० लाई ३:४:५ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 225",
+   "Rs 301",
+   "Rs 300",
+   "Rs 375"
+  ],
+  "options_ne": [
+   "रू २२५",
+   "रू ३०१",
+   "रू ३००",
+   "रू ३७५"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 12. Second share = 900 x 4/12 = 300.",
+  "explanation_ne": "जम्मा भाग = १२। दोस्रो भाग = ९०० × ४/१२ = ३००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 1:2:3. What is the second share?",
+  "question_ne": "रू ३०० लाई १:२:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 50",
+   "Rs 150",
+   "Rs 101",
+   "Rs 100"
+  ],
+  "options_ne": [
+   "रू ५०",
+   "रू १५०",
+   "रू १०१",
+   "रू १००"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 6. Second share = 300 x 2/6 = 100.",
+  "explanation_ne": "जम्मा भाग = ६। दोस्रो भाग = ३०० × २/६ = १००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 1:2:3. What is the second share?",
+  "question_ne": "रू ९०० लाई १:२:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 301",
+   "Rs 450",
+   "Rs 300",
+   "Rs 150"
+  ],
+  "options_ne": [
+   "रू ३०१",
+   "रू ४५०",
+   "रू ३००",
+   "रू १५०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 6. Second share = 900 x 2/6 = 300.",
+  "explanation_ne": "जम्मा भाग = ६। दोस्रो भाग = ९०० × २/६ = ३००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 4:5:6. What is the second share?",
+  "question_ne": "रू ३०० लाई ४:५:६ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 120",
+   "Rs 80",
+   "Rs 100",
+   "Rs 101"
+  ],
+  "options_ne": [
+   "रू १२०",
+   "रू ८०",
+   "रू १००",
+   "रू १०१"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 15. Second share = 300 x 5/15 = 100.",
+  "explanation_ne": "जम्मा भाग = १५। दोस्रो भाग = ३०० × ५/१५ = १००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 600 is divided in the ratio 4:5:6. What is the second share?",
+  "question_ne": "रू ६०० लाई ४:५:६ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 200",
+   "Rs 201",
+   "Rs 240",
+   "Rs 160"
+  ],
+  "options_ne": [
+   "रू २००",
+   "रू २०१",
+   "रू २४०",
+   "रू १६०"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 15. Second share = 600 x 5/15 = 200.",
+  "explanation_ne": "जम्मा भाग = १५। दोस्रो भाग = ६०० × ५/१५ = २००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 4:5:6. What is the second share?",
+  "question_ne": "रू ९०० लाई ४:५:६ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 360",
+   "Rs 240",
+   "Rs 300",
+   "Rs 301"
+  ],
+  "options_ne": [
+   "रू ३६०",
+   "रू २४०",
+   "रू ३००",
+   "रू ३०१"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 15. Second share = 900 x 5/15 = 300.",
+  "explanation_ne": "जम्मा भाग = १५। दोस्रो भाग = ९०० × ५/१५ = ३००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 1200 is divided in the ratio 4:5:6. What is the second share?",
+  "question_ne": "रू १२०० लाई ४:५:६ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 401",
+   "Rs 320",
+   "Rs 400",
+   "Rs 480"
+  ],
+  "options_ne": [
+   "रू ४०१",
+   "रू ३२०",
+   "रू ४००",
+   "रू ४८०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 15. Second share = 1200 x 5/15 = 400.",
+  "explanation_ne": "जम्मा भाग = १५। दोस्रो भाग = १२०० × ५/१५ = ४००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 200 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू २०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 60",
+   "Rs 40",
+   "Rs 120",
+   "Rs 100"
+  ],
+  "options_ne": [
+   "रू ६०",
+   "रू ४०",
+   "रू १२०",
+   "रू १००"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. Second share = 200 x 5/10 = 100.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = २०० × ५/१० = १००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू ३०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 90",
+   "Rs 180",
+   "Rs 60",
+   "Rs 150"
+  ],
+  "options_ne": [
+   "रू ९०",
+   "रू १८०",
+   "रू ६०",
+   "रू १५०"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. Second share = 300 x 5/10 = 150.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ३०० × ५/१० = १५०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 400 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू ४०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 240",
+   "Rs 120",
+   "Rs 200",
+   "Rs 80"
+  ],
+  "options_ne": [
+   "रू २४०",
+   "रू १२०",
+   "रू २००",
+   "रू ८०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 400 x 5/10 = 200.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ४०० × ५/१० = २००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 600 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू ६०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 360",
+   "Rs 120",
+   "Rs 180",
+   "Rs 300"
+  ],
+  "options_ne": [
+   "रू ३६०",
+   "रू १२०",
+   "रू १८०",
+   "रू ३००"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. Second share = 600 x 5/10 = 300.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ६०० × ५/१० = ३००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू ९०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 270",
+   "Rs 450",
+   "Rs 180",
+   "Rs 540"
+  ],
+  "options_ne": [
+   "रू २७०",
+   "रू ४५०",
+   "रू १८०",
+   "रू ५४०"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 10. Second share = 900 x 5/10 = 450.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ९०० × ५/१० = ४५०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 1200 is divided in the ratio 2:5:3. What is the second share?",
+  "question_ne": "रू १२०० लाई २:५:३ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 240",
+   "Rs 600",
+   "Rs 720",
+   "Rs 360"
+  ],
+  "options_ne": [
+   "रू २४०",
+   "रू ६००",
+   "रू ७२०",
+   "रू ३६०"
+  ],
+  "answer": 1,
+  "explanation": "Total parts = 10. Second share = 1200 x 5/10 = 600.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = १२०० × ५/१० = ६००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 200 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू २०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 100",
+   "Rs 40",
+   "Rs 60",
+   "Rs 80"
+  ],
+  "options_ne": [
+   "रू १००",
+   "रू ४०",
+   "रू ६०",
+   "रू ८०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 200 x 3/10 = 60.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = २०० × ३/१० = ६०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 300 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू ३०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 90",
+   "Rs 60",
+   "Rs 120",
+   "Rs 150"
+  ],
+  "options_ne": [
+   "रू ९०",
+   "रू ६०",
+   "रू १२०",
+   "रू १५०"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 10. Second share = 300 x 3/10 = 90.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ३०० × ३/१० = ९०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 400 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू ४०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 160",
+   "Rs 80",
+   "Rs 200",
+   "Rs 120"
+  ],
+  "options_ne": [
+   "रू १६०",
+   "रू ८०",
+   "रू २००",
+   "रू १२०"
+  ],
+  "answer": 3,
+  "explanation": "Total parts = 10. Second share = 400 x 3/10 = 120.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ४०० × ३/१० = १२०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 600 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू ६०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 180",
+   "Rs 240",
+   "Rs 300",
+   "Rs 120"
+  ],
+  "options_ne": [
+   "रू १८०",
+   "रू २४०",
+   "रू ३००",
+   "रू १२०"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 10. Second share = 600 x 3/10 = 180.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ६०० × ३/१० = १८०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 900 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू ९०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 450",
+   "Rs 180",
+   "Rs 270",
+   "Rs 360"
+  ],
+  "options_ne": [
+   "रू ४५०",
+   "रू १८०",
+   "रू २७०",
+   "रू ३६०"
+  ],
+  "answer": 2,
+  "explanation": "Total parts = 10. Second share = 900 x 3/10 = 270.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = ९०० × ३/१० = २७०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rs 1200 is divided in the ratio 5:3:2. What is the second share?",
+  "question_ne": "रू १२०० लाई ५:३:२ अनुपातमा बाँड्दा दोस्रो भाग कति हो?",
+  "options": [
+   "Rs 360",
+   "Rs 480",
+   "Rs 600",
+   "Rs 240"
+  ],
+  "options_ne": [
+   "रू ३६०",
+   "रू ४८०",
+   "रू ६००",
+   "रू २४०"
+  ],
+  "answer": 0,
+  "explanation": "Total parts = 10. Second share = 1200 x 3/10 = 360.",
+  "explanation_ne": "जम्मा भाग = १०। दोस्रो भाग = १२०० × ३/१० = ३६०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 3:6 = 9:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ३:६ = ९:x।",
+  "options": [
+   "20",
+   "18",
+   "16",
+   "6"
+  ],
+  "options_ne": [
+   "२०",
+   "१८",
+   "१६",
+   "६"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 18.",
+  "explanation_ne": "गणना गर्दा १८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 4:8 = 12:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ४:८ = १२:x।",
+  "options": [
+   "8",
+   "24",
+   "22",
+   "26"
+  ],
+  "options_ne": [
+   "८",
+   "२४",
+   "२२",
+   "२६"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 5:15 = 7:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ५:१५ = ७:x।",
+  "options": [
+   "19",
+   "21",
+   "15",
+   "23"
+  ],
+  "options_ne": [
+   "१९",
+   "२१",
+   "१५",
+   "२३"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 21.",
+  "explanation_ne": "गणना गर्दा २१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 2:10 = 3:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: २:१० = ३:x।",
+  "options": [
+   "13",
+   "10",
+   "15",
+   "17"
+  ],
+  "options_ne": [
+   "१३",
+   "१०",
+   "१५",
+   "१७"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 6:9 = 10:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ६:९ = १०:x।",
+  "options": [
+   "9",
+   "15",
+   "13",
+   "17"
+  ],
+  "options_ne": [
+   "९",
+   "१५",
+   "१३",
+   "१७"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 8:12 = 6:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ८:१२ = ६:x।",
+  "options": [
+   "12",
+   "9",
+   "11",
+   "7"
+  ],
+  "options_ne": [
+   "१२",
+   "९",
+   "११",
+   "७"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 9.",
+  "explanation_ne": "गणना गर्दा ९ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 7:21 = 5:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ७:२१ = ५:x।",
+  "options": [
+   "15",
+   "21",
+   "17",
+   "13"
+  ],
+  "options_ne": [
+   "१५",
+   "२१",
+   "१७",
+   "१३"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ratio & Proportion",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find x: 9:27 = 4:x.",
+  "question_ne": "x पत्ता लगाउनुहोस्: ९:२७ = ४:x।",
+  "options": [
+   "10",
+   "27",
+   "14",
+   "12"
+  ],
+  "options_ne": [
+   "१०",
+   "२७",
+   "१४",
+   "१२"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 12.",
+  "explanation_ne": "गणना गर्दा १२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 5 pens cost Rs 75, what is the cost of 8 pens?",
+  "question_ne": "यदि ५ वटा कलमको मूल्य रू ७५ भए ८ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "135",
+   "75",
+   "105",
+   "120"
+  ],
+  "options_ne": [
+   "१३५",
+   "७५",
+   "१०५",
+   "१२०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 120.",
+  "explanation_ne": "गणना गर्दा १२० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 4 pens cost Rs 96, what is the cost of 7 pens?",
+  "question_ne": "यदि ४ वटा कलमको मूल्य रू ९६ भए ७ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "192",
+   "96",
+   "168",
+   "144"
+  ],
+  "options_ne": [
+   "१९२",
+   "९६",
+   "१६८",
+   "१४४"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 168.",
+  "explanation_ne": "गणना गर्दा १६८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 6 pens cost Rs 144, what is the cost of 9 pens?",
+  "question_ne": "यदि ६ वटा कलमको मूल्य रू १४४ भए ९ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "216",
+   "144",
+   "192",
+   "240"
+  ],
+  "options_ne": [
+   "२१६",
+   "१४४",
+   "१९२",
+   "२४०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 216.",
+  "explanation_ne": "गणना गर्दा २१६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 8 pens cost Rs 200, what is the cost of 5 pens?",
+  "question_ne": "यदि ८ वटा कलमको मूल्य रू २०० भए ५ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "125",
+   "200",
+   "100",
+   "150"
+  ],
+  "options_ne": [
+   "१२५",
+   "२००",
+   "१००",
+   "१५०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 125.",
+  "explanation_ne": "गणना गर्दा १२५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 10 pens cost Rs 250, what is the cost of 4 pens?",
+  "question_ne": "यदि १० वटा कलमको मूल्य रू २५० भए ४ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "250",
+   "125",
+   "100",
+   "75"
+  ],
+  "options_ne": [
+   "२५०",
+   "१२५",
+   "१००",
+   "७५"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 100.",
+  "explanation_ne": "गणना गर्दा १०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 3 pens cost Rs 81, what is the cost of 11 pens?",
+  "question_ne": "यदि ३ वटा कलमको मूल्य रू ८१ भए ११ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "81",
+   "270",
+   "297",
+   "324"
+  ],
+  "options_ne": [
+   "८१",
+   "२७०",
+   "२९७",
+   "३२४"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 297.",
+  "explanation_ne": "गणना गर्दा २९७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 7 pens cost Rs 175, what is the cost of 3 pens?",
+  "question_ne": "यदि ७ वटा कलमको मूल्य रू १७५ भए ३ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "100",
+   "175",
+   "75",
+   "50"
+  ],
+  "options_ne": [
+   "१००",
+   "१७५",
+   "७५",
+   "५०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 75.",
+  "explanation_ne": "गणना गर्दा ७५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Unitary Method",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If 12 pens cost Rs 300, what is the cost of 5 pens?",
+  "question_ne": "यदि १२ वटा कलमको मूल्य रू ३०० भए ५ वटा कलमको मूल्य कति हो?",
+  "options": [
+   "100",
+   "300",
+   "150",
+   "125"
+  ],
+  "options_ne": [
+   "१००",
+   "३००",
+   "१५०",
+   "१२५"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 125.",
+  "explanation_ne": "गणना गर्दा १२५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time & Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A finishes a work in 10 days, B in 15 days and C in 30 days. Working together, in how many days do they finish it?",
+  "question_ne": "A ले १० दिनमा, B ले १५ दिनमा र C ले ३० दिनमा एउटा काम सकाउँछन्। सँगै काम गर्दा कति दिन लाग्छ?",
+  "options": [
+   "6",
+   "5",
+   "4",
+   "10"
+  ],
+  "options_ne": [
+   "६",
+   "५",
+   "४",
+   "१०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 5.",
+  "explanation_ne": "गणना गर्दा ५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time & Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A finishes a work in 12 days, B in 18 days and C in 36 days. Working together, in how many days do they finish it?",
+  "question_ne": "A ले १२ दिनमा, B ले १८ दिनमा र C ले ३६ दिनमा एउटा काम सकाउँछन्। सँगै काम गर्दा कति दिन लाग्छ?",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "12"
+  ],
+  "options_ne": [
+   "७",
+   "६",
+   "५",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 6.",
+  "explanation_ne": "गणना गर्दा ६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time & Work",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A finishes a work in 8 days, B in 12 days and C in 24 days. Working together, in how many days do they finish it?",
+  "question_ne": "A ले ८ दिनमा, B ले १२ दिनमा र C ले २४ दिनमा एउटा काम सकाउँछन्। सँगै काम गर्दा कति दिन लाग्छ?",
+  "options": [
+   "5",
+   "4",
+   "3",
+   "8"
+  ],
+  "options_ne": [
+   "५",
+   "४",
+   "३",
+   "८"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 4.",
+  "explanation_ne": "गणना गर्दा ४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trains",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two trains 180 m and 120 m long run at 72 km/h and 54 km/h in same directions. How long do they take to cross each other?",
+  "question_ne": "१८० मिटर र १२० मिटर लामा दुई रेल ७२ र ५४ किमी/घण्टाको गतिमा एउटै दिशामा दौडिन्छन्। एकअर्कालाई पार गर्न कति समय लाग्छ?",
+  "options": [
+   "58",
+   "60",
+   "62",
+   "30"
+  ],
+  "options_ne": [
+   "५८",
+   "६०",
+   "६२",
+   "३०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 60.",
+  "explanation_ne": "गणना गर्दा ६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat goes downstream at 18 km/h (still-water speed 14 km/h, stream 4 km/h). How long does it take to cover 54 km downstream?",
+  "question_ne": "एउटा डुङ्गा downstream गतिमा १८ किमी/घण्टा (स्थिर पानीमा १४, बहाव ४) चल्छ। downstream ५४ किमी पार गर्न कति समय लाग्छ?",
+  "options": [
+   "13",
+   "4",
+   "3",
+   "2"
+  ],
+  "options_ne": [
+   "१३",
+   "४",
+   "३",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 3.",
+  "explanation_ne": "गणना गर्दा ३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat goes downstream at 22 km/h (still-water speed 16 km/h, stream 6 km/h). How long does it take to cover 66 km downstream?",
+  "question_ne": "एउटा डुङ्गा downstream गतिमा २२ किमी/घण्टा (स्थिर पानीमा १६, बहाव ६) चल्छ। downstream ६६ किमी पार गर्न कति समय लाग्छ?",
+  "options": [
+   "2",
+   "4",
+   "13",
+   "3"
+  ],
+  "options_ne": [
+   "२",
+   "४",
+   "१३",
+   "३"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 3.",
+  "explanation_ne": "गणना गर्दा ३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat goes downstream at 25 km/h (still-water speed 20 km/h, stream 5 km/h). How long does it take to cover 100 km downstream?",
+  "question_ne": "एउटा डुङ्गा downstream गतिमा २५ किमी/घण्टा (स्थिर पानीमा २०, बहाव ५) चल्छ। downstream १०० किमी पार गर्न कति समय लाग्छ?",
+  "options": [
+   "14",
+   "5",
+   "3",
+   "4"
+  ],
+  "options_ne": [
+   "१४",
+   "५",
+   "३",
+   "४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 4.",
+  "explanation_ne": "गणना गर्दा ४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat goes downstream at 24 km/h (still-water speed 22 km/h, stream 2 km/h). How long does it take to cover 120 km downstream?",
+  "question_ne": "एउटा डुङ्गा downstream गतिमा २४ किमी/घण्टा (स्थिर पानीमा २२, बहाव २) चल्छ। downstream १२० किमी पार गर्न कति समय लाग्छ?",
+  "options": [
+   "15",
+   "5",
+   "4",
+   "6"
+  ],
+  "options_ne": [
+   "१५",
+   "५",
+   "४",
+   "६"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 5.",
+  "explanation_ne": "गणना गर्दा ५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat goes downstream at 18 km/h (still-water speed 15 km/h, stream 3 km/h). How long does it take to cover 72 km downstream?",
+  "question_ne": "एउटा डुङ्गा downstream गतिमा १८ किमी/घण्टा (स्थिर पानीमा १५, बहाव ३) चल्छ। downstream ७२ किमी पार गर्न कति समय लाग्छ?",
+  "options": [
+   "4",
+   "14",
+   "3",
+   "5"
+  ],
+  "options_ne": [
+   "४",
+   "१४",
+   "३",
+   "५"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 4.",
+  "explanation_ne": "गणना गर्दा ४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 10% per annum for 2 years is Rs 600. What is the sum?",
+  "question_ne": "१०% वार्षिक ब्याजदरमा २ वर्षको साधारण ब्याज रू ६०० भए मूलधन कति हो?",
+  "options": [
+   "4000",
+   "600",
+   "2000",
+   "3000"
+  ],
+  "options_ne": [
+   "४०००",
+   "६००",
+   "२०००",
+   "३०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 3000.",
+  "explanation_ne": "गणना गर्दा ३००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 15% per annum for 2 years is Rs 900. What is the sum?",
+  "question_ne": "१५% वार्षिक ब्याजदरमा २ वर्षको साधारण ब्याज रू ९०० भए मूलधन कति हो?",
+  "options": [
+   "2000",
+   "3000",
+   "900",
+   "4000"
+  ],
+  "options_ne": [
+   "२०००",
+   "३०००",
+   "९००",
+   "४०००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 3000.",
+  "explanation_ne": "गणना गर्दा ३००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 8% per annum for 3 years is Rs 1200. What is the sum?",
+  "question_ne": "८% वार्षिक ब्याजदरमा ३ वर्षको साधारण ब्याज रू १२०० भए मूलधन कति हो?",
+  "options": [
+   "6000",
+   "4000",
+   "5000",
+   "1200"
+  ],
+  "options_ne": [
+   "६०००",
+   "४०००",
+   "५०००",
+   "१२००"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 5000.",
+  "explanation_ne": "गणना गर्दा ५००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 10% per annum for 3 years is Rs 1500. What is the sum?",
+  "question_ne": "१०% वार्षिक ब्याजदरमा ३ वर्षको साधारण ब्याज रू १५०० भए मूलधन कति हो?",
+  "options": [
+   "4000",
+   "5000",
+   "1500",
+   "6000"
+  ],
+  "options_ne": [
+   "४०००",
+   "५०००",
+   "१५००",
+   "६०००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 5000.",
+  "explanation_ne": "गणना गर्दा ५००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 12% per annum for 2 years is Rs 720. What is the sum?",
+  "question_ne": "१२% वार्षिक ब्याजदरमा २ वर्षको साधारण ब्याज रू ७२० भए मूलधन कति हो?",
+  "options": [
+   "4000",
+   "720",
+   "2000",
+   "3000"
+  ],
+  "options_ne": [
+   "४०००",
+   "७२०",
+   "२०००",
+   "३०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 3000.",
+  "explanation_ne": "गणना गर्दा ३००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0128",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Simple Interest",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The simple interest on a sum at 10% per annum for 4 years is Rs 2000. What is the sum?",
+  "question_ne": "१०% वार्षिक ब्याजदरमा ४ वर्षको साधारण ब्याज रू २००० भए मूलधन कति हो?",
+  "options": [
+   "6000",
+   "2000",
+   "4000",
+   "5000"
+  ],
+  "options_ne": [
+   "६०००",
+   "२०००",
+   "४०००",
+   "५०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 5000.",
+  "explanation_ne": "गणना गर्दा ५००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "After a discount of 10%, an article is sold for Rs 2700. What was its marked price?",
+  "question_ne": "१०% छुटपछि एउटा सामान रू २७०० मा बेचियो। यसको अङ्कित मूल्य कति थियो?",
+  "options": [
+   "3000",
+   "2900",
+   "2700",
+   "3100"
+  ],
+  "options_ne": [
+   "३०००",
+   "२९००",
+   "२७००",
+   "३१००"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 3000.",
+  "explanation_ne": "गणना गर्दा ३००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 1100 at a profit of 10%, what was its cost price?",
+  "question_ne": "एउटा सामान रू ११०० मा १०% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1100",
+   "900",
+   "1001",
+   "1000"
+  ],
+  "options_ne": [
+   "११००",
+   "९००",
+   "१००१",
+   "१०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 1000.",
+  "explanation_ne": "गणना गर्दा १००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 1200 at a profit of 20%, what was its cost price?",
+  "question_ne": "एउटा सामान रू १२०० मा २०% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1200",
+   "1000",
+   "900",
+   "1100"
+  ],
+  "options_ne": [
+   "१२००",
+   "१०००",
+   "९००",
+   "११००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 1000.",
+  "explanation_ne": "गणना गर्दा १००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 1500 at a profit of 25%, what was its cost price?",
+  "question_ne": "एउटा सामान रू १५०० मा २५% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1200",
+   "1500",
+   "1100",
+   "1300"
+  ],
+  "options_ne": [
+   "१२००",
+   "१५००",
+   "११००",
+   "१३००"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 1200.",
+  "explanation_ne": "गणना गर्दा १२०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 1320 at a profit of 10%, what was its cost price?",
+  "question_ne": "एउटा सामान रू १३२० मा १०% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1200",
+   "1300",
+   "1320",
+   "1100"
+  ],
+  "options_ne": [
+   "१२००",
+   "१३००",
+   "१३२०",
+   "११००"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 1200.",
+  "explanation_ne": "गणना गर्दा १२०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 1800 at a profit of 20%, what was its cost price?",
+  "question_ne": "एउटा सामान रू १८०० मा २०% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1400",
+   "1500",
+   "1600",
+   "1800"
+  ],
+  "options_ne": [
+   "१४००",
+   "१५००",
+   "१६००",
+   "१८००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 1500.",
+  "explanation_ne": "गणना गर्दा १५०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit & Loss",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By selling an article for Rs 2500 at a profit of 25%, what was its cost price?",
+  "question_ne": "एउटा सामान रू २५०० मा २५% नाफामा बेचियो। यसको लागत मूल्य कति थियो?",
+  "options": [
+   "1900",
+   "2500",
+   "2000",
+   "2100"
+  ],
+  "options_ne": [
+   "१९००",
+   "२५००",
+   "२०००",
+   "२१००"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 2000.",
+  "explanation_ne": "गणना गर्दा २००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the circumference of a circle of radius 35 cm (use π = 22/7).",
+  "question_ne": "३५ सेमी अर्धव्यास भएको वृत्तको परिधि कति हो? (π = २२/७)",
+  "options": [
+   "242",
+   "198",
+   "110",
+   "220"
+  ],
+  "options_ne": [
+   "२४२",
+   "१९८",
+   "११०",
+   "२२०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 220.",
+  "explanation_ne": "गणना गर्दा २२० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the volume of a cylinder of radius 7 cm and height 5 cm (use π = 22/7).",
+  "question_ne": "७ सेमी अर्धव्यास र ५ सेमी उचाइ भएको बेलनको आयतन कति हो? (π = २२/७)",
+  "options": [
+   "670",
+   "110",
+   "770",
+   "870"
+  ],
+  "options_ne": [
+   "६७०",
+   "११०",
+   "७७०",
+   "८७०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 770.",
+  "explanation_ne": "गणना गर्दा ७७० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the volume of a cylinder of radius 7 cm and height 10 cm (use π = 22/7).",
+  "question_ne": "७ सेमी अर्धव्यास र १० सेमी उचाइ भएको बेलनको आयतन कति हो? (π = २२/७)",
+  "options": [
+   "1640",
+   "220",
+   "1440",
+   "1540"
+  ],
+  "options_ne": [
+   "१६४०",
+   "२२०",
+   "१४४०",
+   "१५४०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 1540.",
+  "explanation_ne": "गणना गर्दा १५४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the volume of a cylinder of radius 14 cm and height 5 cm (use π = 22/7).",
+  "question_ne": "१४ सेमी अर्धव्यास र ५ सेमी उचाइ भएको बेलनको आयतन कति हो? (π = २२/७)",
+  "options": [
+   "3080",
+   "3180",
+   "220",
+   "2980"
+  ],
+  "options_ne": [
+   "३०८०",
+   "३१८०",
+   "२२०",
+   "२९८०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 3080.",
+  "explanation_ne": "गणना गर्दा ३०८० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the volume of a cylinder of radius 7 cm and height 8 cm (use π = 22/7).",
+  "question_ne": "७ सेमी अर्धव्यास र ८ सेमी उचाइ भएको बेलनको आयतन कति हो? (π = २२/७)",
+  "options": [
+   "176",
+   "1132",
+   "1332",
+   "1232"
+  ],
+  "options_ne": [
+   "१७६",
+   "११३२",
+   "१३३२",
+   "१२३२"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 1232.",
+  "explanation_ne": "गणना गर्दा १२३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mensuration",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the volume of a cylinder of radius 14 cm and height 10 cm (use π = 22/7).",
+  "question_ne": "१४ सेमी अर्धव्यास र १० सेमी उचाइ भएको बेलनको आयतन कति हो? (π = २२/७)",
+  "options": [
+   "440",
+   "6160",
+   "6060",
+   "6260"
+  ],
+  "options_ne": [
+   "४४०",
+   "६१६०",
+   "६०६०",
+   "६२६०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 6160.",
+  "explanation_ne": "गणना गर्दा ६१६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 1/2 x 1/3?",
+  "question_ne": "१/२ × १/३ कति हो?",
+  "options": [
+   "1/7",
+   "3/2",
+   "5/6",
+   "1/6"
+  ],
+  "options_ne": [
+   "1/7",
+   "3/2",
+   "5/6",
+   "1/6"
+  ],
+  "answer": 3,
+  "explanation": "1/2 x 1/3 = 1/6.",
+  "explanation_ne": "१/२ × १/३ = 1/6।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 2/3 + 1/4?",
+  "question_ne": "२/३ + १/४ कति हो?",
+  "options": [
+   "11/12",
+   "3/7",
+   "1/6",
+   "5/12"
+  ],
+  "options_ne": [
+   "11/12",
+   "3/7",
+   "1/6",
+   "5/12"
+  ],
+  "answer": 0,
+  "explanation": "2/3 + 1/4 = 11/12.",
+  "explanation_ne": "२/३ + १/४ = 11/12।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 3/4 + 1/2?",
+  "question_ne": "३/४ + १/२ कति हो?",
+  "options": [
+   "4/6",
+   "3/8",
+   "5/4",
+   "1/4"
+  ],
+  "options_ne": [
+   "4/6",
+   "3/8",
+   "5/4",
+   "1/4"
+  ],
+  "answer": 2,
+  "explanation": "3/4 + 1/2 = 5/4.",
+  "explanation_ne": "३/४ + १/२ = 5/4।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 1/5 + 2/5?",
+  "question_ne": "१/५ + २/५ कति हो?",
+  "options": [
+   "3/5",
+   "-1/5",
+   "2/25",
+   "3/10"
+  ],
+  "options_ne": [
+   "3/5",
+   "-1/5",
+   "2/25",
+   "3/10"
+  ],
+  "answer": 0,
+  "explanation": "1/5 + 2/5 = 3/5.",
+  "explanation_ne": "१/५ + २/५ = 3/5।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is 3/5 + 2/3?",
+  "question_ne": "३/५ + २/३ कति हो?",
+  "options": [
+   "-1/15",
+   "5/8",
+   "19/15",
+   "2/5"
+  ],
+  "options_ne": [
+   "-1/15",
+   "5/8",
+   "19/15",
+   "2/5"
+  ],
+  "answer": 2,
+  "explanation": "3/5 + 2/3 = 19/15.",
+  "explanation_ne": "३/५ + २/३ = 19/15।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0167",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Express 12% as a fraction in its lowest terms.",
+  "question_ne": "१२% लाई न्यूनतम भिन्नमा लेख्नुहोस्।",
+  "options": [
+   "1/4",
+   "3/4",
+   "3/25",
+   "1/2"
+  ],
+  "options_ne": [
+   "1/4",
+   "3/4",
+   "3/25",
+   "1/2"
+  ],
+  "answer": 2,
+  "explanation": "12% = 12/100 = 3/25.",
+  "explanation_ne": "१२% = १२/१०० = 3/25।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0169",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Express 70% as a fraction in its lowest terms.",
+  "question_ne": "७०% लाई न्यूनतम भिन्नमा लेख्नुहोस्।",
+  "options": [
+   "1/2",
+   "1/4",
+   "3/4",
+   "7/10"
+  ],
+  "options_ne": [
+   "1/2",
+   "1/4",
+   "3/4",
+   "7/10"
+  ],
+  "answer": 3,
+  "explanation": "70% = 70/100 = 7/10.",
+  "explanation_ne": "७०% = ७०/१०० = 7/10।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0170",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 500 for an article costing Rs 347. How much change should be returned?",
+  "question_ne": "रू ३४७ को सामानका लागि पसलेलाई रू ५०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "163",
+   "153",
+   "143",
+   "347"
+  ],
+  "options_ne": [
+   "१६३",
+   "१५३",
+   "१४३",
+   "३४७"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 153.",
+  "explanation_ne": "गणना गर्दा १५३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 1000 for an article costing Rs 765. How much change should be returned?",
+  "question_ne": "रू ७६५ को सामानका लागि पसलेलाई रू १००० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "245",
+   "225",
+   "235",
+   "765"
+  ],
+  "options_ne": [
+   "२४५",
+   "२२५",
+   "२३५",
+   "७६५"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 235.",
+  "explanation_ne": "गणना गर्दा २३५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0172",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 500 for an article costing Rs 289. How much change should be returned?",
+  "question_ne": "रू २८९ को सामानका लागि पसलेलाई रू ५०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "201",
+   "221",
+   "211",
+   "289"
+  ],
+  "options_ne": [
+   "२०१",
+   "२२१",
+   "२११",
+   "२८९"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 211.",
+  "explanation_ne": "गणना गर्दा २११ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0173",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 200 for an article costing Rs 156. How much change should be returned?",
+  "question_ne": "रू १५६ को सामानका लागि पसलेलाई रू २०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "156",
+   "54",
+   "44",
+   "34"
+  ],
+  "options_ne": [
+   "१५६",
+   "५४",
+   "४४",
+   "३४"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 44.",
+  "explanation_ne": "गणना गर्दा ४४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0174",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 1000 for an article costing Rs 843. How much change should be returned?",
+  "question_ne": "रू ८४३ को सामानका लागि पसलेलाई रू १००० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "157",
+   "167",
+   "147",
+   "843"
+  ],
+  "options_ne": [
+   "१५७",
+   "१६७",
+   "१४७",
+   "८४३"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 157.",
+  "explanation_ne": "गणना गर्दा १५७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 500 for an article costing Rs 428. How much change should be returned?",
+  "question_ne": "रू ४२८ को सामानका लागि पसलेलाई रू ५०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "428",
+   "82",
+   "72",
+   "62"
+  ],
+  "options_ne": [
+   "४२८",
+   "८२",
+   "७२",
+   "६२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 72.",
+  "explanation_ne": "गणना गर्दा ७२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0176",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 100 for an article costing Rs 67. How much change should be returned?",
+  "question_ne": "रू ६७ को सामानका लागि पसलेलाई रू १०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "33",
+   "67",
+   "43",
+   "23"
+  ],
+  "options_ne": [
+   "३३",
+   "६७",
+   "४३",
+   "२३"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 33.",
+  "explanation_ne": "गणना गर्दा ३३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0177",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Money",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A shopkeeper is paid Rs 200 for an article costing Rs 189. How much change should be returned?",
+  "question_ne": "रू १८९ को सामानका लागि पसलेलाई रू २०० दिइयो। कति फिर्ता (change) दिनुपर्छ?",
+  "options": [
+   "21",
+   "189",
+   "1",
+   "11"
+  ],
+  "options_ne": [
+   "२१",
+   "१८९",
+   "१",
+   "११"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 11.",
+  "explanation_ne": "गणना गर्दा ११ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL4-0191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Measurement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Convert 35 m/s into km/h.",
+  "question_ne": "३५ मि/सेलाई किमी/घण्टामा बदल्नुहोस्।",
+  "options": [
+   "175",
+   "144",
+   "108",
+   "126"
+  ],
+  "options_ne": [
+   "१७५",
+   "१४४",
+   "१०८",
+   "१२६"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 126.",
+  "explanation_ne": "गणना गर्दा १२६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

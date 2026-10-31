@@ -1,0 +1,3674 @@
+[
+ {
+  "id": "R11-NEP2-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बैशाख\" पछिको महिना कुन हो?",
+  "question_ne": "\"बैशाख\" पछिको महिना कुन हो?",
+  "options": [
+   "बैशाख",
+   "असार",
+   "जेठ",
+   "साउन"
+  ],
+  "options_ne": [
+   "बैशाख",
+   "असार",
+   "जेठ",
+   "साउन"
+  ],
+  "answer": 2,
+  "explanation": "\"बैशाख\" पछि \"जेठ\" महिना आउँछ।",
+  "explanation_ne": "\"बैशाख\" पछि \"जेठ\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"बैशाख\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"बैशाख\" कुन महिना हो (क्रम)?",
+  "options": [
+   "३",
+   "१",
+   "२",
+   "४"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "२",
+   "४"
+  ],
+  "answer": 1,
+  "explanation": "नेपाली पात्रोमा \"बैशाख\" १औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"बैशाख\" १औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"जेठ\" पछिको महिना कुन हो?",
+  "question_ne": "\"जेठ\" पछिको महिना कुन हो?",
+  "options": [
+   "असार",
+   "जेठ",
+   "बैशाख",
+   "साउन"
+  ],
+  "options_ne": [
+   "असार",
+   "जेठ",
+   "बैशाख",
+   "साउन"
+  ],
+  "answer": 0,
+  "explanation": "\"जेठ\" पछि \"असार\" महिना आउँछ।",
+  "explanation_ne": "\"जेठ\" पछि \"असार\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"जेठ\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"जेठ\" कुन महिना हो (क्रम)?",
+  "options": [
+   "२",
+   "४",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "२",
+   "४",
+   "३",
+   "१"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"जेठ\" २औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"जेठ\" २औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"असार\" पछिको महिना कुन हो?",
+  "question_ne": "\"असार\" पछिको महिना कुन हो?",
+  "options": [
+   "साउन",
+   "बैशाख",
+   "जेठ",
+   "असार"
+  ],
+  "options_ne": [
+   "साउन",
+   "बैशाख",
+   "जेठ",
+   "असार"
+  ],
+  "answer": 0,
+  "explanation": "\"असार\" पछि \"साउन\" महिना आउँछ।",
+  "explanation_ne": "\"असार\" पछि \"साउन\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"असार\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"असार\" कुन महिना हो (क्रम)?",
+  "options": [
+   "३",
+   "२",
+   "१",
+   "४"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१",
+   "४"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"असार\" ३औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"असार\" ३औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"साउन\" पछिको महिना कुन हो?",
+  "question_ne": "\"साउन\" पछिको महिना कुन हो?",
+  "options": [
+   "भदौ",
+   "जेठ",
+   "बैशाख",
+   "असार"
+  ],
+  "options_ne": [
+   "भदौ",
+   "जेठ",
+   "बैशाख",
+   "असार"
+  ],
+  "answer": 0,
+  "explanation": "\"साउन\" पछि \"भदौ\" महिना आउँछ।",
+  "explanation_ne": "\"साउन\" पछि \"भदौ\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"साउन\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"साउन\" कुन महिना हो (क्रम)?",
+  "options": [
+   "२",
+   "४",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "२",
+   "४",
+   "३",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "नेपाली पात्रोमा \"साउन\" ४औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"साउन\" ४औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"भदौ\" पछिको महिना कुन हो?",
+  "question_ne": "\"भदौ\" पछिको महिना कुन हो?",
+  "options": [
+   "असार",
+   "बैशाख",
+   "असोज",
+   "जेठ"
+  ],
+  "options_ne": [
+   "असार",
+   "बैशाख",
+   "असोज",
+   "जेठ"
+  ],
+  "answer": 2,
+  "explanation": "\"भदौ\" पछि \"असोज\" महिना आउँछ।",
+  "explanation_ne": "\"भदौ\" पछि \"असोज\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"भदौ\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"भदौ\" कुन महिना हो (क्रम)?",
+  "options": [
+   "१",
+   "५",
+   "३",
+   "२"
+  ],
+  "options_ne": [
+   "१",
+   "५",
+   "३",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "नेपाली पात्रोमा \"भदौ\" ५औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"भदौ\" ५औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"असोज\" पछिको महिना कुन हो?",
+  "question_ne": "\"असोज\" पछिको महिना कुन हो?",
+  "options": [
+   "जेठ",
+   "बैशाख",
+   "कार्तिक",
+   "असार"
+  ],
+  "options_ne": [
+   "जेठ",
+   "बैशाख",
+   "कार्तिक",
+   "असार"
+  ],
+  "answer": 2,
+  "explanation": "\"असोज\" पछि \"कार्तिक\" महिना आउँछ।",
+  "explanation_ne": "\"असोज\" पछि \"कार्तिक\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"असोज\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"असोज\" कुन महिना हो (क्रम)?",
+  "options": [
+   "६",
+   "३",
+   "१",
+   "२"
+  ],
+  "options_ne": [
+   "६",
+   "३",
+   "१",
+   "२"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"असोज\" ६औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"असोज\" ६औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"कार्तिक\" पछिको महिना कुन हो?",
+  "question_ne": "\"कार्तिक\" पछिको महिना कुन हो?",
+  "options": [
+   "मंसिर",
+   "बैशाख",
+   "असार",
+   "जेठ"
+  ],
+  "options_ne": [
+   "मंसिर",
+   "बैशाख",
+   "असार",
+   "जेठ"
+  ],
+  "answer": 0,
+  "explanation": "\"कार्तिक\" पछि \"मंसिर\" महिना आउँछ।",
+  "explanation_ne": "\"कार्तिक\" पछि \"मंसिर\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"कार्तिक\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"कार्तिक\" कुन महिना हो (क्रम)?",
+  "options": [
+   "३",
+   "७",
+   "२",
+   "१"
+  ],
+  "options_ne": [
+   "३",
+   "७",
+   "२",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "नेपाली पात्रोमा \"कार्तिक\" ७औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"कार्तिक\" ७औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"मंसिर\" पछिको महिना कुन हो?",
+  "question_ne": "\"मंसिर\" पछिको महिना कुन हो?",
+  "options": [
+   "जेठ",
+   "असार",
+   "बैशाख",
+   "पुस"
+  ],
+  "options_ne": [
+   "जेठ",
+   "असार",
+   "बैशाख",
+   "पुस"
+  ],
+  "answer": 3,
+  "explanation": "\"मंसिर\" पछि \"पुस\" महिना आउँछ।",
+  "explanation_ne": "\"मंसिर\" पछि \"पुस\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"मंसिर\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"मंसिर\" कुन महिना हो (क्रम)?",
+  "options": [
+   "२",
+   "८",
+   "१",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "८",
+   "१",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "नेपाली पात्रोमा \"मंसिर\" ८औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"मंसिर\" ८औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पुस\" पछिको महिना कुन हो?",
+  "question_ne": "\"पुस\" पछिको महिना कुन हो?",
+  "options": [
+   "जेठ",
+   "असार",
+   "माघ",
+   "बैशाख"
+  ],
+  "options_ne": [
+   "जेठ",
+   "असार",
+   "माघ",
+   "बैशाख"
+  ],
+  "answer": 2,
+  "explanation": "\"पुस\" पछि \"माघ\" महिना आउँछ।",
+  "explanation_ne": "\"पुस\" पछि \"माघ\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"पुस\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"पुस\" कुन महिना हो (क्रम)?",
+  "options": [
+   "९",
+   "३",
+   "२",
+   "१"
+  ],
+  "options_ne": [
+   "९",
+   "३",
+   "२",
+   "१"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"पुस\" ९औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"पुस\" ९औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"माघ\" पछिको महिना कुन हो?",
+  "question_ne": "\"माघ\" पछिको महिना कुन हो?",
+  "options": [
+   "असार",
+   "फागुन",
+   "बैशाख",
+   "जेठ"
+  ],
+  "options_ne": [
+   "असार",
+   "फागुन",
+   "बैशाख",
+   "जेठ"
+  ],
+  "answer": 1,
+  "explanation": "\"माघ\" पछि \"फागुन\" महिना आउँछ।",
+  "explanation_ne": "\"माघ\" पछि \"फागुन\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"माघ\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"माघ\" कुन महिना हो (क्रम)?",
+  "options": [
+   "१०",
+   "२",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "१०",
+   "२",
+   "३",
+   "१"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"माघ\" १०औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"माघ\" १०औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"फागुन\" पछिको महिना कुन हो?",
+  "question_ne": "\"फागुन\" पछिको महिना कुन हो?",
+  "options": [
+   "असार",
+   "बैशाख",
+   "जेठ",
+   "चैत"
+  ],
+  "options_ne": [
+   "असार",
+   "बैशाख",
+   "जेठ",
+   "चैत"
+  ],
+  "answer": 3,
+  "explanation": "\"फागुन\" पछि \"चैत\" महिना आउँछ।",
+  "explanation_ne": "\"फागुन\" पछि \"चैत\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"फागुन\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"फागुन\" कुन महिना हो (क्रम)?",
+  "options": [
+   "११",
+   "१",
+   "३",
+   "२"
+  ],
+  "options_ne": [
+   "११",
+   "१",
+   "३",
+   "२"
+  ],
+  "answer": 0,
+  "explanation": "नेपाली पात्रोमा \"फागुन\" ११औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"फागुन\" ११औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"चैत\" पछिको महिना कुन हो?",
+  "question_ne": "\"चैत\" पछिको महिना कुन हो?",
+  "options": [
+   "जेठ",
+   "साउन",
+   "बैशाख",
+   "असार"
+  ],
+  "options_ne": [
+   "जेठ",
+   "साउन",
+   "बैशाख",
+   "असार"
+  ],
+  "answer": 2,
+  "explanation": "\"चैत\" पछि \"बैशाख\" महिना आउँछ।",
+  "explanation_ne": "\"चैत\" पछि \"बैशाख\" महिना आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Months",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "नेपाली पात्रोमा \"चैत\" कुन महिना हो (क्रम)?",
+  "question_ne": "नेपाली पात्रोमा \"चैत\" कुन महिना हो (क्रम)?",
+  "options": [
+   "२",
+   "१",
+   "१२",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "१",
+   "१२",
+   "३"
+  ],
+  "answer": 2,
+  "explanation": "नेपाली पात्रोमा \"चैत\" १२औँ महिना हो।",
+  "explanation_ne": "नेपाली पात्रोमा \"चैत\" १२औँ महिना हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"आइतबार\" पछिको बार कुन हो?",
+  "question_ne": "\"आइतबार\" पछिको बार कुन हो?",
+  "options": [
+   "सोमबार",
+   "बुधबार",
+   "मंगलबार",
+   "आइतबार"
+  ],
+  "options_ne": [
+   "सोमबार",
+   "बुधबार",
+   "मंगलबार",
+   "आइतबार"
+  ],
+  "answer": 0,
+  "explanation": "\"आइतबार\" पछि \"सोमबार\" आउँछ।",
+  "explanation_ne": "\"आइतबार\" पछि \"सोमबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सोमबार\" पछिको बार कुन हो?",
+  "question_ne": "\"सोमबार\" पछिको बार कुन हो?",
+  "options": [
+   "सोमबार",
+   "मंगलबार",
+   "बुधबार",
+   "आइतबार"
+  ],
+  "options_ne": [
+   "सोमबार",
+   "मंगलबार",
+   "बुधबार",
+   "आइतबार"
+  ],
+  "answer": 1,
+  "explanation": "\"सोमबार\" पछि \"मंगलबार\" आउँछ।",
+  "explanation_ne": "\"सोमबार\" पछि \"मंगलबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"मंगलबार\" पछिको बार कुन हो?",
+  "question_ne": "\"मंगलबार\" पछिको बार कुन हो?",
+  "options": [
+   "बुधबार",
+   "सोमबार",
+   "आइतबार",
+   "मंगलबार"
+  ],
+  "options_ne": [
+   "बुधबार",
+   "सोमबार",
+   "आइतबार",
+   "मंगलबार"
+  ],
+  "answer": 0,
+  "explanation": "\"मंगलबार\" पछि \"बुधबार\" आउँछ।",
+  "explanation_ne": "\"मंगलबार\" पछि \"बुधबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बुधबार\" पछिको बार कुन हो?",
+  "question_ne": "\"बुधबार\" पछिको बार कुन हो?",
+  "options": [
+   "बिहिबार",
+   "सोमबार",
+   "आइतबार",
+   "मंगलबार"
+  ],
+  "options_ne": [
+   "बिहिबार",
+   "सोमबार",
+   "आइतबार",
+   "मंगलबार"
+  ],
+  "answer": 0,
+  "explanation": "\"बुधबार\" पछि \"बिहिबार\" आउँछ।",
+  "explanation_ne": "\"बुधबार\" पछि \"बिहिबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बिहिबार\" पछिको बार कुन हो?",
+  "question_ne": "\"बिहिबार\" पछिको बार कुन हो?",
+  "options": [
+   "सोमबार",
+   "आइतबार",
+   "शुक्रबार",
+   "मंगलबार"
+  ],
+  "options_ne": [
+   "सोमबार",
+   "आइतबार",
+   "शुक्रबार",
+   "मंगलबार"
+  ],
+  "answer": 2,
+  "explanation": "\"बिहिबार\" पछि \"शुक्रबार\" आउँछ।",
+  "explanation_ne": "\"बिहिबार\" पछि \"शुक्रबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"शुक्रबार\" पछिको बार कुन हो?",
+  "question_ne": "\"शुक्रबार\" पछिको बार कुन हो?",
+  "options": [
+   "आइतबार",
+   "शनिबार",
+   "सोमबार",
+   "मंगलबार"
+  ],
+  "options_ne": [
+   "आइतबार",
+   "शनिबार",
+   "सोमबार",
+   "मंगलबार"
+  ],
+  "answer": 1,
+  "explanation": "\"शुक्रबार\" पछि \"शनिबार\" आउँछ।",
+  "explanation_ne": "\"शुक्रबार\" पछि \"शनिबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Days",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"शनिबार\" पछिको बार कुन हो?",
+  "question_ne": "\"शनिबार\" पछिको बार कुन हो?",
+  "options": [
+   "मंगलबार",
+   "बुधबार",
+   "सोमबार",
+   "आइतबार"
+  ],
+  "options_ne": [
+   "मंगलबार",
+   "बुधबार",
+   "सोमबार",
+   "आइतबार"
+  ],
+  "answer": 3,
+  "explanation": "\"शनिबार\" पछि \"आइतबार\" आउँछ।",
+  "explanation_ne": "\"शनिबार\" पछि \"आइतबार\" आउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"red\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"red\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "नीलो",
+   "हरियो",
+   "रातो",
+   "पहेंलो"
+  ],
+  "options_ne": [
+   "नीलो",
+   "हरियो",
+   "रातो",
+   "पहेंलो"
+  ],
+  "answer": 2,
+  "explanation": "\"red\" लाई नेपालीमा \"रातो\" भनिन्छ।",
+  "explanation_ne": "\"red\" लाई नेपालीमा \"रातो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"रातो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"रातो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "yellow",
+   "blue",
+   "red",
+   "green"
+  ],
+  "options_ne": [
+   "yellow",
+   "blue",
+   "red",
+   "green"
+  ],
+  "answer": 2,
+  "explanation": "\"रातो\" को अङ्ग्रेजी शब्द \"red\" हो।",
+  "explanation_ne": "\"रातो\" को अङ्ग्रेजी शब्द \"red\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"नीलो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"नीलो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "red",
+   "blue",
+   "green",
+   "yellow"
+  ],
+  "options_ne": [
+   "red",
+   "blue",
+   "green",
+   "yellow"
+  ],
+  "answer": 1,
+  "explanation": "\"नीलो\" को अङ्ग्रेजी शब्द \"blue\" हो।",
+  "explanation_ne": "\"नीलो\" को अङ्ग्रेजी शब्द \"blue\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"हरियो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"हरियो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "blue",
+   "yellow",
+   "red",
+   "green"
+  ],
+  "options_ne": [
+   "blue",
+   "yellow",
+   "red",
+   "green"
+  ],
+  "answer": 3,
+  "explanation": "\"हरियो\" को अङ्ग्रेजी शब्द \"green\" हो।",
+  "explanation_ne": "\"हरियो\" को अङ्ग्रेजी शब्द \"green\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"black\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"black\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "हरियो",
+   "कालो",
+   "रातो",
+   "नीलो"
+  ],
+  "options_ne": [
+   "हरियो",
+   "कालो",
+   "रातो",
+   "नीलो"
+  ],
+  "answer": 1,
+  "explanation": "\"black\" लाई नेपालीमा \"कालो\" भनिन्छ।",
+  "explanation_ne": "\"black\" लाई नेपालीमा \"कालो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"कालो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"कालो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "green",
+   "blue",
+   "black",
+   "red"
+  ],
+  "options_ne": [
+   "green",
+   "blue",
+   "black",
+   "red"
+  ],
+  "answer": 2,
+  "explanation": "\"कालो\" को अङ्ग्रेजी शब्द \"black\" हो।",
+  "explanation_ne": "\"कालो\" को अङ्ग्रेजी शब्द \"black\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"white\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"white\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "सेतो",
+   "नीलो",
+   "रातो",
+   "हरियो"
+  ],
+  "options_ne": [
+   "सेतो",
+   "नीलो",
+   "रातो",
+   "हरियो"
+  ],
+  "answer": 0,
+  "explanation": "\"white\" लाई नेपालीमा \"सेतो\" भनिन्छ।",
+  "explanation_ne": "\"white\" लाई नेपालीमा \"सेतो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सेतो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"सेतो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "blue",
+   "red",
+   "green",
+   "white"
+  ],
+  "options_ne": [
+   "blue",
+   "red",
+   "green",
+   "white"
+  ],
+  "answer": 3,
+  "explanation": "\"सेतो\" को अङ्ग्रेजी शब्द \"white\" हो।",
+  "explanation_ne": "\"सेतो\" को अङ्ग्रेजी शब्द \"white\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"pink\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"pink\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "रातो",
+   "नीलो",
+   "गुलाबी",
+   "हरियो"
+  ],
+  "options_ne": [
+   "रातो",
+   "नीलो",
+   "गुलाबी",
+   "हरियो"
+  ],
+  "answer": 2,
+  "explanation": "\"pink\" लाई नेपालीमा \"गुलाबी\" भनिन्छ।",
+  "explanation_ne": "\"pink\" लाई नेपालीमा \"गुलाबी\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"गुलाबी\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"गुलाबी\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "pink",
+   "green",
+   "blue",
+   "red"
+  ],
+  "options_ne": [
+   "pink",
+   "green",
+   "blue",
+   "red"
+  ],
+  "answer": 0,
+  "explanation": "\"गुलाबी\" को अङ्ग्रेजी शब्द \"pink\" हो।",
+  "explanation_ne": "\"गुलाबी\" को अङ्ग्रेजी शब्द \"pink\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"orange\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"orange\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "नीलो",
+   "सुन्तला",
+   "रातो",
+   "हरियो"
+  ],
+  "options_ne": [
+   "नीलो",
+   "सुन्तला",
+   "रातो",
+   "हरियो"
+  ],
+  "answer": 1,
+  "explanation": "\"orange\" लाई नेपालीमा \"सुन्तला\" भनिन्छ।",
+  "explanation_ne": "\"orange\" लाई नेपालीमा \"सुन्तला\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सुन्तला\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"सुन्तला\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "green",
+   "red",
+   "blue",
+   "orange"
+  ],
+  "options_ne": [
+   "green",
+   "red",
+   "blue",
+   "orange"
+  ],
+  "answer": 3,
+  "explanation": "\"सुन्तला\" को अङ्ग्रेजी शब्द \"orange\" हो।",
+  "explanation_ne": "\"सुन्तला\" को अङ्ग्रेजी शब्द \"orange\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"purple\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"purple\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "रातो",
+   "हरियो",
+   "बैजनी",
+   "नीलो"
+  ],
+  "options_ne": [
+   "रातो",
+   "हरियो",
+   "बैजनी",
+   "नीलो"
+  ],
+  "answer": 2,
+  "explanation": "\"purple\" लाई नेपालीमा \"बैजनी\" भनिन्छ।",
+  "explanation_ne": "\"purple\" लाई नेपालीमा \"बैजनी\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बैजनी\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"बैजनी\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "red",
+   "purple",
+   "blue",
+   "green"
+  ],
+  "options_ne": [
+   "red",
+   "purple",
+   "blue",
+   "green"
+  ],
+  "answer": 1,
+  "explanation": "\"बैजनी\" को अङ्ग्रेजी शब्द \"purple\" हो।",
+  "explanation_ne": "\"बैजनी\" को अङ्ग्रेजी शब्द \"purple\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"brown\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"brown\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "खैरो",
+   "रातो",
+   "हरियो",
+   "नीलो"
+  ],
+  "options_ne": [
+   "खैरो",
+   "रातो",
+   "हरियो",
+   "नीलो"
+  ],
+  "answer": 0,
+  "explanation": "\"brown\" लाई नेपालीमा \"खैरो\" भनिन्छ।",
+  "explanation_ne": "\"brown\" लाई नेपालीमा \"खैरो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"खैरो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"खैरो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "brown",
+   "green",
+   "red",
+   "blue"
+  ],
+  "options_ne": [
+   "brown",
+   "green",
+   "red",
+   "blue"
+  ],
+  "answer": 0,
+  "explanation": "\"खैरो\" को अङ्ग्रेजी शब्द \"brown\" हो।",
+  "explanation_ne": "\"खैरो\" को अङ्ग्रेजी शब्द \"brown\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"grey\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"grey\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "हरियो",
+   "खरानी",
+   "रातो",
+   "नीलो"
+  ],
+  "options_ne": [
+   "हरियो",
+   "खरानी",
+   "रातो",
+   "नीलो"
+  ],
+  "answer": 1,
+  "explanation": "\"grey\" लाई नेपालीमा \"खरानी\" भनिन्छ।",
+  "explanation_ne": "\"grey\" लाई नेपालीमा \"खरानी\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"खरानी\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"खरानी\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "green",
+   "red",
+   "grey",
+   "blue"
+  ],
+  "options_ne": [
+   "green",
+   "red",
+   "grey",
+   "blue"
+  ],
+  "answer": 2,
+  "explanation": "\"खरानी\" को अङ्ग्रेजी शब्द \"grey\" हो।",
+  "explanation_ne": "\"खरानी\" को अङ्ग्रेजी शब्द \"grey\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"golden\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"golden\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "हरियो",
+   "रातो",
+   "सुनौलो",
+   "नीलो"
+  ],
+  "options_ne": [
+   "हरियो",
+   "रातो",
+   "सुनौलो",
+   "नीलो"
+  ],
+  "answer": 2,
+  "explanation": "\"golden\" लाई नेपालीमा \"सुनौलो\" भनिन्छ।",
+  "explanation_ne": "\"golden\" लाई नेपालीमा \"सुनौलो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Colours",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सुनौलो\" को अङ्ग्रेजी शब्द के हो?",
+  "question_ne": "\"सुनौलो\" को अङ्ग्रेजी शब्द के हो?",
+  "options": [
+   "golden",
+   "blue",
+   "red",
+   "green"
+  ],
+  "options_ne": [
+   "golden",
+   "blue",
+   "red",
+   "green"
+  ],
+  "answer": 0,
+  "explanation": "\"सुनौलो\" को अङ्ग्रेजी शब्द \"golden\" हो।",
+  "explanation_ne": "\"सुनौलो\" को अङ्ग्रेजी शब्द \"golden\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"head\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"head\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "टाउको",
+   "कान",
+   "नाक",
+   "आँखा"
+  ],
+  "options_ne": [
+   "टाउको",
+   "कान",
+   "नाक",
+   "आँखा"
+  ],
+  "answer": 0,
+  "explanation": "\"head\" लाई नेपालीमा \"टाउको\" भनिन्छ।",
+  "explanation_ne": "\"head\" लाई नेपालीमा \"टाउको\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"mouth\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"mouth\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कान",
+   "टाउको",
+   "मुख",
+   "आँखा"
+  ],
+  "options_ne": [
+   "कान",
+   "टाउको",
+   "मुख",
+   "आँखा"
+  ],
+  "answer": 2,
+  "explanation": "\"mouth\" लाई नेपालीमा \"मुख\" भनिन्छ।",
+  "explanation_ne": "\"mouth\" लाई नेपालीमा \"मुख\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0124",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"hand\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"hand\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "टाउको",
+   "कान",
+   "हात",
+   "आँखा"
+  ],
+  "options_ne": [
+   "टाउको",
+   "कान",
+   "हात",
+   "आँखा"
+  ],
+  "answer": 2,
+  "explanation": "\"hand\" लाई नेपालीमा \"हात\" भनिन्छ।",
+  "explanation_ne": "\"hand\" लाई नेपालीमा \"हात\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"leg\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"leg\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कान",
+   "खुट्टा",
+   "टाउको",
+   "आँखा"
+  ],
+  "options_ne": [
+   "कान",
+   "खुट्टा",
+   "टाउको",
+   "आँखा"
+  ],
+  "answer": 1,
+  "explanation": "\"leg\" लाई नेपालीमा \"खुट्टा\" भनिन्छ।",
+  "explanation_ne": "\"leg\" लाई नेपालीमा \"खुट्टा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"finger\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"finger\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आँखा",
+   "कान",
+   "औंला",
+   "टाउको"
+  ],
+  "options_ne": [
+   "आँखा",
+   "कान",
+   "औंला",
+   "टाउको"
+  ],
+  "answer": 2,
+  "explanation": "\"finger\" लाई नेपालीमा \"औंला\" भनिन्छ।",
+  "explanation_ne": "\"finger\" लाई नेपालीमा \"औंला\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"tooth\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"tooth\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "टाउको",
+   "आँखा",
+   "कान",
+   "दाँत"
+  ],
+  "options_ne": [
+   "टाउको",
+   "आँखा",
+   "कान",
+   "दाँत"
+  ],
+  "answer": 3,
+  "explanation": "\"tooth\" लाई नेपालीमा \"दाँत\" भनिन्छ।",
+  "explanation_ne": "\"tooth\" लाई नेपालीमा \"दाँत\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0128",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"tongue\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"tongue\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "जिब्रो",
+   "टाउको",
+   "कान",
+   "आँखा"
+  ],
+  "options_ne": [
+   "जिब्रो",
+   "टाउको",
+   "कान",
+   "आँखा"
+  ],
+  "answer": 0,
+  "explanation": "\"tongue\" लाई नेपालीमा \"जिब्रो\" भनिन्छ।",
+  "explanation_ne": "\"tongue\" लाई नेपालीमा \"जिब्रो\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"hair\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"hair\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "टाउको",
+   "कान",
+   "आँखा",
+   "कपाल"
+  ],
+  "options_ne": [
+   "टाउको",
+   "कान",
+   "आँखा",
+   "कपाल"
+  ],
+  "answer": 3,
+  "explanation": "\"hair\" लाई नेपालीमा \"कपाल\" भनिन्छ।",
+  "explanation_ne": "\"hair\" लाई नेपालीमा \"कपाल\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"face\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"face\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आँखा",
+   "टाउको",
+   "अनुहार",
+   "कान"
+  ],
+  "options_ne": [
+   "आँखा",
+   "टाउको",
+   "अनुहार",
+   "कान"
+  ],
+  "answer": 2,
+  "explanation": "\"face\" लाई नेपालीमा \"अनुहार\" भनिन्छ।",
+  "explanation_ne": "\"face\" लाई नेपालीमा \"अनुहार\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"chest\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"chest\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "छाती",
+   "टाउको",
+   "कान",
+   "आँखा"
+  ],
+  "options_ne": [
+   "छाती",
+   "टाउको",
+   "कान",
+   "आँखा"
+  ],
+  "answer": 0,
+  "explanation": "\"chest\" लाई नेपालीमा \"छाती\" भनिन्छ।",
+  "explanation_ne": "\"chest\" लाई नेपालीमा \"छाती\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"stomach\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"stomach\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कान",
+   "टाउको",
+   "पेट",
+   "आँखा"
+  ],
+  "options_ne": [
+   "कान",
+   "टाउको",
+   "पेट",
+   "आँखा"
+  ],
+  "answer": 2,
+  "explanation": "\"stomach\" लाई नेपालीमा \"पेट\" भनिन्छ।",
+  "explanation_ne": "\"stomach\" लाई नेपालीमा \"पेट\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Body Parts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"back\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"back\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आँखा",
+   "कान",
+   "टाउको",
+   "ढाड"
+  ],
+  "options_ne": [
+   "आँखा",
+   "कान",
+   "टाउको",
+   "ढाड"
+  ],
+  "answer": 3,
+  "explanation": "\"back\" लाई नेपालीमा \"ढाड\" भनिन्छ।",
+  "explanation_ne": "\"back\" लाई नेपालीमा \"ढाड\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"dog\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"dog\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बिरालो",
+   "कुकुर",
+   "गाई",
+   "भैंसी"
+  ],
+  "options_ne": [
+   "बिरालो",
+   "कुकुर",
+   "गाई",
+   "भैंसी"
+  ],
+  "answer": 1,
+  "explanation": "\"dog\" लाई नेपालीमा \"कुकुर\" भनिन्छ।",
+  "explanation_ne": "\"dog\" लाई नेपालीमा \"कुकुर\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0139",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"sheep\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"sheep\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कुकुर",
+   "भेडा",
+   "गाई",
+   "बिरालो"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "भेडा",
+   "गाई",
+   "बिरालो"
+  ],
+  "answer": 1,
+  "explanation": "\"sheep\" लाई नेपालीमा \"भेडा\" भनिन्छ।",
+  "explanation_ne": "\"sheep\" लाई नेपालीमा \"भेडा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"horse\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"horse\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बिरालो",
+   "घोडा",
+   "कुकुर",
+   "गाई"
+  ],
+  "options_ne": [
+   "बिरालो",
+   "घोडा",
+   "कुकुर",
+   "गाई"
+  ],
+  "answer": 1,
+  "explanation": "\"horse\" लाई नेपालीमा \"घोडा\" भनिन्छ।",
+  "explanation_ne": "\"horse\" लाई नेपालीमा \"घोडा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0141",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"pig\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"pig\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बिरालो",
+   "कुकुर",
+   "सुँगुर",
+   "गाई"
+  ],
+  "options_ne": [
+   "बिरालो",
+   "कुकुर",
+   "सुँगुर",
+   "गाई"
+  ],
+  "answer": 2,
+  "explanation": "\"pig\" लाई नेपालीमा \"सुँगुर\" भनिन्छ।",
+  "explanation_ne": "\"pig\" लाई नेपालीमा \"सुँगुर\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"monkey\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"monkey\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "गाई",
+   "बाँदर",
+   "कुकुर",
+   "बिरालो"
+  ],
+  "options_ne": [
+   "गाई",
+   "बाँदर",
+   "कुकुर",
+   "बिरालो"
+  ],
+  "answer": 1,
+  "explanation": "\"monkey\" लाई नेपालीमा \"बाँदर\" भनिन्छ।",
+  "explanation_ne": "\"monkey\" लाई नेपालीमा \"बाँदर\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"tiger\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"tiger\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कुकुर",
+   "बिरालो",
+   "बाघ",
+   "गाई"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "बिरालो",
+   "बाघ",
+   "गाई"
+  ],
+  "answer": 2,
+  "explanation": "\"tiger\" लाई नेपालीमा \"बाघ\" भनिन्छ।",
+  "explanation_ne": "\"tiger\" लाई नेपालीमा \"बाघ\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0144",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"lion\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"lion\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कुकुर",
+   "गाई",
+   "सिंह",
+   "बिरालो"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "गाई",
+   "सिंह",
+   "बिरालो"
+  ],
+  "answer": 2,
+  "explanation": "\"lion\" लाई नेपालीमा \"सिंह\" भनिन्छ।",
+  "explanation_ne": "\"lion\" लाई नेपालीमा \"सिंह\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0146",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"snake\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"snake\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "सर्प",
+   "बिरालो",
+   "गाई",
+   "कुकुर"
+  ],
+  "options_ne": [
+   "सर्प",
+   "बिरालो",
+   "गाई",
+   "कुकुर"
+  ],
+  "answer": 0,
+  "explanation": "\"snake\" लाई नेपालीमा \"सर्प\" भनिन्छ।",
+  "explanation_ne": "\"snake\" लाई नेपालीमा \"सर्प\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0147",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"bird\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"bird\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "गाई",
+   "बिरालो",
+   "कुकुर",
+   "चरा"
+  ],
+  "options_ne": [
+   "गाई",
+   "बिरालो",
+   "कुकुर",
+   "चरा"
+  ],
+  "answer": 3,
+  "explanation": "\"bird\" लाई नेपालीमा \"चरा\" भनिन्छ।",
+  "explanation_ne": "\"bird\" लाई नेपालीमा \"चरा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0148",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Animals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"fish\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"fish\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "कुकुर",
+   "माछा",
+   "बिरालो",
+   "गाई"
+  ],
+  "options_ne": [
+   "कुकुर",
+   "माछा",
+   "बिरालो",
+   "गाई"
+  ],
+  "answer": 1,
+  "explanation": "\"fish\" लाई नेपालीमा \"माछा\" भनिन्छ।",
+  "explanation_ne": "\"fish\" लाई नेपालीमा \"माछा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"mother\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"mother\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आमा",
+   "दाजु",
+   "बुबा",
+   "भाइ"
+  ],
+  "options_ne": [
+   "आमा",
+   "दाजु",
+   "बुबा",
+   "भाइ"
+  ],
+  "answer": 0,
+  "explanation": "\"mother\" लाई नेपालीमा \"आमा\" भनिन्छ।",
+  "explanation_ne": "\"mother\" लाई नेपालीमा \"आमा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"elder brother\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"elder brother\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बुबा",
+   "भाइ",
+   "दाजु",
+   "आमा"
+  ],
+  "options_ne": [
+   "बुबा",
+   "भाइ",
+   "दाजु",
+   "आमा"
+  ],
+  "answer": 2,
+  "explanation": "\"elder brother\" लाई नेपालीमा \"दाजु\" भनिन्छ।",
+  "explanation_ne": "\"elder brother\" लाई नेपालीमा \"दाजु\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"younger sister\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"younger sister\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आमा",
+   "दाजु",
+   "बुबा",
+   "बहिनी"
+  ],
+  "options_ne": [
+   "आमा",
+   "दाजु",
+   "बुबा",
+   "बहिनी"
+  ],
+  "answer": 3,
+  "explanation": "\"younger sister\" लाई नेपालीमा \"बहिनी\" भनिन्छ।",
+  "explanation_ne": "\"younger sister\" लाई नेपालीमा \"बहिनी\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"son\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"son\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "छोरा",
+   "बुबा",
+   "दाजु",
+   "आमा"
+  ],
+  "options_ne": [
+   "छोरा",
+   "बुबा",
+   "दाजु",
+   "आमा"
+  ],
+  "answer": 0,
+  "explanation": "\"son\" लाई नेपालीमा \"छोरा\" भनिन्छ।",
+  "explanation_ne": "\"son\" लाई नेपालीमा \"छोरा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"husband\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"husband\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बुबा",
+   "दाजु",
+   "श्रीमान्",
+   "आमा"
+  ],
+  "options_ne": [
+   "बुबा",
+   "दाजु",
+   "श्रीमान्",
+   "आमा"
+  ],
+  "answer": 2,
+  "explanation": "\"husband\" लाई नेपालीमा \"श्रीमान्\" भनिन्छ।",
+  "explanation_ne": "\"husband\" लाई नेपालीमा \"श्रीमान्\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"wife\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"wife\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "श्रीमती",
+   "दाजु",
+   "बुबा",
+   "आमा"
+  ],
+  "options_ne": [
+   "श्रीमती",
+   "दाजु",
+   "बुबा",
+   "आमा"
+  ],
+  "answer": 0,
+  "explanation": "\"wife\" लाई नेपालीमा \"श्रीमती\" भनिन्छ।",
+  "explanation_ne": "\"wife\" लाई नेपालीमा \"श्रीमती\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"grandfather\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"grandfather\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "बुबा",
+   "दाजु",
+   "हजुरबुबा",
+   "आमा"
+  ],
+  "options_ne": [
+   "बुबा",
+   "दाजु",
+   "हजुरबुबा",
+   "आमा"
+  ],
+  "answer": 2,
+  "explanation": "\"grandfather\" लाई नेपालीमा \"हजुरबुबा\" भनिन्छ।",
+  "explanation_ne": "\"grandfather\" लाई नेपालीमा \"हजुरबुबा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"grandmother\" लाई नेपालीमा के भनिन्छ?",
+  "question_ne": "\"grandmother\" लाई नेपालीमा के भनिन्छ?",
+  "options": [
+   "आमा",
+   "हजुरआमा",
+   "दाजु",
+   "बुबा"
+  ],
+  "options_ne": [
+   "आमा",
+   "हजुरआमा",
+   "दाजु",
+   "बुबा"
+  ],
+  "answer": 1,
+  "explanation": "\"grandmother\" लाई नेपालीमा \"हजुरआमा\" भनिन्छ।",
+  "explanation_ne": "\"grandmother\" लाई नेपालीमा \"हजुरआमा\" भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"कुकुर\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"कुकुर\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "श्वान",
+   "सुँगुर",
+   "बिरालो",
+   "बाँदर"
+  ],
+  "options_ne": [
+   "श्वान",
+   "सुँगुर",
+   "बिरालो",
+   "बाँदर"
+  ],
+  "answer": 0,
+  "explanation": "\"कुकुर\" को पर्यायवाची \"श्वान\" हो।",
+  "explanation_ne": "\"कुकुर\" को पर्यायवाची \"श्वान\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"बिरालो\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"बिरालो\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "बाँदर",
+   "मार्जार",
+   "कुकुर",
+   "मुसा"
+  ],
+  "options_ne": [
+   "बाँदर",
+   "मार्जार",
+   "कुकुर",
+   "मुसा"
+  ],
+  "answer": 1,
+  "explanation": "\"बिरालो\" को पर्यायवाची \"मार्जार\" हो।",
+  "explanation_ne": "\"बिरालो\" को पर्यायवाची \"मार्जार\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0168",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"बाघ\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"बाघ\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "चितुवा",
+   "भालु",
+   "सिंह",
+   "व्याघ्र"
+  ],
+  "options_ne": [
+   "चितुवा",
+   "भालु",
+   "सिंह",
+   "व्याघ्र"
+  ],
+  "answer": 3,
+  "explanation": "\"बाघ\" को पर्यायवाची \"व्याघ्र\" हो।",
+  "explanation_ne": "\"बाघ\" को पर्यायवाची \"व्याघ्र\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0171",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"बिहान\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"बिहान\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "दिउँसो",
+   "रात",
+   "प्रभात",
+   "साँझ"
+  ],
+  "options_ne": [
+   "दिउँसो",
+   "रात",
+   "प्रभात",
+   "साँझ"
+  ],
+  "answer": 2,
+  "explanation": "\"बिहान\" को पर्यायवाची \"प्रभात\" हो।",
+  "explanation_ne": "\"बिहान\" को पर्यायवाची \"प्रभात\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0175",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"धरती\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"धरती\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "आकाश",
+   "पहाड",
+   "समुद्र",
+   "भूमि"
+  ],
+  "options_ne": [
+   "आकाश",
+   "पहाड",
+   "समुद्र",
+   "भूमि"
+  ],
+  "answer": 3,
+  "explanation": "\"धरती\" को पर्यायवाची \"भूमि\" हो।",
+  "explanation_ne": "\"धरती\" को पर्यायवाची \"भूमि\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0177",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"उकालो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"उकालो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "तेर्सो",
+   "माथि",
+   "ओरालो",
+   "तल"
+  ],
+  "options_ne": [
+   "तेर्सो",
+   "माथि",
+   "ओरालो",
+   "तल"
+  ],
+  "answer": 2,
+  "explanation": "\"उकालो\" को विपरीतार्थी \"ओरालो\" हो।",
+  "explanation_ne": "\"उकालो\" को विपरीतार्थी \"ओरालो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0178",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"आउनु\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"आउनु\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "हिँड्नु",
+   "बस्नु",
+   "उठ्नु",
+   "जानु"
+  ],
+  "options_ne": [
+   "हिँड्नु",
+   "बस्नु",
+   "उठ्नु",
+   "जानु"
+  ],
+  "answer": 3,
+  "explanation": "\"आउनु\" को विपरीतार्थी \"जानु\" हो।",
+  "explanation_ne": "\"आउनु\" को विपरीतार्थी \"जानु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0180",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"खोल्नु\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"खोल्नु\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "फुटाउनु",
+   "तोड्नु",
+   "बन्द गर्नु",
+   "जोड्नु"
+  ],
+  "options_ne": [
+   "फुटाउनु",
+   "तोड्नु",
+   "बन्द गर्नु",
+   "जोड्नु"
+  ],
+  "answer": 2,
+  "explanation": "\"खोल्नु\" को विपरीतार्थी \"बन्द गर्नु\" हो।",
+  "explanation_ne": "\"खोल्नु\" को विपरीतार्थी \"बन्द गर्नु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0181",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"हाँस्नु\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"हाँस्नु\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "गाउनु",
+   "रुनु",
+   "बोल्नु",
+   "नाच्नु"
+  ],
+  "options_ne": [
+   "गाउनु",
+   "रुनु",
+   "बोल्नु",
+   "नाच्नु"
+  ],
+  "answer": 1,
+  "explanation": "\"हाँस्नु\" को विपरीतार्थी \"रुनु\" हो।",
+  "explanation_ne": "\"हाँस्नु\" को विपरीतार्थी \"रुनु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0183",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"जवान\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"जवान\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "बालक",
+   "किशोर",
+   "युवा",
+   "बूढो"
+  ],
+  "options_ne": [
+   "बालक",
+   "किशोर",
+   "युवा",
+   "बूढो"
+  ],
+  "answer": 3,
+  "explanation": "\"जवान\" को विपरीतार्थी \"बूढो\" हो।",
+  "explanation_ne": "\"जवान\" को विपरीतार्थी \"बूढो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0184",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"पूर्व\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"पूर्व\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "दक्षिण",
+   "पश्चिम",
+   "उत्तर",
+   "मध्य"
+  ],
+  "options_ne": [
+   "दक्षिण",
+   "पश्चिम",
+   "उत्तर",
+   "मध्य"
+  ],
+  "answer": 1,
+  "explanation": "\"पूर्व\" को विपरीतार्थी \"पश्चिम\" हो।",
+  "explanation_ne": "\"पूर्व\" को विपरीतार्थी \"पश्चिम\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0185",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"उत्तर\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"उत्तर\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "पश्चिम",
+   "दक्षिण",
+   "पूर्व",
+   "मध्य"
+  ],
+  "options_ne": [
+   "पश्चिम",
+   "दक्षिण",
+   "पूर्व",
+   "मध्य"
+  ],
+  "answer": 1,
+  "explanation": "\"उत्तर\" को विपरीतार्थी \"दक्षिण\" हो।",
+  "explanation_ne": "\"उत्तर\" को विपरीतार्थी \"दक्षिण\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0186",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"जन्म\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"जन्म\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "बाल्यकाल",
+   "यौवन",
+   "जीवन",
+   "मृत्यु"
+  ],
+  "options_ne": [
+   "बाल्यकाल",
+   "यौवन",
+   "जीवन",
+   "मृत्यु"
+  ],
+  "answer": 3,
+  "explanation": "\"जन्म\" को विपरीतार्थी \"मृत्यु\" हो।",
+  "explanation_ne": "\"जन्म\" को विपरीतार्थी \"मृत्यु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0187",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"आदि\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"आदि\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "बीच",
+   "अन्त्य",
+   "सुरु",
+   "मध्य"
+  ],
+  "options_ne": [
+   "बीच",
+   "अन्त्य",
+   "सुरु",
+   "मध्य"
+  ],
+  "answer": 1,
+  "explanation": "\"आदि\" को विपरीतार्थी \"अन्त्य\" हो।",
+  "explanation_ne": "\"आदि\" को विपरीतार्थी \"अन्त्य\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0188",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"आय\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"आय\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "लाभ",
+   "बचत",
+   "हानि",
+   "व्यय"
+  ],
+  "options_ne": [
+   "लाभ",
+   "बचत",
+   "हानि",
+   "व्यय"
+  ],
+  "answer": 3,
+  "explanation": "\"आय\" को विपरीतार्थी \"व्यय\" हो।",
+  "explanation_ne": "\"आय\" को विपरीतार्थी \"व्यय\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0189",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"जय\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"जय\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "सफलता",
+   "पराजय",
+   "जित",
+   "हार"
+  ],
+  "options_ne": [
+   "सफलता",
+   "पराजय",
+   "जित",
+   "हार"
+  ],
+  "answer": 1,
+  "explanation": "\"जय\" को विपरीतार्थी \"पराजय\" हो।",
+  "explanation_ne": "\"जय\" को विपरीतार्थी \"पराजय\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0190",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"लाभ\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"लाभ\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "नाफा",
+   "आय",
+   "हानि",
+   "व्यय"
+  ],
+  "options_ne": [
+   "नाफा",
+   "आय",
+   "हानि",
+   "व्यय"
+  ],
+  "answer": 2,
+  "explanation": "\"लाभ\" को विपरीतार्थी \"हानि\" हो।",
+  "explanation_ne": "\"लाभ\" को विपरीतार्थी \"हानि\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0191",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"स्वागत\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"स्वागत\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "प्रस्थान",
+   "भेटघाट",
+   "निमन्त्रणा",
+   "विदाइ"
+  ],
+  "options_ne": [
+   "प्रस्थान",
+   "भेटघाट",
+   "निमन्त्रणा",
+   "विदाइ"
+  ],
+  "answer": 3,
+  "explanation": "\"स्वागत\" को विपरीतार्थी \"विदाइ\" हो।",
+  "explanation_ne": "\"स्वागत\" को विपरीतार्थी \"विदाइ\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0192",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"प्रश्न\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"प्रश्न\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "जिज्ञासा",
+   "उत्तर",
+   "समाधान",
+   "समस्या"
+  ],
+  "options_ne": [
+   "जिज्ञासा",
+   "उत्तर",
+   "समाधान",
+   "समस्या"
+  ],
+  "answer": 1,
+  "explanation": "\"प्रश्न\" को विपरीतार्थी \"उत्तर\" हो।",
+  "explanation_ne": "\"प्रश्न\" को विपरीतार्थी \"उत्तर\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0193",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"अँध्यारो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"अँध्यारो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "कालो",
+   "उज्यालो",
+   "मधुरो",
+   "सेतो"
+  ],
+  "options_ne": [
+   "कालो",
+   "उज्यालो",
+   "मधुरो",
+   "सेतो"
+  ],
+  "answer": 1,
+  "explanation": "\"अँध्यारो\" को विपरीतार्थी \"उज्यालो\" हो।",
+  "explanation_ne": "\"अँध्यारो\" को विपरीतार्थी \"उज्यालो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP2-0194",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"मित्र\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"मित्र\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "साथी",
+   "छिमेकी",
+   "परिचित",
+   "शत्रु"
+  ],
+  "options_ne": [
+   "साथी",
+   "छिमेकी",
+   "परिचित",
+   "शत्रु"
+  ],
+  "answer": 3,
+  "explanation": "\"मित्र\" को विपरीतार्थी \"शत्रु\" हो।",
+  "explanation_ne": "\"मित्र\" को विपरीतार्थी \"शत्रु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

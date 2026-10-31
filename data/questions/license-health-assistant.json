@@ -1,0 +1,4630 @@
+[
+ {
+  "id": "HA-003",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which bone protects the brain?",
+  "options": [
+   "Femur",
+   "Skull",
+   "Rib",
+   "Tibia"
+  ],
+  "answer": 1,
+  "explanation": "The skull (cranium) encloses and protects the brain.",
+  "source": "Human anatomy textbook",
+  "question_ne": "मस्तिष्कलाई कुन हड्डीले सुरक्षा गर्छ?",
+  "options_ne": [
+   "फिमर",
+   "खप्पर",
+   "करङ",
+   "टिबिया"
+  ],
+  "explanation_ne": "खप्पर (क्रेनियम) ले मस्तिष्कलाई घेरेर सुरक्षा गर्छ।"
+ },
+ {
+  "id": "HA-005",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which part of the cell contains the genetic material?",
+  "options": [
+   "Cytoplasm",
+   "Mitochondria",
+   "Nucleus",
+   "Ribosome"
+  ],
+  "answer": 2,
+  "explanation": "The nucleus contains DNA, the genetic material of the cell.",
+  "source": "Human anatomy textbook",
+  "question_ne": "कोषको कुन भागमा आनुवंशिक पदार्थ हुन्छ?",
+  "options_ne": [
+   "साइटोप्लाज्म",
+   "माइटोकन्ड्रिया",
+   "केन्द्रक",
+   "राइबोजोम"
+  ],
+  "explanation_ne": "केन्द्रकमा डीएनए हुन्छ, जुन कोषको आनुवंशिक पदार्थ हो।"
+ },
+ {
+  "id": "HA-006",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many pairs of ribs are there in the human body?",
+  "options": [
+   "10 pairs",
+   "12 pairs",
+   "14 pairs",
+   "11 pairs"
+  ],
+  "answer": 1,
+  "explanation": "There are 12 pairs of ribs, which form the rib cage protecting the heart and lungs.",
+  "source": "Human anatomy textbook",
+  "question_ne": "मानव शरीरमा कति जोडी करङ हुन्छन्?",
+  "options_ne": [
+   "१० जोडी",
+   "१२ जोडी",
+   "१४ जोडी",
+   "११ जोडी"
+  ],
+  "explanation_ne": "मानव शरीरमा १२ जोडी करङ हुन्छन्, जसले मुटु र फोक्सोलाई सुरक्षा गर्छन्।"
+ },
+ {
+  "id": "HA-008",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the main muscle of breathing?",
+  "options": [
+   "Intercostal muscles",
+   "Abdominal muscles",
+   "Pectoral muscles",
+   "Diaphragm"
+  ],
+  "answer": 3,
+  "explanation": "The diaphragm is the main muscle of respiration; it contracts and flattens during inspiration.",
+  "source": "Human anatomy textbook",
+  "question_ne": "श्वासप्रश्वासको मुख्य मांसपेशी कुन हो?",
+  "options_ne": [
+   "इन्टरकोस्टल मांसपेशी",
+   "पेटको मांसपेशी",
+   "छातीको मांसपेशी",
+   "डायफ्राम"
+  ],
+  "explanation_ne": "डायफ्राम श्वासप्रश्वासको मुख्य मांसपेशी हो; सास लिँदा यो संकुचित भई समतल हुन्छ।"
+ },
+ {
+  "id": "HA-009",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which part of the abdomen is the appendix located?",
+  "options": [
+   "Left upper quadrant",
+   "Left lower quadrant",
+   "Right lower quadrant",
+   "Right upper quadrant"
+  ],
+  "answer": 2,
+  "explanation": "The appendix is attached to the caecum in the right lower quadrant (right iliac fossa).",
+  "source": "Human anatomy textbook",
+  "question_ne": "एपेन्डिक्स पेटको कुन भागमा हुन्छ?",
+  "options_ne": [
+   "बायाँ माथिल्लो भाग",
+   "बायाँ तल्लो भाग",
+   "दायाँ तल्लो भाग",
+   "दायाँ माथिल्लो भाग"
+  ],
+  "explanation_ne": "एपेन्डिक्स दायाँ तल्लो भागमा सिकमसँग जोडिएको हुन्छ।"
+ },
+ {
+  "id": "HA-010",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How many cervical vertebrae are there in the human spine?",
+  "options": [
+   "5",
+   "7",
+   "9",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "There are 7 cervical vertebrae in the neck region of the spine.",
+  "source": "Human anatomy textbook",
+  "question_ne": "मानव मेरुदण्डमा कति वटा ग्रीवा कशेरुका हुन्छन्?",
+  "options_ne": [
+   "५",
+   "७",
+   "९",
+   "१२"
+  ],
+  "explanation_ne": "घाँटीको भागमा ७ वटा ग्रीवा कशेरुका हुन्छन्।"
+ },
+ {
+  "id": "HA-013",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which blood vessel carries blood away from the heart?",
+  "options": [
+   "Vein",
+   "Capillary",
+   "Artery",
+   "Lymph vessel"
+  ],
+  "answer": 2,
+  "explanation": "Arteries carry blood away from the heart to the body tissues.",
+  "source": "Human anatomy textbook",
+  "question_ne": "कुन रक्तनलीले मुटुबाट रगत टाढा लैजान्छ?",
+  "options_ne": [
+   "शिरा",
+   "केशिका",
+   "धमनी",
+   "लसिका नली"
+  ],
+  "explanation_ne": "धमनीले मुटुबाट रगत शरीरका तन्तुहरूमा पुर्‍याउँछ।"
+ },
+ {
+  "id": "HA-014",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which chamber of the heart pumps blood to the lungs?",
+  "options": [
+   "Left atrium",
+   "Right ventricle",
+   "Left ventricle",
+   "Right atrium"
+  ],
+  "answer": 1,
+  "explanation": "The right ventricle pumps deoxygenated blood to the lungs through the pulmonary artery.",
+  "source": "Human anatomy textbook",
+  "question_ne": "मुटुको कुन कोठाले फोक्सोमा रगत पठाउँछ?",
+  "options_ne": [
+   "बायाँ अलिन्द",
+   "दायाँ निलय",
+   "बायाँ निलय",
+   "दायाँ अलिन्द"
+  ],
+  "explanation_ne": "दायाँ निलयले अक्सिजनरहित रगत फोक्सोमा पठाउँछ।"
+ },
+ {
+  "id": "HA-015",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which cranial nerve is responsible for vision?",
+  "options": [
+   "Optic nerve",
+   "Olfactory nerve",
+   "Oculomotor nerve",
+   "Trigeminal nerve"
+  ],
+  "answer": 0,
+  "explanation": "The optic nerve (cranial nerve II) carries visual information from the retina to the brain.",
+  "source": "Human anatomy textbook",
+  "question_ne": "दृष्टिका लागि कुन कपाल स्नायु जिम्मेवार छ?",
+  "options_ne": [
+   "अप्टिक स्नायु",
+   "ओल्फ्याक्टरी स्नायु",
+   "अकुलोमोटर स्नायु",
+   "ट्राइजेमिनल स्नायु"
+  ],
+  "explanation_ne": "अप्टिक स्नायु (दोस्रो कपाल स्नायु) ले आँखाबाट दृश्य जानकारी मस्तिष्कमा पुर्‍याउँछ।"
+ },
+ {
+  "id": "HA-017",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many lobes does the right lung have?",
+  "options": [
+   "2",
+   "4",
+   "3",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "The right lung has three lobes (upper, middle and lower); the left lung has two.",
+  "source": "Human anatomy textbook",
+  "question_ne": "दायाँ फोक्सोमा कति वटा खण्ड (लोब) हुन्छन्?",
+  "options_ne": [
+   "२",
+   "४",
+   "३",
+   "५"
+  ],
+  "explanation_ne": "दायाँ फोक्सोमा तीन वटा खण्ड हुन्छन्; बायाँ फोक्सोमा दुई वटा हुन्छन्।"
+ },
+ {
+  "id": "HA-019",
+  "exam": [
+   "nhpc-ha",
+   "csit-entrance",
+   "mecee-bl",
+   "nmc-bds",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the largest artery in the human body?",
+  "options": [
+   "Aorta",
+   "Pulmonary artery",
+   "Carotid artery",
+   "Femoral artery"
+  ],
+  "answer": 0,
+  "explanation": "The aorta is the largest artery; it carries oxygenated blood from the left ventricle to the body.",
+  "source": "Human anatomy textbook",
+  "question_ne": "मानव शरीरको सबैभन्दा ठूलो धमनी कुन हो?",
+  "options_ne": [
+   "एओर्टा",
+   "पल्मोनरी धमनी",
+   "क्यारोटिड धमनी",
+   "फेमोरल धमनी"
+  ],
+  "explanation_ne": "एओर्टा सबैभन्दा ठूलो धमनी हो; यसले अक्सिजनयुक्त रगत शरीरभरि पुर्‍याउँछ।"
+ },
+ {
+  "id": "HA-020",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "nnc-rn"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which structure connects a muscle to a bone?",
+  "options": [
+   "Ligament",
+   "Cartilage",
+   "Fascia",
+   "Tendon"
+  ],
+  "answer": 3,
+  "explanation": "A tendon is a tough band of fibrous tissue that connects muscle to bone; a ligament connects bone to bone.",
+  "source": "Human anatomy textbook",
+  "question_ne": "कुन संरचनाले मांसपेशीलाई हड्डीसँग जोड्छ?",
+  "options_ne": [
+   "लिगामेन्ट",
+   "कार्टिलेज",
+   "फासिया",
+   "टेन्डन"
+  ],
+  "explanation_ne": "टेन्डनले मांसपेशीलाई हड्डीसँग जोड्छ; लिगामेन्टले हड्डीलाई हड्डीसँग जोड्छ।"
+ },
+ {
+  "id": "HA-023",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which bone is commonly called the collarbone?",
+  "options": [
+   "Clavicle",
+   "Scapula",
+   "Sternum",
+   "Humerus"
+  ],
+  "answer": 0,
+  "explanation": "The clavicle is commonly called the collarbone; it connects the arm to the trunk.",
+  "source": "Human anatomy textbook",
+  "question_ne": "कुन हड्डीलाई सामान्यतया हँसुली (कलरबोन) भनिन्छ?",
+  "options_ne": [
+   "क्ल्याभिकल",
+   "स्क्यापुला",
+   "स्टर्नम",
+   "ह्युमरस"
+  ],
+  "explanation_ne": "क्ल्याभिकललाई हँसुली भनिन्छ; यसले हातलाई धडसँग जोड्छ।"
+ },
+ {
+  "id": "HA-024",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ is known as the voice box?",
+  "options": [
+   "Pharynx",
+   "Trachea",
+   "Epiglottis",
+   "Larynx"
+  ],
+  "answer": 3,
+  "explanation": "The larynx contains the vocal cords and is known as the voice box.",
+  "source": "Human anatomy textbook",
+  "question_ne": "कुन अंगलाई स्वरयन्त्र (भ्वाइस बक्स) भनिन्छ?",
+  "options_ne": [
+   "ग्रसनी",
+   "श्वासनली",
+   "एपिग्लोटिस",
+   "लेरिङ्क्स"
+  ],
+  "explanation_ne": "लेरिङ्क्समा स्वरतन्तु हुन्छन् र यसलाई स्वरयन्त्र भनिन्छ।"
+ },
+ {
+  "id": "HA-025",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which part of the eye changes shape to focus on near objects?",
+  "options": [
+   "Iris",
+   "Retina",
+   "Lens",
+   "Cornea"
+  ],
+  "answer": 2,
+  "explanation": "The lens changes shape (accommodation) to focus light from near objects onto the retina.",
+  "source": "Human anatomy textbook",
+  "question_ne": "नजिकका वस्तुमा केन्द्रित गर्न आँखाको कुन भागको आकार बदलिन्छ?",
+  "options_ne": [
+   "आइरिस",
+   "रेटिना",
+   "लेन्स",
+   "कर्निया"
+  ],
+  "explanation_ne": "लेन्सले आकार बदलेर नजिकका वस्तुको प्रकाश रेटिनामा केन्द्रित गर्छ।"
+ },
+ {
+  "id": "HA-029",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal fasting blood glucose level?",
+  "options": [
+   "50-70 mg/dL",
+   "110-140 mg/dL",
+   "70-100 mg/dL",
+   "140-180 mg/dL"
+  ],
+  "answer": 2,
+  "explanation": "Normal fasting blood glucose is about 70 to 100 mg/dL; 126 mg/dL or above on two occasions indicates diabetes.",
+  "source": "Human physiology textbook",
+  "question_ne": "सामान्य खाली पेटको रगतमा चिनीको मात्रा कति हुन्छ?",
+  "options_ne": [
+   "५०–७० मिग्रा/डेसिलिटर",
+   "११०–१४० मिग्रा/डेसिलिटर",
+   "७०–१०० मिग्रा/डेसिलिटर",
+   "१४०–१८० मिग्रा/डेसिलिटर"
+  ],
+  "explanation_ne": "सामान्य खाली पेटको रगतमा चिनी करिब ७० देखि १०० मिग्रा/डेसिलिटर हुन्छ।"
+ },
+ {
+  "id": "HA-030",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which hormone lowers blood glucose level?",
+  "options": [
+   "Glucagon",
+   "Insulin",
+   "Adrenaline",
+   "Cortisol"
+  ],
+  "answer": 1,
+  "explanation": "Insulin lowers blood glucose by helping cells take up glucose; glucagon raises it.",
+  "source": "Human physiology textbook",
+  "question_ne": "कुन हर्मोनले रगतमा चिनीको मात्रा घटाउँछ?",
+  "options_ne": [
+   "ग्लुकागन",
+   "इन्सुलिन",
+   "एड्रेनालिन",
+   "कोर्टिसोल"
+  ],
+  "explanation_ne": "इन्सुलिनले कोषहरूलाई ग्लुकोज लिन मद्दत गरी रगतमा चिनी घटाउँछ।"
+ },
+ {
+  "id": "HA-033",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal pH range of human blood?",
+  "options": [
+   "7.0-7.1",
+   "7.8-8.0",
+   "7.35-7.45",
+   "6.8-7.0"
+  ],
+  "answer": 2,
+  "explanation": "Normal arterial blood pH is 7.35 to 7.45; below 7.35 is acidosis and above 7.45 is alkalosis.",
+  "source": "Human physiology textbook",
+  "question_ne": "मानव रगतको सामान्य पीएच दायरा कति हो?",
+  "options_ne": [
+   "७.०–७.१",
+   "७.८–८.०",
+   "७.३५–७.४५",
+   "६.८–७.०"
+  ],
+  "explanation_ne": "सामान्य रगतको पीएच ७.३५ देखि ७.४५ हुन्छ; ७.३५ भन्दा कम एसिडोसिस र ७.४५ भन्दा माथि अल्कालोसिस हो।"
+ },
+ {
+  "id": "HA-034",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which organ produces erythropoietin, the hormone that stimulates red blood cell production?",
+  "options": [
+   "Liver",
+   "Kidney",
+   "Spleen",
+   "Bone marrow"
+  ],
+  "answer": 1,
+  "explanation": "The kidneys produce erythropoietin in response to low oxygen; it stimulates red cell production in the bone marrow.",
+  "source": "Human physiology textbook",
+  "question_ne": "रातो रक्तकोष उत्पादन बढाउने हर्मोन एरिथ्रोपोइटिन कुन अंगले उत्पादन गर्छ?",
+  "options_ne": [
+   "कलेजो",
+   "मिर्गौला",
+   "फियो",
+   "हड्डीको मज्जा"
+  ],
+  "explanation_ne": "मिर्गौलाले कम अक्सिजनमा एरिथ्रोपोइटिन बनाउँछ, जसले हड्डीको मज्जामा रातो कोष उत्पादन बढाउँछ।"
+ },
+ {
+  "id": "HA-037",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where is bile produced in the body?",
+  "options": [
+   "Gallbladder",
+   "Pancreas",
+   "Liver",
+   "Duodenum"
+  ],
+  "answer": 2,
+  "explanation": "Bile is produced by the liver and stored in the gallbladder; it helps digest fats.",
+  "source": "Human physiology textbook",
+  "question_ne": "शरीरमा पित्त कहाँ बन्छ?",
+  "options_ne": [
+   "पित्तथैली",
+   "प्यान्क्रियाज",
+   "कलेजो",
+   "ड्युडेनम"
+  ],
+  "explanation_ne": "पित्त कलेजोमा बन्छ र पित्तथैलीमा भण्डारण हुन्छ; यसले बोसो पचाउन मद्दत गर्छ।"
+ },
+ {
+  "id": "HA-038",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which enzyme begins the digestion of starch in the mouth?",
+  "options": [
+   "Pepsin",
+   "Salivary amylase",
+   "Lipase",
+   "Trypsin"
+  ],
+  "answer": 1,
+  "explanation": "Salivary amylase (ptyalin) in saliva begins breaking starch into maltose in the mouth.",
+  "source": "Human physiology textbook",
+  "question_ne": "मुखमा स्टार्च पचाउन सुरु गर्ने एन्जाइम कुन हो?",
+  "options_ne": [
+   "पेप्सिन",
+   "लार एमाइलेज",
+   "लाइपेज",
+   "ट्रिप्सिन"
+  ],
+  "explanation_ne": "लारमा रहेको सलाइभरी एमाइलेज (टायलिन) ले मुखमै स्टार्च पचाउन सुरु गर्छ।"
+ },
+ {
+  "id": "HA-039",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal daily urine output of a healthy adult?",
+  "options": [
+   "1000-1500 mL per day",
+   "100-200 mL per day",
+   "500-800 mL per day",
+   "3000-4000 mL per day"
+  ],
+  "answer": 0,
+  "explanation": "A healthy adult normally passes about 1000 to 1500 mL of urine per day.",
+  "source": "Human physiology textbook",
+  "question_ne": "स्वस्थ वयस्कले दैनिक कति पिसाब गर्छ?",
+  "options_ne": [
+   "दैनिक १०००–१५०० मिलिलिटर",
+   "दैनिक १००–२०० मिलिलिटर",
+   "दैनिक ५००–८०० मिलिलिटर",
+   "दैनिक ३०००–४००० मिलिलिटर"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कले दैनिक करिब १००० देखि १५०० मिलिलिटर पिसाब गर्छ।"
+ },
+ {
+  "id": "HA-040",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which hormone regulates the sleep-wake cycle?",
+  "options": [
+   "Insulin",
+   "Thyroxine",
+   "Aldosterone",
+   "Melatonin"
+  ],
+  "answer": 3,
+  "explanation": "Melatonin, secreted by the pineal gland, regulates the sleep-wake cycle and circadian rhythm.",
+  "source": "Human physiology textbook",
+  "question_ne": "कुन हर्मोनले निद्रा–जागरण चक्र नियन्त्रण गर्छ?",
+  "options_ne": [
+   "इन्सुलिन",
+   "थाइरोक्सिन",
+   "एल्डोस्टेरोन",
+   "मेलाटोनिन"
+  ],
+  "explanation_ne": "पिनियल ग्रन्थिबाट निस्कने मेलाटोनिनले निद्रा–जागरण चक्र नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HA-041",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the approximate normal glomerular filtration rate (GFR) in a healthy adult?",
+  "options": [
+   "10-20 mL/min",
+   "30-50 mL/min",
+   "90-120 mL/min",
+   "200-250 mL/min"
+  ],
+  "answer": 2,
+  "explanation": "Normal GFR in a healthy young adult is about 90 to 120 mL/min/1.73 m2.",
+  "source": "Human physiology textbook",
+  "question_ne": "स्वस्थ वयस्कमा सामान्य ग्लोमेरुलर फिल्ट्रेसन दर (GFR) करिब कति हुन्छ?",
+  "options_ne": [
+   "१०–२० मिलिलिटर/मिनेट",
+   "३०–५० मिलिलिटर/मिनेट",
+   "९०–१२० मिलिलिटर/मिनेट",
+   "२००–२५० मिलिलिटर/मिनेट"
+  ],
+  "explanation_ne": "स्वस्थ युवा वयस्कमा सामान्य GFR करिब ९० देखि १२० मिलिलिटर/मिनेट हुन्छ।"
+ },
+ {
+  "id": "HA-042",
+  "exam": [
+   "nhpc-ha",
+   "csit-entrance",
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "nmc-mbbs",
+   "provincial-psc",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which component of blood carries oxygen to the tissues?",
+  "options": [
+   "Plasma",
+   "Haemoglobin",
+   "Platelets",
+   "White blood cells"
+  ],
+  "answer": 1,
+  "explanation": "Haemoglobin inside red blood cells binds oxygen in the lungs and releases it in the tissues.",
+  "source": "Human physiology textbook",
+  "question_ne": "रगतको कुन तत्वले अक्सिजन तन्तुहरूमा पुर्‍याउँछ?",
+  "options_ne": [
+   "प्लाज्मा",
+   "हेमोग्लोबिन",
+   "प्लेटलेट",
+   "सेता रक्तकोष"
+  ],
+  "explanation_ne": "रातो रक्तकोषभित्रको हेमोग्लोबिनले फोक्सोबाट अक्सिजन बोकेर तन्तुहरूमा पुर्‍याउँछ।"
+ },
+ {
+  "id": "HA-043",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal platelet count in blood?",
+  "options": [
+   "150,000-400,000 per microlitre",
+   "50,000-100,000 per microlitre",
+   "500,000-800,000 per microlitre",
+   "1-2 million per microlitre"
+  ],
+  "answer": 0,
+  "explanation": "The normal platelet count is 150,000 to 400,000 per microlitre; platelets help blood clotting.",
+  "source": "Human physiology textbook",
+  "question_ne": "रगतमा सामान्य प्लेटलेट संख्या कति हुन्छ?",
+  "options_ne": [
+   "प्रति माइक्रोलिटर १,५०,०००–४,००,०००",
+   "प्रति माइक्रोलिटर ५०,०००–१,००,०००",
+   "प्रति माइक्रोलिटर ५,००,०००–८,००,०००",
+   "प्रति माइक्रोलिटर १०–२० लाख"
+  ],
+  "explanation_ne": "सामान्य प्लेटलेट संख्या प्रति माइक्रोलिटर १,५०,००० देखि ४,००,००० हुन्छ।"
+ },
+ {
+  "id": "HA-044",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which hormone is released during stress and prepares the body for fight or flight?",
+  "options": [
+   "Insulin",
+   "Oxytocin",
+   "Prolactin",
+   "Adrenaline"
+  ],
+  "answer": 3,
+  "explanation": "Adrenaline (epinephrine) from the adrenal medulla increases heart rate and blood glucose during stress.",
+  "source": "Human physiology textbook",
+  "question_ne": "तनावमा कुन हर्मोन निस्कन्छ र शरीरलाई लड्ने वा भाग्ने अवस्थाका लागि तयार गर्छ?",
+  "options_ne": [
+   "इन्सुलिन",
+   "अक्सिटोसिन",
+   "प्रोल्याक्टिन",
+   "एड्रेनालिन"
+  ],
+  "explanation_ne": "एड्रेनालिनले तनावमा मुटुको धड्कन र रगतमा चिनी बढाउँछ।"
+ },
+ {
+  "id": "HA-045",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which ion is mainly responsible for muscle contraction?",
+  "options": [
+   "Sodium",
+   "Potassium",
+   "Calcium",
+   "Magnesium"
+  ],
+  "answer": 2,
+  "explanation": "Calcium ions released inside muscle fibres trigger contraction by exposing actin binding sites.",
+  "source": "Human physiology textbook",
+  "question_ne": "मांसपेशी संकुचनका लागि मुख्य रूपमा कुन आयन जिम्मेवार छ?",
+  "options_ne": [
+   "सोडियम",
+   "पोटासियम",
+   "क्याल्सियम",
+   "म्याग्नेसियम"
+  ],
+  "explanation_ne": "मांसपेशी तन्तुभित्र निस्कने क्याल्सियम आयनले संकुचन सुरु गर्छ।"
+ },
+ {
+  "id": "HA-046",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Approximately how many litres of blood does an average adult have?",
+  "options": [
+   "2 litres",
+   "5 litres",
+   "3 litres",
+   "8 litres"
+  ],
+  "answer": 1,
+  "explanation": "An average adult has about 5 litres of blood, roughly 7 to 8 percent of body weight.",
+  "source": "Human physiology textbook",
+  "question_ne": "औसत वयस्कमा करिब कति लिटर रगत हुन्छ?",
+  "options_ne": [
+   "२ लिटर",
+   "५ लिटर",
+   "३ लिटर",
+   "८ लिटर"
+  ],
+  "explanation_ne": "औसत वयस्कमा करिब ५ लिटर रगत हुन्छ, जुन शरीरको तौलको करिब ७–८ प्रतिशत हो।"
+ },
+ {
+  "id": "HA-048",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "nhpc-lab"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the normal serum sodium level?",
+  "options": [
+   "100-110 mmol/L",
+   "120-130 mmol/L",
+   "150-160 mmol/L",
+   "135-145 mmol/L"
+  ],
+  "answer": 3,
+  "explanation": "Normal serum sodium is 135 to 145 mmol/L; low sodium is hyponatraemia and high sodium is hypernatraemia.",
+  "source": "Human physiology textbook",
+  "question_ne": "सामान्य सिरम सोडियम कति हुन्छ?",
+  "options_ne": [
+   "१००–११० मिलिमोल/लिटर",
+   "१२०–१३० मिलिमोल/लिटर",
+   "१५०–१६० मिलिमोल/लिटर",
+   "१३५–१४५ मिलिमोल/लिटर"
+  ],
+  "explanation_ne": "सामान्य सिरम सोडियम १३५ देखि १४५ मिलिमोल/लिटर हुन्छ।"
+ },
+ {
+  "id": "HA-049",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which part of the brain regulates body temperature?",
+  "options": [
+   "Cerebellum",
+   "Medulla oblongata",
+   "Hypothalamus",
+   "Thalamus"
+  ],
+  "answer": 2,
+  "explanation": "The hypothalamus acts as the body's thermostat, maintaining temperature around 37 degrees Celsius.",
+  "source": "Human physiology textbook",
+  "question_ne": "मस्तिष्कको कुन भागले शरीरको तापक्रम नियन्त्रण गर्छ?",
+  "options_ne": [
+   "सेरिबेलम",
+   "मेडुला ओब्लोन्गाटा",
+   "हाइपोथालामस",
+   "थालामस"
+  ],
+  "explanation_ne": "हाइपोथालामसले शरीरको तापक्रम करिब ३७ डिग्री सेल्सियसमा कायम राख्छ।"
+ },
+ {
+  "id": "HA-050",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is systole in the cardiac cycle?",
+  "options": [
+   "Relaxation of the heart",
+   "Contraction of the heart",
+   "Filling of the heart",
+   "Resting of the heart"
+  ],
+  "answer": 1,
+  "explanation": "Systole is the contraction phase of the heart, when blood is pumped out; diastole is the relaxation phase.",
+  "source": "Human physiology textbook",
+  "question_ne": "मुटुको चक्रमा सिस्टोल के हो?",
+  "options_ne": [
+   "मुटुको विश्राम",
+   "मुटुको संकुचन",
+   "मुटुमा रगत भरिनु",
+   "मुटुको आराम"
+  ],
+  "explanation_ne": "सिस्टोल मुटु संकुचन हुने चरण हो, जसमा रगत बाहिर पम्प हुन्छ; डायस्टोल विश्राम चरण हो।"
+ },
+ {
+  "id": "HA-051",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Paracetamol is mainly used as a:",
+  "options": [
+   "Antibiotic",
+   "Antipyretic and analgesic",
+   "Antihistamine",
+   "Antacid"
+  ],
+  "answer": 1,
+  "explanation": "Paracetamol reduces fever (antipyretic) and relieves pain (analgesic).",
+  "source": "Pharmacology textbook",
+  "question_ne": "प्यारासिटामोल मुख्यतया केका रूपमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "एन्टिबायोटिक",
+   "ज्वरो घटाउने र दुखाइ कम गर्ने औषधि",
+   "एन्टिहिस्टामाइन",
+   "एन्टासिड"
+  ],
+  "explanation_ne": "प्यारासिटामोलले ज्वरो घटाउँछ र दुखाइ कम गर्छ।"
+ },
+ {
+  "id": "HA-052",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Oral rehydration solution (ORS) is used to treat:",
+  "options": [
+   "Fever",
+   "Vomiting only",
+   "Constipation",
+   "Dehydration due to diarrhoea"
+  ],
+  "answer": 3,
+  "explanation": "ORS replaces water and electrolytes lost in diarrhoea and prevents dehydration.",
+  "source": "Pharmacology textbook",
+  "question_ne": "ओरल रिहाइड्रेसन सोलुसन (ORS) के को उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "ज्वरो",
+   "बान्ता मात्र",
+   "कब्जियत",
+   "झाडापखालाबाट हुने निर्जलीकरण"
+  ],
+  "explanation_ne": "ORS ले झाडापखालामा गुमेको पानी र लवण पूर्ति गरी निर्जलीकरण रोक्छ।"
+ },
+ {
+  "id": "HA-053",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is an antibiotic?",
+  "options": [
+   "Amoxicillin",
+   "Paracetamol",
+   "Cetirizine",
+   "Omeprazole"
+  ],
+  "answer": 0,
+  "explanation": "Amoxicillin is a penicillin antibiotic used against bacterial infections.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन एन्टिबायोटिक हो?",
+  "options_ne": [
+   "एमोक्सिसिलिन",
+   "प्यारासिटामोल",
+   "सेटिरिजिन",
+   "ओमेप्राजोल"
+  ],
+  "explanation_ne": "एमोक्सिसिलिन ब्याक्टेरिया संक्रमणविरुद्ध प्रयोग हुने पेनिसिलिन एन्टिबायोटिक हो।"
+ },
+ {
+  "id": "HA-054",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "By which route is insulin usually given?",
+  "options": [
+   "Oral",
+   "Intravenous only",
+   "Subcutaneous injection",
+   "Topical"
+  ],
+  "answer": 2,
+  "explanation": "Insulin is a protein destroyed by stomach acid, so it is given by subcutaneous injection.",
+  "source": "Pharmacology textbook",
+  "question_ne": "इन्सुलिन सामान्यतया कुन बाटोबाट दिइन्छ?",
+  "options_ne": [
+   "मुखबाट",
+   "नसाबाट मात्र",
+   "छालामुनि सुईबाट",
+   "छालामा लगाएर"
+  ],
+  "explanation_ne": "इन्सुलिन प्रोटिन भएकाले पेटको एसिडले नष्ट गर्छ, त्यसैले छालामुनि सुईबाट दिइन्छ।"
+ },
+ {
+  "id": "HA-055",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the drug of choice in anaphylaxis?",
+  "options": [
+   "Hydrocortisone",
+   "Adrenaline",
+   "Chlorpheniramine",
+   "Salbutamol"
+  ],
+  "answer": 1,
+  "explanation": "Adrenaline (epinephrine) given intramuscularly is the first-line drug in anaphylaxis.",
+  "source": "Pharmacology textbook",
+  "question_ne": "एनाफिलेक्सिसमा रोजाइको औषधि कुन हो?",
+  "options_ne": [
+   "हाइड्रोकोर्टिसोन",
+   "एड्रेनालिन",
+   "क्लोरफेनिरामाइन",
+   "साल्बुटामोल"
+  ],
+  "explanation_ne": "एनाफिलेक्सिसमा मांसपेशीमा दिइने एड्रेनालिन पहिलो रोजाइको औषधि हो।"
+ },
+ {
+  "id": "HA-056",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin supplement is given to prevent rickets in children?",
+  "options": [
+   "Vitamin D",
+   "Vitamin C",
+   "Vitamin B12",
+   "Vitamin E"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin D is essential for calcium absorption and bone mineralisation; its deficiency causes rickets.",
+  "source": "Pharmacology textbook",
+  "question_ne": "बालबालिकामा रिकेट्स रोक्न कुन भिटामिन दिइन्छ?",
+  "options_ne": [
+   "भिटामिन डी",
+   "भिटामिन सी",
+   "भिटामिन बी१२",
+   "भिटामिन ई"
+  ],
+  "explanation_ne": "भिटामिन डी क्याल्सियम सोस्न र हड्डी बलियो बनाउन आवश्यक छ; यसको कमीले रिकेट्स हुन्छ।"
+ },
+ {
+  "id": "HA-057",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Why should tetracycline be avoided in children below 8 years of age?",
+  "options": [
+   "It causes liver damage",
+   "It causes kidney failure",
+   "It causes hearing loss",
+   "It causes teeth discoloration and inhibits bone growth"
+  ],
+  "answer": 3,
+  "explanation": "Tetracycline deposits in developing teeth and bones, causing permanent yellow discoloration and growth inhibition.",
+  "source": "Pharmacology textbook",
+  "question_ne": "८ वर्ष मुनिका बालबालिकामा टेट्रासाइक्लिन किन दिनु हुँदैन?",
+  "options_ne": [
+   "यसले कलेजो बिगार्छ",
+   "यसले मिर्गौला बिगार्छ",
+   "यसले सुन्ने शक्ति घटाउँछ",
+   "यसले दाँत पहेँलो पार्छ र हड्डीको वृद्धि रोक्छ"
+  ],
+  "explanation_ne": "टेट्रासाइक्लिन विकास हुँदै गरेका दाँत र हड्डीमा जम्मा भई दाँत पहेँलो पार्छ र वृद्धि रोक्छ।"
+ },
+ {
+  "id": "HA-058",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is an anti-tubercular drug?",
+  "options": [
+   "Metformin",
+   "Ciprofloxacin",
+   "Rifampicin",
+   "Amlodipine"
+  ],
+  "answer": 2,
+  "explanation": "Rifampicin is a first-line anti-tubercular drug used in the standard TB regimen.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन क्षयरोगविरुद्धको औषधि हो?",
+  "options_ne": [
+   "मेटफर्मिन",
+   "सिप्रोफ्लोक्सासिन",
+   "रिफाम्पिसिन",
+   "एम्लोडिपिन"
+  ],
+  "explanation_ne": "रिफाम्पिसिन क्षयरोगको मानक उपचारमा प्रयोग हुने पहिलो पंक्तिको औषधि हो।"
+ },
+ {
+  "id": "HA-059",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Antacids are used to relieve:",
+  "options": [
+   "Fever",
+   "Acidity and heartburn",
+   "Diarrhoea",
+   "Cough"
+  ],
+  "answer": 1,
+  "explanation": "Antacids neutralise stomach acid and relieve acidity and heartburn.",
+  "source": "Pharmacology textbook",
+  "question_ne": "एन्टासिड के कम गर्न प्रयोग हुन्छ?",
+  "options_ne": [
+   "ज्वरो",
+   "अम्लता र छाती पोल्ने",
+   "झाडापखाला",
+   "खोकी"
+  ],
+  "explanation_ne": "एन्टासिडले पेटको एसिड निष्प्रभावी पारी अम्लता र छाती पोल्ने कम गर्छ।"
+ },
+ {
+  "id": "HA-060",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following drugs is used to treat malaria?",
+  "options": [
+   "Chloroquine",
+   "Amoxicillin",
+   "Paracetamol",
+   "Insulin"
+  ],
+  "answer": 0,
+  "explanation": "Chloroquine is an antimalarial drug; the others are an antibiotic, an antipyretic and a hormone.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन औषधि मलेरियाको उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "क्लोरोक्विन",
+   "एमोक्सिसिलिन",
+   "प्यारासिटामोल",
+   "इन्सुलिन"
+  ],
+  "explanation_ne": "क्लोरोक्विन मलेरियाविरुद्धको औषधि हो; अन्य औषधि एन्टिबायोटिक, ज्वरो घटाउने र हर्मोन हुन्।"
+ },
+ {
+  "id": "HA-061",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which drug is known to cause ototoxicity (damage to hearing)?",
+  "options": [
+   "Penicillin",
+   "Paracetamol",
+   "Metronidazole",
+   "Gentamicin"
+  ],
+  "answer": 3,
+  "explanation": "Gentamicin, an aminoglycoside antibiotic, can damage the inner ear and cause hearing loss.",
+  "source": "Pharmacology textbook",
+  "question_ne": "कुन औषधिले सुन्ने शक्ति बिगार्न सक्छ (ओटोटोक्सिसिटी)?",
+  "options_ne": [
+   "पेनिसिलिन",
+   "प्यारासिटामोल",
+   "मेट्रोनिडाजोल",
+   "जेन्टामाइसिन"
+  ],
+  "explanation_ne": "एमिनोग्लाइकोसाइड एन्टिबायोटिक जेन्टामाइसिनले भित्री कान बिगारी सुन्ने शक्ति घटाउन सक्छ।"
+ },
+ {
+  "id": "HA-062",
+  "exam": [
+   "nhpc-ha",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Metformin is used in the treatment of:",
+  "options": [
+   "Hypertension",
+   "Asthma",
+   "Type 2 diabetes mellitus",
+   "Hypothyroidism"
+  ],
+  "answer": 2,
+  "explanation": "Metformin is the first-line oral drug for type 2 diabetes mellitus; it reduces blood glucose.",
+  "source": "Pharmacology textbook",
+  "question_ne": "मेटफर्मिन कुन रोगको उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "उच्च रक्तचाप",
+   "दमा",
+   "टाइप २ मधुमेह",
+   "हाइपोथाइराइडिज्म"
+  ],
+  "explanation_ne": "मेटफर्मिन टाइप २ मधुमेहको पहिलो पंक्तिको मुखबाट खाने औषधि हो।"
+ },
+ {
+  "id": "HA-063",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Cetirizine is used to treat:",
+  "options": [
+   "Pain",
+   "Allergy",
+   "Fever",
+   "Infection"
+  ],
+  "answer": 1,
+  "explanation": "Cetirizine is an antihistamine used for allergic conditions such as sneezing, itching and urticaria.",
+  "source": "Pharmacology textbook",
+  "question_ne": "सेटिरिजिन के को उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "दुखाइ",
+   "एलर्जी",
+   "ज्वरो",
+   "संक्रमण"
+  ],
+  "explanation_ne": "सेटिरिजिन एन्टिहिस्टामाइन हो, जसले हाच्छिउँ, चिलाउने र एलर्जी कम गर्छ।"
+ },
+ {
+  "id": "HA-065",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of these drugs is teratogenic and must be avoided in pregnancy?",
+  "options": [
+   "Folic acid",
+   "Paracetamol",
+   "Iron tablets",
+   "Isotretinoin"
+  ],
+  "answer": 3,
+  "explanation": "Isotretinoin is highly teratogenic and causes severe birth defects; it is strictly avoided in pregnancy.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन औषधिले जन्मजात विकृति गराउँछ र गर्भावस्थामा दिनु हुँदैन?",
+  "options_ne": [
+   "फोलिक एसिड",
+   "प्यारासिटामोल",
+   "आइरन चक्की",
+   "आइसोट्रेटिनोइन"
+  ],
+  "explanation_ne": "आइसोट्रेटिनोइनले गम्भीर जन्मजात विकृति गराउँछ, त्यसैले गर्भावस्थामा कडाइका साथ निषेध छ।"
+ },
+ {
+  "id": "HA-066",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which salt is an essential component of oral rehydration solution (ORS)?",
+  "options": [
+   "Calcium carbonate",
+   "Magnesium sulphate",
+   "Sodium chloride",
+   "Zinc oxide"
+  ],
+  "answer": 2,
+  "explanation": "ORS contains sodium chloride, potassium chloride, trisodium citrate and glucose to replace lost water and electrolytes.",
+  "source": "Pharmacology textbook",
+  "question_ne": "ORS को आवश्यक तत्व कुन नुन हो?",
+  "options_ne": [
+   "क्याल्सियम कार्बोनेट",
+   "म्याग्नेसियम सल्फेट",
+   "सोडियम क्लोराइड",
+   "जिंक अक्साइड"
+  ],
+  "explanation_ne": "ORS मा सोडियम क्लोराइड, पोटासियम क्लोराइड, साइट्रेट र ग्लुकोज हुन्छन्, जसले गुमेको पानी र लवण पूर्ति गर्छन्।"
+ },
+ {
+  "id": "HA-067",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which drug relieves bronchospasm in an acute asthma attack?",
+  "options": [
+   "Amoxicillin",
+   "Salbutamol",
+   "Omeprazole",
+   "Metformin"
+  ],
+  "answer": 1,
+  "explanation": "Salbutamol is a bronchodilator that relaxes airway muscles and relieves bronchospasm in asthma.",
+  "source": "Pharmacology textbook",
+  "question_ne": "दमा आक्रमणमा श्वासनली खुम्चिनु कम गर्ने औषधि कुन हो?",
+  "options_ne": [
+   "एमोक्सिसिलिन",
+   "साल्बुटामोल",
+   "ओमेप्राजोल",
+   "मेटफर्मिन"
+  ],
+  "explanation_ne": "साल्बुटामोलले श्वासनलीका मांसपेशी खुकुलो पारी दमामा राहत दिन्छ।"
+ },
+ {
+  "id": "HA-068",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the drug of choice in organophosphate poisoning?",
+  "options": [
+   "Atropine",
+   "Neostigmine",
+   "Adrenaline",
+   "Naloxone"
+  ],
+  "answer": 0,
+  "explanation": "Atropine blocks the excess acetylcholine effects in organophosphate poisoning and is the drug of choice.",
+  "source": "Pharmacology textbook",
+  "question_ne": "अर्गानोफस्फेट विषाक्ततामा रोजाइको औषधि कुन हो?",
+  "options_ne": [
+   "एट्रोपिन",
+   "नियोस्टिग्माइन",
+   "एड्रेनालिन",
+   "नालोक्सोन"
+  ],
+  "explanation_ne": "एट्रोपिनले अर्गानोफस्फेट विषमा बढेको एसिटाइलकोलिनको असर रोक्छ।"
+ },
+ {
+  "id": "HA-069",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Naloxone is used as an antidote for:",
+  "options": [
+   "Paracetamol poisoning",
+   "Organophosphate poisoning",
+   "Iron poisoning",
+   "Opioid overdose"
+  ],
+  "answer": 3,
+  "explanation": "Naloxone is an opioid antagonist that reverses opioid overdose, including respiratory depression.",
+  "source": "Pharmacology textbook",
+  "question_ne": "नालोक्सोन कुन विषको प्रतिरोधक (एन्टिडोट) हो?",
+  "options_ne": [
+   "प्यारासिटामोल विष",
+   "अर्गानोफस्फेट विष",
+   "आइरन विष",
+   "ओपिओइड अधिक मात्रा"
+  ],
+  "explanation_ne": "नालोक्सोनले ओपिओइडको असर उल्ट्याई श्वासप्रश्वास अवरोध हटाउँछ।"
+ },
+ {
+  "id": "HA-070",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is a common side effect of prolonged steroid use?",
+  "options": [
+   "Weight loss",
+   "Improved immunity",
+   "Weight gain and raised blood sugar",
+   "Low blood pressure"
+  ],
+  "answer": 2,
+  "explanation": "Prolonged steroids cause weight gain, raised blood sugar, moon face and suppression of immunity.",
+  "source": "Pharmacology textbook",
+  "question_ne": "लामो समय स्टेरोइड प्रयोगको सामान्य दुष्प्रभाव कुन हो?",
+  "options_ne": [
+   "तौल घट्नु",
+   "रोग प्रतिरोध क्षमता बढ्नु",
+   "तौल बढ्नु र रगतमा चिनी बढ्नु",
+   "रक्तचाप घट्नु"
+  ],
+  "explanation_ne": "लामो स्टेरोइड प्रयोगले तौल बढ्छ, रगतमा चिनी बढ्छ र रोग प्रतिरोध क्षमता घट्छ।"
+ },
+ {
+  "id": "HA-071",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Iron supplements are used to treat:",
+  "options": [
+   "Diabetes",
+   "Anaemia",
+   "Hypertension",
+   "Asthma"
+  ],
+  "answer": 1,
+  "explanation": "Iron is needed to make haemoglobin; iron supplements treat iron-deficiency anaemia.",
+  "source": "Pharmacology textbook",
+  "question_ne": "आइरन सप्लिमेन्ट कुन रोगको उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "मधुमेह",
+   "रक्तअल्पता (एनिमिया)",
+   "उच्च रक्तचाप",
+   "दमा"
+  ],
+  "explanation_ne": "आइरनले हेमोग्लोबिन बनाउन मद्दत गर्छ; यसले आइरन कमीको एनिमिया निको पार्छ।"
+ },
+ {
+  "id": "HA-072",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following drugs is used to treat hypertension?",
+  "options": [
+   "Amlodipine",
+   "Salbutamol",
+   "Metronidazole",
+   "Ranitidine"
+  ],
+  "answer": 0,
+  "explanation": "Amlodipine is a calcium channel blocker used to lower blood pressure.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन औषधि उच्च रक्तचापको उपचारमा प्रयोग हुन्छ?",
+  "options_ne": [
+   "एम्लोडिपिन",
+   "साल्बुटामोल",
+   "मेट्रोनिडाजोल",
+   "रानिटिडिन"
+  ],
+  "explanation_ne": "एम्लोडिपिन क्याल्सियम च्यानल ब्लकर हो, जसले रक्तचाप घटाउँछ।"
+ },
+ {
+  "id": "HA-073",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which antibiotic is generally considered safe to use in pregnancy?",
+  "options": [
+   "Tetracycline",
+   "Streptomycin",
+   "Ciprofloxacin",
+   "Amoxicillin"
+  ],
+  "answer": 3,
+  "explanation": "Penicillins such as amoxicillin are generally considered safe in pregnancy; tetracycline, streptomycin and fluoroquinolones are avoided.",
+  "source": "Pharmacology textbook",
+  "question_ne": "गर्भावस्थामा सामान्यतया सुरक्षित मानिने एन्टिबायोटिक कुन हो?",
+  "options_ne": [
+   "टेट्रासाइक्लिन",
+   "स्ट्रेप्टोमाइसिन",
+   "सिप्रोफ्लोक्सासिन",
+   "एमोक्सिसिलिन"
+  ],
+  "explanation_ne": "एमोक्सिसिलिनजस्ता पेनिसिलिन गर्भावस्थामा सामान्यतया सुरक्षित मानिन्छन्।"
+ },
+ {
+  "id": "HA-075",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Pharmacology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following drugs is used to reduce fever?",
+  "options": [
+   "Antibiotic",
+   "Paracetamol",
+   "Antihistamine",
+   "Antifungal"
+  ],
+  "answer": 1,
+  "explanation": "Paracetamol is an antipyretic drug that reduces fever.",
+  "source": "Pharmacology textbook",
+  "question_ne": "निम्नमध्ये कुन औषधिले ज्वरो घटाउँछ?",
+  "options_ne": [
+   "एन्टिबायोटिक",
+   "प्यारासिटामोल",
+   "एन्टिहिस्टामाइन",
+   "एन्टिफंगल"
+  ],
+  "explanation_ne": "प्यारासिटामोल ज्वरो घटाउने औषधि हो।"
+ },
+ {
+  "id": "HA-076",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organism causes tuberculosis?",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "Staphylococcus aureus",
+   "Escherichia coli",
+   "Streptococcus pneumoniae"
+  ],
+  "answer": 0,
+  "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, which mainly affects the lungs.",
+  "source": "Medicine textbook",
+  "question_ne": "क्षयरोग कुन जीवाणुले गराउँछ?",
+  "options_ne": [
+   "माइकोब्याक्टेरियम ट्युबरकुलोसिस",
+   "स्ट्याफिलोकोकस अउरियस",
+   "एस्चेरिचिया कोलाई",
+   "स्ट्रेप्टोकोकस न्युमोनिया"
+  ],
+  "explanation_ne": "क्षयरोग माइकोब्याक्टेरियम ट्युबरकुलोसिसले गराउँछ, जसले मुख्यतया फोक्सोलाई असर गर्छ।"
+ },
+ {
+  "id": "HA-077",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is a classic symptom of diabetes mellitus?",
+  "options": [
+   "Weight gain",
+   "Low blood sugar",
+   "Slow pulse",
+   "Excessive urination"
+  ],
+  "answer": 3,
+  "explanation": "The classic symptoms of diabetes are polyuria (excessive urination), polydipsia (excessive thirst) and polyphagia.",
+  "source": "Medicine textbook",
+  "question_ne": "मधुमेहको प्रमुख लक्षण कुन हो?",
+  "options_ne": [
+   "तौल बढ्नु",
+   "रगतमा चिनी कम हुनु",
+   "नाडी ढिलो हुनु",
+   "धेरै पिसाब लाग्नु"
+  ],
+  "explanation_ne": "मधुमेहका प्रमुख लक्षण धेरै पिसाब लाग्नु, धेरै तिर्खा लाग्नु र धेरै भोक लाग्नु हुन्।"
+ },
+ {
+  "id": "HA-078",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "kharidar",
+   "nasu",
+   "nhpc-public-health",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Malaria is transmitted by the bite of:",
+  "options": [
+   "Aedes mosquito",
+   "Culex mosquito",
+   "Female Anopheles mosquito",
+   "Sandfly"
+  ],
+  "answer": 2,
+  "explanation": "Malaria is transmitted by the bite of an infected female Anopheles mosquito carrying Plasmodium parasites.",
+  "source": "Medicine textbook",
+  "question_ne": "मलेरिया कुन लामखुट्टेको टोकाइबाट सर्छ?",
+  "options_ne": [
+   "एडिज लामखुट्टे",
+   "क्युलेक्स लामखुट्टे",
+   "पोथी एनोफिलिज लामखुट्टे",
+   "बालुवा झिंगा"
+  ],
+  "explanation_ne": "मलेरिया संक्रमित पोथी एनोफिलिज लामखुट्टेको टोकाइबाट सर्छ।"
+ },
+ {
+  "id": "HA-079",
+  "exam": [
+   "nhpc-ha",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Dengue fever is transmitted by which mosquito?",
+  "options": [
+   "Anopheles mosquito",
+   "Aedes mosquito",
+   "Housefly",
+   "Flea"
+  ],
+  "answer": 1,
+  "explanation": "Dengue is transmitted by the bite of an infected Aedes aegypti mosquito, which bites during the day.",
+  "source": "Medicine textbook",
+  "question_ne": "डेंगु ज्वरो कुन लामखुट्टेबाट सर्छ?",
+  "options_ne": [
+   "एनोफिलिज लामखुट्टे",
+   "एडिज लामखुट्टे",
+   "घरझिंगा",
+   "उपियाँ"
+  ],
+  "explanation_ne": "डेंगु संक्रमित एडिज एजिप्टाई लामखुट्टेको टोकाइबाट सर्छ, जसले दिनमा टोक्छ।"
+ },
+ {
+  "id": "HA-080",
+  "exam": [
+   "nhpc-ha",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Cholera is caused by:",
+  "options": [
+   "Vibrio cholerae",
+   "Salmonella typhi",
+   "Mycobacterium tuberculosis",
+   "Plasmodium"
+  ],
+  "answer": 0,
+  "explanation": "Cholera is caused by Vibrio cholerae, usually spread through contaminated water, causing severe watery diarrhoea.",
+  "source": "Medicine textbook",
+  "question_ne": "हैजा कुन जीवाणुले गराउँछ?",
+  "options_ne": [
+   "भिब्रियो कोलेरी",
+   "साल्मोनेला टाइफी",
+   "माइकोब्याक्टेरियम ट्युबरकुलोसिस",
+   "प्लाज्मोडियम"
+  ],
+  "explanation_ne": "हैजा भिब्रियो कोलेरीले गराउँछ, जुन दूषित पानीबाट सर्छ र गम्भीर झाडा गराउँछ।"
+ },
+ {
+  "id": "HA-081",
+  "exam": [
+   "nhpc-ha",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Typhoid fever is caused by:",
+  "options": [
+   "Vibrio cholerae",
+   "Shigella",
+   "Escherichia coli",
+   "Salmonella typhi"
+  ],
+  "answer": 3,
+  "explanation": "Typhoid fever is caused by Salmonella typhi, spread through contaminated food and water.",
+  "source": "Medicine textbook",
+  "question_ne": "टाइफाइड ज्वरो कुन जीवाणुले गराउँछ?",
+  "options_ne": [
+   "भिब्रियो कोलेरी",
+   "शिगेला",
+   "एस्चेरिचिया कोलाई",
+   "साल्मोनेला टाइफी"
+  ],
+  "explanation_ne": "टाइफाइड साल्मोनेला टाइफीले गराउँछ, जुन दूषित खाना र पानीबाट सर्छ।"
+ },
+ {
+  "id": "HA-082",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Koplik spots are a characteristic sign of:",
+  "options": [
+   "Chickenpox",
+   "Mumps",
+   "Measles",
+   "Rubella"
+  ],
+  "answer": 2,
+  "explanation": "Koplik spots are small white spots on the inner cheek mucosa, seen in the early stage of measles.",
+  "source": "Medicine textbook",
+  "question_ne": "कोप्लिक स्पट कुन रोगको विशेष चिह्न हो?",
+  "options_ne": [
+   "ठेउला",
+   "गलफुलो",
+   "दादुरा",
+   "रुबेला"
+  ],
+  "explanation_ne": "कोप्लिक स्पट दादुराको प्रारम्भिक चरणमा गालाको भित्री भागमा देखिने साना सेता थोप्ला हुन्।"
+ },
+ {
+  "id": "HA-083",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How long is the standard treatment course for drug-sensitive pulmonary tuberculosis?",
+  "options": [
+   "2 weeks",
+   "6 months",
+   "1 year",
+   "2 years"
+  ],
+  "answer": 1,
+  "explanation": "Standard drug-sensitive TB is treated for 6 months (2 months intensive phase and 4 months continuation phase) under DOTS.",
+  "source": "National Tuberculosis Programme, Nepal",
+  "question_ne": "औषधिसंवेदनशील फोक्सोको क्षयरोगको मानक उपचार अवधि कति हुन्छ?",
+  "options_ne": [
+   "२ हप्ता",
+   "६ महिना",
+   "१ वर्ष",
+   "२ वर्ष"
+  ],
+  "explanation_ne": "मानक क्षयरोग उपचार ६ महिनाको हुन्छ (२ महिना गहन चरण र ४ महिना निरन्तरता चरण)।"
+ },
+ {
+  "id": "HA-084",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is caused by the human immunodeficiency virus (HIV)?",
+  "options": [
+   "AIDS",
+   "Hepatitis B",
+   "Tuberculosis",
+   "Malaria"
+  ],
+  "answer": 0,
+  "explanation": "HIV attacks the immune system and causes acquired immunodeficiency syndrome (AIDS).",
+  "source": "Medicine textbook",
+  "question_ne": "एचआईभी (HIV) ले कुन रोग गराउँछ?",
+  "options_ne": [
+   "एड्स",
+   "हेपाटाइटिस बी",
+   "क्षयरोग",
+   "मलेरिया"
+  ],
+  "explanation_ne": "एचआईभीले रोग प्रतिरोध प्रणालीमा आक्रमण गरी एड्स गराउँछ।"
+ },
+ {
+  "id": "HA-085",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Hepatitis B is mainly transmitted through:",
+  "options": [
+   "Contaminated water",
+   "Mosquito bite",
+   "Air droplets",
+   "Blood and body fluids"
+  ],
+  "answer": 3,
+  "explanation": "Hepatitis B spreads through infected blood, body fluids, unsafe injections and from mother to child.",
+  "source": "Medicine textbook",
+  "question_ne": "हेपाटाइटिस बी मुख्यतया कसरी सर्छ?",
+  "options_ne": [
+   "दूषित पानीबाट",
+   "लामखुट्टेको टोकाइबाट",
+   "हावाबाट",
+   "रगत र शारीरिक तरल पदार्थबाट"
+  ],
+  "explanation_ne": "हेपाटाइटिस बी संक्रमित रगत, शारीरिक तरल, असुरक्षित सुई र आमाबाट बच्चामा सर्छ।"
+ },
+ {
+  "id": "HA-086",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is a danger sign of severe pneumonia in a child according to IMNCI?",
+  "options": [
+   "Mild cough",
+   "Chest indrawing",
+   "Low-grade fever",
+   "Runny nose"
+  ],
+  "answer": 1,
+  "explanation": "Chest indrawing in a child with cough indicates severe pneumonia and needs urgent referral.",
+  "source": "CB-IMNCI guidelines, Nepal",
+  "question_ne": "IMNCI अनुसार बालबालिकामा गम्भीर निमोनियाको खतरा चिह्न कुन हो?",
+  "options_ne": [
+   "हल्का खोकी",
+   "छाती भित्र पस्नु",
+   "हल्का ज्वरो",
+   "नाक बग्नु"
+  ],
+  "explanation_ne": "खोकी भएको बच्चामा छाती भित्र पस्नु गम्भीर निमोनियाको चिह्न हो र तुरुन्त रेफर गर्नुपर्छ।"
+ },
+ {
+  "id": "HA-088",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Jaundice is the yellowing of:",
+  "options": [
+   "Skin and eyes",
+   "Tongue only",
+   "Nails only",
+   "Hair"
+  ],
+  "answer": 0,
+  "explanation": "Jaundice is yellowing of the skin and eyes due to raised bilirubin in the blood, often from liver disease.",
+  "source": "Medicine textbook",
+  "question_ne": "जन्डिसमा के पहेँलो हुन्छ?",
+  "options_ne": [
+   "छाला र आँखा",
+   "जिब्रो मात्र",
+   "नङ मात्र",
+   "कपाल"
+  ],
+  "explanation_ne": "जन्डिसमा रगतमा बिलिरुबिन बढेर छाला र आँखा पहेँलो हुन्छन्, प्रायः कलेजोको रोगले।"
+ },
+ {
+  "id": "HA-089",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Hypertension is often called the silent killer because it is usually:",
+  "options": [
+   "Very painful",
+   "Rapidly fatal",
+   "Obvious",
+   "Asymptomatic"
+  ],
+  "answer": 3,
+  "explanation": "High blood pressure usually causes no symptoms until it damages organs such as the heart, brain and kidneys.",
+  "source": "Medicine textbook",
+  "question_ne": "उच्च रक्तचापलाई मौन हत्यारा भनिन्छ, किनभने यो प्रायः कस्तो हुन्छ?",
+  "options_ne": [
+   "धेरै पीडादायी",
+   "छिटो ज्यान लिने",
+   "स्पष्ट देखिने",
+   "लक्षणविहीन"
+  ],
+  "explanation_ne": "उच्च रक्तचापले प्रायः कुनै लक्षण देखाउँदैन, तर मुटु, मस्तिष्क र मिर्गौलालाई क्षति पुर्‍याउँछ।"
+ },
+ {
+  "id": "HA-090",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which investigation is used to diagnose diabetes mellitus?",
+  "options": [
+   "Urine culture",
+   "Lipid profile",
+   "Fasting blood glucose",
+   "Serum calcium"
+  ],
+  "answer": 2,
+  "explanation": "Fasting blood glucose of 126 mg/dL or above on two occasions confirms diabetes mellitus.",
+  "source": "Medicine textbook",
+  "question_ne": "मधुमेह निदान गर्न कुन जाँच प्रयोग हुन्छ?",
+  "options_ne": [
+   "पिसाब कल्चर",
+   "लिपिड प्रोफाइल",
+   "खाली पेटको रगतमा चिनी",
+   "सिरम क्याल्सियम"
+  ],
+  "explanation_ne": "दुई पटक खाली पेटको रगतमा चिनी १२६ मिग्रा/डेसिलिटर वा सोभन्दा माथि भए मधुमेह पुष्टि हुन्छ।"
+ },
+ {
+  "id": "HA-091",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Anaemia is diagnosed by finding:",
+  "options": [
+   "High white cell count",
+   "Low haemoglobin",
+   "High platelet count",
+   "High blood sugar"
+  ],
+  "answer": 1,
+  "explanation": "Anaemia means a low haemoglobin level, reducing the blood's oxygen-carrying capacity.",
+  "source": "Medicine textbook",
+  "question_ne": "एनिमिया कुन जाँचबाट पत्ता लाग्छ?",
+  "options_ne": [
+   "सेता कोष बढेको",
+   "हेमोग्लोबिन कम भएको",
+   "प्लेटलेट बढेको",
+   "रगतमा चिनी बढेको"
+  ],
+  "explanation_ne": "एनिमियामा हेमोग्लोबिन कम हुन्छ, जसले रगतको अक्सिजन बोक्ने क्षमता घटाउँछ।"
+ },
+ {
+  "id": "HA-093",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rabies is transmitted to humans mainly by:",
+  "options": [
+   "Mosquito bite",
+   "Contaminated food",
+   "Housefly",
+   "Bite of a rabid animal"
+  ],
+  "answer": 3,
+  "explanation": "Rabies virus is present in the saliva of infected animals and is transmitted by their bite, most often dogs.",
+  "source": "Medicine textbook",
+  "question_ne": "रेबिज मानिसमा मुख्यतया कसरी सर्छ?",
+  "options_ne": [
+   "लामखुट्टेको टोकाइबाट",
+   "दूषित खानाबाट",
+   "घरझिंगाबाट",
+   "रेबिज लागेको जनावरको टोकाइबाट"
+  ],
+  "explanation_ne": "रेबिज भाइरस संक्रमित जनावरको र्‍यालमा हुन्छ र टोकाइबाट सर्छ, प्रायः कुकुरबाट।"
+ },
+ {
+  "id": "HA-094",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the usual incubation period of rabies?",
+  "options": [
+   "1-2 days",
+   "1-2 weeks",
+   "1-3 months",
+   "1-2 years"
+  ],
+  "answer": 2,
+  "explanation": "Rabies usually appears 1 to 3 months after the bite, though it can range from weeks to over a year.",
+  "source": "Medicine textbook",
+  "question_ne": "रेबिजको सामान्य इन्क्युबेसन अवधि कति हुन्छ?",
+  "options_ne": [
+   "१–२ दिन",
+   "१–२ हप्ता",
+   "१–३ महिना",
+   "१–२ वर्ष"
+  ],
+  "explanation_ne": "रेबिज प्रायः टोकेको १ देखि ३ महिनामा देखिन्छ, यद्यपि हप्तादेखि एक वर्षभन्दा बढी पनि हुन सक्छ।"
+ },
+ {
+  "id": "HA-095",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the most common cause of maternal death in Nepal?",
+  "options": [
+   "Eclampsia",
+   "Postpartum haemorrhage",
+   "Sepsis",
+   "Anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Postpartum haemorrhage (heavy bleeding after delivery) is the leading cause of maternal death in Nepal.",
+  "source": "Nepal maternal health programme data",
+  "question_ne": "नेपालमा मातृ मृत्युको सबैभन्दा सामान्य कारण के हो?",
+  "options_ne": [
+   "एक्लाम्पसिया",
+   "प्रसवपछिको रक्तस्राव",
+   "सेप्सिस",
+   "एनिमिया"
+  ],
+  "explanation_ne": "प्रसवपछि धेरै रगत बग्नु (पोस्टपार्टम हेमोरेज) नेपालमा मातृ मृत्युको प्रमुख कारण हो।"
+ },
+ {
+  "id": "HA-097",
+  "exam": [
+   "nhpc-ha",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Goitre is caused by deficiency of:",
+  "options": [
+   "Iron",
+   "Calcium",
+   "Zinc",
+   "Iodine"
+  ],
+  "answer": 3,
+  "explanation": "Iodine is needed to make thyroid hormones; its deficiency enlarges the thyroid gland, causing goitre.",
+  "source": "Medicine textbook",
+  "question_ne": "गलगाँड कुन तत्वको कमीले हुन्छ?",
+  "options_ne": [
+   "आइरन",
+   "क्याल्सियम",
+   "जिंक",
+   "आयोडिन"
+  ],
+  "explanation_ne": "आयोडिन थाइराइड हर्मोन बनाउन चाहिन्छ; यसको कमीले थाइराइड ग्रन्थि ठूलो भई गलगाँड हुन्छ।"
+ },
+ {
+  "id": "HA-098",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which organism is the main cause of peptic ulcer disease?",
+  "options": [
+   "Escherichia coli",
+   "Salmonella",
+   "Helicobacter pylori",
+   "Staphylococcus aureus"
+  ],
+  "answer": 2,
+  "explanation": "Helicobacter pylori infection of the stomach lining is the main cause of peptic ulcer disease.",
+  "source": "Medicine textbook",
+  "question_ne": "पेप्टिक अल्सरको मुख्य कारण कुन जीवाणु हो?",
+  "options_ne": [
+   "एस्चेरिचिया कोलाई",
+   "साल्मोनेला",
+   "हेलिकोब्याक्टर पाइलोरी",
+   "स्ट्याफिलोकोकस अउरियस"
+  ],
+  "explanation_ne": "हेलिकोब्याक्टर पाइलोरी संक्रमण पेप्टिक अल्सरको मुख्य कारण हो।"
+ },
+ {
+  "id": "HA-099",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Asthma is a disease affecting mainly the:",
+  "options": [
+   "Heart",
+   "Airways of the lungs",
+   "Kidneys",
+   "Liver"
+  ],
+  "answer": 1,
+  "explanation": "Asthma is chronic inflammation and narrowing of the airways, causing wheeze, cough and breathlessness.",
+  "source": "Medicine textbook",
+  "question_ne": "दमाले मुख्यतया केलाई असर गर्छ?",
+  "options_ne": [
+   "मुटु",
+   "फोक्सोका श्वासनली",
+   "मिर्गौला",
+   "कलेजो"
+  ],
+  "explanation_ne": "दमा श्वासनलीको दीर्घकालीन सूजन र साँघुरोपन हो, जसले स्याँस्याँ, खोकी र श्वास फेर्न गाह्रो गराउँछ।"
+ },
+ {
+  "id": "HA-100",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which hormone is deficient in type 1 diabetes mellitus?",
+  "options": [
+   "Insulin",
+   "Glucagon",
+   "Thyroxine",
+   "Cortisol"
+  ],
+  "answer": 0,
+  "explanation": "Type 1 diabetes is caused by autoimmune destruction of the insulin-producing beta cells of the pancreas, so insulin is deficient.",
+  "source": "Medicine textbook",
+  "question_ne": "टाइप १ मधुमेहमा कुन हर्मोनको कमी हुन्छ?",
+  "options_ne": [
+   "इन्सुलिन",
+   "ग्लुकागन",
+   "थाइरोक्सिन",
+   "कोर्टिसोल"
+  ],
+  "explanation_ne": "टाइप १ मधुमेहमा प्यान्क्रियाजका इन्सुलिन बनाउने बिटा कोष नष्ट हुन्छन्, त्यसैले इन्सुलिनको कमी हुन्छ।"
+ },
+ {
+  "id": "HA-101",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organism causes leprosy?",
+  "options": [
+   "Tuberculosis bacillus",
+   "Cholera vibrio",
+   "Mycobacterium leprae",
+   "Typhoid salmonella"
+  ],
+  "answer": 2,
+  "explanation": "Leprosy is caused by Mycobacterium leprae, which affects the skin and peripheral nerves.",
+  "source": "Medicine textbook",
+  "question_ne": "कुष्ठरोग कुन जीवाणुले गराउँछ?",
+  "options_ne": [
+   "क्षयरोगको जीवाणु",
+   "हैजाको जीवाणु",
+   "माइकोब्याक्टेरियम लेप्रे",
+   "टाइफाइडको जीवाणु"
+  ],
+  "explanation_ne": "कुष्ठरोग माइकोब्याक्टेरियम लेप्रेले गराउँछ, जसले छाला र परिधीय स्नायुमा असर गर्छ।"
+ },
+ {
+  "id": "HA-102",
+  "exam": [
+   "nhpc-ha",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vaccine is given to prevent tuberculosis?",
+  "options": [
+   "BCG",
+   "DPT",
+   "Measles vaccine",
+   "Polio vaccine"
+  ],
+  "answer": 0,
+  "explanation": "BCG (Bacillus Calmette-Guerin) vaccine given at birth protects against severe forms of childhood tuberculosis.",
+  "source": "EPI Nepal",
+  "question_ne": "क्षयरोग रोक्न कुन खोप दिइन्छ?",
+  "options_ne": [
+   "बीसीजी",
+   "डीपीटी",
+   "दादुरा खोप",
+   "पोलियो खोप"
+  ],
+  "explanation_ne": "जन्ममा दिइने बीसीजी खोपले बालबालिकामा गम्भीर क्षयरोगबाट सुरक्षा गर्छ।"
+ },
+ {
+  "id": "HA-103",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which insect transmits kala-azar (visceral leishmaniasis)?",
+  "options": [
+   "Mosquito",
+   "Sandfly",
+   "Tick",
+   "Flea"
+  ],
+  "answer": 1,
+  "explanation": "Kala-azar is transmitted by the bite of an infected female sandfly (Phlebotomus).",
+  "source": "Medicine textbook",
+  "question_ne": "कालाजार कुन कीराले सार्छ?",
+  "options_ne": [
+   "लामखुट्टे",
+   "बालुवा झिंगा (स्यान्डफ्लाई)",
+   "किरा (टिक)",
+   "उपियाँ"
+  ],
+  "explanation_ne": "कालाजार संक्रमित पोथी बालुवा झिंगाको टोकाइबाट सर्छ।"
+ },
+ {
+  "id": "HA-105",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Medicine",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the causative agent of COVID-19?",
+  "options": [
+   "Influenza virus",
+   "Bacteria",
+   "SARS-CoV-2",
+   "Plasmodium"
+  ],
+  "answer": 2,
+  "explanation": "COVID-19 is caused by the coronavirus SARS-CoV-2, which mainly spreads through respiratory droplets.",
+  "source": "Medicine textbook",
+  "question_ne": "कोभिड-१९ को कारण के हो?",
+  "options_ne": [
+   "इन्फ्लुएन्जा भाइरस",
+   "ब्याक्टेरिया",
+   "सार्स-कोभ-२",
+   "प्लाज्मोडियम"
+  ],
+  "explanation_ne": "कोभिड-१९ सार्स-कोभ-२ कोरोनाभाइरसले हुन्छ, जुन मुख्यतया श्वासका थोपाबाट सर्छ।"
+ },
+ {
+  "id": "HA-106",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What was Nepal's first public health programme?",
+  "options": [
+   "Tuberculosis control programme",
+   "Malaria eradication programme",
+   "Expanded Programme on Immunization",
+   "Family planning programme"
+  ],
+  "answer": 1,
+  "explanation": "The malaria eradication programme, started in 1958, was Nepal's first public health programme.",
+  "source": "Community health textbook",
+  "question_ne": "नेपालको पहिलो जनस्वास्थ्य कार्यक्रम कुन थियो?",
+  "options_ne": [
+   "क्षयरोग नियन्त्रण कार्यक्रम",
+   "मलेरिया उन्मूलन कार्यक्रम",
+   "खोप कार्यक्रम",
+   "परिवार नियोजन कार्यक्रम"
+  ],
+  "explanation_ne": "सन् १९५८ मा सुरु भएको मलेरिया उन्मूलन कार्यक्रम नेपालको पहिलो जनस्वास्थ्य कार्यक्रम थियो।"
+ },
+ {
+  "id": "HA-108",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the Expanded Programme on Immunization (EPI) started in Nepal?",
+  "options": [
+   "1965",
+   "1970",
+   "1975",
+   "1979"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's Expanded Programme on Immunization was launched in 1979.",
+  "source": "EPI Nepal",
+  "question_ne": "नेपालमा विस्तारित खोप कार्यक्रम (EPI) कुन वर्ष सुरु भयो?",
+  "options_ne": [
+   "१९६५",
+   "१९७०",
+   "१९७५",
+   "१९७९"
+  ],
+  "explanation_ne": "नेपालमा विस्तारित खोप कार्यक्रम सन् १९७९ मा सुरु भएको थियो।"
+ },
+ {
+  "id": "HA-109",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When is the BCG vaccine given to a child?",
+  "options": [
+   "At 6 weeks",
+   "At 9 months",
+   "At birth",
+   "At 1 year"
+  ],
+  "answer": 2,
+  "explanation": "BCG vaccine is given at birth to protect against tuberculosis.",
+  "source": "EPI Nepal",
+  "question_ne": "बीसीजी खोप बच्चालाई कहिले दिइन्छ?",
+  "options_ne": [
+   "६ हप्तामा",
+   "९ महिनामा",
+   "जन्ममा",
+   "१ वर्षमा"
+  ],
+  "explanation_ne": "बीसीजी खोप जन्ममा दिइन्छ, जसले क्षयरोगबाट सुरक्षा गर्छ।"
+ },
+ {
+  "id": "HA-110",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what age is the measles vaccine first given in Nepal?",
+  "options": [
+   "At birth",
+   "9 months",
+   "6 weeks",
+   "14 weeks"
+  ],
+  "answer": 1,
+  "explanation": "The first dose of measles vaccine is given at 9 months of age under Nepal's immunization schedule.",
+  "source": "EPI Nepal",
+  "question_ne": "नेपालमा दादुरा खोप पहिलो पटक कुन उमेरमा दिइन्छ?",
+  "options_ne": [
+   "जन्ममा",
+   "९ महिनामा",
+   "६ हप्तामा",
+   "१४ हप्तामा"
+  ],
+  "explanation_ne": "नेपालको खोप तालिकाअनुसार दादुरा खोपको पहिलो मात्रा ९ महिनाको उमेरमा दिइन्छ।"
+ },
+ {
+  "id": "HA-111",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is an example of primary prevention?",
+  "options": [
+   "Immunisation",
+   "Early diagnosis",
+   "Treatment of disease",
+   "Rehabilitation"
+  ],
+  "answer": 0,
+  "explanation": "Primary prevention prevents disease before it occurs, for example immunisation and health education.",
+  "source": "Community health textbook",
+  "question_ne": "निम्नमध्ये कुन प्राथमिक रोकथामको उदाहरण हो?",
+  "options_ne": [
+   "खोप",
+   "प्रारम्भिक निदान",
+   "रोगको उपचार",
+   "पुनर्स्थापना"
+  ],
+  "explanation_ne": "प्राथमिक रोकथामले रोग लाग्नुअघि नै रोक्छ, जस्तै खोप र स्वास्थ्य शिक्षा।"
+ },
+ {
+  "id": "HA-112",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which programme provides free delivery care in Nepal?",
+  "options": [
+   "Expanded Programme on Immunization",
+   "Aama Suraksha programme",
+   "Tuberculosis programme",
+   "Vitamin A programme"
+  ],
+  "answer": 1,
+  "explanation": "The Aama Suraksha programme provides free institutional delivery care and transport incentives to pregnant women.",
+  "source": "Nepal Safe Motherhood programme",
+  "question_ne": "नेपालमा निःशुल्क प्रसूति सेवा दिने कार्यक्रम कुन हो?",
+  "options_ne": [
+   "विस्तारित खोप कार्यक्रम",
+   "आमा सुरक्षा कार्यक्रम",
+   "क्षयरोग कार्यक्रम",
+   "भिटामिन ए कार्यक्रम"
+  ],
+  "explanation_ne": "आमा सुरक्षा कार्यक्रमले गर्भवती महिलालाई निःशुल्क संस्थागत प्रसूति सेवा र यातायात प्रोत्साहन दिन्छ।"
+ },
+ {
+  "id": "HA-113",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is HMIS 9.1 used for in Nepal?",
+  "options": [
+   "Daily OPD record",
+   "Annual report",
+   "Monthly reporting from a health post to the local level",
+   "Drug stock record"
+  ],
+  "answer": 2,
+  "explanation": "HMIS 9.1 is the monthly reporting form used by health posts to report to the local level.",
+  "source": "HMIS Nepal",
+  "question_ne": "नेपालमा HMIS ९.१ केका लागि प्रयोग हुन्छ?",
+  "options_ne": [
+   "दैनिक ओपीडी रेकर्ड",
+   "वार्षिक प्रतिवेदन",
+   "स्वास्थ्य चौकीबाट स्थानीय तहमा मासिक प्रतिवेदन",
+   "औषधि भण्डार रेकर्ड"
+  ],
+  "explanation_ne": "HMIS ९.१ स्वास्थ्य चौकीले स्थानीय तहमा पठाउने मासिक प्रतिवेदन फारम हो।"
+ },
+ {
+  "id": "HA-115",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In which year was the current National Health Policy of Nepal formulated?",
+  "options": [
+   "2076 BS",
+   "2070 BS",
+   "2060 BS",
+   "2080 BS"
+  ],
+  "answer": 0,
+  "explanation": "The National Health Policy of Nepal was formulated in 2076 BS.",
+  "source": "National Health Policy 2076, Nepal",
+  "question_ne": "नेपालको हालको राष्ट्रिय स्वास्थ्य नीति कुन वर्ष बनाइएको हो?",
+  "options_ne": [
+   "२०७६ साल",
+   "२०७० साल",
+   "२०६० साल",
+   "२०८० साल"
+  ],
+  "explanation_ne": "नेपालको राष्ट्रिय स्वास्थ्य नीति २०७६ सालमा बनाइएको हो।"
+ },
+ {
+  "id": "HA-116",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In Nepal's Vitamin A programme, children aged 6 to 59 months receive:",
+  "options": [
+   "Iron tablets",
+   "Deworming only",
+   "Zinc tablets",
+   "Vitamin A capsules"
+  ],
+  "answer": 3,
+  "explanation": "Children aged 6 to 59 months receive vitamin A capsules twice a year under the national programme.",
+  "source": "Nepal Vitamin A programme",
+  "question_ne": "नेपालको भिटामिन ए कार्यक्रममा ६ देखि ५९ महिनाका बालबालिकाले के पाउँछन्?",
+  "options_ne": [
+   "आइरन चक्की",
+   "जुकाको औषधि मात्र",
+   "जिंक चक्की",
+   "भिटामिन ए क्याप्सुल"
+  ],
+  "explanation_ne": "६ देखि ५९ महिनाका बालबालिकाले वर्षमा दुई पटक भिटामिन ए क्याप्सुल पाउँछन्।"
+ },
+ {
+  "id": "HA-117",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Albendazole is given in Nepal's deworming programme to treat:",
+  "options": [
+   "Malaria",
+   "Anaemia",
+   "Intestinal worm infestation",
+   "Diarrhoea"
+  ],
+  "answer": 2,
+  "explanation": "Albendazole is an anti-helminthic drug given to kill intestinal worms in children and adults.",
+  "source": "Community health textbook",
+  "question_ne": "नेपालको जुकाको औषधि कार्यक्रममा अल्बेन्डाजोल केका लागि दिइन्छ?",
+  "options_ne": [
+   "मलेरिया",
+   "एनिमिया",
+   "आन्द्राको जुका",
+   "झाडापखाला"
+  ],
+  "explanation_ne": "अल्बेन्डाजोल आन्द्राको जुका मार्ने औषधि हो।"
+ },
+ {
+  "id": "HA-118",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "For how many days is zinc given along with ORS in childhood diarrhoea?",
+  "options": [
+   "3 days",
+   "10-14 days",
+   "1 day",
+   "30 days"
+  ],
+  "answer": 1,
+  "explanation": "Zinc is given for 10 to 14 days in childhood diarrhoea; it reduces duration and severity.",
+  "source": "CB-IMNCI guidelines, Nepal",
+  "question_ne": "बालबालिकाको झाडापखालामा ORS सँगै जिंक कति दिन दिइन्छ?",
+  "options_ne": [
+   "३ दिन",
+   "१०–१४ दिन",
+   "१ दिन",
+   "३० दिन"
+  ],
+  "explanation_ne": "बालबालिकाको झाडापखालामा जिंक १० देखि १४ दिन दिइन्छ; यसले झाडाको अवधि र गम्भीरता घटाउँछ।"
+ },
+ {
+  "id": "HA-120",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Handwashing with soap mainly prevents:",
+  "options": [
+   "Malaria",
+   "Diarrhoeal diseases",
+   "Tuberculosis",
+   "Diabetes"
+  ],
+  "answer": 1,
+  "explanation": "Handwashing with soap removes germs and is one of the most effective ways to prevent diarrhoeal diseases.",
+  "source": "Community health textbook",
+  "question_ne": "साबुनपानीले हात धुँदा मुख्यतया के रोकिन्छ?",
+  "options_ne": [
+   "मलेरिया",
+   "झाडापखाला रोग",
+   "क्षयरोग",
+   "मधुमेह"
+  ],
+  "explanation_ne": "साबुनपानीले हात धुँदा कीटाणु हट्छन् र झाडापखाला रोग रोक्न सबैभन्दा प्रभावकारी उपाय हो।"
+ },
+ {
+  "id": "HA-121",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which family planning method is a permanent method for males?",
+  "options": [
+   "Condom",
+   "Vasectomy",
+   "Intrauterine device",
+   "Implant"
+  ],
+  "answer": 1,
+  "explanation": "Vasectomy is a permanent male sterilisation method in which the vas deferens is cut and tied.",
+  "source": "Community health textbook",
+  "question_ne": "पुरुषका लागि स्थायी परिवार नियोजन विधि कुन हो?",
+  "options_ne": [
+   "कन्डम",
+   "भ्यासेक्टोमी",
+   "कपर-टी",
+   "इम्प्लान्ट"
+  ],
+  "explanation_ne": "भ्यासेक्टोमी पुरुषको स्थायी बन्ध्याकरण विधि हो, जसमा शुक्रवाहिनी काटेर बाँधिन्छ।"
+ },
+ {
+  "id": "HA-122",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Copper-T (IUCD) is a method of:",
+  "options": [
+   "Vaccination",
+   "Contraception",
+   "Treatment of sexually transmitted infection",
+   "Nutrition"
+  ],
+  "answer": 1,
+  "explanation": "Copper-T is an intrauterine contraceptive device placed in the uterus to prevent pregnancy.",
+  "source": "Community health textbook",
+  "question_ne": "कपर-टी (IUCD) कुन विधि हो?",
+  "options_ne": [
+   "खोप",
+   "गर्भनिरोध",
+   "यौनरोगको उपचार",
+   "पोषण"
+  ],
+  "explanation_ne": "कपर-टी पाठेघरमा राखिने गर्भनिरोधक साधन हो।"
+ },
+ {
+  "id": "HA-123",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which contraceptive is given by injection every 3 months?",
+  "options": [
+   "Depo-Provera injection",
+   "Combined oral pill",
+   "Condom",
+   "Copper-T"
+  ],
+  "answer": 0,
+  "explanation": "Depo-Provera (DMPA) is an injectable contraceptive given every 3 months.",
+  "source": "Community health textbook",
+  "question_ne": "कुन गर्भनिरोधक सुई हरेक ३ महिनामा दिइन्छ?",
+  "options_ne": [
+   "डेपो-प्रोभेरा सुई",
+   "संयुक्त मुखे चक्की",
+   "कन्डम",
+   "कपर-टी"
+  ],
+  "explanation_ne": "डेपो-प्रोभेरा (DMPA) हरेक ३ महिनामा दिइने गर्भनिरोधक सुई हो।"
+ },
+ {
+  "id": "HA-124",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the main target group of the Safe Motherhood programme?",
+  "options": [
+   "Children under 5 years",
+   "Adolescents",
+   "Elderly people",
+   "Pregnant women"
+  ],
+  "answer": 3,
+  "explanation": "The Safe Motherhood programme aims to reduce maternal deaths by providing care to pregnant women.",
+  "source": "Nepal Safe Motherhood programme",
+  "question_ne": "सुरक्षित मातृत्व कार्यक्रमको मुख्य लक्षित समूह को हो?",
+  "options_ne": [
+   "५ वर्ष मुनिका बालबालिका",
+   "किशोरकिशोरी",
+   "वृद्धवृद्धा",
+   "गर्भवती महिला"
+  ],
+  "explanation_ne": "सुरक्षित मातृत्व कार्यक्रमले गर्भवती महिलालाई सेवा दिई मातृ मृत्यु घटाउने लक्ष्य राख्छ।"
+ },
+ {
+  "id": "HA-125",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does IMNCI stand for?",
+  "options": [
+   "Integrated Medical Nursing Care Initiative",
+   "Integrated Management of Neonatal and Childhood Illness",
+   "International Maternal Nutrition Care Institute",
+   "Integrated Management of Newborn and Child Infection"
+  ],
+  "answer": 1,
+  "explanation": "IMNCI stands for Integrated Management of Neonatal and Childhood Illness, used to assess and treat sick children.",
+  "source": "CB-IMNCI guidelines, Nepal",
+  "question_ne": "IMNCI को पूरा रूप के हो?",
+  "options_ne": [
+   "एकीकृत चिकित्सा नर्सिङ सेवा पहल",
+   "नवजात तथा बाल रोगको एकीकृत व्यवस्थापन",
+   "अन्तर्राष्ट्रिय मातृ पोषण सेवा संस्थान",
+   "नवजात तथा बाल संक्रमणको एकीकृत व्यवस्थापन"
+  ],
+  "explanation_ne": "IMNCI भनेको नवजात तथा बाल रोगको एकीकृत व्यवस्थापन हो, जसले बिरामी बालबालिकाको मूल्यांकन र उपचार गर्छ।"
+ },
+ {
+  "id": "HA-126",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Leprosy elimination is defined as a prevalence below:",
+  "options": [
+   "1 per 1,000 population",
+   "1 per 10,000 population",
+   "1 per 100,000 population",
+   "1 per 1,000,000 population"
+  ],
+  "answer": 1,
+  "explanation": "Leprosy is considered eliminated as a public health problem when prevalence falls below 1 case per 10,000 population.",
+  "source": "Community health textbook",
+  "question_ne": "कुष्ठरोग उन्मूलन भनेको प्रचलन कति भन्दा कम हुनु हो?",
+  "options_ne": [
+   "प्रति १,००० जनसंख्यामा १",
+   "प्रति १०,००० जनसंख्यामा १",
+   "प्रति १,००,००० जनसंख्यामा १",
+   "प्रति १०,००,००० जनसंख्यामा १"
+  ],
+  "explanation_ne": "प्रति १०,००० जनसंख्यामा १ भन्दा कम भए कुष्ठरोग जनस्वास्थ्य समस्या रूपमा उन्मूलन भएको मानिन्छ।"
+ },
+ {
+  "id": "HA-127",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is a main role of Female Community Health Volunteers (FCHVs) in Nepal?",
+  "options": [
+   "Health education and referral in the community",
+   "Performing surgery",
+   "Prescribing antibiotics",
+   "Managing hospitals"
+  ],
+  "answer": 0,
+  "explanation": "FCHVs provide health education, distribute basic medicines such as ORS and vitamin A, and refer patients to health facilities.",
+  "source": "Community health textbook",
+  "question_ne": "नेपालमा महिला सामुदायिक स्वास्थ्य स्वयंसेविकाको मुख्य भूमिका के हो?",
+  "options_ne": [
+   "समुदायमा स्वास्थ्य शिक्षा र रेफरल",
+   "शल्यक्रिया गर्नु",
+   "एन्टिबायोटिक लेख्नु",
+   "अस्पताल व्यवस्थापन गर्नु"
+  ],
+  "explanation_ne": "स्वयंसेविकाले स्वास्थ्य शिक्षा दिन्छन्, ORS र भिटामिन ए जस्ता आधारभूत औषधि बाँड्छन् र बिरामी रेफर गर्छन्।"
+ },
+ {
+  "id": "HA-129",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does WHO stand for?",
+  "options": [
+   "World Hospital Organisation",
+   "World Health Organization",
+   "World Hygiene Organisation",
+   "World Heart Organisation"
+  ],
+  "answer": 1,
+  "explanation": "WHO stands for World Health Organization, the United Nations agency for international public health.",
+  "source": "Community health textbook",
+  "question_ne": "WHO को पूरा रूप के हो?",
+  "options_ne": [
+   "विश्व अस्पताल संगठन",
+   "विश्व स्वास्थ्य संगठन",
+   "विश्व सरसफाइ संगठन",
+   "विश्व मुटु संगठन"
+  ],
+  "explanation_ne": "WHO भनेको विश्व स्वास्थ्य संगठन हो, जुन संयुक्त राष्ट्रसंघको अन्तर्राष्ट्रिय जनस्वास्थ्य निकाय हो।"
+ },
+ {
+  "id": "HA-130",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How is the crude birth rate defined?",
+  "options": [
+   "Births per 100 population",
+   "Births per 1,000 mid-year population per year",
+   "Deaths per 1,000 population",
+   "Births per 10,000 population"
+  ],
+  "answer": 1,
+  "explanation": "The crude birth rate is the number of live births per 1,000 mid-year population in a year.",
+  "source": "Community health textbook",
+  "question_ne": "कुल जन्मदर कसरी परिभाषित गरिन्छ?",
+  "options_ne": [
+   "प्रति १०० जनसंख्यामा जन्म",
+   "प्रति १,००० मध्यवर्ष जनसंख्यामा वार्षिक जन्म",
+   "प्रति १,००० जनसंख्यामा मृत्यु",
+   "प्रति १०,००० जनसंख्यामा जन्म"
+  ],
+  "explanation_ne": "कुल जन्मदर भनेको एक वर्षमा प्रति १,००० मध्यवर्ष जनसंख्यामा जीवित जन्मको संख्या हो।"
+ },
+ {
+  "id": "HA-131",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How is the infant mortality rate defined?",
+  "options": [
+   "Infant deaths per 1,000 live births per year",
+   "Infant deaths per 100 live births",
+   "Deaths under 5 years per 1,000 population",
+   "Maternal deaths per 1,000 live births"
+  ],
+  "answer": 0,
+  "explanation": "The infant mortality rate is the number of deaths of infants under one year per 1,000 live births in a year.",
+  "source": "Community health textbook",
+  "question_ne": "शिशु मृत्युदर कसरी परिभाषित गरिन्छ?",
+  "options_ne": [
+   "प्रति १,००० जीवित जन्ममा एक वर्ष मुनिका शिशु मृत्यु",
+   "प्रति १०० जीवित जन्ममा शिशु मृत्यु",
+   "प्रति १,००० जनसंख्यामा ५ वर्ष मुनिका मृत्यु",
+   "प्रति १,००० जीवित जन्ममा मातृ मृत्यु"
+  ],
+  "explanation_ne": "शिशु मृत्युदर भनेको एक वर्षमा प्रति १,००० जीवित जन्ममा एक वर्ष मुनिका शिशुको मृत्यु संख्या हो।"
+ },
+ {
+  "id": "HA-132",
+  "exam": [
+   "nhpc-ha",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Screening for disease in apparently healthy people is an example of which level of prevention?",
+  "options": [
+   "Primary prevention",
+   "Tertiary prevention",
+   "Primordial prevention",
+   "Secondary prevention"
+  ],
+  "answer": 3,
+  "explanation": "Secondary prevention detects disease early through screening so treatment can begin before symptoms worsen.",
+  "source": "Community health textbook",
+  "question_ne": "स्वस्थ देखिने मानिसमा रोगको जाँच (स्क्रिनिङ) कुन तहको रोकथाम हो?",
+  "options_ne": [
+   "प्राथमिक रोकथाम",
+   "तृतीय रोकथाम",
+   "आदिम रोकथाम",
+   "माध्यमिक रोकथाम"
+  ],
+  "explanation_ne": "माध्यमिक रोकथामले स्क्रिनिङबाट रोग छिटो पत्ता लगाई उपचार सुरु गर्छ।"
+ },
+ {
+  "id": "HA-133",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is meant by herd immunity?",
+  "options": [
+   "Immunity gained only after infection",
+   "Protection of a community when a large proportion is immune",
+   "Immunity of animals only",
+   "Immunity gained from antibiotics"
+  ],
+  "answer": 1,
+  "explanation": "Herd immunity occurs when enough people are immune, so the disease cannot spread easily and even non-immune people are protected.",
+  "source": "Community health textbook",
+  "question_ne": "समूह प्रतिरक्षा (हर्ड इम्युनिटी) भनेको के हो?",
+  "options_ne": [
+   "संक्रमणपछि मात्र पाइने प्रतिरक्षा",
+   "धेरैजसो जनसंख्या प्रतिरक्षित हुँदा समुदायको सुरक्षा",
+   "जनावरको मात्र प्रतिरक्षा",
+   "एन्टिबायोटिकबाट पाइने प्रतिरक्षा"
+  ],
+  "explanation_ne": "धेरैजसो मानिस प्रतिरक्षित भए रोग सजिलै फैलिँदैन र प्रतिरक्षा नभएकाहरू पनि सुरक्षित हुन्छन्।"
+ },
+ {
+  "id": "HA-134",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a notifiable disease that must be reported to health authorities?",
+  "options": [
+   "Common cold",
+   "Cholera",
+   "Headache",
+   "Scabies"
+  ],
+  "answer": 1,
+  "explanation": "Cholera is a notifiable disease; health workers must report cases promptly so outbreaks can be controlled.",
+  "source": "Community health textbook",
+  "question_ne": "निम्नमध्ये कुन रोग स्वास्थ्य निकायमा अनिवार्य रूपमा जानकारी गराउनुपर्ने (सूचनीय) रोग हो?",
+  "options_ne": [
+   "सामान्य रुघा",
+   "हैजा",
+   "टाउको दुखाइ",
+   "लुतो"
+  ],
+  "explanation_ne": "हैजा सूचनीय रोग हो; प्रकोप नियन्त्रण गर्न स्वास्थ्य संस्थामा तुरुन्त जानकारी गराउनुपर्छ।"
+ },
+ {
+  "id": "HA-135",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Community Health / Public Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does EWARS stand for in Nepal's disease surveillance system?",
+  "options": [
+   "Early Warning and Reporting System",
+   "Emergency Water and Relief Service",
+   "Epidemic Watch and Response System",
+   "Essential Welfare and Rehabilitation Scheme"
+  ],
+  "answer": 0,
+  "explanation": "EWARS is the Early Warning and Reporting System used in Nepal to detect and report outbreaks of infectious diseases.",
+  "source": "EWARS Nepal",
+  "question_ne": "नेपालको रोग निगरानी प्रणालीमा EWARS को पूरा रूप के हो?",
+  "options_ne": [
+   "प्रारम्भिक चेतावनी तथा प्रतिवेदन प्रणाली",
+   "आपत्कालीन पानी तथा राहत सेवा",
+   "महामारी निगरानी तथा प्रतिकार प्रणाली",
+   "आवश्यक कल्याण तथा पुनर्स्थापना योजना"
+  ],
+  "explanation_ne": "EWARS नेपालमा संक्रामक रोगको प्रकोप छिटो पत्ता लगाई जानकारी गराउने प्रारम्भिक चेतावनी तथा प्रतिवेदन प्रणाली हो।"
+ },
+ {
+  "id": "HA-136",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "In first aid, what does the letter A in DRABC stand for?",
+  "options": [
+   "Action",
+   "Assessment",
+   "Artery",
+   "Airway"
+  ],
+  "answer": 3,
+  "explanation": "DRABC stands for Danger, Response, Airway, Breathing and Circulation, the order of checks in primary survey.",
+  "source": "First aid manual",
+  "question_ne": "प्राथमिक उपचारमा DRABC को 'A' अक्षरले के जनाउँछ?",
+  "options_ne": [
+   "कार्य",
+   "मूल्यांकन",
+   "धमनी",
+   "श्वासनली"
+  ],
+  "explanation_ne": "DRABC भनेको खतरा, प्रतिक्रिया, श्वासनली, श्वासप्रश्वास र रक्तसञ्चार हो, जुन प्राथमिक जाँचको क्रम हो।"
+ },
+ {
+  "id": "HA-137",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "CPR is used for a person who is:",
+  "options": [
+   "Having a broken bone",
+   "Not breathing and has no pulse",
+   "Having a fever",
+   "Having a burn"
+  ],
+  "answer": 1,
+  "explanation": "CPR (cardiopulmonary resuscitation) is given when a person is not breathing and has no pulse, to restore circulation.",
+  "source": "First aid manual",
+  "question_ne": "CPR कसलाई दिइन्छ?",
+  "options_ne": [
+   "हड्डी भाँचिएको व्यक्ति",
+   "सास नफेरिरहेको र नाडी नभएको व्यक्ति",
+   "ज्वरो आएको व्यक्ति",
+   "पोलेको व्यक्ति"
+  ],
+  "explanation_ne": "सास नफेरिरहेको र नाडी नभएको व्यक्तिलाई रक्तसञ्चार फर्काउन CPR दिइन्छ।"
+ },
+ {
+  "id": "HA-138",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should be done first for a minor burn?",
+  "options": [
+   "Apply ice directly",
+   "Cool it under running water",
+   "Apply toothpaste",
+   "Cover it with butter"
+  ],
+  "answer": 1,
+  "explanation": "Cool a minor burn under clean running water for at least 10 minutes; do not apply toothpaste, butter or ice directly.",
+  "source": "First aid manual",
+  "question_ne": "सानो पोलेकोमा पहिले के गर्नुपर्छ?",
+  "options_ne": [
+   "सिधै बरफ लगाउने",
+   "बगिरहेको पानीले चिस्याउने",
+   "टुथपेस्ट लगाउने",
+   "घिउ लगाउने"
+  ],
+  "explanation_ne": "सानो पोलेकोलाई कम्तीमा १० मिनेट सफा बगिरहेको पानीले चिस्याउनुपर्छ; टुथपेस्ट वा घिउ लगाउनु हुँदैन।"
+ },
+ {
+  "id": "HA-139",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The Heimlich manoeuvre is used to help a person who is:",
+  "options": [
+   "Choking",
+   "Having a heart attack",
+   "Having a fracture",
+   "Having a burn"
+  ],
+  "answer": 0,
+  "explanation": "The Heimlich manoeuvre (abdominal thrusts) dislodges food or an object blocking the airway in a choking person.",
+  "source": "First aid manual",
+  "question_ne": "हेइम्लिक विधि कस्तो व्यक्तिलाई मद्दत गर्न प्रयोग हुन्छ?",
+  "options_ne": [
+   "घाँटीमा अड्किएको व्यक्ति",
+   "मुटुको आक्रमण भएको व्यक्ति",
+   "हड्डी भाँचिएको व्यक्ति",
+   "पोलेको व्यक्ति"
+  ],
+  "explanation_ne": "हेइम्लिक विधि (पेट थिच्ने) ले घाँटीमा अड्किएको खाना वा वस्तु बाहिर निकाल्छ।"
+ },
+ {
+  "id": "HA-140",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the correct first aid for a sprained ankle?",
+  "options": [
+   "Apply heat immediately",
+   "Massage the joint vigorously",
+   "Keep walking on it",
+   "Rest, ice, compression and elevation (RICE)"
+  ],
+  "answer": 3,
+  "explanation": "RICE (rest, ice, compression, elevation) reduces pain and swelling in a sprain; heat and massage can worsen it.",
+  "source": "First aid manual",
+  "question_ne": "मोचिएको गोलीगाँठोमा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "तुरुन्त तातो लगाउने",
+   "जोड जोरले मालिस गर्ने",
+   "त्यसैमा हिँडिरहने",
+   "आराम, बरफ, थिच्ने र उचाल्ने (RICE)"
+  ],
+  "explanation_ne": "RICE (आराम, बरफ, थिच्ने, उचाल्ने) ले मोचको दुखाइ र सुन्निने कम गर्छ; तातो र मालिसले झन् बिगार्न सक्छ।"
+ },
+ {
+  "id": "HA-141",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the correct first aid for a nosebleed?",
+  "options": [
+   "Tilt the head back",
+   "Pinch the soft part of the nose and lean slightly forward",
+   "Blow the nose hard",
+   "Lie flat on the back"
+  ],
+  "answer": 1,
+  "explanation": "Pinch the soft part of the nose for 10 to 15 minutes while leaning slightly forward; tilting back can cause blood to enter the airway.",
+  "source": "First aid manual",
+  "question_ne": "नाकबाट रगत बग्दा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "टाउको पछाडि ढल्काउने",
+   "नाकको नरम भाग थिचेर अलि अगाडि झुक्ने",
+   "जोरले नाक पुछ्ने",
+   "पछाडि सुत्ने"
+  ],
+  "explanation_ne": "१० देखि १५ मिनेट नाकको नरम भाग थिचेर अलि अगाडि झुक्नुपर्छ; टाउको पछाडि ढल्काउँदा रगत श्वासनलीमा जान सक्छ।"
+ },
+ {
+  "id": "HA-144",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first action on reaching the scene of an accident?",
+  "options": [
+   "Move the victim immediately",
+   "Ensure scene safety and check responsiveness",
+   "Give water to the victim",
+   "Take photographs"
+  ],
+  "answer": 1,
+  "explanation": "First ensure the scene is safe for yourself and others, then check whether the victim responds.",
+  "source": "First aid manual",
+  "question_ne": "दुर्घटनास्थलमा पुग्दा पहिलो काम के हो?",
+  "options_ne": [
+   "बिरामीलाई तुरुन्त सार्ने",
+   "स्थल सुरक्षित छ भनी जाँच्ने र बिरामीको प्रतिक्रिया हेर्ने",
+   "बिरामीलाई पानी दिने",
+   "फोटो खिच्ने"
+  ],
+  "explanation_ne": "पहिले आफू र अरूका लागि स्थल सुरक्षित छ भनी जाँच्नुपर्छ, त्यसपछि बिरामीको प्रतिक्रिया हेर्नुपर्छ।"
+ },
+ {
+  "id": "HA-145",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which signs suggest a person is in shock?",
+  "options": [
+   "Flushed warm skin",
+   "Pale, cold, clammy skin with a rapid weak pulse",
+   "Slow strong pulse",
+   "High fever"
+  ],
+  "answer": 1,
+  "explanation": "Shock causes pale, cold, clammy skin, a rapid weak pulse, rapid breathing and confusion due to poor blood flow.",
+  "source": "First aid manual",
+  "question_ne": "कुन लक्षणले व्यक्ति शकमा छ भन्ने देखाउँछ?",
+  "options_ne": [
+   "रातो तातो छाला",
+   "फुस्रो चिसो चिप्लो छाला र छिटो कमजोर नाडी",
+   "ढिलो बलियो नाडी",
+   "उच्च ज्वरो"
+  ],
+  "explanation_ne": "शकमा छाला फुस्रो चिसो र चिप्लो हुन्छ, नाडी छिटो र कमजोर हुन्छ, किनभने रगत प्रवाह कम हुन्छ।"
+ },
+ {
+  "id": "HA-146",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "The recovery position is used for which person?",
+  "options": [
+   "A person with a fracture",
+   "An unconscious person who is breathing",
+   "A person with a burn",
+   "A person having a seizure only"
+  ],
+  "answer": 1,
+  "explanation": "An unconscious person who is breathing normally is placed in the recovery position to keep the airway open and prevent choking on vomit.",
+  "source": "First aid manual",
+  "question_ne": "रिकभरी पोजिसन कस्तो व्यक्तिका लागि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "हड्डी भाँचिएको व्यक्ति",
+   "बेहोस तर सास फेरिरहेको व्यक्ति",
+   "पोलेको व्यक्ति",
+   "छारे रोग लागेको व्यक्ति मात्र"
+  ],
+  "explanation_ne": "बेहोस तर सास फेरिरहेको व्यक्तिलाई श्वासनली खुला राख्न र बान्ताले निसासिनबाट जोगाउन रिकभरी पोजिसनमा राखिन्छ।"
+ },
+ {
+  "id": "HA-147",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What should be done during a seizure (fit)?",
+  "options": [
+   "Protect the person and do not put anything in the mouth",
+   "Hold the person down tightly",
+   "Put a spoon in the mouth",
+   "Give water immediately"
+  ],
+  "answer": 0,
+  "explanation": "Protect the person from injury, loosen tight clothing and do not restrain them or put anything in the mouth.",
+  "source": "First aid manual",
+  "question_ne": "छारे रोग (सिजर) लाग्दा के गर्नुपर्छ?",
+  "options_ne": [
+   "व्यक्तिलाई चोटबाट जोगाउने र मुखमा केही नराख्ने",
+   "व्यक्तिलाई जोरले समात्ने",
+   "मुखमा चम्चा राख्ने",
+   "तुरुन्त पानी दिने"
+  ],
+  "explanation_ne": "व्यक्तिलाई चोटबाट जोगाउनुपर्छ, कसिलो लुगा खुकुलो पार्नुपर्छ र मुखमा केही राख्नु वा जोरले समात्नु हुँदैन।"
+ },
+ {
+  "id": "HA-149",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How deep should chest compressions be in adult CPR?",
+  "options": [
+   "2-3 cm",
+   "3-4 cm",
+   "5-6 cm",
+   "8-10 cm"
+  ],
+  "answer": 2,
+  "explanation": "Adult chest compressions should be at least 5 cm deep but not more than 6 cm.",
+  "source": "First aid manual",
+  "question_ne": "वयस्कको CPR मा छाती कति गहिरो थिच्नुपर्छ?",
+  "options_ne": [
+   "२–३ सेन्टिमिटर",
+   "३–४ सेन्टिमिटर",
+   "५–६ सेन्टिमिटर",
+   "८–१० सेन्टिमिटर"
+  ],
+  "explanation_ne": "वयस्कमा छाती कम्तीमा ५ सेन्टिमिटर तर ६ सेन्टिमिटरभन्दा बढी थिच्नु हुँदैन।"
+ },
+ {
+  "id": "HA-150",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the first aid for a chemical splash in the eye?",
+  "options": [
+   "Rub the eye",
+   "Flush the eye with plenty of clean water",
+   "Cover with a bandage only",
+   "Apply ointment immediately"
+  ],
+  "answer": 1,
+  "explanation": "Flush the eye with plenty of clean water for at least 15 minutes and seek medical care.",
+  "source": "First aid manual",
+  "question_ne": "आँखामा रसायन पर्दा प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "आँखा माड्ने",
+   "धेरै सफा पानीले आँखा पखाल्ने",
+   "ब्यान्डेज मात्र बाँध्ने",
+   "तुरुन्त मलम लगाउने"
+  ],
+  "explanation_ne": "आँखालाई कम्तीमा १५ मिनेट धेरै सफा पानीले पखाल्नुपर्छ र चिकित्सा सेवा खोज्नुपर्छ।"
+ },
+ {
+  "id": "HA-151",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the correct first aid for a dog bite?",
+  "options": [
+   "Apply chilli paste",
+   "Wash thoroughly with soap and water and seek medical care",
+   "Bandage it tightly",
+   "Suck the wound"
+  ],
+  "answer": 1,
+  "explanation": "Wash a dog bite thoroughly with soap and running water, then seek care for wound management and anti-rabies vaccination.",
+  "source": "First aid manual",
+  "question_ne": "कुकुरले टोकेमा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "खुर्सानी लगाउने",
+   "साबुनपानीले राम्ररी धोएर चिकित्सा सेवा खोज्ने",
+   "कसिलो ब्यान्डेज बाँध्ने",
+   "घाउ चुस्ने"
+  ],
+  "explanation_ne": "कुकुरले टोकेको घाउ साबुनपानीले राम्ररी धुनुपर्छ र रेबिज खोपका लागि चिकित्सा सेवा खोज्नुपर्छ।"
+ },
+ {
+  "id": "HA-152",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first aid for heat stroke?",
+  "options": [
+   "Move to a cool place and cool the body",
+   "Give hot tea",
+   "Cover with a blanket",
+   "Give alcohol"
+  ],
+  "answer": 0,
+  "explanation": "Move the person to a cool place, remove excess clothing and cool the body with water or fans; seek medical help.",
+  "source": "First aid manual",
+  "question_ne": "तातोले बेहोस (हिट स्ट्रोक) हुँदा प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "चिसो ठाउँमा लगेर शरीर चिस्याउने",
+   "तातो चिया दिने",
+   "कम्बल ओढाउने",
+   "रक्सी दिने"
+  ],
+  "explanation_ne": "बिरामीलाई चिसो ठाउँमा लगी शरीर पानी वा पंखाले चिस्याउनुपर्छ र चिकित्सा सहयोग खोज्नुपर्छ।"
+ },
+ {
+  "id": "HA-153",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the correct first aid for frostbite?",
+  "options": [
+   "Rub with snow",
+   "Apply hot water directly",
+   "Massage vigorously",
+   "Warm the area slowly and seek medical care"
+  ],
+  "answer": 3,
+  "explanation": "Warm a frostbitten area slowly with lukewarm water; do not rub, massage or apply direct heat.",
+  "source": "First aid manual",
+  "question_ne": "चिसोले जमेको (फ्रस्टबाइट) मा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "हिउँले माड्ने",
+   "सिधै तातो पानी हाल्ने",
+   "जोरले मालिस गर्ने",
+   "बिस्तारै तताएर चिकित्सा सेवा खोज्ने"
+  ],
+  "explanation_ne": "फ्रस्टबाइट भएको भागलाई मनतातो पानीले बिस्तारै तताउनुपर्छ; माड्नु वा सिधै तातो लगाउनु हुँदैन।"
+ },
+ {
+  "id": "HA-154",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What should be done if someone swallows poison?",
+  "options": [
+   "Induce vomiting immediately",
+   "Always give milk",
+   "Keep the poison container and seek emergency care at once",
+   "Give water only and wait"
+  ],
+  "answer": 2,
+  "explanation": "Keep the poison container or label, do not induce vomiting unless advised by a health worker, and seek emergency care at once.",
+  "source": "First aid manual",
+  "question_ne": "कसैले विष निल्यो भने के गर्नुपर्छ?",
+  "options_ne": [
+   "तुरुन्त बान्ता गराउने",
+   "सधैँ दूध दिने",
+   "विषको बट्टा राखी तुरुन्त आपत्कालीन सेवा खोज्ने",
+   "पानी मात्र दिएर पर्खने"
+  ],
+  "explanation_ne": "विषको बट्टा वा लेबल राख्नुपर्छ, स्वास्थ्यकर्मीले नभनेसम्म बान्ता गराउनु हुँदैन र तुरुन्त आपत्कालीन सेवा खोज्नुपर्छ।"
+ },
+ {
+  "id": "HA-155",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the first aid for a person with a penetrating chest wound with an object still in place?",
+  "options": [
+   "Remove the object",
+   "Cover with an airtight dressing and do not remove the object",
+   "Press the chest hard",
+   "Give water to drink"
+  ],
+  "answer": 1,
+  "explanation": "Do not remove a penetrating object; cover the wound with an airtight dressing and take the person to hospital urgently.",
+  "source": "First aid manual",
+  "question_ne": "छातीमा वस्तु पसेर अड्किएको घाउमा प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "वस्तु निकाल्ने",
+   "हावा नछिर्ने ब्यान्डेजले छोप्ने र वस्तु ननिकाल्ने",
+   "छाती जोरले थिच्ने",
+   "पानी पिउन दिने"
+  ],
+  "explanation_ne": "पसेको वस्तु निकाल्नु हुँदैन; घाउलाई हावा नछिर्ने ब्यान्डेजले छोपेर तुरुन्त अस्पताल लैजानुपर्छ।"
+ },
+ {
+  "id": "HA-156",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which food group is the main source of protein in a vegetarian diet?",
+  "options": [
+   "Pulses and legumes",
+   "Fruits",
+   "Sugar",
+   "Cooking oil"
+  ],
+  "answer": 0,
+  "explanation": "Pulses, lentils, beans and soy are the main protein sources in a vegetarian diet.",
+  "source": "Nutrition textbook",
+  "question_ne": "शाकाहारी आहारमा प्रोटिनको मुख्य स्रोत कुन हो?",
+  "options_ne": [
+   "दाल र गेडागुडी",
+   "फलफूल",
+   "चिनी",
+   "खाने तेल"
+  ],
+  "explanation_ne": "दाल, गेडागुडी, सिमी र भटमास शाकाहारी आहारमा प्रोटिनका मुख्य स्रोत हुन्।"
+ },
+ {
+  "id": "HA-157",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following foods is rich in protein?",
+  "options": [
+   "Rice",
+   "Sugar",
+   "Egg",
+   "Potato"
+  ],
+  "answer": 2,
+  "explanation": "Eggs are rich in high-quality protein needed for growth and repair of body tissues.",
+  "source": "Nutrition textbook",
+  "question_ne": "निम्नमध्ये कुन खानामा प्रोटिन धेरै हुन्छ?",
+  "options_ne": [
+   "भात",
+   "चिनी",
+   "अण्डा",
+   "आलु"
+  ],
+  "explanation_ne": "अण्डामा उच्च गुणस्तरको प्रोटिन हुन्छ, जुन शरीरको वृद्धि र मर्मतका लागि चाहिन्छ।"
+ },
+ {
+  "id": "HA-159",
+  "exam": [
+   "nhpc-ha",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Deficiency of which vitamin causes beriberi?",
+  "options": [
+   "Vitamin C",
+   "Vitamin B1",
+   "Vitamin A",
+   "Vitamin D"
+  ],
+  "answer": 1,
+  "explanation": "Beriberi is caused by deficiency of vitamin B1 (thiamine), affecting nerves and the heart.",
+  "source": "Nutrition textbook",
+  "question_ne": "कुन भिटामिनको कमीले बेरीबेरी हुन्छ?",
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन बी१",
+   "भिटामिन ए",
+   "भिटामिन डी"
+  ],
+  "explanation_ne": "बेरीबेरी भिटामिन बी१ (थायमिन) को कमीले हुन्छ, जसले स्नायु र मुटुलाई असर गर्छ।"
+ },
+ {
+  "id": "HA-160",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following foods is a good source of iron?",
+  "options": [
+   "Spinach (green leafy vegetables)",
+   "Rice",
+   "Sugar",
+   "Butter"
+  ],
+  "answer": 0,
+  "explanation": "Green leafy vegetables such as spinach, as well as meat and lentils, are good sources of iron.",
+  "source": "Nutrition textbook",
+  "question_ne": "निम्नमध्ये कुन खाना आइरनको राम्रो स्रोत हो?",
+  "options_ne": [
+   "पालुङ्गो (हरियो सागपात)",
+   "भात",
+   "चिनी",
+   "घिउ"
+  ],
+  "explanation_ne": "पालुङ्गोजस्ता हरिया सागपात, मासु र दाल आइरनका राम्रा स्रोत हुन्।"
+ },
+ {
+  "id": "HA-161",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of these foods is richest in vitamin C?",
+  "options": [
+   "Banana",
+   "Milk",
+   "Amla",
+   "Rice"
+  ],
+  "answer": 2,
+  "explanation": "Amla (Indian gooseberry) is one of the richest natural sources of vitamin C.",
+  "source": "Nutrition textbook",
+  "question_ne": "निम्नमध्ये कुन खानामा भिटामिन सी सबैभन्दा धेरै हुन्छ?",
+  "options_ne": [
+   "केरा",
+   "दूध",
+   "अमला",
+   "भात"
+  ],
+  "explanation_ne": "अमला भिटामिन सीको सबैभन्दा धनी प्राकृतिक स्रोतमध्ये एक हो।"
+ },
+ {
+  "id": "HA-162",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is meant by a balanced diet?",
+  "options": [
+   "Eating only rice",
+   "Diet containing all nutrients in proper proportion",
+   "Eating only vegetables",
+   "Eating only meat"
+  ],
+  "answer": 1,
+  "explanation": "A balanced diet contains carbohydrates, proteins, fats, vitamins and minerals in the right proportions for health.",
+  "source": "Nutrition textbook",
+  "question_ne": "सन्तुलित आहार भनेको के हो?",
+  "options_ne": [
+   "भात मात्र खाने",
+   "सबै पोषक तत्व उचित अनुपातमा भएको आहार",
+   "तरकारी मात्र खाने",
+   "मासु मात्र खाने"
+  ],
+  "explanation_ne": "सन्तुलित आहारमा कार्बोहाइड्रेट, प्रोटिन, बोसो, भिटामिन र खनिज उचित अनुपातमा हुन्छन्।"
+ },
+ {
+  "id": "HA-163",
+  "exam": [
+   "nhpc-ha",
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which nutrient helps the body absorb calcium from food?",
+  "options": [
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B1",
+   "Iron"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin D increases the absorption of calcium from the gut, so it is needed for strong bones.",
+  "source": "Nutrition textbook",
+  "question_ne": "खानाबाट क्याल्सियम सोस्न शरीरलाई कुन पोषक तत्वले मद्दत गर्छ?",
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन डी",
+   "भिटामिन बी१",
+   "आइरन"
+  ],
+  "explanation_ne": "भिटामिन डीले आन्द्राबाट क्याल्सियम सोस्ने काम बढाउँछ, त्यसैले बलियो हड्डीका लागि आवश्यक छ।"
+ },
+ {
+  "id": "HA-164",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin helps in wound healing?",
+  "options": [
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin B12",
+   "Vitamin K"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin C is needed to make collagen, the protein that repairs tissue and heals wounds.",
+  "source": "Nutrition textbook",
+  "question_ne": "घाउ निको पार्न कुन भिटामिनले मद्दत गर्छ?",
+  "options_ne": [
+   "भिटामिन सी",
+   "भिटामिन डी",
+   "भिटामिन बी१२",
+   "भिटामिन के"
+  ],
+  "explanation_ne": "भिटामिन सी कोलाजेन बनाउन चाहिन्छ, जसले तन्तु मर्मत गरी घाउ निको पार्छ।"
+ },
+ {
+  "id": "HA-165",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Kwashiorkor is caused by deficiency of:",
+  "options": [
+   "Vitamin A",
+   "Iron",
+   "Protein",
+   "Iodine"
+  ],
+  "answer": 2,
+  "explanation": "Kwashiorkor is protein-energy malnutrition in children, with oedema, a swollen belly and stunted growth.",
+  "source": "Nutrition textbook",
+  "question_ne": "क्वासियोरकर कुन तत्वको कमीले हुन्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "आइरन",
+   "प्रोटिन",
+   "आयोडिन"
+  ],
+  "explanation_ne": "क्वासियोरकर बालबालिकामा प्रोटिन कमीको कुपोषण हो, जसमा सुन्निने, पेट फुल्ने र वृद्धि रोकिने हुन्छ।"
+ },
+ {
+  "id": "HA-166",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Marasmus is caused by:",
+  "options": [
+   "Vitamin C deficiency",
+   "Iron deficiency",
+   "Vitamin D deficiency",
+   "Severe protein-energy deficiency"
+  ],
+  "answer": 3,
+  "explanation": "Marasmus is severe protein-energy malnutrition from overall lack of food, causing extreme wasting in children.",
+  "source": "Nutrition textbook",
+  "question_ne": "मरास्मस के कारणले हुन्छ?",
+  "options_ne": [
+   "भिटामिन सीको कमी",
+   "आइरनको कमी",
+   "भिटामिन डीको कमी",
+   "गम्भीर प्रोटिन–ऊर्जा कमी"
+  ],
+  "explanation_ne": "मरास्मस खानाको समग्र कमीले हुने गम्भीर प्रोटिन–ऊर्जा कुपोषण हो, जसमा बालबालिका अत्यन्त दुब्लाउँछन्।"
+ },
+ {
+  "id": "HA-168",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How much energy does 1 gram of fat provide?",
+  "options": [
+   "9 kcal",
+   "4 kcal",
+   "7 kcal",
+   "2 kcal"
+  ],
+  "answer": 0,
+  "explanation": "One gram of fat provides 9 kcal of energy; one gram of carbohydrate or protein provides 4 kcal.",
+  "source": "Nutrition textbook",
+  "question_ne": "१ ग्राम बोसोले कति ऊर्जा दिन्छ?",
+  "options_ne": [
+   "९ किलोक्यालोरी",
+   "४ किलोक्यालोरी",
+   "७ किलोक्यालोरी",
+   "२ किलोक्यालोरी"
+  ],
+  "explanation_ne": "१ ग्राम बोसोले ९ किलोक्यालोरी ऊर्जा दिन्छ; १ ग्राम कार्बोहाइड्रेट वा प्रोटिनले ४ किलोक्यालोरी दिन्छ।"
+ },
+ {
+  "id": "HA-169",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which is the best dietary source of iodine?",
+  "options": [
+   "Rice",
+   "Iodised salt",
+   "Sugar",
+   "Wheat"
+  ],
+  "answer": 1,
+  "explanation": "Iodised salt is the main dietary source of iodine and prevents iodine deficiency disorders such as goitre.",
+  "source": "Nutrition textbook",
+  "question_ne": "आयोडिनको सबैभन्दा राम्रो आहारीय स्रोत कुन हो?",
+  "options_ne": [
+   "भात",
+   "आयोडिनयुक्त नुन",
+   "चिनी",
+   "गहुँ"
+  ],
+  "explanation_ne": "आयोडिनयुक्त नुन आयोडिनको मुख्य स्रोत हो र गलगाँडजस्ता आयोडिन कमीका रोग रोक्छ।"
+ },
+ {
+  "id": "HA-170",
+  "exam": [
+   "nhpc-ha",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is also known as ascorbic acid?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B12",
+   "Vitamin D",
+   "Vitamin C"
+  ],
+  "answer": 3,
+  "explanation": "Vitamin C is also called ascorbic acid; it is found in citrus fruits, amla and green vegetables.",
+  "source": "Nutrition textbook",
+  "question_ne": "कुन भिटामिनलाई एस्कर्बिक एसिड पनि भनिन्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन बी१२",
+   "भिटामिन डी",
+   "भिटामिन सी"
+  ],
+  "explanation_ne": "भिटामिन सीलाई एस्कर्बिक एसिड भनिन्छ; यो कागती, अमला र हरियो तरकारीमा पाइन्छ।"
+ },
+ {
+  "id": "HA-171",
+  "exam": [
+   "nhpc-ha",
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pellagra is caused by deficiency of:",
+  "options": [
+   "Vitamin C",
+   "Niacin (vitamin B3)",
+   "Vitamin A",
+   "Vitamin D"
+  ],
+  "answer": 1,
+  "explanation": "Pellagra is caused by niacin (vitamin B3) deficiency, with the three Ds: dermatitis, diarrhoea and dementia.",
+  "source": "Nutrition textbook",
+  "question_ne": "पेलाग्रा कुन भिटामिनको कमीले हुन्छ?",
+  "options_ne": [
+   "भिटामिन सी",
+   "नियासिन (भिटामिन बी३)",
+   "भिटामिन ए",
+   "भिटामिन डी"
+  ],
+  "explanation_ne": "पेलाग्रा नियासिन (भिटामिन बी३) को कमीले हुन्छ; यसमा छालाको रोग, झाडा र स्मरणशक्ति ह्रास हुन्छ।"
+ },
+ {
+  "id": "HA-173",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "For how long should exclusive breastfeeding be given to an infant?",
+  "options": [
+   "3 months",
+   "12 months",
+   "6 months",
+   "2 months"
+  ],
+  "answer": 2,
+  "explanation": "WHO recommends exclusive breastfeeding for the first 6 months of life, with no other food or water.",
+  "source": "Nutrition textbook",
+  "question_ne": "शिशुलाई कति समयसम्म केवल आमाको दूध मात्र दिनुपर्छ?",
+  "options_ne": [
+   "३ महिना",
+   "१२ महिना",
+   "६ महिना",
+   "२ महिना"
+  ],
+  "explanation_ne": "WHO ले पहिलो ६ महिनासम्म केवल आमाको दूध मात्र दिन सिफारिस गर्छ।"
+ },
+ {
+  "id": "HA-175",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mineral is most important for strong bones and teeth?",
+  "options": [
+   "Iron",
+   "Calcium",
+   "Sodium",
+   "Potassium"
+  ],
+  "answer": 1,
+  "explanation": "Calcium, together with vitamin D, is essential for building and maintaining strong bones and teeth.",
+  "source": "Nutrition textbook",
+  "question_ne": "बलियो हड्डी र दाँतका लागि सबैभन्दा महत्त्वपूर्ण खनिज कुन हो?",
+  "options_ne": [
+   "आइरन",
+   "क्याल्सियम",
+   "सोडियम",
+   "पोटासियम"
+  ],
+  "explanation_ne": "क्याल्सियम भिटामिन डीसँगै बलियो हड्डी र दाँत बनाउन र कायम राख्न आवश्यक छ।"
+ },
+ {
+  "id": "HA-176",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does FEFO mean in pharmacy store management?",
+  "options": [
+   "First Expiry First Out",
+   "First Entry First Out",
+   "Free Entry Free Out",
+   "First Expiry Final Out"
+  ],
+  "answer": 0,
+  "explanation": "FEFO means First Expiry First Out: medicines nearest to expiry are used or issued first.",
+  "source": "Health management textbook",
+  "question_ne": "औषधि भण्डार व्यवस्थापनमा FEFO को अर्थ के हो?",
+  "options_ne": [
+   "पहिले म्याद सकिने पहिले निकाल्ने",
+   "पहिले आएको पहिले निकाल्ने",
+   "निःशुल्क प्रवेश निःशुल्क निकास",
+   "पहिले म्याद सकिने अन्तिममा निकाल्ने"
+  ],
+  "explanation_ne": "FEFO भनेको पहिले म्याद सकिने औषधि पहिले प्रयोग वा वितरण गर्ने हो।"
+ },
+ {
+  "id": "HA-177",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main purpose of a Health Management Information System (HMIS)?",
+  "options": [
+   "Treat patients",
+   "Collect, analyse and use health data for planning",
+   "Store medicines",
+   "Train health staff"
+  ],
+  "answer": 1,
+  "explanation": "HMIS collects and analyses routine health data so managers can plan services and monitor performance.",
+  "source": "Health management textbook",
+  "question_ne": "स्वास्थ्य व्यवस्थापन सूचना प्रणाली (HMIS) को मुख्य उद्देश्य के हो?",
+  "options_ne": [
+   "बिरामीको उपचार गर्ने",
+   "स्वास्थ्य तथ्यांक संकलन गरी योजनाका लागि प्रयोग गर्ने",
+   "औषधि भण्डारण गर्ने",
+   "स्वास्थ्यकर्मी तालिम दिने"
+  ],
+  "explanation_ne": "HMIS ले नियमित स्वास्थ्य तथ्यांक संकलन गरी सेवा योजना र अनुगमनमा प्रयोग गर्छ।"
+ },
+ {
+  "id": "HA-178",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does DoHS stand for in Nepal?",
+  "options": [
+   "Department of Hospital Services",
+   "Department of Health Services",
+   "Directorate of Health System",
+   "Department of Health Statistics"
+  ],
+  "answer": 1,
+  "explanation": "DoHS stands for the Department of Health Services under Nepal's Ministry of Health and Population.",
+  "source": "Health management textbook",
+  "question_ne": "नेपालमा DoHS को पूरा रूप के हो?",
+  "options_ne": [
+   "अस्पताल सेवा विभाग",
+   "स्वास्थ्य सेवा विभाग",
+   "स्वास्थ्य प्रणाली निर्देशनालय",
+   "स्वास्थ्य तथ्यांक विभाग"
+  ],
+  "explanation_ne": "DoHS भनेको स्वास्थ्य तथा जनसंख्या मन्त्रालयअन्तर्गतको स्वास्थ्य सेवा विभाग हो।"
+ },
+ {
+  "id": "HA-179",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A primary health care centre (PHCC) in Nepal is staffed by a:",
+  "options": [
+   "Female community health volunteer",
+   "Health assistant",
+   "Staff nurse",
+   "Medical officer"
+  ],
+  "answer": 3,
+  "explanation": "A primary health care centre is headed by a medical officer (doctor), unlike a health post which is headed by a health assistant.",
+  "source": "Health management textbook",
+  "question_ne": "नेपालमा प्राथमिक स्वास्थ्य केन्द्र (PHCC) को प्रमुख को हुन्छ?",
+  "options_ne": [
+   "महिला सामुदायिक स्वास्थ्य स्वयंसेविका",
+   "स्वास्थ्य सहायक",
+   "स्टाफ नर्स",
+   "मेडिकल अधिकृत"
+  ],
+  "explanation_ne": "प्राथमिक स्वास्थ्य केन्द्रको प्रमुख मेडिकल अधिकृत (डाक्टर) हुन्छन्; स्वास्थ्य चौकीको प्रमुख स्वास्थ्य सहायक हुन्छन्।"
+ },
+ {
+  "id": "HA-180",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Why is proper record keeping important in a health facility?",
+  "options": [
+   "It helps in planning, patient follow-up and legal protection",
+   "It is only for decoration",
+   "It wastes staff time",
+   "It is not needed in small facilities"
+  ],
+  "answer": 0,
+  "explanation": "Good records support continuity of care, planning, reporting and legal protection of staff and patients.",
+  "source": "Health management textbook",
+  "question_ne": "स्वास्थ्य संस्थामा उचित अभिलेख राख्नु किन महत्त्वपूर्ण छ?",
+  "options_ne": [
+   "यसले योजना, बिरामीको फलो-अप र कानुनी सुरक्षामा मद्दत गर्छ",
+   "यो सजावटका लागि मात्र हो",
+   "यसले कर्मचारीको समय खेर फाल्छ",
+   "सानो संस्थामा यो चाहिँदैन"
+  ],
+  "explanation_ne": "राम्रो अभिलेखले उपचारको निरन्तरता, योजना, प्रतिवेदन र कानुनी सुरक्षामा मद्दत गर्छ।"
+ },
+ {
+  "id": "HA-181",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the cold chain in immunization?",
+  "options": [
+   "Chain of command in a hospital",
+   "System to keep vaccines at 2-8 degrees Celsius during storage and transport",
+   "Cold storage of food",
+   "Chain of hospitals in a district"
+  ],
+  "answer": 1,
+  "explanation": "The cold chain keeps vaccines at 2 to 8 degrees Celsius from manufacture to administration so they stay effective.",
+  "source": "EPI Nepal",
+  "question_ne": "खोपमा कोल्ड चेन भनेको के हो?",
+  "options_ne": [
+   "अस्पतालको आदेश शृंखला",
+   "खोप भण्डारण र ढुवानीमा २–८ डिग्री सेल्सियसमा राख्ने प्रणाली",
+   "खानाको चिसो भण्डारण",
+   "जिल्लाका अस्पतालहरूको शृंखला"
+  ],
+  "explanation_ne": "कोल्ड चेनले खोपलाई उत्पादनदेखि लगाउने बेलासम्म २ देखि ८ डिग्री सेल्सियसमा राख्छ, जसले खोप प्रभावकारी रहन्छ।"
+ },
+ {
+  "id": "HA-182",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "At what temperature are most vaccines stored in a refrigerator?",
+  "options": [
+   "Minus 20 degrees Celsius",
+   "2-8 degrees Celsius",
+   "15-25 degrees Celsius",
+   "37 degrees Celsius"
+  ],
+  "answer": 1,
+  "explanation": "Most vaccines are stored at 2 to 8 degrees Celsius; freezing can destroy some vaccines.",
+  "source": "EPI Nepal",
+  "question_ne": "धेरैजसो खोप फ्रिजमा कुन तापक्रममा भण्डारण गरिन्छ?",
+  "options_ne": [
+   "माइनस २० डिग्री सेल्सियस",
+   "२–८ डिग्री सेल्सियस",
+   "१५–२५ डिग्री सेल्सियस",
+   "३७ डिग्री सेल्सियस"
+  ],
+  "explanation_ne": "धेरैजसो खोप २ देखि ८ डिग्री सेल्सियसमा भण्डारण गरिन्छ; जमाउँदा केही खोप बिग्रन्छन्।"
+ },
+ {
+  "id": "HA-183",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the most reliable method of sterilising surgical instruments?",
+  "options": [
+   "Boiling in water",
+   "Washing with soap",
+   "Autoclaving",
+   "Drying in sunlight"
+  ],
+  "answer": 2,
+  "explanation": "Autoclaving uses steam under pressure and reliably kills all microbes including spores.",
+  "source": "Health management textbook",
+  "question_ne": "शल्यक्रिया उपकरण निर्जन्तुक (स्टेरलाइज) गर्ने सबैभन्दा भरपर्दो विधि कुन हो?",
+  "options_ne": [
+   "पानीमा उमाल्ने",
+   "साबुनले धुने",
+   "अटोक्लेभ गर्ने",
+   "घाममा सुकाउने"
+  ],
+  "explanation_ne": "अटोक्लेभले दबाबयुक्त बाफ प्रयोग गरी स्पोरसहित सबै कीटाणु मार्छ।"
+ },
+ {
+  "id": "HA-184",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of supervision in health services?",
+  "options": [
+   "Improve quality of services and support health workers",
+   "Punish health staff",
+   "Collect money from patients",
+   "Reduce the number of staff"
+  ],
+  "answer": 0,
+  "explanation": "Supportive supervision improves service quality by guiding, training and motivating health workers.",
+  "source": "Health management textbook",
+  "question_ne": "स्वास्थ्य सेवामा सुपरिवेक्षणको मुख्य उद्देश्य के हो?",
+  "options_ne": [
+   "सेवाको गुणस्तर सुधार्ने र स्वास्थ्यकर्मीलाई सहयोग गर्ने",
+   "स्वास्थ्यकर्मीलाई सजाय दिने",
+   "बिरामीबाट पैसा संकलन गर्ने",
+   "कर्मचारी संख्या घटाउने"
+  ],
+  "explanation_ne": "सहयोगी सुपरिवेक्षणले स्वास्थ्यकर्मीलाई मार्गदर्शन र तालिम दिई सेवाको गुणस्तर सुधार्छ।"
+ },
+ {
+  "id": "HA-185",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a function of health management?",
+  "options": [
+   "Diagnosis of patients only",
+   "Planning and organising health services",
+   "Performing surgery",
+   "Laboratory testing"
+  ],
+  "answer": 1,
+  "explanation": "Health management includes planning, organising, staffing, directing and controlling health services.",
+  "source": "Health management textbook",
+  "question_ne": "निम्नमध्ये कुन स्वास्थ्य व्यवस्थापनको कार्य हो?",
+  "options_ne": [
+   "बिरामीको निदान मात्र",
+   "स्वास्थ्य सेवाको योजना र संगठन",
+   "शल्यक्रिया गर्नु",
+   "प्रयोगशाला परीक्षण"
+  ],
+  "explanation_ne": "स्वास्थ्य व्यवस्थापनमा योजना, संगठन, कर्मचारी, निर्देशन र नियन्त्रण पर्छन्।"
+ },
+ {
+  "id": "HA-186",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What does MoHP stand for in Nepal?",
+  "options": [
+   "Ministry of Hospital Planning",
+   "Ministry of Health and Population",
+   "Ministry of Health Promotion",
+   "Ministry of Housing and Population"
+  ],
+  "answer": 1,
+  "explanation": "MoHP stands for the Ministry of Health and Population, the federal health ministry of Nepal.",
+  "source": "Health management textbook",
+  "question_ne": "नेपालमा MoHP को पूरा रूप के हो?",
+  "options_ne": [
+   "अस्पताल योजना मन्त्रालय",
+   "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+   "स्वास्थ्य प्रवर्द्धन मन्त्रालय",
+   "आवास तथा जनसंख्या मन्त्रालय"
+  ],
+  "explanation_ne": "MoHP भनेको स्वास्थ्य तथा जनसंख्या मन्त्रालय हो, जुन नेपालको संघीय स्वास्थ्य मन्त्रालय हो।"
+ },
+ {
+  "id": "HA-187",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How should used needles and sharps be disposed of?",
+  "options": [
+   "In an open pit",
+   "In a safety box (puncture-proof container)",
+   "In a general dustbin",
+   "By burning in the open"
+  ],
+  "answer": 1,
+  "explanation": "Sharps must go into a puncture-proof safety box immediately after use to prevent needle-stick injuries.",
+  "source": "Health management textbook",
+  "question_ne": "प्रयोग भएका सुई र धारिला वस्तु कसरी फाल्नुपर्छ?",
+  "options_ne": [
+   "खुला खाडलमा",
+   "सेफ्टी बक्स (नछिर्ने बट्टा) मा",
+   "सामान्य फोहोरको बट्टामा",
+   "खुला ठाउँमा जलाएर"
+  ],
+  "explanation_ne": "सुई घोचिने चोटबाट जोगिन धारिला वस्तु तुरुन्तै सेफ्टी बक्समा हाल्नुपर्छ।"
+ },
+ {
+  "id": "HA-188",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Infectious hospital waste is collected in which coloured bag?",
+  "options": [
+   "Yellow bag",
+   "Black bag",
+   "Blue bag",
+   "Green bag"
+  ],
+  "answer": 0,
+  "explanation": "Infectious waste is collected in yellow bags, while general non-infectious waste goes in black bags.",
+  "source": "Health management textbook",
+  "question_ne": "संक्रामक अस्पताल फोहोर कुन रंगको झोलामा संकलन गरिन्छ?",
+  "options_ne": [
+   "पहेँलो झोला",
+   "कालो झोला",
+   "नीलो झोला",
+   "हरियो झोला"
+  ],
+  "explanation_ne": "संक्रामक फोहोर पहेँलो झोलामा र सामान्य फोहोर कालो झोलामा संकलन गरिन्छ।"
+ },
+ {
+  "id": "HA-189",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the purpose of a referral system in health care?",
+  "options": [
+   "Discharge patients early",
+   "Send patients to a higher-level facility for care not available locally",
+   "Avoid treating patients",
+   "Collect fees from patients"
+  ],
+  "answer": 1,
+  "explanation": "Referral sends patients to a higher-level facility when the needed care is not available at the local facility.",
+  "source": "Health management textbook",
+  "question_ne": "स्वास्थ्य सेवामा रेफरल प्रणालीको उद्देश्य के हो?",
+  "options_ne": [
+   "बिरामीलाई छिटो डिस्चार्ज गर्ने",
+   "स्थानीयमा नपाइने सेवा भएकाले उच्च तहको संस्थामा पठाउने",
+   "बिरामीको उपचार नगर्ने",
+   "बिरामीबाट शुल्क लिने"
+  ],
+  "explanation_ne": "स्थानीय संस्थामा नपाइने सेवा आवश्यक पर्दा बिरामीलाई उच्च तहको संस्थामा रेफर गरिन्छ।"
+ },
+ {
+  "id": "HA-190",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Health Management",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which is the highest level of health care in Nepal?",
+  "options": [
+   "Health post",
+   "Tertiary (specialised) hospital",
+   "Primary health care centre",
+   "District hospital"
+  ],
+  "answer": 1,
+  "explanation": "Tertiary care is the highest level, provided by specialised and teaching hospitals; health posts provide primary care.",
+  "source": "Health management textbook",
+  "question_ne": "नेपालमा स्वास्थ्य सेवाको सबैभन्दा उच्च तह कुन हो?",
+  "options_ne": [
+   "स्वास्थ्य चौकी",
+   "तृतीय (विशेषज्ञ) अस्पताल",
+   "प्राथमिक स्वास्थ्य केन्द्र",
+   "जिल्ला अस्पताल"
+  ],
+  "explanation_ne": "तृतीय सेवा सबैभन्दा उच्च तह हो, जुन विशेषज्ञ र शिक्षण अस्पतालले दिन्छन्; स्वास्थ्य चौकीले प्राथमिक सेवा दिन्छ।"
+ },
+ {
+  "id": "HA-191",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is epidemiology?",
+  "options": [
+   "Study of distribution and determinants of disease in populations",
+   "Study of drugs",
+   "Study of surgery",
+   "Study of anatomy"
+  ],
+  "answer": 0,
+  "explanation": "Epidemiology studies how often diseases occur in populations and what determines their distribution.",
+  "source": "Epidemiology textbook",
+  "question_ne": "महामारी विज्ञान (एपिडेमियोलोजी) के हो?",
+  "options_ne": [
+   "जनसंख्यामा रोगको वितरण र निर्धारकहरूको अध्ययन",
+   "औषधिको अध्ययन",
+   "शल्यक्रियाको अध्ययन",
+   "शरीररचनाको अध्ययन"
+  ],
+  "explanation_ne": "एपिडेमियोलोजीले जनसंख्यामा रोग कति पटक हुन्छ र किन हुन्छ भन्ने अध्ययन गर्छ।"
+ },
+ {
+  "id": "HA-192",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is an epidemic?",
+  "options": [
+   "A disease always present in an area",
+   "Sudden increase in cases above the expected level in a community",
+   "A disease spread worldwide",
+   "A disease of animals only"
+  ],
+  "answer": 1,
+  "explanation": "An epidemic is an unexpected, sudden increase in the number of cases of a disease in a community.",
+  "source": "Epidemiology textbook",
+  "question_ne": "महामारी (एपिडेमिक) भनेको के हो?",
+  "options_ne": [
+   "क्षेत्रमा सधैँ रहने रोग",
+   "समुदायमा अपेक्षाभन्दा बढी केस अचानक बढ्नु",
+   "विश्वभर फैलिएको रोग",
+   "जनावरको मात्र रोग"
+  ],
+  "explanation_ne": "एपिडेमिक भनेको समुदायमा रोगका केस अपेक्षाभन्दा अचानक धेरै बढ्नु हो।"
+ },
+ {
+  "id": "HA-193",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is a pandemic?",
+  "options": [
+   "A disease in one village",
+   "A disease in animals",
+   "An epidemic affecting many countries worldwide",
+   "A rare disease"
+  ],
+  "answer": 2,
+  "explanation": "A pandemic is an epidemic that spreads across many countries or worldwide, such as COVID-19.",
+  "source": "Epidemiology textbook",
+  "question_ne": "विश्वव्यापी महामारी (प्यान्डेमिक) भनेको के हो?",
+  "options_ne": [
+   "एउटा गाउँको रोग",
+   "जनावरको रोग",
+   "धेरै देशमा फैलिएको महामारी",
+   "दुर्लभ रोग"
+  ],
+  "explanation_ne": "प्यान्डेमिक भनेको धेरै देश वा विश्वभर फैलिएको महामारी हो, जस्तै कोभिड-१९।"
+ },
+ {
+  "id": "HA-194",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is an endemic disease?",
+  "options": [
+   "A disease that spreads worldwide",
+   "A disease constantly present in a particular area",
+   "A disease that has disappeared",
+   "A newly appearing disease"
+  ],
+  "answer": 1,
+  "explanation": "An endemic disease is constantly present at a usual level in a particular geographical area.",
+  "source": "Epidemiology textbook",
+  "question_ne": "स्थानिक रोग (एन्डेमिक) भनेको के हो?",
+  "options_ne": [
+   "विश्वभर फैलिने रोग",
+   "कुनै क्षेत्रमा सधैँ रहने रोग",
+   "हराइसकेको रोग",
+   "नयाँ देखिएको रोग"
+  ],
+  "explanation_ne": "एन्डेमिक रोग कुनै क्षेत्रमा सधैँ सामान्य स्तरमा रहने रोग हो।"
+ },
+ {
+  "id": "HA-195",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the incubation period of a disease?",
+  "options": [
+   "Time between infection and appearance of first symptoms",
+   "Time taken for treatment",
+   "Time taken for recovery",
+   "Time between two cases"
+  ],
+  "answer": 0,
+  "explanation": "The incubation period is the time from entry of the germ into the body until the first symptoms appear.",
+  "source": "Epidemiology textbook",
+  "question_ne": "रोगको इन्क्युबेसन अवधि भनेको के हो?",
+  "options_ne": [
+   "संक्रमण र पहिलो लक्षण देखिनुबीचको समय",
+   "उपचारमा लाग्ने समय",
+   "निको हुन लाग्ने समय",
+   "दुई केसबीचको समय"
+  ],
+  "explanation_ne": "इन्क्युबेसन अवधि भनेको कीटाणु शरीरमा पसेदेखि पहिलो लक्षण देखिनुसम्मको समय हो।"
+ },
+ {
+  "id": "HA-198",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How is the case fatality rate calculated?",
+  "options": [
+   "Deaths per 1,000 population",
+   "Deaths among diagnosed cases divided by total cases, times 100",
+   "Cases per 1,000 population",
+   "Deaths per 100,000 population"
+  ],
+  "answer": 1,
+  "explanation": "Case fatality rate is the proportion of diagnosed cases who die, expressed as a percentage.",
+  "source": "Epidemiology textbook",
+  "question_ne": "केस फ्याटालिटी दर कसरी निकालिन्छ?",
+  "options_ne": [
+   "प्रति १,००० जनसंख्यामा मृत्यु",
+   "निदान भएका केसमा मृत्यु भाग कुल केस, गुणा १००",
+   "प्रति १,००० जनसंख्यामा केस",
+   "प्रति १,००,००० जनसंख्यामा मृत्यु"
+  ],
+  "explanation_ne": "केस फ्याटालिटी दर भनेको निदान भएका केसहरूमध्ये मृत्यु हुनेको प्रतिशत हो।"
+ },
+ {
+  "id": "HA-199",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does prevalence measure?",
+  "options": [
+   "Total number of cases (old and new) in a population at a given time",
+   "Only new cases in a period",
+   "Deaths in a period",
+   "Cases in animals"
+  ],
+  "answer": 0,
+  "explanation": "Prevalence counts all existing cases, old and new, in a population at a given point or period.",
+  "source": "Epidemiology textbook",
+  "question_ne": "प्रिभालेन्सले के मापन गर्छ?",
+  "options_ne": [
+   "कुनै समयमा जनसंख्यामा भएका कुल केस (पुराना र नयाँ)",
+   "अवधिमा भएका नयाँ केस मात्र",
+   "अवधिमा भएका मृत्यु",
+   "जनावरमा भएका केस"
+  ],
+  "explanation_ne": "प्रिभालेन्सले कुनै समयमा जनसंख्यामा भएका सबै पुराना र नयाँ केस गन्छ।"
+ },
+ {
+  "id": "HA-200",
+  "exam": [
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Epidemiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does incidence measure?",
+  "options": [
+   "Total cases at a given time",
+   "Deaths among cases",
+   "Cases in one family",
+   "Number of new cases occurring in a population during a period"
+  ],
+  "answer": 3,
+  "explanation": "Incidence counts only new cases that develop in a population during a specified period.",
+  "source": "Epidemiology textbook",
+  "question_ne": "इन्सिडेन्सले के मापन गर्छ?",
+  "options_ne": [
+   "कुनै समयमा भएका कुल केस",
+   "केसमा भएका मृत्यु",
+   "एउटा परिवारमा भएका केस",
+   "अवधिमा जनसंख्यामा भएका नयाँ केसको संख्या"
+  ],
+  "explanation_ne": "इन्सिडेन्सले निश्चित अवधिमा जनसंख्यामा भएका नयाँ केस मात्र गन्छ।"
+ }
+]

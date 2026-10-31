@@ -1,0 +1,4987 @@
+[
+ {
+  "id": "HEAL3-002",
+  "exam": [
+   "health",
+   "kharidar",
+   "mecee-bl",
+   "nasu",
+   "nmc-bds",
+   "nmc-mbbs",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the largest organ of the human body?",
+  "options": [
+   "Liver",
+   "Skin",
+   "Heart",
+   "Brain"
+  ],
+  "answer": 1,
+  "explanation": "The skin is the largest organ of the body; it protects the body, regulates temperature and senses touch.",
+  "source": "General knowledge",
+  "question_ne": "मानव शरीरको सबैभन्दा ठूलो अङ्ग कुन हो?",
+  "options_ne": [
+   "कलेजो",
+   "छाला",
+   "मुटु",
+   "मस्तिष्क"
+  ],
+  "explanation_ne": "छाला शरीरको सबैभन्दा ठूलो अङ्ग हो; यसले शरीरको सुरक्षा गर्छ, तापक्रम नियन्त्रण गर्छ र स्पर्श महसुस गर्छ।"
+ },
+ {
+  "id": "HEAL3-003",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal resting heart rate of a healthy adult?",
+  "options": [
+   "40-50 beats per minute",
+   "50-60 beats per minute",
+   "60-100 beats per minute",
+   "120-140 beats per minute"
+  ],
+  "answer": 2,
+  "explanation": "A healthy adult's resting heart rate is normally between 60 and 100 beats per minute.",
+  "source": "General knowledge",
+  "question_ne": "स्वस्थ वयस्कको सामान्य विश्राम मुटुको धड्कन कति हुन्छ?",
+  "options_ne": [
+   "४०-५० प्रतिमिनेट",
+   "५०-६० प्रतिमिनेट",
+   "६०-१०० प्रतिमिनेट",
+   "१२०-१४० प्रतिमिनेट"
+  ],
+  "explanation_ne": "स्वस्थ वयस्कको विश्राम मुटुको धड्कन सामान्यतया प्रतिमिनेट ६० देखि १०० बीच हुन्छ।"
+ },
+ {
+  "id": "HEAL3-005",
+  "exam": [
+   "health",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ produces insulin?",
+  "options": [
+   "Pancreas",
+   "Liver",
+   "Kidney",
+   "Spleen"
+  ],
+  "answer": 0,
+  "explanation": "The pancreas produces insulin from its beta cells; insulin controls blood sugar levels.",
+  "source": "General knowledge",
+  "question_ne": "इन्सुलिन कुन अङ्गले उत्पादन गर्छ?",
+  "options_ne": [
+   "अग्न्याशय",
+   "कलेजो",
+   "मिर्गौला",
+   "फियो"
+  ],
+  "explanation_ne": "अग्न्याशयले आफ्नो बिटा कोषिकाबाट इन्सुलिन उत्पादन गर्छ; इन्सुलिनले रगतमा चिनीको मात्रा नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HEAL3-008",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which blood group is known as the universal recipient?",
+  "options": [
+   "O negative",
+   "A positive",
+   "B negative",
+   "AB positive"
+  ],
+  "answer": 3,
+  "explanation": "AB positive blood has A, B and Rh antigens, so a person with this group can receive blood from any group.",
+  "source": "General knowledge",
+  "question_ne": "कुन रक्त समूहलाई सर्वग्राही भनिन्छ?",
+  "options_ne": [
+   "ओ नेगेटिभ",
+   "ए पोजिटिभ",
+   "बी नेगेटिभ",
+   "एबी पोजिटिभ"
+  ],
+  "explanation_ne": "एबी पोजिटिभ रगतमा ए, बी र आरएच एन्टिजेन हुन्छन्, त्यसैले यो समूह भएको व्यक्तिले जुनसुकै समूहको रगत लिन सक्छ।"
+ },
+ {
+  "id": "HEAL3-009",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "staff-nurse-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which part of the brain controls balance and coordination?",
+  "options": [
+   "Cerebellum",
+   "Cerebrum",
+   "Medulla",
+   "Hypothalamus"
+  ],
+  "answer": 0,
+  "explanation": "The cerebellum, located at the back of the brain, controls balance, posture and coordination of movements.",
+  "source": "General knowledge",
+  "question_ne": "मस्तिष्कको कुन भागले सन्तुलन र समन्वय नियन्त्रण गर्छ?",
+  "options_ne": [
+   "अनुमस्तिष्क",
+   "प्रमस्तिष्क",
+   "मेडुला",
+   "हाइपोथालेमस"
+  ],
+  "explanation_ne": "मस्तिष्कको पछाडि रहेको अनुमस्तिष्कले सन्तुलन, आसन र चालको समन्वय नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HEAL3-010",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which is the longest and strongest bone in the human body?",
+  "options": [
+   "Tibia",
+   "Femur",
+   "Humerus",
+   "Radius"
+  ],
+  "answer": 1,
+  "explanation": "The femur, the thigh bone, is the longest and strongest bone in the human body.",
+  "source": "General knowledge",
+  "question_ne": "मानव शरीरको सबैभन्दा लामो र बलियो हड्डी कुन हो?",
+  "options_ne": [
+   "टिबिया",
+   "फेमर",
+   "ह्युमरस",
+   "रेडियस"
+  ],
+  "explanation_ne": "फेमर अर्थात् तिघ्राको हड्डी मानव शरीरको सबैभन्दा लामो र बलियो हड्डी हो।"
+ },
+ {
+  "id": "HEAL3-012",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many pairs of ribs does a human have?",
+  "options": [
+   "10 pairs",
+   "11 pairs",
+   "13 pairs",
+   "12 pairs"
+  ],
+  "answer": 3,
+  "explanation": "Humans normally have 12 pairs of ribs that protect the heart and lungs.",
+  "source": "General knowledge",
+  "question_ne": "मानवमा कति जोडी करङ हुन्छन्?",
+  "options_ne": [
+   "१० जोडी",
+   "११ जोडी",
+   "१३ जोडी",
+   "१२ जोडी"
+  ],
+  "explanation_ne": "मानवमा सामान्यतया १२ जोडी करङ हुन्छन् जसले मुटु र फोक्सोको सुरक्षा गर्छन्।"
+ },
+ {
+  "id": "HEAL3-013",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ stores bile?",
+  "options": [
+   "Gall bladder",
+   "Liver",
+   "Pancreas",
+   "Spleen"
+  ],
+  "answer": 0,
+  "explanation": "Bile made by the liver is stored in the gall bladder and released into the small intestine to digest fats.",
+  "source": "General knowledge",
+  "question_ne": "पित्त कुन अङ्गमा भण्डारण हुन्छ?",
+  "options_ne": [
+   "पित्तथैली",
+   "कलेजो",
+   "अग्न्याशय",
+   "फियो"
+  ],
+  "explanation_ne": "कलेजोले बनाएको पित्त पित्तथैलीमा भण्डारण हुन्छ र बोसो पचाउन सानो आन्द्रामा छोडिन्छ।"
+ },
+ {
+  "id": "HEAL3-014",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Where does the exchange of oxygen and carbon dioxide take place in the lungs?",
+  "options": [
+   "Bronchi",
+   "Alveoli",
+   "Trachea",
+   "Pleura"
+  ],
+  "answer": 1,
+  "explanation": "Gas exchange takes place in the alveoli, the tiny air sacs of the lungs, where oxygen enters the blood and carbon dioxide leaves it.",
+  "source": "General knowledge",
+  "question_ne": "फोक्सोमा अक्सिजन र कार्बन डाइअक्साइडको आदानप्रदान कहाँ हुन्छ?",
+  "options_ne": [
+   "ब्रोन्काई",
+   "एल्भिओली",
+   "श्वासनली",
+   "प्लुरा"
+  ],
+  "explanation_ne": "ग्यास आदानप्रदान एल्भिओलीमा हुन्छ, फोक्सोका साना वायु थैलीहरूमा अक्सिजन रगतमा प्रवेश गर्छ र कार्बन डाइअक्साइड बाहिर निस्कन्छ।"
+ },
+ {
+  "id": "HEAL3-016",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which blood vessels carry blood towards the heart?",
+  "options": [
+   "Arteries",
+   "Capillaries",
+   "Arterioles",
+   "Veins"
+  ],
+  "answer": 3,
+  "explanation": "Veins carry blood from the body tissues back towards the heart.",
+  "source": "General knowledge",
+  "question_ne": "कुन रक्तनलीले रगत मुटुतर्फ ल्याउँछ?",
+  "options_ne": [
+   "धमनी",
+   "केशिका",
+   "धमनिका",
+   "शिरा"
+  ],
+  "explanation_ne": "शिराले शरीरका तन्तुहरूबाट रगत मुटुतर्फ फर्काउँछ।"
+ },
+ {
+  "id": "HEAL3-017",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which component of blood helps in clotting?",
+  "options": [
+   "Platelets",
+   "Red blood cells",
+   "White blood cells",
+   "Plasma"
+  ],
+  "answer": 0,
+  "explanation": "Platelets are small cell fragments that gather at a wound and help the blood to clot and stop bleeding.",
+  "source": "General knowledge",
+  "question_ne": "रगतको कुन घटकले रगत जम्न मद्दत गर्छ?",
+  "options_ne": [
+   "प्लेटलेट",
+   "रातो रक्तकोशिका",
+   "सेतो रक्तकोशिका",
+   "प्लाज्मा"
+  ],
+  "explanation_ne": "प्लेटलेट साना कोषिका टुक्रा हुन् जसले घाउमा जम्मा भएर रगत जमाउन र रक्तस्राव रोक्न मद्दत गर्छन्।"
+ },
+ {
+  "id": "HEAL3-018",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main function of red blood cells?",
+  "options": [
+   "Fight infection",
+   "Carry oxygen",
+   "Clot blood",
+   "Produce hormones"
+  ],
+  "answer": 1,
+  "explanation": "Red blood cells contain haemoglobin, which carries oxygen from the lungs to the body tissues.",
+  "source": "General knowledge",
+  "question_ne": "रातो रक्तकोशिकाको मुख्य काम के हो?",
+  "options_ne": [
+   "संक्रमणसँग लड्नु",
+   "अक्सिजन बोक्नु",
+   "रगत जमाउनु",
+   "हर्मोन उत्पादन गर्नु"
+  ],
+  "explanation_ne": "रातो रक्तकोशिकामा हिमोग्लोबिन हुन्छ, जसले अक्सिजन फोक्सोबाट शरीरका तन्तुहरूसम्म पुर्‍याउँछ।"
+ },
+ {
+  "id": "HEAL3-019",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which gland is known as the master gland of the body?",
+  "options": [
+   "Thyroid",
+   "Adrenal",
+   "Pituitary",
+   "Pineal"
+  ],
+  "answer": 2,
+  "explanation": "The pituitary gland is called the master gland because it controls the working of many other endocrine glands.",
+  "source": "General knowledge",
+  "question_ne": "शरीरको मुख्य ग्रन्थि कुनलाई भनिन्छ?",
+  "options_ne": [
+   "थाइराइड",
+   "एड्रिनल",
+   "पिट्युटरी",
+   "पिनियल"
+  ],
+  "explanation_ne": "पिट्युटरी ग्रन्थिलाई मुख्य ग्रन्थि भनिन्छ किनभने यसले अन्य धेरै अन्तःस्रावी ग्रन्थिको काम नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HEAL3-023",
+  "exam": [
+   "health",
+   "mecee-bl",
+   "nmc-bds",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the functional unit of the kidney?",
+  "options": [
+   "Neuron",
+   "Alveolus",
+   "Nephron",
+   "Villus"
+  ],
+  "answer": 2,
+  "explanation": "The nephron is the functional unit of the kidney; each kidney contains about one million nephrons that filter blood and form urine.",
+  "source": "General knowledge",
+  "question_ne": "मिर्गौलाको कार्यात्मक एकाइ के हो?",
+  "options_ne": [
+   "न्युरोन",
+   "एल्भिओलस",
+   "नेफ्रोन",
+   "भिलस"
+  ],
+  "explanation_ne": "नेफ्रोन मिर्गौलाको कार्यात्मक एकाइ हो; प्रत्येक मिर्गौलामा लगभग दश लाख नेफ्रोन हुन्छन् जसले रगत छानेर पिसाब बनाउँछन्।"
+ },
+ {
+  "id": "HEAL3-024",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organelle is known as the powerhouse of the cell?",
+  "options": [
+   "Nucleus",
+   "Ribosome",
+   "Golgi body",
+   "Mitochondria"
+  ],
+  "answer": 3,
+  "explanation": "Mitochondria produce most of the energy (ATP) a cell needs, so they are called the powerhouse of the cell.",
+  "source": "General knowledge",
+  "question_ne": "कोशिकाको पावरहाउस कुन अङ्गाणुलाई भनिन्छ?",
+  "options_ne": [
+   "केन्द्रक",
+   "राइबोजोम",
+   "गोल्जी पिण्ड",
+   "माइटोकन्ड्रिया"
+  ],
+  "explanation_ne": "माइटोकन्ड्रियाले कोषिकालाई चाहिने धेरैजसो ऊर्जा (एटीपी) उत्पादन गर्छ, त्यसैले यसलाई कोशिकाको पावरहाउस भनिन्छ।"
+ },
+ {
+  "id": "HEAL3-025",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which system controls body activities through hormones?",
+  "options": [
+   "Endocrine system",
+   "Nervous system",
+   "Circulatory system",
+   "Digestive system"
+  ],
+  "answer": 0,
+  "explanation": "The endocrine system uses glands that release hormones into the blood to control growth, metabolism and other activities.",
+  "source": "General knowledge",
+  "question_ne": "हर्मोनमार्फत शरीरका क्रियाकलाप नियन्त्रण गर्ने प्रणाली कुन हो?",
+  "options_ne": [
+   "अन्तःस्रावी प्रणाली",
+   "स्नायु प्रणाली",
+   "रक्तसञ्चार प्रणाली",
+   "पाचन प्रणाली"
+  ],
+  "explanation_ne": "अन्तःस्रावी प्रणालीले ग्रन्थिमार्फत हर्मोन रगतमा छोडेर वृद्धि, चयापचय र अन्य क्रियाकलाप नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HEAL3-026",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which structure protects the spinal cord?",
+  "options": [
+   "Rib cage",
+   "Vertebral column",
+   "Skull",
+   "Sternum"
+  ],
+  "answer": 1,
+  "explanation": "The spinal cord runs through the vertebral column (backbone), which protects it from injury.",
+  "source": "General knowledge",
+  "question_ne": "मेरुदण्ड (स्पाइनल कर्ड) लाई कुन संरचनाले सुरक्षा दिन्छ?",
+  "options_ne": [
+   "करङको पिंजरा",
+   "मेरुदण्डको हड्डी",
+   "खप्पर",
+   "स्टर्नम"
+  ],
+  "explanation_ne": "स्पाइनल कर्ड मेरुदण्डको हड्डीभित्र भएर जान्छ, जसले यसलाई चोटबाट जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-027",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which type of muscle is found only in the heart?",
+  "options": [
+   "Skeletal muscle",
+   "Smooth muscle",
+   "Cardiac muscle",
+   "Voluntary muscle"
+  ],
+  "answer": 2,
+  "explanation": "Cardiac muscle is found only in the heart; it contracts rhythmically without tiring throughout life.",
+  "source": "General knowledge",
+  "question_ne": "मुटुमा मात्र पाइने मांसपेशी कुन हो?",
+  "options_ne": [
+   "कंकाल मांसपेशी",
+   "चिल्लो मांसपेशी",
+   "हृदय मांसपेशी",
+   "ऐच्छिक मांसपेशी"
+  ],
+  "explanation_ne": "हृदय मांसपेशी मुटुमा मात्र पाइन्छ; यसले जीवनभर नथाकीकन लयबद्ध रूपमा संकुचन गर्छ।"
+ },
+ {
+  "id": "HEAL3-029",
+  "exam": [
+   "health",
+   "csit-entrance",
+   "ioe-entrance",
+   "kharidar",
+   "nasu",
+   "nmc-mbbs",
+   "provincial-psc",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the normal pH of human blood?",
+  "options": [
+   "7.4",
+   "6.4",
+   "8.4",
+   "5.4"
+  ],
+  "answer": 0,
+  "explanation": "Human blood is slightly alkaline with a normal pH of about 7.4, kept within a narrow range of 7.35 to 7.45.",
+  "source": "General knowledge",
+  "question_ne": "मानव रगतको सामान्य pH कति हुन्छ?",
+  "options_ne": [
+   "७.४",
+   "६.४",
+   "८.४",
+   "५.४"
+  ],
+  "explanation_ne": "मानव रगत हल्का क्षारीय हुन्छ र यसको सामान्य pH लगभग ७.४ हुन्छ, जुन ७.३५ देखि ७.४५ को साँघुरो दायरामा रहन्छ।"
+ },
+ {
+  "id": "HEAL3-030",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Anatomy and Physiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which part of the brain controls breathing and heartbeat?",
+  "options": [
+   "Cerebrum",
+   "Medulla oblongata",
+   "Cerebellum",
+   "Thalamus"
+  ],
+  "answer": 1,
+  "explanation": "The medulla oblongata in the brain stem controls involuntary actions such as breathing and heartbeat.",
+  "source": "General knowledge",
+  "question_ne": "मस्तिष्कको कुन भागले श्वासप्रश्वास र मुटुको धड्कन नियन्त्रण गर्छ?",
+  "options_ne": [
+   "प्रमस्तिष्क",
+   "मेडुला ओब्लोन्गाटा",
+   "अनुमस्तिष्क",
+   "थालेमस"
+  ],
+  "explanation_ne": "मस्तिष्कको तल्लो भागमा रहेको मेडुला ओब्लोन्गाटाले श्वासप्रश्वास र मुटुको धड्कनजस्ता अनैच्छिक क्रिया नियन्त्रण गर्छ।"
+ },
+ {
+  "id": "HEAL3-031",
+  "exam": [
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which fruit is the richest source of vitamin C?",
+  "options": [
+   "Banana",
+   "Apple",
+   "Amla",
+   "Grapes"
+  ],
+  "answer": 2,
+  "explanation": "Amla (Indian gooseberry) is one of the richest natural sources of vitamin C, far richer than citrus fruits.",
+  "source": "General knowledge",
+  "question_ne": "भिटामिन सी को सबैभन्दा धनी स्रोत कुन फल हो?",
+  "options_ne": [
+   "केरा",
+   "स्याउ",
+   "अमला",
+   "अङ्गुर"
+  ],
+  "explanation_ne": "अमला भिटामिन सी को सबैभन्दा धनी प्राकृतिक स्रोतमध्ये एक हो, सुन्तलाजस्ता फलभन्दा पनि धनी।"
+ },
+ {
+  "id": "HEAL3-032",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Deficiency of vitamin B1 causes which disease?",
+  "options": [
+   "Scurvy",
+   "Rickets",
+   "Pellagra",
+   "Beriberi"
+  ],
+  "answer": 3,
+  "explanation": "Deficiency of vitamin B1 (thiamine) causes beriberi, which affects the nerves, muscles and heart.",
+  "source": "General knowledge",
+  "question_ne": "भिटामिन बी१ को कमीले कुन रोग लाग्छ?",
+  "options_ne": [
+   "स्कर्भी",
+   "रिकेट्स",
+   "पेलाग्रा",
+   "बेरीबेरी"
+  ],
+  "explanation_ne": "भिटामिन बी१ (थायमिन) को कमीले बेरीबेरी रोग लाग्छ, जसले स्नायु, मांसपेशी र मुटुलाई असर गर्छ।"
+ },
+ {
+  "id": "HEAL3-033",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is known as the sunshine vitamin?",
+  "options": [
+   "Vitamin D",
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin B12"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin D is called the sunshine vitamin because the skin makes it when exposed to sunlight.",
+  "source": "General knowledge",
+  "question_ne": "कुन भिटामिनलाई सूर्यको प्रकाशको भिटामिन भनिन्छ?",
+  "options_ne": [
+   "भिटामिन डी",
+   "भिटामिन ए",
+   "भिटामिन सी",
+   "भिटामिन बी१२"
+  ],
+  "explanation_ne": "भिटामिन डीलाई सूर्यको प्रकाशको भिटामिन भनिन्छ किनभने छालाले सूर्यको प्रकाशमा यसलाई बनाउँछ।"
+ },
+ {
+  "id": "HEAL3-034",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Deficiency of iodine causes which disease?",
+  "options": [
+   "Anaemia",
+   "Goitre",
+   "Rickets",
+   "Scurvy"
+  ],
+  "answer": 1,
+  "explanation": "Iodine deficiency causes goitre, an enlargement of the thyroid gland in the neck, and can affect brain development in children.",
+  "source": "General knowledge",
+  "question_ne": "आयोडिनको कमीले कुन रोग लाग्छ?",
+  "options_ne": [
+   "रक्तअल्पता",
+   "गलगाँड",
+   "रिकेट्स",
+   "स्कर्भी"
+  ],
+  "explanation_ne": "आयोडिनको कमीले गलगाँड हुन्छ, घाँटीमा थाइराइड ग्रन्थि फुल्छ, र बालबालिकाको मस्तिष्क विकासमा असर गर्न सक्छ।"
+ },
+ {
+  "id": "HEAL3-035",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a protein-rich food?",
+  "options": [
+   "Rice",
+   "Potato",
+   "Lentils",
+   "Sugar"
+  ],
+  "answer": 2,
+  "explanation": "Lentils (dal) are rich in protein, while rice and potato are mainly carbohydrates and sugar is pure carbohydrate.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये प्रोटिनयुक्त खाना कुन हो?",
+  "options_ne": [
+   "भात",
+   "आलु",
+   "दाल",
+   "चिनी"
+  ],
+  "explanation_ne": "दाल प्रोटिनमा धनी हुन्छ, भात र आलु मुख्यतया कार्बोहाइड्रेट हुन् र चिनी शुद्ध कार्बोहाइड्रेट हो।"
+ },
+ {
+  "id": "HEAL3-036",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which vitamin helps in the absorption of calcium from food?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "answer": 3,
+  "explanation": "Vitamin D helps the intestines absorb calcium, which is needed for strong bones and teeth.",
+  "source": "General knowledge",
+  "question_ne": "खानाबाट क्याल्सियम सोस्न कुन भिटामिनले मद्दत गर्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन बी",
+   "भिटामिन सी",
+   "भिटामिन डी"
+  ],
+  "explanation_ne": "भिटामिन डीले आन्द्रालाई क्याल्सियम सोस्न मद्दत गर्छ, जुन बलियो हड्डी र दाँतका लागि चाहिन्छ।"
+ },
+ {
+  "id": "HEAL3-039",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a carbohydrate-rich food?",
+  "options": [
+   "Egg",
+   "Fish",
+   "Rice",
+   "Meat"
+  ],
+  "answer": 2,
+  "explanation": "Rice is rich in carbohydrates, the main source of energy, while egg, fish and meat are rich in protein.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कार्बोहाइड्रेटयुक्त खाना कुन हो?",
+  "options_ne": [
+   "अण्डा",
+   "माछा",
+   "भात",
+   "मासु"
+  ],
+  "explanation_ne": "भात कार्बोहाइड्रेटमा धनी हुन्छ, जुन ऊर्जाको मुख्य स्रोत हो, जबकि अण्डा, माछा र मासु प्रोटिनमा धनी हुन्छन्।"
+ },
+ {
+  "id": "HEAL3-040",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main function of fats in the body?",
+  "options": [
+   "Build muscles",
+   "Carry oxygen",
+   "Fight germs",
+   "Provide energy and insulation"
+  ],
+  "answer": 3,
+  "explanation": "Fats provide energy, store energy for later use, insulate the body and protect internal organs.",
+  "source": "General knowledge",
+  "question_ne": "शरीरमा बोसोको मुख्य काम के हो?",
+  "options_ne": [
+   "मांसपेशी बनाउनु",
+   "अक्सिजन बोक्नु",
+   "रोगाणुसँग लड्नु",
+   "ऊर्जा दिनु र शरीर न्यानो राख्नु"
+  ],
+  "explanation_ne": "बोसोले ऊर्जा दिन्छ, पछि प्रयोगका लागि ऊर्जा भण्डारण गर्छ, शरीरलाई न्यानो राख्छ र भित्री अङ्गहरूको सुरक्षा गर्छ।"
+ },
+ {
+  "id": "HEAL3-041",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a source of vitamin A?",
+  "options": [
+   "Carrot",
+   "Rice",
+   "Sugar",
+   "Salt"
+  ],
+  "answer": 0,
+  "explanation": "Carrots are rich in beta-carotene, which the body converts into vitamin A for good eyesight.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये भिटामिन ए को स्रोत कुन हो?",
+  "options_ne": [
+   "गाजर",
+   "भात",
+   "चिनी",
+   "नुन"
+  ],
+  "explanation_ne": "गाजरमा बिटा-क्यारोटिन धनी हुन्छ, जसलाई शरीरले राम्रो दृष्टिका लागि भिटामिन ए मा परिणत गर्छ।"
+ },
+ {
+  "id": "HEAL3-042",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Deficiency of vitamin B3 (niacin) causes which disease?",
+  "options": [
+   "Beriberi",
+   "Pellagra",
+   "Scurvy",
+   "Rickets"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin B3 deficiency causes pellagra, whose symptoms are diarrhoea, dermatitis and dementia (the three Ds).",
+  "source": "General knowledge",
+  "question_ne": "भिटामिन बी३ (नियासिन) को कमीले कुन रोग लाग्छ?",
+  "options_ne": [
+   "बेरीबेरी",
+   "पेलाग्रा",
+   "स्कर्भी",
+   "रिकेट्स"
+  ],
+  "explanation_ne": "भिटामिन बी३ को कमीले पेलाग्रा हुन्छ, जसका लक्षण झाडा, छालाको रोग र स्मरणशक्ति ह्रास हुन्।"
+ },
+ {
+  "id": "HEAL3-043",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main source of vitamin B12?",
+  "options": [
+   "Fruits",
+   "Green vegetables",
+   "Animal foods like meat and milk",
+   "Cereals"
+  ],
+  "answer": 2,
+  "explanation": "Vitamin B12 is found almost only in animal foods such as meat, fish, eggs and milk; plants contain almost none.",
+  "source": "General knowledge",
+  "question_ne": "भिटामिन बी१२ को मुख्य स्रोत के हो?",
+  "options_ne": [
+   "फलफूल",
+   "हरिया सागपात",
+   "मासु र दूधजस्ता जनावरजन्य खाना",
+   "अन्न"
+  ],
+  "explanation_ne": "भिटामिन बी१२ लगभग मासु, माछा, अण्डा र दूधजस्ता जनावरजन्य खानामा मात्र पाइन्छ; वनस्पतिमा लगभग हुँदैन।"
+ },
+ {
+  "id": "HEAL3-044",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which mineral helps in the formation of strong bones and teeth along with calcium?",
+  "options": [
+   "Iron",
+   "Sodium",
+   "Potassium",
+   "Phosphorus"
+  ],
+  "answer": 3,
+  "explanation": "Phosphorus works with calcium to build strong bones and teeth; it is found in milk, meat, fish and eggs.",
+  "source": "General knowledge",
+  "question_ne": "क्याल्सियमसँगै बलियो हड्डी र दाँत बनाउन कुन खनिजले मद्दत गर्छ?",
+  "options_ne": [
+   "आइरन",
+   "सोडियम",
+   "पोटासियम",
+   "फस्फोरस"
+  ],
+  "explanation_ne": "फस्फोरसले क्याल्सियमसँग मिलेर बलियो हड्डी र दाँत बनाउँछ; यो दूध, मासु, माछा र अण्डामा पाइन्छ।"
+ },
+ {
+  "id": "HEAL3-045",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which nutrient provides the most energy per gram?",
+  "options": [
+   "Fat",
+   "Protein",
+   "Carbohydrate",
+   "Vitamin"
+  ],
+  "answer": 0,
+  "explanation": "Fat provides about 9 kcal per gram, more than twice the energy of protein or carbohydrate (about 4 kcal per gram).",
+  "source": "General knowledge",
+  "question_ne": "प्रतिग्राम सबैभन्दा बढी ऊर्जा कुन पोषक तत्वले दिन्छ?",
+  "options_ne": [
+   "बोसो",
+   "प्रोटिन",
+   "कार्बोहाइड्रेट",
+   "भिटामिन"
+  ],
+  "explanation_ne": "बोसोले प्रतिग्राम लगभग ९ किलोक्यालोरी ऊर्जा दिन्छ, जुन प्रोटिन वा कार्बोहाइड्रेट (लगभग ४ किलोक्यालोरी) को दोब्बरभन्दा बढी हो।"
+ },
+ {
+  "id": "HEAL3-046",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "How much energy does one gram of carbohydrate provide?",
+  "options": [
+   "9 kcal",
+   "4 kcal",
+   "2 kcal",
+   "7 kcal"
+  ],
+  "answer": 1,
+  "explanation": "One gram of carbohydrate provides about 4 kilocalories of energy; protein also provides about 4 kcal per gram.",
+  "source": "General knowledge",
+  "question_ne": "एक ग्राम कार्बोहाइड्रेटबाट कति ऊर्जा प्राप्त हुन्छ?",
+  "options_ne": [
+   "९ किलोक्यालोरी",
+   "४ किलोक्यालोरी",
+   "२ किलोक्यालोरी",
+   "७ किलोक्यालोरी"
+  ],
+  "explanation_ne": "एक ग्राम कार्बोहाइड्रेटबाट लगभग ४ किलोक्यालोरी ऊर्जा प्राप्त हुन्छ; प्रोटिनबाट पनि प्रतिग्राम लगभग ४ किलोक्यालोरी ऊर्जा प्राप्त हुन्छ।"
+ },
+ {
+  "id": "HEAL3-047",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a protective food?",
+  "options": [
+   "Green leafy vegetables",
+   "Sugar",
+   "Oil",
+   "Salt"
+  ],
+  "answer": 0,
+  "explanation": "Green leafy vegetables are protective foods because they supply vitamins and minerals that protect the body from disease.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये सुरक्षात्मक खाना कुन हो?",
+  "options_ne": [
+   "हरिया सागपात",
+   "चिनी",
+   "तेल",
+   "नुन"
+  ],
+  "explanation_ne": "हरिया सागपात सुरक्षात्मक खाना हुन् किनभने तिनले रोगबाट शरीरलाई जोगाउने भिटामिन र खनिज दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-048",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Deficiency of protein in children causes which disease?",
+  "options": [
+   "Rickets",
+   "Scurvy",
+   "Beriberi",
+   "Kwashiorkor"
+  ],
+  "answer": 3,
+  "explanation": "Kwashiorkor is caused by severe protein deficiency in children, causing swollen belly, stunted growth and thin limbs.",
+  "source": "General knowledge",
+  "question_ne": "बालबालिकामा प्रोटिनको कमीले कुन रोग लाग्छ?",
+  "options_ne": [
+   "रिकेट्स",
+   "स्कर्भी",
+   "बेरीबेरी",
+   "क्वाशियोरकोर"
+  ],
+  "explanation_ne": "क्वाशियोरकोर बालबालिकामा प्रोटिनको गम्भीर कमीले हुन्छ, जसले पेट फुल्ने, वृद्धि रोकिने र हातखुट्टा पातलो हुने गर्छ।"
+ },
+ {
+  "id": "HEAL3-049",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which nutrient is known as the body-building nutrient?",
+  "options": [
+   "Protein",
+   "Carbohydrate",
+   "Fat",
+   "Vitamin"
+  ],
+  "answer": 0,
+  "explanation": "Protein is called the body-building nutrient because it builds and repairs body tissues and muscles.",
+  "source": "General knowledge",
+  "question_ne": "कुन पोषक तत्वलाई शरीर निर्माण गर्ने पोषक तत्व भनिन्छ?",
+  "options_ne": [
+   "प्रोटिन",
+   "कार्बोहाइड्रेट",
+   "बोसो",
+   "भिटामिन"
+  ],
+  "explanation_ne": "प्रोटिनलाई शरीर निर्माण गर्ने पोषक तत्व भनिन्छ किनभने यसले शरीरका तन्तु र मांसपेशी बनाउँछ र मर्मत गर्छ।"
+ },
+ {
+  "id": "HEAL3-050",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How much water does an adult need approximately each day?",
+  "options": [
+   "0.5 litre",
+   "2-3 litres",
+   "1 litre",
+   "6-7 litres"
+  ],
+  "answer": 1,
+  "explanation": "An adult needs about 2 to 3 litres of water a day from drinks and food to replace the water lost through urine, sweat and breathing.",
+  "source": "General knowledge",
+  "question_ne": "वयस्कलाई दैनिक लगभग कति पानी चाहिन्छ?",
+  "options_ne": [
+   "०.५ लिटर",
+   "२-३ लिटर",
+   "१ लिटर",
+   "६-७ लिटर"
+  ],
+  "explanation_ne": "वयस्कलाई पिसाब, पसिना र श्वासप्रश्वासबाट गुमेको पानी पूरा गर्न दैनिक लगभग २ देखि ३ लिटर पानी चाहिन्छ।"
+ },
+ {
+  "id": "HEAL3-051",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is lost most easily when vegetables are overcooked in water?",
+  "options": [
+   "Vitamin A",
+   "Vitamin C",
+   "Vitamin D",
+   "Vitamin K"
+  ],
+  "answer": 1,
+  "explanation": "Vitamin C is water-soluble and destroyed by heat, so it is easily lost when vegetables are boiled for a long time.",
+  "source": "General knowledge",
+  "question_ne": "तरकारीलाई पानीमा धेरै पकाउँदा कुन भिटामिन सबैभन्दा सजिलै नष्ट हुन्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन सी",
+   "भिटामिन डी",
+   "भिटामिन के"
+  ],
+  "explanation_ne": "भिटामिन सी पानीमा घुल्ने र तापले नष्ट हुने भएकाले तरकारी लामो समय उमाल्दा सजिलै नष्ट हुन्छ।"
+ },
+ {
+  "id": "HEAL3-052",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a fat-soluble vitamin?",
+  "options": [
+   "Vitamin B1",
+   "Vitamin C",
+   "Vitamin A",
+   "Vitamin B12"
+  ],
+  "answer": 2,
+  "explanation": "Vitamins A, D, E and K are fat-soluble, while B-complex vitamins and vitamin C are water-soluble.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन बोसोमा घुल्ने भिटामिन हो?",
+  "options_ne": [
+   "भिटामिन बी१",
+   "भिटामिन सी",
+   "भिटामिन ए",
+   "भिटामिन बी१२"
+  ],
+  "explanation_ne": "भिटामिन ए, डी, ई र के बोसोमा घुल्छन्, जबकि बी-कम्प्लेक्स र भिटामिन सी पानीमा घुल्छन्।"
+ },
+ {
+  "id": "HEAL3-053",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which food is the best source of calcium?",
+  "options": [
+   "Milk",
+   "Rice",
+   "Potato",
+   "Sugar"
+  ],
+  "answer": 0,
+  "explanation": "Milk and milk products are the best sources of calcium, which is needed for strong bones and teeth.",
+  "source": "General knowledge",
+  "question_ne": "क्याल्सियमको सबैभन्दा राम्रो स्रोत कुन खाना हो?",
+  "options_ne": [
+   "दूध",
+   "भात",
+   "आलु",
+   "चिनी"
+  ],
+  "explanation_ne": "दूध र दुग्धजन्य पदार्थ क्याल्सियमका सबैभन्दा राम्रा स्रोत हुन्, जुन बलियो हड्डी र दाँतका लागि चाहिन्छ।"
+ },
+ {
+  "id": "HEAL3-054",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does BMI (Body Mass Index) measure?",
+  "options": [
+   "Blood pressure",
+   "Body weight in relation to height",
+   "Blood sugar level",
+   "Heart rate"
+  ],
+  "answer": 1,
+  "explanation": "BMI is calculated from weight and height (weight in kg divided by height in metres squared) and shows whether a person is underweight, normal, overweight or obese.",
+  "source": "General knowledge",
+  "question_ne": "बीएमआई (शरीर द्रव्यमान सूचकाङ्क) ले के मापन गर्छ?",
+  "options_ne": [
+   "रक्तचाप",
+   "उचाइको तुलनामा शरीरको तौल",
+   "रगतमा चिनीको मात्रा",
+   "मुटुको धड्कन"
+  ],
+  "explanation_ne": "बीएमआई तौल र उचाइबाट निकालिन्छ (किलोग्राममा तौल भाग मिटरमा उचाइको वर्ग) र व्यक्तिको तौल कम, सामान्य, बढी वा मोटोपन छ भन्ने देखाउँछ।"
+ },
+ {
+  "id": "HEAL3-055",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Nutrition and Vitamins",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Deficiency of which vitamin causes bleeding gums and slow healing of wounds?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B1",
+   "Vitamin D",
+   "Vitamin C"
+  ],
+  "answer": 3,
+  "explanation": "Vitamin C deficiency causes scurvy, whose signs are bleeding gums, loose teeth, weakness and slow wound healing.",
+  "source": "General knowledge",
+  "question_ne": "कुन भिटामिनको कमीले गिजाबाट रगत बग्ने र घाउ ढिलो निको हुने हुन्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन बी१",
+   "भिटामिन डी",
+   "भिटामिन सी"
+  ],
+  "explanation_ne": "भिटामिन सी को कमीले स्कर्भी हुन्छ, जसका लक्षण गिजाबाट रगत बग्नु, दाँत हल्लिनु, कमजोरी र घाउ ढिलो निको हुनु हुन्।"
+ },
+ {
+  "id": "HEAL3-056",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "AIDS is caused by which virus?",
+  "options": [
+   "HIV",
+   "Hepatitis B virus",
+   "Influenza virus",
+   "Human papilloma virus"
+  ],
+  "answer": 0,
+  "explanation": "AIDS is caused by the Human Immunodeficiency Virus (HIV), which weakens the body's immune system.",
+  "source": "General knowledge",
+  "question_ne": "एड्स कुन भाइरसले गर्दा हुन्छ?",
+  "options_ne": [
+   "एचआईभी",
+   "हेपाटाइटिस बी भाइरस",
+   "इन्फ्लुएन्जा भाइरस",
+   "ह्युमन प्यापिलोमा भाइरस"
+  ],
+  "explanation_ne": "एड्स ह्युमन इम्युनोडेफिसियन्सी भाइरस (एचआईभी) ले गर्दा हुन्छ, जसले शरीरको रोग प्रतिरोधात्मक क्षमता कमजोर बनाउँछ।"
+ },
+ {
+  "id": "HEAL3-057",
+  "exam": [
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which organ is mainly damaged by hepatitis?",
+  "options": [
+   "Kidney",
+   "Liver",
+   "Lung",
+   "Heart"
+  ],
+  "answer": 1,
+  "explanation": "Hepatitis is inflammation of the liver, usually caused by hepatitis viruses A, B, C, D or E.",
+  "source": "General knowledge",
+  "question_ne": "हेपाटाइटिसले मुख्यतया कुन अङ्गलाई हानि गर्छ?",
+  "options_ne": [
+   "मिर्गौला",
+   "कलेजो",
+   "फोक्सो",
+   "मुटु"
+  ],
+  "explanation_ne": "हेपाटाइटिस कलेजोको सूजन हो, जुन सामान्यतया हेपाटाइटिस ए, बी, सी, डी वा ई भाइरसले गर्दा हुन्छ।"
+ },
+ {
+  "id": "HEAL3-058",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which mosquito spreads dengue fever?",
+  "options": [
+   "Anopheles mosquito",
+   "Culex mosquito",
+   "Aedes mosquito",
+   "Sandfly"
+  ],
+  "answer": 2,
+  "explanation": "Dengue is spread by the bite of an infected Aedes mosquito, which usually bites during the daytime.",
+  "source": "General knowledge",
+  "question_ne": "डेंगु ज्वरो कुन लामखुट्टेले सार्छ?",
+  "options_ne": [
+   "एनोफिलिज लामखुट्टे",
+   "क्युलेक्स लामखुट्टे",
+   "एडिज लामखुट्टे",
+   "बालुवा झिंगा"
+  ],
+  "explanation_ne": "डेंगु संक्रमित एडिज लामखुट्टेको टोकाइबाट सर्छ, जसले सामान्यतया दिउँसो टोक्छ।"
+ },
+ {
+  "id": "HEAL3-059",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The common cold is caused by which type of germ?",
+  "options": [
+   "Bacteria",
+   "Virus",
+   "Fungus",
+   "Parasite"
+  ],
+  "answer": 1,
+  "explanation": "The common cold is caused by viruses, most often rhinoviruses, and spreads through droplets in the air.",
+  "source": "General knowledge",
+  "question_ne": "सामान्य रुघाखोकी कुन प्रकारको रोगाणुले गर्दा हुन्छ?",
+  "options_ne": [
+   "ब्याक्टेरिया",
+   "भाइरस",
+   "ढुसी",
+   "परजीवी"
+  ],
+  "explanation_ne": "सामान्य रुघाखोकी भाइरसले गर्दा हुन्छ, प्रायः राइनोभाइरसले, र यो हावामा रहेका थोपाबाट सर्छ।"
+ },
+ {
+  "id": "HEAL3-060",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Tuberculosis is caused by which bacterium?",
+  "options": [
+   "Mycobacterium tuberculosis",
+   "Salmonella typhi",
+   "Vibrio cholerae",
+   "Escherichia coli"
+  ],
+  "answer": 0,
+  "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, which most often affects the lungs.",
+  "source": "General knowledge",
+  "question_ne": "क्षयरोग कुन ब्याक्टेरियाले गर्दा हुन्छ?",
+  "options_ne": [
+   "माइकोब्याक्टेरियम ट्युबरकुलोसिस",
+   "साल्मोनेला टाइफी",
+   "भिब्रियो कोलेरी",
+   "इश्चेरिचिया कोली"
+  ],
+  "explanation_ne": "क्षयरोग माइकोब्याक्टेरियम ट्युबरकुलोसिसले गर्दा हुन्छ, जसले प्रायः फोक्सोलाई असर गर्छ।"
+ },
+ {
+  "id": "HEAL3-061",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "The DPT vaccine protects a child against which three diseases?",
+  "options": [
+   "Measles, mumps and rubella",
+   "Diphtheria, pertussis and tetanus",
+   "Tuberculosis and leprosy",
+   "Polio and hepatitis"
+  ],
+  "answer": 1,
+  "explanation": "DPT stands for Diphtheria, Pertussis (whooping cough) and Tetanus, the three diseases this vaccine prevents.",
+  "source": "General knowledge",
+  "question_ne": "डीपीटी खोपले बालबालिकालाई कुन तीन रोगबाट जोगाउँछ?",
+  "options_ne": [
+   "दादुरा, गलफुली र रुबेला",
+   "डिप्थेरिया, लहरे खोकी र धनुष्टङ्कार",
+   "क्षयरोग र कुष्ठरोग",
+   "पोलियो र हेपाटाइटिस"
+  ],
+  "explanation_ne": "डीपीटी भनेको डिप्थेरिया, पर्टुसिस (लहरे खोकी) र टिटानस (धनुष्टङ्कार) हो, यी तीन रोगबाट यो खोपले जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-062",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is caused by the bite of a rabid dog?",
+  "options": [
+   "Rabies",
+   "Tetanus",
+   "Leprosy",
+   "Dengue"
+  ],
+  "answer": 0,
+  "explanation": "Rabies is a fatal viral disease spread through the bite of a rabid animal, most often a dog; it can be prevented by prompt vaccination after the bite.",
+  "source": "General knowledge",
+  "question_ne": "बौलाहा कुकुरको टोकाइले कुन रोग लाग्छ?",
+  "options_ne": [
+   "रेबिज",
+   "धनुष्टङ्कार",
+   "कुष्ठरोग",
+   "डेंगु"
+  ],
+  "explanation_ne": "रेबिज बौलाहा जनावर, प्रायः कुकुरको टोकाइबाट सर्ने घातक भाइरल रोग हो; टोकाइपछि तुरुन्त खोप लगाएर यसलाई रोक्न सकिन्छ।"
+ },
+ {
+  "id": "HEAL3-063",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease causes lockjaw, where the jaw muscles become stiff and cannot open?",
+  "options": [
+   "Rabies",
+   "Tetanus",
+   "Leprosy",
+   "Measles"
+  ],
+  "answer": 1,
+  "explanation": "Tetanus is caused by bacteria entering through a wound; it causes painful stiffness of the jaw and other muscles.",
+  "source": "General knowledge",
+  "question_ne": "कुन रोगले बङ्गारा कडा भएर मुख खोल्न नसकिने अवस्था (लकज) गराउँछ?",
+  "options_ne": [
+   "रेबिज",
+   "धनुष्टङ्कार",
+   "कुष्ठरोग",
+   "दादुरा"
+  ],
+  "explanation_ne": "धनुष्टङ्कार घाउबाट ब्याक्टेरिया प्रवेश गरेर हुन्छ; यसले बङ्गारा र अन्य मांसपेशी कडा र पीडादायी बनाउँछ।"
+ },
+ {
+  "id": "HEAL3-064",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a water-borne disease?",
+  "options": [
+   "Malaria",
+   "Typhoid",
+   "Dengue",
+   "Asthma"
+  ],
+  "answer": 1,
+  "explanation": "Typhoid spreads through food or water contaminated with the faeces of an infected person, so it is a water-borne disease.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन पानीजन्य रोग हो?",
+  "options_ne": [
+   "मलेरिया",
+   "टाइफाइड",
+   "डेंगु",
+   "दम"
+  ],
+  "explanation_ne": "टाइफाइड संक्रमित व्यक्तिको दिसाबाट दूषित खाना वा पानीबाट सर्छ, त्यसैले यो पानीजन्य रोग हो।"
+ },
+ {
+  "id": "HEAL3-065",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the full form of AIDS?",
+  "options": [
+   "Acute Immune Deficiency Syndrome",
+   "Acquired Immuno Deficiency Syndrome",
+   "Auto Immune Deficiency Syndrome",
+   "Acquired Infection and Disease Syndrome"
+  ],
+  "answer": 1,
+  "explanation": "AIDS stands for Acquired Immuno Deficiency Syndrome, the advanced stage of HIV infection.",
+  "source": "General knowledge",
+  "question_ne": "एड्सको पूरा रूप के हो?",
+  "options_ne": [
+   "एक्युट इम्युन डेफिसियन्सी सिन्ड्रोम",
+   "एक्वायर्ड इम्युनो डेफिसियन्सी सिन्ड्रोम",
+   "अटो इम्युन डेफिसियन्सी सिन्ड्रोम",
+   "एक्वायर्ड इन्फेक्सन एन्ड डिजिज सिन्ड्रोम"
+  ],
+  "explanation_ne": "एड्स भनेको एक्वायर्ड इम्युनो डेफिसियन्सी सिन्ड्रोम हो, जुन एचआईभी संक्रमणको उन्नत चरण हो।"
+ },
+ {
+  "id": "HEAL3-066",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is also known as Hansen's disease?",
+  "options": [
+   "Leprosy",
+   "Tuberculosis",
+   "Tetanus",
+   "Filariasis"
+  ],
+  "answer": 0,
+  "explanation": "Leprosy is also called Hansen's disease after Gerhard Hansen, who discovered the bacterium that causes it.",
+  "source": "General knowledge",
+  "question_ne": "कुन रोगलाई ह्यान्सेन रोग पनि भनिन्छ?",
+  "options_ne": [
+   "कुष्ठरोग",
+   "क्षयरोग",
+   "धनुष्टङ्कार",
+   "हात्तीपाइले"
+  ],
+  "explanation_ne": "कुष्ठरोगलाई ह्यान्सेन रोग पनि भनिन्छ, यसको ब्याक्टेरिया पत्ता लगाउने गेरहार्ड ह्यान्सेनको नामबाट।"
+ },
+ {
+  "id": "HEAL3-067",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is transmitted by the bite of an infected sandfly?",
+  "options": [
+   "Dengue",
+   "Malaria",
+   "Kala-azar",
+   "Cholera"
+  ],
+  "answer": 2,
+  "explanation": "Kala-azar (visceral leishmaniasis) is spread by the bite of an infected female sandfly and is common in the Terai region of Nepal.",
+  "source": "General knowledge",
+  "question_ne": "संक्रमित बालुवा झिंगाको टोकाइबाट कुन रोग सर्छ?",
+  "options_ne": [
+   "डेंगु",
+   "मलेरिया",
+   "कालाजार",
+   "हैजा"
+  ],
+  "explanation_ne": "कालाजार (भिसेरल लिश्मेनियासिस) संक्रमित पोथी बालुवा झिंगाको टोकाइबाट सर्छ र नेपालको तराई क्षेत्रमा पाइन्छ।"
+ },
+ {
+  "id": "HEAL3-068",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the standard treatment strategy for tuberculosis in Nepal?",
+  "options": [
+   "ORS therapy",
+   "DOTS",
+   "Antiretroviral therapy",
+   "Insulin therapy"
+  ],
+  "answer": 1,
+  "explanation": "DOTS (Directly Observed Treatment, Short-course) is the strategy where a health worker watches the patient take each dose of TB medicine.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा क्षयरोगको मानक उपचार रणनीति के हो?",
+  "options_ne": [
+   "ओआरएस उपचार",
+   "डट्स",
+   "एन्टिरेट्रोभाइरल उपचार",
+   "इन्सुलिन उपचार"
+  ],
+  "explanation_ne": "डट्स (प्रत्यक्ष निगरानीमा छोटो अवधिको उपचार) रणनीतिमा स्वास्थ्यकर्मीले बिरामीले क्षयरोगको औषधिको प्रत्येक मात्रा खाएको हेर्छन्।"
+ },
+ {
+  "id": "HEAL3-069",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is hypertension?",
+  "options": [
+   "Low blood sugar",
+   "High blood sugar",
+   "High blood pressure",
+   "Low blood pressure"
+  ],
+  "answer": 2,
+  "explanation": "Hypertension means high blood pressure, usually 140/90 mmHg or above, and it increases the risk of heart disease and stroke.",
+  "source": "General knowledge",
+  "question_ne": "उच्च रक्तचाप (हाइपरटेन्सन) भनेको के हो?",
+  "options_ne": [
+   "रगतमा चिनी कम हुनु",
+   "रगतमा चिनी बढी हुनु",
+   "रक्तचाप बढी हुनु",
+   "रक्तचाप कम हुनु"
+  ],
+  "explanation_ne": "हाइपरटेन्सन भनेको उच्च रक्तचाप हो, सामान्यतया १४०/९० mmHg वा सोभन्दा बढी, र यसले मुटु रोग र पक्षाघातको जोखिम बढाउँछ।"
+ },
+ {
+  "id": "HEAL3-070",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which organ is mainly affected by pneumonia?",
+  "options": [
+   "Lungs",
+   "Liver",
+   "Kidney",
+   "Brain"
+  ],
+  "answer": 0,
+  "explanation": "Pneumonia is an infection of the lungs that fills the air sacs with fluid and makes breathing difficult.",
+  "source": "General knowledge",
+  "question_ne": "निमोनियाले मुख्यतया कुन अङ्गलाई असर गर्छ?",
+  "options_ne": [
+   "फोक्सो",
+   "कलेजो",
+   "मिर्गौला",
+   "मस्तिष्क"
+  ],
+  "explanation_ne": "निमोनिया फोक्सोको संक्रमण हो जसले वायु थैलीमा तरल पदार्थ भरिदिन्छ र श्वास फेर्न गाह्रो बनाउँछ।"
+ },
+ {
+  "id": "HEAL3-071",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is commonly spread by contaminated food and water and causes frequent loose motions?",
+  "options": [
+   "Asthma",
+   "Diarrhoea",
+   "Diabetes",
+   "Anaemia"
+  ],
+  "answer": 1,
+  "explanation": "Diarrhoea is often caused by germs in contaminated food or water and is a major cause of death in young children if not treated with ORS.",
+  "source": "General knowledge",
+  "question_ne": "दूषित खाना र पानीबाट सर्ने र पटकपटक पातलो दिसा गराउने रोग कुन हो?",
+  "options_ne": [
+   "दम",
+   "झाडापखाला",
+   "मधुमेह",
+   "रक्तअल्पता"
+  ],
+  "explanation_ne": "झाडापखाला प्रायः दूषित खाना वा पानीका रोगाणुले गर्दा हुन्छ र ओआरएसले उपचार नगरे साना बालबालिकामा मृत्युको प्रमुख कारण बन्छ।"
+ },
+ {
+  "id": "HEAL3-072",
+  "exam": [
+   "health",
+   "nhpc-public-health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a non-communicable disease?",
+  "options": [
+   "Cholera",
+   "Diabetes",
+   "Tuberculosis",
+   "Measles"
+  ],
+  "answer": 1,
+  "explanation": "Diabetes is a non-communicable disease because it does not spread from person to person, unlike cholera, tuberculosis and measles.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन नसर्ने रोग हो?",
+  "options_ne": [
+   "हैजा",
+   "मधुमेह",
+   "क्षयरोग",
+   "दादुरा"
+  ],
+  "explanation_ne": "मधुमेह नसर्ने रोग हो किनभने यो व्यक्तिबाट व्यक्तिमा सर्दैन, हैजा, क्षयरोग र दादुराभन्दा फरक।"
+ },
+ {
+  "id": "HEAL3-073",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which virus causes COVID-19?",
+  "options": [
+   "SARS-CoV-2",
+   "MERS-CoV",
+   "H1N1 influenza virus",
+   "Ebola virus"
+  ],
+  "answer": 0,
+  "explanation": "COVID-19 is caused by the SARS-CoV-2 coronavirus, which first appeared in late 2019.",
+  "source": "General knowledge",
+  "question_ne": "कोभिड-१९ कुन भाइरसले गर्दा हुन्छ?",
+  "options_ne": [
+   "सार्स-कोभ-२",
+   "मर्स-कोभ",
+   "एच१एन१ इन्फ्लुएन्जा भाइरस",
+   "इबोला भाइरस"
+  ],
+  "explanation_ne": "कोभिड-१९ सार्स-कोभ-२ कोरोनाभाइरसले गर्दा हुन्छ, जुन सन् २०१९ को अन्त्यमा पहिलोपटक देखिएको थियो।"
+ },
+ {
+  "id": "HEAL3-074",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease is caused by worms living in the intestine?",
+  "options": [
+   "Scabies",
+   "Worm infestation",
+   "Ringworm",
+   "Asthma"
+  ],
+  "answer": 1,
+  "explanation": "Worm infestation is caused by intestinal parasites such as roundworm and hookworm, which are common where sanitation is poor.",
+  "source": "General knowledge",
+  "question_ne": "आन्द्रामा बस्ने जुका (परजीवी) ले कुन रोग गराउँछ?",
+  "options_ne": [
+   "लुतो",
+   "जुकाको संक्रमण",
+   "दाद",
+   "दम"
+  ],
+  "explanation_ne": "जुकाको संक्रमण गोलो जुका र हुकवर्मजस्ता आन्द्राका परजीवीले गर्दा हुन्छ, जुन सरसफाइ कमजोर भएको ठाउँमा सामान्य हुन्छ।"
+ },
+ {
+  "id": "HEAL3-075",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is spread by the Culex mosquito and causes swelling of the limbs?",
+  "options": [
+   "Filariasis",
+   "Dengue",
+   "Malaria",
+   "Kala-azar"
+  ],
+  "answer": 0,
+  "explanation": "Filariasis (elephantiasis) is spread by Culex mosquitoes and blocks the lymph vessels, causing swelling of the legs and other body parts.",
+  "source": "General knowledge",
+  "question_ne": "क्युलेक्स लामखुट्टेले सार्ने र हातखुट्टा सुन्निने रोग कुन हो?",
+  "options_ne": [
+   "हात्तीपाइले",
+   "डेंगु",
+   "मलेरिया",
+   "कालाजार"
+  ],
+  "explanation_ne": "हात्तीपाइले (फाइलेरियासिस) क्युलेक्स लामखुट्टेले सार्छ र लिम्फ नली बन्द गरेर खुट्टा र शरीरका अन्य भाग सुन्निन्छ।"
+ },
+ {
+  "id": "HEAL3-076",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which vaccine is given after a dog bite to prevent rabies?",
+  "options": [
+   "BCG vaccine",
+   "Anti-rabies vaccine",
+   "DPT vaccine",
+   "Tetanus toxoid"
+  ],
+  "answer": 1,
+  "explanation": "Anti-rabies vaccine given promptly after a bite, together with washing the wound, prevents rabies, which is almost always fatal once symptoms appear.",
+  "source": "General knowledge",
+  "question_ne": "कुकुरको टोकाइपछि रेबिज रोक्न कुन खोप दिइन्छ?",
+  "options_ne": [
+   "बीसीजी खोप",
+   "रेबिजविरुद्धको खोप",
+   "डीपीटी खोप",
+   "धनुष्टङ्कार खोप"
+  ],
+  "explanation_ne": "टोकाइपछि तुरुन्त दिइने रेबिजविरुद्धको खोप र घाउ धुनाले रेबिज रोकिन्छ, जुन लक्षण देखिएपछि लगभग सधैं घातक हुन्छ।"
+ },
+ {
+  "id": "HEAL3-077",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease was historically known as the white plague?",
+  "options": [
+   "Leprosy",
+   "Tuberculosis",
+   "Cholera",
+   "Cancer"
+  ],
+  "answer": 1,
+  "explanation": "Tuberculosis was called the white plague in the past because it made patients pale and weak and killed large numbers of people.",
+  "source": "General knowledge",
+  "question_ne": "ऐतिहासिक रूपमा कुन रोगलाई सेतो प्लेग भनिन्थ्यो?",
+  "options_ne": [
+   "कुष्ठरोग",
+   "क्षयरोग",
+   "हैजा",
+   "क्यान्सर"
+  ],
+  "explanation_ne": "क्षयरोगलाई विगतमा सेतो प्लेग भनिन्थ्यो किनभने यसले बिरामीलाई फिक्का र कमजोर बनाउँथ्यो र धेरै मानिसको ज्यान लिन्थ्यो।"
+ },
+ {
+  "id": "HEAL3-078",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a common symptom of diabetes?",
+  "options": [
+   "Skin rash",
+   "Swollen joints",
+   "Frequent urination and excessive thirst",
+   "Loss of hearing"
+  ],
+  "answer": 2,
+  "explanation": "High blood sugar makes the body pass more urine, which causes thirst; frequent urination, thirst and tiredness are classic symptoms of diabetes.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये मधुमेहको सामान्य लक्षण कुन हो?",
+  "options_ne": [
+   "छालामा दाग",
+   "जोर्नी सुन्निनु",
+   "बारम्बार पिसाब लाग्नु र धेरै तिर्खा लाग्नु",
+   "सुनाइ कम हुनु"
+  ],
+  "explanation_ne": "रगतमा चिनी बढी हुँदा शरीरले बढी पिसाब फ्याँक्छ, जसले तिर्खा लाग्छ; बारम्बार पिसाब, तिर्खा र थकान मधुमेहका प्रमुख लक्षण हुन्।"
+ },
+ {
+  "id": "HEAL3-079",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does ORS stand for?",
+  "options": [
+   "Oral Rehydration Salt",
+   "Oral Rehydration Solution",
+   "Oral Recovery System",
+   "Oral Rehydration Serum"
+  ],
+  "answer": 1,
+  "explanation": "ORS stands for Oral Rehydration Solution, a mixture of salt, sugar and clean water used to treat dehydration from diarrhoea.",
+  "source": "General knowledge",
+  "question_ne": "ओआरएसको पूरा रूप के हो?",
+  "options_ne": [
+   "ओरल रिहाइड्रेसन साल्ट",
+   "ओरल रिहाइड्रेसन सोलुसन",
+   "ओरल रिकभरी सिस्टम",
+   "ओरल रिहाइड्रेसन सिरम"
+  ],
+  "explanation_ne": "ओआरएस भनेको ओरल रिहाइड्रेसन सोलुसन हो, झाडापखालाबाट भएको जलवियोजनको उपचारका लागि नुन, चिनी र सफा पानीको मिश्रण।"
+ },
+ {
+  "id": "HEAL3-080",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which eye disease causes clouding of the lens and blurred vision in old age?",
+  "options": [
+   "Cataract",
+   "Glaucoma",
+   "Conjunctivitis",
+   "Trachoma"
+  ],
+  "answer": 0,
+  "explanation": "A cataract is a clouding of the eye's lens, common in old age, which blurs vision and is treated by surgery.",
+  "source": "General knowledge",
+  "question_ne": "बुढेसकालमा आँखाको लेन्स धमिलो भएर दृष्टि धमिलो बनाउने रोग कुन हो?",
+  "options_ne": [
+   "मोतियाबिन्दु",
+   "ग्लुकोमा",
+   "आँखा पाक्नु",
+   "ट्राकोमा"
+  ],
+  "explanation_ne": "मोतियाबिन्दु आँखाको लेन्स धमिलो हुनु हो, बुढेसकालमा सामान्य हुन्छ, जसले दृष्टि धमिलो बनाउँछ र शल्यक्रियाबाट उपचार गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-081",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Diabetes mellitus is caused by the deficiency or ineffective action of which hormone?",
+  "options": [
+   "Insulin",
+   "Thyroxine",
+   "Adrenaline",
+   "Glucagon"
+  ],
+  "answer": 0,
+  "explanation": "Diabetes mellitus results when the body makes too little insulin or cannot use it properly, so blood sugar rises.",
+  "source": "General knowledge",
+  "question_ne": "मधुमेह कुन हर्मोनको कमी वा अप्रभावकारी कार्यले हुन्छ?",
+  "options_ne": [
+   "इन्सुलिन",
+   "थाइरोक्सिन",
+   "एड्रेनालिन",
+   "ग्लुकागन"
+  ],
+  "explanation_ne": "शरीरले इन्सुलिन थोरै बनाउँदा वा त्यसलाई राम्ररी प्रयोग गर्न नसक्दा मधुमेह हुन्छ, जसले रगतमा चिनी बढ्छ।"
+ },
+ {
+  "id": "HEAL3-082",
+  "exam": [
+   "health",
+   "mecee-bl"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which of the following is a vector-borne disease?",
+  "options": [
+   "Cholera",
+   "Diabetes",
+   "Malaria",
+   "Asthma"
+  ],
+  "answer": 2,
+  "explanation": "Malaria is vector-borne because it is transmitted by a vector, the female Anopheles mosquito; cholera spreads through water and diabetes and asthma do not spread at all.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन कीटजन्य (भेक्टरबाट सर्ने) रोग हो?",
+  "options_ne": [
+   "हैजा",
+   "मधुमेह",
+   "मलेरिया",
+   "दम"
+  ],
+  "explanation_ne": "मलेरिया भेक्टरजन्य रोग हो किनभने यो पोथी एनोफिलिज लामखुट्टे भन्ने भेक्टरबाट सर्छ; हैजा पानीबाट सर्छ र मधुमेह र दम सर्दैनन्।"
+ },
+ {
+  "id": "HEAL3-083",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease spreads through droplets when an infected person coughs or sneezes?",
+  "options": [
+   "Influenza",
+   "Tetanus",
+   "Cholera",
+   "Worm infestation"
+  ],
+  "answer": 0,
+  "explanation": "Influenza (flu) spreads through tiny droplets released when an infected person coughs, sneezes or talks.",
+  "source": "General knowledge",
+  "question_ne": "संक्रमित व्यक्तिले खोक्दा वा हाछ्युँ गर्दा थोपाबाट कुन रोग सर्छ?",
+  "options_ne": [
+   "इन्फ्लुएन्जा",
+   "धनुष्टङ्कार",
+   "हैजा",
+   "जुकाको संक्रमण"
+  ],
+  "explanation_ne": "इन्फ्लुएन्जा (फ्लु) संक्रमित व्यक्तिले खोक्दा, हाछ्युँ गर्दा वा बोल्दा निस्कने साना थोपाबाट सर्छ।"
+ },
+ {
+  "id": "HEAL3-084",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the causative agent of cholera?",
+  "options": [
+   "Salmonella typhi",
+   "Vibrio cholerae",
+   "Escherichia coli",
+   "Shigella dysenteriae"
+  ],
+  "answer": 1,
+  "explanation": "Cholera is caused by the bacterium Vibrio cholerae, which spreads through contaminated water and food.",
+  "source": "General knowledge",
+  "question_ne": "हैजाको कारक जीव के हो?",
+  "options_ne": [
+   "साल्मोनेला टाइफी",
+   "भिब्रियो कोलेरी",
+   "इश्चेरिचिया कोली",
+   "शिगेला डिसेन्टेरी"
+  ],
+  "explanation_ne": "हैजा भिब्रियो कोलेरी ब्याक्टेरियाले गर्दा हुन्छ, जुन दूषित पानी र खानाबाट सर्छ।"
+ },
+ {
+  "id": "HEAL3-085",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Common Diseases",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which test is commonly used to diagnose tuberculosis?",
+  "options": [
+   "Blood sugar test",
+   "Sputum microscopy",
+   "Urine test",
+   "ECG"
+  ],
+  "answer": 1,
+  "explanation": "Sputum microscopy examines the patient's sputum under a microscope for tuberculosis bacteria; GeneXpert testing of sputum is also used.",
+  "source": "General knowledge",
+  "question_ne": "क्षयरोग पत्ता लगाउन सामान्यतया कुन परीक्षण गरिन्छ?",
+  "options_ne": [
+   "रगतमा चिनी परीक्षण",
+   "खकार सूक्ष्मदर्शी परीक्षण",
+   "पिसाब परीक्षण",
+   "ईसीजी"
+  ],
+  "explanation_ne": "खकार सूक्ष्मदर्शी परीक्षणमा बिरामीको खकारलाई सूक्ष्मदर्शी यन्त्रले हेरेर क्षयरोगका ब्याक्टेरिया खोजिन्छ; खकारको जीनएक्सपर्ट परीक्षण पनि प्रयोग गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-086",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should you do first when someone is bleeding heavily from a wound?",
+  "options": [
+   "Apply direct pressure on the wound",
+   "Give the person water to drink",
+   "Apply hot water",
+   "Leave the wound open"
+  ],
+  "answer": 0,
+  "explanation": "Applying firm direct pressure with a clean cloth on the wound helps stop heavy bleeding.",
+  "source": "General knowledge",
+  "question_ne": "घाउबाट धेरै रगत बगिरहेको व्यक्तिलाई पहिले के गर्नुपर्छ?",
+  "options_ne": [
+   "घाउमा सिधै थिचेर दबाब दिने",
+   "व्यक्तिलाई पानी पिउन दिने",
+   "तातो पानी हाल्ने",
+   "घाउ खुलै छोड्ने"
+  ],
+  "explanation_ne": "घाउमा सफा कपडाले कसेर सिधै दबाब दिँदा धेरै रगत बग्न रोकिन्छ।"
+ },
+ {
+  "id": "HEAL3-087",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first thing to check in an unconscious person?",
+  "options": [
+   "Pulse",
+   "Breathing and airway",
+   "Blood pressure",
+   "Body temperature"
+  ],
+  "answer": 1,
+  "explanation": "First check whether the airway is open and the person is breathing, because breathing must be restored before anything else.",
+  "source": "General knowledge",
+  "question_ne": "बेहोस व्यक्तिमा पहिले के जाँच गर्नुपर्छ?",
+  "options_ne": [
+   "नाडी",
+   "श्वासप्रश्वास र श्वासनली",
+   "रक्तचाप",
+   "शरीरको तापक्रम"
+  ],
+  "explanation_ne": "पहिले श्वासनली खुला छ र व्यक्ति सास फेरिरहेको छ कि छैन जाँच गर्नुपर्छ, किनभने श्वासप्रश्वास अरू कुनै कुराभन्दा पहिले पुनर्स्थापित गर्नुपर्छ।"
+ },
+ {
+  "id": "HEAL3-088",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How should a nosebleed be treated?",
+  "options": [
+   "Tilt the head back",
+   "Pinch the soft part of the nose and lean slightly forward",
+   "Put cotton deep inside the nose",
+   "Apply hot water on the nose"
+  ],
+  "answer": 1,
+  "explanation": "Pinch the soft part of the nose for about 10 minutes while leaning slightly forward so blood does not flow into the throat.",
+  "source": "General knowledge",
+  "question_ne": "नाकबाट रगत बग्दा कसरी उपचार गर्नुपर्छ?",
+  "options_ne": [
+   "टाउको पछाडि ढल्काउने",
+   "नाकको नरम भाग च्यापेर अलि अगाडि झुक्ने",
+   "नाकभित्र गहिरो कपास हाल्ने",
+   "नाकमा तातो पानी हाल्ने"
+  ],
+  "explanation_ne": "अलि अगाडि झुकेर नाकको नरम भाग लगभग १० मिनेटसम्म च्याप्नुपर्छ ताकि रगत घाँटीमा नपसोस्।"
+ },
+ {
+  "id": "HEAL3-089",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the correct first aid for a snake bite?",
+  "options": [
+   "Suck out the venom",
+   "Keep the bitten limb still and take the person to hospital quickly",
+   "Cut the bite and let blood flow",
+   "Apply a tight tourniquet above the bite"
+  ],
+  "answer": 1,
+  "explanation": "Keep the victim calm and the bitten limb still and below heart level, and take them to hospital quickly; do not suck, cut or tie a tight tourniquet.",
+  "source": "General knowledge",
+  "question_ne": "सर्पले टोक्दा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "विष चुस्ने",
+   "टोकेको अङ्ग नचलाइकन व्यक्तिलाई तुरुन्त अस्पताल लैजाने",
+   "टोकेको ठाउँ काटेर रगत बगाउने",
+   "टोकेको ठाउँभन्दा माथि कसेर बाँध्ने"
+  ],
+  "explanation_ne": "पीडितलाई शान्त राख्ने, टोकेको अङ्ग नचलाउने र मुटुको सतहभन्दा तल राख्ने, र तुरुन्त अस्पताल लैजाने; विष चुस्ने, काट्ने वा कसेर बाँध्ने हुँदैन।"
+ },
+ {
+  "id": "HEAL3-090",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the correct ratio of chest compressions to rescue breaths in CPR for an adult?",
+  "options": [
+   "15:2",
+   "30:2",
+   "5:1",
+   "10:2"
+  ],
+  "answer": 1,
+  "explanation": "In adult CPR, give 30 chest compressions followed by 2 rescue breaths, repeating the cycle until help arrives.",
+  "source": "General knowledge",
+  "question_ne": "वयस्कको सीपीआरमा छाती थिच्ने र कृत्रिम श्वास दिने सही अनुपात के हो?",
+  "options_ne": [
+   "१५:२",
+   "३०:२",
+   "५:१",
+   "१०:२"
+  ],
+  "explanation_ne": "वयस्कको सीपीआरमा ३० पटक छाती थिचेपछि २ पटक कृत्रिम श्वास दिइन्छ र सहयोग नआउन्जेल यो चक्र दोहोर्याइन्छ।"
+ },
+ {
+  "id": "HEAL3-091",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should you do if someone is choking and cannot breathe or speak?",
+  "options": [
+   "Give them water to drink",
+   "Give abdominal thrusts (Heimlich manoeuvre)",
+   "Lay them flat on the back",
+   "Slap their chest hard"
+  ],
+  "answer": 1,
+  "explanation": "Abdominal thrusts push air from the lungs and can force out the object blocking the airway.",
+  "source": "General knowledge",
+  "question_ne": "कोही निसास्सिएर सास फेर्न वा बोल्न नसके के गर्नुपर्छ?",
+  "options_ne": [
+   "पानी पिउन दिने",
+   "पेटमा थिचेर धक्का दिने (हेमलिच विधि)",
+   "ढाडले सुताउने",
+   "छातीमा जोडले थप्पड हान्ने"
+  ],
+  "explanation_ne": "पेटमा थिचेर धक्का दिँदा फोक्सोबाट हावा निस्कन्छ र श्वासनलीमा अड्किएको वस्तु बाहिर निस्कन सक्छ।"
+ },
+ {
+  "id": "HEAL3-092",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the correct first aid for a suspected fracture?",
+  "options": [
+   "Move the limb to check it",
+   "Immobilise the limb and do not move it",
+   "Massage the injured area",
+   "Apply heat to the fracture"
+  ],
+  "answer": 1,
+  "explanation": "A suspected fracture should be kept still with a splint or support, because movement can worsen the injury and damage nerves or blood vessels.",
+  "source": "General knowledge",
+  "question_ne": "हड्डी भाँचिएको शंका लागेमा सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "अङ्ग चलाएर जाँच गर्ने",
+   "अङ्ग नचलाइकन अड्याउने",
+   "चोट लागेको ठाउँ मालिस गर्ने",
+   "भाँचिएको ठाउँमा तातो लगाउने"
+  ],
+  "explanation_ne": "भाँचिएको शंकास्पद अङ्गलाई स्प्लिन्ट वा सहाराले अड्याएर राख्नुपर्छ, किनभने चलाउँदा चोट झन् बढ्न र स्नायु वा रक्तनलीमा क्षति पुग्न सक्छ।"
+ },
+ {
+  "id": "HEAL3-093",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the first step when giving first aid to a victim of electric shock?",
+  "options": [
+   "Pull the victim away with bare hands",
+   "Switch off the power supply first",
+   "Pour water on the victim",
+   "Give the victim water to drink"
+  ],
+  "answer": 1,
+  "explanation": "Always switch off the power or push the victim away with a dry non-conducting object first; touching the victim with bare hands can electrocute the rescuer too.",
+  "source": "General knowledge",
+  "question_ne": "विद्युतीय झट्का लागेको पीडितलाई प्राथमिक उपचार दिँदा पहिलो कदम के हो?",
+  "options_ne": [
+   "खाली हातले पीडितलाई तान्ने",
+   "पहिले बिजुली आपूर्ति बन्द गर्ने",
+   "पीडितमाथि पानी खन्याउने",
+   "पीडितलाई पानी पिउन दिने"
+  ],
+  "explanation_ne": "पहिले बिजुली बन्द गर्ने वा सुख्खा अचालक वस्तुले पीडितलाई हटाउने; खाली हातले छुँदा उद्धारकर्तालाई पनि झट्का लाग्न सक्छ।"
+ },
+ {
+  "id": "HEAL3-094",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should be given to a person suffering from dehydration due to diarrhoea?",
+  "options": [
+   "ORS solution",
+   "Tea only",
+   "Cold drinks",
+   "Plain salt water only"
+  ],
+  "answer": 0,
+  "explanation": "ORS solution replaces the water and salts lost in diarrhoea and prevents dangerous dehydration.",
+  "source": "General knowledge",
+  "question_ne": "झाडापखालाले जलवियोजन भएको व्यक्तिलाई के दिनुपर्छ?",
+  "options_ne": [
+   "ओआरएस घोल",
+   "चिया मात्र",
+   "चिसो पेय",
+   "नुनपानी मात्र"
+  ],
+  "explanation_ne": "ओआरएस घोलले झाडापखालामा गुमेको पानी र नुन पूरा गर्छ र खतरनाक जलवियोजन रोक्छ।"
+ },
+ {
+  "id": "HEAL3-095",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the first thing to do after a dog bite?",
+  "options": [
+   "Apply chilli powder",
+   "Wash the wound thoroughly with soap and clean water",
+   "Tie the wound tightly",
+   "Apply herbal paste"
+  ],
+  "answer": 1,
+  "explanation": "Wash the bite wound at once with soap and running water for at least 15 minutes, then seek anti-rabies vaccination.",
+  "source": "General knowledge",
+  "question_ne": "कुकुरले टोकेपछि पहिले के गर्नुपर्छ?",
+  "options_ne": [
+   "खुर्सानीको धुलो लगाउने",
+   "घाउलाई साबुन र सफा पानीले राम्ररी धुने",
+   "घाउलाई कसेर बाँध्ने",
+   "जडीबुटीको लेप लगाउने"
+  ],
+  "explanation_ne": "टोकेको घाउलाई तुरुन्त साबुन र बगिरहेको पानीले कम्तीमा १५ मिनेट धुनुपर्छ, त्यसपछि रेबिजविरुद्धको खोप लगाउनुपर्छ।"
+ },
+ {
+  "id": "HEAL3-096",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the recovery position used for?",
+  "options": [
+   "A person who is bleeding heavily",
+   "An unconscious person who is breathing normally",
+   "A person with a fracture",
+   "A person who is choking"
+  ],
+  "answer": 1,
+  "explanation": "The recovery position (lying on the side) keeps the airway open and prevents choking on vomit in an unconscious person who is breathing.",
+  "source": "General knowledge",
+  "question_ne": "रिकभरी पोजिसन कुन अवस्थाका लागि प्रयोग गरिन्छ?",
+  "options_ne": [
+   "धेरै रगत बगिरहेको व्यक्ति",
+   "सामान्य रूपमा सास फेरिरहेको बेहोस व्यक्ति",
+   "हड्डी भाँचिएको व्यक्ति",
+   "निसास्सिएको व्यक्ति"
+  ],
+  "explanation_ne": "रिकभरी पोजिसन (एक छेउमा सुताउने) ले श्वासनली खुला राख्छ र सास फेरिरहेको बेहोस व्यक्तिलाई बान्तामा निसास्सिनबाट जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-097",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following should NOT be applied to a burn?",
+  "options": [
+   "Clean cold water",
+   "Toothpaste",
+   "Clean wet cloth",
+   "Aloe vera gel"
+  ],
+  "answer": 1,
+  "explanation": "Toothpaste, butter and oil should never be put on a burn; cool the burn with clean running water instead.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन चिज पोलेको ठाउँमा लगाउनु हुँदैन?",
+  "options_ne": [
+   "सफा चिसो पानी",
+   "टुथपेस्ट",
+   "सफा भिजेको कपडा",
+   "एलोभेरा जेल"
+  ],
+  "explanation_ne": "पोलेको ठाउँमा टुथपेस्ट, घिउ र तेल कहिल्यै लगाउनु हुँदैन; बरु सफा बगिरहेको पानीले चिसो पार्नुपर्छ।"
+ },
+ {
+  "id": "HEAL3-098",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does RICE stand for in the first aid of a sprain?",
+  "options": [
+   "Rest, Ice, Compression, Elevation",
+   "Run, Ice, Cover, Exercise",
+   "Rest, Injection, Care, Elevation",
+   "Rub, Ice, Compress, Eat"
+  ],
+  "answer": 0,
+  "explanation": "RICE means Rest, Ice, Compression and Elevation, the standard first aid for sprains and soft-tissue injuries.",
+  "source": "General knowledge",
+  "question_ne": "मोचको प्राथमिक उपचारमा RICE को अर्थ के हो?",
+  "options_ne": [
+   "आराम, बरफ, थिच्ने, उचाइमा राख्ने",
+   "दौडने, बरफ, छोप्ने, व्यायाम",
+   "आराम, सुई, हेरचाह, उचाइ",
+   "दल्ने, बरफ, थिच्ने, खाने"
+  ],
+  "explanation_ne": "RICE भनेको आराम, बरफ, थिच्ने र उचाइमा राख्ने हो, जुन मोच र नरम तन्तुको चोटको मानक प्राथमिक उपचार हो।"
+ },
+ {
+  "id": "HEAL3-099",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the correct first aid for a person having a seizure (fit)?",
+  "options": [
+   "Hold the person tightly to stop movements",
+   "Put a spoon in the mouth",
+   "Keep the person safe, do not restrain them and do not put anything in the mouth",
+   "Give the person water immediately"
+  ],
+  "answer": 2,
+  "explanation": "During a seizure, protect the person from injury, do not restrain them and never put anything in the mouth; place them in the recovery position afterwards.",
+  "source": "General knowledge",
+  "question_ne": "छारे रोग (दौरा) परेको व्यक्तिलाई सही प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "चाल रोक्न व्यक्तिलाई कसेर समात्ने",
+   "मुखमा चम्चा हाल्ने",
+   "व्यक्तिलाई सुरक्षित राख्ने, नसमात्ने र मुखमा केही नहाल्ने",
+   "तुरुन्त पानी पिउन दिने"
+  ],
+  "explanation_ne": "दौरा परेको बेला व्यक्तिलाई चोटबाट जोगाउने, नसमात्ने र मुखमा केही नहाल्ने; त्यसपछि रिकभरी पोजिसनमा सुताउने।"
+ },
+ {
+  "id": "HEAL3-100",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What should be done first if a chemical splashes into the eyes?",
+  "options": [
+   "Rub the eyes",
+   "Wash the eyes with plenty of clean water for 15-20 minutes",
+   "Cover the eyes with a bandage",
+   "Apply eye drops at once"
+  ],
+  "answer": 1,
+  "explanation": "Flush the eyes at once with plenty of clean running water for at least 15 to 20 minutes to wash out the chemical.",
+  "source": "General knowledge",
+  "question_ne": "आँखामा रसायन परे पहिले के गर्नुपर्छ?",
+  "options_ne": [
+   "आँखा मिच्ने",
+   "आँखालाई प्रशस्त सफा पानीले १५-२० मिनेट धुने",
+   "आँखामा पट्टी बाँध्ने",
+   "तुरुन्त आँखामा औषधि हाल्ने"
+  ],
+  "explanation_ne": "रसायन पखाल्न आँखालाई तुरुन्त प्रशस्त सफा बगिरहेको पानीले कम्तीमा १५ देखि २० मिनेट धुनुपर्छ।"
+ },
+ {
+  "id": "HEAL3-101",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the first step in first aid?",
+  "options": [
+   "Give medicine at once",
+   "Call for help at once",
+   "Move the victim immediately",
+   "Ensure the scene is safe and assess the victim"
+  ],
+  "answer": 3,
+  "explanation": "First make sure the scene is safe for you and the victim, then assess the victim before giving any care.",
+  "source": "General knowledge",
+  "question_ne": "प्राथमिक उपचारमा पहिलो कदम के हो?",
+  "options_ne": [
+   "तुरुन्त औषधि दिने",
+   "तुरुन्त सहयोगका लागि बोलाउने",
+   "पीडितलाई तुरुन्त सार्ने",
+   "स्थल सुरक्षित छ भनी सुनिश्चित गर्ने र पीडितको अवस्था जाँच्ने"
+  ],
+  "explanation_ne": "पहिले तपाईं र पीडितका लागि स्थल सुरक्षित छ भनी सुनिश्चित गर्नुपर्छ, त्यसपछि कुनै हेरचाह दिनुअघि पीडितको अवस्था जाँच्नुपर्छ।"
+ },
+ {
+  "id": "HEAL3-102",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What should you do for a person who has fainted?",
+  "options": [
+   "Give water at once",
+   "Make the person stand up",
+   "Lay the person flat and raise the legs slightly",
+   "Slap the face hard"
+  ],
+  "answer": 2,
+  "explanation": "Lay the person flat, raise the legs slightly to improve blood flow to the brain, loosen tight clothing and allow fresh air.",
+  "source": "General knowledge",
+  "question_ne": "बेहोस भएको व्यक्तिलाई के गर्नुपर्छ?",
+  "options_ne": [
+   "तुरुन्त पानी पिउन दिने",
+   "व्यक्तिलाई उभ्याउने",
+   "व्यक्तिलाई सुताएर खुट्टा अलि उचाल्ने",
+   "गालामा जोडले थप्पड हान्ने"
+  ],
+  "explanation_ne": "व्यक्तिलाई सुताउने, मस्तिष्कमा रगत प्रवाह बढाउन खुट्टा अलि उचाल्ने, कसेको लुगा खुकुलो पार्ने र ताजा हावा दिने।"
+ },
+ {
+  "id": "HEAL3-103",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the first aid for heatstroke?",
+  "options": [
+   "Give hot drinks",
+   "Cover the person with a blanket",
+   "Keep the person in sunlight",
+   "Move to a cool place and cool the body with water"
+  ],
+  "answer": 3,
+  "explanation": "Move the person to a cool shaded place, remove excess clothing and cool the body with water or wet cloths, and seek medical help.",
+  "source": "General knowledge",
+  "question_ne": "तातोले (हिटस्ट्रोक) लाग्दा प्राथमिक उपचार के हो?",
+  "options_ne": [
+   "तातो पेय दिने",
+   "व्यक्तिलाई कम्बलले छोप्ने",
+   "व्यक्तिलाई घाममा राख्ने",
+   "चिसो ठाउँमा सारेर पानीले शरीर चिसो पार्ने"
+  ],
+  "explanation_ne": "व्यक्तिलाई चिसो छहारी भएको ठाउँमा सार्ने, बढी लुगा हटाउने र पानी वा भिजेको कपडाले शरीर चिसो पार्ने, र चिकित्सकीय सहयोग खोज्ने।"
+ },
+ {
+  "id": "HEAL3-104",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which item is used to cover a wound and stop bleeding in a first aid kit?",
+  "options": [
+   "Thermometer",
+   "Stethoscope",
+   "Sterile gauze and bandage",
+   "Torch"
+  ],
+  "answer": 2,
+  "explanation": "Sterile gauze and bandages are used to cover wounds, apply pressure and stop bleeding.",
+  "source": "General knowledge",
+  "question_ne": "प्राथमिक उपचार बाकसमा घाउ छोप्न र रगत रोक्न कुन सामग्री प्रयोग गरिन्छ?",
+  "options_ne": [
+   "थर्मोमिटर",
+   "स्टेथोस्कोप",
+   "जीवाणुरहित गज र पट्टी",
+   "टर्च"
+  ],
+  "explanation_ne": "जीवाणुरहित गज र पट्टी घाउ छोप्न, दबाब दिन र रगत रोक्न प्रयोग गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-105",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "First Aid",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What should you do if someone swallows poison?",
+  "options": [
+   "Make them vomit at once",
+   "Give milk only",
+   "Give lots of water",
+   "Do not induce vomiting and take them to hospital at once"
+  ],
+  "answer": 3,
+  "explanation": "Do not make the person vomit, as it can cause more harm; keep the poison container and take the person to hospital at once.",
+  "source": "General knowledge",
+  "question_ne": "कसैले विष निल्यो भने के गर्नुपर्छ?",
+  "options_ne": [
+   "तुरुन्त बान्ता गराउने",
+   "दूध मात्र दिने",
+   "धेरै पानी दिने",
+   "बान्ता नगराइकन तुरुन्त अस्पताल लैजाने"
+  ],
+  "explanation_ne": "व्यक्तिलाई बान्ता नगराउने, किनभने यसले थप हानि गर्न सक्छ; विषको बट्टा साथमा लिएर व्यक्तिलाई तुरुन्त अस्पताल लैजाने।"
+ },
+ {
+  "id": "HEAL3-106",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "From where are Female Community Health Volunteers (FCHVs) selected in Nepal?",
+  "options": [
+   "Doctors from hospitals",
+   "Nurses from cities",
+   "Local women volunteers from the community",
+   "Foreign health workers"
+  ],
+  "answer": 2,
+  "explanation": "FCHVs are local women volunteers chosen by their own community to provide basic health services and health education at the household level.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा महिला सामुदायिक स्वास्थ्य स्वयंसेविका (म.सा.स्वा.से.) कहाँबाट छानिन्छन्?",
+  "options_ne": [
+   "अस्पतालका डाक्टरहरूबाट",
+   "सहरका नर्सहरूबाट",
+   "समुदायका स्थानीय महिला स्वयंसेविकाबाट",
+   "विदेशी स्वास्थ्यकर्मीबाट"
+  ],
+  "explanation_ne": "म.सा.स्वा.से. आफ्नै समुदायले छानेका स्थानीय महिला स्वयंसेविका हुन् जसले घरपरिवार स्तरमा आधारभूत स्वास्थ्य सेवा र स्वास्थ्य शिक्षा दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-107",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the Nepal Health Professional Council (NHPC)?",
+  "options": [
+   "A hospital in Kathmandu",
+   "A private medical college",
+   "A drug manufacturing company",
+   "A body that registers and regulates health professionals"
+  ],
+  "answer": 3,
+  "explanation": "The NHPC registers health professionals such as health assistants and auxiliary health workers and regulates their professional practice.",
+  "source": "General knowledge",
+  "question_ne": "नेपाल स्वास्थ्य व्यवसायी परिषद् (NHPC) के हो?",
+  "options_ne": [
+   "काठमाडौंको एउटा अस्पताल",
+   "एउटा निजी मेडिकल कलेज",
+   "एउटा औषधि उत्पादन कम्पनी",
+   "स्वास्थ्य व्यवसायी दर्ता र नियमन गर्ने निकाय"
+  ],
+  "explanation_ne": "NHPC ले स्वास्थ्य सहायक र अहेवजस्ता स्वास्थ्य व्यवसायी दर्ता गर्छ र तिनको व्यावसायिक अभ्यास नियमन गर्छ।"
+ },
+ {
+  "id": "HEAL3-108",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who usually leads a health post in Nepal?",
+  "options": [
+   "Medical doctor",
+   "Female community health volunteer",
+   "Health Assistant as in-charge",
+   "Laboratory technician"
+  ],
+  "answer": 2,
+  "explanation": "A health post is usually led by a Health Assistant as in-charge, supported by auxiliary health workers and other staff.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा स्वास्थ्य चौकीको नेतृत्व सामान्यतया कसले गर्छ?",
+  "options_ne": [
+   "चिकित्सक",
+   "महिला सामुदायिक स्वास्थ्य स्वयंसेविका",
+   "इन्चार्जको रूपमा स्वास्थ्य सहायक",
+   "प्रयोगशाला प्राविधिक"
+  ],
+  "explanation_ne": "स्वास्थ्य चौकीको नेतृत्व सामान्यतया इन्चार्जको रूपमा स्वास्थ्य सहायकले गर्छन्, जसलाई अहेव र अन्य कर्मचारीले साथ दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-109",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which facility provides basic health services at the local level in Nepal?",
+  "options": [
+   "District hospital",
+   "Zonal hospital",
+   "Medical college",
+   "Health post"
+  ],
+  "answer": 3,
+  "explanation": "The health post is the first point of contact for basic health services such as immunisation, family planning and treatment of common illnesses.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा स्थानीय स्तरमा आधारभूत स्वास्थ्य सेवा कुन संस्थाले दिन्छ?",
+  "options_ne": [
+   "जिल्ला अस्पताल",
+   "अञ्चल अस्पताल",
+   "मेडिकल कलेज",
+   "स्वास्थ्य चौकी"
+  ],
+  "explanation_ne": "स्वास्थ्य चौकी खोप, परिवार नियोजन र सामान्य रोगको उपचारजस्ता आधारभूत स्वास्थ्य सेवाको पहिलो सम्पर्क बिन्दु हो।"
+ },
+ {
+  "id": "HEAL3-110",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of immunisation?",
+  "options": [
+   "Protect children from preventable diseases",
+   "Treat sick children",
+   "Give nutrition to children",
+   "Check the growth of children only"
+  ],
+  "answer": 0,
+  "explanation": "Immunisation protects children from preventable diseases such as measles, polio and tuberculosis by building immunity.",
+  "source": "General knowledge",
+  "question_ne": "खोपको मुख्य उद्देश्य के हो?",
+  "options_ne": [
+   "बालबालिकालाई रोकथाम गर्न सकिने रोगबाट जोगाउनु",
+   "बिरामी बालबालिकाको उपचार गर्नु",
+   "बालबालिकालाई पोषण दिनु",
+   "बालबालिकाको वृद्धि मात्र जाँच्नु"
+  ],
+  "explanation_ne": "खोपले रोग प्रतिरोधात्मक क्षमता बनाएर दादुरा, पोलियो र क्षयरोगजस्ता रोकथाम गर्न सकिने रोगबाट बालबालिकालाई जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-111",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which ministry leads public health services in Nepal?",
+  "options": [
+   "Ministry of Education",
+   "Ministry of Finance",
+   "Ministry of Health and Population",
+   "Ministry of Home Affairs"
+  ],
+  "answer": 2,
+  "explanation": "The Ministry of Health and Population is responsible for health policy, planning and public health services in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा जनस्वास्थ्य सेवाको नेतृत्व कुन मन्त्रालयले गर्छ?",
+  "options_ne": [
+   "शिक्षा मन्त्रालय",
+   "अर्थ मन्त्रालय",
+   "स्वास्थ्य तथा जनसंख्या मन्त्रालय",
+   "गृह मन्त्रालय"
+  ],
+  "explanation_ne": "स्वास्थ्य तथा जनसंख्या मन्त्रालय नेपालमा स्वास्थ्य नीति, योजना र जनस्वास्थ्य सेवाका लागि जिम्मेवार छ।"
+ },
+ {
+  "id": "HEAL3-112",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the full form of NHPC?",
+  "options": [
+   "National Health Planning Council",
+   "Nepal Hospital Promotion Council",
+   "Nepal Health Policy Commission",
+   "Nepal Health Professional Council"
+  ],
+  "answer": 3,
+  "explanation": "NHPC stands for Nepal Health Professional Council, which registers and regulates health professionals other than doctors and nurses.",
+  "source": "General knowledge",
+  "question_ne": "NHPC को पूरा रूप के हो?",
+  "options_ne": [
+   "नेसनल हेल्थ प्लानिङ काउन्सिल",
+   "नेपाल हस्पिटल प्रमोसन काउन्सिल",
+   "नेपाल हेल्थ पोलिसी कमिसन",
+   "नेपाल हेल्थ प्रोफेसनल काउन्सिल"
+  ],
+  "explanation_ne": "NHPC भनेको नेपाल स्वास्थ्य व्यवसायी परिषद् हो, जसले डाक्टर र नर्सबाहेकका स्वास्थ्य व्यवसायी दर्ता र नियमन गर्छ।"
+ },
+ {
+  "id": "HEAL3-113",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is provided free of cost at government health posts in Nepal?",
+  "options": [
+   "Basic health services and essential medicines",
+   "Major surgery",
+   "MRI scans",
+   "Private ward care"
+  ],
+  "answer": 0,
+  "explanation": "Government health posts provide basic health services and essential medicines free of cost under the basic health services programme.",
+  "source": "General knowledge",
+  "question_ne": "नेपालका सरकारी स्वास्थ्य चौकीमा के निःशुल्क दिइन्छ?",
+  "options_ne": [
+   "आधारभूत स्वास्थ्य सेवा र अत्यावश्यक औषधि",
+   "ठूलो शल्यक्रिया",
+   "एमआरआई जाँच",
+   "निजी वार्ड सेवा"
+  ],
+  "explanation_ne": "सरकारी स्वास्थ्य चौकीले आधारभूत स्वास्थ्य सेवा कार्यक्रमअन्तर्गत आधारभूत स्वास्थ्य सेवा र अत्यावश्यक औषधि निःशुल्क दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-114",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the full form of PHC?",
+  "options": [
+   "Public Health College",
+   "Primary Health Centre",
+   "Private Hospital Centre",
+   "Provincial Health Committee"
+  ],
+  "answer": 1,
+  "explanation": "PHC stands for Primary Health Centre, a facility that provides basic curative and preventive services above the health post level.",
+  "source": "General knowledge",
+  "question_ne": "PHC को पूरा रूप के हो?",
+  "options_ne": [
+   "पब्लिक हेल्थ कलेज",
+   "प्राथमिक स्वास्थ्य केन्द्र",
+   "प्राइभेट हस्पिटल सेन्टर",
+   "प्रादेशिक स्वास्थ्य समिति"
+  ],
+  "explanation_ne": "PHC भनेको प्राथमिक स्वास्थ्य केन्द्र हो, जुन स्वास्थ्य चौकीभन्दा माथिल्लो तहमा आधारभूत उपचारात्मक र रोकथाम सेवा दिन्छ।"
+ },
+ {
+  "id": "HEAL3-115",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many levels of health care are there in Nepal's health system?",
+  "options": [
+   "Two",
+   "Four",
+   "Five",
+   "Three"
+  ],
+  "answer": 3,
+  "explanation": "Nepal's health system has three levels: primary, secondary and tertiary care.",
+  "source": "General knowledge",
+  "question_ne": "नेपालको स्वास्थ्य प्रणालीमा कति तहको स्वास्थ्य सेवा छ?",
+  "options_ne": [
+   "दुई",
+   "चार",
+   "पाँच",
+   "तीन"
+  ],
+  "explanation_ne": "नेपालको स्वास्थ्य प्रणालीमा तीन तह छन्: प्राथमिक, माध्यमिक र तृतीय सेवा।"
+ },
+ {
+  "id": "HEAL3-116",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main role of a health post in-charge?",
+  "options": [
+   "Only keep records",
+   "Only give medicines",
+   "Manage the health post and provide preventive and curative services",
+   "Only refer patients"
+  ],
+  "answer": 2,
+  "explanation": "The in-charge manages the health post, supervises staff and provides preventive services like immunisation and curative treatment of common illnesses.",
+  "source": "General knowledge",
+  "question_ne": "स्वास्थ्य चौकी इन्चार्जको मुख्य भूमिका के हो?",
+  "options_ne": [
+   "अभिलेख मात्र राख्ने",
+   "औषधि मात्र दिने",
+   "स्वास्थ्य चौकी व्यवस्थापन गर्ने र रोकथाम तथा उपचार सेवा दिने",
+   "बिरामी मात्र रेफर गर्ने"
+  ],
+  "explanation_ne": "इन्चार्जले स्वास्थ्य चौकी व्यवस्थापन गर्छन्, कर्मचारीको सुपरिवेक्षण गर्छन् र खोपजस्ता रोकथाम सेवा तथा सामान्य रोगको उपचार दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-117",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which act established the Nepal Health Professional Council?",
+  "options": [
+   "Public Health Service Act 2018",
+   "Medical Council Act 1964",
+   "Health Service Act 1997",
+   "Nepal Health Professional Council Act 1997"
+  ],
+  "answer": 3,
+  "explanation": "The Nepal Health Professional Council was established under the Nepal Health Professional Council Act of 1997 (2053 BS).",
+  "source": "General knowledge",
+  "question_ne": "नेपाल स्वास्थ्य व्यवसायी परिषद् कुन ऐनबाट स्थापना भएको हो?",
+  "options_ne": [
+   "जनस्वास्थ्य सेवा ऐन २०१८",
+   "चिकित्सा परिषद् ऐन १९६४",
+   "स्वास्थ्य सेवा ऐन १९९७",
+   "नेपाल स्वास्थ्य व्यवसायी परिषद् ऐन १९९७"
+  ],
+  "explanation_ne": "नेपाल स्वास्थ्य व्यवसायी परिषद् सन् १९९७ (२०५३ साल) को नेपाल स्वास्थ्य व्यवसायी परिषद् ऐनबाट स्थापना भएको हो।"
+ },
+ {
+  "id": "HEAL3-118",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of a health camp?",
+  "options": [
+   "Provide health services to people in remote areas",
+   "Collect taxes",
+   "Build roads",
+   "Conduct elections"
+  ],
+  "answer": 0,
+  "explanation": "Health camps bring health check-ups, treatment and medicines to people in remote areas who cannot easily reach a health facility.",
+  "source": "General knowledge",
+  "question_ne": "स्वास्थ्य शिविरको मुख्य उद्देश्य के हो?",
+  "options_ne": [
+   "दुर्गम क्षेत्रका मानिसलाई स्वास्थ्य सेवा दिनु",
+   "कर संकलन गर्नु",
+   "सडक बनाउनु",
+   "निर्वाचन गराउनु"
+  ],
+  "explanation_ne": "स्वास्थ्य शिविरले स्वास्थ्य सुविधा सजिलै पुग्न नसक्ने दुर्गम क्षेत्रका मानिसलाई स्वास्थ्य जाँच, उपचार र औषधि पुर्‍याउँछ।"
+ },
+ {
+  "id": "HEAL3-119",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a preventive health service?",
+  "options": [
+   "Surgery",
+   "Dialysis",
+   "Immunisation",
+   "Chemotherapy"
+  ],
+  "answer": 2,
+  "explanation": "Immunisation prevents disease before it occurs, while surgery, dialysis and chemotherapy treat disease that is already present.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन रोकथाम स्वास्थ्य सेवा हो?",
+  "options_ne": [
+   "शल्यक्रिया",
+   "डायलाइसिस",
+   "खोप",
+   "किमोथेरापी"
+  ],
+  "explanation_ne": "खोपले रोग लाग्नुअघि नै रोक्छ, जबकि शल्यक्रिया, डायलाइसिस र किमोथेरापी भइसकेको रोगको उपचार गर्छन्।"
+ },
+ {
+  "id": "HEAL3-120",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the full form of FCHV?",
+  "options": [
+   "Female Child Health Visitor",
+   "Family Community Health Volunteer",
+   "Female Clinical Health Volunteer",
+   "Female Community Health Volunteer"
+  ],
+  "answer": 3,
+  "explanation": "FCHV stands for Female Community Health Volunteer, the backbone of community health services in rural Nepal.",
+  "source": "General knowledge",
+  "question_ne": "FCHV को पूरा रूप के हो?",
+  "options_ne": [
+   "फिमेल चाइल्ड हेल्थ भिजिटर",
+   "फ्यामिली कम्युनिटी हेल्थ भोलुन्टियर",
+   "फिमेल क्लिनिकल हेल्थ भोलुन्टियर",
+   "फिमेल कम्युनिटी हेल्थ भोलुन्टियर"
+  ],
+  "explanation_ne": "FCHV भनेको महिला सामुदायिक स्वास्थ्य स्वयंसेविका हो, जुन ग्रामीण नेपालको सामुदायिक स्वास्थ्य सेवाको मेरुदण्ड हो।"
+ },
+ {
+  "id": "HEAL3-121",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which level of hospital provides specialised services such as heart surgery?",
+  "options": [
+   "Health post",
+   "Primary health centre",
+   "Tertiary level hospital",
+   "Sub-health post"
+  ],
+  "answer": 2,
+  "explanation": "Tertiary level hospitals provide specialised and advanced care such as heart surgery, cancer treatment and neurosurgery.",
+  "source": "General knowledge",
+  "question_ne": "मुटुको शल्यक्रियाजस्ता विशेष सेवा कुन तहको अस्पतालले दिन्छ?",
+  "options_ne": [
+   "स्वास्थ्य चौकी",
+   "प्राथमिक स्वास्थ्य केन्द्र",
+   "तृतीय तहको अस्पताल",
+   "उप-स्वास्थ्य चौकी"
+  ],
+  "explanation_ne": "तृतीय तहका अस्पतालले मुटुको शल्यक्रिया, क्यान्सर उपचार र न्युरोसर्जरीजस्ता विशेष र उन्नत सेवा दिन्छन्।"
+ },
+ {
+  "id": "HEAL3-122",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the main function of the Department of Health Services in Nepal?",
+  "options": [
+   "Train doctors only",
+   "Collect health taxes",
+   "Build hospitals only",
+   "Plan, implement and monitor national health programmes"
+  ],
+  "answer": 3,
+  "explanation": "The Department of Health Services under the Ministry of Health and Population plans, implements and monitors national health programmes across the country.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा स्वास्थ्य सेवा विभागको मुख्य काम के हो?",
+  "options_ne": [
+   "डाक्टरलाई मात्र तालिम दिने",
+   "स्वास्थ्य कर संकलन गर्ने",
+   "अस्पताल मात्र बनाउने",
+   "राष्ट्रिय स्वास्थ्य कार्यक्रम योजना, कार्यान्वयन र अनुगमन गर्ने"
+  ],
+  "explanation_ne": "स्वास्थ्य तथा जनसंख्या मन्त्रालयअन्तर्गतको स्वास्थ्य सेवा विभागले देशभर राष्ट्रिय स्वास्थ्य कार्यक्रमको योजना, कार्यान्वयन र अनुगमन गर्छ।"
+ },
+ {
+  "id": "HEAL3-123",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vitamin is given to children in Nepal to prevent night blindness and to treat measles?",
+  "options": [
+   "Vitamin A",
+   "Vitamin B",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "answer": 0,
+  "explanation": "Vitamin A capsules are given to children under the National Vitamin A Programme to prevent night blindness and reduce deaths from measles and diarrhoea.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा रतन्धो रोक्न र दादुराको उपचारमा बालबालिकालाई कुन भिटामिन दिइन्छ?",
+  "options_ne": [
+   "भिटामिन ए",
+   "भिटामिन बी",
+   "भिटामिन सी",
+   "भिटामिन डी"
+  ],
+  "explanation_ne": "राष्ट्रिय भिटामिन ए कार्यक्रमअन्तर्गत बालबालिकालाई भिटामिन ए क्याप्सुल दिइन्छ, जसले रतन्धो रोक्छ र दादुरा तथा झाडापखालाबाट हुने मृत्यु घटाउँछ।"
+ },
+ {
+  "id": "HEAL3-124",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the National Immunisation Programme?",
+  "options": [
+   "A programme to treat tuberculosis",
+   "A programme to build hospitals",
+   "A programme to vaccinate children against preventable diseases",
+   "A programme to train nurses"
+  ],
+  "answer": 2,
+  "explanation": "The National Immunisation Programme provides free vaccines to children against diseases such as tuberculosis, polio, measles and hepatitis B.",
+  "source": "General knowledge",
+  "question_ne": "राष्ट्रिय खोप कार्यक्रम के हो?",
+  "options_ne": [
+   "क्षयरोग उपचार गर्ने कार्यक्रम",
+   "अस्पताल बनाउने कार्यक्रम",
+   "बालबालिकालाई रोकथाम गर्न सकिने रोगविरुद्ध खोप दिने कार्यक्रम",
+   "नर्सलाई तालिम दिने कार्यक्रम"
+  ],
+  "explanation_ne": "राष्ट्रिय खोप कार्यक्रमले बालबालिकालाई क्षयरोग, पोलियो, दादुरा र हेपाटाइटिस बीजस्ता रोगविरुद्ध निःशुल्क खोप दिन्छ।"
+ },
+ {
+  "id": "HEAL3-125",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which health worker provides health services at the household level in villages?",
+  "options": [
+   "Doctor",
+   "Specialist nurse",
+   "Pharmacist",
+   "Female Community Health Volunteer"
+  ],
+  "answer": 3,
+  "explanation": "FCHVs visit households to give health education, distribute medicines such as iron tablets and vitamin A, and refer sick people to health posts.",
+  "source": "General knowledge",
+  "question_ne": "गाउँमा घरपरिवार स्तरमा स्वास्थ्य सेवा कुन स्वास्थ्यकर्मीले दिन्छन्?",
+  "options_ne": [
+   "डाक्टर",
+   "विशेषज्ञ नर्स",
+   "फार्मासिस्ट",
+   "महिला सामुदायिक स्वास्थ्य स्वयंसेविका"
+  ],
+  "explanation_ne": "म.सा.स्वा.से. घरघरमा गएर स्वास्थ्य शिक्षा दिन्छन्, आइरन चक्की र भिटामिन एजस्ता औषधि बाँड्छन् र बिरामीलाई स्वास्थ्य चौकीमा रेफर गर्छन्।"
+ },
+ {
+  "id": "HEAL3-126",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main cause of death in children suffering from severe diarrhoea?",
+  "options": [
+   "Dehydration",
+   "Fever",
+   "Cough",
+   "Skin rash"
+  ],
+  "answer": 0,
+  "explanation": "Severe diarrhoea kills mainly through dehydration, the loss of water and salts from the body, which is why ORS is life-saving.",
+  "source": "General knowledge",
+  "question_ne": "गम्भीर झाडापखाला लागेका बालबालिकाको मृत्युको मुख्य कारण के हो?",
+  "options_ne": [
+   "जलवियोजन",
+   "ज्वरो",
+   "खोकी",
+   "छालामा दाग"
+  ],
+  "explanation_ne": "गम्भीर झाडापखालाबाट मृत्यु मुख्यतया जलवियोजन, शरीरबाट पानी र नुन गुम्नाले हुन्छ, त्यसैले ओआरएस जीवनरक्षक हुन्छ।"
+ },
+ {
+  "id": "HEAL3-127",
+  "exam": [
+   "health",
+   "nhpc-ha"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What does PHC-ORC stand for?",
+  "options": [
+   "Public Health Care Organising Committee",
+   "Primary Hospital Care Centre",
+   "Primary Health Care Outreach Clinic",
+   "Provincial Health Care Office"
+  ],
+  "answer": 2,
+  "explanation": "PHC-ORC stands for Primary Health Care Outreach Clinic, a monthly clinic run in villages to bring basic services closer to the community.",
+  "source": "General knowledge",
+  "question_ne": "PHC-ORC को पूरा रूप के हो?",
+  "options_ne": [
+   "पब्लिक हेल्थ केयर अर्गनाइजिङ कमिटी",
+   "प्राइमरी हस्पिटल केयर सेन्टर",
+   "प्राइमरी हेल्थ केयर आउटरिच क्लिनिक",
+   "प्रोभिन्सियल हेल्थ केयर अफिस"
+  ],
+  "explanation_ne": "PHC-ORC भनेको प्राथमिक स्वास्थ्य सेवा बाह्य क्लिनिक हो, जुन आधारभूत सेवा समुदायको नजिक पुर्‍याउन गाउँमा मासिक रूपमा सञ्चालन गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-128",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a curative health service?",
+  "options": [
+   "Vaccination",
+   "Health education",
+   "Sanitation campaign",
+   "Treatment of a sick patient"
+  ],
+  "answer": 3,
+  "explanation": "Curative services treat illness that is already present, such as treating a sick patient, while vaccination and health education are preventive.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन उपचारात्मक स्वास्थ्य सेवा हो?",
+  "options_ne": [
+   "खोप",
+   "स्वास्थ्य शिक्षा",
+   "सरसफाइ अभियान",
+   "बिरामीको उपचार"
+  ],
+  "explanation_ne": "उपचारात्मक सेवाले भइसकेको रोगको उपचार गर्छ, जस्तै बिरामीको उपचार, जबकि खोप र स्वास्थ्य शिक्षा रोकथाम हुन्।"
+ },
+ {
+  "id": "HEAL3-129",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the goal of the Safe Motherhood Programme in Nepal?",
+  "options": [
+   "Reduce maternal and newborn deaths",
+   "Build more hospitals",
+   "Train more doctors",
+   "Provide free food"
+  ],
+  "answer": 0,
+  "explanation": "The Safe Motherhood Programme aims to reduce maternal and newborn deaths by promoting antenatal care, safe delivery and postnatal care.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा सुरक्षित मातृत्व कार्यक्रमको लक्ष्य के हो?",
+  "options_ne": [
+   "मातृ तथा नवजात शिशु मृत्यु घटाउनु",
+   "थप अस्पताल बनाउनु",
+   "थप डाक्टरलाई तालिम दिनु",
+   "निःशुल्क खाना दिनु"
+  ],
+  "explanation_ne": "सुरक्षित मातृत्व कार्यक्रमले गर्भवती जाँच, सुरक्षित सुत्केरी र सुत्केरीपछिको हेरचाह प्रवर्द्धन गरेर मातृ तथा नवजात शिशु मृत्यु घटाउने लक्ष्य राख्छ।"
+ },
+ {
+  "id": "HEAL3-130",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Public Health and Nepal Health System",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which body registers nurses in Nepal?",
+  "options": [
+   "Nepal Health Professional Council",
+   "Nepal Medical Council",
+   "Nepal Nursing Council",
+   "Nepal Pharmacy Council"
+  ],
+  "answer": 2,
+  "explanation": "The Nepal Nursing Council registers nurses and regulates nursing education and practice in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा नर्स दर्ता गर्ने निकाय कुन हो?",
+  "options_ne": [
+   "नेपाल स्वास्थ्य व्यवसायी परिषद्",
+   "नेपाल चिकित्सा परिषद्",
+   "नेपाल नर्सिङ परिषद्",
+   "नेपाल फार्मेसी परिषद्"
+  ],
+  "explanation_ne": "नेपाल नर्सिङ परिषद्ले नर्स दर्ता गर्छ र नेपालमा नर्सिङ शिक्षा र अभ्यास नियमन गर्छ।"
+ },
+ {
+  "id": "HEAL3-131",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "For how long should a baby be exclusively breastfed?",
+  "options": [
+   "3 months",
+   "1 month",
+   "1 year",
+   "First 6 months"
+  ],
+  "answer": 3,
+  "explanation": "A baby should be given only breast milk for the first 6 months, with no other food or water.",
+  "source": "General knowledge",
+  "question_ne": "शिशुलाई कति समयसम्म मात्र आमाको दूध खुवाउनुपर्छ?",
+  "options_ne": [
+   "३ महिना",
+   "१ महिना",
+   "१ वर्ष",
+   "पहिलो ६ महिना"
+  ],
+  "explanation_ne": "शिशुलाई पहिलो ६ महिनासम्म अन्य खाना वा पानी नदिई मात्र आमाको दूध खुवाउनुपर्छ।"
+ },
+ {
+  "id": "HEAL3-132",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is colostrum?",
+  "options": [
+   "First breast milk rich in antibodies and nutrients",
+   "Cow milk",
+   "Powdered milk",
+   "Water given to a newborn"
+  ],
+  "answer": 0,
+  "explanation": "Colostrum is the thick yellowish first milk produced after delivery; it is rich in antibodies that protect the newborn from infection.",
+  "source": "General knowledge",
+  "question_ne": "कोलोस्ट्रम (बिगौती) के हो?",
+  "options_ne": [
+   "एन्टिबडी र पोषक तत्वले भरिपूर्ण पहिलो आमाको दूध",
+   "गाईको दूध",
+   "धुलो दूध",
+   "नवजात शिशुलाई दिइने पानी"
+  ],
+  "explanation_ne": "कोलोस्ट्रम सुत्केरीपछिको बाक्लो पहेँलो पहिलो दूध हो; यसमा एन्टिबडी धनी हुन्छ जसले नवजात शिशुलाई संक्रमणबाट जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-133",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When should a newborn baby be given the BCG vaccine?",
+  "options": [
+   "At 6 months",
+   "At 1 year",
+   "At birth",
+   "At 9 months"
+  ],
+  "answer": 2,
+  "explanation": "BCG vaccine, which protects against tuberculosis, is given at birth or as early as possible after birth.",
+  "source": "General knowledge",
+  "question_ne": "नवजात शिशुलाई बीसीजी खोप कहिले दिनुपर्छ?",
+  "options_ne": [
+   "६ महिनामा",
+   "१ वर्षमा",
+   "जन्मँदा",
+   "९ महिनामा"
+  ],
+  "explanation_ne": "क्षयरोगबाट जोगाउने बीसीजी खोप जन्मँदा वा जन्मपछि सकेसम्म चाँडो दिइन्छ।"
+ },
+ {
+  "id": "HEAL3-134",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the normal birth weight of a baby?",
+  "options": [
+   "1.5 kg",
+   "2 kg",
+   "4.5 kg",
+   "2.5-3.5 kg"
+  ],
+  "answer": 3,
+  "explanation": "A normal birth weight is between 2.5 kg and 3.5 kg; babies below 2.5 kg are called low birth weight babies.",
+  "source": "General knowledge",
+  "question_ne": "शिशुको सामान्य जन्म तौल कति हुन्छ?",
+  "options_ne": [
+   "१.५ केजी",
+   "२ केजी",
+   "४.५ केजी",
+   "२.५-३.५ केजी"
+  ],
+  "explanation_ne": "सामान्य जन्म तौल २.५ केजीदेखि ३.५ केजी बीच हुन्छ; २.५ केजीभन्दा कम तौलका शिशुलाई कम जन्म तौलका शिशु भनिन्छ।"
+ },
+ {
+  "id": "HEAL3-135",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main food for a newborn baby?",
+  "options": [
+   "Cow milk",
+   "Breast milk",
+   "Rice water",
+   "Fruit juice"
+  ],
+  "answer": 1,
+  "explanation": "Breast milk is the best and complete food for a newborn, providing all nutrients and protection against infection.",
+  "source": "General knowledge",
+  "question_ne": "नवजात शिशुको मुख्य खाना के हो?",
+  "options_ne": [
+   "गाईको दूध",
+   "आमाको दूध",
+   "भातको माड",
+   "फलको रस"
+  ],
+  "explanation_ne": "आमाको दूध नवजात शिशुका लागि सबैभन्दा राम्रो र पूर्ण खाना हो, जसले सबै पोषक तत्व र संक्रमणबाट सुरक्षा दिन्छ।"
+ },
+ {
+  "id": "HEAL3-136",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Why are antenatal check-ups important during pregnancy?",
+  "options": [
+   "To choose the baby's name",
+   "To decide the baby's sex",
+   "To monitor the health of mother and baby and detect problems early",
+   "To give the mother rest only"
+  ],
+  "answer": 2,
+  "explanation": "Antenatal check-ups monitor the mother and baby, detect problems such as high blood pressure or anaemia early, and prepare for safe delivery.",
+  "source": "General knowledge",
+  "question_ne": "गर्भावस्थामा गर्भवती जाँच किन महत्त्वपूर्ण हुन्छ?",
+  "options_ne": [
+   "शिशुको नाम छान्न",
+   "शिशुको लिङ्ग थाहा पाउन",
+   "आमा र शिशुको स्वास्थ्य निगरानी गर्न र समस्या चाँडै पत्ता लगाउन",
+   "आमालाई आराम मात्र दिन"
+  ],
+  "explanation_ne": "गर्भवती जाँचले आमा र शिशुको स्वास्थ्य निगरानी गर्छ, उच्च रक्तचाप वा रक्तअल्पताजस्ता समस्या चाँडै पत्ता लगाउँछ र सुरक्षित सुत्केरीको तयारी गर्छ।"
+ },
+ {
+  "id": "HEAL3-137",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the recommended minimum gap between two pregnancies?",
+  "options": [
+   "6 months",
+   "1 year",
+   "18 months",
+   "At least 2 years"
+  ],
+  "answer": 3,
+  "explanation": "A gap of at least 2 years (24 months) after a live birth is recommended so the mother's body can recover and the next baby is healthier.",
+  "source": "General knowledge",
+  "question_ne": "दुई गर्भावस्थाबीच सिफारिस गरिएको न्यूनतम अन्तर कति हो?",
+  "options_ne": [
+   "६ महिना",
+   "१ वर्ष",
+   "१८ महिना",
+   "कम्तीमा २ वर्ष"
+  ],
+  "explanation_ne": "जीवित शिशु जन्मेपछि कम्तीमा २ वर्ष (२४ महिना) को अन्तर सिफारिस गरिन्छ ताकि आमाको शरीर निको हुन सकोस् र अर्को शिशु स्वस्थ होस्।"
+ },
+ {
+  "id": "HEAL3-138",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which vaccine is given at 9 months of age in Nepal?",
+  "options": [
+   "Measles vaccine",
+   "BCG vaccine",
+   "Polio vaccine",
+   "DPT vaccine"
+  ],
+  "answer": 0,
+  "explanation": "The measles vaccine is given at 9 months of age under Nepal's National Immunisation Programme.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा ९ महिनाको उमेरमा कुन खोप दिइन्छ?",
+  "options_ne": [
+   "दादुरा खोप",
+   "बीसीजी खोप",
+   "पोलियो खोप",
+   "डीपीटी खोप"
+  ],
+  "explanation_ne": "राष्ट्रिय खोप कार्यक्रमअन्तर्गत ९ महिनाको उमेरमा दादुरा खोप दिइन्छ।"
+ },
+ {
+  "id": "HEAL3-139",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the full form of ANC?",
+  "options": [
+   "Advanced Nursing Care",
+   "After Natal Care",
+   "Antenatal Care",
+   "Acute Neonatal Care"
+  ],
+  "answer": 2,
+  "explanation": "ANC stands for Antenatal Care, the care given to a woman during pregnancy before delivery.",
+  "source": "General knowledge",
+  "question_ne": "ANC को पूरा रूप के हो?",
+  "options_ne": [
+   "एडभान्स्ड नर्सिङ केयर",
+   "आफ्टर नेटल केयर",
+   "एन्टेनेटल केयर",
+   "एक्युट नियोनेटल केयर"
+  ],
+  "explanation_ne": "ANC भनेको एन्टेनेटल केयर हो, गर्भावस्थामा सुत्केरीअघि महिलालाई दिइने हेरचाह।"
+ },
+ {
+  "id": "HEAL3-140",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is low birth weight?",
+  "options": [
+   "Less than 3 kg",
+   "Less than 2 kg",
+   "Less than 4 kg",
+   "Less than 2.5 kg"
+  ],
+  "answer": 3,
+  "explanation": "A baby weighing less than 2.5 kg at birth is called a low birth weight baby and needs extra care.",
+  "source": "General knowledge",
+  "question_ne": "कम जन्म तौल भनेको के हो?",
+  "options_ne": [
+   "३ केजीभन्दा कम",
+   "२ केजीभन्दा कम",
+   "४ केजीभन्दा कम",
+   "२.५ केजीभन्दा कम"
+  ],
+  "explanation_ne": "जन्मँदा २.५ केजीभन्दा कम तौल भएको शिशुलाई कम जन्म तौलको शिशु भनिन्छ र त्यसलाई थप हेरचाह चाहिन्छ।"
+ },
+ {
+  "id": "HEAL3-141",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the best way to keep a newborn baby warm?",
+  "options": [
+   "Skin-to-skin contact with the mother",
+   "Bathing in cold water",
+   "Keeping in open air",
+   "Wrapping in a wet cloth"
+  ],
+  "answer": 0,
+  "explanation": "Skin-to-skin contact with the mother, also called kangaroo care, is the best way to keep a newborn warm.",
+  "source": "General knowledge",
+  "question_ne": "नवजात शिशुलाई न्यानो राख्ने सबैभन्दा राम्रो तरिका के हो?",
+  "options_ne": [
+   "आमासँग छाला छुवाएर राख्ने",
+   "चिसो पानीले नुहाउने",
+   "खुला हावामा राख्ने",
+   "भिजेको कपडामा बेर्ने"
+  ],
+  "explanation_ne": "आमासँग छाला छुवाएर राख्नु, जसलाई कङ्गारु हेरचाह पनि भनिन्छ, नवजात शिशुलाई न्यानो राख्ने सबैभन्दा राम्रो तरिका हो।"
+ },
+ {
+  "id": "HEAL3-142",
+  "exam": [
+   "health",
+   "midwifery-nlem"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which nutrient supplement is given to pregnant women in Nepal?",
+  "options": [
+   "Vitamin A only",
+   "Calcium only",
+   "Iron and folic acid",
+   "Vitamin C only"
+  ],
+  "answer": 2,
+  "explanation": "Pregnant women are given iron and folic acid tablets to prevent anaemia and to help the baby's healthy development.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा गर्भवती महिलालाई कुन पोषक पूरक दिइन्छ?",
+  "options_ne": [
+   "भिटामिन ए मात्र",
+   "क्याल्सियम मात्र",
+   "आइरन र फोलिक एसिड",
+   "भिटामिन सी मात्र"
+  ],
+  "explanation_ne": "गर्भवती महिलालाई रक्तअल्पता रोक्न र शिशुको स्वस्थ विकासमा मद्दत गर्न आइरन र फोलिक एसिड चक्की दिइन्छ।"
+ },
+ {
+  "id": "HEAL3-143",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the normal duration of pregnancy?",
+  "options": [
+   "30 weeks",
+   "35 weeks",
+   "45 weeks",
+   "About 40 weeks"
+  ],
+  "answer": 3,
+  "explanation": "A normal pregnancy lasts about 40 weeks, or 280 days, counted from the first day of the last menstrual period.",
+  "source": "General knowledge",
+  "question_ne": "गर्भावस्थाको सामान्य अवधि कति हुन्छ?",
+  "options_ne": [
+   "३० हप्ता",
+   "३५ हप्ता",
+   "४५ हप्ता",
+   "लगभग ४० हप्ता"
+  ],
+  "explanation_ne": "सामान्य गर्भावस्था लगभग ४० हप्ता वा २८० दिन रहन्छ, अन्तिम महिनावारीको पहिलो दिनबाट गनिन्छ।"
+ },
+ {
+  "id": "HEAL3-144",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is postnatal care?",
+  "options": [
+   "Care before pregnancy",
+   "Care of mother and baby after delivery",
+   "Care of the elderly",
+   "Care during surgery"
+  ],
+  "answer": 1,
+  "explanation": "Postnatal care is the care given to the mother and baby in the weeks after delivery, checking for bleeding, infection and breastfeeding problems.",
+  "source": "General knowledge",
+  "question_ne": "सुत्केरीपछिको हेरचाह भनेको के हो?",
+  "options_ne": [
+   "गर्भावस्थाअघिको हेरचाह",
+   "सुत्केरीपछि आमा र शिशुको हेरचाह",
+   "वृद्धवृद्धाको हेरचाह",
+   "शल्यक्रियाको समयमा हेरचाह"
+  ],
+  "explanation_ne": "सुत्केरीपछिको हेरचाह भनेको सुत्केरीपछि हप्तौंसम्म आमा र शिशुलाई दिइने हेरचाह हो, जसमा रक्तस्राव, संक्रमण र स्तनपान समस्या जाँच गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-145",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which condition in pregnancy is marked by high blood pressure and swelling of the face, hands or feet?",
+  "options": [
+   "Anaemia",
+   "Gestational diabetes",
+   "Pre-eclampsia",
+   "Jaundice"
+  ],
+  "answer": 2,
+  "explanation": "Pre-eclampsia is a serious pregnancy condition with high blood pressure, swelling and protein in the urine, needing urgent medical care.",
+  "source": "General knowledge",
+  "question_ne": "गर्भावस्थामा उच्च रक्तचाप र अनुहार, हात वा खुट्टा सुन्निने अवस्था कुन हो?",
+  "options_ne": [
+   "रक्तअल्पता",
+   "गर्भावस्थाको मधुमेह",
+   "प्री-एक्लेम्पसिया",
+   "जन्डिस"
+  ],
+  "explanation_ne": "प्री-एक्लेम्पसिया गर्भावस्थाको गम्भीर अवस्था हो जसमा उच्च रक्तचाप, सुन्निने र पिसाबमा प्रोटिन हुन्छ, जसलाई तुरुन्त चिकित्सकीय हेरचाह चाहिन्छ।"
+ },
+ {
+  "id": "HEAL3-146",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What should a mother do to help prevent diarrhoea in her child?",
+  "options": [
+   "Give only bottled water",
+   "Wash hands with soap and give safe water and food",
+   "Keep the child indoors always",
+   "Give antibiotics daily"
+  ],
+  "answer": 1,
+  "explanation": "Handwashing with soap, safe drinking water, safe food and breastfeeding protect children from diarrhoea.",
+  "source": "General knowledge",
+  "question_ne": "आमाले आफ्नो बच्चामा झाडापखाला रोक्न के गर्नुपर्छ?",
+  "options_ne": [
+   "बोतलको पानी मात्र दिने",
+   "साबुनले हात धुने र सुरक्षित पानी र खाना दिने",
+   "बच्चालाई सधैं घरभित्र राख्ने",
+   "दैनिक एन्टिबायोटिक दिने"
+  ],
+  "explanation_ne": "साबुनले हात धुनु, सुरक्षित पिउने पानी, सुरक्षित खाना र स्तनपानले बालबालिकालाई झाडापखालाबाट जोगाउँछ।"
+ },
+ {
+  "id": "HEAL3-147",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does exclusive breastfeeding mean?",
+  "options": [
+   "Only breast milk for the first 6 months",
+   "Breast milk with water",
+   "Breast milk with rice",
+   "Breast milk with cow milk"
+  ],
+  "answer": 0,
+  "explanation": "Exclusive breastfeeding means giving only breast milk, not even water, for the first 6 months of life.",
+  "source": "General knowledge",
+  "question_ne": "पूर्ण स्तनपान भनेको के हो?",
+  "options_ne": [
+   "पहिलो ६ महिनासम्म मात्र आमाको दूध",
+   "पानीसहित आमाको दूध",
+   "भातसहित आमाको दूध",
+   "गाईको दूधसहित आमाको दूध"
+  ],
+  "explanation_ne": "पूर्ण स्तनपान भनेको जीवनको पहिलो ६ महिनासम्म पानीसमेत नदिई मात्र आमाको दूध दिनु हो।"
+ },
+ {
+  "id": "HEAL3-148",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "At what age should complementary feeding start for a baby?",
+  "options": [
+   "3 months",
+   "4 months",
+   "6 months",
+   "12 months"
+  ],
+  "answer": 2,
+  "explanation": "Complementary foods such as soft porridge should start at 6 months of age, while breastfeeding continues up to 2 years.",
+  "source": "General knowledge",
+  "question_ne": "शिशुलाई कति उमेरमा पूरक खाना सुरु गर्नुपर्छ?",
+  "options_ne": [
+   "३ महिना",
+   "४ महिना",
+   "६ महिना",
+   "१२ महिना"
+  ],
+  "explanation_ne": "नरम लिटोजस्ता पूरक खाना ६ महिनाको उमेरमा सुरु गर्नुपर्छ, जबकि स्तनपान २ वर्षसम्म जारी रहन्छ।"
+ },
+ {
+  "id": "HEAL3-149",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which programme gives vitamin A capsules to children in Nepal?",
+  "options": [
+   "Polio programme",
+   "Tuberculosis programme",
+   "Malaria programme",
+   "National Vitamin A Programme"
+  ],
+  "answer": 3,
+  "explanation": "The National Vitamin A Programme gives vitamin A capsules to children aged 6 months to 5 years twice a year.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा बालबालिकालाई भिटामिन ए क्याप्सुल दिने कार्यक्रम कुन हो?",
+  "options_ne": [
+   "पोलियो कार्यक्रम",
+   "क्षयरोग कार्यक्रम",
+   "मलेरिया कार्यक्रम",
+   "राष्ट्रिय भिटामिन ए कार्यक्रम"
+  ],
+  "explanation_ne": "राष्ट्रिय भिटामिन ए कार्यक्रमले ६ महिनादेखि ५ वर्षसम्मका बालबालिकालाई वर्षमा दुई पटक भिटामिन ए क्याप्सुल दिन्छ।"
+ },
+ {
+  "id": "HEAL3-150",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Maternal and Child Health",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the main cause of maternal death in Nepal?",
+  "options": [
+   "Anaemia",
+   "Postpartum haemorrhage",
+   "Malaria",
+   "Diabetes"
+  ],
+  "answer": 1,
+  "explanation": "Postpartum haemorrhage, heavy bleeding after delivery, is the leading cause of maternal death in Nepal.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा मातृ मृत्युको मुख्य कारण के हो?",
+  "options_ne": [
+   "रक्तअल्पता",
+   "सुत्केरीपछि धेरै रगत बग्नु",
+   "मलेरिया",
+   "मधुमेह"
+  ],
+  "explanation_ne": "सुत्केरीपछि धेरै रगत बग्नु (पोस्टपार्टम हेमरेज) नेपालमा मातृ मृत्युको प्रमुख कारण हो।"
+ },
+ {
+  "id": "HEAL3-151",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How long should you wash your hands with soap and water?",
+  "options": [
+   "5 seconds",
+   "10 seconds",
+   "15 seconds",
+   "At least 20 seconds"
+  ],
+  "answer": 3,
+  "explanation": "Washing hands with soap for at least 20 seconds removes most germs from the hands.",
+  "source": "General knowledge",
+  "question_ne": "साबुन र पानीले हात कति समय धुनुपर्छ?",
+  "options_ne": [
+   "५ सेकेन्ड",
+   "१० सेकेन्ड",
+   "१५ सेकेन्ड",
+   "कम्तीमा २० सेकेन्ड"
+  ],
+  "explanation_ne": "साबुनले कम्तीमा २० सेकेन्ड हात धुँदा हातका धेरैजसो रोगाणु हट्छन्।"
+ },
+ {
+  "id": "HEAL3-152",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the safe way to dispose of human faeces?",
+  "options": [
+   "In an open field",
+   "In a river",
+   "In a toilet or latrine",
+   "In a dustbin"
+  ],
+  "answer": 2,
+  "explanation": "Using a toilet or latrine keeps faeces away from water, food and flies and prevents the spread of disease.",
+  "source": "General knowledge",
+  "question_ne": "मानव दिसा फ्याँक्ने सुरक्षित तरिका के हो?",
+  "options_ne": [
+   "खुला ठाउँमा",
+   "नदीमा",
+   "शौचालय वा चर्पीमा",
+   "फोहोर बाकसमा"
+  ],
+  "explanation_ne": "शौचालय वा चर्पी प्रयोग गर्दा दिसा पानी, खाना र झिंगाबाट टाढा रहन्छ र रोग फैलिनबाट रोकिन्छ।"
+ },
+ {
+  "id": "HEAL3-153",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which method purifies drinking water at home?",
+  "options": [
+   "Boiling",
+   "Adding sugar",
+   "Adding oil",
+   "Storing in an open vessel"
+  ],
+  "answer": 0,
+  "explanation": "Boiling water kills germs and makes it safe to drink; filtration and chlorination also purify water.",
+  "source": "General knowledge",
+  "question_ne": "घरमा पिउने पानी शुद्ध गर्ने विधि कुन हो?",
+  "options_ne": [
+   "उमाल्ने",
+   "चिनी हाल्ने",
+   "तेल हाल्ने",
+   "खुला भाँडामा राख्ने"
+  ],
+  "explanation_ne": "पानी उमाल्दा रोगाणु मर्छन् र पानी पिउन सुरक्षित हुन्छ; छान्ने र क्लोरिन हाल्ने विधिले पनि पानी शुद्ध गर्छ।"
+ },
+ {
+  "id": "HEAL3-154",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the full form of WASH?",
+  "options": [
+   "Water and Sanitation for Health",
+   "World Action for Sanitation and Health",
+   "Water, Sanitation and Health",
+   "Water, Sanitation and Hygiene"
+  ],
+  "answer": 3,
+  "explanation": "WASH stands for Water, Sanitation and Hygiene, the three linked services needed for good public health.",
+  "source": "General knowledge",
+  "question_ne": "WASH को पूरा रूप के हो?",
+  "options_ne": [
+   "वाटर एन्ड स्यानिटेसन फर हेल्थ",
+   "वर्ल्ड एक्सन फर स्यानिटेसन एन्ड हेल्थ",
+   "वाटर, स्यानिटेसन एन्ड हेल्थ",
+   "वाटर, स्यानिटेसन एन्ड हाइजिन"
+  ],
+  "explanation_ne": "WASH भनेको पानी, सरसफाइ र स्वच्छता हो, जुन राम्रो जनस्वास्थ्यका लागि चाहिने तीन जोडिएका सेवा हुन्।"
+ },
+ {
+  "id": "HEAL3-155",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the main purpose of a latrine?",
+  "options": [
+   "Store water",
+   "Keep animals",
+   "Safe disposal of human faeces",
+   "Dry clothes"
+  ],
+  "answer": 2,
+  "explanation": "A latrine safely disposes of human faeces so that germs do not reach water, food or people.",
+  "source": "General knowledge",
+  "question_ne": "चर्पीको मुख्य उद्देश्य के हो?",
+  "options_ne": [
+   "पानी भण्डारण गर्ने",
+   "जनावर राख्ने",
+   "मानव दिसा सुरक्षित रूपमा फ्याँक्ने",
+   "लुगा सुकाउने"
+  ],
+  "explanation_ne": "चर्पीले मानव दिसा सुरक्षित रूपमा फ्याँक्छ ताकि रोगाणु पानी, खाना वा मानिससम्म नपुगोस्।"
+ },
+ {
+  "id": "HEAL3-156",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which disease is mainly caused by poor sanitation?",
+  "options": [
+   "Diarrhoea",
+   "Diabetes",
+   "Asthma",
+   "Anaemia"
+  ],
+  "answer": 0,
+  "explanation": "Poor sanitation spreads germs through contaminated water and food, causing diarrhoea and other intestinal diseases.",
+  "source": "General knowledge",
+  "question_ne": "कमजोर सरसफाइले मुख्यतया कुन रोग लाग्छ?",
+  "options_ne": [
+   "झाडापखाला",
+   "मधुमेह",
+   "दम",
+   "रक्तअल्पता"
+  ],
+  "explanation_ne": "कमजोर सरसफाइले दूषित पानी र खानाबाट रोगाणु फैलाउँछ, जसले झाडापखाला र अन्य आन्द्राका रोग गराउँछ।"
+ },
+ {
+  "id": "HEAL3-157",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "When should you wash your hands?",
+  "options": [
+   "Only before sleeping",
+   "Only after work",
+   "Only in the morning",
+   "After using the toilet and before eating"
+  ],
+  "answer": 3,
+  "explanation": "Hands should be washed after using the toilet, before eating and after handling waste, to stop germs spreading.",
+  "source": "General knowledge",
+  "question_ne": "हात कहिले धुनुपर्छ?",
+  "options_ne": [
+   "सुत्नुअघि मात्र",
+   "कामपछि मात्र",
+   "बिहान मात्र",
+   "शौचालय प्रयोगपछि र खाना खानुअघि"
+  ],
+  "explanation_ne": "शौचालय प्रयोगपछि, खाना खानुअघि र फोहोर छोएपछि हात धुनुपर्छ, ताकि रोगाणु फैलिन नपाओस्।"
+ },
+ {
+  "id": "HEAL3-158",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is chlorination of water?",
+  "options": [
+   "Adding salt to water",
+   "Filtering with cloth",
+   "Adding chlorine to kill germs",
+   "Boiling water"
+  ],
+  "answer": 2,
+  "explanation": "Chlorination adds a small amount of chlorine to water to kill germs and make it safe to drink.",
+  "source": "General knowledge",
+  "question_ne": "पानीको क्लोरिनेसन भनेको के हो?",
+  "options_ne": [
+   "पानीमा नुन हाल्नु",
+   "कपडाले छान्नु",
+   "रोगाणु मार्न क्लोरिन हाल्नु",
+   "पानी उमाल्नु"
+  ],
+  "explanation_ne": "क्लोरिनेसनमा पानीमा थोरै क्लोरिन हालेर रोगाणु मारिन्छ र पानी पिउन सुरक्षित बनाइन्छ।"
+ },
+ {
+  "id": "HEAL3-159",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the minimum safe distance between a latrine and a drinking water source?",
+  "options": [
+   "5 metres",
+   "10 metres",
+   "12 metres",
+   "At least 15 metres"
+  ],
+  "answer": 3,
+  "explanation": "A latrine should be at least 15 metres away from a drinking water source and downhill from it, so germs do not seep into the water.",
+  "source": "General knowledge",
+  "question_ne": "चर्पी र पिउने पानीको स्रोतबीच न्यूनतम सुरक्षित दूरी कति हुनुपर्छ?",
+  "options_ne": [
+   "५ मिटर",
+   "१० मिटर",
+   "१२ मिटर",
+   "कम्तीमा १५ मिटर"
+  ],
+  "explanation_ne": "चर्पी पिउने पानीको स्रोतबाट कम्तीमा १५ मिटर टाढा र त्यसभन्दा तल्लो भागमा हुनुपर्छ, ताकि रोगाणु पानीमा नपसोस्।"
+ },
+ {
+  "id": "HEAL3-160",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is personal hygiene?",
+  "options": [
+   "Keeping the body and surroundings clean",
+   "Wearing expensive clothes",
+   "Eating more food",
+   "Sleeping longer"
+  ],
+  "answer": 0,
+  "explanation": "Personal hygiene means keeping the body clean by bathing, brushing teeth, washing hands and wearing clean clothes.",
+  "source": "General knowledge",
+  "question_ne": "व्यक्तिगत स्वच्छता भनेको के हो?",
+  "options_ne": [
+   "शरीर र वरपर सफा राख्नु",
+   "महँगो लुगा लगाउनु",
+   "बढी खाना खानु",
+   "लामो समय सुत्नु"
+  ],
+  "explanation_ne": "व्यक्तिगत स्वच्छता भनेको नुहाउने, दाँत माझ्ने, हात धुने र सफा लुगा लगाएर शरीर सफा राख्नु हो।"
+ },
+ {
+  "id": "HEAL3-161",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a vector control measure?",
+  "options": [
+   "Drinking boiled water",
+   "Washing hands",
+   "Using mosquito nets",
+   "Eating a balanced diet"
+  ],
+  "answer": 2,
+  "explanation": "Using mosquito nets controls the vector (mosquito) that spreads malaria and dengue, while the other options prevent different kinds of disease.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन कीट नियन्त्रण उपाय हो?",
+  "options_ne": [
+   "उमालेको पानी पिउनु",
+   "हात धुनु",
+   "लामखुट्टेविरुद्धको झुल प्रयोग गर्नु",
+   "सन्तुलित खाना खानु"
+  ],
+  "explanation_ne": "लामखुट्टेविरुद्धको झुल प्रयोग गर्दा मलेरिया र डेंगु सार्ने कीट (लामखुट्टे) नियन्त्रण हुन्छ, जबकि अन्य विकल्पले फरक प्रकारका रोग रोक्छन्।"
+ },
+ {
+  "id": "HEAL3-162",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the main cause of food poisoning?",
+  "options": [
+   "Eating too much food",
+   "Eating stale food kept too long",
+   "Eating spicy food",
+   "Eating food contaminated with germs"
+  ],
+  "answer": 3,
+  "explanation": "Food poisoning is mainly caused by eating food contaminated with harmful bacteria or their toxins.",
+  "source": "General knowledge",
+  "question_ne": "खानाबाट हुने विषाक्तताको मुख्य कारण के हो?",
+  "options_ne": [
+   "धेरै खाना खानु",
+   "धेरै समय राखेको बासी खाना खानु",
+   "पिरो खाना खानु",
+   "रोगाणुले दूषित खाना खानु"
+  ],
+  "explanation_ne": "खानाबाट हुने विषाक्तता मुख्यतया हानिकारक ब्याक्टेरिया वा तिनका विषले दूषित खाना खाँदा हुन्छ।"
+ },
+ {
+  "id": "HEAL3-163",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Why should food be covered?",
+  "options": [
+   "To protect it from flies and dust",
+   "To keep it cold",
+   "To make it tasty",
+   "To hide it"
+  ],
+  "answer": 0,
+  "explanation": "Covering food protects it from flies, dust and germs that can cause diarrhoea and other diseases.",
+  "source": "General knowledge",
+  "question_ne": "खाना किन छोप्नुपर्छ?",
+  "options_ne": [
+   "झिंगा र धुलोबाट जोगाउन",
+   "चिसो राख्न",
+   "स्वादिलो बनाउन",
+   "लुकाउन"
+  ],
+  "explanation_ne": "खाना छोप्दा झिंगा, धुलो र रोगाणुबाट जोगिन्छ जसले झाडापखाला र अन्य रोग गराउन सक्छन्।"
+ },
+ {
+  "id": "HEAL3-164",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the best way to store drinking water?",
+  "options": [
+   "In an open bucket",
+   "In a clean covered container",
+   "In a dirty pot",
+   "In a plastic bag"
+  ],
+  "answer": 1,
+  "explanation": "Drinking water should be stored in a clean container with a lid so that dust, insects and germs cannot enter it.",
+  "source": "General knowledge",
+  "question_ne": "पिउने पानी भण्डारण गर्ने सबैभन्दा राम्रो तरिका के हो?",
+  "options_ne": [
+   "खुला बाल्टिनमा",
+   "सफा छोपिएको भाँडामा",
+   "फोहोर भाँडामा",
+   "प्लास्टिकको झोलामा"
+  ],
+  "explanation_ne": "पिउने पानी सफा र बिर्को भएको भाँडामा भण्डारण गर्नुपर्छ ताकि धुलो, कीरा र रोगाणु भित्र पस्न नसकून्।"
+ },
+ {
+  "id": "HEAL3-165",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Hygiene and Sanitation",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which habit helps prevent the spread of COVID-19 and flu?",
+  "options": [
+   "Sharing towels",
+   "Coughing openly",
+   "Wearing a mask and washing hands often",
+   "Eating together from one plate"
+  ],
+  "answer": 2,
+  "explanation": "Wearing a mask and washing hands often block the droplets and germs that spread COVID-19 and flu.",
+  "source": "General knowledge",
+  "question_ne": "कोभिड-१९ र फ्लु फैलिनबाट रोक्न कुन बानीले मद्दत गर्छ?",
+  "options_ne": [
+   "तौलिया साटासाट गर्ने",
+   "खुला रूपमा खोक्ने",
+   "मास्क लगाउने र बारम्बार हात धुने",
+   "एउटै थालबाट खाना खाने"
+  ],
+  "explanation_ne": "मास्क लगाउने र बारम्बार हात धुँदा कोभिड-१९ र फ्लु फैलाउने थोपा र रोगाणु रोकिन्छन्।"
+ },
+ {
+  "id": "HEAL3-167",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vaccine protects against tuberculosis?",
+  "options": [
+   "DPT vaccine",
+   "Polio vaccine",
+   "Measles vaccine",
+   "BCG vaccine"
+  ],
+  "answer": 3,
+  "explanation": "BCG vaccine protects children against tuberculosis, especially severe forms such as TB meningitis.",
+  "source": "General knowledge",
+  "question_ne": "कुन खोपले क्षयरोगबाट जोगाउँछ?",
+  "options_ne": [
+   "डीपीटी खोप",
+   "पोलियो खोप",
+   "दादुरा खोप",
+   "बीसीजी खोप"
+  ],
+  "explanation_ne": "बीसीजी खोपले बालबालिकालाई क्षयरोगबाट जोगाउँछ, विशेष गरी टीबी मेनिन्जाइटिसजस्ता गम्भीर रूपबाट।"
+ },
+ {
+  "id": "HEAL3-169",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Who discovered the smallpox vaccine?",
+  "options": [
+   "Louis Pasteur",
+   "Alexander Fleming",
+   "Edward Jenner",
+   "Robert Koch"
+  ],
+  "answer": 2,
+  "explanation": "Edward Jenner discovered the smallpox vaccine in 1796 using cowpox, and smallpox was later eradicated worldwide.",
+  "source": "General knowledge",
+  "question_ne": "बिफर (स्मलपक्स) को खोप कसले पत्ता लगाए?",
+  "options_ne": [
+   "लुई पाश्चर",
+   "अलेक्जेन्डर फ्लेमिङ",
+   "एडवर्ड जेनर",
+   "रोबर्ट कोच"
+  ],
+  "explanation_ne": "एडवर्ड जेनरले सन् १७९६ मा गाईबिफर प्रयोग गरेर बिफरको खोप पत्ता लगाए, र पछि बिफर विश्वभर उन्मूलन भयो।"
+ },
+ {
+  "id": "HEAL3-170",
+  "exam": [
+   "health",
+   "nmc-mbbs"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which disease has been eradicated worldwide by vaccination?",
+  "options": [
+   "Polio",
+   "Measles",
+   "Tuberculosis",
+   "Smallpox"
+  ],
+  "answer": 3,
+  "explanation": "Smallpox was declared eradicated in 1980 after a worldwide vaccination campaign; it is the only human disease eradicated so far.",
+  "source": "General knowledge",
+  "question_ne": "खोपबाट विश्वभर उन्मूलन भएको रोग कुन हो?",
+  "options_ne": [
+   "पोलियो",
+   "दादुरा",
+   "क्षयरोग",
+   "बिफर"
+  ],
+  "explanation_ne": "विश्वव्यापी खोप अभियानपछि सन् १९८० मा बिफर उन्मूलन भएको घोषणा गरियो; यो अहिलेसम्म उन्मूलन भएको एक मात्र मानव रोग हो।"
+ },
+ {
+  "id": "HEAL3-171",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What are bacteria?",
+  "options": [
+   "Single-celled microorganisms",
+   "Small insects",
+   "Tiny worms",
+   "Plant seeds"
+  ],
+  "answer": 0,
+  "explanation": "Bacteria are tiny single-celled microorganisms; some cause disease while others are useful, for example in making curd.",
+  "source": "General knowledge",
+  "question_ne": "ब्याक्टेरिया के हुन्?",
+  "options_ne": [
+   "एककोशिकीय सूक्ष्मजीव",
+   "साना कीरा",
+   "साना जुका",
+   "वनस्पतिका बीउ"
+  ],
+  "explanation_ne": "ब्याक्टेरिया साना एककोशिकीय सूक्ष्मजीव हुन्; केहीले रोग गराउँछन् भने केही दही बनाउनेजस्ता उपयोगी काम गर्छन्।"
+ },
+ {
+  "id": "HEAL3-172",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which instrument is used to see microorganisms?",
+  "options": [
+   "Telescope",
+   "Stethoscope",
+   "Microscope",
+   "Barometer"
+  ],
+  "answer": 2,
+  "explanation": "A microscope magnifies tiny objects so that microorganisms too small to see with the naked eye become visible.",
+  "source": "General knowledge",
+  "question_ne": "सूक्ष्मजीव हेर्न कुन यन्त्र प्रयोग गरिन्छ?",
+  "options_ne": [
+   "दूरबिन",
+   "स्टेथोस्कोप",
+   "सूक्ष्मदर्शी यन्त्र",
+   "ब्यारोमिटर"
+  ],
+  "explanation_ne": "सूक्ष्मदर्शी यन्त्रले साना वस्तुलाई ठूलो बनाएर देखाउँछ, जसले नाङ्गो आँखाले नदेखिने सूक्ष्मजीव देखिन्छन्।"
+ },
+ {
+  "id": "HEAL3-173",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "What is the full form of BCG?",
+  "options": [
+   "Bacterial Control Group",
+   "Basic Child Growth",
+   "Bacillus Cure Group",
+   "Bacillus Calmette-Guerin"
+  ],
+  "answer": 3,
+  "explanation": "BCG stands for Bacillus Calmette-Guerin, named after the scientists Calmette and Guerin who developed the tuberculosis vaccine.",
+  "source": "General knowledge",
+  "question_ne": "बीसीजीको पूरा रूप के हो?",
+  "options_ne": [
+   "ब्याक्टेरियल कन्ट्रोल ग्रुप",
+   "बेसिक चाइल्ड ग्रोथ",
+   "ब्यासिलस क्योर ग्रुप",
+   "ब्यासिलस काल्मेट-गुएरिन"
+  ],
+  "explanation_ne": "बीसीजी भनेको ब्यासिलस काल्मेट-गुएरिन हो, क्षयरोगको खोप विकास गर्ने वैज्ञानिक काल्मेट र गुएरिनको नामबाट राखिएको।"
+ },
+ {
+  "id": "HEAL3-174",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which vaccine is given orally (by mouth) in Nepal?",
+  "options": [
+   "Oral polio vaccine",
+   "BCG vaccine",
+   "Measles vaccine",
+   "DPT vaccine"
+  ],
+  "answer": 0,
+  "explanation": "The oral polio vaccine (OPV) is given as drops by mouth, while BCG, measles and DPT vaccines are given by injection.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा मुखबाट दिइने खोप कुन हो?",
+  "options_ne": [
+   "मुखबाट दिइने पोलियो खोप",
+   "बीसीजी खोप",
+   "दादुरा खोप",
+   "डीपीटी खोप"
+  ],
+  "explanation_ne": "मुखबाट दिइने पोलियो खोप (ओपीभी) थोपाको रूपमा मुखबाट दिइन्छ, जबकि बीसीजी, दादुरा र डीपीटी खोप सुईबाट दिइन्छ।"
+ },
+ {
+  "id": "HEAL3-176",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is a viral disease?",
+  "options": [
+   "Tuberculosis",
+   "Cholera",
+   "Typhoid",
+   "Measles"
+  ],
+  "answer": 3,
+  "explanation": "Measles is caused by a virus, while tuberculosis, cholera and typhoid are caused by bacteria.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन भाइरल रोग हो?",
+  "options_ne": [
+   "क्षयरोग",
+   "हैजा",
+   "टाइफाइड",
+   "दादुरा"
+  ],
+  "explanation_ne": "दादुरा भाइरसले गर्दा हुन्छ, जबकि क्षयरोग, हैजा र टाइफाइड ब्याक्टेरियाले गर्दा हुन्छन्।"
+ },
+ {
+  "id": "HEAL3-177",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is a bacterial disease?",
+  "options": [
+   "Typhoid",
+   "Measles",
+   "Chickenpox",
+   "AIDS"
+  ],
+  "answer": 0,
+  "explanation": "Typhoid is caused by the bacterium Salmonella typhi, while measles, chickenpox and AIDS are caused by viruses.",
+  "source": "General knowledge",
+  "question_ne": "निम्नमध्ये कुन ब्याक्टेरियाजन्य रोग हो?",
+  "options_ne": [
+   "टाइफाइड",
+   "दादुरा",
+   "ठेउला",
+   "एड्स"
+  ],
+  "explanation_ne": "टाइफाइड साल्मोनेला टाइफी ब्याक्टेरियाले गर्दा हुन्छ, जबकि दादुरा, ठेउला र एड्स भाइरसले गर्दा हुन्छन्।"
+ },
+ {
+  "id": "HEAL3-178",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the full form of HIV?",
+  "options": [
+   "Human Immune Deficiency Virus",
+   "Human Infectious Virus",
+   "Human Immunodeficiency Virus",
+   "Human Immunity Disorder Virus"
+  ],
+  "answer": 2,
+  "explanation": "HIV stands for Human Immunodeficiency Virus, the virus that causes AIDS.",
+  "source": "General knowledge",
+  "question_ne": "एचआईभीको पूरा रूप के हो?",
+  "options_ne": [
+   "ह्युमन इम्युन डेफिसियन्सी भाइरस",
+   "ह्युमन इन्फेक्सियस भाइरस",
+   "ह्युमन इम्युनोडेफिसियन्सी भाइरस",
+   "ह्युमन इम्युनिटी डिसअर्डर भाइरस"
+  ],
+  "explanation_ne": "एचआईभी भनेको ह्युमन इम्युनोडेफिसियन्सी भाइरस हो, जुन एड्स गराउने भाइरस हो।"
+ },
+ {
+  "id": "HEAL3-180",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Immunisation and Microbiology",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is herd immunity?",
+  "options": [
+   "Immunity of animals only",
+   "Protection of the community when enough people are immune",
+   "Immunity from herbs",
+   "Immunity after illness only"
+  ],
+  "answer": 1,
+  "explanation": "Herd immunity is when enough people in a community are immune, through vaccination or past infection, that the disease cannot spread easily to others.",
+  "source": "General knowledge",
+  "question_ne": "समूह प्रतिरोधात्मक क्षमता (हर्ड इम्युनिटी) भनेको के हो?",
+  "options_ne": [
+   "जनावरको मात्र प्रतिरोधात्मक क्षमता",
+   "पर्याप्त मानिस प्रतिरोधी हुँदा समुदायको सुरक्षा",
+   "जडीबुटीबाट प्राप्त प्रतिरोधात्मक क्षमता",
+   "रोग लागेपछि मात्र प्राप्त हुने प्रतिरोधात्मक क्षमता"
+  ],
+  "explanation_ne": "हर्ड इम्युनिटी भनेको समुदायमा खोप वा विगतको संक्रमणबाट पर्याप्त मानिस प्रतिरोधी हुँदा रोग अरूलाई सजिलै फैलिन नसक्ने अवस्था हो।"
+ },
+ {
+  "id": "HEAL3-186",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the formula for electrical power?",
+  "options": [
+   "P = IR",
+   "P = V/I",
+   "P = VI",
+   "P = V + I"
+  ],
+  "answer": 2,
+  "explanation": "Electrical power equals voltage multiplied by current: P = VI, measured in watts.",
+  "source": "General knowledge",
+  "question_ne": "विद्युतीय शक्तिको सूत्र के हो?",
+  "options_ne": [
+   "P = IR",
+   "P = V/I",
+   "P = VI",
+   "P = V + I"
+  ],
+  "explanation_ne": "विद्युतीय शक्ति भोल्टेज र धाराको गुणनफल बराबर हुन्छ: P = VI, जुन वाटमा नापिन्छ।"
+ },
+ {
+  "id": "HEAL3-187",
+  "exam": [
+   "health",
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which material is a good conductor of electricity?",
+  "options": [
+   "Wood",
+   "Plastic",
+   "Rubber",
+   "Copper"
+  ],
+  "answer": 3,
+  "explanation": "Copper is an excellent conductor of electricity and is widely used in wires and cables; wood, plastic and rubber are insulators.",
+  "source": "General knowledge",
+  "question_ne": "कुन पदार्थ बिजुलीको राम्रो चालक हो?",
+  "options_ne": [
+   "काठ",
+   "प्लास्टिक",
+   "रबर",
+   "तामा"
+  ],
+  "explanation_ne": "तामा बिजुलीको उत्कृष्ट चालक हो र तार तथा केबलमा व्यापक रूपमा प्रयोग हुन्छ; काठ, प्लास्टिक र रबर अचालक हुन्।"
+ },
+ {
+  "id": "HEAL3-189",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What does Ohm's law state?",
+  "options": [
+   "V = I/R",
+   "P = VI",
+   "V = IR",
+   "I = VR"
+  ],
+  "answer": 2,
+  "explanation": "Ohm's law states that voltage equals current multiplied by resistance: V = IR.",
+  "source": "General knowledge",
+  "question_ne": "ओमको नियमले के भन्छ?",
+  "options_ne": [
+   "V = I/R",
+   "P = VI",
+   "V = IR",
+   "I = VR"
+  ],
+  "explanation_ne": "ओमको नियमले भोल्टेज धारा र प्रतिरोधको गुणनफल बराबर हुन्छ भन्छ: V = IR।"
+ },
+ {
+  "id": "HEAL3-190",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which device converts electrical energy into mechanical energy?",
+  "options": [
+   "Generator",
+   "Transformer",
+   "Battery",
+   "Electric motor"
+  ],
+  "answer": 3,
+  "explanation": "An electric motor converts electrical energy into mechanical energy (motion), for example in a fan or a water pump.",
+  "source": "General knowledge",
+  "question_ne": "कुन यन्त्रले विद्युतीय ऊर्जालाई यान्त्रिक ऊर्जामा रूपान्तरण गर्छ?",
+  "options_ne": [
+   "जेनेरेटर",
+   "ट्रान्सफर्मर",
+   "ब्याट्री",
+   "विद्युतीय मोटर"
+  ],
+  "explanation_ne": "विद्युतीय मोटरले विद्युतीय ऊर्जालाई यान्त्रिक ऊर्जा (गति) मा रूपान्तरण गर्छ, जस्तै पंखा वा पानी तान्ने पम्पमा।"
+ },
+ {
+  "id": "HEAL3-191",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which device converts mechanical energy into electrical energy?",
+  "options": [
+   "Generator",
+   "Motor",
+   "Bulb",
+   "Fan"
+  ],
+  "answer": 0,
+  "explanation": "A generator converts mechanical energy, such as from flowing water or a rotating turbine, into electrical energy.",
+  "source": "General knowledge",
+  "question_ne": "कुन यन्त्रले यान्त्रिक ऊर्जालाई विद्युतीय ऊर्जामा रूपान्तरण गर्छ?",
+  "options_ne": [
+   "जेनेरेटर",
+   "मोटर",
+   "बल्ब",
+   "पंखा"
+  ],
+  "explanation_ne": "जेनेरेटरले बगिरहेको पानी वा घुमिरहेको टर्बाइनजस्ता यान्त्रिक ऊर्जालाई विद्युतीय ऊर्जामा रूपान्तरण गर्छ।"
+ },
+ {
+  "id": "HEAL3-192",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the frequency of the alternating current (AC) supply in Nepal?",
+  "options": [
+   "60 Hz",
+   "40 Hz",
+   "50 Hz",
+   "100 Hz"
+  ],
+  "answer": 2,
+  "explanation": "Nepal's AC electricity supply has a frequency of 50 Hz, the same as in India and most of Europe.",
+  "source": "General knowledge",
+  "question_ne": "नेपालमा प्रत्यावर्ती धारा (एसी) आपूर्तिको आवृत्ति कति छ?",
+  "options_ne": [
+   "६० हर्ट्ज",
+   "४० हर्ट्ज",
+   "५० हर्ट्ज",
+   "१०० हर्ट्ज"
+  ],
+  "explanation_ne": "नेपालको एसी विद्युत आपूर्तिको आवृत्ति ५० हर्ट्ज छ, जुन भारत र युरोपका धेरैजसो देशमा जस्तै हो।"
+ },
+ {
+  "id": "HEAL3-194",
+  "exam": [
+   "health",
+   "engineering",
+   "ioe-entrance",
+   "nec-licence",
+   "sub-engineer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the SI unit of pressure?",
+  "options": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "answer": 1,
+  "explanation": "Pressure is measured in pascals (Pa); one pascal is one newton of force per square metre.",
+  "source": "General knowledge",
+  "question_ne": "चापको एसआई एकाइ के हो?",
+  "options_ne": [
+   "न्युटन",
+   "पास्कल",
+   "जुल",
+   "वाट"
+  ],
+  "explanation_ne": "चाप पास्कल (Pa) मा नापिन्छ; एक पास्कल भनेको प्रतिवर्ग मिटर एक न्युटन बल हो।"
+ },
+ {
+  "id": "HEAL3-195",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Which shape is the strongest for building structures such as bridges and roof trusses?",
+  "options": [
+   "Circle",
+   "Square",
+   "Triangle",
+   "Rectangle"
+  ],
+  "answer": 2,
+  "explanation": "The triangle is the strongest shape for structures because it cannot be deformed without changing the length of a side, which is why trusses are made of triangles.",
+  "source": "General knowledge",
+  "question_ne": "पुल र छानाको ट्रसजस्ता संरचना बनाउन सबैभन्दा बलियो आकार कुन हो?",
+  "options_ne": [
+   "वृत्त",
+   "वर्ग",
+   "त्रिभुज",
+   "आयत"
+  ],
+  "explanation_ne": "त्रिभुज संरचनाका लागि सबैभन्दा बलियो आकार हो किनभने यसलाई कुनै भुजाको लम्बाइ नबदली बिगार्न सकिँदैन, त्यसैले ट्रस त्रिभुजबाट बनाइन्छ।"
+ },
+ {
+  "id": "HEAL3-196",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which instrument is used to measure small lengths very accurately in engineering?",
+  "options": [
+   "Weighing scale",
+   "Thermometer",
+   "Ammeter",
+   "Vernier caliper"
+  ],
+  "answer": 3,
+  "explanation": "A vernier caliper measures small lengths and diameters accurately to a fraction of a millimetre.",
+  "source": "General knowledge",
+  "question_ne": "इन्जिनियरिङमा साना लम्बाइ धेरै सही रूपमा नाप्न कुन यन्त्र प्रयोग गरिन्छ?",
+  "options_ne": [
+   "तराजु",
+   "थर्मोमिटर",
+   "एम्मिटर",
+   "भर्नियर क्यालिपर"
+  ],
+  "explanation_ne": "भर्नियर क्यालिपरले साना लम्बाइ र व्यास मिलिमिटरको अंशसम्म सही रूपमा नाप्छ।"
+ },
+ {
+  "id": "HEAL3-197",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Cement is made mainly from which material?",
+  "options": [
+   "Limestone",
+   "Sand only",
+   "Iron ore",
+   "Coal"
+  ],
+  "answer": 0,
+  "explanation": "Cement is made mainly from limestone, which is heated with clay to produce clinker that is then ground into cement powder.",
+  "source": "General knowledge",
+  "question_ne": "सिमेन्ट मुख्यतया कुन पदार्थबाट बनाइन्छ?",
+  "options_ne": [
+   "चुनढुंगा",
+   "बालुवा मात्र",
+   "फलामे अयस्क",
+   "कोइला"
+  ],
+  "explanation_ne": "सिमेन्ट मुख्यतया चुनढुंगाबाट बनाइन्छ, जसलाई माटोसँग तताएर क्लिंकर बनाइन्छ र त्यसलाई पिसेर सिमेन्टको धुलो बनाइन्छ।"
+ },
+ {
+  "id": "HEAL3-198",
+  "exam": [
+   "health",
+   "engineering",
+   "sub-engineer"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "What is the ratio of cement, sand and aggregate in M15 grade concrete?",
+  "options": [
+   "1:3:6",
+   "1:1:2",
+   "1:2:4",
+   "1:4:8"
+  ],
+  "answer": 2,
+  "explanation": "M15 concrete uses a nominal mix of 1 part cement, 2 parts sand and 4 parts aggregate by volume.",
+  "source": "General knowledge",
+  "question_ne": "M15 ग्रेड कंक्रिटमा सिमेन्ट, बालुवा र गिट्टीको अनुपात के हुन्छ?",
+  "options_ne": [
+   "१:३:६",
+   "१:१:२",
+   "१:२:४",
+   "१:४:८"
+  ],
+  "explanation_ne": "M15 कंक्रिटमा आयतनको हिसाबले १ भाग सिमेन्ट, २ भाग बालुवा र ४ भाग गिट्टीको नाममात्र मिश्रण प्रयोग गरिन्छ।"
+ },
+ {
+  "id": "HEAL3-199",
+  "exam": [
+   "health"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Engineering",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which machine is used to lift heavy loads on a construction site?",
+  "options": [
+   "Bulldozer",
+   "Tractor",
+   "Lathe",
+   "Crane"
+  ],
+  "answer": 3,
+  "explanation": "A crane lifts heavy materials such as steel beams and concrete blocks and moves them into place on a construction site.",
+  "source": "General knowledge",
+  "question_ne": "निर्माण स्थलमा भारी सामान उठाउन कुन मेसिन प्रयोग गरिन्छ?",
+  "options_ne": [
+   "बुलडोजर",
+   "ट्र्याक्टर",
+   "लेथ",
+   "क्रेन"
+  ],
+  "explanation_ne": "क्रेनले स्टिल बीम र कंक्रिट ब्लकजस्ता भारी सामग्री उठाएर निर्माण स्थलमा सही ठाउँमा पुर्‍याउँछ।"
+ }
+]

@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "R10-SCI2-0004",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+    "question_ne": "कुन नियमले स्थिर तापक्रममा ग्यासको चाप आयतनको व्युत्क्रमानुपाती हुन्छ भन्छ?",
+    "options": [
+      "Dalton's law",
+      "Boyle's law",
+      "Charles's law",
+      "Avogadro's law"
+    ],
+    "options_ne": [
+      "डाल्टनको नियम",
+      "बोयलको नियम",
+      "चार्ल्सको नियम",
+      "एभोगाड्रोको नियम"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Boyle's law.",
+    "explanation_ne": "उत्तर बोयलको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0006",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that the current through a conductor is directly proportional to the voltage?",
+    "question_ne": "कुन नियमले चालकबाट बग्ने विद्युत् भोल्टेजको समानुपाती हुन्छ भन्छ?",
+    "options": [
+      "Kirchhoff's law",
+      "Coulomb's law",
+      "Ohm's law",
+      "Faraday's law"
+    ],
+    "options_ne": [
+      "किर्चहफको नियम",
+      "कुलम्बको नियम",
+      "ओह्मको नियम",
+      "फ्याराडेको नियम"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Ohm's law.",
+    "explanation_ne": "उत्तर ओह्मको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0007",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that energy can neither be created nor destroyed?",
+    "question_ne": "कुन नियमले ऊर्जा न सिर्जना गर्न सकिन्छ न नष्ट गर्न सकिन्छ भन्छ?",
+    "options": [
+      "Boyle's law",
+      "Law of conservation of energy",
+      "Law of conservation of mass",
+      "Newton's first law"
+    ],
+    "options_ne": [
+      "बोयलको नियम",
+      "ऊर्जा संरक्षणको नियम",
+      "पिण्ड संरक्षणको नियम",
+      "न्युटनको पहिलो नियम"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Law of conservation of energy.",
+    "explanation_ne": "उत्तर ऊर्जा संरक्षणको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0008",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that the angle of incidence equals the angle of reflection?",
+    "question_ne": "कुन नियमले आपतन कोण बराबर परावर्तन कोण हुन्छ भन्छ?",
+    "options": [
+      "Snell's law",
+      "Law of refraction",
+      "Law of reflection",
+      "Newton's law"
+    ],
+    "options_ne": [
+      "स्नेलको नियम",
+      "अपवर्तनको नियम",
+      "परावर्तनको नियम",
+      "न्युटनको नियम"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Law of reflection.",
+    "explanation_ne": "उत्तर परावर्तनको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0009",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law relates the angle of incidence and refraction?",
+    "question_ne": "कुन नियमले आपतन र अपवर्तन कोणबीच सम्बन्ध राख्छ?",
+    "options": [
+      "Boyle's law",
+      "Snell's law",
+      "Law of reflection",
+      "Ohm's law"
+    ],
+    "options_ne": [
+      "बोयलको नियम",
+      "स्नेलको नियम",
+      "परावर्तनको नियम",
+      "ओह्मको नियम"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Snell's law.",
+    "explanation_ne": "उत्तर स्नेलको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0010",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which principle states that a body immersed in a fluid experiences an upward buoyant force?",
+    "question_ne": "कुन सिद्धान्तले तरलमा डुबेको वस्तुले माथितर्फ उछाल बल अनुभव गर्छ भन्छ?",
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Newton's principle"
+    ],
+    "options_ne": [
+      "आर्किमिडिजको सिद्धान्त",
+      "बर्नौलीको सिद्धान्त",
+      "पास्कलको सिद्धान्त",
+      "न्युटनको सिद्धान्त"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Archimedes' principle.",
+    "explanation_ne": "उत्तर आर्किमिडिजको सिद्धान्त हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0011",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which principle states that pressure applied to a confined fluid is transmitted equally in all directions?",
+    "question_ne": "कुन सिद्धान्तले बन्द तरलमा लगाइएको चाप सबै दिशामा बराबर सर्छ भन्छ?",
+    "options": [
+      "Boyle's law",
+      "Archimedes' principle",
+      "Pascal's principle",
+      "Bernoulli's principle"
+    ],
+    "options_ne": [
+      "बोयलको नियम",
+      "आर्किमिडिजको सिद्धान्त",
+      "पास्कलको सिद्धान्त",
+      "बर्नौलीको सिद्धान्त"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Pascal's principle.",
+    "explanation_ne": "उत्तर पास्कलको सिद्धान्त हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0012",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which principle explains the lift of an aeroplane wing?",
+    "question_ne": "कुन सिद्धान्तले हवाइजहाजको पखेटाको उछाल व्याख्या गर्छ?",
+    "options": [
+      "Newton's third law",
+      "Pascal's principle",
+      "Bernoulli's principle",
+      "Archimedes' principle"
+    ],
+    "options_ne": [
+      "न्युटनको तेस्रो नियम",
+      "पास्कलको सिद्धान्त",
+      "बर्नौलीको सिद्धान्त",
+      "आर्किमिडिजको सिद्धान्त"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Bernoulli's principle.",
+    "explanation_ne": "उत्तर बर्नौलीको सिद्धान्त हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0013",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that the total pressure of a gas mixture equals the sum of partial pressures?",
+    "question_ne": "कुन नियमले ग्यास मिश्रणको कुल चाप आंशिक चापहरूको योग बराबर हुन्छ भन्छ?",
+    "options": [
+      "Dalton's law",
+      "Avogadro's law",
+      "Boyle's law",
+      "Charles's law"
+    ],
+    "options_ne": [
+      "डाल्टनको नियम",
+      "एभोगाड्रोको नियम",
+      "बोयलको नियम",
+      "चार्ल्सको नियम"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Dalton's law.",
+    "explanation_ne": "उत्तर डाल्टनको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0015",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that the rate of a chemical reaction is proportional to the concentration of reactants?",
+    "question_ne": "कुन नियमले रासायनिक प्रतिक्रियाको दर अभिकारकको सांद्रताको समानुपाती हुन्छ भन्छ?",
+    "options": [
+      "Law of conservation of mass",
+      "Law of multiple proportions",
+      "Law of mass action",
+      "Law of definite proportions"
+    ],
+    "options_ne": [
+      "पिण्ड संरक्षणको नियम",
+      "बहु अनुपातको नियम",
+      "पिण्ड क्रियाको नियम",
+      "निश्चित अनुपातको नियम"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Law of mass action.",
+    "explanation_ne": "उत्तर पिण्ड क्रियाको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0016",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which law states that a compound always contains the same elements in the same proportion?",
+    "question_ne": "कुन नियमले यौगिकमा सधैँ उही तत्वहरू उही अनुपातमा हुन्छन् भन्छ?",
+    "options": [
+      "Law of conservation of energy",
+      "Law of definite proportions",
+      "Law of mass action",
+      "Law of multiple proportions"
+    ],
+    "options_ne": [
+      "ऊर्जा संरक्षणको नियम",
+      "निश्चित अनुपातको नियम",
+      "पिण्ड क्रियाको नियम",
+      "बहु अनुपातको नियम"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Law of definite proportions.",
+    "explanation_ne": "उत्तर निश्चित अनुपातको नियम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0018",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Who proposed the three laws of planetary motion?",
+    "question_ne": "ग्रह गतिका तीन नियम कसले प्रस्ताव गरे?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "options_ne": [
+      "निकोलस कोपर्निकस",
+      "ग्यालिलियो ग्यालिली",
+      "आइज्याक न्युटन",
+      "जोहानेस केप्लर"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Johannes Kepler.",
+    "explanation_ne": "उत्तर जोहानेस केप्लर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0020",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the speed of light in vacuum?",
+    "question_ne": "शून्यमा प्रकाशको गति कति हुन्छ?",
+    "options": [
+      "150,000,000 m/s",
+      "340 m/s",
+      "250,000,000 m/s",
+      "299,792,458 m/s"
+    ],
+    "options_ne": [
+      "१५०,०००,००० मिटर/सेकेन्ड",
+      "३४० मिटर/सेकेन्ड",
+      "२५०,०००,००० मिटर/सेकेन्ड",
+      "२९९,७९२,४५८ मिटर/सेकेन्ड"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 299,792,458 m/s.",
+    "explanation_ne": "उत्तर २९९,७९२,४५८ मिटर/सेकेन्ड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0021",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the value of the acceleration due to gravity on Earth?",
+    "question_ne": "पृथ्वीमा गुरुत्वाकर्षण त्वरणको मान कति हुन्छ?",
+    "options": [
+      "8.8 m/s^2",
+      "9.0 m/s^2",
+      "10.8 m/s^2",
+      "9.8 m/s^2"
+    ],
+    "options_ne": [
+      "८.८ मिटर/सेकेन्ड^२",
+      "९.० मिटर/सेकेन्ड^२",
+      "१०.८ मिटर/सेकेन्ड^२",
+      "९.८ मिटर/सेकेन्ड^२"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 9.8 m/s^2.",
+    "explanation_ne": "उत्तर ९.८ मिटर/सेकेन्ड^२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0024",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of magnetic field strength?",
+    "question_ne": "चुम्बकीय क्षेत्र शक्तिको एकाइ के हो?",
+    "options": [
+      "Henry",
+      "Ampere",
+      "Weber",
+      "Tesla"
+    ],
+    "options_ne": [
+      "हेनरी",
+      "एम्पियर",
+      "वेबर",
+      "टेस्ला"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Tesla.",
+    "explanation_ne": "उत्तर टेस्ला हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0032",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of frequency of a wave?",
+    "question_ne": "तरङ्गको आवृत्तिको एकाइ के हो?",
+    "options": [
+      "Second",
+      "Metre",
+      "Hertz",
+      "Watt"
+    ],
+    "options_ne": [
+      "सेकेन्ड",
+      "मिटर",
+      "हर्ट्ज",
+      "वाट"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Hertz.",
+    "explanation_ne": "उत्तर हर्ट्ज हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0034",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of momentum?",
+    "question_ne": "संवेगको एकाइ के हो?",
+    "options": [
+      "kg m/s",
+      "Newton",
+      "Watt",
+      "Joule"
+    ],
+    "options_ne": [
+      "केजी मिटर/सेकेन्ड",
+      "न्युटन",
+      "वाट",
+      "जुल"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is kg m/s.",
+    "explanation_ne": "उत्तर केजी मिटर/सेकेन्ड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0036",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of energy?",
+    "question_ne": "ऊर्जाको एकाइ के हो?",
+    "options": [
+      "Joule",
+      "Pascal",
+      "Watt",
+      "Newton"
+    ],
+    "options_ne": [
+      "जुल",
+      "पास्कल",
+      "वाट",
+      "न्युटन"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Joule.",
+    "explanation_ne": "उत्तर जुल हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0038",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of torque?",
+    "question_ne": "बलाघूर्णको एकाइ के हो?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Pascal",
+      "Newton-metre"
+    ],
+    "options_ne": [
+      "वाट",
+      "जुल",
+      "पास्कल",
+      "न्युटन-मिटर"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Newton-metre.",
+    "explanation_ne": "उत्तर न्युटन-मिटर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0039",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of surface tension?",
+    "question_ne": "पृष्ठ तनावको एकाइ के हो?",
+    "options": [
+      "Pascal",
+      "Watt",
+      "N/m",
+      "Joule"
+    ],
+    "options_ne": [
+      "पास्कल",
+      "वाट",
+      "न्युटन/मिटर",
+      "जुल"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is N/m.",
+    "explanation_ne": "उत्तर न्युटन/मिटर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0040",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "sub-engineer",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Physics",
+    "subtopic": "Physics",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the unit of viscosity?",
+    "question_ne": "श्यानताको एकाइ के हो?",
+    "options": [
+      "Pascal-second",
+      "Joule",
+      "Newton",
+      "Watt"
+    ],
+    "options_ne": [
+      "पास्कल-सेकेन्ड",
+      "जुल",
+      "न्युटन",
+      "वाट"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Pascal-second.",
+    "explanation_ne": "उत्तर पास्कल-सेकेन्ड हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0044",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of caustic soda?",
+    "question_ne": "कास्टिक सोडाको रासायनिक सूत्र के हो?",
+    "options": [
+      "NaOH",
+      "Na2CO3",
+      "NaHCO3",
+      "KOH"
+    ],
+    "options_ne": [
+      "NaOH",
+      "Na2CO3",
+      "NaHCO3",
+      "KOH"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is NaOH.",
+    "explanation_ne": "उत्तर NaOH हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0052",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of acetic acid (vinegar)?",
+    "question_ne": "एसिटिक एसिड (सिर्का) को रासायनिक सूत्र के हो?",
+    "options": [
+      "CH3OH",
+      "HCOOH",
+      "CH3COOH",
+      "C2H5OH"
+    ],
+    "options_ne": [
+      "CH3OH",
+      "HCOOH",
+      "CH3COOH",
+      "C2H5OH"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is CH3COOH.",
+    "explanation_ne": "उत्तर CH3COOH हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0054",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of methanol?",
+    "question_ne": "मेथेनोलको रासायनिक सूत्र के हो?",
+    "options": [
+      "CH3OH",
+      "C2H5OH",
+      "C6H12O6",
+      "CH3COOH"
+    ],
+    "options_ne": [
+      "CH3OH",
+      "C2H5OH",
+      "C6H12O6",
+      "CH3COOH"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is CH3OH.",
+    "explanation_ne": "उत्तर CH3OH हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0059",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of propane?",
+    "question_ne": "प्रोपेनको रासायनिक सूत्र के हो?",
+    "options": [
+      "C4H10",
+      "C2H6",
+      "CH4",
+      "C3H8"
+    ],
+    "options_ne": [
+      "C4H10",
+      "C2H6",
+      "CH4",
+      "C3H8"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is C3H8.",
+    "explanation_ne": "उत्तर C3H8 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0060",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of butane?",
+    "question_ne": "ब्युटेनको रासायनिक सूत्र के हो?",
+    "options": [
+      "C2H6",
+      "CH4",
+      "C4H10",
+      "C3H8"
+    ],
+    "options_ne": [
+      "C2H6",
+      "CH4",
+      "C4H10",
+      "C3H8"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is C4H10.",
+    "explanation_ne": "उत्तर C4H10 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0066",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of urea?",
+    "question_ne": "युरियाको रासायनिक सूत्र के हो?",
+    "options": [
+      "CO2",
+      "CO(NH2)2",
+      "NH4NO3",
+      "NH3"
+    ],
+    "options_ne": [
+      "CO2",
+      "CO(NH2)2",
+      "NH4NO3",
+      "NH3"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is CO(NH2)2.",
+    "explanation_ne": "उत्तर CO(NH2)2 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0068",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of carbon tetrachloride?",
+    "question_ne": "कार्बन टेट्राक्लोराइडको रासायनिक सूत्र के हो?",
+    "options": [
+      "CHCl3",
+      "CH3Cl",
+      "CCl4",
+      "CH2Cl2"
+    ],
+    "options_ne": [
+      "CHCl3",
+      "CH3Cl",
+      "CCl4",
+      "CH2Cl2"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is CCl4.",
+    "explanation_ne": "उत्तर CCl4 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0071",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of ferrous sulphate (green vitriol)?",
+    "question_ne": "फेरस सल्फेट (हरियो कसीस) को रासायनिक सूत्र के हो?",
+    "options": [
+      "ZnSO4",
+      "CuSO4",
+      "Fe2O3",
+      "FeSO4"
+    ],
+    "options_ne": [
+      "ZnSO4",
+      "CuSO4",
+      "Fe2O3",
+      "FeSO4"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is FeSO4.",
+    "explanation_ne": "उत्तर FeSO4 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0072",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of copper sulphate (blue vitriol)?",
+    "question_ne": "कपर सल्फेट (नीलो कसीस) को रासायनिक सूत्र के हो?",
+    "options": [
+      "CuSO4",
+      "ZnSO4",
+      "CuO",
+      "FeSO4"
+    ],
+    "options_ne": [
+      "CuSO4",
+      "ZnSO4",
+      "CuO",
+      "FeSO4"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is CuSO4.",
+    "explanation_ne": "उत्तर CuSO4 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0073",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of zinc sulphate (white vitriol)?",
+    "question_ne": "जिङ्क सल्फेट (सेतो कसीस) को रासायनिक सूत्र के हो?",
+    "options": [
+      "ZnSO4",
+      "CuSO4",
+      "FeSO4",
+      "ZnO"
+    ],
+    "options_ne": [
+      "ZnSO4",
+      "CuSO4",
+      "FeSO4",
+      "ZnO"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is ZnSO4.",
+    "explanation_ne": "उत्तर ZnSO4 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0074",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of potassium permanganate?",
+    "question_ne": "पोटासियम परम्याङ्गनेटको रासायनिक सूत्र के हो?",
+    "options": [
+      "K2Cr2O7",
+      "KNO3",
+      "KCl",
+      "KMnO4"
+    ],
+    "options_ne": [
+      "K2Cr2O7",
+      "KNO3",
+      "KCl",
+      "KMnO4"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is KMnO4.",
+    "explanation_ne": "उत्तर KMnO4 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0075",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of potassium dichromate?",
+    "question_ne": "पोटासियम डाइक्रोमेटको रासायनिक सूत्र के हो?",
+    "options": [
+      "KMnO4",
+      "KCl",
+      "KNO3",
+      "K2Cr2O7"
+    ],
+    "options_ne": [
+      "KMnO4",
+      "KCl",
+      "KNO3",
+      "K2Cr2O7"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is K2Cr2O7.",
+    "explanation_ne": "उत्तर K2Cr2O7 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0076",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of sodium chloride?",
+    "question_ne": "सोडियम क्लोराइडको रासायनिक सूत्र के हो?",
+    "options": [
+      "KCl",
+      "Na2CO3",
+      "NaOH",
+      "NaCl"
+    ],
+    "options_ne": [
+      "KCl",
+      "Na2CO3",
+      "NaOH",
+      "NaCl"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is NaCl.",
+    "explanation_ne": "उत्तर NaCl हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0077",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of potassium nitrate (saltpetre)?",
+    "question_ne": "पोटासियम नाइट्रेट (सोरा) को रासायनिक सूत्र के हो?",
+    "options": [
+      "NaNO3",
+      "NH4NO3",
+      "KNO3",
+      "KCl"
+    ],
+    "options_ne": [
+      "NaNO3",
+      "NH4NO3",
+      "KNO3",
+      "KCl"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is KNO3.",
+    "explanation_ne": "उत्तर KNO3 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0078",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of ammonium nitrate?",
+    "question_ne": "अमोनियम नाइट्रेटको रासायनिक सूत्र के हो?",
+    "options": [
+      "NH4NO3",
+      "NH4Cl",
+      "NH3",
+      "KNO3"
+    ],
+    "options_ne": [
+      "NH4NO3",
+      "NH4Cl",
+      "NH3",
+      "KNO3"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is NH4NO3.",
+    "explanation_ne": "उत्तर NH4NO3 हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0079",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of ammonium chloride (sal ammoniac)?",
+    "question_ne": "अमोनियम क्लोराइड (नौसादर) को रासायनिक सूत्र के हो?",
+    "options": [
+      "NaCl",
+      "NH4Cl",
+      "KCl",
+      "NH4NO3"
+    ],
+    "options_ne": [
+      "NaCl",
+      "NH4Cl",
+      "KCl",
+      "NH4NO3"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is NH4Cl.",
+    "explanation_ne": "उत्तर NH4Cl हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0080",
+    "exam": [
+      "ioe-entrance",
+      "csit-entrance",
+      "engineering",
+      "nec-licence",
+      "nhpc-lab",
+      "npc-pharmacy",
+      "nmc-mbbs",
+      "nmc-bds",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Chemistry",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the chemical formula of calcium oxide?",
+    "question_ne": "क्याल्सियम अक्साइडको रासायनिक सूत्र के हो?",
+    "options": [
+      "CaO",
+      "CaCl2",
+      "Ca(OH)2",
+      "CaCO3"
+    ],
+    "options_ne": [
+      "CaO",
+      "CaCl2",
+      "Ca(OH)2",
+      "CaCO3"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is CaO.",
+    "explanation_ne": "उत्तर CaO हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0082",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the largest internal organ of the human body?",
+    "question_ne": "मानव शरीरको सबैभन्दा ठूलो आन्तरिक अङ्ग कुन हो?",
+    "options": [
+      "Kidney",
+      "Lung",
+      "Heart",
+      "Liver"
+    ],
+    "options_ne": [
+      "मिर्गौला",
+      "फोक्सो",
+      "मुटु",
+      "कलेजो"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Liver.",
+    "explanation_ne": "उत्तर कलेजो हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0093",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which organ detoxifies blood in the human body?",
+    "question_ne": "मानव शरीरमा रगतको विषहरण कुन अङ्गले गर्छ?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Spleen",
+      "Kidney"
+    ],
+    "options_ne": [
+      "अग्न्याशय",
+      "कलेजो",
+      "प्लीहा",
+      "मिर्गौला"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Liver.",
+    "explanation_ne": "उत्तर कलेजो हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0096",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which organelle is known as the kitchen of the cell?",
+    "question_ne": "कोशिकाको कुन अङ्गाणुलाई भान्सा भनिन्छ?",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole"
+    ],
+    "options_ne": [
+      "केन्द्रक",
+      "क्लोरोप्लास्ट",
+      "माइटोकन्ड्रिया",
+      "रिक्तिका"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Chloroplast.",
+    "explanation_ne": "उत्तर क्लोरोप्लास्ट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0103",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which part of the plant absorbs water from the soil?",
+    "question_ne": "बिरुवाको कुन भागले माटोबाट पानी सोस्छ?",
+    "options": [
+      "Stem",
+      "Flower",
+      "Root",
+      "Leaf"
+    ],
+    "options_ne": [
+      "डाँठ",
+      "फूल",
+      "जरा",
+      "पात"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Root.",
+    "explanation_ne": "उत्तर जरा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0107",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which vitamin is needed for good vision?",
+    "question_ne": "राम्रो दृष्टिका लागि कुन भिटामिन चाहिन्छ?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B"
+    ],
+    "options_ne": [
+      "भिटामिन ए",
+      "भिटामिन डी",
+      "भिटामिन सी",
+      "भिटामिन बी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Vitamin A.",
+    "explanation_ne": "उत्तर भिटामिन ए हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0109",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which vitamin prevents rickets?",
+    "question_ne": "रिकेट्स रोक्न कुन भिटामिन चाहिन्छ?",
+    "options": [
+      "Vitamin B",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "options_ne": [
+      "भिटामिन बी",
+      "भिटामिन ए",
+      "भिटामिन सी",
+      "भिटामिन डी"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Vitamin D.",
+    "explanation_ne": "उत्तर भिटामिन डी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0113",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which mineral prevents goitre?",
+    "question_ne": "गलगाँड रोक्न कुन खनिज चाहिन्छ?",
+    "options": [
+      "Iodine",
+      "Zinc",
+      "Calcium",
+      "Iron"
+    ],
+    "options_ne": [
+      "आयोडिन",
+      "जस्ता",
+      "क्याल्सियम",
+      "फलाम"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Iodine.",
+    "explanation_ne": "उत्तर आयोडिन हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0115",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which disease is caused by the bite of an Aedes mosquito?",
+    "question_ne": "एडिज लामखुट्टेको टोकाइले कुन रोग लाग्छ?",
+    "options": [
+      "Kala-azar",
+      "Dengue",
+      "Malaria",
+      "Filaria"
+    ],
+    "options_ne": [
+      "कालाजार",
+      "डेङ्गु",
+      "मलेरिया",
+      "फाइलेरिया"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Dengue.",
+    "explanation_ne": "उत्तर डेङ्गु हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0121",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which virus causes rabies?",
+    "question_ne": "रेबिज कुन भाइरसले गराउँछ?",
+    "options": [
+      "Rabies virus",
+      "Dengue virus",
+      "Influenza virus",
+      "HIV"
+    ],
+    "options_ne": [
+      "रेबिज भाइरस",
+      "डेङ्गु भाइरस",
+      "इन्फ्लुएन्जा भाइरस",
+      "एचआईभी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Rabies virus.",
+    "explanation_ne": "उत्तर रेबिज भाइरस हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0122",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the largest mammal in the world?",
+    "question_ne": "विश्वको सबैभन्दा ठूलो स्तनधारी कुन हो?",
+    "options": [
+      "Giraffe",
+      "Blue whale",
+      "Hippopotamus",
+      "African elephant"
+    ],
+    "options_ne": [
+      "जिराफ",
+      "निलो ह्वेल",
+      "दरियाई घोडा",
+      "अफ्रिकी हात्ती"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Blue whale.",
+    "explanation_ne": "उत्तर निलो ह्वेल हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0124",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the largest bird in the world?",
+    "question_ne": "विश्वको सबैभन्दा ठूलो चरा कुन हो?",
+    "options": [
+      "Ostrich",
+      "Eagle",
+      "Emu",
+      "Peacock"
+    ],
+    "options_ne": [
+      "अस्ट्रिच",
+      "चील",
+      "इमु",
+      "मयूर"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Ostrich.",
+    "explanation_ne": "उत्तर अस्ट्रिच हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0125",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the only mammal that can fly?",
+    "question_ne": "उड्न सक्ने एक मात्र स्तनधारी कुन हो?",
+    "options": [
+      "Bat",
+      "Sugar glider",
+      "Owl",
+      "Flying squirrel"
+    ],
+    "options_ne": [
+      "चमेरो",
+      "सुगर ग्लाइडर",
+      "उल्लू",
+      "उड्ने लोखर्के"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Bat.",
+    "explanation_ne": "उत्तर चमेरो हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0126",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the largest reptile in the world?",
+    "question_ne": "विश्वको सबैभन्दा ठूलो सरीसृप कुन हो?",
+    "options": [
+      "Anaconda",
+      "Python",
+      "Saltwater crocodile",
+      "Komodo dragon"
+    ],
+    "options_ne": [
+      "एनाकोन्डा",
+      "अजिङ्गर",
+      "नुनपानी गोही",
+      "कोमोडो ड्र्यागन"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Saltwater crocodile.",
+    "explanation_ne": "उत्तर नुनपानी गोही हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0127",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the tallest animal in the world?",
+    "question_ne": "विश्वको सबैभन्दा अग्लो जनावर कुन हो?",
+    "options": [
+      "Giraffe",
+      "Elephant",
+      "Camel",
+      "Horse"
+    ],
+    "options_ne": [
+      "जिराफ",
+      "हात्ती",
+      "ऊँट",
+      "घोडा"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Giraffe.",
+    "explanation_ne": "उत्तर जिराफ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0128",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which animal is known as the ship of the desert?",
+    "question_ne": "मरुभूमिको जहाज भनेर कुन जनावरलाई चिनिन्छ?",
+    "options": [
+      "Horse",
+      "Donkey",
+      "Camel",
+      "Elephant"
+    ],
+    "options_ne": [
+      "घोडा",
+      "गधा",
+      "ऊँट",
+      "हात्ती"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Camel.",
+    "explanation_ne": "उत्तर ऊँट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0135",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national flower of India?",
+    "question_ne": "भारतको राष्ट्रिय फूल कुन हो?",
+    "options": [
+      "Lotus",
+      "Marigold",
+      "Jasmine",
+      "Rose"
+    ],
+    "options_ne": [
+      "कमल",
+      "सयपत्री",
+      "चमेली",
+      "गुलाफ"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Lotus.",
+    "explanation_ne": "उत्तर कमल हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0136",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national tree of India?",
+    "question_ne": "भारतको राष्ट्रिय रूख कुन हो?",
+    "options": [
+      "Pipal",
+      "Mango",
+      "Neem",
+      "Banyan"
+    ],
+    "options_ne": [
+      "पीपल",
+      "आँप",
+      "निम",
+      "बर"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Banyan.",
+    "explanation_ne": "उत्तर बर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0137",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national animal of China?",
+    "question_ne": "चीनको राष्ट्रिय जनावर कुन हो?",
+    "options": [
+      "Tiger",
+      "Crane",
+      "Dragon",
+      "Giant panda"
+    ],
+    "options_ne": [
+      "बाघ",
+      "सारस",
+      "ड्र्यागन",
+      "विशाल पाण्डा"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Giant panda.",
+    "explanation_ne": "उत्तर विशाल पाण्डा हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0138",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national bird of the USA?",
+    "question_ne": "अमेरिकाको राष्ट्रिय चरा कुन हो?",
+    "options": [
+      "Robin",
+      "Bald eagle",
+      "Crow",
+      "Owl"
+    ],
+    "options_ne": [
+      "रोबिन",
+      "गञ्जी चील",
+      "काग",
+      "उल्लू"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Bald eagle.",
+    "explanation_ne": "उत्तर गञ्जी चील हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0139",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national animal of Australia?",
+    "question_ne": "अस्ट्रेलियाको राष्ट्रिय जनावर कुन हो?",
+    "options": [
+      "Kangaroo",
+      "Platypus",
+      "Koala",
+      "Emu"
+    ],
+    "options_ne": [
+      "कङ्गारु",
+      "प्लाटिपस",
+      "कोआला",
+      "इमु"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Kangaroo.",
+    "explanation_ne": "उत्तर कङ्गारु हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0140",
+    "exam": [
+      "nmc-mbbs",
+      "nmc-bds",
+      "nhpc-ha",
+      "nhpc-lab",
+      "nhpc-public-health",
+      "nnc-rn",
+      "staff-nurse-psc",
+      "midwifery-nlem",
+      "npc-pharmacy",
+      "nhpc-ayurveda",
+      "health",
+      "section-officer",
+      "kharidar",
+      "nasu"
+    ],
+    "topic": "Biology",
+    "subtopic": "Biology",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the national animal of England?",
+    "question_ne": "इङ्ग्ल्यान्डको राष्ट्रिय जनावर कुन हो?",
+    "options": [
+      "Bulldog",
+      "Horse",
+      "Lion",
+      "Stag"
+    ],
+    "options_ne": [
+      "बुलडग",
+      "घोडा",
+      "सिंह",
+      "मृग"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Lion.",
+    "explanation_ne": "उत्तर सिंह हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0141",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups"
+    ],
+    "topic": "Nepal Geography",
+    "subtopic": "Nepal Geography",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which province is the old Janakpur zone located?",
+    "question_ne": "पुरानो जनकपुर अञ्चल कुन प्रदेशमा पर्छ?",
+    "options": [
+      "Bagmati",
+      "Koshi",
+      "Lumbini",
+      "Madhesh"
+    ],
+    "options_ne": [
+      "बागमती",
+      "कोशी",
+      "लुम्बिनी",
+      "मधेश"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Madhesh.",
+    "explanation_ne": "उत्तर मधेश हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0143",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups"
+    ],
+    "topic": "Nepal Geography",
+    "subtopic": "Nepal Geography",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which province is the old Gandaki zone located?",
+    "question_ne": "पुरानो गण्डकी अञ्चल कुन प्रदेशमा पर्छ?",
+    "options": [
+      "Koshi",
+      "Bagmati",
+      "Gandaki",
+      "Lumbini"
+    ],
+    "options_ne": [
+      "कोशी",
+      "बागमती",
+      "गण्डकी",
+      "लुम्बिनी"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Gandaki.",
+    "explanation_ne": "उत्तर गण्डकी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0144",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups"
+    ],
+    "topic": "Nepal Geography",
+    "subtopic": "Nepal Geography",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which province is the old Karnali zone located?",
+    "question_ne": "पुरानो कर्णाली अञ्चल कुन प्रदेशमा पर्छ?",
+    "options": [
+      "Karnali",
+      "Koshi",
+      "Lumbini",
+      "Bagmati"
+    ],
+    "options_ne": [
+      "कर्णाली",
+      "कोशी",
+      "लुम्बिनी",
+      "बागमती"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Karnali.",
+    "explanation_ne": "उत्तर कर्णाली हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0145",
+    "exam": [
+      "kharidar",
+      "nasu",
+      "section-officer",
+      "provincial-psc",
+      "psc-service-groups"
+    ],
+    "topic": "Nepal Geography",
+    "subtopic": "Nepal Geography",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "In which province is the old Seti zone located?",
+    "question_ne": "पुरानो सेती अञ्चल कुन प्रदेशमा पर्छ?",
+    "options": [
+      "Koshi",
+      "Lumbini",
+      "Sudurpashchim",
+      "Bagmati"
+    ],
+    "options_ne": [
+      "कोशी",
+      "लुम्बिनी",
+      "सुदूरपश्चिम",
+      "बागमती"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Sudurpashchim.",
+    "explanation_ne": "उत्तर सुदूरपश्चिम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0152",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of CU?",
+    "question_ne": "CU को पूरा रूप के हो?",
+    "options": [
+      "Central Unit",
+      "Computer Unit",
+      "Control Unit",
+      "Command Unit"
+    ],
+    "options_ne": [
+      "सेन्ट्रल युनिट",
+      "कम्प्युटर युनिट",
+      "कन्ट्रोल युनिट",
+      "कमाण्ड युनिट"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Control Unit.",
+    "explanation_ne": "उत्तर कन्ट्रोल युनिट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0154",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of HDMI?",
+    "question_ne": "HDMI को पूरा रूप के हो?",
+    "options": [
+      "High-Definition Multimedia Interface",
+      "High-Density Multimedia Interface",
+      "High-Definition Multimedia Internet",
+      "High-Definition Media Interface"
+    ],
+    "options_ne": [
+      "हाई-डेफिनिसन मल्टिमिडिया इन्टरफेस",
+      "हाई-डेन्सिटी मल्टिमिडिया इन्टरफेस",
+      "हाई-डेफिनिसन मल्टिमिडिया इन्टरनेट",
+      "हाई-डेफिनिसन मिडिया इन्टरफेस"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is High-Definition Multimedia Interface.",
+    "explanation_ne": "उत्तर हाई-डेफिनिसन मल्टिमिडिया इन्टरफेस हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0158",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of JPEG?",
+    "question_ne": "JPEG को पूरा रूप के हो?",
+    "options": [
+      "Joint Photo Experts Group",
+      "Joint Picture Experts Group",
+      "Joint Photographic Experts Group",
+      "Joint Photographic Exchange Group"
+    ],
+    "options_ne": [
+      "जोइन्ट फोटो एक्सपर्ट्स ग्रुप",
+      "जोइन्ट पिक्चर एक्सपर्ट्स ग्रुप",
+      "जोइन्ट फोटोग्राफिक एक्सपर्ट्स ग्रुप",
+      "जोइन्ट फोटोग्राफिक एक्सचेन्ज ग्रुप"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Joint Photographic Experts Group.",
+    "explanation_ne": "उत्तर जोइन्ट फोटोग्राफिक एक्सपर्ट्स ग्रुप हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0159",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of PNG?",
+    "question_ne": "PNG को पूरा रूप के हो?",
+    "options": [
+      "Portable Network Graphics",
+      "Portable Network Graph",
+      "Public Network Graphics",
+      "Portable Net Graphics"
+    ],
+    "options_ne": [
+      "पोर्टेबल नेटवर्क ग्राफिक्स",
+      "पोर्टेबल नेटवर्क ग्राफ",
+      "पब्लिक नेटवर्क ग्राफिक्स",
+      "पोर्टेबल नेट ग्राफिक्स"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Portable Network Graphics.",
+    "explanation_ne": "उत्तर पोर्टेबल नेटवर्क ग्राफिक्स हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0160",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of GIF?",
+    "question_ne": "GIF को पूरा रूप के हो?",
+    "options": [
+      "Graphics Image Format",
+      "Graphics Internet Format",
+      "Graphics Interchange Format",
+      "Graphic Interchange File"
+    ],
+    "options_ne": [
+      "ग्राफिक्स इमेज फर्म्याट",
+      "ग्राफिक्स इन्टरनेट फर्म्याट",
+      "ग्राफिक्स इन्टरचेन्ज फर्म्याट",
+      "ग्राफिक इन्टरचेन्ज फाइल"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Graphics Interchange Format.",
+    "explanation_ne": "उत्तर ग्राफिक्स इन्टरचेन्ज फर्म्याट हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0170",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of WAN?",
+    "question_ne": "WAN को पूरा रूप के हो?",
+    "options": [
+      "Wide Area Network",
+      "World Area Network",
+      "Wireless Area Network",
+      "Wide Access Network"
+    ],
+    "options_ne": [
+      "वाइड एरिया नेटवर्क",
+      "वर्ल्ड एरिया नेटवर्क",
+      "वायरलेस एरिया नेटवर्क",
+      "वाइड एक्सेस नेटवर्क"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Wide Area Network.",
+    "explanation_ne": "उत्तर वाइड एरिया नेटवर्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0171",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of MAN?",
+    "question_ne": "MAN को पूरा रूप के हो?",
+    "options": [
+      "Main Area Network",
+      "Metro Area Network",
+      "Metropolitan Area Network",
+      "Medium Area Network"
+    ],
+    "options_ne": [
+      "मेन एरिया नेटवर्क",
+      "मेट्रो एरिया नेटवर्क",
+      "मेट्रोपोलिटन एरिया नेटवर्क",
+      "मिडियम एरिया नेटवर्क"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Metropolitan Area Network.",
+    "explanation_ne": "उत्तर मेट्रोपोलिटन एरिया नेटवर्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0172",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of WiFi?",
+    "question_ne": "WiFi को पूरा रूप के हो?",
+    "options": [
+      "Wireless Fidelity",
+      "Wireless File",
+      "Wireless Frequency",
+      "Wired Fidelity"
+    ],
+    "options_ne": [
+      "वायरलेस फिडेलिटी",
+      "वायरलेस फाइल",
+      "वायरलेस फ्रिक्वेन्सी",
+      "वायर्ड फिडेलिटी"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Wireless Fidelity.",
+    "explanation_ne": "उत्तर वायरलेस फिडेलिटी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0179",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of SQL?",
+    "question_ne": "SQL को पूरा रूप के हो?",
+    "options": [
+      "Structured Query Language",
+      "Standard Query Language",
+      "Structured Question Language",
+      "System Query Language"
+    ],
+    "options_ne": [
+      "स्ट्रक्चर्ड क्वेरी ल्याङ्ग्वेज",
+      "स्ट्यान्डर्ड क्वेरी ल्याङ्ग्वेज",
+      "स्ट्रक्चर्ड क्वेस्चन ल्याङ्ग्वेज",
+      "सिस्टम क्वेरी ल्याङ्ग्वेज"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Structured Query Language.",
+    "explanation_ne": "उत्तर स्ट्रक्चर्ड क्वेरी ल्याङ्ग्वेज हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0180",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of API?",
+    "question_ne": "API को पूरा रूप के हो?",
+    "options": [
+      "Application Program Interface",
+      "Application Processing Interface",
+      "Applied Programming Interface",
+      "Application Programming Interface"
+    ],
+    "options_ne": [
+      "एप्लिकेसन प्रोग्राम इन्टरफेस",
+      "एप्लिकेसन प्रोसेसिङ इन्टरफेस",
+      "एप्लाइड प्रोग्रामिङ इन्टरफेस",
+      "एप्लिकेसन प्रोग्रामिङ इन्टरफेस"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is Application Programming Interface.",
+    "explanation_ne": "उत्तर एप्लिकेसन प्रोग्रामिङ इन्टरफेस हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0181",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of GUI?",
+    "question_ne": "GUI को पूरा रूप के हो?",
+    "options": [
+      "Graphical User Interface",
+      "Graphical Universal Interface",
+      "General User Interface",
+      "Graphic User Internet"
+    ],
+    "options_ne": [
+      "ग्राफिकल युजर इन्टरफेस",
+      "ग्राफिकल युनिभर्सल इन्टरफेस",
+      "जनरल युजर इन्टरफेस",
+      "ग्राफिक युजर इन्टरनेट"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Graphical User Interface.",
+    "explanation_ne": "उत्तर ग्राफिकल युजर इन्टरफेस हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0182",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of OS?",
+    "question_ne": "OS को पूरा रूप के हो?",
+    "options": [
+      "Output System",
+      "Open System",
+      "Operating System",
+      "Operation System"
+    ],
+    "options_ne": [
+      "आउटपुट सिस्टम",
+      "ओपन सिस्टम",
+      "अपरेटिङ सिस्टम",
+      "अपरेसन सिस्टम"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is Operating System.",
+    "explanation_ne": "उत्तर अपरेटिङ सिस्टम हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0184",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the full form of ASCII?",
+    "question_ne": "ASCII को पूरा रूप के हो?",
+    "options": [
+      "American Standard Code for Internet Interchange",
+      "Asian Standard Code for Information Interchange",
+      "American Standard Code for Information Interchange",
+      "American System Code for Information Interchange"
+    ],
+    "options_ne": [
+      "अमेरिकन स्ट्यान्डर्ड कोड फर इन्टरनेट इन्टरचेन्ज",
+      "एसियन स्ट्यान्डर्ड कोड फर इन्फर्मेसन इन्टरचेन्ज",
+      "अमेरिकन स्ट्यान्डर्ड कोड फर इन्फर्मेसन इन्टरचेन्ज",
+      "अमेरिकन सिस्टम कोड फर इन्फर्मेसन इन्टरचेन्ज"
+    ],
+    "answer": 2,
+    "explanation": "The correct choice is American Standard Code for Information Interchange.",
+    "explanation_ne": "उत्तर अमेरिकन स्ट्यान्डर्ड कोड फर इन्फर्मेसन इन्टरचेन्ज हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0194",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the decimal equivalent of the binary number 1100?",
+    "question_ne": "बाइनरी सङ्ख्या ११०० को दशमलव बराबर के हो?",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "options_ne": [
+      "१२",
+      "१०",
+      "११",
+      "१३"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is 12.",
+    "explanation_ne": "उत्तर १२ हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0195",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "What is the decimal equivalent of the binary number 1010?",
+    "question_ne": "बाइनरी सङ्ख्या १०१० को दशमलव बराबर के हो?",
+    "options": [
+      "12",
+      "9",
+      "11",
+      "10"
+    ],
+    "options_ne": [
+      "१२",
+      "९",
+      "११",
+      "१०"
+    ],
+    "answer": 3,
+    "explanation": "The correct choice is 10.",
+    "explanation_ne": "उत्तर १० हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0197",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which device is used to point and click?",
+    "question_ne": "पोइन्ट र क्लिक गर्न कुन उपकरण प्रयोग गरिन्छ?",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Scanner",
+      "Monitor"
+    ],
+    "options_ne": [
+      "किबोर्ड",
+      "माउस",
+      "स्क्यानर",
+      "मनिटर"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Mouse.",
+    "explanation_ne": "उत्तर माउस हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0198",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which device displays output on a screen?",
+    "question_ne": "स्क्रिनमा आउटपुट देखाउने उपकरण कुन हो?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Mouse"
+    ],
+    "options_ne": [
+      "मनिटर",
+      "प्रिन्टर",
+      "किबोर्ड",
+      "माउस"
+    ],
+    "answer": 0,
+    "explanation": "The correct choice is Monitor.",
+    "explanation_ne": "उत्तर मनिटर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0199",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which device prints output on paper?",
+    "question_ne": "कागजमा आउटपुट छाप्ने उपकरण कुन हो?",
+    "options": [
+      "Keyboard",
+      "Printer",
+      "Scanner",
+      "Monitor"
+    ],
+    "options_ne": [
+      "किबोर्ड",
+      "प्रिन्टर",
+      "स्क्यानर",
+      "मनिटर"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Printer.",
+    "explanation_ne": "उत्तर प्रिन्टर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0200",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which device converts paper documents into digital form?",
+    "question_ne": "कागजका कागजातलाई डिजिटल रूपमा बदल्ने उपकरण कुन हो?",
+    "options": [
+      "Monitor",
+      "Scanner",
+      "Printer",
+      "Mouse"
+    ],
+    "options_ne": [
+      "मनिटर",
+      "स्क्यानर",
+      "प्रिन्टर",
+      "माउस"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Scanner.",
+    "explanation_ne": "उत्तर स्क्यानर हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0204",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the fastest memory in a computer?",
+    "question_ne": "कम्प्युटरमा सबैभन्दा छिटो मेमोरी कुन हो?",
+    "options": [
+      "Hard disk",
+      "Cache memory",
+      "RAM",
+      "ROM"
+    ],
+    "options_ne": [
+      "हार्ड डिस्क",
+      "क्यास मेमोरी",
+      "र्‍याम",
+      "रोम"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Cache memory.",
+    "explanation_ne": "उत्तर क्यास मेमोरी हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "R10-SCI2-0205",
+    "exam": [
+      "computer-operator",
+      "csit-entrance",
+      "ioe-entrance",
+      "section-officer",
+      "kharidar",
+      "nasu",
+      "nrb-assistant",
+      "rbb"
+    ],
+    "topic": "Computer & ICT",
+    "subtopic": "Computer & ICT",
+    "difficulty": "medium",
+    "marks": 2,
+    "question": "Which is the permanent storage of a computer?",
+    "question_ne": "कम्प्युटरको स्थायी भण्डारण कुन हो?",
+    "options": [
+      "RAM",
+      "Hard disk",
+      "Register",
+      "Cache"
+    ],
+    "options_ne": [
+      "र्‍याम",
+      "हार्ड डिस्क",
+      "रजिस्टर",
+      "क्यास"
+    ],
+    "answer": 1,
+    "explanation": "The correct choice is Hard disk.",
+    "explanation_ne": "उत्तर हार्ड डिस्क हो।",
+    "source": "Original practice question — Lok Sewa Prep Nepal"
+  }
+]
