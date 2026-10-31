@@ -1,0 +1,1629 @@
+[
+ {
+  "id": "R11-AGRI-0001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Paddy is mainly grown in which season in Nepal?",
+  "question_ne": "नेपालमा धान मुख्यतः कुन याममा लगाइन्छ?",
+  "options": [
+   "Spring season",
+   "Autumn season",
+   "Winter (Rabi) season",
+   "Monsoon (Kharif) season"
+  ],
+  "options_ne": [
+   "Spring season",
+   "Autumn season",
+   "Winter (Rabi) season",
+   "Monsoon (Kharif) season"
+  ],
+  "answer": 3,
+  "explanation": "Paddy is a monsoon (Kharif) crop in Nepal.",
+  "explanation_ne": "धान नेपालमा मनसुन (खरीफ) बाली हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Wheat is mainly grown in which season in Nepal?",
+  "question_ne": "नेपालमा गहुँ मुख्यतः कुन याममा लगाइन्छ?",
+  "options": [
+   "Autumn season",
+   "Summer season",
+   "Monsoon (Kharif) season",
+   "Winter (Rabi) season"
+  ],
+  "options_ne": [
+   "Autumn season",
+   "Summer season",
+   "Monsoon (Kharif) season",
+   "Winter (Rabi) season"
+  ],
+  "answer": 3,
+  "explanation": "Wheat is a winter (Rabi) crop in Nepal.",
+  "explanation_ne": "गहुँ नेपालमा हिउँदे (रबी) बाली हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of paddy (rice)?",
+  "question_ne": "धानको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Oryza sativa",
+   "Triticum aestivum",
+   "Solanum tuberosum",
+   "Zea mays"
+  ],
+  "options_ne": [
+   "Oryza sativa",
+   "Triticum aestivum",
+   "Solanum tuberosum",
+   "Zea mays"
+  ],
+  "answer": 0,
+  "explanation": "The scientific name of rice is Oryza sativa.",
+  "explanation_ne": "धानको वैज्ञानिक नाम ओराइजा सटाइभा हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of wheat?",
+  "question_ne": "गहुँको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Oryza sativa",
+   "Hordeum vulgare",
+   "Triticum aestivum",
+   "Zea mays"
+  ],
+  "options_ne": [
+   "Oryza sativa",
+   "Hordeum vulgare",
+   "Triticum aestivum",
+   "Zea mays"
+  ],
+  "answer": 2,
+  "explanation": "The scientific name of wheat is Triticum aestivum.",
+  "explanation_ne": "गहुँको वैज्ञानिक नाम ट्रिटिकम एस्टिभम हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of maize?",
+  "question_ne": "मकैको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Sorghum bicolor",
+   "Oryza sativa",
+   "Zea mays",
+   "Triticum aestivum"
+  ],
+  "options_ne": [
+   "Sorghum bicolor",
+   "Oryza sativa",
+   "Zea mays",
+   "Triticum aestivum"
+  ],
+  "answer": 2,
+  "explanation": "The scientific name of maize is Zea mays.",
+  "explanation_ne": "मकैको वैज्ञानिक नाम जिया मेज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of potato?",
+  "question_ne": "आलुको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Solanum tuberosum",
+   "Daucus carota",
+   "Solanum lycopersicum",
+   "Ipomoea batatas"
+  ],
+  "options_ne": [
+   "Solanum tuberosum",
+   "Daucus carota",
+   "Solanum lycopersicum",
+   "Ipomoea batatas"
+  ],
+  "answer": 0,
+  "explanation": "The scientific name of potato is Solanum tuberosum.",
+  "explanation_ne": "आलुको वैज्ञानिक नाम सोलानम ट्युबेरोसम हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of tomato?",
+  "question_ne": "गोलभेंडाको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Brassica oleracea",
+   "Solanum tuberosum",
+   "Capsicum annuum",
+   "Solanum lycopersicum"
+  ],
+  "options_ne": [
+   "Brassica oleracea",
+   "Solanum tuberosum",
+   "Capsicum annuum",
+   "Solanum lycopersicum"
+  ],
+  "answer": 3,
+  "explanation": "The scientific name of tomato is Solanum lycopersicum.",
+  "explanation_ne": "गोलभेंडाको वैज्ञानिक नाम सोलानम लाइकोपर्सिकम हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which crop is known as the king of fruits?",
+  "question_ne": "फलफूलका राजा भनेर कुन फललाई चिनिन्छ?",
+  "options": [
+   "Apple",
+   "Mango",
+   "Litchi",
+   "Banana"
+  ],
+  "options_ne": [
+   "Apple",
+   "Mango",
+   "Litchi",
+   "Banana"
+  ],
+  "answer": 1,
+  "explanation": "Mango is known as the king of fruits.",
+  "explanation_ne": "आँपलाई फलफूलका राजा भनिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal is one of the world's largest producers of which spice?",
+  "question_ne": "नेपाल विश्वका ठूला उत्पादकमध्ये एक कुन मसला हो?",
+  "options": [
+   "Large cardamom",
+   "Nutmeg",
+   "Black pepper",
+   "Cloves"
+  ],
+  "options_ne": [
+   "Large cardamom",
+   "Nutmeg",
+   "Black pepper",
+   "Cloves"
+  ],
+  "answer": 0,
+  "explanation": "Nepal is one of the world's largest producers of large cardamom.",
+  "explanation_ne": "नेपाल ठूलो अलैंचीका विश्वका ठूला उत्पादकमध्ये एक हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of these is a Rabi (winter) crop?",
+  "question_ne": "तलकामध्ये कुन रबी (हिउँदे) बाली हो?",
+  "options": [
+   "Mustard",
+   "Maize (monsoon)",
+   "Paddy",
+   "Jute"
+  ],
+  "options_ne": [
+   "Mustard",
+   "Maize (monsoon)",
+   "Paddy",
+   "Jute"
+  ],
+  "answer": 0,
+  "explanation": "Mustard is a Rabi (winter) crop.",
+  "explanation_ne": "तोरी रबी (हिउँदे) बाली हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Crops",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which of these is a Kharif (monsoon) crop?",
+  "question_ne": "तलकामध्ये कुन खरीफ (मनसुनी) बाली हो?",
+  "options": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Mustard"
+  ],
+  "options_ne": [
+   "Wheat",
+   "Paddy",
+   "Barley",
+   "Mustard"
+  ],
+  "answer": 1,
+  "explanation": "Paddy is a Kharif (monsoon) crop.",
+  "explanation_ne": "धान खरीफ (मनसुनी) बाली हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What does NPK stand for in fertilisers?",
+  "question_ne": "मलमा NPK को पूरा रूप के हो?",
+  "options": [
+   "Nitrogen, Phosphorus, Potassium",
+   "Nitrogen, Protein, Potassium",
+   "Nitrate, Phosphate, Kerosene",
+   "Nickel, Phosphorus, Krypton"
+  ],
+  "options_ne": [
+   "Nitrogen, Phosphorus, Potassium",
+   "Nitrogen, Protein, Potassium",
+   "Nitrate, Phosphate, Kerosene",
+   "Nickel, Phosphorus, Krypton"
+  ],
+  "answer": 0,
+  "explanation": "NPK stands for Nitrogen, Phosphorus and Potassium.",
+  "explanation_ne": "NPK को पूरा रूप नाइट्रोजन, फस्फोरस र पोटासियम हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Urea fertiliser contains about what percent nitrogen?",
+  "question_ne": "युरिया मलमा लगभग कति प्रतिशत नाइट्रोजन हुन्छ?",
+  "options": [
+   "36%",
+   "60%",
+   "26%",
+   "46%"
+  ],
+  "options_ne": [
+   "36%",
+   "60%",
+   "26%",
+   "46%"
+  ],
+  "answer": 3,
+  "explanation": "Urea contains about 46% nitrogen.",
+  "explanation_ne": "युरियामा लगभग ४६% नाइट्रोजन हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "DAP fertiliser is denoted by which grade?",
+  "question_ne": "DAP मलको ग्रेड कुन हो?",
+  "options": [
+   "18-46-0",
+   "20-20-0",
+   "15-15-15",
+   "46-0-0"
+  ],
+  "options_ne": [
+   "18-46-0",
+   "20-20-0",
+   "15-15-15",
+   "46-0-0"
+  ],
+  "answer": 0,
+  "explanation": "DAP grade is 18-46-0 (18% N, 46% P2O5).",
+  "explanation_ne": "DAP को ग्रेड १८-४६-० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the pH of neutral soil?",
+  "question_ne": "तटस्थ (neutral) माटोको pH कति हुन्छ?",
+  "options": [
+   "3",
+   "7",
+   "5",
+   "9"
+  ],
+  "options_ne": [
+   "3",
+   "7",
+   "5",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "Neutral soil has pH 7.",
+  "explanation_ne": "तटस्थ माटोको pH ७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Soil with pH less than 7 is what?",
+  "question_ne": "pH ७ भन्दा कम भएको माटो कस्तो हुन्छ?",
+  "options": [
+   "Alkaline",
+   "Neutral",
+   "Saline",
+   "Acidic"
+  ],
+  "options_ne": [
+   "Alkaline",
+   "Neutral",
+   "Saline",
+   "Acidic"
+  ],
+  "answer": 3,
+  "explanation": "Soil with pH below 7 is acidic.",
+  "explanation_ne": "pH ७ भन्दा कम भएको माटो अम्लीय हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which soil is considered best for most crops?",
+  "question_ne": "धेरैजसो बालीका लागि कुन माटो सबैभन्दा राम्रो मानिन्छ?",
+  "options": [
+   "Clay soil",
+   "Gravelly soil",
+   "Loamy soil",
+   "Sandy soil"
+  ],
+  "options_ne": [
+   "Clay soil",
+   "Gravelly soil",
+   "Loamy soil",
+   "Sandy soil"
+  ],
+  "answer": 2,
+  "explanation": "Loamy soil is best for most crops.",
+  "explanation_ne": "दोमट माटो धेरैजसो बालीका लागि सबैभन्दा राम्रो हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nitrogen in plants mainly promotes what?",
+  "question_ne": "बिरुवामा नाइट्रोजनले मुख्यतः के बढाउँछ?",
+  "options": [
+   "Seed dormancy",
+   "Leafy vegetative growth",
+   "Fruit colour",
+   "Root growth only"
+  ],
+  "options_ne": [
+   "Seed dormancy",
+   "Leafy vegetative growth",
+   "Fruit colour",
+   "Root growth only"
+  ],
+  "answer": 1,
+  "explanation": "Nitrogen promotes leafy vegetative growth.",
+  "explanation_ne": "नाइट्रोजनले बिरुवाको पात र हरियो वृद्धि बढाउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Phosphorus in plants mainly promotes what?",
+  "question_ne": "बिरुवामा फस्फोरसले मुख्यतः के बढाउँछ?",
+  "options": [
+   "Stem height only",
+   "Leaf colour only",
+   "Root development and flowering",
+   "Water uptake only"
+  ],
+  "options_ne": [
+   "Stem height only",
+   "Leaf colour only",
+   "Root development and flowering",
+   "Water uptake only"
+  ],
+  "answer": 2,
+  "explanation": "Phosphorus promotes root development and flowering.",
+  "explanation_ne": "फस्फोरसले जरा विकास र फूल फुल्न मद्दत गर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Terracing in hills is mainly done for what?",
+  "question_ne": "पहाडमा गरा (terracing) मुख्यतः केका लागि गरिन्छ?",
+  "options": [
+   "Road building",
+   "Mining",
+   "Soil conservation and water retention",
+   "Housing"
+  ],
+  "options_ne": [
+   "Road building",
+   "Mining",
+   "Soil conservation and water retention",
+   "Housing"
+  ],
+  "answer": 2,
+  "explanation": "Terracing conserves soil and retains water on slopes.",
+  "explanation_ne": "गराले पहाडको माटो जोगाउँछ र पानी अड्याउँछ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is FYM in agriculture?",
+  "question_ne": "कृषिमा FYM भनेको के हो?",
+  "options": [
+   "Fertiliser Yield Measure",
+   "Farm Yard Manure",
+   "Fast Yield Mixture",
+   "Farm Yearly Maintenance"
+  ],
+  "options_ne": [
+   "Fertiliser Yield Measure",
+   "Farm Yard Manure",
+   "Fast Yield Mixture",
+   "Farm Yearly Maintenance"
+  ],
+  "answer": 1,
+  "explanation": "FYM stands for Farm Yard Manure.",
+  "explanation_ne": "FYM को पूरा रूप Farm Yard Manure (गोठे मल) हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Soil & Fertilisers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Compost is made from what?",
+  "question_ne": "कम्पोस्ट केबाट बनाइन्छ?",
+  "options": [
+   "Rock powder",
+   "Decomposed organic matter",
+   "Chemical salts",
+   "Plastic waste"
+  ],
+  "options_ne": [
+   "Rock powder",
+   "Decomposed organic matter",
+   "Chemical salts",
+   "Plastic waste"
+  ],
+  "answer": 1,
+  "explanation": "Compost is decomposed organic matter.",
+  "explanation_ne": "कम्पोस्ट कुहिएको जैविक पदार्थबाट बनाइन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which indigenous cattle breed of Nepal is found in Mustang?",
+  "question_ne": "मुस्ताङमा पाइने नेपालको स्थानीय गाईको जात कुन हो?",
+  "options": [
+   "Lulu",
+   "Achhami",
+   "Jersey",
+   "Siri"
+  ],
+  "options_ne": [
+   "Lulu",
+   "Achhami",
+   "Jersey",
+   "Siri"
+  ],
+  "answer": 0,
+  "explanation": "Lulu is the indigenous cattle breed of Mustang.",
+  "explanation_ne": "लुलु मुस्ताङको स्थानीय गाईको जात हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Khari is an indigenous breed of which animal in Nepal?",
+  "question_ne": "खरी नेपालको कुन जनावरको स्थानीय जात हो?",
+  "options": [
+   "Sheep",
+   "Buffalo",
+   "Goat",
+   "Cattle"
+  ],
+  "options_ne": [
+   "Sheep",
+   "Buffalo",
+   "Goat",
+   "Cattle"
+  ],
+  "answer": 2,
+  "explanation": "Khari is an indigenous goat breed of Nepal.",
+  "explanation_ne": "खरी नेपालको स्थानीय बाख्राको जात हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Baruwal is an indigenous breed of which animal in Nepal?",
+  "question_ne": "बरुवाल नेपालको कुन जनावरको स्थानीय जात हो?",
+  "options": [
+   "Pig",
+   "Cattle",
+   "Goat",
+   "Sheep"
+  ],
+  "options_ne": [
+   "Pig",
+   "Cattle",
+   "Goat",
+   "Sheep"
+  ],
+  "answer": 3,
+  "explanation": "Baruwal is an indigenous sheep breed of Nepal.",
+  "explanation_ne": "बरुवाल नेपालको स्थानीय भेडाको जात हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Sakini is an indigenous breed of which animal in Nepal?",
+  "question_ne": "सकिनी नेपालको कुन जनावरको स्थानीय जात हो?",
+  "options": [
+   "Goat",
+   "Chicken (poultry)",
+   "Duck",
+   "Sheep"
+  ],
+  "options_ne": [
+   "Goat",
+   "Chicken (poultry)",
+   "Duck",
+   "Sheep"
+  ],
+  "answer": 1,
+  "explanation": "Sakini is an indigenous chicken breed of Nepal.",
+  "explanation_ne": "सकिनी नेपालको स्थानीय कुखुराको जात हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Foot-and-mouth disease (FMD) mainly affects which animals?",
+  "question_ne": "खोरेट (FMD) ले मुख्यतः कुन जनावरलाई असर गर्छ?",
+  "options": [
+   "Horses only",
+   "Dogs only",
+   "Poultry only",
+   "Cloven-hoofed animals (cattle, buffalo, goats)"
+  ],
+  "options_ne": [
+   "Horses only",
+   "Dogs only",
+   "Poultry only",
+   "Cloven-hoofed animals (cattle, buffalo, goats)"
+  ],
+  "answer": 3,
+  "explanation": "FMD affects cloven-hoofed animals.",
+  "explanation_ne": "खोरेटले फाटेका खुर भएका जनावरलाई असर गर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "PPR is a disease of which animals?",
+  "question_ne": "PPR कुन जनावरको रोग हो?",
+  "options": [
+   "Cattle only",
+   "Goats and sheep",
+   "Poultry only",
+   "Pigs only"
+  ],
+  "options_ne": [
+   "Cattle only",
+   "Goats and sheep",
+   "Poultry only",
+   "Pigs only"
+  ],
+  "answer": 1,
+  "explanation": "PPR (peste des petits ruminants) affects goats and sheep.",
+  "explanation_ne": "PPR ले बाख्रा र भेडालाई असर गर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Newcastle disease affects which animals?",
+  "question_ne": "न्यूक्यासल रोगले कुन जनावरलाई असर गर्छ?",
+  "options": [
+   "Dogs",
+   "Cattle",
+   "Poultry",
+   "Goats"
+  ],
+  "options_ne": [
+   "Dogs",
+   "Cattle",
+   "Poultry",
+   "Goats"
+  ],
+  "answer": 2,
+  "explanation": "Newcastle disease affects poultry.",
+  "explanation_ne": "न्यूक्यासल रोगले कुखुरालाई असर गर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Compared with cow milk, buffalo milk generally has what?",
+  "question_ne": "गाईको दूधको तुलनामा भैंसीको दूधमा सामान्यतया के बढी हुन्छ?",
+  "options": [
+   "Lower fat content",
+   "Less protein",
+   "More water",
+   "Higher fat content"
+  ],
+  "options_ne": [
+   "Lower fat content",
+   "Less protein",
+   "More water",
+   "Higher fat content"
+  ],
+  "answer": 3,
+  "explanation": "Buffalo milk generally has higher fat than cow milk.",
+  "explanation_ne": "भैंसीको दूधमा गाईको दूधभन्दा बढी बोसो हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "jta",
+   "ranger",
+   "provincial-psc"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Livestock",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Pasteurisation of milk means what?",
+  "question_ne": "दूधको पास्चराइजेसन भनेको के हो?",
+  "options": [
+   "Heating milk to kill harmful germs",
+   "Adding sugar",
+   "Removing cream",
+   "Freezing milk"
+  ],
+  "options_ne": [
+   "Heating milk to kill harmful germs",
+   "Adding sugar",
+   "Removing cream",
+   "Freezing milk"
+  ],
+  "answer": 0,
+  "explanation": "Pasteurisation heats milk to kill harmful germs.",
+  "explanation_ne": "पास्चराइजेसनले दूध तताएर हानिकारक कीटाणु मार्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of Sal, the famous Terai timber tree?",
+  "question_ne": "तराईको प्रसिद्ध साल रूखको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Shorea robusta",
+   "Acacia catechu",
+   "Dalbergia sissoo",
+   "Tectona grandis"
+  ],
+  "options_ne": [
+   "Shorea robusta",
+   "Acacia catechu",
+   "Dalbergia sissoo",
+   "Tectona grandis"
+  ],
+  "answer": 0,
+  "explanation": "Sal is Shorea robusta.",
+  "explanation_ne": "सालको वैज्ञानिक नाम शोरिया रोबस्टा हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of Teak?",
+  "question_ne": "टिक (teak) को वैज्ञानिक नाम के हो?",
+  "options": [
+   "Tectona grandis",
+   "Shorea robusta",
+   "Pinus roxburghii",
+   "Dalbergia sissoo"
+  ],
+  "options_ne": [
+   "Tectona grandis",
+   "Shorea robusta",
+   "Pinus roxburghii",
+   "Dalbergia sissoo"
+  ],
+  "answer": 0,
+  "explanation": "Teak is Tectona grandis.",
+  "explanation_ne": "टिकको वैज्ञानिक नाम टेक्टोना ग्रान्डिस हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of Sissoo?",
+  "question_ne": "सिसौको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Acacia catechu",
+   "Dalbergia sissoo",
+   "Tectona grandis",
+   "Shorea robusta"
+  ],
+  "options_ne": [
+   "Acacia catechu",
+   "Dalbergia sissoo",
+   "Tectona grandis",
+   "Shorea robusta"
+  ],
+  "answer": 1,
+  "explanation": "Sissoo is Dalbergia sissoo.",
+  "explanation_ne": "सिसौको वैज्ञानिक नाम डाल्बर्जिया सिसु हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the scientific name of Khair?",
+  "question_ne": "खयरको वैज्ञानिक नाम के हो?",
+  "options": [
+   "Shorea robusta",
+   "Acacia catechu",
+   "Tectona grandis",
+   "Dalbergia sissoo"
+  ],
+  "options_ne": [
+   "Shorea robusta",
+   "Acacia catechu",
+   "Tectona grandis",
+   "Dalbergia sissoo"
+  ],
+  "answer": 1,
+  "explanation": "Khair is Acacia catechu.",
+  "explanation_ne": "खयरको वैज्ञानिक नाम अकेसिया क्याटेचु हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The red panda is mainly found in which region of Nepal?",
+  "question_ne": "रातो पाण्डा नेपालको कुन क्षेत्रमा मुख्यतः पाइन्छ?",
+  "options": [
+   "Kathmandu Valley",
+   "Western Terai",
+   "Far-western plains",
+   "Eastern Himalayas"
+  ],
+  "options_ne": [
+   "Kathmandu Valley",
+   "Western Terai",
+   "Far-western plains",
+   "Eastern Himalayas"
+  ],
+  "answer": 3,
+  "explanation": "The red panda lives in Nepal's eastern Himalayas.",
+  "explanation_ne": "रातो पाण्डा पूर्वी हिमालयमा पाइन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The snow leopard is mainly found in which region of Nepal?",
+  "question_ne": "हिउँ चितुवा नेपालको कुन क्षेत्रमा मुख्यतः पाइन्छ?",
+  "options": [
+   "River valleys",
+   "Mid-hills",
+   "Terai grasslands",
+   "High Himalayas"
+  ],
+  "options_ne": [
+   "River valleys",
+   "Mid-hills",
+   "Terai grasslands",
+   "High Himalayas"
+  ],
+  "answer": 3,
+  "explanation": "The snow leopard lives in the high Himalayas.",
+  "explanation_ne": "हिउँ चितुवा उच्च हिमालयमा पाइन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The gharial is a type of what?",
+  "question_ne": "घडियाल कस्तो जीव हो?",
+  "options": [
+   "A water bird",
+   "A fish-eating crocodile",
+   "A large fish",
+   "A turtle"
+  ],
+  "options_ne": [
+   "A water bird",
+   "A fish-eating crocodile",
+   "A large fish",
+   "A turtle"
+  ],
+  "answer": 1,
+  "explanation": "The gharial is a fish-eating crocodile.",
+  "explanation_ne": "घडियाल माछा खाने गोही हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is a CFUG in Nepal's community forestry?",
+  "question_ne": "नेपालको सामुदायिक वनमा CFUG भनेको के हो?",
+  "options": [
+   "Community Forest User Group",
+   "Community Farming Union Group",
+   "Central Forest Utility Group",
+   "Certified Forest User Guide"
+  ],
+  "options_ne": [
+   "Community Forest User Group",
+   "Community Farming Union Group",
+   "Central Forest Utility Group",
+   "Certified Forest User Guide"
+  ],
+  "answer": 0,
+  "explanation": "CFUG stands for Community Forest User Group.",
+  "explanation_ne": "CFUG को पूरा रूप Community Forest User Group हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which place in Nepal receives the highest rainfall?",
+  "question_ne": "नेपालमा सबैभन्दा बढी वर्षा कहाँ हुन्छ?",
+  "options": [
+   "Pokhara region",
+   "Biratnagar",
+   "Nepalgunj",
+   "Dhangadhi"
+  ],
+  "options_ne": [
+   "Pokhara region",
+   "Biratnagar",
+   "Nepalgunj",
+   "Dhangadhi"
+  ],
+  "answer": 0,
+  "explanation": "The Pokhara region receives Nepal's highest rainfall.",
+  "explanation_ne": "पोखरा क्षेत्रमा नेपालको सबैभन्दा बढी वर्षा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which region of Nepal is in the rain shadow and receives very low rainfall?",
+  "question_ne": "नेपालको कुन क्षेत्र छहारी (rain shadow) मा पर्छ र धेरै कम वर्षा पाउँछ?",
+  "options": [
+   "Jhapa",
+   "Ilam",
+   "Chitwan",
+   "Mustang (Trans-Himalaya)"
+  ],
+  "options_ne": [
+   "Jhapa",
+   "Ilam",
+   "Chitwan",
+   "Mustang (Trans-Himalaya)"
+  ],
+  "answer": 3,
+  "explanation": "Mustang lies in the rain shadow of the Himalayas.",
+  "explanation_ne": "मुस्ताङ हिमालयको छहारी क्षेत्रमा पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-AGRI-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "ranger",
+   "jta"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Forestry",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal's monsoon season is roughly which months?",
+  "question_ne": "नेपालको मनसुन याम लगभग कुन महिना हुन्छ?",
+  "options": [
+   "October to November",
+   "June to September",
+   "March to May",
+   "December to March"
+  ],
+  "options_ne": [
+   "October to November",
+   "June to September",
+   "March to May",
+   "December to March"
+  ],
+  "answer": 1,
+  "explanation": "Nepal's monsoon runs roughly June to September.",
+  "explanation_ne": "नेपालको मनसुन लगभग जुनदेखि सेप्टेम्बरसम्म हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

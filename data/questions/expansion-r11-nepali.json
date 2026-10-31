@@ -1,0 +1,3386 @@
+[
+ {
+  "id": "R11-NEP-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"एक\" भनेको कति हो?",
+  "question_ne": "\"एक\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "१",
+   "४"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१",
+   "४"
+  ],
+  "answer": 2,
+  "explanation": "\"एक\" भनेको १ हो।",
+  "explanation_ne": "\"एक\" भनेको १ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"दुई\" भनेको कति हो?",
+  "question_ne": "\"दुई\" भनेको कति हो?",
+  "options": [
+   "४",
+   "३",
+   "१",
+   "२"
+  ],
+  "options_ne": [
+   "४",
+   "३",
+   "१",
+   "२"
+  ],
+  "answer": 3,
+  "explanation": "\"दुई\" भनेको २ हो।",
+  "explanation_ne": "\"दुई\" भनेको २ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"तीन\" भनेको कति हो?",
+  "question_ne": "\"तीन\" भनेको कति हो?",
+  "options": [
+   "२",
+   "३",
+   "१",
+   "४"
+  ],
+  "options_ne": [
+   "२",
+   "३",
+   "१",
+   "४"
+  ],
+  "answer": 1,
+  "explanation": "\"तीन\" भनेको ३ हो।",
+  "explanation_ne": "\"तीन\" भनेको ३ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"चार\" भनेको कति हो?",
+  "question_ne": "\"चार\" भनेको कति हो?",
+  "options": [
+   "३",
+   "१",
+   "४",
+   "२"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "४",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "\"चार\" भनेको ४ हो।",
+  "explanation_ne": "\"चार\" भनेको ४ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पाँच\" भनेको कति हो?",
+  "question_ne": "\"पाँच\" भनेको कति हो?",
+  "options": [
+   "२",
+   "५",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "२",
+   "५",
+   "३",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "\"पाँच\" भनेको ५ हो।",
+  "explanation_ne": "\"पाँच\" भनेको ५ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"छ\" भनेको कति हो?",
+  "question_ne": "\"छ\" भनेको कति हो?",
+  "options": [
+   "३",
+   "१",
+   "६",
+   "२"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "६",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "\"छ\" भनेको ६ हो।",
+  "explanation_ne": "\"छ\" भनेको ६ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सात\" भनेको कति हो?",
+  "question_ne": "\"सात\" भनेको कति हो?",
+  "options": [
+   "७",
+   "१",
+   "२",
+   "३"
+  ],
+  "options_ne": [
+   "७",
+   "१",
+   "२",
+   "३"
+  ],
+  "answer": 0,
+  "explanation": "\"सात\" भनेको ७ हो।",
+  "explanation_ne": "\"सात\" भनेको ७ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"आठ\" भनेको कति हो?",
+  "question_ne": "\"आठ\" भनेको कति हो?",
+  "options": [
+   "३",
+   "१",
+   "२",
+   "८"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "२",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "\"आठ\" भनेको ८ हो।",
+  "explanation_ne": "\"आठ\" भनेको ८ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"नौ\" भनेको कति हो?",
+  "question_ne": "\"नौ\" भनेको कति हो?",
+  "options": [
+   "२",
+   "३",
+   "१",
+   "९"
+  ],
+  "options_ne": [
+   "२",
+   "३",
+   "१",
+   "९"
+  ],
+  "answer": 3,
+  "explanation": "\"नौ\" भनेको ९ हो।",
+  "explanation_ne": "\"नौ\" भनेको ९ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"दस\" भनेको कति हो?",
+  "question_ne": "\"दस\" भनेको कति हो?",
+  "options": [
+   "१",
+   "२",
+   "१०",
+   "३"
+  ],
+  "options_ne": [
+   "१",
+   "२",
+   "१०",
+   "३"
+  ],
+  "answer": 2,
+  "explanation": "\"दस\" भनेको १० हो।",
+  "explanation_ne": "\"दस\" भनेको १० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"एघार\" भनेको कति हो?",
+  "question_ne": "\"एघार\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "११",
+   "१"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "११",
+   "१"
+  ],
+  "answer": 2,
+  "explanation": "\"एघार\" भनेको ११ हो।",
+  "explanation_ne": "\"एघार\" भनेको ११ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बाह्र\" भनेको कति हो?",
+  "question_ne": "\"बाह्र\" भनेको कति हो?",
+  "options": [
+   "२",
+   "१",
+   "१२",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "१",
+   "१२",
+   "३"
+  ],
+  "answer": 2,
+  "explanation": "\"बाह्र\" भनेको १२ हो।",
+  "explanation_ne": "\"बाह्र\" भनेको १२ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"तेह्र\" भनेको कति हो?",
+  "question_ne": "\"तेह्र\" भनेको कति हो?",
+  "options": [
+   "१३",
+   "२",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "१३",
+   "२",
+   "३",
+   "१"
+  ],
+  "answer": 0,
+  "explanation": "\"तेह्र\" भनेको १३ हो।",
+  "explanation_ne": "\"तेह्र\" भनेको १३ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"चौध\" भनेको कति हो?",
+  "question_ne": "\"चौध\" भनेको कति हो?",
+  "options": [
+   "१",
+   "१४",
+   "३",
+   "२"
+  ],
+  "options_ne": [
+   "१",
+   "१४",
+   "३",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "\"चौध\" भनेको १४ हो।",
+  "explanation_ne": "\"चौध\" भनेको १४ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पन्ध्र\" भनेको कति हो?",
+  "question_ne": "\"पन्ध्र\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "१५",
+   "१"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१५",
+   "१"
+  ],
+  "answer": 2,
+  "explanation": "\"पन्ध्र\" भनेको १५ हो।",
+  "explanation_ne": "\"पन्ध्र\" भनेको १५ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सोह्र\" भनेको कति हो?",
+  "question_ne": "\"सोह्र\" भनेको कति हो?",
+  "options": [
+   "२",
+   "१",
+   "३",
+   "१६"
+  ],
+  "options_ne": [
+   "२",
+   "१",
+   "३",
+   "१६"
+  ],
+  "answer": 3,
+  "explanation": "\"सोह्र\" भनेको १६ हो।",
+  "explanation_ne": "\"सोह्र\" भनेको १६ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सत्र\" भनेको कति हो?",
+  "question_ne": "\"सत्र\" भनेको कति हो?",
+  "options": [
+   "२",
+   "१७",
+   "१",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "१७",
+   "१",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "\"सत्र\" भनेको १७ हो।",
+  "explanation_ne": "\"सत्र\" भनेको १७ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"अठार\" भनेको कति हो?",
+  "question_ne": "\"अठार\" भनेको कति हो?",
+  "options": [
+   "२",
+   "३",
+   "१",
+   "१८"
+  ],
+  "options_ne": [
+   "२",
+   "३",
+   "१",
+   "१८"
+  ],
+  "answer": 3,
+  "explanation": "\"अठार\" भनेको १८ हो।",
+  "explanation_ne": "\"अठार\" भनेको १८ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"उन्नाइस\" भनेको कति हो?",
+  "question_ne": "\"उन्नाइस\" भनेको कति हो?",
+  "options": [
+   "१",
+   "३",
+   "१९",
+   "२"
+  ],
+  "options_ne": [
+   "१",
+   "३",
+   "१९",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "\"उन्नाइस\" भनेको १९ हो।",
+  "explanation_ne": "\"उन्नाइस\" भनेको १९ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बीस\" भनेको कति हो?",
+  "question_ne": "\"बीस\" भनेको कति हो?",
+  "options": [
+   "२",
+   "२०",
+   "१",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "२०",
+   "१",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "\"बीस\" भनेको २० हो।",
+  "explanation_ne": "\"बीस\" भनेको २० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"एक्काइस\" भनेको कति हो?",
+  "question_ne": "\"एक्काइस\" भनेको कति हो?",
+  "options": [
+   "२",
+   "२१",
+   "१",
+   "३"
+  ],
+  "options_ne": [
+   "२",
+   "२१",
+   "१",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "\"एक्काइस\" भनेको २१ हो।",
+  "explanation_ne": "\"एक्काइस\" भनेको २१ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बाइस\" भनेको कति हो?",
+  "question_ne": "\"बाइस\" भनेको कति हो?",
+  "options": [
+   "२२",
+   "१",
+   "२",
+   "३"
+  ],
+  "options_ne": [
+   "२२",
+   "१",
+   "२",
+   "३"
+  ],
+  "answer": 0,
+  "explanation": "\"बाइस\" भनेको २२ हो।",
+  "explanation_ne": "\"बाइस\" भनेको २२ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"तेइस\" भनेको कति हो?",
+  "question_ne": "\"तेइस\" भनेको कति हो?",
+  "options": [
+   "२३",
+   "२",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "२३",
+   "२",
+   "३",
+   "१"
+  ],
+  "answer": 0,
+  "explanation": "\"तेइस\" भनेको २३ हो।",
+  "explanation_ne": "\"तेइस\" भनेको २३ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"चौबीस\" भनेको कति हो?",
+  "question_ne": "\"चौबीस\" भनेको कति हो?",
+  "options": [
+   "३",
+   "१",
+   "२",
+   "२४"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "२",
+   "२४"
+  ],
+  "answer": 3,
+  "explanation": "\"चौबीस\" भनेको २४ हो।",
+  "explanation_ne": "\"चौबीस\" भनेको २४ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पच्चीस\" भनेको कति हो?",
+  "question_ne": "\"पच्चीस\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२५",
+   "२",
+   "१"
+  ],
+  "options_ne": [
+   "३",
+   "२५",
+   "२",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "\"पच्चीस\" भनेको २५ हो।",
+  "explanation_ne": "\"पच्चीस\" भनेको २५ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"छब्बीस\" भनेको कति हो?",
+  "question_ne": "\"छब्बीस\" भनेको कति हो?",
+  "options": [
+   "२",
+   "२६",
+   "३",
+   "१"
+  ],
+  "options_ne": [
+   "२",
+   "२६",
+   "३",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "\"छब्बीस\" भनेको २६ हो।",
+  "explanation_ne": "\"छब्बीस\" भनेको २६ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सत्ताइस\" भनेको कति हो?",
+  "question_ne": "\"सत्ताइस\" भनेको कति हो?",
+  "options": [
+   "१",
+   "३",
+   "२७",
+   "२"
+  ],
+  "options_ne": [
+   "१",
+   "३",
+   "२७",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "\"सत्ताइस\" भनेको २७ हो।",
+  "explanation_ne": "\"सत्ताइस\" भनेको २७ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"अठ्ठाइस\" भनेको कति हो?",
+  "question_ne": "\"अठ्ठाइस\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "१",
+   "२८"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१",
+   "२८"
+  ],
+  "answer": 3,
+  "explanation": "\"अठ्ठाइस\" भनेको २८ हो।",
+  "explanation_ne": "\"अठ्ठाइस\" भनेको २८ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"उनन्तीस\" भनेको कति हो?",
+  "question_ne": "\"उनन्तीस\" भनेको कति हो?",
+  "options": [
+   "१",
+   "२९",
+   "२",
+   "३"
+  ],
+  "options_ne": [
+   "१",
+   "२९",
+   "२",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "\"उनन्तीस\" भनेको २९ हो।",
+  "explanation_ne": "\"उनन्तीस\" भनेको २९ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"तीस\" भनेको कति हो?",
+  "question_ne": "\"तीस\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "१",
+   "३०"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१",
+   "३०"
+  ],
+  "answer": 3,
+  "explanation": "\"तीस\" भनेको ३० हो।",
+  "explanation_ne": "\"तीस\" भनेको ३० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"चालीस\" भनेको कति हो?",
+  "question_ne": "\"चालीस\" भनेको कति हो?",
+  "options": [
+   "३",
+   "२",
+   "१",
+   "४०"
+  ],
+  "options_ne": [
+   "३",
+   "२",
+   "१",
+   "४०"
+  ],
+  "answer": 3,
+  "explanation": "\"चालीस\" भनेको ४० हो।",
+  "explanation_ne": "\"चालीस\" भनेको ४० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पचास\" भनेको कति हो?",
+  "question_ne": "\"पचास\" भनेको कति हो?",
+  "options": [
+   "३",
+   "१",
+   "५०",
+   "२"
+  ],
+  "options_ne": [
+   "३",
+   "१",
+   "५०",
+   "२"
+  ],
+  "answer": 2,
+  "explanation": "\"पचास\" भनेको ५० हो।",
+  "explanation_ne": "\"पचास\" भनेको ५० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"साठी\" भनेको कति हो?",
+  "question_ne": "\"साठी\" भनेको कति हो?",
+  "options": [
+   "३",
+   "६०",
+   "१",
+   "२"
+  ],
+  "options_ne": [
+   "३",
+   "६०",
+   "१",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "\"साठी\" भनेको ६० हो।",
+  "explanation_ne": "\"साठी\" भनेको ६० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सत्तरी\" भनेको कति हो?",
+  "question_ne": "\"सत्तरी\" भनेको कति हो?",
+  "options": [
+   "१",
+   "२",
+   "७०",
+   "३"
+  ],
+  "options_ne": [
+   "१",
+   "२",
+   "७०",
+   "३"
+  ],
+  "answer": 2,
+  "explanation": "\"सत्तरी\" भनेको ७० हो।",
+  "explanation_ne": "\"सत्तरी\" भनेको ७० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"असी\" भनेको कति हो?",
+  "question_ne": "\"असी\" भनेको कति हो?",
+  "options": [
+   "३",
+   "८०",
+   "२",
+   "१"
+  ],
+  "options_ne": [
+   "३",
+   "८०",
+   "२",
+   "१"
+  ],
+  "answer": 1,
+  "explanation": "\"असी\" भनेको ८० हो।",
+  "explanation_ne": "\"असी\" भनेको ८० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"नब्बे\" भनेको कति हो?",
+  "question_ne": "\"नब्बे\" भनेको कति हो?",
+  "options": [
+   "३",
+   "९०",
+   "१",
+   "२"
+  ],
+  "options_ne": [
+   "३",
+   "९०",
+   "१",
+   "२"
+  ],
+  "answer": 1,
+  "explanation": "\"नब्बे\" भनेको ९० हो।",
+  "explanation_ne": "\"नब्बे\" भनेको ९० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सय\" भनेको कति हो?",
+  "question_ne": "\"सय\" भनेको कति हो?",
+  "options": [
+   "२",
+   "३",
+   "१००",
+   "१"
+  ],
+  "options_ne": [
+   "२",
+   "३",
+   "१००",
+   "१"
+  ],
+  "answer": 2,
+  "explanation": "\"सय\" भनेको १०० हो।",
+  "explanation_ne": "\"सय\" भनेको १०० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "१००० लाई नेपाली शब्दमा कसरी लेखिन्छ?",
+  "question_ne": "१००० लाई नेपाली शब्दमा कसरी लेखिन्छ?",
+  "options": [
+   "एक",
+   "तीन",
+   "हजार",
+   "दुई"
+  ],
+  "options_ne": [
+   "एक",
+   "तीन",
+   "हजार",
+   "दुई"
+  ],
+  "answer": 2,
+  "explanation": "१००० लाई नेपालीमा \"हजार\" लेखिन्छ।",
+  "explanation_ne": "१००० लाई नेपालीमा \"हजार\" लेखिन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Number Words",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"हजार\" भनेको कति हो?",
+  "question_ne": "\"हजार\" भनेको कति हो?",
+  "options": [
+   "१०००",
+   "१",
+   "३",
+   "२"
+  ],
+  "options_ne": [
+   "१०००",
+   "१",
+   "३",
+   "२"
+  ],
+  "answer": 0,
+  "explanation": "\"हजार\" भनेको १००० हो।",
+  "explanation_ne": "\"हजार\" भनेको १००० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"पुस्तक\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"पुस्तक\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "कलम",
+   "पत्र",
+   "ग्रन्थ",
+   "कापी"
+  ],
+  "options_ne": [
+   "कलम",
+   "पत्र",
+   "ग्रन्थ",
+   "कापी"
+  ],
+  "answer": 2,
+  "explanation": "\"पुस्तक\" को पर्यायवाची \"ग्रन्थ\" हो।",
+  "explanation_ne": "\"पुस्तक\" को पर्यायवाची \"ग्रन्थ\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"शत्रु\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"शत्रु\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "रिपु",
+   "भाइ",
+   "मित्र",
+   "साथी"
+  ],
+  "options_ne": [
+   "रिपु",
+   "भाइ",
+   "मित्र",
+   "साथी"
+  ],
+  "answer": 0,
+  "explanation": "\"शत्रु\" को पर्यायवाची \"रिपु\" हो।",
+  "explanation_ne": "\"शत्रु\" को पर्यायवाची \"रिपु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"मुख\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"मुख\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "नाक",
+   "आनन",
+   "आँखा",
+   "कान"
+  ],
+  "options_ne": [
+   "नाक",
+   "आनन",
+   "आँखा",
+   "कान"
+  ],
+  "answer": 1,
+  "explanation": "\"मुख\" को पर्यायवाची \"आनन\" हो।",
+  "explanation_ne": "\"मुख\" को पर्यायवाची \"आनन\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"वर्षा\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"वर्षा\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "हिउँ",
+   "वृष्टि",
+   "खडेरी",
+   "बादल"
+  ],
+  "options_ne": [
+   "हिउँ",
+   "वृष्टि",
+   "खडेरी",
+   "बादल"
+  ],
+  "answer": 1,
+  "explanation": "\"वर्षा\" को पर्यायवाची \"वृष्टि\" हो।",
+  "explanation_ne": "\"वर्षा\" को पर्यायवाची \"वृष्टि\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सुन\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"सुन\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "स्वर्ण",
+   "चाँदी",
+   "फलाम",
+   "तामा"
+  ],
+  "options_ne": [
+   "स्वर्ण",
+   "चाँदी",
+   "फलाम",
+   "तामा"
+  ],
+  "answer": 0,
+  "explanation": "\"सुन\" को पर्यायवाची \"स्वर्ण\" हो।",
+  "explanation_ne": "\"सुन\" को पर्यायवाची \"स्वर्ण\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"चाँदी\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"चाँदी\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "तामा",
+   "हीरा",
+   "रजत",
+   "सुन"
+  ],
+  "options_ne": [
+   "तामा",
+   "हीरा",
+   "रजत",
+   "सुन"
+  ],
+  "answer": 2,
+  "explanation": "\"चाँदी\" को पर्यायवाची \"रजत\" हो।",
+  "explanation_ne": "\"चाँदी\" को पर्यायवाची \"रजत\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Synonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"गाई\" शब्दको पर्यायवाची कुन हो?",
+  "question_ne": "\"गाई\" शब्दको पर्यायवाची कुन हो?",
+  "options": [
+   "बाख्रा",
+   "धेनु",
+   "भैंसी",
+   "घोडा"
+  ],
+  "options_ne": [
+   "बाख्रा",
+   "धेनु",
+   "भैंसी",
+   "घोडा"
+  ],
+  "answer": 1,
+  "explanation": "\"गाई\" को पर्यायवाची \"धेनु\" हो।",
+  "explanation_ne": "\"गाई\" को पर्यायवाची \"धेनु\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"ठूलो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"ठूलो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "सानो",
+   "लामो",
+   "अग्लो",
+   "चौडा"
+  ],
+  "options_ne": [
+   "सानो",
+   "लामो",
+   "अग्लो",
+   "चौडा"
+  ],
+  "answer": 0,
+  "explanation": "\"ठूलो\" को विपरीतार्थी \"सानो\" हो।",
+  "explanation_ne": "\"ठूलो\" को विपरीतार्थी \"सानो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"राम्रो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"राम्रो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "नराम्रो",
+   "सफा",
+   "मीठो",
+   "नयाँ"
+  ],
+  "options_ne": [
+   "नराम्रो",
+   "सफा",
+   "मीठो",
+   "नयाँ"
+  ],
+  "answer": 0,
+  "explanation": "\"राम्रो\" को विपरीतार्थी \"नराम्रो\" हो।",
+  "explanation_ne": "\"राम्रो\" को विपरीतार्थी \"नराम्रो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"माथि\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"माथि\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "अगाडि",
+   "भित्र",
+   "तल",
+   "पछाडि"
+  ],
+  "options_ne": [
+   "अगाडि",
+   "भित्र",
+   "तल",
+   "पछाडि"
+  ],
+  "answer": 2,
+  "explanation": "\"माथि\" को विपरीतार्थी \"तल\" हो।",
+  "explanation_ne": "\"माथि\" को विपरीतार्थी \"तल\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"अग्लो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"अग्लो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "मोटो",
+   "लामो",
+   "छोटो",
+   "होचो"
+  ],
+  "options_ne": [
+   "मोटो",
+   "लामो",
+   "छोटो",
+   "होचो"
+  ],
+  "answer": 3,
+  "explanation": "\"अग्लो\" को विपरीतार्थी \"होचो\" हो।",
+  "explanation_ne": "\"अग्लो\" को विपरीतार्थी \"होचो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"छिटो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"छिटो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "तुरुन्त",
+   "ढिलो",
+   "बिस्तारै",
+   "चाँडो"
+  ],
+  "options_ne": [
+   "तुरुन्त",
+   "ढिलो",
+   "बिस्तारै",
+   "चाँडो"
+  ],
+  "answer": 1,
+  "explanation": "\"छिटो\" को विपरीतार्थी \"ढिलो\" हो।",
+  "explanation_ne": "\"छिटो\" को विपरीतार्थी \"ढिलो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"नयाँ\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"नयाँ\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "जवान",
+   "ताजा",
+   "बासी",
+   "पुरानो"
+  ],
+  "options_ne": [
+   "जवान",
+   "ताजा",
+   "बासी",
+   "पुरानो"
+  ],
+  "answer": 3,
+  "explanation": "\"नयाँ\" को विपरीतार्थी \"पुरानो\" हो।",
+  "explanation_ne": "\"नयाँ\" को विपरीतार्थी \"पुरानो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"उज्यालो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"उज्यालो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "सेतो",
+   "अँध्यारो",
+   "चम्किलो",
+   "मधुरो"
+  ],
+  "options_ne": [
+   "सेतो",
+   "अँध्यारो",
+   "चम्किलो",
+   "मधुरो"
+  ],
+  "answer": 1,
+  "explanation": "\"उज्यालो\" को विपरीतार्थी \"अँध्यारो\" हो।",
+  "explanation_ne": "\"उज्यालो\" को विपरीतार्थी \"अँध्यारो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"मीठो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"मीठो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "अमिलो",
+   "पिरो",
+   "नुनिलो",
+   "तीतो"
+  ],
+  "options_ne": [
+   "अमिलो",
+   "पिरो",
+   "नुनिलो",
+   "तीतो"
+  ],
+  "answer": 3,
+  "explanation": "\"मीठो\" को विपरीतार्थी \"तीतो\" हो।",
+  "explanation_ne": "\"मीठो\" को विपरीतार्थी \"तीतो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"धनी\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"धनी\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "गरिब",
+   "बलियो",
+   "दुःखी",
+   "सुखी"
+  ],
+  "options_ne": [
+   "गरिब",
+   "बलियो",
+   "दुःखी",
+   "सुखी"
+  ],
+  "answer": 0,
+  "explanation": "\"धनी\" को विपरीतार्थी \"गरिब\" हो।",
+  "explanation_ne": "\"धनी\" को विपरीतार्थी \"गरिब\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सुख\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"सुख\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "शान्ति",
+   "खुसी",
+   "दुःख",
+   "रिस"
+  ],
+  "options_ne": [
+   "शान्ति",
+   "खुसी",
+   "दुःख",
+   "रिस"
+  ],
+  "answer": 2,
+  "explanation": "\"सुख\" को विपरीतार्थी \"दुःख\" हो।",
+  "explanation_ne": "\"सुख\" को विपरीतार्थी \"दुःख\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"दिन\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"दिन\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "साँझ",
+   "रात",
+   "दिउँसो",
+   "बिहान"
+  ],
+  "options_ne": [
+   "साँझ",
+   "रात",
+   "दिउँसो",
+   "बिहान"
+  ],
+  "answer": 1,
+  "explanation": "\"दिन\" को विपरीतार्थी \"रात\" हो।",
+  "explanation_ne": "\"दिन\" को विपरीतार्थी \"रात\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"गर्मी\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"गर्मी\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "बर्खा",
+   "जाडो",
+   "चिसो",
+   "तातो"
+  ],
+  "options_ne": [
+   "बर्खा",
+   "जाडो",
+   "चिसो",
+   "तातो"
+  ],
+  "answer": 1,
+  "explanation": "\"गर्मी\" को विपरीतार्थी \"जाडो\" हो।",
+  "explanation_ne": "\"गर्मी\" को विपरीतार्थी \"जाडो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0121",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सफा\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"सफा\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "चिल्लो",
+   "सेतो",
+   "कालो",
+   "फोहोर"
+  ],
+  "options_ne": [
+   "चिल्लो",
+   "सेतो",
+   "कालो",
+   "फोहोर"
+  ],
+  "answer": 3,
+  "explanation": "\"सफा\" को विपरीतार्थी \"फोहोर\" हो।",
+  "explanation_ne": "\"सफा\" को विपरीतार्थी \"फोहोर\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"लामो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"लामो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "छोटो",
+   "चौडा",
+   "अग्लो",
+   "होचो"
+  ],
+  "options_ne": [
+   "छोटो",
+   "चौडा",
+   "अग्लो",
+   "होचो"
+  ],
+  "answer": 0,
+  "explanation": "\"लामो\" को विपरीतार्थी \"छोटो\" हो।",
+  "explanation_ne": "\"लामो\" को विपरीतार्थी \"छोटो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0123",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"मोटो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"मोटो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "अग्लो",
+   "दुब्लो",
+   "कमजोर",
+   "बलियो"
+  ],
+  "options_ne": [
+   "अग्लो",
+   "दुब्लो",
+   "कमजोर",
+   "बलियो"
+  ],
+  "answer": 1,
+  "explanation": "\"मोटो\" को विपरीतार्थी \"दुब्लो\" हो।",
+  "explanation_ne": "\"मोटो\" को विपरीतार्थी \"दुब्लो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0125",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"बलियो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"बलियो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "दुब्लो",
+   "कमजोर",
+   "तन्दुरुस्त",
+   "मोटो"
+  ],
+  "options_ne": [
+   "दुब्लो",
+   "कमजोर",
+   "तन्दुरुस्त",
+   "मोटो"
+  ],
+  "answer": 1,
+  "explanation": "\"बलियो\" को विपरीतार्थी \"कमजोर\" हो।",
+  "explanation_ne": "\"बलियो\" को विपरीतार्थी \"कमजोर\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सजिलो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"सजिलो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "ढिलो",
+   "छिटो",
+   "गाह्रो",
+   "सरल"
+  ],
+  "options_ne": [
+   "ढिलो",
+   "छिटो",
+   "गाह्रो",
+   "सरल"
+  ],
+  "answer": 2,
+  "explanation": "\"सजिलो\" को विपरीतार्थी \"गाह्रो\" हो।",
+  "explanation_ne": "\"सजिलो\" को विपरीतार्थी \"गाह्रो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सुरु\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"सुरु\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "बीच",
+   "अन्त्य",
+   "पहिलो",
+   "अन्तिम"
+  ],
+  "options_ne": [
+   "बीच",
+   "अन्त्य",
+   "पहिलो",
+   "अन्तिम"
+  ],
+  "answer": 1,
+  "explanation": "\"सुरु\" को विपरीतार्थी \"अन्त्य\" हो।",
+  "explanation_ne": "\"सुरु\" को विपरीतार्थी \"अन्त्य\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सत्य\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"सत्य\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "झुट",
+   "अधर्म",
+   "न्याय",
+   "धर्म"
+  ],
+  "options_ne": [
+   "झुट",
+   "अधर्म",
+   "न्याय",
+   "धर्म"
+  ],
+  "answer": 0,
+  "explanation": "\"सत्य\" को विपरीतार्थी \"झुट\" हो।",
+  "explanation_ne": "\"सत्य\" को विपरीतार्थी \"झुट\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"प्रेम\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"प्रेम\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "माया",
+   "घृणा",
+   "रिस",
+   "दया"
+  ],
+  "options_ne": [
+   "माया",
+   "घृणा",
+   "रिस",
+   "दया"
+  ],
+  "answer": 1,
+  "explanation": "\"प्रेम\" को विपरीतार्थी \"घृणा\" हो।",
+  "explanation_ne": "\"प्रेम\" को विपरीतार्थी \"घृणा\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"शान्त\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"शान्त\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "दुःखी",
+   "चन्चल",
+   "खुसी",
+   "अशान्त"
+  ],
+  "options_ne": [
+   "दुःखी",
+   "चन्चल",
+   "खुसी",
+   "अशान्त"
+  ],
+  "answer": 3,
+  "explanation": "\"शान्त\" को विपरीतार्थी \"अशान्त\" हो।",
+  "explanation_ne": "\"शान्त\" को विपरीतार्थी \"अशान्त\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0132",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"गहिरो\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"गहिरो\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "चौडा",
+   "उथलो",
+   "साँघुरो",
+   "लामो"
+  ],
+  "options_ne": [
+   "चौडा",
+   "उथलो",
+   "साँघुरो",
+   "लामो"
+  ],
+  "answer": 1,
+  "explanation": "\"गहिरो\" को विपरीतार्थी \"उथलो\" हो।",
+  "explanation_ne": "\"गहिरो\" को विपरीतार्थी \"उथलो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"चौडा\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"चौडा\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "लामो",
+   "फराकिलो",
+   "साँघुरो",
+   "छोटो"
+  ],
+  "options_ne": [
+   "लामो",
+   "फराकिलो",
+   "साँघुरो",
+   "छोटो"
+  ],
+  "answer": 2,
+  "explanation": "\"चौडा\" को विपरीतार्थी \"साँघुरो\" हो।",
+  "explanation_ne": "\"चौडा\" को विपरीतार्थी \"साँघुरो\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0134",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"टाढा\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"टाढा\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "माथि",
+   "तल",
+   "पर",
+   "नजिक"
+  ],
+  "options_ne": [
+   "माथि",
+   "तल",
+   "पर",
+   "नजिक"
+  ],
+  "answer": 3,
+  "explanation": "\"टाढा\" को विपरीतार्थी \"नजिक\" हो।",
+  "explanation_ne": "\"टाढा\" को विपरीतार्थी \"नजिक\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"भित्र\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"भित्र\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "अगाडि",
+   "तल",
+   "बाहिर",
+   "माथि"
+  ],
+  "options_ne": [
+   "अगाडि",
+   "तल",
+   "बाहिर",
+   "माथि"
+  ],
+  "answer": 2,
+  "explanation": "\"भित्र\" को विपरीतार्थी \"बाहिर\" हो।",
+  "explanation_ne": "\"भित्र\" को विपरीतार्थी \"बाहिर\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"अगाडि\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"अगाडि\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "पछाडि",
+   "तल",
+   "माथि",
+   "दायाँ"
+  ],
+  "options_ne": [
+   "पछाडि",
+   "तल",
+   "माथि",
+   "दायाँ"
+  ],
+  "answer": 0,
+  "explanation": "\"अगाडि\" को विपरीतार्थी \"पछाडि\" हो।",
+  "explanation_ne": "\"अगाडि\" को विपरीतार्थी \"पछाडि\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"दायाँ\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"दायाँ\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "अगाडि",
+   "माथि",
+   "बायाँ",
+   "पछाडि"
+  ],
+  "options_ne": [
+   "अगाडि",
+   "माथि",
+   "बायाँ",
+   "पछाडि"
+  ],
+  "answer": 2,
+  "explanation": "\"दायाँ\" को विपरीतार्थी \"बायाँ\" हो।",
+  "explanation_ne": "\"दायाँ\" को विपरीतार्थी \"बायाँ\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0138",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Antonyms",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"स्वर्ग\" शब्दको विपरीतार्थी कुन हो?",
+  "question_ne": "\"स्वर्ग\" शब्दको विपरीतार्थी कुन हो?",
+  "options": [
+   "पृथ्वी",
+   "नरक",
+   "पाताल",
+   "आकाश"
+  ],
+  "options_ne": [
+   "पृथ्वी",
+   "नरक",
+   "पाताल",
+   "आकाश"
+  ],
+  "answer": 1,
+  "explanation": "\"स्वर्ग\" को विपरीतार्थी \"नरक\" हो।",
+  "explanation_ne": "\"स्वर्ग\" को विपरीतार्थी \"नरक\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0140",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"अन्धाले हात्ती छामे जस्तो\" उखानको अर्थ के हो?",
+  "question_ne": "\"अन्धाले हात्ती छामे जस्तो\" उखानको अर्थ के हो?",
+  "options": [
+   "हात्ती ठूलो हुनु",
+   "अधुरो ज्ञानका आधारमा अनुमान गर्नु",
+   "अन्धाले देख्नु",
+   "सबै कुरा जान्नु"
+  ],
+  "options_ne": [
+   "हात्ती ठूलो हुनु",
+   "अधुरो ज्ञानका आधारमा अनुमान गर्नु",
+   "अन्धाले देख्नु",
+   "सबै कुरा जान्नु"
+  ],
+  "answer": 1,
+  "explanation": "\"अन्धाले हात्ती छामे जस्तो\" को अर्थ अधुरो ज्ञानका आधारमा अनुमान गर्नु हो।",
+  "explanation_ne": "\"अन्धाले हात्ती छामे जस्तो\" को अर्थ अधुरो ज्ञानका आधारमा अनुमान गर्नु हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"जाँगर नभए घाँस पनि भारी\" उखानको अर्थ के हो?",
+  "question_ne": "\"जाँगर नभए घाँस पनि भारी\" उखानको अर्थ के हो?",
+  "options": [
+   "परिश्रम गर्नु",
+   "घाँस भारी हुनु",
+   "अल्छी मानिसलाई सानो काम पनि गाह्रो लाग्नु",
+   "घाँस काट्नु"
+  ],
+  "options_ne": [
+   "परिश्रम गर्नु",
+   "घाँस भारी हुनु",
+   "अल्छी मानिसलाई सानो काम पनि गाह्रो लाग्नु",
+   "घाँस काट्नु"
+  ],
+  "answer": 2,
+  "explanation": "\"जाँगर नभए घाँस पनि भारी\" को अर्थ अल्छी मानिसलाई सानो काम पनि गाह्रो लाग्नु हो।",
+  "explanation_ne": "\"जाँगर नभए घाँस पनि भारी\" को अर्थ अल्छी मानिसलाई सानो काम पनि गाह्रो लाग्नु हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0145",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Proverbs",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"थोपा थोपा मिलेर सागर बन्छ\" उखानको अर्थ के हो?",
+  "question_ne": "\"थोपा थोपा मिलेर सागर बन्छ\" उखानको अर्थ के हो?",
+  "options": [
+   "थोपा पानी हुनु",
+   "पानी जम्मा गर्नु",
+   "सागर ठूलो हुनु",
+   "सानो सानो प्रयासले ठूलो उपलब्धि हुन्छ"
+  ],
+  "options_ne": [
+   "थोपा पानी हुनु",
+   "पानी जम्मा गर्नु",
+   "सागर ठूलो हुनु",
+   "सानो सानो प्रयासले ठूलो उपलब्धि हुन्छ"
+  ],
+  "answer": 3,
+  "explanation": "\"थोपा थोपा मिलेर सागर बन्छ\" को अर्थ सानो सानो प्रयासले ठूलो उपलब्धि हुन्छ हो।",
+  "explanation_ne": "\"थोपा थोपा मिलेर सागर बन्छ\" को अर्थ सानो सानो प्रयासले ठूलो उपलब्धि हुन्छ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0149",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"पुस्ताकालय\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"पुस्ताकालय\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "पुस्ताकालया",
+   "पुस्तकालय",
+   "पुस्तकलय",
+   "पुस्तकाल"
+  ],
+  "options_ne": [
+   "पुस्ताकालया",
+   "पुस्तकालय",
+   "पुस्तकलय",
+   "पुस्तकाल"
+  ],
+  "answer": 1,
+  "explanation": "\"पुस्ताकालय\" को शुद्ध रूप \"पुस्तकालय\" हो।",
+  "explanation_ne": "\"पुस्ताकालय\" को शुद्ध रूप \"पुस्तकालय\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0150",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"बिज्ञान\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"बिज्ञान\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "विज्ञा",
+   "विग्यान",
+   "विज्ञान",
+   "बिज्ञाना"
+  ],
+  "options_ne": [
+   "विज्ञा",
+   "विग्यान",
+   "विज्ञान",
+   "बिज्ञाना"
+  ],
+  "answer": 2,
+  "explanation": "\"बिज्ञान\" को शुद्ध रूप \"विज्ञान\" हो।",
+  "explanation_ne": "\"बिज्ञान\" को शुद्ध रूप \"विज्ञान\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0151",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"परिस्रम\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"परिस्रम\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "परिस्रमा",
+   "परिश्र",
+   "परिश्रम",
+   "परिशर्म"
+  ],
+  "options_ne": [
+   "परिस्रमा",
+   "परिश्र",
+   "परिश्रम",
+   "परिशर्म"
+  ],
+  "answer": 2,
+  "explanation": "\"परिस्रम\" को शुद्ध रूप \"परिश्रम\" हो।",
+  "explanation_ne": "\"परिस्रम\" को शुद्ध रूप \"परिश्रम\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0152",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"सफलाता\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"सफलाता\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "सफलाताा",
+   "सफलत",
+   "सफालता",
+   "सफलता"
+  ],
+  "options_ne": [
+   "सफलाताा",
+   "सफलत",
+   "सफालता",
+   "सफलता"
+  ],
+  "answer": 3,
+  "explanation": "\"सफलाता\" को शुद्ध रूप \"सफलता\" हो।",
+  "explanation_ne": "\"सफलाता\" को शुद्ध रूप \"सफलता\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0153",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"अध्यन\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"अध्यन\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "अध्ययन",
+   "अध्यय",
+   "अध्यायन",
+   "अध्यना"
+  ],
+  "options_ne": [
+   "अध्ययन",
+   "अध्यय",
+   "अध्यायन",
+   "अध्यना"
+  ],
+  "answer": 0,
+  "explanation": "\"अध्यन\" को शुद्ध रूप \"अध्ययन\" हो।",
+  "explanation_ne": "\"अध्यन\" को शुद्ध रूप \"अध्ययन\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0154",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"ब्यवसाय\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"ब्यवसाय\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "व्यवसाय",
+   "व्यावसाय",
+   "ब्यवसाया",
+   "व्यवसा"
+  ],
+  "options_ne": [
+   "व्यवसाय",
+   "व्यावसाय",
+   "ब्यवसाया",
+   "व्यवसा"
+  ],
+  "answer": 0,
+  "explanation": "\"ब्यवसाय\" को शुद्ध रूप \"व्यवसाय\" हो।",
+  "explanation_ne": "\"ब्यवसाय\" को शुद्ध रूप \"व्यवसाय\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0155",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"साहित\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"साहित\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "साहित्",
+   "साहित्य",
+   "साहित्या",
+   "साहिता"
+  ],
+  "options_ne": [
+   "साहित्",
+   "साहित्य",
+   "साहित्या",
+   "साहिता"
+  ],
+  "answer": 1,
+  "explanation": "\"साहित\" को शुद्ध रूप \"साहित्य\" हो।",
+  "explanation_ne": "\"साहित\" को शुद्ध रूप \"साहित्य\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0156",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Spelling",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "\"गणतान्त्र\" को शुद्ध रूप कुन हो?",
+  "question_ne": "\"गणतान्त्र\" को शुद्ध रूप कुन हो?",
+  "options": [
+   "गणतन्त्",
+   "गणतान्त्रा",
+   "गणतंत्र",
+   "गणतन्त्र"
+  ],
+  "options_ne": [
+   "गणतन्त्",
+   "गणतान्त्रा",
+   "गणतंत्र",
+   "गणतन्त्र"
+  ],
+  "answer": 3,
+  "explanation": "\"गणतान्त्र\" को शुद्ध रूप \"गणतन्त्र\" हो।",
+  "explanation_ne": "\"गणतान्त्र\" को शुद्ध रूप \"गणतन्त्र\" हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0157",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"विद्या + आलय\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"विद्या + आलय\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "निराहार",
+   "महर्षि",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "options_ne": [
+   "निराहार",
+   "महर्षि",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "answer": 2,
+  "explanation": "\"विद्या + आलय\" को सन्धि \"विद्यालय\" हुन्छ।",
+  "explanation_ne": "\"विद्या + आलय\" को सन्धि \"विद्यालय\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0158",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"परम + आत्मा\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"परम + आत्मा\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "निराहार",
+   "विद्यालय",
+   "परमात्मा",
+   "महर्षि"
+  ],
+  "options_ne": [
+   "निराहार",
+   "विद्यालय",
+   "परमात्मा",
+   "महर्षि"
+  ],
+  "answer": 2,
+  "explanation": "\"परम + आत्मा\" को सन्धि \"परमात्मा\" हुन्छ।",
+  "explanation_ne": "\"परम + आत्मा\" को सन्धि \"परमात्मा\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0159",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"महा + ऋषि\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"महा + ऋषि\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "निराहार",
+   "परमात्मा",
+   "महर्षि",
+   "विद्यालय"
+  ],
+  "options_ne": [
+   "निराहार",
+   "परमात्मा",
+   "महर्षि",
+   "विद्यालय"
+  ],
+  "answer": 2,
+  "explanation": "\"महा + ऋषि\" को सन्धि \"महर्षि\" हुन्छ।",
+  "explanation_ne": "\"महा + ऋषि\" को सन्धि \"महर्षि\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0160",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"नि + आहार\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"नि + आहार\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "महर्षि",
+   "निराहार",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "options_ne": [
+   "महर्षि",
+   "निराहार",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "answer": 1,
+  "explanation": "\"नि + आहार\" को सन्धि \"निराहार\" हुन्छ।",
+  "explanation_ne": "\"नि + आहार\" को सन्धि \"निराहार\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0161",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"सत् + जन\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"सत् + जन\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "महर्षि",
+   "सज्जन",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "options_ne": [
+   "महर्षि",
+   "सज्जन",
+   "विद्यालय",
+   "परमात्मा"
+  ],
+  "answer": 1,
+  "explanation": "\"सत् + जन\" को सन्धि \"सज्जन\" हुन्छ।",
+  "explanation_ne": "\"सत् + जन\" को सन्धि \"सज्जन\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0162",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"उत् + चारण\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"उत् + चारण\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "परमात्मा",
+   "महर्षि",
+   "उच्चारण",
+   "विद्यालय"
+  ],
+  "options_ne": [
+   "परमात्मा",
+   "महर्षि",
+   "उच्चारण",
+   "विद्यालय"
+  ],
+  "answer": 2,
+  "explanation": "\"उत् + चारण\" को सन्धि \"उच्चारण\" हुन्छ।",
+  "explanation_ne": "\"उत् + चारण\" को सन्धि \"उच्चारण\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0164",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"पुस्तक + आलय\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"पुस्तक + आलय\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "पुस्तकालय",
+   "विद्यालय",
+   "परमात्मा",
+   "महर्षि"
+  ],
+  "options_ne": [
+   "पुस्तकालय",
+   "विद्यालय",
+   "परमात्मा",
+   "महर्षि"
+  ],
+  "answer": 0,
+  "explanation": "\"पुस्तक + आलय\" को सन्धि \"पुस्तकालय\" हुन्छ।",
+  "explanation_ne": "\"पुस्तक + आलय\" को सन्धि \"पुस्तकालय\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0165",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"हिम + आलय\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"हिम + आलय\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "महर्षि",
+   "विद्यालय",
+   "हिमालय",
+   "परमात्मा"
+  ],
+  "options_ne": [
+   "महर्षि",
+   "विद्यालय",
+   "हिमालय",
+   "परमात्मा"
+  ],
+  "answer": 2,
+  "explanation": "\"हिम + आलय\" को सन्धि \"हिमालय\" हुन्छ।",
+  "explanation_ne": "\"हिम + आलय\" को सन्धि \"हिमालय\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEP-0166",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "tsc-primary",
+   "tsc-secondary",
+   "police",
+   "army"
+  ],
+  "topic": "Nepali Language",
+  "subtopic": "Sandhi",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "\"गण + ईश\" को सन्धि गर्दा के बन्छ?",
+  "question_ne": "\"गण + ईश\" को सन्धि गर्दा के बन्छ?",
+  "options": [
+   "गणेश",
+   "परमात्मा",
+   "महर्षि",
+   "विद्यालय"
+  ],
+  "options_ne": [
+   "गणेश",
+   "परमात्मा",
+   "महर्षि",
+   "विद्यालय"
+  ],
+  "answer": 0,
+  "explanation": "\"गण + ईश\" को सन्धि \"गणेश\" हुन्छ।",
+  "explanation_ne": "\"गण + ईश\" को सन्धि \"गणेश\" हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

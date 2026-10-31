@@ -1,0 +1,2990 @@
+[
+ {
+  "id": "R11-IQ5-0001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Monday, what day will it be after 10 days?",
+  "question_ne": "आज Monday हो भने १० दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Monday",
+   "Tuesday",
+   "Wednesday",
+   "Thursday"
+  ],
+  "options_ne": [
+   "Monday",
+   "Tuesday",
+   "Wednesday",
+   "Thursday"
+  ],
+  "answer": 3,
+  "explanation": "10 days = 1 weeks + 3 days, so the day is Thursday.",
+  "explanation_ne": "१० दिन = १ हप्ता + ३ दिन भएकाले Thursday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Tuesday, what day will it be after 15 days?",
+  "question_ne": "आज Tuesday हो भने १५ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Tuesday",
+   "Monday",
+   "Thursday",
+   "Wednesday"
+  ],
+  "options_ne": [
+   "Tuesday",
+   "Monday",
+   "Thursday",
+   "Wednesday"
+  ],
+  "answer": 3,
+  "explanation": "15 days = 2 weeks + 1 days, so the day is Wednesday.",
+  "explanation_ne": "१५ दिन = २ हप्ता + १ दिन भएकाले Wednesday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Wednesday, what day will it be after 9 days?",
+  "question_ne": "आज Wednesday हो भने ९ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Wednesday",
+   "Tuesday",
+   "Friday",
+   "Monday"
+  ],
+  "options_ne": [
+   "Wednesday",
+   "Tuesday",
+   "Friday",
+   "Monday"
+  ],
+  "answer": 2,
+  "explanation": "9 days = 1 weeks + 2 days, so the day is Friday.",
+  "explanation_ne": "९ दिन = १ हप्ता + २ दिन भएकाले Friday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Thursday, what day will it be after 20 days?",
+  "question_ne": "आज Thursday हो भने २० दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Monday",
+   "Wednesday",
+   "Tuesday",
+   "Thursday"
+  ],
+  "options_ne": [
+   "Monday",
+   "Wednesday",
+   "Tuesday",
+   "Thursday"
+  ],
+  "answer": 1,
+  "explanation": "20 days = 2 weeks + 6 days, so the day is Wednesday.",
+  "explanation_ne": "२० दिन = २ हप्ता + ६ दिन भएकाले Wednesday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Friday, what day will it be after 13 days?",
+  "question_ne": "आज Friday हो भने १३ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Monday",
+   "Wednesday",
+   "Thursday",
+   "Tuesday"
+  ],
+  "options_ne": [
+   "Monday",
+   "Wednesday",
+   "Thursday",
+   "Tuesday"
+  ],
+  "answer": 2,
+  "explanation": "13 days = 1 weeks + 6 days, so the day is Thursday.",
+  "explanation_ne": "१३ दिन = १ हप्ता + ६ दिन भएकाले Thursday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Saturday, what day will it be after 8 days?",
+  "question_ne": "आज Saturday हो भने ८ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Wednesday",
+   "Sunday",
+   "Monday",
+   "Tuesday"
+  ],
+  "options_ne": [
+   "Wednesday",
+   "Sunday",
+   "Monday",
+   "Tuesday"
+  ],
+  "answer": 1,
+  "explanation": "8 days = 1 weeks + 1 days, so the day is Sunday.",
+  "explanation_ne": "८ दिन = १ हप्ता + १ दिन भएकाले Sunday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Sunday, what day will it be after 17 days?",
+  "question_ne": "आज Sunday हो भने १७ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Thursday",
+   "Wednesday",
+   "Monday",
+   "Tuesday"
+  ],
+  "options_ne": [
+   "Thursday",
+   "Wednesday",
+   "Monday",
+   "Tuesday"
+  ],
+  "answer": 1,
+  "explanation": "17 days = 2 weeks + 3 days, so the day is Wednesday.",
+  "explanation_ne": "१७ दिन = २ हप्ता + ३ दिन भएकाले Wednesday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Monday, what day will it be after 25 days?",
+  "question_ne": "आज Monday हो भने २५ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Wednesday",
+   "Tuesday",
+   "Monday",
+   "Friday"
+  ],
+  "options_ne": [
+   "Wednesday",
+   "Tuesday",
+   "Monday",
+   "Friday"
+  ],
+  "answer": 3,
+  "explanation": "25 days = 3 weeks + 4 days, so the day is Friday.",
+  "explanation_ne": "२५ दिन = ३ हप्ता + ४ दिन भएकाले Friday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Friday, what day will it be after 30 days?",
+  "question_ne": "आज Friday हो भने ३० दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Sunday",
+   "Wednesday",
+   "Monday",
+   "Tuesday"
+  ],
+  "options_ne": [
+   "Sunday",
+   "Wednesday",
+   "Monday",
+   "Tuesday"
+  ],
+  "answer": 0,
+  "explanation": "30 days = 4 weeks + 2 days, so the day is Sunday.",
+  "explanation_ne": "३० दिन = ४ हप्ता + २ दिन भएकाले Sunday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Calendar",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If today is Wednesday, what day will it be after 22 days?",
+  "question_ne": "आज Wednesday हो भने २२ दिनपछि कुन बार पर्छ?",
+  "options": [
+   "Wednesday",
+   "Thursday",
+   "Tuesday",
+   "Monday"
+  ],
+  "options_ne": [
+   "Wednesday",
+   "Thursday",
+   "Tuesday",
+   "Monday"
+  ],
+  "answer": 1,
+  "explanation": "22 days = 3 weeks + 1 days, so the day is Thursday.",
+  "explanation_ne": "२२ दिन = ३ हप्ता + १ दिन भएकाले Thursday पर्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 3:00 now, what time will it be after 5 hours?",
+  "question_ne": "अहिले ३ बजेको छ भने ५ घण्टापछि कति बज्छ?",
+  "options": [
+   "7:00",
+   "8:00",
+   "9:00",
+   "3:00"
+  ],
+  "options_ne": [
+   "7:00",
+   "8:00",
+   "9:00",
+   "3:00"
+  ],
+  "answer": 1,
+  "explanation": "3 + 5 = 8; on a 12-hour clock that is 8:00.",
+  "explanation_ne": "३ + ५ = ८; १२-घण्टे घडीमा यो ८:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 7:00 now, what time will it be after 8 hours?",
+  "question_ne": "अहिले ७ बजेको छ भने ८ घण्टापछि कति बज्छ?",
+  "options": [
+   "7:00",
+   "2:00",
+   "4:00",
+   "3:00"
+  ],
+  "options_ne": [
+   "7:00",
+   "2:00",
+   "4:00",
+   "3:00"
+  ],
+  "answer": 3,
+  "explanation": "7 + 8 = 15; on a 12-hour clock that is 3:00.",
+  "explanation_ne": "७ + ८ = १५; १२-घण्टे घडीमा यो ३:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 10:00 now, what time will it be after 6 hours?",
+  "question_ne": "अहिले १० बजेको छ भने ६ घण्टापछि कति बज्छ?",
+  "options": [
+   "4:00",
+   "3:00",
+   "5:00",
+   "10:00"
+  ],
+  "options_ne": [
+   "4:00",
+   "3:00",
+   "5:00",
+   "10:00"
+  ],
+  "answer": 0,
+  "explanation": "10 + 6 = 16; on a 12-hour clock that is 4:00.",
+  "explanation_ne": "१० + ६ = १६; १२-घण्टे घडीमा यो ४:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 9:00 now, what time will it be after 4 hours?",
+  "question_ne": "अहिले ९ बजेको छ भने ४ घण्टापछि कति बज्छ?",
+  "options": [
+   "12:00",
+   "9:00",
+   "1:00",
+   "2:00"
+  ],
+  "options_ne": [
+   "12:00",
+   "9:00",
+   "1:00",
+   "2:00"
+  ],
+  "answer": 2,
+  "explanation": "9 + 4 = 13; on a 12-hour clock that is 1:00.",
+  "explanation_ne": "९ + ४ = १३; १२-घण्टे घडीमा यो १:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 5:00 now, what time will it be after 9 hours?",
+  "question_ne": "अहिले ५ बजेको छ भने ९ घण्टापछि कति बज्छ?",
+  "options": [
+   "2:00",
+   "1:00",
+   "5:00",
+   "3:00"
+  ],
+  "options_ne": [
+   "2:00",
+   "1:00",
+   "5:00",
+   "3:00"
+  ],
+  "answer": 0,
+  "explanation": "5 + 9 = 14; on a 12-hour clock that is 2:00.",
+  "explanation_ne": "५ + ९ = १४; १२-घण्टे घडीमा यो २:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 11:00 now, what time will it be after 7 hours?",
+  "question_ne": "अहिले ११ बजेको छ भने ७ घण्टापछि कति बज्छ?",
+  "options": [
+   "11:00",
+   "6:00",
+   "7:00",
+   "5:00"
+  ],
+  "options_ne": [
+   "11:00",
+   "6:00",
+   "7:00",
+   "5:00"
+  ],
+  "answer": 1,
+  "explanation": "11 + 7 = 18; on a 12-hour clock that is 6:00.",
+  "explanation_ne": "११ + ७ = १८; १२-घण्टे घडीमा यो ६:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Clock",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If the time is 8:00 now, what time will it be after 10 hours?",
+  "question_ne": "अहिले ८ बजेको छ भने १० घण्टापछि कति बज्छ?",
+  "options": [
+   "8:00",
+   "6:00",
+   "5:00",
+   "7:00"
+  ],
+  "options_ne": [
+   "8:00",
+   "6:00",
+   "5:00",
+   "7:00"
+  ],
+  "answer": 1,
+  "explanation": "8 + 10 = 18; on a 12-hour clock that is 6:00.",
+  "explanation_ne": "८ + १० = १८; १२-घण्टे घडीमा यो ६:०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: B, H, N, T, Z, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? B, H, N, T, Z, ?",
+  "options": [
+   "G",
+   "F",
+   "E",
+   "L"
+  ],
+  "options_ne": [
+   "G",
+   "F",
+   "E",
+   "L"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 6 step(s) forward: Z + 6 = F.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: Z + ६ = F।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: B, J, R, Z, H, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? B, J, R, Z, H, ?",
+  "options": [
+   "O",
+   "Q",
+   "X",
+   "P"
+  ],
+  "options_ne": [
+   "O",
+   "Q",
+   "X",
+   "P"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 8 step(s) forward: H + 8 = P.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: H + ८ = P।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: D, J, P, V, B, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? D, J, P, V, B, ?",
+  "options": [
+   "N",
+   "I",
+   "H",
+   "G"
+  ],
+  "options_ne": [
+   "N",
+   "I",
+   "H",
+   "G"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 6 step(s) forward: B + 6 = H.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: B + ६ = H।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: D, L, T, B, J, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? D, L, T, B, J, ?",
+  "options": [
+   "Q",
+   "S",
+   "Z",
+   "R"
+  ],
+  "options_ne": [
+   "Q",
+   "S",
+   "Z",
+   "R"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 8 step(s) forward: J + 8 = R.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: J + ८ = R।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: F, L, R, X, D, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? F, L, R, X, D, ?",
+  "options": [
+   "J",
+   "P",
+   "K",
+   "I"
+  ],
+  "options_ne": [
+   "J",
+   "P",
+   "K",
+   "I"
+  ],
+  "answer": 0,
+  "explanation": "Each letter moves 6 step(s) forward: D + 6 = J.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: D + ६ = J।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: F, N, V, D, L, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? F, N, V, D, L, ?",
+  "options": [
+   "U",
+   "T",
+   "S",
+   "B"
+  ],
+  "options_ne": [
+   "U",
+   "T",
+   "S",
+   "B"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 8 step(s) forward: L + 8 = T.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: L + ८ = T।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: H, N, T, Z, F, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? H, N, T, Z, F, ?",
+  "options": [
+   "M",
+   "K",
+   "L",
+   "R"
+  ],
+  "options_ne": [
+   "M",
+   "K",
+   "L",
+   "R"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 6 step(s) forward: F + 6 = L.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: F + ६ = L।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: H, P, X, F, N, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? H, P, X, F, N, ?",
+  "options": [
+   "V",
+   "D",
+   "U",
+   "W"
+  ],
+  "options_ne": [
+   "V",
+   "D",
+   "U",
+   "W"
+  ],
+  "answer": 0,
+  "explanation": "Each letter moves 8 step(s) forward: N + 8 = V.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: N + ८ = V।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: J, R, Z, H, P, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? J, R, Z, H, P, ?",
+  "options": [
+   "F",
+   "Y",
+   "X",
+   "W"
+  ],
+  "options_ne": [
+   "F",
+   "Y",
+   "X",
+   "W"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 8 step(s) forward: P + 8 = X.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: P + ८ = X।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: L, R, X, D, J, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? L, R, X, D, J, ?",
+  "options": [
+   "P",
+   "Q",
+   "O",
+   "V"
+  ],
+  "options_ne": [
+   "P",
+   "Q",
+   "O",
+   "V"
+  ],
+  "answer": 0,
+  "explanation": "Each letter moves 6 step(s) forward: J + 6 = P.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: J + ६ = P।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: L, T, B, J, R, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? L, T, B, J, R, ?",
+  "options": [
+   "A",
+   "H",
+   "Z",
+   "Y"
+  ],
+  "options_ne": [
+   "A",
+   "H",
+   "Z",
+   "Y"
+  ],
+  "answer": 2,
+  "explanation": "Each letter moves 8 step(s) forward: R + 8 = Z.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: R + ८ = Z।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: N, T, Z, F, L, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? N, T, Z, F, L, ?",
+  "options": [
+   "Q",
+   "R",
+   "S",
+   "X"
+  ],
+  "options_ne": [
+   "Q",
+   "R",
+   "S",
+   "X"
+  ],
+  "answer": 1,
+  "explanation": "Each letter moves 6 step(s) forward: L + 6 = R.",
+  "explanation_ne": "प्रत्येक अक्षर ६ कदम अगाडि बढ्छ: L + ६ = R।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Letter Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next letter in the series: N, V, D, L, T, ?",
+  "question_ne": "तलको अक्षर श्रृङ्खलाको अर्को अक्षर कुन हो? N, V, D, L, T, ?",
+  "options": [
+   "A",
+   "J",
+   "C",
+   "B"
+  ],
+  "options_ne": [
+   "A",
+   "J",
+   "C",
+   "B"
+  ],
+  "answer": 3,
+  "explanation": "Each letter moves 8 step(s) forward: T + 8 = B.",
+  "explanation_ne": "प्रत्येक अक्षर ८ कदम अगाडि बढ्छ: T + ८ = B।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 5, 7, 10, 15, 22, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 5, 7, 10, 15, 22, ?",
+  "options": [
+   "33",
+   "35",
+   "31",
+   "38"
+  ],
+  "options_ne": [
+   "३३",
+   "३५",
+   "३१",
+   "३८"
+  ],
+  "answer": 0,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 22 + 11 = 33.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: २२ + ११ = ३३।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 8, 10, 13, 18, 25, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 8, 10, 13, 18, 25, ?",
+  "options": [
+   "36",
+   "38",
+   "41",
+   "34"
+  ],
+  "options_ne": [
+   "३६",
+   "३८",
+   "४१",
+   "३४"
+  ],
+  "answer": 0,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 25 + 11 = 36.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: २५ + ११ = ३६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 12, 14, 17, 22, 29, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 12, 14, 17, 22, 29, ?",
+  "options": [
+   "38",
+   "40",
+   "42",
+   "45"
+  ],
+  "options_ne": [
+   "३८",
+   "४०",
+   "४२",
+   "४५"
+  ],
+  "answer": 1,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 29 + 11 = 40.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: २९ + ११ = ४०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 20, 22, 25, 30, 37, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 20, 22, 25, 30, 37, ?",
+  "options": [
+   "53",
+   "48",
+   "46",
+   "50"
+  ],
+  "options_ne": [
+   "५३",
+   "४८",
+   "४६",
+   "५०"
+  ],
+  "answer": 1,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 37 + 11 = 48.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: ३७ + ११ = ४८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 3, 5, 8, 13, 20, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 3, 5, 8, 13, 20, ?",
+  "options": [
+   "33",
+   "36",
+   "31",
+   "29"
+  ],
+  "options_ne": [
+   "३३",
+   "३६",
+   "३१",
+   "२९"
+  ],
+  "answer": 2,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 20 + 11 = 31.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: २० + ११ = ३१।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "Find the next number in the series: 15, 17, 20, 25, 32, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 15, 17, 20, 25, 32, ?",
+  "options": [
+   "41",
+   "48",
+   "43",
+   "45"
+  ],
+  "options_ne": [
+   "४१",
+   "४८",
+   "४३",
+   "४५"
+  ],
+  "answer": 2,
+  "explanation": "The steps are prime numbers 2, 3, 5, 7, so the next step is 11: 32 + 11 = 43.",
+  "explanation_ne": "कदमहरू अभाज्य सङ्ख्या २, ३, ५, ७ हुन्, त्यसैले अर्को कदम ११ हो: ३२ + ११ = ४३।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 96, 48, 24, 12, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 96, 48, 24, 12, ?",
+  "options": [
+   "12",
+   "6",
+   "4",
+   "8"
+  ],
+  "options_ne": [
+   "१२",
+   "६",
+   "४",
+   "८"
+  ],
+  "answer": 1,
+  "explanation": "Each term is half the previous one, so the next term is 6.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद ६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 160, 80, 40, 20, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 160, 80, 40, 20, ?",
+  "options": [
+   "20",
+   "10",
+   "12",
+   "8"
+  ],
+  "options_ne": [
+   "२०",
+   "१०",
+   "१२",
+   "८"
+  ],
+  "answer": 1,
+  "explanation": "Each term is half the previous one, so the next term is 10.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद १० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 200, 100, 50, 25, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 200, 100, 50, 25, ?",
+  "options": [
+   "10",
+   "25",
+   "14",
+   "12"
+  ],
+  "options_ne": [
+   "१०",
+   "२५",
+   "१४",
+   "१२"
+  ],
+  "answer": 3,
+  "explanation": "Each term is half the previous one, so the next term is 12.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद १२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 144, 72, 36, 18, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 144, 72, 36, 18, ?",
+  "options": [
+   "7",
+   "11",
+   "9",
+   "18"
+  ],
+  "options_ne": [
+   "७",
+   "११",
+   "९",
+   "१८"
+  ],
+  "answer": 2,
+  "explanation": "Each term is half the previous one, so the next term is 9.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद ९ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 240, 120, 60, 30, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 240, 120, 60, 30, ?",
+  "options": [
+   "13",
+   "30",
+   "17",
+   "15"
+  ],
+  "options_ne": [
+   "१३",
+   "३०",
+   "१७",
+   "१५"
+  ],
+  "answer": 3,
+  "explanation": "Each term is half the previous one, so the next term is 15.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 320, 160, 80, 40, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 320, 160, 80, 40, ?",
+  "options": [
+   "22",
+   "20",
+   "18",
+   "40"
+  ],
+  "options_ne": [
+   "२२",
+   "२०",
+   "१८",
+   "४०"
+  ],
+  "answer": 1,
+  "explanation": "Each term is half the previous one, so the next term is 20.",
+  "explanation_ne": "प्रत्येक पद अघिल्लोको आधा हुन्छ, त्यसैले अर्को पद २० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is BALL written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने BALL लाई कसरी लेखिन्छ?",
+  "options": [
+   "BLAL",
+   "LALB",
+   "LLAB",
+   "BALL"
+  ],
+  "options_ne": [
+   "BLAL",
+   "LALB",
+   "LLAB",
+   "BALL"
+  ],
+  "answer": 1,
+  "explanation": "Swapping the first and last letters of BALL gives LALB.",
+  "explanation_ne": "BALL को पहिलो र अन्तिम अक्षर साट्दा LALB हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is FISH written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने FISH लाई कसरी लेखिन्छ?",
+  "options": [
+   "FSIH",
+   "HSIF",
+   "FISH",
+   "HISF"
+  ],
+  "options_ne": [
+   "FSIH",
+   "HSIF",
+   "FISH",
+   "HISF"
+  ],
+  "answer": 3,
+  "explanation": "Swapping the first and last letters of FISH gives HISF.",
+  "explanation_ne": "FISH को पहिलो र अन्तिम अक्षर साट्दा HISF हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is TREE written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने TREE लाई कसरी लेखिन्छ?",
+  "options": [
+   "EERT",
+   "ERET",
+   "TREE",
+   "TERE"
+  ],
+  "options_ne": [
+   "EERT",
+   "ERET",
+   "TREE",
+   "TERE"
+  ],
+  "answer": 1,
+  "explanation": "Swapping the first and last letters of TREE gives ERET.",
+  "explanation_ne": "TREE को पहिलो र अन्तिम अक्षर साट्दा ERET हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is LION written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने LION लाई कसरी लेखिन्छ?",
+  "options": [
+   "NOIL",
+   "LION",
+   "LOIN",
+   "NIOL"
+  ],
+  "options_ne": [
+   "NOIL",
+   "LION",
+   "LOIN",
+   "NIOL"
+  ],
+  "answer": 3,
+  "explanation": "Swapping the first and last letters of LION gives NIOL.",
+  "explanation_ne": "LION को पहिलो र अन्तिम अक्षर साट्दा NIOL हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is STAR written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने STAR लाई कसरी लेखिन्छ?",
+  "options": [
+   "SATR",
+   "STAR",
+   "RTAS",
+   "RATS"
+  ],
+  "options_ne": [
+   "SATR",
+   "STAR",
+   "RTAS",
+   "RATS"
+  ],
+  "answer": 2,
+  "explanation": "Swapping the first and last letters of STAR gives RTAS.",
+  "explanation_ne": "STAR को पहिलो र अन्तिम अक्षर साट्दा RTAS हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is KING written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने KING लाई कसरी लेखिन्छ?",
+  "options": [
+   "KNIG",
+   "KING",
+   "GINK",
+   "GNIK"
+  ],
+  "options_ne": [
+   "KNIG",
+   "KING",
+   "GINK",
+   "GNIK"
+  ],
+  "answer": 2,
+  "explanation": "Swapping the first and last letters of KING gives GINK.",
+  "explanation_ne": "KING को पहिलो र अन्तिम अक्षर साट्दा GINK हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is ROAD written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने ROAD लाई कसरी लेखिन्छ?",
+  "options": [
+   "ROAD",
+   "DOAR",
+   "RAOD",
+   "DAOR"
+  ],
+  "options_ne": [
+   "ROAD",
+   "DOAR",
+   "RAOD",
+   "DAOR"
+  ],
+  "answer": 1,
+  "explanation": "Swapping the first and last letters of ROAD gives DOAR.",
+  "explanation_ne": "ROAD को पहिलो र अन्तिम अक्षर साट्दा DOAR हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is WIND written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने WIND लाई कसरी लेखिन्छ?",
+  "options": [
+   "DINW",
+   "DNIW",
+   "WIND",
+   "WNID"
+  ],
+  "options_ne": [
+   "DINW",
+   "DNIW",
+   "WIND",
+   "WNID"
+  ],
+  "answer": 0,
+  "explanation": "Swapping the first and last letters of WIND gives DINW.",
+  "explanation_ne": "WIND को पहिलो र अन्तिम अक्षर साट्दा DINW हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is HAND written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने HAND लाई कसरी लेखिन्छ?",
+  "options": [
+   "DNAH",
+   "HNAD",
+   "HAND",
+   "DANH"
+  ],
+  "options_ne": [
+   "DNAH",
+   "HNAD",
+   "HAND",
+   "DANH"
+  ],
+  "answer": 3,
+  "explanation": "Swapping the first and last letters of HAND gives DANH.",
+  "explanation_ne": "HAND को पहिलो र अन्तिम अक्षर साट्दा DANH हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is LAMP written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने LAMP लाई कसरी लेखिन्छ?",
+  "options": [
+   "PAML",
+   "LMAP",
+   "LAMP",
+   "PMAL"
+  ],
+  "options_ne": [
+   "PAML",
+   "LMAP",
+   "LAMP",
+   "PMAL"
+  ],
+  "answer": 0,
+  "explanation": "Swapping the first and last letters of LAMP gives PAML.",
+  "explanation_ne": "LAMP को पहिलो र अन्तिम अक्षर साट्दा PAML हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is SONG written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने SONG लाई कसरी लेखिन्छ?",
+  "options": [
+   "SNOG",
+   "SONG",
+   "GNOS",
+   "GONS"
+  ],
+  "options_ne": [
+   "SNOG",
+   "SONG",
+   "GNOS",
+   "GONS"
+  ],
+  "answer": 3,
+  "explanation": "Swapping the first and last letters of SONG gives GONS.",
+  "explanation_ne": "SONG को पहिलो र अन्तिम अक्षर साट्दा GONS हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is RAIN written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने RAIN लाई कसरी लेखिन्छ?",
+  "options": [
+   "RAIN",
+   "RIAN",
+   "NAIR",
+   "NIAR"
+  ],
+  "options_ne": [
+   "RAIN",
+   "RIAN",
+   "NAIR",
+   "NIAR"
+  ],
+  "answer": 2,
+  "explanation": "Swapping the first and last letters of RAIN gives NAIR.",
+  "explanation_ne": "RAIN को पहिलो र अन्तिम अक्षर साट्दा NAIR हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is LEAF written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने LEAF लाई कसरी लेखिन्छ?",
+  "options": [
+   "FEAL",
+   "LAEF",
+   "FAEL",
+   "LEAF"
+  ],
+  "options_ne": [
+   "FEAL",
+   "LAEF",
+   "FAEL",
+   "LEAF"
+  ],
+  "answer": 0,
+  "explanation": "Swapping the first and last letters of LEAF gives FEAL.",
+  "explanation_ne": "LEAF को पहिलो र अन्तिम अक्षर साट्दा FEAL हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is PLAY written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने PLAY लाई कसरी लेखिन्छ?",
+  "options": [
+   "PLAY",
+   "YLAP",
+   "PALY",
+   "YALP"
+  ],
+  "options_ne": [
+   "PLAY",
+   "YLAP",
+   "PALY",
+   "YALP"
+  ],
+  "answer": 1,
+  "explanation": "Swapping the first and last letters of PLAY gives YLAP.",
+  "explanation_ne": "PLAY को पहिलो र अन्तिम अक्षर साट्दा YLAP हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If the first and last letters of a word are swapped, how is GAME written?",
+  "question_ne": "यदि शब्दको पहिलो र अन्तिम अक्षर साटियो भने GAME लाई कसरी लेखिन्छ?",
+  "options": [
+   "GMAE",
+   "GAME",
+   "EMAG",
+   "EAMG"
+  ],
+  "options_ne": [
+   "GMAE",
+   "GAME",
+   "EMAG",
+   "EAMG"
+  ],
+  "answer": 3,
+  "explanation": "Swapping the first and last letters of GAME gives EAMG.",
+  "explanation_ne": "GAME को पहिलो र अन्तिम अक्षर साट्दा EAMG हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many vowels are there in the word EDUCATION?",
+  "question_ne": "EDUCATION शब्दमा कति स्वर वर्ण (vowels) छन्?",
+  "options": [
+   "5",
+   "4",
+   "15",
+   "6"
+  ],
+  "options_ne": [
+   "५",
+   "४",
+   "१५",
+   "६"
+  ],
+  "answer": 0,
+  "explanation": "EDUCATION has 5 vowel(s).",
+  "explanation_ne": "EDUCATION मा ५ स्वर वर्ण छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many vowels are there in the word COMPUTER?",
+  "question_ne": "COMPUTER शब्दमा कति स्वर वर्ण (vowels) छन्?",
+  "options": [
+   "5",
+   "2",
+   "3",
+   "4"
+  ],
+  "options_ne": [
+   "५",
+   "२",
+   "३",
+   "४"
+  ],
+  "answer": 2,
+  "explanation": "COMPUTER has 3 vowel(s).",
+  "explanation_ne": "COMPUTER मा ३ स्वर वर्ण छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many vowels are there in the word NEPAL?",
+  "question_ne": "NEPAL शब्दमा कति स्वर वर्ण (vowels) छन्?",
+  "options": [
+   "12",
+   "2",
+   "1",
+   "3"
+  ],
+  "options_ne": [
+   "१२",
+   "२",
+   "१",
+   "३"
+  ],
+  "answer": 1,
+  "explanation": "NEPAL has 2 vowel(s).",
+  "explanation_ne": "NEPAL मा २ स्वर वर्ण छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many vowels are there in the word MOUNTAIN?",
+  "question_ne": "MOUNTAIN शब्दमा कति स्वर वर्ण (vowels) छन्?",
+  "options": [
+   "14",
+   "3",
+   "4",
+   "5"
+  ],
+  "options_ne": [
+   "१४",
+   "३",
+   "४",
+   "५"
+  ],
+  "answer": 2,
+  "explanation": "MOUNTAIN has 4 vowel(s).",
+  "explanation_ne": "MOUNTAIN मा ४ स्वर वर्ण छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A man faces south, turns left, then turns right again. Which direction does he face now?",
+  "question_ne": "एउटा मानिस south तर्फ फर्केको छ, left मोडिन्छ, फेरि right मोडिन्छ। अब ऊ कुन दिशातर्फ फर्केको छ?",
+  "options": [
+   "east",
+   "west",
+   "south",
+   "north"
+  ],
+  "options_ne": [
+   "east",
+   "west",
+   "south",
+   "north"
+  ],
+  "answer": 2,
+  "explanation": "Facing south, turning left then right leaves him facing south.",
+  "explanation_ne": "south तर्फ फर्केर left र right मोडिँदा ऊ south तर्फ फर्कन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Six people sit in a row in this order from left to right: A, B, C, D, E, F. Who sits third from the left?",
+  "question_ne": "छ जना बायाँबाट दायाँ यस क्रममा बसेका छन्: A, B, C, D, E, F। बायाँबाट तेस्रो को बसेको छ?",
+  "options": [
+   "E",
+   "C",
+   "B",
+   "A"
+  ],
+  "options_ne": [
+   "E",
+   "C",
+   "B",
+   "A"
+  ],
+  "answer": 1,
+  "explanation": "The third person from the left in A, B, C, D, E, F is C.",
+  "explanation_ne": "A, B, C, D, E, F मा बायाँबाट तेस्रो व्यक्ति C हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Six people sit in a row in this order from left to right: P, Q, R, S, T, U. Who sits second from the right?",
+  "question_ne": "छ जना बायाँबाट दायाँ यस क्रममा बसेका छन्: P, Q, R, S, T, U। दायाँबाट दोस्रो को बसेको छ?",
+  "options": [
+   "P",
+   "Q",
+   "T",
+   "U"
+  ],
+  "options_ne": [
+   "P",
+   "Q",
+   "T",
+   "U"
+  ],
+  "answer": 2,
+  "explanation": "The second person from the right in P, Q, R, S, T, U is T.",
+  "explanation_ne": "P, Q, R, S, T, U मा दायाँबाट दोस्रो व्यक्ति T हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 5th from the front and B is 12th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ५औँ र B अगाडिबाट १२औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "5",
+   "16",
+   "6",
+   "7"
+  ],
+  "options_ne": [
+   "५",
+   "१६",
+   "६",
+   "७"
+  ],
+  "answer": 2,
+  "explanation": "People between = 12 - 5 - 1 = 6.",
+  "explanation_ne": "बीचका मानिस = १२ − ५ − १ = ६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 8th from the front and B is 17th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ८औँ र B अगाडिबाट १७औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "9",
+   "7",
+   "18",
+   "8"
+  ],
+  "options_ne": [
+   "९",
+   "७",
+   "१८",
+   "८"
+  ],
+  "answer": 3,
+  "explanation": "People between = 17 - 8 - 1 = 8.",
+  "explanation_ne": "बीचका मानिस = १७ − ८ − १ = ८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 3rd from the front and B is 14th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ३औँ र B अगाडिबाट १४औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "9",
+   "10",
+   "20",
+   "11"
+  ],
+  "options_ne": [
+   "९",
+   "१०",
+   "२०",
+   "११"
+  ],
+  "answer": 1,
+  "explanation": "People between = 14 - 3 - 1 = 10.",
+  "explanation_ne": "बीचका मानिस = १४ − ३ − १ = १०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 11th from the front and B is 20th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ११औँ र B अगाडिबाट २०औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "9",
+   "8",
+   "18",
+   "7"
+  ],
+  "options_ne": [
+   "९",
+   "८",
+   "१८",
+   "७"
+  ],
+  "answer": 1,
+  "explanation": "People between = 20 - 11 - 1 = 8.",
+  "explanation_ne": "बीचका मानिस = २० − ११ − १ = ८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 6th from the front and B is 19th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ६औँ र B अगाडिबाट १९औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "12",
+   "22",
+   "11",
+   "13"
+  ],
+  "options_ne": [
+   "१२",
+   "२२",
+   "११",
+   "१३"
+  ],
+  "answer": 0,
+  "explanation": "People between = 19 - 6 - 1 = 12.",
+  "explanation_ne": "बीचका मानिस = १९ − ६ − १ = १२।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, A is 9th from the front and B is 16th from the front. How many people are between A and B?",
+  "question_ne": "एउटा लाइनमा A अगाडिबाट ९औँ र B अगाडिबाट १६औँ छ। A र B बीच कति जना छन्?",
+  "options": [
+   "16",
+   "6",
+   "7",
+   "5"
+  ],
+  "options_ne": [
+   "१६",
+   "६",
+   "७",
+   "५"
+  ],
+  "answer": 1,
+  "explanation": "People between = 16 - 9 - 1 = 6.",
+  "explanation_ne": "बीचका मानिस = १६ − ९ − १ = ६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0095",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which letter is 5 places after C in the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालामा C बाट ५ स्थान पछि कुन अक्षर छ?",
+  "options": [
+   "H",
+   "C",
+   "I",
+   "G"
+  ],
+  "options_ne": [
+   "H",
+   "C",
+   "I",
+   "G"
+  ],
+  "answer": 0,
+  "explanation": "5 places after C is H.",
+  "explanation_ne": "C बाट ५ स्थान पछि H छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which letter is 2 places after K in the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालामा K बाट २ स्थान पछि कुन अक्षर छ?",
+  "options": [
+   "K",
+   "L",
+   "N",
+   "M"
+  ],
+  "options_ne": [
+   "K",
+   "L",
+   "N",
+   "M"
+  ],
+  "answer": 3,
+  "explanation": "2 places after K is M.",
+  "explanation_ne": "K बाट २ स्थान पछि M छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0098",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which letter is 6 places before T in the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालामा T बाट ६ स्थान अघि कुन अक्षर छ?",
+  "options": [
+   "T",
+   "O",
+   "M",
+   "N"
+  ],
+  "options_ne": [
+   "T",
+   "O",
+   "M",
+   "N"
+  ],
+  "answer": 3,
+  "explanation": "6 places before T is N.",
+  "explanation_ne": "T बाट ६ स्थान अघि N छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0099",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which letter is 3 places before F in the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालामा F बाट ३ स्थान अघि कुन अक्षर छ?",
+  "options": [
+   "D",
+   "C",
+   "B",
+   "F"
+  ],
+  "options_ne": [
+   "D",
+   "C",
+   "B",
+   "F"
+  ],
+  "answer": 1,
+  "explanation": "3 places before F is C.",
+  "explanation_ne": "F बाट ३ स्थान अघि C छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which letter is 5 places after P in the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालामा P बाट ५ स्थान पछि कुन अक्षर छ?",
+  "options": [
+   "U",
+   "V",
+   "T",
+   "P"
+  ],
+  "options_ne": [
+   "U",
+   "V",
+   "T",
+   "P"
+  ],
+  "answer": 0,
+  "explanation": "5 places after P is U.",
+  "explanation_ne": "P बाट ५ स्थान पछि U छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 12 natural numbers (1 + 2 + ... + 12)?",
+  "question_ne": "पहिला १२ प्राकृतिक सङ्ख्याको योग (१ + २ + ... + १२) कति हो?",
+  "options": [
+   "78",
+   "90",
+   "66",
+   "144"
+  ],
+  "options_ne": [
+   "७८",
+   "९०",
+   "६६",
+   "१४४"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 12 x 13 / 2 = 78.",
+  "explanation_ne": "योग = १२ × १३ / २ = ७८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 15 natural numbers (1 + 2 + ... + 15)?",
+  "question_ne": "पहिला १५ प्राकृतिक सङ्ख्याको योग (१ + २ + ... + १५) कति हो?",
+  "options": [
+   "105",
+   "135",
+   "120",
+   "225"
+  ],
+  "options_ne": [
+   "१०५",
+   "१३५",
+   "१२०",
+   "२२५"
+  ],
+  "answer": 2,
+  "explanation": "Sum = 15 x 16 / 2 = 120.",
+  "explanation_ne": "योग = १५ × १६ / २ = १२०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 18 natural numbers (1 + 2 + ... + 18)?",
+  "question_ne": "पहिला १८ प्राकृतिक सङ्ख्याको योग (१ + २ + ... + १८) कति हो?",
+  "options": [
+   "324",
+   "171",
+   "189",
+   "153"
+  ],
+  "options_ne": [
+   "३२४",
+   "१७१",
+   "१८९",
+   "१५३"
+  ],
+  "answer": 1,
+  "explanation": "Sum = 18 x 19 / 2 = 171.",
+  "explanation_ne": "योग = १८ × १९ / २ = १७१।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 22 natural numbers (1 + 2 + ... + 22)?",
+  "question_ne": "पहिला २२ प्राकृतिक सङ्ख्याको योग (१ + २ + ... + २२) कति हो?",
+  "options": [
+   "484",
+   "231",
+   "275",
+   "253"
+  ],
+  "options_ne": [
+   "४८४",
+   "२३१",
+   "२७५",
+   "२५३"
+  ],
+  "answer": 3,
+  "explanation": "Sum = 22 x 23 / 2 = 253.",
+  "explanation_ne": "योग = २२ × २३ / २ = २५३।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 25 natural numbers (1 + 2 + ... + 25)?",
+  "question_ne": "पहिला २५ प्राकृतिक सङ्ख्याको योग (१ + २ + ... + २५) कति हो?",
+  "options": [
+   "300",
+   "325",
+   "350",
+   "625"
+  ],
+  "options_ne": [
+   "३००",
+   "३२५",
+   "३५०",
+   "६२५"
+  ],
+  "answer": 1,
+  "explanation": "Sum = 25 x 26 / 2 = 325.",
+  "explanation_ne": "योग = २५ × २६ / २ = ३२५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 30 natural numbers (1 + 2 + ... + 30)?",
+  "question_ne": "पहिला ३० प्राकृतिक सङ्ख्याको योग (१ + २ + ... + ३०) कति हो?",
+  "options": [
+   "465",
+   "900",
+   "495",
+   "435"
+  ],
+  "options_ne": [
+   "४६५",
+   "९००",
+   "४९५",
+   "४३५"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 30 x 31 / 2 = 465.",
+  "explanation_ne": "योग = ३० × ३१ / २ = ४६५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 40 natural numbers (1 + 2 + ... + 40)?",
+  "question_ne": "पहिला ४० प्राकृतिक सङ्ख्याको योग (१ + २ + ... + ४०) कति हो?",
+  "options": [
+   "820",
+   "780",
+   "1600",
+   "860"
+  ],
+  "options_ne": [
+   "८२०",
+   "७८०",
+   "१६००",
+   "८६०"
+  ],
+  "answer": 0,
+  "explanation": "Sum = 40 x 41 / 2 = 820.",
+  "explanation_ne": "योग = ४० × ४१ / २ = ८२०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ5-0109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the sum of the first 50 natural numbers (1 + 2 + ... + 50)?",
+  "question_ne": "पहिला ५० प्राकृतिक सङ्ख्याको योग (१ + २ + ... + ५०) कति हो?",
+  "options": [
+   "1225",
+   "1325",
+   "1275",
+   "2500"
+  ],
+  "options_ne": [
+   "१२२५",
+   "१३२५",
+   "१२७५",
+   "२५००"
+  ],
+  "answer": 2,
+  "explanation": "Sum = 50 x 51 / 2 = 1275.",
+  "explanation_ne": "योग = ५० × ५१ / २ = १२७५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

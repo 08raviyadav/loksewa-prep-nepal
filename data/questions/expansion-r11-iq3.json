@@ -1,0 +1,2774 @@
+[
+ {
+  "id": "R11-IQ3-0001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 3, 8, 7, 13, 11, 18, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 3, 8, 7, 13, 11, 18, ?",
+  "options": [
+   "18",
+   "15",
+   "20",
+   "12"
+  ],
+  "options_ne": [
+   "१८",
+   "१५",
+   "२०",
+   "१२"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 15.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 5, 2, 11, 9, 17, 16, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 5, 2, 11, 9, 17, 16, ?",
+  "options": [
+   "28",
+   "26",
+   "23",
+   "20"
+  ],
+  "options_ne": [
+   "२८",
+   "२६",
+   "२३",
+   "२०"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 23.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या २३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 10, 20, 13, 24, 16, 28, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 10, 20, 13, 24, 16, 28, ?",
+  "options": [
+   "16",
+   "24",
+   "22",
+   "19"
+  ],
+  "options_ne": [
+   "१६",
+   "२४",
+   "२२",
+   "१९"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 19.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १९ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 7, 4, 15, 13, 23, 22, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 7, 4, 15, 13, 23, 22, ?",
+  "options": [
+   "28",
+   "34",
+   "36",
+   "31"
+  ],
+  "options_ne": [
+   "२८",
+   "३४",
+   "३६",
+   "३१"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 31.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ३१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 2, 11, 7, 14, 12, 17, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 2, 11, 7, 14, 12, 17, ?",
+  "options": [
+   "14",
+   "17",
+   "22",
+   "20"
+  ],
+  "options_ne": [
+   "१४",
+   "१७",
+   "२२",
+   "२०"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 17.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 15, 6, 19, 12, 23, 18, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 15, 6, 19, 12, 23, 18, ?",
+  "options": [
+   "24",
+   "27",
+   "30",
+   "32"
+  ],
+  "options_ne": [
+   "२४",
+   "२७",
+   "३०",
+   "३२"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 27.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या २७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 4, 10, 16, 22, 28, 34, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 4, 10, 16, 22, 28, 34, ?",
+  "options": [
+   "40",
+   "43",
+   "37",
+   "45"
+  ],
+  "options_ne": [
+   "४०",
+   "४३",
+   "३७",
+   "४५"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 40.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 4, 13, 22, 31, 40, 49, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 4, 13, 22, 31, 40, 49, ?",
+  "options": [
+   "63",
+   "61",
+   "55",
+   "58"
+  ],
+  "options_ne": [
+   "६३",
+   "६१",
+   "५५",
+   "५८"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 58.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ५८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 4, 18, 32, 46, 60, 74, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 4, 18, 32, 46, 60, 74, ?",
+  "options": [
+   "88",
+   "93",
+   "85",
+   "91"
+  ],
+  "options_ne": [
+   "८८",
+   "९३",
+   "८५",
+   "९१"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 88.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ८८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 9, 15, 21, 27, 33, 39, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 9, 15, 21, 27, 33, 39, ?",
+  "options": [
+   "45",
+   "48",
+   "42",
+   "50"
+  ],
+  "options_ne": [
+   "४५",
+   "४८",
+   "४२",
+   "५०"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 45.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ४५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 9, 18, 27, 36, 45, 54, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 9, 18, 27, 36, 45, 54, ?",
+  "options": [
+   "68",
+   "60",
+   "66",
+   "63"
+  ],
+  "options_ne": [
+   "६८",
+   "६०",
+   "६६",
+   "६३"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 63.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ६३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 9, 23, 37, 51, 65, 79, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 9, 23, 37, 51, 65, 79, ?",
+  "options": [
+   "93",
+   "96",
+   "90",
+   "98"
+  ],
+  "options_ne": [
+   "९३",
+   "९६",
+   "९०",
+   "९८"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 93.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ९३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 16, 22, 28, 34, 40, 46, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 16, 22, 28, 34, 40, 46, ?",
+  "options": [
+   "52",
+   "49",
+   "55",
+   "57"
+  ],
+  "options_ne": [
+   "५२",
+   "४९",
+   "५५",
+   "५७"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 52.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ५२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 16, 25, 34, 43, 52, 61, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 16, 25, 34, 43, 52, 61, ?",
+  "options": [
+   "73",
+   "75",
+   "67",
+   "70"
+  ],
+  "options_ne": [
+   "७३",
+   "७५",
+   "६७",
+   "७०"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 70.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ७० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 16, 30, 44, 58, 72, 86, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 16, 30, 44, 58, 72, 86, ?",
+  "options": [
+   "105",
+   "103",
+   "100",
+   "97"
+  ],
+  "options_ne": [
+   "१०५",
+   "१०३",
+   "१००",
+   "९७"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 100.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 22, 28, 34, 40, 46, 52, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 22, 28, 34, 40, 46, 52, ?",
+  "options": [
+   "61",
+   "63",
+   "58",
+   "55"
+  ],
+  "options_ne": [
+   "६१",
+   "६३",
+   "५८",
+   "५५"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 58.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ५८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 22, 31, 40, 49, 58, 67, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 22, 31, 40, 49, 58, 67, ?",
+  "options": [
+   "79",
+   "73",
+   "81",
+   "76"
+  ],
+  "options_ne": [
+   "७९",
+   "७३",
+   "८१",
+   "७६"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 76.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ७६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 22, 36, 50, 64, 78, 92, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 22, 36, 50, 64, 78, 92, ?",
+  "options": [
+   "103",
+   "111",
+   "109",
+   "106"
+  ],
+  "options_ne": [
+   "१०३",
+   "१११",
+   "१०९",
+   "१०६"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 106.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १०६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 28, 34, 40, 46, 52, 58, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 28, 34, 40, 46, 52, 58, ?",
+  "options": [
+   "61",
+   "69",
+   "64",
+   "67"
+  ],
+  "options_ne": [
+   "६१",
+   "६९",
+   "६४",
+   "६७"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 64.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ६४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 28, 37, 46, 55, 64, 73, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 28, 37, 46, 55, 64, 73, ?",
+  "options": [
+   "82",
+   "85",
+   "87",
+   "79"
+  ],
+  "options_ne": [
+   "८२",
+   "८५",
+   "८७",
+   "७९"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 82.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ८२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 28, 42, 56, 70, 84, 98, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 28, 42, 56, 70, 84, 98, ?",
+  "options": [
+   "117",
+   "115",
+   "109",
+   "112"
+  ],
+  "options_ne": [
+   "११७",
+   "११५",
+   "१०९",
+   "११२"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 112.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ११२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 34, 40, 46, 52, 58, 64, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 34, 40, 46, 52, 58, 64, ?",
+  "options": [
+   "67",
+   "70",
+   "75",
+   "73"
+  ],
+  "options_ne": [
+   "६७",
+   "७०",
+   "७५",
+   "७३"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 70.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ७० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 34, 43, 52, 61, 70, 79, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 34, 43, 52, 61, 70, 79, ?",
+  "options": [
+   "85",
+   "88",
+   "93",
+   "91"
+  ],
+  "options_ne": [
+   "८५",
+   "८८",
+   "९३",
+   "९१"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 88.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ८८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 34, 48, 62, 76, 90, 104, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 34, 48, 62, 76, 90, 104, ?",
+  "options": [
+   "115",
+   "123",
+   "121",
+   "118"
+  ],
+  "options_ne": [
+   "११५",
+   "१२३",
+   "१२१",
+   "११८"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 118.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ११८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 41, 47, 53, 59, 65, 71, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 41, 47, 53, 59, 65, 71, ?",
+  "options": [
+   "80",
+   "74",
+   "82",
+   "77"
+  ],
+  "options_ne": [
+   "८०",
+   "७४",
+   "८२",
+   "७७"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 77.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ७७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 41, 50, 59, 68, 77, 86, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 41, 50, 59, 68, 77, 86, ?",
+  "options": [
+   "92",
+   "95",
+   "100",
+   "98"
+  ],
+  "options_ne": [
+   "९२",
+   "९५",
+   "१००",
+   "९८"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 95.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ९५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 41, 55, 69, 83, 97, 111, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 41, 55, 69, 83, 97, 111, ?",
+  "options": [
+   "122",
+   "128",
+   "125",
+   "130"
+  ],
+  "options_ne": [
+   "१२२",
+   "१२८",
+   "१२५",
+   "१३०"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 125.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १२५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 52, 58, 64, 70, 76, 82, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 52, 58, 64, 70, 76, 82, ?",
+  "options": [
+   "88",
+   "93",
+   "91",
+   "85"
+  ],
+  "options_ne": [
+   "८८",
+   "९३",
+   "९१",
+   "८५"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 88.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ८८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 52, 61, 70, 79, 88, 97, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 52, 61, 70, 79, 88, 97, ?",
+  "options": [
+   "103",
+   "109",
+   "111",
+   "106"
+  ],
+  "options_ne": [
+   "१०३",
+   "१०९",
+   "१११",
+   "१०६"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 106.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १०६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 52, 66, 80, 94, 108, 122, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 52, 66, 80, 94, 108, 122, ?",
+  "options": [
+   "139",
+   "141",
+   "136",
+   "133"
+  ],
+  "options_ne": [
+   "१३९",
+   "१४१",
+   "१३६",
+   "१३३"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 136.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १३६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 1, 9, 25, 49, 81, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 1, 9, 25, 49, 81, ?",
+  "options": [
+   "118",
+   "126",
+   "124",
+   "121"
+  ],
+  "options_ne": [
+   "११८",
+   "१२६",
+   "१२४",
+   "१२१"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 121.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १२१ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 4, 16, 36, 64, 100, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 4, 16, 36, 64, 100, ?",
+  "options": [
+   "144",
+   "149",
+   "141",
+   "147"
+  ],
+  "options_ne": [
+   "१४४",
+   "१४९",
+   "१४१",
+   "१४७"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 144.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १४४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 1, 27, 125, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 1, 27, 125, ?",
+  "options": [
+   "343",
+   "346",
+   "340",
+   "348"
+  ],
+  "options_ne": [
+   "३४३",
+   "३४६",
+   "३४०",
+   "३४८"
+  ],
+  "answer": 0,
+  "explanation": "The series follows its pattern and continues with 343.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ३४३ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 17, 34, 51, 68, 85, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 17, 34, 51, 68, 85, ?",
+  "options": [
+   "105",
+   "102",
+   "107",
+   "99"
+  ],
+  "options_ne": [
+   "१०५",
+   "१०२",
+   "१०७",
+   "९९"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 102.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १०२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 19, 38, 57, 76, 95, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 19, 38, 57, 76, 95, ?",
+  "options": [
+   "111",
+   "119",
+   "117",
+   "114"
+  ],
+  "options_ne": [
+   "१११",
+   "११९",
+   "११७",
+   "११४"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 114.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या ११४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 23, 46, 69, 92, 115, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 23, 46, 69, 92, 115, ?",
+  "options": [
+   "135",
+   "141",
+   "138",
+   "143"
+  ],
+  "options_ne": [
+   "१३५",
+   "१४१",
+   "१३८",
+   "१४३"
+  ],
+  "answer": 2,
+  "explanation": "The series follows its pattern and continues with 138.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १३८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 27, 54, 81, 108, 135, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 27, 54, 81, 108, 135, ?",
+  "options": [
+   "167",
+   "165",
+   "159",
+   "162"
+  ],
+  "options_ne": [
+   "१६७",
+   "१६५",
+   "१५९",
+   "१६२"
+  ],
+  "answer": 3,
+  "explanation": "The series follows its pattern and continues with 162.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १६२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 29, 58, 87, 116, 145, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 29, 58, 87, 116, 145, ?",
+  "options": [
+   "171",
+   "174",
+   "179",
+   "177"
+  ],
+  "options_ne": [
+   "१७१",
+   "१७४",
+   "१७९",
+   "१७७"
+  ],
+  "answer": 1,
+  "explanation": "The series follows its pattern and continues with 174.",
+  "explanation_ne": "यो श्रृङ्खला आफ्नो ढाँचाअनुसार अगाडि बढ्दा अर्को सङ्ख्या १७४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 30 m east, then turns left and walks 40 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ ३० मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ ४० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "70 m",
+   "40 m",
+   "50 m",
+   "60 m"
+  ],
+  "options_ne": [
+   "७० मिटर",
+   "४० मिटर",
+   "५० मिटर",
+   "६० मिटर"
+  ],
+  "answer": 2,
+  "explanation": "By Pythagoras: √(30² + 40²) = 50 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(३०² + ४०²) = ५० मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 60 m east, then turns left and walks 80 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ ६० मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ ८० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "140 m",
+   "100 m",
+   "110 m",
+   "90 m"
+  ],
+  "options_ne": [
+   "१४० मिटर",
+   "१०० मिटर",
+   "११० मिटर",
+   "९० मिटर"
+  ],
+  "answer": 1,
+  "explanation": "By Pythagoras: √(60² + 80²) = 100 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(६०² + ८०²) = १०० मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 90 m east, then turns left and walks 120 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ ९० मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ १२० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "150 m",
+   "210 m",
+   "160 m",
+   "140 m"
+  ],
+  "options_ne": [
+   "१५० मिटर",
+   "२१० मिटर",
+   "१६० मिटर",
+   "१४० मिटर"
+  ],
+  "answer": 0,
+  "explanation": "By Pythagoras: √(90² + 120²) = 150 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(९०² + १२०²) = १५० मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 45 m east, then turns left and walks 60 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ ४५ मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ ६० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "85 m",
+   "75 m",
+   "105 m",
+   "65 m"
+  ],
+  "options_ne": [
+   "८५ मिटर",
+   "७५ मिटर",
+   "१०५ मिटर",
+   "६५ मिटर"
+  ],
+  "answer": 1,
+  "explanation": "By Pythagoras: √(45² + 60²) = 75 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(४५² + ६०²) = ७५ मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 15 m east, then turns left and walks 20 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ १५ मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ २० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "15 m",
+   "5 m",
+   "35 m",
+   "25 m"
+  ],
+  "options_ne": [
+   "१५ मिटर",
+   "५ मिटर",
+   "३५ मिटर",
+   "२५ मिटर"
+  ],
+  "answer": 3,
+  "explanation": "By Pythagoras: √(15² + 20²) = 25 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(१५² + २०²) = २५ मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A man walks 75 m east, then turns left and walks 100 m north. How far is he from the starting point?",
+  "question_ne": "एउटा मानिस पूर्वतर्फ ७५ मिटर हिँड्छ, त्यसपछि बायाँ मोडेर उत्तरतर्फ १०० मिटर हिँड्छ। ऊ सुरुको बिन्दुबाट कति टाढा छ?",
+  "options": [
+   "125 m",
+   "135 m",
+   "115 m",
+   "175 m"
+  ],
+  "options_ne": [
+   "१२५ मिटर",
+   "१३५ मिटर",
+   "११५ मिटर",
+   "१७५ मिटर"
+  ],
+  "answer": 0,
+  "explanation": "By Pythagoras: √(75² + 100²) = 125 m.",
+  "explanation_ne": "पाइथागोरसबाट: √(७५² + १००²) = १२५ मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Shyam is the brother of Ram. Ram has a son named Hari. What is Hari to Shyam?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Shyam is the brother of Ram. Ram has a son named Hari. What is Hari to Shyam?",
+  "options": [
+   "father",
+   "son",
+   "brother",
+   "nephew"
+  ],
+  "options_ne": [
+   "father",
+   "son",
+   "brother",
+   "nephew"
+  ],
+  "answer": 3,
+  "explanation": "Hari is the son of Ram, and Shyam is Ram's brother, so Hari is Shyam's nephew.",
+  "explanation_ne": "Hari is the son of Ram, and Shyam is Ram's brother, so Hari is Shyam's nephew.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Sita is the sister of Gita. Gita is the mother of Mina. What is Mina to Sita?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Sita is the sister of Gita. Gita is the mother of Mina. What is Mina to Sita?",
+  "options": [
+   "niece",
+   "sister",
+   "mother",
+   "daughter"
+  ],
+  "options_ne": [
+   "niece",
+   "sister",
+   "mother",
+   "daughter"
+  ],
+  "answer": 0,
+  "explanation": "Mina is Gita's daughter and Sita is Gita's sister, so Mina is Sita's niece.",
+  "explanation_ne": "Mina is Gita's daughter and Sita is Gita's sister, so Mina is Sita's niece.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Hari is the father of Ramesh. Ramesh is the brother of Suresh. What is Suresh to Hari?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Hari is the father of Ramesh. Ramesh is the brother of Suresh. What is Suresh to Hari?",
+  "options": [
+   "son",
+   "brother",
+   "grandson",
+   "nephew"
+  ],
+  "options_ne": [
+   "son",
+   "brother",
+   "grandson",
+   "nephew"
+  ],
+  "answer": 0,
+  "explanation": "Suresh is Ramesh's brother and Ramesh is Hari's son, so Suresh is Hari's son.",
+  "explanation_ne": "Suresh is Ramesh's brother and Ramesh is Hari's son, so Suresh is Hari's son.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Mina is the mother of Rina. Rina is the sister of Bina. What is Bina to Mina?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Mina is the mother of Rina. Rina is the sister of Bina. What is Bina to Mina?",
+  "options": [
+   "granddaughter",
+   "sister",
+   "daughter",
+   "niece"
+  ],
+  "options_ne": [
+   "granddaughter",
+   "sister",
+   "daughter",
+   "niece"
+  ],
+  "answer": 2,
+  "explanation": "Bina is Rina's sister and Rina is Mina's daughter, so Bina is Mina's daughter.",
+  "explanation_ne": "Bina is Rina's sister and Rina is Mina's daughter, so Bina is Mina's daughter.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Asha is the daughter of Bina. Bina is the wife of Chetan. What is Asha to Chetan?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Asha is the daughter of Bina. Bina is the wife of Chetan. What is Asha to Chetan?",
+  "options": [
+   "wife",
+   "niece",
+   "daughter",
+   "sister"
+  ],
+  "options_ne": [
+   "wife",
+   "niece",
+   "daughter",
+   "sister"
+  ],
+  "answer": 2,
+  "explanation": "Asha is Bina's daughter and Bina is Chetan's wife, so Asha is Chetan's daughter.",
+  "explanation_ne": "Asha is Bina's daughter and Bina is Chetan's wife, so Asha is Chetan's daughter.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Deepak is the son of Prakash. Prakash is the brother of Mohan. What is Deepak to Mohan?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Deepak is the son of Prakash. Prakash is the brother of Mohan. What is Deepak to Mohan?",
+  "options": [
+   "son",
+   "grandson",
+   "brother",
+   "nephew"
+  ],
+  "options_ne": [
+   "son",
+   "grandson",
+   "brother",
+   "nephew"
+  ],
+  "answer": 3,
+  "explanation": "Deepak is Prakash's son and Prakash is Mohan's brother, so Deepak is Mohan's nephew.",
+  "explanation_ne": "Deepak is Prakash's son and Prakash is Mohan's brother, so Deepak is Mohan's nephew.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If Kamal is the father of Sunita, what is Sunita to Kamal?",
+  "question_ne": "यदि Kamal, Sunita को father हो भने Sunita, Kamal को के पर्छ?",
+  "options": [
+   "son",
+   "daughter",
+   "brother",
+   "sister"
+  ],
+  "options_ne": [
+   "son",
+   "daughter",
+   "brother",
+   "sister"
+  ],
+  "answer": 1,
+  "explanation": "If Kamal is the father of Sunita, then Sunita is the daughter of Kamal.",
+  "explanation_ne": "यदि Kamal, Sunita को father हो भने Sunita, Kamal को daughter हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "If Raju is the brother of Anita, what is Anita to Raju?",
+  "question_ne": "यदि Raju, Anita को brother हो भने Anita, Raju को के पर्छ?",
+  "options": [
+   "brother",
+   "sister",
+   "son",
+   "daughter"
+  ],
+  "options_ne": [
+   "brother",
+   "sister",
+   "son",
+   "daughter"
+  ],
+  "answer": 1,
+  "explanation": "If Raju is the brother of Anita, then Anita is the sister of Raju.",
+  "explanation_ne": "यदि Raju, Anita को brother हो भने Anita, Raju को sister हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: A, B, C, D, E. Who sits in the middle?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: A, B, C, D, E। बीचमा को बसेको छ?",
+  "options": [
+   "A",
+   "E",
+   "C",
+   "B"
+  ],
+  "options_ne": [
+   "A",
+   "E",
+   "C",
+   "B"
+  ],
+  "answer": 2,
+  "explanation": "The middle (3rd) person in A, B, C, D, E is C.",
+  "explanation_ne": "A, B, C, D, E मा बीचको (तेस्रो) व्यक्ति C हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: A, B, C, D, E. Who sits at the left end?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: A, B, C, D, E। बायाँ छेउमा को बसेको छ?",
+  "options": [
+   "D",
+   "C",
+   "B",
+   "A"
+  ],
+  "options_ne": [
+   "D",
+   "C",
+   "B",
+   "A"
+  ],
+  "answer": 3,
+  "explanation": "The left end of A, B, C, D, E is A.",
+  "explanation_ne": "A, B, C, D, E को बायाँ छेउ A हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: P, Q, R, S, T. Who sits in the middle?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: P, Q, R, S, T। बीचमा को बसेको छ?",
+  "options": [
+   "P",
+   "R",
+   "Q",
+   "T"
+  ],
+  "options_ne": [
+   "P",
+   "R",
+   "Q",
+   "T"
+  ],
+  "answer": 1,
+  "explanation": "The middle (3rd) person in P, Q, R, S, T is R.",
+  "explanation_ne": "P, Q, R, S, T मा बीचको (तेस्रो) व्यक्ति R हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: P, Q, R, S, T. Who sits at the left end?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: P, Q, R, S, T। बायाँ छेउमा को बसेको छ?",
+  "options": [
+   "P",
+   "R",
+   "S",
+   "Q"
+  ],
+  "options_ne": [
+   "P",
+   "R",
+   "S",
+   "Q"
+  ],
+  "answer": 0,
+  "explanation": "The left end of P, Q, R, S, T is P.",
+  "explanation_ne": "P, Q, R, S, T को बायाँ छेउ P हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: M, N, O, P, Q. Who sits in the middle?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: M, N, O, P, Q। बीचमा को बसेको छ?",
+  "options": [
+   "M",
+   "O",
+   "N",
+   "Q"
+  ],
+  "options_ne": [
+   "M",
+   "O",
+   "N",
+   "Q"
+  ],
+  "answer": 1,
+  "explanation": "The middle (3rd) person in M, N, O, P, Q is O.",
+  "explanation_ne": "M, N, O, P, Q मा बीचको (तेस्रो) व्यक्ति O हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Seating Arrangement",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Five people sit in a row in this order from left to right: M, N, O, P, Q. Who sits at the left end?",
+  "question_ne": "पाँच जना बायाँबाट दायाँ यस क्रममा बसेका छन्: M, N, O, P, Q। बायाँ छेउमा को बसेको छ?",
+  "options": [
+   "P",
+   "M",
+   "N",
+   "O"
+  ],
+  "options_ne": [
+   "P",
+   "M",
+   "N",
+   "O"
+  ],
+  "answer": 1,
+  "explanation": "The left end of M, N, O, P, Q is M.",
+  "explanation_ne": "M, N, O, P, Q को बायाँ छेउ M हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter C from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर C को स्थान कति हो?",
+  "options": [
+   "24",
+   "25",
+   "23",
+   "3"
+  ],
+  "options_ne": [
+   "२४",
+   "२५",
+   "२३",
+   "३"
+  ],
+  "answer": 0,
+  "explanation": "C is the 3rd letter from the start, so from the end it is 27 - 3 + 1 = 24th.",
+  "explanation_ne": "C सुरुबाट ३औँ अक्षर हो, त्यसैले अन्त्यबाट २४औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter F from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर F को स्थान कति हो?",
+  "options": [
+   "21",
+   "22",
+   "6",
+   "20"
+  ],
+  "options_ne": [
+   "२१",
+   "२२",
+   "६",
+   "२०"
+  ],
+  "answer": 0,
+  "explanation": "F is the 6th letter from the start, so from the end it is 27 - 6 + 1 = 21st.",
+  "explanation_ne": "F सुरुबाट ६औँ अक्षर हो, त्यसैले अन्त्यबाट २१औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter H from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर H को स्थान कति हो?",
+  "options": [
+   "20",
+   "8",
+   "19",
+   "18"
+  ],
+  "options_ne": [
+   "२०",
+   "८",
+   "१९",
+   "१८"
+  ],
+  "answer": 2,
+  "explanation": "H is the 8th letter from the start, so from the end it is 27 - 8 + 1 = 19th.",
+  "explanation_ne": "H सुरुबाट ८औँ अक्षर हो, त्यसैले अन्त्यबाट १९औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter K from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर K को स्थान कति हो?",
+  "options": [
+   "15",
+   "11",
+   "16",
+   "17"
+  ],
+  "options_ne": [
+   "१५",
+   "११",
+   "१६",
+   "१७"
+  ],
+  "answer": 2,
+  "explanation": "K is the 11th letter from the start, so from the end it is 27 - 11 + 1 = 16th.",
+  "explanation_ne": "K सुरुबाट ११औँ अक्षर हो, त्यसैले अन्त्यबाट १६औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0075",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter M from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर M को स्थान कति हो?",
+  "options": [
+   "13",
+   "14",
+   "15",
+   "24"
+  ],
+  "options_ne": [
+   "१३",
+   "१४",
+   "१५",
+   "२४"
+  ],
+  "answer": 1,
+  "explanation": "M is the 13th letter from the start, so from the end it is 27 - 13 + 1 = 14th.",
+  "explanation_ne": "M सुरुबाट १३औँ अक्षर हो, त्यसैले अन्त्यबाट १४औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter R from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर R को स्थान कति हो?",
+  "options": [
+   "8",
+   "10",
+   "18",
+   "9"
+  ],
+  "options_ne": [
+   "८",
+   "१०",
+   "१८",
+   "९"
+  ],
+  "answer": 3,
+  "explanation": "R is the 18th letter from the start, so from the end it is 27 - 18 + 1 = 9th.",
+  "explanation_ne": "R सुरुबाट १८औँ अक्षर हो, त्यसैले अन्त्यबाट ९औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Alphabet Test",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the position of the letter T from the end of the English alphabet?",
+  "question_ne": "अङ्ग्रेजी वर्णमालाको अन्त्यबाट अक्षर T को स्थान कति हो?",
+  "options": [
+   "6",
+   "8",
+   "7",
+   "20"
+  ],
+  "options_ne": [
+   "६",
+   "८",
+   "७",
+   "२०"
+  ],
+  "answer": 2,
+  "explanation": "T is the 20th letter from the start, so from the end it is 27 - 20 + 1 = 7th.",
+  "explanation_ne": "T सुरुबाट २०औँ अक्षर हो, त्यसैले अन्त्यबाट ७औँ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 12th from the front and 15th from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट १२औँ र पछाडिबाट १५औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "26",
+   "12",
+   "27",
+   "25"
+  ],
+  "options_ne": [
+   "२६",
+   "१२",
+   "२७",
+   "२५"
+  ],
+  "answer": 0,
+  "explanation": "Total = 12 + 15 - 1 = 26.",
+  "explanation_ne": "जम्मा = १२ + १५ − १ = २६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 18th from the front and 21st from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट १८औँ र पछाडिबाट २१औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "39",
+   "38",
+   "18",
+   "37"
+  ],
+  "options_ne": [
+   "३९",
+   "३८",
+   "१८",
+   "३७"
+  ],
+  "answer": 1,
+  "explanation": "Total = 18 + 21 - 1 = 38.",
+  "explanation_ne": "जम्मा = १८ + २१ − १ = ३८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 9th from the front and 27th from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट ९औँ र पछाडिबाट २७औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "9",
+   "35",
+   "34",
+   "36"
+  ],
+  "options_ne": [
+   "९",
+   "३५",
+   "३४",
+   "३६"
+  ],
+  "answer": 1,
+  "explanation": "Total = 9 + 27 - 1 = 35.",
+  "explanation_ne": "जम्मा = ९ + २७ − १ = ३५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 25th from the front and 19th from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट २५औँ र पछाडिबाट १९औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "25",
+   "43",
+   "42",
+   "44"
+  ],
+  "options_ne": [
+   "२५",
+   "४३",
+   "४२",
+   "४४"
+  ],
+  "answer": 1,
+  "explanation": "Total = 25 + 19 - 1 = 43.",
+  "explanation_ne": "जम्मा = २५ + १९ − १ = ४३।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 14th from the front and 32nd from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट १४औँ र पछाडिबाट ३२औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "14",
+   "45",
+   "44",
+   "46"
+  ],
+  "options_ne": [
+   "१४",
+   "४५",
+   "४४",
+   "४६"
+  ],
+  "answer": 1,
+  "explanation": "Total = 14 + 32 - 1 = 45.",
+  "explanation_ne": "जम्मा = १४ + ३२ − १ = ४५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Ranking",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "In a row, Suman is 31st from the front and 17th from the back. How many people are in the row?",
+  "question_ne": "एउटा लाइनमा सुमन अगाडिबाट ३१औँ र पछाडिबाट १७औँ छ। लाइनमा कति जना छन्?",
+  "options": [
+   "31",
+   "47",
+   "48",
+   "46"
+  ],
+  "options_ne": [
+   "३१",
+   "४७",
+   "४८",
+   "४६"
+  ],
+  "answer": 1,
+  "explanation": "Total = 31 + 17 - 1 = 47.",
+  "explanation_ne": "जम्मा = ३१ + १७ − १ = ४७।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 246?",
+  "question_ne": "२४६ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "48",
+   "12",
+   "38",
+   "58"
+  ],
+  "options_ne": [
+   "४८",
+   "१२",
+   "३८",
+   "५८"
+  ],
+  "answer": 0,
+  "explanation": "2 x 4 x 6 = 48.",
+  "explanation_ne": "२ × ४ × ६ = ४८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 357?",
+  "question_ne": "३५७ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "95",
+   "115",
+   "105",
+   "15"
+  ],
+  "options_ne": [
+   "९५",
+   "११५",
+   "१०५",
+   "१५"
+  ],
+  "answer": 2,
+  "explanation": "3 x 5 x 7 = 105.",
+  "explanation_ne": "३ × ५ × ७ = १०५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 468?",
+  "question_ne": "४६८ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "18",
+   "192",
+   "182",
+   "202"
+  ],
+  "options_ne": [
+   "१८",
+   "१९२",
+   "१८२",
+   "२०२"
+  ],
+  "answer": 1,
+  "explanation": "4 x 6 x 8 = 192.",
+  "explanation_ne": "४ × ६ × ८ = १९२।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 579?",
+  "question_ne": "५७९ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "21",
+   "305",
+   "315",
+   "325"
+  ],
+  "options_ne": [
+   "२१",
+   "३०५",
+   "३१५",
+   "३२५"
+  ],
+  "answer": 2,
+  "explanation": "5 x 7 x 9 = 315.",
+  "explanation_ne": "५ × ७ × ९ = ३१५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 684?",
+  "question_ne": "६८४ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "18",
+   "192",
+   "202",
+   "182"
+  ],
+  "options_ne": [
+   "१८",
+   "१९२",
+   "२०२",
+   "१८२"
+  ],
+  "answer": 1,
+  "explanation": "6 x 8 x 4 = 192.",
+  "explanation_ne": "६ × ८ × ४ = १९२।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ3-0093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Puzzles",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "What is the product of the digits of 793?",
+  "question_ne": "७९३ का अङ्कहरूको गुणनफल कति हो?",
+  "options": [
+   "199",
+   "19",
+   "179",
+   "189"
+  ],
+  "options_ne": [
+   "१९९",
+   "१९",
+   "१७९",
+   "१८९"
+  ],
+  "answer": 3,
+  "explanation": "7 x 9 x 3 = 189.",
+  "explanation_ne": "७ × ९ × ३ = १८९।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

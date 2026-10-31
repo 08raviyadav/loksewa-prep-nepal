@@ -1,0 +1,1550 @@
+[
+ {
+  "id": "R11-IQ4-0001",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 2.5, 5, 7.5, 10, 12.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 2.5, 5, 7.5, 10, 12.5, ?",
+  "options": [
+   "12.5",
+   "15",
+   "17.5",
+   "16"
+  ],
+  "options_ne": [
+   "12.5",
+   "15",
+   "17.5",
+   "16"
+  ],
+  "answer": 1,
+  "explanation": "Each term increases by 2.5, so the next term is 15.",
+  "explanation_ne": "प्रत्येक पद 2.5 ले बढ्छ, त्यसैले अर्को पद 15 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 1.5, 4.5, 7.5, 10.5, 13.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 1.5, 4.5, 7.5, 10.5, 13.5, ?",
+  "options": [
+   "13.5",
+   "16.5",
+   "17.5",
+   "19.5"
+  ],
+  "options_ne": [
+   "13.5",
+   "16.5",
+   "17.5",
+   "19.5"
+  ],
+  "answer": 1,
+  "explanation": "Each term increases by 3, so the next term is 16.5.",
+  "explanation_ne": "प्रत्येक पद 3 ले बढ्छ, त्यसैले अर्को पद 16.5 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 0.5, 2, 3.5, 5, 6.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 0.5, 2, 3.5, 5, 6.5, ?",
+  "options": [
+   "9",
+   "8",
+   "6.5",
+   "9.5"
+  ],
+  "options_ne": [
+   "9",
+   "8",
+   "6.5",
+   "9.5"
+  ],
+  "answer": 1,
+  "explanation": "Each term increases by 1.5, so the next term is 8.",
+  "explanation_ne": "प्रत्येक पद 1.5 ले बढ्छ, त्यसैले अर्को पद 8 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 4.5, 6.5, 8.5, 10.5, 12.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 4.5, 6.5, 8.5, 10.5, 12.5, ?",
+  "options": [
+   "15.5",
+   "16.5",
+   "12.5",
+   "14.5"
+  ],
+  "options_ne": [
+   "15.5",
+   "16.5",
+   "12.5",
+   "14.5"
+  ],
+  "answer": 3,
+  "explanation": "Each term increases by 2, so the next term is 14.5.",
+  "explanation_ne": "प्रत्येक पद 2 ले बढ्छ, त्यसैले अर्को पद 14.5 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 3.5, 7, 10.5, 14, 17.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 3.5, 7, 10.5, 14, 17.5, ?",
+  "options": [
+   "21",
+   "22",
+   "24.5",
+   "17.5"
+  ],
+  "options_ne": [
+   "21",
+   "22",
+   "24.5",
+   "17.5"
+  ],
+  "answer": 0,
+  "explanation": "Each term increases by 3.5, so the next term is 21.",
+  "explanation_ne": "प्रत्येक पद 3.5 ले बढ्छ, त्यसैले अर्को पद 21 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Number Series",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the next number in the series: 6.5, 8, 9.5, 11, 12.5, ?",
+  "question_ne": "तलको सङ्ख्या श्रृङ्खलाको अर्को सङ्ख्या कुन हो? 6.5, 8, 9.5, 11, 12.5, ?",
+  "options": [
+   "14",
+   "12.5",
+   "15",
+   "15.5"
+  ],
+  "options_ne": [
+   "14",
+   "12.5",
+   "15",
+   "15.5"
+  ],
+  "answer": 0,
+  "explanation": "Each term increases by 1.5, so the next term is 14.",
+  "explanation_ne": "प्रत्येक पद 1.5 ले बढ्छ, त्यसैले अर्को पद 14 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is CAT coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। CAT लाई कसरी लेखिन्छ?",
+  "options": [
+   "TAC",
+   "ECV",
+   "XZG",
+   "DBU"
+  ],
+  "options_ne": [
+   "TAC",
+   "ECV",
+   "XZG",
+   "DBU"
+  ],
+  "answer": 2,
+  "explanation": "Reversing the alphabet, CAT becomes XZG.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा CAT, XZG हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is DOG coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। DOG लाई कसरी लेखिन्छ?",
+  "options": [
+   "WLT",
+   "FQI",
+   "EPH",
+   "GOD"
+  ],
+  "options_ne": [
+   "WLT",
+   "FQI",
+   "EPH",
+   "GOD"
+  ],
+  "answer": 0,
+  "explanation": "Reversing the alphabet, DOG becomes WLT.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा DOG, WLT हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is BALL coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। BALL लाई कसरी लेखिन्छ?",
+  "options": [
+   "DCNN",
+   "CBMM",
+   "YZOO",
+   "LLAB"
+  ],
+  "options_ne": [
+   "DCNN",
+   "CBMM",
+   "YZOO",
+   "LLAB"
+  ],
+  "answer": 2,
+  "explanation": "Reversing the alphabet, BALL becomes YZOO.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा BALL, YZOO हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is ROAD coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। ROAD लाई कसरी लेखिन्छ?",
+  "options": [
+   "ILZW",
+   "DAOR",
+   "TQCF",
+   "SPBE"
+  ],
+  "options_ne": [
+   "ILZW",
+   "DAOR",
+   "TQCF",
+   "SPBE"
+  ],
+  "answer": 0,
+  "explanation": "Reversing the alphabet, ROAD becomes ILZW.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा ROAD, ILZW हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0020",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is GOLD coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। GOLD लाई कसरी लेखिन्छ?",
+  "options": [
+   "DLOG",
+   "HPME",
+   "IQNF",
+   "TLOW"
+  ],
+  "options_ne": [
+   "DLOG",
+   "HPME",
+   "IQNF",
+   "TLOW"
+  ],
+  "answer": 3,
+  "explanation": "Reversing the alphabet, GOLD becomes TLOW.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा GOLD, TLOW हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is HAND coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। HAND लाई कसरी लेखिन्छ?",
+  "options": [
+   "JCPF",
+   "DNAH",
+   "IBOE",
+   "SZMW"
+  ],
+  "options_ne": [
+   "JCPF",
+   "DNAH",
+   "IBOE",
+   "SZMW"
+  ],
+  "answer": 3,
+  "explanation": "Reversing the alphabet, HAND becomes SZMW.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा HAND, SZMW हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0022",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is FOOT coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। FOOT लाई कसरी लेखिन्छ?",
+  "options": [
+   "TOOF",
+   "HQQV",
+   "ULLG",
+   "GPPU"
+  ],
+  "options_ne": [
+   "TOOF",
+   "HQQV",
+   "ULLG",
+   "GPPU"
+  ],
+  "answer": 2,
+  "explanation": "Reversing the alphabet, FOOT becomes ULLG.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा FOOT, ULLG हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is LAMP coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। LAMP लाई कसरी लेखिन्छ?",
+  "options": [
+   "MBNQ",
+   "PMAL",
+   "OZNK",
+   "NCOR"
+  ],
+  "options_ne": [
+   "MBNQ",
+   "PMAL",
+   "OZNK",
+   "NCOR"
+  ],
+  "answer": 2,
+  "explanation": "Reversing the alphabet, LAMP becomes OZNK.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा LAMP, OZNK हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is SONG coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। SONG लाई कसरी लेखिन्छ?",
+  "options": [
+   "UQPI",
+   "HLMT",
+   "GNOS",
+   "TPOH"
+  ],
+  "options_ne": [
+   "UQPI",
+   "HLMT",
+   "GNOS",
+   "TPOH"
+  ],
+  "answer": 1,
+  "explanation": "Reversing the alphabet, SONG becomes HLMT.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा SONG, HLMT हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "In a code, A is written as Z, B as Y, C as X, and so on (reverse alphabet). How is LEAF coded?",
+  "question_ne": "एउटा कोडमा A लाई Z, B लाई Y, C लाई X, ... (उल्टो वर्णमाला) लेखिन्छ। LEAF लाई कसरी लेखिन्छ?",
+  "options": [
+   "NGCH",
+   "FAEL",
+   "MFBG",
+   "OVZU"
+  ],
+  "options_ne": [
+   "NGCH",
+   "FAEL",
+   "MFBG",
+   "OVZU"
+  ],
+  "answer": 3,
+  "explanation": "Reversing the alphabet, LEAF becomes OVZU.",
+  "explanation_ne": "वर्णमाला उल्टाउँदा LEAF, OVZU हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is CAT written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने CAT लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "2-0-19",
+   "4-2-21",
+   "3-1-20",
+   "23-25-6"
+  ],
+  "options_ne": [
+   "2-0-19",
+   "4-2-21",
+   "3-1-20",
+   "23-25-6"
+  ],
+  "answer": 2,
+  "explanation": "CAT = 3-1-20.",
+  "explanation_ne": "CAT = 3-1-20 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is DOG written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने DOG लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "22-11-19",
+   "3-14-6",
+   "4-15-7",
+   "5-16-8"
+  ],
+  "options_ne": [
+   "22-11-19",
+   "3-14-6",
+   "4-15-7",
+   "5-16-8"
+  ],
+  "answer": 2,
+  "explanation": "DOG = 4-15-7.",
+  "explanation_ne": "DOG = 4-15-7 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is BAD written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने BAD लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "2-1-4",
+   "24-25-22",
+   "1-0-3",
+   "3-2-5"
+  ],
+  "options_ne": [
+   "2-1-4",
+   "24-25-22",
+   "1-0-3",
+   "3-2-5"
+  ],
+  "answer": 0,
+  "explanation": "BAD = 2-1-4.",
+  "explanation_ne": "BAD = 2-1-4 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is CAB written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने CAB लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "3-1-2",
+   "4-2-3",
+   "2-0-1",
+   "23-25-24"
+  ],
+  "options_ne": [
+   "3-1-2",
+   "4-2-3",
+   "2-0-1",
+   "23-25-24"
+  ],
+  "answer": 0,
+  "explanation": "CAB = 3-1-2.",
+  "explanation_ne": "CAB = 3-1-2 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is BED written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने BED लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "1-4-3",
+   "2-5-4",
+   "3-6-5",
+   "24-21-22"
+  ],
+  "options_ne": [
+   "1-4-3",
+   "2-5-4",
+   "3-6-5",
+   "24-21-22"
+  ],
+  "answer": 1,
+  "explanation": "BED = 2-5-4.",
+  "explanation_ne": "BED = 2-5-4 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is EGG written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने EGG लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "6-8-8",
+   "21-19-19",
+   "5-7-7",
+   "4-6-6"
+  ],
+  "options_ne": [
+   "6-8-8",
+   "21-19-19",
+   "5-7-7",
+   "4-6-6"
+  ],
+  "answer": 2,
+  "explanation": "EGG = 5-7-7.",
+  "explanation_ne": "EGG = 5-7-7 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is FAD written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने FAD लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "6-1-4",
+   "20-25-22",
+   "7-2-5",
+   "5-0-3"
+  ],
+  "options_ne": [
+   "6-1-4",
+   "20-25-22",
+   "7-2-5",
+   "5-0-3"
+  ],
+  "answer": 0,
+  "explanation": "FAD = 6-1-4.",
+  "explanation_ne": "FAD = 6-1-4 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is HID written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने HID लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "18-17-22",
+   "9-10-5",
+   "7-8-3",
+   "8-9-4"
+  ],
+  "options_ne": [
+   "18-17-22",
+   "9-10-5",
+   "7-8-3",
+   "8-9-4"
+  ],
+  "answer": 3,
+  "explanation": "HID = 8-9-4.",
+  "explanation_ne": "HID = 8-9-4 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is JAM written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने JAM लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "11-2-14",
+   "16-25-13",
+   "9-0-12",
+   "10-1-13"
+  ],
+  "options_ne": [
+   "11-2-14",
+   "16-25-13",
+   "9-0-12",
+   "10-1-13"
+  ],
+  "answer": 3,
+  "explanation": "JAM = 10-1-13.",
+  "explanation_ne": "JAM = 10-1-13 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Coding-Decoding",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If A=1, B=2, ..., Z=26, how is KID written in numbers?",
+  "question_ne": "यदि A=१, B=२, ..., Z=२६ हो भने KID लाई अङ्कमा कसरी लेखिन्छ?",
+  "options": [
+   "15-17-22",
+   "10-8-3",
+   "12-10-5",
+   "11-9-4"
+  ],
+  "options_ne": [
+   "15-17-22",
+   "10-8-3",
+   "12-10-5",
+   "11-9-4"
+  ],
+  "answer": 3,
+  "explanation": "KID = 11-9-4.",
+  "explanation_ne": "KID = 11-9-4 हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the odd one out: January, March, May, April.",
+  "question_ne": "बेग्लै (odd one out) पत्ता लगाउनुहोस्: January, March, May, April।",
+  "options": [
+   "May",
+   "March",
+   "January",
+   "April"
+  ],
+  "options_ne": [
+   "May",
+   "March",
+   "January",
+   "April"
+  ],
+  "answer": 3,
+  "explanation": "April has 30 days; January, March and May have 31 days.",
+  "explanation_ne": "April has 30 days; January, March and May have 31 days.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the odd one out: Red, Blue, Green, Black.",
+  "question_ne": "बेग्लै (odd one out) पत्ता लगाउनुहोस्: Red, Blue, Green, Black।",
+  "options": [
+   "Red",
+   "Green",
+   "Blue",
+   "Black"
+  ],
+  "options_ne": [
+   "Red",
+   "Green",
+   "Blue",
+   "Black"
+  ],
+  "answer": 3,
+  "explanation": "Red, blue and green are primary colours of light; black is not.",
+  "explanation_ne": "Red, blue and green are primary colours of light; black is not.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the odd one out: Monday, Tuesday, Friday, January.",
+  "question_ne": "बेग्लै (odd one out) पत्ता लगाउनुहोस्: Monday, Tuesday, Friday, January।",
+  "options": [
+   "January",
+   "Tuesday",
+   "Monday",
+   "Friday"
+  ],
+  "options_ne": [
+   "January",
+   "Tuesday",
+   "Monday",
+   "Friday"
+  ],
+  "answer": 0,
+  "explanation": "January is a month; the others are days of the week.",
+  "explanation_ne": "January is a month; the others are days of the week.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Odd One Out",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Find the odd one out: Car, Bus, Train, Boat.",
+  "question_ne": "बेग्लै (odd one out) पत्ता लगाउनुहोस्: Car, Bus, Train, Boat।",
+  "options": [
+   "Boat",
+   "Train",
+   "Car",
+   "Bus"
+  ],
+  "options_ne": [
+   "Boat",
+   "Train",
+   "Car",
+   "Bus"
+  ],
+  "answer": 0,
+  "explanation": "A boat travels on water; the others travel on land.",
+  "explanation_ne": "A boat travels on water; the others travel on land.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Book : Read :: Pen : ?",
+  "question_ne": "Book : Read :: Pen : ?",
+  "options": [
+   "Book",
+   "Write",
+   "Pen",
+   "Read"
+  ],
+  "options_ne": [
+   "Book",
+   "Write",
+   "Pen",
+   "Read"
+  ],
+  "answer": 1,
+  "explanation": "A book is used to read; a pen is used to write.",
+  "explanation_ne": "A book is used to read; a pen is used to write.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Doctor : Hospital :: Teacher : ?",
+  "question_ne": "Doctor : Hospital :: Teacher : ?",
+  "options": [
+   "School",
+   "Teacher",
+   "Doctor",
+   "Hospital"
+  ],
+  "options_ne": [
+   "School",
+   "Teacher",
+   "Doctor",
+   "Hospital"
+  ],
+  "answer": 0,
+  "explanation": "A doctor works in a hospital; a teacher works in a school.",
+  "explanation_ne": "A doctor works in a hospital; a teacher works in a school.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Knife : Cut :: Needle : ?",
+  "question_ne": "Knife : Cut :: Needle : ?",
+  "options": [
+   "Needle",
+   "Knife",
+   "Sew",
+   "Cut"
+  ],
+  "options_ne": [
+   "Needle",
+   "Knife",
+   "Sew",
+   "Cut"
+  ],
+  "answer": 2,
+  "explanation": "A knife is used to cut; a needle is used to sew.",
+  "explanation_ne": "A knife is used to cut; a needle is used to sew.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "King : Queen :: Prince : ?",
+  "question_ne": "King : Queen :: Prince : ?",
+  "options": [
+   "Princess",
+   "Queen",
+   "King",
+   "Prince"
+  ],
+  "options_ne": [
+   "Princess",
+   "Queen",
+   "King",
+   "Prince"
+  ],
+  "answer": 0,
+  "explanation": "The female counterpart of a king is a queen; of a prince, a princess.",
+  "explanation_ne": "The female counterpart of a king is a queen; of a prince, a princess.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Eye : See :: Ear : ?",
+  "question_ne": "Eye : See :: Ear : ?",
+  "options": [
+   "Ear",
+   "Eye",
+   "Hear",
+   "See"
+  ],
+  "options_ne": [
+   "Ear",
+   "Eye",
+   "Hear",
+   "See"
+  ],
+  "answer": 2,
+  "explanation": "The eye is used to see; the ear is used to hear.",
+  "explanation_ne": "The eye is used to see; the ear is used to hear.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Author : Book :: Painter : ?",
+  "question_ne": "Author : Book :: Painter : ?",
+  "options": [
+   "Book",
+   "Painting",
+   "Painter",
+   "Author"
+  ],
+  "options_ne": [
+   "Book",
+   "Painting",
+   "Painter",
+   "Author"
+  ],
+  "answer": 1,
+  "explanation": "An author creates a book; a painter creates a painting.",
+  "explanation_ne": "An author creates a book; a painter creates a painting.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Analogy",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Carpenter : Wood :: Blacksmith : ?",
+  "question_ne": "Carpenter : Wood :: Blacksmith : ?",
+  "options": [
+   "Wood",
+   "Blacksmith",
+   "Carpenter",
+   "Iron"
+  ],
+  "options_ne": [
+   "Wood",
+   "Blacksmith",
+   "Carpenter",
+   "Iron"
+  ],
+  "answer": 3,
+  "explanation": "A carpenter works with wood; a blacksmith works with iron.",
+  "explanation_ne": "A carpenter works with wood; a blacksmith works with iron.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A man is facing north. He turns right. Which direction is he facing now?",
+  "question_ne": "एउटा मानिस north तर्फ फर्केको छ। ऊ right तर्फ मोडिन्छ। अब ऊ कुन दिशातर्फ फर्केको छ?",
+  "options": [
+   "south",
+   "north",
+   "west",
+   "east"
+  ],
+  "options_ne": [
+   "south",
+   "north",
+   "west",
+   "east"
+  ],
+  "answer": 3,
+  "explanation": "Facing north and turning right gives east.",
+  "explanation_ne": "north तर्फ फर्केर right मोडिँदा east दिशा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Direction Sense",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A man is facing east. He turns left. Which direction is he facing now?",
+  "question_ne": "एउटा मानिस east तर्फ फर्केको छ। ऊ left तर्फ मोडिन्छ। अब ऊ कुन दिशातर्फ फर्केको छ?",
+  "options": [
+   "east",
+   "west",
+   "north",
+   "south"
+  ],
+  "options_ne": [
+   "east",
+   "west",
+   "north",
+   "south"
+  ],
+  "answer": 2,
+  "explanation": "Facing east and turning left gives north.",
+  "explanation_ne": "east तर्फ फर्केर left मोडिँदा north दिशा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Rita is the mother of Sita. Sita is the wife of Gopal. What is Rita to Gopal?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Rita is the mother of Sita. Sita is the wife of Gopal. What is Rita to Gopal?",
+  "options": [
+   "mother-in-law",
+   "mother",
+   "aunt",
+   "sister"
+  ],
+  "options_ne": [
+   "mother-in-law",
+   "mother",
+   "aunt",
+   "sister"
+  ],
+  "answer": 0,
+  "explanation": "Rita is Sita's mother and Sita is Gopal's wife, so Rita is Gopal's mother-in-law.",
+  "explanation_ne": "Rita is Sita's mother and Sita is Gopal's wife, so Rita is Gopal's mother-in-law.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Anil is the brother of Sunil. Sunil is the father of Kamal. What is Anil to Kamal?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Anil is the brother of Sunil. Sunil is the father of Kamal. What is Anil to Kamal?",
+  "options": [
+   "grandfather",
+   "father",
+   "brother",
+   "uncle"
+  ],
+  "options_ne": [
+   "grandfather",
+   "father",
+   "brother",
+   "uncle"
+  ],
+  "answer": 3,
+  "explanation": "Anil is Sunil's brother and Sunil is Kamal's father, so Anil is Kamal's uncle.",
+  "explanation_ne": "Anil is Sunil's brother and Sunil is Kamal's father, so Anil is Kamal's uncle.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Pooja is the sister of Neha. Neha is the daughter of Rekha. What is Pooja to Rekha?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Pooja is the sister of Neha. Neha is the daughter of Rekha. What is Pooja to Rekha?",
+  "options": [
+   "niece",
+   "sister",
+   "granddaughter",
+   "daughter"
+  ],
+  "options_ne": [
+   "niece",
+   "sister",
+   "granddaughter",
+   "daughter"
+  ],
+  "answer": 3,
+  "explanation": "Pooja is Neha's sister and Neha is Rekha's daughter, so Pooja is Rekha's daughter.",
+  "explanation_ne": "Pooja is Neha's sister and Neha is Rekha's daughter, so Pooja is Rekha's daughter.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-IQ4-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "IQ & Reasoning",
+  "subtopic": "Blood Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Vikash is the son of Ramesh. Ramesh is the son of Dinesh. What is Vikash to Dinesh?",
+  "question_ne": "रक्त सम्बन्ध पत्ता लगाउनुहोस्: Vikash is the son of Ramesh. Ramesh is the son of Dinesh. What is Vikash to Dinesh?",
+  "options": [
+   "grandson",
+   "brother",
+   "nephew",
+   "son"
+  ],
+  "options_ne": [
+   "grandson",
+   "brother",
+   "nephew",
+   "son"
+  ],
+  "answer": 0,
+  "explanation": "Vikash is Ramesh's son and Ramesh is Dinesh's son, so Vikash is Dinesh's grandson.",
+  "explanation_ne": "Vikash is Ramesh's son and Ramesh is Dinesh's son, so Vikash is Dinesh's grandson.",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

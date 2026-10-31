@@ -1,0 +1,3530 @@
+[
+ {
+  "id": "R11-DRILL5-0002",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 10 and 30 (inclusive)?",
+  "question_ne": "१० र ३० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "6",
+   "8",
+   "7",
+   "5"
+  ],
+  "options_ne": [
+   "६",
+   "८",
+   "७",
+   "५"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 6.",
+  "explanation_ne": "गणना गर्दा ६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0003",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 20 and 50 (inclusive)?",
+  "question_ne": "२० र ५० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "7",
+   "6",
+   "8",
+   "9"
+  ],
+  "options_ne": [
+   "७",
+   "६",
+   "८",
+   "९"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 7.",
+  "explanation_ne": "गणना गर्दा ७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0004",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 30 and 60 (inclusive)?",
+  "question_ne": "३० र ६० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "8",
+   "7",
+   "6",
+   "9"
+  ],
+  "options_ne": [
+   "८",
+   "७",
+   "६",
+   "९"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 7.",
+  "explanation_ne": "गणना गर्दा ७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 40 and 70 (inclusive)?",
+  "question_ne": "४० र ७० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "9"
+  ],
+  "options_ne": [
+   "८",
+   "६",
+   "७",
+   "९"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 7.",
+  "explanation_ne": "गणना गर्दा ७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0006",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 50 and 100 (inclusive)?",
+  "question_ne": "५० र १०० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "9",
+   "12",
+   "11",
+   "10"
+  ],
+  "options_ne": [
+   "९",
+   "१२",
+   "११",
+   "१०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 10.",
+  "explanation_ne": "गणना गर्दा १० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 1 and 30 (inclusive)?",
+  "question_ne": "१ र ३० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "12",
+   "10",
+   "9",
+   "11"
+  ],
+  "options_ne": [
+   "१२",
+   "१०",
+   "९",
+   "११"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 10.",
+  "explanation_ne": "गणना गर्दा १० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 20 and 40 (inclusive)?",
+  "question_ne": "२० र ४० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "4",
+   "6",
+   "5",
+   "3"
+  ],
+  "options_ne": [
+   "४",
+   "६",
+   "५",
+   "३"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 4.",
+  "explanation_ne": "गणना गर्दा ४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 60 and 90 (inclusive)?",
+  "question_ne": "६० र ९० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "7",
+   "9",
+   "6",
+   "8"
+  ],
+  "options_ne": [
+   "७",
+   "९",
+   "६",
+   "८"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 7.",
+  "explanation_ne": "गणना गर्दा ७ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 10 and 50 (inclusive)?",
+  "question_ne": "१० र ५० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "11",
+   "12",
+   "13",
+   "10"
+  ],
+  "options_ne": [
+   "११",
+   "१२",
+   "१३",
+   "१०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 11.",
+  "explanation_ne": "गणना गर्दा ११ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0011",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 1 and 50 (inclusive)?",
+  "question_ne": "१ र ५० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "16",
+   "14",
+   "17",
+   "15"
+  ],
+  "options_ne": [
+   "१६",
+   "१४",
+   "१७",
+   "१५"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many prime numbers are there between 30 and 100 (inclusive)?",
+  "question_ne": "३० र १०० बीच (दुवै सहित) कति वटा अभाज्य (prime) सङ्ख्या छन्?",
+  "options": [
+   "16",
+   "14",
+   "17",
+   "15"
+  ],
+  "options_ne": [
+   "१६",
+   "१४",
+   "१७",
+   "१५"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 1 and 20 (inclusive)?",
+  "question_ne": "१ र २० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "13",
+   "10",
+   "11",
+   "12"
+  ],
+  "options_ne": [
+   "१३",
+   "१०",
+   "११",
+   "१२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 11.",
+  "explanation_ne": "गणना गर्दा ११ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 10 and 30 (inclusive)?",
+  "question_ne": "१० र ३० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "17",
+   "16",
+   "14",
+   "15"
+  ],
+  "options_ne": [
+   "१७",
+   "१६",
+   "१४",
+   "१५"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 15.",
+  "explanation_ne": "गणना गर्दा १५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 20 and 50 (inclusive)?",
+  "question_ne": "२० र ५० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "24",
+   "23",
+   "26",
+   "25"
+  ],
+  "options_ne": [
+   "२४",
+   "२३",
+   "२६",
+   "२५"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 1 and 30 (inclusive)?",
+  "question_ne": "१ र ३० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "20",
+   "18",
+   "19",
+   "21"
+  ],
+  "options_ne": [
+   "२०",
+   "१८",
+   "१९",
+   "२१"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 19.",
+  "explanation_ne": "गणना गर्दा १९ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0017",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 30 and 60 (inclusive)?",
+  "question_ne": "३० र ६० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "25",
+   "23",
+   "24",
+   "26"
+  ],
+  "options_ne": [
+   "२५",
+   "२३",
+   "२४",
+   "२६"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 24.",
+  "explanation_ne": "गणना गर्दा २४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0018",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "How many composite numbers are there between 1 and 50 (inclusive)?",
+  "question_ne": "१ र ५० बीच (दुवै सहित) कति वटा भाज्य (composite) सङ्ख्या छन्?",
+  "options": [
+   "36",
+   "33",
+   "35",
+   "34"
+  ],
+  "options_ne": [
+   "३६",
+   "३३",
+   "३५",
+   "३४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 34.",
+  "explanation_ne": "गणना गर्दा ३४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0019",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a multiple of 6?",
+  "question_ne": "तलकामध्ये कुन ६ को गुणज (multiple) हो?",
+  "options": [
+   "66",
+   "62",
+   "61",
+   "63"
+  ],
+  "options_ne": [
+   "६६",
+   "६२",
+   "६१",
+   "६३"
+  ],
+  "answer": 0,
+  "explanation": "66 = 6 x 11, so it is a multiple of 6.",
+  "explanation_ne": "६६ = ६ × ११ भएकाले यो ६ को गुणज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0021",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a multiple of 8?",
+  "question_ne": "तलकामध्ये कुन ८ को गुणज (multiple) हो?",
+  "options": [
+   "56",
+   "53",
+   "51",
+   "52"
+  ],
+  "options_ne": [
+   "५६",
+   "५३",
+   "५१",
+   "५२"
+  ],
+  "answer": 0,
+  "explanation": "56 = 8 x 7, so it is a multiple of 8.",
+  "explanation_ne": "५६ = ८ × ७ भएकाले यो ८ को गुणज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a multiple of 12?",
+  "question_ne": "तलकामध्ये कुन १२ को गुणज (multiple) हो?",
+  "options": [
+   "48",
+   "44",
+   "45",
+   "43"
+  ],
+  "options_ne": [
+   "४८",
+   "४४",
+   "४५",
+   "४३"
+  ],
+  "answer": 0,
+  "explanation": "48 = 12 x 4, so it is a multiple of 12.",
+  "explanation_ne": "४८ = १२ × ४ भएकाले यो १२ को गुणज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a multiple of 14?",
+  "question_ne": "तलकामध्ये कुन १४ को गुणज (multiple) हो?",
+  "options": [
+   "81",
+   "80",
+   "79",
+   "84"
+  ],
+  "options_ne": [
+   "८१",
+   "८०",
+   "७९",
+   "८४"
+  ],
+  "answer": 3,
+  "explanation": "84 = 14 x 6, so it is a multiple of 14.",
+  "explanation_ne": "८४ = १४ × ६ भएकाले यो १४ को गुणज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Number System",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a multiple of 15?",
+  "question_ne": "तलकामध्ये कुन १५ को गुणज (multiple) हो?",
+  "options": [
+   "175",
+   "180",
+   "177",
+   "176"
+  ],
+  "options_ne": [
+   "१७५",
+   "१८०",
+   "१७७",
+   "१७६"
+  ],
+  "answer": 1,
+  "explanation": "180 = 15 x 12, so it is a multiple of 15.",
+  "explanation_ne": "१८० = १५ × १२ भएकाले यो १५ को गुणज हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Factors",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a factor of 144?",
+  "question_ne": "तलकामध्ये कुन १४४ को गुणनखण्ड (factor) हो?",
+  "options": [
+   "13",
+   "11",
+   "18",
+   "7"
+  ],
+  "options_ne": [
+   "१३",
+   "११",
+   "१८",
+   "७"
+  ],
+  "answer": 2,
+  "explanation": "144 ÷ 18 = 8, so 18 is a factor of 144.",
+  "explanation_ne": "१४४ ÷ १८ = ८ भएकाले १८ गुणनखण्ड हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Factors",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which of the following is a factor of 180?",
+  "question_ne": "तलकामध्ये कुन १८० को गुणनखण्ड (factor) हो?",
+  "options": [
+   "10",
+   "13",
+   "7",
+   "11"
+  ],
+  "options_ne": [
+   "१०",
+   "१३",
+   "७",
+   "११"
+  ],
+  "answer": 0,
+  "explanation": "180 ÷ 10 = 18, so 10 is a factor of 180.",
+  "explanation_ne": "१८० ÷ १० = १८ भएकाले १० गुणनखण्ड हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 246 divisible by 3?",
+  "question_ne": "के २४६, ३ ले भाग जान्छ?",
+  "options": [
+   "Cannot be determined",
+   "Only partly",
+   "No",
+   "Yes"
+  ],
+  "options_ne": [
+   "Cannot be determined",
+   "Only partly",
+   "No",
+   "Yes"
+  ],
+  "answer": 3,
+  "explanation": "246 ÷ 3 = 82 exactly, so yes.",
+  "explanation_ne": "२४६ ÷ ३ = ८२ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 375 divisible by 5?",
+  "question_ne": "के ३७५, ५ ले भाग जान्छ?",
+  "options": [
+   "Only partly",
+   "No",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "options_ne": [
+   "Only partly",
+   "No",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "answer": 3,
+  "explanation": "375 ÷ 5 = 75 exactly, so yes.",
+  "explanation_ne": "३७५ ÷ ५ = ७५ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 472 divisible by 2?",
+  "question_ne": "के ४७२, २ ले भाग जान्छ?",
+  "options": [
+   "No",
+   "Cannot be determined",
+   "Yes",
+   "Only partly"
+  ],
+  "options_ne": [
+   "No",
+   "Cannot be determined",
+   "Yes",
+   "Only partly"
+  ],
+  "answer": 2,
+  "explanation": "472 ÷ 2 = 236 exactly, so yes.",
+  "explanation_ne": "४७२ ÷ २ = २३६ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 819 divisible by 9?",
+  "question_ne": "के ८१९, ९ ले भाग जान्छ?",
+  "options": [
+   "Only partly",
+   "Cannot be determined",
+   "No",
+   "Yes"
+  ],
+  "options_ne": [
+   "Only partly",
+   "Cannot be determined",
+   "No",
+   "Yes"
+  ],
+  "answer": 3,
+  "explanation": "819 ÷ 9 = 91 exactly, so yes.",
+  "explanation_ne": "८१९ ÷ ९ = ९१ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 1040 divisible by 10?",
+  "question_ne": "के १०४०, १० ले भाग जान्छ?",
+  "options": [
+   "Only partly",
+   "Yes",
+   "No",
+   "Cannot be determined"
+  ],
+  "options_ne": [
+   "Only partly",
+   "Yes",
+   "No",
+   "Cannot be determined"
+  ],
+  "answer": 1,
+  "explanation": "1040 ÷ 10 = 104 exactly, so yes.",
+  "explanation_ne": "१०४० ÷ १० = १०४ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 1331 divisible by 11?",
+  "question_ne": "के १३३१, ११ ले भाग जान्छ?",
+  "options": [
+   "Only partly",
+   "No",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "options_ne": [
+   "Only partly",
+   "No",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "answer": 3,
+  "explanation": "1331 ÷ 11 = 121 exactly, so yes.",
+  "explanation_ne": "१३३१ ÷ ११ = १२१ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 252 divisible by 6?",
+  "question_ne": "के २५२, ६ ले भाग जान्छ?",
+  "options": [
+   "Yes",
+   "No",
+   "Only partly",
+   "Cannot be determined"
+  ],
+  "options_ne": [
+   "Yes",
+   "No",
+   "Only partly",
+   "Cannot be determined"
+  ],
+  "answer": 0,
+  "explanation": "252 ÷ 6 = 42 exactly, so yes.",
+  "explanation_ne": "२५२ ÷ ६ = ४२ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 945 divisible by 7?",
+  "question_ne": "के ९४५, ७ ले भाग जान्छ?",
+  "options": [
+   "No",
+   "Only partly",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "options_ne": [
+   "No",
+   "Only partly",
+   "Cannot be determined",
+   "Yes"
+  ],
+  "answer": 3,
+  "explanation": "945 ÷ 7 = 135 exactly, so yes.",
+  "explanation_ne": "९४५ ÷ ७ = १३५ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 1122 divisible by 3?",
+  "question_ne": "के ११२२, ३ ले भाग जान्छ?",
+  "options": [
+   "Cannot be determined",
+   "Yes",
+   "No",
+   "Only partly"
+  ],
+  "options_ne": [
+   "Cannot be determined",
+   "Yes",
+   "No",
+   "Only partly"
+  ],
+  "answer": 1,
+  "explanation": "1122 ÷ 3 = 374 exactly, so yes.",
+  "explanation_ne": "११२२ ÷ ३ = ३७४ ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Divisibility",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Is 2070 divisible by 9?",
+  "question_ne": "के २०७०, ९ ले भाग जान्छ?",
+  "options": [
+   "Cannot be determined",
+   "Yes",
+   "Only partly",
+   "No"
+  ],
+  "options_ne": [
+   "Cannot be determined",
+   "Yes",
+   "Only partly",
+   "No"
+  ],
+  "answer": 1,
+  "explanation": "2070 ÷ 9 = 230 exactly, so yes.",
+  "explanation_ne": "२०७० ÷ ९ = २३० ठीक भाग जान्छ, त्यसैले हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ordering Numbers",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which option arranges 34, 56, 78, 91 in ascending order?",
+  "question_ne": "34, 56, 78, 91 लाई बढ्दो क्रममा मिलाउँदा कुन विकल्प सही हुन्छ?",
+  "options": [
+   "34, 56, 78, 91",
+   "56, 34, 78, 91",
+   "34, 78, 91, 56",
+   "34, 56, 91, 78"
+  ],
+  "options_ne": [
+   "34, 56, 78, 91",
+   "56, 34, 78, 91",
+   "34, 78, 91, 56",
+   "34, 56, 91, 78"
+  ],
+  "answer": 0,
+  "explanation": "34, 56, 78, 91 is in ascending order.",
+  "explanation_ne": "34, 56, 78, 91 बढ्दो क्रममा छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ordering Numbers",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which option arranges 12, 29, 47, 63 in ascending order?",
+  "question_ne": "12, 29, 47, 63 लाई बढ्दो क्रममा मिलाउँदा कुन विकल्प सही हुन्छ?",
+  "options": [
+   "12, 29, 47, 63",
+   "12, 63, 29, 47",
+   "47, 63, 29, 12",
+   "12, 63, 47, 29"
+  ],
+  "options_ne": [
+   "12, 29, 47, 63",
+   "12, 63, 29, 47",
+   "47, 63, 29, 12",
+   "12, 63, 47, 29"
+  ],
+  "answer": 0,
+  "explanation": "12, 29, 47, 63 is in ascending order.",
+  "explanation_ne": "12, 29, 47, 63 बढ्दो क्रममा छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ordering Numbers",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which option arranges 105, 132, 178, 201 in ascending order?",
+  "question_ne": "105, 132, 178, 201 लाई बढ्दो क्रममा मिलाउँदा कुन विकल्प सही हुन्छ?",
+  "options": [
+   "105, 132, 178, 201",
+   "105, 132, 201, 178",
+   "132, 105, 178, 201",
+   "132, 178, 201, 105"
+  ],
+  "options_ne": [
+   "105, 132, 178, 201",
+   "105, 132, 201, 178",
+   "132, 105, 178, 201",
+   "132, 178, 201, 105"
+  ],
+  "answer": 0,
+  "explanation": "105, 132, 178, 201 is in ascending order.",
+  "explanation_ne": "105, 132, 178, 201 बढ्दो क्रममा छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Ordering Numbers",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which option arranges 7, 19, 38, 54 in ascending order?",
+  "question_ne": "7, 19, 38, 54 लाई बढ्दो क्रममा मिलाउँदा कुन विकल्प सही हुन्छ?",
+  "options": [
+   "38, 19, 7, 54",
+   "19, 7, 38, 54",
+   "38, 7, 19, 54",
+   "7, 19, 38, 54"
+  ],
+  "options_ne": [
+   "38, 19, 7, 54",
+   "19, 7, 38, 54",
+   "38, 7, 19, 54",
+   "7, 19, 38, 54"
+  ],
+  "answer": 3,
+  "explanation": "7, 19, 38, 54 is in ascending order.",
+  "explanation_ne": "7, 19, 38, 54 बढ्दो क्रममा छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Place Value",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the expanded form of 3472?",
+  "question_ne": "३४७२ को विस्तारित रूप (expanded form) के हो?",
+  "options": [
+   "2+70+400+3000",
+   "3000+400+70+2",
+   "3472",
+   "300+400+70+2"
+  ],
+  "options_ne": [
+   "2+70+400+3000",
+   "3000+400+70+2",
+   "3472",
+   "300+400+70+2"
+  ],
+  "answer": 1,
+  "explanation": "The expanded form of 3472 is 3000+400+70+2.",
+  "explanation_ne": "३४७२ को विस्तारित रूप 3000+400+70+2 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0050",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Place Value",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the expanded form of 5831?",
+  "question_ne": "५८३१ को विस्तारित रूप (expanded form) के हो?",
+  "options": [
+   "5831",
+   "1+30+800+5000",
+   "5000+800+30+1",
+   "500+800+30+1"
+  ],
+  "options_ne": [
+   "5831",
+   "1+30+800+5000",
+   "5000+800+30+1",
+   "500+800+30+1"
+  ],
+  "answer": 2,
+  "explanation": "The expanded form of 5831 is 5000+800+30+1.",
+  "explanation_ne": "५८३१ को विस्तारित रूप 5000+800+30+1 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0051",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Place Value",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the expanded form of 9264?",
+  "question_ne": "९२६४ को विस्तारित रूप (expanded form) के हो?",
+  "options": [
+   "4+60+200+9000",
+   "9264",
+   "900+200+60+4",
+   "9000+200+60+4"
+  ],
+  "options_ne": [
+   "4+60+200+9000",
+   "9264",
+   "900+200+60+4",
+   "9000+200+60+4"
+  ],
+  "answer": 3,
+  "explanation": "The expanded form of 9264 is 9000+200+60+4.",
+  "explanation_ne": "९२६४ को विस्तारित रूप 9000+200+60+4 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Place Value",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the expanded form of 7158?",
+  "question_ne": "७१५८ को विस्तारित रूप (expanded form) के हो?",
+  "options": [
+   "7000+100+50+8",
+   "700+100+50+8",
+   "7158",
+   "8+50+100+7000"
+  ],
+  "options_ne": [
+   "7000+100+50+8",
+   "700+100+50+8",
+   "7158",
+   "8+50+100+7000"
+  ],
+  "answer": 0,
+  "explanation": "The expanded form of 7158 is 7000+100+50+8.",
+  "explanation_ne": "७१५८ को विस्तारित रूप 7000+100+50+8 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0053",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Place Value",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the expanded form of 4693?",
+  "question_ne": "४६९३ को विस्तारित रूप (expanded form) के हो?",
+  "options": [
+   "3+90+600+4000",
+   "4000+600+90+3",
+   "4693",
+   "400+600+90+3"
+  ],
+  "options_ne": [
+   "3+90+600+4000",
+   "4000+600+90+3",
+   "4693",
+   "400+600+90+3"
+  ],
+  "answer": 1,
+  "explanation": "The expanded form of 4693 is 4000+600+90+3.",
+  "explanation_ne": "४६९३ को विस्तारित रूप 4000+600+90+3 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 147 to the nearest 100.",
+  "question_ne": "१४७ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "147",
+   "100",
+   "200",
+   "101"
+  ],
+  "options_ne": [
+   "१४७",
+   "१००",
+   "२००",
+   "१०१"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 100.",
+  "explanation_ne": "गणना गर्दा १०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 253 to the nearest 100.",
+  "question_ne": "२५३ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "200",
+   "300",
+   "253",
+   "400"
+  ],
+  "options_ne": [
+   "२००",
+   "३००",
+   "२५३",
+   "४००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 300.",
+  "explanation_ne": "गणना गर्दा ३०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0056",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 368 to the nearest 100.",
+  "question_ne": "३६८ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "300",
+   "500",
+   "400",
+   "368"
+  ],
+  "options_ne": [
+   "३००",
+   "५००",
+   "४००",
+   "३६८"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 400.",
+  "explanation_ne": "गणना गर्दा ४०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0057",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 472 to the nearest 100.",
+  "question_ne": "४७२ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "600",
+   "400",
+   "500",
+   "472"
+  ],
+  "options_ne": [
+   "६००",
+   "४००",
+   "५००",
+   "४७२"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 500.",
+  "explanation_ne": "गणना गर्दा ५०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 589 to the nearest 100.",
+  "question_ne": "५८९ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "600",
+   "700",
+   "500",
+   "589"
+  ],
+  "options_ne": [
+   "६००",
+   "७००",
+   "५००",
+   "५८९"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 600.",
+  "explanation_ne": "गणना गर्दा ६०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 694 to the nearest 100.",
+  "question_ne": "६९४ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "694",
+   "800",
+   "700",
+   "600"
+  ],
+  "options_ne": [
+   "६९४",
+   "८००",
+   "७००",
+   "६००"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 700.",
+  "explanation_ne": "गणना गर्दा ७०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 1253 to the nearest 100.",
+  "question_ne": "१२५३ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "1253",
+   "1400",
+   "1200",
+   "1300"
+  ],
+  "options_ne": [
+   "१२५३",
+   "१४००",
+   "१२००",
+   "१३००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 1300.",
+  "explanation_ne": "गणना गर्दा १३०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 2367 to the nearest 100.",
+  "question_ne": "२३६७ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "2500",
+   "2400",
+   "2300",
+   "2367"
+  ],
+  "options_ne": [
+   "२५००",
+   "२४००",
+   "२३००",
+   "२३६७"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 2400.",
+  "explanation_ne": "गणना गर्दा २४०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 3478 to the nearest 100.",
+  "question_ne": "३४७८ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "3500",
+   "3600",
+   "3478",
+   "3400"
+  ],
+  "options_ne": [
+   "३५००",
+   "३६००",
+   "३४७८",
+   "३४००"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 3500.",
+  "explanation_ne": "गणना गर्दा ३५०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 4592 to the nearest 100.",
+  "question_ne": "४५९२ लाई निकटतम १०० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "4500",
+   "4600",
+   "4592",
+   "4700"
+  ],
+  "options_ne": [
+   "४५००",
+   "४६००",
+   "४५९२",
+   "४७००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 4600.",
+  "explanation_ne": "गणना गर्दा ४६०० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 1473 to the nearest 1000.",
+  "question_ne": "१४७३ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "1001",
+   "2000",
+   "1000",
+   "1473"
+  ],
+  "options_ne": [
+   "१००१",
+   "२०००",
+   "१०००",
+   "१४७३"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 1000.",
+  "explanation_ne": "गणना गर्दा १००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 2538 to the nearest 1000.",
+  "question_ne": "२५३८ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "2538",
+   "2000",
+   "3000",
+   "4000"
+  ],
+  "options_ne": [
+   "२५३८",
+   "२०००",
+   "३०००",
+   "४०००"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 3000.",
+  "explanation_ne": "गणना गर्दा ३००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 3692 to the nearest 1000.",
+  "question_ne": "३६९२ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "3692",
+   "5000",
+   "3000",
+   "4000"
+  ],
+  "options_ne": [
+   "३६९२",
+   "५०००",
+   "३०००",
+   "४०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 4000.",
+  "explanation_ne": "गणना गर्दा ४००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 4715 to the nearest 1000.",
+  "question_ne": "४७१५ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "4715",
+   "4000",
+   "6000",
+   "5000"
+  ],
+  "options_ne": [
+   "४७१५",
+   "४०००",
+   "६०००",
+   "५०००"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 5000.",
+  "explanation_ne": "गणना गर्दा ५००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 5864 to the nearest 1000.",
+  "question_ne": "५८६४ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "5000",
+   "6000",
+   "5864",
+   "7000"
+  ],
+  "options_ne": [
+   "५०००",
+   "६०००",
+   "५८६४",
+   "७०००"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 6000.",
+  "explanation_ne": "गणना गर्दा ६००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Rounding",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Round 12473 to the nearest 1000.",
+  "question_ne": "१२४७३ लाई निकटतम १००० मा राउन्ड गर्नुहोस्।",
+  "options": [
+   "12473",
+   "13000",
+   "12000",
+   "11000"
+  ],
+  "options_ne": [
+   "१२४७३",
+   "१३०००",
+   "१२०००",
+   "११०००"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 12000.",
+  "explanation_ne": "गणना गर्दा १२००० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Roman Numerals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the value of the Roman numeral XXXVI?",
+  "question_ne": "रोमन अङ्क XXXVI को मान कति हो?",
+  "options": [
+   "36",
+   "37",
+   "35",
+   "46"
+  ],
+  "options_ne": [
+   "३६",
+   "३७",
+   "३५",
+   "४६"
+  ],
+  "answer": 0,
+  "explanation": "The Roman numeral XXXVI equals 36.",
+  "explanation_ne": "रोमन अङ्क XXXVI को मान ३६ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Roman Numerals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the value of the Roman numeral XLVIII?",
+  "question_ne": "रोमन अङ्क XLVIII को मान कति हो?",
+  "options": [
+   "47",
+   "49",
+   "58",
+   "48"
+  ],
+  "options_ne": [
+   "४७",
+   "४९",
+   "५८",
+   "४८"
+  ],
+  "answer": 3,
+  "explanation": "The Roman numeral XLVIII equals 48.",
+  "explanation_ne": "रोमन अङ्क XLVIII को मान ४८ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Roman Numerals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the value of the Roman numeral CCX?",
+  "question_ne": "रोमन अङ्क CCX को मान कति हो?",
+  "options": [
+   "220",
+   "211",
+   "209",
+   "210"
+  ],
+  "options_ne": [
+   "२२०",
+   "२११",
+   "२०९",
+   "२१०"
+  ],
+  "answer": 3,
+  "explanation": "The Roman numeral CCX equals 210.",
+  "explanation_ne": "रोमन अङ्क CCX को मान २१० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Roman Numerals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the value of the Roman numeral CDXL?",
+  "question_ne": "रोमन अङ्क CDXL को मान कति हो?",
+  "options": [
+   "440",
+   "441",
+   "439",
+   "450"
+  ],
+  "options_ne": [
+   "४४०",
+   "४४१",
+   "४३९",
+   "४५०"
+  ],
+  "answer": 0,
+  "explanation": "The Roman numeral CDXL equals 440.",
+  "explanation_ne": "रोमन अङ्क CDXL को मान ४४० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Roman Numerals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the value of the Roman numeral DCCC?",
+  "question_ne": "रोमन अङ्क DCCC को मान कति हो?",
+  "options": [
+   "799",
+   "801",
+   "810",
+   "800"
+  ],
+  "options_ne": [
+   "७९९",
+   "८०१",
+   "८१०",
+   "८००"
+  ],
+  "answer": 3,
+  "explanation": "The Roman numeral DCCC equals 800.",
+  "explanation_ne": "रोमन अङ्क DCCC को मान ८०० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0080",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 3 years?",
+  "question_ne": "३ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "30",
+   "36",
+   "48",
+   "24"
+  ],
+  "options_ne": [
+   "३०",
+   "३६",
+   "४८",
+   "२४"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 36.",
+  "explanation_ne": "गणना गर्दा ३६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 5 years?",
+  "question_ne": "५ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "50",
+   "60",
+   "48",
+   "72"
+  ],
+  "options_ne": [
+   "५०",
+   "६०",
+   "४८",
+   "७२"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 60.",
+  "explanation_ne": "गणना गर्दा ६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 7 years?",
+  "question_ne": "७ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "72",
+   "96",
+   "70",
+   "84"
+  ],
+  "options_ne": [
+   "७२",
+   "९६",
+   "७०",
+   "८४"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 84.",
+  "explanation_ne": "गणना गर्दा ८४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 9 years?",
+  "question_ne": "९ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "120",
+   "96",
+   "108",
+   "90"
+  ],
+  "options_ne": [
+   "१२०",
+   "९६",
+   "१०८",
+   "९०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 108.",
+  "explanation_ne": "गणना गर्दा १०८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 11 years?",
+  "question_ne": "११ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "120",
+   "132",
+   "144",
+   "110"
+  ],
+  "options_ne": [
+   "१२०",
+   "१३२",
+   "१४४",
+   "११०"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 132.",
+  "explanation_ne": "गणना गर्दा १३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0085",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Time Conversion",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "How many months are there in 13 years?",
+  "question_ne": "१३ वर्षमा कति महिना हुन्छ?",
+  "options": [
+   "168",
+   "144",
+   "130",
+   "156"
+  ],
+  "options_ne": [
+   "१६८",
+   "१४४",
+   "१३०",
+   "१५६"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 156.",
+  "explanation_ne": "गणना गर्दा १५६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 3 red balls and 5 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा ३ वटा रातो र ५ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "3/5",
+   "5/8",
+   "1/8",
+   "3/8"
+  ],
+  "options_ne": [
+   "3/5",
+   "5/8",
+   "1/8",
+   "3/8"
+  ],
+  "answer": 3,
+  "explanation": "Probability = 3/8.",
+  "explanation_ne": "सम्भावना = ३/८ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 4 red balls and 6 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा ४ वटा रातो र ६ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "1/10",
+   "4/10",
+   "4/6",
+   "6/10"
+  ],
+  "options_ne": [
+   "1/10",
+   "4/10",
+   "4/6",
+   "6/10"
+  ],
+  "answer": 1,
+  "explanation": "Probability = 4/10.",
+  "explanation_ne": "सम्भावना = ४/१० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 5 red balls and 7 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा ५ वटा रातो र ७ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "7/12",
+   "5/7",
+   "1/12",
+   "5/12"
+  ],
+  "options_ne": [
+   "7/12",
+   "5/7",
+   "1/12",
+   "5/12"
+  ],
+  "answer": 3,
+  "explanation": "Probability = 5/12.",
+  "explanation_ne": "सम्भावना = ५/१२ हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 2 red balls and 8 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा २ वटा रातो र ८ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "1/10",
+   "2/10",
+   "2/8",
+   "8/10"
+  ],
+  "options_ne": [
+   "1/10",
+   "2/10",
+   "2/8",
+   "8/10"
+  ],
+  "answer": 1,
+  "explanation": "Probability = 2/10.",
+  "explanation_ne": "सम्भावना = २/१० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 6 red balls and 4 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा ६ वटा रातो र ४ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "1/10",
+   "6/4",
+   "4/10",
+   "6/10"
+  ],
+  "options_ne": [
+   "1/10",
+   "6/4",
+   "4/10",
+   "6/10"
+  ],
+  "answer": 3,
+  "explanation": "Probability = 6/10.",
+  "explanation_ne": "सम्भावना = ६/१० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A bag contains 7 red balls and 3 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+  "question_ne": "एउटा झोलामा ७ वटा रातो र ३ वटा नीलो बल छन्। एउटा बल निकाल्दा रातो पर्ने सम्भावना कति हो?",
+  "options": [
+   "7/10",
+   "3/10",
+   "1/10",
+   "7/3"
+  ],
+  "options_ne": [
+   "7/10",
+   "3/10",
+   "1/10",
+   "7/3"
+  ],
+  "answer": 0,
+  "explanation": "Probability = 7/10.",
+  "explanation_ne": "सम्भावना = ७/१० हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0096",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trains",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A train running at 108 km/h crosses a pole in 8 seconds. What is the length of the train?",
+  "question_ne": "१०८ किमी/घण्टाको गतिमा दौडिने रेलले ८ सेकेन्डमा एउटा खम्बा पार गर्छ। रेलको लम्बाइ कति हो?",
+  "options": [
+   "270",
+   "210",
+   "240",
+   "290"
+  ],
+  "options_ne": [
+   "२७०",
+   "२१०",
+   "२४०",
+   "२९०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 240.",
+  "explanation_ne": "गणना गर्दा २४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0097",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trains",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A train running at 45 km/h crosses a pole in 16 seconds. What is the length of the train?",
+  "question_ne": "४५ किमी/घण्टाको गतिमा दौडिने रेलले १६ सेकेन्डमा एउटा खम्बा पार गर्छ। रेलको लम्बाइ कति हो?",
+  "options": [
+   "212",
+   "200",
+   "250",
+   "188"
+  ],
+  "options_ne": [
+   "२१२",
+   "२००",
+   "२५०",
+   "१८८"
+  ],
+  "answer": 1,
+  "explanation": "Speed = 45 x 5/18 = 12.5 m/s. Length = 12.5 x 16 = 200 m.",
+  "explanation_ne": "गति = ४५ × ५/१८ = १२.५ मि/से। लम्बाइ = १२.५ × १६ = २०० मिटर।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0100",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A boat goes 18 km/h downstream and 6 km/h upstream. What is its speed in still water?",
+  "question_ne": "एउटा डुङ्गा downstream १८ किमी/घण्टा र upstream ६ किमी/घण्टा चल्छ। स्थिर पानीमा यसको गति कति हो?",
+  "options": [
+   "10",
+   "12",
+   "13",
+   "14"
+  ],
+  "options_ne": [
+   "१०",
+   "१२",
+   "१३",
+   "१४"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 12.",
+  "explanation_ne": "गणना गर्दा १२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0101",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A boat goes 24 km/h downstream and 12 km/h upstream. What is its speed in still water?",
+  "question_ne": "एउटा डुङ्गा downstream २४ किमी/घण्टा र upstream १२ किमी/घण्टा चल्छ। स्थिर पानीमा यसको गति कति हो?",
+  "options": [
+   "18",
+   "16",
+   "12",
+   "20"
+  ],
+  "options_ne": [
+   "१८",
+   "१६",
+   "१२",
+   "२०"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 18.",
+  "explanation_ne": "गणना गर्दा १८ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0102",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A boat goes 14 km/h downstream and 6 km/h upstream. What is its speed in still water?",
+  "question_ne": "एउटा डुङ्गा downstream १४ किमी/घण्टा र upstream ६ किमी/घण्टा चल्छ। स्थिर पानीमा यसको गति कति हो?",
+  "options": [
+   "11",
+   "8",
+   "12",
+   "10"
+  ],
+  "options_ne": [
+   "११",
+   "८",
+   "१२",
+   "१०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 10.",
+  "explanation_ne": "गणना गर्दा १० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0103",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A boat goes 22 km/h downstream and 10 km/h upstream. What is its speed in still water?",
+  "question_ne": "एउटा डुङ्गा downstream २२ किमी/घण्टा र upstream १० किमी/घण्टा चल्छ। स्थिर पानीमा यसको गति कति हो?",
+  "options": [
+   "12",
+   "14",
+   "16",
+   "18"
+  ],
+  "options_ne": [
+   "१२",
+   "१४",
+   "१६",
+   "१८"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 16.",
+  "explanation_ne": "गणना गर्दा १६ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0104",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 3:2 and their sum is 50 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ३:२ अनुपातमा छ र योग ५० वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "25",
+   "35",
+   "20",
+   "30"
+  ],
+  "options_ne": [
+   "२५",
+   "३५",
+   "२०",
+   "३०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 30.",
+  "explanation_ne": "गणना गर्दा ३० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0105",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 5:3 and their sum is 64 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ५:३ अनुपातमा छ र योग ६४ वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "24",
+   "40",
+   "32",
+   "45"
+  ],
+  "options_ne": [
+   "२४",
+   "४०",
+   "३२",
+   "४५"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 40.",
+  "explanation_ne": "गणना गर्दा ४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0106",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 7:5 and their sum is 72 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ७:५ अनुपातमा छ र योग ७२ वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "30",
+   "42",
+   "36",
+   "47"
+  ],
+  "options_ne": [
+   "३०",
+   "४२",
+   "३६",
+   "४७"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 42.",
+  "explanation_ne": "गणना गर्दा ४२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0107",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 4:3 and their sum is 56 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ४:३ अनुपातमा छ र योग ५६ वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "32",
+   "37",
+   "28",
+   "24"
+  ],
+  "options_ne": [
+   "३२",
+   "३७",
+   "२८",
+   "२४"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 32.",
+  "explanation_ne": "गणना गर्दा ३२ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0108",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 9:7 and their sum is 80 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ९:७ अनुपातमा छ र योग ८० वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "40",
+   "35",
+   "45",
+   "50"
+  ],
+  "options_ne": [
+   "४०",
+   "३५",
+   "४५",
+   "५०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 45.",
+  "explanation_ne": "गणना गर्दा ४५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0109",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "The ages of two persons are in the ratio 5:4 and their sum is 63 years. How old is the elder?",
+  "question_ne": "दुई व्यक्तिको उमेर ५:४ अनुपातमा छ र योग ६३ वर्ष छ। जेठो कति वर्षको हो?",
+  "options": [
+   "40",
+   "35",
+   "31",
+   "28"
+  ],
+  "options_ne": [
+   "४०",
+   "३५",
+   "३१",
+   "२८"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 35.",
+  "explanation_ne": "गणना गर्दा ३५ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0110",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 25000 and Rs 35000. If the total profit is Rs 36000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू २५००० र रू ३५००० लगानी गर्छन्। जम्मा नाफा रू ३६००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 15001",
+   "Rs 18000",
+   "Rs 15000",
+   "Rs 21000"
+  ],
+  "options_ne": [
+   "रू १५००१",
+   "रू १८०००",
+   "रू १५०००",
+   "रू २१०००"
+  ],
+  "answer": 2,
+  "explanation": "First share = 36000 x 25000/60000 = 15000.",
+  "explanation_ne": "पहिलो हिस्सा = ३६००० × २५०००/६०००० = १५०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0111",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 20000 and Rs 50000. If the total profit is Rs 42000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू २०००० र रू ५०००० लगानी गर्छन्। जम्मा नाफा रू ४२००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 12000",
+   "Rs 21000",
+   "Rs 15000",
+   "Rs 30000"
+  ],
+  "options_ne": [
+   "रू १२०००",
+   "रू २१०००",
+   "रू १५०००",
+   "रू ३००००"
+  ],
+  "answer": 0,
+  "explanation": "First share = 42000 x 20000/70000 = 12000.",
+  "explanation_ne": "पहिलो हिस्सा = ४२००० × २००००/७०००० = १२०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0112",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 45000 and Rs 15000. If the total profit is Rs 48000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू ४५००० र रू १५००० लगानी गर्छन्। जम्मा नाफा रू ४८००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 12000",
+   "Rs 36000",
+   "Rs 24000",
+   "Rs 39000"
+  ],
+  "options_ne": [
+   "रू १२०००",
+   "रू ३६०००",
+   "रू २४०००",
+   "रू ३९०००"
+  ],
+  "answer": 1,
+  "explanation": "First share = 48000 x 45000/60000 = 36000.",
+  "explanation_ne": "पहिलो हिस्सा = ४८००० × ४५०००/६०००० = ३६०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0113",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 30000 and Rs 45000. If the total profit is Rs 30000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू ३०००० र रू ४५००० लगानी गर्छन्। जम्मा नाफा रू ३०००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 12000",
+   "Rs 18000",
+   "Rs 12001",
+   "Rs 15000"
+  ],
+  "options_ne": [
+   "रू १२०००",
+   "रू १८०००",
+   "रू १२००१",
+   "रू १५०००"
+  ],
+  "answer": 0,
+  "explanation": "First share = 30000 x 30000/75000 = 12000.",
+  "explanation_ne": "पहिलो हिस्सा = ३०००० × ३००००/७५००० = १२०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0114",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 240 runs in 6 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले ६ इनिङ्समा २४० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "35",
+   "40",
+   "45",
+   "34"
+  ],
+  "options_ne": [
+   "३५",
+   "४०",
+   "४५",
+   "३४"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 40.",
+  "explanation_ne": "गणना गर्दा ४० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0115",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 350 runs in 7 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले ७ इनिङ्समा ३५० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "50",
+   "55",
+   "43",
+   "45"
+  ],
+  "options_ne": [
+   "५०",
+   "५५",
+   "४३",
+   "४५"
+  ],
+  "answer": 0,
+  "explanation": "Working it out gives 50.",
+  "explanation_ne": "गणना गर्दा ५० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 480 runs in 8 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले ८ इनिङ्समा ४८० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "55",
+   "53",
+   "65",
+   "60"
+  ],
+  "options_ne": [
+   "५५",
+   "५३",
+   "६५",
+   "६०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 60.",
+  "explanation_ne": "गणना गर्दा ६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0117",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 300 runs in 5 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले ५ इनिङ्समा ३०० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "65",
+   "55",
+   "60",
+   "50"
+  ],
+  "options_ne": [
+   "६५",
+   "५५",
+   "६०",
+   "५०"
+  ],
+  "answer": 2,
+  "explanation": "Working it out gives 60.",
+  "explanation_ne": "गणना गर्दा ६० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0118",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 630 runs in 9 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले ९ इनिङ्समा ६३० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "63",
+   "75",
+   "65",
+   "70"
+  ],
+  "options_ne": [
+   "६३",
+   "७५",
+   "६५",
+   "७०"
+  ],
+  "answer": 3,
+  "explanation": "Working it out gives 70.",
+  "explanation_ne": "गणना गर्दा ७० हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-DRILL5-0119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "A batsman scores 540 runs in 10 innings. What is his batting average?",
+  "question_ne": "एउटा ब्याट्सम्यानले १० इनिङ्समा ५४० रन बनाउँछ। उसको ब्याटिङ औसत कति हो?",
+  "options": [
+   "55",
+   "54",
+   "49",
+   "59"
+  ],
+  "options_ne": [
+   "५५",
+   "५४",
+   "४९",
+   "५९"
+  ],
+  "answer": 1,
+  "explanation": "Working it out gives 54.",
+  "explanation_ne": "गणना गर्दा ५४ हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

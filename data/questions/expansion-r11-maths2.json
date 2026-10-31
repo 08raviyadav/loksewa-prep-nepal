@@ -1,0 +1,2525 @@
+[
+ {
+  "id": "R11-MATH2-0005",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Trains",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A train 200 m long running at 54 km/h crosses a 100 m long platform. How long does it take?",
+  "question_ne": "२०० मिटर लामो रेल ५४ किमी/घण्टाको गतिमा १०० मिटर लामो प्लेटफर्म पार गर्छ। कति समय लाग्छ?",
+  "options": [
+   "22 seconds",
+   "25 seconds",
+   "20 seconds",
+   "18 seconds"
+  ],
+  "options_ne": [
+   "२२ सेकेन्ड",
+   "२५ सेकेन्ड",
+   "२० सेकेन्ड",
+   "१८ सेकेन्ड"
+  ],
+  "answer": 2,
+  "explanation": "Distance = 200 + 100 = 300 m. Speed = 15 m/s. Time = 300/15 = 20 seconds.",
+  "explanation_ne": "दूरी = २०० + १०० = ३०० मिटर। गति = १५ मि/से। समय = ३००/१५ = २० सेकेन्ड।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0007",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 4 hours and 6 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ४ घण्टा र ६ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "2.4 hours",
+   "3.4 hours",
+   "10 hours",
+   "1.4 hours"
+  ],
+  "options_ne": [
+   "२.४ घण्टा",
+   "३.४ घण्टा",
+   "१० घण्टा",
+   "१.४ घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Together rate = 1/4 + 1/6 = 10/24 per hour, so time = 24/10 = 2.4 hours.",
+  "explanation_ne": "सँगैको दर = १/४ + १/६ भएकाले समय = 2.4 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0008",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 6 hours and 8 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ६ घण्टा र ८ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "2.43 hours",
+   "14 hours",
+   "3.43 hours",
+   "4.43 hours"
+  ],
+  "options_ne": [
+   "२.४३ घण्टा",
+   "१४ घण्टा",
+   "३.४३ घण्टा",
+   "४.४३ घण्टा"
+  ],
+  "answer": 2,
+  "explanation": "Together rate = 1/6 + 1/8 = 14/48 per hour, so time = 48/14 = 3.43 hours.",
+  "explanation_ne": "सँगैको दर = १/६ + १/८ भएकाले समय = 3.43 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0009",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 8 hours and 12 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ८ घण्टा र १२ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "5.8 hours",
+   "4.8 hours",
+   "20 hours",
+   "3.8 hours"
+  ],
+  "options_ne": [
+   "५.८ घण्टा",
+   "४.८ घण्टा",
+   "२० घण्टा",
+   "३.८ घण्टा"
+  ],
+  "answer": 1,
+  "explanation": "Together rate = 1/8 + 1/12 = 20/96 per hour, so time = 96/20 = 4.8 hours.",
+  "explanation_ne": "सँगैको दर = १/८ + १/१२ भएकाले समय = 4.8 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0010",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 5 hours and 10 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ५ घण्टा र १० घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "2.33 hours",
+   "3.33 hours",
+   "15 hours",
+   "4.33 hours"
+  ],
+  "options_ne": [
+   "२.३३ घण्टा",
+   "३.३३ घण्टा",
+   "१५ घण्टा",
+   "४.३३ घण्टा"
+  ],
+  "answer": 1,
+  "explanation": "Together rate = 1/5 + 1/10 = 15/50 per hour, so time = 50/15 = 3.33 hours.",
+  "explanation_ne": "सँगैको दर = १/५ + १/१० भएकाले समय = 3.33 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0012",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 12 hours and 18 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः १२ घण्टा र १८ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "7.2 hours",
+   "8.2 hours",
+   "30 hours",
+   "6.2 hours"
+  ],
+  "options_ne": [
+   "७.२ घण्टा",
+   "८.२ घण्टा",
+   "३० घण्टा",
+   "६.२ घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Together rate = 1/12 + 1/18 = 30/216 per hour, so time = 216/30 = 7.2 hours.",
+  "explanation_ne": "सँगैको दर = १/१२ + १/१८ भएकाले समय = 7.2 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0013",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 3 hours and 6 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ३ घण्टा र ६ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "9 hours",
+   "3 hours",
+   "2 hours",
+   "1 hours"
+  ],
+  "options_ne": [
+   "९ घण्टा",
+   "३ घण्टा",
+   "२ घण्टा",
+   "१ घण्टा"
+  ],
+  "answer": 2,
+  "explanation": "Together rate = 1/3 + 1/6 = 9/18 per hour, so time = 18/9 = 2 hours.",
+  "explanation_ne": "सँगैको दर = १/३ + १/६ भएकाले समय = 2 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0014",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 4 hours and 12 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ४ घण्टा र १२ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "3 hours",
+   "16 hours",
+   "2 hours",
+   "4 hours"
+  ],
+  "options_ne": [
+   "३ घण्टा",
+   "१६ घण्टा",
+   "२ घण्टा",
+   "४ घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Together rate = 1/4 + 1/12 = 16/48 per hour, so time = 48/16 = 3 hours.",
+  "explanation_ne": "सँगैको दर = १/४ + १/१२ भएकाले समय = 3 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 9 hours and 12 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः ९ घण्टा र १२ घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "5.14 hours",
+   "4.14 hours",
+   "6.14 hours",
+   "21 hours"
+  ],
+  "options_ne": [
+   "५.१४ घण्टा",
+   "४.१४ घण्टा",
+   "६.१४ घण्टा",
+   "२१ घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Together rate = 1/9 + 1/12 = 21/108 per hour, so time = 108/21 = 5.14 hours.",
+  "explanation_ne": "सँगैको दर = १/९ + १/१२ भएकाले समय = 5.14 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0016",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Pipes & Cisterns",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two pipes fill a tank in 20 hours and 30 hours respectively. Together, how long do they take?",
+  "question_ne": "दुई पाइपले एउटा ट्याङ्की क्रमशः २० घण्टा र ३० घण्टामा भर्छन्। दुवै सँगै खोले कति समय लाग्छ?",
+  "options": [
+   "13 hours",
+   "50 hours",
+   "11 hours",
+   "12 hours"
+  ],
+  "options_ne": [
+   "१३ घण्टा",
+   "५० घण्टा",
+   "११ घण्टा",
+   "१२ घण्टा"
+  ],
+  "answer": 3,
+  "explanation": "Together rate = 1/20 + 1/30 = 50/600 per hour, so time = 600/50 = 12 hours.",
+  "explanation_ne": "सँगैको दर = १/२० + १/३० भएकाले समय = 12 घण्टा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0025",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 14 km/h in still water and the stream flows at 2 km/h. What is the downstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा १४ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव २ किमी/घण्टा छ। बगावको दिशामा (downstream) गति कति हो?",
+  "options": [
+   "16 km/h",
+   "18 km/h",
+   "12 km/h",
+   "14 km/h"
+  ],
+  "options_ne": [
+   "१६ किमी/घण्टा",
+   "१८ किमी/घण्टा",
+   "१२ किमी/घण्टा",
+   "१४ किमी/घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Downstream speed = 14 + 2 = 16 km/h.",
+  "explanation_ne": "Downstream गति = १४ + २ = १६ किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0026",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 14 km/h in still water and the stream flows at 2 km/h. What is the upstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा १४ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव २ किमी/घण्टा छ। बहावविपरीत (upstream) गति कति हो?",
+  "options": [
+   "12 km/h",
+   "10 km/h",
+   "16 km/h",
+   "14 km/h"
+  ],
+  "options_ne": [
+   "१२ किमी/घण्टा",
+   "१० किमी/घण्टा",
+   "१६ किमी/घण्टा",
+   "१४ किमी/घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Upstream speed = 14 - 2 = 12 km/h.",
+  "explanation_ne": "Upstream गति = १४ − २ = १२ किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 25 km/h in still water and the stream flows at 5 km/h. What is the downstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा २५ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव ५ किमी/घण्टा छ। बगावको दिशामा (downstream) गति कति हो?",
+  "options": [
+   "20 km/h",
+   "32 km/h",
+   "30 km/h",
+   "25 km/h"
+  ],
+  "options_ne": [
+   "२० किमी/घण्टा",
+   "३२ किमी/घण्टा",
+   "३० किमी/घण्टा",
+   "२५ किमी/घण्टा"
+  ],
+  "answer": 2,
+  "explanation": "Downstream speed = 25 + 5 = 30 km/h.",
+  "explanation_ne": "Downstream गति = २५ + ५ = ३० किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 25 km/h in still water and the stream flows at 5 km/h. What is the upstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा २५ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव ५ किमी/घण्टा छ। बहावविपरीत (upstream) गति कति हो?",
+  "options": [
+   "20 km/h",
+   "18 km/h",
+   "30 km/h",
+   "25 km/h"
+  ],
+  "options_ne": [
+   "२० किमी/घण्टा",
+   "१८ किमी/घण्टा",
+   "३० किमी/घण्टा",
+   "२५ किमी/घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Upstream speed = 25 - 5 = 20 km/h.",
+  "explanation_ne": "Upstream गति = २५ − ५ = २० किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 16 km/h in still water and the stream flows at 4 km/h. What is the downstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा १६ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव ४ किमी/घण्टा छ। बगावको दिशामा (downstream) गति कति हो?",
+  "options": [
+   "20 km/h",
+   "22 km/h",
+   "16 km/h",
+   "12 km/h"
+  ],
+  "options_ne": [
+   "२० किमी/घण्टा",
+   "२२ किमी/घण्टा",
+   "१६ किमी/घण्टा",
+   "१२ किमी/घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Downstream speed = 16 + 4 = 20 km/h.",
+  "explanation_ne": "Downstream गति = १६ + ४ = २० किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0030",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 16 km/h in still water and the stream flows at 4 km/h. What is the upstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा १६ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव ४ किमी/घण्टा छ। बहावविपरीत (upstream) गति कति हो?",
+  "options": [
+   "12 km/h",
+   "16 km/h",
+   "20 km/h",
+   "10 km/h"
+  ],
+  "options_ne": [
+   "१२ किमी/घण्टा",
+   "१६ किमी/घण्टा",
+   "२० किमी/घण्टा",
+   "१० किमी/घण्टा"
+  ],
+  "answer": 0,
+  "explanation": "Upstream speed = 16 - 4 = 12 km/h.",
+  "explanation_ne": "Upstream गति = १६ − ४ = १२ किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 22 km/h in still water and the stream flows at 2 km/h. What is the downstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा २२ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव २ किमी/घण्टा छ। बगावको दिशामा (downstream) गति कति हो?",
+  "options": [
+   "26 km/h",
+   "20 km/h",
+   "22 km/h",
+   "24 km/h"
+  ],
+  "options_ne": [
+   "२६ किमी/घण्टा",
+   "२० किमी/घण्टा",
+   "२२ किमी/घण्टा",
+   "२४ किमी/घण्टा"
+  ],
+  "answer": 3,
+  "explanation": "Downstream speed = 22 + 2 = 24 km/h.",
+  "explanation_ne": "Downstream गति = २२ + २ = २४ किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0032",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Boats & Streams",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "A boat moves at 22 km/h in still water and the stream flows at 2 km/h. What is the upstream speed?",
+  "question_ne": "एउटा डुङ्गा स्थिर पानीमा २२ किमी/घण्टाको गतिमा चल्छ र खोलाको बहाव २ किमी/घण्टा छ। बहावविपरीत (upstream) गति कति हो?",
+  "options": [
+   "22 km/h",
+   "18 km/h",
+   "24 km/h",
+   "20 km/h"
+  ],
+  "options_ne": [
+   "२२ किमी/घण्टा",
+   "१८ किमी/घण्टा",
+   "२४ किमी/घण्टा",
+   "२० किमी/घण्टा"
+  ],
+  "answer": 3,
+  "explanation": "Upstream speed = 22 - 2 = 20 km/h.",
+  "explanation_ne": "Upstream गति = २२ − २ = २० किमी/घण्टा।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 48 years, and the father is 3 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ४८ वर्ष छ र बाबु छोराभन्दा ३ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "12 years",
+   "36 years",
+   "24 years",
+   "48 years"
+  ],
+  "options_ne": [
+   "१२ वर्ष",
+   "३६ वर्ष",
+   "२४ वर्ष",
+   "४८ वर्ष"
+  ],
+  "answer": 1,
+  "explanation": "Son = 48/4 = 12. Father = 3 x 12 = 36 years.",
+  "explanation_ne": "छोरा = ४८/४ = १२। बाबु = ३ × १२ = ३६ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 50 years, and the father is 4 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ५० वर्ष छ र बाबु छोराभन्दा ४ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "30 years",
+   "40 years",
+   "50 years",
+   "10 years"
+  ],
+  "options_ne": [
+   "३० वर्ष",
+   "४० वर्ष",
+   "५० वर्ष",
+   "१० वर्ष"
+  ],
+  "answer": 1,
+  "explanation": "Son = 50/5 = 10. Father = 4 x 10 = 40 years.",
+  "explanation_ne": "छोरा = ५०/५ = १०। बाबु = ४ × १० = ४० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0035",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 36 years, and the father is 2 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ३६ वर्ष छ र बाबु छोराभन्दा २ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "24 years",
+   "18 years",
+   "12 years",
+   "36 years"
+  ],
+  "options_ne": [
+   "२४ वर्ष",
+   "१८ वर्ष",
+   "१२ वर्ष",
+   "३६ वर्ष"
+  ],
+  "answer": 0,
+  "explanation": "Son = 36/3 = 12. Father = 2 x 12 = 24 years.",
+  "explanation_ne": "छोरा = ३६/३ = १२। बाबु = २ × १२ = २४ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0036",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 60 years, and the father is 5 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ६० वर्ष छ र बाबु छोराभन्दा ५ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "10 years",
+   "40 years",
+   "60 years",
+   "50 years"
+  ],
+  "options_ne": [
+   "१० वर्ष",
+   "४० वर्ष",
+   "६० वर्ष",
+   "५० वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "Son = 60/6 = 10. Father = 5 x 10 = 50 years.",
+  "explanation_ne": "छोरा = ६०/६ = १०। बाबु = ५ × १० = ५० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0037",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 40 years, and the father is 3 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ४० वर्ष छ र बाबु छोराभन्दा ३ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "40 years",
+   "30 years",
+   "20 years",
+   "10 years"
+  ],
+  "options_ne": [
+   "४० वर्ष",
+   "३० वर्ष",
+   "२० वर्ष",
+   "१० वर्ष"
+  ],
+  "answer": 1,
+  "explanation": "Son = 40/4 = 10. Father = 3 x 10 = 30 years.",
+  "explanation_ne": "छोरा = ४०/४ = १०। बाबु = ३ × १० = ३० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0038",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 60 years, and the father is 4 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ६० वर्ष छ र बाबु छोराभन्दा ४ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "36 years",
+   "12 years",
+   "60 years",
+   "48 years"
+  ],
+  "options_ne": [
+   "३६ वर्ष",
+   "१२ वर्ष",
+   "६० वर्ष",
+   "४८ वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "Son = 60/5 = 12. Father = 4 x 12 = 48 years.",
+  "explanation_ne": "छोरा = ६०/५ = १२। बाबु = ४ × १२ = ४८ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0039",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 54 years, and the father is 2 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ५४ वर्ष छ र बाबु छोराभन्दा २ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "54 years",
+   "27 years",
+   "36 years",
+   "18 years"
+  ],
+  "options_ne": [
+   "५४ वर्ष",
+   "२७ वर्ष",
+   "३६ वर्ष",
+   "१८ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Son = 54/3 = 18. Father = 2 x 18 = 36 years.",
+  "explanation_ne": "छोरा = ५४/३ = १८। बाबु = २ × १८ = ३६ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0040",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The sum of the ages of a father and son is 72 years, and the father is 3 times as old as the son. How old is the father?",
+  "question_ne": "बाबु र छोराको उमेरको योग ७२ वर्ष छ र बाबु छोराभन्दा ३ गुणा ठूलो छ। बाबुको उमेर कति हो?",
+  "options": [
+   "72 years",
+   "36 years",
+   "54 years",
+   "18 years"
+  ],
+  "options_ne": [
+   "७२ वर्ष",
+   "३६ वर्ष",
+   "५४ वर्ष",
+   "१८ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Son = 72/4 = 18. Father = 3 x 18 = 54 years.",
+  "explanation_ne": "छोरा = ७२/४ = १८। बाबु = ३ × १८ = ५४ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0041",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Rita is 12 years old now. How old will she be after 6 years?",
+  "question_ne": "रिता अहिले १२ वर्षकी छिन्। ६ वर्षपछि उनी कति वर्षकी हुन्छिन्?",
+  "options": [
+   "12 years",
+   "36 years",
+   "18 years",
+   "24 years"
+  ],
+  "options_ne": [
+   "१२ वर्ष",
+   "३६ वर्ष",
+   "१८ वर्ष",
+   "२४ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Age after 6 years = 12 + 6 = 18 years.",
+  "explanation_ne": "६ वर्षपछि उमेर = १२ + ६ = १८ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0042",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Rita is 15 years old now. How old will she be after 5 years?",
+  "question_ne": "रिता अहिले १५ वर्षकी छिन्। ५ वर्षपछि उनी कति वर्षकी हुन्छिन्?",
+  "options": [
+   "15 years",
+   "40 years",
+   "20 years",
+   "25 years"
+  ],
+  "options_ne": [
+   "१५ वर्ष",
+   "४० वर्ष",
+   "२० वर्ष",
+   "२५ वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Age after 5 years = 15 + 5 = 20 years.",
+  "explanation_ne": "५ वर्षपछि उमेर = १५ + ५ = २० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0043",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Rita is 10 years old now. How old will she be after 10 years?",
+  "question_ne": "रिता अहिले १० वर्षकी छिन्। १० वर्षपछि उनी कति वर्षकी हुन्छिन्?",
+  "options": [
+   "30 years",
+   "10 years",
+   "40 years",
+   "20 years"
+  ],
+  "options_ne": [
+   "३० वर्ष",
+   "१० वर्ष",
+   "४० वर्ष",
+   "२० वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "Age after 10 years = 10 + 10 = 20 years.",
+  "explanation_ne": "१० वर्षपछि उमेर = १० + १० = २० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0044",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Rita is 18 years old now. How old will she be after 6 years?",
+  "question_ne": "रिता अहिले १८ वर्षकी छिन्। ६ वर्षपछि उनी कति वर्षकी हुन्छिन्?",
+  "options": [
+   "48 years",
+   "18 years",
+   "24 years",
+   "30 years"
+  ],
+  "options_ne": [
+   "४८ वर्ष",
+   "१८ वर्ष",
+   "२४ वर्ष",
+   "३० वर्ष"
+  ],
+  "answer": 2,
+  "explanation": "Age after 6 years = 18 + 6 = 24 years.",
+  "explanation_ne": "६ वर्षपछि उमेर = १८ + ६ = २४ वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0045",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Age Problems",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Rita is 20 years old now. How old will she be after 10 years?",
+  "question_ne": "रिता अहिले २० वर्षकी छिन्। १० वर्षपछि उनी कति वर्षकी हुन्छिन्?",
+  "options": [
+   "60 years",
+   "40 years",
+   "20 years",
+   "30 years"
+  ],
+  "options_ne": [
+   "६० वर्ष",
+   "४० वर्ष",
+   "२० वर्ष",
+   "३० वर्ष"
+  ],
+  "answer": 3,
+  "explanation": "Age after 10 years = 20 + 10 = 30 years.",
+  "explanation_ne": "१० वर्षपछि उमेर = २० + १० = ३० वर्ष।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0048",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "4 kg of tea at Rs 25 per kg is mixed with 4 kg at Rs 45 per kg. What is the price of the mixture per kg?",
+  "question_ne": "रू २५ प्रति किलोको ४ किलो चिया र रू ४५ प्रति किलोको ४ किलो चिया मिसाइयो। मिश्रणको प्रति किलो मूल्य कति हो?",
+  "options": [
+   "Rs 45",
+   "Rs 40",
+   "Rs 25",
+   "Rs 35"
+  ],
+  "options_ne": [
+   "रू ४५",
+   "रू ४०",
+   "रू २५",
+   "रू ३५"
+  ],
+  "answer": 3,
+  "explanation": "Total cost = 280, total quantity = 8 kg. Price = 280/8 = 35.",
+  "explanation_ne": "जम्मा लागत = २८०, जम्मा परिमाण = ८ किलो। मूल्य = २८०/८ = ३५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0049",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Mixtures",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "5 kg of tea at Rs 20 per kg is mixed with 5 kg at Rs 60 per kg. What is the price of the mixture per kg?",
+  "question_ne": "रू २० प्रति किलोको ५ किलो चिया र रू ६० प्रति किलोको ५ किलो चिया मिसाइयो। मिश्रणको प्रति किलो मूल्य कति हो?",
+  "options": [
+   "Rs 60",
+   "Rs 20",
+   "Rs 40",
+   "Rs 45"
+  ],
+  "options_ne": [
+   "रू ६०",
+   "रू २०",
+   "रू ४०",
+   "रू ४५"
+  ],
+  "answer": 2,
+  "explanation": "Total cost = 400, total quantity = 10 kg. Price = 400/10 = 40.",
+  "explanation_ne": "जम्मा लागत = ४००, जम्मा परिमाण = १० किलो। मूल्य = ४००/१० = ४०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0052",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a fair die is thrown once, what is the probability of getting a 6?",
+  "question_ne": "यदि a fair die is thrown once भने getting a 6 हुने सम्भावना (probability) कति हो?",
+  "options": [
+   "1/6",
+   "1/3",
+   "1/2",
+   "1/4"
+  ],
+  "options_ne": [
+   "1/6",
+   "1/3",
+   "1/2",
+   "1/4"
+  ],
+  "answer": 0,
+  "explanation": "The probability of getting a 6 is 1/6.",
+  "explanation_ne": "getting a 6 हुने सम्भावना 1/6 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0054",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a fair die is thrown once, what is the probability of getting a number greater than 4?",
+  "question_ne": "यदि a fair die is thrown once भने getting a number greater than 4 हुने सम्भावना (probability) कति हो?",
+  "options": [
+   "1/6",
+   "1/2",
+   "1/4",
+   "1/3"
+  ],
+  "options_ne": [
+   "1/6",
+   "1/2",
+   "1/4",
+   "1/3"
+  ],
+  "answer": 3,
+  "explanation": "The probability of getting a number greater than 4 is 1/3.",
+  "explanation_ne": "getting a number greater than 4 हुने सम्भावना 1/3 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0055",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a fair die is thrown once, what is the probability of getting a multiple of 3?",
+  "question_ne": "यदि a fair die is thrown once भने getting a multiple of 3 हुने सम्भावना (probability) कति हो?",
+  "options": [
+   "1/2",
+   "1/3",
+   "1/6",
+   "1/4"
+  ],
+  "options_ne": [
+   "1/2",
+   "1/3",
+   "1/6",
+   "1/4"
+  ],
+  "answer": 1,
+  "explanation": "The probability of getting a multiple of 3 is 1/3.",
+  "explanation_ne": "getting a multiple of 3 हुने सम्भावना 1/3 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a card is drawn from a pack of 52 cards, what is the probability of getting an ace?",
+  "question_ne": "यदि a card is drawn from a pack of 52 cards भने getting an ace हुने सम्भावना (probability) कति हो?",
+  "options": [
+   "1/2",
+   "1/13",
+   "1/3",
+   "1/4"
+  ],
+  "options_ne": [
+   "1/2",
+   "1/13",
+   "1/3",
+   "1/4"
+  ],
+  "answer": 1,
+  "explanation": "The probability of getting an ace is 1/13.",
+  "explanation_ne": "getting an ace हुने सम्भावना 1/13 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Probability",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "If a card is drawn from a pack of 52 cards, what is the probability of getting a red card?",
+  "question_ne": "यदि a card is drawn from a pack of 52 cards भने getting a red card हुने सम्भावना (probability) कति हो?",
+  "options": [
+   "1/3",
+   "1/2",
+   "1/6",
+   "1/4"
+  ],
+  "options_ne": [
+   "1/3",
+   "1/2",
+   "1/6",
+   "1/4"
+  ],
+  "answer": 1,
+  "explanation": "The probability of getting a red card is 1/2.",
+  "explanation_ne": "getting a red card हुने सम्भावना 1/2 हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0061",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 10% and then by 10%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले १०% र त्यसपछि १०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "26%",
+   "16%",
+   "21%",
+   "20%"
+  ],
+  "options_ne": [
+   "२६%",
+   "१६%",
+   "२१%",
+   "२०%"
+  ],
+  "answer": 2,
+  "explanation": "Equivalent increase = 10 + 10 + 10x10/100 = 21%.",
+  "explanation_ne": "बराबर वृद्धि = १० + १० + १०×१०/१०० = २१%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0062",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 20% and then by 10%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले २०% र त्यसपछि १०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "30%",
+   "32%",
+   "27%",
+   "37%"
+  ],
+  "options_ne": [
+   "३०%",
+   "३२%",
+   "२७%",
+   "३७%"
+  ],
+  "answer": 1,
+  "explanation": "Equivalent increase = 20 + 10 + 20x10/100 = 32%.",
+  "explanation_ne": "बराबर वृद्धि = २० + १० + २०×१०/१०० = ३२%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0063",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 10% and then by 20%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले १०% र त्यसपछि २०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "27%",
+   "32%",
+   "30%",
+   "37%"
+  ],
+  "options_ne": [
+   "२७%",
+   "३२%",
+   "३०%",
+   "३७%"
+  ],
+  "answer": 1,
+  "explanation": "Equivalent increase = 10 + 20 + 10x20/100 = 32%.",
+  "explanation_ne": "बराबर वृद्धि = १० + २० + १०×२०/१०० = ३२%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0064",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 25% and then by 20%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले २५% र त्यसपछि २०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "45%",
+   "55%",
+   "50%",
+   "51%"
+  ],
+  "options_ne": [
+   "४५%",
+   "५५%",
+   "५०%",
+   "५१%"
+  ],
+  "answer": 2,
+  "explanation": "Equivalent increase = 25 + 20 + 25x20/100 = 50%.",
+  "explanation_ne": "बराबर वृद्धि = २५ + २० + २५×२०/१०० = ५०%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0065",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 20% and then by 25%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले २०% र त्यसपछि २५% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "55%",
+   "45%",
+   "50%",
+   "40%"
+  ],
+  "options_ne": [
+   "५५%",
+   "४५%",
+   "५०%",
+   "४०%"
+  ],
+  "answer": 2,
+  "explanation": "Equivalent increase = 20 + 25 + 20x25/100 = 50%.",
+  "explanation_ne": "बराबर वृद्धि = २० + २५ + २०×२५/१०० = ५०%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0066",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 50% and then by 20%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले ५०% र त्यसपछि २०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "75%",
+   "70%",
+   "80%",
+   "85%"
+  ],
+  "options_ne": [
+   "७५%",
+   "७०%",
+   "८०%",
+   "८५%"
+  ],
+  "answer": 2,
+  "explanation": "Equivalent increase = 50 + 20 + 50x20/100 = 80%.",
+  "explanation_ne": "बराबर वृद्धि = ५० + २० + ५०×२०/१०० = ८०%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0067",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 30% and then by 10%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले ३०% र त्यसपछि १०% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "48%",
+   "38%",
+   "40%",
+   "43%"
+  ],
+  "options_ne": [
+   "४८%",
+   "३८%",
+   "४०%",
+   "४३%"
+  ],
+  "answer": 3,
+  "explanation": "Equivalent increase = 30 + 10 + 30x10/100 = 43%.",
+  "explanation_ne": "बराबर वृद्धि = ३० + १० + ३०×१०/१०० = ४३%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0068",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "csit-entrance",
+   "ioe-entrance",
+   "nec-licence"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Percentage",
+  "difficulty": "hard",
+  "marks": 2,
+  "question": "A price is increased by 40% and then by 25%. What is the single equivalent increase?",
+  "question_ne": "एउटा मूल्य पहिले ४०% र त्यसपछि २५% ले बढाइयो। एकमुष्ट बराबर वृद्धि कति हो?",
+  "options": [
+   "70%",
+   "75%",
+   "65%",
+   "80%"
+  ],
+  "options_ne": [
+   "७०%",
+   "७५%",
+   "६५%",
+   "८०%"
+  ],
+  "answer": 1,
+  "explanation": "Equivalent increase = 40 + 25 + 40x25/100 = 75%.",
+  "explanation_ne": "बराबर वृद्धि = ४० + २५ + ४०×२५/१०० = ७५%।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0069",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 20. If 3 of them are 12, 18, 24, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत २० छ। तीमध्ये ३ वटा १२, १८, २४ भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "21",
+   "20",
+   "31",
+   "26"
+  ],
+  "options_ne": [
+   "२१",
+   "२०",
+   "३१",
+   "२६"
+  ],
+  "answer": 3,
+  "explanation": "Total = 20 x 4 = 80. Remaining = 80 - 54 = 26.",
+  "explanation_ne": "योग = २० × ४ = ८०। बाँकी = ८० − ५४ = २६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 25. If 3 of them are 10, 20, 30, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत २५ छ। तीमध्ये ३ वटा १०, २०, ३० भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "35",
+   "25",
+   "45",
+   "40"
+  ],
+  "options_ne": [
+   "३५",
+   "२५",
+   "४५",
+   "४०"
+  ],
+  "answer": 3,
+  "explanation": "Total = 25 x 4 = 100. Remaining = 100 - 60 = 40.",
+  "explanation_ne": "योग = २५ × ४ = १००। बाँकी = १०० − ६० = ४०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0071",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 30. If 3 of them are 15, 25, 35, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत ३० छ। तीमध्ये ३ वटा १५, २५, ३५ भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "30",
+   "40",
+   "45",
+   "50"
+  ],
+  "options_ne": [
+   "३०",
+   "४०",
+   "४५",
+   "५०"
+  ],
+  "answer": 2,
+  "explanation": "Total = 30 x 4 = 120. Remaining = 120 - 75 = 45.",
+  "explanation_ne": "योग = ३० × ४ = १२०। बाँकी = १२० − ७५ = ४५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0072",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 20. If 3 of them are 8, 16, 24, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत २० छ। तीमध्ये ३ वटा ८, १६, २४ भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "37",
+   "32",
+   "20",
+   "27"
+  ],
+  "options_ne": [
+   "३७",
+   "३२",
+   "२०",
+   "२७"
+  ],
+  "answer": 1,
+  "explanation": "Total = 20 x 4 = 80. Remaining = 80 - 48 = 32.",
+  "explanation_ne": "योग = २० × ४ = ८०। बाँकी = ८० − ४८ = ३२।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0073",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 35. If 3 of them are 20, 30, 40, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत ३५ छ। तीमध्ये ३ वटा २०, ३०, ४० भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "45",
+   "55",
+   "35",
+   "50"
+  ],
+  "options_ne": [
+   "४५",
+   "५५",
+   "३५",
+   "५०"
+  ],
+  "answer": 3,
+  "explanation": "Total = 35 x 4 = 140. Remaining = 140 - 90 = 50.",
+  "explanation_ne": "योग = ३५ × ४ = १४०। बाँकी = १४० − ९० = ५०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0074",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Average",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "The average of 4 numbers is 20. If 3 of them are 5, 15, 25, what is the remaining number?",
+  "question_ne": "४ वटा सङ्ख्याको औसत २० छ। तीमध्ये ३ वटा ५, १५, २५ भए बाँकी सङ्ख्या कति हो?",
+  "options": [
+   "35",
+   "20",
+   "40",
+   "30"
+  ],
+  "options_ne": [
+   "३५",
+   "२०",
+   "४०",
+   "३०"
+  ],
+  "answer": 0,
+  "explanation": "Total = 20 x 4 = 80. Remaining = 80 - 45 = 35.",
+  "explanation_ne": "योग = २० × ४ = ८०। बाँकी = ८० − ४५ = ३५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0076",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 2/9 + 3/9?",
+  "question_ne": "२/९ + ३/९ कति हो?",
+  "options": [
+   "6/9",
+   "5/9",
+   "5/10",
+   "1/9"
+  ],
+  "options_ne": [
+   "6/9",
+   "5/9",
+   "5/10",
+   "1/9"
+  ],
+  "answer": 1,
+  "explanation": "2/9 + 3/9 = 5/9.",
+  "explanation_ne": "२/९ + ३/९ = ५/९।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0077",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 3/11 + 4/11?",
+  "question_ne": "३/११ + ४/११ कति हो?",
+  "options": [
+   "7/12",
+   "1/11",
+   "7/11",
+   "12/11"
+  ],
+  "options_ne": [
+   "7/12",
+   "1/11",
+   "7/11",
+   "12/11"
+  ],
+  "answer": 2,
+  "explanation": "3/11 + 4/11 = 7/11.",
+  "explanation_ne": "३/११ + ४/११ = ७/११।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 1/8 + 3/8?",
+  "question_ne": "१/८ + ३/८ कति हो?",
+  "options": [
+   "4/8",
+   "4/9",
+   "3/8",
+   "2/8"
+  ],
+  "options_ne": [
+   "4/8",
+   "4/9",
+   "3/8",
+   "2/8"
+  ],
+  "answer": 0,
+  "explanation": "1/8 + 3/8 = 4/8.",
+  "explanation_ne": "१/८ + ३/८ = ४/८।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0079",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 2/12 + 5/12?",
+  "question_ne": "२/१२ + ५/१२ कति हो?",
+  "options": [
+   "7/12",
+   "7/13",
+   "3/12",
+   "10/12"
+  ],
+  "options_ne": [
+   "7/12",
+   "7/13",
+   "3/12",
+   "10/12"
+  ],
+  "answer": 0,
+  "explanation": "2/12 + 5/12 = 7/12.",
+  "explanation_ne": "२/१२ + ५/१२ = ७/१२।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0081",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 5/9 - 2/9?",
+  "question_ne": "५/९ − २/९ कति हो?",
+  "options": [
+   "7/9",
+   "3/10",
+   "3/9",
+   "5/9"
+  ],
+  "options_ne": [
+   "7/9",
+   "3/10",
+   "3/9",
+   "5/9"
+  ],
+  "answer": 2,
+  "explanation": "5/9 - 2/9 = 3/9.",
+  "explanation_ne": "५/९ − २/९ = ३/९।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0082",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 7/11 - 3/11?",
+  "question_ne": "७/११ − ३/११ कति हो?",
+  "options": [
+   "10/11",
+   "4/11",
+   "4/12",
+   "7/11"
+  ],
+  "options_ne": [
+   "10/11",
+   "4/11",
+   "4/12",
+   "7/11"
+  ],
+  "answer": 1,
+  "explanation": "7/11 - 3/11 = 4/11.",
+  "explanation_ne": "७/११ − ३/११ = ४/११।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0083",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 9/13 - 4/13?",
+  "question_ne": "९/१३ − ४/१३ कति हो?",
+  "options": [
+   "9/13",
+   "5/13",
+   "13/13",
+   "5/14"
+  ],
+  "options_ne": [
+   "9/13",
+   "5/13",
+   "13/13",
+   "5/14"
+  ],
+  "answer": 1,
+  "explanation": "9/13 - 4/13 = 5/13.",
+  "explanation_ne": "९/१३ − ४/१३ = ५/१३।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0084",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Fractions",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 8/10 - 3/10?",
+  "question_ne": "८/१० − ३/१० कति हो?",
+  "options": [
+   "5/11",
+   "8/10",
+   "5/10",
+   "11/10"
+  ],
+  "options_ne": [
+   "5/11",
+   "8/10",
+   "5/10",
+   "11/10"
+  ],
+  "answer": 2,
+  "explanation": "8/10 - 3/10 = 5/10.",
+  "explanation_ne": "८/१० − ३/१० = ५/१०।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0086",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Decimals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 4.25 x 100?",
+  "question_ne": "४.२५ × १०० कति हो?",
+  "options": [
+   "4250",
+   "455",
+   "425",
+   "42.5"
+  ],
+  "options_ne": [
+   "४२५०",
+   "४५५",
+   "४२५",
+   "४२.५"
+  ],
+  "answer": 2,
+  "explanation": "4.25 x 100 = 425.",
+  "explanation_ne": "४.२५ × १०० = ४२५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0087",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Decimals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 12.6 x 10?",
+  "question_ne": "१२.६ × १० कति हो?",
+  "options": [
+   "156",
+   "1260",
+   "12.6",
+   "126"
+  ],
+  "options_ne": [
+   "१५६",
+   "१२६०",
+   "१२.६",
+   "१२६"
+  ],
+  "answer": 3,
+  "explanation": "12.6 x 10 = 126.",
+  "explanation_ne": "१२.६ × १० = १२६।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0088",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Decimals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 7.35 x 100?",
+  "question_ne": "७.३५ × १०० कति हो?",
+  "options": [
+   "765",
+   "735",
+   "7350",
+   "73.5"
+  ],
+  "options_ne": [
+   "७६५",
+   "७३५",
+   "७३५०",
+   "७३.५"
+  ],
+  "answer": 1,
+  "explanation": "7.35 x 100 = 735.",
+  "explanation_ne": "७.३५ × १०० = ७३५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0089",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Decimals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 0.85 x 100?",
+  "question_ne": "०.८५ × १०० कति हो?",
+  "options": [
+   "8.5",
+   "850",
+   "85",
+   "115"
+  ],
+  "options_ne": [
+   "८.५",
+   "८५०",
+   "८५",
+   "११५"
+  ],
+  "answer": 2,
+  "explanation": "0.85 x 100 = 85.",
+  "explanation_ne": "०.८५ × १०० = ८५।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0090",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Decimals",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is 9.4 x 10?",
+  "question_ne": "९.४ × १० कति हो?",
+  "options": [
+   "940",
+   "94",
+   "9.4",
+   "124"
+  ],
+  "options_ne": [
+   "९४०",
+   "९४",
+   "९.४",
+   "१२४"
+  ],
+  "answer": 1,
+  "explanation": "9.4 x 10 = 94.",
+  "explanation_ne": "९.४ × १० = ९४।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0091",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 20000 and Rs 30000. If the total profit is Rs 50000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू २०००० र रू ३०००० लगानी गर्छन्। जम्मा नाफा रू ५०००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 20000",
+   "Rs 30000",
+   "Rs 20001",
+   "Rs 25000"
+  ],
+  "options_ne": [
+   "रू २००००",
+   "रू ३००००",
+   "रू २०००१",
+   "रू २५०००"
+  ],
+  "answer": 0,
+  "explanation": "First share = 50000 x 20000/50000 = 20000.",
+  "explanation_ne": "पहिलो हिस्सा = ५०००० × २००००/५०००० = २००००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0092",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 40000 and Rs 60000. If the total profit is Rs 25000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू ४०००० र रू ६०००० लगानी गर्छन्। जम्मा नाफा रू २५००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 10000",
+   "Rs 15000",
+   "Rs 10001",
+   "Rs 12500"
+  ],
+  "options_ne": [
+   "रू १००००",
+   "रू १५०००",
+   "रू १०००१",
+   "रू १२५००"
+  ],
+  "answer": 0,
+  "explanation": "First share = 25000 x 40000/100000 = 10000.",
+  "explanation_ne": "पहिलो हिस्सा = २५००० × ४००००/१००००० = १००००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0093",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 15000 and Rs 25000. If the total profit is Rs 32000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू १५००० र रू २५००० लगानी गर्छन्। जम्मा नाफा रू ३२००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 17000",
+   "Rs 16000",
+   "Rs 12000",
+   "Rs 20000"
+  ],
+  "options_ne": [
+   "रू १७०००",
+   "रू १६०००",
+   "रू १२०००",
+   "रू २००००"
+  ],
+  "answer": 2,
+  "explanation": "First share = 32000 x 15000/40000 = 12000.",
+  "explanation_ne": "पहिलो हिस्सा = ३२००० × १५०००/४०००० = १२०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-MATH2-0094",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Partnership",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Two partners invest Rs 30000 and Rs 20000. If the total profit is Rs 45000, what is the first partner's share?",
+  "question_ne": "दुई साझेदारले क्रमशः रू ३०००० र रू २०००० लगानी गर्छन्। जम्मा नाफा रू ४५००० भए पहिलो साझेदारको हिस्सा कति हो?",
+  "options": [
+   "Rs 27000",
+   "Rs 22500",
+   "Rs 18000",
+   "Rs 32000"
+  ],
+  "options_ne": [
+   "रू २७०००",
+   "रू २२५००",
+   "रू १८०००",
+   "रू ३२०००"
+  ],
+  "answer": 0,
+  "explanation": "First share = 45000 x 30000/50000 = 27000.",
+  "explanation_ne": "पहिलो हिस्सा = ४५००० × ३००००/५०००० = २७०००।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]

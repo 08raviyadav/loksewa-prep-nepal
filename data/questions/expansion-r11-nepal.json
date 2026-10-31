@@ -1,0 +1,1142 @@
+[
+ {
+  "id": "R11-NEPAL-0015",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the height of Mount Everest (Sagarmatha)?",
+  "question_ne": "Mount Everest (Sagarmatha) को उचाइ कति छ?",
+  "options": [
+   "8848.86 m",
+   "8516 m",
+   "8485 m",
+   "8586 m"
+  ],
+  "options_ne": [
+   "8848.86 m",
+   "8516 m",
+   "8485 m",
+   "8586 m"
+  ],
+  "answer": 0,
+  "explanation": "Mount Everest (Sagarmatha) is 8848.86 m high and is the highest peak in the world.",
+  "explanation_ne": "Mount Everest (Sagarmatha) को उचाइ 8848.86 m छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0023",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "Which is the highest peak in the world?",
+  "question_ne": "विश्वको सबैभन्दा अग्लो शिखर कुन हो?",
+  "options": [
+   "Mount Everest (Sagarmatha)",
+   "Kanchenjunga",
+   "K2",
+   "Makalu"
+  ],
+  "options_ne": [
+   "Mount Everest (Sagarmatha)",
+   "Kanchenjunga",
+   "K2",
+   "Makalu"
+  ],
+  "answer": 0,
+  "explanation": "Mount Everest (8848.86 m) is the highest peak in the world.",
+  "explanation_ne": "सगरमाथा (८८४८.८६ मिटर) विश्वको सबैभन्दा अग्लो शिखर हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0024",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Mountains",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which is the second highest peak in Nepal?",
+  "question_ne": "नेपालको दोस्रो अग्लो शिखर कुन हो?",
+  "options": [
+   "Kanchenjunga",
+   "Makalu",
+   "Lhotse",
+   "Cho Oyu"
+  ],
+  "options_ne": [
+   "Kanchenjunga",
+   "Makalu",
+   "Lhotse",
+   "Cho Oyu"
+  ],
+  "answer": 0,
+  "explanation": "Kanchenjunga (8586 m) is the second highest peak in Nepal.",
+  "explanation_ne": "कञ्चनजङ्घा (८५८६ मिटर) नेपालको दोस्रो अग्लो शिखर हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0027",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which river is known as the Saptakoshi?",
+  "question_ne": "Saptakoshi भनेर कुन नदीलाई चिनिन्छ?",
+  "options": [
+   "Koshi",
+   "Gandaki",
+   "Karnali",
+   "Mahakali"
+  ],
+  "options_ne": [
+   "Koshi",
+   "Gandaki",
+   "Karnali",
+   "Mahakali"
+  ],
+  "answer": 0,
+  "explanation": "The answer is Koshi.",
+  "explanation_ne": "उत्तर Koshi हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0028",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which is the westernmost major river of Nepal, forming the border with India in the west?",
+  "question_ne": "नेपालको पश्चिमी सिमानामा बग्ने ठूलो नदी कुन हो?",
+  "options": [
+   "Koshi",
+   "Gandaki",
+   "Mahakali",
+   "Karnali"
+  ],
+  "options_ne": [
+   "Koshi",
+   "Gandaki",
+   "Mahakali",
+   "Karnali"
+  ],
+  "answer": 2,
+  "explanation": "The answer is Mahakali.",
+  "explanation_ne": "उत्तर Mahakali हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0029",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Kali Gandaki river flows through which famous gorge?",
+  "question_ne": "कालीगण्डकी नदी कुन प्रसिद्ध खोँच भएर बग्छ?",
+  "options": [
+   "Seti Gorge",
+   "Karnali Gorge",
+   "Kali Gandaki Gorge",
+   "Marsyangdi Gorge"
+  ],
+  "options_ne": [
+   "Seti Gorge",
+   "Karnali Gorge",
+   "Kali Gandaki Gorge",
+   "Marsyangdi Gorge"
+  ],
+  "answer": 2,
+  "explanation": "The answer is Kali Gandaki Gorge.",
+  "explanation_ne": "उत्तर Kali Gandaki Gorge हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0031",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Trishuli river is a tributary of which river system?",
+  "question_ne": "त्रिशूली नदी कुन नदी प्रणालीको सहायक नदी हो?",
+  "options": [
+   "Karnali",
+   "Gandaki",
+   "Mahakali",
+   "Koshi"
+  ],
+  "options_ne": [
+   "Karnali",
+   "Gandaki",
+   "Mahakali",
+   "Koshi"
+  ],
+  "answer": 1,
+  "explanation": "The answer is Gandaki.",
+  "explanation_ne": "उत्तर Gandaki हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0033",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Bheri river is a tributary of which river?",
+  "question_ne": "भेरी नदी कुन नदीको सहायक नदी हो?",
+  "options": [
+   "Koshi",
+   "Bagmati",
+   "Gandaki",
+   "Karnali"
+  ],
+  "options_ne": [
+   "Koshi",
+   "Bagmati",
+   "Gandaki",
+   "Karnali"
+  ],
+  "answer": 3,
+  "explanation": "The answer is Karnali.",
+  "explanation_ne": "उत्तर Karnali हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0034",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Rivers",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Which river is the main river of the Pokhara Valley?",
+  "question_ne": "पोखरा उपत्यकाको मुख्य नदी कुन हो?",
+  "options": [
+   "Kali Gandaki",
+   "Seti",
+   "Marsyangdi",
+   "Trishuli"
+  ],
+  "options_ne": [
+   "Kali Gandaki",
+   "Seti",
+   "Marsyangdi",
+   "Trishuli"
+  ],
+  "answer": 1,
+  "explanation": "The answer is Seti.",
+  "explanation_ne": "उत्तर Seti हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0046",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Forests",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Nepal is a pioneer in which forest management approach?",
+  "question_ne": "नेपाल कुन वन व्यवस्थापन विधिमा अग्रणी मानिन्छ?",
+  "options": [
+   "Private forestry",
+   "Plantation forestry",
+   "Industrial forestry",
+   "Community forestry"
+  ],
+  "options_ne": [
+   "Private forestry",
+   "Plantation forestry",
+   "Industrial forestry",
+   "Community forestry"
+  ],
+  "answer": 3,
+  "explanation": "Nepal is world-famous as a pioneer of community forestry.",
+  "explanation_ne": "नेपाल सामुदायिक वन व्यवस्थापनमा विश्वप्रसिद्ध अग्रणी देश हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0047",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Forests",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Approximately what percent of Nepal is covered by forest?",
+  "question_ne": "नेपालको लगभग कति प्रतिशत भाग वनले ढाकेको छ?",
+  "options": [
+   "45%",
+   "35%",
+   "25%",
+   "60%"
+  ],
+  "options_ne": [
+   "45%",
+   "35%",
+   "25%",
+   "60%"
+  ],
+  "answer": 0,
+  "explanation": "Forest covers about 45% of Nepal.",
+  "explanation_ne": "नेपालको लगभग ४५% भाग वनले ढाकेको छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0058",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federal Structure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under which article of the Constitution is the National Human Rights Commission provided?",
+  "question_ne": "राष्ट्रिय मानव अधिकार आयोग संविधानको कुन धारामा व्यवस्था गरिएको छ?",
+  "options": [
+   "Article 240",
+   "Article 258",
+   "Article 248",
+   "Article 242"
+  ],
+  "options_ne": [
+   "Article 240",
+   "Article 258",
+   "Article 248",
+   "Article 242"
+  ],
+  "answer": 2,
+  "explanation": "The National Human Rights Commission is provided in Article 248.",
+  "explanation_ne": "राष्ट्रिय मानव अधिकार आयोग धारा २४८ मा व्यवस्था गरिएको छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0059",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federal Structure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under which article is the National Inclusion Commission provided?",
+  "question_ne": "राष्ट्रिय समावेशी आयोग संविधानको कुन धारामा व्यवस्था गरिएको छ?",
+  "options": [
+   "Article 248",
+   "Article 251",
+   "Article 252",
+   "Article 258"
+  ],
+  "options_ne": [
+   "Article 248",
+   "Article 251",
+   "Article 252",
+   "Article 258"
+  ],
+  "answer": 3,
+  "explanation": "The National Inclusion Commission is provided in Article 258.",
+  "explanation_ne": "राष्ट्रिय समावेशी आयोग धारा २५८ मा व्यवस्था गरिएको छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0060",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federal Structure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Under which article is the executive power of the local level provided?",
+  "question_ne": "स्थानीय तहको कार्यकारिणी अधिकार संविधानको कुन धारामा व्यवस्था गरिएको छ?",
+  "options": [
+   "Article 128",
+   "Article 168",
+   "Article 175",
+   "Article 214"
+  ],
+  "options_ne": [
+   "Article 128",
+   "Article 168",
+   "Article 175",
+   "Article 214"
+  ],
+  "answer": 3,
+  "explanation": "Local executive power is provided in Article 214.",
+  "explanation_ne": "स्थानीय तहको कार्यकारिणी अधिकार धारा २१४ मा व्यवस्था गरिएको छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0070",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Federal Structure",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "After Nepali, which language is spoken by the most people in Nepal?",
+  "question_ne": "नेपालीपछि नेपालमा सबैभन्दा बढी बोलिने भाषा कुन हो?",
+  "options": [
+   "Tamang",
+   "Tharu",
+   "Maithili",
+   "Bhojpuri"
+  ],
+  "options_ne": [
+   "Tamang",
+   "Tharu",
+   "Maithili",
+   "Bhojpuri"
+  ],
+  "answer": 2,
+  "explanation": "Maithili is the second most spoken language in Nepal.",
+  "explanation_ne": "मैथिली नेपालमा दोस्रो बढी बोलिने भाषा हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0078",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Districts",
+  "difficulty": "easy",
+  "marks": 1,
+  "question": "What is the headquarters of Dhanusha district?",
+  "question_ne": "Dhanusha जिल्लाको सदरमुकाम कुन हो?",
+  "options": [
+   "Butwal",
+   "Janakpur",
+   "Pokhara",
+   "Biratnagar"
+  ],
+  "options_ne": [
+   "Butwal",
+   "Janakpur",
+   "Pokhara",
+   "Biratnagar"
+  ],
+  "answer": 1,
+  "explanation": "The headquarters of Dhanusha district is Janakpur.",
+  "explanation_ne": "Dhanusha जिल्लाको सदरमुकाम Janakpur हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0116",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Who unified Nepal and founded the Shah dynasty of unified Nepal?",
+  "question_ne": "नेपाल एकीकरण गर्ने र एकीकृत नेपालका शाह वंशका संस्थापक को हुन्?",
+  "options": [
+   "Prithvi Narayan Shah",
+   "Mahendra",
+   "Jung Bahadur Rana",
+   "Tribhuvan"
+  ],
+  "options_ne": [
+   "Prithvi Narayan Shah",
+   "Mahendra",
+   "Jung Bahadur Rana",
+   "Tribhuvan"
+  ],
+  "answer": 0,
+  "explanation": "Prithvi Narayan Shah unified Nepal.",
+  "explanation_ne": "पृथ्वीनारायण शाहले नेपाल एकीकरण गरे।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0119",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Anglo-Nepal War ended with which treaty?",
+  "question_ne": "अङ्ग्रेज-नेपाल युद्ध कुन सन्धिबाट अन्त्य भयो?",
+  "options": [
+   "Treaty of Titalia",
+   "Treaty of Sindhuli",
+   "Treaty of Kathmandu",
+   "Treaty of Sugauli (1816)"
+  ],
+  "options_ne": [
+   "Treaty of Titalia",
+   "Treaty of Sindhuli",
+   "Treaty of Kathmandu",
+   "Treaty of Sugauli (1816)"
+  ],
+  "answer": 3,
+  "explanation": "The Anglo-Nepal War (1814-16) ended with the Treaty of Sugauli in 1816.",
+  "explanation_ne": "अङ्ग्रेज-नेपाल युद्ध (१८१४-१६) सन् १८१६ को सुगौली सन्धिबाट अन्त्य भयो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0120",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The Rana regime in Nepal lasted from 1846 to which year?",
+  "question_ne": "नेपालमा राणा शासन सन् १८४६ देखि कुन वर्षसम्म रह्यो?",
+  "options": [
+   "1947",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "options_ne": [
+   "1947",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "answer": 1,
+  "explanation": "The Rana regime ended in 1951.",
+  "explanation_ne": "राणा शासन सन् १९५१ मा अन्त्य भयो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0122",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary",
+   "deputy-secretary",
+   "provincial-psc",
+   "psc-service-groups"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "History",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In which year was democracy first established in Nepal (end of Rana rule)?",
+  "question_ne": "नेपालमा पहिलो पटक प्रजातन्त्र कहिले स्थापित भयो (राणा शासनको अन्त्य)?",
+  "options": [
+   "1947",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "options_ne": [
+   "1947",
+   "1951",
+   "1960",
+   "1990"
+  ],
+  "answer": 1,
+  "explanation": "Democracy was established in Nepal in 1951.",
+  "explanation_ne": "नेपालमा सन् १९५१ मा प्रजातन्त्र स्थापित भयो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0126",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many days long is Dashain?",
+  "question_ne": "दशैं कति दिनको हुन्छ?",
+  "options": [
+   "15 days",
+   "9 days",
+   "5 days",
+   "10 days"
+  ],
+  "options_ne": [
+   "15 days",
+   "9 days",
+   "5 days",
+   "10 days"
+  ],
+  "answer": 0,
+  "explanation": "Dashain lasts 15 days.",
+  "explanation_ne": "दशैं १५ दिनको हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0127",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "How many days long is Tihar?",
+  "question_ne": "तिहार कति दिनको हुन्छ?",
+  "options": [
+   "5 days",
+   "7 days",
+   "15 days",
+   "3 days"
+  ],
+  "options_ne": [
+   "5 days",
+   "7 days",
+   "15 days",
+   "3 days"
+  ],
+  "answer": 0,
+  "explanation": "Tihar lasts 5 days.",
+  "explanation_ne": "तिहार ५ दिनको हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0129",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "The chariot festival of Rato Machhindranath is held in which city?",
+  "question_ne": "रातो मच्छिन्द्रनाथको रथयात्रा कुन सहरमा हुन्छ?",
+  "options": [
+   "Kathmandu",
+   "Bhaktapur",
+   "Kirtipur",
+   "Lalitpur (Patan)"
+  ],
+  "options_ne": [
+   "Kathmandu",
+   "Bhaktapur",
+   "Kirtipur",
+   "Lalitpur (Patan)"
+  ],
+  "answer": 3,
+  "explanation": "The Rato Machhindranath chariot festival is held in Lalitpur (Patan).",
+  "explanation_ne": "रातो मच्छिन्द्रनाथको रथयात्रा ललितपुर (पाटन) मा हुन्छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0130",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Madal is which type of musical instrument?",
+  "question_ne": "मादल कस्तो बाजा हो?",
+  "options": [
+   "A string instrument",
+   "A wind instrument",
+   "A double-headed drum",
+   "A metal bell"
+  ],
+  "options_ne": [
+   "A string instrument",
+   "A wind instrument",
+   "A double-headed drum",
+   "A metal bell"
+  ],
+  "answer": 2,
+  "explanation": "The madal is a double-headed drum.",
+  "explanation_ne": "मादल दुईमुखे ढोलक बाजा हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0131",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Sarangi is which type of musical instrument?",
+  "question_ne": "सारंगी कस्तो बाजा हो?",
+  "options": [
+   "A string instrument",
+   "A drum",
+   "A bell",
+   "A wind instrument"
+  ],
+  "options_ne": [
+   "A string instrument",
+   "A drum",
+   "A bell",
+   "A wind instrument"
+  ],
+  "answer": 0,
+  "explanation": "The sarangi is a string instrument.",
+  "explanation_ne": "सारंगी तार बाजा हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0133",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Panche Baja consists of how many instruments?",
+  "question_ne": "पञ्चे बाजामा कति वटा बाजा हुन्छन्?",
+  "options": [
+   "Five",
+   "Nine",
+   "Three",
+   "Seven"
+  ],
+  "options_ne": [
+   "Five",
+   "Nine",
+   "Three",
+   "Seven"
+  ],
+  "answer": 0,
+  "explanation": "Panche means five: Panche Baja has five instruments.",
+  "explanation_ne": "पञ्चे भन्नाले पाँच भन्ने बुझिन्छ; पञ्चे बाजामा पाँच वटा बाजा हुन्छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0135",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Who is known as Maha Kavi (the great poet) of Nepali literature?",
+  "question_ne": "नेपाली साहित्यका महाकवि को हुन्?",
+  "options": [
+   "Siddhicharan Shrestha",
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya",
+   "Parijat"
+  ],
+  "options_ne": [
+   "Siddhicharan Shrestha",
+   "Laxmi Prasad Devkota",
+   "Bhanubhakta Acharya",
+   "Parijat"
+  ],
+  "answer": 1,
+  "explanation": "Laxmi Prasad Devkota is known as Maha Kavi.",
+  "explanation_ne": "लक्ष्मीप्रसाद देवकोटा महाकवि भनेर चिनिन्छन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0136",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Culture & Society",
+  "subtopic": "Culture",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "Parijat won the Madan Puraskar for which novel?",
+  "question_ne": "पारिजातले कुन उपन्यासका लागि मदन पुरस्कार पाइन्?",
+  "options": [
+   "Seto Bagh",
+   "Pagal Basti",
+   "Shirishko Phool",
+   "Muna Madan"
+  ],
+  "options_ne": [
+   "Seto Bagh",
+   "Pagal Basti",
+   "Shirishko Phool",
+   "Muna Madan"
+  ],
+  "answer": 2,
+  "explanation": "Parijat won the Madan Puraskar for Shirishko Phool.",
+  "explanation_ne": "पारिजातले शिरीषको फूलका लागि मदन पुरस्कार पाइन्।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0137",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What was the first newspaper published in Nepal?",
+  "question_ne": "नेपालमा प्रकाशित पहिलो पत्रिका कुन हो?",
+  "options": [
+   "Kantipur",
+   "Samaj",
+   "The Rising Nepal",
+   "Gorkhapatra"
+  ],
+  "options_ne": [
+   "Kantipur",
+   "Samaj",
+   "The Rising Nepal",
+   "Gorkhapatra"
+  ],
+  "answer": 3,
+  "explanation": "Gorkhapatra (1901) was the first newspaper of Nepal.",
+  "explanation_ne": "गोरखापत्र (सन् १९०१) नेपालको पहिलो पत्रिका हो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0142",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "In which year was the first population census held in Nepal?",
+  "question_ne": "नेपालमा पहिलो जनगणना कहिले भयो?",
+  "options": [
+   "1911",
+   "1901",
+   "1951",
+   "1921"
+  ],
+  "options_ne": [
+   "1911",
+   "1901",
+   "1951",
+   "1921"
+  ],
+  "answer": 0,
+  "explanation": "The first population census of Nepal was held in 1911.",
+  "explanation_ne": "नेपालको पहिलो जनगणना सन् १९११ मा भयो।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ },
+ {
+  "id": "R11-NEPAL-0143",
+  "exam": [
+   "kharidar",
+   "nasu",
+   "section-officer",
+   "nrb-assistant",
+   "rbb",
+   "police",
+   "army",
+   "tsc-primary",
+   "tsc-secondary"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Firsts",
+  "difficulty": "medium",
+  "marks": 1,
+  "question": "What is the international airport of Kathmandu called?",
+  "question_ne": "काठमाडौंको अन्तर्राष्ट्रिय विमानस्थलको नाम के हो?",
+  "options": [
+   "Biratnagar Airport",
+   "Tribhuvan International Airport",
+   "Pokhara International Airport",
+   "Gautam Buddha International Airport"
+  ],
+  "options_ne": [
+   "Biratnagar Airport",
+   "Tribhuvan International Airport",
+   "Pokhara International Airport",
+   "Gautam Buddha International Airport"
+  ],
+  "answer": 1,
+  "explanation": "Tribhuvan International Airport is in Kathmandu.",
+  "explanation_ne": "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल काठमाडौंमा छ।",
+  "source": "Original practice question — Lok Sewa Prep Nepal"
+ }
+]
