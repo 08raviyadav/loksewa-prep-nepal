@@ -9,6 +9,7 @@ node scripts/test-questions.js   # question bank
 node scripts/test-app.js         # scoring, shuffle, HTML ids, mock specs
 node scripts/test-e2e.js         # end-to-end quiz logic in a DOM stub
 node scripts/test-v2.js          # v2: sign-in, discussions, submissions, moderation, reports
+node scripts/test-examdates.js   # exam-dates.json schema, BS calendar maths, reminder logic
 python3 -m http.server 8000     # then open http://localhost:8000
 ```
 
@@ -775,3 +776,17 @@ User feedback on the live site: it looked like a demo, not professional. Three p
 **Test updates (user-directed UI changes only):** `test-app.js` — removed `auth-demo-banner` from the dynamic-id set; "demo banner exists" check inverted to assert the banner is gone. `test-bundle.js` — external-link check now also exempts the canonical tag's `08raviyadav.github.io` URL (loads no resource; offline-safety intent preserved); the "exactly 2 script blocks" check passes again after the dropdown JS moved into `app.js`.
 
 **Verification (coordinator, after integration):** all six suites PASS — test-questions (64,671, 0 dup ids/texts, bilingual 100%), test-app (310 checks), test-e2e (118), test-v2 (45), test-funfacts (14), test-bundle. Question data, answer keys, and exam patterns untouched. Bundle rebuilt: 66,614,755 bytes, ends `</script></body></html>`. NOT uploaded, NOT pushed (parent handles the push).
+
+## §AB — Exam reminders feature (2026-10-31): "add exam reminder if today some exam date is"
+
+**What shipped:**
+- `data/exam-dates.json` — **20 verified upcoming exam/admit/deadline dates** (BS 2083-07-15 → 2083-10-13), each with official source URL + `verified: 2026-10-31` + `confidence` (high = named official notice reproduced by 2+ outlets, medium = single outlet). 18/20 mapped to `exams.json` ids for Practice/Mock links; 2 (NMC Special Exam day 1/2, a PG exam with no bank match) show without links. Zero invented dates — unverifiable candidates were excluded.
+- BS calendar engine in `assets/js/app.js`: anchor 2026-10-31 AD = 2083-07-14 BS; verified 2083 month lengths; `bsToday()`, `bsDaysUntil()`, `fmtBs()` (EN/NE), `bsCountdown()`.
+- Home hero banner (`#exam-reminder-banner`): 🔔 today / ⏰ ≤7 days / 📅 nearest upcoming; dismissible per item (`loksewa_rem_dismissed_v1`).
+- New **Exam Dates** view (nav More → 📅 Exam Dates + mobile nav): chronological list, countdown chips, kind filter (exam/admit/deadline), Practice/Mock links where a bank exam matches, per-row official-source links, ⚠️ re-verify badge on medium-confidence entries, "Last verified" footer.
+- **🔔 Remind me** toggle per exam (`loksewa_reminders_v1`); one-tap browser-Notification enable (asked politely once via inline button, never auto-prompted); on app open, one notification per saved exam per day when ≤3 days away (`loksewa_rem_notif_v1`). 100% on-device — no service worker, no backend.
+- EN/NE bilingual throughout. `scripts/build-bundle.py` embeds the file as `window.EMBEDDED_EXAMDATES` (py_compile-verified).
+
+**Tests:** new `scripts/test-examdates.js` (31 checks: anchor maths incl. month-length edge cases, EN/NE formatting, schema validation incl. confidence, no-stale-dates with 1-day grace, exams.json cross-reference, reminder-store round-trip, upcoming sort/filter) — **ALL EXAMDATE CHECKS PASSED ✔**. Full suite re-run: test-questions ✔ test-app ✔ test-e2e ✔ test-v2 ✔ test-funfacts ✔ test-bundle ✔ test-examdates ✔ (7/7).
+
+**Not done (needs a real browser):** visual check of the banner/view; live-browser re-verification of the 8 medium-confidence entries (PSC Notice 582/083-84 items, NAMC BAMS, NPC 32nd, NEC 2nd cycle) against psc.gov.np / namc / npc / nec directly — recommended before the next data refresh. No verifiable dates found for TSC future exams, Nepal Police/APF/Army, NRB, provincial PSCs — excluded, not guessed.

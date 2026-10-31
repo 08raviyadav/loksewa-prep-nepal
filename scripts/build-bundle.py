@@ -6,7 +6,7 @@ embeds data/exams.json + every file listed in app.js QUESTION_FILES as
 window.EMBEDDED_EXAMS / window.EMBEDDED_QUESTIONS, plus data/papers.json,
 data/notices.json, data/funfacts.json and every file listed in app.js
 NOTES_FILES (data/notes/) as window.EMBEDDED_PAPERS / window.EMBEDDED_NOTICES /
-window.EMBEDDED_FUNFACTS / window.EMBEDDED_NOTES.
+window.EMBEDDED_FUNFACTS / window.EMBEDDED_NOTES / window.EMBEDDED_EXAMDATES.
 
 The bundled loadData() uses the embedded data first (no fetch, so the file
 works opened directly in a phone browser / file://) and falls back to the
@@ -74,6 +74,7 @@ def main() -> int:
     papers = json.loads((ROOT / "data" / "papers.json").read_text(encoding="utf-8"))
     notices = json.loads((ROOT / "data" / "notices.json").read_text(encoding="utf-8"))
     funfacts = json.loads((ROOT / "data" / "funfacts.json").read_text(encoding="utf-8"))
+    examdates = json.loads((ROOT / "data" / "exam-dates.json").read_text(encoding="utf-8"))
     # Revision notes, in app.js order (authoritative list).
     m2 = re.search(r"const NOTES_FILES = \[([^\]]*)\];", js, re.S)
     assert m2, "NOTES_FILES not found in app.js"
@@ -103,6 +104,8 @@ def main() -> int:
         + json.dumps(funfacts, ensure_ascii=False, separators=(",", ":"))
         + ";\nwindow.EMBEDDED_NOTES="
         + json.dumps(notes, ensure_ascii=False, separators=(",", ":"))
+        + ";\nwindow.EMBEDDED_EXAMDATES="
+        + json.dumps(examdates, ensure_ascii=False, separators=(",", ":"))
         + ";"
     )
     assert "</script" not in data_json.lower(), "</script> found in embedded data"

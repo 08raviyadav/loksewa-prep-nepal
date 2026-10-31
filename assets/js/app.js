@@ -246,7 +246,7 @@ function xpFor(score, max){ return Math.max(0, Math.round(score*10)); }
 // (Node exports live at the end of this file, after every const is
 // initialised — an early export here hit the FOCUS_DURATIONS TDZ.)
 
-let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], current=null, timerId=null, timeLeft=0, startTime=0;
+let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], current=null, timerId=null, timeLeft=0, startTime=0;
 let progress = loadProgress();
 // Cloud-ready progress shape (see docs/BACKEND.md): the profile fields
 // (user_id / email / name) live on the same object as the practice data, so a
@@ -849,7 +849,7 @@ function showView(id){
     document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
-  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); }
+  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); checkExamNotifications(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
   if(id==='submit') renderSubmit(); if(id==='moderate') renderModerate();
   if(id==='papers') renderPapers(); if(id==='notices') renderNotices();
@@ -859,6 +859,7 @@ function showView(id){
   if(id==='planner') renderPlanner(); if(id==='coach') renderCoach();
   if(id==='pyq') renderPYQ();
   if(id==='chat') renderChat(); if(id==='suggest') renderSuggest();
+  if(id==='examdates') renderExamDates();
 }
 // Per-view <title> names (English view names are fine — the brand prefix
 // stays constant). Unknown ids fall back to the bare brand.
@@ -869,7 +870,7 @@ const VIEW_TITLES = {
   submit:'Contribute a Question', moderate:'Review Queue', papers:'Old Papers', notices:'Notices',
   funfacts:'Fun Facts', chat:'Ask Ravi', suggest:'Suggest a Feature', coverage:'Syllabus Coverage',
   print:'Printable Paper', planner:'Study Planner', coach:'Guess Coach', pyq:'PYQ Heatmap',
-  notes:'Revision Notes', audio:'Audio Revision'
+  notes:'Revision Notes', audio:'Audio Revision', examdates:'Exam Dates'
 };
 /* ---- Production-polish UI helpers: skeletons, empty states, error states ---- */
 // dataReady is false only while loadData() is actually fetching. In the Node
@@ -956,6 +957,11 @@ async function loadData(){
   // fallback (window.EMBEDDED_FUNFACTS, set by scripts/build-bundle.py).
   if (typeof window!=='undefined' && window.EMBEDDED_FUNFACTS) FUNFACTS = window.EMBEDDED_FUNFACTS.slice();
   else { try{ const r=await fetch('data/funfacts.json'); FUNFACTS=await r.json(); }catch(e){ FUNFACTS=[]; } }
+  // Exam dates (data/exam-dates.json): verified upcoming exam/admit/deadline
+  // dates in Bikram Sambat, with the single-file bundle's embedded-data
+  // fallback (window.EMBEDDED_EXAMDATES, set by scripts/build-bundle.py).
+  if (typeof window!=='undefined' && window.EMBEDDED_EXAMDATES) EXAMDATES = window.EMBEDDED_EXAMDATES.slice();
+  else { try{ const r=await fetch('data/exam-dates.json'); EXAMDATES=await r.json(); }catch(e){ EXAMDATES=[]; } }
   // Revision notes: one file per topic (data/notes/NOTES_FILES), fetched in
   // parallel like the question bank, with the single-file bundle's
   // embedded-data fallback (window.EMBEDDED_NOTES, set by
@@ -968,7 +974,7 @@ async function loadData(){
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
   fillExamSelects(); renderHomeStats(); renderGuide(); renderTopics(); renderPapers(); renderNotices();
-  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd();
+  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); checkExamNotifications();
   if(!QUESTIONS.length){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
@@ -3452,9 +3458,200 @@ function renderPYQ(){
   box.innerHTML=h;
 }
 
+/* ---- Exam reminders (data/exam-dates.json) ---- */
+// BS calendar anchor: 2026-10-31 AD (UTC) = 2083-07-14 BS (Kartik 14, 2083).
+// All BS arithmetic is day-offsets from this anchor — no external calendar
+// library, no guessing. Month lengths below are the verified 2083 BS lengths
+// (cross-check: Baisakh 1 2083 = Apr 14 2026; Kartik 1 2083 = Oct 18 2026;
+// both land exactly on the anchor). 2084 uses the standard pattern;
+// re-verify against an official BS calendar if reminder dates ever extend
+// past 2084-03.
+const BS_ANCHOR_AD = Date.UTC(2026, 9, 31); // 2026-10-31T00:00:00Z
+const BS_MONTH_LEN = {
+  2083: [31,32,31,32,31,30,30,30,29,29,30,30],
+  2084: [31,32,31,32,31,30,30,30,29,30,29,31]
+};
+const BS_MONTH_EN = ['Baisakh','Jestha','Ashadh','Shrawan','Bhadra','Ashwin','Kartik','Mangsir','Poush','Magh','Falgun','Chaitra'];
+const BS_MONTH_NE = ['बैशाख','जेठ','असार','साउन','भदौ','असोज','कात्तिक','मंसिर','पुस','माघ','फागुन','चैत'];
+
+function bsParse(s){ const m=/^(\d{4})-(\d{2})-(\d{2})$/.exec(s||''); return m?{y:+m[1],m:+m[2],d:+m[3]}:null; }
+// Absolute day count since 2083-01-01. null on malformed/out-of-range input.
+function bsAbsDay(s){
+  const p=bsParse(s); if(!p) return null;
+  const lens=BS_MONTH_LEN[p.y]; if(!lens) return null;
+  if(p.m<1||p.m>12||p.d<1||p.d>lens[p.m-1]) return null;
+  let n=0;
+  for(let y=2083;y<p.y;y++){ const l=BS_MONTH_LEN[y]; if(!l) return null; n+=l.reduce((a,b)=>a+b,0); }
+  for(let m=1;m<p.m;m++) n+=lens[m-1];
+  return n+(p.d-1);
+}
+function bsFromAbs(n){
+  for(let y=2083;y<=2100;y++){
+    const lens=BS_MONTH_LEN[y]; if(!lens) return null;
+    const yl=lens.reduce((a,b)=>a+b,0);
+    if(n<yl){ let m=1; while(n>=lens[m-1]){ n-=lens[m-1]; m++; } return y+'-'+String(m).padStart(2,'0')+'-'+String(n+1).padStart(2,'0'); }
+    n-=yl;
+  }
+  return null;
+}
+const BS_ANCHOR_ABS = bsAbsDay('2083-07-14'); // 200 — verified against both AD anchors
+// Today's BS date (YYYY-MM-DD), derived from the anchor + elapsed AD days.
+function bsToday(){
+  const adDays=Math.floor(Date.now()/864e5)-Math.floor(BS_ANCHOR_AD/864e5);
+  return bsFromAbs(BS_ANCHOR_ABS+adDays);
+}
+// Days from today (BS) until date_bs. Negative = past. null = bad input.
+function bsDaysUntil(s){
+  const a=bsAbsDay(s); if(a==null) return null;
+  return a-bsAbsDay(bsToday());
+}
+function neDigits(s){ return String(s).replace(/\d/g,d=>'०१२३४५६७८९'[+d]); }
+// "14 Kartik 2083" / "१४ कात्तिक २०८३"
+function fmtBs(s){
+  const p=bsParse(s); if(!p||p.m<1||p.m>12) return s||'';
+  if(lang==='ne') return neDigits(p.d)+' '+BS_MONTH_NE[p.m-1]+' '+neDigits(p.y);
+  return p.d+' '+BS_MONTH_EN[p.m-1]+' '+p.y;
+}
+// Countdown label: 0 → Today/आज, 1 → Tomorrow/भोलि, else "in N days".
+function bsCountdown(d){
+  if(d===0) return B('Today','आज');
+  if(d===1) return B('Tomorrow','भोलि');
+  return B('in '+d+' days', neDigits(d)+' दिनमा');
+}
+
+// Reminder storage (all on-device, versioned keys — no backend).
+const REM_DISMISSED='loksewa_rem_dismissed_v1', REM_LIST='loksewa_reminders_v1',
+      REM_NOTIFIED='loksewa_rem_notified_v1', REM_ASKED='loksewa_notif_asked_v1';
+function remStore(k,fb){ try{ const v=JSON.parse(localStorage.getItem(k)); if(v==null) return fb; if(Array.isArray(fb)!==Array.isArray(v)) return fb; if(typeof v!==typeof fb) return fb; return v; }catch(e){ return fb; } }
+function remSave(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch(e){} }
+function upcomingExamDates(){
+  const t=bsToday();
+  return (EXAMDATES||[]).filter(e=>e&&e.date_bs&&e.date_bs>=t)
+    .sort((a,b)=>a.date_bs<b.date_bs?-1:(a.date_bs>b.date_bs?1:0));
+}
+function examDateById(id){ return (EXAMDATES||[]).find(e=>e&&e.id===id); }
+
+// Home hero banner: today → alert; ≤7 days → reminder; else nearest upcoming.
+function renderExamReminder(){
+  const box=document.getElementById('exam-reminder-banner'); if(!box) return;
+  if(!dataReady){ box.innerHTML=''; return; }
+  const dismissed=remStore(REM_DISMISSED,{});
+  const up=upcomingExamDates().filter(e=>!dismissed[e.id]);
+  if(!up.length){ box.innerHTML=''; return; }
+  const e=up[0], d=bsDaysUntil(e.date_bs);
+  const title=esc(lang==='ne'?(e.title_ne||e.title_en):(e.title_en||''));
+  const ex=e.exam&&examById(e.exam)?e.exam:null;
+  const goBtn=ex?` <button class="btn secondary rem-go" onclick="goPracticeExam('${esc(ex)}')">${B('Practice now','अहिले अभ्यास गर्नुहोस्')}</button>`:'';
+  const xBtn=`<button class="rem-x" aria-label="${B('Dismiss','हटाउनुहोस्')}" onclick="dismissReminder('${esc(e.id)}')">×</button>`;
+  let h='';
+  if(d===0) h=`<div class="rem-banner rem-today" role="alert"><span>🔔 <strong>${title}</strong> — ${B('is today! Good luck.','आज छ! शुभकामना।')}</span>${goBtn}${xBtn}</div>`;
+  else if(d>0&&d<=7) h=`<div class="rem-banner rem-soon" role="alert"><span>⏰ <strong>${title}</strong> — ${esc(bsCountdown(d))} · ${esc(fmtBs(e.date_bs))}</span>${goBtn}${xBtn}</div>`;
+  else h=`<div class="rem-banner rem-next"><span>📅 ${B('Coming up','आगामी')}: <strong>${title}</strong> — ${esc(fmtBs(e.date_bs))}</span><span><button class="linklike" onclick="showView('examdates')">${B('See all dates','सबै मिति हेर्नुहोस्')}</button>${xBtn}</span></div>`;
+  box.innerHTML=h;
+}
+function dismissReminder(id){ const d=remStore(REM_DISMISSED,{}); d[id]=true; remSave(REM_DISMISSED,d); renderExamReminder(); }
+function goPracticeExam(id){
+  const s=document.getElementById('practice-exam');
+  if(s){ s.value=id; if(typeof updatePracticeTopics==='function'){ try{ updatePracticeTopics(); }catch(e){} } }
+  showView('practice');
+}
+function goMockExam(id){
+  const s=document.getElementById('mock-exam');
+  if(s){ s.value=id; }
+  showView('mock');
+}
+
+// Exam Dates view: chronological list, countdown chips, kind filter,
+// per-exam "remind me" toggle, practice/mock links, official source links.
+let examDateFilter='';
+function remKindLabel(k){
+  return k==='exam'?B('Exam','परीक्षा'):k==='admit'?B('Admit card','प्रवेशपत्र'):k==='deadline'?B('Deadline','अन्तिम मिति'):esc(k||'');
+}
+function remChip(d){
+  if(d===0) return `<span class="chip chip-today">🔴 ${B('Today','आज')}</span>`;
+  if(d===1) return `<span class="chip chip-soon">🟡 ${B('Tomorrow','भोलि')}</span>`;
+  if(d<=7) return `<span class="chip chip-soon">🟡 ${esc(bsCountdown(d))}</span>`;
+  return `<span class="chip">📅 ${esc(bsCountdown(d))}</span>`;
+}
+function renderExamDates(){
+  const box=document.getElementById('examdates-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
+  const list=(EXAMDATES||[]).slice().sort((a,b)=>a.date_bs<b.date_bs?-1:(a.date_bs>b.date_bs?1:0));
+  const t=bsToday();
+  const kinds=[...new Set(list.map(e=>e.kind).filter(Boolean))];
+  const f=examDateFilter;
+  const shown=list.filter(e=>!f||e.kind===f);
+  const reminded=remStore(REM_LIST,[]);
+  // Polite one-time notification prompt: an inline button, never auto-asked.
+  let notifHtml='';
+  if(typeof Notification!=='undefined'&&Notification.permission==='default'&&!remStore(REM_ASKED,false)){
+    notifHtml=`<p><button class="btn secondary" onclick="enableExamNotifications()">${B('🔔 Enable exam reminders','🔔 परीक्षा रिमाइन्डर सक्रिय गर्नुहोस्')}</button> <span class="muted">${B('Your browser will notify you when a saved exam is 3 days away. On-device only — nothing is uploaded.','सेभ गरिएको परीक्षा ३ दिन टाढा हुँदा ब्राउजरले सूचना दिनेछ। यन्त्रमै मात्र — केही अपलोड हुँदैन।')}</span></p>`;
+  }
+  let h=`<div class="card"><h2>📅 ${B('Exam dates','परीक्षा मितिहरू')}</h2>
+  <p class="muted">${B('Verified exam dates, admit-card releases and application deadlines from official notices (PSC, TSC, NRB, MEC…). Dates are in Bikram Sambat — never guessed; every entry links its source.','आधिकारिक सूचनाहरूबाट प्रमाणित परीक्षा मिति, प्रवेशपत्र र आवेदन अन्तिम मिति (लोक सेवा, शिक्षक सेवा, राष्ट्र बैंक, चिकित्सा शिक्षा आयोग…)। मितिहरू विक्रम संवत्मा छन् — अनुमान गरिएको होइन; हरेक प्रविष्टिमा स्रोत लिङ्क छ।')}</p>${notifHtml}`;
+  if(kinds.length>1){
+    h+=`<p><label>${B('Show:','देखाउनुहोस्:')} <select id="ed-kind" onchange="examDateFilter=this.value;renderExamDates()">
+    <option value="">${B('All','सबै')}</option>${kinds.map(k=>`<option value="${esc(k)}"${f===k?' selected':''}>${remKindLabel(k)}</option>`).join('')}</select></label></p>`;
+  }
+  if(!shown.length){
+    h+=emptyState('📅', B('No dates yet','अहिले मिति छैन'), B('No verified upcoming dates in this list. Check the official sites linked in Notices.','यो सूचीमा प्रमाणित आगामी मिति छैन। सूचनामा लिङ्क गरिएका आधिकारिक साइट हेर्नुहोस्।'));
+  }else{
+    h+='<div class="ed-list">';
+    for(const e of shown){
+      const d=bsDaysUntil(e.date_bs);
+      const title=esc(lang==='ne'?(e.title_ne||e.title_en):e.title_en);
+      const past=d<0;
+      const ex=e.exam&&examById(e.exam)?examById(e.exam):null;
+      const isR=reminded.includes(e.id);
+      h+=`<div class="card ed-row${past?' ed-past':''}">${past?`<span class="chip">✓ ${B('Done','सकियो')}</span>`:remChip(d)}
+      <div class="ed-main"><strong>${title}</strong>
+      <p class="muted">${esc(fmtBs(e.date_bs))} · ${remKindLabel(e.kind)}${e.source?` · <a href="${esc(e.source)}" target="_blank" rel="noopener">${B('Official source','आधिकारिक स्रोत')}</a>`:''}${e.confidence==='medium'?` · <span title="${B('Single-source: re-verify on the official site','एकल स्रोत: आधिकारिक साइटमा पुनःपुष्टि गर्नुहोस्')}">⚠️ ${B('re-verify','पुनःपुष्टि')}</span>`:''}</p>
+      <p class="ed-actions">
+      ${ex?`<button class="btn secondary" onclick="goPracticeExam('${esc(ex.id)}')">${B('Practice','अभ्यास')}</button>`:''}
+      ${ex&&ex.prelim?` <button class="btn secondary" onclick="goMockExam('${esc(ex.id)}')">${B('Mock','मक')}</button>`:''}
+      ${!past?` <button class="btn secondary${isR?' rem-on':''}" onclick="toggleExamReminder('${esc(e.id)}')">${isR?B('🔔 Reminding','🔔 रिमाइन्डर छ'):B('🔕 Remind me','🔕 सम्झाउनुहोस्')}</button>`:''}
+      </p></div></div>`;
+    }
+    h+='</div>';
+  }
+  const lastV=(EXAMDATES||[]).reduce((m,e)=>e.verified&&e.verified>m?e.verified:m,'');
+  h+=`<p class="muted">${B('Last verified','अन्तिम प्रमाणित')}: ${esc(lastV||'—')}. ${B('Exam boards reschedule — always confirm on the official site before travelling.','परीक्षा बोर्डले मिति सार्न सक्छ — यात्रा गर्नुअघि आधिकारिक साइटमा पुष्टि गर्नुहोस्।')}</p></div>`;
+  box.innerHTML=h;
+}
+function toggleExamReminder(id){
+  let r=remStore(REM_LIST,[]);
+  r=r.includes(id)?r.filter(x=>x!==id):r.concat([id]);
+  remSave(REM_LIST,r); renderExamDates(); renderExamReminder();
+}
+function enableExamNotifications(){
+  remSave(REM_ASKED,true);
+  if(typeof Notification==='undefined') return;
+  try{ Notification.requestPermission().then(()=>renderExamDates()).catch(()=>{}); }catch(e){}
+}
+// On-device reminder check: when the app opens and a saved exam is ≤3 days
+// away (and today), fire one browser Notification per exam per day.
+function checkExamNotifications(){
+  if(typeof Notification==='undefined'||Notification.permission!=='granted') return;
+  const reminded=remStore(REM_LIST,[]); if(!reminded.length) return;
+  const today=bsToday();
+  const done=remStore(REM_NOTIFIED,{});
+  let changed=false;
+  for(const id of reminded){
+    const e=examDateById(id); if(!e) continue;
+    const d=bsDaysUntil(e.date_bs);
+    if(d==null||d<0||d>3) continue;
+    if(done[id]===today) continue;
+    const title=lang==='ne'?(e.title_ne||e.title_en):e.title_en;
+    try{ new Notification('📅 '+title, { body: d===0?B('The exam is today! Good luck.','परीक्षा आज छ! शुभकामना।'):B('In '+d+' day'+(d>1?'s':'')+' — '+fmtBs(e.date_bs), neDigits(d)+' दिनमा — '+fmtBs(e.date_bs)), tag:'loksewa-rem-'+id }); }catch(err){}
+    done[id]=today; changed=true;
+  }
+  if(changed) remSave(REM_NOTIFIED,done);
+}
+
 // Node exports (test harness): kept at the END of the file so every const
 // above (incl. FOCUS_DURATIONS) is initialised before this object is built.
 // An export placed near the top threw "Cannot access before initialization".
 if (typeof module!=='undefined' && module.exports){ module.exports={shuffle,shuffleOptions,scoreAttempt,xpFor,qText,qOpts,qExpl,getLang,setLang,normaliseText,tokenJaccard,jaccardNorm,findDuplicate,validateSubmission,rateLimitCheck,isGmailAddress,communityBadge,seedDiscussions,weekStartStr,questionsThisWeek,weeklyProgress,personalBest,questionsInADay,pickSurprise,nextFocusMode,FOCUS_DURATIONS,badges,checkWeeklyGoal,funFactText,dailyFunFact,randomFunFact,PRAISE_LINES,TRY_AGAIN_LINES,PASS_LINES,FAIL_LINES,pickLine,prefersReducedMotion,recordFactVisit,getFactStreak,questionOfDay,speedBonusFor,mistakePool,longestStreak,bestDay,personalRecords,buildShareText,getSpeedBest,saveSpeedBest,SPEED_SECONDS,SPEED_COUNT,effectiveNoticeStatus,resetProgress,
 chatReply,chatTopicFor,chatTopicStats,isFactualQuestion,chatHistory,saveChatHistory,chatSend,
-validateSuggestion,isDuplicateSuggestion,loadSuggestions,saveSuggestions,upvoteSuggestion,LS_CHAT,LS_SUGGEST,CHAT_MAX_MSGS,B,examName,fmt1,markPyqFlags,topicsForExam,mapTopicToSyllabus,breakdownLabelTopics,parseBreakdownWeights,pyqTopicShares,examTopicWeights,practiceTopicStats,attemptLevelTotals,guessEV,evVerdict,coachStats,coachAdvice,drillTopic,renderCoverage,renderPrint,generatePrintPaper,renderPrintPaperHtml,renderPlanner,renderCoach,renderPYQ,heatCell,buildStudyPlan,daysUntil,rebalancePlan,loadPlans,savePlans,planNotices,currentPlanTarget,generatePlan,deletePlan,showPlan,renderPlanCard,NOTICE_EXAM,PLANS_KEY,TOPIC_SYLLABUS_KEYS,BREAKDOWN_GROUPS}; }
+validateSuggestion,isDuplicateSuggestion,loadSuggestions,saveSuggestions,upvoteSuggestion,LS_CHAT,LS_SUGGEST,CHAT_MAX_MSGS,B,examName,fmt1,markPyqFlags,topicsForExam,mapTopicToSyllabus,breakdownLabelTopics,parseBreakdownWeights,pyqTopicShares,examTopicWeights,practiceTopicStats,attemptLevelTotals,guessEV,evVerdict,coachStats,coachAdvice,drillTopic,renderCoverage,renderPrint,generatePrintPaper,renderPrintPaperHtml,renderPlanner,renderCoach,renderPYQ,heatCell,buildStudyPlan,daysUntil,rebalancePlan,loadPlans,savePlans,planNotices,currentPlanTarget,generatePlan,deletePlan,showPlan,renderPlanCard,NOTICE_EXAM,PLANS_KEY,TOPIC_SYLLABUS_KEYS,BREAKDOWN_GROUPS,
+bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip}; }

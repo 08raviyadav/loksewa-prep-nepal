@@ -132,6 +132,33 @@ On the site, use the **⚑ Report wrong question** button on any question (quiz,
 
 Or open a bug report with the **question ID** (e.g. `HIST-042`), what is wrong, and the correct answer with a source. Do not just say "this is wrong".
 
+## Exam dates (`data/exam-dates.json`) — the no-guessed-dates rule
+
+Upcoming exam / admit-card / application-deadline dates live in `data/exam-dates.json` and power the home-page reminder banner, the Exam Dates view and the on-device reminder notifications. **Never invent a date.** Every entry must be verified against an official source (psc.gov.np, tsc.gov.np, nrb.org.np, mec.gov.np, police/apf/army sites, provincial PSC sites). If a date cannot be verified on an official page, the entry does not ship.
+
+### Entry format
+
+```json
+{
+  "id": "nasu-second-paper-2083-08",
+  "exam": "nasu",
+  "kind": "exam",
+  "date_bs": "2083-08-02",
+  "title_en": "Nayab Subba Second Paper exam",
+  "title_ne": "नायब सुब्बा दोस्रो पत्र परीक्षा",
+  "source": "https://psc.gov.np/...",
+  "verified": "2026-10-31"
+}
+```
+
+- `id`: unique slug. `exam`: an `exams.json` id so the row links to Practice/Mock (or `null` when no matching exam exists — the entry still shows, without practice links).
+- `kind`: `exam` | `admit` | `deadline`.
+- `date_bs`: `YYYY-MM-DD` zero-padded Bikram Sambat. Compared lexicographically; must be a real BS calendar date.
+- `title_en` / `title_ne`: short bilingual titles. `source`: the official URL where the date was verified. `verified`: the AD date it was checked.
+- `confidence` (optional): `high` = named official notice reproduced by 2+ independent outlets; `medium` = named official notice reproduced by one outlet (re-verify via live browser before the next refresh). Never ship below `medium`.
+- BS maths in the app is anchored at 2026-10-31 AD = 2083-07-14 BS (see `BS_ANCHOR_AD` in `assets/js/app.js`); month lengths for 2083 are verified, 2084 uses the standard pattern — re-verify if dates extend past 2084-03.
+- Stale entries (past dates) are rejected by `scripts/test-examdates.js` — refresh or drop them when re-verifying.
+
 ## Code changes
 
 - Vanilla HTML/CSS/JS only. No build step, no dependencies, no CDN, no tracking, no backend.

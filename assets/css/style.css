@@ -601,3 +601,28 @@ footer{text-align:left}
 .foot-col button:hover{color:var(--accent)}
 .foot-note{max-width:1100px;margin:0 auto;color:var(--muted);font-size:.85rem}
 @media(max-width:640px){.nav-menu{min-width:0;width:calc(100vw - 32px);grid-template-columns:1fr 1fr}.foot-grid{grid-template-columns:1fr 1fr}}
+
+/* ---------- 23. Exam reminders ---------- */
+#exam-reminder-banner{margin:14px auto 4px;max-width:780px;width:100%}
+.rem-banner{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:space-between;
+  border-radius:var(--radius);padding:12px 16px;font-size:.95rem;
+  border:1px solid var(--border);background:#ffffff08}
+.rem-banner>span{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.rem-today{border-color:#ef4444;background:#ef444414}
+.rem-soon{border-color:#f59e0b;background:#f59e0b12}
+.rem-x{background:none;border:none;font-size:1.35rem;line-height:1;cursor:pointer;
+  color:var(--muted);padding:4px 10px;border-radius:8px;min-height:44px}
+.rem-x:hover{color:var(--text);background:#ffffff14}
+.linklike{background:none;border:none;color:var(--accent);cursor:pointer;
+  text-decoration:underline;font-size:inherit;padding:4px 2px}
+.chip-today,.chip-soon{display:inline-block;font-size:.85rem;font-weight:600;
+  padding:6px 14px;border-radius:999px;border:1px solid;white-space:nowrap}
+.chip-today{border-color:#ef4444;background:#ef44441a}
+.chip-soon{border-color:#f59e0b;background:#f59e0b1a}
+.ed-list{display:grid;gap:12px;margin:14px 0}
+.ed-row{display:flex;gap:14px;align-items:flex-start}
+.ed-main{flex:1;min-width:0}
+.ed-actions{margin-top:8px;display:flex;gap:8px;flex-wrap:wrap}
+.ed-past{opacity:.62}
+.rem-on{border-color:var(--accent)!important;color:var(--accent)!important}
+@media(max-width:720px){.ed-row{flex-direction:column;gap:8px}}
