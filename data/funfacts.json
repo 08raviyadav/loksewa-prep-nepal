@@ -1,0 +1,4258 @@
+[
+  {
+    "id": "FF-001",
+    "category": "Nepal",
+    "fact_en": "Nepal's flag is the only national flag in the world that is not rectangular — it is made of two stacked triangles.",
+    "fact_ne": "नेपालको झण्डा विश्वको एक मात्र राष्ट्रिय झण्डा हो जुन आयताकार छैन — यो दुई त्रिभुज मिलेर बनेको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-002",
+    "category": "Nepal",
+    "fact_en": "Mount Everest (Sagarmatha) is 8,848.86 metres high — the highest point on Earth.",
+    "fact_ne": "सगरमाथा (माउन्ट एभरेस्ट) ८,८४८.८६ मिटर अग्लो छ — पृथ्वीको सबैभन्दा अग्लो बिन्दु।",
+    "source": "Joint Nepal–China survey, 2020"
+  },
+  {
+    "id": "FF-003",
+    "category": "Nepal",
+    "fact_en": "Lumbini, in southern Nepal, is the birthplace of Gautam Buddha.",
+    "fact_ne": "दक्षिणी नेपालमा रहेको लुम्बिनी गौतम बुद्धको जन्मस्थल हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-004",
+    "category": "Nepal",
+    "fact_en": "Kathmandu is the capital and largest city of Nepal.",
+    "fact_ne": "काठमाडौं नेपालको राजधानी र सबैभन्दा ठूलो सहर हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-005",
+    "category": "Nepal",
+    "fact_en": "Nepal has 7 provinces, 77 districts and 753 local levels.",
+    "fact_ne": "नेपालमा ७ प्रदेश, ७७ जिल्ला र ७५३ स्थानीय तह छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-006",
+    "category": "Nepal",
+    "fact_en": "Nepal's population was 29,164,578 in the 2021 census.",
+    "fact_ne": "२०२१ को जनगणनाअनुसार नेपालको जनसंख्या २९,१६४,५७८ थियो।",
+    "source": "CBS Nepal Census 2021"
+  },
+  {
+    "id": "FF-007",
+    "category": "Nepal",
+    "fact_en": "The cow is Nepal's national animal.",
+    "fact_ne": "गाई नेपालको राष्ट्रिय जनावर हो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-008",
+    "category": "Nepal",
+    "fact_en": "The Himalayan monal (danfe) is Nepal's national bird.",
+    "fact_ne": "डाँफे (हिमाली मोनाल) नेपालको राष्ट्रिय चरा हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-009",
+    "category": "Nepal",
+    "fact_en": "The rhododendron (laliguras) is Nepal's national flower.",
+    "fact_ne": "लालीगुराँस नेपालको राष्ट्रिय फूल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-010",
+    "category": "Nepal",
+    "fact_en": "Nepal's national anthem, 'Sayaun Thunga Phulka', was written by Pradeep Kumar Rai and composed by Amber Gurung.",
+    "fact_ne": "नेपालको राष्ट्रिय गान 'सयौं थुँगा फूलका' प्रदीपकुमार राईले लेखेका हुन् र अम्बर गुरुङले संगीत दिएका हुन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-011",
+    "category": "Nepal",
+    "fact_en": "Nepal's currency is the Nepali rupee, and its time zone is UTC+5:45 — one of the few 45-minute offsets in the world.",
+    "fact_ne": "नेपालको मुद्रा नेपाली रुपैयाँ हो र समय क्षेत्र UTC+५:४५ छ — विश्वका केही ४५-मिनेट अफसेटमध्ये एक।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-012",
+    "category": "Nepal",
+    "fact_en": "Eight of the world's fourteen peaks above 8,000 metres are in Nepal.",
+    "fact_ne": "विश्वका ८,००० मिटरभन्दा अग्ला १४ हिमालमध्ये ८ वटा नेपालमा छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-013",
+    "category": "Nepal",
+    "fact_en": "Chitwan National Park, established in 1973, was Nepal's first national park and became a UNESCO World Heritage Site in 1984.",
+    "fact_ne": "सन् १९७३ मा स्थापित चितवन राष्ट्रिय निकुञ्ज नेपालको पहिलो राष्ट्रिय निकुञ्ज हो र सन् १९८४ मा युनेस्को विश्व सम्पदा सूचीमा परेको थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-014",
+    "category": "Nepal",
+    "fact_en": "Sagarmatha National Park, home to Mount Everest, became a UNESCO World Heritage Site in 1979.",
+    "fact_ne": "सगरमाथा रहेको सगरमाथा राष्ट्रिय निकुञ्ज सन् १९७९ मा युनेस्को विश्व सम्पदा सूचीमा परेको थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-015",
+    "category": "Nepal",
+    "fact_en": "The Kathmandu Valley has seven UNESCO World Heritage monument zones.",
+    "fact_ne": "काठमाडौं उपत्यकामा युनेस्को विश्व सम्पदाका सात स्मारक क्षेत्र छन्।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-016",
+    "category": "Nepal",
+    "fact_en": "Pokhara, on the shore of Phewa Lake, is Nepal's most popular tourist city after Kathmandu.",
+    "fact_ne": "फेवा तालको किनारमा रहेको पोखरा काठमाडौंपछि नेपालको सबैभन्दा लोकप्रिय पर्यटकीय सहर हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-017",
+    "category": "Nepal",
+    "fact_en": "Nepal was never colonised or ruled by a foreign power.",
+    "fact_ne": "नेपाल कहिल्यै कुनै विदेशी शक्तिको उपनिवेश वा शासनमा परेन।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-018",
+    "category": "Nepal",
+    "fact_en": "Gurkha soldiers from Nepal have served in the British and Indian armies for over 200 years.",
+    "fact_ne": "नेपालका गोर्खा सैनिकहरू २०० वर्षभन्दा बढी समयदेखि बेलायती र भारतीय सेनामा सेवा गर्दै आएका छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-019",
+    "category": "Nepal",
+    "fact_en": "Nepali, written in the Devanagari script, is Nepal's official language.",
+    "fact_ne": "देवनागरी लिपिमा लेखिने नेपाली भाषा नेपालको सरकारी कामकाजको भाषा हो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-020",
+    "category": "Nepal",
+    "fact_en": "Nepal is landlocked between China to the north and India to the south, east and west.",
+    "fact_ne": "नेपाल उत्तरमा चीन र दक्षिण, पूर्व र पश्चिममा भारतबीच रहेको भू-परिवेष्टित देश हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-021",
+    "category": "Nepal",
+    "fact_en": "Nepal covers 147,516 square kilometres — about the size of the US state of Illinois.",
+    "fact_ne": "नेपालको क्षेत्रफल १,४७,५१६ वर्ग किलोमिटर छ — अमेरिकी राज्य इलिनोइस जत्रै।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-022",
+    "category": "Nepal",
+    "fact_en": "Mount Everest rises a few millimetres every year as tectonic plates keep pushing the Himalayas upward.",
+    "fact_ne": "टेक्टोनिक प्लेटहरूले हिमालयलाई माथि धकेलिरहेकाले सगरमाथा हरेक वर्ष केही मिलिमिटर अग्लो हुँदै जान्छ।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-023",
+    "category": "Nepal",
+    "fact_en": "Gautam Buddha was born in Lumbini in the 6th century BCE.",
+    "fact_ne": "गौतम बुद्धको जन्म ईसापूर्व ६औं शताब्दीमा लुम्बिनीमा भएको थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-024",
+    "category": "Nepal",
+    "fact_en": "Janakpur is believed to be the birthplace of Sita from the Ramayana.",
+    "fact_ne": "जनकपुरलाई रामायणकी सीताको जन्मस्थल मानिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-025",
+    "category": "Nepal",
+    "fact_en": "Muktinath, in Mustang, is sacred to both Hindus and Buddhists.",
+    "fact_ne": "मुस्ताङमा रहेको मुक्तिनाथ हिन्दू र बौद्ध दुवैका लागि पवित्र स्थल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-026",
+    "category": "Nepal",
+    "fact_en": "Pashupatinath Temple, on the Bagmati River in Kathmandu, is one of the holiest Hindu temples dedicated to Lord Shiva.",
+    "fact_ne": "काठमाडौंमा बागमती नदीको किनारमा रहेको पशुपतिनाथ मन्दिर भगवान् शिवलाई समर्पित सबैभन्दा पवित्र हिन्दू मन्दिरहरूमध्ये एक हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-027",
+    "category": "Nepal",
+    "fact_en": "Boudhanath, in Kathmandu, is one of the largest stupas in the world.",
+    "fact_ne": "काठमाडौंमा रहेको बौद्धनाथ विश्वका सबैभन्दा ठूला स्तूपहरूमध्ये एक हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-028",
+    "category": "Nepal",
+    "fact_en": "Swayambhunath, the 'Monkey Temple', is one of the oldest religious sites in the Kathmandu Valley.",
+    "fact_ne": "स्वयम्भूनाथ ('बाँदर मन्दिर') काठमाडौं उपत्यकाका सबैभन्दा पुराना धार्मिक स्थलहरूमध्ये एक हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-029",
+    "category": "Nepal",
+    "fact_en": "Volleyball was declared Nepal's national sport in 2017.",
+    "fact_ne": "भलिबललाई सन् २०१७ मा नेपालको राष्ट्रिय खेल घोषणा गरिएको थियो।",
+    "source": "National Sports Council, Nepal"
+  },
+  {
+    "id": "FF-030",
+    "category": "Nepal",
+    "fact_en": "Nepal uses the Bikram Sambat calendar, which is about 56–57 years ahead of the Gregorian calendar.",
+    "fact_ne": "नेपालमा विक्रम संवत् पात्रो चल्छ, जुन ग्रेगोरियन पात्रोभन्दा करिब ५६–५७ वर्ष अगाडि छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-031",
+    "category": "Nepal",
+    "fact_en": "Rara Lake, in Mugu, is the largest lake in Nepal.",
+    "fact_ne": "मुगुमा रहेको रारा ताल नेपालको सबैभन्दा ठूलो ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-032",
+    "category": "Nepal",
+    "fact_en": "Phewa Lake in Pokhara is the second-largest lake in Nepal.",
+    "fact_ne": "पोखराको फेवा ताल नेपालको दोस्रो ठूलो ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-033",
+    "category": "Nepal",
+    "fact_en": "The Karnali is the longest river in Nepal.",
+    "fact_ne": "कर्णाली नेपालको सबैभन्दा लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-034",
+    "category": "Nepal",
+    "fact_en": "Tilicho Lake, at 4,919 metres, is one of the highest lakes in the world.",
+    "fact_ne": "४,९१९ मिटर उचाइमा रहेको तिलिचो ताल विश्वका सबैभन्दा अग्ला तालहरूमध्ये एक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-035",
+    "category": "Nepal",
+    "fact_en": "Shey Phoksundo, at 145 metres deep, is the deepest lake in Nepal.",
+    "fact_ne": "१४५ मिटर गहिरो शे-फोक्सुण्डो ताल नेपालको सबैभन्दा गहिरो ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-036",
+    "category": "Nepal",
+    "fact_en": "Nepal has more than 6,000 rivers and streams flowing from the Himalayas.",
+    "fact_ne": "हिमालयबाट बग्ने ६,००० भन्दा बढी नदी तथा खोलाहरू नेपालमा छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-037",
+    "category": "Nepal",
+    "fact_en": "Annapurna I was the first 8,000-metre peak ever climbed, in 1950 by Maurice Herzog and Louis Lachenal of France.",
+    "fact_ne": "अन्नपूर्ण प्रथम ८,००० मिटर अग्लो हिमाल थियो जसमा सन् १९५० मा फ्रान्सका मोरिस हेर्जोग र लुइस लाशेनालले पहिलो पटक आरोहण गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-038",
+    "category": "Nepal",
+    "fact_en": "Edmund Hillary and Tenzing Norgay first climbed Mount Everest on 29 May 1953.",
+    "fact_ne": "एडमण्ड हिलारी र तेन्जिङ नोर्गेले २९ मे १९५३ मा सगरमाथाको पहिलो आरोहण गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-039",
+    "category": "Nepal",
+    "fact_en": "Kami Rita Sherpa holds the record for the most Everest summits — 32 climbs, most recently in May 2026.",
+    "fact_ne": "कामी रिता शेर्पाले सगरमाथा सबैभन्दा धेरै पटक — ३२ पटक, पछिल्लो पटक मे २०२६ मा — आरोहण गरेको कीर्तिमान राखेका छन्।",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "FF-040",
+    "category": "Nepal",
+    "fact_en": "The Nepali rupee is pegged to the Indian rupee at 1.60 Nepali rupees to 1 Indian rupee.",
+    "fact_ne": "नेपाली रुपैयाँ भारतीय रुपैयाँसँग १.६० को दरमा बाँधिएको छ (१ भारतीय रुपैयाँ = १.६० नेपाली रुपैयाँ)।",
+    "source": "Nepal Rastra Bank"
+  },
+  {
+    "id": "FF-041",
+    "category": "Nepal",
+    "fact_en": "Gautam Buddha International Airport in Bhairahawa opened in 2022 as Nepal's second international airport.",
+    "fact_ne": "भैरहवामा रहेको गौतम बुद्ध अन्तर्राष्ट्रिय विमानस्थल सन् २०२२ मा नेपालको दोस्रो अन्तर्राष्ट्रिय विमानस्थलका रूपमा सञ्चालनमा आयो।",
+    "source": "Civil Aviation Authority of Nepal"
+  },
+  {
+    "id": "FF-042",
+    "category": "Nepal",
+    "fact_en": "Nepal's flag is crimson with a blue border; its two triangles are said to represent the Himalayas and the two main religions, Hinduism and Buddhism.",
+    "fact_ne": "नेपालको झण्डा नीलो किनारासहितको सिन्दूरे रङको छ; यसका दुई त्रिभुजले हिमालय र दुई प्रमुख धर्म हिन्दू र बौद्ध धर्मलाई जनाउने भनिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-043",
+    "category": "Nepal",
+    "fact_en": "Daura Suruwal is the national dress for Nepali men, and Gunyu Cholo for Nepali women.",
+    "fact_ne": "दौरा सुरुवाल नेपाली पुरुषको र गुन्यु चोलो नेपाली महिलाको राष्ट्रिय पोसाक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-044",
+    "category": "Nepal",
+    "fact_en": "The Dhaka topi is a traditional hand-woven cap worn across Nepal.",
+    "fact_ne": "ढाका टोपी नेपालभर लगाइने परम्परागत हातले बुनेको टोपी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-045",
+    "category": "Nepal",
+    "fact_en": "Dashain, Nepal's biggest festival, lasts 15 days and celebrates the victory of good over evil.",
+    "fact_ne": "नेपालको सबैभन्दा ठूलो पर्व दशैं १५ दिनसम्म मनाइन्छ र यसले असत्यमाथि सत्यको विजयको उत्सव मनाउँछ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-046",
+    "category": "Nepal",
+    "fact_en": "Tihar, the five-day festival of lights, honours the crow, the dog, the cow, the ox and brothers and sisters.",
+    "fact_ne": "पाँच दिने उज्यालोको पर्व तिहारमा काग, कुकुर, गाई, गोरु र दाजुभाइ-दिदीबहिनीको सम्मान गरिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-047",
+    "category": "Nepal",
+    "fact_en": "About 76% of Nepal's population aged 5 and above was literate in the 2021 census.",
+    "fact_ne": "२०२१ को जनगणनाअनुसार ५ वर्ष र सोभन्दा माथिका नेपालको करिब ७६% जनसंख्या साक्षर थियो।",
+    "source": "CBS Nepal Census 2021"
+  },
+  {
+    "id": "FF-048",
+    "category": "Nepal",
+    "fact_en": "Life expectancy in Nepal is around 71 years.",
+    "fact_ne": "नेपालमा औसत आयु करिब ७१ वर्ष छ।",
+    "source": "World Bank"
+  },
+  {
+    "id": "FF-049",
+    "category": "Nepal",
+    "fact_en": "Nepal is home to the Bengal tiger and the one-horned rhinoceros.",
+    "fact_ne": "नेपाल बंगाल बाघ र एकसिंगे गैँडाको बासस्थान हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-050",
+    "category": "Nepal",
+    "fact_en": "Nepal's wild tiger population grew from 121 in 2009 to 355 in 2022 — nearly tripling in 13 years.",
+    "fact_ne": "नेपालमा जंगली बाघको संख्या सन् २००९ मा १२१ बाट बढेर सन् २०२२ मा ३५५ पुगेको थियो — १३ वर्षमा झन्डै तीन गुणा।",
+    "source": "Government of Nepal / WWF"
+  },
+  {
+    "id": "FF-051",
+    "category": "Nepal",
+    "fact_en": "Nepal counted 752 one-horned rhinos in its 2021 rhino census.",
+    "fact_ne": "नेपालले सन् २०२१ को गैँडा गणनामा ७५२ वटा एकसिंगे गैँडा गनेको थियो।",
+    "source": "Department of National Parks and Wildlife Conservation"
+  },
+  {
+    "id": "FF-052",
+    "category": "Nepal",
+    "fact_en": "The red panda, an endangered animal, lives in the forests of Nepal's eastern Himalayas.",
+    "fact_ne": "लोपोन्मुख जनावर रेड पान्डा नेपालको पूर्वी हिमाली जंगलमा पाइन्छ।",
+    "source": "WWF"
+  },
+  {
+    "id": "FF-053",
+    "category": "Nepal",
+    "fact_en": "Yarsagumba, a fungus that grows out of a caterpillar, is collected in Nepal's high mountains and is known as 'Himalayan gold'.",
+    "fact_ne": "यार्सागुम्बा किराबाट उम्रने ढुसी हो, जुन नेपालको उच्च हिमाली क्षेत्रमा संकलन गरिन्छ र 'हिमाली सुन' भनेर चिनिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-054",
+    "category": "Nepal",
+    "fact_en": "Nepal's 2015 earthquake, of magnitude 7.8 on 25 April 2015, killed nearly 9,000 people.",
+    "fact_ne": "२५ अप्रिल २०१५ को ७.८ म्याग्निच्युडको भूकम्पमा नेपालमा झन्डै ९,००० जनाको मृत्यु भएको थियो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-055",
+    "category": "Nepal",
+    "fact_en": "Nepal's first census was held in 1911.",
+    "fact_ne": "नेपालको पहिलो जनगणना सन् १९११ मा भएको थियो।",
+    "source": "Central Bureau of Statistics, Nepal"
+  },
+  {
+    "id": "FF-056",
+    "category": "Nepal",
+    "fact_en": "Nepal's national motto is 'Janani Janmabhumishcha Swargadapi Gariyasi' — mother and motherland are greater than heaven.",
+    "fact_ne": "नेपालको राष्ट्रिय आदर्श वाक्य 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' हो — आमा र जन्मभूमि स्वर्गभन्दा ठूला छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-057",
+    "category": "Nepal",
+    "fact_en": "Prithvi Narayan Shah began unifying Nepal in the mid-1700s and took the Kathmandu Valley in 1768.",
+    "fact_ne": "पृथ्वीनारायण शाहले १७०० को दशकको मध्यतिर नेपाल एकीकरण सुरु गरे र सन् १७६८ मा काठमाडौं उपत्यका कब्जा गरे।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-058",
+    "category": "Nepal",
+    "fact_en": "The Rana regime ruled Nepal from 1846 to 1951 — for 104 years.",
+    "fact_ne": "राणा शासनले सन् १८४६ देखि १९५१ सम्म — १०४ वर्ष — नेपालमा शासन गर्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-059",
+    "category": "Nepal",
+    "fact_en": "Nepal became a federal democratic republic on 28 May 2008, when the monarchy was abolished.",
+    "fact_ne": "राजतन्त्र अन्त्य भएपछि २८ मे २००८ मा नेपाल संघीय लोकतान्त्रिक गणतन्त्र बन्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-060",
+    "category": "Nepal",
+    "fact_en": "Nepal joined the United Nations on 14 December 1955.",
+    "fact_ne": "नेपाल १४ डिसेम्बर १९५५ मा संयुक्त राष्ट्र संघको सदस्य बन्यो।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-061",
+    "category": "Nepal",
+    "fact_en": "Nepal is a founding member of SAARC, and the SAARC Secretariat is in Kathmandu.",
+    "fact_ne": "नेपाल सार्कको संस्थापक सदस्य हो र सार्क सचिवालय काठमाडौंमा छ।",
+    "source": "SAARC"
+  },
+  {
+    "id": "FF-062",
+    "category": "Nepal",
+    "fact_en": "The Kumari, a young girl worshipped as a living goddess, is a tradition found only in Nepal.",
+    "fact_ne": "जीवित देवीका रूपमा पूजा गरिने कुमारी परम्परा नेपालमा मात्र पाइन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-063",
+    "category": "Nepal",
+    "fact_en": "Geologists believe the Kathmandu Valley was once a lake, drained long ago through the Chobhar gorge.",
+    "fact_ne": "भूगर्भशास्त्रीहरूका अनुसार काठमाडौं उपत्यका कुनै समय ताल थियो, जुन धेरै पहिले चोभारको गल्छीबाट बगेर गयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-064",
+    "category": "Nepal",
+    "fact_en": "Nepal's elevation ranges from 59 metres at Kechana in Jhapa to 8,848.86 metres at Everest — one of the greatest elevation ranges in any country.",
+    "fact_ne": "नेपालको उचाइ झापाको केचनामा ५९ मिटरदेखि सगरमाथामा ८,८४८.८६ मिटरसम्म छ — कुनै पनि देशमा सबैभन्दा ठूलो उचाइ अन्तरमध्ये एक।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-065",
+    "category": "Nepal",
+    "fact_en": "The 2011 census recorded 125 caste and ethnic groups and 123 languages spoken in Nepal.",
+    "fact_ne": "२०११ को जनगणनाले नेपालमा १२५ जातजाति र १२३ भाषाहरू दर्ता गरेको थियो।",
+    "source": "CBS Nepal Census 2011"
+  },
+  {
+    "id": "FF-066",
+    "category": "Nepal",
+    "fact_en": "About 45% of Nepal's people speak Nepali as their mother tongue.",
+    "fact_ne": "नेपालका करिब ४५% मानिसले नेपालीलाई मातृभाषाका रूपमा बोल्छन्।",
+    "source": "CBS Nepal Census 2011"
+  },
+  {
+    "id": "FF-067",
+    "category": "Nepal",
+    "fact_en": "Chhetri are the largest single caste/ethnic group in Nepal, at about 16–17% of the population.",
+    "fact_ne": "क्षेत्री नेपालको सबैभन्दा ठूलो एकल जातीय समूह हो, जुन जनसंख्याको करिब १६–१७% छ।",
+    "source": "CBS Nepal Census 2011"
+  },
+  {
+    "id": "FF-068",
+    "category": "Nepal",
+    "fact_en": "Nepal's first woman to climb Everest, Pasang Lhamu Sherpa, reached the summit in 1993.",
+    "fact_ne": "सगरमाथा चढ्ने पहिलो नेपाली महिला पासाङ ल्हामु शेर्पा सन् १९९३ मा शिखरमा पुगेकी थिइन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-069",
+    "category": "Nepal",
+    "fact_en": "Nepal first took part in the Olympic Games at Tokyo 1964.",
+    "fact_ne": "नेपालले पहिलो पटक सन् १९६४ को टोकियो ओलम्पिकमा भाग लिएको थियो।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-070",
+    "category": "Nepal",
+    "fact_en": "Nepal has never won a medal at the Olympic Games. Its first Olympic-level medal came at the Paralympics — Palesha Goverdhan's taekwondo bronze at Paris 2024.",
+    "fact_ne": "नेपालले ओलम्पिक खेलकुदमा अहिलेसम्म पदक जितेको छैन। ओलम्पिक स्तरको पहिलो पदक प्यारालिम्पिकमा आयो — पेरिस २०२४ मा पलेशा गोवर्धनले तेक्वान्दोमा कांस्य पदक जितिन्।",
+    "source": "Olympics.com; Kathmandu Post, 31 Aug 2024"
+  },
+  {
+    "id": "FF-071",
+    "category": "Constitution",
+    "fact_en": "The Constitution of Nepal 2072 was promulgated on 20 September 2015 (3 Ashoj 2072).",
+    "fact_ne": "नेपालको संविधान २०७२ २० सेप्टेम्बर २०१५ (३ असोज २०७२) मा जारी भएको थियो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-072",
+    "category": "Constitution",
+    "fact_en": "Nepal's Constitution has 308 articles, 35 parts and 9 schedules.",
+    "fact_ne": "नेपालको संविधानमा ३०८ धारा, ३५ भाग र ९ अनुसूची छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-073",
+    "category": "Constitution",
+    "fact_en": "The Constitution guarantees 31 fundamental rights, in Articles 16 to 46.",
+    "fact_ne": "संविधानले धारा १६ देखि ४६ सम्म ३१ वटा मौलिक हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-074",
+    "category": "Constitution",
+    "fact_en": "Article 4 declares Nepal a federal democratic republic.",
+    "fact_ne": "धारा ४ ले नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-075",
+    "category": "Constitution",
+    "fact_en": "Nepal has three tiers of government: federal, provincial and local.",
+    "fact_ne": "नेपालमा संघीय, प्रदेश र स्थानीय गरी तीन तहको सरकार छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-076",
+    "category": "Constitution",
+    "fact_en": "The President is the head of state of Nepal, while the Prime Minister is the head of government.",
+    "fact_ne": "राष्ट्रपति नेपालको राष्ट्र प्रमुख हुन् भने प्रधानमन्त्री सरकार प्रमुख हुन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-077",
+    "category": "Constitution",
+    "fact_en": "Nepal's federal parliament has two houses: the House of Representatives (275 members) and the National Assembly (59 members).",
+    "fact_ne": "नेपालको संघीय संसदमा दुई सदन छन्: प्रतिनिधि सभा (२७५ सदस्य) र राष्ट्रिय सभा (५९ सदस्य)।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-078",
+    "category": "Constitution",
+    "fact_en": "The House of Representatives has 165 members elected directly and 110 elected by proportional representation.",
+    "fact_ne": "प्रतिनिधि सभामा १६५ सदस्य प्रत्यक्ष र ११० सदस्य समानुपातिक प्रणालीबाट निर्वाचित हुन्छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-079",
+    "category": "Constitution",
+    "fact_en": "The National Assembly has 59 members: 56 elected (8 from each province) and 3 nominated by the President.",
+    "fact_ne": "राष्ट्रिय सभामा ५९ सदस्य छन्: ५६ निर्वाचित (प्रत्येक प्रदेशबाट ८) र ३ राष्ट्रपतिबाट मनोनीत।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-080",
+    "category": "Constitution",
+    "fact_en": "Article 17 guarantees the right to freedom, and Article 18 guarantees the right to equality.",
+    "fact_ne": "धारा १७ ले स्वतन्त्रताको हक र धारा १८ ले समानताको हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-081",
+    "category": "Constitution",
+    "fact_en": "Article 31 guarantees the right to education, including free basic education.",
+    "fact_ne": "धारा ३१ ले शिक्षाको हकको ग्यारेन्टी गर्छ, जसमा निःशुल्क आधारभूत शिक्षा पनि पर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-082",
+    "category": "Constitution",
+    "fact_en": "Article 35 guarantees the right to health, and Article 36 guarantees the right to food.",
+    "fact_ne": "धारा ३५ ले स्वास्थ्यको हक र धारा ३६ ले खाद्यको हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-083",
+    "category": "Constitution",
+    "fact_en": "Article 33 guarantees the right to employment, and Article 37 guarantees the right to housing.",
+    "fact_ne": "धारा ३३ ले रोजगारीको हक र धारा ३७ ले आवासको हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-084",
+    "category": "Constitution",
+    "fact_en": "Article 30 guarantees every citizen the right to live in a clean and healthy environment.",
+    "fact_ne": "धारा ३० ले प्रत्येक नागरिकलाई स्वच्छ र स्वस्थ वातावरणमा बाँच्न पाउने हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-085",
+    "category": "Constitution",
+    "fact_en": "Article 39 guarantees special rights for children, and Article 38 guarantees rights for women.",
+    "fact_ne": "धारा ३९ ले बालबालिकाका विशेष हक र धारा ३८ ले महिलाका हकको ग्यारेन्टी गर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-086",
+    "category": "Constitution",
+    "fact_en": "The Constitution requires women to make up at least one-third of the members of the federal parliament.",
+    "fact_ne": "संविधानले संघीय संसदका सदस्यहरूमा महिलाको संख्या कम्तीमा एक तिहाइ हुनुपर्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-087",
+    "category": "Constitution",
+    "fact_en": "Article 4 declares Nepal a secular state — the state is neutral towards all religions.",
+    "fact_ne": "धारा ४ ले नेपाललाई धर्मनिरपेक्ष राज्य घोषणा गर्छ — राज्य सबै धर्मप्रति तटस्थ छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-088",
+    "category": "Constitution",
+    "fact_en": "Nepali is the official language, and every mother tongue spoken in Nepal is a national language.",
+    "fact_ne": "नेपाली भाषा सरकारी कामकाजको भाषा हो र नेपालमा बोलिने प्रत्येक मातृभाषा राष्ट्रिय भाषा हो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-089",
+    "category": "Constitution",
+    "fact_en": "The design of Nepal's national flag is set out in Schedule 1 of the Constitution.",
+    "fact_ne": "नेपालको राष्ट्रिय झण्डाको डिजाइन संविधानको अनुसूची १ मा तोकिएको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-090",
+    "category": "Constitution",
+    "fact_en": "The Supreme Court is Nepal's highest court, and its Constitutional Bench has five justices.",
+    "fact_ne": "सर्वोच्च अदालत नेपालको सबैभन्दा माथिल्लो अदालत हो र यसको संवैधानिक इजलासमा पाँच न्यायाधीश हुन्छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-091",
+    "category": "Constitution",
+    "fact_en": "Nepal has 13 constitutional bodies, including the Commission for the Investigation of Abuse of Authority (CIAA), the Election Commission and the Public Service Commission.",
+    "fact_ne": "नेपालमा अख्तियार दुरुपयोग अनुसन्धान आयोग, निर्वाचन आयोग र लोक सेवा आयोगलगायत १३ संवैधानिक निकाय छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-092",
+    "category": "Constitution",
+    "fact_en": "The President is elected by an electoral college of the federal parliament and the provincial assemblies.",
+    "fact_ne": "राष्ट्रपति संघीय संसद र प्रदेश सभाका सदस्यहरूको निर्वाचक मण्डलबाट निर्वाचित हुन्छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-093",
+    "category": "Constitution",
+    "fact_en": "The President's term is five years, and no person can be President for more than two terms.",
+    "fact_ne": "राष्ट्रपतिको कार्यकाल पाँच वर्षको हुन्छ र कुनै पनि व्यक्ति दुई कार्यकालभन्दा बढी राष्ट्रपति हुन सक्दैन।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-094",
+    "category": "Constitution",
+    "fact_en": "A newly appointed Prime Minister must win a vote of confidence in the House of Representatives within 30 days.",
+    "fact_ne": "नवनियुक्त प्रधानमन्त्रीले ३० दिनभित्र प्रतिनिधि सभाबाट विश्वासको मत लिनुपर्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-095",
+    "category": "Constitution",
+    "fact_en": "Anyone whose fundamental right is violated can petition the Supreme Court for a writ.",
+    "fact_ne": "कसैको मौलिक हक हनन भएमा सर्वोच्च अदालतमा रिट निवेदन दिन सकिन्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-096",
+    "category": "Constitution",
+    "fact_en": "Part 4 of the Constitution (Articles 50–55) sets out the directive principles and policies of the state.",
+    "fact_ne": "संविधानको भाग ४ (धारा ५०–५५) मा राज्यका निर्देशक सिद्धान्त र नीतिहरू उल्लेख छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-097",
+    "category": "Constitution",
+    "fact_en": "Nepal's courts run in three tiers: the Supreme Court, 7 High Courts and 77 District Courts.",
+    "fact_ne": "नेपालका अदालत तीन तहमा चल्छन्: सर्वोच्च अदालत, ७ उच्च अदालत र ७७ जिल्ला अदालत।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-098",
+    "category": "Constitution",
+    "fact_en": "The Constitution was first amended in 2016, and the second amendment in June 2020 updated Nepal's official map to include Kalapani, Lipulekh and Limpiyadhura.",
+    "fact_ne": "संविधान पहिलो पटक सन् २०१६ मा संशोधन भयो र दोस्रो संशोधन (जुन २०२०) ले कालापानी, लिपुलेक र लिम्पियाधुरासहित नेपालको आधिकारिक नक्सा अद्यावधिक गर्यो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-099",
+    "category": "Constitution",
+    "fact_en": "Article 27 guarantees the right to information — every citizen can demand information of public importance.",
+    "fact_ne": "धारा २७ ले सूचनाको हकको ग्यारेन्टी गर्छ — प्रत्येक नागरिकले सार्वजनिक महत्त्वको सूचना माग्न सक्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-100",
+    "category": "Constitution",
+    "fact_en": "Article 56 divides Nepal into 7 provinces, and Article 57 divides state power among the three tiers of government.",
+    "fact_ne": "धारा ५६ ले नेपाललाई ७ प्रदेशमा विभाजन गर्छ र धारा ५७ ले राज्यशक्ति तीन तहको सरकारबीच बाँड्छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-101",
+    "category": "World",
+    "fact_en": "Russia is the largest country in the world, covering about 17.1 million square kilometres.",
+    "fact_ne": "रुस विश्वको सबैभन्दा ठूलो देश हो, जसको क्षेत्रफल करिब १ करोड ७१ लाख वर्ग किलोमिटर छ।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-102",
+    "category": "World",
+    "fact_en": "Vatican City is the smallest country in the world, at about 0.44 square kilometres.",
+    "fact_ne": "भ्याटिकन सिटी विश्वको सबैभन्दा सानो देश हो, जसको क्षेत्रफल करिब ०.४४ वर्ग किलोमिटर छ।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-103",
+    "category": "World",
+    "fact_en": "India became the world's most populous country in 2023, passing China.",
+    "fact_ne": "भारत सन् २०२३ मा चीनलाई उछिनेर विश्वको सबैभन्दा धेरै जनसंख्या भएको देश बन्यो।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-104",
+    "category": "World",
+    "fact_en": "The Pacific Ocean is the largest ocean, covering more area than all of Earth's land combined.",
+    "fact_ne": "प्रशान्त महासागर सबैभन्दा ठूलो महासागर हो, जसले पृथ्वीको सबै जमिनको क्षेत्रफलभन्दा बढी ठाउँ ओगटेको छ।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-105",
+    "category": "World",
+    "fact_en": "The Sahara is the largest hot desert in the world, covering about 9.2 million square kilometres.",
+    "fact_ne": "सहारा विश्वको सबैभन्दा ठूलो तातो मरुभूमि हो, जसको क्षेत्रफल करिब ९२ लाख वर्ग किलोमिटर छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-106",
+    "category": "World",
+    "fact_en": "Antarctica is the largest desert in the world overall — a cold desert of ice.",
+    "fact_ne": "एन्टार्कटिका समग्रमा विश्वको सबैभन्दा ठूलो मरुभूमि हो — बरफको चिसो मरुभूमि।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-107",
+    "category": "World",
+    "fact_en": "The Nile, at about 6,650 kilometres, is commonly cited as the longest river in the world.",
+    "fact_ne": "करिब ६,६५० किलोमिटर लामो नाइल नदीलाई सामान्यतया विश्वको सबैभन्दा लामो नदी भनिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-108",
+    "category": "World",
+    "fact_en": "The Amazon carries more water than any other river in the world.",
+    "fact_ne": "अमेजन नदीले विश्वको कुनै पनि नदीभन्दा बढी पानी बगाउँछ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-109",
+    "category": "World",
+    "fact_en": "K2, at 8,611 metres, is the second-highest mountain in the world, after Everest.",
+    "fact_ne": "८,६११ मिटर अग्लो के२ सगरमाथापछि विश्वको दोस्रो अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-110",
+    "category": "World",
+    "fact_en": "The Mariana Trench in the Pacific Ocean is the deepest place on Earth, at about 11,000 metres.",
+    "fact_ne": "प्रशान्त महासागरमा रहेको मारियाना खाडल पृथ्वीको सबैभन्दा गहिरो ठाउँ हो, करिब ११,००० मिटर गहिरो।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-111",
+    "category": "World",
+    "fact_en": "The Dead Sea is the lowest land point on Earth, about 430 metres below sea level.",
+    "fact_ne": "मृत सागर पृथ्वीको सबैभन्दा होचो जमिन हो, समुद्र सतहभन्दा करिब ४३० मिटर तल।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-112",
+    "category": "World",
+    "fact_en": "The Great Wall of China is about 21,196 kilometres long — the longest wall in the world.",
+    "fact_ne": "चीनको ठूलो पर्खाल करिब २१,१९६ किलोमिटर लामो छ — विश्वको सबैभन्दा लामो पर्खाल।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-113",
+    "category": "World",
+    "fact_en": "The Eiffel Tower in Paris was completed in 1889 and is 330 metres tall including its antennas.",
+    "fact_ne": "पेरिसमा रहेको आइफेल टावर सन् १८८९ मा सम्पन्न भयो र एन्टेनासहित ३३० मिटर अग्लो छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-114",
+    "category": "World",
+    "fact_en": "The Statue of Liberty was a gift from France to the United States, unveiled in 1886.",
+    "fact_ne": "स्ट्याचु अफ लिबर्टी फ्रान्सले संयुक्त राज्य अमेरिकालाई दिएको उपहार थियो, जुन सन् १८८६ मा अनावरण गरियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-115",
+    "category": "World",
+    "fact_en": "The Taj Mahal in India was built between 1632 and 1653 by Emperor Shah Jahan for his wife Mumtaz Mahal.",
+    "fact_ne": "भारतको ताजमहल सन् १६३२ देखि १६५३ बीच सम्राट शाहजहाँले आफ्नी पत्नी मुमताज महलको सम्झनामा बनाएका थिए।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-116",
+    "category": "World",
+    "fact_en": "The Great Pyramid of Giza is the only one of the Seven Wonders of the Ancient World still standing.",
+    "fact_ne": "गिजाको ठूलो पिरामिड प्राचीन विश्वका सात आश्चर्यहरूमध्ये अझै उभिएको एक मात्र हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-117",
+    "category": "World",
+    "fact_en": "The Colosseum in Rome was completed in 80 CE and could hold about 50,000 spectators.",
+    "fact_ne": "रोमको कोलोसियम इस्वी संवत् ८० मा सम्पन्न भएको थियो र यसमा करिब ५०,००० दर्शक अटाउँथे।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-118",
+    "category": "World",
+    "fact_en": "Machu Picchu in Peru was built in the 15th century by the Inca emperor Pachacuti.",
+    "fact_ne": "पेरुको माचु पिचु १५औं शताब्दीमा इन्का सम्राट पाचाकुटीले बनाएका थिए।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-119",
+    "category": "World",
+    "fact_en": "Angkor Wat in Cambodia is the largest religious monument in the world.",
+    "fact_ne": "कम्बोडियाको अंकोर वाट विश्वको सबैभन्दा ठूलो धार्मिक स्मारक हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-120",
+    "category": "World",
+    "fact_en": "About 60% of the Amazon rainforest is in Brazil.",
+    "fact_ne": "अमेजन वर्षावनको करिब ६०% ब्राजिलमा छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-121",
+    "category": "World",
+    "fact_en": "Australia is the world's smallest continent.",
+    "fact_ne": "अस्ट्रेलिया विश्वको सबैभन्दा सानो महादेश हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-122",
+    "category": "World",
+    "fact_en": "Greenland is the world's largest island.",
+    "fact_ne": "ग्रिनल्याण्ड विश्वको सबैभन्दा ठूलो टापु हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-123",
+    "category": "World",
+    "fact_en": "English is the most widely spoken language in the world, with about 1.5 billion speakers.",
+    "fact_ne": "अङ्ग्रेजी विश्वमा सबैभन्दा धेरै बोलिने भाषा हो, करिब १.५ अर्ब वक्ताहरूसहित।",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "FF-124",
+    "category": "World",
+    "fact_en": "Mandarin Chinese has the most native speakers of any language, at about 900 million.",
+    "fact_ne": "मन्डारिन चिनियाँ भाषाका सबैभन्दा धेरै मातृभाषी छन्, करिब ९० करोड।",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "FF-125",
+    "category": "World",
+    "fact_en": "The United Nations has 193 member states.",
+    "fact_ne": "संयुक्त राष्ट्र संघमा १९३ सदस्य राष्ट्र छन्।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-126",
+    "category": "World",
+    "fact_en": "Antarctica has no permanent residents — only researchers who stay temporarily.",
+    "fact_ne": "एन्टार्कटिकामा कुनै स्थायी बासिन्दा छैनन् — अस्थायी रूपमा बस्ने अनुसन्धानकर्ताहरू मात्र छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-127",
+    "category": "World",
+    "fact_en": "The Great Barrier Reef in Australia is the world's largest living structure, visible from space.",
+    "fact_ne": "अस्ट्रेलियाको ग्रेट ब्यारियर रिफ विश्वको सबैभन्दा ठूलो जीवित संरचना हो, जुन अन्तरिक्षबाट पनि देखिन्छ।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-128",
+    "category": "World",
+    "fact_en": "Lake Baikal in Siberia is the deepest lake in the world, at 1,642 metres.",
+    "fact_ne": "साइबेरियाको बैकाल ताल विश्वको सबैभन्दा गहिरो ताल हो, १,६४२ मिटर गहिरो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-129",
+    "category": "World",
+    "fact_en": "The Caspian Sea is the world's largest lake by surface area.",
+    "fact_ne": "क्यास्पियन सागर सतह क्षेत्रफलका हिसाबले विश्वको सबैभन्दा ठूलो ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-130",
+    "category": "World",
+    "fact_en": "The Atacama Desert in Chile is the driest place on Earth — some parts have never recorded rain.",
+    "fact_ne": "चिलीको अटाकामा मरुभूमि पृथ्वीको सबैभन्दा सुक्खा ठाउँ हो — केही भागमा कहिल्यै वर्षा मापन गरिएको छैन।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-131",
+    "category": "World",
+    "fact_en": "The hottest air temperature ever recorded was 56.7°C in Death Valley, California, in 1913.",
+    "fact_ne": "अहिलेसम्म मापन गरिएको सबैभन्दा उच्च तापक्रम सन् १९१३ मा क्यालिफोर्नियाको डेथ भ्यालीमा ५६.७° सेल्सियस थियो।",
+    "source": "World Meteorological Organization"
+  },
+  {
+    "id": "FF-132",
+    "category": "World",
+    "fact_en": "The coldest temperature ever recorded was −89.2°C at Vostok Station in Antarctica in 1983.",
+    "fact_ne": "अहिलेसम्म मापन गरिएको सबैभन्दा चिसो तापक्रम सन् १९८३ मा एन्टार्कटिकाको भोस्तोक स्टेसनमा −८९.२° सेल्सियस थियो।",
+    "source": "World Meteorological Organization"
+  },
+  {
+    "id": "FF-133",
+    "category": "World",
+    "fact_en": "Canada has the longest coastline of any country in the world.",
+    "fact_ne": "क्यानडाको समुद्री तट विश्वको कुनै पनि देशभन्दा लामो छ।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-134",
+    "category": "World",
+    "fact_en": "The Nile flows through 11 countries on its way to the Mediterranean Sea.",
+    "fact_ne": "नाइल नदी भूमध्यसागर पुग्नुअघि ११ देश हुँदै बग्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-135",
+    "category": "World",
+    "fact_en": "The Danube flows through 10 countries — more than any other river in the world.",
+    "fact_ne": "ड्यानुब नदी १० देश हुँदै बग्छ — विश्वको कुनै पनि नदीभन्दा बढी।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-136",
+    "category": "World",
+    "fact_en": "The United States–Canada border, at 8,891 kilometres, is the longest international border in the world.",
+    "fact_ne": "८,८९१ किलोमिटर लामो अमेरिका–क्यानडा सीमा विश्वको सबैभन्दा लामो अन्तर्राष्ट्रिय सीमा हो।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-137",
+    "category": "World",
+    "fact_en": "The equator passes through 13 countries.",
+    "fact_ne": "भूमध्यरेखा १३ देश हुँदै जान्छ।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-138",
+    "category": "World",
+    "fact_en": "The Maldives is the lowest-lying country in the world, with an average height of just 1.5 metres above sea level.",
+    "fact_ne": "माल्दिभ्स विश्वको सबैभन्दा होचो देश हो, समुद्र सतहभन्दा औसतमा मात्र १.५ मिटर अग्लो।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-139",
+    "category": "World",
+    "fact_en": "Monaco is the most densely populated country in the world.",
+    "fact_ne": "मोनाको विश्वको सबैभन्दा घना जनसंख्या भएको देश हो।",
+    "source": "World Bank"
+  },
+  {
+    "id": "FF-140",
+    "category": "World",
+    "fact_en": "Mongolia is the least densely populated independent country in the world.",
+    "fact_ne": "मंगोलिया विश्वको सबैभन्दा कम जनघनत्व भएको स्वतन्त्र देश हो।",
+    "source": "World Bank"
+  },
+  {
+    "id": "FF-141",
+    "category": "World",
+    "fact_en": "France has the most time zones of any country — 12, counting its overseas territories.",
+    "fact_ne": "फ्रान्सको सबैभन्दा धेरै समय क्षेत्र छ — समुद्रपार क्षेत्रसहित १२।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-142",
+    "category": "Geography",
+    "fact_en": "Kangchenjunga, on the Nepal–India border, is the third-highest mountain in the world at 8,586 metres.",
+    "fact_ne": "नेपाल–भारत सीमामा रहेको कञ्चनजंघा ८,५८६ मिटर अग्लो विश्वको तेस्रो अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-143",
+    "category": "Geography",
+    "fact_en": "Mount Kilimanjaro in Tanzania is the highest mountain in Africa, at 5,895 metres.",
+    "fact_ne": "तान्जानियाको किलिमन्जारो ५,८९५ मिटर अग्लो अफ्रिकाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-144",
+    "category": "Geography",
+    "fact_en": "Aconcagua in Argentina, at 6,961 metres, is the highest mountain in the Americas.",
+    "fact_ne": "अर्जेन्टिनाको अकोन्कागुआ ६,९६१ मिटर अग्लो अमेरिकाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-145",
+    "category": "Geography",
+    "fact_en": "Mount Elbrus in Russia, at 5,642 metres, is the highest mountain in Europe.",
+    "fact_ne": "रुसको माउन्ट एल्ब्रस ५,६४२ मिटर अग्लो युरोपको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-146",
+    "category": "Geography",
+    "fact_en": "Denali in Alaska, at 6,190 metres, is the highest mountain in North America.",
+    "fact_ne": "अलास्काको डेनाली ६,१९० मिटर अग्लो उत्तर अमेरिकाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-147",
+    "category": "Geography",
+    "fact_en": "The Yangtze, at about 6,300 kilometres, is the longest river in Asia.",
+    "fact_ne": "करिब ६,३०० किलोमिटर लामो याङ्त्से एसियाको सबैभन्दा लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-148",
+    "category": "Geography",
+    "fact_en": "The Volga, at about 3,530 kilometres, is the longest river in Europe.",
+    "fact_ne": "करिब ३,५३० किलोमिटर लामो भोल्गा युरोपको सबैभन्दा लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-149",
+    "category": "Geography",
+    "fact_en": "Victoria Falls, on the Zambia–Zimbabwe border, is the largest waterfall in the world by combined width and height.",
+    "fact_ne": "जाम्बिया–जिम्बाब्वे सीमामा रहेको भिक्टोरिया झरना चौडाइ र उचाइको संयोजनमा विश्वको सबैभन्दा ठूलो झरना हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-150",
+    "category": "Geography",
+    "fact_en": "Angel Falls in Venezuela, at 979 metres, is the tallest waterfall in the world.",
+    "fact_ne": "भेनेजुएलाको एन्जल झरना ९७९ मिटर अग्लो विश्वको सबैभन्दा अग्लो झरना हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-151",
+    "category": "Geography",
+    "fact_en": "Russia spans 11 time zones — more than any other country.",
+    "fact_ne": "रुस ११ समय क्षेत्रमा फैलिएको छ — कुनै पनि देशभन्दा बढी।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-152",
+    "category": "Geography",
+    "fact_en": "China spans five geographic time zones but uses a single time zone for the whole country.",
+    "fact_ne": "चीन पाँच भौगोलिक समय क्षेत्रमा फैलिएको छ तर पूरै देशमा एउटै समय क्षेत्र प्रयोग गर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-153",
+    "category": "Geography",
+    "fact_en": "Mauna Kea in Hawaii is the tallest mountain on Earth from base to peak — about 10,200 metres, most of it underwater.",
+    "fact_ne": "हवाईको माउना केआ आधारदेखि शिखरसम्म पृथ्वीको सबैभन्दा अग्लो हिमाल हो — करिब १०,२०० मिटर, जसको धेरै भाग पानीमुनि छ।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-154",
+    "category": "Geography",
+    "fact_en": "The Dead Sea is about ten times saltier than the ocean.",
+    "fact_ne": "मृत सागर समुद्रभन्दा करिब दश गुणा नुनिलो छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-155",
+    "category": "Geography",
+    "fact_en": "The Amazon basin covers about 7 million square kilometres across nine countries.",
+    "fact_ne": "अमेजन बेसिन नौ देशमा फैलिएको करिब ७० लाख वर्ग किलोमिटर क्षेत्र ओगटेको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-156",
+    "category": "Geography",
+    "fact_en": "The Panama Canal opened in 1914, and the Suez Canal opened in 1869.",
+    "fact_ne": "पनामा नहर सन् १९१४ मा र स्वेज नहर सन् १८६९ मा खोलिएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-157",
+    "category": "Geography",
+    "fact_en": "The Strait of Gibraltar, separating Europe and Africa, is only about 13 kilometres wide at its narrowest point.",
+    "fact_ne": "युरोप र अफ्रिकालाई छुट्याउने जिब्राल्टर जलडमरूमध्य साँघुरो ठाउँमा मात्र करिब १३ किलोमिटर चौडा छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-158",
+    "category": "Geography",
+    "fact_en": "Mount Kilimanjaro is a dormant volcano — it last erupted about 360,000 years ago.",
+    "fact_ne": "किलिमन्जारो एउटा सुप्त ज्वालामुखी हो — यो अन्तिम पटक करिब ३,६०,००० वर्षअघि विस्फोट भएको थियो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-159",
+    "category": "Geography",
+    "fact_en": "The Grand Canyon in Arizona is about 446 kilometres long and up to 1.8 kilometres deep.",
+    "fact_ne": "एरिजोनाको ग्रान्ड क्यान्यन करिब ४४६ किलोमिटर लामो र १.८ किलोमिटरसम्म गहिरो छ।",
+    "source": "US National Park Service"
+  },
+  {
+    "id": "FF-160",
+    "category": "Geography",
+    "fact_en": "Lake Titicaca, on the Peru–Bolivia border at 3,812 metres, is the highest navigable lake in the world.",
+    "fact_ne": "पेरु–बोलिभिया सीमामा ३,८१२ मिटर उचाइमा रहेको टिटिकाका ताल विश्वको सबैभन्दा अग्लो नौवहनयोग्य ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-161",
+    "category": "Geography",
+    "fact_en": "The Danube is the second-longest river in Europe, after the Volga.",
+    "fact_ne": "ड्यानुब भोल्गापछि युरोपको दोस्रो लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-162",
+    "category": "Geography",
+    "fact_en": "About 75% of the world's volcanoes are on the Pacific 'Ring of Fire'.",
+    "fact_ne": "विश्वका करिब ७५% ज्वालामुखी प्रशान्त 'रिङ अफ फायर' मा छन्।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-163",
+    "category": "Geography",
+    "fact_en": "Mauna Loa in Hawaii is the largest shield volcano on Earth by volume.",
+    "fact_ne": "हवाईको माउना लोआ आयतनका हिसाबले पृथ्वीको सबैभन्दा ठूलो ढाल ज्वालामुखी हो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-164",
+    "category": "Geography",
+    "fact_en": "The Gobi Desert spans northern China and southern Mongolia.",
+    "fact_ne": "गोबी मरुभूमि उत्तरी चीन र दक्षिणी मंगोलियामा फैलिएको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-165",
+    "category": "Geography",
+    "fact_en": "There are about 1,500 potentially active volcanoes on land around the world.",
+    "fact_ne": "विश्वभर जमिनमा करिब १,५०० सम्भावित सक्रिय ज्वालामुखी छन्।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-166",
+    "category": "Geography",
+    "fact_en": "The Sahara is almost the size of the United States.",
+    "fact_ne": "सहारा मरुभूमि झन्डै संयुक्त राज्य अमेरिकाजत्रै ठूलो छ।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-167",
+    "category": "Geography",
+    "fact_en": "Iceland sits on the Mid-Atlantic Ridge, where the North American and Eurasian tectonic plates pull apart.",
+    "fact_ne": "आइसल्याण्ड मध्य-अटलान्टिक रिजमा छ, जहाँ उत्तर अमेरिकी र युरेसियाली टेक्टोनिक प्लेटहरू टाढा तानिन्छन्।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-168",
+    "category": "Geography",
+    "fact_en": "The Nile Delta, where the Nile meets the Mediterranean, is one of the most fertile farming regions on Earth.",
+    "fact_ne": "नाइल नदी भूमध्यसागरमा मिसिने नाइल डेल्टा पृथ्वीका सबैभन्दा उर्वर कृषि क्षेत्रहरूमध्ये एक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-169",
+    "category": "Geography",
+    "fact_en": "Mount Everest is known as Sagarmatha in Nepali and Chomolungma in Tibetan.",
+    "fact_ne": "सगरमाथालाई नेपालीमा सगरमाथा र तिब्बतीमा चोमोलुङ्मा भनिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-170",
+    "category": "Geography",
+    "fact_en": "The Mississippi River is the longest river in North America, at about 3,766 kilometres.",
+    "fact_ne": "करिब ३,७६६ किलोमिटर लामो मिसिसिपी नदी उत्तर अमेरिकाको सबैभन्दा लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-171",
+    "category": "Geography",
+    "fact_en": "The Murray–Darling is the longest river system in Australia.",
+    "fact_ne": "मरे–डार्लिङ अस्ट्रेलियाको सबैभन्दा लामो नदी प्रणाली हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-172",
+    "category": "Geography",
+    "fact_en": "Africa is the second-largest continent in the world, after Asia.",
+    "fact_ne": "अफ्रिका एसियापछि विश्वको दोस्रो ठूलो महादेश हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-173",
+    "category": "Geography",
+    "fact_en": "Asia is the largest continent, covering about 30% of Earth's land area.",
+    "fact_ne": "एसिया सबैभन्दा ठूलो महादेश हो, जसले पृथ्वीको जमिनको करिब ३०% ओगटेको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-174",
+    "category": "Geography",
+    "fact_en": "The island of Borneo is shared by three countries: Indonesia, Malaysia and Brunei.",
+    "fact_ne": "बोर्नियो टापु तीन देश — इन्डोनेसिया, मलेसिया र ब्रुनाई — ले बाँडेका छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-175",
+    "category": "Geography",
+    "fact_en": "The world's largest island, Greenland, is about 80% covered in ice.",
+    "fact_ne": "विश्वको सबैभन्दा ठूलो टापु ग्रिनल्याण्डको करिब ८०% भाग बरफले ढाकिएको छ।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-176",
+    "category": "Geography",
+    "fact_en": "The driest inhabited place on Earth is Arica, in northern Chile.",
+    "fact_ne": "पृथ्वीको सबैभन्दा सुक्खा बसोबास भएको ठाउँ उत्तरी चिलीको एरिका हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-177",
+    "category": "Geography",
+    "fact_en": "The Rhine flows from the Swiss Alps to the North Sea through six countries.",
+    "fact_ne": "राइन नदी स्विस आल्प्सबाट बगेर छ देश हुँदै उत्तरी सागरमा पुग्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-178",
+    "category": "Geography",
+    "fact_en": "Mount Fuji, Japan's highest mountain at 3,776 metres, last erupted in 1707.",
+    "fact_ne": "जापानको सबैभन्दा अग्लो हिमाल माउन्ट फुजी (३,७७६ मिटर) अन्तिम पटक सन् १७०७ मा विस्फोट भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-179",
+    "category": "Geography",
+    "fact_en": "The Great Dividing Range runs for about 3,500 kilometres along Australia's east coast.",
+    "fact_ne": "ग्रेट डिभाइडिङ रेन्ज अस्ट्रेलियाको पूर्वी तटमा करिब ३,५०० किलोमिटरसम्म फैलिएको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-180",
+    "category": "Geography",
+    "fact_en": "The Antarctic ice sheet holds about 60% of the world's fresh water.",
+    "fact_ne": "एन्टार्कटिकाको बरफको चादरले विश्वको करिब ६०% ताजा पानी ओगटेको छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-181",
+    "category": "Geography",
+    "fact_en": "The longest mountain range on Earth is not on land — the Mid-Atlantic Ridge runs for about 16,000 kilometres under the ocean.",
+    "fact_ne": "पृथ्वीको सबैभन्दा लामो पर्वत शृंखला जमिनमा छैन — मध्य-अटलान्टिक रिज समुद्रमुनि करिब १६,००० किलोमिटरसम्म फैलिएको छ।",
+    "source": "National Geographic"
+  },
+  {
+    "id": "FF-182",
+    "category": "Science",
+    "fact_en": "Water is made of two hydrogen atoms and one oxygen atom — H2O.",
+    "fact_ne": "पानी दुई हाइड्रोजन परमाणु र एक अक्सिजन परमाणु मिलेर बनेको हुन्छ — H2O।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-183",
+    "category": "Science",
+    "fact_en": "At sea level, water boils at 100°C and freezes at 0°C.",
+    "fact_ne": "समुद्र सतहमा पानी १००° सेल्सियसमा उम्लन्छ र ०° सेल्सियसमा जम्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-184",
+    "category": "Science",
+    "fact_en": "Light travels at 299,792 kilometres per second in a vacuum — the fastest speed known.",
+    "fact_ne": "शून्यतामा प्रकाश प्रति सेकेन्ड २,९९,७९२ किलोमिटर गतिमा यात्रा गर्छ — थाहा भएको सबैभन्दा छिटो गति।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-185",
+    "category": "Science",
+    "fact_en": "Earth takes about 365.25 days to orbit the Sun — which is why we add a leap day every four years.",
+    "fact_ne": "पृथ्वीलाई सूर्यको परिक्रमा गर्न करिब ३६५.२५ दिन लाग्छ — त्यसैले हरेक चार वर्षमा एक अतिरिक्त दिन थपिन्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-186",
+    "category": "Science",
+    "fact_en": "The Moon takes about 27.3 days to orbit the Earth.",
+    "fact_ne": "चन्द्रमालाई पृथ्वीको परिक्रमा गर्न करिब २७.३ दिन लाग्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-187",
+    "category": "Science",
+    "fact_en": "The Sun holds about 99.86% of all the mass in the solar system.",
+    "fact_ne": "सूर्यले सौर्यमण्डलको कुल द्रव्यमानको करिब ९९.८६% ओगटेको छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-188",
+    "category": "Science",
+    "fact_en": "Sunlight takes about 8 minutes and 20 seconds to reach the Earth.",
+    "fact_ne": "सूर्यको प्रकाश पृथ्वीमा पुग्न करिब ८ मिनेट २० सेकेन्ड लाग्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-189",
+    "category": "Science",
+    "fact_en": "An adult human has 206 bones; a baby is born with about 300, some of which fuse together as it grows.",
+    "fact_ne": "वयस्क मानिसमा २०६ वटा हड्डी हुन्छन्; बच्चा करिब ३०० हड्डीसहित जन्मन्छ, जसमध्ये केही बढ्दै जाँदा जोडिन्छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-190",
+    "category": "Science",
+    "fact_en": "The human heart beats about 100,000 times every day.",
+    "fact_ne": "मानिसको मुटु हरेक दिन करिब १,००,००० पटक धड्कन्छ।",
+    "source": "British Heart Foundation"
+  },
+  {
+    "id": "FF-191",
+    "category": "Science",
+    "fact_en": "The human brain contains about 86 billion neurons.",
+    "fact_ne": "मानिसको मस्तिष्कमा करिब ८६ अर्ब न्युरोन हुन्छन्।",
+    "source": "Nature (2016)"
+  },
+  {
+    "id": "FF-192",
+    "category": "Science",
+    "fact_en": "The double-helix structure of DNA was discovered in 1953 by James Watson and Francis Crick.",
+    "fact_ne": "डीएनएको डबल-हेलिक्स संरचना सन् १९५३ मा जेम्स वाटसन र फ्रान्सिस क्रिकले पत्ता लगाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-193",
+    "category": "Science",
+    "fact_en": "Gravity on Earth pulls objects down at about 9.8 metres per second squared.",
+    "fact_ne": "पृथ्वीमा गुरुत्वाकर्षणले वस्तुहरूलाई प्रति सेकेन्ड वर्ग करिब ९.८ मिटरको दरले तल तान्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-194",
+    "category": "Science",
+    "fact_en": "Albert Einstein published his famous equation E=mc² in 1905.",
+    "fact_ne": "अल्बर्ट आइन्स्टाइनले आफ्नो प्रसिद्ध समीकरण E=mc² सन् १९०५ मा प्रकाशित गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-195",
+    "category": "Science",
+    "fact_en": "The first vaccine was for smallpox, developed by Edward Jenner in 1796.",
+    "fact_ne": "पहिलो खोप बिफर (स्मलपक्स) का लागि थियो, जुन एडवर्ड जेनरले सन् १७९६ मा विकास गरेका थिए।",
+    "source": "World Health Organization"
+  },
+  {
+    "id": "FF-196",
+    "category": "Science",
+    "fact_en": "Penicillin, the first widely used antibiotic, was discovered by Alexander Fleming in 1928.",
+    "fact_ne": "पहिलो व्यापक रूपमा प्रयोग गरिएको एन्टिबायोटिक पेनिसिलिन अलेक्ज्याण्डर फ्लेमिङले सन् १९२८ मा पत्ता लगाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-197",
+    "category": "Science",
+    "fact_en": "Joseph Priestley isolated oxygen in 1774.",
+    "fact_ne": "जोसेफ प्रिस्टलीले सन् १७७४ मा अक्सिजन अलग गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-198",
+    "category": "Science",
+    "fact_en": "Dmitri Mendeleev published the first periodic table of the elements in 1869.",
+    "fact_ne": "दिमित्री मेन्डेलिभले सन् १८६९ मा तत्वहरूको पहिलो आवर्त सारणी प्रकाशित गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-199",
+    "category": "Science",
+    "fact_en": "Gold's chemical symbol is Au and its atomic number is 79.",
+    "fact_ne": "सुनको रासायनिक संकेत Au हो र यसको परमाणु संख्या ७९ हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-200",
+    "category": "Science",
+    "fact_en": "Diamond is the hardest naturally occurring material on Earth.",
+    "fact_ne": "हीरा पृथ्वीमा पाइने सबैभन्दा कडा प्राकृतिक पदार्थ हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-201",
+    "category": "Science",
+    "fact_en": "Sound travels at about 343 metres per second in air.",
+    "fact_ne": "हावामा ध्वनि प्रति सेकेन्ड करिब ३४३ मिटर गतिमा यात्रा गर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-202",
+    "category": "Science",
+    "fact_en": "Absolute zero, the coldest possible temperature, is −273.15°C.",
+    "fact_ne": "सम्भव सबैभन्दा चिसो तापक्रम निरपेक्ष शून्य −२७३.१५° सेल्सियस हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-203",
+    "category": "Science",
+    "fact_en": "Venus is the hottest planet in the solar system, with a surface temperature of about 464°C.",
+    "fact_ne": "शुक्र सौर्यमण्डलको सबैभन्दा तातो ग्रह हो, जसको सतहको तापक्रम करिब ४६४° सेल्सियस छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-204",
+    "category": "Science",
+    "fact_en": "Mars is called the Red Planet because iron oxide (rust) on its surface gives it a red colour.",
+    "fact_ne": "मंगल ग्रहलाई रातो ग्रह भनिन्छ किनभने यसको सतहको आइरन अक्साइड (खिया) ले यसलाई रातो रंग दिन्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-205",
+    "category": "Science",
+    "fact_en": "Olympus Mons on Mars is the tallest volcano in the solar system, at about 22 kilometres high.",
+    "fact_ne": "मंगल ग्रहको ओलम्पस मोन्स सौर्यमण्डलको सबैभन्दा अग्लो ज्वालामुखी हो, करिब २२ किलोमिटर अग्लो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-206",
+    "category": "Science",
+    "fact_en": "Jupiter is the largest planet in the solar system.",
+    "fact_ne": "बृहस्पति सौर्यमण्डलको सबैभन्दा ठूलो ग्रह हो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-207",
+    "category": "Science",
+    "fact_en": "Saturn's rings are made mostly of ice and rock.",
+    "fact_ne": "शनिका छल्लाहरू मुख्यतया बरफ र चट्टानबाट बनेका छन्।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-208",
+    "category": "Science",
+    "fact_en": "Neptune is the farthest planet from the Sun.",
+    "fact_ne": "नेप्च्युन सूर्यबाट सबैभन्दा टाढा रहेको ग्रह हो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-209",
+    "category": "Science",
+    "fact_en": "Pluto was reclassified as a dwarf planet in 2006.",
+    "fact_ne": "प्लुटोलाई सन् २००६ मा बौना ग्रहका रूपमा पुनः वर्गीकरण गरिएको थियो।",
+    "source": "International Astronomical Union"
+  },
+  {
+    "id": "FF-210",
+    "category": "Science",
+    "fact_en": "The Milky Way galaxy contains roughly 100 to 400 billion stars.",
+    "fact_ne": "आकाशगंगा (मिल्की वे) मा करिब १०० देखि ४०० अर्ब ताराहरू छन्।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-211",
+    "category": "Science",
+    "fact_en": "The Andromeda galaxy, our nearest large neighbour, is about 2.5 million light-years away.",
+    "fact_ne": "हाम्रो नजिकको ठूलो छिमेकी एन्ड्रोमेडा आकाशगंगा करिब २५ लाख प्रकाश-वर्ष टाढा छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-212",
+    "category": "Science",
+    "fact_en": "The first image of a black hole was released in 2019, showing the black hole at the centre of galaxy M87.",
+    "fact_ne": "ब्ल्याक होलको पहिलो तस्बिर सन् २०१९ मा सार्वजनिक गरियो, जसमा M87 आकाशगंगाको केन्द्रमा रहेको ब्ल्याक होल देखाइएको थियो।",
+    "source": "Event Horizon Telescope Collaboration"
+  },
+  {
+    "id": "FF-213",
+    "category": "Science",
+    "fact_en": "About 60% of the human body is water.",
+    "fact_ne": "मानव शरीरको करिब ६०% भाग पानी हो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-214",
+    "category": "Science",
+    "fact_en": "Red blood cells carry oxygen around the body using a protein called haemoglobin.",
+    "fact_ne": "राता रक्तकोषहरू हिमोग्लोबिन नामक प्रोटिन प्रयोग गरेर शरीरभरि अक्सिजन पुर्‍याउँछन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-215",
+    "category": "Science",
+    "fact_en": "Plants make food by photosynthesis — using sunlight, water and carbon dioxide.",
+    "fact_ne": "बिरुवाहरूले सूर्यको प्रकाश, पानी र कार्बन डाइअक्साइड प्रयोग गरेर प्रकाश संश्लेषणबाट खाना बनाउँछन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-216",
+    "category": "Science",
+    "fact_en": "Honey never spoils — pots of honey found in Egyptian tombs thousands of years old are still edible.",
+    "fact_ne": "मह कहिल्यै बिग्रिँदैन — हजारौं वर्ष पुराना इजिप्टका चिहानहरूमा भेटिएका मह अझै खान मिल्छ।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-217",
+    "category": "Science",
+    "fact_en": "Bananas are slightly radioactive because they contain potassium-40.",
+    "fact_ne": "केरामा पोटासियम-४० हुने भएकाले यो अलिकति रेडियोधर्मी हुन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-218",
+    "category": "Science",
+    "fact_en": "Lightning can be hotter than the surface of the Sun — reaching about 30,000 Kelvin.",
+    "fact_ne": "चट्याङ सूर्यको सतहभन्दा तातो हुन सक्छ — करिब ३०,००० केल्भिनसम्म पुग्छ।",
+    "source": "National Weather Service (USA)"
+  },
+  {
+    "id": "FF-219",
+    "category": "Science",
+    "fact_en": "The Earth is not a perfect sphere — it bulges slightly at the equator.",
+    "fact_ne": "पृथ्वी पूर्ण गोलो छैन — यो भूमध्यरेखामा अलिकति फुलेको छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-220",
+    "category": "Science",
+    "fact_en": "The Moon is drifting away from the Earth by about 3.8 centimetres every year.",
+    "fact_ne": "चन्द्रमा हरेक वर्ष पृथ्वीबाट करिब ३.८ सेन्टिमिटर टाढा सर्दै छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-221",
+    "category": "Science",
+    "fact_en": "A day on Venus (243 Earth days) is longer than its year (225 Earth days).",
+    "fact_ne": "शुक्र ग्रहको एक दिन (२४३ पृथ्वी दिन) यसको एक वर्ष (२२५ पृथ्वी दिन) भन्दा लामो छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-222",
+    "category": "Science",
+    "fact_en": "Mercury has the biggest temperature swings of any planet — from about −180°C at night to 430°C in the day.",
+    "fact_ne": "बुध ग्रहमा कुनै पनि ग्रहभन्दा ठूलो तापक्रम परिवर्तन हुन्छ — राति करिब −१८०° सेल्सियसदेखि दिनमा ४३०° सेल्सियससम्म।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-223",
+    "category": "Science",
+    "fact_en": "Octopuses have three hearts.",
+    "fact_ne": "अक्टोपसका तीनवटा मुटु हुन्छन्।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-224",
+    "category": "Science",
+    "fact_en": "The blue whale is the largest animal ever known to have lived on Earth.",
+    "fact_ne": "नीलो ह्वेल पृथ्वीमा बसेको थाहा भएका सबैभन्दा ठूलो जनावर हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-225",
+    "category": "Science",
+    "fact_en": "The hummingbird is the only bird that can fly backwards.",
+    "fact_ne": "हमिङबर्ड पछाडि उड्न सक्ने एक मात्र चरा हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-226",
+    "category": "Science",
+    "fact_en": "Sharks are older than trees — sharks appeared about 450 million years ago, trees about 350 million years ago.",
+    "fact_ne": "शार्कहरू रुखहरूभन्दा पुराना हुन् — शार्क करिब ४५ करोड वर्षअघि देखा परे, रुख करिब ३५ करोड वर्षअघि।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-227",
+    "category": "Science",
+    "fact_en": "A teaspoon of neutron-star material would weigh about a billion tonnes.",
+    "fact_ne": "एक चम्चा न्युट्रोन तारा पदार्थको तौल करिब एक अर्ब टन हुन्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-228",
+    "category": "Science",
+    "fact_en": "Sound cannot travel in space because there is no air or other medium to carry it.",
+    "fact_ne": "अन्तरिक्षमा ध्वनि यात्रा गर्न सक्दैन किनभने त्यसलाई बोक्ने हावा वा अन्य माध्यम हुँदैन।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-229",
+    "category": "Science",
+    "fact_en": "The first computer bug was a real moth, found taped into a logbook at Harvard in 1947.",
+    "fact_ne": "पहिलो कम्प्युटर बग वास्तविक पुतली थियो, जुन सन् १९४७ मा हार्वर्डमा लगबुकमा टाँसिएको भेटिएको थियो।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-230",
+    "category": "Science",
+    "fact_en": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+    "fact_ne": "वर्ल्ड वाइड वेब टिम बर्नर्स-लीले सन् १९८९ मा आविष्कार गरेका थिए।",
+    "source": "CERN"
+  },
+  {
+    "id": "FF-231",
+    "category": "Science",
+    "fact_en": "The first email was sent by Ray Tomlinson in 1971.",
+    "fact_ne": "पहिलो इमेल रे टमलिनसनले सन् १९७१ मा पठाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-232",
+    "category": "Science",
+    "fact_en": "The human genome contains about 3 billion base pairs of DNA.",
+    "fact_ne": "मानव जिनोममा करिब ३ अर्ब डीएनए बेस जोडी हुन्छन्।",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "id": "FF-233",
+    "category": "History",
+    "fact_en": "The Second World War lasted from 1939 to 1945.",
+    "fact_ne": "दोस्रो विश्वयुद्ध सन् १९३९ देखि १९४५ सम्म चल्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-234",
+    "category": "History",
+    "fact_en": "The First World War lasted from 1914 to 1918.",
+    "fact_ne": "प्रथम विश्वयुद्ध सन् १९१४ देखि १९१८ सम्म चल्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-235",
+    "category": "History",
+    "fact_en": "Yuri Gagarin became the first human in space on 12 April 1961.",
+    "fact_ne": "युरी गागारिन १२ अप्रिल १९६१ मा अन्तरिक्षमा पुग्ने पहिलो मानिस बने।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-236",
+    "category": "History",
+    "fact_en": "Apollo 11 landed the first humans on the Moon on 20 July 1969 — Neil Armstrong and Buzz Aldrin.",
+    "fact_ne": "अपोलो ११ ले २० जुलाई १९६९ मा चन्द्रमामा पहिलो मानिस — निल आर्मस्ट्रङ र बज एल्ड्रिन — अवतरण गरायो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-237",
+    "category": "History",
+    "fact_en": "Johannes Gutenberg's printing press, around 1440, made books affordable for the first time.",
+    "fact_ne": "जोहानेस गुटेनबर्गको छापाखाना (करिब १४४०) ले पहिलो पटक किताबहरू सस्तो बनायो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-238",
+    "category": "History",
+    "fact_en": "The Wright brothers made the first powered flight on 17 December 1903.",
+    "fact_ne": "राइट दाजुभाइले १७ डिसेम्बर १९०३ मा पहिलो इन्जिनयुक्त उडान गरे।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-239",
+    "category": "History",
+    "fact_en": "The Titanic sank on 15 April 1912, on its first voyage from England to America.",
+    "fact_ne": "टाइटानिक १५ अप्रिल १९१२ मा इङ्गल्याण्डबाट अमेरिकाको आफ्नो पहिलो यात्रामा डुब्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-240",
+    "category": "History",
+    "fact_en": "The Berlin Wall fell on 9 November 1989, ending the division of Germany.",
+    "fact_ne": "बर्लिन पर्खाल ९ नोभेम्बर १९८९ मा ढल्यो, जसले जर्मनीको विभाजन अन्त्य गर्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-241",
+    "category": "History",
+    "fact_en": "The United Nations was founded on 24 October 1945.",
+    "fact_ne": "संयुक्त राष्ट्र संघको स्थापना २४ अक्टोबर १९४५ मा भएको थियो।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-242",
+    "category": "History",
+    "fact_en": "The Western Roman Empire fell in 476 CE.",
+    "fact_ne": "पश्चिमी रोमन साम्राज्य इस्वी संवत् ४७६ मा पतन भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-243",
+    "category": "History",
+    "fact_en": "The French Revolution began in 1789.",
+    "fact_ne": "फ्रान्सेली क्रान्ति सन् १७८९ मा सुरु भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-244",
+    "category": "History",
+    "fact_en": "The United States declared independence on 4 July 1776.",
+    "fact_ne": "संयुक्त राज्य अमेरिकाले ४ जुलाई १७७६ मा स्वतन्त्रता घोषणा गर्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-245",
+    "category": "History",
+    "fact_en": "India became independent from Britain on 15 August 1947.",
+    "fact_ne": "भारत १५ अगस्ट १९४७ मा बेलायतबाट स्वतन्त्र भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-246",
+    "category": "History",
+    "fact_en": "The first modern Olympic Games were held in Athens in 1896.",
+    "fact_ne": "पहिलो आधुनिक ओलम्पिक खेल सन् १८९६ मा एथेन्समा भएको थियो।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-247",
+    "category": "History",
+    "fact_en": "The wheel was invented in Mesopotamia around 3500 BCE.",
+    "fact_ne": "पाङ्ग्रा मेसोपोटामियामा करिब ईसापूर्व ३५०० मा आविष्कार भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-248",
+    "category": "History",
+    "fact_en": "Paper was invented in China around 105 CE by Cai Lun.",
+    "fact_ne": "कागज चीनमा करिब इस्वी संवत् १०५ मा चाई लुनले आविष्कार गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-249",
+    "category": "History",
+    "fact_en": "Gunpowder was invented in China in the 9th century.",
+    "fact_ne": "बारुद चीनमा ९औं शताब्दीमा आविष्कार भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-250",
+    "category": "History",
+    "fact_en": "Leonardo da Vinci painted the Mona Lisa in the early 1500s.",
+    "fact_ne": "लियोनार्दो दा भिन्चीले १५०० को दशकको सुरुमा मोना लिसा चित्र बनाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-251",
+    "category": "History",
+    "fact_en": "William Shakespeare was born in 1564 and died in 1616.",
+    "fact_ne": "विलियम शेक्सपियरको जन्म सन् १५६४ मा भएको थियो र मृत्यु सन् १६१६ मा भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-252",
+    "category": "History",
+    "fact_en": "Albert Einstein was born in 1879 and died in 1955.",
+    "fact_ne": "अल्बर्ट आइन्स्टाइनको जन्म सन् १८७९ मा भएको थियो र मृत्यु सन् १९५५ मा भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-253",
+    "category": "History",
+    "fact_en": "The Black Death of 1347–1351 killed between 30% and 60% of Europe's population.",
+    "fact_ne": "सन् १३४७–१३५१ को कालो मृत्यु (ब्ल्याक डेथ) ले युरोपको ३०% देखि ६०% जनसंख्या मार्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-254",
+    "category": "History",
+    "fact_en": "The 1918–1920 influenza pandemic infected about one-third of the world's population.",
+    "fact_ne": "सन् १९१८–१९२० को इन्फ्लुएन्जा महामारीले विश्व जनसंख्याको करिब एक तिहाइ मानिसलाई संक्रमित गर्यो।",
+    "source": "World Health Organization"
+  },
+  {
+    "id": "FF-255",
+    "category": "History",
+    "fact_en": "Smallpox was declared eradicated by the World Health Organization in 1980 — the first disease ever wiped out.",
+    "fact_ne": "बिफर (स्मलपक्स) लाई विश्व स्वास्थ्य संगठनले सन् १९८० मा उन्मूलन भएको घोषणा गर्यो — उन्मूलन भएको पहिलो रोग।",
+    "source": "World Health Organization"
+  },
+  {
+    "id": "FF-256",
+    "category": "History",
+    "fact_en": "Alexander the Great died in 323 BCE at the age of 32.",
+    "fact_ne": "अलेक्ज्याण्डर महानको मृत्यु ईसापूर्व ३२३ मा ३२ वर्षको उमेरमा भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-257",
+    "category": "History",
+    "fact_en": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid of Giza.",
+    "fact_ne": "क्लियोपेट्रा गिजाको ठूलो पिरामिड निर्माणको समयभन्दा चन्द्रमा अवतरणको समयको नजिक बाँचेकी थिइन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-258",
+    "category": "History",
+    "fact_en": "Oxford University was teaching students from 1096 — before the Aztec capital was founded in 1325.",
+    "fact_ne": "अक्सफोर्ड विश्वविद्यालयले सन् १०९६ देखि विद्यार्थी पढाउँदै आएको छ — एज्टेक राजधानी स्थापना (१३२५) भन्दा पहिलेदेखि।",
+    "source": "University of Oxford"
+  },
+  {
+    "id": "FF-259",
+    "category": "History",
+    "fact_en": "Nintendo was founded in 1889 — as a maker of hand-painted playing cards.",
+    "fact_ne": "निन्टेन्डो सन् १८८९ मा स्थापना भएको थियो — हातले रंगाइएका तास बनाउने कम्पनीका रूपमा।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-260",
+    "category": "History",
+    "fact_en": "The Great Fire of London burned for four days in 1666.",
+    "fact_ne": "लन्डनको ठूलो आगलागी सन् १६६६ मा चार दिनसम्म जल्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-261",
+    "category": "History",
+    "fact_en": "The Rosetta Stone, found in 1799, let scholars finally read Egyptian hieroglyphs.",
+    "fact_ne": "सन् १७९९ मा भेटिएको रोजेटा ढुंगाले विद्वानहरूलाई अन्ततः इजिप्टको चित्रलिपि पढ्न सक्षम बनायो।",
+    "source": "British Museum"
+  },
+  {
+    "id": "FF-262",
+    "category": "History",
+    "fact_en": "Democracy began in Athens around 508 BCE.",
+    "fact_ne": "लोकतन्त्र एथेन्समा करिब ईसापूर्व ५०८ मा सुरु भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-263",
+    "category": "History",
+    "fact_en": "The University of al-Qarawiyyin in Fez, Morocco, founded in 859 CE, is the oldest existing university in the world.",
+    "fact_ne": "मोरक्कोको फेजमा सन् ८५९ मा स्थापित अल-करावियिन विश्वविद्यालय विश्वको सबैभन्दा पुरानो अस्तित्वमा रहेको विश्वविद्यालय हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-264",
+    "category": "History",
+    "fact_en": "The first telephone call was made by Alexander Graham Bell in 1876.",
+    "fact_ne": "पहिलो टेलिफोन कल अलेक्ज्याण्डर ग्राहम बेलले सन् १८७६ मा गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-265",
+    "category": "History",
+    "fact_en": "Karl Benz built the first practical automobile in 1885–86.",
+    "fact_ne": "कार्ल बेन्जले सन् १८८५–८६ मा पहिलो व्यावहारिक अटोमोबाइल बनाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-266",
+    "category": "History",
+    "fact_en": "The compass was invented in China, first for fortune-telling and later for navigation.",
+    "fact_ne": "कम्पास चीनमा आविष्कार भएको थियो, पहिले भाग्य हेर्न र पछि दिशानिर्देशनका लागि।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-267",
+    "category": "History",
+    "fact_en": "The first World Cup was held in 1930 in Uruguay, and Uruguay won it.",
+    "fact_ne": "पहिलो विश्वकप सन् १९३० मा उरुग्वेमा भएको थियो र उरुग्वेले जितेको थियो।",
+    "source": "FIFA"
+  },
+  {
+    "id": "FF-268",
+    "category": "History",
+    "fact_en": "Humans began migrating out of Africa about 60,000–70,000 years ago.",
+    "fact_ne": "मानिसहरू करिब ६०,०००–७०,००० वर्षअघि अफ्रिकाबाट बाहिर सर्न थाले।",
+    "source": "Smithsonian Institution"
+  },
+  {
+    "id": "FF-269",
+    "category": "History",
+    "fact_en": "The Eiffel Tower was first proposed for Barcelona, which rejected it, before Paris accepted it for the 1889 World's Fair.",
+    "fact_ne": "आइफेल टावर पहिले बार्सिलोनालाई प्रस्ताव गरिएको थियो, जसले अस्वीकार गर्यो, र त्यसपछि पेरिसले सन् १८८९ को विश्व मेलाका लागि स्वीकार गर्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-270",
+    "category": "History",
+    "fact_en": "The ancient Olympic Games began in 776 BCE in Olympia, Greece.",
+    "fact_ne": "प्राचीन ओलम्पिक खेलहरू ईसापूर्व ७७६ मा ग्रीसको ओलम्पियामा सुरु भएका थिए।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-271",
+    "category": "History",
+    "fact_en": "The oldest known musical instruments, flutes made from bone, are about 40,000 years old.",
+    "fact_ne": "सबैभन्दा पुराना ज्ञात वाद्ययन्त्रहरू, हड्डीबाट बनेका बाँसुरीहरू, करिब ४०,००० वर्ष पुराना छन्।",
+    "source": "University of Tübingen"
+  },
+  {
+    "id": "FF-272",
+    "category": "History",
+    "fact_en": "The Library of Alexandria in Egypt was one of the largest libraries of the ancient world.",
+    "fact_ne": "इजिप्टको अलेक्जान्ड्रिया पुस्तकालय प्राचीन विश्वका सबैभन्दा ठूला पुस्तकालयहरूमध्ये एक थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-273",
+    "category": "Sports",
+    "fact_en": "The first modern Olympic Games were held in Athens in 1896, with 241 athletes from 14 nations.",
+    "fact_ne": "पहिलो आधुनिक ओलम्पिक खेल सन् १८९६ मा एथेन्समा भएको थियो, जसमा १४ राष्ट्रका २४१ खेलाडी सहभागी थिए।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-274",
+    "category": "Sports",
+    "fact_en": "Brazil has won the FIFA World Cup five times — more than any other country.",
+    "fact_ne": "ब्राजिलले फिफा विश्वकप पाँच पटक जितेको छ — कुनै पनि देशभन्दा बढी।",
+    "source": "FIFA"
+  },
+  {
+    "id": "FF-275",
+    "category": "Sports",
+    "fact_en": "The first Cricket World Cup was held in 1975 in England, and the West Indies won it.",
+    "fact_ne": "पहिलो क्रिकेट विश्वकप सन् १९७५ मा इङ्गल्याण्डमा भएको थियो र वेस्ट इन्डिजले जितेको थियो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-276",
+    "category": "Sports",
+    "fact_en": "Nepal gained One Day International (ODI) status in cricket in 2018.",
+    "fact_ne": "नेपालले सन् २०१८ मा क्रिकेटमा एकदिवसीय अन्तर्राष्ट्रिय (ODI) मान्यता पायो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-277",
+    "category": "Sports",
+    "fact_en": "Sandeep Lamichhane became the first Nepali cricketer to play in the Indian Premier League, for Delhi Daredevils in 2018.",
+    "fact_ne": "सन्दीप लामिछाने इन्डियन प्रिमियर लिगमा खेल्ने पहिलो नेपाली क्रिकेटर बने — सन् २०१८ मा दिल्ली डेयरडेभिल्सबाट।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-278",
+    "category": "Sports",
+    "fact_en": "Usain Bolt's 100-metre world record of 9.58 seconds was set in Berlin in 2009.",
+    "fact_ne": "उसैन बोल्टको १०० मिटर विश्व कीर्तिमान ९.५८ सेकेन्ड सन् २००९ मा बर्लिनमा बनेको थियो।",
+    "source": "World Athletics"
+  },
+  {
+    "id": "FF-279",
+    "category": "Sports",
+    "fact_en": "A marathon is 42.195 kilometres long.",
+    "fact_ne": "म्याराथन ४२.१९५ किलोमिटर लामो हुन्छ।",
+    "source": "World Athletics"
+  },
+  {
+    "id": "FF-280",
+    "category": "Sports",
+    "fact_en": "The Olympic rings represent the five inhabited continents: Africa, the Americas, Asia, Europe and Oceania.",
+    "fact_ne": "ओलम्पिकका पाँच छल्लाले पाँच बसोबास भएका महादेश — अफ्रिका, अमेरिका, एसिया, युरोप र ओसिनिया — लाई जनाउँछन्।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-281",
+    "category": "Sports",
+    "fact_en": "The first Tour de France cycle race was held in 1903.",
+    "fact_ne": "पहिलो टुर डि फ्रान्स साइकल दौड सन् १९०३ मा भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-282",
+    "category": "Sports",
+    "fact_en": "Wimbledon, first played in 1877, is the oldest tennis tournament in the world.",
+    "fact_ne": "सन् १८७७ मा पहिलो पटक खेलिएको विम्बल्डन विश्वको सबैभन्दा पुरानो टेनिस प्रतियोगिता हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-283",
+    "category": "Sports",
+    "fact_en": "The first Super Bowl was played in 1967.",
+    "fact_ne": "पहिलो सुपर बाउल सन् १९६७ मा खेलिएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-284",
+    "category": "Sports",
+    "fact_en": "Michael Phelps has won 23 Olympic gold medals — more than any other athlete.",
+    "fact_ne": "माइकल फेल्प्सले २३ ओलम्पिक स्वर्ण पदक जितेका छन् — कुनै पनि खेलाडीभन्दा बढी।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-285",
+    "category": "Sports",
+    "fact_en": "Football is the world's most popular sport, with about 3.5 billion fans.",
+    "fact_ne": "फुटबल विश्वको सबैभन्दा लोकप्रिय खेल हो, करिब ३.५ अर्ब समर्थकसहित।",
+    "source": "FIFA"
+  },
+  {
+    "id": "FF-286",
+    "category": "Sports",
+    "fact_en": "Cricket is the second most popular sport in the world.",
+    "fact_ne": "क्रिकेट विश्वको दोस्रो सबैभन्दा लोकप्रिय खेल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-287",
+    "category": "Sports",
+    "fact_en": "The longest tennis match ever lasted 11 hours and 5 minutes — John Isner beat Nicolas Mahut at Wimbledon in 2010.",
+    "fact_ne": "अहिलेसम्मको सबैभन्दा लामो टेनिस खेल ११ घण्टा ५ मिनेट चल्यो — सन् २०१० को विम्बल्डनमा जोन इस्नरले निकोलस माहुटलाई हराए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-288",
+    "category": "Sports",
+    "fact_en": "The FIFA World Cup trophy weighs 6.175 kilograms and is made of 18-carat gold.",
+    "fact_ne": "फिफा विश्वकप ट्रफीको तौल ६.१७५ किलोग्राम छ र यो १८ क्यारेट सुनबाट बनेको छ।",
+    "source": "FIFA"
+  },
+  {
+    "id": "FF-289",
+    "category": "Sports",
+    "fact_en": "The first Asian Games were held in New Delhi in 1951.",
+    "fact_ne": "पहिलो एसियाली खेलकुद सन् १९५१ मा नयाँ दिल्लीमा भएको थियो।",
+    "source": "Olympic Council of Asia"
+  },
+  {
+    "id": "FF-290",
+    "category": "Sports",
+    "fact_en": "The Paralympic Games began in Rome in 1960.",
+    "fact_ne": "पारालिम्पिक खेलकुद सन् १९६० मा रोममा सुरु भएको थियो।",
+    "source": "International Paralympic Committee"
+  },
+  {
+    "id": "FF-291",
+    "category": "Sports",
+    "fact_en": "The first Test cricket match was played in 1877 between Australia and England.",
+    "fact_ne": "पहिलो टेस्ट क्रिकेट खेल सन् १८७७ मा अस्ट्रेलिया र इङ्गल्याण्डबीच खेलिएको थियो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-292",
+    "category": "Sports",
+    "fact_en": "Sachin Tendulkar is the only cricketer to score 100 international centuries.",
+    "fact_ne": "सचिन तेन्दुलकर १०० अन्तर्राष्ट्रिय शतक बनाउने एक मात्र क्रिकेटर हुन्।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-293",
+    "category": "Sports",
+    "fact_en": "Don Bradman's Test batting average of 99.94 is the highest in cricket history.",
+    "fact_ne": "डन ब्र्याडम्यानको टेस्ट ब्याटिङ औसत ९९.९४ क्रिकेट इतिहासकै सबैभन्दा उच्च हो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-294",
+    "category": "Sports",
+    "fact_en": "A football match lasts 90 minutes, split into two 45-minute halves.",
+    "fact_ne": "फुटबल खेल ९० मिनेटको हुन्छ, जुन दुई ४५-मिनेटको हाफमा बाँडिएको हुन्छ।",
+    "source": "FIFA"
+  },
+  {
+    "id": "FF-295",
+    "category": "Sports",
+    "fact_en": "The highest individual score in a One Day International is 264, by Rohit Sharma in 2014.",
+    "fact_ne": "एकदिवसीय अन्तर्राष्ट्रियमा सबैभन्दा उच्च व्यक्तिगत स्कोर २६४ हो, जुन रोहित शर्माले सन् २०१४ मा बनाएका थिए।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-296",
+    "category": "Sports",
+    "fact_en": "Junko Tabei of Japan became the first woman to climb Mount Everest, in 1975.",
+    "fact_ne": "जापानकी जुन्को ताबेई सन् १९७५ मा सगरमाथा चढ्ने पहिलो महिला बनिन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-297",
+    "category": "Sports",
+    "fact_en": "Chess is recognised as a sport by the International Olympic Committee.",
+    "fact_ne": "चेसलाई अन्तर्राष्ट्रिय ओलम्पिक समितिले खेलका रूपमा मान्यता दिएको छ।",
+    "source": "International Olympic Committee"
+  },
+  {
+    "id": "FF-298",
+    "category": "Culture",
+    "fact_en": "Diwali, the festival of lights, is celebrated by Hindus, Jains and Sikhs across South Asia and the world.",
+    "fact_ne": "उज्यालोको पर्व दीपावली दक्षिण एसिया र विश्वभर हिन्दू, जैन र सिखहरूले मनाउँछन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-299",
+    "category": "Culture",
+    "fact_en": "Holi, the festival of colours, marks the arrival of spring in South Asia.",
+    "fact_ne": "रङहरूको पर्व होलीले दक्षिण एसियामा वसन्तको आगमनलाई चिनाउँछ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-300",
+    "category": "Culture",
+    "fact_en": "'Namaste' is a greeting that means 'I bow to you'.",
+    "fact_ne": "'नमस्ते' भनेको 'म तपाईंलाई नमन गर्छु' भन्ने अभिवादन हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-301",
+    "category": "Culture",
+    "fact_en": "The Mona Lisa is kept in the Louvre museum in Paris.",
+    "fact_ne": "मोना लिसा पेरिसको लुभ्र संग्रहालयमा राखिएको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-302",
+    "category": "Culture",
+    "fact_en": "The Louvre in Paris is the most-visited museum in the world.",
+    "fact_ne": "पेरिसको लुभ्र विश्वको सबैभन्दा धेरै भ्रमण गरिने संग्रहालय हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-303",
+    "category": "Culture",
+    "fact_en": "India makes more films per year than any other country in the world.",
+    "fact_ne": "भारतले विश्वको कुनै पनि देशभन्दा बढी फिल्म प्रतिवर्ष निर्माण गर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-304",
+    "category": "Culture",
+    "fact_en": "The Bible is the most translated book in history, in more than 700 languages.",
+    "fact_ne": "बाइबल इतिहासकै सबैभन्दा धेरै अनुवाद गरिएको पुस्तक हो, ७०० भन्दा बढी भाषाहरूमा।",
+    "source": "United Bible Societies"
+  },
+  {
+    "id": "FF-305",
+    "category": "Culture",
+    "fact_en": "The word 'robot' comes from the Czech word 'robota', meaning forced labour — first used in Karel Čapek's 1920 play.",
+    "fact_ne": "'रोबोट' शब्द चेक शब्द 'रोबोटा' बाट आएको हो, जसको अर्थ जबर्जस्ती श्रम हो — यो पहिलो पटक कारेल चापेकको सन् १९२० को नाटकमा प्रयोग भयो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-306",
+    "category": "Culture",
+    "fact_en": "The Eiffel Tower grows about 15 centimetres taller in summer as its iron expands in the heat.",
+    "fact_ne": "आइफेल टावर गर्मीमा फलाम फैलिने भएकाले गर्मीमा करिब १५ सेन्टिमिटर अग्लो हुन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-307",
+    "category": "Culture",
+    "fact_en": "More than 7,000 languages are spoken in the world today.",
+    "fact_ne": "आज विश्वमा ७,००० भन्दा बढी भाषाहरू बोलिन्छन्।",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "FF-308",
+    "category": "Culture",
+    "fact_en": "Papua New Guinea has the most languages of any country — about 840.",
+    "fact_ne": "पापुआ न्यु गिनीमा कुनै पनि देशभन्दा बढी भाषा छन् — करिब ८४०।",
+    "source": "Ethnologue"
+  },
+  {
+    "id": "FF-309",
+    "category": "Culture",
+    "fact_en": "Don Quixote, published in 1605, is often called the first modern novel.",
+    "fact_ne": "सन् १६०५ मा प्रकाशित डन क्विक्सोटलाई प्रायः पहिलो आधुनिक उपन्यास भनिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-310",
+    "category": "Culture",
+    "fact_en": "William Shakespeare is credited with adding more than 1,700 words to the English language.",
+    "fact_ne": "विलियम शेक्सपियरले अङ्ग्रेजी भाषामा १,७०० भन्दा बढी शब्द थपेको श्रेय पाउँछन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-311",
+    "category": "Culture",
+    "fact_en": "The Kumbh Mela in India is the largest religious gathering in the world.",
+    "fact_ne": "भारतको कुम्भ मेला विश्वको सबैभन्दा ठूलो धार्मिक जमघट हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-312",
+    "category": "Culture",
+    "fact_en": "The Nepali New Year falls in mid-April, on the first day of Baisakh.",
+    "fact_ne": "नेपाली नयाँ वर्ष अप्रिलको मध्यमा, बैशाख १ गते पर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-313",
+    "category": "Culture",
+    "fact_en": "Dal Bhat — lentils and rice with vegetables — is the traditional everyday meal of Nepal.",
+    "fact_ne": "दाल भात — तरकारीसहित दाल र भात — नेपालको परम्परागत दैनिक खाना हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-314",
+    "category": "Culture",
+    "fact_en": "Thangka painting, a traditional Buddhist art of Nepal and Tibet, is painted on cotton cloth.",
+    "fact_ne": "थाङ्का चित्रकला नेपाल र तिब्बतको परम्परागत बौद्ध कला हो, जुन कपासको कपडामा चित्रित गरिन्छ।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-315",
+    "category": "Culture",
+    "fact_en": "'Dhanyabad' means 'thank you' in Nepali.",
+    "fact_ne": "'धन्यवाद' को अर्थ नेपालीमा 'thank you' हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-316",
+    "category": "Culture",
+    "fact_en": "The Madal is a traditional double-headed drum of Nepal.",
+    "fact_ne": "मादल नेपालको परम्परागत दुई मुखे ढोल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-317",
+    "category": "Culture",
+    "fact_en": "The Sarangi is a traditional Nepali string instrument, played by the Gandharba community.",
+    "fact_ne": "सारंगी परम्परागत नेपाली तार वाद्ययन्त्र हो, जुन गन्धर्व समुदायले बजाउँछ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-318",
+    "category": "Culture",
+    "fact_en": "Indra Jatra, a festival of the Newar community, is celebrated in Kathmandu every September.",
+    "fact_ne": "नेवार समुदायको पर्व इन्द्रजात्रा हरेक सेप्टेम्बरमा काठमाडौंमा मनाइन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-319",
+    "category": "Culture",
+    "fact_en": "Gai Jatra, the 'cow festival' of the Kathmandu Valley, honours family members who died in the past year.",
+    "fact_ne": "काठमाडौं उपत्यकाको 'गाईजात्रा' पर्वले पछिल्लो वर्षमा मृत्यु भएका परिवारका सदस्यहरूको सम्झना गर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-320",
+    "category": "Culture",
+    "fact_en": "The word 'Sherpa' is both the name of an ethnic group of Nepal and a job title for Himalayan mountain guides.",
+    "fact_ne": "'शेर्पा' शब्द नेपालको एक जातीय समूहको नाम र हिमाली पर्वतारोहण गाइडको पेशागत नाम दुवै हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-321",
+    "category": "Culture",
+    "fact_en": "Kite flying is a beloved part of Dashain in Nepal — the skies over Kathmandu fill with kites.",
+    "fact_ne": "चंगा उडाउनु नेपालमा दशैंको प्रिय अंग हो — काठमाडौंको आकाश चंगाले भरिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-322",
+    "category": "Culture",
+    "fact_en": "The Nepali language is written in the Devanagari script, the same script used for Hindi and Sanskrit.",
+    "fact_ne": "नेपाली भाषा देवनागरी लिपिमा लेखिन्छ, जुन हिन्दी र संस्कृतका लागि पनि प्रयोग हुने लिपि हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Palesha Goverdhan won Nepal's first-ever Olympic or Paralympic medal — a bronze in para taekwondo at Paris 2024.",
+    "fact_ne": "पलेशा गोवर्धनले पेरिस २०२४ मा प्यारा तेक्वान्दोमा कांस्य पदक जितेर नेपालका लागि पहिलो ओलम्पिक वा प्यारालम्पिक पदक जितिन्।",
+    "id": "FF-323",
+    "source": "International Paralympic Committee"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Sandeep Lamichhane is the fastest bowler in history to take 100 wickets in One Day Internationals, reaching the mark in just 42 matches.",
+    "fact_ne": "सन्दीप लामिछाने एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटमा सबैभन्दा छिटो १०० विकेट लिने बलर हुन् — उनले यो कीर्तिमान मात्र ४२ खेलमा बनाएका थिए।",
+    "id": "FF-324",
+    "source": "ESPNcricinfo"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Paras Khadka scored Nepal's first century in One Day International cricket — 115 runs against the United Arab Emirates in January 2019.",
+    "fact_ne": "पारस खड्काले जनवरी २०१९ मा संयुक्त अरब इमिरेट्सविरुद्ध ११५ रन बनाएर नेपालका लागि एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटमा पहिलो शतक बनाए।",
+    "id": "FF-325",
+    "source": "International Cricket Council"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Nepal won its first Asian Games medal at Seoul 1986, taking eight bronze medals.",
+    "fact_ne": "नेपालले सियोल १९८६ मा आफ्नो पहिलो एसियाली खेलकुद पदक जित्यो — आठ कांस्य पदक।",
+    "id": "FF-326",
+    "source": "Olympic Council of Asia"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Nepal has hosted the South Asian Games three times — in 1984, 1999 and 2019.",
+    "fact_ne": "नेपालले दक्षिण एसियाली खेलकुद तीन पटक आयोजना गरेको छ — सन् १९८४, १९९९ र २०१९ मा।",
+    "id": "FF-327",
+    "source": "South Asia Olympic Council"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Nepal first played in the T20 World Cup in 2014 in Bangladesh, beating Hong Kong by 80 runs in its opening match.",
+    "fact_ne": "नेपालले पहिलो पटक सन् २०१४ मा बंगलादेशमा टी-२० विश्वकप खेल्यो र पहिलो खेलमा हङकङलाई ८० रनले हरायो।",
+    "id": "FF-328",
+    "source": "International Cricket Council"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Dandi Biyo, a traditional game played with a long stick and a small wooden pin, is one of Nepal's oldest folk sports.",
+    "fact_ne": "डन्डी बियो लामो लठ्ठी र सानो काठको पिनले खेलिने नेपालको पुरानो परम्परागत खेल हो।",
+    "id": "FF-329",
+    "source": "Topend Sports"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Simone Biles is the most decorated gymnast in history, with 41 Olympic and World Championship medals.",
+    "fact_ne": "सिमोन बाइल्स इतिहासकी सबैभन्दा बढी पदक जित्ने जिमनास्ट हुन् — ओलम्पिक र विश्व च्याम्पियनसिपमा गरी ४१ पदक।",
+    "id": "FF-330",
+    "source": "International Gymnastics Federation"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Rafael Nadal won the French Open 14 times — more titles at a single Grand Slam tournament than any other player.",
+    "fact_ne": "राफेल नाडालले फ्रेन्च ओपन १४ पटक जितेका छन् — एउटै ग्रान्ड स्लाम प्रतियोगितामा अरू कुनै खेलाडीभन्दा बढी।",
+    "id": "FF-331",
+    "source": "Association of Tennis Professionals"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Novak Djokovic has won 24 Grand Slam singles titles — the most in men's tennis history.",
+    "fact_ne": "नोभाक जोकोभिचले २४ वटा ग्रान्ड स्लाम एकल उपाधि जितेका छन् — पुरुष टेनिस इतिहासमा सबैभन्दा बढी।",
+    "id": "FF-332",
+    "source": "Association of Tennis Professionals"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Serena Williams won 23 Grand Slam singles titles — the most in the Open Era.",
+    "fact_ne": "सेरेना विलियम्सले २३ वटा ग्रान्ड स्लाम एकल उपाधि जितेकी छन् — ओपन युगमा सबैभन्दा बढी।",
+    "id": "FF-333",
+    "source": "Women's Tennis Association"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Lionel Messi has won the Ballon d'Or eight times — more than any other footballer.",
+    "fact_ne": "लियोनल मेसीले बालोन डी'ओर आठ पटक जितेका छन् — अरू कुनै फुटबलरभन्दा बढी।",
+    "id": "FF-334",
+    "source": "France Football"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Cristiano Ronaldo is the all-time top scorer in men's international football.",
+    "fact_ne": "क्रिस्टियानो रोनाल्डो पुरुष अन्तर्राष्ट्रिय फुटबलका सर्वकालीन सर्वाधिक गोलकर्ता हुन्।",
+    "id": "FF-335",
+    "source": "FIFA"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Charlotte Cooper of Britain became the first woman to win an Olympic gold medal, in tennis at Paris 1900.",
+    "fact_ne": "बेलायतकी सार्लोट कुपर पेरिस १९०० मा टेनिसमा स्वर्ण पदक जितेर ओलम्पिक स्वर्ण जित्ने पहिलो महिला बनिन्।",
+    "id": "FF-336",
+    "source": "International Olympic Committee"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Jesse Owens won four gold medals at the Berlin Olympics in 1936 — in the 100 metres, 200 metres, long jump and 4x100 metres relay.",
+    "fact_ne": "जेसी ओवेन्सले सन् १९३६ को बर्लिन ओलम्पिकमा चार स्वर्ण पदक जिते — १०० मिटर, २०० मिटर, लङ जम्प र ४x१०० मिटर रिलेमा।",
+    "id": "FF-337",
+    "source": "International Olympic Committee"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Nadia Comaneci scored the first perfect 10 in Olympic gymnastics, at Montreal 1976.",
+    "fact_ne": "नादिया कोमानेसीले मोन्ट्रियल १९७६ मा ओलम्पिक जिमनास्टिक्समा पहिलो पूर्ण १० अंक प्राप्त गरिन्।",
+    "id": "FF-338",
+    "source": "International Olympic Committee"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "The first Winter Olympic Games were held in Chamonix, France, in 1924.",
+    "fact_ne": "पहिलो शीतकालीन ओलम्पिक खेल सन् १९२४ मा फ्रान्सको सामोनीमा भएको थियो।",
+    "id": "FF-339",
+    "source": "International Olympic Committee"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "The first FIFA Women's World Cup was held in China in 1991, and the United States won it.",
+    "fact_ne": "पहिलो फिफा महिला विश्वकप सन् १९९१ मा चीनमा भएको थियो र संयुक्त राज्य अमेरिकाले जित्यो।",
+    "id": "FF-340",
+    "source": "FIFA"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "India won its first Cricket World Cup in 1983, beating the West Indies in the final at Lord's.",
+    "fact_ne": "भारतले सन् १९८३ मा लर्ड्समा भएको फाइनलमा वेस्ट इन्डिजलाई हराएर आफ्नो पहिलो क्रिकेट विश्वकप जित्यो।",
+    "id": "FF-341",
+    "source": "International Cricket Council"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Sheffield FC, founded in England in 1857, is the oldest football club in the world.",
+    "fact_ne": "इंग्ल्यान्डमा सन् १८५७ मा स्थापना भएको सेफिल्ड एफसी विश्वको सबैभन्दा पुरानो फुटबल क्लब हो।",
+    "id": "FF-342",
+    "source": "FIFA"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Pelé is the only footballer to win the World Cup three times — in 1958, 1962 and 1970.",
+    "fact_ne": "पेले तीन पटक विश्वकप जित्ने एक मात्र फुटबलर हुन् — सन् १९५८, १९६२ र १९७० मा।",
+    "id": "FF-343",
+    "source": "FIFA"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Wilt Chamberlain scored 100 points in a single NBA game in 1962 — a record that still stands.",
+    "fact_ne": "विल्ट चेम्बरलेनले सन् १९६२ मा एउटै एनबीए खेलमा १०० अंक बनाए — यो कीर्तिमान आजसम्म कायम छ।",
+    "id": "FF-344",
+    "source": "National Basketball Association"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "The first official NBA game was played in 1946, between the Toronto Huskies and the New York Knickerbockers.",
+    "fact_ne": "पहिलो आधिकारिक एनबीए खेल सन् १९४६ मा टोरन्टो हस्किज र न्युयोर्क निकरबकर्सबीच खेलिएको थियो।",
+    "id": "FF-345",
+    "source": "National Basketball Association"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "The 2022 FIFA World Cup in Qatar was the first World Cup held in the Middle East and the first played in November and December.",
+    "fact_ne": "कतारमा भएको सन् २०२२ को फिफा विश्वकप मध्यपूर्वमा भएको पहिलो विश्वकप थियो र नोभेम्बर–डिसेम्बरमा खेलिएको पहिलो विश्वकप थियो।",
+    "id": "FF-346",
+    "source": "FIFA"
+  },
+  {
+    "category": "Sports",
+    "fact_en": "Diego Maradona's famous 'Hand of God' goal came against England at the 1986 World Cup in Mexico.",
+    "fact_ne": "डिएगो म्याराडोनाको प्रसिद्ध 'ह्यान्ड अफ गड' गोल सन् १९८६ मा मेक्सिकोमा भएको विश्वकपमा इंग्ल्यान्डविरुद्ध आएको थियो।",
+    "id": "FF-347",
+    "source": "FIFA"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Lumbini became a UNESCO World Heritage Site in 1997.",
+    "fact_ne": "लुम्बिनी सन् १९९७ मा युनेस्को विश्व सम्पदा स्थल बन्यो।",
+    "id": "FF-348",
+    "source": "UNESCO"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Nepal has four UNESCO World Heritage Sites: the Kathmandu Valley, Lumbini, Chitwan National Park and Sagarmatha National Park.",
+    "fact_ne": "नेपालमा चार युनेस्को विश्व सम्पदा स्थलहरू छन्: काठमाडौं उपत्यका, लुम्बिनी, चितवन राष्ट्रिय निकुञ्ज र सगरमाथा राष्ट्रिय निकुञ्ज।",
+    "id": "FF-349",
+    "source": "UNESCO"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The Rato Machhindranath Jatra of Patan is the longest-running festival in Nepal, lasting for weeks each year.",
+    "fact_ne": "पाटनको रातो मच्छिन्द्रनाथ जात्रा नेपालको सबैभन्दा लामो समयसम्म चल्ने चाड हो, यो हरेक वर्ष हप्तौंसम्म चल्छ।",
+    "id": "FF-350",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Bisket Jatra, celebrated in Bhaktapur at the Nepali New Year, features a tug-of-war between two chariots.",
+    "fact_ne": "नेपाली नयाँ वर्षमा भक्तपुरमा मनाइने बिस्केट जात्रामा दुई रथबीच डोरी तान्ने प्रतियोगिता हुन्छ।",
+    "id": "FF-351",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Chhath is a festival of the Terai in which devotees worship the Sun god, offering prayers at sunrise and sunset.",
+    "fact_ne": "छठ तराईको चाड हो, जसमा भक्तजनहरू सूर्य देवताको पूजा गर्छन् र सूर्योदय तथा सूर्यास्तमा अर्घ्य दिन्छन्।",
+    "id": "FF-352",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Janai Purnima is the festival when Hindu men change their sacred thread, and brothers and sisters also tie rakhi on this day.",
+    "fact_ne": "जनै पूर्णिमा हिन्दू पुरुषहरूले पवित्र जनै फेर्ने चाड हो, र यस दिन दिदीबहिनीले दाजुभाइलाई राखी पनि बाँध्छन्।",
+    "id": "FF-353",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Maghe Sankranti, celebrated in mid-January, marks the start of longer days and is a major festival of the Tharu community.",
+    "fact_ne": "माघे संक्रान्ति जनवरीको मध्यमा मनाइन्छ, यसले दिन लामो हुन थालेको संकेत गर्छ र यो थारू समुदायको ठूलो चाड हो।",
+    "id": "FF-354",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Yomari Punhi is a Newar harvest festival in December, named after the steamed sweet dumpling called yomari.",
+    "fact_ne": "योमरी पुन्ही डिसेम्बरमा मनाइने नेवार समुदायको फसलसम्बन्धी चाड हो, यसको नाम योमरी भन्ने मिठो परिकारबाट राखिएको हो।",
+    "id": "FF-355",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Momo, the steamed dumpling filled with meat or vegetables, is Nepal's most popular snack food.",
+    "fact_ne": "मासु वा तरकारी भरिएको बाफमा पकाइएको मोमो नेपालको सबैभन्दा लोकप्रिय खाजा हो।",
+    "id": "FF-356",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Sel roti is a ring-shaped sweet rice bread, traditionally cooked during Tihar and other festivals.",
+    "fact_ne": "सेल रोटी औंठी आकारको गुलियो चामलको रोटी हो, जुन परम्परागत रूपमा तिहार र अन्य चाडपर्वमा पकाइन्छ।",
+    "id": "FF-357",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Gundruk is a traditional Nepali food made by fermenting leafy green vegetables in the sun.",
+    "fact_ne": "गुन्द्रुक हरियो सागलाई घाममा कुहाएर बनाइने परम्परागत नेपाली खाना हो।",
+    "id": "FF-358",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Sukuti is dried meat, a traditional preserved food of Nepal's mountain communities.",
+    "fact_ne": "सुकुटी सुकाएको मासु हो, नेपालका पहाडी समुदायको परम्परागत संरक्षित खाना।",
+    "id": "FF-359",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Losar, the Tibetan New Year, is celebrated by the Sherpa and Tamang communities of Nepal.",
+    "fact_ne": "ल्होसार तिब्बती नयाँ वर्ष हो, जुन नेपालका शेर्पा र तामाङ समुदायले मनाउँछन्।",
+    "id": "FF-360",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Deuda is a traditional folk dance and song of the far-western hills of Nepal, performed in a circle.",
+    "fact_ne": "देउडा नेपालको सुदूरपश्चिम पहाडको परम्परागत लोक नृत्य र गीत हो, जुन घेरामा बसेर गरिन्छ।",
+    "id": "FF-361",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Kauda is a traditional dance of the Magar community, performed in a circle to the beat of drums.",
+    "fact_ne": "कौडा मगर समुदायको परम्परागत नृत्य हो, जुन ढोलको तालमा घेरामा बसेर नाचिन्छ।",
+    "id": "FF-362",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The Lakhe dance, performed during Indra Jatra in Kathmandu, features a dancer in a fearsome demon mask.",
+    "fact_ne": "काठमाडौंमा इन्द्र जात्राका बेला नाचिने लाखे नृत्यमा नर्तकले डरलाग्दो राक्षसको मुखुण्डो लगाउँछन्।",
+    "id": "FF-363",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The Nepali language belongs to the Indo-Aryan branch of the Indo-European language family.",
+    "fact_ne": "नेपाली भाषा इन्डो-युरोपेली भाषा परिवारको इन्डो-आर्यन शाखामा पर्छ।",
+    "id": "FF-364",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The 2021 census counted 124 languages spoken as mother tongues in Nepal, and 142 caste and ethnic groups.",
+    "fact_ne": "सन् २०२१ को जनगणनाले नेपालमा मातृभाषाका रूपमा बोलिने १२४ भाषा र १४२ जातजाति गणना गर्यो।",
+    "id": "FF-365",
+    "source": "Nepal Census 2021"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Aama, released in 1964, was the first film produced in Nepal.",
+    "fact_ne": "सन् १९६४ मा प्रदर्शन भएको 'आमा' नेपालमा निर्माण भएको पहिलो चलचित्र हो।",
+    "id": "FF-366",
+    "source": "Wikipedia"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The first Nepali-language film, Satya Harishchandra, was made in Kolkata and released in 1951.",
+    "fact_ne": "पहिलो नेपाली भाषाको चलचित्र 'सत्य हरिश्चन्द्र' कोलकातामा बनेको थियो र सन् १९५१ मा प्रदर्शन भयो।",
+    "id": "FF-367",
+    "source": "Wikipedia"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Oktoberfest, the world's largest beer festival, began in Munich, Germany, in 1810.",
+    "fact_ne": "विश्वको सबैभन्दा ठूलो बियर महोत्सव अक्टोबरफेस्ट जर्मनीको म्युनिखमा सन् १८१० मा सुरु भएको थियो।",
+    "id": "FF-368",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The Day of the Dead (Día de Muertos) is celebrated in Mexico on 1 and 2 November to honour deceased loved ones.",
+    "fact_ne": "मृतक दिवस (दिया दे मुएर्तोस) मेक्सिकोमा मृत आफन्तहरूको सम्मानमा नोभेम्बर १ र २ मा मनाइन्छ।",
+    "id": "FF-369",
+    "source": "UNESCO"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Chinese New Year follows the lunar calendar, so its date changes every year, falling between late January and mid-February.",
+    "fact_ne": "चिनियाँ नयाँ वर्ष चन्द्र पात्रोअनुसार मनाइन्छ, त्यसैले यसको मिति हरेक वर्ष फरक हुन्छ — जनवरीको अन्त्यदेखि फेब्रुअरीको मध्यसम्म पर्छ।",
+    "id": "FF-370",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "The word 'Buddha' means 'the enlightened one' in Sanskrit.",
+    "fact_ne": "'बुद्ध' शब्दको संस्कृतमा अर्थ 'ज्ञानी' वा 'जागृत व्यक्ति' हो।",
+    "id": "FF-371",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "Culture",
+    "fact_en": "Maitighar, released in 1966, was the first Nepali film produced by a private company.",
+    "fact_ne": "सन् १९६६ मा प्रदर्शन भएको 'माइतीघर' निजी कम्पनीले निर्माण गरेको पहिलो नेपाली चलचित्र हो।",
+    "id": "FF-372",
+    "source": "Wikipedia"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Nepal has had seven constitutions; the first was the Government of Nepal Act of 1948.",
+    "fact_ne": "नेपालमा सात वटा संविधान बनेका छन्; पहिलो सन् १९४८ को नेपाल सरकार ऐन थियो।",
+    "id": "FF-373",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "The present Constitution was written by the second Constituent Assembly, which had 601 members and was chaired by Subas Chandra Nembang.",
+    "fact_ne": "वर्तमान संविधान दोस्रो संविधानसभाले लेखेको हो, जसमा ६०१ सदस्य थिए र अध्यक्ष सुवासचन्द्र नेम्वाङ थिए।",
+    "id": "FF-374",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "The Constitution was passed with 507 votes in favour and promulgated by President Ram Baran Yadav on 20 September 2015.",
+    "fact_ne": "संविधान ५०७ मतले पारित भयो र राष्ट्रपति रामवरण यादवले २० सेप्टेम्बर २०१५ मा जारी गरे।",
+    "id": "FF-375",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "The first Constituent Assembly, elected in 2008, was dissolved in 2012 without completing the Constitution.",
+    "fact_ne": "सन् २००८ मा निर्वाचित पहिलो संविधानसभा संविधान पूरा नगरी सन् २०१२ मा विघटन भयो।",
+    "id": "FF-376",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 16 guarantees the right to live with dignity, and the death penalty is abolished in Nepal.",
+    "fact_ne": "धारा १६ ले सम्मानपूर्वक बाँच्न पाउने अधिकारको ग्यारेन्टी गर्छ, र नेपालमा मृत्युदण्ड उन्मूलन गरिएको छ।",
+    "id": "FF-377",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 19 guarantees the right to communication, including freedom of opinion, expression and the press.",
+    "fact_ne": "धारा १९ ले सञ्चारको अधिकारको ग्यारेन्टी गर्छ, जसमा विचार, अभिव्यक्ति र प्रेस स्वतन्त्रता पर्छन्।",
+    "id": "FF-378",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 20 guarantees the right to justice, including a fair trial and free legal aid for those who cannot afford a lawyer.",
+    "fact_ne": "धारा २० ले न्यायको अधिकारको ग्यारेन्टी गर्छ, जसमा निष्पक्ष सुनुवाइ र वकिल राख्न नसक्नेका लागि निःशुल्क कानुनी सहायता पर्छ।",
+    "id": "FF-379",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 21 gives a victim of crime the right to information about the case, justice, social rehabilitation and compensation.",
+    "fact_ne": "धारा २१ ले अपराध पीडितलाई मुद्दाबारे जानकारी, न्याय, सामाजिक पुनर्स्थापना र क्षतिपूर्ति पाउने अधिकार दिन्छ।",
+    "id": "FF-380",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 22 says no person who is arrested or detained shall be subjected to physical or mental torture.",
+    "fact_ne": "धारा २२ ले पक्राउ वा थुनामा परेको कुनै पनि व्यक्तिलाई शारीरिक वा मानसिक यातना दिन नहुने व्यवस्था गर्छ।",
+    "id": "FF-381",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 24 makes untouchability and caste-based discrimination a punishable offence.",
+    "fact_ne": "धारा २४ ले छुवाछूत र जातीय भेदभावलाई दण्डनीय अपराध बनाएको छ।",
+    "id": "FF-382",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 25 guarantees the right to property — to acquire, own, sell and use property, with compensation if the state acquires it.",
+    "fact_ne": "धारा २५ ले सम्पत्तिको अधिकारको ग्यारेन्टी गर्छ — सम्पत्ति किन्न, राख्न, बेच्न र प्रयोग गर्न पाइन्छ, र राज्यले लिएमा क्षतिपूर्ति दिनुपर्छ।",
+    "id": "FF-383",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 26 guarantees freedom of religion — to profess, practise and protect one's religion.",
+    "fact_ne": "धारा २६ ले धार्मिक स्वतन्त्रताको ग्यारेन्टी गर्छ — आफ्नो धर्म मान्न, अभ्यास गर्न र संरक्षण गर्न पाइन्छ।",
+    "id": "FF-384",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 28 guarantees the right to privacy of a person's body, home, property, documents and correspondence.",
+    "fact_ne": "धारा २८ ले व्यक्ति, घर, सम्पत्ति, कागजात र पत्राचारको गोपनीयताको अधिकारको ग्यारेन्टी गर्छ।",
+    "id": "FF-385",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 29 guarantees the right against exploitation, banning trafficking, slavery, bonded labour and forced labour.",
+    "fact_ne": "धारा २९ ले शोषणविरुद्धको अधिकारको ग्यारेन्टी गर्छ — मानव बेचबिखन, दासता, बँधुवा मजदुरी र जबरजस्ती श्रम निषेध गरिएको छ।",
+    "id": "FF-386",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 32 guarantees the right to language and culture, including education in one's mother tongue.",
+    "fact_ne": "धारा ३२ ले भाषा र संस्कृतिको अधिकारको ग्यारेन्टी गर्छ, जसमा मातृभाषामा शिक्षा पाउने अधिकार पनि पर्छ।",
+    "id": "FF-387",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 34 guarantees the right to labour, including fair wages and safe working conditions.",
+    "fact_ne": "धारा ३४ ले श्रमको अधिकारको ग्यारेन्टी गर्छ, जसमा उचित ज्याला र सुरक्षित काम गर्ने वातावरण पर्छ।",
+    "id": "FF-388",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 40 guarantees special rights for Dalits, including the right to participate in public services and provisions against untouchability.",
+    "fact_ne": "धारा ४० ले दलितहरूका लागि विशेष अधिकारको ग्यारेन्टी गर्छ, जसमा सार्वजनिक सेवामा सहभागिता र छुवाछूतविरुद्धको व्यवस्था पर्छ।",
+    "id": "FF-389",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 41 guarantees rights for senior citizens, including social security and protection.",
+    "fact_ne": "धारा ४१ ले ज्येष्ठ नागरिकका लागि सामाजिक सुरक्षा र संरक्षणसहितका अधिकारको ग्यारेन्टी गर्छ।",
+    "id": "FF-390",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 43 guarantees the right to social security for citizens who are poor, disabled, or unable to work.",
+    "fact_ne": "धारा ४३ ले गरिब, अपाङ्गता भएका वा काम गर्न नसक्ने नागरिकलाई सामाजिक सुरक्षाको अधिकारको ग्यारेन्टी गर्छ।",
+    "id": "FF-391",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "Constitution",
+    "fact_en": "Article 44 guarantees the right of consumers to quality goods and services and to compensation for harm.",
+    "fact_ne": "धारा ४४ ले उपभोक्तालाई गुणस्तरीय वस्तु र सेवा पाउने र हानि भएमा क्षतिपूर्ति पाउने अधिकारको ग्यारेन्टी गर्छ।",
+    "id": "FF-392",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "category": "World",
+    "fact_en": "The Andes, stretching about 7,000 kilometres along South America's west coast, are the longest mountain range in the world.",
+    "fact_ne": "एन्डिज हिमशृङ्खला दक्षिण अमेरिकाको पश्चिमी तटमा करिब ७,००० किलोमिटरसम्म फैलिएको छ — यो विश्वको सबैभन्दा लामो हिमशृङ्खला हो।",
+    "id": "FF-394",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "World",
+    "fact_en": "Algeria is the largest country in Africa, covering about 2.38 million square kilometres.",
+    "fact_ne": "अल्जेरिया अफ्रिकाको सबैभन्दा ठूलो देश हो, यसको क्षेत्रफल करिब २३ लाख ८० हजार वर्ग किलोमिटर छ।",
+    "id": "FF-395",
+    "source": "CIA World Factbook"
+  },
+  {
+    "category": "World",
+    "fact_en": "New Zealand was the first country in the world to give women the right to vote, in 1893.",
+    "fact_ne": "न्युजिल्यान्ड महिलालाई मतदानको अधिकार दिने विश्वको पहिलो देश थियो — सन् १८९३ मा।",
+    "id": "FF-396",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "World",
+    "fact_en": "China was the first country to use paper money, in the 11th century during the Song dynasty.",
+    "fact_ne": "चीन कागजी मुद्रा प्रयोग गर्ने पहिलो देश थियो — सङ वंशको समयमा ११औँ शताब्दीमा।",
+    "id": "FF-397",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "World",
+    "fact_en": "Hartsfield-Jackson Atlanta International Airport is the world's busiest airport by passenger traffic.",
+    "fact_ne": "हार्ट्सफिल्ड-ज्याक्सन एटलान्टा अन्तर्राष्ट्रिय विमानस्थल यात्रु संख्याका आधारमा विश्वको सबैभन्दा व्यस्त विमानस्थल हो।",
+    "id": "FF-398",
+    "source": "Airports Council International"
+  },
+  {
+    "category": "World",
+    "fact_en": "Iceland has no standing army — it is one of the few countries in the world without armed forces.",
+    "fact_ne": "आइसल्यान्डको स्थायी सेना छैन — यो सशस्त्र सेना नभएका विश्वका थोरै देशमध्ये एक हो।",
+    "id": "FF-399",
+    "source": "CIA World Factbook"
+  },
+  {
+    "category": "World",
+    "fact_en": "Singapore is a city-state — a single city that is also an independent country.",
+    "fact_ne": "सिंगापुर एउटा नगर-राज्य हो — एउटै सहर पनि हो र स्वतन्त्र देश पनि हो।",
+    "id": "FF-400",
+    "source": "CIA World Factbook"
+  },
+  {
+    "category": "World",
+    "fact_en": "Japan is made up of more than 14,000 islands.",
+    "fact_ne": "जापान १४,००० भन्दा बढी टापुहरू मिलेर बनेको छ।",
+    "id": "FF-401",
+    "source": "Geospatial Information Authority of Japan"
+  },
+  {
+    "category": "World",
+    "fact_en": "The Gobi Desert is the largest desert in Asia, stretching across northern China and southern Mongolia.",
+    "fact_ne": "गोबी मरुभूमि एसियाको सबैभन्दा ठूलो मरुभूमि हो, यो उत्तरी चीन र दक्षिणी मंगोलियामा फैलिएको छ।",
+    "id": "FF-402",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite in space.",
+    "fact_ne": "सोभियत संघले सन् १९५७ मा प्रक्षेपण गरेको स्पुतनिक १ अन्तरिक्षमा पुगेको पहिलो कृत्रिम उपग्रह थियो।",
+    "id": "FF-403",
+    "source": "NASA"
+  },
+  {
+    "category": "History",
+    "fact_en": "Valentina Tereshkova of the Soviet Union became the first woman in space in 1963.",
+    "fact_ne": "सोभियत संघकी भ्यालेन्टिना तेरेस्कोभा सन् १९६३ मा अन्तरिक्षमा पुग्ने पहिली महिला बनिन्।",
+    "id": "FF-404",
+    "source": "NASA"
+  },
+  {
+    "category": "History",
+    "fact_en": "The first photograph was taken by Joseph Nicéphore Niépce in France in 1826.",
+    "fact_ne": "पहिलो तस्बिर फ्रान्सका जोसेफ निसेफोर निएप्सले सन् १८२६ मा खिचेका थिए।",
+    "id": "FF-405",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "ENIAC, completed in 1945, was the first general-purpose electronic computer.",
+    "fact_ne": "सन् १९४५ मा सम्पन्न भएको इनियाक पहिलो सामान्य प्रयोजनको इलेक्ट्रोनिक कम्प्युटर थियो।",
+    "id": "FF-406",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "Ray Tomlinson sent the first email in 1971 and chose the '@' symbol to separate the user from the computer.",
+    "fact_ne": "रे टोमलिन्सनले सन् १९७१ मा पहिलो इमेल पठाए र प्रयोगकर्तालाई कम्प्युटरबाट छुट्याउन '@' चिन्ह रोजे।",
+    "id": "FF-407",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "Roald Amundsen of Norway became the first person to reach the South Pole, in December 1911.",
+    "fact_ne": "नर्वेका रोल्ड आमुन्डसेन डिसेम्बर १९११ मा दक्षिणी ध्रुवमा पुग्ने पहिलो व्यक्ति बने।",
+    "id": "FF-408",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "Ferdinand Magellan's expedition of 1519–1522 was the first to sail all the way around the world.",
+    "fact_ne": "फर्डिनान्ड म्यागेलनको सन् १५१९–१५२२ को अभियान विश्वभरि यात्रा गर्ने पहिलो अभियान थियो।",
+    "id": "FF-409",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "The first human heart transplant was performed by Christiaan Barnard in South Africa in 1967.",
+    "fact_ne": "पहिलो मानव मुटु प्रत्यारोपण दक्षिण अफ्रिकामा क्रिस्टियान बार्नार्डले सन् १९६७ मा गरेका थिए।",
+    "id": "FF-410",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "category": "History",
+    "fact_en": "Alexander Fleming discovered penicillin in 1928, the first widely used antibiotic.",
+    "fact_ne": "अलेक्जेन्डर फ्लेमिङले सन् १९२८ मा पेनिसिलिन पत्ता लगाए — यो पहिलो व्यापक रूपमा प्रयोग भएको एन्टिबायोटिक थियो।",
+    "id": "FF-411",
+    "source": "Nobel Prize Foundation"
+  },
+  {
+    "category": "History",
+    "fact_en": "Edward Jenner created the first vaccine, against smallpox, in 1796.",
+    "fact_ne": "एडवर्ड जेनरले सन् १७९६ मा बिफरविरुद्ध पहिलो खोप बनाए।",
+    "id": "FF-412",
+    "source": "World Health Organization"
+  },
+  {
+    "id": "FF-R7-001",
+    "category": "Nepal",
+    "fact_en": "The Kathmandu Valley's three historic cities are Kathmandu, Bhaktapur and Lalitpur (Patan).",
+    "fact_ne": "काठमाडौं उपत्यकाका तीन ऐतिहासिक सहरहरू काठमाडौं, भक्तपुर र ललितपुर (पाटन) हुन्।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-002",
+    "category": "Nepal",
+    "fact_en": "Bhaktapur Durbar Square is one of the seven UNESCO World Heritage monument zones in the Kathmandu Valley.",
+    "fact_ne": "भक्तपुर दरबार क्षेत्र काठमाडौं उपत्यकाका सात युनेस्को विश्व सम्पदा स्मारक क्षेत्रहरूमध्ये एक हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-003",
+    "category": "Nepal",
+    "fact_en": "B. P. Koirala became Nepal's first elected prime minister in 1959.",
+    "fact_ne": "बी. पी. कोइराला सन् १९५९ मा नेपालका पहिलो निर्वाचित प्रधानमन्त्री बने।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-004",
+    "category": "Nepal",
+    "fact_en": "Ang Rita Sherpa, known as the 'Snow Leopard', climbed Mount Everest ten times without supplementary oxygen.",
+    "fact_ne": "‘हिउँ चितुवा’ भनेर चिनिने आङरिता शेर्पाले अक्सिजनबिना नै सगरमाथा दश पटक चढेका थिए।",
+    "source": "Guinness World Records"
+  },
+  {
+    "id": "FF-R7-005",
+    "category": "Nepal",
+    "fact_en": "Nepal adopted its current non-rectangular national flag in 1962.",
+    "fact_ne": "नेपालले सन् १९६२ मा हालको आयताकार नभएको राष्ट्रिय झण्डा अपनाएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-006",
+    "category": "Nepal",
+    "fact_en": "Dolpa is Nepal's largest district by area, covering about 7,889 square kilometres.",
+    "fact_ne": "डोल्पा क्षेत्रफलका हिसाबले नेपालको सबैभन्दा ठूलो जिल्ला हो, जसको क्षेत्रफल करिब ७,८८९ वर्ग किलोमिटर छ।",
+    "source": "Government of Nepal"
+  },
+  {
+    "id": "FF-R7-007",
+    "category": "Nepal",
+    "fact_en": "Bhaktapur is Nepal's smallest district by area, covering only about 119 square kilometres.",
+    "fact_ne": "भक्तपुर क्षेत्रफलका हिसाबले नेपालको सबैभन्दा सानो जिल्ला हो, जसको क्षेत्रफल जम्मा करिब ११९ वर्ग किलोमिटर छ।",
+    "source": "Government of Nepal"
+  },
+  {
+    "id": "FF-R7-008",
+    "category": "Nepal",
+    "fact_en": "Kathmandu is Nepal's most populous district, with more than two million residents in the 2021 census.",
+    "fact_ne": "काठमाडौं नेपालको सबैभन्दा धेरै जनसंख्या भएको जिल्ला हो, जहाँ २०२१ को जनगणनामा २० लाखभन्दा बढी बासिन्दा थिए।",
+    "source": "CBS Nepal Census 2021"
+  },
+  {
+    "id": "FF-R7-009",
+    "category": "Nepal",
+    "fact_en": "Manang is Nepal's least populated district, with only 5,658 residents in the 2021 census.",
+    "fact_ne": "मनाङ नेपालको सबैभन्दा कम जनसंख्या भएको जिल्ला हो, जहाँ २०२१ को जनगणनामा जम्मा ५,६५८ बासिन्दा थिए।",
+    "source": "CBS Nepal Census 2021"
+  },
+  {
+    "id": "FF-R7-010",
+    "category": "Nepal",
+    "fact_en": "The Mahendra Highway runs about 1,000 kilometres across Nepal's Terai, from east to west.",
+    "fact_ne": "महेन्द्र राजमार्ग पूर्वदेखि पश्चिमसम्म तराई हुँदै करिब १,००० किलोमिटर लामो छ।",
+    "source": "Government of Nepal"
+  },
+  {
+    "id": "FF-R7-011",
+    "category": "Nepal",
+    "fact_en": "Until 2022, Tribhuvan International Airport in Kathmandu was Nepal's only international airport.",
+    "fact_ne": "सन् २०२२ सम्म त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल नेपालको एक मात्र अन्तर्राष्ट्रिय विमानस्थल थियो।",
+    "source": "Civil Aviation Authority of Nepal"
+  },
+  {
+    "id": "FF-R7-012",
+    "category": "Nepal",
+    "fact_en": "Nepal's first railway, between Raxaul and Amlekhganj, opened in 1927.",
+    "fact_ne": "नेपालको पहिलो रेलमार्ग रक्सौल–अमलेखगञ्जबीच सन् १९२७ मा सञ्चालनमा आएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-013",
+    "category": "Nepal",
+    "fact_en": "Nepal Television, the country's first TV channel, began broadcasting in 1985.",
+    "fact_ne": "नेपाल टेलिभिजन, देशको पहिलो टेलिभिजन च्यानल, सन् १९८५ मा प्रसारण सुरु गरेको थियो।",
+    "source": "Nepal Television"
+  },
+  {
+    "id": "FF-R7-014",
+    "category": "Nepal",
+    "fact_en": "Radio Nepal, the country's first radio station, began broadcasting in 1951.",
+    "fact_ne": "रेडियो नेपाल, देशको पहिलो रेडियो स्टेसन, सन् १९५१ मा प्रसारण सुरु गरेको थियो।",
+    "source": "Radio Nepal"
+  },
+  {
+    "id": "FF-R7-015",
+    "category": "Nepal",
+    "fact_en": "Gorkhapatra, first published in 1901, is Nepal's oldest newspaper.",
+    "fact_ne": "सन् १९०१ मा पहिलो पटक प्रकाशित गोरखापत्र नेपालको सबैभन्दा पुरानो पत्रिका हो।",
+    "source": "Gorkhapatra"
+  },
+  {
+    "id": "FF-R7-016",
+    "category": "Nepal",
+    "fact_en": "Nepal's first hydroelectric plant at Pharping began generating power in 1911.",
+    "fact_ne": "फर्पिङस्थित नेपालको पहिलो जलविद्युत् केन्द्रले सन् १९११ मा विद्युत् उत्पादन सुरु गरेको थियो।",
+    "source": "Nepal Electricity Authority"
+  },
+  {
+    "id": "FF-R7-017",
+    "category": "Nepal",
+    "fact_en": "Nepal has 12 national parks.",
+    "fact_ne": "नेपालमा १२ वटा राष्ट्रिय निकुञ्ज छन्।",
+    "source": "Department of National Parks and Wildlife Conservation"
+  },
+  {
+    "id": "FF-R7-018",
+    "category": "Nepal",
+    "fact_en": "Koshi Tappu is Nepal's only wildlife reserve.",
+    "fact_ne": "कोशी टप्पु नेपालको एक मात्र वन्यजन्तु आरक्ष हो।",
+    "source": "Department of National Parks and Wildlife Conservation"
+  },
+  {
+    "id": "FF-R7-019",
+    "category": "Nepal",
+    "fact_en": "Nepal has six conservation areas, including the Annapurna Conservation Area — the largest.",
+    "fact_ne": "नेपालमा छ वटा संरक्षण क्षेत्र छन्, जसमध्ये अन्नपूर्ण संरक्षण क्षेत्र सबैभन्दा ठूलो हो।",
+    "source": "Department of National Parks and Wildlife Conservation"
+  },
+  {
+    "id": "FF-R7-020",
+    "category": "Nepal",
+    "fact_en": "Thorong La, at 5,416 metres, is one of the highest mountain passes in the world.",
+    "fact_ne": "५,४१६ मिटर अग्लो थोरोङ ला विश्वका सबैभन्दा अग्ला हिमाली भञ्ज्याङहरूमध्ये एक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-021",
+    "category": "Nepal",
+    "fact_en": "The Kali Gandaki gorge, between Dhaulagiri and Annapurna, is one of the deepest gorges in the world.",
+    "fact_ne": "धौलागिरि र अन्नपूर्णबीच रहेको कालीगण्डकी खोंच विश्वका सबैभन्दा गहिरा खोंचहरूमध्ये एक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-022",
+    "category": "Nepal",
+    "fact_en": "Biratnagar is the capital of Koshi Province, and Janakpur is the capital of Madhesh Province.",
+    "fact_ne": "विराटनगर कोशी प्रदेशको राजधानी हो भने जनकपुर मधेश प्रदेशको राजधानी हो।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-023",
+    "category": "Nepal",
+    "fact_en": "Pokhara is Nepal's second-largest city by population.",
+    "fact_ne": "पोखरा जनसंख्याका हिसाबले नेपालको दोस्रो ठूलो सहर हो।",
+    "source": "CBS Nepal Census 2021"
+  },
+  {
+    "id": "FF-R7-024",
+    "category": "Nepal",
+    "fact_en": "Bidya Devi Bhandari became Nepal's first woman president in 2015.",
+    "fact_ne": "विद्यादेवी भण्डारी सन् २०१५ मा नेपालकी पहिलो महिला राष्ट्रपति बनिन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-025",
+    "category": "Nepal",
+    "fact_en": "Ram Baran Yadav became Nepal's first president in 2008.",
+    "fact_ne": "रामवरण यादव सन् २००८ मा नेपालका पहिलो राष्ट्रपति बने।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-026",
+    "category": "Nepal",
+    "fact_en": "Sushila Karki became Nepal's first woman Chief Justice in 2016.",
+    "fact_ne": "सुशीला कार्की सन् २०१६ मा नेपालकी पहिलो महिला प्रधानन्यायाधीश बनिन्।",
+    "source": "Supreme Court of Nepal"
+  },
+  {
+    "id": "FF-R7-027",
+    "category": "Nepal",
+    "fact_en": "The 2015 earthquake's epicentre was near Barpak in Gorkha district.",
+    "fact_ne": "सन् २०१५ को भूकम्पको केन्द्रबिन्दु गोरखा जिल्लाको बारपाक नजिक थियो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-R7-028",
+    "category": "Nepal",
+    "fact_en": "Nepal's monsoon rains usually arrive in June and last until September.",
+    "fact_ne": "नेपालमा मनसुनी वर्षा सामान्यतया जुनमा सुरु भएर सेप्टेम्बरसम्म रहन्छ।",
+    "source": "Department of Hydrology and Meteorology"
+  },
+  {
+    "id": "FF-R7-029",
+    "category": "Nepal",
+    "fact_en": "Rice is Nepal's main food crop, grown mostly in the Terai.",
+    "fact_ne": "धान नेपालको मुख्य खाद्यान्न बाली हो, जुन मुख्यतया तराईमा उत्पादन हुन्छ।",
+    "source": "Ministry of Agriculture and Livestock Development"
+  },
+  {
+    "id": "FF-R7-030",
+    "category": "Nepal",
+    "fact_en": "Ilam, in eastern Nepal, is famous for its tea gardens.",
+    "fact_ne": "पूर्वी नेपालको इलाम आफ्ना चिया बगानहरूका लागि प्रसिद्ध छ।",
+    "source": "Nepal Tourism Board"
+  },
+  {
+    "id": "FF-R7-031",
+    "category": "Nepal",
+    "fact_en": "Nepal is the world's largest producer of large cardamom, accounting for more than half of global output.",
+    "fact_ne": "नेपाल ठूलो अलैंचीको विश्वकै सबैभन्दा ठूलो उत्पादक हो, जसले विश्व उत्पादनको आधाभन्दा बढी हिस्सा ओगटेको छ।",
+    "source": "Food and Agriculture Organization"
+  },
+  {
+    "id": "FF-R7-032",
+    "category": "Nepal",
+    "fact_en": "Koshi Province has the most districts in Nepal (14), while Madhesh Province has the fewest (8).",
+    "fact_ne": "कोशी प्रदेशमा नेपालका सबैभन्दा बढी जिल्लाहरू (१४) छन् भने मधेश प्रदेशमा सबैभन्दा कम (८) छन्।",
+    "source": "Government of Nepal"
+  },
+  {
+    "id": "FF-R7-033",
+    "category": "Science",
+    "fact_en": "Water covers about 71% of the Earth's surface.",
+    "fact_ne": "पृथ्वीको सतहको करिब ७१ प्रतिशत भाग पानीले ढाकेको छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-034",
+    "category": "Science",
+    "fact_en": "The human body is made up of about 37 trillion cells.",
+    "fact_ne": "मानव शरीर करिब ३७ ट्रिलियन कोषहरू मिलेर बनेको हुन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-035",
+    "category": "Science",
+    "fact_en": "Humans share about 99% of their DNA with chimpanzees.",
+    "fact_ne": "मानिस र चिम्पान्जीबीच करिब ९९ प्रतिशत डीएनए मिल्दोजुल्दो हुन्छ।",
+    "source": "National Human Genome Research Institute"
+  },
+  {
+    "id": "FF-R7-036",
+    "category": "Science",
+    "fact_en": "The Sun's core temperature is about 15 million degrees Celsius.",
+    "fact_ne": "सूर्यको केन्द्रको तापक्रम करिब १ करोड ५० लाख डिग्री सेल्सियस हुन्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-037",
+    "category": "Science",
+    "fact_en": "The Earth spins at about 1,670 kilometres per hour at the equator.",
+    "fact_ne": "पृथ्वी भूमध्यरेखामा करिब १,६७० किलोमिटर प्रतिघण्टाको गतिमा घुम्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-038",
+    "category": "Science",
+    "fact_en": "Saturn is the only planet less dense than water — it would float.",
+    "fact_ne": "शनि ग्रह पानीभन्दा कम घनत्व भएको एक मात्र ग्रह हो — यो पानीमा तैरिन्थ्यो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-039",
+    "category": "Science",
+    "fact_en": "Venus spins backwards compared to most planets in the solar system.",
+    "fact_ne": "शुक्र ग्रह सौर्यमण्डलका धेरैजसो ग्रहहरूको तुलनामा उल्टो दिशामा घुम्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-040",
+    "category": "Science",
+    "fact_en": "Uranus rotates on its side, tilted about 98 degrees.",
+    "fact_ne": "युरेनस ग्रह करिब ९८ डिग्री ढल्किएर छेउ परेर घुम्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-041",
+    "category": "Science",
+    "fact_en": "Jupiter's Great Red Spot is a giant storm wider than the Earth.",
+    "fact_ne": "बृहस्पतिको ग्रेट रेड स्पट पृथ्वीभन्दा फराकिलो विशाल आँधी हो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-042",
+    "category": "Science",
+    "fact_en": "Neptune has the fastest winds in the solar system, reaching about 2,100 kilometres per hour.",
+    "fact_ne": "नेप्च्युनमा सौर्यमण्डलकै सबैभन्दा तेज हावा चल्छ, जसको गति करिब २,१०० किलोमिटर प्रतिघण्टासम्म पुग्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-043",
+    "category": "Science",
+    "fact_en": "Mars has two small moons, Phobos and Deimos.",
+    "fact_ne": "मङ्गल ग्रहका फोबोस र डेमोस नामका दुई साना चन्द्रमा छन्।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-044",
+    "category": "Science",
+    "fact_en": "Mercury, the planet closest to the Sun, is the smallest planet in the solar system.",
+    "fact_ne": "सूर्यको सबैभन्दा नजिकको ग्रह बुध सौर्यमण्डलको सबैभन्दा सानो ग्रह पनि हो।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-045",
+    "category": "Science",
+    "fact_en": "A year on Mercury lasts only 88 Earth days.",
+    "fact_ne": "बुध ग्रहमा एक वर्ष केवल ८८ पृथ्वी दिनको हुन्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-046",
+    "category": "Science",
+    "fact_en": "The International Space Station orbits the Earth about every 90 minutes.",
+    "fact_ne": "अन्तर्राष्ट्रिय अन्तरिक्ष स्टेसनले पृथ्वीलाई करिब हरेक ९० मिनेटमा एक परिक्रमा गर्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-047",
+    "category": "Science",
+    "fact_en": "The International Space Station travels at about 28,000 kilometres per hour.",
+    "fact_ne": "अन्तर्राष्ट्रिय अन्तरिक्ष स्टेसन करिब २८,००० किलोमिटर प्रतिघण्टाको गतिमा यात्रा गर्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-048",
+    "category": "Science",
+    "fact_en": "The human nose can detect about one trillion different smells.",
+    "fact_ne": "मानव नाकले करिब एक ट्रिलियन फरक गन्ध छुट्याउन सक्छ।",
+    "source": "Science journal"
+  },
+  {
+    "id": "FF-R7-049",
+    "category": "Science",
+    "fact_en": "The femur, or thigh bone, is the longest and strongest bone in the human body.",
+    "fact_ne": "फिमर (तिघ्राको हड्डी) मानव शरीरको सबैभन्दा लामो र बलियो हड्डी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-050",
+    "category": "Science",
+    "fact_en": "Human skin is the body's largest organ.",
+    "fact_ne": "मानव छाला शरीरको सबैभन्दा ठूलो अङ्ग हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-051",
+    "category": "Science",
+    "fact_en": "Fingernails grow about 3 millimetres a month.",
+    "fact_ne": "हातका नङहरू महिनामा करिब ३ मिलिमिटर बढ्छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-052",
+    "category": "Science",
+    "fact_en": "The human brain uses about 20% of the body's energy.",
+    "fact_ne": "मानव मस्तिष्कले शरीरको करिब २० प्रतिशत ऊर्जा प्रयोग गर्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-053",
+    "category": "Science",
+    "fact_en": "A sneeze can travel at about 160 kilometres per hour.",
+    "fact_ne": "हाच्छिउँ करिब १६० किलोमिटर प्रतिघण्टाको गतिमा जान सक्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-054",
+    "category": "Science",
+    "fact_en": "The human eye can distinguish about 10 million different colours.",
+    "fact_ne": "मानव आँखाले करिब एक करोड फरक रङ छुट्याउन सक्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-055",
+    "category": "Science",
+    "fact_en": "Mercury and bromine are the only two elements that are liquid at room temperature.",
+    "fact_ne": "पारा र ब्रोमिन कोठाको तापक्रममा तरल अवस्थामा रहने एक मात्र दुई तत्व हुन्।",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "FF-R7-056",
+    "category": "Science",
+    "fact_en": "Oxygen is the most abundant element in the Earth's crust, making up about 46% of it.",
+    "fact_ne": "अक्सिजन पृथ्वीको भूपृष्ठमा सबैभन्दा धेरै पाइने तत्व हो, जसले यसको करिब ४६ प्रतिशत भाग ओगटेको छ।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-R7-057",
+    "category": "Science",
+    "fact_en": "Aluminium is the most abundant metal in the Earth's crust.",
+    "fact_ne": "आल्मुनियम पृथ्वीको भूपृष्ठमा सबैभन्दा धेरै पाइने धातु हो।",
+    "source": "Royal Society of Chemistry"
+  },
+  {
+    "id": "FF-R7-058",
+    "category": "Science",
+    "fact_en": "Diamonds and graphite are both made of pure carbon.",
+    "fact_ne": "हीरा र ग्राफाइट दुवै शुद्ध कार्बनबाट बनेका हुन्छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-059",
+    "category": "Science",
+    "fact_en": "Ice floats on water because it is less dense than liquid water.",
+    "fact_ne": "बरफ पानीभन्दा कम घनत्व भएकोले पानीमा तैरिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-060",
+    "category": "Science",
+    "fact_en": "Lightning strikes somewhere on Earth about 100 times every second.",
+    "fact_ne": "पृथ्वीमा कतै न कतै हरेक सेकेन्डमा करिब १०० पटक चट्याङ पर्छ।",
+    "source": "NASA"
+  },
+  {
+    "id": "FF-R7-061",
+    "category": "World",
+    "fact_en": "Canada is the second-largest country in the world, after Russia.",
+    "fact_ne": "क्यानडा रुसियापछि विश्वको दोस्रो ठूलो देश हो।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-R7-062",
+    "category": "World",
+    "fact_en": "Indonesia is the world's largest island country, with more than 17,000 islands.",
+    "fact_ne": "इन्डोनेसिया विश्वको सबैभन्दा ठूलो द्वीप राष्ट्र हो, जहाँ १७,००० भन्दा बढी टापु छन्।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-R7-063",
+    "category": "World",
+    "fact_en": "San Marino, founded in 301 CE, is the world's oldest republic.",
+    "fact_ne": "सन् ३०१ मा स्थापित सान मारिनो विश्वको सबैभन्दा पुरानो गणतन्त्र हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-064",
+    "category": "World",
+    "fact_en": "Ethiopia and Liberia are the only two African countries never colonised by a European power.",
+    "fact_ne": "इथियोपिया र लाइबेरिया युरोपेली शक्तिद्वारा कहिल्यै उपनिवेश नबनाइएका अफ्रिकाका दुई मात्र देश हुन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-065",
+    "category": "World",
+    "fact_en": "South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
+    "fact_ne": "दक्षिण अफ्रिकाका तीन राजधानी सहरहरू छन्: प्रिटोरिया, केप टाउन र ब्लुमफोन्टेन।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-066",
+    "category": "World",
+    "fact_en": "Nigeria is the most populous country in Africa.",
+    "fact_ne": "नाइजेरिया अफ्रिकाको सबैभन्दा धेरै जनसंख्या भएको देश हो।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-R7-067",
+    "category": "World",
+    "fact_en": "Thailand is the only Southeast Asian country never colonised by a European power.",
+    "fact_ne": "थाइल्यान्ड युरोपेली शक्तिद्वारा कहिल्यै उपनिवेश नबनाइएको दक्षिणपूर्वी एसियाको एक मात्र देश हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-068",
+    "category": "World",
+    "fact_en": "North and South Korea are still technically at war — their 1953 armistice never became a peace treaty.",
+    "fact_ne": "उत्तर र दक्षिण कोरिया प्राविधिक रूपमा अझै युद्धमा छन् — सन् १९५३ को युद्धविराम कहिल्यै शान्ति सन्धिमा परिणत भएन।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-069",
+    "category": "World",
+    "fact_en": "Indonesia is building a new capital, Nusantara, on the island of Borneo.",
+    "fact_ne": "इन्डोनेसियाले बोर्नियो टापुमा नुसान्तारा नामको नयाँ राजधानी निर्माण गरिरहेको छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-070",
+    "category": "World",
+    "fact_en": "Canberra, not Sydney, is the capital of Australia.",
+    "fact_ne": "सिड्नी होइन, क्यानबेरा अष्ट्रेलियाको राजधानी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-071",
+    "category": "World",
+    "fact_en": "Brasília became the capital of Brazil in 1960, replacing Rio de Janeiro.",
+    "fact_ne": "ब्रासिलिया सन् १९६० मा रियो दि जेनेरियोलाई प्रतिस्थापन गर्दै ब्राजिलको राजधानी बन्यो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-072",
+    "category": "World",
+    "fact_en": "Chile is the longest country in the world from north to south, stretching about 4,300 kilometres.",
+    "fact_ne": "चिली उत्तरदेखि दक्षिणसम्म विश्वको सबैभन्दा लामो देश हो, जुन करिब ४,३०० किलोमिटर लामो छ।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-R7-073",
+    "category": "World",
+    "fact_en": "Mexico has more Spanish speakers than Spain.",
+    "fact_ne": "मेक्सिकोमा स्पेनभन्दा बढी स्पेनिस बोल्ने मानिस छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-074",
+    "category": "World",
+    "fact_en": "Hawaii is the only US state that grows coffee commercially.",
+    "fact_ne": "हवाई कफी व्यावसायिक रूपमा उत्पादन गर्ने अमेरिकाको एक मात्र राज्य हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-075",
+    "category": "World",
+    "fact_en": "Canada has more lakes than all other countries in the world combined.",
+    "fact_ne": "क्यानडामा बाँकी विश्वका सबै देशहरूमा भएका तालहरूभन्दा बढी ताल छन्।",
+    "source": "Natural Resources Canada"
+  },
+  {
+    "id": "FF-R7-076",
+    "category": "World",
+    "fact_en": "The world's population passed 8 billion in November 2022.",
+    "fact_ne": "विश्वको जनसंख्या सन् २०२२ को नोभेम्बरमा ८ अर्ब नाघेको थियो।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-R7-077",
+    "category": "World",
+    "fact_en": "Finland has about 188,000 lakes.",
+    "fact_ne": "फिनल्यान्डमा करिब १,८८,००० तालहरू छन्।",
+    "source": "Statistics Finland"
+  },
+  {
+    "id": "FF-R7-078",
+    "category": "World",
+    "fact_en": "About a quarter of the Netherlands lies below sea level.",
+    "fact_ne": "नेदरल्यान्ड्सको करिब एक चौथाइ भाग समुद्री सतहभन्दा तल छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-079",
+    "category": "World",
+    "fact_en": "France is the most visited country in the world.",
+    "fact_ne": "फ्रान्स विश्वको सबैभन्दा धेरै भ्रमण गरिने देश हो।",
+    "source": "UN Tourism"
+  },
+  {
+    "id": "FF-R7-080",
+    "category": "World",
+    "fact_en": "Istanbul is the only city in the world that sits on two continents, Europe and Asia.",
+    "fact_ne": "इस्तानबुल युरोप र एसिया गरी दुई महादेशमा फैलिएको विश्वको एक मात्र सहर हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-081",
+    "category": "World",
+    "fact_en": "Bhutan is the world's only carbon-negative country — it absorbs more carbon than it emits.",
+    "fact_ne": "भुटान विश्वको एक मात्र कार्बन-नकारात्मक देश हो — यसले उत्सर्जन गर्नेभन्दा बढी कार्बन सोस्छ।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-R7-082",
+    "category": "World",
+    "fact_en": "Bhutan measures progress with Gross National Happiness instead of only GDP.",
+    "fact_ne": "भुटानले केवल कुल गार्हस्थ्य उत्पादन मात्र नभई कुल राष्ट्रिय खुशीबाट प्रगति नाप्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-083",
+    "category": "World",
+    "fact_en": "Laos is the only landlocked country in Southeast Asia.",
+    "fact_ne": "लाओस दक्षिणपूर्वी एसियाको एक मात्र भूमिबद्ध देश हो।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-R7-084",
+    "category": "World",
+    "fact_en": "Kazakhstan is the largest landlocked country in the world.",
+    "fact_ne": "कजाकिस्तान विश्वको सबैभन्दा ठूलो भूमिबद्ध देश हो।",
+    "source": "CIA World Factbook"
+  },
+  {
+    "id": "FF-R7-085",
+    "category": "World",
+    "fact_en": "Uzbekistan is one of only two doubly landlocked countries in the world — the other is Liechtenstein.",
+    "fact_ne": "उज्बेकिस्तान विश्वका दुई मात्र दोहोरो भूमिबद्ध देशहरूमध्ये एक हो — अर्को लिचटेन्सटाइन हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-086",
+    "category": "World",
+    "fact_en": "The prime meridian (0° longitude) passes through Greenwich in London.",
+    "fact_ne": "प्रधान मध्याह्न रेखा (०° देशान्तर) लन्डनको ग्रिनविच हुँदै जान्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-087",
+    "category": "History",
+    "fact_en": "The Great Wall of China was built over many centuries, starting around the 7th century BCE.",
+    "fact_ne": "चीनको ठूलो पर्खाल धेरै शताब्दी लगाएर निर्माण गरिएको थियो, जसको सुरुवात करिब ईसापूर्व ७औं शताब्दीमा भएको थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-088",
+    "category": "History",
+    "fact_en": "Nalanda, founded in the 5th century CE, was one of the world's first residential universities.",
+    "fact_ne": "५औं शताब्दीमा स्थापित नालन्दा विश्वका पहिलो आवासीय विश्वविद्यालयहरूमध्ये एक थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-089",
+    "category": "History",
+    "fact_en": "The first coins were made in Lydia, in present-day Turkey, around 600 BCE.",
+    "fact_ne": "पहिलो सिक्काहरू करिब ईसापूर्व ६०० मा लिडियामा (हालको टर्की) बनाइएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-090",
+    "category": "History",
+    "fact_en": "The world's oldest bank still in operation, Monte dei Paschi di Siena, was founded in Italy in 1472.",
+    "fact_ne": "अझै सञ्चालनमा रहेको विश्वको सबैभन्दा पुरानो बैंक, मोन्टे देई पास्की दि सिएना, सन् १४७२ मा इटालीमा स्थापित भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-091",
+    "category": "History",
+    "fact_en": "The first stock exchange opened in Amsterdam in 1602.",
+    "fact_ne": "पहिलो स्टक एक्सचेन्ज सन् १६०२ मा एम्स्टर्डममा खुलेको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-092",
+    "category": "History",
+    "fact_en": "The first printed newspaper appeared in Strasbourg in 1605.",
+    "fact_ne": "पहिलो छापिएको पत्रिका सन् १६०५ मा स्ट्रासबर्गमा प्रकाशित भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-093",
+    "category": "History",
+    "fact_en": "The first programmable computer, the Z3, was built by Konrad Zuse in 1941.",
+    "fact_ne": "पहिलो प्रोग्राम गर्न मिल्ने कम्प्युटर, जेड३, कोनराड जुसेले सन् १९४१ मा बनाएका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-094",
+    "category": "History",
+    "fact_en": "The first mobile phone call was made by Martin Cooper in 1973.",
+    "fact_ne": "पहिलो मोबाइल फोन कल मार्टिन कुपरले सन् १९७३ मा गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-095",
+    "category": "History",
+    "fact_en": "The first text message was sent in 1992.",
+    "fact_ne": "पहिलो टेक्स्ट सन्देश सन् १९९२ मा पठाइएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-096",
+    "category": "History",
+    "fact_en": "The first website went live in 1991, created by Tim Berners-Lee.",
+    "fact_ne": "पहिलो वेबसाइट सन् १९९१ मा टिम बर्नर्स-लीद्वारा सिर्जना गरिएको थियो।",
+    "source": "CERN"
+  },
+  {
+    "id": "FF-R7-097",
+    "category": "History",
+    "fact_en": "The first iPhone was released in 2007.",
+    "fact_ne": "पहिलो आइफोन सन् २००७ मा सार्वजनिक भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-098",
+    "category": "History",
+    "fact_en": "The first passenger railway, between Stockton and Darlington in England, opened in 1825.",
+    "fact_ne": "इङ्ग्ल्यान्डको स्टकटन र डार्लिङ्टनबीचको पहिलो यात्री रेलमार्ग सन् १८२५ मा खुलेको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-099",
+    "category": "History",
+    "fact_en": "The first underground railway opened in London in 1863.",
+    "fact_ne": "पहिलो भूमिगत रेलमार्ग सन् १८६३ मा लन्डनमा खुलेको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-100",
+    "category": "History",
+    "fact_en": "The first Nobel Prizes were awarded in 1901.",
+    "fact_ne": "पहिलो नोबेल पुरस्कारहरू सन् १९०१ मा प्रदान गरिएका थिए।",
+    "source": "Nobel Prize"
+  },
+  {
+    "id": "FF-R7-101",
+    "category": "History",
+    "fact_en": "Marie Curie is the only person to win Nobel Prizes in two different sciences — Physics and Chemistry.",
+    "fact_ne": "मेरी क्युरी दुई फरक विज्ञान — भौतिकशास्त्र र रसायनशास्त्र — मा नोबेल पुरस्कार जित्ने एक मात्र व्यक्ति हुन्।",
+    "source": "Nobel Prize"
+  },
+  {
+    "id": "FF-R7-102",
+    "category": "History",
+    "fact_en": "The first successful kidney transplant was performed in 1954.",
+    "fact_ne": "पहिलो सफल मिर्गौला प्रत्यारोपण सन् १९५४ मा गरिएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-103",
+    "category": "History",
+    "fact_en": "The first test-tube baby, Louise Brown, was born in 1978.",
+    "fact_ne": "पहिलो टेस्ट ट्युब शिशु, लुइस ब्राउन, सन् १९७८ मा जन्मिएकी थिइन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-104",
+    "category": "History",
+    "fact_en": "Dolly the sheep, born in 1996, was the first mammal cloned from an adult cell.",
+    "fact_ne": "सन् १९९६ मा जन्मिएकी डली भेडा वयस्क कोषबाट क्लोन गरिएको पहिलो स्तनधारी जनावर थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-105",
+    "category": "History",
+    "fact_en": "The Red Cross was founded in 1863.",
+    "fact_ne": "रेड क्रस सन् १८६३ मा स्थापित भएको थियो।",
+    "source": "International Committee of the Red Cross"
+  },
+  {
+    "id": "FF-R7-106",
+    "category": "History",
+    "fact_en": "Magna Carta, which limited the power of the king, was sealed in England in 1215.",
+    "fact_ne": "राजाको शक्ति सीमित गर्ने म्याग्ना कार्टा सन् १२१५ मा इङ्ग्ल्यान्डमा जारी भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-107",
+    "category": "History",
+    "fact_en": "Iceland's Althing, founded in 930 CE, is the world's oldest parliament.",
+    "fact_ne": "सन् ९३० मा स्थापित आइसल्यान्डको अल्थिङ विश्वको सबैभन्दा पुरानो संसद हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-108",
+    "category": "History",
+    "fact_en": "The United States Constitution, written in 1787, is the oldest written national constitution still in use.",
+    "fact_ne": "सन् १७८७ मा लेखिएको संयुक्त राज्य अमेरिकाको संविधान अझै प्रयोगमा रहेको सबैभन्दा पुरानो लिखित राष्ट्रिय संविधान हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-109",
+    "category": "History",
+    "fact_en": "The first person to reach both the South Pole and the North Pole was Roald Amundsen of Norway.",
+    "fact_ne": "दक्षिणी ध्रुव र उत्तरी ध्रुव दुवैमा पुग्ने पहिलो व्यक्ति नर्वेका रोआल्ड अमुन्डसेन थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-110",
+    "category": "History",
+    "fact_en": "Charles Lindbergh made the first solo non-stop flight across the Atlantic Ocean in 1927.",
+    "fact_ne": "चार्ल्स लिन्डबर्गले सन् १९२७ मा एटलान्टिक महासागर पार गर्ने पहिलो एकल निरन्तर उडान गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-111",
+    "category": "History",
+    "fact_en": "The first successful supersonic flight was made by Chuck Yeager in 1947.",
+    "fact_ne": "पहिलो सफल सुपरसोनिक उडान चक येगरले सन् १९४७ मा गरेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-112",
+    "category": "History",
+    "fact_en": "The first feature film, The Story of the Kelly Gang, was made in Australia in 1906.",
+    "fact_ne": "पहिलो फिचर फिल्म, द स्टोरी अफ द केली ग्याङ, सन् १९०६ मा अष्ट्रेलियामा बनाइएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-113",
+    "category": "Geography",
+    "fact_en": "Mount Blanc, at 4,808 metres, is the highest mountain in the Alps.",
+    "fact_ne": "४,८०८ मिटर अग्लो मोन्ट ब्लाङ्क आल्प्सको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-114",
+    "category": "Geography",
+    "fact_en": "Africa's second-highest peak is Mount Kenya, which rises 5,199 metres above sea level.",
+    "fact_ne": "अफ्रिकाको दोस्रो अग्लो शिखर माउन्ट केन्या हो, जुन समुद्री सतहबाट ५,१९९ मिटर अग्लो छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-115",
+    "category": "Geography",
+    "fact_en": "Mount Kinabalu, at 4,095 metres, is the highest mountain in Malaysia.",
+    "fact_ne": "४,०९५ मिटर अग्लो माउन्ट किनाबालु मलेसियाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-116",
+    "category": "Geography",
+    "fact_en": "Mount Toubkal, at 4,167 metres, is the highest mountain in North Africa.",
+    "fact_ne": "४,१६७ मिटर अग्लो माउन्ट टुब्कल उत्तरी अफ्रिकाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-117",
+    "category": "Geography",
+    "fact_en": "Mount Whitney, at 4,421 metres, is the highest mountain in the contiguous United States.",
+    "fact_ne": "४,४२१ मिटर अग्लो माउन्ट ह्विट्नी संयुक्त राज्य अमेरिकाको निरन्तर भूभागको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-R7-118",
+    "category": "Geography",
+    "fact_en": "Aoraki/Mount Cook, at 3,724 metres, is the highest mountain in New Zealand.",
+    "fact_ne": "३,७२४ मिटर अग्लो ओराकी/माउन्ट कुक न्युजिल्यान्डको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-119",
+    "category": "Geography",
+    "fact_en": "Mount Kosciuszko, at 2,228 metres, is the highest mountain in Australia.",
+    "fact_ne": "२,२२८ मिटर अग्लो माउन्ट कोसिअस्को अष्ट्रेलियाको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-120",
+    "category": "Geography",
+    "fact_en": "Ben Nevis, at 1,345 metres, is the highest mountain in the United Kingdom.",
+    "fact_ne": "१,३४५ मिटर अग्लो बेन नेभिस संयुक्त अधिराज्यको सबैभन्दा अग्लो हिमाल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-121",
+    "category": "Geography",
+    "fact_en": "Mount Etna in Sicily is the most active volcano in Europe.",
+    "fact_ne": "सिसिलीस्थित माउन्ट एट्ना युरोपको सबैभन्दा सक्रिय ज्वालामुखी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-122",
+    "category": "Geography",
+    "fact_en": "Mount Vesuvius destroyed the Roman cities of Pompeii and Herculaneum in 79 CE.",
+    "fact_ne": "भेसुभियस ज्वालामुखीले सन् ७९ मा रोमन सहरहरू पोम्पेई र हर्कुलेनियम नष्ट गरेको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-123",
+    "category": "Geography",
+    "fact_en": "The 1883 eruption of Krakatoa was the loudest sound in recorded history.",
+    "fact_ne": "सन् १८८३ मा क्राकाटोआको विस्फोट रेकर्ड गरिएको इतिहासकै सबैभन्दा ठूलो आवाज थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-124",
+    "category": "Geography",
+    "fact_en": "The Ganges, at about 2,525 kilometres, is the longest river in India.",
+    "fact_ne": "करिब २,५२५ किलोमिटर लामो गंगा भारतको सबैभन्दा लामो नदी हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-125",
+    "category": "Geography",
+    "fact_en": "The Mekong River flows through six countries: China, Myanmar, Laos, Thailand, Cambodia and Vietnam.",
+    "fact_ne": "मेकोङ नदी चीन, म्यानमार, लाओस, थाइल्यान्ड, कम्बोडिया र भियतनाम गरी छ देश हुँदै बग्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-126",
+    "category": "Geography",
+    "fact_en": "The Congo River is the deepest river in the world, reaching about 220 metres deep.",
+    "fact_ne": "कंगो नदी विश्वको सबैभन्दा गहिरो नदी हो, जसको गहिराइ करिब २२० मिटरसम्म पुग्छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-127",
+    "category": "Geography",
+    "fact_en": "North America's five Great Lakes hold about one-fifth of the world's fresh surface water.",
+    "fact_ne": "उत्तर अमेरिकाका पाँच ठूला तालहरूले विश्वको ताजा सतही पानीको करिब एक पाँचौं भाग ओगटेका छन्।",
+    "source": "US Geological Survey"
+  },
+  {
+    "id": "FF-R7-128",
+    "category": "Geography",
+    "fact_en": "Lake Superior is the largest freshwater lake in the world by surface area.",
+    "fact_ne": "सुपेरियर ताल सतह क्षेत्रफलका हिसाबले विश्वको सबैभन्दा ठूलो ताजा पानीको ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-129",
+    "category": "Geography",
+    "fact_en": "Lake Tanganyika is the longest freshwater lake in the world.",
+    "fact_ne": "टांगानिका ताल विश्वको सबैभन्दा लामो ताजा पानीको ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-130",
+    "category": "Geography",
+    "fact_en": "Lake Victoria is the largest lake in Africa.",
+    "fact_ne": "भिक्टोरिया ताल अफ्रिकाको सबैभन्दा ठूलो ताल हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-131",
+    "category": "Geography",
+    "fact_en": "Salar de Uyuni in Bolivia is the world's largest salt flat.",
+    "fact_ne": "बोलिभियाको सालार दे उयुनी विश्वको सबैभन्दा ठूलो नुनिलो मैदान हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-132",
+    "category": "Geography",
+    "fact_en": "The Namib Desert in southern Africa is one of the oldest deserts in the world, at about 55 million years old.",
+    "fact_ne": "दक्षिणी अफ्रिकाको नामिब मरुभूमि विश्वका सबैभन्दा पुराना मरुभूमिहरूमध्ये एक हो, जुन करिब ५ करोड ५० लाख वर्ष पुरानो हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-133",
+    "category": "Geography",
+    "fact_en": "Madagascar is the fourth-largest island in the world.",
+    "fact_ne": "माडागास्कर विश्वको चौथो ठूलो टापु हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-134",
+    "category": "Geography",
+    "fact_en": "Sumatra is the sixth-largest island in the world.",
+    "fact_ne": "सुमात्रा विश्वको छैटौं ठूलो टापु हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-135",
+    "category": "Geography",
+    "fact_en": "The Belize Barrier Reef is the second-largest barrier reef system in the world.",
+    "fact_ne": "बेलिज ब्यारियर रिफ विश्वको दोस्रो ठूलो ब्यारियर रिफ प्रणाली हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-136",
+    "category": "Geography",
+    "fact_en": "The average depth of the world's oceans is about 3,700 metres.",
+    "fact_ne": "विश्वका महासागरहरूको औसत गहिराइ करिब ३,७०० मिटर छ।",
+    "source": "National Oceanic and Atmospheric Administration"
+  },
+  {
+    "id": "FF-R7-137",
+    "category": "Geography",
+    "fact_en": "China's Grand Canal, at about 1,800 kilometres, is the longest canal in the world.",
+    "fact_ne": "चीनको ग्रान्ड क्यानल करिब १,८०० किलोमिटर लामो विश्वको सबैभन्दा लामो नहर हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-138",
+    "category": "Geography",
+    "fact_en": "Lake Baikal holds about one-fifth of the world's unfrozen fresh water.",
+    "fact_ne": "बैकल तालले विश्वको जमेको नभएको ताजा पानीको करिब एक पाँचौं भाग ओगटेको छ।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-139",
+    "category": "Constitution",
+    "fact_en": "Article 1 declares Nepal an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented federal democratic republican state.",
+    "fact_ne": "धारा १ ले नेपाललाई स्वतन्त्र, अविभाज्य, सार्वभौमसत्ता सम्पन्न, धर्मनिरपेक्ष, समावेशी, लोकतन्त्रात्मक, समाजवादउन्मुख संघीय लोकतान्त्रिक गणतन्त्रात्मक राज्य घोषणा गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-140",
+    "category": "Constitution",
+    "fact_en": "Article 6 declares that all languages spoken in Nepal are national languages.",
+    "fact_ne": "धारा ६ ले नेपालमा बोलिने सबै भाषाहरू राष्ट्रिय भाषा हुन् भनी घोषणा गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-141",
+    "category": "Constitution",
+    "fact_en": "Article 274 says the Constitution can be amended by a two-thirds majority of the federal parliament.",
+    "fact_ne": "धारा २७४ ले संविधान संघीय संसद्को दुई तिहाइ बहुमतबाट संशोधन गर्न सकिने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-142",
+    "category": "Constitution",
+    "fact_en": "Article 8 says a child of a Nepali citizen father or mother is a Nepali citizen by descent.",
+    "fact_ne": "धारा ८ ले नेपाली नागरिक बाबु वा आमाको सन्तान वंशजको नेपाली नागरिक हुने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-143",
+    "category": "Constitution",
+    "fact_en": "Article 10 says no Nepali citizen shall be deprived of citizenship.",
+    "fact_ne": "धारा १० ले कुनै पनि नेपाली नागरिकलाई नागरिकताबाट वञ्चित नगरिने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-144",
+    "category": "Constitution",
+    "fact_en": "Article 23 protects citizens against preventive detention except as provided by law.",
+    "fact_ne": "धारा २३ ले कानुनबमोजिम बाहेक नागरिकलाई निवारक नजरबन्दमा नराखिने संरक्षण गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-145",
+    "category": "Constitution",
+    "fact_en": "Article 42 guarantees the right to social justice, including proportional inclusion in state bodies.",
+    "fact_ne": "धारा ४२ ले राज्यका निकायहरूमा समानुपातिक समावेशीकरणसहित सामाजिक न्यायको हकको ग्यारेन्टी गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-146",
+    "category": "Constitution",
+    "fact_en": "Article 45 guarantees that no citizen shall be exiled.",
+    "fact_ne": "धारा ४५ ले कुनै पनि नागरिकलाई देश निकाला नगरिने ग्यारेन्टी गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-147",
+    "category": "Constitution",
+    "fact_en": "Article 46 guarantees the right to constitutional remedy — the right to move the court when a fundamental right is violated.",
+    "fact_ne": "धारा ४६ ले संवैधानिक उपचारको हकको ग्यारेन्टी गरेको छ — मौलिक हक उल्लंघन भएमा अदालत जान पाइने अधिकार।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-148",
+    "category": "Constitution",
+    "fact_en": "Article 47 requires laws to implement fundamental rights within three years of the Constitution coming into force.",
+    "fact_ne": "धारा ४७ ले संविधान लागू भएको तीन वर्षभित्र मौलिक हक कार्यान्वयन गर्ने कानुन बनाउनुपर्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-149",
+    "category": "Constitution",
+    "fact_en": "Article 48 lists the duties of citizens, including safeguarding nationality, sovereignty and national unity.",
+    "fact_ne": "धारा ४८ ले राष्ट्रियता, सार्वभौमिकता र राष्ट्रिय एकता जोगाउनुलगायत नागरिकका कर्तव्यहरू सूचीबद्ध गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-150",
+    "category": "Constitution",
+    "fact_en": "Article 58 gives residual powers — powers not listed for any tier — to the federal government.",
+    "fact_ne": "धारा ५८ ले कुनै पनि तहलाई नतोकिएका अवशिष्ट अधिकार संघीय सरकारलाई दिएको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-151",
+    "category": "Constitution",
+    "fact_en": "Article 60 requires revenue to be distributed among the federal, provincial and local levels.",
+    "fact_ne": "धारा ६० ले राजस्व संघीय, प्रदेश र स्थानीय तहबीच बाँडफाँट गर्नुपर्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-152",
+    "category": "Constitution",
+    "fact_en": "Article 63 provides that the National Assembly is a permanent house — it is never dissolved.",
+    "fact_ne": "धारा ६३ ले राष्ट्रिय सभा स्थायी सदन हुने व्यवस्था गरेको छ — यो कहिल्यै विघटन हुँदैन।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-153",
+    "category": "Constitution",
+    "fact_en": "Article 75 vests federal executive power in the Council of Ministers.",
+    "fact_ne": "धारा ७५ ले संघीय कार्यकारिणी अधिकार मन्त्रिपरिषद्मा निहित हुने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-154",
+    "category": "Constitution",
+    "fact_en": "Article 85 fixes the term of the House of Representatives at five years.",
+    "fact_ne": "धारा ८५ ले प्रतिनिधि सभाको कार्यकाल पाँच वर्ष हुने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-155",
+    "category": "Constitution",
+    "fact_en": "Members of the National Assembly serve six-year terms, with one-third retiring every two years.",
+    "fact_ne": "राष्ट्रिय सभाका सदस्यहरूको कार्यकाल छ वर्षको हुन्छ, जसमध्ये एक तिहाइ हरेक दुई वर्षमा अवकाश हुन्छन्।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-156",
+    "category": "Constitution",
+    "fact_en": "Article 91 requires the Speaker and Deputy Speaker to come from different parties, and one of them must be a woman.",
+    "fact_ne": "धारा ९१ ले सभामुख र उपसभामुख फरक दलका हुनुपर्ने र तीमध्य एक महिला हुनुपर्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-157",
+    "category": "Constitution",
+    "fact_en": "Article 100 allows the House of Representatives to pass a vote of no confidence against the Prime Minister.",
+    "fact_ne": "धारा १०० ले प्रतिनिधि सभाले प्रधानमन्त्रीविरुद्ध अविश्वासको प्रस्ताव पारित गर्न सक्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-158",
+    "category": "Constitution",
+    "fact_en": "Article 114 allows the President to issue an ordinance when Parliament is not in session.",
+    "fact_ne": "धारा ११४ ले संसद्को अधिवेशन नचलेको बेला राष्ट्रपतिले अध्यादेश जारी गर्न सक्ने व्यवस्था गरेको छ।",
+    "source": "Constitution of Nepal 2072"
+  },
+  {
+    "id": "FF-R7-159",
+    "category": "Sports",
+    "fact_en": "The first South Asian Games were held in Kathmandu in 1984.",
+    "fact_ne": "पहिलो दक्षिण एसियाली खेलकुद सन् १९८४ मा काठमाडौंमा भएको थियो।",
+    "source": "South Asian Games Federation"
+  },
+  {
+    "id": "FF-R7-160",
+    "category": "Sports",
+    "fact_en": "Nepal won the football gold medal at the first South Asian Games in 1984.",
+    "fact_ne": "नेपालले सन् १९८४ को पहिलो दक्षिण एसियाली खेलकुदमा फुटबलको स्वर्ण पदक जितेको थियो।",
+    "source": "South Asian Games Federation"
+  },
+  {
+    "id": "FF-R7-161",
+    "category": "Sports",
+    "fact_en": "The first T20 World Cup was held in 2007 in South Africa, and India won it.",
+    "fact_ne": "पहिलो टि-ट्वान्टी विश्वकप सन् २००७ मा दक्षिण अफ्रिकामा भएको थियो र भारतले जितेको थियो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-R7-162",
+    "category": "Sports",
+    "fact_en": "The Indian Premier League began in 2008.",
+    "fact_ne": "इन्डियन प्रिमियर लिग सन् २००८ मा सुरु भएको थियो।",
+    "source": "Board of Control for Cricket in India"
+  },
+  {
+    "id": "FF-R7-163",
+    "category": "Sports",
+    "fact_en": "The first Ballon d'Or was awarded in 1956 to Stanley Matthews.",
+    "fact_ne": "पहिलो बालोन डी'ओर सन् १९५६ मा स्ट्यानली म्याथ्युजलाई प्रदान गरिएको थियो।",
+    "source": "France Football"
+  },
+  {
+    "id": "FF-R7-164",
+    "category": "Sports",
+    "fact_en": "The Boston Marathon, first run in 1897, is the world's oldest annual marathon.",
+    "fact_ne": "सन् १८९७ मा पहिलो पटक दौडिएको बोस्टन म्याराथन विश्वको सबैभन्दा पुरानो वार्षिक म्याराथन हो।",
+    "source": "Boston Athletic Association"
+  },
+  {
+    "id": "FF-R7-165",
+    "category": "Sports",
+    "fact_en": "Roger Bannister ran the first sub-four-minute mile in 1954.",
+    "fact_ne": "रोजर ब्यानिस्टरले सन् १९५४ मा पहिलो पटक चार मिनेटभन्दा कम समयमा एक माइल दौडेका थिए।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-166",
+    "category": "Sports",
+    "fact_en": "The first Commonwealth Games were held in Hamilton, Canada, in 1930.",
+    "fact_ne": "पहिलो राष्ट्रमण्डल खेलकुद सन् १९३० मा क्यानडाको ह्यामिल्टनमा भएको थियो।",
+    "source": "Commonwealth Games Federation"
+  },
+  {
+    "id": "FF-R7-167",
+    "category": "Sports",
+    "fact_en": "The UEFA Champions League began in 1955 as the European Cup.",
+    "fact_ne": "युइएफए च्याम्पियन्स लिग सन् १९५५ मा युरोपियन कपको रूपमा सुरु भएको थियो।",
+    "source": "UEFA"
+  },
+  {
+    "id": "FF-R7-168",
+    "category": "Sports",
+    "fact_en": "The first Ironman triathlon was held in Hawaii in 1978.",
+    "fact_ne": "पहिलो आइरनम्यान ट्रायथलन सन् १९७८ मा हवाईमा भएको थियो।",
+    "source": "IRONMAN"
+  },
+  {
+    "id": "FF-R7-169",
+    "category": "Sports",
+    "fact_en": "Chess began in India as the game of chaturanga, more than a thousand years ago.",
+    "fact_ne": "चेस भारतमा चतुरङ्ग खेलको रूपमा एक हजार वर्षभन्दा पहिले सुरु भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-170",
+    "category": "Sports",
+    "fact_en": "The first World Chess Championship was held in 1886, won by Wilhelm Steinitz.",
+    "fact_ne": "पहिलो विश्व चेस च्याम्पियनसिप सन् १८८६ मा भएको थियो, जुन विल्हेम स्टेनिट्जले जितेका थिए।",
+    "source": "FIDE"
+  },
+  {
+    "id": "FF-R7-171",
+    "category": "Sports",
+    "fact_en": "The Giro d'Italia, first held in 1909, is one of cycling's three Grand Tours.",
+    "fact_ne": "सन् १९०९ मा पहिलो पटक भएको जिरो डी'इटालिया साइक्लिङका तीन ग्रान्ड टुरहरूमध्ये एक हो।",
+    "source": "RCS Sport"
+  },
+  {
+    "id": "FF-R7-172",
+    "category": "Sports",
+    "fact_en": "The first Vuelta a España was held in 1935.",
+    "fact_ne": "पहिलो भुएल्टा आ एस्पाना सन् १९३५ मा भएको थियो।",
+    "source": "Unipublic"
+  },
+  {
+    "id": "FF-R7-173",
+    "category": "Sports",
+    "fact_en": "The first NFL season was played in 1920.",
+    "fact_ne": "पहिलो एनएफएल सिजन सन् १९२० मा खेलिएको थियो।",
+    "source": "National Football League"
+  },
+  {
+    "id": "FF-R7-174",
+    "category": "Sports",
+    "fact_en": "The first NHL season was played in 1917–18.",
+    "fact_ne": "पहिलो एनएचएल सिजन सन् १९१७–१८ मा खेलिएको थियो।",
+    "source": "National Hockey League"
+  },
+  {
+    "id": "FF-R7-175",
+    "category": "Sports",
+    "fact_en": "The first Olympic women's marathon was held at Los Angeles 1984, won by Joan Benoit.",
+    "fact_ne": "पहिलो ओलम्पिक महिला म्याराथन लस एन्जलस १९८४ मा भएको थियो, जुन जोन बेनोइटले जितेकी थिइन्।",
+    "source": "Olympics.com"
+  },
+  {
+    "id": "FF-R7-176",
+    "category": "Sports",
+    "fact_en": "The 2019 Cricket World Cup final between England and New Zealand was decided by a Super Over — the first time a World Cup final ended in a tie.",
+    "fact_ne": "सन् २०१९ को क्रिकेट विश्वकप फाइनल इङ्ग्ल्यान्ड र न्युजिल्यान्डबीच सुपर ओभरबाट टुङ्गिएको थियो — विश्वकप फाइनल बराबरीमा टुङ्गिएको यो पहिलो पटक थियो।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-R7-177",
+    "category": "Sports",
+    "fact_en": "The first women's Cricket World Cup was held in 1973 — two years before the men's first World Cup.",
+    "fact_ne": "पहिलो महिला क्रिकेट विश्वकप सन् १९७३ मा भएको थियो — पुरुषहरूको पहिलो विश्वकपभन्दा दुई वर्ष पहिले।",
+    "source": "International Cricket Council"
+  },
+  {
+    "id": "FF-R7-178",
+    "category": "Culture",
+    "fact_en": "The word 'yoga' comes from the Sanskrit word 'yuj', meaning 'to join' or 'to unite'.",
+    "fact_ne": "‘योग’ शब्द संस्कृत शब्द ‘युज्’ बाट आएको हो, जसको अर्थ ‘जोड्नु’ वा ‘एक गर्नु’ हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-179",
+    "category": "Culture",
+    "fact_en": "International Yoga Day is celebrated on 21 June every year.",
+    "fact_ne": "अन्तर्राष्ट्रिय योग दिवस हरेक वर्ष २१ जुनमा मनाइन्छ।",
+    "source": "United Nations"
+  },
+  {
+    "id": "FF-R7-180",
+    "category": "Culture",
+    "fact_en": "The sari is one of the oldest garments still worn in the world, with a history of more than 5,000 years.",
+    "fact_ne": "सारी विश्वमा अझै लगाइने सबैभन्दा पुराना पहिरनहरूमध्ये एक हो, जसको इतिहास ५,००० वर्षभन्दा लामो छ।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-181",
+    "category": "Culture",
+    "fact_en": "The kimono is the traditional dress of Japan.",
+    "fact_ne": "किमोनो जापानको परम्परागत पहिरन हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-182",
+    "category": "Culture",
+    "fact_en": "The kilt is the traditional dress of Scotland.",
+    "fact_ne": "किल्ट स्कटल्यान्डको परम्परागत पहिरन हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-183",
+    "category": "Culture",
+    "fact_en": "Flamenco, the passionate dance of Spain, comes from Andalusia.",
+    "fact_ne": "स्पेनको भावपूर्ण नृत्य फ्लामेन्को आन्डालुसियाबाट आएको हो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-184",
+    "category": "Culture",
+    "fact_en": "The tango was born in Buenos Aires, Argentina, in the late 19th century.",
+    "fact_ne": "ट्याङ्गो १९औं शताब्दीको अन्त्यमा अर्जेन्टिनाको ब्युनस आयर्समा जन्मिएको थियो।",
+    "source": "UNESCO"
+  },
+  {
+    "id": "FF-R7-185",
+    "category": "Culture",
+    "fact_en": "Salsa dancing comes from Cuba.",
+    "fact_ne": "साल्सा नृत्य क्युबाबाट आएको हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-186",
+    "category": "Culture",
+    "fact_en": "The waltz comes from Austria and Germany.",
+    "fact_ne": "वाल्ट्ज अष्ट्रिया र जर्मनीबाट आएको हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-187",
+    "category": "Culture",
+    "fact_en": "Ballet began in the royal courts of Italy and France in the 15th and 16th centuries.",
+    "fact_ne": "ब्याले १५औं र १६औं शताब्दीमा इटाली र फ्रान्सका राजदरबारहरूमा सुरु भएको थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-188",
+    "category": "Culture",
+    "fact_en": "The first Oscar ceremony was held in 1929.",
+    "fact_ne": "पहिलो ओस्कार समारोह सन् १९२९ मा भएको थियो।",
+    "source": "Academy of Motion Picture Arts and Sciences"
+  },
+  {
+    "id": "FF-R7-189",
+    "category": "Culture",
+    "fact_en": "The first Grammy Awards were held in 1959.",
+    "fact_ne": "पहिलो ग्र्यामी पुरस्कार सन् १९५९ मा प्रदान गरिएको थियो।",
+    "source": "The Recording Academy"
+  },
+  {
+    "id": "FF-R7-190",
+    "category": "Culture",
+    "fact_en": "The Cannes Film Festival began in 1946.",
+    "fact_ne": "कान फिल्म महोत्सव सन् १९४६ मा सुरु भएको थियो।",
+    "source": "Festival de Cannes"
+  },
+  {
+    "id": "FF-R7-191",
+    "category": "Culture",
+    "fact_en": "The first Pulitzer Prizes were awarded in 1917.",
+    "fact_ne": "पहिलो पुलिट्जर पुरस्कारहरू सन् १९१७ मा प्रदान गरिएका थिए।",
+    "source": "Pulitzer Prizes"
+  },
+  {
+    "id": "FF-R7-192",
+    "category": "Culture",
+    "fact_en": "The Harry Potter books have been translated into more than 80 languages.",
+    "fact_ne": "ह्यारी पोटर पुस्तकहरू ८० भन्दा बढी भाषाहरूमा अनुवाद भएका छन्।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-193",
+    "category": "Culture",
+    "fact_en": "The Little Prince, published in 1943, is one of the best-selling books of all time.",
+    "fact_ne": "सन् १९४३ मा प्रकाशित द लिटल प्रिन्स सबै समयका सबैभन्दा धेरै बिक्री हुने पुस्तकहरूमध्ये एक हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-194",
+    "category": "Culture",
+    "fact_en": "The first book ever printed with movable type in Europe was the Gutenberg Bible, around 1455.",
+    "fact_ne": "युरोपमा चल अक्षरले छापिएको पहिलो पुस्तक करिब सन् १४५५ को गुटेनबर्ग बाइबल थियो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-195",
+    "category": "Culture",
+    "fact_en": "The word 'shampoo' comes from the Hindi word 'champo', meaning to press or massage.",
+    "fact_ne": "‘स्याम्पु’ शब्द हिन्दी शब्द ‘चम्पो’ बाट आएको हो, जसको अर्थ थिच्नु वा मालिस गर्नु हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-196",
+    "category": "Culture",
+    "fact_en": "The word 'jungle' comes from the Sanskrit word 'jangala', meaning wild land.",
+    "fact_ne": "‘जङ्गल’ शब्द संस्कृत शब्द ‘जङ्गल’ बाट आएको हो, जसको अर्थ वन्य भूमि हो।",
+    "source": "Encyclopaedia Britannica"
+  },
+  {
+    "id": "FF-R7-197",
+    "category": "Culture",
+    "fact_en": "The word 'tsunami' is Japanese for 'harbour wave'.",
+    "fact_ne": "‘सुनामी’ शब्द जापानी भाषामा ‘बन्दरगाहको छाल’ भन्ने अर्थ दिन्छ।",
+    "source": "Encyclopaedia Britannica"
+  }
+]

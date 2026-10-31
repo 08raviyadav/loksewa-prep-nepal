@@ -1,0 +1,3340 @@
+{
+  "worker": "consistency",
+  "checked": 20200,
+  "flags": 23195,
+  "fixes": [
+    {
+      "id": "CURH-001",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Sanae Takaichi' to 'Sushila Karki'. Explanation: Sushila Karki — 12 September 2025."
+    },
+    {
+      "id": "CURH-004",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '12 September 2025' to 'A government ban on social media platforms and anger over corruption'. Explanation: A government ban on social media platforms and anger over corruption — 8 September 2025."
+    },
+    {
+      "id": "CURH-007",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'October 2025' to '12 September 2025'. Explanation: 12 September 2025 — March 2026."
+    },
+    {
+      "id": "CURH-008",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Metal–organic frameworks (MOFs)' to '5 March 2026'. Explanation: 5 March 2026."
+    },
+    {
+      "id": "CURH-009",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Carlos Alcaraz' to 'Sabita Bhandari'. Explanation: Sabita Bhandari — September 2025."
+    },
+    {
+      "id": "CURH-014",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Hay'at Tahrir al-Sham (HTS)' to 'Kathmandu'. Explanation: Kathmandu."
+    },
+    {
+      "id": "CURH-016",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '31 May 2025' to '20 May 2025'. Explanation: It happened in 20 May 2025."
+    },
+    {
+      "id": "CURH-017",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Christian Democratic Union (CDU)' to 'Maha Prasad Adhikari'. Explanation: Maha Prasad Adhikari."
+    },
+    {
+      "id": "CURH-018",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Andrew Barto and Richard Sutton' to 'ICC Men's T20 World Cup 2026'. Explanation: ICC Men's T20 World Cup 2026 — October 2025."
+    },
+    {
+      "id": "CURH-020",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Aitana Bonmatí' to 'India and Sri Lanka'. Explanation: India and Sri Lanka."
+    },
+    {
+      "id": "CURH-024",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'England' to 'Donald Trump'. Explanation: Donald Trump — 20 January 2025."
+    },
+    {
+      "id": "CURH-027",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' to 'Pope Leo XIV (Robert Prevost)'. Explanation: Pope Leo XIV (Robert Prevost) — 8 May 2025."
+    },
+    {
+      "id": "CURH-028",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'March 2025' to '8 May 2025'. Explanation: It happened in 8 May 2025."
+    },
+    {
+      "id": "CURH-029",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '28 July 2025' to '21 April 2025'. Explanation: 21 April 2025."
+    },
+    {
+      "id": "CURH-030",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Bishnu Prasad Paudel' to 'Operation Sindoor'. Explanation: Operation Sindoor — 7 May 2025."
+    },
+    {
+      "id": "CURH-032",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Boeing 787 Dreamliner' to '10 May 2025'. Explanation: 10 May 2025."
+    },
+    {
+      "id": "CURH-033",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'María Corina Machado' to 'Friedrich Merz'. Explanation: Friedrich Merz — 6 May 2025."
+    },
+    {
+      "id": "CURH-036",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'María Corina Machado' to 'Mark Carney'. Explanation: Mark Carney — 28 April 2025."
+    },
+    {
+      "id": "CURH-038",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '21 April 2025' to '2025'. Explanation: 2025."
+    },
+    {
+      "id": "CURH-039",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Jannik Sinner' to 'Sanae Takaichi'. Explanation: Sanae Takaichi — 21 October 2025."
+    },
+    {
+      "id": "CURH-040",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '14 April 2025' to '21 October 2025'. Explanation: It happened in 21 October 2025."
+    },
+    {
+      "id": "CURH-041",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Adrien Brody (The Brutalist)' to 'Liberal Democratic Party (LDP)'. Explanation: Liberal Democratic Party (LDP)."
+    },
+    {
+      "id": "CURH-042",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lando Norris' to 'Lee Jae-myung'. Explanation: Lee Jae-myung — 3 June 2025."
+    },
+    {
+      "id": "CURH-043",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '7 May 2025' to '3 June 2025'. Explanation: It happened in 3 June 2025. Explanation gives the precise date 3 June 2025 (option B), not the vague June 2025 (option A)."
+    },
+    {
+      "id": "CURH-045",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Tottenham Hotspur' to 'Ahmed al-Sharaa'. Explanation: Ahmed al-Sharaa — 29 January 2025."
+    },
+    {
+      "id": "CURH-046",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '3 June 2025' to '29 January 2025'. Explanation: It happened in 29 January 2025."
+    },
+    {
+      "id": "CURH-048",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' to 'October 2025'. Explanation: October 2025 — October 2025."
+    },
+    {
+      "id": "CURH-057",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '28 April 2025' to 'April–October 2025'. Explanation: It happened in April–October 2025. Note: stem asks two things (when + where); fixed to the \"when\" answer per the explanation; stem wording itself is defective."
+    },
+    {
+      "id": "CURH-058",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'US $11,000' to 'October 2025'. Explanation: October 2025."
+    },
+    {
+      "id": "CURH-059",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Paris Saint-Germain (PSG)' to 'María Corina Machado'. Explanation: María Corina Machado — October 2025."
+    },
+    {
+      "id": "CURH-060",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'June 2025' to 'October 2025'. Explanation: It happened in October 2025."
+    },
+    {
+      "id": "CURH-061",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Much lower training cost' to 'Venezuela'. Explanation: Venezuela."
+    },
+    {
+      "id": "CURH-063",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Not Like Us by Kendrick Lamar' to 'Macroscopic quantum mechanical tunnelling in an electric circuit'. Explanation: Macroscopic quantum mechanical tunnelling in an electric circuit."
+    },
+    {
+      "id": "CURH-064",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '7 January 2025' to 'October 2025'. Explanation: It happened in October 2025."
+    },
+    {
+      "id": "CURH-069",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '21 May 2025' to 'October 2025'. Explanation: It happened in October 2025."
+    },
+    {
+      "id": "CURH-070",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Pakistan' to 'Hungary'. Explanation: Hungary."
+    },
+    {
+      "id": "CURH-071",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '31 times' to 'Joel Mokyr, Philippe Aghion and Peter Howitt'. Explanation: Joel Mokyr, Philippe Aghion and Peter Howitt — October 2025."
+    },
+    {
+      "id": "CURH-077",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'DeepSeek' to 'Fátima Bosch of Mexico'. Explanation: Fátima Bosch of Mexico — November 2025."
+    },
+    {
+      "id": "CURH-080",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Christian Democratic Union (CDU)' to 'India'. Explanation: India — 9 March 2025."
+    },
+    {
+      "id": "CURH-081",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'September 2025' to '9 March 2025'. Explanation: It happened in 9 March 2025."
+    },
+    {
+      "id": "CURH-082",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'About $4.2 trillion' to 'New Zealand by 4 wickets'. Explanation: New Zealand by 4 wickets."
+    },
+    {
+      "id": "CURH-084",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '31 May 2025' to '2 November 2025'. Explanation: It happened in 2 November 2025."
+    },
+    {
+      "id": "CURH-092",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Lando Norris' to 'Chelsea'. Explanation: Chelsea — 13 July 2025."
+    },
+    {
+      "id": "CURH-093",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '20 May 2025' to '13 July 2025'. Explanation: It happened in 13 July 2025. Explanation gives the precise date 13 July 2025 (option C), not the vague July 2025 (option D)."
+    },
+    {
+      "id": "CURH-095",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Sabita Bhandari' to 'Paris Saint-Germain (PSG)'. Explanation: Paris Saint-Germain (PSG) — 31 May 2025."
+    },
+    {
+      "id": "CURH-099",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '12 June 2025' to '21 May 2025'. Explanation: It happened in 21 May 2025."
+    },
+    {
+      "id": "CURH-104",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'DeepSeek' to 'Iga Świątek'. Explanation: Iga Świątek — July 2025."
+    },
+    {
+      "id": "CURH-106",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Computer science' to 'Amanda Anisimova'. Explanation: Amanda Anisimova."
+    },
+    {
+      "id": "CURH-107",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Lando Norris' to 'Carlos Alcaraz'. Explanation: Carlos Alcaraz — September 2025."
+    },
+    {
+      "id": "CURH-110",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'OpenAI' to 'Jannik Sinner'. Explanation: Jannik Sinner — January 2025."
+    },
+    {
+      "id": "CURH-114",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '23 February 2025' to 'June 2025'. Explanation: It happened in June 2025."
+    },
+    {
+      "id": "CURH-115",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'McLaren' to 'Jannik Sinner'. Explanation: Jannik Sinner."
+    },
+    {
+      "id": "CURH-118",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nepal' to 'McLaren'. Explanation: McLaren."
+    },
+    {
+      "id": "CURH-121",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Hay'at Tahrir al-Sham (HTS)' to 'Aitana Bonmatí'. Explanation: Aitana Bonmatí."
+    },
+    {
+      "id": "CURH-122",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Cowboy Carter by Beyoncé' to 'Anora'. Explanation: Anora — 2 March 2025."
+    },
+    {
+      "id": "CURH-123",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '13 July 2025' to '2 March 2025'. Explanation: It happened in 2 March 2025."
+    },
+    {
+      "id": "CURH-127",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Liberal Democratic Party (LDP)' to 'Indiana Pacers'. Explanation: Indiana Pacers."
+    },
+    {
+      "id": "CURH-129",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'August 2025' to '27 July 2025'. Explanation: It happened in 27 July 2025."
+    },
+    {
+      "id": "CURH-131",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'OpenAI' to 'South Africa'. Explanation: South Africa — June 2025."
+    },
+    {
+      "id": "CURH-133",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Spain (on penalties)' to 'Australia'. Explanation: Australia."
+    },
+    {
+      "id": "CURH-134",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Mary Brunkow, Fred Ramsdell and Shimon Sakaguchi' to '31 times'. Explanation: 31 times — May 2025."
+    },
+    {
+      "id": "CURH-135",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '13 July 2025' to 'May 2025'. Explanation: It happened in May 2025. Note: stem asks two things (when + where); fixed to the \"when\" answer per the explanation; stem wording itself is defective."
+    },
+    {
+      "id": "CURH-136",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Hungary' to 'Nepal'. Explanation: Nepal."
+    },
+    {
+      "id": "CURH-137",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Donald Trump' to 'DeepSeek'. Explanation: DeepSeek — 20 January 2025."
+    },
+    {
+      "id": "CURH-145",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '28 July 2025' to 'Axiom Mission 4'. Explanation: Axiom Mission 4."
+    },
+    {
+      "id": "CURH-147",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'February 2025' to 'November 2025'. Explanation: It happened in November 2025."
+    },
+    {
+      "id": "CURH-148",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '7 January 2025' to 'The Amazon'. Explanation: The Amazon."
+    },
+    {
+      "id": "CURH-149",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Cambodia' to 'India'. Explanation: India — May 2025."
+    },
+    {
+      "id": "CURH-150",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'January 2025' to 'May 2025'. Explanation: It happened in May 2025."
+    },
+    {
+      "id": "CURH-154",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Democratic Party' to 'Computer science'. Explanation: Computer science."
+    },
+    {
+      "id": "CURH-155",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Climate change, mountains and the future of humanity' to 'New Shepard NS-31 (with Katy Perry)'. Explanation: New Shepard NS-31 (with Katy Perry) — 14 April 2025."
+    },
+    {
+      "id": "CURH-157",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Boeing 787 Dreamliner' to 'About 11 minutes'. Explanation: About 11 minutes."
+    },
+    {
+      "id": "CURH-158",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'John Clarke, Michel Devoret and John M. Martinis' to 'US $15,000'. Explanation: US $15,000 — September 2025."
+    },
+    {
+      "id": "CURH-159",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'July 2025' to 'September 2025'. Explanation: It happened in September 2025."
+    },
+    {
+      "id": "CURH-160",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'About $4.2 trillion' to 'US $11,000'. Explanation: US $11,000."
+    },
+    {
+      "id": "CURH-161",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'María Corina Machado' to 'Anthony Albanese'. Explanation: Anthony Albanese — 3 May 2025."
+    },
+    {
+      "id": "CURH-162",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'September 2025' to '3 May 2025'. Explanation: It happened in 3 May 2025."
+    },
+    {
+      "id": "CURH-165",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '3 May 2025' to 'May 2025'. Explanation: It happened in May 2025."
+    },
+    {
+      "id": "CURH-168",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '21 May 2025' to 'August 2025'. Explanation: It happened in August 2025. Note: stem asks two things (when + where); fixed to the \"when\" answer per the explanation; stem wording itself is defective."
+    },
+    {
+      "id": "CURH-169",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Chelsea won 3–0' to 'The Oval, London'. Explanation: The Oval, London."
+    },
+    {
+      "id": "CURH-172",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'They were released in October 2025' to 'Not Like Us by Kendrick Lamar'. Explanation: Not Like Us by Kendrick Lamar."
+    },
+    {
+      "id": "CURH-173",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Asim Munir' to 'Masaki Kashiwara'. Explanation: Masaki Kashiwara — March 2025."
+    },
+    {
+      "id": "CURH-174",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'April–October 2025' to 'March 2025'. Explanation: It happened in March 2025."
+    },
+    {
+      "id": "CURH-175",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Punjab Kings' to 'Japan'. Explanation: Japan."
+    },
+    {
+      "id": "CURH-176",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'OpenAI' to 'Kulman Ghising'. Explanation: Kulman Ghising — September 2025."
+    },
+    {
+      "id": "CURH-180",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '6 May 2025' to 'February 2025'. Explanation: It happened in February 2025."
+    },
+    {
+      "id": "CURH-181",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Liberal Democratic Party (LDP)' to 'China'. Explanation: China."
+    },
+    {
+      "id": "CURH-182",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'US $15,000' to '28 March 2025'. Explanation: 28 March 2025 — 28 March 2025."
+    },
+    {
+      "id": "CURH-183",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '20 May 2025' to '28 March 2025'. Explanation: It happened in 28 March 2025."
+    },
+    {
+      "id": "CURH-186",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '29 January 2025' to '7 January 2025'. Explanation: It happened in 7 January 2025."
+    },
+    {
+      "id": "CURH-187",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Chief Justice of Nepal (2016–2017)' to 'At least 126'. Explanation: At least 126."
+    },
+    {
+      "id": "CURH-188",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lee Jae-myung' to 'Los Angeles'. Explanation: Los Angeles — January 2025."
+    },
+    {
+      "id": "CURH-190",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'The Amazon' to '7 January 2025'. Explanation: 7 January 2025."
+    },
+    {
+      "id": "CURH-194",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Shubhanshu Shukla' to 'Christian Democratic Union (CDU)'. Explanation: Christian Democratic Union (CDU) — 23 February 2025."
+    },
+    {
+      "id": "CURH-199",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Axiom Mission 4' to '28 July 2025'. Explanation: 28 July 2025."
+    },
+    {
+      "id": "CURH-200",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Alain Aspect, John Clauser and Anton Zeilinger' to 'John Clarke, Michel Devoret and John M. Martinis'. Explanation: John Clarke, Michel Devoret and John M. Martinis won the 2025 Nobel Prize in Physics for macroscopic quantum mechanical tunnell..."
+    },
+    {
+      "id": "CURH-204",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Smallest unit of life' to 'Newton's second law of motion'. Explanation: Newton's second law of motion — Newton's second law of motion means force equals mass multiplied by acceleration (F = ma)."
+    },
+    {
+      "id": "CURH-205",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the 1971 international treaty for the conservation of wetlands' to 'every action has an equal and opposite reaction'. Explanation: Newton's third law of motion means every action has an equal and opposite reaction."
+    },
+    {
+      "id": "CURH-207",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the system of interlinked web pages invented by Tim Berners-Lee' to 'every mass attracts every other mass with a force proportional to their masses'. Explanation: Law of gravitation means every mass attracts every other mass with a force proportional to their masses."
+    },
+    {
+      "id": "CURH-210",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Main greenhouse gas from human activity' to 'Ohm's law'. Explanation: Ohm's law — Ohm's law means voltage equals current multiplied by resistance (V = IR)."
+    },
+    {
+      "id": "CURH-211",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the buoyant force on a body equals the weight of the fluid it displaces' to 'approximately 3 × 10^8 metres per second'. Explanation: Speed of light in vacuum means approximately 3 × 10^8 metres per second."
+    },
+    {
+      "id": "CURH-212",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Noble gases' to 'Speed of light in vacuum'. Explanation: Speed of light in vacuum — Speed of light in vacuum means approximately 3 × 10^8 metres per second."
+    },
+    {
+      "id": "CURH-214",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Internet of Things (IoT)' to 'Acceleration due to gravity on Earth'. Explanation: Acceleration due to gravity on Earth — Acceleration due to gravity on Earth means approximately 9.8 metres per second squared."
+    },
+    {
+      "id": "CURH-215",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'approximately 3 × 10^8 metres per second' to 'the newton (N)'. Explanation: Unit of force means the newton (N)."
+    },
+    {
+      "id": "CURH-220",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Unit of pressure' to 'Unit of power'. Explanation: Unit of power — Unit of power means the watt (W)."
+    },
+    {
+      "id": "CURH-222",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'World Wide Web' to 'Unit of electric current'. Explanation: Unit of electric current — Unit of electric current means the ampere (A)."
+    },
+    {
+      "id": "CURH-224",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Ramsar Convention' to 'Unit of frequency'. Explanation: Unit of frequency — Unit of frequency means the hertz (Hz)."
+    },
+    {
+      "id": "CURH-225",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'random access memory, the temporary memory of a computer' to 'the pascal (Pa)'. Explanation: Unit of pressure means the pascal (Pa)."
+    },
+    {
+      "id": "CURH-226",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Powerhouse of the cell' to 'Unit of pressure'. Explanation: Unit of pressure — Unit of pressure means the pascal (Pa)."
+    },
+    {
+      "id": "CURH-227",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Hypertext Transfer Protocol, used to transfer web pages' to 'the buoyant force on a body equals the weight of the fluid it displaces'. Explanation: Archimedes' principle means the buoyant force on a body equals the weight of the fluid it displaces."
+    },
+    {
+      "id": "CURH-228",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Unit of electric current' to 'Archimedes' principle'. Explanation: Archimedes' principle — Archimedes' principle means the buoyant force on a body equals the weight of the fluid it displaces."
+    },
+    {
+      "id": "CURH-229",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'blood group AB positive' to 'in a flowing fluid, higher speed means lower pressure'. Explanation: Bernoulli's principle means in a flowing fluid, higher speed means lower pressure."
+    },
+    {
+      "id": "CURH-232",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Binary number system' to 'Doppler effect'. Explanation: Doppler effect — Doppler effect means the change in frequency of a wave due to relative motion between source and observer."
+    },
+    {
+      "id": "CURH-233",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the base-2 system using only 0 and 1' to 'the emission of electrons from a material when light falls on it'. Explanation: Photoelectric effect means the emission of electrons from a material when light falls on it."
+    },
+    {
+      "id": "CURH-234",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Binary number system' to 'Photoelectric effect'. Explanation: Photoelectric effect — Photoelectric effect means the emission of electrons from a material when light falls on it."
+    },
+    {
+      "id": "CURH-235",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the central processing unit, the brain of a computer' to 'light is fully reflected inside a medium when the angle of incidence exceeds the critical angle'. Explanation: Total internal reflection means light is fully reflected inside a medium when the angle of incidence exceeds the critical angle."
+    },
+    {
+      "id": "CURH-238",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Newton's third law of motion' to 'Refraction of light'. Explanation: Refraction of light — Refraction of light means the bending of light when it passes from one medium to another."
+    },
+    {
+      "id": "CURH-239",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the central processing unit, the brain of a computer' to 'the coulomb (C)'. Explanation: Unit of electric charge means the coulomb (C)."
+    },
+    {
+      "id": "CURH-240",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Rusting of iron' to 'Unit of electric charge'. Explanation: Unit of electric charge — Unit of electric charge means the coulomb (C)."
+    },
+    {
+      "id": "CURH-242",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'World Environment Day' to 'pH of a neutral solution'. Explanation: pH of a neutral solution — pH of a neutral solution means 7."
+    },
+    {
+      "id": "CURH-243",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'deoxyribonucleic acid, the molecule that carries genetic information' to 'Au'. Explanation: Chemical symbol of gold means Au."
+    },
+    {
+      "id": "CURH-244",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Refraction of light' to 'Chemical symbol of gold'. Explanation: Chemical symbol of gold — Chemical symbol of gold means Au."
+    },
+    {
+      "id": "CURH-247",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '4' to 'sodium chloride (NaCl)'. Explanation: Common salt means sodium chloride (NaCl)."
+    },
+    {
+      "id": "CURH-248",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Haemoglobin' to 'Common salt'. Explanation: Common salt — Common salt means sodium chloride (NaCl)."
+    },
+    {
+      "id": "CURH-249",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'deoxyribonucleic acid, the molecule that carries genetic information' to 'sodium bicarbonate (NaHCO3)'. Explanation: Baking soda means sodium bicarbonate (NaHCO3)."
+    },
+    {
+      "id": "CURH-250",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Unit of electric current' to 'Baking soda'. Explanation: Baking soda — Baking soda means sodium bicarbonate (NaHCO3)."
+    },
+    {
+      "id": "CURH-251",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the ampere (A)' to 'sodium carbonate (Na2CO3)'. Explanation: Washing soda means sodium carbonate (Na2CO3)."
+    },
+    {
+      "id": "CURH-254",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Acid present in the human stomach' to 'Vinegar'. Explanation: Vinegar — Vinegar means acetic acid."
+    },
+    {
+      "id": "CURH-256",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Washing soda' to 'Rusting of iron'. Explanation: Rusting of iron — Rusting of iron means oxidation of iron in the presence of oxygen and moisture."
+    },
+    {
+      "id": "CURH-258",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Internet of Things (IoT)' to 'Avogadro's number'. Explanation: Avogadro's number — Avogadro's number means approximately 6.022 × 10^23 particles per mole."
+    },
+    {
+      "id": "CURH-259",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'a distributed digital ledger technology that records transactions securely' to 'the gases of group 18, such as helium, neon and argon, which rarely react'. Explanation: Noble gases means the gases of group 18, such as helium, neon and argon, which rarely react."
+    },
+    {
+      "id": "CURH-261",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'chlorofluorocarbons (CFCs)' to 'diamond'. Explanation: Hardest naturally occurring substance means diamond."
+    },
+    {
+      "id": "CURH-264",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Insulin' to 'Acid present in the human stomach'. Explanation: Acid present in the human stomach — Acid present in the human stomach means hydrochloric acid (HCl)."
+    },
+    {
+      "id": "CURH-265",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '6' to 'O3'. Explanation: Chemical formula of ozone means O3."
+    },
+    {
+      "id": "CURH-266",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Unit of frequency' to 'Chemical formula of ozone'. Explanation: Chemical formula of ozone — Chemical formula of ozone means O3."
+    },
+    {
+      "id": "CURH-268",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Acid present in the human stomach' to 'A catalyst'. Explanation: A catalyst — A catalyst means a substance that speeds up a chemical reaction without being consumed."
+    },
+    {
+      "id": "CURH-275",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'random access memory, the temporary memory of a computer' to 'deoxyribonucleic acid, the molecule that carries genetic information'. Explanation: DNA means deoxyribonucleic acid, the molecule that carries genetic information."
+    },
+    {
+      "id": "CURH-278",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'HTTP' to 'Number of chambers in the human heart'. Explanation: Number of chambers in the human heart — Number of chambers in the human heart means 4."
+    },
+    {
+      "id": "CURH-279",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the 1997 agreement under which developed countries committed to reduce greenhouse gas emissions' to 'about 7.4'. Explanation: Normal pH of human blood means about 7.4."
+    },
+    {
+      "id": "CURH-280",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Washing soda' to 'Normal pH of human blood'. Explanation: Normal pH of human blood — Normal pH of human blood means about 7.4."
+    },
+    {
+      "id": "CURH-281",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '7' to 'blood group O negative'. Explanation: Universal blood donor means blood group O negative."
+    },
+    {
+      "id": "CURH-285",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '4' to 'scurvy'. Explanation: Disease caused by vitamin C deficiency means scurvy."
+    },
+    {
+      "id": "CURH-286",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Number of chambers in the human heart' to 'Disease caused by vitamin C deficiency'. Explanation: Disease caused by vitamin C deficiency — Disease caused by vitamin C deficiency means scurvy."
+    },
+    {
+      "id": "CURH-287",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the femur (thigh bone)' to 'rickets'. Explanation: Disease caused by vitamin D deficiency means rickets."
+    },
+    {
+      "id": "CURH-289",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the total greenhouse gas emissions caused by a person, product or activity' to 'the hormone that regulates blood sugar; its deficiency causes diabetes'. Explanation: Insulin means the hormone that regulates blood sugar; its deficiency causes diabetes."
+    },
+    {
+      "id": "CURH-294",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Artificial Intelligence (AI)' to 'Smallest unit of life'. Explanation: Smallest unit of life — Smallest unit of life means the cell."
+    },
+    {
+      "id": "CURH-296",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'CPU' to 'Gregor Mendel'. Explanation: Gregor Mendel — Gregor Mendel is best known for the laws of inheritance, and is known as the father of genetics."
+    },
+    {
+      "id": "CURH-298",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Main cause of ozone layer depletion' to 'Number of chromosomes in a human body cell'. Explanation: Number of chromosomes in a human body cell — Number of chromosomes in a human body cell means 46 (23 pairs)."
+    },
+    {
+      "id": "CURH-299",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the mitochondria, which produce energy (ATP) for the cell' to 'vitamin K'. Explanation: Vitamin needed for blood clotting means vitamin K."
+    },
+    {
+      "id": "CURH-302",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Bernoulli's principle' to 'Largest organ of the human body'. Explanation: Largest organ of the human body — Largest organ of the human body means the skin."
+    },
+    {
+      "id": "CURH-303",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the 2015 agreement to limit global warming to well below 2°C above pre-industrial levels' to 'the femur (thigh bone)'. Explanation: Largest bone in the human body means the femur (thigh bone)."
+    },
+    {
+      "id": "CURH-307",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '46 (23 pairs)' to 'a disease caused by Plasmodium parasites transmitted by female Anopheles mosquitoes'. Explanation: Malaria means a disease caused by Plasmodium parasites transmitted by female Anopheles mosquitoes."
+    },
+    {
+      "id": "CURH-309",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the base-2 system using only 0 and 1' to 'a disease caused by the human immunodeficiency virus (HIV)'. Explanation: AIDS means a disease caused by the human immunodeficiency virus (HIV)."
+    },
+    {
+      "id": "CURH-311",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'sodium chloride (NaCl)' to 'the 2015 agreement to limit global warming to well below 2°C above pre-industrial levels'. Explanation: Paris Agreement means the 2015 agreement to limit global warming to well below 2°C above pre-industrial levels."
+    },
+    {
+      "id": "CURH-314",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Blockchain' to 'Main cause of ozone layer depletion'. Explanation: Main cause of ozone layer depletion — Main cause of ozone layer depletion means chlorofluorocarbons (CFCs)."
+    },
+    {
+      "id": "CURH-315",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'force equals mass multiplied by acceleration (F = ma)' to 'carbon dioxide'. Explanation: Main greenhouse gas from human activity means carbon dioxide."
+    },
+    {
+      "id": "CURH-317",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the change in frequency of a wave due to relative motion between source and observer' to 'the 1971 international treaty for the conservation of wetlands'. Explanation: Ramsar Convention means the 1971 international treaty for the conservation of wetlands."
+    },
+    {
+      "id": "CURH-318",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Doppler effect' to 'Ramsar Convention'. Explanation: Ramsar Convention — Ramsar Convention means the 1971 international treaty for the conservation of wetlands."
+    },
+    {
+      "id": "CURH-319",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the 1973 forest conservation movement in India in which people hugged trees to prevent felling' to '5 June every year'. Explanation: World Environment Day means 5 June every year."
+    },
+    {
+      "id": "CURH-321",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'voltage equals current multiplied by resistance (V = IR)' to 'the 1997 agreement under which developed countries committed to reduce greenhouse gas emissions'. Explanation: Kyoto Protocol means the 1997 agreement under which developed countries committed to reduce greenhouse gas emissions."
+    },
+    {
+      "id": "CURH-323",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the mitochondria, which produce energy (ATP) for the cell' to 'the 1987 agreement to protect the ozone layer by phasing out ozone-depleting substances'. Explanation: Montreal Protocol means the 1987 agreement to protect the ozone layer by phasing out ozone-depleting substances."
+    },
+    {
+      "id": "CURH-325",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'a region with many endemic species that is under serious threat' to 'the 1973 forest conservation movement in India in which people hugged trees to prevent felling'. Explanation: Chipko Movement means the 1973 forest conservation movement in India in which people hugged trees to prevent felling."
+    },
+    {
+      "id": "CURH-327",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the total greenhouse gas emissions caused by a person, product or activity' to 'a region with many endemic species that is under serious threat'. Explanation: Biodiversity hotspot means a region with many endemic species that is under serious threat."
+    },
+    {
+      "id": "CURH-333",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '46 (23 pairs)' to 'the central processing unit, the brain of a computer'. Explanation: CPU means the central processing unit, the brain of a computer."
+    },
+    {
+      "id": "CURH-334",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Atomic number of carbon' to 'CPU'. Explanation: CPU — CPU means the central processing unit, the brain of a computer."
+    },
+    {
+      "id": "CURH-337",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'approximately 6.022 × 10^23 particles per mole' to 'random access memory, the temporary memory of a computer'. Explanation: RAM means random access memory, the temporary memory of a computer."
+    },
+    {
+      "id": "CURH-338",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Avogadro's number' to 'RAM'. Explanation: RAM — RAM means random access memory, the temporary memory of a computer."
+    },
+    {
+      "id": "CURH-342",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Washing soda' to 'Artificial Intelligence (AI)'. Explanation: Artificial Intelligence (AI) — Artificial Intelligence (AI) means machines performing tasks that normally require human intelli..."
+    },
+    {
+      "id": "CURH-345",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'force equals mass multiplied by acceleration (F = ma)' to 'the fifth generation of mobile network technology'. Explanation: 5G means the fifth generation of mobile network technology."
+    },
+    {
+      "id": "CURH-346",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Newton's first law of motion' to '5G'. Explanation: 5G — 5G means the fifth generation of mobile network technology."
+    },
+    {
+      "id": "CURH-348",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Montreal Protocol' to 'Blockchain'. Explanation: Blockchain — Blockchain means a distributed digital ledger technology that records transactions securely."
+    },
+    {
+      "id": "CURH-351",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the rate at which the central bank borrows money from commercial banks' to '1956 AD (2013 BS)'. Explanation: The Year Nepal Rastra Bank was established is 1956 AD (2013 BS). Question asks \"What is the Year...\"; option B (1956 AD / 2013 BS) is the year, option D is the topic phrase inside the explanation sentence."
+    },
+    {
+      "id": "CURH-352",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Budget deficit' to 'Year Nepal Rastra Bank was established'. Explanation: Year Nepal Rastra Bank was established — The Year Nepal Rastra Bank was established is 1956 AD (2013 BS)."
+    },
+    {
+      "id": "CURH-353",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Nepal Rastra Bank' to 'Nepal Bank Limited (established 1937 AD / 1994 BS)'. Explanation: The First commercial bank of Nepal is Nepal Bank Limited (established 1937 AD / 1994 BS)."
+    },
+    {
+      "id": "CURH-354",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Year Nepal Rastra Bank was established' to 'First commercial bank of Nepal'. Explanation: First commercial bank of Nepal — The First commercial bank of Nepal is Nepal Bank Limited (established 1937 AD / 1994 BS)."
+    },
+    {
+      "id": "CURH-357",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'a general rise in the prices of goods and services over time' to 'Rs 1.964 trillion'. Explanation: The Total size of Nepal's budget for fiscal year 2082/83 is Rs 1.964 trillion."
+    },
+    {
+      "id": "CURH-358",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Inflation' to 'Total size of Nepal's budget for fiscal year 2082/83'. Explanation: Total size of Nepal's budget for fiscal year 2082/83 — The Total size of Nepal's budget for fiscal year 2082/83 is Rs 1.964 tri..."
+    },
+    {
+      "id": "CURH-359",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the responsiveness of demand to a change in price' to 'Rs 407.89 billion'. Explanation: The Capital expenditure in Nepal's budget for fiscal year 2082/83 is Rs 407.89 billion."
+    },
+    {
+      "id": "CURH-362",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Trade balance' to 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83'. Explanation: Recurrent expenditure in Nepal's budget for fiscal year 2082/83 — The Recurrent expenditure in Nepal's budget for fiscal year 2..."
+    },
+    {
+      "id": "CURH-363",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Established 1985; headquarters in Kathmandu, Nepal' to 'Finance Minister Bishnu Prasad Paudel, on 29 May 2025'. Explanation: The Person who presented Nepal's budget for fiscal year 2082/83 is Finance Minister Bishnu Prasad Paudel, on 29 May 2025. Note: options A/B/D are junk fragments from sibling questions; key fix only, distractors not rewritten."
+    },
+    {
+      "id": "CURH-364",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Year SAARC was established and where its headquarters is' to 'Person who presented Nepal's budget for fiscal year 2082/83'. Explanation: Person who presented Nepal's budget for fiscal year 2082/83 — The Person who presented Nepal's budget for fiscal year 2082/83 i..."
+    },
+    {
+      "id": "CURH-365",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'a general fall in the prices of goods and services' to 'Fiscal years 2081/82 to 2085/86'. Explanation: The Period of Nepal's 16th Periodic Plan is Fiscal years 2081/82 to 2085/86."
+    },
+    {
+      "id": "CURH-366",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nepal's stock exchange' to 'Period of Nepal's 16th Periodic Plan'. Explanation: Period of Nepal's 16th Periodic Plan — The Period of Nepal's 16th Periodic Plan is Fiscal years 2081/82 to 2085/86."
+    },
+    {
+      "id": "CURH-368",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Mixed economy' to 'Year Nepal joined the World Trade Organization (WTO)'. Explanation: Year Nepal joined the World Trade Organization (WTO) — The Year Nepal joined the World Trade Organization (WTO) is 2004, as the..."
+    },
+    {
+      "id": "CURH-369",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Petroleum products' to 'Established 1985; headquarters in Kathmandu, Nepal'. Explanation: The Year SAARC was established and where its headquarters is is Established 1985; headquarters in Kathmandu, Nepal."
+    },
+    {
+      "id": "CURH-370",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Nepal's largest import item' to 'Year SAARC was established and where its headquarters is'. Explanation: Year SAARC was established and where its headquarters is — The Year SAARC was established and where its headquarters is is Esta..."
+    },
+    {
+      "id": "CURH-371",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'a general rise in the prices of goods and services over time' to '1997'. Explanation: The Year BIMSTEC was established is 1997."
+    },
+    {
+      "id": "CURH-373",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '1956 AD (2013 BS)' to 'India'. Explanation: The Nepal's largest trading partner is India."
+    },
+    {
+      "id": "CURH-376",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Recession' to 'Nepal's largest source of foreign exchange'. Explanation: Nepal's largest source of foreign exchange — The Nepal's largest source of foreign exchange is Remittance from foreign employment."
+    },
+    {
+      "id": "CURH-377",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nepal Rastra Bank' to '16 July (1 Shrawan)'. Explanation: The Start of Nepal's fiscal year is 16 July (1 Shrawan)."
+    },
+    {
+      "id": "CURH-378",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83' to 'Start of Nepal's fiscal year'. Explanation: Start of Nepal's fiscal year — The Start of Nepal's fiscal year is 16 July (1 Shrawan)."
+    },
+    {
+      "id": "CURH-381",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '2004, as the 147th member and the first least developed country' to '1956 (2013 BS)'. Explanation: The Year the National Planning Commission of Nepal was established is 1956 (2013 BS)."
+    },
+    {
+      "id": "CURH-382",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nepal's largest source of foreign exchange' to 'Year the National Planning Commission of Nepal was established'. Explanation: Year the National Planning Commission of Nepal was established — The Year the National Planning Commission of Nepal was establi..."
+    },
+    {
+      "id": "CURH-383",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the amount by which government expenditure exceeds revenue' to '1956–1961'. Explanation: The Period of Nepal's First Five-Year Plan is 1956–1961."
+    },
+    {
+      "id": "CURH-387",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'About 20.27 percent' to 'Nepal Stock Exchange (NEPSE), established 1993'. Explanation: The Nepal's stock exchange is Nepal Stock Exchange (NEPSE), established 1993."
+    },
+    {
+      "id": "CURH-388",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Macroeconomics' to 'Nepal's stock exchange'. Explanation: Nepal's stock exchange — The Nepal's stock exchange is Nepal Stock Exchange (NEPSE), established 1993."
+    },
+    {
+      "id": "CURH-389",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the total value of goods and services produced within a country in a year' to 'Securities Board of Nepal (SEBON)'. Explanation: The Regulator of Nepal's securities market is Securities Board of Nepal (SEBON)."
+    },
+    {
+      "id": "CURH-391",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the rate at which the central bank borrows money from commercial banks' to 'Rastriya Banijya Bank'. Explanation: The Largest government-owned commercial bank of Nepal is Rastriya Banijya Bank."
+    },
+    {
+      "id": "CURH-398",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Gulf countries and Malaysia' to 'Nepal Rastra Bank'. Explanation: The Institution that manages Nepal's foreign exchange reserves is Nepal Rastra Bank."
+    },
+    {
+      "id": "CURH-399",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Recurrent expenditure in Nepal's budget for fiscal year 2082/83' to 'Institution that manages Nepal's foreign exchange reserves'. Explanation: Institution that manages Nepal's foreign exchange reserves — The Institution that manages Nepal's foreign exchange reserves is ..."
+    },
+    {
+      "id": "CURH-400",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Rs 1.180 trillion' to 'Economic Survey'. Explanation: The Document that reviews Nepal's economy each year, presented by the Ministry of Finance is Economic Survey."
+    },
+    {
+      "id": "CURH-404",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'About one-fourth (around 25 percent)' to 'About 20.27 percent'. Explanation: The Poverty rate in Nepal as per the Nepal Living Standards Survey 2022/23 is About 20.27 percent."
+    },
+    {
+      "id": "CURH-405",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Socialism' to 'Poverty rate in Nepal as per the Nepal Living Standards Survey 2022/23'. Explanation: Poverty rate in Nepal as per the Nepal Living Standards Survey 2022/23 — The Poverty rate in Nepal as per the Nepal Living Stan..."
+    },
+    {
+      "id": "CURH-407",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Human Development Index (HDI)' to 'Share of agriculture in Nepal's GDP'. Explanation: Share of agriculture in Nepal's GDP — The Share of agriculture in Nepal's GDP is About one-fourth (around 25 percent)."
+    },
+    {
+      "id": "CURH-409",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Mixed economy' to 'Theoretical hydropower potential of Nepal'. Explanation: Theoretical hydropower potential of Nepal — The Theoretical hydropower potential of Nepal is About 83,000 MW."
+    },
+    {
+      "id": "CURH-411",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Capital expenditure in Nepal's budget for fiscal year 2082/83' to 'Tourist arrivals in Nepal in 2024'. Explanation: Tourist arrivals in Nepal in 2024 — The Tourist arrivals in Nepal in 2024 is About 1.15 million (1,147,567)."
+    },
+    {
+      "id": "CURH-412",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the theory that government spending can lift an economy out of recession' to 'Petroleum products'. Explanation: The Nepal's largest import item is Petroleum products."
+    },
+    {
+      "id": "CURH-413",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Statutory Liquidity Ratio (SLR)' to 'Nepal's largest import item'. Explanation: Nepal's largest import item — The Nepal's largest import item is Petroleum products."
+    },
+    {
+      "id": "CURH-414",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the study of individual consumers, firms and markets' to 'A large trade deficit — imports far exceed exports'. Explanation: The Nepal's trade position with the rest of the world is A large trade deficit — imports far exceed exports."
+    },
+    {
+      "id": "CURH-416",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'an economic system based on social or state ownership of the means of production' to 'Gulf countries and Malaysia'. Explanation: The Main destination region for Nepali foreign employment is Gulf countries and Malaysia."
+    },
+    {
+      "id": "CURH-418",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Gulf countries and Malaysia' to 'Nepal Rastra Bank Act, 2058 (2002)'. Explanation: The Current Nepal Rastra Bank Act is Nepal Rastra Bank Act, 2058 (2002)."
+    },
+    {
+      "id": "CURH-423",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Gross Domestic Product (GDP)' to 'Cash Reserve Ratio (CRR)'. Explanation: Cash Reserve Ratio (CRR) — Cash Reserve Ratio (CRR) means the share of deposits banks must keep with the central bank."
+    },
+    {
+      "id": "CURH-426",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '1956–1961' to 'the rate at which the central bank lends money to commercial banks'. Explanation: Repo rate means the rate at which the central bank lends money to commercial banks."
+    },
+    {
+      "id": "CURH-427",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Period of Nepal's First Five-Year Plan' to 'Repo rate'. Explanation: Repo rate — Repo rate means the rate at which the central bank lends money to commercial banks."
+    },
+    {
+      "id": "CURH-429",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Governor of Nepal Rastra Bank appointed in May 2025' to 'Reverse repo rate'. Explanation: Reverse repo rate — Reverse repo rate means the rate at which the central bank borrows money from commercial banks."
+    },
+    {
+      "id": "CURH-430",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the quantity of a good producers are willing and able to sell at a given price' to 'government policy on taxation and public spending'. Explanation: Fiscal policy means government policy on taxation and public spending."
+    },
+    {
+      "id": "CURH-431",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Supply' to 'Fiscal policy'. Explanation: Fiscal policy — Fiscal policy means government policy on taxation and public spending."
+    },
+    {
+      "id": "CURH-432",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '1997' to 'central bank policy on money supply and interest rates'. Explanation: Monetary policy means central bank policy on money supply and interest rates."
+    },
+    {
+      "id": "CURH-438",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the theory of surplus value and class struggle in capitalism' to 'total national income divided by the population'. Explanation: Per capita income means total national income divided by the population."
+    },
+    {
+      "id": "CURH-445",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Adam Smith' to 'Demand'. Explanation: Demand — Demand means the quantity of a good consumers are willing and able to buy at a given price."
+    },
+    {
+      "id": "CURH-449",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Inflation' to 'Elasticity of demand'. Explanation: Elasticity of demand — Elasticity of demand means the responsiveness of demand to a change in price."
+    },
+    {
+      "id": "CURH-454",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'an economy in which prices are determined by supply and demand' to 'the total income earned by the residents of a country in a year'. Explanation: National income means the total income earned by the residents of a country in a year."
+    },
+    {
+      "id": "CURH-455",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Budget deficit' to 'National income'. Explanation: National income — National income means the total income earned by the residents of a country in a year."
+    },
+    {
+      "id": "CURH-456",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Nepal Rastra Bank' to 'the amount by which government expenditure exceeds revenue'. Explanation: Budget deficit means the amount by which government expenditure exceeds revenue."
+    },
+    {
+      "id": "CURH-460",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Petroleum products' to 'investment by a foreign entity in a business in another country'. Explanation: Foreign Direct Investment (FDI) means investment by a foreign entity in a business in another country."
+    },
+    {
+      "id": "CURH-465",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Institution that manages Nepal's foreign exchange reserves' to 'Trade balance'. Explanation: Trade balance — Trade balance means the value of exports minus the value of imports."
+    },
+    {
+      "id": "CURH-467",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'John Maynard Keynes' to 'Current account'. Explanation: Current account — Current account means the part of the balance of payments covering trade in goods and services, income and tr..."
+    },
+    {
+      "id": "CURH-473",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Karl Marx' to 'Recession'. Explanation: Recession — Recession means a significant decline in economic activity, often two quarters of falling GDP."
+    },
+    {
+      "id": "CURH-476",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'investment by a foreign entity in a business in another country' to 'an economy in which prices are determined by supply and demand'. Explanation: Market economy means an economy in which prices are determined by supply and demand."
+    },
+    {
+      "id": "CURH-477",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Exchange rate arrangement of the Nepali rupee with the Indian rupee' to 'Market economy'. Explanation: Market economy — Market economy means an economy in which prices are determined by supply and demand."
+    },
+    {
+      "id": "CURH-480",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the share of deposits banks must keep with the central bank' to 'an economic system based on private ownership of the means of production'. Explanation: Capitalism means an economic system based on private ownership of the means of production."
+    },
+    {
+      "id": "CURH-481",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Capital expenditure in Nepal's budget for fiscal year 2082/83' to 'Capitalism'. Explanation: Capitalism — Capitalism means an economic system based on private ownership of the means of production."
+    },
+    {
+      "id": "CURH-484",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '1968 (2024 BS)' to 'the study of individual consumers, firms and markets'. Explanation: Microeconomics means the study of individual consumers, firms and markets."
+    },
+    {
+      "id": "CURH-485",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Year the Agricultural Development Bank of Nepal was established' to 'Microeconomics'. Explanation: Microeconomics — Microeconomics means the study of individual consumers, firms and markets."
+    },
+    {
+      "id": "CURH-486",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'a general fall in the prices of goods and services' to 'the study of the economy as a whole'. Explanation: Macroeconomics means the study of the economy as a whole."
+    },
+    {
+      "id": "CURH-488",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'central bank policy on money supply and interest rates' to 'a composite measure of health, education and income published by the UNDP'. Explanation: Human Development Index (HDI) means a composite measure of health, education and income published by the UNDP."
+    },
+    {
+      "id": "CURH-490",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'a significant decline in economic activity, often two quarters of falling GDP' to 'a tax that takes a larger share of income as income rises'. Explanation: Progressive tax means a tax that takes a larger share of income as income rises."
+    },
+    {
+      "id": "CURH-494",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the principles of supply and demand and the concept of consumer surplus' to 'the theory that government spending can lift an economy out of recession'. Explanation: John Maynard Keynes is best known for the theory that government spending can lift an economy out of recession."
+    },
+    {
+      "id": "CURH-496",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'other things equal, demand falls as price rises and rises as price falls' to 'the theory of surplus value and class struggle in capitalism'. Explanation: Karl Marx is best known for the theory of surplus value and class struggle in capitalism."
+    },
+    {
+      "id": "CURH-497",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Law of demand' to 'Karl Marx'. Explanation: Karl Marx — Karl Marx is best known for the theory of surplus value and class struggle in capitalism."
+    },
+    {
+      "id": "CURH-499",
+      "file": "expansion-current-hard.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Gross National Product (GNP)' to 'Alfred Marshall'. Explanation: Alfred Marshall — Alfred Marshall is best known for the principles of supply and demand and the concept of consumer surplus."
+    },
+    {
+      "id": "HARD2-048",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'O' to 'N'. Explanation: Each letter moves 6 steps forward in the alphabet So the next letter is N."
+    },
+    {
+      "id": "HARD2-052",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'V' to 'U'. Explanation: The steps follow the repeating pattern [3, 1, 4]: apply them in turn. So the next letter is U."
+    },
+    {
+      "id": "HARD2-053",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'P' to 'R'. Explanation: The steps follow the repeating pattern [5, -2, 5]: apply them in turn. So the next letter is R."
+    },
+    {
+      "id": "HARD2-061",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'QSSR' to 'OQQP'. Explanation: Each letter is shifted 2 places forward in the alphabet. Applying the same shift to MOON gives OQQP."
+    },
+    {
+      "id": "HARD2-062",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'AYLL' to 'YWJJ'. Explanation: Each letter is shifted 5 places forward in the alphabet. Applying the same shift to TREE gives YWJJ."
+    },
+    {
+      "id": "HARD2-063",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'VSEH' to 'TQCF'. Explanation: Each letter is shifted 2 places forward in the alphabet. Applying the same shift to ROAD gives TQCF."
+    },
+    {
+      "id": "HARD2-065",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'LTQI' to 'KSPH'. Explanation: Each letter is shifted 4 places forward in the alphabet. Applying the same shift to GOLD gives KSPH."
+    },
+    {
+      "id": "HARD2-066",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'LURQ' to 'KTQP'. Explanation: Each letter is shifted 2 places forward in the alphabet. Applying the same shift to IRON gives KTQP."
+    },
+    {
+      "id": "HARD2-067",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'RNQP' to 'PLON'. Explanation: Each letter is shifted 3 places forward in the alphabet. Applying the same shift to MILK gives PLON."
+    },
+    {
+      "id": "HARD2-068",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'AMRH' to 'BNSI'. Explanation: Each letter is shifted 5 places forward in the alphabet. Applying the same shift to WIND gives BNSI."
+    },
+    {
+      "id": "HARD2-074",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'IJJW' to 'GHHU'. Explanation: Each letter is shifted 3 places forward in the alphabet. Applying the same shift to DEER gives GHHU."
+    },
+    {
+      "id": "HARD2-075",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'IURJ' to 'JVSK'. Explanation: Each letter is shifted 4 places forward in the alphabet. Applying the same shift to FROG gives JVSK."
+    },
+    {
+      "id": "HARD2-076",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'FIEV' to 'DGCT'. Explanation: Each letter is shifted 2 places forward in the alphabet. Applying the same shift to BEAR gives DGCT."
+    },
+    {
+      "id": "HARD2-077",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'BTQK' to 'ZROI'. Explanation: Each letter is shifted 3 places forward in the alphabet. Applying the same shift to WOLF gives ZROI."
+    },
+    {
+      "id": "HARD2-079",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'HFY' to 'FDW'. Explanation: Each letter is shifted 3 places forward in the alphabet. Applying the same shift to CAT gives FDW."
+    },
+    {
+      "id": "HARD2-084",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'JMWL' to 'HKUJ'. Explanation: Each letter is shifted 2 places forward in the alphabet. Applying the same shift to FISH gives HKUJ."
+    },
+    {
+      "id": "HARD2-088",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Uncle' to 'Nephew or niece'. Explanation: B is A's sibling and the mother of C and D, so D is A's nephew or niece."
+    },
+    {
+      "id": "HARD2-089",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Sister' to 'Grandmother'. Explanation: Sita is the mother of Gita's father, so Sita is Gita's grandmother."
+    },
+    {
+      "id": "HARD2-091",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nephew' to 'Cousin'. Explanation: Q and R are siblings; P is Q's son and S is R's child, so P and S are cousins."
+    },
+    {
+      "id": "HARD2-093",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Sister' to 'Wife'. Explanation: Y and Z are siblings and children of X and W, so W is X's wife (the children's mother)."
+    },
+    {
+      "id": "HARD2-095",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Nephew' to 'Son-in-law'. Explanation: N is P's daughter-in-law (O's wife), so N's brother M is P's son-in-law."
+    },
+    {
+      "id": "HARD2-096",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'P is the brother of Q' to 'P is the father of Q and R'. Explanation: P + Q means P is the father of Q; Q − R means Q is the sister of R. So P is the father of both Q and R."
+    },
+    {
+      "id": "HARD2-097",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Brother' to 'Cousin'. Explanation: Ramesh's father's sister is his aunt; her children are Ramesh's cousins, including her son."
+    },
+    {
+      "id": "HARD2-101",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Grandfather' to 'Uncle'. Explanation: L is N's aunt (M's sister), so L's husband K is N's uncle."
+    },
+    {
+      "id": "HARD2-103",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Neither follows' to 'Only I follows'. Explanation: Some cats are dogs and all dogs are animals, so those cats are animals (I). But not all cats need be dogs, so II does not follow."
+    },
+    {
+      "id": "HARD2-104",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Neither follows' to 'Only II follows'. Explanation: No pen is a pencil, but erasers include all pencils plus possibly pens — I does not follow. All pencils are erasers, so some er..."
+    },
+    {
+      "id": "HARD2-105",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Only II follows' to 'Neither follows'. Explanation: The 'some hardworking people' who are successful need not be students, so I does not follow; II reverses the relation and does ..."
+    },
+    {
+      "id": "HARD2-112",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Only II follows' to 'Only I follows'. Explanation: The black birds are not fish, so some black things are not fish (I). Black things need not be birds, so II does not follow."
+    },
+    {
+      "id": "HARD2-114",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Neither follows' to 'Only I follows'. Explanation: The engineers who are managers are not clerks (I). But engineers who are not managers could be clerks, so II does not follow."
+    },
+    {
+      "id": "HARD2-115",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Only II follows' to 'Neither follows'. Explanation: The women who are teachers need not be mothers, so I does not follow; and teachers include men, so II does not follow."
+    },
+    {
+      "id": "HARD2-116",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Neither follows' to 'Only I follows'. Explanation: All politicians are honest and no honest person is corrupt, so no politician is corrupt (I). II contradicts I, so it does not f..."
+    },
+    {
+      "id": "HARD2-119",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '3 km north and 3 km west' to '3 km north and 3 km east'. Explanation: Net displacement: east-west = 3 km, north-south = 3 km. So he is 3 km north and 3 km east of the starting point."
+    },
+    {
+      "id": "HARD2-120",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '5 km north and 4 km east' to '3 km north and 4 km east'. Explanation: Net displacement: east-west = 4 km, north-south = 3 km. So he is 3 km north and 4 km east of the starting point."
+    },
+    {
+      "id": "HARD2-122",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '3 km south and 5 km east' to '3 km south and 5 km west'. Explanation: Net displacement: east-west = -5 km, north-south = -3 km. So he is 3 km south and 5 km west of the starting point."
+    },
+    {
+      "id": "HARD2-128",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '5 km north and 3 km east' to '3 km north and 3 km east'. Explanation: Net displacement: east-west = 3 km, north-south = 3 km. So he is 3 km north and 3 km east of the starting point."
+    },
+    {
+      "id": "HARD2-129",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '144' to '190'. Explanation: 121, 144 and 169 are perfect squares (11², 12², 13²); 190 is not a perfect square."
+    },
+    {
+      "id": "HARD2-130",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '8' to '100'. Explanation: 8, 27 and 64 are perfect cubes (2³, 3³, 4³); 100 is not a perfect cube."
+    },
+    {
+      "id": "HARD2-131",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '2' to '9'. Explanation: 2, 3 and 5 are prime numbers; 9 is composite (3 × 3)."
+    },
+    {
+      "id": "HARD2-132",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Square' to 'Circle'. Explanation: Triangle, square and rectangle are polygons with straight sides; a circle has a curved boundary."
+    },
+    {
+      "id": "HARD2-133",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'January' to 'June'. Explanation: January, March and May have 31 days; June has 30 days."
+    },
+    {
+      "id": "HARD2-135",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Mango' to 'Potato'. Explanation: Mango, apple and banana are fruits; potato is a vegetable (a tuber)."
+    },
+    {
+      "id": "HARD2-137",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Pencil' to 'Book'. Explanation: Pen, pencil and eraser are writing/drawing tools; a book is for reading."
+    },
+    {
+      "id": "HARD2-138",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '27' to '200'. Explanation: 27, 125 and 216 are perfect cubes (3³, 5³, 6³); 200 is not a perfect cube."
+    },
+    {
+      "id": "HARD2-141",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lamb' to 'Puppy'. Explanation: A young cat is a kitten; a young dog is a puppy."
+    },
+    {
+      "id": "HARD2-147",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '34th' to '35th'. Explanation: Position from the left = total − position from the right + 1 = 53 − 19 + 1 = 35."
+    },
+    {
+      "id": "HARD2-150",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '33th' to '34th'. Explanation: Position from the right = total − position from the left + 1 = 49 − 16 + 1 = 34."
+    },
+    {
+      "id": "HARD2-152",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '57.5 degrees' to '72.5 degrees'. Explanation: Angle = |30 × 7 − 5.5 × 25| = 72.5°; the smaller angle is 72.5°."
+    },
+    {
+      "id": "HARD2-155",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '167.5 degrees' to '152.5 degrees'. Explanation: Angle = |30 × 5 − 5.5 × 55| = 152.5°; the smaller angle is 152.5°."
+    },
+    {
+      "id": "HARD2-180",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Rs 900' to 'Rs 1170'. Explanation: Selling price = CP × (100 + profit%)/100 = 900 × 130/100 = Rs 1170."
+    },
+    {
+      "id": "HARD2-185",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Rs 2500' to 'Rs 3000'. Explanation: Selling price = CP × (100 + profit%)/100 = 2500 × 120/100 = Rs 3000."
+    },
+    {
+      "id": "HARD2-187",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Rs 1800' to 'Rs 2340'. Explanation: Selling price = CP × (100 + profit%)/100 = 1800 × 130/100 = Rs 2340."
+    },
+    {
+      "id": "HARD2-190",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Rs 2200' to 'Rs 2420'. Explanation: Selling price = CP × (100 + profit%)/100 = 2200 × 110/100 = Rs 2420."
+    },
+    {
+      "id": "HARD2-226",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '25 days' to '6 days'. Explanation: Together, in one day they do 1/10 + 1/15 = 25/150 of the work, so they take 150/25 = 6 days."
+    },
+    {
+      "id": "HARD2-227",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '30 days' to '36/5 days'. Explanation: Together, in one day they do 1/12 + 1/18 = 30/216 of the work, so they take 216/30 = 36/5 days."
+    },
+    {
+      "id": "HARD2-229",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '50 days' to '12 days'. Explanation: Together, in one day they do 1/20 + 1/30 = 50/600 of the work, so they take 600/50 = 12 days."
+    },
+    {
+      "id": "HARD2-231",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '15 days' to '60/7 days'. Explanation: Together, in one day they do 1/15 + 1/20 = 35/300 of the work, so they take 300/35 = 60/7 days."
+    },
+    {
+      "id": "HARD2-234",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '30 days' to '20/3 days'. Explanation: Together, in one day they do 1/10 + 1/20 = 30/200 of the work, so they take 200/30 = 20/3 days."
+    },
+    {
+      "id": "HARD2-280",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '25' to '51/2'. Explanation: Sum of first 50 natural numbers = 50(50+1)/2 = 1275. Average = 1275 ÷ 50 = 51/2."
+    },
+    {
+      "id": "HARD2-283",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '41' to '81/2'. Explanation: Sum of first 80 natural numbers = 80(80+1)/2 = 3240. Average = 3240 ÷ 80 = 81/2."
+    },
+    {
+      "id": "HARD2-286",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '40 sq m' to '96 sq m'. Explanation: Area of a rectangle = length × breadth = 12 × 8 = 96 sq m."
+    },
+    {
+      "id": "HARD2-287",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '160 sq m' to '150 sq m'. Explanation: Area of a rectangle = length × breadth = 15 × 10 = 150 sq m."
+    },
+    {
+      "id": "HARD2-289",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from '60 sq m' to '216 sq m'. Explanation: Area of a rectangle = length × breadth = 18 × 12 = 216 sq m."
+    },
+    {
+      "id": "HARD2-290",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '41 sq m' to '400 sq m'. Explanation: Area of a rectangle = length × breadth = 25 × 16 = 400 sq m."
+    },
+    {
+      "id": "HARD2-292",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '88 sq cm' to '616 sq cm'. Explanation: Area = πr² = (22/7) × 14 × 14 = 616 sq cm."
+    },
+    {
+      "id": "HARD2-294",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '176 sq cm' to '2464 sq cm'. Explanation: Area = πr² = (22/7) × 28 × 28 = 2464 sq cm."
+    },
+    {
+      "id": "HARD2-302",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 32' to 'Article 21'. Explanation: Article 21 of the Constitution of Nepal 2072 guarantees the right of the victim of a crime."
+    },
+    {
+      "id": "HARD2-305",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Nepali in the Devanagari script as the official language' to 'the name of the country as Nepal'. Explanation: Article 1 of the Constitution of Nepal 2072 provides for the name of the country as Nepal."
+    },
+    {
+      "id": "HARD2-307",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'citizenship by descent' to 'Nepal as an independent, indivisible, sovereign, secular, inclusive and democratic state'. Explanation: Article 4 of the Constitution of Nepal 2072 provides for Nepal as an independent, indivisible, sovereign, secular, inclusive an..."
+    },
+    {
+      "id": "HARD2-308",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 126' to 'Article 6'. Explanation: Article 6 of the Constitution of Nepal 2072 provides for all languages spoken in Nepal being national languages."
+    },
+    {
+      "id": "HARD2-309",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'a minimum age of 25 years to be a member of the House of Representatives' to 'all languages spoken in Nepal being national languages'. Explanation: Article 6 of the Constitution of Nepal 2072 provides for all languages spoken in Nepal being national languages."
+    },
+    {
+      "id": "HARD2-310",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 1' to 'Article 7'. Explanation: Article 7 of the Constitution of Nepal 2072 provides for Nepali in the Devanagari script as the official language."
+    },
+    {
+      "id": "HARD2-314",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Article 6' to 'Article 48'. Explanation: Article 48 of the Constitution of Nepal 2072 provides for the duties of citizens."
+    },
+    {
+      "id": "HARD2-315",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 119' to 'Article 56'. Explanation: Article 56 of the Constitution of Nepal 2072 provides for the three-tier structure of the state: federal, provincial and local."
+    },
+    {
+      "id": "HARD2-317",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 87' to 'Article 61'. Explanation: Article 61 of the Constitution of Nepal 2072 provides for the President as the head of state."
+    },
+    {
+      "id": "HARD2-318",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 126' to 'Article 63'. Explanation: Article 63 of the Constitution of Nepal 2072 provides for the five-year term of office of the President."
+    },
+    {
+      "id": "HARD2-319",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the 275-member House of Representatives (165 first-past-the-post and 110 proportional)' to 'the five-year term of office of the President'. Explanation: Article 63 of the Constitution of Nepal 2072 provides for the five-year term of office of the President."
+    },
+    {
+      "id": "HARD2-320",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Article 4' to 'Article 74'. Explanation: Article 74 of the Constitution of Nepal 2072 provides for the multi-party competitive federal democratic republican parliamenta..."
+    },
+    {
+      "id": "HARD2-321",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the President as the head of state' to 'the multi-party competitive federal democratic republican parliamentary form of government'. Explanation: Article 74 of the Constitution of Nepal 2072 provides for the multi-party competitive federal democratic republican parliamenta..."
+    },
+    {
+      "id": "HARD2-322",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 4' to 'Article 75'. Explanation: Article 75 of the Constitution of Nepal 2072 provides for executive power being vested in the Council of Ministers."
+    },
+    {
+      "id": "HARD2-324",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Article 84' to 'Article 76'. Explanation: Article 76 of the Constitution of Nepal 2072 provides for formation of the Council of Ministers."
+    },
+    {
+      "id": "HARD2-327",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 57' to 'Article 84'. Explanation: Article 84 of the Constitution of Nepal 2072 provides for the 275-member House of Representatives (165 first-past-the-post and ..."
+    },
+    {
+      "id": "HARD2-329",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the Election Commission' to 'the five-year term of the House of Representatives'. Explanation: Article 85 of the Constitution of Nepal 2072 provides for the five-year term of the House of Representatives."
+    },
+    {
+      "id": "HARD2-331",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 85' to 'Article 87'. Explanation: Article 87 of the Constitution of Nepal 2072 provides for a minimum age of 25 years to be a member of the House of Representati..."
+    },
+    {
+      "id": "HARD2-333",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 7' to 'Article 119'. Explanation: Article 119 of the Constitution of Nepal 2072 provides for presentation of annual estimates of revenue and expenditure (the bud..."
+    },
+    {
+      "id": "HARD2-335",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 75' to 'Article 126'. Explanation: Article 126 of the Constitution of Nepal 2072 provides for the Supreme Court as the apex court."
+    },
+    {
+      "id": "HARD2-337",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 83' to 'Article 240'. Explanation: Article 240 of the Constitution of Nepal 2072 provides for the Auditor General."
+    },
+    {
+      "id": "HARD2-338",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the Commission for the Investigation of Abuse of Authority (CIAA)' to 'the Auditor General'. Explanation: Article 240 of the Constitution of Nepal 2072 provides for the Auditor General."
+    },
+    {
+      "id": "HARD2-342",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Schedule 3' to 'Schedule 2'. Explanation: Schedule 2 of the Constitution of Nepal 2072 contains the national anthem of Nepal."
+    },
+    {
+      "id": "HARD2-344",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Schedule 1' to 'Schedule 3'. Explanation: Schedule 3 of the Constitution of Nepal 2072 contains the coat of arms of Nepal."
+    },
+    {
+      "id": "HARD2-345",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the national flag of Nepal' to 'the coat of arms of Nepal'. Explanation: Schedule 3 of the Constitution of Nepal 2072 contains the coat of arms of Nepal."
+    },
+    {
+      "id": "HARD2-347",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'the coat of arms of Nepal' to 'the powers of the federal level (federal list)'. Explanation: Schedule 5 of the Constitution of Nepal 2072 contains the powers of the federal level (federal list)."
+    },
+    {
+      "id": "HARD2-349",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the coat of arms of Nepal' to 'concurrent powers of the federation, province and local level'. Explanation: Schedule 9 of the Constitution of Nepal 2072 contains concurrent powers of the federation, province and local level."
+    },
+    {
+      "id": "HARD2-353",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Primary level only' to 'Higher education'. Explanation: Article 40 entitles Dalits to free education with scholarships up to higher education, with special provision for health and so..."
+    },
+    {
+      "id": "HARD2-355",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Article 33 — right to employment' to 'Article 36 — right to food'. Explanation: Article 36 guarantees the right to food and food sovereignty, and protection from the risk of a life endangered by food scarcity."
+    },
+    {
+      "id": "HARD2-357",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Foreign affairs only' to 'Public importance'. Explanation: Article 27 guarantees the right to demand and receive information on any matter of public importance."
+    },
+    {
+      "id": "HARD2-358",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Article 44' to 'Article 46'. Explanation: Article 46 gives citizens the right to constitutional remedies — to move the court for enforcement of fundamental rights."
+    },
+    {
+      "id": "HARD2-359",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Two years' to 'Three years'. Explanation: Article 47 requires the State to implement the fundamental rights within three years of the commencement of the Constitution."
+    },
+    {
+      "id": "HARD2-360",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Religious places only' to 'Public places and places of public use'. Explanation: Article 24 prohibits untouchability and discrimination in public places and places of public use, including temples and public ..."
+    },
+    {
+      "id": "HARD2-361",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Public preaching' to 'Inducement, allurement or coercion'. Explanation: Article 26 protects religious freedom but prohibits converting a person from one religion to another by inducement, allurement ..."
+    },
+    {
+      "id": "HARD2-363",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'A court order only' to 'Law'. Explanation: Article 37 guarantees the right to proper housing and provides that no citizen shall be evicted from housing except in accordan..."
+    },
+    {
+      "id": "HARD2-365",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from '56 members — 8 from each province only' to '59 members — 56 elected (8 from each province) and 3 nominated by the President'. Explanation: Article 86 provides a 59-member National Assembly: 56 elected (8 from each of the 7 provinces) and 3 nominated by the President..."
+    },
+    {
+      "id": "HARD2-366",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Six years; all retire together' to 'Six years; one-third retire every two years'. Explanation: National Assembly members serve six-year terms, with one-third retiring every two years."
+    },
+    {
+      "id": "HARD2-374",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'A bachelor's degree only' to 'A master's degree from a recognised university'. Explanation: Article 242 requires a person to hold a master's degree from a recognised university to be appointed to the Public Service Comm..."
+    },
+    {
+      "id": "HARD2-375",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Nine members' to 'Five — one Chief Election Commissioner and four Commissioners'. Explanation: Article 245 provides an Election Commission of five members: one Chief Election Commissioner and four Election Commissioners."
+    },
+    {
+      "id": "HARD2-378",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '70 years' to '65 years'. Explanation: Members of constitutional bodies (except the National Human Rights Commission) must retire at 65 years of age."
+    },
+    {
+      "id": "HARD2-379",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 273' to 'Article 275'. Explanation: Article 275 provides that a referendum may be held on matters of national importance."
+    },
+    {
+      "id": "HARD2-380",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Article 126' to 'Article 133'. Explanation: Article 133 gives the Supreme Court extraordinary jurisdiction to issue writs including habeas corpus, mandamus, certiorari, pr..."
+    },
+    {
+      "id": "HARD2-387",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '26 January 2015' to '20 September 2015 (3 Ashoj 2072)'. Explanation: The Constitution of Nepal was promulgated on 20 September 2015 (3 Ashoj 2072) and came into effect on the same day."
+    },
+    {
+      "id": "HARD2-388",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'National Tharu Commission' to 'National Indigenous Nationalities Commission'. Explanation: Article 261 establishes the National Indigenous Nationalities Commission; the Madhesi, Tharu and Muslim Commissions are in Arti..."
+    },
+    {
+      "id": "HARD2-391",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'One year' to 'Three months'. Explanation: A state of emergency declared under Article 273 remains in force for up to three months, and may be extended by the House of Re..."
+    },
+    {
+      "id": "HARD2-392",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Article 155' to 'Article 156'. Explanation: Article 156 provides for the Attorney General as the chief legal advisor to the Government of Nepal."
+    },
+    {
+      "id": "HARD2-395",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Freedom from all taxation' to 'Freedom of opinion and expression'. Explanation: Article 17 guarantees freedoms including opinion and expression, peaceful assembly without arms, forming unions and association..."
+    },
+    {
+      "id": "HARD2-398",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Fix their own wages unilaterally' to 'Bargain collectively and go on strike, except in essential services'. Explanation: Article 34 gives workers the right to appropriate labour practices, to form trade unions, and to participate in collective barg..."
+    },
+    {
+      "id": "HARD2-400",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Province' to 'Sex or community'. Explanation: Article 70 provides that the President and the Vice-President shall be of different sexes or communities."
+    },
+    {
+      "id": "HARD2-402",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'CTEVT' to 'Jean Piaget'. Explanation: Jean Piaget — Jean Piaget is best known for cognitive development through four stages: sensorimotor, preoperational, concrete o..."
+    },
+    {
+      "id": "HARD2-406",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Bloom's Taxonomy' to 'Lawrence Kohlberg'. Explanation: Lawrence Kohlberg — Lawrence Kohlberg is best known for moral development in three levels and six stages."
+    },
+    {
+      "id": "HARD2-407",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'child-centred learning with prepared environments and self-directed activity' to 'operant conditioning through reinforcement and punishment'. Explanation: B. F. Skinner is best known for operant conditioning through reinforcement and punishment."
+    },
+    {
+      "id": "HARD2-409",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'education organised around the child's interests and needs' to 'classical conditioning through association of stimuli'. Explanation: Ivan Pavlov is best known for classical conditioning through association of stimuli."
+    },
+    {
+      "id": "HARD2-410",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Child-centred education' to 'Ivan Pavlov'. Explanation: Ivan Pavlov — Ivan Pavlov is best known for classical conditioning through association of stimuli."
+    },
+    {
+      "id": "HARD2-412",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Albert Bandura' to 'Edward Thorndike'. Explanation: Edward Thorndike — Edward Thorndike is best known for the law of effect, the law of readiness and the law of exercise."
+    },
+    {
+      "id": "HARD2-414",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Scaffolding' to 'Abraham Maslow'. Explanation: Abraham Maslow — Abraham Maslow is best known for the hierarchy of needs from physiological needs to self-actualisation."
+    },
+    {
+      "id": "HARD2-417",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'motivation arising from interest and enjoyment in the task itself' to 'psychosocial development in eight stages across the lifespan'. Explanation: Erik Erikson is best known for psychosocial development in eight stages across the lifespan."
+    },
+    {
+      "id": "HARD2-418",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Intrinsic motivation' to 'Erik Erikson'. Explanation: Erik Erikson — Erik Erikson is best known for psychosocial development in eight stages across the lifespan."
+    },
+    {
+      "id": "HARD2-419",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'the body that provides grants and quality assurance to universities in Nepal' to 'discovery learning and the spiral curriculum'. Explanation: Jerome Bruner is best known for discovery learning and the spiral curriculum."
+    },
+    {
+      "id": "HARD2-421",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'assessment before instruction to identify strengths and weaknesses' to 'meaningful learning and advance organisers'. Explanation: David Ausubel is best known for meaningful learning and advance organisers."
+    },
+    {
+      "id": "HARD2-424",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'David Ausubel' to 'Albert Bandura'. Explanation: Albert Bandura — Albert Bandura is best known for social learning through observation and self-efficacy."
+    },
+    {
+      "id": "HARD2-425",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'learning through rewards and punishments following behaviour' to 'nine events of instruction and five categories of learning outcomes'. Explanation: Robert Gagné is best known for nine events of instruction and five categories of learning outcomes."
+    },
+    {
+      "id": "HARD2-426",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Erik Erikson' to 'Robert Gagné'. Explanation: Robert Gagné — Robert Gagné is best known for nine events of instruction and five categories of learning outcomes."
+    },
+    {
+      "id": "HARD2-427",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'difficulty in reading and spelling words despite normal intelligence' to 'learning by doing and education as democratic experience'. Explanation: John Dewey is best known for learning by doing and education as democratic experience."
+    },
+    {
+      "id": "HARD2-429",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'ongoing assessment during instruction to improve learning' to 'child-centred learning with prepared environments and self-directed activity'. Explanation: Maria Montessori is best known for child-centred learning with prepared environments and self-directed activity."
+    },
+    {
+      "id": "HARD2-434",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Criterion-referenced test' to 'Zone of Proximal Development'. Explanation: Zone of Proximal Development — Zone of Proximal Development refers to the gap between what a learner can do alone and what they..."
+    },
+    {
+      "id": "HARD2-435",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'a test that compares a learner's performance with others in a group' to 'ongoing assessment during instruction to improve learning'. Explanation: Formative evaluation refers to ongoing assessment during instruction to improve learning."
+    },
+    {
+      "id": "HARD2-436",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Continuous assessment' to 'Formative evaluation'. Explanation: Formative evaluation — Formative evaluation refers to ongoing assessment during instruction to improve learning."
+    },
+    {
+      "id": "HARD2-437",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'learning by doing and education as democratic experience' to 'assessment at the end of instruction to judge achievement'. Explanation: Summative evaluation refers to assessment at the end of instruction to judge achievement."
+    },
+    {
+      "id": "HARD2-439",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nepal's council for technical education and vocational training' to 'assessment before instruction to identify strengths and weaknesses'. Explanation: Diagnostic evaluation refers to assessment before instruction to identify strengths and weaknesses."
+    },
+    {
+      "id": "HARD2-440",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'CTEVT' to 'Diagnostic evaluation'. Explanation: Diagnostic evaluation — Diagnostic evaluation refers to assessment before instruction to identify strengths and weaknesses."
+    },
+    {
+      "id": "HARD2-443",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'learning through rewards and punishments following behaviour' to 'a test that compares a learner's performance with others in a group'. Explanation: Norm-referenced test refers to a test that compares a learner's performance with others in a group."
+    },
+    {
+      "id": "HARD2-445",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'assessment before instruction to identify strengths and weaknesses' to 'the unwritten values and norms students learn at school'. Explanation: Hidden curriculum refers to the unwritten values and norms students learn at school."
+    },
+    {
+      "id": "HARD2-447",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'cognitive development through four stages: sensorimotor, preoperational, concrete operational and formal operational' to 'education organised around the child's interests and needs'. Explanation: Child-centred education refers to education organised around the child's interests and needs."
+    },
+    {
+      "id": "HARD2-448",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Classroom management' to 'Child-centred education'. Explanation: Child-centred education — Child-centred education refers to education organised around the child's interests and needs."
+    },
+    {
+      "id": "HARD2-449",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'social interaction in learning, the zone of proximal development and scaffolding' to 'education that welcomes all children, including those with disabilities'. Explanation: Inclusive education refers to education that welcomes all children, including those with disabilities."
+    },
+    {
+      "id": "HARD2-450",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Robert Gagné' to 'Inclusive education'. Explanation: Inclusive education — Inclusive education refers to education that welcomes all children, including those with disabilities."
+    },
+    {
+      "id": "HARD2-455",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'operant conditioning through reinforcement and punishment' to 'a consequence that increases the likelihood of a behaviour'. Explanation: Reinforcement refers to a consequence that increases the likelihood of a behaviour."
+    },
+    {
+      "id": "HARD2-456",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'B. F. Skinner' to 'Reinforcement'. Explanation: Reinforcement — Reinforcement refers to a consequence that increases the likelihood of a behaviour."
+    },
+    {
+      "id": "HARD2-457",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'nine events of instruction and five categories of learning outcomes' to 'motivation arising from interest and enjoyment in the task itself'. Explanation: Intrinsic motivation refers to motivation arising from interest and enjoyment in the task itself."
+    },
+    {
+      "id": "HARD2-458",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lesson plan' to 'Intrinsic motivation'. Explanation: Intrinsic motivation — Intrinsic motivation refers to motivation arising from interest and enjoyment in the task itself."
+    },
+    {
+      "id": "HARD2-460",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'B. F. Skinner' to 'Extrinsic motivation'. Explanation: Extrinsic motivation — Extrinsic motivation refers to motivation arising from external rewards or pressure."
+    },
+    {
+      "id": "HARD2-462",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Formative evaluation' to 'Scaffolding'. Explanation: Scaffolding — Scaffolding refers to temporary support given to a learner until they can work alone."
+    },
+    {
+      "id": "HARD2-463",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'learning objectives concerning attitudes, values and feelings' to 'learning through direct practical experience'. Explanation: Learning by doing refers to learning through direct practical experience."
+    },
+    {
+      "id": "HARD2-464",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Lev Vygotsky' to 'Learning by doing'. Explanation: Learning by doing — Learning by doing refers to learning through direct practical experience."
+    },
+    {
+      "id": "HARD2-465",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'learning by doing and education as democratic experience' to 'scaled-down practice teaching used to train teachers'. Explanation: Micro-teaching refers to scaled-down practice teaching used to train teachers."
+    },
+    {
+      "id": "HARD2-466",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'John Dewey' to 'Micro-teaching'. Explanation: Micro-teaching — Micro-teaching refers to scaled-down practice teaching used to train teachers."
+    },
+    {
+      "id": "HARD2-467",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the hierarchy of needs from physiological needs to self-actualisation' to 'a teacher's written plan of objectives, activities and evaluation for a lesson'. Explanation: Lesson plan refers to a teacher's written plan of objectives, activities and evaluation for a lesson."
+    },
+    {
+      "id": "HARD2-469",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'learning through association between a neutral stimulus and a reflex' to 'organising the classroom to create a good learning environment'. Explanation: Classroom management refers to organising the classroom to create a good learning environment."
+    },
+    {
+      "id": "HARD2-470",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Cognitive development' to 'Classroom management'. Explanation: Classroom management — Classroom management refers to organising the classroom to create a good learning environment."
+    },
+    {
+      "id": "HARD2-472",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Albert Bandura' to 'Continuous assessment'. Explanation: Continuous assessment — Continuous assessment refers to regular assessment of students throughout the school year."
+    },
+    {
+      "id": "HARD2-474",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Hidden curriculum' to 'National Curriculum Framework 2076'. Explanation: National Curriculum Framework 2076 — National Curriculum Framework 2076 refers to Nepal's framework guiding school curriculum d..."
+    },
+    {
+      "id": "HARD2-475",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'social interaction in learning, the zone of proximal development and scaffolding' to 'the body that selects and recommends teachers for community schools in Nepal'. Explanation: Teacher Service Commission refers to the body that selects and recommends teachers for community schools in Nepal."
+    },
+    {
+      "id": "HARD2-476",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lev Vygotsky' to 'Teacher Service Commission'. Explanation: Teacher Service Commission — Teacher Service Commission refers to the body that selects and recommends teachers for community s..."
+    },
+    {
+      "id": "HARD2-477",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'difficulty in reading and spelling words despite normal intelligence' to 'the body that provides grants and quality assurance to universities in Nepal'. Explanation: University Grants Commission refers to the body that provides grants and quality assurance to universities in Nepal."
+    },
+    {
+      "id": "HARD2-480",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Peer learning' to 'CTEVT'. Explanation: CTEVT — CTEVT refers to Nepal's council for technical education and vocational training."
+    },
+    {
+      "id": "HARD2-481",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'assessment at the end of instruction to judge achievement' to 'growth in thinking, reasoning and problem-solving ability'. Explanation: Cognitive development refers to growth in thinking, reasoning and problem-solving ability."
+    },
+    {
+      "id": "HARD2-483",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'extra teaching given to help students overcome learning difficulties' to 'learning objectives concerning attitudes, values and feelings'. Explanation: Affective domain refers to learning objectives concerning attitudes, values and feelings."
+    },
+    {
+      "id": "HARD2-487",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'operant conditioning through reinforcement and punishment' to 'the theory that learners actively build knowledge from experience'. Explanation: Constructivism refers to the theory that learners actively build knowledge from experience."
+    },
+    {
+      "id": "HARD2-489",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'nine events of instruction and five categories of learning outcomes' to 'the theory that learning is a change in observable behaviour'. Explanation: Behaviourism refers to the theory that learning is a change in observable behaviour."
+    },
+    {
+      "id": "HARD2-493",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'six levels of cognitive objectives: remember, understand, apply, analyse, evaluate and create' to 'learning through association between a neutral stimulus and a reflex'. Explanation: Classical conditioning refers to learning through association between a neutral stimulus and a reflex."
+    },
+    {
+      "id": "HARD2-496",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'Lesson plan' to 'Peer learning'. Explanation: Peer learning — Peer learning refers to learning through interaction and collaboration with classmates."
+    },
+    {
+      "id": "HARD2-497",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 3,
+      "reason": "Key corrected from 'the planned set of learning experiences and content in education' to 'extra teaching given to help students overcome learning difficulties'. Explanation: Remedial teaching refers to extra teaching given to help students overcome learning difficulties."
+    },
+    {
+      "id": "HARD2-498",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'B. F. Skinner' to 'Remedial teaching'. Explanation: Remedial teaching — Remedial teaching refers to extra teaching given to help students overcome learning difficulties."
+    },
+    {
+      "id": "HARD2-499",
+      "file": "expansion-hard-core-v2.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'nine events of instruction and five categories of learning outcomes' to 'the project method of teaching'. Explanation: William Kilpatrick is best known for the project method of teaching."
+    },
+    {
+      "id": "HEAL2-001",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Nucleus' to 'Mitochondria'. Explanation: Mitochondria produce energy (ATP) for the cell, so they are called its powerhouse. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-011",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '10' to '24'. Explanation: There are 12 pairs of ribs, making 24 ribs in total. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-012",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Cerebellum' to 'Cerebrum'. Explanation: The cerebrum is the largest part of the brain and controls thought, memory and voluntary movement. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-013",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Cerebellum' to 'Hypothalamus'. Explanation: The hypothalamus controls hunger, thirst, body temperature and sleep. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-016",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Bronchi' to 'Alveoli'. Explanation: Gas exchange takes place in the tiny air sacs called alveoli. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-019",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '5-7 g/dL' to '14-18 g/dL'. Explanation: Normal haemoglobin in adult men is about 14-18 g/dL (in women about 12-16 g/dL). Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-020",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Pituitary gland' to 'Thyroid gland'. Explanation: The thyroid gland produces thyroxine, which controls the body's metabolism. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-022",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '28' to '32'. Explanation: A complete adult set has 32 teeth, including 4 wisdom teeth. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-023",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Cornea' to 'Lens'. Explanation: The lens changes shape to focus light rays on the retina. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-029",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Vitamin A' to 'Vitamin D'. Explanation: Vitamin D helps the intestines absorb calcium, which is needed for strong bones. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-040",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from '9 kcal' to '4 kcal'. Explanation: One gram of protein provides about 4 kcal of energy. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-042",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Vitamin A' to 'Vitamin C'. Explanation: Vitamin C and the B vitamins dissolve in water; vitamins A, D, E and K are fat-soluble. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-060",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Digestive system' to 'Immune system'. Explanation: HIV attacks the immune system, especially CD4 cells, weakening the body's defence against infection. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-065",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Anopheles' to 'Culex'. Explanation: Japanese encephalitis virus is mainly spread by Culex mosquitoes, which breed in rice fields. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-074",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Bacterial infection' to 'Fungal infection'. Explanation: Ringworm is a fungal infection of the skin, despite its name. Systematic +2 key shift in this file; explanation supports option B."
+    },
+    {
+      "id": "HEAL2-099",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Heart' to 'Liver'. Explanation: Long-term heavy drinking damages the liver and can cause liver cirrhosis. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-101",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Wash the face with hot water' to 'Pinch the soft part of the nose and lean slightly forward'. Explanation: Pinch the soft part of the nose and lean slightly forward so blood does not flow down the throat. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-121",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Red' to 'Yellowish'. Explanation: Colostrum is thick and yellowish, and rich in antibodies that protect the newborn. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-124",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Polio' to 'BCG'. Explanation: BCG vaccine is given at birth to protect against tuberculosis. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-125",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'TT vaccine' to 'Pentavalent vaccine'. Explanation: The pentavalent vaccine is given at 6, 10 and 14 weeks of age in Nepal's immunisation schedule. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-148",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Ministry of Home Affairs' to 'Ministry of Health and Population'. Explanation: The Ministry of Health and Population (MoHP) makes health policy for Nepal. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-151",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'A laboratory technician' to 'A Health Assistant'. Explanation: A health post is usually headed by a Health Assistant, supported by auxiliary health workers. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-152",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Department of Roads' to 'Health Insurance Board'. Explanation: The Health Insurance Board runs Nepal's social health insurance programme. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-160",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Cholera' to 'COVID-19'. Explanation: COVID-19 was declared a pandemic by the World Health Organization in March 2020. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-163",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Typhoid' to 'Malaria'. Explanation: Malaria is spread by the bite of an infected female Anopheles mosquito. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-164",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Rabies' to 'Typhoid'. Explanation: Typhoid spreads through food and water contaminated with Salmonella typhi. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-166",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Only when hands look dirty' to 'Before eating and after using the toilet'. Explanation: Hands should be washed with soap before eating and after using the toilet, and after handling waste. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-186",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'OPV' to 'JE vaccine'. Explanation: The JE vaccine protects against Japanese encephalitis, a mosquito-borne brain infection. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-189",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from '30-35°C' to '2-8°C'. Explanation: Most vaccines must be stored in a refrigerator at 2-8°C. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-190",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'JE vaccine' to 'Pentavalent vaccine'. Explanation: The pentavalent vaccine includes protection against hepatitis B. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HEAL2-194",
+      "file": "expansion-health-technical-security.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'Insulin' to 'Artemisinin-based combination therapy (ACT)'. Explanation: Artemisinin-based combination therapy (ACT) is the recommended treatment for uncomplicated malaria. Systematic +2 key shift in this file; explanation supports option A."
+    },
+    {
+      "id": "HA-086",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Low-grade fever' to 'Chest indrawing'. Explanation: Chest indrawing in a child with cough indicates severe pneumonia and needs urgent referral."
+    },
+    {
+      "id": "HA-112",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Vitamin A programme' to 'Aama Suraksha programme'. Explanation: The Aama Suraksha programme provides free institutional delivery care and transport incentives to pregnant women."
+    },
+    {
+      "id": "HA-120",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Diabetes' to 'Diarrhoeal diseases'. Explanation: Handwashing with soap removes germs and is one of the most effective ways to prevent diarrhoeal diseases."
+    },
+    {
+      "id": "HA-121",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Intrauterine device' to 'Vasectomy'. Explanation: Vasectomy is a permanent male sterilisation method in which the vas deferens is cut and tied."
+    },
+    {
+      "id": "HA-125",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'International Maternal Nutrition Care Institute' to 'Integrated Management of Neonatal and Childhood Illness'. Explanation: IMNCI stands for Integrated Management of Neonatal and Childhood Illness, used to assess and treat sick children."
+    },
+    {
+      "id": "HA-129",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'World Hygiene Organisation' to 'World Health Organization'. Explanation: WHO stands for World Health Organization, the United Nations agency for international public health."
+    },
+    {
+      "id": "HA-137",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Having a fever' to 'Not breathing and has no pulse'. Explanation: CPR (cardiopulmonary resuscitation) is given when a person is not breathing and has no pulse, to restore circulation."
+    },
+    {
+      "id": "HA-169",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Sugar' to 'Iodised salt'. Explanation: Iodised salt is the main dietary source of iodine and prevents iodine deficiency disorders such as goitre."
+    },
+    {
+      "id": "HA-183",
+      "file": "license-health-assistant.json",
+      "field": "answer",
+      "new_value": 2,
+      "reason": "Key corrected from 'Drying in sunlight' to 'Autoclaving'. Explanation: Autoclaving uses steam under pressure and reliably kills all microbes including spores."
+    },
+    {
+      "id": "ALLIED-116",
+      "file": "license-allied-health.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Dental Material Failure Test' to 'Decayed, Missing and Filled Teeth'. Explanation: The DMFT index counts Decayed, Missing and Filled Teeth in a person and is the WHO standard for measuring caries experience in ..."
+    },
+    {
+      "id": "PHARM-055",
+      "file": "license-pharmacy.json",
+      "field": "answer",
+      "new_value": 1,
+      "reason": "Key corrected from 'Fluid-bed drying' to 'Lyophilisation (freeze-drying)'. Explanation: Lyophilisation (freeze-drying) removes water by sublimation under vacuum at low temperature, preserving heat-sensitive products..."
+    },
+    {
+      "id": "PHARM-153",
+      "file": "license-pharmacy.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from 'General Pharmacy Protocol' to 'Good Pharmacy Practice'. Explanation: Good Pharmacy Practice (GPP) is the set of standards for the practice of pharmacy that ensures quality pharmaceutical care for ..."
+    },
+    {
+      "id": "ARMY2-002",
+      "file": "expansion-security-engineering.json",
+      "field": "answer",
+      "new_value": 0,
+      "reason": "Key corrected from '2008' to '1762'. Explanation: The Nepali Army traces its origin to 1762, when the Gorkhali army was raised during the unification campaign of Prithvi Narayan... Nepali Army origin 1762, not 2008."
+    },
+    {
+      "id": "IOE2-074",
+      "file": "expansion-law-csit-ioe.json",
+      "field": "options_ne",
+      "new_value": [
+        "विरल",
+        "प्रचुर",
+        "पर्याप्त",
+        "सामान्य"
+      ],
+      "reason": "Duplicate Nepali option: both 'Abundant' and 'Plentiful' were translated as 'प्रचुर'. Corrected index 2 to 'पर्याप्त' (Plentiful). Key unaffected (answer 0, 'Rare'/'विरल')."
+    }
+  ],
+  "removals": [
+    {
+      "id": "HARD2-054",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (V) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-055",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (E) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-056",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (Q) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-057",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (E) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-058",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (G) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-117",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (M) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-118",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Alternating-step letter series where the generator repeated the last step instead of alternating; the correct next letter (P) is not among the options and the explanation step logic is wrong."
+    },
+    {
+      "id": "HARD2-092",
+      "file": "expansion-hard-core-v2.json",
+      "reason": "Ambiguous blood relation: \"son of my husband's mother\" is the woman's husband as well as her brother-in-law; two options are defensible."
+    },
+    {
+      "id": "MECEE-139",
+      "file": "expansion-entrance-licence.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "MECEE-146",
+      "file": "expansion-entrance-licence.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "IQ2-070",
+      "file": "expansion-iq-maths.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "OPT-026",
+      "file": "expansion-nhpc-law.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "HARD5-183",
+      "file": "expansion-r5-maths-hard.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "HARD5-320",
+      "file": "expansion-r5-maths-hard.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "HARD5-328",
+      "file": "expansion-r5-maths-hard.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "R6A-B258",
+      "file": "expansion-r6a-hard.json",
+      "reason": "Exact duplicate of R6A-C294 with an identical exam set."
+    },
+    {
+      "id": "IQ-037",
+      "file": "iq-maths.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "IQ-036",
+      "file": "iq-maths.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    },
+    {
+      "id": "IQ-046",
+      "file": "iq-maths.json",
+      "reason": "Exact duplicate question; this copy's exam set is fully covered by the other copy."
+    }
+  ],
+  "false_positives": 23137,
+  "unverifiable": [
+    {
+      "id": "R6B-007",
+      "reason": "options_ne untranslated in expansion-r6b-licence-entrance.json (741 questions have options_ne identical to options; stems are translated but options are English). Translation-completeness issue, not a key bug; not patched by hand."
+    },
+    {
+      "id": "R6B-B-001",
+      "reason": "options_ne untranslated in expansion-r6b-banking-health.json (352 questions have options_ne identical to options). Translation-completeness issue, not a key bug."
+    },
+    {
+      "id": "R7B-602",
+      "reason": "options_ne untranslated in expansion-r7b-current.json (400 questions have options_ne identical to options). Translation-completeness issue, not a key bug."
+    },
+    {
+      "id": "ENGV3-041",
+      "reason": "options_ne untranslated in expansion-english-nepali-v3.json (500 questions have options_ne identical to options). Translation-completeness issue, not a key bug."
+    },
+    {
+      "id": "expansion-zero-licence.json",
+      "reason": "Answer-position skew: option B keyed on 74.0% (333/450) of questions, D on 1.1%. 12 sampled B-keys all correct, so this is placement bias, not wrong keys; recommend option shuffling, no key fixes."
+    },
+    {
+      "id": "expansion-entrance-licence.json",
+      "reason": "Answer-position skew: option B keyed on 44.2%, D on 13.8%. Not key-verified beyond sampled flags; left as an observation, no key fixes."
+    },
+    {
+      "id": "CONST-001 / R6A-B472",
+      "reason": "Pervasive near-duplicate re-asking across exams/files: the same fact re-asked with slightly different wording (e.g. \"Which article guarantees the right to X?\" in CONST/CONST2/R6A-B/R7B). 47,541 content-word Jaccard >=0.85 pairs; by design for cross-exam reuse, not patched."
+    },
+    {
+      "id": "NASU-2083-11",
+      "reason": "Previous-year file (excluded from corrections): dual-answer question; the paper itself notes both A and D correct; A (first correct) is recorded. No action."
+    },
+    {
+      "id": "KOSHI-2083-40a / KOSHI-2083-40b",
+      "reason": "Previous-year file (excluded from corrections): the paper numbers two questions 40; the a/b IDs are intentional. No action."
+    }
+  ]
+}
