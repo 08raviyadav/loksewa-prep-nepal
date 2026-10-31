@@ -20,7 +20,7 @@ const sandbox = {
 sandbox.window = sandbox;
 vm.createContext(sandbox);
 try {
-  vm.runInContext(src + '\nmodule.exports={bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remKindLabel,remChip,getLang,setLang,B};', sandbox);
+  vm.runInContext(src + '\nmodule.exports={bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remKindLabel,remChip,getLang,setLang,B,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle};', sandbox);
   check('app.js parses (examdates build)', true);
 } catch (e) { check('app.js parses (examdates build)', false, e.message); process.exit(1); }
 const t = sandbox.module.exports;
@@ -95,6 +95,54 @@ const unmatched = data.filter(e => e.exam && !examIds.has(e.exam)).map(e => e.id
 console.log('INFO  exam-dates entries without an exams.json match (no practice/mock link): ' + (unmatched.length ? unmatched.join(', ') : 'none'));
 const badExamType = data.filter(e => e.exam !== null && typeof e.exam !== 'string');
 check('exam field is a string id or null', badExamType.length === 0, badExamType.map(e => e.id).join(','));
+
+// --- 6. Next-exam countdown maths ---
+// Fixed clock: 2026-10-31 12:00 UTC = 2083-07-14 BS, noon.
+const ANCHOR_MS = Date.UTC(2026, 9, 31);
+check('nxTargetMs(today) = anchor midnight', t.nxTargetMs('2083-07-14') === ANCHOR_MS, String(t.nxTargetMs('2083-07-14')));
+check('nxTargetMs(tomorrow) = anchor + 1 day', t.nxTargetMs('2083-07-15') === ANCHOR_MS + 864e5);
+check('nxTargetMs rejects bad input', t.nxTargetMs('xyz') === null && t.nxTargetMs('2083-13-01') === null);
+const rToday = t.nxRemaining('2083-07-14', FIXED_NOW);
+check('nxRemaining clamps past-today to 0 (no negative)', rToday && rToday.d === 0 && rToday.h === 0 && rToday.m === 0 && rToday.s === 0, JSON.stringify(rToday));
+const rTom = t.nxRemaining('2083-07-15', FIXED_NOW);
+check('nxRemaining(tomorrow at noon) = 0d 12h 0m 0s', rTom && rTom.d === 0 && rTom.h === 12 && rTom.m === 0 && rTom.s === 0, JSON.stringify(rTom));
+const r2 = t.nxRemaining('2083-07-16', FIXED_NOW);
+check('nxRemaining(+2d at noon) = 1d 12h', r2 && r2.d === 1 && r2.h === 12, JSON.stringify(r2));
+const rSec = t.nxRemaining('2083-07-15', ANCHOR_MS + 86399000); // 1s before target
+check('nxRemaining 1s before target = 0d 0h 0m 1s', rSec && rSec.d === 0 && rSec.h === 0 && rSec.m === 0 && rSec.s === 1, JSON.stringify(rSec));
+check('nxRemaining null on bad input', t.nxRemaining('xyz', FIXED_NOW) === null);
+check('nxPad zero-pads', t.nxPad(5) === '05' && t.nxPad(12) === '12' && t.nxPad(0) === '00');
+// Pager: within 30 days, nearest first, past and >30d excluded.
+runInApp(`EXAMDATES=[
+  {id:'p4', date_bs:'2083-08-25', kind:'exam', title_en:'FAR', title_ne:'टाढा', exam:null},
+  {id:'p2', date_bs:'2083-07-20', kind:'exam', title_en:'NEAR', title_ne:'नजिक', exam:null},
+  {id:'p1', date_bs:'2083-07-14', kind:'exam', title_en:'TODAY', title_ne:'आज', exam:null},
+  {id:'p3', date_bs:'2083-08-01', kind:'deadline', title_en:'MID', title_ne:'बीच', exam:null},
+  {id:'p0', date_bs:'2083-07-10', kind:'exam', title_en:'OLD', title_ne:'पुरानो', exam:null}
+];`);
+const pager = t.nxPagerList();
+check('nxPagerList: 30-day window, nearest first, past excluded', pager.length === 3 && pager[0].id === 'p1' && pager[1].id === 'p2' && pager[2].id === 'p3', pager.map(e => e.id).join(','));
+check('nxCardState today when nearest is today', t.nxCardState() === 'today', t.nxCardState());
+runInApp(`EXAMDATES=[{id:'p2', date_bs:'2083-07-20', kind:'exam', title_en:'NEAR', title_ne:'नजिक', exam:null}];`);
+check('nxCardState near within 30d', t.nxCardState() === 'near', t.nxCardState());
+runInApp(`EXAMDATES=[{id:'p4', date_bs:'2083-08-25', kind:'exam', title_en:'FAR', title_ne:'टाढा', exam:null}];`);
+check('nxCardState far beyond 30d', t.nxCardState() === 'far', t.nxCardState());
+check('nxPagerList empty when nearest > 30d', t.nxPagerList().length === 0);
+runInApp(`EXAMDATES=[];`);
+check('nxCardState none with no dates', t.nxCardState() === 'none');
+// nxPick: cycles pager, resets when the list changes.
+runInApp(`EXAMDATES=[
+  {id:'p1', date_bs:'2083-07-14', kind:'exam', title_en:'TODAY', title_ne:'आज', exam:null},
+  {id:'p2', date_bs:'2083-07-20', kind:'exam', title_en:'NEAR', title_ne:'नजिक', exam:null}
+];`);
+const pl = t.nxPagerList();
+check('nxPick defaults to nearest', t.nxPick(pl).id === 'p1');
+t.nxCycle(1);
+check('nxCycle selects index 1', t.nxPick(pl).id === 'p2');
+t.nxCycle(0);
+check('nxCycle wraps back to 0', t.nxPick(pl).id === 'p1');
+runInApp(`EXAMDATES=[{id:'q9', date_bs:'2083-07-18', kind:'exam', title_en:'NEW', title_ne:'नयाँ', exam:null}];`);
+check('nxPick resets index when list changes', t.nxPick(t.nxPagerList()).id === 'q9');
 
 console.log(fail === 0 ? 'ALL EXAMDATE CHECKS PASSED ✔' : fail + ' FAILURES ✘');
 process.exit(fail ? 1 : 0);

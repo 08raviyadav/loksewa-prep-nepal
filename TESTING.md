@@ -790,3 +790,16 @@ User feedback on the live site: it looked like a demo, not professional. Three p
 **Tests:** new `scripts/test-examdates.js` (31 checks: anchor maths incl. month-length edge cases, EN/NE formatting, schema validation incl. confidence, no-stale-dates with 1-day grace, exams.json cross-reference, reminder-store round-trip, upcoming sort/filter) — **ALL EXAMDATE CHECKS PASSED ✔**. Full suite re-run: test-questions ✔ test-app ✔ test-e2e ✔ test-v2 ✔ test-funfacts ✔ test-bundle ✔ test-examdates ✔ (7/7).
 
 **Not done (needs a real browser):** visual check of the banner/view; live-browser re-verification of the 8 medium-confidence entries (PSC Notice 582/083-84 items, NAMC BAMS, NPC 32nd, NEC 2nd cycle) against psc.gov.np / namc / npc / nec directly — recommended before the next data refresh. No verifiable dates found for TSC future exams, Nepal Police/APF/Army, NRB, provincial PSCs — excluded, not guessed.
+
+## §AC — "Next exam" live countdown card (2026-10-31): "give me one more type of displaying upcoming exams reminder"
+
+**What shipped:**
+- Live countdown card (`#next-exam-card`) on Home, directly below the hero section: exam name (EN/NE), kind chip, LARGE DD:HH:MM:SS digits ticking every second (single shared `setInterval`, skips work while `document.hidden`, re-ticks on `visibilitychange`), BS date via existing `fmtBs()`, dot pager cycling exams within 30 days (nearest default, resets when the list changes), "Practice now"/"Mock" buttons (same mapping as Exam Dates rows), "🔔 Remind me" (reuses `loksewa_reminders_v1` + existing toggle logic — no competing state), "All dates" link.
+- States: `today` → "🎯 Today!" (never negative); `near` (≤30d, glowing saffron/indigo card); `far` (>30d, subtle muted card, still shown); `none` → hidden.
+- Compact version (`#next-exam-compact`) at the top of the Dashboard view: title + small ticking digits + remind button; hidden in `far`/`none` states.
+- Countdown target = start-of-day (00:00 UTC) on `date_bs`, derived from the SAME BS anchor (2026-10-31 AD = 2083-07-14 BS) — no second calendar system. Pure helpers: `nxTargetMs`, `nxRemaining` (clamped at zero), `nxPagerList`, `nxCardState`, `nxPick`, `nxCycle` — all exported for tests.
+- Re-renders follow the language toggle (`setLang`), Home view entry, dashboard entry, initial load, and `toggleExamReminder`. Existing banner and Exam Dates view untouched. EN/NE bilingual, zero new dependencies, zero new localStorage keys.
+
+**Tests:** `scripts/test-examdates.js` extended with 19 countdown checks (anchor target maths, clamp-to-zero/no-negative, 1-second precision, bad-input nulls, 30-day pager window/ordering/past exclusion, today/near/far/none states, pager default/cycle/wrap/reset) — **ALL EXAMDATE CHECKS PASSED ✔**. Full suite re-run: test-questions ✔ test-app ✔ test-e2e ✔ test-v2 ✔ test-funfacts ✔ test-bundle ✔ test-examdates ✔ (7/7).
+
+**Not done (needs a real browser):** visual check of the card (glow, digit layout at 360px width, dot pager) on the live site — the Node/DOM-stub suites are green but no rendered screenshot was taken.

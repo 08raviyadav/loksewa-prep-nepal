@@ -217,6 +217,8 @@ function setLang(l){
   else if (id === 'view-chat') renderChat();
   else if (id === 'view-suggest') renderSuggest();
   else if (id === 'view-practice') { /* labels stay bilingual by design; nothing to re-render */ }
+  // Countdown card + exam banner follow the language toggle on every view.
+  renderExamReminder(); renderNextExamCard(); renderNextExamCompact();
 }
 
 function shuffle(arr, rand=Math.random){
@@ -849,7 +851,8 @@ function showView(id){
     document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
-  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); checkExamNotifications(); }
+  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderNextExamCard(); checkExamNotifications(); }
+  if(id==='dashboard'){ renderNextExamCompact(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
   if(id==='submit') renderSubmit(); if(id==='moderate') renderModerate();
   if(id==='papers') renderPapers(); if(id==='notices') renderNotices();
@@ -974,7 +977,7 @@ async function loadData(){
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
   fillExamSelects(); renderHomeStats(); renderGuide(); renderTopics(); renderPapers(); renderNotices();
-  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); checkExamNotifications();
+  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); checkExamNotifications();
   if(!QUESTIONS.length){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
@@ -3621,7 +3624,7 @@ function renderExamDates(){
 function toggleExamReminder(id){
   let r=remStore(REM_LIST,[]);
   r=r.includes(id)?r.filter(x=>x!==id):r.concat([id]);
-  remSave(REM_LIST,r); renderExamDates(); renderExamReminder();
+  remSave(REM_LIST,r); renderExamDates(); renderExamReminder(); renderNextExamCard(); renderNextExamCompact();
 }
 function enableExamNotifications(){
   remSave(REM_ASKED,true);
@@ -3648,10 +3651,140 @@ function checkExamNotifications(){
   if(changed) remSave(REM_NOTIFIED,done);
 }
 
+/* ---- "Next exam" live countdown card ---- */
+// Countdown maths — pure and testable. The target is START-OF-DAY (00:00 UTC)
+// on date_bs, derived from the SAME BS anchor as bsToday: no second calendar
+// system, no guessing. Dates are day-granular so sub-day precision comes from
+// the anchor offset alone.
+function nxTargetMs(s){
+  const abs=bsAbsDay(s); if(abs==null) return null;
+  return BS_ANCHOR_AD + (abs-BS_ANCHOR_ABS)*864e5;
+}
+// Remaining time from nowMs until start-of-day on date_bs. Clamped at zero —
+// never negative. Returns null on bad input.
+function nxRemaining(s, nowMs){
+  const t=nxTargetMs(s); if(t==null||nowMs==null) return null;
+  let ms=t-nowMs; if(ms<0) ms=0;
+  const d=Math.floor(ms/864e5); ms-=d*864e5;
+  const h=Math.floor(ms/36e5);  ms-=h*36e5;
+  const m=Math.floor(ms/6e4);   ms-=m*6e4;
+  const sec=Math.floor(ms/1e3);
+  return {d,h,m,s:sec};
+}
+function nxPad(n){ return String(n).padStart(2,'0'); }
+// Pager list: upcoming exams within the next 30 days, nearest first.
+function nxPagerList(){
+  return upcomingExamDates().filter(e=>{ const d=bsDaysUntil(e.date_bs); return d!=null&&d>=0&&d<=30; });
+}
+// Card state: 'today' | 'near' (nearest within 30d) | 'far' (>30d out) | 'none'
+function nxCardState(){
+  const up=upcomingExamDates(); if(!up.length) return 'none';
+  const d=bsDaysUntil(up[0].date_bs);
+  if(d===0) return 'today';
+  return (d!=null&&d<=30)?'near':'far';
+}
+// Pager position, keyed to the current list so it resets when dates change.
+let nxIdx=0, nxListKey='';
+function nxPick(list){
+  const key=list.map(e=>e.id).join('|');
+  if(key!==nxListKey){ nxListKey=key; nxIdx=0; }
+  if(!list.length) return null;
+  nxIdx=((nxIdx%list.length)+list.length)%list.length;
+  return list[nxIdx];
+}
+function nxCycle(i){ nxIdx=i; renderNextExamCard(); renderNextExamCompact(); }
+
+// One shared 1-second ticker for every countdown on the page. Skips work
+// while the tab is hidden (document.hidden); also re-ticks on visibility
+// change so the digits are fresh the moment the tab returns.
+let nxTimer=null;
+function nxTick(){
+  if(typeof document==='undefined'||document.hidden) return;
+  const now=Date.now();
+  document.querySelectorAll('[data-nx-date]').forEach(el=>{
+    const r=nxRemaining(el.getAttribute('data-nx-date'), now);
+    if(!r) return;
+    const set=(k,v)=>{ const n=el.querySelector('[data-nx-'+k+']'); if(n) n.textContent=v; };
+    set('d', nxPad(r.d)); set('h', nxPad(r.h)); set('m', nxPad(r.m)); set('s', nxPad(r.s));
+  });
+}
+function nxStartTicker(){
+  if(nxTimer) return;
+  nxTimer=setInterval(nxTick, 1000);
+  if(typeof document!=='undefined'&&document.addEventListener){
+    document.addEventListener('visibilitychange', ()=>{ if(!document.hidden) nxTick(); });
+  }
+}
+function nxTitle(e){ return esc(lang==='ne'?(e.title_ne||e.title_en):(e.title_en||'')); }
+function nxExamLink(e){
+  const ex=e.exam&&examById(e.exam)?examById(e.exam):null;
+  if(!ex) return '';
+  let h=`<button class="btn secondary" onclick="goPracticeExam('${esc(ex.id)}')">${B('Practice now','अहिले अभ्यास गर्नुहोस्')}</button>`;
+  if(ex.prelim) h+=` <button class="btn secondary" onclick="goMockExam('${esc(ex.id)}')">${B('Mock','मक')}</button>`;
+  return h;
+}
+function nxRemindBtn(e){
+  const isR=remStore(REM_LIST,[]).includes(e.id);
+  return `<button class="btn secondary${isR?' rem-on':''}" onclick="toggleExamReminder('${esc(e.id)}')">${isR?B('🔔 Reminding','🔔 रिमाइन्डर छ'):B('🔕 Remind me','🔕 सम्झाउनुहोस्')}</button>`;
+}
+function nxDigitsHtml(dateBs, compact){
+  return `<div class="nx-digits${compact?' nx-compact-digits':''}" data-nx-date="${esc(dateBs)}" role="timer" aria-label="${B('Countdown to exam','परीक्षासम्म बाँकी समय')}">
+    <div><b data-nx-d>--</b><span>${B('days','दिन')}</span></div><i>:</i>
+    <div><b data-nx-h>--</b><span>${B('hrs','घण्टा')}</span></div><i>:</i>
+    <div><b data-nx-m>--</b><span>${B('min','मिनेट')}</span></div><i>:</i>
+    <div><b data-nx-s>--</b><span>${B('sec','सेकेन्ड')}</span></div>
+  </div>`;
+}
+// Full card: Home view, directly below the hero.
+function renderNextExamCard(){
+  const box=document.getElementById('next-exam-card'); if(!box) return;
+  if(!dataReady){ box.innerHTML=''; return; }
+  const state=nxCardState();
+  if(state==='none'){ box.innerHTML=''; return; }
+  nxStartTicker();
+  const up=upcomingExamDates();
+  const list=nxPagerList();
+  const e=state==='far'?up[0]:nxPick(list);
+  if(!e){ box.innerHTML=''; return; }
+  const title=nxTitle(e), d=bsDaysUntil(e.date_bs);
+  let inner='';
+  if(state==='today'){
+    inner=`<div class="nx-todaybig">🎯 ${B('Today!','आज!')}</div>
+      <p class="muted">${B('The exam day is here — good luck.','परीक्षाको दिन आयो — शुभकामना।')}</p>`;
+  }else{
+    inner=nxDigitsHtml(e.date_bs,false);
+  }
+  const dots=list.length>1?`<div class="nx-pager" role="tablist" aria-label="${B('Upcoming exams','आगामी परीक्षाहरू')}">${list.map((x,i)=>`<button class="nx-dot${i===nxIdx?' on':''}" role="tab" aria-selected="${i===nxIdx}" aria-label="${esc(lang==='ne'?(x.title_ne||x.title_en):x.title_en)}" onclick="nxCycle(${i})"></button>`).join('')}</div>`:'';
+  box.innerHTML=`<div class="nx-card nx-${state}">
+    <div class="nx-head"><span class="nx-label">⏳ ${B('Next exam','अर्को परीक्षा')}</span>${d>0?`<span class="chip${d<=7?' chip-soon':''}">${d<=7?'🟡':'📅'} ${esc(bsCountdown(d))}</span>`:''}</div>
+    <h3 class="nx-title">${title}</h3>
+    ${inner}
+    <p class="nx-date muted">${esc(fmtBs(e.date_bs))} · ${remKindLabel(e.kind)}${e.source?` · <a href="${esc(e.source)}" target="_blank" rel="noopener">${B('Official source','आधिकारिक स्रोत')}</a>`:''}${e.confidence==='medium'?` · ⚠️ ${B('re-verify','पुनःपुष्टि')}`:''}</p>
+    ${dots}
+    <div class="nx-actions">${nxExamLink(e)} ${nxRemindBtn(e)} <button class="btn secondary" onclick="showView('examdates')">${B('All dates','सबै मिति')}</button></div>
+  </div>`;
+  nxTick();
+}
+// Compact card: top of the Dashboard view.
+function renderNextExamCompact(){
+  const box=document.getElementById('next-exam-compact'); if(!box) return;
+  if(!dataReady){ box.innerHTML=''; return; }
+  const state=nxCardState();
+  if(state==='none'||state==='far'){ box.innerHTML=''; return; }
+  nxStartTicker();
+  const e=nxPick(nxPagerList());
+  if(!e){ box.innerHTML=''; return; }
+  const body=bsDaysUntil(e.date_bs)===0
+    ? `<strong>🎯 ${B('Today!','आज!')}</strong>`
+    : nxDigitsHtml(e.date_bs,true);
+  box.innerHTML=`<div class="card nx-compact"><span class="nx-label">⏳ ${B('Next exam','अर्को परीक्षा')}:</span> <strong>${nxTitle(e)}</strong> ${body} <span class="nx-compact-btn">${nxRemindBtn(e)}</span></div>`;
+  nxTick();
+}
+
 // Node exports (test harness): kept at the END of the file so every const
 // above (incl. FOCUS_DURATIONS) is initialised before this object is built.
 // An export placed near the top threw "Cannot access before initialization".
 if (typeof module!=='undefined' && module.exports){ module.exports={shuffle,shuffleOptions,scoreAttempt,xpFor,qText,qOpts,qExpl,getLang,setLang,normaliseText,tokenJaccard,jaccardNorm,findDuplicate,validateSubmission,rateLimitCheck,isGmailAddress,communityBadge,seedDiscussions,weekStartStr,questionsThisWeek,weeklyProgress,personalBest,questionsInADay,pickSurprise,nextFocusMode,FOCUS_DURATIONS,badges,checkWeeklyGoal,funFactText,dailyFunFact,randomFunFact,PRAISE_LINES,TRY_AGAIN_LINES,PASS_LINES,FAIL_LINES,pickLine,prefersReducedMotion,recordFactVisit,getFactStreak,questionOfDay,speedBonusFor,mistakePool,longestStreak,bestDay,personalRecords,buildShareText,getSpeedBest,saveSpeedBest,SPEED_SECONDS,SPEED_COUNT,effectiveNoticeStatus,resetProgress,
 chatReply,chatTopicFor,chatTopicStats,isFactualQuestion,chatHistory,saveChatHistory,chatSend,
 validateSuggestion,isDuplicateSuggestion,loadSuggestions,saveSuggestions,upvoteSuggestion,LS_CHAT,LS_SUGGEST,CHAT_MAX_MSGS,B,examName,fmt1,markPyqFlags,topicsForExam,mapTopicToSyllabus,breakdownLabelTopics,parseBreakdownWeights,pyqTopicShares,examTopicWeights,practiceTopicStats,attemptLevelTotals,guessEV,evVerdict,coachStats,coachAdvice,drillTopic,renderCoverage,renderPrint,generatePrintPaper,renderPrintPaperHtml,renderPlanner,renderCoach,renderPYQ,heatCell,buildStudyPlan,daysUntil,rebalancePlan,loadPlans,savePlans,planNotices,currentPlanTarget,generatePlan,deletePlan,showPlan,renderPlanCard,NOTICE_EXAM,PLANS_KEY,TOPIC_SYLLABUS_KEYS,BREAKDOWN_GROUPS,
-bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip}; }
+bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,renderNextExamCard,renderNextExamCompact}; }
