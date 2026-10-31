@@ -4,36 +4,59 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#0f172a">
-<title>LokSewa Vidyapeeth — लोक सेवा विद्यापीठ · लोक सेवा तयारी — Free PSC / TSC / NRB Exam Practice</title>
-<meta name="description" content="Free, open-source, offline-first practice for Nepal government exams: Lok Sewa Aayog (Kharidar, Nayab Subba, Section Officer), Shikshak Sewa Aayog, Nepal Rastra Bank, RBB, Police & Army. Randomised MCQs, timed mocks with real 20% negative marking and real cutoffs.">
+<title>LokSewa Vidyapeeth — लोक सेवा विद्यापीठ · Free Nepal PSC / TSC / NRB Exam Practice</title>
+<meta name="description" content="LokSewa Vidyapeeth — free, open-source, offline-first practice for Nepal government exams: Lok Sewa Aayog (Kharidar, Nayab Subba, Section Officer), Shikshak Sewa Aayog, Nepal Rastra Bank, RBB, Police &amp; Army. 64,671+ randomised MCQs, timed mocks with real 20% negative marking and real cutoffs. No login, no ads.">
+<meta name="keywords" content="Lok Sewa Aayog, Kharidar, Nayab Subba, Section Officer, TSC, Shikshak Sewa, NRB, Nepal Rastra Bank, Nepal exam preparation, PSC practice, free MCQ, लोक सेवा, विद्यापीठ">
+<meta name="author" content="Ravi Yadav">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://08raviyadav.github.io/loksewa-prep-nepal/">
+<meta property="og:title" content="LokSewa Vidyapeeth — Free Nepal PSC / TSC / NRB Exam Practice">
+<meta property="og:description" content="64,671+ free MCQs, timed mocks with real cutoffs, offline-first. No login, no ads, open source (MIT).">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://08raviyadav.github.io/loksewa-prep-nepal/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="LokSewa Vidyapeeth — Free Nepal PSC / TSC / NRB Exam Practice">
+<meta name="twitter:description" content="64,671+ free MCQs, timed mocks with real cutoffs, offline-first. No login, no ads, open source (MIT).">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f172a'/%3E%3Cpath d='M32 12 6 25l26 13 20-10v12h4V25L32 12z' fill='%23f59e0b'/%3E%3Cpath d='M18 39v9c0 4.2 6.3 7 14 7s14-2.8 14-7v-9l-14 7-14-7z' fill='%2322c55e'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 <header><div class="nav">
 <a class="logo" href="#" onclick="showView('home');return false">🇳🇵 LokSewa Vidyapeeth <span>लोक सेवा विद्यापीठ · लोक सेवा तयारी</span></a>
-<nav>
+<nav aria-label="Main navigation">
 <button data-view="home" class="active">Home</button>
-<button data-view="funfacts">Fun Facts</button>
 <button data-view="practice">Practice</button>
 <button data-view="mock">Mock Exams</button>
-<button data-view="guide">Exam Guide</button>
-<button data-view="papers">Old Papers</button>
-<button data-view="notices">Notices</button>
 <button data-view="dashboard">Dashboard</button>
-<button data-view="coverage">Syllabus</button>
-<button data-view="print">Print Paper</button>
-<button data-view="planner">Planner</button>
-<button data-view="coach">Coach</button>
-<button data-view="pyq">PYQ Map</button>
-<button data-view="review">Bookmarks</button>
-<button data-view="notes">Notes</button>
-<button data-view="audio">Audio</button>
-<button data-view="search">Search</button>
-<button data-view="discuss">Discuss</button>
-<button data-view="submit">Contribute</button>
-<button data-view="moderate">Review</button>
-<button data-view="chat">Ask</button>
-<button data-view="suggest">Suggest</button>
+<div class="nav-dropdown">
+<button class="nav-more-btn" id="nav-more-btn" aria-haspopup="menu" aria-expanded="false" aria-controls="nav-more-menu">More ▾</button>
+<div class="nav-menu" id="nav-more-menu" role="menu" hidden>
+<div class="nav-group"><p class="nav-group-label">Study</p>
+<button data-view="coverage" role="menuitem">Syllabus</button>
+<button data-view="planner" role="menuitem">Planner</button>
+<button data-view="coach" role="menuitem">Coach</button>
+<button data-view="pyq" role="menuitem">PYQ Map</button>
+<button data-view="notes" role="menuitem">Notes</button>
+<button data-view="audio" role="menuitem">Audio</button>
+<button data-view="funfacts" role="menuitem">Fun Facts</button>
+</div>
+<div class="nav-group"><p class="nav-group-label">Resources</p>
+<button data-view="guide" role="menuitem">Exam Guide</button>
+<button data-view="papers" role="menuitem">Old Papers</button>
+<button data-view="notices" role="menuitem">Notices</button>
+<button data-view="print" role="menuitem">Print Paper</button>
+<button data-view="search" role="menuitem">Search</button>
+<button data-view="review" role="menuitem">Bookmarks</button>
+</div>
+<div class="nav-group"><p class="nav-group-label">Community</p>
+<button data-view="discuss" role="menuitem">Discuss</button>
+<button data-view="submit" role="menuitem">Contribute</button>
+<button data-view="suggest" role="menuitem">Suggest</button>
+<button data-view="chat" role="menuitem">Ask</button>
+<button data-view="moderate" role="menuitem">Review</button>
+</div>
+</div>
+</div>
 <button data-view="auth" id="nav-auth-btn">Sign In</button>
 <button data-view="profile">Profile</button>
 </nav>
@@ -42,25 +65,38 @@
 </div></header>
 <main>
 <div id="load-note"></div>
-<div id="demo-banner" class="card demo-banner" hidden><strong>Demo mode — local profile only.</strong> Sign-in, discussions, submissions and moderation all run on this device (localStorage) until the backend is connected. Connect Supabase to enable real Google sign-in — see <a href="docs/BACKEND.md">docs/BACKEND.md</a>.</div>
 
 <!-- HOME -->
 <section class="view active" id="view-home">
-<div class="hero"><h1>Pass Lok Sewa. Free. No login. No ads.</h1>
+<div class="hero"><p class="eyebrow">100% free · Open source · MIT</p>
+<h1>Nepal's Lok Sewa exams, mastered question by question.</h1>
 <p>Practice for Kharidar, Nayab Subba, Section Officer, TSC, NRB &amp; bank exams with randomised MCQs, timed mocks that copy the real paper — 20% negative marking, real cutoffs — and a dashboard that shows exactly where you stand.</p>
+<div class="stat-strip">
+<div><strong>64,671</strong><span>questions</span></div>
+<div><strong>47</strong><span>exams</span></div>
+<div><strong>100%</strong><span>offline</span></div>
+<div><strong>0</strong><span>login needed</span></div>
+</div>
+<div class="cta-row">
 <button class="btn" onclick="showView('practice')">Start practicing →</button>
-<button class="btn secondary" onclick="dailyChallenge()">🔥 Daily Challenge (10 Q)</button>
-<button class="btn secondary" onclick="quickQuiz()">⚡ Quick Quiz (5 Q)</button>
-<button class="btn secondary" onclick="surpriseQuiz()">🎲 Surprise me (10 Q)</button>
-<button class="btn secondary" onclick="if(confirm('Speed Round: 10 questions, 60 seconds total. +1 bonus for a correct answer in under 5 seconds. No going back, no changing an answer, no explanations until the end. Ready?')) startSpeedRound()">⏱️ Speed Round (10 Q · 60s)</button>
-<button class="btn secondary" onclick="startMistakeMarathon()">🏃 Mistake Marathon</button>
-<p class="muted" id="speed-best" style="margin-top:8px"></p></div>
+<button class="btn secondary" onclick="showView('mock')">Take a mock exam</button>
+</div>
+<div class="chip-row" role="group" aria-label="Quick start">
+<span class="chip-label">Quick start:</span>
+<button class="chip" onclick="dailyChallenge()">🔥 Daily Challenge (10 Q)</button>
+<button class="chip" onclick="quickQuiz()">⚡ Quick Quiz (5 Q)</button>
+<button class="chip" onclick="surpriseQuiz()">🎲 Surprise me (10 Q)</button>
+<button class="chip" onclick="if(confirm('Speed Round: 10 questions, 60 seconds total. +1 bonus for a correct answer in under 5 seconds. No going back, no changing an answer, no explanations until the end. Ready?')) startSpeedRound()">⏱️ Speed Round (10 Q · 60s)</button>
+<button class="chip" onclick="startMistakeMarathon()">🏃 Mistake Marathon</button>
+</div>
+<p class="muted" id="speed-best" style="margin-top:8px"></p>
+<p class="trust-row">Open source · No login · No ads · Works offline</p></div>
 <div class="card"><h2>🔥 Trending — what students are searching most</h2>
-<p class="muted">Based on what Nepali aspirants searched for most around Lok Sewa, TSC &amp; NRB exams — researched 25–26 Oct 2026. Topics, not a live chart: updated when we re-research. (Search-demand ranking only — not Google Trends data.)</p>
+<p class="muted">The topics Nepali aspirants search for most around Lok Sewa, TSC &amp; NRB exams (researched 25–26 Oct 2026; topics, not a live chart — updated when we re-research).</p>
 <div class="grid">
 <div class="card"><strong>#1 · Constitution 2072</strong><p class="muted">The most-asked topic in every Lok Sewa paper — 308 articles, 31 rights, 7 provinces.</p><button class="btn secondary" onclick="startPracticeTopic('Constitution &amp; Governance')">Practice</button></div>
 <div class="card"><strong>#2 · Current Affairs</strong><p class="muted">Last 6–12 months of Nepal &amp; world news — the section you can't cram last-minute.</p><button class="btn secondary" onclick="startPracticeTopic('Current Affairs')">Practice</button></div>
-<div class="card"><strong>#3 · Most-asked GK ★</strong><p class="muted">Repeated questions from 12 years of PSC papers — the 80/20 facts that keep coming back.</p><button class="btn secondary" onclick="startPracticeTopic('Nepal History')">Practice Nepal History</button></div>
+<div class="card"><strong>#3 · Most-asked GK ★</strong><p class="muted">Repeated questions from 12 years of PSC papers — the 80/20 facts that keep coming back.</p><button class="btn secondary" onclick="startPracticeTopic('Nepal History')">Practice</button></div>
 <div class="card"><strong>#4 · IQ &amp; Reasoning</strong><p class="muted">Number series, coding-decoding, blood relations — the speed section students leave too late.</p><button class="btn secondary" onclick="startPracticeTopic('IQ &amp; Reasoning')">Practice</button></div>
 <div class="card"><strong>#5 · Kharidar Office Skills ★</strong><p class="muted">20 of 50 prelim questions — office procedure, Civil Service Act &amp; record management.</p><button class="btn secondary" onclick="startPracticeTopic('Office Management &amp; Public Service')">Practice</button></div>
 <div class="card"><strong>#6 · NRB &amp; Banking</strong><p class="muted">NRB Assistant &amp; Officer, RBB / NBL / ADBL — management, economics &amp; banking law.</p><button class="btn secondary" onclick="startPracticeTopic('Banking &amp; Finance')">Practice</button></div>
@@ -246,7 +282,36 @@
 <button data-view="dashboard">📊<span>Stats</span></button>
 <button data-view="review">🔖<span>Saved</span></button>
 </nav>
-<footer><p>LokSewa Vidyapeeth — free &amp; open source (MIT). Maintainer: Ravi Yadav · <a href="https://github.com/08raviyadav">github.com/08raviyadav</a>. Data is stored only in your browser (localStorage). Exam patterns: see Exam Guide / README — verify against psc.gov.np before relying on any figure.</p></footer>
+<footer>
+<div class="foot-grid">
+<div class="foot-brand">
+<p class="foot-line">LokSewa Vidyapeeth — free &amp; open source</p>
+<p>Created by Ravi Yadav · <a href="https://github.com/08raviyadav">github.com/08raviyadav</a> · MIT licence</p>
+<p class="muted">Your progress stays in this browser (localStorage) — nothing is uploaded.</p>
+</div>
+<div class="foot-col"><strong>Practice</strong>
+<button onclick="showView('practice')">Practice</button>
+<button onclick="showView('mock')">Mock Exams</button>
+<button onclick="showView('pyq')">PYQ Map</button>
+<button onclick="showView('coach')">Guess Coach</button>
+<button onclick="showView('planner')">Study Planner</button>
+</div>
+<div class="foot-col"><strong>Resources</strong>
+<button onclick="showView('guide')">Exam Guide</button>
+<button onclick="showView('papers')">Old Papers</button>
+<button onclick="showView('notices')">Notices</button>
+<button onclick="showView('search')">Search</button>
+<button onclick="showView('review')">Bookmarks</button>
+</div>
+<div class="foot-col"><strong>Community</strong>
+<button onclick="showView('discuss')">Discuss</button>
+<button onclick="showView('submit')">Contribute</button>
+<button onclick="showView('suggest')">Suggest</button>
+<button onclick="showView('chat')">Ask</button>
+</div>
+</div>
+<p class="foot-note">Exam patterns: see Exam Guide / README — verify against psc.gov.np before relying on any figure.</p>
+</footer>
 <div id="confetti-layer" aria-hidden="true"></div>
 <script src="assets/js/app.js"></script>
 </body>

@@ -348,7 +348,7 @@ function pickSurprise(questions, rand){
 }
 function surpriseQuiz(){
   const qs=pickSurprise(QUESTIONS).map(q=>shuffleOptions(q));
-  if(!qs.length){ alert('No questions loaded yet — run via a local server and try again.'); return; }
+  if(!qs.length){ alert(bankNotLoadedMsg()); return; }
   current={ mode:'practice', exam:'', title:'🎲 Surprise Mix', questions:qs, answers:Array(qs.length).fill(null), idx:0, negOn:true, negRate:0.2, timerOn:false, startTime:Date.now(), perQ:[] };
   showView('quiz'); renderQuestion();
 }
@@ -362,7 +362,7 @@ function saveSpeedBest(rec){ lsSet(SPEED_BEST_KEY, rec); return rec; }
 function speedBonusFor(elapsedMs, correct){ return (correct && elapsedMs != null && elapsedMs < SPEED_FAST_MS) ? 1 : 0; }
 function startSpeedRound(){
   const qs = shuffle(QUESTIONS).slice(0, SPEED_COUNT).map(q => shuffleOptions(q));
-  if (!qs.length) { alert('No questions loaded yet — run via a local server and try again.'); return; }
+  if (!qs.length) { alert(bankNotLoadedMsg()); return; }
   current = { mode: 'speed', exam: '', title: '⚡ Speed Round', questions: qs, answers: Array(qs.length).fill(null), idx: 0, negOn: true, negRate: 0.2, timerOn: true, startTime: Date.now(), qStart: Date.now(), perQ: [] };
   timeLeft = SPEED_SECONDS; startTimer(() => finishAttempt(true));
   showView('quiz'); renderQuestion();
@@ -451,7 +451,7 @@ function shareScore(){
     date: (r.res.date || todayStr()), speedBonus: r.res.speedBonus || 0
   });
   const statusEl = document.getElementById('share-status');
-  const done = () => { if (statusEl) statusEl.textContent = 'Copied — paste it anywhere'; };
+  const done = () => { if (statusEl) statusEl.textContent = B('Copied — paste it anywhere','कपी भयो — जहाँ पनि पेस्ट गर्नुहोस्'); };
   const fallback = () => {
     try {
       if (typeof document !== 'undefined' && typeof document.createElement === 'function' && document.body) {
@@ -481,14 +481,14 @@ function shareScore(){
 /* ----- Weekly challenge UI ----- */
 function renderWeekly(){
   const w = weeklyProgress(progress);
-  const html = `<h3>🎯 Weekly Challenge — ${w.done} / ${w.target} questions</h3>
-  <p class="muted">Week of ${w.weekStart} (Mon–Sun) · ${w.met ? '✅ Goal met — Weekly Champion badge earned!' : w.pct+'% there — keep going!'}</p>
+  const html = `<h3>🎯 ${B('Weekly Challenge','साप्ताहिक चुनौती')} — ${w.done} / ${w.target} ${B('questions','प्रश्नहरू')}</h3>
+  <p class="muted">${B('Week of','हप्ता')} ${w.weekStart} (Mon–Sun) · ${w.met ? B('✅ Goal met — Weekly Champion badge earned!','✅ लक्ष्य पूरा — Weekly Champion ब्याज प्राप्त भयो!') : w.pct+B('% '+B('there — keep going!','पुग्यो — जारी राख्नुहोस्!'))}</p>
   <div class="progress-bar"><div style="width:${w.pct}%"></div></div>
-  <p style="margin-top:10px"><label>Weekly target</label>
+  <p style="margin-top:10px"><label>${B('Weekly target','साप्ताहिक लक्ष्य')}</label>
   <select onchange="setWeeklyTarget(this.value)">
-    ${[35,70,100,140].map(t=>`<option value="${t}" ${w.target===t?'selected':''}>${t} questions / week</option>`).join('')}
+    ${[35,70,100,140].map(t=>`<option value="${t}" ${w.target===t?'selected':''}>${t} ${B('questions / week','प्रश्न / हप्ता')}</option>`).join('')}
   </select></p>
-  <p class="muted">🏆 Weekly goals smashed so far: ${progress.weeklyGoalsMet||0}</p>`;
+  <p class="muted">🏆 ${B('Weekly goals smashed so far:','अहिलेसम्म पूरा भएका साप्ताहिक लक्ष्य:')} ${progress.weeklyGoalsMet||0}</p>`;
   const a=document.getElementById('weekly-box'); if(a) a.innerHTML=html;
   const b=document.getElementById('weekly-box-dash'); if(b) b.innerHTML=html;
 }
@@ -510,8 +510,8 @@ function renderMockBest(){
   const box=document.getElementById('mock-best'); if(!box) return;
   const best=personalBest(sel.value, progress.attempts);
   box.innerHTML = best
-    ? `🏆 <strong>Beat your best:</strong> ${best.pct}% (${best.score}/${best.max}) on ${best.date} — can you top it?`
-    : `No mock attempts for this exam yet — your first score here becomes the one to beat.`;
+    ? `🏆 <strong>${B('Beat your best:','आफ्नो उत्कृष्ट तोड्नुहोस्:')}</strong> ${best.pct}% (${best.score}/${best.max}) ${B('on','मिति')} ${best.date} — ${B('can you top it?','पार गर्न सक्नुहुन्छ?')}`
+    : B('No mock attempts for this exam yet — your first score here becomes the one to beat.','यस परीक्षाका लागि अझै मक प्रयास छैन — यहाँको पहिलो स्कोर नै तोड्नुपर्ने रेकर्ड बन्छ।');
 }
 
 /* ----- Focus timer (Pomodoro: 25 min focus, 5 min break, 15 min long break
@@ -530,19 +530,19 @@ function updateFocusClock(){
   document.querySelectorAll('.focus-mode').forEach(e=>{ e.textContent=FOCUS_LABELS[focusState.mode]+(focusState.running?' · running…':''); });
 }
 function renderFocusTimer(){
-  const html = `<h3>⏱️ Focus Timer — Pomodoro</h3>
-  <p class="muted">25 minutes of focus, then a break. Every finished focus block: +10 XP. Sessions done: ${progress.focusSessions||0} · ${progress.focusMinutes||0} min focused.</p>
+  const html = `<h3>⏱️ ${B('Focus Timer','फोकस टाइमर')} — Pomodoro</h3>
+  <p class="muted">${B('25 minutes of focus, then a break. Every finished focus block: +10 XP.','२५ मिनेट फोकस, अनि ब्रेक। पूरा भएको हरेक फोकस ब्लक: +१० XP।')} ${B('Sessions done:','सत्र पूरा:')} ${progress.focusSessions||0} · ${progress.focusMinutes||0} ${B('min focused.','मिनेट फोकस।')}</p>
   <div class="focus-clock">${focusFmt(focusState.seconds)}</div>
   <p class="focus-mode">${FOCUS_LABELS[focusState.mode]}${focusState.running?' · running…':''}</p>
   <div>
-    <button class="btn" onclick="focusStart()">▶ Start</button>
-    <button class="btn secondary" onclick="focusPause()">⏸ Pause</button>
-    <button class="btn secondary" onclick="focusReset()">↺ Reset</button>
+    <button class="btn" onclick="focusStart()">▶ ${B('Start','सुरु')}</button>
+    <button class="btn secondary" onclick="focusPause()">⏸ ${B('Pause','रोक्नुहोस्')}</button>
+    <button class="btn secondary" onclick="focusReset()">↺ ${B('Reset','रिसेट')}</button>
   </div>
   <div style="margin-top:8px">
-    <button class="btn secondary" onclick="focusSetMode('focus')">Focus 25</button>
-    <button class="btn secondary" onclick="focusSetMode('short')">Break 5</button>
-    <button class="btn secondary" onclick="focusSetMode('long')">Break 15</button>
+    <button class="btn secondary" onclick="focusSetMode('focus')">${B('Focus 25','फोकस २५')}</button>
+    <button class="btn secondary" onclick="focusSetMode('short')">${B('Break 5','ब्रेक ५')}</button>
+    <button class="btn secondary" onclick="focusSetMode('long')">${B('Break 15','ब्रेक १५')}</button>
   </div>
   <p class="muted focus-msg"></p>`;
   const a=document.getElementById('focus-timer-box'); if(a) a.innerHTML=html;
@@ -584,7 +584,7 @@ function focusComplete(){
   focusState.running = false;
   if(focusState.id){ clearInterval(focusState.id); focusState.id=null; }
   renderFocusTimer();
-  const msg = wasFocus ? '🎉 Focus block done! +10 XP. Take a break — you earned it.' : 'Break over — ready for another focus block?';
+  const msg = wasFocus ? B('🎉 Focus block done! +10 XP. Take a break — you earned it.','🎉 फोकस ब्लक पूरा! +१० XP। ब्रेक लिनुहोस् — तपाईंले कमाउनुभयो।') : B('Break over — ready for another focus block?','ब्रेक सकियो — अर्को फोकस ब्लकका लागि तयार?');
   document.querySelectorAll('.focus-msg').forEach(e=>{ e.textContent = msg; });
 }
 
@@ -617,13 +617,13 @@ function renderFunFact(){
   const f=currentFact;
   const seen=(progress.funFactsSeen||[]).length, total=FUNFACTS.length;
   // Fun-fact schema (data/funfacts.json): {id, category, fact_en, fact_ne, source}.
-  const factText = (lang==='ne' && f.fact_ne) ? f.fact_ne : (f.fact_en || f.text || '');
-  box.innerHTML = f ? `<h3>💡 Did you know?</h3>
+  const factText = f ? ((lang==='ne' && f.fact_ne) ? f.fact_ne : (f.fact_en || f.text || '')) : '';
+  box.innerHTML = f ? `<h3>💡 ${B('Did you know?','के तपाईंलाई थाहा छ?')}</h3>
     <p style="font-size:1.1rem">${esc(factText)}</p>
-    <p class="muted">${esc(f.category||f.topic||'')}${f.source?` · Source: ${esc(f.source)}`:''} · Facts explored: ${seen} / ${total}${seen>=10?' · 🏅 Fact Explorer badge earned!':''}</p>
-    <p class="muted">🔥 Fact streak: <strong>${streak.streak} day${streak.streak===1?'':'s'}</strong> — open the app each day to keep it going${streak.lastRewardDate===todayStr()?' · ✅ +5 XP for today\u2019s fact':''}</p>
-    <button class="btn secondary" onclick="showFunFact()">🎲 Another fact</button>`
-  : `<h3>💡 Did you know?</h3><p class="muted">Fun facts did not load — reload the page and try again.</p>`;
+    <p class="muted">${esc(f.category||f.topic||'')}${f.source?` · ${B('Source:','स्रोत:')} ${esc(f.source)}`:''} · ${B('Facts explored:','हेरिएका तथ्य:')} ${seen} / ${total}${seen>=10?` · 🏅 ${B('Fact Explorer badge earned!','Fact Explorer ब्याज प्राप्त भयो!')}`:''}</p>
+    <p class="muted">🔥 ${B('Fact streak:','तथ्य स्ट्रिक:')} <strong>${streak.streak} ${B(streak.streak===1?'day':'days','दिन')}</strong> — ${B('open the app each day to keep it going','यसलाई निरन्तर राख्न हरेक दिन एप खोल्नुहोस्')}${streak.lastRewardDate===todayStr()?` · ✅ +5 XP ${B('for today\u2019s fact','आजको तथ्यका लागि')}`:''}</p>
+    <button class="btn secondary" onclick="showFunFact()">🎲 ${B('Another fact','अर्को तथ्य')}</button>`
+  : `<h3>💡 ${B('Did you know?','के तपाईंलाई थाहा छ?')}</h3><p class="muted">${B('Fun facts did not load — reload the page and try again.','रोचक तथ्यहरू लोड भएनन् — पेज पुनः लोड गरेर प्रयास गर्नुहोस्।')}</p>`;
 }
 /* ----- Fact of the Day streak + Question of the Day -----
    Both are local-only. The fact streak lives in its own localStorage key
@@ -677,18 +677,18 @@ function questionOfDay(questions, dateStr){
 function renderQotd(){
   const box = document.getElementById('qotd-box'); if (!box) return;
   const q = questionOfDay(QUESTIONS);
-  if (!q) { box.innerHTML = '<h3>❓ Question of the Day</h3><p class="muted">Loading today\u2019s question…</p>'; return; }
+  if (!q) { box.innerHTML = skelBlock(1); return; }
   const today = todayStr();
   const done = (progress.qotdDone || {})[today];
   const optsHtml = qOpts(q).map((o, i) => {
     const cls = done ? (i === q.answer ? ' correct' : (i === done.choice ? ' wrong' : '')) : '';
     return `<button class="opt${cls}" data-i="${i}" onclick="answerQotd(${i})" ${done ? 'disabled' : ''}>${String.fromCharCode(65 + i)}. ${esc(o)}</button>`;
   }).join('');
-  const feedback = done ? `<div class="expl"><strong>${done.correct ? '✅ Correct!' : '❌ Not quite.'}</strong> Correct answer: <strong>${String.fromCharCode(65 + q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br>${esc(qExpl(q))}</div>
-    <p class="muted">${done.correct ? '✅ +' : '➕ +'}${done.xp} XP earned for today\u2019s question — come back tomorrow for a new one.</p>` : '';
-  box.innerHTML = `<h3>❓ Question of the Day — ${esc(today)}</h3>
+  const feedback = done ? `<div class="expl"><strong>${done.correct ? B('✅ Correct!','✅ सही!') : B('❌ Not quite.','❌ भएन।')}</strong> ${B('Correct answer:','सही उत्तर:')} <strong>${String.fromCharCode(65 + q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br>${esc(qExpl(q))}</div>
+    <p class="muted">${done.correct ? '✅ +' : '➕ +'}${done.xp} XP ${B('earned for today\u2019s question — come back tomorrow for a new one.','आजको प्रश्नका लागि प्राप्त — भोलि नयाँ प्रश्नका लागि फर्कनुहोस्।')}</p>` : '';
+  box.innerHTML = `<h3>❓ ${B('Question of the Day','आजको प्रश्न')} — ${esc(today)}</h3>
     <p style="font-size:1.05rem">${esc(qText(q))}</p>
-    <div class="tag">${esc(q.topic)} · ${esc(q.difficulty)} · Exams: ${esc((q.exam||[]).join(', '))}</div>
+    <div class="tag">${esc(q.topic)} · ${esc(q.difficulty)} · ${B('Exams:','परीक्षाहरू:')} ${esc((q.exam||[]).join(', '))}</div>
     ${optsHtml}${feedback}`;
 }
 // Answer the Question of the Day: +10 XP if correct, +2 XP for trying —
@@ -839,7 +839,15 @@ function showView(id){
   if (id !== 'audio') audioStop();
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
   const el=document.getElementById('view-'+id); if(el) el.classList.add('active');
-  document.querySelectorAll('nav button[data-view]').forEach(b=>b.classList.toggle('active', b.dataset.view===id));
+  // Active-state sync covers every [data-view] button no matter how it is
+  // nested (plain nav, dropdown menu, mobile bar) — the selector is
+  // deliberately not scoped to 'nav'.
+  document.querySelectorAll('button[data-view]').forEach(b=>b.classList.toggle('active', b.dataset.view===id));
+  // Dynamic <title>: brand first, then the English view name.
+  if (typeof document !== 'undefined' && document){
+    const vt = VIEW_TITLES[id];
+    document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
+  }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
   if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
@@ -852,6 +860,57 @@ function showView(id){
   if(id==='pyq') renderPYQ();
   if(id==='chat') renderChat(); if(id==='suggest') renderSuggest();
 }
+// Per-view <title> names (English view names are fine — the brand prefix
+// stays constant). Unknown ids fall back to the bare brand.
+const VIEW_TITLES = {
+  home:'Home', practice:'Practice', quiz:'Quiz', result:'Result', mock:'Mock Exams',
+  guide:'Exam Guide', dashboard:'Dashboard', review:'Bookmarks & Mistakes', flash:'Flashcards',
+  search:'Search', auth:'Sign In', profile:'Profile', discuss:'Discussion Hub',
+  submit:'Contribute a Question', moderate:'Review Queue', papers:'Old Papers', notices:'Notices',
+  funfacts:'Fun Facts', chat:'Ask Ravi', suggest:'Suggest a Feature', coverage:'Syllabus Coverage',
+  print:'Printable Paper', planner:'Study Planner', coach:'Guess Coach', pyq:'PYQ Heatmap',
+  notes:'Revision Notes', audio:'Audio Revision'
+};
+/* ---- Production-polish UI helpers: skeletons, empty states, error states ---- */
+// dataReady is false only while loadData() is actually fetching. In the Node
+// test harnesses loadData() is either awaited (e2e — renders happen after it
+// settles) or never called (unit — the flag stays true), so renders there
+// behave exactly as before.
+let dataReady = true;
+// Skeleton placeholders (CSS .skel / .skel-line / .skel-card) for data-heavy
+// views while their data is still arriving. Rendered synchronously on the
+// next paint — no artificial delays, no "Loading…" text.
+function skelCard(lines){
+  let h = '<div class="skel-card" aria-hidden="true">';
+  for (let i = 0; i < (lines == null ? 4 : lines); i++) h += '<div class="skel skel-line"></div>';
+  return h + '</div>';
+}
+function skelBlock(n){
+  let h = '<div class="skel-wrap">';
+  for (let i = 0; i < (n || 2); i++) h += skelCard(4);
+  return h + '</div>';
+}
+// Polished empty state: icon + headline + one-line explanation + optional
+// CTA button. Pass already-bilingual strings (B('en','ne')).
+function emptyState(icon, headline, blurb, ctaLabel, ctaOnclick){
+  return '<div class="empty-state"><div class="empty-icon" aria-hidden="true">' + icon + '</div>' +
+    '<h3>' + headline + '</h3><p class="muted">' + blurb + '</p>' +
+    (ctaLabel ? '<p><button class="btn" onclick="' + ctaOnclick + '">' + ctaLabel + '</button></p>' : '') + '</div>';
+}
+// Friendly data-load failure with a retry button (retry = refetch everything
+// and re-render the current view).
+function errorState(headline, blurb){
+  return '<div class="empty-state empty-error"><div class="empty-icon" aria-hidden="true">⚠️</div>' +
+    '<h3>' + headline + '</h3><p class="muted">' + blurb + '</p>' +
+    '<p><button class="btn" onclick="reloadData()">' + B('↻ Try again', '↻ पुनः प्रयास गर्नुहोस्') + '</button></p></div>';
+}
+function reloadData(){
+  dataReady = false;
+  const active = (typeof document !== 'undefined' && document.querySelector) ? document.querySelector('.view.active') : null;
+  const id = active && active.id ? active.id.replace(/^view-/, '') : 'home';
+  if (typeof loadData === 'function') loadData().then(function(){ showView(id); }).catch(function(){ dataReady = true; showView(id); });
+  showView(id); // re-render immediately so skeletons show while refetching
+}
 function examById(id){ return EXAMS.find(e=>e.id===id); }
 function cutoffFor(examId){ const e=examById(examId); return (e && e.prelim) ? e.prelim.pass : 45; }
 // Negative-marking rate for a mock: prelim.negative stores the rate (0.2 = 20%
@@ -863,6 +922,7 @@ function cutoffFor(examId){ const e=examById(examId); return (e && e.prelim) ? e
 function mockNegRate(p){ if (p.negative === null || p.negative === 0) return 0; return p.negative; }
 
 async function loadData(){
+  dataReady = false; // data-heavy views render skeletons until this settles
   await loadConfig();
   try{
     const r=await fetch('data/exams.json'); EXAMS=await r.json();
@@ -903,6 +963,7 @@ async function loadData(){
   // failures resolve to null and are filtered out.
   if (typeof window!=='undefined' && window.EMBEDDED_NOTES) NOTES = window.EMBEDDED_NOTES.slice();
   else { try{ const _n=await Promise.all(NOTES_FILES.map(f=>fetch('data/notes/'+f).then(r=>r.json()).catch(e=>{ console.warn('Could not load note', f, e); return null; }))); NOTES=_n.filter(Boolean); }catch(e){ NOTES=[]; } }
+  dataReady = true; // the fetch phase settled — views may render real content
   updateDemoBanner();
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
@@ -928,7 +989,7 @@ function fillExamSelects(){
   const tagged={}; QUESTIONS.forEach(q=>(q.exam||[]).forEach(id=>tagged[id]=(tagged[id]||0)+1));
   // The empty-value option is "mixed practice" (the Daily/Surprise/Quick
   // modes are exam-less too); it is LAST so the default stays the first exam.
-  const practiceOpts='<option value="">🌐 All exams (mixed)</option>'+EXAMS.map(e=>`<option value="${e.id}">${esc(e.name)}${e.prelim?'':(tagged[e.id]?' — guide only':' — guide only, no practice questions')}</option>`).join('');
+  const practiceOpts='<option value="">'+B('🌐 All exams (mixed)','🌐 सबै परीक्षा (मिश्रित)')+'</option>'+EXAMS.map(e=>`<option value="${e.id}">${esc(e.name)}${e.prelim?'':(tagged[e.id]?B(' — guide only',' — गाइड मात्र'):B(' — guide only, no practice questions',' — गाइड मात्र, अभ्यास प्रश्न छैनन्'))}</option>`).join('');
   // The mock select lists ONLY exams with a verified MCQ prelim — guide-only
   // exams (prelim: null) have no mock and must not appear here.
   const mockOpts=EXAMS.filter(e=>e.prelim).map(e=>`<option value="${e.id}">${esc(e.name)}</option>`).join('');
@@ -941,9 +1002,9 @@ function fillExamSelects(){
   mockIds.forEach(id=>{ const s=document.getElementById(id); if(s) s.innerHTML=mockOpts; });
   const ple=document.getElementById('pla-exam'); if(ple) ple.innerHTML='<option value="">—</option>'+allOpts;
   const ss=document.getElementById('sub-exam'); if(ss) ss.innerHTML=allOpts;
-  const fs=document.getElementById('flash-exam'); if(fs) fs.innerHTML='<option value="">All exams (mixed)</option>'+allOpts;
+  const fs=document.getElementById('flash-exam'); if(fs) fs.innerHTML='<option value="">'+B('All exams (mixed)','सबै परीक्षा (मिश्रित)')+'</option>'+allOpts;
   snaps.forEach(({s,v,i})=>{ if(i===-1 && !v) return; for(const o of (s.options||[])){ if(o.value===v){ s.value=v; break; } } });
-  const pp=document.getElementById('practice-pattern'); const upd=()=>{ const pe2=document.getElementById('practice-exam'); const ev=pe2?pe2.value:''; const e=ev?examById(ev):null; if(pp) pp.textContent=!ev?('🌐 Mixed practice — '+QUESTIONS.length.toLocaleString()+' questions from all exams, ~54s per question with the timer on.'):e&&e.prelim?`${e.name}: ${e.prelim.questions} questions × ${e.prelim.marksPerQ} mark(s), ${e.prelim.timeMin==null?'time unverified':e.prelim.timeMin+' min'}, pass ${e.prelim.pass}/${e.prelim.total}.`:'Guide-only exam — no MCQ paper; practice draws from tagged questions only.'; }; const pe=document.getElementById('practice-exam'); if(pe) pe.addEventListener('change',()=>{ upd(); updatePracticeTopics(); }); upd(); updatePracticeTopics();
+  const pp=document.getElementById('practice-pattern'); const upd=()=>{ const pe2=document.getElementById('practice-exam'); const ev=pe2?pe2.value:''; const e=ev?examById(ev):null; if(pp) pp.textContent=!ev?('🌐 '+B('Mixed practice','मिश्रित अभ्यास')+' — '+QUESTIONS.length.toLocaleString()+' '+B('questions from all exams, ~54s per question with the timer on.','सबै परीक्षाका प्रश्नहरू, टाइमर चल्दा प्रति प्रश्न ~५४ सेकेन्ड।')):e&&e.prelim?`${e.name}: ${e.prelim.questions} ${B('questions','प्रश्न')} × ${e.prelim.marksPerQ} ${B('mark(s)','अङ्क')}, ${e.prelim.timeMin==null?B('time unverified','समय अपुष्ट'):e.prelim.timeMin+' '+B('min','मिनेट')}, ${B('pass','पास')} ${e.prelim.pass}/${e.prelim.total}.`:B('Guide-only exam — no MCQ paper; practice draws from tagged questions only.','गाइड-मात्र परीक्षा — MCQ पेपर छैन; अभ्यास ट्याग गरिएका प्रश्नहरूबाट मात्र हुन्छ।'); }; const pe=document.getElementById('practice-exam'); if(pe) pe.addEventListener('change',()=>{ upd(); updatePracticeTopics(); }); upd(); updatePracticeTopics();
 }
 // Rebuild the Practice topic list from the topics that actually have questions
 // tagged for the selected exam. The old global list let users pick impossible
@@ -958,9 +1019,9 @@ function updatePracticeTopics(){
   const topics=Object.keys(counts).sort();
   const total=topics.reduce((n,t)=>n+counts[t],0);
   if(!topics.length){
-    sel.innerHTML='<option value="">No questions tagged for this exam yet</option>';
+    sel.innerHTML='<option value="">'+B('No questions tagged for this exam yet','यस परीक्षाका लागि अझै प्रश्न ट्याग गरिएको छैन')+'</option>';
   }else{
-    sel.innerHTML=`<option value="">All topics (${total})</option>`+topics.map(t=>`<option value="${esc(t)}">${esc(t)} (${counts[t]})</option>`).join('');
+    sel.innerHTML=`<option value="">${B('All topics ('+total+')','सबै विषय ('+total+')')}</option>`+topics.map(t=>`<option value="${esc(t)}">${esc(t)} (${counts[t]})</option>`).join('');
   }
   // Keep the previous topic when it still exists for this exam; otherwise fall
   // back to All topics instead of a stale value that would match nothing.
@@ -970,12 +1031,14 @@ function renderHomeStats(){
   const t=$('#home-topics'); if(t) t.textContent = new Set(QUESTIONS.map(q=>q.topic)).size || '—';
   const d=$('#home-xp'); if(d) d.textContent = progress.xp;
   const s=$('#home-streak'); if(s) s.textContent = progress.streak;
-  const sb=$('#speed-best'); if(sb){ const b=getSpeedBest(); sb.textContent = b ? `⚡ Best Speed Round: ${b.score}/${b.max} (${b.pct}%) on ${b.date}` : ''; }
+  const sb=$('#speed-best'); if(sb){ const b=getSpeedBest(); sb.textContent = b ? `⚡ ${B('Best Speed Round:','उत्कृष्ट स्पिड राउन्ड:')} ${b.score}/${b.max} (${b.pct}%) ${B('on','मिति')} ${b.date}` : ''; }
 }
 function renderTopics(){
   const box=$('#topic-list'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
+  if(!QUESTIONS.length){ box.innerHTML=errorState(B('Topics could not be loaded','विषयहरू लोड हुन सकेनन्'), B('The question bank failed to load. Check your connection and try again.','प्रश्न बैंक लोड हुन असफल भयो। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); return; }
   const counts={}; QUESTIONS.forEach(q=>counts[q.topic]=(counts[q.topic]||0)+1);
-  box.innerHTML=Object.entries(counts).sort((a,b)=>b[1]-a[1]).map(([t,n])=>{ const nt=noteByTopic(t); return `<div class="card"><strong>${esc(t)}</strong><div class="muted">${n} questions</div><button class="btn secondary" onclick="startPracticeTopic('${esc(t)}')">Practice</button>${nt?` <button class="btn secondary" onclick="openNote('${nt.slug}')">📖 Notes</button>`:''}</div>`; }).join('') || '<p class="muted">Topics load with the question bank.</p>';
+  box.innerHTML=Object.entries(counts).sort((a,b)=>b[1]-a[1]).map(([t,n])=>{ const nt=noteByTopic(t); return `<div class="card"><strong>${esc(t)}</strong><div class="muted">${n} ${B('questions','प्रश्नहरू')}</div><button class="btn secondary" onclick="startPracticeTopic('${esc(t)}')">${B('Practice','अभ्यास')}</button>${nt?` <button class="btn secondary" onclick="openNote('${nt.slug}')">📖 ${B('Notes','नोटहरू')}</button>`:''}</div>`; }).join('');
 }
 
 /* ---------- Fun facts (data/funfacts.json, 300+ verified, bilingual) ---------- */
@@ -1000,6 +1063,8 @@ function funFactHtml(f){
 let funFactsShuffled=false;
 function renderFunFacts(){
   const box=$('#funfact-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
+  if(!FUNFACTS.length){ box.innerHTML=errorState(B('Fun facts could not be loaded','रोचक तथ्यहरू लोड हुन सकेनन्'), B('The fun facts failed to load. Check your connection and try again.','रोचक तथ्यहरू लोड हुन असफल भए। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); const cnt=$('#funfact-count'); if(cnt) cnt.textContent=''; return; }
   const sel=document.getElementById('funfact-filter');
   if(sel){
     const cur=sel.value;
@@ -1011,13 +1076,16 @@ function renderFunFacts(){
   const list=funFactsShuffled?shuffle(list0):list0;
   const cnt=$('#funfact-count');
   if(cnt) cnt.textContent = list0.length+' fact(s)'+(f?' in '+f:'')+' of '+FUNFACTS.length+' total';
-  box.innerHTML = list.map(x=>`<div class="card"><p>💡 ${esc(funFactText(x))}</p><p class="muted">${esc(x.category)} · Source: ${esc(x.source)}</p></div>`).join('') || '<p class="muted">No fun facts loaded yet.</p>';
+  box.innerHTML = list.map(x=>`<div class="card"><p>💡 ${esc(funFactText(x))}</p><p class="muted">${esc(x.category)} · Source: ${esc(x.source)}</p></div>`).join('') || errorState(B('Fun facts could not be loaded','रोचक तथ्यहरू लोड हुन सकेनन्'), B('The fun facts failed to load. Check your connection and try again.','रोचक तथ्यहरू लोड हुन असफल भए। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।'));
 }
 function setFunFactFilter(){ funFactsShuffled=false; renderFunFacts(); }
 function shuffleFunFacts(){ funFactsShuffled=true; renderFunFacts(); }
 function dismissFunFact(){ if(current) current._pendingFact=null; renderQuestion(); }
 
 /* ---------- Practice ---------- */
+// Shared "question bank has not loaded" alert for the practice / surprise /
+// speed entry points — bilingual, and it says what to do about it.
+function bankNotLoadedMsg(){ return B('The question bank has not loaded yet — open this app through a local server (e.g. python3 -m http.server) or GitHub Pages, then try again.','प्रश्न बैंक अझै लोड भएको छैन — यो एप लोकल सर्भर (जस्तै python3 -m http.server) वा GitHub Pages मार्फत खोल्नुहोस्, अनि पुनः प्रयास गर्नुहोस्।'); }
 function startPracticeTopic(topic){
   // The topic must have questions tagged for the currently selected exam —
   // otherwise the user would land on an empty practice set. Say so plainly
@@ -1025,7 +1093,7 @@ function startPracticeTopic(topic){
   const exam=document.getElementById('practice-exam').value;
   if(topic && !QUESTIONS.some(q=>q.topic===topic && (!exam||q.exam.includes(exam)))){
     const name=(examById(exam)||{}).name||exam;
-    alert(`No '${topic}' questions tagged for ${name} yet — try another exam, or pick a topic from the list.`);
+    alert(B(`No '${topic}' questions tagged for ${name} yet — try another exam, or pick a topic from the list.`,`'${topic}' का प्रश्न ${name} का लागि अझै ट्याग गरिएको छैन — अर्को परीक्षा प्रयास गर्नुहोस् वा सूचीबाट विषय छान्नुहोस्।`));
     return;
   }
   const sel=document.getElementById('practice-topic'); if(sel) sel.value=topic;
@@ -1046,12 +1114,12 @@ function startPractice(){
   let pool=shuffle(filteredQuestions());
   const qs=pool.slice(0, Math.min(count, pool.length)).map(q=>shuffleOptions(q));
   if(!qs.length){
-    if(!QUESTIONS.length){ alert('No questions loaded yet — run via a local server and try again.'); return; }
+    if(!QUESTIONS.length){ alert(bankNotLoadedMsg()); return; }
     const examObj=examById(exam);
     const topic=document.getElementById('practice-topic').value;
     const diff=document.getElementById('practice-diff').value;
     const bits=[examObj?examObj.name:exam, topic, diff].filter(Boolean).join(' · ');
-    alert(`No questions match ${bits} — try another topic or difficulty.`);
+    alert(B(`No questions match ${bits} — try another topic or difficulty.`,`${bits} सँग मिल्ने प्रश्न छैन — अर्को विषय वा कठिनाइ प्रयास गर्नुहोस्।`));
     return;
   }
   const examObj=examById(exam);
@@ -1084,9 +1152,12 @@ function renderQuestion(){
   // "Take a break" nudge: every 20 answered questions in this session, until dismissed.
   const showBreak=answered>0 && answered%20===0 && c.breakShownAt!==answered;
   const examLabel = c.title ? esc(c.title) : esc(examById(c.exam)?.name||c.exam);
-  const negLabel = c.negOn ? `(−${Math.round(c.negRate*100)}% if wrong)` : '';
   const speedMode = c.mode==='speed';
   const mockMode = c.mode==='mock';
+  const modeLabel = c.mode==='mock' ? B('Mock Exam','मक परीक्षा') : speedMode ? B('⚡ Speed Round','⚡ स्पिड राउन्ड') : B('Practice','अभ्यास');
+  const qOfTotal = B('Question','प्रश्न')+' '+(c.idx+1)+' '+B('of','/')+' '+total;
+  const marksLabel = q.marks+' '+B(q.marks>1?'marks':'mark','अङ्क');
+  const negLabel = c.negOn ? `(−${Math.round(c.negRate*100)}% ${B('if wrong','गलत भएमा')})` : '';
   // Discussing navigates away from the quiz — in a timed mock that stops the
   // timer and silently abandons the attempt, so the button is hidden during
   // mocks (it stays available in practice and on the result review screen).
@@ -1097,25 +1168,25 @@ function renderQuestion(){
   // its Next button stay visible underneath, and dismissing just hides it.
   const factCard = c._pendingFact ? `<div class="card funfact-card"><h3>💡 Did you know?</h3>${funFactHtml(c._pendingFact)}<button class="btn secondary" onclick="dismissFunFact()">Continue →</button></div>` : '';
   box.innerHTML=`${factCard}
-    <div class="card quiz-card${c.answers[c.idx]!==null?' answered':''}"><div class="muted">${c.mode==='mock'?'Mock Exam':speedMode?'⚡ Speed Round':'Practice'} · ${examLabel} · Question ${c.idx+1} of ${total} · ${q.marks} mark${q.marks>1?'s':''} ${negLabel}</div>
-    ${speedMode?`<p class="muted">⏱️ 60 seconds for all ${total} questions · +1 bonus for a correct answer in under 5s${best?` · Best speed score: ${best.score}/${best.max} (${best.pct}%) on ${best.date}`:''}</p>`:''}
-    <div class="session-bar" title="Question ${c.idx+1} of ${total}"><div style="width:${((c.idx+1)/total*100).toFixed(1)}%"></div></div>
-    <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap"><span class="timer" id="quiz-timer">${c.timerOn?fmtTime(timeLeft):'No timer'}</span><span class="muted">⏱ ${pace}</span><span class="muted">Answered ${answered}/${total}</span></div>
+    <div class="card quiz-card${c.answers[c.idx]!==null?' answered':''}"><div class="muted">${modeLabel} · ${examLabel} · ${qOfTotal} · ${marksLabel} ${negLabel}</div>
+    ${speedMode?`<p class="muted">${B(`⏱️ 60 seconds for all ${total} questions · +1 bonus for a correct answer in under 5s`,`⏱️ जम्मा ${total} प्रश्नका लागि ६० सेकेन्ड · ५ सेकेन्डभित्र सही उत्तरमा +१ बोनस`)}${best?` · ${B('Best speed score:','उत्कृष्ट स्पिड स्कोर:')} ${best.score}/${best.max} (${best.pct}%) ${B('on','मिति')} ${best.date}`:''}</p>`:''}
+    <div class="session-bar" title="${qOfTotal}"><div style="width:${((c.idx+1)/total*100).toFixed(1)}%"></div></div>
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap"><span class="timer" id="quiz-timer">${c.timerOn?fmtTime(timeLeft):B('No timer','टाइमर छैन')}</span><span class="muted">⏱ ${pace}</span><span class="muted">${B('Answered','उत्तर दिइएको')} ${answered}/${total}</span></div>
     <div class="progress-bar"><div style="width:${(answered/total*100).toFixed(0)}%"></div></div>
     <h2 class="q-text" style="margin:14px 0">${esc(qText(q))}</h2>
     <div class="tag">${esc(q.topic)} · ${esc(q.subtopic||'')} · ${esc(q.difficulty)} ${communityBadge(q)}</div>
     ${qOpts(q).map((o,i)=>`<button class="opt ${c.answers[c.idx]===i?'selected':''}" data-i="${i}" style="animation-delay:${i*45}ms" onclick="answerOption(${i})">${String.fromCharCode(65+i)}. ${esc(o)}</button>`).join('')}
     <div id="feedback" aria-live="polite"></div>
-    ${showBreak?`<div class="break-nudge" role="status">☕ <strong>You have answered ${answered} questions in this session.</strong> Take a short break — stretch, drink some water, then come back fresh. Leaving this page abandons the session — it will not be scored.<br><button class="btn secondary" onclick="dismissBreak()">Got it — keep going</button> <button class="btn secondary" onclick="takeABreak()">Take a break</button></div>`:''}
+    ${showBreak?`<div class="break-nudge" role="status">☕ <strong>${B('You have answered','तपाईंले')} ${answered} ${B('questions in this session.','प्रश्नको उत्तर दिनुभयो।')}</strong> ${B('Take a short break — stretch, drink some water, then come back fresh. Leaving this page abandons the session — it will not be scored.','छोटो ब्रेक लिनुहोस् — तन्किनुहोस्, पानी पिउनुहोस्, अनि ताजा भएर फर्कनुहोस्। यो पेज छोडेमा सत्र त्यागिन्छ — स्कोर हुँदैन।')}<br><button class="btn secondary" onclick="dismissBreak()">${B('Got it — keep going','बुझें — जारी राख्नुहोस्')}</button> <button class="btn secondary" onclick="takeABreak()">${B('Take a break','ब्रेक लिनुहोस्')}</button></div>`:''}
     <div style="margin-top:12px">
-      ${speedMode?'':`<button class="btn secondary" onclick="prevQ()" ${c.idx===0?'disabled':''}>← Previous</button>`}
-      <button class="btn secondary" onclick="skipQ()">Skip</button>
-      ${speedMode?'':`<button class="btn secondary" onclick="bookmarkCurrent()">🔖 Bookmark</button>
-      <button class="btn secondary" onclick="flagCurrent()">⚑ Report wrong</button>`}
-      ${showDiscuss?`<button class="btn secondary" onclick="discussQuestion(current.questions[current.idx].id)">💬 Discuss this question</button>`:''}
-      ${c.idx<total-1?'<button class="btn" onclick="nextQ()">Next →</button>':'<button class="btn green" onclick="finishAttempt(false)">Finish &amp; See Result</button>'}
+      ${speedMode?'':`<button class="btn secondary" onclick="prevQ()" ${c.idx===0?'disabled':''}>${B('← Previous','← अघिल्लो')}</button>`}
+      <button class="btn secondary" onclick="skipQ()">${B('Skip','छोड्नुहोस्')}</button>
+      ${speedMode?'':`<button class="btn secondary" onclick="bookmarkCurrent()">🔖 ${B('Bookmark','बुकमार्क')}</button>
+      <button class="btn secondary" onclick="flagCurrent()">⚑ ${B('Report wrong','गलत रिपोर्ट')}</button>`}
+      ${showDiscuss?`<button class="btn secondary" onclick="discussQuestion(current.questions[current.idx].id)">💬 ${B('Discuss this question','यो प्रश्न छलफल गर्नुहोस्')}</button>`:''}
+      ${c.idx<total-1?`<button class="btn" onclick="nextQ()">${B('Next →','अर्को →')}</button>`:`<button class="btn green" onclick="finishAttempt(false)">${B('Finish &amp; See Result','सक्नुहोस् र नतिजा हेर्नुहोस्')}</button>`}
     </div></div>
-    ${c.mode==='mock'?`<div class="card"><strong>Question palette</strong><div class="palette" ${c.questions.length>100?'style="max-height:220px;overflow-y:auto"':''}>${c.questions.map((_,i)=>`<button class="${c.answers[i]!==null?'answered':''} ${i===c.idx?'current':''}" onclick="jumpTo(${i})">${i+1}</button>`).join('')}</div></div>`:''}`;
+    ${c.mode==='mock'?`<div class="card"><strong>${B('Question palette','प्रश्न प्यालेट')}</strong><div class="palette" ${c.questions.length>100?'style="max-height:220px;overflow-y:auto"':''}>${c.questions.map((_,i)=>`<button class="${c.answers[i]!==null?'answered':''} ${i===c.idx?'current':''}" onclick="jumpTo(${i})">${i+1}</button>`).join('')}</div></div>`:''}`;
   // Glide both bars from their previous widths instead of jumping.
   const bar=document.querySelector('#quiz-box .progress-bar>div');
   const sbar=document.querySelector('#quiz-box .session-bar>div');
@@ -1133,7 +1204,7 @@ function dismissBreak(){
 // Leaving the quiz abandons the session (showView stops the timer and the
 // attempt is never recorded) — say so before a timed session is thrown away.
 function takeABreak(){
-  if(current && current.timerOn && !confirm('Take a break? Leaving now abandons this timed session — it will not be scored.')) return;
+  if(current && current.timerOn && !confirm(B('Take a break? Leaving now abandons this timed session — it will not be scored.','ब्रेक लिने? अहिले छोडेमा यो समयबद्ध सत्र त्यागिन्छ — स्कोर हुँदैन।'))) return;
   showView('home');
 }
 function answerOption(i){
@@ -1160,7 +1231,7 @@ function showFeedback(){
   const c=current, q=c.questions[c.idx], a=c.answers[c.idx]; const fb=document.getElementById('feedback'); if(!fb) return;
   const ok=a===q.answer;
   const line=ok?pickLine(PRAISE_LINES,'praise'):pickLine(TRY_AGAIN_LINES,'try');
-  fb.innerHTML=`<div class="expl"><strong>${ok?'✅ Correct!':'❌ Wrong.'}</strong> Correct answer: <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br>${esc(qExpl(q))}</div><div class="encourage">${esc(line)}</div>`;
+  fb.innerHTML=`<div class="expl"><strong>${ok?B('✅ Correct!','✅ सही!'):B('❌ Wrong.','❌ गलत।')}</strong> ${B('Correct answer:','सही उत्तर:')} <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br>${esc(qExpl(q))}</div><div class="encourage">${esc(line)}</div>`;
   document.querySelectorAll('.opt').forEach(b=>{ const i=+b.dataset.i; b.disabled=true; if(i===q.answer) b.classList.add('correct'); else if(i===a) b.classList.add('wrong'); });
 }
 function saveMistakeIfWrong(){
@@ -1171,7 +1242,7 @@ function nextQ(){ if(current) current._pendingFact=null; if(current.idx<current.
 function prevQ(){ if(current) current._pendingFact=null; if(current.idx>0){ current.idx--; renderQuestion(); } }
 function skipQ(){ current.answers[current.idx]=null; if(current.idx<current.questions.length-1) nextQ(); else renderQuestion(); }
 function jumpTo(i){ if(current) current._pendingFact=null; current.idx=i; renderQuestion(); }
-function bookmarkCurrent(){ const id=current.questions[current.idx].id; if(!progress.bookmarks.includes(id)){ progress.bookmarks.push(id); saveProgress(); alert('Bookmarked ✓'); } else alert('Already bookmarked.'); }
+function bookmarkCurrent(){ const id=current.questions[current.idx].id; if(!progress.bookmarks.includes(id)){ progress.bookmarks.push(id); saveProgress(); alert(B('Bookmarked ✓','बुकमार्क भयो ✓')); } else alert(B('Already bookmarked.','पहिले नै बुकमार्क गरिएको छ।')); }
 function flagCurrent(){ openReportForm(current.questions[current.idx].id); }
 
 function finishAttempt(timedOut){
@@ -1244,16 +1315,17 @@ function renderResult(){
   const CIRC=326.7, ringOff=(CIRC*(1-Math.max(0,Math.min(100,res.pct))/100)).toFixed(1);
   const cheer=passed?pickLine(PASS_LINES,'pass'):pickLine(FAIL_LINES,'fail');
   const speedBest=getSpeedBest();
+  const fullTotal = examObj && examObj.prelim ? examObj.prelim.total : 100;
   // NMC MBBS only: the mock is the 130-MCQ part of a 180-mark paper (the 10
   // clinical scenario questions are not in this mock); pass is judged on
   // percentage, not on 90 raw marks. No other exam has total != max, so this
   // note must NOT fire for a merely short mock on another exam.
-  const cutoffNote = (c.exam === 'nmc-mbbs' && examObj && examObj.prelim && examObj.prelim.total !== res.max) ? ` (mock covers ${res.max} of ${examObj.prelim.total} marks — the 10 clinical scenario questions are not in this mock; pass is judged on percentage, not on ${cutoff} raw marks)` : '';
-  const proxyNote = (c.exam==='mecee-bl') ? ' — the real MECEE-BL pass is the 50th percentile (merit rank), not 50% marks; this is a rough proxy only' : '';
-  const negLine = !c.negOn ? 'Negative marking OFF — this exam has no negative marking.'
-    : `Negative marking ON (−${(c.negRate*(c.questions[0]?.marks||1)).toFixed(2).replace(/0$/,'')} per wrong question, ${Math.round(c.negRate*100)}%)`;
+  const cutoffNote = (c.exam === 'nmc-mbbs' && examObj && examObj.prelim && examObj.prelim.total !== res.max) ? B(` (mock covers ${res.max} of ${examObj.prelim.total} marks — the 10 clinical scenario questions are not in this mock; pass is judged on percentage, not on ${cutoff} raw marks)`,` (मकमा ${examObj.prelim.total} मध्ये ${res.max} अङ्क मात्र — १० वटा क्लिनिकल सिनारियो प्रश्न मकमा छैनन्; पास प्रतिशतका आधारमा हुन्छ, ${cutoff} कच्चा अङ्कका आधारमा होइन)`) : '';
+  const proxyNote = (c.exam==='mecee-bl') ? B(' — the real MECEE-BL pass is the 50th percentile (merit rank), not 50% marks; this is a rough proxy only',' — वास्तविक MECEE-BL पास ५०औँ पर्सेन्टाइल (मेरिट र्‍याङ्क) हो, ५०% अङ्क होइन; यो मोटामोटी अनुमान मात्र हो') : '';
+  const negLine = !c.negOn ? B('Negative marking OFF — this exam has no negative marking.','नेगेटिभ मार्किङ बन्द — यो परीक्षामा नेगेटिभ मार्किङ छैन।')
+    : B(`Negative marking ON (−${(c.negRate*(c.questions[0]?.marks||1)).toFixed(2).replace(/0$/,'')} per wrong question, ${Math.round(c.negRate*100)}%)`,`नेगेटिभ मार्किङ चालु (प्रति गलत प्रश्न −${(c.negRate*(c.questions[0]?.marks||1)).toFixed(2).replace(/0$/,'')}, ${Math.round(c.negRate*100)}%)`);
   box.innerHTML=`<div class="card" style="text-align:center">
-    <div class="muted">${c.mode==='mock'?'Mock Exam':'Practice'} · ${esc(c.title || examById(c.exam)?.name || 'Mixed practice')} ${timedOut?'(time up — auto-submitted)':''}</div>
+    <div class="muted">${c.mode==='mock'?B('Mock Exam','मक परीक्षा'):B('Practice','अभ्यास')} · ${esc(c.title || examById(c.exam)?.name || B('Mixed practice','मिश्रित अभ्यास'))} ${timedOut?B('(time up — auto-submitted)','(समय सकियो — स्वतः बुझाइयो)'):''}</div>
     <div class="score-wrap">
       <svg class="score-ring" viewBox="0 0 120 120" width="148" height="148" aria-hidden="true">
         <circle class="ring-bg" cx="60" cy="60" r="52"></circle>
@@ -1261,21 +1333,21 @@ function renderResult(){
       </svg>
       <div class="score-center"><div class="result-big ${passed?'pass':'fail'}">${res.score} / ${res.max}</div><div class="muted">${res.pct}%</div></div>
     </div>
-    <div><strong class="${passed?'pass':'fail'}">${passed?'✅ PASS':'❌ FAIL'}</strong> — cutoff for this exam is ${cutoffPct}% (${cutoff}/${examObj && examObj.prelim?examObj.prelim.total:100} on the full paper)${cutoffNote}${proxyNote} &nbsp;·&nbsp; ${res.pct}%</div>
-    <p>Correct ${res.correct} · Wrong ${res.wrong} · Skipped ${res.skipped} · Time ${fmtTime(secs)} (${Math.round(secs/Math.max(1,c.questions.length))}s per question) · +${xp} XP · Level ${progress.level} · 🔥 Streak ${progress.streak} day(s)</p>
-    ${c.mode==='speed'?`<p>⚡ Speed Round bonus: <strong>+${res.speedBonus||0}</strong> fast correct answer(s) under 5s${speedBest?` · Best speed score: ${speedBest.score}/${speedBest.max} (${speedBest.pct}%) on ${speedBest.date}`:''}</p>`:''}
-    ${leveledUp?`<div class="levelup-banner" role="status">🎉 LEVEL UP! You are now Level ${progress.level}!</div>`:''}
-    ${weeklyMet?`<div class="levelup-banner gold" role="status">🏆 Weekly goal smashed! Weekly Champion badge earned.</div>`:''}
+    <div><strong class="${passed?'pass':'fail'}">${passed?B('✅ PASS','✅ पास'):B('❌ FAIL','❌ फेल')}</strong> — ${B('cutoff for this exam is','यो परीक्षाको कटअफ')} ${cutoffPct}% (${cutoff}/${fullTotal} ${B('on the full paper','पूर्ण पेपरमा')})${cutoffNote}${proxyNote} &nbsp;·&nbsp; ${res.pct}%</div>
+    <p>${B('Correct','सही')} ${res.correct} · ${B('Wrong','गलत')} ${res.wrong} · ${B('Skipped','छोडिएको')} ${res.skipped} · ${B('Time','समय')} ${fmtTime(secs)} (${Math.round(secs/Math.max(1,c.questions.length))}${B('s per question','सेकेन्ड/प्रश्न')}) · +${xp} XP · ${B('Level','लेभल')} ${progress.level} · 🔥 ${B('Streak','स्ट्रिक')} ${progress.streak} ${B('day(s)','दिन')}</p>
+    ${c.mode==='speed'?`<p>${B('⚡ Speed Round bonus:','⚡ स्पिड राउन्ड बोनस:')} <strong>+${res.speedBonus||0}</strong> ${B('fast correct answer(s) under 5s','५ सेकेन्डभित्रका छिटो सही उत्तर')}${speedBest?` · ${B('Best speed score:','उत्कृष्ट स्पिड स्कोर:')} ${speedBest.score}/${speedBest.max} (${speedBest.pct}%) ${B('on','मिति')} ${speedBest.date}`:''}</p>`:''}
+    ${leveledUp?`<div class="levelup-banner" role="status">${B('🎉 LEVEL UP! You are now Level '+progress.level+'!','🎉 लेभल अप! तपाईं अब लेभल '+progress.level+' मा हुनुहुन्छ!')}</div>`:''}
+    ${weeklyMet?`<div class="levelup-banner gold" role="status">🏆 ${B('Weekly goal smashed! Weekly Champion badge earned.','साप्ताहिक लक्ष्य पूरा! Weekly Champion ब्याज प्राप्त भयो।')}</div>`:''}
     <p class="encourage" style="text-align:left">${esc(cheer)}</p>
     <p class="muted">${negLine}</p>
-    <button class="btn" onclick="retryWrong()">Retry wrong only (${wrongList.length})</button>
-    <button class="btn secondary" onclick="newRandomSet()">🔀 New random set</button>
-    ${worst.length?`<button class="btn secondary" onclick="startPracticeTopic('${esc(worst[0][0])}')">📚 Practice weakest topic: ${esc(worst[0][0])}</button>`:''}
-    <button class="btn secondary" onclick="shareScore()">📋 Share my score</button> <span id="share-status" class="muted" role="status"></span>
-    <button class="btn secondary" onclick="showView('dashboard')">View dashboard</button></div>
-    ${rf?`<div class="card funfact-card"><h3>💡 Did you know?</h3>${funFactHtml(rf)}</div>`:''}
-    <div class="card"><h3>Topic breakdown</h3><p><strong>Strongest:</strong> ${best.map(([t,v])=>esc(t)+' '+v.correct+'/'+v.total).join(' · ')||'—'}</p><p><strong>Weakest — revise these:</strong> ${worst.map(([t,v])=>esc(t)+' '+v.correct+'/'+v.total).join(' · ')||'—'}</p></div>
-    <div class="card"><h3>Wrong answers — review</h3>${wrongList.length? wrongList.map(({q,a})=>`<div style="margin-bottom:12px"><strong>${esc(qText(q))}</strong><br>Your answer: ${String.fromCharCode(65+a)}. ${esc(qOpts(q)[a])}<br>Correct: <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br><span class="muted">${esc(qExpl(q))}</span><br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 Discuss this question</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ Report wrong question</button>${noteByTopic(q.topic)?` <button class="btn secondary" onclick="reviseTopic('${esc(q.topic)}')">📖 Revise this topic</button>`:''}</div>`).join(''):'<p>🎉 No wrong answers — perfect set!</p>'}</div>`;
+    <button class="btn" onclick="retryWrong()">${B('Retry wrong only ('+wrongList.length+')','गलत मात्र दोहोर्‍याउनुहोस् ('+wrongList.length+')')}</button>
+    <button class="btn secondary" onclick="newRandomSet()">🔀 ${B('New random set','नयाँ र्‍यान्डम सेट')}</button>
+    ${worst.length?`<button class="btn secondary" onclick="startPracticeTopic('${esc(worst[0][0])}')">📚 ${B('Practice weakest topic: ','कमजोर विषय अभ्यास: ')}${esc(worst[0][0])}</button>`:''}
+    <button class="btn secondary" onclick="shareScore()">📋 ${B('Share my score','मेरो स्कोर सेयर गर्नुहोस्')}</button> <span id="share-status" class="muted" role="status"></span>
+    <button class="btn secondary" onclick="showView('dashboard')">${B('View dashboard','ड्यासबोर्ड हेर्नुहोस्')}</button></div>
+    ${rf?`<div class="card funfact-card"><h3>💡 ${B('Did you know?','के तपाईंलाई थाहा छ?')}</h3>${funFactHtml(rf)}</div>`:''}
+    <div class="card"><h3>${B('Topic breakdown','विषय विश्लेषण')}</h3><p><strong>${B('Strongest:','सबल:')}</strong> ${best.map(([t,v])=>esc(t)+' '+v.correct+'/'+v.total).join(' · ')||'—'}</p><p><strong>${B('Weakest — revise these:','कमजोर — यी दोहोर्‍याउनुहोस्:')}</strong> ${worst.map(([t,v])=>esc(t)+' '+v.correct+'/'+v.total).join(' · ')||'—'}</p></div>
+    <div class="card"><h3>${B('Wrong answers — review','गलत उत्तर — समीक्षा')}</h3>${wrongList.length? wrongList.map(({q,a})=>`<div style="margin-bottom:12px"><strong>${esc(qText(q))}</strong><br>${B('Your answer:','तपाईंको उत्तर:')} ${String.fromCharCode(65+a)}. ${esc(qOpts(q)[a])}<br>${B('Correct:','सही:')} <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong><br><span class="muted">${esc(qExpl(q))}</span><br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 ${B('Discuss this question','यो प्रश्न छलफल गर्नुहोस्')}</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ ${B('Report wrong question','गलत प्रश्न रिपोर्ट')}</button>${noteByTopic(q.topic)?` <button class="btn secondary" onclick="reviseTopic('${esc(q.topic)}')">📖 ${B('Revise this topic','यो विषय दोहोर्‍याउनुहोस्')}</button>`:''}</div>`).join(''):'<p>🎉 '+B('No wrong answers — perfect set!','गलत उत्तर छैन — उत्कृष्ट सेट!')+'</p>'}</div>`;
   // Animated score reveal: count the score up and sweep the ring in.
   // Everything is guarded — in the Node test stubs requestAnimationFrame is
   // absent, so the final values written in the HTML above simply stay.
@@ -1305,7 +1377,7 @@ function renderResult(){
 }
 function retryWrong(){
   const qs=(current._wrong||[]).map(q=>shuffleOptions(q));
-  if(!qs.length){ alert('Nothing to retry!'); return; }
+  if(!qs.length){ alert(B('Nothing to retry!','दोहोर्‍याउन केही छैन!')); return; }
   current={ mode:'practice', exam:current._exam, questions:qs, answers:Array(qs.length).fill(null), idx:0, negOn:current._neg, negRate:current._negRate==null?0.2:current._negRate, timerOn:false, startTime:Date.now(), perQ:[] };
   showView('quiz'); renderQuestion();
 }
@@ -1333,10 +1405,10 @@ function mockMixFor(e){
   return m;
 }
 function startMock(){
-  const examId=document.getElementById('mock-exam').value; const e=examById(examId); if(!e){ alert('Exams not loaded yet.'); return; }
+  const examId=document.getElementById('mock-exam').value; const e=examById(examId); if(!e){ alert(B('Exams not loaded yet — please wait a moment and try again.','परीक्षाहरू अझै लोड भएका छैनन् — केहीबेर पर्खेर पुनः प्रयास गर्नुहोस्।')); return; }
   // Guide-only exams have no MCQ prelim and must never start a mock. They are
   // hidden from the mock dropdown, but guard here too (e.g. startMockFor()).
-  if(!e.prelim){ alert(e.name+' has no MCQ prelim paper — see its Exam Guide page instead. No mock can be started for it.'); return; }
+  if(!e.prelim){ alert(e.name+B(' has no MCQ prelim paper — see its Exam Guide page instead. No mock can be started for it.',' को MCQ प्रिलिम पेपर छैन — बरु यसको Exam Guide पेज हेर्नुहोस्। यसका लागि मक सुरु गर्न सकिँदैन।')); return; }
   const p=e.prelim;
   const negRate=mockNegRate(p);
   // Mirror the real paper: use the exam's topic mix where possible, otherwise random from its tagged pool.
@@ -1363,13 +1435,13 @@ function startMock(){
   current={ mode:'mock', exam:examId, questions:qs, answers:Array(qs.length).fill(null), idx:0, negOn:negRate>0, negRate, timerOn:timed, startTime:Date.now(), perQ:[] };
   if(timed){ timeLeft=p.timeMin*60; startTimer(()=>finishAttempt(true)); }
   showView('quiz'); renderQuestion();
-  const negText=p.negative===null?'negative marking unverified — NOT applied in this mock':(p.negative===0?'no negative marking':Math.round(negRate*100)+'% negative marking');
-  const timeText=timed?`${p.timeMin} minutes`:'no time limit (time unverified — check the notice)';
+  const negText=p.negative===null?B('negative marking unverified — NOT applied in this mock','नेगेटिभ मार्किङ अपुष्ट — यो मकमा लागू हुँदैन'):(p.negative===0?B('no negative marking','नेगेटिभ मार्किङ छैन'):Math.round(negRate*100)+B('% negative marking','% नेगेटिभ मार्किङ'));
+  const timeText=timed?`${p.timeMin} ${B('minutes','मिनेट')}`:B('no time limit (time unverified — check the notice)','समय सीमा छैन (समय अपुष्ट — सूचना हेर्नुहोस्)');
   // Honesty guard for thin banks: if the tagged pool is smaller than the paper,
   // the mock silently draws from the whole bank (pre-existing fallback). Say so
   // instead of letting the student believe it mirrors the real paper.
-  const thinText=tagged<p.questions?` ⚠️ Only ${tagged} question${tagged===1?' is':'s are'} tagged for ${e.name} so far, so this mock also draws from the general bank — it does not mirror the real paper yet.`:'';
-  alert(`Mock started: ${e.name} — ${p.questions} questions, ${timeText}, ${p.marksPerQ} mark${p.marksPerQ>1?'s':''} each, ${negText}, pass ${p.pass}. Good luck!${thinText}`);
+  const thinText=tagged<p.questions?` ⚠️ ${B('Only '+tagged+' question'+(tagged===1?' is':'s are')+' tagged for '+e.name+' so far, so this mock also draws from the general bank — it does not mirror the real paper yet.','अहिलेसम्म '+e.name+' का लागि जम्मा '+tagged+' प्रश्न ट्याग गरिएको छ, त्यसैले यो मक सामान्य बैंकबाट पनि प्रश्न लिन्छ — यसले वास्तविक पेपरको प्रतिलिपि गर्दैन।')}`:'';
+  alert(B(`Mock started: ${e.name} — ${p.questions} questions, ${timeText}, ${p.marksPerQ} mark${p.marksPerQ>1?'s':''} each, ${negText}, pass ${p.pass}. Good luck!`,`मक सुरु भयो: ${e.name} — ${p.questions} प्रश्न, ${timeText}, प्रति प्रश्न ${p.marksPerQ} अङ्क, ${negText}, पास ${p.pass}। शुभकामना!`)+thinText);
 }
 
 /* ---------- Daily challenge / Quick quiz / Flashcards ---------- */
@@ -1402,7 +1474,7 @@ function startFlashcards(){
   flashQs=shuffle(fPool.length?fPool:QUESTIONS).slice(0,20); flashIdx=0; progress.flashcardsSeen++; saveProgress(); renderFlash();
 }
 function renderFlash(){
-  const q=flashQs[flashIdx]; if(!q){ $('#flash-box').innerHTML='<p>Done! 🎉</p>'; return; }
+  const q=flashQs[flashIdx]; if(!q){ $('#flash-box').innerHTML='<p>'+B('Done! 🎉','सकियो! 🎉')+'</p>'; return; }
   $('#flash-box').innerHTML=`<div class="card flash"><div class="tag">${esc(q.topic)} · ${flashIdx+1}/${flashQs.length}</div><p style="margin:14px 0">${esc(qText(q))}</p><button class="btn" onclick="revealFlash()">Reveal answer</button><div id="flash-ans"></div><div style="margin-top:14px"><button class="btn secondary" onclick="flashNext()">Next →</button></div></div>`;
 }
 function revealFlash(){ const q=flashQs[flashIdx]; document.getElementById('flash-ans').innerHTML=`<p><strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong></p><p class="muted">${esc(qExpl(q))}</p>`; }
@@ -1420,9 +1492,11 @@ function renderReview(){
   const byId=id=>byIdMap.get(id);
   const bm=progress.bookmarks.map(byId).filter(Boolean);
   const mk=progress.mistakes.map(byId).filter(Boolean);
-  const reviseBtn=q=>{ const n=noteByTopic(q.topic); return n?` <button class="btn secondary" onclick="reviseTopic('${esc(q.topic)}')">📖 Revise this topic</button>`:''; };
-  const list=(arr,empty,revise)=> arr.length? arr.map(q=>`<div class="card"><strong>${esc(qText(q))}</strong><br>Answer: <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong> <span class="muted">— ${esc(qExpl(q))}</span><br><span class="tag">${esc(q.topic)} · ${q.id}</span> ${communityBadge(q)}<br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 Discuss this question</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ Report wrong question</button>${revise?reviseBtn(q):''}</div>`).join('') : `<p class="muted">${empty}</p>`;
-  $('#review-box').innerHTML=`<h3>🔖 Bookmarks (${bm.length})</h3>${list(bm,'No bookmarks yet — tap 🔖 on any question.')}<h3>❌ Mistakes to revise (${mk.length})</h3>${list(mk,'No mistakes recorded yet. Mistakes are saved automatically when you answer wrong in Practice.',true)}<button class="btn secondary" onclick="if(confirm('Clear all bookmarks and mistakes?')){progress.bookmarks=[];progress.mistakes=[];saveProgress();renderReview();}">Clear bookmarks &amp; mistakes</button>`;
+  const reviseBtn=q=>{ const n=noteByTopic(q.topic); return n?` <button class="btn secondary" onclick="reviseTopic('${esc(q.topic)}')">📖 ${B('Revise this topic','यो विषय दोहोर्‍याउनुहोस्')}</button>`:''; };
+  const emptyBm=emptyState('🔖', B('No bookmarks yet','अझै बुकमार्क छैन'), B('Tap 🔖 on any question during practice to save it here for revision.','अभ्यासका क्रममा कुनै पनि प्रश्नमा 🔖 थिचेर दोहोर्‍याउन यहाँ सेभ गर्नुहोस्।'), B('Start practicing','अभ्यास सुरु गर्नुहोस्'), "showView('practice')");
+  const emptyMk=emptyState('🎯', B('No mistakes recorded yet','अझै गल्ती रेकर्ड भएको छैन'), B('Wrong answers are saved here automatically when you practise — then drill them with the Mistake Marathon on Home.','अभ्यासमा गलत भएका उत्तर स्वतः यहाँ सेभ हुन्छन् — अनि Home को Mistake Marathon बाट तिनको अभ्यास गर्नुहोस्।'), B('Start practicing','अभ्यास सुरु गर्नुहोस्'), "showView('practice')");
+  const list=(arr,empty,revise)=> arr.length? arr.map(q=>`<div class="card"><strong>${esc(qText(q))}</strong><br>${B('Answer:','उत्तर:')} <strong>${String.fromCharCode(65+q.answer)}. ${esc(qOpts(q)[q.answer])}</strong> <span class="muted">— ${esc(qExpl(q))}</span><br><span class="tag">${esc(q.topic)} · ${q.id}</span> ${communityBadge(q)}<br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 ${B('Discuss this question','यो प्रश्न छलफल गर्नुहोस्')}</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ ${B('Report wrong question','गलत प्रश्न रिपोर्ट')}</button>${revise?reviseBtn(q):''}</div>`).join('') : empty;
+  $('#review-box').innerHTML=`<h3>🔖 ${B('Bookmarks','बुकमार्कहरू')} (${bm.length})</h3>${list(bm,emptyBm)}<h3>❌ ${B('Mistakes to revise','दोहोर्‍याउनुपर्ने गल्तीहरू')} (${mk.length})</h3>${list(mk,emptyMk,true)}<button class="btn secondary" onclick="if(confirm('${B('Clear all bookmarks and mistakes?','सबै बुकमार्क र गल्ती मेटाउने?')}')){progress.bookmarks=[];progress.mistakes=[];saveProgress();renderReview();}">${B('Clear bookmarks &amp; mistakes','बुकमार्क र गल्तीहरू मेटाउनुहोस्')}</button>`;
 }
 /* ---------- Revision notes (topic one-pagers) ---------- */
 // One-pagers live in data/notes/*.json (one file per topic — see
@@ -1449,9 +1523,12 @@ function renderNotes(missingTopic){
     return;
   }
   const cards=NOTES.map(x=>`<div class="card"><strong>${esc(noteTitle(x))}</strong><div class="muted">${x.bullets.length} ${lang==='ne'?'बुँदा':'key points'} · ${noteQuestionCount(x.topic).toLocaleString()} ${lang==='ne'?'प्रश्न':'questions'}</div><button class="btn secondary" onclick="openNote('${esc(x.slug)}')">📖 ${lang==='ne'?'पढ्नुहोस्':'Read'}</button></div>`).join('');
-  box.innerHTML=`${missingTopic?`<div class="card" style="border-color:#f59e0b"><p>📝 ${lang==='ne'?'यस विषयको नोट अहिलेसम्म छैन':'No revision note for this topic yet'}: <strong>${esc(missingTopic)}</strong>.</p><p class="muted">${lang==='ne'?'तलका विषयका नोटहरू तयार छन्। नोट लेखेर योगदान गर्न चाहनुहुन्छ? CONTRIBUTING.md → “Revision notes” हेर्नुहोस्।':'Notes for the topics below are ready. Want to write one? See CONTRIBUTING.md → “Revision notes”.'}</p></div>`:''}
+  const missHtml=missingTopic?`<div class="card" style="border-color:#f59e0b"><p>📝 ${lang==='ne'?'यस विषयको नोट अहिलेसम्म छैन':'No revision note for this topic yet'}: <strong>${esc(missingTopic)}</strong>.</p><p class="muted">${lang==='ne'?'तलका विषयका नोटहरू तयार छन्। नोट लेखेर योगदान गर्न चाहनुहुन्छ? CONTRIBUTING.md → “Revision notes” हेर्नुहोस्।':'Notes for the topics below are ready. Want to write one? See CONTRIBUTING.md → “Revision notes”.'}</p></div>`:'';
+  if(!dataReady){ box.innerHTML=missHtml+skelBlock(3); return; }
+  if(!NOTES.length){ box.innerHTML=missHtml+errorState(B('Revision notes could not be loaded','रिभिजन नोटहरू लोड हुन सकेनन्'), B('The notes failed to load. Check your connection and try again.','नोटहरू लोड हुन असफल भए। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); return; }
+  box.innerHTML=`${missHtml}
   <div class="card"><p class="muted">${lang==='ne'?'हरेक विषयको एक-पृष्ठीय दोहोर्‍याउने नोट — मुख्य तथ्य, सूत्र, धारा र मिति।':'One-page revision notes per topic — key facts, formulas, articles and dates.'}</p></div>
-  <div class="grid">${cards||`<p class="muted">${lang==='ne'?'नोटहरू लोड भएनन्।':'Notes did not load.'}</p>`}</div>`;
+  <div class="grid">${cards}</div>`;
 }
 function openNote(slug){ notesSlug=slug; showView('notes'); }
 function openNoteList(){ notesSlug=null; showView('notes'); }
@@ -1624,11 +1701,11 @@ function renderDashboard(){
     <div class="card"><div class="stat">🔥 ${progress.streak}</div>day streak</div>
     <div class="card"><div class="stat">${a.length}</div>sessions · ${totalQ} questions</div>
     <div class="card"><div class="stat">${avg}%</div>average score · ${passes} passes</div></div>
-    <div class="card"><strong>Badges:</strong> ${badges().length? badges().map(b=>`<span class="badge">${esc(b)}</span>`).join(''):'No badges yet — finish your first practice!'}</div>
+    <div class="card"><strong>Badges:</strong> ${badges().length? badges().map(b=>`<span class="badge">${esc(b)}</span>`).join(''):B('No badges yet — finish your first practice set to earn one.','अझै ब्याज छैन — एउटा कमाउन पहिलो अभ्यास सेट पूरा गर्नुहोस्।')}</div>
     ${recordsHtml}
     <div class="card"><strong>Level ${progress.level} progress</strong><div class="muted">${progress.xp % 500} / 500 XP to Level ${progress.level + 1}</div><div class="progress-bar level-bar"><div style="width:${(progress.xp % 500) / 5}%"></div></div></div>
-    <div class="card"><h3>Recent attempts</h3>${a.length? [...a].reverse().slice(0,10).map(x=>`<div>${new Date(x.date).toLocaleDateString()} · ${esc(x.mode)} · ${esc(examById(x.exam)?.name||x.exam||'Mixed practice')} — <strong>${x.score}/${x.max}</strong> (${x.pct}%) ${x.passed?'✅ PASS':'❌ FAIL'} · ${x.correct}✓ ${x.wrong}✗ ${x.skipped}–</div>`).join(''):'<p class="muted">No attempts yet.</p>'}</div>
-    <div class="card"><h3>Score history</h3><canvas id="chart" width="800" height="220"></canvas></div>
+    <div class="card"><h3>${B('Recent attempts','हालका प्रयासहरू')}</h3>${a.length? [...a].reverse().slice(0,10).map(x=>`<div>${new Date(x.date).toLocaleDateString()} · ${esc(x.mode)} · ${esc(examById(x.exam)?.name||x.exam||'Mixed practice')} — <strong>${x.score}/${x.max}</strong> (${x.pct}%) ${x.passed?'✅ PASS':'❌ FAIL'} · ${x.correct}✓ ${x.wrong}✗ ${x.skipped}–</div>`).join(''):emptyState('📝', B('No attempts yet','अझै प्रयास छैन'), B('Your practice and mock sessions will appear here with scores and pass/fail.','तपाईंका अभ्यास र मक सत्रहरू स्कोर र पास/फेलसहित यहाँ देखिनेछन्।'), B('Start practicing','अभ्यास सुरु गर्नुहोस्'), "showView('practice')")}</div>
+    <div class="card"><h3>${B('Score history','स्कोर इतिहास')}</h3><canvas id="chart" width="800" height="220"></canvas>${a.length?'':'<p style="margin-top:10px"><button class="btn" onclick="showView(\'practice\')">'+B('Start practicing','अभ्यास सुरु गर्नुहोस्')+'</button></p>'}</div>
     <div class="card" id="weekly-box-dash"></div>
     <div class="card" id="focus-timer-box-dash"></div>
     <button class="btn secondary" onclick="if(confirm('Reset ALL progress (XP, streak, history) AND sign out of the local profile? This cannot be undone.')){resetProgress();}">Reset progress</button>`;
@@ -1652,7 +1729,7 @@ function drawChart(){
   const c=document.getElementById('chart'); if(!c) return; const ctx=c.getContext('2d');
   const data=[...progress.attempts].slice(-20); ctx.clearRect(0,0,c.width,c.height);
   ctx.strokeStyle='#94a3b8'; ctx.beginPath(); ctx.moveTo(30,10); ctx.lineTo(30,190); ctx.lineTo(790,190); ctx.stroke();
-  if(!data.length){ ctx.fillStyle='#94a3b8'; ctx.fillText('No data yet — finish a practice session.', 40, 100); return; }
+  if(!data.length){ ctx.fillStyle='#94a3b8'; ctx.fillText('No data yet — finish a practice session and your score history appears here.', 40, 100); return; }
   data.forEach((x,i)=>{ const px=40+i*(740/Math.max(1,data.length-1||1)); const h=(x.pct/100)*160; ctx.fillStyle=x.passed?'#22c55e':'#ef4444'; ctx.fillRect(px-6, 190-h, 12, h); });
 }
 function searchHay(q){
@@ -1663,10 +1740,12 @@ function searchHay(q){
   return q._hay;
 }
 function doSearch(){
-  const term=document.getElementById('search-input').value.trim().toLowerCase();
+  const rawTerm=(document.getElementById('search-input').value||'').trim();
+  const term=rawTerm.toLowerCase();
   const topic=document.getElementById('search-topic').value;
   const all=QUESTIONS.filter(q=> (!topic||q.topic===topic) && (!term || searchHay(q).includes(term))); const res=all.slice(0,50);
-  $('#search-results').innerHTML=`<p class="muted">${all.length} match(es) — showing ${res.length}.</p>`+res.map(q=>`<div class="card"><strong>${esc(qText(q))}</strong><br>${qOpts(q).map((o,i)=>`${String.fromCharCode(65+i)}. ${esc(o)}`).join(' &nbsp; ')}<br>Answer: <strong>${String.fromCharCode(65+q.answer)}</strong> <span class="muted">— ${esc(qExpl(q))}</span><br><span class="tag">${esc(q.topic)} · ${esc(q.difficulty)} · ${q.exam.join(', ')} · ${q.id}</span> ${communityBadge(q)}<br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 Discuss this question</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ Report wrong question</button></div>`).join('');
+  const noMatch=emptyState('🔎', B('No matches','कुनै मिल्दो भेटिएन'), B('Nothing in the question bank matched &ldquo;'+esc(rawTerm||topic)+'&rdquo;. Try fewer words, a different spelling, or browse by topic.','प्रश्न बैंकमा &ldquo;'+esc(rawTerm||topic)+'&rdquo; सँग मिल्ने केही भेटिएन। कम शब्द, फरक हिज्जे प्रयास गर्नुहोस् वा विषयअनुसार हेर्नुहोस्।'), B('Clear search','खोज मेटाउनुहोस्'), "document.getElementById('search-input').value='';doSearch()");
+  $('#search-results').innerHTML=`<p class="muted">${B(all.length+' match(es) — showing '+res.length+'.', all.length+' वटा मिल्दो — '+res.length+' वटा देखाइँदै।')}</p>`+(res.length?res.map(q=>`<div class="card"><strong>${esc(qText(q))}</strong><br>${qOpts(q).map((o,i)=>`${String.fromCharCode(65+i)}. ${esc(o)}`).join(' &nbsp; ')}<br>${B('Answer:','उत्तर:')} <strong>${String.fromCharCode(65+q.answer)}</strong> <span class="muted">— ${esc(qExpl(q))}</span><br><span class="tag">${esc(q.topic)} · ${esc(q.difficulty)} · ${q.exam.join(', ')} · ${q.id}</span> ${communityBadge(q)}<br><button class="btn secondary" onclick="discussQuestion('${esc(q.id)}')">💬 ${B('Discuss this question','यो प्रश्न छलफल गर्नुहोस्')}</button> <button class="btn secondary" onclick="openReportForm('${esc(q.id)}')">⚑ ${B('Report wrong question','गलत प्रश्न रिपोर्ट')}</button></div>`).join(''):noMatch);
 }
 function filterGuide(term){
   const t=(term||'').toLowerCase();
@@ -1674,8 +1753,10 @@ function filterGuide(term){
 }
 function showGuideFor(id){ showView('guide'); const el=document.getElementById('guide-'+id); if(el) el.scrollIntoView(); }
 function renderGuide(){
-  const box=$('#guide-box'); if(!box||!EXAMS.length) return;
-  const filterHtml=`<p><label for="guide-filter">Find an exam</label><input type="search" id="guide-filter" placeholder="e.g. Kharidar, Nursing, Bar…" oninput="filterGuide(this.value)"></p>`;
+  const box=$('#guide-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
+  if(!EXAMS.length){ box.innerHTML=errorState(B('Exam guide could not be loaded','परीक्षा गाइड लोड हुन सकेन'), B('The exam list failed to load. Check your connection and try again — the guide needs the exam data to render.','परीक्षा सूची लोड हुन असफल भयो। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); return; }
+  const filterHtml=`<p><label for="guide-filter">${B('Find an exam','परीक्षा खोज्नुहोस्')}</label><input type="search" id="guide-filter" placeholder="${B('e.g. Kharidar, Nursing, Bar…','जस्तै: खरिदार, नर्सिङ, बार…')}" oninput="filterGuide(this.value)"></p>`;
   box.innerHTML=filterHtml+EXAMS.map(e=>{
     // Guide-only exams (prelim: null) have no MCQ paper: show the pattern as
     // "no mock" text instead of a prelim row, and no Start-mock button.
@@ -1699,6 +1780,8 @@ function renderGuide(){
 function paperExamName(p){ const e=examById(p.exam); return e ? e.name : p.exam; }
 function renderPapers(){
   const box=$('#papers-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
+  if(!PAPERS.length){ box.innerHTML=errorState(B('Old papers could not be loaded','पुराना प्रश्नपत्र लोड हुन सकेनन्'), B('The papers list failed to load. Check your connection and try again.','प्रश्नपत्र सूची लोड हुन असफल भयो। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); return; }
   const sel=document.getElementById('papers-filter');
   if(sel){
     const exams=[...new Set(PAPERS.map(p=>p.exam))];
@@ -1708,7 +1791,7 @@ function renderPapers(){
   }
   const f=sel ? sel.value : '';
   const list=PAPERS.filter(p=>!f||p.exam===f);
-  if(!PAPERS.length){ box.innerHTML='<p class="muted">No old papers listed yet.</p>'; return; }
+  const noMatchHtml=emptyState('🔎', B('No papers match this filter','यो फिल्टरसँग मिल्ने प्रश्नपत्र छैन'), B('Try a different exam, or clear the filter to see every paper.','अर्को परीक्षा प्रयास गर्नुहोस् वा सबै प्रश्नपत्र हेर्न फिल्टर हटाउनुहोस्।'), B('Clear filter','फिल्टर हटाउनुहोस्'), "document.getElementById('papers-filter').value='';renderPapers()");
   const groups={}; list.forEach(p=>{ (groups[p.exam]=groups[p.exam]||[]).push(p); });
   box.innerHTML=Object.entries(groups).map(([exam, ps])=>`<h3>${esc(examById(exam)?.name||exam)}</h3>`+ps.map(p=>{
     const meta=[p.date_bs?('📅 '+esc(p.date_bs)+(p.date_ad?' ('+esc(p.date_ad)+')':'')):null,
@@ -1728,7 +1811,7 @@ function renderPapers(){
     ${viewerSrc?`<div class="paper-viewer" hidden style="margin-top:12px"><iframe src="${esc(viewerSrc)}" style="width:100%;height:70vh;border:1px solid #444" title="Scanned paper: ${esc(p.title)}"></iframe>
     <p class="muted">If the preview does not load, the source blocks embedding — <a href="${esc(p.source_url)}" target="_blank" rel="noopener">open the original — scanned paper</a>.</p></div>`:`<p class="muted">Scanned paper — no embeddable PDF was verified for this one. Read it on the source site via "Open Original ↗" above.</p>`}
     </div>`;
-  }).join('')).join('') || '<p class="muted">No papers match this filter.</p>';
+  }).join('')).join('') || noMatchHtml;
 }
 function togglePaperView(btn){
   const card=btn.closest ? btn.closest('.card') : null;
@@ -1739,7 +1822,7 @@ function togglePaperView(btn){
 }
 function practicePaper(id){
   const p=PAPERS.find(x=>x.id===id);
-  if(!p){ alert('Paper not found.'); return; }
+  if(!p){ alert(B('Paper not found.','प्रश्नपत्र भेटिएन।')); return; }
   // Transcribed questions carry the paper name + date in their source field
   // (e.g. "Previous Year — NaSu First Paper 2083-01-20"), not the paper id.
   // Match on the paper-name keyword + date: Kharidar First and Koshi share
@@ -1752,9 +1835,9 @@ function practicePaper(id){
   // is always true), so an undated paper whose id contains a keyword (e.g.
   // 'nasu') would wrongly match another paper's transcribed questions.
   // Without a date the match cannot be trusted — treat it as not transcribed.
-  if(!key || !p.date_bs){ alert('This paper has not been transcribed yet — use View Scanned to read the original.'); return; }
+  if(!key || !p.date_bs){ alert(B('This paper has not been transcribed yet — use View Scanned to read the original.','यो प्रश्नपत्र अझै लिपिबद्ध गरिएको छैन — मूल पढ्न View Scanned प्रयोग गर्नुहोस्।')); return; }
   const pool=QUESTIONS.filter(q=>(q.source||'').includes(key) && (q.source||'').includes(p.date_bs));
-  if(!pool.length){ alert('This paper has not been transcribed yet — use View Scanned to read the original.'); return; }
+  if(!pool.length){ alert(B('This paper has not been transcribed yet — use View Scanned to read the original.','यो प्रश्नपत्र अझै लिपिबद्ध गरिएको छैन — मूल पढ्न View Scanned प्रयोग गर्नुहोस्।')); return; }
   const qs=shuffle(pool).map(q=>shuffleOptions(q));
   current={ mode:'practice', exam:p.exam, questions:qs, answers:Array(qs.length).fill(null), idx:0, negOn:true, negRate:0.2, timerOn:false, startTime:Date.now(), perQ:[] };
   showView('quiz'); renderQuestion();
@@ -1793,6 +1876,7 @@ function renderNotices(){
       + '</ul>';
   }
   const sc=document.getElementById('notices-scope'), bd=document.getElementById('notices-body'), st=document.getElementById('notices-status');
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
   if(bd){
     const bodies=[...new Set(NOTICES.map(n=>n.issuer).filter(Boolean))].sort();
     const cur=bd.value;
@@ -1815,7 +1899,8 @@ function renderNotices(){
   // string — the old hardcoded 2026-10-26 kept showing after re-checks.
   const lastChecked=NOTICES.reduce((m,n)=>n.checked_date&&n.checked_date>m?n.checked_date:m,'');
   const head=`<p class="muted">${NOTICES.length} notice(s) — ${counts.open} open · ${counts['closing-soon']} closing soon · ${counts.closed} closed · ${counts.unverified} unverified. Last checked ${lastChecked||'—'}. Deadlines and post counts are only shown when a source reported them — never guessed.</p>`;
-  if(!NOTICES.length){ box.innerHTML=head+'<p class="muted">No live notices could be verified. Check the official sites below.</p>'; return; }
+  if(!NOTICES.length){ box.innerHTML=head+errorState(B('Notices could not be loaded','सूचनाहरू लोड हुन सकेनन्'), B('The notices list failed to load. Check your connection and try again — or check the official sites listed below directly.','सूचना सूची लोड हुन असफल भयो। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस् — वा तलका आधिकारिक साइटहरूमा सिधै हेर्नुहोस्।')); return; }
+  const noMatchHtml=emptyState('🔎', B('No notices match these filters','यी फिल्टरसँग मिल्ने सूचना छैन'), B('Try widening the filters — or clear them to see every notice.','फिल्टर फराकिलो बनाउनुहोस् — वा सबै सूचना हेर्न फिल्टर हटाउनुहोस्।'), B('Clear filters','फिल्टर हटाउनुहोस्'), 'clearNoticeFilters()');
   box.innerHTML=head+(list.length?list.map(n=>{
     const unverified=n.status==='unverified';
     const dates=[n.open_date?('Opens '+esc(n.open_date)):null, n.close_date?('Closes '+esc(n.close_date)):null].filter(Boolean).join(' · ')||'Dates not verified';
@@ -1829,7 +1914,12 @@ function renderNotices(){
     <p class="muted">Source: <a href="${esc(n.source_url)}" target="_blank" rel="noopener">${esc(n.source_name)}</a> · Checked ${esc(n.checked_date)}</p>
     ${n.apply_url?`<a class="btn" href="${esc(n.apply_url)}" target="_blank" rel="noopener">Apply (official) ↗</a>`:'<p class="muted">No official apply link verified — see the source notice for how to apply.</p>'}
     </div>`;
-  }).join(''):'<p class="muted">No notices match these filters.</p>');
+  }).join(''):noMatchHtml);
+}
+function clearNoticeFilters(){
+  const sc=document.getElementById('notices-scope'), bd=document.getElementById('notices-body'), st=document.getElementById('notices-status');
+  if(sc) sc.value=''; if(bd) bd.value=''; if(st) st.value='';
+  renderNotices();
 }
 function startMockFor(id){ const s=document.getElementById('mock-exam'); if(s) s.value=id; showView('mock'); startMock(); }
 
@@ -1857,10 +1947,6 @@ async function loadConfig(){
 }
 function isDemoMode(){ return !(CONFIG && CONFIG.SUPABASE_URL && CONFIG.SUPABASE_ANON_KEY); }
 function updateDemoBanner(){
-  const b = document.getElementById('demo-banner');
-  if (b) b.hidden = !isDemoMode();
-  const ab = document.getElementById('auth-demo-banner');
-  if (ab) ab.hidden = !isDemoMode();
   const nb = document.getElementById('nav-auth-btn');
   if (nb) nb.textContent = (progress.name ? '👤 ' + progress.name.split(' ')[0] : 'Sign In');
 }
@@ -1884,15 +1970,15 @@ function signInDemo(){
   const name = (document.getElementById('auth-name').value || '').trim();
   const email = (document.getElementById('auth-email').value || '').trim();
   const err = document.getElementById('auth-error');
-  if (!name) { if (err) err.textContent = 'Please enter a display name.'; return; }
-  if (!isGmailAddress(email)) { if (err) err.textContent = 'Please enter a valid Gmail address (…@gmail.com). Only Gmail is accepted for sign-in.'; return; }
+  if (!name) { if (err) err.textContent = B('Please enter a display name.','कृपया देखिने नाम लेख्नुहोस्।'); return; }
+  if (!isGmailAddress(email)) { if (err) err.textContent = B('Please enter a valid Gmail address (…@gmail.com). Only Gmail is accepted for sign-in.','कृपया मान्य Gmail ठेगाना लेख्नुहोस् (…@gmail.com)। साइन-इनका लागि Gmail मात्र स्वीकार गरिन्छ।'); return; }
   progress.name = name; progress.email = email.toLowerCase();
   if (!progress.user_id || progress.user_id.indexOf('local-') !== 0) progress.user_id = newLocalUserId();
   saveProgress();
   if (err) err.textContent = '';
   document.getElementById('auth-form').hidden = true;
   const ok = document.getElementById('auth-success');
-  if (ok) { ok.hidden = false; ok.textContent = 'Signed in (demo mode) as ' + name + ' — ' + progress.email + '. Your profile is stored on this device only.'; }
+  if (ok) { ok.hidden = false; ok.textContent = B('Signed in (local preview) as ','स्थानीय पूर्वावलोकनमा साइन इन: ') + name + ' — ' + progress.email + '. ' + B('Your profile is stored on this device only.','तपाईंको प्रोफाइल यो डिभाइसमा मात्र सेभ छ।'); }
   updateDemoBanner(); renderAuth();
 }
 function signOut(){
@@ -1909,19 +1995,18 @@ function renderAuth(){
   const signedIn = !!progress.name;
   box.innerHTML = `
     <p class="muted">Sign in keeps your XP, streak and bookmarks tied to a profile — and lets you post in the Discussion Hub and submit questions under your name.</p>
-    <div class="card" id="auth-demo-banner" ${isDemoMode() ? '' : 'hidden'}><strong>Demo mode — local profile only.</strong> Connect Supabase to enable real Google sign-in (see <a href="docs/BACKEND.md">docs/BACKEND.md</a>). Nothing you enter here leaves this device.</div>
-    ${signedIn ? `<div class="card"><p><strong>Signed in (demo) as ${esc(progress.name)}</strong><br><span class="muted">${esc(progress.email)} · user_id ${esc(progress.user_id)}</span></p>
+    ${signedIn ? `<div class="card"><p><strong>Signed in (local preview) as ${esc(progress.name)}</strong><br><span class="muted">${esc(progress.email)} · user_id ${esc(progress.user_id)}</span></p>
       <button class="btn secondary" onclick="showView('profile')">View profile</button>
       <button class="btn danger" onclick="signOut()">Sign out</button></div>`
     : `<div class="card"><button class="google-btn" onclick="showAuthForm()"><span class="g-logo">G</span> Sign in with Google / Gmail</button>
-      <p class="muted" style="margin-top:10px">This is a demo sign-in: no Google account is contacted. Enter a display name and a Gmail address and a local profile is created on this device. Real Google sign-in arrives with Supabase — see <a href="docs/BACKEND.md">docs/BACKEND.md</a>.</p></div>`}
+      <p class="muted" style="margin-top:10px">This is a local-preview sign-in: no Google account is contacted. Enter a display name and a Gmail address to create a profile on this device. Real Google sign-in arrives with Supabase — see <a href="docs/BACKEND.md">docs/BACKEND.md</a>.</p></div>`}
     <div class="card" id="auth-form" hidden>
-      <h3>Demo sign-in</h3>
+      <h3>Sign in (local preview)</h3>
       <label for="auth-name">Display name</label><input type="text" id="auth-name" placeholder="e.g. Ravi Yadav" maxlength="60">
       <label for="auth-email">Gmail address</label><input type="text" id="auth-email" placeholder="you@gmail.com" maxlength="120" autocomplete="email">
       <p class="error-text" id="auth-error"></p>
-      <button class="btn" onclick="signInDemo()">Create local demo profile</button>
-      <p class="muted">Your progress is saved on this device in demo mode — after Supabase it will sync to your account.</p>
+      <button class="btn" onclick="signInDemo()">Create local profile</button>
+      <p class="muted">Your progress is saved on this device in local preview — it will sync to your account once Supabase is connected.</p>
     </div>
     <div class="card" id="auth-success" hidden></div>`;
 }
@@ -1939,19 +2024,19 @@ function renderProfile(){
   const acc = totQ ? (totC / totQ * 100).toFixed(1) : '—';
   const weak = weakTopics();
   box.innerHTML = `
-    <div class="card"><h3>${esc(progress.name || 'Guest (not signed in)')}</h3>
-    <p class="muted">${progress.email ? esc(progress.email) : 'No profile yet — <a href="#" onclick="showView(\'auth\');return false">sign in (demo)</a> to attach your progress to a name.'}<br>user_id: ${esc(progress.user_id || '—')}</p>
-    <p class="muted"><strong>Demo mode — local profile only.</strong> Connect Supabase to enable real Google sign-in (see docs/BACKEND.md).</p></div>
+    <div class="card"><h3>${esc(progress.name || B('Guest (not signed in)','अतिथि (साइन इन भएको छैन)'))}</h3>
+    <p class="muted">${progress.email ? esc(progress.email) : B('No profile yet','अझै प्रोफाइल छैन')+' — <a href="#" onclick="showView(\'auth\');return false">'+B('sign in (local preview)','साइन इन (स्थानीय पूर्वावलोकन)')+'</a> '+B('to attach your progress to a name.','तपाईंको प्रगति नामसँग जोड्न।')}<br>user_id: ${esc(progress.user_id || '—')}</p>
+    <p class="muted"><strong>${B('Local preview — profile stored on this device only.','स्थानीय पूर्वावलोकन — प्रोफाइल यो डिभाइसमा मात्र सेभ छ।')}</strong> ${B('Connect Supabase to enable real Google sign-in (see docs/BACKEND.md).','वास्तविक Google साइन-इनका लागि Supabase जोड्नुहोस् (docs/BACKEND.md हेर्नुहोस्)।')}</p></div>
     <div class="grid">
-      <div class="card"><div class="stat">${progress.xp}</div>XP · Level ${progress.level}</div>
-      <div class="card"><div class="stat">🔥 ${progress.streak}</div>day streak</div>
-      <div class="card"><div class="stat">${a.length}</div>sessions · ${totQ} questions</div>
-      <div class="card"><div class="stat">${acc}%</div>accuracy (${totC}/${totQ} correct)</div>
+      <div class="card"><div class="stat">${progress.xp}</div>XP · ${B('Level','लेभल')} ${progress.level}</div>
+      <div class="card"><div class="stat">🔥 ${progress.streak}</div>${B('day streak','दिनको स्ट्रिक')}</div>
+      <div class="card"><div class="stat">${a.length}</div>${B('sessions','सत्र')} · ${totQ} ${B('questions','प्रश्नहरू')}</div>
+      <div class="card"><div class="stat">${acc}%</div>${B('accuracy','शुद्धता')} (${totC}/${totQ} ${B('correct','सही')})</div>
     </div>
-    <div class="card"><h3>Weak topics (from your mistakes)</h3><p>${weak.length ? weak.map(([t, n]) => esc(t) + ' (' + n + ' mistake' + (n > 1 ? 's' : '') + ')').join(' · ') : 'No mistakes recorded yet — answer a practice set and your weak topics will show up here.'}</p></div>
-    <div class="card"><h3>Bookmarks &amp; mistakes</h3><p>🔖 ${progress.bookmarks.length} bookmarked · ❌ ${progress.mistakes.length} mistakes to revise</p>
-    <button class="btn secondary" onclick="showView('review')">Open Bookmarks &amp; Mistakes</button></div>
-    <div class="card"><p class="muted">Your progress is saved on this device in demo mode — after Supabase it will sync to your account. Signing out keeps your XP and attempts on this device; it only removes the name and email from the profile.</p>
+    <div class="card"><h3>${B('Weak topics (from your mistakes)','कमजोर विषयहरू (तपाईंका गल्तीबाट)')}</h3><p>${weak.length ? weak.map(([t, n]) => esc(t) + ' (' + n + ' ' + B(n > 1 ? 'mistakes' : 'mistake', 'गल्ती') + ')').join(' · ') : B('No mistakes recorded yet — answer a practice set and your weak topics will show up here.','अझै गल्ती रेकर्ड भएको छैन — अभ्यास सेट दिनुहोस् अनि तपाईंका कमजोर विषय यहाँ देखिनेछन्।')}</p></div>
+    <div class="card"><h3>${B('Bookmarks &amp; mistakes','बुकमार्क र गल्तीहरू')}</h3><p>🔖 ${progress.bookmarks.length} ${B('bookmarked','बुकमार्क')} · ❌ ${progress.mistakes.length} ${B('mistakes to revise','दोहोर्‍याउनुपर्ने गल्ती')}</p>
+    <button class="btn secondary" onclick="showView('review')">${B('Open Bookmarks &amp; Mistakes','बुकमार्क र गल्तीहरू खोल्नुहोस्')}</button></div>
+    <div class="card"><p class="muted">Your progress is saved on this device (local preview) — it will sync to your account once Supabase is connected. Signing out keeps your XP and attempts on this device; it only removes the name and email from the profile.</p>
     ${progress.name ? '<button class="btn danger" onclick="signOut()">Sign out</button>' : ''}</div>`;
 }
 
@@ -1989,8 +2074,8 @@ function postThread(){
   const body = (document.getElementById('dis-body').value || '').trim();
   const exam = document.getElementById('dis-exam').value || 'general';
   const err = document.getElementById('dis-error');
-  if (title.length < 8) { if (err) err.textContent = 'Please give your thread a title (at least 8 characters).'; return; }
-  if (body.length < 10) { if (err) err.textContent = 'Please describe your doubt (at least 10 characters).'; return; }
+  if (title.length < 8) { if (err) err.textContent = B('Please give your thread a title (at least 8 characters).','कृपया थ्रेडलाई शीर्षक दिनुहोस् (कम्तीमा ८ अक्षर)।'); return; }
+  if (body.length < 10) { if (err) err.textContent = B('Please describe your doubt (at least 10 characters).','कृपया आफ्नो शङ्का वर्णन गर्नुहोस् (कम्तीमा १० अक्षर)।'); return; }
   const list = loadDiscussions();
   list.unshift({ id: uid('DIS'), exam, title, body, author: currentUserName(), createdAt: nowIso(), upvotes: 0, replies: [], reports: [] });
   saveDiscussions(list);
@@ -2001,7 +2086,7 @@ function postThread(){
 function postReply(threadId){
   const ta = document.getElementById('reply-' + threadId);
   const body = (ta && ta.value || '').trim();
-  if (body.length < 2) { alert('Please write a reply first.'); return; }
+  if (body.length < 2) { alert(B('Please write a reply first.','पहिले उत्तर लेख्नुहोस्।')); return; }
   const list = loadDiscussions();
   const th = list.find(x => x.id === threadId); if (!th) return;
   th.replies.push({ author: currentUserName(), body, createdAt: nowIso() });
@@ -2014,43 +2099,43 @@ function upvoteThread(threadId){
   saveDiscussions(list); renderDiscuss();
 }
 function reportPost(threadId, replyIndex){
-  const reason = prompt('Report this post — why? (spam / wrong info / abusive / other)');
+  const reason = prompt(B('Report this post — why? (spam / wrong info / abusive / other)','यो पोस्ट रिपोर्ट गर्नुहोस् — किन? (स्पाम / गलत जानकारी / अभद्र / अन्य)'));
   if (reason === null) return;
   const list = loadDiscussions();
   const th = list.find(x => x.id === threadId); if (!th) return;
   th.reports = th.reports || [];
   th.reports.push({ replyIndex: replyIndex == null ? null : replyIndex, reason: reason || 'no reason given', by: currentUserName(), at: nowIso() });
   saveDiscussions(list);
-  alert('Thanks — the report is saved on this device (demo mode) for the maintainer to review.');
+  alert(B('Thanks — the report is saved on this device (local preview) for the maintainer to review.','धन्यवाद — समीक्षकले हेर्नका लागि रिपोर्ट यो डिभाइसमा सेभ गरिएको छ (स्थानीय पूर्वावलोकन)।'));
   renderDiscuss();
 }
 function renderDiscuss(){
   const box = document.getElementById('discuss-box'); if (!box) return;
   const list = loadDiscussions();
-  const examOpts = '<option value="general">General doubts</option>' + EXAMS.map(e => `<option value="${e.id}">${esc(e.name)}</option>`).join('');
+  const examOpts = '<option value="general">'+B('General doubts','सामान्य शङ्काहरू')+'</option>' + EXAMS.map(e => `<option value="${e.id}">${esc(e.name)}</option>`).join('');
   let preTitle = '', preBody = '';
   if (pendingDiscuss) {
     preTitle = 'Question ' + pendingDiscuss.qid;
     preBody = 'Discussing question ' + pendingDiscuss.qid + (pendingDiscuss.text ? ': ' + pendingDiscuss.text : '') + '\n\nMy doubt: ';
   }
   const threadHtml = list.map(th => `
-    <div class="card"><div class="muted">${esc(examById(th.exam)?.name || (th.exam === 'general' ? 'General doubts' : th.exam))} · by ${esc(th.author)} · ${esc((th.createdAt || '').slice(0, 10))} ${th.reports && th.reports.length ? '· ⚑ ' + th.reports.length + ' report(s)' : ''}</div>
+    <div class="card"><div class="muted">${esc(examById(th.exam)?.name || (th.exam === 'general' ? B('General doubts','सामान्य शङ्काहरू') : th.exam))} · ${B('by','—')} ${esc(th.author)} · ${esc((th.createdAt || '').slice(0, 10))} ${th.reports && th.reports.length ? '· ⚑ ' + th.reports.length + ' ' + B('report(s)','रिपोर्ट') : ''}</div>
     <h3 style="margin:6px 0">${esc(th.title)}</h3><p>${esc(th.body)}</p>
-    <p><button class="btn secondary" onclick="upvoteThread('${th.id}')">▲ Upvote (${th.upvotes || 0})</button>
-    <button class="btn secondary" onclick="reportPost('${th.id}', null)">⚑ Report</button></p>
-    ${(th.replies || []).map((r, i) => `<div class="reply"><strong>${esc(r.author)}</strong> <span class="muted">${esc((r.createdAt || '').slice(0, 10))}</span><br>${esc(r.body)}<br><button class="btn secondary" onclick="reportPost('${th.id}', ${i})">⚑ Report</button></div>`).join('')}
-    <div style="margin-top:10px"><label for="reply-${th.id}">Reply as ${esc(currentUserName())}${progress.name ? '' : ' (Guest — sign in to post under your name)'}</label>
-    <textarea id="reply-${th.id}" rows="2" placeholder="Write a helpful reply…"></textarea>
-    <button class="btn secondary" onclick="postReply('${th.id}')">Reply</button></div></div>`).join('');
+    <p><button class="btn secondary" onclick="upvoteThread('${th.id}')">▲ ${B('Upvote','मत दिनुहोस्')} (${th.upvotes || 0})</button>
+    <button class="btn secondary" onclick="reportPost('${th.id}', null)">⚑ ${B('Report','रिपोर्ट')}</button></p>
+    ${(th.replies || []).map((r, i) => `<div class="reply"><strong>${esc(r.author)}</strong> <span class="muted">${esc((r.createdAt || '').slice(0, 10))}</span><br>${esc(r.body)}<br><button class="btn secondary" onclick="reportPost('${th.id}', ${i})">⚑ ${B('Report','रिपोर्ट')}</button></div>`).join('')}
+    <div style="margin-top:10px"><label for="reply-${th.id}">${B('Reply as','उत्तर दिने')}: ${esc(currentUserName())}${progress.name ? '' : ' ('+B('Guest','अतिथि')+' — '+B('sign in to post under your name','आफ्नो नाममा पोस्ट गर्न साइन इन गर्नुहोस्')+')'}</label>
+    <textarea id="reply-${th.id}" rows="2" placeholder="${B('Write a helpful reply…','सहयोगी उत्तर लेख्नुहोस्…')}"></textarea>
+    <button class="btn secondary" onclick="postReply('${th.id}')">${B('Reply','उत्तर दिनुहोस्')}</button></div></div>`).join('');
   box.innerHTML = `
-    <p class="muted"><strong>Local demo — posts are only on this device until the backend is connected.</strong> With Supabase, threads sync across users in real time (see docs/BACKEND.md). Posting as <strong>${esc(currentUserName())}</strong>${progress.name ? '' : ' (Guest — <a href="#" onclick="showView(\'auth\');return false">sign in</a> to post under your name)'}.</p>
-    <div class="card"><h3>Start a thread</h3>
-      <label for="dis-exam">Exam / topic</label><select id="dis-exam">${examOpts}</select>
-      <label for="dis-title">Title</label><input type="text" id="dis-title" maxlength="140" value="${esc(preTitle)}">
-      <label for="dis-body">Your question / doubt</label><textarea id="dis-body" rows="4">${esc(preBody)}</textarea>
+    <p class="muted"><strong>${B('Local preview —','स्थानीय पूर्वावलोकन —')}</strong> ${B('posts are saved on this device only until the online backend is connected. With Supabase, threads sync across users in real time (see docs/BACKEND.md).','ब्याकएन्ड अनलाइन नजोडिएसम्म पोस्टहरू यो डिभाइसमा मात्र सेभ हुन्छन्। Supabase जोडिएपछि थ्रेडहरू प्रयोगकर्ताबीच रियल-टाइममा सिङ्क हुन्छन् (docs/BACKEND.md हेर्नुहोस्)।')} ${B('Posting as','पोस्ट गर्दै')}: <strong>${esc(currentUserName())}</strong>${progress.name ? '' : ' ('+B('Guest','अतिथि')+' — <a href="#" onclick="showView(\'auth\');return false">'+B('sign in','साइन इन')+'</a> '+B('to post under your name','आफ्नो नाममा पोस्ट गर्न')+')'}.</p>
+    <div class="card"><h3>${B('Start a thread','थ्रेड सुरु गर्नुहोस्')}</h3>
+      <label for="dis-exam">${B('Exam / topic','परीक्षा / विषय')}</label><select id="dis-exam">${examOpts}</select>
+      <label for="dis-title">${B('Title','शीर्षक')}</label><input type="text" id="dis-title" maxlength="140" value="${esc(preTitle)}">
+      <label for="dis-body">${B('Your question / doubt','तपाईंको प्रश्न / शङ्का')}</label><textarea id="dis-body" rows="4">${esc(preBody)}</textarea>
       <p class="error-text" id="dis-error"></p>
-      <button class="btn" onclick="postThread()">Post thread</button></div>
-    <h3>Threads (${list.length})</h3>${threadHtml || '<p class="muted">No threads yet.</p>'}`;
+      <button class="btn" onclick="postThread()">${B('Post thread','थ्रेड पोस्ट गर्नुहोस्')}</button></div>
+    <h3>${B('Threads','थ्रेडहरू')} (${list.length})</h3>${threadHtml || emptyState('💬', B('No threads yet','अझै थ्रेड छैन'), B('Start the first discussion — ask a doubt or share a tip with fellow aspirants.','पहिलो छलफल सुरु गर्नुहोस् — शङ्का सोध्नुहोस् वा साथी परीक्षार्थीसँग सुझाव बाँड्नुहोस्।'), B('Start a thread','थ्रेड सुरु गर्नुहोस्'), "document.getElementById('dis-title').focus()")}`;
 }
 
 /* ---------- Report a wrong question ---------- */
@@ -2058,7 +2143,7 @@ function openReportForm(qid){
   const m = document.getElementById('modal'); const b = document.getElementById('modal-body');
   if (!m || !b) return;
   b.innerHTML = `<h3>Report wrong question — ${esc(qid)}</h3>
-    <p class="muted">Reports are stored on this device in demo mode (localStorage) for the maintainer to review. After Supabase they go to the shared moderation queue.</p>
+    <p class="muted">Reports are stored on this device (localStorage) in local preview for the maintainer to review. Once Supabase is connected they go to the shared moderation queue.</p>
     <label for="rep-reason">What is wrong?</label>
     <select id="rep-reason"><option value="wrong-answer">Wrong answer</option><option value="wrong-explanation">Wrong / misleading explanation</option><option value="typo">Typo or unclear wording</option><option value="outdated">Outdated fact</option><option value="duplicate">Duplicate of another question</option><option value="other">Other</option></select>
     <label for="rep-comment">Comment (what should it be? include a source if you can)</label>
@@ -2077,7 +2162,7 @@ function submitReport(qid, reason, comment){
     const r = document.getElementById('rep-reason'); reason = r ? r.value : 'other';
     const c = document.getElementById('rep-comment'); comment = c ? c.value.trim() : '';
   }
-  if (!comment) { const e = document.getElementById('rep-error'); if (e) e.textContent = 'Please add a short comment — what is wrong and what should it be?'; return false; }
+  if (!comment) { const e = document.getElementById('rep-error'); if (e) e.textContent = B('Please add a short comment — what is wrong and what should it be?','कृपया छोटो टिप्पणी थप्नुहोस् — के गलत छ र के हुनुपर्ने हो?'); return false; }
   const list = lsGet(LS_REPORTS, []);
   list.push({ id: uid('REP'), questionId: qid, reason, comment, by: currentUserName(), at: nowIso(), status: 'open' });
   lsSet(LS_REPORTS, list);
@@ -2173,30 +2258,30 @@ function capsRatio(s){
 // Pure validation of a submission object. Returns {ok, errors[]}.
 function validateSubmission(d){
   const errors = [];
-  const need = (v, label) => { if (!String(v || '').trim()) errors.push(label + ' is required.'); };
-  need(d.exam, 'Exam'); need(d.topic, 'Topic'); need(d.difficulty, 'Difficulty');
-  need(d.question, 'Question (English)'); need(d.question_ne, 'Question (Nepali)');
-  need(d.explanation, 'Explanation (English)'); need(d.explanation_ne, 'Explanation (Nepali)');
-  need(d.source, 'Source'); need(d.contributor, 'Contributor name');
-  if (!d.marks || ![1, 2].includes(+d.marks)) errors.push('Marks must be 1 or 2.');
-  if (String(d.question || '').trim().length < 15) errors.push('Question must be at least 15 characters.');
-  if (hasUrl(d.question) || hasUrl(d.question_ne)) errors.push('Do not put links in the question text — the source field is the only place for links.');
-  if (repeatedChars(d.question) || repeatedChars(d.question_ne)) errors.push('Question text contains repeated characters (e.g. "!!!!!") — please write normally.');
-  if (capsRatio(d.question) > 0.5) errors.push('Question is mostly ALL CAPS — please write normally.');
-  const checkOpts = (opts, label) => {
-    if (!Array.isArray(opts) || opts.length !== 4) { errors.push(label + ': exactly 4 options are required.'); return; }
+  const need = (v, labelEn, labelNe) => { if (!String(v || '').trim()) errors.push(B(labelEn, labelNe) + B(' is required.',' आवश्यक छ।')); };
+  need(d.exam, 'Exam', 'परीक्षा'); need(d.topic, 'Topic', 'विषय'); need(d.difficulty, 'Difficulty', 'कठिनाइ');
+  need(d.question, 'Question (English)', 'प्रश्न (अङ्ग्रेजी)'); need(d.question_ne, 'Question (Nepali)', 'प्रश्न (नेपाली)');
+  need(d.explanation, 'Explanation (English)', 'व्याख्या (अङ्ग्रेजी)'); need(d.explanation_ne, 'Explanation (Nepali)', 'व्याख्या (नेपाली)');
+  need(d.source, 'Source', 'स्रोत'); need(d.contributor, 'Contributor name', 'योगदानकर्ताको नाम');
+  if (!d.marks || ![1, 2].includes(+d.marks)) errors.push(B('Marks must be 1 or 2.','अङ्क १ वा २ हुनुपर्छ।'));
+  if (String(d.question || '').trim().length < 15) errors.push(B('Question must be at least 15 characters.','प्रश्न कम्तीमा १५ अक्षरको हुनुपर्छ।'));
+  if (hasUrl(d.question) || hasUrl(d.question_ne)) errors.push(B('Do not put links in the question text — the source field is the only place for links.','प्रश्न पाठमा लिङ्क नराख्नुहोस् — लिङ्कका लागि स्रोत फिल्ड मात्र हो।'));
+  if (repeatedChars(d.question) || repeatedChars(d.question_ne)) errors.push(B('Question text contains repeated characters (e.g. "!!!!!") — please write normally.','प्रश्न पाठमा दोहोरिएका अक्षर छन् (जस्तै "!!!!!") — सामान्य रूपमा लेख्नुहोस्।'));
+  if (capsRatio(d.question) > 0.5) errors.push(B('Question is mostly ALL CAPS — please write normally.','प्रश्न प्रायः सबै ठूलो अक्षरमा छ — सामान्य रूपमा लेख्नुहोस्।'));
+  const checkOpts = (opts, labelEn, labelNe) => {
+    if (!Array.isArray(opts) || opts.length !== 4) { errors.push(B(labelEn, labelNe) + B(': exactly 4 options are required.',': ठ्याक्कै ४ विकल्प आवश्यक छ।')); return; }
     const seen = new Set();
     opts.forEach((o, i) => {
       const t = String(o || '').trim();
-      if (!t) errors.push(label + ': option ' + String.fromCharCode(65 + i) + ' is empty.');
+      if (!t) errors.push(B(labelEn, labelNe) + ': ' + B('option ','विकल्प ') + String.fromCharCode(65 + i) + B(' is empty.',' खाली छ।'));
       const n = normaliseText(t);
-      if (n && seen.has(n)) errors.push(label + ': options must all be different — two options say the same thing.');
+      if (n && seen.has(n)) errors.push(B(labelEn, labelNe) + B(': options must all be different — two options say the same thing.',': सबै विकल्प फरक हुनुपर्छ — दुई विकल्प एउटै कुरा भन्छन्।'));
       seen.add(n);
     });
   };
-  checkOpts(d.options, 'Options (English)');
-  checkOpts(d.options_ne, 'Options (Nepali)');
-  if (d.answer === null || d.answer === undefined || d.answer === '' || ![0, 1, 2, 3].includes(+d.answer)) errors.push('Correct answer must be A, B, C or D.');
+  checkOpts(d.options, 'Options (English)', 'विकल्पहरू (अङ्ग्रेजी)');
+  checkOpts(d.options_ne, 'Options (Nepali)', 'विकल्पहरू (नेपाली)');
+  if (d.answer === null || d.answer === undefined || d.answer === '' || ![0, 1, 2, 3].includes(+d.answer)) errors.push(B('Correct answer must be A, B, C or D.','सही उत्तर A, B, C वा D हुनुपर्छ।'));
   return { ok: errors.length === 0, errors };
 }
 // Pure rate-limit check: max 5 submissions per hour per device.
@@ -2262,7 +2347,7 @@ function submitQuestion(){
   if (alreadyPending) { if (box) box.textContent = 'This question is already in the review queue (pending) — it was submitted once already. Please submit something different.'; return; }
   // Rate limit: max 5 per hour per device.
   const rl = rateLimitCheck(queue.map(s => s.submittedAt), Date.now());
-  if (!rl.allowed) { if (box) box.textContent = 'Rate limit: you have submitted 5 questions in the last hour. Please wait about ' + rl.minutesLeft + ' minute(s) and try again.'; return; }
+  if (!rl.allowed) { if (box) box.textContent = B('Rate limit: you have submitted 5 questions in the last hour. Please wait about ' + rl.minutesLeft + ' minute(s) and try again.','दर सीमा: पछिल्लो घण्टामा ५ प्रश्न पेस गरिसक्नुभयो। करिब ' + rl.minutesLeft + ' मिनेट पर्खेर पुनः प्रयास गर्नुहोस्।'); return; }
   queue.push({ id: uid('SUB'), status: 'pending', submittedAt: Date.now(), ...d });
   lsSet(LS_SUBMISSIONS, queue);
   const done = document.getElementById('sub-done');
@@ -2293,7 +2378,7 @@ function renderSubmit(){
   const box = document.getElementById('submit-box'); if (!box) return;
   const c = submissionCounts();
   box.innerHTML = `
-    <div class="card" style="border-color:#f59e0b"><strong>⚠️ Instant live + no spam cannot both be true.</strong> Submissions go through automatic checks (duplicate detection, spam heuristics, rate limit) <em>and</em> maintainer review. <strong>First-time submissions never go live instantly</strong> — Ravi Yadav approves or rejects every one. Contributors with 3+ approved questions and 0 rejections get faster review.</div>
+    <div class="card" style="border-color:#f59e0b"><strong>⚠️ ${B('Reviewed before publishing.','प्रकाशनअघि समीक्षा हुन्छ।')}</strong> ${B('Submissions go through automatic checks (duplicate detection, spam heuristics, rate limit) <em>and</em> maintainer review. <strong>First-time submissions never go live instantly</strong> — Ravi Yadav approves or rejects every one. Contributors with 3+ approved questions and 0 rejections get faster review.','पेस गरिएका प्रश्न स्वचालित जाँच (डुप्लिकेट पहिचान, स्पाम नियम, दर सीमा) <em>र</em> समीक्षक समीक्षाबाट जान्छन्। <strong>पहिलो पेस कहिल्यै तुरुन्त लाइभ हुँदैन</strong> — रवि यादवले हरेक प्रश्न स्वीकृत वा अस्वीकृत गर्नुहुन्छ। ३+ स्वीकृत प्रश्न र ० अस्वीकृति भएका योगदानकर्ताको समीक्षा छिटो हुन्छ।')}</div>
     <p class="muted" id="sub-counts">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending}</p>
     <div class="card"><h3>The exact format — copy this template</h3>
       <p class="muted">Every question must follow this JSON shape (the same schema as the bank). Nepali fields are required — the bank is 100% bilingual.</p>
@@ -2333,12 +2418,12 @@ function renderSubmit(){
       <label for="sub-expl-ne">Explanation (Nepali)</label><textarea id="sub-expl-ne" rows="2" oninput="validateSubmitLive()"></textarea>
       <label for="sub-source">Source (required — URL or book / article name)</label><input type="text" id="sub-source" placeholder="e.g. Constitution of Nepal 2072, Part 3 — or a URL" oninput="validateSubmitLive()">
       <label for="sub-name">Contributor name</label><input type="text" id="sub-name" placeholder="Your name (defaults to your profile name)" value="${esc(progress.name || '')}">
-      <div class="card" style="margin-top:12px"><strong>CAPTCHA — added when the backend is connected (hCaptcha/reCAPTCHA).</strong><br><span class="muted">In demo mode there is no CAPTCHA; the rate limit (5/hour) and duplicate/spam checks run instead.</span></div>
+      <div class="card" style="margin-top:12px"><strong>CAPTCHA — added when the online backend is connected (hCaptcha/reCAPTCHA).</strong><br><span class="muted">In local preview there is no CAPTCHA; the rate limit (5/hour) and duplicate/spam checks run instead.</span></div>
       <div class="error-text" id="sub-errors"></div>
       <div class="card" id="sub-done" hidden></div>
       <button class="btn" id="sub-submit-btn" onclick="submitQuestion()">Submit for review</button>
       <p class="muted">Submitting as <strong>${esc(currentUserName())}</strong>. ${progress.name ? '' : '<a href="#" onclick="showView(\'auth\');return false">Sign in</a> to attach your name.'}</p>
-      <p><a href="#" onclick="showView('moderate');return false">Maintainer Review queue (demo)</a></p>
+      <p><a href="#" onclick="showView('moderate');return false">${B('Maintainer Review queue (preview)','समीक्षक समीक्षा कतार (पूर्वावलोकन)')}</a></p>
     </div>`;
   fillExamSelects();
 }
@@ -2422,11 +2507,11 @@ function renderModerate(){
   const reports = lsGet(LS_REPORTS, []).filter(r => r.status === 'open');
   const c = submissionCounts();
   box.innerHTML = `
-    <div class="card"><strong>Maintainer demo — needs real auth in production.</strong> In this static build anyone opening this page can approve or reject. With Supabase, this view is restricted to the maintainer role (Ravi Yadav, 08raviyadav) via Row Level Security — see docs/BACKEND.md.</div>
+    <div class="card"><strong>Maintainer preview — real authentication is required in production.</strong> In this static build anyone opening this page can approve or reject. With Supabase, this view is restricted to the maintainer role (Ravi Yadav, 08raviyadav) via Row Level Security — see docs/BACKEND.md.</div>
     <p class="muted">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending} · open wrong-question reports: ${reports.length}</p>
     <p class="muted">Trusted-contributor rule: contributors with 3+ approved questions and 0 rejections get faster review. First-time submissions never go live instantly.</p>
     <p><button class="btn secondary" onclick="downloadApproved()">⬇ Download approved questions (community-approved.json)</button>
-    <span class="muted">Approved questions are stored in localStorage in demo mode and loaded into the practice bank at startup with a “Community” badge. The download is the JSON to commit to <code>data/questions/community-approved.json</code>.</span></p>
+    <span class="muted">Approved questions are stored in localStorage in local preview and loaded into the practice bank at startup with a “Community” badge. The download is the JSON to commit to <code>data/questions/community-approved.json</code>.</span></p>
     <h3>Pending submissions (${pending.length})</h3>
     ${pending.length ? pending.map(s => `<div class="card">
       <div class="muted">${esc(s.id)} · by ${esc(s.contributor || 'anonymous')} · ${esc((s.submittedAt ? new Date(s.submittedAt).toISOString() : '').slice(0, 10))} · ${esc(s.exam)} · ${esc(s.topic)} · ${esc(s.difficulty)} · ${s.marks} mark(s) · source: ${esc(s.source)}</div>
@@ -2440,7 +2525,7 @@ function renderModerate(){
       <div style="margin-top:10px"><button class="btn green" onclick="approveSubmission('${s.id}')">✓ Approve</button>
       <input type="text" id="mod-reason-${s.id}" placeholder="Rejection reason (required to reject)" style="max-width:320px">
       <button class="btn danger" onclick="rejectSubmission('${s.id}')">✕ Reject</button></div>
-    </div>`).join('') : '<p class="muted">No pending submissions. Submitted questions appear here for review.</p>'}
+    </div>`).join('') : emptyState('📥', B('No pending submissions','कुनै पेन्डिङ पेस छैन'), B('Submitted questions appear here for review.','पेस गरिएका प्रश्नहरू समीक्षाका लागि यहाँ देखिन्छन्।'), B('Contribute a question','प्रश्न योगदान गर्नुहोस्'), "showView('submit')")}
     <h3>Open wrong-question reports (${reports.length})</h3>
     ${reports.length ? reports.map(r => `<div class="card"><strong>${esc(r.questionId)}</strong> — ${esc(r.reason)}<br>${esc(r.comment)}<br><span class="muted">by ${esc(r.by)} · ${esc((r.at || '').slice(0, 10))}</span></div>`).join('') : '<p class="muted">No open reports.</p>'}`;
 }
@@ -2508,7 +2593,7 @@ function isFactualQuestion(t){ return FACT_RES.some(re => re.test(t)); }
 // Compact intent -> response tables, both languages.
 const CHAT_EN = {
   welcome: 'Namaste! 🙏 I\'m the on-device helper for Lok Sewa Prep Nepal — a rule-based assistant, not real AI. I can explain how to use this portal, find the right exam, mock and topics for you, and share study tips. I never invent exam facts: for factual questions I point you to practice topics instead. What would you like to know?',
-  demo: 'Local demo —', demoText: 'chat history is stored only on this device (localStorage).',
+  demo: 'Local preview —', demoText: 'chat history stays on this device only (localStorage).',
   helper: 'On-device helper — rule-based, not real AI',
   helperText: 'It runs entirely in your browser with no network calls and no API keys. It only knows this portal — it never invents exam facts; factual questions are routed to practice topics.',
   placeholder: 'Ask about the portal, exams, mocks, cutoffs…', send: 'Send', clear: 'Clear',
@@ -2532,7 +2617,7 @@ const CHAT_EN = {
   where: {
     dashboard: 'Your **Dashboard** (Stats in the nav) shows XP, streaks, attempts, best mocks and personal records — all saved on this device.',
     bookmarks: '**Bookmarks & Mistakes** (Saved in the nav) — wrong answers land here automatically; bookmark any question to revise it later.',
-    discuss: '**Discussion Hub** (Discuss in the nav) — ask doubts and reply to others. Local demo: threads stay on this device.',
+    discuss: '**Discussion Hub** (Discuss in the nav) — ask doubts and reply to others. Local preview: threads stay on this device.',
     papers: '**Old Papers** — real previous-year papers, with 133 transcribed questions you can practice and the rest scanned with source links.',
     notices: '**Notices** — vacancy notices from PSC, TSC, NRB and others. Always confirm on the official site before applying.',
     search: 'Use **Search** for full-text search across the whole question bank.',
@@ -2544,7 +2629,7 @@ const CHAT_EN = {
 };
 const CHAT_NE = {
   welcome: 'नमस्ते! 🙏 म लोक सेवा तयारी नेपालको अन-डिभाइस सहायक हुँ — नियममा आधारित सहायक, वास्तविक AI होइन। म यो पोर्टल कसरी प्रयोग गर्ने भनेर बताउन सक्छु, तपाईंको परीक्षा, मक र विषय खोज्न सक्छु, अनि अध्ययन सुझाव दिन सक्छु। म तथ्य अनुमान गरेर उत्तर दिन्नँ — तथ्यात्मक प्रश्नमा अभ्यास विषयतर्फ पठाउँछु। के जान्न चाहनुहुन्छ?',
-  demo: 'Local demo —', demoText: 'च्याट इतिहास यो डिभाइसमा मात्र सेभ हुन्छ (localStorage)।',
+  demo: 'स्थानीय पूर्वावलोकन —', demoText: 'च्याट इतिहास यो डिभाइसमा मात्र रहन्छ (localStorage)।',
   helper: 'अन-डिभाइस सहायक — नियममा आधारित, वास्तविक AI होइन',
   helperText: 'यो तपाईंको ब्राउजरमै चल्छ — कुनै नेटवर्क कल छैन, कुनै API key छैन। यसले यो पोर्टल मात्र चिन्छ — तथ्य अनुमान गर्दैन; तथ्यात्मक प्रश्न अभ्यास विषयतर्फ पठाइन्छ।',
   placeholder: 'पोर्टल, परीक्षा, मक, कटअफबारे सोध्नुहोस्…', send: 'पठाउनुहोस्', clear: 'मेटाउनुहोस्',
@@ -2568,7 +2653,7 @@ const CHAT_NE = {
   where: {
     dashboard: '**Dashboard** (नेभमा Stats) — XP, streak, प्रयासहरू, उत्कृष्ट मक र रेकर्ड — सबै यो डिभाइसमा सेभ।',
     bookmarks: '**Bookmarks & Mistakes** (नेभमा Saved) — गलत उत्तर स्वतः यहाँ आउँछन्; कुनै पनि प्रश्न bookmark गरेर पछि दोहोर्‍याउन सक्नुहुन्छ।',
-    discuss: '**Discussion Hub** (नेभमा Discuss) — शङ्का सोध्नुहोस्, अरूलाई उत्तर दिनुहोस्। Local demo: थ्रेड यो डिभाइसमा मात्र रहन्छन्।',
+    discuss: '**Discussion Hub** (नेभमा Discuss) — शङ्का सोध्नुहोस्, अरूलाई उत्तर दिनुहोस्। स्थानीय पूर्वावलोकन: थ्रेड यो डिभाइसमा मात्र रहन्छन्।',
     papers: '**Old Papers** — वास्तविक पुराना प्रश्नपत्र; १३३ वटा ट्रान्स्क्राइब गरिएका प्रश्न अभ्यास गर्न मिल्छ, बाँकी स्रोत लिङ्कसहित स्क्यान गरिएका।',
     notices: '**Notices** — PSC, TSC, NRB लगायतका विज्ञापन। आवेदन गर्नुअघि आधिकारिक साइटमा पुष्टि गर्नुहोस्।',
     search: '**Search** बाट पूरै प्रश्न ब्याङ्कमा फुल-टेक्स्ट खोज गर्नुहोस्।',
@@ -2710,7 +2795,7 @@ function renderChat(pending){
 /* ================= Feature 10 — Suggest a feature =================
    Same safety posture as Submit a Question: stored in localStorage only,
    shown in a public on-device list with upvotes, clearly labelled
-   "Local demo — visible only on this device until the backend is connected."
+   "Local preview — visible only on this device until the backend is connected."
    No network calls, nothing auto-published anywhere external.
    Spam guards: rate limit (5/hour, reused), min lengths, no links,
    no repeated-chars / ALL-CAPS, duplicate-title block, double-submit guard. */
@@ -2724,11 +2809,13 @@ const SUG_CATS = [
   ['other', 'Other', 'अन्य'],
 ];
 const SUG_EN = {
-  demo: 'Local demo —', demoText: 'visible only on this device until the backend is connected.',
+  demo: 'Local preview —', demoText: 'visible only on this device until the online backend is connected.',
   formTitle: 'Suggest a feature', title: 'Title', titlePh: 'e.g. Spaced-repetition reminders',
   desc: 'Description', descPh: 'What should it do, and why would it help aspirants? (min 20 characters)',
   cat: 'Category', submit: 'Submit suggestion', rateNote: 'Max 5 suggestions per hour per device.',
-  listTitle: 'Community suggestions', by: 'by', upvote: 'Upvote', empty: 'No suggestions yet — be the first!', seed: 'example',
+  listTitle: 'Community suggestions', by: 'by', upvote: 'Upvote', empty: 'No suggestions yet — be the first!',
+  emptyBlurb: 'Ideas from aspirants shape what gets built next — tell us what would help your preparation.',
+  emptyCta: 'Write a suggestion', seed: 'example',
   errTitle: 'Title is required.', errTitleShort: 'Title must be at least 8 characters.',
   errDesc: 'Description is required.', errDescShort: 'Description must be at least 20 characters — say what it should do and why.',
   errCat: 'Please pick a category.', errUrl: 'No links, please — describe the idea in words.',
@@ -2737,11 +2824,13 @@ const SUG_EN = {
   done: 'Thanks! Your suggestion is on the list below (this device only, until the backend is connected).',
 };
 const SUG_NE = {
-  demo: 'Local demo —', demoText: 'ब्याकएन्ड नजोडिएसम्म यो डिभाइसमा मात्र देखिन्छ।',
+  demo: 'स्थानीय पूर्वावलोकन —', demoText: 'ब्याकएन्ड अनलाइन नजोडिएसम्म यो डिभाइसमा मात्र देखिन्छ।',
   formTitle: 'सुविधा सुझाव दिनुहोस्', title: 'शीर्षक', titlePh: 'जस्तै: स्पेस्ड-रिपिटिसन रिमाइन्डर',
   desc: 'विवरण', descPh: 'यसले के गर्ने र परीक्षार्थीलाई किन सहयोगी हुन्छ? (कम्तीमा २० अक्षर)',
   cat: 'श्रेणी', submit: 'सुझाव पेस गर्नुहोस्', rateNote: 'प्रति डिभाइस प्रति घण्टा बढीमा ५ सुझाव।',
-  listTitle: 'सामुदायिक सुझावहरू', by: '—', upvote: 'मत दिनुहोस्', empty: 'अझै कुनै सुझाव छैन — पहिलो बन्नुहोस्!', seed: 'उदाहरण',
+  listTitle: 'सामुदायिक सुझावहरू', by: '—', upvote: 'मत दिनुहोस्', empty: 'अझै कुनै सुझाव छैन — पहिलो बन्नुहोस्!',
+  emptyBlurb: 'परीक्षार्थीका विचारले के बन्छ भन्ने तय गर्छ — तपाईंको तयारीलाई के सहयोगी हुन्छ भन्नुहोस्।',
+  emptyCta: 'सुझाव लेख्नुहोस्', seed: 'उदाहरण',
   errTitle: 'शीर्षक आवश्यक छ।', errTitleShort: 'शीर्षक कम्तीमा ८ अक्षरको हुनुपर्छ।',
   errDesc: 'विवरण आवश्यक छ।', errDescShort: 'विवरण कम्तीमा २० अक्षरको हुनुपर्छ — के गर्ने र किन भन्नुहोस्।',
   errCat: 'श्रेणी छान्नुहोस्।', errUrl: 'लिङ्क नराख्नुहोस् — विचार शब्दमा वर्णन गर्नुहोस्।',
@@ -2793,7 +2882,7 @@ function submitSuggestion(){
   if (isDuplicateSuggestion(list, d.title)) { if (err) err.textContent = (lang === 'ne' ? SUG_NE : SUG_EN).errDup; return; }
   // Rate limit: max 5 per hour per device (same rule as question submissions).
   const rl = rateLimitCheck(list.map(s => s.at).filter(Boolean).map(x => new Date(x).getTime()), Date.now());
-  if (!rl.allowed) { if (err) err.textContent = 'Rate limit: 5 suggestions per hour. Please wait about ' + rl.minutesLeft + ' minute(s).'; return; }
+  if (!rl.allowed) { if (err) err.textContent = B('Rate limit: 5 suggestions per hour. Please wait about ' + rl.minutesLeft + ' minute(s).','दर सीमा: प्रति घण्टा ५ सुझाव। करिब ' + rl.minutesLeft + ' मिनेट पर्खनुहोस्।'); return; }
   list.unshift({ id: uid('SUG'), category: d.category, title: d.title, description: d.description, by: currentUserName(), at: nowIso(), upvotes: 0, voters: [] });
   saveSuggestions(list);
   const done = document.getElementById('sug-done');
@@ -2838,11 +2927,21 @@ function renderSuggest(){
       '<div class="card"><div class="muted">' + esc(catLabel(s.category)) + ' · ' + esc(L.by) + ' ' + esc(s.by || 'Guest') + ' · ' + esc((s.at || '').slice(0, 10)) + (s._seed ? ' · 🌱 ' + esc(L.seed) : '') + '</div>' +
       '<h3 style="margin:6px 0">' + esc(s.title) + '</h3><p>' + esc(s.description) + '</p>' +
       '<p><button class="btn secondary" onclick="upvoteSuggestion(\'' + s.id + '\')">' + ((s.voters || []).includes(v) ? '▲' : '△') + ' ' + esc(L.upvote) + ' (' + (s.upvotes || 0) + ')</button></p></div>'
-    ).join('') || '<p class="muted">' + esc(L.empty) + '</p>');
+    ).join('') || emptyState('💡', L.empty, L.emptyBlurb, L.emptyCta, "document.getElementById('sug-title').focus()"));
 }
 
 document.addEventListener('DOMContentLoaded', ()=>{
   document.querySelectorAll('nav button[data-view]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.view)));
+  // Nav "More" dropdown: click toggles, Escape closes, outside click closes.
+  (function(){
+    var btn=document.getElementById('nav-more-btn'), menu=document.getElementById('nav-more-menu');
+    if(!btn||!menu) return;
+    function setOpen(o){ btn.setAttribute('aria-expanded',o?'true':'false'); btn.classList.toggle('open',o); if(o){menu.removeAttribute('hidden');}else{menu.setAttribute('hidden','');} }
+    btn.addEventListener('click',function(e){ e.stopPropagation(); setOpen(menu.hasAttribute('hidden')); });
+    document.addEventListener('click',function(e){ if(!menu.hasAttribute('hidden')&&!e.target.closest('.nav-dropdown')) setOpen(false); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!menu.hasAttribute('hidden')){ setOpen(false); btn.focus(); } });
+    menu.querySelectorAll('button[data-view]').forEach(function(b){ b.addEventListener('click',function(){ setOpen(false); }); });
+  })();
   // Restore the saved theme (dark is the HTML default when nothing is saved).
   try{ const saved=localStorage.getItem(THEME_KEY); applyTheme(saved==='light'||saved==='dark'?saved:(document.documentElement.dataset.theme||'dark')); }catch(e){ applyTheme('dark'); }
   const th=document.getElementById('theme-toggle'); if(th) th.addEventListener('click',toggleTheme);
@@ -3065,11 +3164,13 @@ function drillTopic(examId, topic){
 /* ---------- Feature 1: Syllabus Coverage Tracker ---------- */
 function renderCoverage(){
   const box=document.getElementById('cov-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
   const examId=(document.getElementById('cov-exam')||{}).value||'';
   const e=examById(examId);
-  if(!e){ box.innerHTML=`<p class="muted">${B('Choose an exam above.','माथि परीक्षा छान्नुहोस्।')}</p>`; return; }
+  if(!e){ box.innerHTML=emptyState('🎯', B('Choose an exam to see your coverage','कभरेज हेर्न परीक्षा छान्नुहोस्'), B('Pick an exam from the dropdown above — the tracker maps every syllabus section to bank topics and your own practice.','माथिको ड्रपडाउनबाट परीक्षा छान्नुहोस् — ट्र्याकरले हरेक पाठ्यक्रम खण्डलाई बैंक विषय र तपाईंको अभ्याससँग जोड्छ।')); return; }
   const counts=topicsForExam(examId);
   const topics=Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  if(!topics.length){ box.innerHTML=`<div class="card"><h3>${esc(examName(e))}</h3></div>`+emptyState('📚', B('No questions tagged for this exam yet','यस परीक्षाका लागि अझै प्रश्न ट्याग गरिएको छैन'), B('The question bank has no questions tagged for this exam, so there is nothing to map yet. Practise the mixed bank in the meantime.','प्रश्न बैंकमा यस परीक्षाका लागि ट्याग गरिएका प्रश्न छैनन्, त्यसैले नक्सा बनाउन केही छैन। यसबीच मिश्रित बैंक अभ्यास गर्नुहोस्।'), B('Practise the mixed bank','मिश्रित बैंक अभ्यास गर्नुहोस्'), "showView('practice')"); return; }
   const stats=practiceTopicStats(examId, progress.attempts);
   const w=examTopicWeights(examId, e);
   const wLabel=w.source==='breakdown'?B('est. · paper pattern','अनुमान · पेपर ढाँचा'):w.source==='pyq'?B('est. · PYQ shares','अनुमान · PYQ हिस्सा'):'—';
@@ -3105,6 +3206,7 @@ function renderCoverage(){
 let printPaper=null; // {exam, qs:[shuffled questions], short, pool}
 function renderPrint(){
   const box=document.getElementById('prt-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(1); return; }
   const examId=(document.getElementById('prt-exam')||{}).value||'';
   if(printPaper && printPaper.exam!==examId) printPaper=null; // exam changed → old paper is stale
   box.innerHTML=printPaper ? renderPrintPaperHtml()
@@ -3228,6 +3330,7 @@ function showPlan(examId){
 }
 function renderPlanner(){
   const box=document.getElementById('pla-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
   const ns=document.getElementById('pla-notice');
   if(ns){
     const prev=ns.value;
@@ -3241,7 +3344,7 @@ function renderPlanner(){
   const plan=t.exam?plans[t.exam]:null;
   let h='';
   if(plan) h+=renderPlanCard(plan);
-  else h+=`<p class="muted">${B('No saved plan for this target yet — pick a notice (or an exam + deadline) above and press Generate.','यो लक्ष्यका लागि अहिलेसम्म योजना छैन — माथि सूचना (वा परीक्षा + अन्तिम मिति) छानेर "योजना बनाउनुहोस्" थिच्नुहोस्।')}</p>`;
+  else h+=emptyState('🗓️', B('No study plan for this target yet','यो लक्ष्यका लागि अझै अध्ययन योजना छैन'), B('Pick a notice (or an exam + deadline) above and generate a day-by-day plan weighted by the real paper pattern.','माथि सूचना (वा परीक्षा + अन्तिम मिति) छानेर वास्तविक पेपर ढाँचाअनुसार तौल गरिएको दैनिक योजना बनाउनुहोस्।'), B('📝 Generate plan','📝 योजना बनाउनुहोस्'), 'generatePlan()');
   const others=Object.keys(plans).filter(k=>k!==t.exam);
   if(others.length){
     h+='<h3>'+B('Other saved plans','अन्य सुरक्षित योजनाहरू')+'</h3>'+others.map(k=>{
@@ -3274,12 +3377,14 @@ function renderPlanCard(plan){
 /* ---------- Feature 4: Negative-marking guess-strategy coach ---------- */
 function renderCoach(){
   const box=document.getElementById('coa-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
   const examId=(document.getElementById('coa-exam')||{}).value||'';
   const e=examById(examId);
-  if(!e){ box.innerHTML=`<p class="muted">${B('Choose an exam above.','माथि परीक्षा छान्नुहोस्।')}</p>`; return; }
+  if(!e){ box.innerHTML=emptyState('🎯', B('Choose an exam for coaching','कोचिङका लागि परीक्षा छान्नुहोस्'), B('Pick an exam from the dropdown above — the coach analyses your practice history for that exam.','माथिको ड्रपडाउनबाट परीक्षा छान्नुहोस् — कोचले त्यस परीक्षाका लागि तपाईंको अभ्यास इतिहास विश्लेषण गर्छ।')); return; }
   const st=coachStats(examId, progress.attempts, e);
   const negTxt=st.negUnknown?B('unverified','अपुष्ट'):st.negRate===0?B('none','छैन'):Math.round(st.negRate*100)+'%';
-  let h=`<div class="card"><h3>🎯 ${esc(examName(e))}</h3>
+  let h=st.attempts?'':emptyState('📊', B('No attempts for this exam yet','यस परीक्षाका लागि अझै प्रयास छैन'), B('Sit a practice set or a mock first — then the coach computes your personal guess maths from your real answers.','पहिले अभ्यास सेट वा मक दिनुहोस् — अनि कोचले तपाईंका वास्तविक उत्तरबाट व्यक्तिगत अनुमान-गणित निकाल्नेछ।'), B('Start a mock','मक सुरु गर्नुहोस्'), "showView('mock')");
+  h+=`<div class="card"><h3>🎯 ${esc(examName(e))}</h3>
   <p><span class="tag">${st.attempts} ${B('attempts','प्रयासहरू')}</span> <span class="tag">${st.total} ${B('questions','प्रश्नहरू')}</span> <span class="tag">✅ ${st.correct}</span> <span class="tag">❌ ${st.wrong}</span> <span class="tag">⏭️ ${st.skipped} ${B('skipped','छोडिएको')}</span> <span class="tag">${B('Negative','नेगेटिभ')}: ${negTxt}</span></p>`;
   if(st.attempts){
     h+=`<div class="grid">
@@ -3313,12 +3418,14 @@ function heatCell(text, frac, rgb){
 }
 function renderPYQ(){
   const box=document.getElementById('pyq-box'); if(!box) return;
+  if(!dataReady){ box.innerHTML=skelBlock(2); return; }
   const examId=(document.getElementById('pyq-exam')||{}).value||'';
   const e=examById(examId);
-  if(!e){ box.innerHTML=`<p class="muted">${B('Choose an exam above.','माथि परीक्षा छान्नुहोस्।')}</p>`; return; }
+  if(!e){ box.innerHTML=emptyState('🔥', B('Choose an exam to see its PYQ map','PYQ नक्सा हेर्न परीक्षा छान्नुहोस्'), B('Pick an exam from the dropdown above — the heatmap shows which topics real papers asked most.','माथिको ड्रपडाउनबाट परीक्षा छान्नुहोस् — हिटम्यापले वास्तविक पेपरले कुन विषय बढी सोधेको देखाउँछ।')); return; }
   const pyq=pyqTopicShares(examId);
   const counts=topicsForExam(examId);
   const topics=Object.keys(counts).sort();
+  if(!topics.length){ box.innerHTML=`<div class="card"><h3>🔥 ${esc(examName(e))}</h3></div>`+emptyState('📚', B('No bank coverage for this exam yet','यस परीक्षाका लागि बैंकमा अझै कभरेज छैन'), B('The question bank has no questions tagged for this exam, so there is no heatmap to draw yet.','प्रश्न बैंकमा यस परीक्षाका लागि ट्याग गरिएका प्रश्न छैनन्, त्यसैले हिटम्याप बनाउन केही छैन।'), B('Practise the mixed bank','मिश्रित बैंक अभ्यास गर्नुहोस्'), "showView('practice')"); return; }
   const totalBank=topics.reduce((a,t)=>a+counts[t],0);
   const stats=practiceTopicStats(examId, progress.attempts);
   const hasPyq=pyq.n>=5;

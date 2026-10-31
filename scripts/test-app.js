@@ -92,7 +92,7 @@ const dynamic = new Set(['quiz-timer', 'feedback', 'flash-ans', 'chart', // crea
   // result view renders the share-status line at runtime (inside result-box)
   'share-status',
   // v2 views render their forms into innerHTML at runtime (auth, discuss, submit, report modal)
-  'sub-exam', 'auth-demo-banner', 'auth-name', 'auth-email', 'auth-error', 'auth-form', 'auth-success',
+  'sub-exam', 'auth-name', 'auth-email', 'auth-error', 'auth-form', 'auth-success',
   'dis-title', 'dis-body', 'dis-exam', 'dis-error', 'rep-reason', 'rep-comment', 'rep-error',
   'sub-errors', 'sub-done', 'sub-counts', 'sub-template', 'sub-submit-btn',
   // feature 9/10: chat + suggest render their forms into innerHTML at runtime
@@ -109,7 +109,7 @@ check('notes + audio views are reachable from the desktop nav', html.includes('d
 check('notes-box + audio-box exist in index.html', idsInHtml.has('notes-box') && idsInHtml.has('audio-box'));
 check('analytics views are reachable from the desktop nav', ['coverage','print','planner','coach','pyq'].every(v => html.includes(`data-view="${v}"`)));
 check('analytics controls exist in index.html', ['cov-exam','cov-box','prt-exam','prt-box','pla-notice','pla-exam','pla-date','pla-daily','pla-box','coa-exam','coa-box','pyq-exam','pyq-box'].every(id => idsInHtml.has(id)));
-check('demo banner exists in index.html', idsInHtml.has('demo-banner'));
+check('demo banner removed from index.html', !idsInHtml.has('demo-banner') && !src.includes('auth-demo-banner'));
 check('report modal exists in index.html', idsInHtml.has('modal') && idsInHtml.has('modal-body'));
 check('nav has Discuss / Contribute / Sign In / Profile buttons', html.includes('data-view="discuss"') && html.includes('data-view="submit"') && html.includes('data-view="auth"') && html.includes('data-view="profile"'));
 check('nav has Ask (chat) / Suggest buttons', html.includes('data-view="chat"') && html.includes('data-view="suggest"'));

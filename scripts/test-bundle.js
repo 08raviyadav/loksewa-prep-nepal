@@ -10,7 +10,7 @@ function check(name, ok, extra = '') { console.log((ok ? 'PASS' : 'FAIL') + '  '
 const html = fs.readFileSync(path.join(root, 'loksewa-prep-nepal-full.html'), 'utf8');
 const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
 check('bundle has exactly 2 inline script blocks (data + app)', blocks.length === 2, blocks.length + ' blocks');
-check('bundle has no external script/link refs (github.com footer link exempt)', !/src="https?:|href="https?:\/\/(?!github)/.test(html));
+check('bundle has no external script/link refs (github.com footer link + canonical tag exempt)', !/src="https?:|href="https?:\/\/(?!github\.com|08raviyadav\.github\.io)/.test(html));
 
 function makeEl() {
   return { innerHTML: '', textContent: '', value: '', checked: false, disabled: false, hidden: false,
