@@ -7,3 +7,7 @@ Thumbs.db
 .idea/
 # Backend config — real Supabase URL + anon key. NEVER commit.
 config.js
+# Vercel backend — local env + CLI state. NEVER commit real values.
+.env.local
+.env*.local
+.vercel/

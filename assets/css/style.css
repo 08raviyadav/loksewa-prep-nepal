@@ -782,3 +782,30 @@ footer{text-align:left}
 .today-event{display:flex;gap:14px;align-items:flex-start}
 .today-main{flex:1;min-width:0}
 @media(max-width:720px){.today-event{flex-direction:column;gap:8px}}
+
+/* ---------- 27. Beta warning + Report an issue (report.js) ---------- */
+.beta-badge{display:inline-block;vertical-align:middle;font-size:11px;font-weight:800;letter-spacing:.12em;color:#1e1b4b;background:linear-gradient(90deg,#f59e0b,#f97316);border-radius:999px;padding:2px 8px;margin:0 2px}
+.beta-banner{display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap;border:1px solid #f59e0b88;border-radius:14px;background:linear-gradient(90deg,#f59e0b1f,#f9731614);padding:14px 16px;margin:0 0 14px}
+.beta-banner-main{flex:1;min-width:220px}
+.beta-banner-actions{display:flex;gap:8px;align-items:center}
+.beta-dismiss{padding:6px 10px}
+.foot-beta{font-size:13px;color:var(--muted)}
+.foot-beta a{color:var(--accent);font-weight:600}
+@media(max-width:720px){.beta-banner{flex-direction:column;align-items:stretch}.beta-banner-actions{justify-content:flex-end}}
+
+/* ---------- 28. Historical events / Dates to Remember ---------- */
+.hist-badge{border-color:#8b5cf6!important;background:#8b5cf61a!important}
+.hist-list{display:grid;gap:10px;margin:12px 0}
+.hist-row{margin:0}
+.hist-row summary{cursor:pointer;list-style:none}
+.hist-row summary::-webkit-details-marker{display:none}
+.hist-row summary::before{content:'▸ ';color:var(--muted)}
+.hist-row[open ] summary::before{content:'▾ '}
+.hist-row p{margin:10px 0 0}
+.hist-detail{margin-top:8px}
+.hist-detail summary{cursor:pointer;color:var(--accent);font-weight:600}
+.hist-detail p{margin:8px 0 0}
+.hist-otd{border-color:#8b5cf688}
+.hist-quiz{text-align:left}
+.hist-answer{font-size:1.25rem;font-weight:800;color:var(--accent)}
+.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9em}

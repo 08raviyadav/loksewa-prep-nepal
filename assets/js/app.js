@@ -224,9 +224,10 @@ function setLang(l){
   else if (id === 'view-chat') renderChat();
   else if (id === 'view-suggest') renderSuggest();
   else if (id === 'view-practice') { /* labels stay bilingual by design; nothing to re-render */ }
+  else if (id === 'view-history') renderHistory();
   else if (id === 'view-today' && typeof renderToday === 'function') renderToday();
   // Countdown card + exam banner follow the language toggle on every view.
-  renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying();
+  renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderHistoryOtd(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); if (typeof renderBetaBanner === 'function') renderBetaBanner();
 }
 
 function shuffle(arr, rand=Math.random){
@@ -256,7 +257,7 @@ function xpFor(score, max){ return Math.max(0, Math.round(score*10)); }
 // (Node exports live at the end of this file, after every const is
 // initialised — an early export here hit the FOCUS_DURATIONS TDZ.)
 
-let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], COURSES=[], FESTIVALS=[], current=null, timerId=null, timeLeft=0, startTime=0;
+let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], COURSES=[], FESTIVALS=[], HISTORY=[], current=null, timerId=null, timeLeft=0, startTime=0;
 let progress = loadProgress();
 // Cloud-ready progress shape (see docs/BACKEND.md): the profile fields
 // (user_id / email / name) live on the same object as the practice data, so a
@@ -863,7 +864,7 @@ function showView(id){
     document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
-  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderNextExamCard(); renderContinueStudying(); checkExamNotifications(); }
+  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderHistoryOtd(); renderNextExamCard(); renderContinueStudying(); if (typeof renderBetaBanner === 'function') renderBetaBanner(); checkExamNotifications(); }
   if(id==='dashboard'){ renderNextExamCompact(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
   if(id==='submit') renderSubmit(); if(id==='moderate') renderModerate();
@@ -876,6 +877,7 @@ function showView(id){
   if(id==='chat') renderChat(); if(id==='suggest') renderSuggest();
   if(id==='examdates') renderExamDates();
   if(id==='courses') renderCourses();
+  if(id==='history') renderHistory();
   if(id==='today' && typeof renderToday === 'function') renderToday();
 }
 // Per-view <title> names (English view names are fine — the brand prefix
@@ -888,7 +890,7 @@ const VIEW_TITLES = {
   funfacts:'Fun Facts', chat:'Ask Ravi', suggest:'Suggest a Feature', coverage:'Syllabus Coverage',
   print:'Printable Paper', planner:'Study Planner', coach:'Guess Coach', pyq:'PYQ Heatmap',
   notes:'Revision Notes', audio:'Audio Revision', examdates:'Exam Dates',
-  courses:'Courses', today:'My Day'
+  courses:'Courses', today:'My Day', history:'Dates to Remember'
 };
 /* ---- Production-polish UI helpers: skeletons, empty states, error states ---- */
 // dataReady is false only while loadData() is actually fetching. In the Node
@@ -987,6 +989,13 @@ async function loadData(){
   // explicit instruction (2026-11-09) — every other Nepal festival is in.
   if (typeof window!=='undefined' && window.EMBEDDED_FESTIVALS) FESTIVALS = window.EMBEDDED_FESTIVALS.slice();
   else { try{ const r=await fetch('data/festivals.json'); FESTIVALS=await r.json(); }catch(e){ FESTIVALS=[]; } }
+  // Historical events (data/historical-events.json): verified dates to
+  // remember, with the single-file bundle's embedded-data fallback
+  // (window.EMBEDDED_HISTORY, set by scripts/build-bundle.py). Entries
+  // with day_bs null (AD-only or year-only) still load — they show in the
+  // Dates view but cannot recur, so On This Day / My Day skip them.
+  if (typeof window!=='undefined' && window.EMBEDDED_HISTORY) HISTORY = window.EMBEDDED_HISTORY.slice();
+  else { try{ const r=await fetch('data/historical-events.json'); HISTORY=await r.json(); }catch(e){ HISTORY=[]; } }
   // Revision notes: one file per topic (data/notes/NOTES_FILES), fetched in
   // parallel like the question bank, with the single-file bundle's
   // embedded-data fallback (window.EMBEDDED_NOTES, set by
@@ -1004,7 +1013,7 @@ async function loadData(){
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
   fillExamSelects(); renderHomeStats(); renderGuide(); renderTopics(); renderPapers(); renderNotices();
-  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderFestivalCard(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); checkExamNotifications();
+  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderFestivalCard(); renderHistoryOtd(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); if (typeof renderBetaBanner === 'function') renderBetaBanner(); checkExamNotifications();
   if(!QUESTIONS.length){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
@@ -2176,7 +2185,11 @@ function renderDiscuss(){
 }
 
 /* ---------- Report a wrong question ---------- */
+// Unified with the general report form (report.js): one form for
+// bugs, wrong info and wrong questions. Falls back to the old modal only
+// when report.js is not loaded.
 function openReportForm(qid){
+  if (typeof openIssueForm === 'function') { openIssueForm({ questionId: qid }); return; }
   const m = document.getElementById('modal'); const b = document.getElementById('modal-body');
   if (!m || !b) return;
   b.innerHTML = `<h3>Report wrong question — ${esc(qid)}</h3>
@@ -2193,15 +2206,17 @@ function openReportForm(qid){
 function closeModal(){ const m = document.getElementById('modal'); if (m) m.hidden = true; }
 document.addEventListener('keydown', e=>{ if(e.key==='Escape'){ const m=document.getElementById('modal'); if(m && !m.hidden) closeModal(); } });
 document.addEventListener('click', e=>{ const m=document.getElementById('modal'); if(m && e.target===m) closeModal(); });
-function submitReport(qid, reason, comment){
+function submitReport(qid, reason, comment, type){
   // Called from the modal (reason/comment from the form) or directly by tests.
+  // `type` is optional (unified form passes 'wrong-question'); stored so the
+  // moderation view can label question reports like general ones.
   if (reason === undefined) {
     const r = document.getElementById('rep-reason'); reason = r ? r.value : 'other';
     const c = document.getElementById('rep-comment'); comment = c ? c.value.trim() : '';
   }
   if (!comment) { const e = document.getElementById('rep-error'); if (e) e.textContent = B('Please add a short comment — what is wrong and what should it be?','कृपया छोटो टिप्पणी थप्नुहोस् — के गलत छ र के हुनुपर्ने हो?'); return false; }
   const list = lsGet(LS_REPORTS, []);
-  list.push({ id: uid('REP'), questionId: qid, reason, comment, by: currentUserName(), at: nowIso(), status: 'open' });
+  list.push({ id: uid('REP'), questionId: qid, reason, comment, by: currentUserName(), at: nowIso(), status: 'open', kind: 'question', type: type || 'wrong-question' });
   lsSet(LS_REPORTS, list);
   closeModal();
   return true;
@@ -2545,7 +2560,7 @@ function renderModerate(){
   const c = submissionCounts();
   box.innerHTML = `
     <div class="card"><strong>Maintainer preview — real authentication is required in production.</strong> In this static build anyone opening this page can approve or reject. With Supabase, this view is restricted to the maintainer role (Ravi Yadav, 08raviyadav) via Row Level Security — see docs/BACKEND.md.</div>
-    <p class="muted">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending} · open wrong-question reports: ${reports.length}</p>
+    <p class="muted">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending} · open reports: ${reports.length}</p>
     <p class="muted">Trusted-contributor rule: contributors with 3+ approved questions and 0 rejections get faster review. First-time submissions never go live instantly.</p>
     <p><button class="btn secondary" onclick="downloadApproved()">⬇ Download approved questions (community-approved.json)</button>
     <span class="muted">Approved questions are stored in localStorage in local preview and loaded into the practice bank at startup with a “Community” badge. The download is the JSON to commit to <code>data/questions/community-approved.json</code>.</span></p>
@@ -2563,8 +2578,7 @@ function renderModerate(){
       <input type="text" id="mod-reason-${s.id}" placeholder="Rejection reason (required to reject)" style="max-width:320px">
       <button class="btn danger" onclick="rejectSubmission('${s.id}')">✕ Reject</button></div>
     </div>`).join('') : emptyState('📥', B('No pending submissions','कुनै पेन्डिङ पेस छैन'), B('Submitted questions appear here for review.','पेस गरिएका प्रश्नहरू समीक्षाका लागि यहाँ देखिन्छन्।'), B('Contribute a question','प्रश्न योगदान गर्नुहोस्'), "showView('submit')")}
-    <h3>Open wrong-question reports (${reports.length})</h3>
-    ${reports.length ? reports.map(r => `<div class="card"><strong>${esc(r.questionId)}</strong> — ${esc(r.reason)}<br>${esc(r.comment)}<br><span class="muted">by ${esc(r.by)} · ${esc((r.at || '').slice(0, 10))}</span></div>`).join('') : '<p class="muted">No open reports.</p>'}`;
+    ${typeof renderReportsSection === 'function' ? renderReportsSection() : `<h3>Open wrong-question reports (${reports.length})</h3>${reports.length ? reports.map(r => `<div class="card"><strong>${esc(r.questionId)}</strong> — ${esc(r.reason)}<br>${esc(r.comment)}<br><span class="muted">by ${esc(r.by)} · ${esc((r.at || '').slice(0, 10))}</span></div>`).join('') : '<p class="muted">No open reports.</p>'}`}`;
 }
 
 /* ================= Feature 9 — Ask: on-device rule-based helper =================
@@ -3897,6 +3911,200 @@ function renderFestivalCard(){
   box.innerHTML='';
 }
 
+/* ================= Historical events / Dates to Remember =================
+   Data: data/historical-events.json (95 verified entries, 2026-11-09 —
+   see data/SOURCES.md §19 and scripts/historical-events-notes.md).
+   Schema: {id, title_en, title_ne, day_bs ("MM-DD" | null),
+   year_bs (int | null), date_ad ("YYYY-MM-DD" | null), category,
+   summary_en, summary_ne, confidence ("high"|"medium"), sources[≥2]}.
+   day_bs is set ONLY when a source explicitly gave the BS month/day.
+   A few entries have BOTH year_bs and date_ad null (the year lives only
+   in the title/summary text, e.g. Gorkha Kingdom founded 1559): they
+   render gracefully (never "null"), sort last, and are excluded from
+   On This Day, the My Day digest and quiz mode — there is no date to
+   reveal. Entries with day_bs null but a year/date are likewise excluded
+   from the recurring views (they cannot recur by BS day) but DO appear
+   in the Dates view and in quiz mode (they have a date to reveal).
+   BS day-32 rule: day_bs is month/day only, so validity is 1-32 — the
+   same honest bound birthday.js uses (BS_MONTH_LEN covers 2083/2084
+   only, so no exact month-length check is possible for most years). */
+const HISTORY_CATEGORIES = ['nepal-history', 'world-history', 'nepal-institutions', 'constitution', 'international'];
+const AD_MONTH_EN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const AD_MONTH_NE = ['जनवरी', 'फेब्रुअरी', 'मार्च', 'अप्रिल', 'मे', 'जुन', 'जुलाइ', 'अगस्ट', 'सेप्टेम्बर', 'अक्टोबर', 'नोभेम्बर', 'डिसेम्बर'];
+function historyCategoryLabel(c){
+  return c === 'nepal-history' ? B('Nepal History', 'नेपालको इतिहास')
+    : c === 'world-history' ? B('World History', 'विश्व इतिहास')
+    : c === 'nepal-institutions' ? B('Nepal Institutions', 'नेपालका संस्थाहरू')
+    : c === 'constitution' ? B('Constitution', 'संविधान')
+    : B('International', 'अन्तर्राष्ट्रिय');
+}
+function historyById(id){ return (HISTORY || []).find(e => e && e.id === id); }
+// True when the entry has any date to show/reveal (BS day, BS year or AD).
+function historyHasDate(e){ return !!(e && (e.day_bs || e.year_bs || e.date_ad)); }
+// Display date, never "null": full BS date when day+year are known, BS
+// month/day when the year is unknown, BS year alone, AD date alone, or ''
+// when the year lives only in the title/summary text.
+function historyDateLabel(e){
+  if (!e) return '';
+  if (e.day_bs && e.year_bs) return fmtBs(e.year_bs + '-' + e.day_bs);
+  if (e.day_bs){
+    const p = String(e.day_bs).split('-'); const m = +p[0], d = +p[1];
+    if (m < 1 || m > 12 || !(d >= 1)) return '';
+    return lang === 'ne' ? neDigits(d) + ' ' + BS_MONTH_NE[m - 1] : d + ' ' + BS_MONTH_EN[m - 1];
+  }
+  // BS year + exact AD date: show both (e.g. Everest — 2010 BS · 29 May
+  // 1953). Either half alone would hide a date the student is asked for.
+  const ad = e.date_ad ? historyAdLabel(e.date_ad) : '';
+  if (e.year_bs && ad) return (lang === 'ne' ? neDigits(e.year_bs) : String(e.year_bs)) + ' BS · ' + ad;
+  if (e.year_bs) return lang === 'ne' ? neDigits(e.year_bs) : String(e.year_bs);
+  if (ad) return ad;
+  return '';
+}
+// "4 March 1816" / "४ मार्च १८१६" — '' when the AD date is malformed.
+function historyAdLabel(s){
+  const p = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s || '');
+  if (!p) return '';
+  const m = +p[2];
+  if (m < 1 || m > 12) return '';
+  return lang === 'ne'
+    ? neDigits(+p[3]) + ' ' + AD_MONTH_NE[m - 1] + ' ' + neDigits(p[1])
+    : (+p[3]) + ' ' + AD_MONTH_EN[m - 1] + ' ' + p[1];
+}
+// Chronological by BS month/day first, then BS year, then AD date, then
+// dateless entries last (title tiebreak — deterministic, no crash on nulls).
+function historySorted(list){
+  const key = e => {
+    if (e.day_bs) return [0, String(e.day_bs), e.title_en || ''];
+    if (e.year_bs) return [1, String(e.year_bs).padStart(4, '0'), e.title_en || ''];
+    if (e.date_ad) return [2, String(e.date_ad), e.title_en || ''];
+    return [3, '', e.title_en || ''];
+  };
+  return (list || []).slice().sort((a, b) => {
+    const ka = key(a), kb = key(b);
+    if (ka[0] !== kb[0]) return ka[0] - kb[0];
+    if (ka[1] !== kb[1]) return ka[1] < kb[1] ? -1 : 1;
+    return ka[2] < kb[2] ? -1 : (ka[2] > kb[2] ? 1 : 0);
+  });
+}
+// Events whose day_bs month/day matches todayBs (any year) — the recurring
+// set for On This Day and the My Day digest. todayBs null → [].
+function historyEventsToday(history, todayBs){
+  const t = bsParse(todayBs || ''); if (!t) return [];
+  const md = String(t.m).padStart(2, '0') + '-' + String(t.d).padStart(2, '0');
+  return (history || []).filter(e => e && e.day_bs === md);
+}
+// Quiz pool: only entries with a date to reveal (dateless entries excluded).
+function historyQuizPool(history){ return (history || []).filter(historyHasDate); }
+function historyMatches(e, q){
+  if (!q) return true;
+  return [e.title_en, e.title_ne, e.summary_en, e.summary_ne].join(' ').toLowerCase().includes(q);
+}
+function historyTitle(e){ return esc(lang === 'ne' ? (e.title_ne || e.title_en) : (e.title_en || '')); }
+function historySummary(e){ return esc(lang === 'ne' ? (e.summary_ne || e.summary_en) : (e.summary_en || '')); }
+// One expandable row: date + title, tap to reveal the bilingual summary +
+// sources. Dateless entries show a muted note instead of a date — never null.
+function historyRowHtml(e){
+  const date = historyDateLabel(e);
+  const head = date
+    ? `<strong>${esc(date)}</strong> — ${historyTitle(e)}`
+    : `<span class="muted">${esc(B('Year in the summary below', 'वर्ष तलको सारांशमा छ'))}</span> — ${historyTitle(e)}`;
+  const conf = e.confidence === 'medium' ? ` · ⚠️ ${B('re-verify', 'पुनःपुष्टि')}` : '';
+  const srcs = Array.isArray(e.sources) && e.sources.length
+    ? `<p class="muted">${B('Sources', 'स्रोतहरू')}: ${e.sources.map((s, i) => `<a href="${esc(s)}" target="_blank" rel="noopener">${i + 1}</a>`).join(' · ')}</p>` : '';
+  return `<details class="card hist-row"><summary><span class="chip hist-badge">📜 ${esc(historyCategoryLabel(e.category))}</span> ${head}<span class="muted">${conf}</span></summary>
+    <p>${historySummary(e)}</p>${srcs}</details>`;
+}
+// ---- "On This Day" card on Home (below the festival + birthday cards) ----
+// Renders nothing when no historical event falls on today's BS month/day.
+function renderHistoryOtd(){
+  const box = document.getElementById('history-otd-card'); if (!box) return;
+  if (!dataReady){ box.innerHTML = ''; return; }
+  const today = bsToday(); if (!today){ box.innerHTML = ''; return; }
+  const list = historyEventsToday(HISTORY, today);
+  if (!list.length){ box.innerHTML = ''; return; }
+  box.innerHTML = `<div class="card hist-otd"><h2>📜 ${B('On This Day', 'आजको दिनमा')}</h2>
+    <p class="muted">${esc(fmtBs(today))} — ${B('on this day in history', 'इतिहासमा आजको दिन')}</p>
+    <div class="hist-list">${list.map(historyRowHtml).join('')}</div>
+    <p><button class="btn secondary" onclick="showView('history')">${B('All dates to remember →', 'सबै सम्झनुपर्ने मितिहरू →')}</button></p></div>`;
+}
+// ---- "Dates to Remember" view ----
+let histFilter = '', histQuery = '';
+let histQuizMode = false;
+let histQuiz = { pool: [], idx: 0, revealed: false, correct: 0, missed: 0 };
+function historyQuizState(){ return { mode: histQuizMode, pool: histQuiz.pool.slice(), idx: histQuiz.idx, revealed: histQuiz.revealed, correct: histQuiz.correct, missed: histQuiz.missed }; }
+function historyQuizStart(pool){
+  histQuiz = { pool: shuffle((pool || []).slice()), idx: 0, revealed: false, correct: 0, missed: 0 };
+  histQuizMode = true;
+}
+function historyQuizReveal(){ if (histQuiz.pool.length) histQuiz.revealed = true; }
+function historyQuizMark(gotIt){
+  if (!histQuiz.revealed || !histQuiz.pool.length || histQuiz.idx >= histQuiz.pool.length) return;
+  if (gotIt) histQuiz.correct++; else histQuiz.missed++;
+  histQuiz.idx++; histQuiz.revealed = false;
+}
+function historyQuizReset(){ histQuiz = { pool: [], idx: 0, revealed: false, correct: 0, missed: 0 }; histQuizMode = false; }
+function historyFiltered(){
+  const q = (histQuery || '').trim().toLowerCase();
+  return historySorted(HISTORY).filter(e => (!histFilter || e.category === histFilter) && historyMatches(e, q));
+}
+function renderHistory(){
+  const box = document.getElementById('history-box'); if (!box) return;
+  if (!dataReady){ box.innerHTML = skelBlock(2); return; }
+  const catOpts = HISTORY_CATEGORIES.map(c =>
+    `<option value="${esc(c)}"${histFilter === c ? ' selected' : ''}>${esc(historyCategoryLabel(c))} (${HISTORY.filter(e => e.category === c).length})</option>`).join('');
+  const quizBtn = histQuizMode
+    ? `<button class="btn secondary" onclick="historyQuizReset();renderHistory()">${B('← Back to list', '← सूचीमा फर्कनुहोस्')}</button>`
+    : `<button class="btn" onclick="historyQuizStart(historyQuizPool(HISTORY));renderHistory()">🎴 ${B('Quiz me', 'मलाई प्रश्न गर्नुहोस्')}</button>`;
+  box.innerHTML = `<div class="card"><h2>📜 ${B('Dates to Remember', 'इतिहासका मिति')}</h2>
+    <p class="muted">${B('Verified historical dates for Lok Sewa GK — Nepal\'s history and constitutions, its institutions, and world history. Tap a row to read the story. Dates recur every year on their Bikram Sambat day.', 'लोक सेवा GK का लागि प्रमाणित ऐतिहासिक मितिहरू — नेपालको इतिहास र संविधान, संस्थाहरू र विश्व इतिहास। कथा पढ्न पङ्क्तिमा थिच्नुहोस्। मितिहरू हरेक वर्ष विक्रम संवत्कै दिन दोहोरिन्छन्।')}</p>
+    <p class="muted">${HISTORY.length} ${B('dates', 'मितिहरू')} · ${B('verified against at least 2 sources each — see', 'प्रत्येक कम्तीमा २ स्रोतसँग प्रमाणित — हेर्नुहोस्')} <span class="mono">data/SOURCES.md §19</span></p>
+    <label for="hist-search">${B('Search', 'खोज्नुहोस्')}</label>
+    <input type="search" id="hist-search" placeholder="${esc(B('e.g. Constitution, Everest, Rana…', 'जस्तै संविधान, सगरमाथा, राणा…'))}" value="${esc(histQuery)}" oninput="histQuery=this.value;renderHistoryList()">
+    <label for="hist-cat">${B('Category', 'श्रेणी')}</label>
+    <select id="hist-cat" onchange="histFilter=this.value;renderHistoryList()"><option value="">${B('All categories', 'सबै श्रेणी')}</option>${catOpts}</select>
+    <p>${quizBtn}</p></div>
+    <div id="history-list"></div>`;
+  renderHistoryList();
+}
+function renderHistoryList(){
+  const listEl = document.getElementById('history-list'); if (!listEl) return;
+  if (histQuizMode){
+    const total = histQuiz.pool.length;
+    if (!total){
+      listEl.innerHTML = emptyState('🎴', B('Nothing to quiz yet', 'प्रश्न गर्न केही छैन'),
+        B('No dated events are loaded, so there is nothing to quiz on.', 'मिति भएका घटना लोड भएका छैनन्, त्यसैले प्रश्न गर्न केही छैन।'));
+      return;
+    }
+    if (histQuiz.idx >= total){
+      listEl.innerHTML = `<div class="card hist-quiz"><h3>🎉 ${B('Quiz done!', 'क्विज सकियो!')}</h3>
+        <p><strong>${histQuiz.correct} / ${total}</strong> ${B('correct', 'सही')} · ${histQuiz.missed} ${B('missed', 'छुट्यो')}</p>
+        <p><button class="btn" onclick="historyQuizStart(historyQuizPool(HISTORY));renderHistory()">🔀 ${B('Quiz again', 'फेरि प्रश्न गर्नुहोस्')}</button>
+        <button class="btn secondary" onclick="historyQuizReset();renderHistory()">${B('Back to list', 'सूचीमा फर्कनुहोस्')}</button></p></div>`;
+      return;
+    }
+    const e = histQuiz.pool[histQuiz.idx];
+    const date = historyDateLabel(e);
+    listEl.innerHTML = `<div class="card hist-quiz"><p class="muted">${B('Question', 'प्रश्न')} ${histQuiz.idx + 1} / ${total} · ✓ ${histQuiz.correct} · ✗ ${histQuiz.missed}</p>
+      <h3>${historyTitle(e)}</h3>
+      <p class="muted">${esc(historyCategoryLabel(e.category))}</p>
+      <p><strong>${B('When did this happen?', 'यो कहिले भयो?')}</strong></p>
+      ${histQuiz.revealed
+        ? `<p class="hist-answer">${esc(date)}</p><p>${historySummary(e)}</p>
+           <p><button class="btn" onclick="historyQuizMark(true);renderHistoryList()">✅ ${B('Got it', 'मिल्यो')}</button>
+           <button class="btn secondary" onclick="historyQuizMark(false);renderHistoryList()">❌ ${B('Missed it', 'छुट्यो')}</button></p>`
+        : `<p><button class="btn" onclick="historyQuizReveal();renderHistoryList()">👁️ ${B('Reveal the date', 'मिति देखाउनुहोस्')}</button></p>`}
+      <p><button class="btn secondary" onclick="historyQuizReset();renderHistoryList()">${B('Reset quiz', 'क्विज रिसेट गर्नुहोस्')}</button></p></div>`;
+    return;
+  }
+  const list = historyFiltered();
+  if (!list.length){
+    listEl.innerHTML = emptyState('📜', B('No dates match', 'कुनै मिति मिलेन'),
+      B('Try a different search or category.', 'अर्को खोजी वा श्रेणी प्रयास गर्नुहोस्।'));
+    return;
+  }
+  listEl.innerHTML = `<p class="muted">${list.length} ${B(list.length > 1 ? 'dates' : 'date', 'मिति')}</p><div class="hist-list">${list.map(historyRowHtml).join('')}</div>`;
+}
+
 /* ================= Theory courses =================
    Chapter-wise bilingual theory (data/courses/*.json, listed in
    COURSE_FILES). Progress lives in localStorage under COURSE_PROG_KEY:
@@ -4065,4 +4273,5 @@ function renderContinueStudying(){
 if (typeof module!=='undefined' && module.exports){ module.exports={shuffle,shuffleOptions,scoreAttempt,xpFor,qText,qOpts,qExpl,getLang,setLang,normaliseText,tokenJaccard,jaccardNorm,findDuplicate,validateSubmission,rateLimitCheck,isGmailAddress,communityBadge,seedDiscussions,weekStartStr,questionsThisWeek,weeklyProgress,personalBest,questionsInADay,pickSurprise,nextFocusMode,FOCUS_DURATIONS,badges,checkWeeklyGoal,funFactText,dailyFunFact,randomFunFact,PRAISE_LINES,TRY_AGAIN_LINES,PASS_LINES,FAIL_LINES,pickLine,prefersReducedMotion,recordFactVisit,getFactStreak,questionOfDay,speedBonusFor,mistakePool,longestStreak,bestDay,personalRecords,buildShareText,getSpeedBest,saveSpeedBest,SPEED_SECONDS,SPEED_COUNT,effectiveNoticeStatus,resetProgress,
 chatReply,chatTopicFor,chatTopicStats,isFactualQuestion,chatHistory,saveChatHistory,chatSend,
 validateSuggestion,isDuplicateSuggestion,loadSuggestions,saveSuggestions,upvoteSuggestion,LS_CHAT,LS_SUGGEST,CHAT_MAX_MSGS,B,examName,fmt1,markPyqFlags,topicsForExam,mapTopicToSyllabus,breakdownLabelTopics,parseBreakdownWeights,pyqTopicShares,examTopicWeights,practiceTopicStats,attemptLevelTotals,guessEV,evVerdict,coachStats,coachAdvice,drillTopic,renderCoverage,renderPrint,generatePrintPaper,renderPrintPaperHtml,renderPlanner,renderCoach,renderPYQ,heatCell,buildStudyPlan,daysUntil,rebalancePlan,loadPlans,savePlans,planNotices,currentPlanTarget,generatePlan,deletePlan,showPlan,renderPlanCard,NOTICE_EXAM,PLANS_KEY,TOPIC_SYLLABUS_KEYS,BREAKDOWN_GROUPS,
-bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,renderNextExamCard,renderNextExamCompact,COURSE_FILES,COURSE_PROG_KEY,COURSE_EXAM_MAP,courseByExam,flattenCourseChapters,courseChapterById,calcCourseProgress,subjectProgress}; }
+bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,remKindLabel,remChip,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,renderNextExamCard,renderNextExamCompact,COURSE_FILES,COURSE_PROG_KEY,COURSE_EXAM_MAP,courseByExam,flattenCourseChapters,courseChapterById,calcCourseProgress,subjectProgress,
+HISTORY_CATEGORIES,historyCategoryLabel,historyById,historyHasDate,historyDateLabel,historyAdLabel,historySorted,historyEventsToday,historyQuizPool,historyMatches,historyQuizStart,historyQuizReveal,historyQuizMark,historyQuizReset,historyQuizState,renderHistory,renderHistoryList,renderHistoryOtd}; }

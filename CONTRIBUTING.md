@@ -175,6 +175,14 @@ On the site, use the **⚑ Report wrong question** button on any question (quiz,
 
 Or open a bug report with the **question ID** (e.g. `HIST-042`), what is wrong, and the correct answer with a source. Do not just say "this is wrong".
 
+## Beta warning + reporting issues
+
+- The site is in **beta**: the header carries a `BETA` pill, Home shows a dismissible beta banner (hidden for 7 days after dismiss), and the footer repeats the note with a report link.
+- **One report form for everything** (`assets/js/report.js`): bugs, wrong information, wrong questions/answers, other. Type + description (min 10 characters); the current view and (for questions) the question id, exam and topic are auto-filled. Never collect the page URL or the reporter's name into a report link.
+- Reports save to `loksewa_reports_v1` on the visitor's device and appear in the **Review** view's Reports section, where the maintainer marks them resolved or deletes them.
+- A local save never leaves the visitor's device, so the form's success state offers **Report on GitHub**, which opens a prefilled issue on `08raviyadav/loksewa-prep-nepal` (`?title=` + `?body=`). The URL must contain no personal data — only the type, the typed description, the question/view context, and the app version.
+- Question reports still go through `submitReport(qid, reason, comment, type)` in `assets/js/app.js` — keep its 3-arg contract (test-v2 depends on it). No inlined JS file may contain the literal string `assets/js/report.js` (the bundle builder asserts no `assets/js/…` src remains); refer to the file as `report.js` in comments.
+
 ## Exam dates (`data/exam-dates.json`) — the no-guessed-dates rule
 
 Upcoming exam / admit-card / application-deadline dates live in `data/exam-dates.json` and power the home-page reminder banner, the Exam Dates view and the on-device reminder notifications. **Never invent a date.** Every entry must be verified against an official source (psc.gov.np, tsc.gov.np, nrb.org.np, mec.gov.np, police/apf/army sites, provincial PSC sites). If a date cannot be verified on an official page, the entry does not ship.
@@ -237,6 +245,42 @@ Festival dates live in `data/festivals.json` and power the Home-page festival-wi
 - Birthday matching is month/day only (BS), via the existing BS engine — no absolute-day maths, so birth years 2040–2083 are fine even though `BS_MONTH_LEN` only covers 2083/2084. Day validation accepts 1–32 (every BS month is 29–32 days); a day that doesn't exist in a given year simply never matches.
 - Feature code lives in `assets/js/birthday.js` (pure helpers + renderers) with CSS §26; app.js hooks are `typeof`-guarded so app.js works standalone. `scripts/build-bundle.py` inlines birthday.js into the same app script block (bundle keeps exactly 2 script blocks).
 - The My Day digest reads festivals from the app.js `FESTIVALS` global first, then `window.EMBEDDED_FESTIVALS`, then a direct fetch of `data/festivals.json` — and degrades to exams + birthday when the file is absent. The digest never writes festival data; `data/festivals.json` is owned by the festival-wishes feature.
+
+## Historical events / Dates to Remember
+
+Verified historical dates for Lok Sewa GK live in `data/historical-events.json` (95 entries, 2026-11-09) and power the Home "On This Day" card, the **Dates to Remember** view (search + category filter + "Quiz me" flashcards) and the My Day digest. **Never invent a date.** Every entry was verified against at least **two reputable sources**; where sources disagreed on an exact day, the exact date was excluded (kept year-only, or dropped entirely) — the full excluded list with conflicting dates is in `scripts/historical-events-notes.md` §5, and the verification record is in `data/SOURCES.md` §19. Do not re-add an excluded date without two agreeing sources.
+
+### Entry format
+
+```json
+{
+  "id": "constitution-2015",
+  "title_en": "Constitution of Nepal 2015 promulgated",
+  "title_ne": "नेपालको संविधान २०७२ जारी",
+  "day_bs": "06-03",
+  "year_bs": 2072,
+  "date_ad": "2015-09-20",
+  "category": "constitution",
+  "summary_en": "The Constitution of Nepal was promulgated on 20 September 2015 (Ashoj 3, 2072 BS) by the Constituent Assembly. It has 35 parts, 308 articles and 9 schedules.",
+  "summary_ne": "नेपालको संविधान २० सेप्टेम्बर २०१५ (असोज ३, २०७२) मा संविधानसभाद्वारा जारी भयो। यसमा ३५ भाग, ३०८ धारा र ९ अनुसूची छन्।",
+  "confidence": "high",
+  "sources": ["https://en.wikipedia.org/wiki/Constitution_of_Nepal", "https://lokshewa.online/blog/nepal-constitution-important-questions.html"]
+}
+```
+
+- `id`: unique kebab-case slug. `category`: `nepal-history` | `world-history` | `nepal-institutions` | `constitution` | `international`.
+- `day_bs` ("MM-DD") is set **only when a source explicitly gave the BS month and day** — never convert AD → BS by guessing. `year_bs` is set when the BS year was documented or is deterministic from a known AD month (BS new year falls around mid-April: January–mid-April = AD − 57, mid-April–December = AD − 56). For world-history events and non-Nepal international organisations, `year_bs` is null — the BS year is not exam-relevant there and `date_ad` is the anchor.
+- `confidence`: `high` = 2+ reputable sources agree on the exact date; `medium` = sources agree on the event and year, but the exact day rests on a single detailed source or weaker sources. Never ship below `medium`. `sources`: at least 2 URLs per entry.
+- **Bilingual is mandatory** — `title_en`/`title_ne` and `summary_en`/`summary_ne` on every entry.
+
+### The `day_bs: null` rule (read this before editing the data)
+
+- Entries with `day_bs: null` (AD-only, year-only, or dateless) **appear in the Dates view but NOT in On This Day or the My Day digest** — they cannot recur by BS day. The digest helpers in `assets/js/birthday.js` take the history list as an optional 5th parameter and filter on `day_bs` themselves; do not "fix" a null by inventing a BS day.
+- A few entries have **both `year_bs` and `date_ad` null** (the year lives only in the title/summary text, e.g. Gorkha Kingdom founded 1559). They render gracefully — the row shows "Year in the summary below" instead of a date, never "null" — sort last, and are **excluded from quiz mode**: the quiz pool is only entries with a date to reveal (`day_bs` | `year_bs` | `date_ad`).
+- Historical events recur yearly by `day_bs` month/day: the Year tab of My Day counts them by `day_bs` month, and each digest row labels the original `year_bs` where known (e.g. "3 Ashwin 2072" for the Constitution). A `day_bs` day that does not exist in a given year's month (e.g. Mangsir 30 in 2083, which has 29 days) never matches — the month/year digest checks the day against that year's month length.
+- BS validity for `day_bs` is the day-32 rule (month 1–12, day 1–32): every BS month is 29–32 days and `BS_MONTH_LEN` only covers 2083/2084, so no exact month-length check is possible for most years.
+- Wars and long events are anchored on their **start date** as `date_ad`, with the end date stated in the summary.
+- Run `node scripts/test-historical-events.js` before submitting — it validates the schema, the day-32 bound, sorting, On-This-Day matching (incl. the BS year boundary), quiz state logic, and the My Day merge.
 
 ## Code changes
 

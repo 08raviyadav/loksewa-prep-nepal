@@ -7,7 +7,7 @@ window.EMBEDDED_EXAMS / window.EMBEDDED_QUESTIONS, plus data/papers.json,
 data/notices.json, data/funfacts.json and every file listed in app.js
 NOTES_FILES (data/notes/) as window.EMBEDDED_PAPERS / window.EMBEDDED_NOTICES /
 window.EMBEDDED_FUNFACTS / window.EMBEDDED_NOTES / window.EMBEDDED_EXAMDATES /
-window.EMBEDDED_COURSES / window.EMBEDDED_FESTIVALS.
+window.EMBEDDED_COURSES / window.EMBEDDED_FESTIVALS / window.EMBEDDED_HISTORY.
 
 The bundled loadData() uses the embedded data first (no fetch, so the file
 works opened directly in a phone browser / file://) and falls back to the
@@ -65,6 +65,11 @@ def main() -> int:
     # script blocks (test-bundle.js asserts this). It must load after app.js
     # (it calls app.js globals at render time, never at load time).
     bday_js = (ROOT / "assets" / "js" / "birthday.js").read_text(encoding="utf-8")
+    # Beta warning + Report an issue (assets/js/report.js) — same treatment
+    # as birthday.js: appended to the SAME inline script block as app.js so
+    # the bundle keeps exactly 2 script blocks. Must load after app.js (it
+    # calls app.js globals at render time, never at load time).
+    report_js = (ROOT / "assets" / "js" / "report.js").read_text(encoding="utf-8")
 
     # 1. Question files, in app.js order (authoritative list).
     m = re.search(r"const QUESTION_FILES = \[([^\]]*)\];", js, re.S)
@@ -84,6 +89,9 @@ def main() -> int:
     # Festivals (data/festivals.json) for the festival-wishes feature.
     _fest_path = ROOT / "data" / "festivals.json"
     festivals = json.loads(_fest_path.read_text(encoding="utf-8")) if _fest_path.exists() else []
+    # Historical events (data/historical-events.json) for Dates to Remember.
+    _hist_path = ROOT / "data" / "historical-events.json"
+    history = json.loads(_hist_path.read_text(encoding="utf-8")) if _hist_path.exists() else []
     # Theory courses, in app.js order (authoritative list).
     m3 = re.search(r"const COURSE_FILES = \[([^\]]*)\];", js, re.S)
     assert m3, "COURSE_FILES not found in app.js"
@@ -106,11 +114,12 @@ def main() -> int:
     js_patched = js.replace(FETCH_BLOCK, EMBEDDED_BLOCK, 1)
 
     # 3. Safety: nothing inlined may contain a literal </script>.
-    for name, text in (("css", css), ("js", js_patched), ("birthday.js", bday_js)):
+    for name, text in (("css", css), ("js", js_patched), ("birthday.js", bday_js), ("report.js", report_js)):
         assert "</script" not in text.lower(), f"</script> found in {name}"
     # NOTE: the marker below must NOT contain the literal file path —
     # the final assert checks that no "assets/js/..." src remains in the HTML.
     js_patched = js_patched + "\n/* ---- birthday feature (inlined) ---- */\n" + bday_js
+    js_patched = js_patched + "\n/* ---- report feature (inlined) ---- */\n" + report_js
     data_json = (
         "window.EMBEDDED_EXAMS="
         + json.dumps(exams, ensure_ascii=False, separators=(",", ":"))
@@ -130,6 +139,8 @@ def main() -> int:
         + json.dumps(courses, ensure_ascii=False, separators=(",", ":"))
         + ";\nwindow.EMBEDDED_FESTIVALS="
         + json.dumps(festivals, ensure_ascii=False, separators=(",", ":"))
+        + ";\nwindow.EMBEDDED_HISTORY="
+        + json.dumps(history, ensure_ascii=False, separators=(",", ":"))
         + ";"
     )
     assert "</script" not in data_json.lower(), "</script> found in embedded data"
@@ -143,6 +154,7 @@ def main() -> int:
     )
     assert '<script src="assets/js/app.js"></script>' in html
     assert '<script src="assets/js/birthday.js"></script>' in html
+    assert '<script src="assets/js/report.js"></script>' in html
     html = html.replace(
         '<script src="assets/js/app.js"></script>',
         "<script>\n" + data_json + "\n</script>\n<script>\n" + js_patched + "\n</script>",
@@ -152,8 +164,11 @@ def main() -> int:
     # so the bundle has no external script refs and still has exactly 2
     # inline <script> blocks.
     html = html.replace('<script src="assets/js/birthday.js"></script>', '', 1)
+    # Same for the report script tag (inlined above).
+    html = html.replace('<script src="assets/js/report.js"></script>', '', 1)
     assert "EMBEDDED_QUESTIONS" in html and "EMBEDDED_EXAMS" in html
     assert "assets/js/app.js" not in html and "assets/js/birthday.js" not in html
+    assert "assets/js/report.js" not in html
     assert "assets/css/style.css" not in html
 
     OUT.write_text(html, encoding="utf-8")
@@ -171,6 +186,7 @@ def main() -> int:
     print(f"papers: {len(papers)} (transcribed: {sum(1 for p in papers if p.get('transcribed'))})")
     print(f"notices: {len(notices)}")
     print(f"fun facts: {len(funfacts)}")
+    print(f"historical events: {len(history)}")
     print(f"revision notes: {len(notes)} ({sum(len(n['bullets']) for n in notes)} bullets)")
     print(f"questions: {len(questions)} (unique ids: {len({q['id'] for q in questions})})")
     print(f"bilingual: {bilingual}/{len(questions)}")

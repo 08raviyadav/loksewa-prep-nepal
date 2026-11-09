@@ -596,3 +596,35 @@ secured an official medal in either event — until … Palesha Goverdhan …
 at the Paris 2024 Paralympic Games"). Note for a future edit: Nepali
 media loosely call her bronze "Nepal's first Olympic medal", so the
 fact's Olympic-vs-Paralympic wording may still confuse readers.
+
+## 19. Historical events (2026-11-09) — `data/historical-events.json`, 95 entries
+
+Compiled 2026-11-09 by web research (search + page text; no app code touched).
+Every date verified against at least 2 reputable sources; where sources
+disagreed the exact date was excluded (see `scripts/historical-events-notes.md`
+§5 for the full excluded list with conflicting dates). BS day (`day_bs`) set
+only when a source explicitly gave the BS month/day; `year_bs` set when the BS
+year was documented or is deterministic from a known AD month.
+
+Counts: nepal-history 35, constitution 13, nepal-institutions 17,
+international 16, world-history 14. Confidence: 54 high, 41 medium.
+
+Sources relied on most: Wikipedia history/constitution/institution articles
+(cross-checked per entry); Nepal News diplomatic timeline (UN, treaties,
+SAARC, peacekeeping); Nepali Times / Rising Nepal Daily / The Himalayan Times
+/ Online Khabar; official treaty texts via FAO and the Government of India
+(Mahakali Treaty); NRB official history PDF; Tribhuvan University official
+site; Colombo Plan official member list; Britannica / Encyclopedia.com.
+
+Excluded for disagreement (examples): Kathmandu conquered 25 vs 26 vs
+29 Sep 1768; Gorkhapatra first issue 6 vs 7 May 1901; Radio Nepal 1 vs
+2 Apr 1951; Durbar High School 1853 vs 1854 vs 1883 vs 1884 (excluded
+entirely); Nepal joined WTO 23 vs 24 Apr 2004; Civil Service Act 6 vs
+7 Sep 1956; Nepal joined BIMSTEC Feb 2004 vs 2003. Previously logged
+conflicts NOT reused: constitution vote count 538 vs 507 (§10.8) and NRB
+first banknotes 19 Sep 1959 vs 19 Feb 1960 (§10.9).
+
+Still unverified (candidates for a future pass): first census (1911), first
+five-year plan (1956), Nepal Academy, NHRC, first president elected
+(21 July 2008), Rastriya Banijya Bank founding (23 Jan 1966), Bir Hospital
+founding (1890?).

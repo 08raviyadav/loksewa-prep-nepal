@@ -1,5 +1,41 @@
 # BACKEND.md — LokSewa Vidyapeeth: from demo mode to a real backend
 
+## 0. Decision (2026-11-09): Vercel Serverless Functions + Vercel Postgres — for reports, now
+
+**Stack chosen: Vercel Serverless Functions (Node) + Vercel Postgres, in this
+same repo.** The code is built: `api/report.js`, `api/health.js`,
+`api/_lib/` (db, validate, ratelimit, auth, respond), `db/schema.sql`,
+`vercel.json`, `package.json` (`pg` only — the frontend stays
+zero-dependency). Setup steps the user must do in the Vercel dashboard:
+`docs/BACKEND_SETUP.md`.
+
+Why this stack, and why not Supabase yet:
+- **Zero new hosting.** The site already deploys on Vercel with auto-deploy
+  on push. `api/*.js` in the same repo becomes live functions on the next
+  push — no new account, no new project, no DNS, no CORS (same origin).
+- **Free tier covers this scale.** Vercel Postgres free tier (256 MB storage,
+  60 hours compute/month at the time of writing — verify in the dashboard)
+  holds a trickle of text reports for years; function invocations are far
+  below the free allowance for a report form.
+- **Scope matches the need.** Reports need one table, server-side validation,
+  rate limiting, and a single admin token — no user accounts, no realtime,
+  no row-level security. Supabase would be the right call for the *next*
+  step (real Google login, leaderboard, Discussion Hub sync — §§1–4 below),
+  but standing it up now for a one-table report queue would add an account,
+  a second Postgres, and OAuth plumbing for no user-facing gain.
+- **No auth built.** Deliberately: there are no user accounts in this step.
+  Admin access is one `ADMIN_TOKEN` env var, typed once per browser tab in
+  the Review view and kept in `sessionStorage` only. That is report-triage
+  level security, not enterprise auth — documented in `api/_lib/auth.js`.
+- **Privacy unchanged.** The `reports` table stores only what the visitor
+  typed (type, description, context). No IP, no user agent, no name, no
+  page URL. Rate limiting hashes the IP in function memory only.
+
+**Supabase remains the later path** for auth / leaderboard / discussions
+(§§1–6 below are unchanged). When that lands, the reports table can move
+to Supabase or stay on Vercel Postgres — the frontend talks to `/api/*`
+either way, so the migration is a server-side swap, not a rewrite.
+
 **Current state: demo mode.** Everything in v2 (sign-in, Discussion Hub,
 question submissions, moderation, report-wrong-question) runs on
 `localStorage` on one device. No data leaves the device, no account is

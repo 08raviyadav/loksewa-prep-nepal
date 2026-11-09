@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "gorkha-kingdom-founded-1559",
+    "title_en": "Gorkha Kingdom founded by Dravya Shah",
+    "title_ne": "द्रव्य शाहद्वारा गोरखा राज्यको स्थापना",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "Dravya Shah founded the Gorkha Kingdom in 1559, the small hill state from which Prithvi Narayan Shah later launched the unification of Nepal.",
+    "summary_ne": "द्रव्य शाहले सन् १५५९ मा गोरखा राज्यको स्थापना गरे। यही सानो पहाडी राज्यबाट पछि पृथ्वीनारायण शाहले नेपाल एकीकरणको अभियान सुरु गरे।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/History_of_Nepal",
+      "https://en.wikipedia.org/wiki/Nepali_Army"
+    ]
+  },
+  {
+    "id": "prithvi-narayan-shah-born-1723",
+    "title_en": "Prithvi Narayan Shah born",
+    "title_ne": "पृथ्वीनारायण शाहको जन्म",
+    "day_bs": null,
+    "year_bs": 1779,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "Prithvi Narayan Shah, the king of Gorkha who unified Nepal, was born in 1723. He succeeded his father Nara Bhupal Shah to the throne of Gorkha in 1743.",
+    "summary_ne": "नेपाललाई एकीकरण गर्ने गोरखाका राजा पृथ्वीनारायण शाहको जन्म सन् १७२३ मा भएको थियो। उनले सन् १७४३ मा आफ्ना पिता नरभूपाल शाहपछि गोरखाको गद्दी सम्हाले।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/History_of_Nepal",
+      "https://en.wikipedia.org/wiki/Nepal%E2%80%93Britain_Treaty_of_1923"
+    ]
+  },
+  {
+    "id": "prithvi-narayan-shah-crowned-gorkha-1743",
+    "title_en": "Prithvi Narayan Shah crowned King of Gorkha",
+    "title_ne": "पृथ्वीनारायण शाह गोरखाका राजा भए",
+    "day_bs": null,
+    "year_bs": 1799,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "Prithvi Narayan Shah succeeded his father Nara Bhupal Shah and became King of Gorkha in 1743, at the age of twenty.",
+    "summary_ne": "पृथ्वीनारायण शाहले सन् १७४३ मा आफ्ना पिता नरभूपाल शाहपछि गोरखाको राजगद्दी सम्हाले। त्यसबेला उनी बीस वर्षका थिए।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/History_of_Nepal",
+      "https://en.wikipedia.org/wiki/Medieval_history_of_Nepal"
+    ]
+  },
+  {
+    "id": "nuwakot-conquered-1744",
+    "title_en": "Prithvi Narayan Shah conquers Nuwakot",
+    "title_ne": "पृथ्वीनारायण शाहद्वारा नुवाकोट विजय",
+    "day_bs": null,
+    "year_bs": 1801,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "In 1744 Prithvi Narayan Shah captured Nuwakot, the first major conquest of his unification campaign, controlling the trade route between Tibet and the Kathmandu Valley.",
+    "summary_ne": "सन् १७४४ मा पृथ्वीनारायण शाहले नुवाकोट विजय गरे। यो उनको एकीकरण अभियानको पहिलो ठूलो विजय थियो, जसले तिब्बत र काठमाडौं उपत्यकाबीचको व्यापार मार्गमाथि नियन्त्रण दियो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Medieval_history_of_Nepal",
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/history-of-nepal.html"
+    ]
+  },
+  {
+    "id": "kathmandu-valley-unification-completed-1769",
+    "title_en": "Unification of the Kathmandu Valley completed",
+    "title_ne": "काठमाडौं उपत्यकाको एकीकरण पूरा",
+    "day_bs": null,
+    "year_bs": 1826,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "By 1769 Prithvi Narayan Shah had conquered Kathmandu, Patan and Bhaktapur, completing the conquest of the Kathmandu Valley and making Kathmandu the capital of the unified Kingdom of Nepal.",
+    "summary_ne": "सन् १७६९ सम्ममा पृथ्वीनारायण शाहले काठमाडौं, पाटन र भक्तपुर विजय गरी काठमाडौं उपत्यकाको विजय पूरा गरे र काठमाडौंलाई एकीकृत नेपाल राज्यको राजधानी बनाए।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Medieval_history_of_Nepal",
+      "https://en.wikipedia.org/wiki/Battle_of_Kathmandu"
+    ]
+  },
+  {
+    "id": "jung-bahadur-visit-britain-1850",
+    "title_en": "Jung Bahadur Rana visits Britain",
+    "title_ne": "जंगबहादुर राणाको बेलायत भ्रमण",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "In 1850 Jung Bahadur Rana visited Britain and France, the first South Asian ruler to visit England, to judge whether war with Britain could win back territory lost in 1816.",
+    "summary_ne": "सन् १८५० मा जंगबहादुर राणाले बेलायत र फ्रान्सको भ्रमण गरे। उनी बेलायत भ्रमण गर्ने पहिलो दक्षिण एसियाली शासक थिए।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.bordersoftime.com/country/nepal",
+      "https://myrepublica.nagariknetwork.com/news/nepal-britain-treaty-the-centennial"
+    ]
+  },
+  {
+    "id": "anglo-nepal-war-began-1814",
+    "title_en": "Anglo-Nepalese War begins",
+    "title_ne": "अंग्रेज–नेपाल युद्ध सुरु",
+    "day_bs": null,
+    "year_bs": 1871,
+    "date_ad": null,
+    "category": "nepal-history",
+    "summary_en": "The Anglo-Nepalese War between the Kingdom of Nepal and the British East India Company began in 1814 and ended with the Treaty of Sugauli in 1816.",
+    "summary_ne": "नेपाल राज्य र ब्रिटिस इस्ट इन्डिया कम्पनीबीचको अंग्रेज–नेपाल युद्ध सन् १८१४ मा सुरु भयो र सन् १८१६ मा सुगौली सन्धिबाट अन्त्य भयो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Treaty_of_Sugauli",
+      "https://en.wikipedia.org/wiki/History_of_Nepal"
+    ]
+  },
+  {
+    "id": "sugauli-treaty-1816",
+    "title_en": "Treaty of Sugauli signed",
+    "title_ne": "सुगौली सन्धि",
+    "day_bs": null,
+    "year_bs": 1872,
+    "date_ad": "1816-03-04",
+    "category": "nepal-history",
+    "summary_en": "The Treaty of Sugauli was signed on 4 March 1816 between the East India Company and the Kingdom of Nepal, ending the Anglo-Nepalese War. Nepal lost about a third of its territory, including Sikkim, Kumaon and Garhwal.",
+    "summary_ne": "सुगौली सन्धि ४ मार्च १८१६ मा इस्ट इन्डिया कम्पनी र नेपाल राज्यबीच भयो र अंग्रेज–नेपाल युद्ध अन्त्य भयो। यस सन्धिबाट नेपालले आफ्नो झन्डै एक तिहाइ भूभाग गुमायो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Treaty_of_Sugauli",
+      "https://thegurkhamuseum.co.uk/blog/the-treaty-of-segauli/"
+    ]
+  },
+  {
+    "id": "kot-parva-1846",
+    "title_en": "Kot Parva (Kot Massacre)",
+    "title_ne": "कोत पर्व",
+    "day_bs": null,
+    "year_bs": 1903,
+    "date_ad": "1846-09-14",
+    "category": "nepal-history",
+    "summary_en": "On the night of 14 September 1846, Jung Bahadur Kunwar and his brothers killed about 30 to 40 leading courtiers at the palace armoury (Kot) in Kathmandu. The massacre began the Rana regime, which ruled Nepal until 1951.",
+    "summary_ne": "१४ सेप्टेम्बर १८४६ को राति जंगबहादुर कुँवर र उनका भाइहरूले काठमाडौंको हनुमानढोका कोतमा झन्डै ३० देखि ४० जना भारदारहरूको हत्या गरे। यस घटनाबाट राणा शासन सुरु भयो, जुन सन् १९५१ सम्म चल्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kot_massacre",
+      "http://countrystudies.us/nepal/13.htm"
+    ]
+  },
+  {
+    "id": "nepal-britain-treaty-1923",
+    "title_en": "Nepal–Britain Treaty recognises Nepal's sovereignty",
+    "title_ne": "नेपाल–बेलायत सन्धि",
+    "day_bs": "09-06",
+    "year_bs": 1980,
+    "date_ad": "1923-12-21",
+    "category": "nepal-history",
+    "summary_en": "The Nepal–Britain Treaty of Friendship was signed on 21 December 1923 (Paush 6, 1980 BS). Britain formally recognised Nepal as an independent and sovereign state.",
+    "summary_ne": "नेपाल–बेलायत मैत्री सन्धि २१ डिसेम्बर १९२३ (पुस ६, १९८०) मा भयो। यस सन्धिबाट बेलायतले नेपाललाई स्वतन्त्र र सार्वभौम राज्यका रूपमा औपचारिक मान्यता दियो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal%E2%80%93Britain_Treaty_of_1923",
+      "https://myrepublica.nagariknetwork.com/news/nepal-britain-treaty-the-centennial"
+    ]
+  },
+  {
+    "id": "nepal-bihar-earthquake-1934",
+    "title_en": "Nepal–Bihar earthquake of 1934",
+    "title_ne": "१९३४ को नेपाल–बिहार भूकम्प",
+    "day_bs": "10-01",
+    "year_bs": 1990,
+    "date_ad": "1934-01-15",
+    "category": "nepal-history",
+    "summary_en": "A great earthquake of magnitude about 8.0 struck Nepal and Bihar on 15 January 1934 (Magh 1, 1990 BS, Sankranti day), killing thousands of people and badly damaging Kathmandu, Bhaktapur and Patan.",
+    "summary_ne": "१५ जनवरी १९३४ (माघ १, १९९०, माघे संक्रान्ति) मा नेपाल र बिहारमा करिब ८.० म्याग्निच्युडको ठूलो भूकम्प गयो। यसले हजारौं मानिसको ज्यान लियो र काठमाडौं, भक्तपुर र पाटनमा ठूलो क्षति पुर्‍यायो।",
+    "confidence": "high",
+    "sources": [
+      "https://nepaldesk.com/info/major-earthquakes-nepal",
+      "http://bhookampan.co.in/images/vol5/2018_2_Bihar-Nepal1988_Bhookampan.pdf"
+    ]
+  },
+  {
+    "id": "king-tribhuvan-exile-1950",
+    "title_en": "King Tribhuvan goes into exile in India",
+    "title_ne": "राजा त्रिभुवन भारत निर्वासनमा",
+    "day_bs": "07-22",
+    "year_bs": 2007,
+    "date_ad": "1950-11-07",
+    "category": "nepal-history",
+    "summary_en": "On 7 November 1950 (Kartik 22, 2007 BS) King Tribhuvan fled to the Indian Embassy and went into exile in India, and the Rana government crowned his grandson Gyanendra king in his absence.",
+    "summary_ne": "७ नोभेम्बर १९५० (कात्तिक २२, २००७) मा राजा त्रिभुवन भारतीय दूतावास हुँदै भारत निर्वासनमा गए। उनको अनुपस्थितिमा राणा सरकारले उनका नाति ज्ञानेन्द्रलाई राजा घोषणा गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timeline_of_Nepalese_politics",
+      "https://en.wikipedia.org/wiki/1951_Nepalese_revolution"
+    ]
+  },
+  {
+    "id": "delhi-accord-1951",
+    "title_en": "Delhi Accord ends the Rana regime",
+    "title_ne": "दिल्ली सम्झौता",
+    "day_bs": "11-01",
+    "year_bs": 2007,
+    "date_ad": "1951-02-12",
+    "category": "nepal-history",
+    "summary_en": "The Delhi Accord, a tripartite agreement between King Tribhuvan, the Ranas and the Nepali Congress, was signed on 12 February 1951 (Falgun 1, 2007 BS), paving the way for the end of Rana rule.",
+    "summary_ne": "राजा त्रिभुवन, राणा र नेपाली कांग्रेसबीचको त्रिपक्षीय दिल्ली सम्झौता १२ फेब्रुअरी १९५१ (फागुन १, २००७) मा भयो। यसले राणा शासनको अन्त्यको बाटो खोल्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.suryaxetri.com/2020/09/social-studies-note-for-grade-x-unit-7-delhi-agreement-1.html",
+      "https://en.wikipedia.org/wiki/1951_Nepalese_revolution"
+    ]
+  },
+  {
+    "id": "democracy-established-2007-bs",
+    "title_en": "Democracy established in Nepal (Revolution of 2007 BS)",
+    "title_ne": "नेपालमा प्रजातन्त्रको स्थापना (२००७ सालको क्रान्ति)",
+    "day_bs": "11-07",
+    "year_bs": 2007,
+    "date_ad": "1951-02-18",
+    "category": "nepal-history",
+    "summary_en": "On 18 February 1951 (Falgun 7, 2007 BS) King Tribhuvan returned to Nepal and proclaimed democracy, ending the 104-year Rana regime. Falgun 7 is observed as Democracy Day (Prajatantra Diwas).",
+    "summary_ne": "१८ फेब्रुअरी १९५१ (फागुन ७, २००७) मा राजा त्रिभुवन नेपाल फर्किए र प्रजातन्त्रको घोषणा गरे। यसबाट १०४ वर्ष लामो राणा शासन अन्त्य भयो। फागुन ७ लाई प्रजातन्त्र दिवसका रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1951_Nepalese_revolution",
+      "https://www.collegenp.com/biography/tribhuvan-bir-bikram-shah"
+    ]
+  },
+  {
+    "id": "everest-first-ascent-1953",
+    "title_en": "First ascent of Mount Everest",
+    "title_ne": "सगरमाथाको प्रथम आरोहण",
+    "day_bs": null,
+    "year_bs": 2010,
+    "date_ad": "1953-05-29",
+    "category": "nepal-history",
+    "summary_en": "Edmund Hillary of New Zealand and Tenzing Norgay reached the summit of Mount Everest on 29 May 1953, the first confirmed ascent of the world's highest mountain, via the South Col route from Nepal.",
+    "summary_ne": "२९ मे १९५३ मा न्युजिल्यान्डका एडमन्ड हिलारी र तेन्जिङ नोर्गेले सगरमाथाको शिखरमा पुगे। यो विश्वको सर्वोच्च शिखरको पहिलो पुष्टि भएको आरोहण थियो।",
+    "confidence": "high",
+    "sources": [
+      "https://english.nepalnews.com/s/tourism/mount-everest-a-comprehensive-timeline-from-the-first-reconnaissance-expeditions-to-the-present-day/",
+      "https://testbook.com/question-answer/the-mt-everest-was-first-scaled-in-the-year-_____--612643b5419328add744c5c5"
+    ]
+  },
+  {
+    "id": "first-general-election-1959",
+    "title_en": "Nepal's first general election",
+    "title_ne": "नेपालको पहिलो आम निर्वाचन",
+    "day_bs": null,
+    "year_bs": 2015,
+    "date_ad": "1959-02-18",
+    "category": "nepal-history",
+    "summary_en": "Voting in Nepal's first general election began on 18 February 1959, on the basis of universal adult franchise. The Nepali Congress won 74 of the 109 seats in the House of Representatives.",
+    "summary_ne": "नेपालको पहिलो आम निर्वाचनमा १८ फेब्रुअरी १९५९ देखि मतदान सुरु भयो। यो वयस्क मताधिकारका आधारमा भएको पहिलो निर्वाचन थियो। नेपाली कांग्रेसले १०९ मध्ये ७४ सिट जित्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://english.nepalnews.com/s/politics/eight-general-elections-eight-stories-nepals-political-journey/",
+      "https://en.wikipedia.org/wiki/Mahendra_Bir_Bikram_Shah"
+    ]
+  },
+  {
+    "id": "bp-koirala-first-elected-prime-minister-1959",
+    "title_en": "B. P. Koirala becomes Nepal's first elected Prime Minister",
+    "title_ne": "बीपी कोइराला नेपालका पहिलो निर्वाचित प्रधानमन्त्री",
+    "day_bs": null,
+    "year_bs": 2016,
+    "date_ad": "1959-05-27",
+    "category": "nepal-history",
+    "summary_en": "Bishweshwar Prasad Koirala of the Nepali Congress took the oath of office as Nepal's first popularly elected Prime Minister on 27 May 1959.",
+    "summary_ne": "२७ मे १९५९ मा नेपाली कांग्रेसका विश्वेश्वरप्रसाद कोइरालाले नेपालका पहिलो जननिर्वाचित प्रधानमन्त्रीका रूपमा शपथ लिए।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahendra_Bir_Bikram_Shah",
+      "https://english.nepalnews.com/s/politics/nepali-congress-legacy-splits-and-power-struggles-timeline/"
+    ]
+  },
+  {
+    "id": "mahendra-coup-1960",
+    "title_en": "King Mahendra's coup and the start of the Panchayat system",
+    "title_ne": "राजा महेन्द्रको कु र पञ्चायत प्रणालीको सुरुआत",
+    "day_bs": "09-01",
+    "year_bs": 2017,
+    "date_ad": "1960-12-15",
+    "category": "nepal-history",
+    "summary_en": "On 15 December 1960 (Poush 1, 2017 BS) King Mahendra dismissed the elected government of B. P. Koirala, suspended the constitution, banned political parties and introduced the partyless Panchayat system.",
+    "summary_ne": "१५ डिसेम्बर १९६० (पुस १, २०१७) मा राजा महेन्द्रले बीपी कोइरालाको निर्वाचित सरकार बर्खास्त गरी संविधान निलम्बन गरे, राजनीतिक दलहरूमाथि प्रतिबन्ध लगाए र निर्दलीय पञ्चायत प्रणाली सुरु गरे।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mahendra_Bir_Bikram_Shah",
+      "https://en.wikipedia.org/wiki/Timeline_of_Nepalese_politics"
+    ]
+  },
+  {
+    "id": "referendum-1980",
+    "title_en": "National referendum on the Panchayat system",
+    "title_ne": "पञ्चायत प्रणालीबारे राष्ट्रिय जनमत संग्रह",
+    "day_bs": "01-20",
+    "year_bs": 2037,
+    "date_ad": "1980-05-02",
+    "category": "nepal-history",
+    "summary_en": "On 2 May 1980 (Baisakh 20, 2037 BS) Nepal held a national referendum choosing between the Panchayat system and a multiparty system. The Panchayat system was retained.",
+    "summary_ne": "२ मे १९८० (वैशाख २०, २०३७) मा नेपालमा पञ्चायत प्रणाली र बहुदलीय प्रणालीबीच छनोट गर्न राष्ट्रिय जनमत संग्रह भयो। जनमत संग्रहमा पञ्चायत प्रणाली कायम रह्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timeline_of_Nepalese_politics",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "udayapur-earthquake-1988",
+    "title_en": "Udayapur earthquake of 1988",
+    "title_ne": "१९८८ को उदयपुर भूकम्प",
+    "day_bs": null,
+    "year_bs": 2045,
+    "date_ad": "1988-08-21",
+    "category": "nepal-history",
+    "summary_en": "A magnitude 6.8 earthquake struck eastern Nepal on 21 August 1988, centred in Udayapur district. More than 700 people died in Nepal and tens of thousands of houses were damaged.",
+    "summary_ne": "२१ अगस्ट १९८८ मा पूर्वी नेपालमा ६.८ म्याग्निच्युडको भूकम्प गयो, जसको केन्द्र उदयपुर जिल्लामा थियो। नेपालमा ७०० भन्दा बढी मानिसको मृत्यु भयो र दशौं हजार घरमा क्षति पुग्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://nepaldesk.com/info/major-earthquakes-nepal",
+      "https://www.researchgate.net/publication/324528896_From_the_1988_Udaypur_to_the_2015_Gorkha_earthquake_Nepal_and_beyond"
+    ]
+  },
+  {
+    "id": "jana-andolan-2046-began",
+    "title_en": "Jana Andolan of 2046 BS begins",
+    "title_ne": "२०४६ सालको जनआन्दोलन सुरु",
+    "day_bs": "11-07",
+    "year_bs": 2046,
+    "date_ad": "1990-02-18",
+    "category": "nepal-history",
+    "summary_en": "The People's Movement of 1990 (2046 Jana Andolan) began on 18 February 1990 (Falgun 7, 2046 BS), launched jointly by the Nepali Congress and the United Left Front against the Panchayat system.",
+    "summary_ne": "२०४६ सालको जनआन्दोलन १८ फेब्रुअरी १९९० (फागुन ७, २०४६) मा नेपाली कांग्रेस र संयुक्त वाम मोर्चाद्वारा पञ्चायत प्रणालीविरुद्ध सुरु भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1990_Nepalese_revolution",
+      "https://thehimalayantimes.com/nepal/peoples-movement-day-being-observed-across-the-country"
+    ]
+  },
+  {
+    "id": "democracy-restored-1990",
+    "title_en": "Multi-party democracy restored in Nepal",
+    "title_ne": "नेपालमा बहुदलीय प्रजातन्त्रको पुनर्स्थापना",
+    "day_bs": null,
+    "year_bs": 2046,
+    "date_ad": "1990-04-08",
+    "category": "nepal-history",
+    "summary_en": "On 8 April 1990 King Birendra lifted the ban on political parties and restored multi-party democracy, ending the 30-year party-less Panchayat system. The 50-day People's Movement is commemorated as Jana Andolan Diwas.",
+    "summary_ne": "८ अप्रिल १९९० मा राजा वीरेन्द्रले राजनीतिक दलहरूमाथिको प्रतिबन्ध हटाएर बहुदलीय प्रजातन्त्र पुनर्स्थापना गरे। यसबाट ३० वर्ष लामो निर्दलीय पञ्चायत प्रणाली अन्त्य भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1990_Nepalese_revolution",
+      "https://risingnepaldaily.com/news/60021"
+    ]
+  },
+  {
+    "id": "maoist-insurgency-began-1996",
+    "title_en": "Maoist insurgency begins",
+    "title_ne": "माओवादी सशस्त्र द्वन्द्व सुरु",
+    "day_bs": null,
+    "year_bs": 2052,
+    "date_ad": "1996-02-13",
+    "category": "nepal-history",
+    "summary_en": "The Nepalese Civil War began on 13 February 1996, when the Communist Party of Nepal (Maoist) launched an armed insurgency to overthrow the monarchy and establish a people's republic.",
+    "summary_ne": "१३ फेब्रुअरी १९९६ मा नेपाल कम्युनिस्ट पार्टी (माओवादी) ले सशस्त्र विद्रोह सुरु गरेपछि नेपाली गृहयुद्ध सुरु भयो। यसको उद्देश्य राजतन्त्र हटाएर जनगणतन्त्र स्थापना गर्नु थियो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal_Civil_War",
+      "https://encyclopedia.thefreedictionary.com/Nepalese+Civil+War"
+    ]
+  },
+  {
+    "id": "royal-massacre-2001",
+    "title_en": "Narayanhiti royal massacre",
+    "title_ne": "नारायणहिटी दरबार हत्याकाण्ड",
+    "day_bs": "02-19",
+    "year_bs": 2058,
+    "date_ad": "2001-06-01",
+    "category": "nepal-history",
+    "summary_en": "On 1 June 2001 (Jestha 19, 2058 BS) King Birendra, Queen Aishwarya and most of the royal family were killed in a shooting at Narayanhiti Palace in Kathmandu. Crown Prince Dipendra was implicated by the official inquiry.",
+    "summary_ne": "१ जुन २००१ (जेठ १९, २०५८) मा काठमाडौंको नारायणहिटी दरबारमा भएको गोलीकाण्डमा राजा वीरेन्द्र, रानी ऐश्वर्यलगायत राजपरिवारका अधिकांश सदस्य मारिए।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal_Civil_War",
+      "https://nepalitimes.com/2000-2009"
+    ]
+  },
+  {
+    "id": "gyanendra-coup-2005",
+    "title_en": "King Gyanendra's royal takeover",
+    "title_ne": "राजा ज्ञानेन्द्रको शाही कदम",
+    "day_bs": "10-19",
+    "year_bs": 2061,
+    "date_ad": "2005-02-01",
+    "category": "nepal-history",
+    "summary_en": "On 1 February 2005 (Magh 19, 2061 BS) King Gyanendra dismissed the government, declared a state of emergency and assumed direct rule, restoring absolute monarchy.",
+    "summary_ne": "१ फेब्रुअरी २००५ (माघ १९, २०६१) मा राजा ज्ञानेन्द्रले सरकार बर्खास्त गरी संकटकाल घोषणा गरे र प्रत्यक्ष शासन सम्हाले।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timeline_of_Nepalese_politics",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "twelve-point-agreement-2005",
+    "title_en": "Twelve-point agreement between the parties and the Maoists",
+    "title_ne": "बाह्र बुँदे सहमति",
+    "day_bs": null,
+    "year_bs": 2062,
+    "date_ad": "2005-11-22",
+    "category": "nepal-history",
+    "summary_en": "On 22 November 2005 the Seven Party Alliance and the Maoists signed a twelve-point agreement to unite against King Gyanendra's direct rule, restore parliament and hold Constituent Assembly elections.",
+    "summary_ne": "२२ नोभेम्बर २००५ मा सात राजनीतिक दल र माओवादीबीच बाह्र बुँदे सहमति भयो। यसले राजा ज्ञानेन्द्रको प्रत्यक्ष शासनविरुद्ध साझा आन्दोलनको बाटो खोल्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://nepalitimes.com/2000-2009",
+      "https://www.europe-solidaire.org/spip.php?article10040"
+    ]
+  },
+  {
+    "id": "jana-andolan-ii-parliament-restored-2006",
+    "title_en": "Jana Andolan II: parliament reinstated",
+    "title_ne": "जनआन्दोलन–२: संसद पुनर्स्थापना",
+    "day_bs": null,
+    "year_bs": 2063,
+    "date_ad": "2006-04-24",
+    "category": "nepal-history",
+    "summary_en": "After 19 days of mass protests in April 2006 (Jana Andolan II), King Gyanendra reinstated the dissolved House of Representatives on 24 April 2006, ending his direct rule. The day is observed as Loktantra Diwas (Democracy Day).",
+    "summary_ne": "अप्रिल २००६ को १९ दिने जनआन्दोलन (जनआन्दोलन–२) पछि २४ अप्रिल २००६ मा राजा ज्ञानेन्द्रले विघटित प्रतिनिधिसभा पुनर्स्थापना गरे। यस दिनलाई लोकतन्त्र दिवसका रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2006_Nepalese_revolution",
+      "https://english.onlinekhabar.com/loktantra-day-2006-peoples-movement.html"
+    ]
+  },
+  {
+    "id": "house-proclamation-secular-nepal-2006",
+    "title_en": "House of Representatives declares Nepal a secular state",
+    "title_ne": "प्रतिनिधिसभाद्वारा नेपाललाई धर्मनिरपेक्ष राज्य घोषणा",
+    "day_bs": null,
+    "year_bs": 2063,
+    "date_ad": "2006-05-18",
+    "category": "nepal-history",
+    "summary_en": "On 18 May 2006 the reinstated House of Representatives passed a proclamation stripping the King of most powers, bringing the army under civilian control and declaring Nepal a secular state.",
+    "summary_ne": "१८ मे २००६ मा पुनर्स्थापित प्रतिनिधिसभाले राजाको अधिकार कटौती गरी सेनालाई नागरिक नियन्त्रणमा ल्यायो र नेपाललाई धर्मनिरपेक्ष राज्य घोषणा गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://sergejordan.substack.com/p/20-years-since-nepals-april-revolution",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "comprehensive-peace-accord-2006",
+    "title_en": "Comprehensive Peace Accord signed",
+    "title_ne": "विस्तृत शान्ति सम्झौता",
+    "day_bs": null,
+    "year_bs": 2063,
+    "date_ad": "2006-11-21",
+    "category": "nepal-history",
+    "summary_en": "The Comprehensive Peace Accord was signed on 21 November 2006 between the Government of Nepal and the Maoists, formally ending the ten-year civil war that had begun on 13 February 1996.",
+    "summary_ne": "२१ नोभेम्बर २००६ मा नेपाल सरकार र माओवादीबीच विस्तृत शान्ति सम्झौता भयो। यसबाट १३ फेब्रुअरी १९९६ देखि चलेको दश वर्षे सशस्त्र द्वन्द्व औपचारिक रूपमा अन्त्य भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal_Civil_War",
+      "https://nepalitimes.com/2000-2009"
+    ]
+  },
+  {
+    "id": "first-constituent-assembly-election-2008",
+    "title_en": "First Constituent Assembly election",
+    "title_ne": "पहिलो संविधानसभा निर्वाचन",
+    "day_bs": null,
+    "year_bs": 2064,
+    "date_ad": "2008-04-10",
+    "category": "nepal-history",
+    "summary_en": "Nepal's first Constituent Assembly election was held on 10 April 2008 to elect a 601-member assembly to write a new constitution. The Maoists emerged as the largest party.",
+    "summary_ne": "नेपालको पहिलो संविधानसभा निर्वाचन १० अप्रिल २००८ मा भयो। ६०१ सदस्यीय सभाले नयाँ संविधान लेख्ने जिम्मा पायो। यस निर्वाचनमा माओवादी सबैभन्दा ठूलो दल बन्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://theannapurnaexpress.com/story/62348/",
+      "https://en.wikipedia.org/wiki/1st_Nepalese_Constituent_Assembly"
+    ]
+  },
+  {
+    "id": "republic-declared-2008",
+    "title_en": "Nepal declared a federal democratic republic",
+    "title_ne": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र घोषित",
+    "day_bs": "02-15",
+    "year_bs": 2065,
+    "date_ad": "2008-05-28",
+    "category": "nepal-history",
+    "summary_en": "On 28 May 2008 (Jestha 15, 2065 BS) the first meeting of the Constituent Assembly voted 560 to 4 to abolish the monarchy and declare Nepal a federal democratic republic, ending 240 years of Shah rule.",
+    "summary_ne": "२८ मे २००८ (जेठ १५, २०६५) मा संविधानसभाको पहिलो बैठकले ५६० मतले राजतन्त्र अन्त्य गरी नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गर्‍यो। यसबाट २४० वर्ष लामो शाह शासन अन्त्य भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2008_in_Nepal",
+      "https://frontline.thehindu.com/world-affairs/article30196537.ece"
+    ]
+  },
+  {
+    "id": "first-constituent-assembly-dissolved-2012",
+    "title_en": "First Constituent Assembly dissolved without a constitution",
+    "title_ne": "पहिलो संविधानसभा संविधानबिना विघटन",
+    "day_bs": null,
+    "year_bs": 2069,
+    "date_ad": "2012-05-28",
+    "category": "nepal-history",
+    "summary_en": "The first Constituent Assembly was dissolved on 28 May 2012 after four years, having failed to draft a new constitution, mainly over the design of federalism.",
+    "summary_ne": "पहिलो संविधानसभा चार वर्षमा पनि नयाँ संविधान लेख्न नसकेपछि २८ मे २०१२ मा विघटन भयो। संघीयताको स्वरूपमा सहमति नहुनु यसको मुख्य कारण थियो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1st_Nepalese_Constituent_Assembly",
+      "https://data.ipu.org/election-summary/HTML/2386_13.htm"
+    ]
+  },
+  {
+    "id": "second-constituent-assembly-election-2013",
+    "title_en": "Second Constituent Assembly election",
+    "title_ne": "दोस्रो संविधानसभा निर्वाचन",
+    "day_bs": null,
+    "year_bs": 2070,
+    "date_ad": "2013-11-19",
+    "category": "nepal-history",
+    "summary_en": "Nepal's second Constituent Assembly election was held on 19 November 2013 to elect a new 601-member assembly after the first one was dissolved in 2012.",
+    "summary_ne": "नेपालको दोस्रो संविधानसभा निर्वाचन १९ नोभेम्बर २०१३ मा भयो। यसले पहिलो संविधानसभा विघटन भएपछि नयाँ ६०१ सदस्यीय सभा निर्वाचित गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1st_Nepalese_Constituent_Assembly",
+      "https://data.ipu.org/election-summary/HTML/2386_13.htm"
+    ]
+  },
+  {
+    "id": "gorkha-earthquake-2015",
+    "title_en": "Gorkha earthquake of 2015",
+    "title_ne": "२०७२ को गोरखा भूकम्प",
+    "day_bs": "01-12",
+    "year_bs": 2072,
+    "date_ad": "2015-04-25",
+    "category": "nepal-history",
+    "summary_en": "A magnitude 7.8 earthquake struck Nepal on 25 April 2015 (Baisakh 12, 2072 BS), centred in Gorkha district. About 9,000 people died and more than 600,000 houses were destroyed or damaged.",
+    "summary_ne": "२५ अप्रिल २०१५ (वैशाख १२, २०७२) मा गोरखा जिल्ला केन्द्रबिन्दु भएर ७.८ म्याग्निच्युडको भूकम्प गयो। यसमा करिब ९,००० मानिसको मृत्यु भयो र ६ लाखभन्दा बढी घर भत्किए वा क्षति भए।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2015_Nepal_Earthquake",
+      "https://nepjol.info/index.php/JNGS/article/download/22804/19367"
+    ]
+  },
+  {
+    "id": "gorkha-earthquake-aftershock-2015",
+    "title_en": "Major aftershock of the 2015 Gorkha earthquake",
+    "title_ne": "२०७२ को गोरखा भूकम्पको ठूलो परकम्प",
+    "day_bs": null,
+    "year_bs": 2072,
+    "date_ad": "2015-05-12",
+    "category": "nepal-history",
+    "summary_en": "A magnitude 7.3 aftershock struck on 12 May 2015, centred in Dolakha district, killing more than 200 additional people and causing fresh damage across central Nepal.",
+    "summary_ne": "१२ मे २०१५ मा दोलखा जिल्ला केन्द्रबिन्दु भएर ७.३ म्याग्निच्युडको ठूलो परकम्प गयो। यसमा २०० भन्दा बढी थप मानिसको मृत्यु भयो र मध्य नेपालमा थप क्षति भयो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2015_Nepal_Earthquake",
+      "https://nepaldesk.com/info/major-earthquakes-nepal"
+    ]
+  },
+  {
+    "id": "constitution-reform-committee-1947",
+    "title_en": "First Constitution Reform Committee formed",
+    "title_ne": "पहिलो संविधान सुधार समितिको गठन",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "constitution",
+    "summary_en": "In 1947 Prime Minister Padma Shumsher Rana formed a Constitution Reform Committee, Nepal's first attempt at writing a constitution, which led to the Government of Nepal Act of 1948.",
+    "summary_ne": "सन् १९४७ मा प्रधानमन्त्री पद्मशम्शेर राणाले संविधान सुधार समिति गठन गरे। नेपालको संविधान लेख्ने यो पहिलो प्रयास थियो, जसबाट सन् १९४८ को नेपाल सरकार ऐन आयो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://lawinfonepal.com/2026/09/law5303-unit-01-constitutional-history-of-nepal-pre-constitutional-history-o.html"
+    ]
+  },
+  {
+    "id": "government-of-nepal-act-1948",
+    "title_en": "Government of Nepal Act 1948 — Nepal's first constitution",
+    "title_ne": "नेपाल सरकार ऐन २००४ — नेपालको पहिलो संविधान",
+    "day_bs": null,
+    "year_bs": 2004,
+    "date_ad": "1948-01-26",
+    "category": "constitution",
+    "summary_en": "The Government of Nepal Act was declared on 26 January 1948 by Prime Minister Padma Shumsher Rana. It was Nepal's first written constitution, though it was never implemented.",
+    "summary_ne": "नेपाल सरकार ऐन २६ जनवरी १९४८ मा प्रधानमन्त्री पद्मशम्शेर राणाद्वारा घोषणा भयो। यो नेपालको पहिलो लिखित संविधान थियो, यद्यपि यो कार्यान्वयनमा आएन।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "interim-government-act-1951",
+    "title_en": "Interim Government of Nepal Act 1951",
+    "title_ne": "नेपालको अन्तरिम शासन ऐन २००७",
+    "day_bs": null,
+    "year_bs": 2007,
+    "date_ad": "1951-04-11",
+    "category": "constitution",
+    "summary_en": "The Interim Government of Nepal Act was promulgated on 11 April 1951 by King Tribhuvan. It had 7 parts, 73 articles and 3 schedules, and governed Nepal until the Constitution of 1959.",
+    "summary_ne": "नेपालको अन्तरिम शासन ऐन ११ अप्रिल १९५१ मा राजा त्रिभुवनद्वारा जारी भयो। यसमा ७ भाग, ७३ धारा र ३ अनुसूची थिए। यो ऐन १९५९ को संविधान आउनुअघिसम्म लागू रह्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://myrepublica.nagariknetwork.com/news/constitution-amendment-just-a-two-party-deal-672d6725be044.html"
+    ]
+  },
+  {
+    "id": "muluki-ain-1854",
+    "title_en": "Muluki Ain (National Code) of 1854",
+    "title_ne": "मुलुकी ऐन १९१०",
+    "day_bs": null,
+    "year_bs": 1910,
+    "date_ad": null,
+    "category": "constitution",
+    "summary_en": "The Muluki Ain, Nepal's first national legal code, was promulgated in 1854 under Jung Bahadur Rana. It unified the country's diverse laws and remained the backbone of Nepal's legal system for over a century.",
+    "summary_ne": "मुलुकी ऐन नेपालको पहिलो राष्ट्रिय कानुनी संहिता हो, जुन सन् १८५४ मा जंगबहादुर राणाको शासनकालमा जारी भयो। यसले देशका विविध कानुनलाई एकीकृत गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/History_of_Nepal",
+      "https://factsanddetails.com/south-asia/Nepal/History_Nepal/entry-7808.html"
+    ]
+  },
+  {
+    "id": "constitution-1959",
+    "title_en": "Constitution of the Kingdom of Nepal 1959",
+    "title_ne": "नेपाल अधिराज्यको संविधान २०१५",
+    "day_bs": null,
+    "year_bs": 2015,
+    "date_ad": "1959-02-12",
+    "category": "constitution",
+    "summary_en": "The Constitution of the Kingdom of Nepal was promulgated on 12 February 1959. It had 10 parts, 77 articles and 3 schedules, and provided for a parliamentary system under which the first general election was held.",
+    "summary_ne": "नेपाल अधिराज्यको संविधान १२ फेब्रुअरी १९५९ मा जारी भयो। यसमा १० भाग, ७७ धारा र ३ अनुसूची थिए। यसै संविधानअन्तर्गत नेपालको पहिलो आम निर्वाचन भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "constitution-1962",
+    "title_en": "Constitution of Nepal 1962 (Panchayat Constitution)",
+    "title_ne": "नेपालको संविधान २०१९ (पञ्चायत संविधान)",
+    "day_bs": null,
+    "year_bs": 2019,
+    "date_ad": "1962-12-16",
+    "category": "constitution",
+    "summary_en": "The Constitution of Nepal was promulgated on 16 December 1962 by King Mahendra. It had 20 parts, 97 articles and 6 schedules, and gave legal form to the partyless Panchayat system.",
+    "summary_ne": "नेपालको संविधान १६ डिसेम्बर १९६२ मा राजा महेन्द्रद्वारा जारी भयो। यसमा २० भाग, ९७ धारा र ६ अनुसूची थिए। यसले निर्दलीय पञ्चायत प्रणालीलाई कानुनी रूप दियो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "election-commission-constitutional-provision-1966",
+    "title_en": "Election Commission made a constitutional body",
+    "title_ne": "निर्वाचन आयोग संवैधानिक निकाय बनेको",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "constitution",
+    "summary_en": "The Constitution of 1962 was amended in 1966 to make the Election Commission a constitutional body of Nepal, giving it the duty to conduct and supervise elections.",
+    "summary_ne": "सन् १९६६ मा २०१९ को संविधान संशोधन गरी निर्वाचन आयोगलाई नेपालको संवैधानिक निकाय बनाइयो। आयोगलाई निर्वाचन सञ्चालन र निरीक्षण गर्ने जिम्मा दिइयो।",
+    "confidence": "medium",
+    "sources": [
+      "https://archive.nitifoundation.org/wp-content/uploads/2022/06/Strengthening-Constitutionalism-in-Nepal-2_final.pdf",
+      "https://en.wikipedia.org/wiki/Election_Commission,_Nepal"
+    ]
+  },
+  {
+    "id": "panchayat-constitution-third-amendment-1980",
+    "title_en": "Third amendment to the Panchayat Constitution (1980)",
+    "title_ne": "पञ्चायत संविधानको तेस्रो संशोधन (१९८०)",
+    "day_bs": null,
+    "year_bs": 2037,
+    "date_ad": "1980-12-15",
+    "category": "constitution",
+    "summary_en": "The third amendment to the Constitution of 1962 was promulgated on 15 December 1980, following the national referendum, and provided for direct elections to the Rastriya Panchayat by universal adult franchise.",
+    "summary_ne": "राष्ट्रिय जनमत संग्रहपछि १५ डिसेम्बर १९८० मा २०१९ को संविधानको तेस्रो संशोधन जारी भयो। यसले राष्ट्रिय पञ्चायतमा वयस्क मताधिकारद्वारा प्रत्यक्ष निर्वाचनको व्यवस्था गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.verfassungsvergleich.de/np__indx.html",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "constitution-1990",
+    "title_en": "Constitution of the Kingdom of Nepal 1990",
+    "title_ne": "नेपाल अधिराज्यको संविधान २०४७",
+    "day_bs": null,
+    "year_bs": 2047,
+    "date_ad": "1990-11-09",
+    "category": "constitution",
+    "summary_en": "The Constitution of the Kingdom of Nepal was promulgated on 9 November 1990 by King Birendra after the 1990 People's Movement. It had 23 parts, 133 articles and 3 schedules, and restored multi-party democracy with a constitutional monarchy.",
+    "summary_ne": "नेपाल अधिराज्यको संविधान ९ नोभेम्बर १९९० मा २०४६ सालको जनआन्दोलनपछि राजा वीरेन्द्रद्वारा जारी भयो। यसमा २३ भाग, १३३ धारा र ३ अनुसूची थिए। यसले संवैधानिक राजतन्त्रसहित बहुदलीय प्रजातन्त्र पुनर्स्थापना गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "interim-constitution-2007",
+    "title_en": "Interim Constitution of Nepal 2007",
+    "title_ne": "नेपालको अन्तरिम संविधान २०६३",
+    "day_bs": null,
+    "year_bs": 2063,
+    "date_ad": "2007-01-15",
+    "category": "constitution",
+    "summary_en": "The Interim Constitution of Nepal was promulgated on 15 January 2007. It had 25 parts, 167 articles and 4 schedules, and governed the country through the peace process until the Constitution of 2015.",
+    "summary_ne": "नेपालको अन्तरिम संविधान १५ जनवरी २००७ मा जारी भयो। यसमा २५ भाग, १६७ धारा र ४ अनुसूची थिए। यो संविधान २०७२ को संविधान नआउनुअञ्जेल शान्ति प्रक्रियाको अवधिमा लागू रह्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://english.nepalnews.com/s/politics/the-seven-constitutions-of-nepal-a-history-of-drafts-and-decrees/"
+    ]
+  },
+  {
+    "id": "constitution-2015",
+    "title_en": "Constitution of Nepal 2015 promulgated",
+    "title_ne": "नेपालको संविधान २०७२ जारी",
+    "day_bs": "06-03",
+    "year_bs": 2072,
+    "date_ad": "2015-09-20",
+    "category": "constitution",
+    "summary_en": "The Constitution of Nepal was promulgated on 20 September 2015 (Ashoj 3, 2072 BS) by the Constituent Assembly. It has 35 parts, 308 articles and 9 schedules, and declares Nepal a federal democratic republic.",
+    "summary_ne": "नेपालको संविधान २० सेप्टेम्बर २०१५ (असोज ३, २०७२) मा संविधानसभाद्वारा जारी भयो। यसमा ३५ भाग, ३०८ धारा र ९ अनुसूची छन्। यसले नेपाललाई संघीय लोकतान्त्रिक गणतन्त्र घोषणा गरेको छ।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://lokshewa.online/blog/nepal-constitution-important-questions.html"
+    ]
+  },
+  {
+    "id": "constitution-first-amendment-2016",
+    "title_en": "First Amendment to the Constitution of Nepal 2015",
+    "title_ne": "नेपालको संविधान २०७२ को पहिलो संशोधन",
+    "day_bs": "11-16",
+    "year_bs": 2072,
+    "date_ad": "2016-02-28",
+    "category": "constitution",
+    "summary_en": "The first amendment to the Constitution of Nepal 2015 was certified on 28 February 2016 (Falgun 16, 2072 BS). It revised provisions on proportional representation and inclusive participation.",
+    "summary_ne": "नेपालको संविधान २०७२ को पहिलो संशोधन २८ फेब्रुअरी २०१६ (फागुन १६, २०७२) मा प्रमाणीकरण भयो। यसले समानुपातिक प्रतिनिधित्व र समावेशी सहभागितासम्बन्धी व्यवस्थामा संशोधन गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://platform.who.int/docs/default-source/mca-documents/policy-documents/law/NPL-CC-46-01-LAW-2016-eng-Constitution-of-Nepal--English--with-1st-Amendment-2-0.pdf",
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal"
+    ]
+  },
+  {
+    "id": "constitution-second-amendment-2020",
+    "title_en": "Second Amendment to the Constitution of Nepal 2015",
+    "title_ne": "नेपालको संविधान २०७२ को दोस्रो संशोधन",
+    "day_bs": null,
+    "year_bs": 2077,
+    "date_ad": "2020-06-18",
+    "category": "constitution",
+    "summary_en": "The second amendment to the Constitution of Nepal 2015 was promulgated on 18 June 2020. It updated Schedule 3 to include the revised national emblem and political map of Nepal.",
+    "summary_ne": "नेपालको संविधान २०७२ को दोस्रो संशोधन १८ जुन २०२० मा जारी भयो। यसले अनुसूची ३ मा नेपालको संशोधित राष्ट्रिय प्रतीक र राजनीतिक नक्सा समावेश गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Constitution_of_Nepal",
+      "https://loksewapathsala.com/constitution-of-nepal/"
+    ]
+  },
+  {
+    "id": "nepali-army-shreenath-battalion-1762",
+    "title_en": "Nepali Army founded — Shree Shreenath Battalion",
+    "title_ne": "नेपाली सेनाको स्थापना — श्री श्रीनाथ गण",
+    "day_bs": "06-05",
+    "year_bs": 1819,
+    "date_ad": "1762-09-17",
+    "category": "nepal-institutions",
+    "summary_en": "The Shree Shreenath Battalion, the oldest unit of the Nepali Army, was founded on 17 September 1762 (Ashwin 5, 1819 BS) by King Prithvi Narayan Shah. The Nepali Army traces its origins to the Gorkha Kingdom founded in 1559.",
+    "summary_ne": "नेपाली सेनाको सबैभन्दा पुरानो इकाइ श्री श्रीनाथ गण १७ सेप्टेम्बर १७६२ (असोज ५, १८१९) मा राजा पृथ्वीनारायण शाहद्वारा स्थापना भएको थियो। नेपाली सेनाको उत्पत्ति सन् १५५९ मा स्थापित गोरखा राज्यसँग जोडिएको छ।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepali_Army",
+      "https://en.wikipedia.org/wiki/History_of_Nepal"
+    ]
+  },
+  {
+    "id": "gorkhapatra-first-published-1901",
+    "title_en": "Gorkhapatra, Nepal's first newspaper, first published",
+    "title_ne": "गोरखापत्र — नेपालको पहिलो पत्रिका प्रकाशित",
+    "day_bs": null,
+    "year_bs": 1958,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "Gorkhapatra, Nepal's first newspaper and the oldest continuously published newspaper in Nepal, was first published in 1901. The exact day of the first issue is disputed between 6 and 7 May 1901, so only the year is recorded here.",
+    "summary_ne": "नेपालको पहिलो पत्रिका गोरखापत्र सन् १९०१ मा पहिलो पटक प्रकाशित भयो। यो नेपालको सबैभन्दा पुरानो निरन्तर प्रकाशित पत्रिका हो। पहिलो अंकको ठ्याक्कै दिन विवादित भएकाले यहाँ वर्ष मात्र राखिएको छ।",
+    "confidence": "medium",
+    "sources": [
+      "http://risingnepaldaily.com/news/61549",
+      "http://countrystudies.us/nepal/15.htm"
+    ]
+  },
+  {
+    "id": "pharping-hydropower-1911",
+    "title_en": "Pharping Hydropower Station — Nepal's first hydroelectric plant",
+    "title_ne": "फर्पिङ जलविद्युत — नेपालको पहिलो जलविद्युत आयोजना",
+    "day_bs": null,
+    "year_bs": 1968,
+    "date_ad": "1911-05-22",
+    "category": "nepal-institutions",
+    "summary_en": "The Pharping (Chandrajyoti) hydropower station, with 500 kW capacity, was inaugurated on 22 May 1911 by King Prithvi Bir Bikram Shah. It was Nepal's first hydroelectric power plant and the second in South Asia.",
+    "summary_ne": "५०० किलोवाट क्षमताको फर्पिङ (चन्द्रज्योति) जलविद्युत आयोजना २२ मे १९११ मा राजा पृथ्वीवीर विक्रम शाहद्वारा उद्घाटन भयो। यो नेपालको पहिलो जलविद्युत आयोजना र दक्षिण एसियाको दोस्रो थियो।",
+    "confidence": "high",
+    "sources": [
+      "https://nepalitimes.com/nepal-s-1st-hydroelectric-plant-is-a-museum-piece",
+      "https://en.wikipedia.org/wiki/Pharping_Hydropower_Station"
+    ]
+  },
+  {
+    "id": "tri-chandra-college-1918",
+    "title_en": "Tri-Chandra College established",
+    "title_ne": "त्रिचन्द्र कलेजको स्थापना",
+    "day_bs": null,
+    "year_bs": 1975,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "Tri-Chandra College was established in 1918 in Kathmandu, the first institution of higher education in Nepal. It later became a constituent campus of Tribhuvan University.",
+    "summary_ne": "त्रिचन्द्र कलेज सन् १९१८ मा काठमाडौंमा स्थापना भयो। यो नेपालको पहिलो उच्च शिक्षा संस्था थियो। पछि यो त्रिभुवन विश्वविद्यालयको आंगिक क्याम्पस बन्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/nepal-0",
+      "https://en.wikipedia.org/wiki/Tri-Chandra_College"
+    ]
+  },
+  {
+    "id": "nepal-bank-limited-1937",
+    "title_en": "Nepal Bank Limited — Nepal's first commercial bank",
+    "title_ne": "नेपाल बैंक लिमिटेड — नेपालको पहिलो वाणिज्य बैंक",
+    "day_bs": "07-30",
+    "year_bs": 1994,
+    "date_ad": "1937-11-15",
+    "category": "nepal-institutions",
+    "summary_en": "Nepal Bank Limited, Nepal's first commercial bank, was inaugurated on 15 November 1937 (Kartik 30, 1994 BS) by King Tribhuvan. It operated as the country's de facto central bank until Nepal Rastra Bank was established.",
+    "summary_ne": "नेपालको पहिलो वाणिज्य बैंक नेपाल बैंक लिमिटेड १५ नोभेम्बर १९३७ (कात्तिक ३०, १९९४) मा राजा त्रिभुवनद्वारा उद्घाटन भयो। नेपाल राष्ट्र बैंक स्थापना नहुनुअञ्जेल यसले केन्द्रीय बैंकको भूमिका निर्वाह गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://english.onlinekhabar.com/nepal-bank-limited-history.html",
+      "https://noteslearning.com/first-in-nepalese-banking-system/"
+    ]
+  },
+  {
+    "id": "public-service-commission-1951",
+    "title_en": "Public Service Commission (Lok Sewa Aayog) established",
+    "title_ne": "लोक सेवा आयोगको स्थापना",
+    "day_bs": "03-01",
+    "year_bs": 2008,
+    "date_ad": "1951-06-15",
+    "category": "nepal-institutions",
+    "summary_en": "The Public Service Commission (Lok Sewa Aayog) was established on 15 June 1951 (Asar 1, 2008 BS), to select candidates for civil service positions by merit and fairness.",
+    "summary_ne": "लोक सेवा आयोग १५ जुन १९५१ (असार १, २००८) मा स्थापना भयो। यसले योग्यता र निष्पक्षताका आधारमा निजामती सेवाका लागि उम्मेदवार छनोट गर्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://edustudysite.com/institute/lok-sewa-aayog/",
+      "https://risingnepaldaily.com/news/67929"
+    ]
+  },
+  {
+    "id": "radio-nepal-1951",
+    "title_en": "Radio Nepal established",
+    "title_ne": "रेडियो नेपालको स्थापना",
+    "day_bs": null,
+    "year_bs": 2007,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "Radio Nepal, the state radio broadcaster of Nepal, was established in 1951. The exact day of its establishment is disputed between 1 and 2 April 1951, so only the year is recorded here.",
+    "summary_ne": "नेपालको सरकारी रेडियो प्रसारक रेडियो नेपाल सन् १९५१ मा स्थापना भयो। यसको स्थापनाको ठ्याक्कै दिन १ र २ अप्रिल १९५१ बीच विवादित भएकाले यहाँ वर्ष मात्र राखिएको छ।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/35903273/Can_Radio_Nepal_and_NTV_serve_as_PSB_A_Preliminary_Note",
+      "https://freedomforum.org.np/download/psb/file"
+    ]
+  },
+  {
+    "id": "election-commission-nepal-1951",
+    "title_en": "Election Commission, Nepal formed",
+    "title_ne": "निर्वाचन आयोग, नेपालको गठन",
+    "day_bs": null,
+    "year_bs": 2008,
+    "date_ad": "1951-11-12",
+    "category": "nepal-institutions",
+    "summary_en": "The Election Commission of Nepal was formed on 12 November 1951. It conducts, supervises, directs and controls elections at all levels, and is a constitutional body under the Constitution of Nepal.",
+    "summary_ne": "निर्वाचन आयोग १२ नोभेम्बर १९५१ मा गठन भयो। यसले सबै तहका निर्वाचन सञ्चालन, निरीक्षण, निर्देशन र नियन्त्रण गर्छ। यो नेपालको संविधानअन्तर्गतको संवैधानिक निकाय हो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Election_Commission,_Nepal",
+      "https://archive.nitifoundation.org/wp-content/uploads/2022/06/Strengthening-Constitutionalism-in-Nepal-2_final.pdf"
+    ]
+  },
+  {
+    "id": "nepal-police-1955",
+    "title_en": "Nepal Police formed",
+    "title_ne": "नेपाल प्रहरीको गठन",
+    "day_bs": null,
+    "year_bs": 2012,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "The Nepal Police was formed in 1955 under the Police Act 1955. The Police Headquarters had been established earlier in 1951, and Toran Shumsher J.B. Rana was the first Inspector General of Police.",
+    "summary_ne": "नेपाल प्रहरी सन् १९५५ मा प्रहरी ऐन २०१२ अन्तर्गत गठन भयो। प्रहरी प्रधान कार्यालय सन् १९५१ मा नै स्थापना भएको थियो। तोरणशम्शेर जबराका पहिलो प्रहरी महानिरीक्षक थिए।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Law_enforcement_in_Nepal",
+      "https://koshi.nepalpolice.gov.np/media/filer_public/ad/81/ad816d1f-9029-4957-9ebc-8ed0de845580/111.pdf"
+    ]
+  },
+  {
+    "id": "nepal-rastra-bank-1956",
+    "title_en": "Nepal Rastra Bank established",
+    "title_ne": "नेपाल राष्ट्र बैंकको स्थापना",
+    "day_bs": "01-14",
+    "year_bs": 2013,
+    "date_ad": "1956-04-26",
+    "category": "nepal-institutions",
+    "summary_en": "Nepal Rastra Bank, the central bank of Nepal, was established on 26 April 1956 (Baisakh 14, 2013 BS) under the Nepal Rastra Bank Act 1955. Himalaya Shumsher J.B. Rana was its first governor.",
+    "summary_ne": "नेपालको केन्द्रीय बैंक नेपाल राष्ट्र बैंक २६ अप्रिल १९५६ (वैशाख १४, २०१३) मा नेपाल राष्ट्र बैंक ऐन २०१२ अन्तर्गत स्थापना भयो। हिमालयशम्शेर जबरा यसका पहिलो गभर्नर थिए।",
+    "confidence": "high",
+    "sources": [
+      "https://www.nrb.org.np/contents/uploads/2019/12/NRB_then_now_ahead_207302.pdf",
+      "https://en.wikipedia.org/wiki/Nepal_Rastra_Bank"
+    ]
+  },
+  {
+    "id": "supreme-court-nepal-1956",
+    "title_en": "Supreme Court of Nepal established",
+    "title_ne": "सर्वोच्च अदालतको स्थापना",
+    "day_bs": null,
+    "year_bs": 2013,
+    "date_ad": "1956-05-21",
+    "category": "nepal-institutions",
+    "summary_en": "The Supreme Court of Nepal was established on 21 May 1956 as the apex court of the country, and Hari Prasad Pradhan was appointed its first Chief Justice.",
+    "summary_ne": "सर्वोच्च अदालत २१ मे १९५६ मा देशको सर्वोच्च अदालतका रूपमा स्थापना भयो। हरिप्रसाद प्रधान यसका पहिलो प्रधानन्यायाधीश थिए।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Supreme_Court_of_Nepal",
+      "https://lawinfonepal.com/2026/09/understanding-the-supreme-court-of-nepal.html"
+    ]
+  },
+  {
+    "id": "civil-service-act-1956",
+    "title_en": "Civil Service Act of Nepal first enacted",
+    "title_ne": "नेपालको निजामती सेवा ऐन पहिलो पटक जारी",
+    "day_bs": null,
+    "year_bs": 2013,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "The first Civil Service Act of Nepal was introduced in 1956, creating a formal merit-based civil service. The exact day of promulgation is disputed between 6 and 7 September 1956, so only the year is recorded here; Civil Service Day is observed on 7 September (Bhadra 22).",
+    "summary_ne": "नेपालको पहिलो निजामती सेवा ऐन सन् १९५६ मा जारी भयो र यसले योग्यतामा आधारित औपचारिक निजामती सेवा सिर्जना गर्‍यो। ऐन जारी भएको ठ्याक्कै दिन ६ र ७ सेप्टेम्बर १९५६ बीच विवादित भएकाले यहाँ वर्ष मात्र राखिएको छ; निजामती सेवा दिवस ७ सेप्टेम्बर (भदौ २२) मा मनाइन्छ।",
+    "confidence": "medium",
+    "sources": [
+      "https://risingnepaldaily.com/news/67929",
+      "https://ceslam.org/news-media/programme-at-pashupati-to-evade-employees-protests/"
+    ]
+  },
+  {
+    "id": "nepal-airlines-1958",
+    "title_en": "Nepal Airlines (Royal Nepal Airlines) founded",
+    "title_ne": "नेपाल वायुसेवा निगम (शाही नेपाल वायुसेवा) को स्थापना",
+    "day_bs": null,
+    "year_bs": 2015,
+    "date_ad": "1958-07-01",
+    "category": "nepal-institutions",
+    "summary_en": "Nepal Airlines Corporation was founded on 1 July 1958 as Royal Nepal Airlines, the national flag carrier of Nepal.",
+    "summary_ne": "नेपाल वायुसेवा निगम १ जुलाई १९५८ मा शाही नेपाल वायुसेवाका रूपमा स्थापना भयो। यो नेपालको राष्ट्रिय ध्वजावाहक वायुसेवा हो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal_Airlines",
+      "https://myrepublica.nagariknetwork.com/news/nepal-airlines-corporation-turns-65"
+    ]
+  },
+  {
+    "id": "tribhuvan-university-1959",
+    "title_en": "Tribhuvan University established",
+    "title_ne": "त्रिभुवन विश्वविद्यालयको स्थापना",
+    "day_bs": "03-11",
+    "year_bs": 2016,
+    "date_ad": "1959-06-25",
+    "category": "nepal-institutions",
+    "summary_en": "Tribhuvan University, the oldest and largest university of Nepal, was established on 25 June 1959 (Asar 11, 2016 BS). It is named after the late King Tribhuvan.",
+    "summary_ne": "नेपालको सबैभन्दा पुरानो र ठूलो विश्वविद्यालय त्रिभुवन विश्वविद्यालय २५ जुन १९५९ (असार ११, २०१६) मा स्थापना भयो। यो दिवंगत राजा त्रिभुवनको नाममा नामकरण गरिएको हो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tribhuvan_University",
+      "https://lsp.tu.edu.np/centralDepartments?letter=C&page=3"
+    ]
+  },
+  {
+    "id": "nepal-television-1985",
+    "title_en": "Nepal Television project begins",
+    "title_ne": "नेपाल टेलिभिजन परियोजना सुरु",
+    "day_bs": null,
+    "year_bs": 2041,
+    "date_ad": "1985-01-30",
+    "category": "nepal-institutions",
+    "summary_en": "The Nepal Television project started on 30 January 1985, and regular test transmissions began later that year. Nepal Television is the national television broadcaster of Nepal.",
+    "summary_ne": "नेपाल टेलिभिजन परियोजना ३० जनवरी १९८५ मा सुरु भयो र सोही वर्ष नियमित परीक्षण प्रसारण सुरु भयो। नेपाल टेलिभिजन नेपालको राष्ट्रिय टेलिभिजन प्रसारक हो।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.academia.edu/35903273/Can_Radio_Nepal_and_NTV_serve_as_PSB_A_Preliminary_Note",
+      "https://freedomforum.org.np/download/psb/file"
+    ]
+  },
+  {
+    "id": "ciaa-1992",
+    "title_en": "Commission for the Investigation of Abuse of Authority (CIAA) formed",
+    "title_ne": "अख्तियार दुरुपयोग अनुसन्धान आयोग (CIAA) को गठन",
+    "day_bs": null,
+    "year_bs": 2048,
+    "date_ad": "1992-02-11",
+    "category": "nepal-institutions",
+    "summary_en": "The Commission for the Investigation of Abuse of Authority (CIAA), Nepal's apex anti-corruption constitutional body, was formed on 11 February 1992 under the Constitution of 1990.",
+    "summary_ne": "नेपालको सर्वोच्च भ्रष्टाचारविरोधी संवैधानिक निकाय अख्तियार दुरुपयोग अनुसन्धान आयोग ११ फेब्रुअरी १९९२ मा २०४७ को संविधानअन्तर्गत गठन भयो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Commission_for_the_Investigation_of_Abuse_of_Authority?oldformat=true",
+      "https://kathmandupost.com/opinion/2015/07/15/off-the-hook"
+    ]
+  },
+  {
+    "id": "armed-police-force-2001",
+    "title_en": "Armed Police Force (APF) founded",
+    "title_ne": "सशस्त्र प्रहरी बल (APF) को स्थापना",
+    "day_bs": null,
+    "year_bs": 2058,
+    "date_ad": null,
+    "category": "nepal-institutions",
+    "summary_en": "The Armed Police Force (APF) of Nepal was founded in October 2001 as a paramilitary force to support the Nepal Police and the Nepali Army, particularly in border security.",
+    "summary_ne": "नेपालको सशस्त्र प्रहरी बल (APF) अक्टोबर २००१ मा स्थापना भयो। यो नेपाल प्रहरी र नेपाली सेनालाई सहयोग गर्न, विशेष गरी सीमा सुरक्षाका लागि बनाइएको अर्धसैनिक बल हो।",
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Law_enforcement_in_Nepal",
+      "https://en.wikipedia.org/wiki/Nepali_Army"
+    ]
+  },
+  {
+    "id": "nepal-india-diplomatic-relations-1947",
+    "title_en": "Nepal–India diplomatic relations established",
+    "title_ne": "नेपाल–भारत कूटनीतिक सम्बन्ध स्थापना",
+    "day_bs": null,
+    "year_bs": 2004,
+    "date_ad": "1947-06-13",
+    "category": "international",
+    "summary_en": "Nepal and India established diplomatic relations on 13 June 1947, shortly before India's independence, making India one of Nepal's earliest diplomatic partners.",
+    "summary_ne": "नेपाल र भारतबीच १३ जुन १९४७ मा कूटनीतिक सम्बन्ध स्थापना भयो। भारत स्वतन्त्र हुनुभन्दा केहीअघि नै भारत नेपालको प्रारम्भिक कूटनीतिक साझेदारमध्ये एक बन्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://www.slideshare.net/slideshow/list-of-multilateral-treaties-signed-by-nepal-pdf/275110359"
+    ]
+  },
+  {
+    "id": "nepal-india-treaty-1950",
+    "title_en": "Treaty of Peace and Friendship between Nepal and India",
+    "title_ne": "नेपाल–भारत शान्ति तथा मैत्री सन्धि",
+    "day_bs": null,
+    "year_bs": 2007,
+    "date_ad": "1950-07-31",
+    "category": "international",
+    "summary_en": "The Treaty of Peace and Friendship between Nepal and India was signed in Kathmandu on 31 July 1950. It governs the special relationship between the two countries, including open borders and reciprocal treatment of nationals.",
+    "summary_ne": "नेपाल र भारतबीच शान्ति तथा मैत्री सन्धि ३१ जुलाई १९५० मा काठमाडौंमा भयो। यस सन्धिले खुला सीमा र दुवै देशका नागरिकलाई पारस्परिक व्यवहारसहित दुई देशबीचको विशेष सम्बन्धलाई निर्देशित गर्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://www.slideshare.net/slideshow/list-of-multilateral-treaties-signed-by-nepal-pdf/275110359"
+    ]
+  },
+  {
+    "id": "nepal-colombo-plan-1952",
+    "title_en": "Nepal joins the Colombo Plan",
+    "title_ne": "नेपाल कोलम्बो योजनामा सहभागी",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "international",
+    "summary_en": "Nepal joined the Colombo Plan in 1952, one of its earliest memberships in an international organisation, under which it received technical assistance and training.",
+    "summary_ne": "नेपाल सन् १९५२ मा कोलम्बो योजनामा सहभागी भयो। यो अन्तर्राष्ट्रिय संस्थामा नेपालको प्रारम्भिक सदस्यतामध्ये एक थियो, जसअन्तर्गत नेपालले प्राविधिक सहयोग र तालिम पायो।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.nationsencyclopedia.com/Asia-and-Oceania/Nepal-FOREIGN-POLICY.html",
+      "https://colombo-plan.org/member-countries/"
+    ]
+  },
+  {
+    "id": "nepal-china-diplomatic-relations-1955",
+    "title_en": "Nepal–China diplomatic relations established",
+    "title_ne": "नेपाल–चीन कूटनीतिक सम्बन्ध स्थापना",
+    "day_bs": null,
+    "year_bs": 2012,
+    "date_ad": "1955-08-01",
+    "category": "international",
+    "summary_en": "Nepal and China established diplomatic relations on 1 August 1955, on the basis of the Five Principles of Peaceful Coexistence (Panchasheel).",
+    "summary_ne": "नेपाल र चीनबीच १ अगस्ट १९५५ मा शान्तिपूर्ण सहअस्तित्वका पाँच सिद्धान्त (पञ्चशील) का आधारमा कूटनीतिक सम्बन्ध स्थापना भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://www.slideshare.net/slideshow/list-of-multilateral-treaties-signed-by-nepal-pdf/275110359"
+    ]
+  },
+  {
+    "id": "nepal-joins-un-1955",
+    "title_en": "Nepal admitted to the United Nations",
+    "title_ne": "नेपाल संयुक्त राष्ट्रसंघको सदस्य",
+    "day_bs": null,
+    "year_bs": 2012,
+    "date_ad": "1955-12-14",
+    "category": "international",
+    "summary_en": "Nepal was admitted to the United Nations on 14 December 1955 by UN General Assembly Resolution 995 (X), becoming the 107th member state.",
+    "summary_ne": "नेपाल १४ डिसेम्बर १९५५ मा संयुक्त राष्ट्रसंघको महासभाको प्रस्ताव ९९५ (X) बाट संयुक्त राष्ट्रसंघको १०७औं सदस्य राष्ट्र बन्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html"
+    ]
+  },
+  {
+    "id": "nepal-first-peacekeeping-1958",
+    "title_en": "Nepal begins UN peacekeeping participation",
+    "title_ne": "नेपालद्वारा संयुक्त राष्ट्रसंघ शान्ति मिसनमा सहभागिता सुरु",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "international",
+    "summary_en": "Nepal first contributed to United Nations peacekeeping in 1958, sending five military observers to the UN Observation Group in Lebanon (UNOGIL). Nepal later became one of the largest troop-contributing countries.",
+    "summary_ne": "नेपालले सन् १९५८ मा पहिलो पटक संयुक्त राष्ट्रसंघ शान्ति मिसनमा सहभागिता जनायो र लेबनानमा पाँच सैन्य पर्यवेक्षक पठायो। पछि नेपाल सबैभन्दा ठूलो सैन्य योगदान गर्ने देशमध्ये एक बन्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://nepjol.info/index.php/jofa/article/download/36253/28305/104965",
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/"
+    ]
+  },
+  {
+    "id": "nepal-china-peace-friendship-treaty-1960",
+    "title_en": "Treaty of Peace and Friendship between Nepal and China",
+    "title_ne": "नेपाल–चीन शान्ति तथा मैत्री सन्धि",
+    "day_bs": null,
+    "year_bs": 2017,
+    "date_ad": "1960-04-28",
+    "category": "international",
+    "summary_en": "The Treaty of Peace and Friendship between Nepal and China was signed in Beijing on 28 April 1960, formalising the friendly relations between the two neighbours.",
+    "summary_ne": "नेपाल र चीनबीच शान्ति तथा मैत्री सन्धि २८ अप्रिल १९६० मा बेइजिङमा भयो। यसले दुई छिमेकी देशबीचको मैत्रीपूर्ण सम्बन्धलाई औपचारिक रूप दियो।",
+    "confidence": "medium",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://nepjol.info/index.php/joia/article/download/22575/19215"
+    ]
+  },
+  {
+    "id": "nepal-imf-world-bank-1961",
+    "title_en": "Nepal joins the IMF and the World Bank",
+    "title_ne": "नेपाल अन्तर्राष्ट्रिय मुद्रा कोष र विश्व बैंकको सदस्य",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "international",
+    "summary_en": "Nepal joined the International Monetary Fund (IMF) and the World Bank in 1961, and its currency, the Nepali rupee, became convertible for current-account transactions.",
+    "summary_ne": "नेपाल सन् १९६१ मा अन्तर्राष्ट्रिय मुद्रा कोष (IMF) र विश्व बैंकको सदस्य बन्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://nepjol.info/index.php/jofa/article/download/36259/28310",
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/"
+    ]
+  },
+  {
+    "id": "nepal-china-border-treaty-1961",
+    "title_en": "Nepal–China border treaty ratified",
+    "title_ne": "नेपाल–चीन सीमा सन्धि अनुमोदन",
+    "day_bs": null,
+    "year_bs": 2018,
+    "date_ad": "1961-10-05",
+    "category": "international",
+    "summary_en": "The Nepal–China border treaty was ratified on 5 October 1961, delimiting the 1,415 km border between the two countries, including the Everest region.",
+    "summary_ne": "नेपाल–चीन सीमा सन्धि ५ अक्टोबर १९६१ मा अनुमोदन भयो। यसले दुई देशबीचको १,४१५ किलोमिटर लामो सीमाको निर्धारण गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://nepjol.info/index.php/joia/article/download/22575/19215"
+    ]
+  },
+  {
+    "id": "nepal-un-security-council-1969",
+    "title_en": "Nepal's first term on the UN Security Council",
+    "title_ne": "संयुक्त राष्ट्रसंघ सुरक्षा परिषद्मा नेपालको पहिलो कार्यकाल",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": null,
+    "category": "international",
+    "summary_en": "Nepal served its first term as a non-permanent member of the UN Security Council in 1969–1970. It served a second term in 1988–1989.",
+    "summary_ne": "नेपालले सन् १९६९–१९७० मा संयुक्त राष्ट्रसंघ सुरक्षा परिषद्को अस्थायी सदस्यका रूपमा पहिलो कार्यकाल पूरा गर्‍यो। यसले दोस्रो कार्यकाल सन् १९८८–१९८९ मा पूरा गर्‍यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/",
+      "https://nepjol.info/index.php/jofa/article/download/36253/28305/104965"
+    ]
+  },
+  {
+    "id": "saarc-founded-1985",
+    "title_en": "SAARC founded",
+    "title_ne": "सार्कको स्थापना",
+    "day_bs": null,
+    "year_bs": 2042,
+    "date_ad": "1985-12-08",
+    "category": "international",
+    "summary_en": "The South Asian Association for Regional Cooperation (SAARC) was founded on 8 December 1985 in Dhaka, when the SAARC Charter was signed by seven South Asian countries including Nepal.",
+    "summary_ne": "दक्षिण एसियाली क्षेत्रीय सहयोग संगठन (सार्क) ८ डिसेम्बर १९८५ मा ढाकामा स्थापना भयो। नेपालसहित सात दक्षिण एसियाली देशले सार्क बडापत्रमा हस्ताक्षर गरे।",
+    "confidence": "high",
+    "sources": [
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html",
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/"
+    ]
+  },
+  {
+    "id": "saarc-secretariat-kathmandu-1987",
+    "title_en": "SAARC Secretariat established in Kathmandu",
+    "title_ne": "काठमाडौंमा सार्क सचिवालयको स्थापना",
+    "day_bs": null,
+    "year_bs": 2043,
+    "date_ad": "1987-01-16",
+    "category": "international",
+    "summary_en": "The SAARC Secretariat was established in Kathmandu on 16 January 1987, making Nepal the host country of the regional organisation's headquarters.",
+    "summary_ne": "सार्क सचिवालय १६ जनवरी १९८७ मा काठमाडौंमा स्थापना भयो। यसबाट नेपाल क्षेत्रीय संगठनको मुख्यालयको आयोजक देश बन्यो।",
+    "confidence": "medium",
+    "sources": [
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html",
+      "https://english.nepalnews.com/s/long-reads/nepals-diplomatic-journey-a-chronological-timeline/"
+    ]
+  },
+  {
+    "id": "wto-founded-1995",
+    "title_en": "World Trade Organization (WTO) founded",
+    "title_ne": "विश्व व्यापार संगठन (WTO) को स्थापना",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1995-01-01",
+    "category": "international",
+    "summary_en": "The World Trade Organization (WTO) was founded on 1 January 1995, replacing the General Agreement on Tariffs and Trade (GATT) as the body governing international trade rules.",
+    "summary_ne": "विश्व व्यापार संगठन (WTO) १ जनवरी १९९५ मा स्थापना भयो। यसले अन्तर्राष्ट्रिय व्यापार नियमहरू व्यवस्थापन गर्ने निकायका रूपमा ग्याट (GATT) लाई प्रतिस्थापन गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html",
+      "https://www.britannica.com/topic/World-Trade-Organization"
+    ]
+  },
+  {
+    "id": "mahakali-treaty-1996",
+    "title_en": "Mahakali Treaty between Nepal and India",
+    "title_ne": "नेपाल–भारत महाकाली सन्धि",
+    "day_bs": null,
+    "year_bs": 2052,
+    "date_ad": "1996-02-12",
+    "category": "international",
+    "summary_en": "The Mahakali Treaty between Nepal and India was signed in New Delhi on 12 February 1996, providing for the integrated development of the Mahakali River, including the Pancheshwar Multipurpose Project.",
+    "summary_ne": "नेपाल र भारतबीच महाकाली सन्धि १२ फेब्रुअरी १९९६ मा नयाँ दिल्लीमा भयो। यसले पञ्चेश्वर बहुउद्देश्यीय आयोजनासहित महाकाली नदीको एकीकृत विकासको व्यवस्था गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://faolex.fao.org/docs/pdf/bi-17432.pdf",
+      "https://jalshakti-dowr.gov.in/static/uploads/2024/02/MAHAKALI_TREATY_19961.pdf"
+    ]
+  },
+  {
+    "id": "bimstec-founded-1997",
+    "title_en": "BIMSTEC founded",
+    "title_ne": "बिमस्टेकको स्थापना",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1997-06-06",
+    "category": "international",
+    "summary_en": "The Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) was founded on 6 June 1997 through the Bangkok Declaration. Nepal later became a member of the grouping.",
+    "summary_ne": "बंगालको खाडी बहुक्षेत्रीय प्राविधिक तथा आर्थिक सहयोग पहल (बिमस्टेक) ६ जुन १९९७ मा बैंकक घोषणापत्रद्वारा स्थापना भयो। नेपाल पछि यस समूहको सदस्य बन्यो।",
+    "confidence": "high",
+    "sources": [
+      "https://testbook.com/question-answer/which-countries-are-members-of-bimstec--68b299d4f3f851c5adad6ec7",
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html"
+    ]
+  },
+  {
+    "id": "nepal-joins-wto-2004",
+    "title_en": "Nepal joins the World Trade Organization",
+    "title_ne": "नेपाल विश्व व्यापार संगठनको सदस्य",
+    "day_bs": null,
+    "year_bs": 2061,
+    "date_ad": null,
+    "category": "international",
+    "summary_en": "Nepal became a member of the World Trade Organization in April 2004, the first least developed country to join through the full accession process. The exact day (23 or 24 April) is disputed between sources, so only the year is recorded here.",
+    "summary_ne": "नेपाल अप्रिल २००४ मा विश्व व्यापार संगठनको सदस्य बन्यो। यो पूर्ण सदस्यता प्रक्रियाद्वारा WTO मा सामेल हुने पहिलो अल्पविकसित देश थियो। ठ्याक्कै दिन विवादित भएकाले यहाँ वर्ष मात्र राखिएको छ।",
+    "confidence": "medium",
+    "sources": [
+      "https://notes.bikramkhatri.com.np/pages/general-awareness/international-organizations.html",
+      "https://cni.org.np/national-collaboration-1"
+    ]
+  },
+  {
+    "id": "us-declaration-of-independence-1776",
+    "title_en": "United States Declaration of Independence",
+    "title_ne": "संयुक्त राज्य अमेरिकाको स्वतन्त्रताको घोषणा",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1776-07-04",
+    "category": "world-history",
+    "summary_en": "The United States Declaration of Independence was adopted on 4 July 1776, declaring the thirteen American colonies free and independent of British rule. 4 July is celebrated as Independence Day in the United States.",
+    "summary_ne": "संयुक्त राज्य अमेरिकाको स्वतन्त्रताको घोषणा ४ जुलाई १७७६ मा पारित भयो। यसले तेह्र अमेरिकी उपनिवेशलाई ब्रिटिस शासनबाट स्वतन्त्र घोषणा गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikibooks.org/w/index.php?title=Brief_History_of_Europe/Late_modern_period_until_1914&direction=next&oldid=3659341",
+      "https://bpsc.careercraftlabs.org/read/pl-ch03"
+    ]
+  },
+  {
+    "id": "storming-of-bastille-1789",
+    "title_en": "Storming of the Bastille — French Revolution begins",
+    "title_ne": "बास्तिलको पतन — फ्रान्सेली क्रान्तिको सुरुआत",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1789-07-14",
+    "category": "world-history",
+    "summary_en": "The storming of the Bastille prison in Paris on 14 July 1789 marked the beginning of the French Revolution. 14 July is celebrated as Bastille Day, the national day of France.",
+    "summary_ne": "१४ जुलाई १७८९ मा पेरिसको बास्तिल कारागार कब्जा गरियो, जसले फ्रान्सेली क्रान्तिको सुरुआत गर्‍यो। १४ जुलाई फ्रान्सको राष्ट्रिय दिवस (बास्तिल दिवस) का रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikibooks.org/w/index.php?title=Brief_History_of_Europe/Late_modern_period_until_1914&direction=next&oldid=3659341",
+      "https://bpsc.careercraftlabs.org/read/pl-ch03"
+    ]
+  },
+  {
+    "id": "archduke-franz-ferdinand-assassinated-1914",
+    "title_en": "Assassination of Archduke Franz Ferdinand",
+    "title_ne": "आर्चड्युक फ्रान्ज फर्डिनान्डको हत्या",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1914-06-28",
+    "category": "world-history",
+    "summary_en": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, was assassinated in Sarajevo on 28 June 1914 by Gavrilo Princip. The assassination triggered the July Crisis that led to the First World War.",
+    "summary_ne": "अस्ट्रो-हंगेरीका युवराज आर्चड्युक फ्रान्ज फर्डिनान्डको २८ जुन १९१४ मा साराजेभोमा गाभ्रिलो प्रिन्सिपद्वारा हत्या भयो। यस हत्याले जुलाई संकट निम्त्यायो, जसबाट प्रथम विश्वयुद्ध सुरु भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://gacbe.ac.in/pdf/ematerial/18BPA36S-U1.pdf",
+      "https://sahistory.org.za/classroom/grade-8/world-war-i-1914-1918"
+    ]
+  },
+  {
+    "id": "world-war-i-1914-1918",
+    "title_en": "First World War (1914–1918)",
+    "title_ne": "प्रथम विश्वयुद्ध (१९१४–१९१८)",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1914-07-28",
+    "category": "world-history",
+    "summary_en": "The First World War began on 28 July 1914, when Austria-Hungary declared war on Serbia, and ended with the Armistice of 11 November 1918. More than 17 million people died in the war.",
+    "summary_ne": "प्रथम विश्वयुद्ध २८ जुलाई १९१४ मा अस्ट्रो-हंगेरीले सर्बियाविरुद्ध युद्ध घोषणा गरेपछि सुरु भयो र ११ नोभेम्बर १९१८ को युद्धविरामसँगै अन्त्य भयो। यस युद्धमा १ करोड ७० लाखभन्दा बढी मानिसको मृत्यु भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_War_One",
+      "https://sahistory.org.za/classroom/grade-8/world-war-i-1914-1918"
+    ]
+  },
+  {
+    "id": "treaty-of-versailles-1919",
+    "title_en": "Treaty of Versailles signed",
+    "title_ne": "भर्साइल सन्धि",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1919-06-28",
+    "category": "world-history",
+    "summary_en": "The Treaty of Versailles was signed on 28 June 1919, formally ending the First World War between Germany and the Allied Powers. It also established the League of Nations.",
+    "summary_ne": "भर्साइल सन्धि २८ जुन १९१९ मा भयो। यसले जर्मनी र मित्र राष्ट्रहरूबीचको प्रथम विश्वयुद्ध औपचारिक रूपमा अन्त्य गर्‍यो र राष्ट्र संघको स्थापना गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://worldfootprints.com/cultural-heritage/history/page/33/",
+      "https://bpsc.careercraftlabs.org/read/pl-ch03"
+    ]
+  },
+  {
+    "id": "league-of-nations-1920",
+    "title_en": "League of Nations formally established",
+    "title_ne": "राष्ट्र संघको औपचारिक स्थापना",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1920-01-10",
+    "category": "world-history",
+    "summary_en": "The League of Nations formally came into existence on 10 January 1920, when the Treaty of Versailles entered into force. It was the first worldwide intergovernmental organisation aimed at maintaining world peace, and the predecessor of the United Nations.",
+    "summary_ne": "राष्ट्र संघ १० जनवरी १९२० मा भर्साइल सन्धि लागू भएपछि औपचारिक रूपमा अस्तित्वमा आयो। यो विश्व शान्ति कायम राख्ने उद्देश्य भएको पहिलो विश्वव्यापी अन्तरसरकारी संगठन थियो र संयुक्त राष्ट्रसंघको पूर्ववर्ती थियो।",
+    "confidence": "medium",
+    "sources": [
+      "https://xn--989a71j79m6sg.na.to/?lang=zh",
+      "https://gacbe.ac.in/pdf/ematerial/18BPA36S-U1.pdf"
+    ]
+  },
+  {
+    "id": "world-war-ii-1939-1945",
+    "title_en": "Second World War (1939–1945)",
+    "title_ne": "द्वितीय विश्वयुद्ध (१९३९–१९४५)",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1939-09-01",
+    "category": "world-history",
+    "summary_en": "The Second World War began on 1 September 1939, when Germany invaded Poland, and ended with the formal surrender of Japan on 2 September 1945. It was the deadliest conflict in human history.",
+    "summary_ne": "द्वितीय विश्वयुद्ध १ सेप्टेम्बर १९३९ मा जर्मनीले पोल्यान्डमाथि आक्रमण गरेपछि सुरु भयो र २ सेप्टेम्बर १९४५ मा जापानको औपचारिक आत्मसमर्पणसँगै अन्त्य भयो। यो मानव इतिहासको सबैभन्दा घातक द्वन्द्व थियो।",
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_War_II",
+      "https://www.historyextra.com/period/second-world-war/timeline-important-dates-ww2-exact/"
+    ]
+  },
+  {
+    "id": "pearl-harbor-1941",
+    "title_en": "Attack on Pearl Harbor",
+    "title_ne": "पर्ल हार्बर आक्रमण",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1941-12-07",
+    "category": "world-history",
+    "summary_en": "Japan attacked the United States naval base at Pearl Harbor, Hawaii, on 7 December 1941. The attack brought the United States into the Second World War the next day.",
+    "summary_ne": "जापानले ७ डिसेम्बर १९४१ मा हवाईको पर्ल हार्बरस्थित अमेरिकी नौसैनिक अड्डामा आक्रमण गर्‍यो। यस आक्रमणपछि भोलिपल्ट संयुक्त राज्य अमेरिका द्वितीय विश्वयुद्धमा प्रवेश गर्‍यो।",
+    "confidence": "high",
+    "sources": [
+      "https://studysoup.com/cdn/materials/2727456-0/f0e2601c56d1d8d2915f7ecc733213213613dba7f8d2634129dfcfb13927eacdpreview.pdf",
+      "https://en.wikipedia.org/wiki/World_War_II"
+    ]
+  },
+  {
+    "id": "atomic-bombing-hiroshima-nagasaki-1945",
+    "title_en": "Atomic bombings of Hiroshima and Nagasaki",
+    "title_ne": "हिरोसिमा र नागासाकीमाथि आणविक बम आक्रमण",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1945-08-06",
+    "category": "world-history",
+    "summary_en": "The United States dropped the first atomic bomb used in war on Hiroshima on 6 August 1945, and a second on Nagasaki on 9 August 1945. The bombings were followed by Japan's surrender, ending the Second World War.",
+    "summary_ne": "संयुक्त राज्य अमेरिकाले ६ अगस्ट १९४५ मा हिरोसिमामा र ९ अगस्ट १९४५ मा नागासाकीमा आणविक बम खसाल्यो। यी आक्रमणपछि जापानले आत्मसमर्पण गर्‍यो र द्वितीय विश्वयुद्ध अन्त्य भयो।",
+    "confidence": "high",
+    "sources": [
+      "https://www.memorialatpeninsula.org/?p=14180",
+      "https://en.wikipedia.org/wiki/World_War_II"
+    ]
+  },
+  {
+    "id": "united-nations-founded-1945",
+    "title_en": "United Nations founded",
+    "title_ne": "संयुक्त राष्ट्रसंघको स्थापना",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1945-10-24",
+    "category": "world-history",
+    "summary_en": "The United Nations was founded on 24 October 1945, when the UN Charter entered into force. 24 October is observed as United Nations Day.",
+    "summary_ne": "संयुक्त राष्ट्रसंघ २४ अक्टोबर १९४५ मा संयुक्त राष्ट्रसंघको बडापत्र लागू भएपछि स्थापना भयो। २४ अक्टोबरलाई संयुक्त राष्ट्रसंघ दिवसका रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://advocatetanmoy.com/list-of-the-192-uno-member-states-and-their-legal-systems/",
+      "https://history.howstuffworks.com/world-war-ii/postwar-europe-and-japan.htm/printable"
+    ]
+  },
+  {
+    "id": "pakistan-independence-1947",
+    "title_en": "Pakistan gains independence",
+    "title_ne": "पाकिस्तानको स्वतन्त्रता",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1947-08-14",
+    "category": "world-history",
+    "summary_en": "Pakistan came into existence on 14 August 1947, when British India was partitioned. The transfer of power formally took effect at midnight between 14 and 15 August; Pakistan observes 14 August as its Independence Day.",
+    "summary_ne": "ब्रिटिस भारतको विभाजनपछि १४ अगस्ट १९४७ मा पाकिस्तान अस्तित्वमा आयो। सत्ता हस्तान्तरण औपचारिक रूपमा १४ र १५ अगस्टको मध्यरातमा लागू भयो; पाकिस्तानले १४ अगस्टलाई स्वतन्त्रता दिवसका रूपमा मनाउँछ।",
+    "confidence": "medium",
+    "sources": [
+      "https://www.bankersadda.com/important-days-augus/",
+      "https://www.ritiriwaz.com/national-and-international-important-days-in-august/"
+    ]
+  },
+  {
+    "id": "india-independence-1947",
+    "title_en": "India gains independence",
+    "title_ne": "भारतको स्वतन्त्रता",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1947-08-15",
+    "category": "world-history",
+    "summary_en": "India gained independence from British rule on 15 August 1947, with Jawaharlal Nehru becoming its first Prime Minister. 15 August is observed as Independence Day in India.",
+    "summary_ne": "भारत १५ अगस्ट १९४७ मा ब्रिटिस शासनबाट स्वतन्त्र भयो। जवाहरलाल नेहरू भारतका पहिलो प्रधानमन्त्री बने। १५ अगस्ट भारतको स्वतन्त्रता दिवसका रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://www.bankersadda.com/important-days-augus/",
+      "https://www.ritiriwaz.com/national-and-international-important-days-in-august/"
+    ]
+  },
+  {
+    "id": "peoples-republic-of-china-1949",
+    "title_en": "People's Republic of China proclaimed",
+    "title_ne": "जनवादी गणतन्त्र चीनको घोषणा",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1949-10-01",
+    "category": "world-history",
+    "summary_en": "Mao Zedong proclaimed the founding of the People's Republic of China on 1 October 1949 in Beijing, after the Communist victory in the Chinese Civil War. 1 October is observed as National Day in China.",
+    "summary_ne": "माओ त्सेतुङले १ अक्टोबर १९४९ मा बेइजिङमा जनवादी गणतन्त्र चीनको स्थापना घोषणा गरे। यो चिनियाँ गृहयुद्धमा कम्युनिस्टहरूको विजयपछि भएको थियो।",
+    "confidence": "high",
+    "sources": [
+      "https://riddle.ru/mirrors/factbook2010/fields/2088.html?countryName=Guatemala&countryCode=gt®ionCode=ca",
+      "https://simple.wikipedia.org/wiki/National_day"
+    ]
+  },
+  {
+    "id": "bangladesh-independence-1971",
+    "title_en": "Bangladesh declares independence",
+    "title_ne": "बंगलादेशको स्वतन्त्रताको घोषणा",
+    "day_bs": null,
+    "year_bs": null,
+    "date_ad": "1971-03-26",
+    "category": "world-history",
+    "summary_en": "Bangladesh declared independence from Pakistan on 26 March 1971, beginning the Bangladesh Liberation War. The war ended on 16 December 1971, observed as Victory Day in Bangladesh.",
+    "summary_ne": "बंगलादेशले २६ मार्च १९७१ मा पाकिस्तानबाट स्वतन्त्रताको घोषणा गर्‍यो, जसबाट बंगलादेश मुक्तियुद्ध सुरु भयो। युद्ध १६ डिसेम्बर १९७१ मा समाप्त भयो, जसलाई बंगलादेशमा विजय दिवसका रूपमा मनाइन्छ।",
+    "confidence": "high",
+    "sources": [
+      "https://riddle.ru/mirrors/factbook2010/fields/2088.html?countryName=Guatemala&countryCode=gt®ionCode=ca",
+      "https://en.m.wikipedia.org/wiki/National_Day#Q"
+    ]
+  }
+]

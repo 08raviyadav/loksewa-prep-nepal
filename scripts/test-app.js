@@ -99,13 +99,18 @@ const dynamic = new Set(['quiz-timer', 'feedback', 'flash-ans', 'chart', // crea
   'chat-input', 'chat-log', 'sug-title', 'sug-desc', 'sug-cat', 'sug-error', 'sug-done', 'sug-submit-btn',
   // features 6/7: audio controls render into audio-box at runtime
   'audio-src', 'audio-rate', 'audio-rate-val', 'audio-voice', 'audio-status', 'audio-now',
+  // historical events: the Dates list renders into history-box at runtime
+  'history-list',
   // gamification: dashboard renders weekly + focus boxes into innerHTML at runtime
   'weekly-box-dash', 'focus-timer-box-dash']);
 let missing = [...idsUsed].filter(id => !idsInHtml.has(id) && !dynamic.has(id));
 check('all static element ids used by app.js exist in index.html', missing.length === 0, missing.join(', ') || `${idsUsed.size} ids checked`);
 // view ids referenced by showView / nav
-['home','practice','quiz','result','mock','guide','dashboard','review','flash','search','auth','profile','discuss','submit','moderate','papers','notices','funfacts','chat','suggest','coverage','print','planner','coach','pyq','notes','audio','examdates','courses','today'].forEach(v => check(`view exists: view-${v}`, idsInHtml.has('view-' + v)));
+['home','practice','quiz','result','mock','guide','dashboard','review','flash','search','auth','profile','discuss','submit','moderate','papers','notices','funfacts','chat','suggest','coverage','print','planner','coach','pyq','notes','audio','examdates','courses','today','history'].forEach(v => check(`view exists: view-${v}`, idsInHtml.has('view-' + v)));
 check('notes + audio views are reachable from the desktop nav', html.includes('data-view="notes"') && html.includes('data-view="audio"'));
+check('history view is reachable from the desktop nav (More menu) + mobile nav + footer', (html.match(/data-view="history"/g) || []).length >= 2 && html.includes("showView('history')"));
+check('history-box + history-otd-card exist in index.html', idsInHtml.has('history-box') && idsInHtml.has('history-otd-card'));
+check('history-otd-card sits below the festival card on Home', html.indexOf('id="festival-card"') < html.indexOf('id="history-otd-card"'));
 check('notes-box + audio-box exist in index.html', idsInHtml.has('notes-box') && idsInHtml.has('audio-box'));
 check('analytics views are reachable from the desktop nav', ['coverage','print','planner','coach','pyq'].every(v => html.includes(`data-view="${v}"`)));
 check('analytics controls exist in index.html', ['cov-exam','cov-box','prt-exam','prt-box','pla-notice','pla-exam','pla-date','pla-daily','pla-box','coa-exam','coa-box','pyq-exam','pyq-box'].every(id => idsInHtml.has(id)));

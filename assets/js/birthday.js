@@ -59,7 +59,7 @@ function festivalWindow(f){
   if (f.date_bs) return { start: f.date_bs, end: f.date_bs };
   return null;
 }
-const BDAY_KIND_ORDER = { birthday: 0, exam: 1, deadline: 2, festival: 3 };
+const BDAY_KIND_ORDER = { birthday: 0, exam: 1, deadline: 2, festival: 3, history: 4 };
 function bdaySortEvents(a, b){
   if (a.date_bs !== b.date_bs) return a.date_bs < b.date_bs ? -1 : 1;
   const ka = BDAY_KIND_ORDER[a.kind] ?? 9, kb = BDAY_KIND_ORDER[b.kind] ?? 9;
@@ -68,7 +68,10 @@ function bdaySortEvents(a, b){
 }
 // All digest events for one BS day. exams = EXAMDATES entries,
 // festivals = festivals.json entries (or []), birthday = 'YYYY-MM-DD'|''.
-function digestEventsForDay(exams, festivals, birthday, todayBs){
+// history = historical-events.json entries (or []): only entries with a
+// day_bs recur — they match on BS month/day, any year. AD-only, year-only
+// and dateless entries never appear here (they cannot recur by BS day).
+function digestEventsForDay(exams, festivals, birthday, todayBs, history){
   const out = [];
   if (birthdayIsToday(birthday, todayBs)){
     const age = birthdayAge(birthday, todayBs);
@@ -88,11 +91,22 @@ function digestEventsForDay(exams, festivals, birthday, todayBs){
       out.push({ kind: 'festival', date_bs: todayBs,
         title_en: f.name_en || '', title_ne: f.name_ne || f.name_en || '' });
   });
+  const t = bsParse(todayBs || '');
+  (history || []).forEach(h => {
+    if (!h || !h.day_bs || !t) return;
+    const p = h.day_bs.split('-');
+    if (+p[0] !== t.m || +p[1] !== t.d) return;
+    out.push({ kind: 'history', date_bs: todayBs,
+      title_en: h.title_en || '', title_ne: h.title_ne || h.title_en || '',
+      summary_en: h.summary_en || '', summary_ne: h.summary_ne || h.summary_en || '',
+      year_bs: h.year_bs || null, id: h.id || '' });
+  });
   return out.sort(bdaySortEvents);
 }
 // All digest events in one BS month. Birthday included when the birth
 // month/day falls inside the month (and the day exists in that month).
-function digestEventsForMonth(exams, festivals, birthday, year, month){
+// Historical events recur by day_bs month (day must exist in the month).
+function digestEventsForMonth(exams, festivals, birthday, year, month, history){
   const len = birthdayMonthLen(year, month);
   if (len === null || month < 1 || month > 12) return [];
   const mm = String(month).padStart(2, '0');
@@ -118,12 +132,22 @@ function digestEventsForMonth(exams, festivals, birthday, year, month){
       out.push({ kind: 'festival', date_bs: w.start < start ? start : w.start,
         title_en: f.name_en || '', title_ne: f.name_ne || f.name_en || '' });
   });
+  (history || []).forEach(h => {
+    if (!h || !h.day_bs) return;
+    const p = h.day_bs.split('-');
+    if (+p[0] !== month || +p[1] > len) return;
+    out.push({ kind: 'history', date_bs: year + '-' + mm + '-' + String(+p[1]).padStart(2, '0'),
+      title_en: h.title_en || '', title_ne: h.title_ne || h.title_en || '',
+      summary_en: h.summary_en || '', summary_ne: h.summary_ne || h.summary_en || '',
+      year_bs: h.year_bs || null, id: h.id || '' });
+  });
   return out.sort(bdaySortEvents);
 }
 // Month-by-month summary for one BS year: counts per kind + birthday flag.
 // Festivals count in their start month only (a window spanning two months
-// is not double-counted). Returns [] when the year has no verified lengths.
-function digestYearSummary(exams, festivals, birthday, year){
+// is not double-counted). Historical events count in their day_bs month
+// (they recur every year). Returns [] when the year has no verified lengths.
+function digestYearSummary(exams, festivals, birthday, year, history){
   const lens = BS_MONTH_LEN[year]; if (!lens) return [];
   const b = bsParse(birthday || '');
   const rows = [];
@@ -140,7 +164,15 @@ function digestYearSummary(exams, festivals, birthday, year){
       const w = festivalWindow(f); if (!w) return;
       if (w.start >= start && w.start <= end) fe++;
     });
-    rows.push({ month: m, exams: ex, deadlines: dl, festivals: fe,
+    let hi = 0;
+    (history || []).forEach(h => {
+      if (!h || !h.day_bs) return;
+      const p = h.day_bs.split('-');
+      // A day that doesn't exist in this year's month (e.g. Mangsir 30 in
+      // 2083, which has 29 days) never recurs, so it is not counted.
+      if (+p[0] === m && +p[1] <= lens[m - 1]) hi++;
+    });
+    rows.push({ month: m, exams: ex, deadlines: dl, festivals: fe, history: hi,
       birthday: !!(b && b.m === m) });
   }
   return rows;
@@ -169,6 +201,32 @@ function loadFestivalsForDigest(){
     const v = document.getElementById('view-today');
     if (v && v.classList && v.classList.contains('active')) renderToday();
   }).catch(() => { BIRTHDAY_FESTIVALS = []; });
+}
+
+/* ---- Historical events (lazy, optional) ---- */
+// Same lazy pattern as festivals: prefer the app.js HISTORY global (loaded
+// by loadData() in both web and single-file-bundle modes), then the
+// embedded bundle data, then a direct fetch as a last resort. The digest
+// degrades gracefully to exams + birthday + festivals when the file is
+// absent. This file never writes historical-events data.
+let BIRTHDAY_HISTORY = null; // null = not tried yet; [] = absent/unreadable
+function loadHistoryForDigest(){
+  if (BIRTHDAY_HISTORY !== null) return;
+  BIRTHDAY_HISTORY = [];
+  if (typeof HISTORY !== 'undefined' && Array.isArray(HISTORY) && HISTORY.length){
+    BIRTHDAY_HISTORY = HISTORY.slice();
+    return;
+  }
+  if (typeof window !== 'undefined' && Array.isArray(window.EMBEDDED_HISTORY)){
+    BIRTHDAY_HISTORY = window.EMBEDDED_HISTORY.slice();
+    return;
+  }
+  if (typeof fetch !== 'function') return;
+  fetch('data/historical-events.json').then(r => r.json()).then(arr => {
+    BIRTHDAY_HISTORY = Array.isArray(arr) ? arr : [];
+    const v = document.getElementById('view-today');
+    if (v && v.classList && v.classList.contains('active')) renderToday();
+  }).catch(() => { BIRTHDAY_HISTORY = []; });
 }
 
 /* ---- Birthday card on Home ---- */
@@ -247,39 +305,48 @@ function bdayEventRow(e){
   const chip = e.kind === 'birthday' ? `<span class="chip bday-badge">🎂 ${B('Birthday', 'जन्मदिन')}</span>`
     : e.kind === 'deadline' ? `<span class="chip chip-soon">⏰ ${remKindLabel('deadline')}</span>`
     : e.kind === 'festival' ? `<span class="chip chip-soon">🎉 ${B('Festival', 'चाडपर्व')}</span>`
+    : e.kind === 'history' ? `<span class="chip hist-badge">📜 ${B('History', 'इतिहास')}</span>`
     : `<span class="chip chip-today">📝 ${remKindLabel('exam')}</span>`;
   const ex = e.examId && typeof examById === 'function' ? examById(e.examId) : null;
   const acts = [];
   if (ex) acts.push(`<button class="btn secondary" onclick="goPracticeExam('${esc(ex.id)}')">${B('Practice', 'अभ्यास')}</button>`);
   if (ex && ex.prelim) acts.push(` <button class="btn secondary" onclick="goMockExam('${esc(ex.id)}')">${B('Mock', 'मक')}</button>`);
   if (e.source) acts.push(` <a class="btn secondary" href="${esc(e.source)}" target="_blank" rel="noopener">${B('Source', 'स्रोत')}</a>`);
+  // Historical events: expandable bilingual summary; the row date is the
+  // recurring BS date, the original year rides along where it is known.
+  const det = e.kind === 'history' && (e.summary_en || e.summary_ne)
+    ? `<details class="hist-detail"><summary>${B('Read more', 'थप पढ्नुहोस्')}</summary><p>${esc(lang === 'ne' ? (e.summary_ne || e.summary_en) : (e.summary_en || ''))}</p></details>` : '';
+  const yr = e.kind === 'history' && e.year_bs ? ' · ' + (lang === 'ne' ? neDigits(e.year_bs) : e.year_bs) : '';
   return `<div class="card today-event">${chip}
     <div class="today-main"><strong>${title}</strong>
-    <p class="muted">${esc(fmtBs(e.date_bs))}${e.kind === 'birthday' ? '' : ' · ' + (e.kind === 'festival' ? B('Festival', 'चाडपर्व') : remKindLabel(e.kind))}</p>
+    <p class="muted">${esc(fmtBs(e.date_bs))}${yr}${e.kind === 'birthday' ? '' : ' · ' + (e.kind === 'festival' ? B('Festival', 'चाडपर्व') : e.kind === 'history' ? B('History', 'इतिहास') : remKindLabel(e.kind))}</p>
+    ${det}
     ${acts.length ? `<p class="ed-actions">${acts.join('')}</p>` : ''}</div></div>`;
 }
 function renderToday(){
   const box = document.getElementById('today-box'); if (!box) return;
   if (!dataReady){ box.innerHTML = skelBlock(2); return; }
   loadFestivalsForDigest();
+  loadHistoryForDigest();
   const t = bsToday(), tp = bsParse(t);
   if (todaySelYear === null){ todaySelYear = tp ? tp.y : 2083; }
   if (todaySelMonth === null){ todaySelMonth = tp ? tp.m : 7; }
   const bd = (typeof progress !== 'undefined' && progress) ? (progress.birthday || '') : '';
   const festivals = BIRTHDAY_FESTIVALS || [];
+  const history = BIRTHDAY_HISTORY || [];
   const tabs = `<div class="today-tabs" role="tablist">
     <button class="today-tab${todayTab === 'today' ? ' active' : ''}" onclick="todayTab='today';renderToday()">${B('Today', 'आज')}</button>
     <button class="today-tab${todayTab === 'month' ? ' active' : ''}" onclick="todayTab='month';renderToday()">${B('Month', 'महिना')}</button>
     <button class="today-tab${todayTab === 'year' ? ' active' : ''}" onclick="todayTab='year';renderToday()">${B('Year', 'वर्ष')}</button>
   </div>`;
   let h = `<div class="card"><h2>🎂 ${B('My Day — what is happening when?', 'मेरो दिन — के कहिले हुँदैछ?')}</h2>
-  <p class="muted">${B('Your exams, festivals, deadlines and birthday — today, this month, this year. All dates in Bikram Sambat.', 'तपाईंका परीक्षा, चाडपर्व, अन्तिम मिति र जन्मदिन — आज, यो महिना, यो वर्ष। सबै मिति विक्रम संवत्मा छन्।')}</p>${tabs}`;
+  <p class="muted">${B('Your exams, festivals, deadlines, birthday and historical dates — today, this month, this year. All dates in Bikram Sambat.', 'तपाईंका परीक्षा, चाडपर्व, अन्तिम मिति, जन्मदिन र ऐतिहासिक मितिहरू — आज, यो महिना, यो वर्ष। सबै मिति विक्रम संवत्मा छन्।')}</p>${tabs}`;
   if (todayTab === 'today'){
-    const events = digestEventsForDay(EXAMDATES, festivals, bd, t);
+    const events = digestEventsForDay(EXAMDATES, festivals, bd, t, history);
     h += `<p><strong>${esc(fmtBs(t))}</strong> · ${B('Today', 'आज')}</p>`;
     if (!events.length){
       h += emptyState('🌿', B('Quiet day — nothing scheduled', 'शान्त दिन — केही तय छैन'),
-        B('No exam, festival, deadline or birthday today. A good day to get ahead on practice.', 'आज परीक्षा, चाडपर्व, अन्तिम मिति वा जन्मदिन छैन। अभ्यासमा अगाडि बढ्ने राम्रो दिन।'),
+        B('No exam, festival, deadline, birthday or historical date today. A good day to get ahead on practice.', 'आज परीक्षा, चाडपर्व, अन्तिम मिति, जन्मदिन वा ऐतिहासिक मिति छैन। अभ्यासमा अगाडि बढ्ने राम्रो दिन।'),
         B('Practice now', 'अहिले अभ्यास गर्नुहोस्'), "showView('practice')");
     } else {
       h += '<div class="today-list">' + events.map(bdayEventRow).join('') + '</div>';
@@ -292,10 +359,10 @@ function renderToday(){
       `<option value="${i + 1}"${i + 1 === todaySelMonth ? ' selected' : ''}>${lang === 'ne' ? BS_MONTH_NE[i] : m}</option>`).join('');
     h += `<p><label>${B('Year', 'वर्ष')} <select onchange="todaySelYear=+this.value;renderToday()">${yOpts}</select></label>
     <label>${B('Month', 'महिना')} <select onchange="todaySelMonth=+this.value;renderToday()">${mOpts}</select></label></p>`;
-    const events = digestEventsForMonth(EXAMDATES, festivals, bd, todaySelYear, todaySelMonth);
+    const events = digestEventsForMonth(EXAMDATES, festivals, bd, todaySelYear, todaySelMonth, history);
     if (!events.length){
       h += emptyState('🗓️', B('Nothing this month', 'यो महिना केही छैन'),
-        B('No exam, festival, deadline or birthday in this month.', 'यो महिनामा परीक्षा, चाडपर्व, अन्तिम मिति वा जन्मदिन छैन।'));
+        B('No exam, festival, deadline, birthday or historical date in this month.', 'यो महिनामा परीक्षा, चाडपर्व, अन्तिम मिति, जन्मदिन वा ऐतिहासिक मिति छैन।'));
     } else {
       h += `<p class="muted">${events.length} ${B(events.length > 1 ? 'events' : 'event', 'कार्यक्रम')}</p><div class="today-list">` + events.map(bdayEventRow).join('') + '</div>';
     }
@@ -303,19 +370,20 @@ function renderToday(){
     const years = Object.keys(BS_MONTH_LEN).map(Number);
     const yOpts = years.map(y => `<option value="${y}"${y === todaySelYear ? ' selected' : ''}>${lang === 'ne' ? neDigits(y) : y}</option>`).join('');
     h += `<p><label>${B('Year', 'वर्ष')} <select onchange="todaySelYear=+this.value;renderToday()">${yOpts}</select></label></p>`;
-    const rows = digestYearSummary(EXAMDATES, festivals, bd, todaySelYear);
+    const rows = digestYearSummary(EXAMDATES, festivals, bd, todaySelYear, history);
     if (!rows.length){
       h += emptyState('🗓️', B('Year not supported yet', 'यो वर्ष अझै समर्थित छैन'),
         B('The BS calendar here covers 2083–2084 only.', 'यहाँको वि.सं. पात्रोले २०८३–२०८४ मात्र समेट्छ।'));
     } else {
       h += '<div class="today-list">';
       rows.forEach(r => {
-        const total = r.exams + r.deadlines + r.festivals;
+        const total = r.exams + r.deadlines + r.festivals + (r.history || 0);
         h += `<div class="card today-event"><div class="today-main"><strong>${lang === 'ne' ? BS_MONTH_NE[r.month - 1] : BS_MONTH_EN[r.month - 1]} ${lang === 'ne' ? neDigits(todaySelYear) : todaySelYear}</strong>
         <p class="muted">${total === 0 ? B('Nothing scheduled', 'केही तय छैन') :
           [r.exams ? r.exams + ' ' + B(r.exams > 1 ? 'exams' : 'exam', 'परीक्षा') : '',
            r.deadlines ? r.deadlines + ' ' + B(r.deadlines > 1 ? 'deadlines' : 'deadline', 'अन्तिम मिति') : '',
-           r.festivals ? r.festivals + ' ' + B(r.festivals > 1 ? 'festivals' : 'festival', 'चाडपर्व') : ''].filter(Boolean).join(' · ')}</p>
+           r.festivals ? r.festivals + ' ' + B(r.festivals > 1 ? 'festivals' : 'festival', 'चाडपर्व') : '',
+           r.history ? r.history + ' 📜 ' + B(r.history > 1 ? 'historical dates' : 'historical date', 'ऐतिहासिक मिति') : ''].filter(Boolean).join(' · ')}</p>
         ${r.birthday ? `<p><span class="chip bday-badge">🎂 ${B('Your birthday month', 'तपाईंको जन्मदिनको महिना')}</span></p>` : ''}</div></div>`;
       });
       h += '</div>';
