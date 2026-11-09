@@ -45,6 +45,7 @@
 <button data-view="papers" role="menuitem">Old Papers</button>
 <button data-view="notices" role="menuitem">Notices</button>
 <button data-view="examdates" role="menuitem">📅 Exam Dates</button>
+<button data-view="today" role="menuitem">🎂 My Day</button>
 <button data-view="courses" role="menuitem">📚 Courses</button>
 <button data-view="print" role="menuitem">Print Paper</button>
 <button data-view="search" role="menuitem">Search</button>
@@ -74,6 +75,7 @@
 <h1>Nepal's Lok Sewa exams, mastered question by question.</h1>
 <p>Practice for Kharidar, Nayab Subba, Section Officer, TSC, NRB &amp; bank exams with randomised MCQs, timed mocks that copy the real paper — 20% negative marking, real cutoffs — and a dashboard that shows exactly where you stand.</p>
 <div id="exam-reminder-banner" aria-live="polite"></div>
+<div id="birthday-card-box" aria-live="polite"></div>
 <div class="card" id="continue-studying-box" hidden></div>
 <div class="stat-strip">
 <div><strong>64,671</strong><span>questions</span></div>
@@ -95,6 +97,7 @@
 </div>
 <p class="muted" id="speed-best" style="margin-top:8px"></p>
 <p class="trust-row">Open source · No login · No ads · No tracking</p></div>
+<div id="festival-card" aria-live="polite"></div>
 <div id="next-exam-card" aria-live="off"></div>
 <div class="card"><h2>🔥 Trending — what students are searching most</h2>
 <p class="muted">The topics Nepali aspirants search for most around Lok Sewa, TSC &amp; NRB exams (researched 25–26 Oct 2026; topics, not a live chart — updated when we re-research).</p>
@@ -286,6 +289,11 @@
 <label for="pyq-exam">Exam / परीक्षा</label> <select id="pyq-exam" onchange="renderPYQ()"></select>
 <div id="pyq-box"><p class="muted">Loading…</p></div></section>
 
+<!-- MY DAY DIGEST -->
+<section class="view" id="view-today">
+<div id="today-box"><p class="muted">Loading your day…</p></div>
+</section>
+
 <!-- REPORT MODAL -->
 <div id="modal" class="modal" hidden><div class="modal-card"><div id="modal-body"></div></div></div>
 
@@ -296,6 +304,7 @@
 <button data-view="mock">📝<span>Mock</span></button>
 <button data-view="dashboard">📊<span>Stats</span></button>
 <button data-view="examdates">📅<span>Dates</span></button>
+<button data-view="today">🎂<span>Today</span></button>
 <button data-view="review">🔖<span>Saved</span></button>
 </nav>
 <footer>
@@ -330,5 +339,6 @@
 </footer>
 <div id="confetti-layer" aria-hidden="true"></div>
 <script src="assets/js/app.js"></script>
+<script src="assets/js/birthday.js"></script>
 </body>
 </html>

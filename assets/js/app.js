@@ -224,8 +224,9 @@ function setLang(l){
   else if (id === 'view-chat') renderChat();
   else if (id === 'view-suggest') renderSuggest();
   else if (id === 'view-practice') { /* labels stay bilingual by design; nothing to re-render */ }
+  else if (id === 'view-today' && typeof renderToday === 'function') renderToday();
   // Countdown card + exam banner follow the language toggle on every view.
-  renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying();
+  renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying();
 }
 
 function shuffle(arr, rand=Math.random){
@@ -255,7 +256,7 @@ function xpFor(score, max){ return Math.max(0, Math.round(score*10)); }
 // (Node exports live at the end of this file, after every const is
 // initialised — an early export here hit the FOCUS_DURATIONS TDZ.)
 
-let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], COURSES=[], current=null, timerId=null, timeLeft=0, startTime=0;
+let QUESTIONS=[], EXAMS=[], PAPERS=[], NOTICES=[], FUNFACTS=[], NOTES=[], EXAMDATES=[], COURSES=[], FESTIVALS=[], current=null, timerId=null, timeLeft=0, startTime=0;
 let progress = loadProgress();
 // Cloud-ready progress shape (see docs/BACKEND.md): the profile fields
 // (user_id / email / name) live on the same object as the practice data, so a
@@ -266,6 +267,10 @@ function migrateProgress(p){
   if (!p.user_id) p.user_id = newLocalUserId();
   if (p.email === undefined) p.email = '';
   if (p.name === undefined) p.name = '';
+  // Birthday (BS 'YYYY-MM-DD' or '') — added for the birthday-wish card +
+  // My Day digest (see birthday.js). Lives in the same local profile
+  // store as name/email: on this device only, never uploaded.
+  if (p.birthday === undefined) p.birthday = '';
   if (!Array.isArray(p.attempts)) p.attempts = [];
   if (!Array.isArray(p.bookmarks)) p.bookmarks = [];
   if (!Array.isArray(p.mistakes)) p.mistakes = [];
@@ -858,7 +863,7 @@ function showView(id){
     document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
-  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderContinueStudying(); checkExamNotifications(); }
+  if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderNextExamCard(); renderContinueStudying(); checkExamNotifications(); }
   if(id==='dashboard'){ renderNextExamCompact(); }
   if(id==='auth') renderAuth(); if(id==='profile') renderProfile(); if(id==='discuss') renderDiscuss();
   if(id==='submit') renderSubmit(); if(id==='moderate') renderModerate();
@@ -871,6 +876,7 @@ function showView(id){
   if(id==='chat') renderChat(); if(id==='suggest') renderSuggest();
   if(id==='examdates') renderExamDates();
   if(id==='courses') renderCourses();
+  if(id==='today' && typeof renderToday === 'function') renderToday();
 }
 // Per-view <title> names (English view names are fine — the brand prefix
 // stays constant). Unknown ids fall back to the bare brand.
@@ -882,7 +888,7 @@ const VIEW_TITLES = {
   funfacts:'Fun Facts', chat:'Ask Ravi', suggest:'Suggest a Feature', coverage:'Syllabus Coverage',
   print:'Printable Paper', planner:'Study Planner', coach:'Guess Coach', pyq:'PYQ Heatmap',
   notes:'Revision Notes', audio:'Audio Revision', examdates:'Exam Dates',
-  courses:'Courses'
+  courses:'Courses', today:'My Day'
 };
 /* ---- Production-polish UI helpers: skeletons, empty states, error states ---- */
 // dataReady is false only while loadData() is actually fetching. In the Node
@@ -974,6 +980,13 @@ async function loadData(){
   // fallback (window.EMBEDDED_EXAMDATES, set by scripts/build-bundle.py).
   if (typeof window!=='undefined' && window.EMBEDDED_EXAMDATES) EXAMDATES = window.EMBEDDED_EXAMDATES.slice();
   else { try{ const r=await fetch('data/exam-dates.json'); EXAMDATES=await r.json(); }catch(e){ EXAMDATES=[]; } }
+  // Festival wishes (data/festivals.json): verified Nepali festival dates
+  // in Bikram Sambat, with the single-file bundle's embedded-data fallback
+  // (window.EMBEDDED_FESTIVALS, set by scripts/build-bundle.py). Eid
+  // al-Fitr and Bakr Eid are EXCLUDED from festivals.json by the user's
+  // explicit instruction (2026-11-09) — every other Nepal festival is in.
+  if (typeof window!=='undefined' && window.EMBEDDED_FESTIVALS) FESTIVALS = window.EMBEDDED_FESTIVALS.slice();
+  else { try{ const r=await fetch('data/festivals.json'); FESTIVALS=await r.json(); }catch(e){ FESTIVALS=[]; } }
   // Revision notes: one file per topic (data/notes/NOTES_FILES), fetched in
   // parallel like the question bank, with the single-file bundle's
   // embedded-data fallback (window.EMBEDDED_NOTES, set by
@@ -991,7 +1004,7 @@ async function loadData(){
   const el=$('#q-count'); if(el) el.textContent = QUESTIONS.length ? QUESTIONS.length.toLocaleString() : '—';
   const ec=$('#exam-count'); if(ec) ec.textContent = EXAMS.length || '—';
   fillExamSelects(); renderHomeStats(); renderGuide(); renderTopics(); renderPapers(); renderNotices();
-  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); checkExamNotifications();
+  renderWeekly(); renderFocusTimer(); renderFunFact(); renderMockBest(); renderMockTable(); renderQotd(); renderExamReminder(); renderFestivalCard(); renderNextExamCard(); renderNextExamCompact(); renderContinueStudying(); checkExamNotifications();
   if(!QUESTIONS.length){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
@@ -2050,6 +2063,7 @@ function renderProfile(){
     <div class="card"><h3>${esc(progress.name || B('Guest (not signed in)','अतिथि (साइन इन भएको छैन)'))}</h3>
     <p class="muted">${progress.email ? esc(progress.email) : B('No profile yet','अझै प्रोफाइल छैन')+' — <a href="#" onclick="showView(\'auth\');return false">'+B('sign in (local preview)','साइन इन (स्थानीय पूर्वावलोकन)')+'</a> '+B('to attach your progress to a name.','तपाईंको प्रगति नामसँग जोड्न।')}<br>user_id: ${esc(progress.user_id || '—')}</p>
     <p class="muted"><strong>${B('Local preview — profile stored on this device only.','स्थानीय पूर्वावलोकन — प्रोफाइल यो डिभाइसमा मात्र सेभ छ।')}</strong> ${B('Connect Supabase to enable real Google sign-in (see docs/BACKEND.md).','वास्तविक Google साइन-इनका लागि Supabase जोड्नुहोस् (docs/BACKEND.md हेर्नुहोस्)।')}</p></div>
+    ${(typeof birthdayEditorHtml === 'function') ? birthdayEditorHtml() : ''}
     <div class="grid">
       <div class="card"><div class="stat">${progress.xp}</div>XP · ${B('Level','लेभल')} ${progress.level}</div>
       <div class="card"><div class="stat">🔥 ${progress.streak}</div>${B('day streak','दिनको स्ट्रिक')}</div>
@@ -3478,15 +3492,19 @@ function renderPYQ(){
 /* ---- Exam reminders (data/exam-dates.json) ---- */
 // BS calendar anchor: 2026-10-31 AD (UTC) = 2083-07-14 BS (Kartik 14, 2083).
 // All BS arithmetic is day-offsets from this anchor — no external calendar
-// library, no guessing. Month lengths below are the verified 2083 BS lengths
-// (cross-check: Baisakh 1 2083 = Apr 14 2026; Kartik 1 2083 = Oct 18 2026;
-// both land exactly on the anchor). 2084 uses the standard pattern;
-// re-verify against an official BS calendar if reminder dates ever extend
-// past 2084-03.
+// library, no guessing. Month lengths below are the VERIFIED 2083/2084 BS
+// lengths (cross-checks: Baisakh 1 2083 = Apr 14 2026; Kartik 1 2083 =
+// Oct 18 2026; Poush 1 2083 = Dec 16 2026 — govt 2083 holiday list, so
+// Mangsir has 29 days and Poush 30; Magh 1 2083 = Jan 15 2027; Maha
+// Shivaratri Falgun 11 2084 = Feb 23 2028, so Magh 2084 has 29 days and
+// Falgun 30). CORRECTED 2026-11-09: the previous tables had Mangsir 30 /
+// Poush 29 (2083) and Magh 30 / Falgun 29 (2084) — a one-day error inside
+// Mangsir–Poush 2083 and Magh–Falgun 2084. If a later year is ever added,
+// verify its lengths against the official patro first.
 const BS_ANCHOR_AD = Date.UTC(2026, 9, 31); // 2026-10-31T00:00:00Z
 const BS_MONTH_LEN = {
-  2083: [31,32,31,32,31,30,30,30,29,29,30,30],
-  2084: [31,32,31,32,31,30,30,30,29,30,29,31]
+  2083: [31,32,31,32,31,30,30,29,30,29,30,30],
+  2084: [31,32,31,32,31,30,30,30,29,29,30,31]
 };
 const BS_MONTH_EN = ['Baisakh','Jestha','Ashadh','Shrawan','Bhadra','Ashwin','Kartik','Mangsir','Poush','Magh','Falgun','Chaitra'];
 const BS_MONTH_NE = ['बैशाख','जेठ','असार','साउन','भदौ','असोज','कात्तिक','मंसिर','पुस','माघ','फागुन','चैत'];
@@ -3793,6 +3811,90 @@ function renderNextExamCompact(){
     : nxDigitsHtml(e.date_bs,true);
   box.innerHTML=`<div class="card nx-compact"><span class="nx-label">⏳ ${B('Next exam','अर्को परीक्षा')}:</span> <strong>${nxTitle(e)}</strong> ${body} <span class="nx-compact-btn">${nxRemindBtn(e)}</span></div>`;
   nxTick();
+}
+
+/* ---- Festival wishes (data/festivals.json) ----
+   Eid al-Fitr and Bakr Eid are EXCLUDED from festivals.json by the user's
+   explicit instruction (2026-11-09) — every other Nepal festival is in.
+   Windows are compared as zero-padded YYYY-MM-DD strings (lexicographic
+   order == chronological order), so a window may end in 2085 (Bisket Jatra
+   2028 ends 2085-01-05) even though BS_MONTH_LEN stops at 2084. Known gap:
+   bsToday() is null once the year rolls to 2085, so the card cannot show
+   during 2085-01-01→01-05 (14–18 Apr 2028) until the 2085 patro publishes
+   and BS_MONTH_LEN gains that year. Dismissing a card hides it for the
+   rest of that festival window. */
+const FEST_DISMISSED='loksewa_festival_dismissed_v1';
+function festById(id){ return (FESTIVALS||[]).find(f=>f&&f.id===id); }
+// Festivals active today (start<=today<=end), earliest start first.
+function festivalsToday(){
+  const t=bsToday();
+  return (FESTIVALS||[]).filter(f=>f&&f.start_bs&&f.end_bs&&f.start_bs<=t&&t<=f.end_bs)
+    .sort((a,b)=>a.start_bs<b.start_bs?-1:(a.start_bs>b.start_bs?1:(a.id<b.id?-1:1)));
+}
+// Festivals starting tomorrow (bsDaysUntil(start)===1).
+function festivalsTomorrow(){
+  return (FESTIVALS||[]).filter(f=>f&&f.start_bs&&bsDaysUntil(f.start_bs)===1)
+    .sort((a,b)=>a.start_bs<b.start_bs?-1:(a.start_bs>b.start_bs?1:(a.id<b.id?-1:1)));
+}
+// Next n festivals strictly after today.
+function festivalsUpcoming(n){
+  const t=bsToday();
+  return (FESTIVALS||[]).filter(f=>f&&f.start_bs&&f.start_bs>t)
+    .sort((a,b)=>a.start_bs<b.start_bs?-1:(a.start_bs>b.start_bs?1:(a.id<b.id?-1:1))).slice(0,n||3);
+}
+function festName(f){ return esc(lang==='ne'?(f.name_ne||f.name_en):(f.name_en||'')); }
+function festGreeting(f){ return esc(lang==='ne'?(f.greeting_ne||f.greeting_en):(f.greeting_en||'')); }
+function festDismissed(f){
+  const d=remStore(FEST_DISMISSED,{});
+  return d[f.id]===f.end_bs;
+}
+function dismissFestival(id){
+  const f=festById(id); if(!f) return;
+  const d=remStore(FEST_DISMISSED,{}); d[id]=f.end_bs; remSave(FEST_DISMISSED,d);
+  renderFestivalCard();
+}
+function festConfetti(){
+  if(prefersReducedMotion()) return '';
+  const cols=['#f59e0b','#ec4899','#22c55e','#3b82f6','#eab308','#a855f7'];
+  let s='';
+  for(let i=0;i<12;i++){
+    const left=(i*83)%100, delay=(i%6)*0.7, dur=5+(i%4), c=cols[i%cols.length], sz=6+(i%3)*3;
+    s+=`<i class="fest-confetti-bit" style="left:${left}%;animation-delay:${delay}s;animation-duration:${dur}s;background:${c};width:${sz}px;height:${sz}px"></i>`;
+  }
+  return `<div class="fest-confetti" aria-hidden="true">${s}</div>`;
+}
+function renderFestivalCard(){
+  const box=document.getElementById('festival-card'); if(!box) return;
+  if(!dataReady){ box.innerHTML=''; return; }
+  const active=festivalsToday().filter(f=>!festDismissed(f));
+  const tom=festivalsTomorrow();
+  if(active.length){
+    const f=active[0];
+    const rest=active.slice(1);
+    const range=f.end_bs!==f.start_bs?`${esc(fmtBs(f.start_bs))} – ${esc(fmtBs(f.end_bs))}`:esc(fmtBs(f.start_bs));
+    const also=rest.length?`<p class="fest-also">${B('Also today:','आज अरू पनि:')} ${rest.map(festName).join(', ')}</p>`:'';
+    const up=festivalsUpcoming(3);
+    const strip=up.length?`<div class="fest-strip">${up.map(u=>`<span class="chip">${esc(u.emoji||'🎉')} ${festName(u)} · ${esc(fmtBs(u.start_bs))}</span>`).join('')}</div>`:'';
+    box.innerHTML=`<div class="fest-card" style="--fest:${esc(f.accent||'#f59e0b')}">
+      ${festConfetti()}
+      <button class="rem-x fest-x" aria-label="${B('Dismiss','हटाउनुहोस्')}" onclick="dismissFestival('${esc(f.id)}')">×</button>
+      <div class="fest-emoji">${esc(f.emoji||'🎉')}</div>
+      <p class="fest-label">${B('Festival wishes','चाडपर्वको शुभकामना')}</p>
+      <h3 class="fest-title">${B('Happy','शुभ')} ${festName(f)}!</h3>
+      <p class="fest-greet">${festGreeting(f)}</p>
+      <p class="fest-date muted">${range}${f.confidence==='medium'?` · ⚠️ ${B('re-verify','पुनःपुष्टि')}`:''}</p>
+      ${also}
+      ${strip}
+    </div>`;
+    return;
+  }
+  if(tom.length){
+    const f=tom[0];
+    const more=tom.length>1?` · +${tom.length-1} ${B('more','थप')}`:'';
+    box.innerHTML=`<div class="fest-teaser"><span>${esc(f.emoji||'🎉')} ${B('Tomorrow:','भोलि:')} <strong>${festName(f)}</strong> · ${esc(fmtBs(f.start_bs))}${more}</span></div>`;
+    return;
+  }
+  box.innerHTML='';
 }
 
 /* ================= Theory courses =================

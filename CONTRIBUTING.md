@@ -199,8 +199,44 @@ Upcoming exam / admit-card / application-deadline dates live in `data/exam-dates
 - `date_bs`: `YYYY-MM-DD` zero-padded Bikram Sambat. Compared lexicographically; must be a real BS calendar date.
 - `title_en` / `title_ne`: short bilingual titles. `source`: the official URL where the date was verified. `verified`: the AD date it was checked.
 - `confidence` (optional): `high` = named official notice reproduced by 2+ independent outlets; `medium` = named official notice reproduced by one outlet (re-verify via live browser before the next refresh). Never ship below `medium`.
-- BS maths in the app is anchored at 2026-10-31 AD = 2083-07-14 BS (see `BS_ANCHOR_AD` in `assets/js/app.js`); month lengths for 2083 are verified, 2084 uses the standard pattern — re-verify if dates extend past 2084-03.
+- BS maths in the app is anchored at 2026-10-31 AD = 2083-07-14 BS (see `BS_ANCHOR_AD` in `assets/js/app.js`); month lengths were corrected 2026-11-09 — 2083 Mangsir 29d / Poush 30d, 2084 Magh 29d / Falgun 30d (evidence: Poush 1, 2083 = 16 Dec 2026; Maha Shivaratri = Falgun 11, 2084 = 23 Feb 2028). There is no 2085 table yet — dates past Chaitra 2084 need the 2085 patro before they can be resolved.
 - Stale entries (past dates) are rejected by `scripts/test-examdates.js` — refresh or drop them when re-verifying.
+
+## Festivals (`data/festivals.json`) — the no-guessed-dates rule
+
+Festival dates live in `data/festivals.json` and power the Home-page festival-wishes card (greeting + accent styling + confetti on the day, a "Tomorrow: {festival}" teaser the day before, an "Upcoming festivals" strip of the next 3). **Never invent a date.** Every entry must be verified against a Nepali patro source (ashesh.com.np full patro is the primary source; a second source per row where possible). Lunar dates vary year to year — if a date cannot be verified, the entry does not ship. `scripts/gen-festivals.py` generates the file; verify the generator with `python3 -m py_compile` only, never import it.
+
+### Entry format
+
+```json
+{
+  "id": "tihar-gai-2026",
+  "name_en": "Gai Tihar",
+  "name_ne": "गाइतिहार",
+  "start_bs": "2083-07-23",
+  "end_bs": "2083-07-23",
+  "greeting_en": "Happy Gai Tihar! ...",
+  "greeting_ne": "गाइतिहारको शुभकामना! ...",
+  "emoji": "🐄",
+  "accent": "#f97316",
+  "confidence": "high",
+  "source": "https://www.ashesh.com.np/nepali-calendar/?year=2083&month=Kartik",
+  "verified": "2026-11-09"
+}
+```
+
+- `id`: unique kebab-case slug + AD year (e.g. `tihar-bhai-tika-2026`; Tol Lhosar occurs twice in AD 2027, so `-2027-01` / `-2027-12`). `start_bs` / `end_bs`: `YYYY-MM-DD` zero-padded Bikram Sambat, inclusive window (same date for a single-day festival). Windows are compared as strings, so an `end_bs` in 2085 is fine even though the BS month table stops at 2084 — but note `bsToday()` is null once the year rolls to 2085, so the card cannot show during 2085-01-01→01-05 until the 2085 patro publishes.
+- `greeting_en` / `greeting_ne`: warm, respectful, in both languages. `emoji`: festive only — **no religious imagery** (no 🕉️🛕🙏⛩️🪔🪷). `accent`: hex colour for the card's gradient border/glow. `confidence`: `high` = 2+ sources agree; `medium` = single reputable source (ashesh patro) — re-verify `medium` rows against the Government of Nepal holiday list / Panchanga Nirnayak Samiti patro when it publishes, especially Dashain 2084 Ghatasthapana/Phulpati and the two Lhosars. Never ship below `medium`.
+- **Eid exclusion (user instruction, 2026-11-09): Eid al-Fitr and Bakr Eid (Eid al-Adha) are NOT included — do not list them, do not add them as entries, and do not "complete" the list with them.** Every other festival celebrated in Nepal is included. The exclusion is documented in the `data/festivals.json` generator header and asserted explicitly by `scripts/test-festivals.js` (any id/name/greeting mentioning Eid or Bakr fails the suite).
+- National days that aren't festivals (Democracy Day, Constitution Day, etc.) are skipped. Unverifiable festivals are excluded, not carried from another year (Madhushravani was left out for exactly this reason).
+- Dismissing a card stores `{festivalId: end_bs}` in `loksewa_festival_dismissed_v1` — hidden for the rest of that festival window only.
+
+## Birthday + My Day digest
+
+- The profile birthday lives on the existing progress object as `progress.birthday` — a BS date string `'YYYY-MM-DD'` or `''` when unset (migrated in `migrateProgress()` in `assets/js/app.js`). Same local store as name/email (`loksewa_progress_v1`); on this device only, never uploaded. Do not mint a separate profile key.
+- Birthday matching is month/day only (BS), via the existing BS engine — no absolute-day maths, so birth years 2040–2083 are fine even though `BS_MONTH_LEN` only covers 2083/2084. Day validation accepts 1–32 (every BS month is 29–32 days); a day that doesn't exist in a given year simply never matches.
+- Feature code lives in `assets/js/birthday.js` (pure helpers + renderers) with CSS §26; app.js hooks are `typeof`-guarded so app.js works standalone. `scripts/build-bundle.py` inlines birthday.js into the same app script block (bundle keeps exactly 2 script blocks).
+- The My Day digest reads festivals from the app.js `FESTIVALS` global first, then `window.EMBEDDED_FESTIVALS`, then a direct fetch of `data/festivals.json` — and degrades to exams + birthday when the file is absent. The digest never writes festival data; `data/festivals.json` is owned by the festival-wishes feature.
 
 ## Code changes
 

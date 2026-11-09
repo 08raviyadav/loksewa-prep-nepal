@@ -6,7 +6,8 @@ embeds data/exams.json + every file listed in app.js QUESTION_FILES as
 window.EMBEDDED_EXAMS / window.EMBEDDED_QUESTIONS, plus data/papers.json,
 data/notices.json, data/funfacts.json and every file listed in app.js
 NOTES_FILES (data/notes/) as window.EMBEDDED_PAPERS / window.EMBEDDED_NOTICES /
-window.EMBEDDED_FUNFACTS / window.EMBEDDED_NOTES / window.EMBEDDED_EXAMDATES.
+window.EMBEDDED_FUNFACTS / window.EMBEDDED_NOTES / window.EMBEDDED_EXAMDATES /
+window.EMBEDDED_COURSES / window.EMBEDDED_FESTIVALS.
 
 The bundled loadData() uses the embedded data first (no fetch, so the file
 works opened directly in a phone browser / file://) and falls back to the
@@ -59,6 +60,11 @@ def main() -> int:
     html = (ROOT / "index.html").read_text(encoding="utf-8")
     css = (ROOT / "assets" / "css" / "style.css").read_text(encoding="utf-8")
     js = (ROOT / "assets" / "js" / "app.js").read_text(encoding="utf-8")
+    # Birthday wishes + My Day digest (assets/js/birthday.js) — appended to
+    # the SAME inline script block as app.js so the bundle keeps exactly 2
+    # script blocks (test-bundle.js asserts this). It must load after app.js
+    # (it calls app.js globals at render time, never at load time).
+    bday_js = (ROOT / "assets" / "js" / "birthday.js").read_text(encoding="utf-8")
 
     # 1. Question files, in app.js order (authoritative list).
     m = re.search(r"const QUESTION_FILES = \[([^\]]*)\];", js, re.S)
@@ -75,6 +81,9 @@ def main() -> int:
     notices = json.loads((ROOT / "data" / "notices.json").read_text(encoding="utf-8"))
     funfacts = json.loads((ROOT / "data" / "funfacts.json").read_text(encoding="utf-8"))
     examdates = json.loads((ROOT / "data" / "exam-dates.json").read_text(encoding="utf-8"))
+    # Festivals (data/festivals.json) for the festival-wishes feature.
+    _fest_path = ROOT / "data" / "festivals.json"
+    festivals = json.loads(_fest_path.read_text(encoding="utf-8")) if _fest_path.exists() else []
     # Theory courses, in app.js order (authoritative list).
     m3 = re.search(r"const COURSE_FILES = \[([^\]]*)\];", js, re.S)
     assert m3, "COURSE_FILES not found in app.js"
@@ -97,8 +106,11 @@ def main() -> int:
     js_patched = js.replace(FETCH_BLOCK, EMBEDDED_BLOCK, 1)
 
     # 3. Safety: nothing inlined may contain a literal </script>.
-    for name, text in (("css", css), ("js", js_patched)):
+    for name, text in (("css", css), ("js", js_patched), ("birthday.js", bday_js)):
         assert "</script" not in text.lower(), f"</script> found in {name}"
+    # NOTE: the marker below must NOT contain the literal file path —
+    # the final assert checks that no "assets/js/..." src remains in the HTML.
+    js_patched = js_patched + "\n/* ---- birthday feature (inlined) ---- */\n" + bday_js
     data_json = (
         "window.EMBEDDED_EXAMS="
         + json.dumps(exams, ensure_ascii=False, separators=(",", ":"))
@@ -116,6 +128,8 @@ def main() -> int:
         + json.dumps(examdates, ensure_ascii=False, separators=(",", ":"))
         + ";\nwindow.EMBEDDED_COURSES="
         + json.dumps(courses, ensure_ascii=False, separators=(",", ":"))
+        + ";\nwindow.EMBEDDED_FESTIVALS="
+        + json.dumps(festivals, ensure_ascii=False, separators=(",", ":"))
         + ";"
     )
     assert "</script" not in data_json.lower(), "</script> found in embedded data"
@@ -128,13 +142,19 @@ def main() -> int:
         1,
     )
     assert '<script src="assets/js/app.js"></script>' in html
+    assert '<script src="assets/js/birthday.js"></script>' in html
     html = html.replace(
         '<script src="assets/js/app.js"></script>',
         "<script>\n" + data_json + "\n</script>\n<script>\n" + js_patched + "\n</script>",
         1,
     )
+    # The birthday script tag is inlined above — remove the now-dead src tag
+    # so the bundle has no external script refs and still has exactly 2
+    # inline <script> blocks.
+    html = html.replace('<script src="assets/js/birthday.js"></script>', '', 1)
     assert "EMBEDDED_QUESTIONS" in html and "EMBEDDED_EXAMS" in html
-    assert "assets/js/app.js" not in html and "assets/css/style.css" not in html
+    assert "assets/js/app.js" not in html and "assets/js/birthday.js" not in html
+    assert "assets/css/style.css" not in html
 
     OUT.write_text(html, encoding="utf-8")
     YOUR_FILES.parent.mkdir(parents=True, exist_ok=True)

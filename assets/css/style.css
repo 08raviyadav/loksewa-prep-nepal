@@ -674,6 +674,46 @@ footer{text-align:left}
 @media(prefers-reduced-motion:reduce){
   .nx-card{box-shadow:none}
 }
+
+/* ---------- 25. Festival wishes ---------- */
+#festival-card{max-width:860px;margin:20px auto 6px;padding:0 4px}
+#festival-card:empty{display:none}
+.fest-card{position:relative;border-radius:20px;padding:26px 28px 22px;overflow:hidden;text-align:center;
+  background:linear-gradient(160deg,#2a2140f2,#141a33f2);
+  border:1px solid var(--fest,#f59e0b);
+  box-shadow:0 10px 44px -12px var(--fest,#f59e0b), inset 0 1px 0 #ffffff14}
+.fest-card::before{content:'';position:absolute;inset:0;pointer-events:none;opacity:.28;
+  background:radial-gradient(600px 200px at 85% -20%,var(--fest,#f59e0b),transparent 70%),
+             radial-gradient(500px 220px at 5% 115%,var(--fest,#f59e0b),transparent 70%)}
+.fest-card>*{position:relative}
+.fest-x{position:absolute;top:10px;right:12px;z-index:2}
+.fest-emoji{font-size:2.6rem;line-height:1;margin:2px 0 10px}
+.fest-label{font-size:.82rem;font-weight:700;letter-spacing:2px;text-transform:uppercase;
+  color:var(--fest,#f59e0b);margin:0 0 4px}
+.fest-title{margin:4px 0 10px;font-size:1.6rem;line-height:1.3}
+.fest-greet{margin:6px auto 10px;max-width:560px;line-height:1.6}
+.fest-date{margin:4px 0 0;font-size:.85rem}
+.fest-also{margin:8px 0 0;font-size:.92rem}
+.fest-strip{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:14px}
+.fest-teaser{border:1px dashed var(--border);border-radius:14px;padding:10px 14px;text-align:center;
+  background:#ffffff06}
+.fest-confetti{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.fest-confetti-bit{position:absolute;top:-14px;border-radius:2px;
+  animation:fest-fall linear infinite;opacity:.9}
+@keyframes fest-fall{
+  0%{transform:translateY(-10px) rotate(0deg)}
+  100%{transform:translateY(560px) rotate(540deg)}
+}
+@media(max-width:640px){
+  .fest-card{padding:22px 18px 18px}
+  .fest-title{font-size:1.3rem}
+  .fest-emoji{font-size:2.1rem}
+}
+@media(prefers-reduced-motion:reduce){
+  .fest-card{box-shadow:none}
+  .fest-confetti{display:none}
+}
+
 /* ================= Theory courses ================= */
 .course-card-top{display:flex;gap:16px;align-items:center;margin-bottom:14px}
 .course-card .btn{margin-top:4px}
@@ -713,3 +753,32 @@ footer{text-align:left}
   .subj-right{max-width:40%}
   .chapter-nav .btn{font-size:var(--fs-small)}
 }
+
+/* ---------- 26. Birthday wishes + "My Day" digest (birthday.js) ---------- */
+#birthday-card-box{margin:14px auto 4px;max-width:780px;width:100%}
+.bday-card{position:relative;border-radius:20px;padding:26px 24px;text-align:center;overflow:hidden;
+  background:linear-gradient(160deg,#3b1d3af2,#141a33f2);
+  border:1px solid #ec489973;
+  box-shadow:0 0 0 1px #ec489922,0 10px 44px #ec489926,inset 0 1px 0 #ffffff14}
+.bday-card::before{content:'';position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(500px 180px at 85% -20%,#ec489930,transparent),
+             radial-gradient(500px 200px at 5% 115%,#f59e0b30,transparent)}
+.bday-card>*{position:relative}
+.bday-cake{font-size:3rem;line-height:1.1}
+.bday-card h2{margin:8px 0 4px;font-size:1.5rem}
+.bday-age{font-size:1.1rem;font-weight:700;color:#fbbf24}
+.bday-x{position:absolute;top:8px;right:8px;background:none;border:none;font-size:1.35rem;line-height:1;
+  cursor:pointer;color:var(--muted);padding:4px 10px;border-radius:8px;min-height:44px}
+.bday-x:hover{color:var(--text);background:#ffffff14}
+.bday-picker{display:flex;gap:10px;flex-wrap:wrap;align-items:end;margin:10px 0}
+.bday-picker label{display:flex;flex-direction:column;gap:4px;font-size:.9rem}
+.bday-picker select{min-width:90px}
+.bday-badge{border-color:#ec4899!important;background:#ec48991a!important}
+.today-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+.today-tab{background:var(--bg2);border:1px solid var(--border);color:var(--text);
+  border-radius:999px;padding:10px 22px;font-size:1rem;font-weight:600;cursor:pointer;min-height:44px}
+.today-tab.active{border-color:var(--accent);color:var(--accent);background:#f59e0b14}
+.today-list{display:grid;gap:12px;margin:14px 0}
+.today-event{display:flex;gap:14px;align-items:flex-start}
+.today-main{flex:1;min-width:0}
+@media(max-width:720px){.today-event{flex-direction:column;gap:8px}}

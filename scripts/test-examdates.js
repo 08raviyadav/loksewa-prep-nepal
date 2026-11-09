@@ -38,6 +38,14 @@ check('bsDaysUntil(2083-07-21) === 7', t.bsDaysUntil('2083-07-21') === 7);
 check('bsParse rejects garbage', t.bsParse('not-a-date') === null && t.bsParse('2083-7-14') === null && t.bsParse('') === null);
 check('bsAbsDay rejects impossible day (Kartik 31)', t.bsAbsDay('2083-07-31') === null);
 check('bsAbsDay rejects unknown year', t.bsAbsDay('2099-01-01') === null);
+// Corrected BS month lengths (2026-11-09: Mangsir 2083 = 29d, Poush 2083 =
+// 30d, Magh 2084 = 29d, Falgun 2084 = 30d — the old tables had them swapped).
+check('Mangsir 2083 has 29 days (08-29 valid, 08-30 invalid)', t.bsAbsDay('2083-08-29') != null && t.bsAbsDay('2083-08-30') === null);
+check('Poush 2083 has 30 days (09-30 valid)', t.bsAbsDay('2083-09-30') != null);
+check('bsAbsDay(2083-09-01) === 246', t.bsAbsDay('2083-09-01') === 246, String(t.bsAbsDay('2083-09-01')));
+check('Magh 2084 has 29 days (10-29 valid, 10-30 invalid)', t.bsAbsDay('2084-10-29') != null && t.bsAbsDay('2084-10-30') === null);
+check('Falgun 2084 has 30 days (11-30 valid)', t.bsAbsDay('2084-11-30') != null);
+check('bsAbsDay(2084-11-11) === 680 (Maha Shivaratri 2028)', t.bsAbsDay('2084-11-11') === 680, String(t.bsAbsDay('2084-11-11')));
 check('bsDaysUntil returns null on bad input', t.bsDaysUntil('xyz') === null);
 check('bsFromAbs round-trips', t.bsFromAbs(t.bsAbsDay('2083-11-05')) === '2083-11-05' && t.bsFromAbs(t.bsAbsDay('2084-01-01')) === '2084-01-01');
 check('fmtBs EN', t.fmtBs('2083-07-14') === '14 Kartik 2083', t.fmtBs('2083-07-14'));
