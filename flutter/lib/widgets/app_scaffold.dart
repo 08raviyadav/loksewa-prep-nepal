@@ -7,6 +7,7 @@ import 'package:url_launcher/url_launcher.dart';
 import '../l10n/community_strings.dart';
 import '../l10n/examdates_strings.dart';
 import '../l10n/history_strings.dart';
+import '../l10n/v104_strings.dart';
 import '../services/update_checker.dart';
 import '../state/app_state.dart';
 import '../theme/app_theme.dart';
@@ -140,12 +141,11 @@ class _AppDrawer extends StatelessWidget {
     }
   }
 
-  /// Shares the app's download link via the system share sheet.
-  Future<void> _shareApp(BuildContext context) async {
-    final s = AppStateScope.of(context).strings;
+  /// Shares [text] via the system share sheet (app link / invite).
+  Future<void> _shareText(BuildContext context, String text) async {
     Navigator.pop(context); // close the drawer first
     try {
-      await SharePlus.instance.share(ShareParams(text: s.shareMessage));
+      await SharePlus.instance.share(ShareParams(text: text));
     } catch (_) {
       // The share sheet basically never fails on Android; if it does,
       // there is nothing useful to show — the user just taps again.
@@ -276,6 +276,11 @@ class _AppDrawer extends StatelessWidget {
             title: Text(s.historyNav),
             onTap: () => _push(context, '/history'),
           ),
+          ListTile(
+            leading: const Icon(Icons.error_outline),
+            title: Text(s.mistakesTitle),
+            onTap: () => _push(context, '/mistakes'),
+          ),
           const Divider(),
           ListTile(
             leading: const Icon(Icons.forum_outlined),
@@ -312,7 +317,12 @@ class _AppDrawer extends StatelessWidget {
           ListTile(
             leading: const Icon(Icons.share_outlined),
             title: Text(s.shareTitle),
-            onTap: () => _shareApp(context),
+            onTap: () => _shareText(context, s.shareMessage),
+          ),
+          ListTile(
+            leading: const Icon(Icons.person_add_outlined),
+            title: Text(s.inviteTitle),
+            onTap: () => _shareText(context, s.inviteMessage),
           ),
           const Divider(),
           ListTile(
