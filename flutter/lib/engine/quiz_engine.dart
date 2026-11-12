@@ -52,6 +52,9 @@ class QuizConfig {
   final int? seed; // deterministic shuffles in tests
   final String?
       dailySeed; // daily-challenge day key (yyyy-MM-dd); marks dailyDone
+  final String?
+      qotdSeed; // question-of-the-day key (yyyy-MM-dd); marks qotdDone
+  final bool reviewMistakes; // mistake review: correct answers clear them
 
   const QuizConfig({
     required this.questions,
@@ -63,6 +66,8 @@ class QuizConfig {
     this.examId = '',
     this.seed,
     this.dailySeed,
+    this.qotdSeed,
+    this.reviewMistakes = false,
   });
 }
 
