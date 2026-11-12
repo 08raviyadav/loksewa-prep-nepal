@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../l10n/history_strings.dart';
 import '../models/history.dart';
@@ -119,7 +120,7 @@ class HistoryEventRow extends StatelessWidget {
                         tapTargetSize: MaterialTapTargetSize.shrinkWrap,
                       ),
                       onPressed: () =>
-                          showHistorySourceDialog(context, event.sources[i]),
+                          openHistorySource(context, event.sources[i]),
                       child: Text(
                         '${i + 1}',
                         style: AppType.small.copyWith(
@@ -137,10 +138,24 @@ class HistoryEventRow extends StatelessWidget {
   }
 }
 
-/// Source link without adding url_launcher: shows the URL as
-/// selectable text with a copy button (same pattern as the Exam
-/// Dates screen's official-source dialog).
-Future<void> showHistorySourceDialog(BuildContext context, String url) async {
+/// Source link: opens the URL in the browser. If the device can't open
+/// it, falls back to the copyable-URL dialog below.
+Future<void> openHistorySource(BuildContext context, String url) async {
+  final ok = await launchUrl(
+    Uri.parse(url),
+    mode: LaunchMode.externalApplication,
+  );
+  if (!ok && context.mounted) {
+    await _showHistorySourceDialog(context, url);
+  }
+}
+
+/// Fallback for [openHistorySource]: the URL as selectable text with a
+/// copy button, for devices that can't open the link.
+Future<void> _showHistorySourceDialog(
+  BuildContext context,
+  String url,
+) async {
   final s = AppStateScope.of(context).strings;
   await showDialog<void>(
     context: context,

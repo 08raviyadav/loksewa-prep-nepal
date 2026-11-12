@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'package:package_info_plus/package_info_plus.dart';
+import 'package:share_plus/share_plus.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../l10n/community_strings.dart';
+import '../l10n/examdates_strings.dart';
 import '../l10n/history_strings.dart';
+import '../services/update_checker.dart';
 import '../state/app_state.dart';
 import '../theme/app_theme.dart';
 import 'push_scope.dart';
@@ -112,6 +118,120 @@ class _AppDrawer extends StatelessWidget {
     PushScope.of(context)?.onPush(route);
   }
 
+  /// Opens an external link (GitHub, website) in the browser. Closes
+  /// the drawer first; shows a snackbar if the device can't open it.
+  ///
+  /// The snackbar uses the Navigator's context, not the drawer's: the
+  /// drawer unmounts on pop, so its own context is dead by the time
+  /// the launch result comes back.
+  Future<void> _openLink(BuildContext context, String url) async {
+    final rootContext = Navigator.of(context).context;
+    Navigator.pop(context); // close the drawer first
+    final ok = await launchUrl(
+      Uri.parse(url),
+      mode: LaunchMode.externalApplication,
+    );
+    if (!ok && rootContext.mounted) {
+      final s = AppStateScope.of(rootContext).strings;
+      ScaffoldMessenger.of(rootContext).showSnackBar(
+        SnackBar(content: Text(s.openLinkFailed)),
+      );
+    }
+  }
+
+  /// Shares the app's download link via the system share sheet.
+  Future<void> _shareApp(BuildContext context) async {
+    final s = AppStateScope.of(context).strings;
+    Navigator.pop(context); // close the drawer first
+    try {
+      await SharePlus.instance.share(ShareParams(text: s.shareMessage));
+    } catch (_) {
+      // The share sheet basically never fails on Android; if it does,
+      // there is nothing useful to show — the user just taps again.
+    }
+  }
+
+  /// Manual update check: asks GitHub for the latest release, compares
+  /// it with the installed version, and offers the APK download.
+  Future<void> _checkForUpdates(BuildContext context) async {
+    final rootContext = Navigator.of(context).context;
+    final s = AppStateScope.of(context).strings;
+    Navigator.pop(context); // close the drawer first
+    // Loading dialog (back button disabled while the check runs, so
+    // the dismiss-pop below always targets this dialog, never a page).
+    showDialog<void>(
+      context: rootContext,
+      barrierDismissible: false,
+      builder: (_) => PopScope(
+        canPop: false,
+        child: AlertDialog(
+          content: Row(
+            children: [
+              const CircularProgressIndicator(),
+              const SizedBox(width: AppSpacing.s4),
+              Expanded(child: Text(s.checkingForUpdates)),
+            ],
+          ),
+        ),
+      ),
+    );
+    try {
+      final info = await PackageInfo.fromPlatform();
+      final result = await UpdateChecker(
+        client: http.Client(),
+        currentVersion: info.version,
+      ).check();
+      if (!rootContext.mounted) return;
+      Navigator.of(rootContext).pop(); // dismiss loading
+      if (result.updateAvailable) {
+        final downloadIt = await showDialog<bool>(
+          context: rootContext,
+          builder: (_) => AlertDialog(
+            title: Text(s.updateAvailable),
+            content: Text(s.updateAvailableBody(result.latestVersion)),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(rootContext, false),
+                child: Text(s.later),
+              ),
+              FilledButton(
+                onPressed: () => Navigator.pop(rootContext, true),
+                child: Text(s.download),
+              ),
+            ],
+          ),
+        );
+        if (downloadIt == true && rootContext.mounted) {
+          await launchUrl(
+            Uri.parse(result.downloadUrl),
+            mode: LaunchMode.externalApplication,
+          );
+        }
+      } else {
+        await showDialog<void>(
+          context: rootContext,
+          builder: (_) => AlertDialog(
+            title: Text(s.upToDate),
+            content: Text(s.upToDateBody),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(rootContext),
+                child: Text(s.closeBtn),
+              ),
+            ],
+          ),
+        );
+      }
+    } catch (_) {
+      if (rootContext.mounted) {
+        Navigator.of(rootContext).pop(); // dismiss loading
+        ScaffoldMessenger.of(rootContext).showSnackBar(
+          SnackBar(content: Text(s.checkFailed)),
+        );
+      }
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     final state = AppStateScope.of(context);
@@ -171,12 +291,76 @@ class _AppDrawer extends StatelessWidget {
           const Divider(),
           ListTile(
             leading: const Icon(Icons.info_outline),
+            title: Text(s.aboutTitle),
+            onTap: () => _push(context, '/about'),
+          ),
+          ListTile(
+            leading: const Icon(Icons.privacy_tip_outlined),
+            title: Text(s.privacyTitle),
+            onTap: () => _push(context, '/privacy'),
+          ),
+          ListTile(
+            leading: const Icon(Icons.system_update_outlined),
+            title: Text(s.checkUpdatesTitle),
+            subtitle: const _CurrentVersionSubtitle(),
+            onTap: () => _checkForUpdates(context),
+          ),
+          ListTile(
+            leading: const Icon(Icons.share_outlined),
+            title: Text(s.shareTitle),
+            onTap: () => _shareApp(context),
+          ),
+          const Divider(),
+          ListTile(
+            leading: const Icon(Icons.public_outlined),
+            title: const Text('raviyadav.com.np'),
+            subtitle: Text(s.websiteTitle),
+            trailing: const Icon(Icons.open_in_new, size: 18),
+            onTap: () => _openLink(context, 'https://raviyadav.com.np'),
+          ),
+          ListTile(
+            leading: const Icon(Icons.code_outlined),
             title: Text(s.footerCredit),
             subtitle: const Text('github.com/08raviyadav · MIT'),
+            trailing: const Icon(Icons.open_in_new, size: 18),
+            onTap: () =>
+                _openLink(context, 'https://github.com/08raviyadav'),
           ),
         ],
       ),
     );
+  }
+}
+
+/// "Version 1.0.2" subtitle under Check for updates. Fetches once;
+/// renders nothing if the platform lookup fails (e.g. in a test).
+class _CurrentVersionSubtitle extends StatefulWidget {
+  const _CurrentVersionSubtitle();
+
+  @override
+  State<_CurrentVersionSubtitle> createState() =>
+      _CurrentVersionSubtitleState();
+}
+
+class _CurrentVersionSubtitleState extends State<_CurrentVersionSubtitle> {
+  String? _version;
+
+  @override
+  void initState() {
+    super.initState();
+    PackageInfo.fromPlatform().then(
+      (info) {
+        if (mounted) setState(() => _version = info.version);
+      },
+      onError: (_) {},
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_version == null) return const SizedBox.shrink();
+    final s = AppStateScope.of(context).strings;
+    return Text('${s.versionLabel} $_version');
   }
 }
 
