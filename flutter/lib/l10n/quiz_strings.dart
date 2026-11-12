@@ -314,4 +314,17 @@ extension QuizStrings on AppStrings {
       'अहिलेसम्म पास होइन, तर अंक इमानदार छ — र सुधार इमानदारीबाटै सुरु हुन्छ।',
     ],
   ];
+
+  // --- share score (v1.0.4) ---
+  String get shareScoreTitle => t('Share score', 'स्कोर सेयर गर्नुहोस्');
+  String shareScoreText(
+    String score,
+    String max,
+    String pct,
+    String exam,
+  ) =>
+      t(
+        'I scored $score/$max ($pct%) on $exam in LokSewa Vidyapeeth! 🎯\n\nFree Lok Sewa exam prep — download it here:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'मैले लोक सेवा विद्यापीठमा $exam मा $score/$max ($pct%) ल्याएँ! 🎯\n\nनिःशुल्क लोक सेवा परीक्षा तयारी — यहाँबाट डाउनलोड गर्नुहोस्:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+      );
 }

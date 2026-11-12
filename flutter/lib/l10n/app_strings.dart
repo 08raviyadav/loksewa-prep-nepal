@@ -110,8 +110,8 @@ class AppStrings {
       t('Open-source licences', 'ओपन-सोर्स लाइसेन्स');
   String get dataSourcesTitle => t('Data sources', 'डेटा स्रोत');
   String get dataSourcesBody => t(
-        'Exam dates come from Public Service Commission notices. Questions are original model questions, plus transcribed previous-year papers. Data is bundled with the app — no account or internet needed to study.',
-        'परीक्षा मितिहरू लोक सेवा आयोगका सूचनाबाट लिइएका हुन्। प्रश्नहरू मौलिक मोडेल प्रश्न र अघिल्ला वर्षका प्रश्नपत्रहरू हुन्। डेटा एपमै समावेश छ — पढ्न खाता वा इन्टरनेट चाहिँदैन।',
+        'Exam dates come from Public Service Commission notices. Questions are original model questions, plus transcribed previous-year papers. Data is bundled with the app — no account needed to study. An internet connection is required to open the app.',
+        'परीक्षा मितिहरू लोक सेवा आयोगका सूचनाबाट लिइएका हुन्। प्रश्नहरू मौलिक मोडेल प्रश्न र अघिल्ला वर्षका प्रश्नपत्रहरू हुन्। डेटा एपमै समावेश छ — पढ्न खाता चाहिँदैन। एप खोल्न इन्टरनेट चाहिन्छ।',
       );
   String get privacyTitle => t('Privacy Policy', 'गोपनीयता नीति');
   String get shareTitle => t('Share the app', 'एप सेयर गर्नुहोस्');
