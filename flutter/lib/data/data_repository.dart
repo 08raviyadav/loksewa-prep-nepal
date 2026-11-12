@@ -13,19 +13,31 @@ class DataRepository {
   DataRepository._();
 
   List<Exam>? _exams;
+  List<Map<String, dynamic>>? _examRows;
   List<ExamDate>? _examDates;
   List<HistoricalEvent>? _history;
   final Map<String, List<Question>> _questionFiles = {};
   Map<String, dynamic>? _qIndex;
 
-  Future<List<Exam>> exams() async {
-    if (_exams != null) return _exams!;
+  /// Raw decoded exams.json rows (prelim blocks included), parsed once
+  /// and cached. Screens that need more than the Exam model (mock
+  /// patterns, prelim tables) read this instead of re-parsing the file
+  /// — exams.json was parsed in four places before v1.0.1.
+  Future<List<Map<String, dynamic>>> examRows() async {
+    if (_examRows != null) return _examRows!;
     final raw = await rootBundle.loadString('assets/data/exams.json');
     final decoded = json.decode(raw);
     final list = decoded is List ? decoded : decoded['exams'] as List;
-    _exams = list
-        .map((e) => Exam.fromJson(Map<String, dynamic>.from(e as Map)))
+    _examRows = list
+        .map((e) => Map<String, dynamic>.from(e as Map))
         .toList();
+    return _examRows!;
+  }
+
+  Future<List<Exam>> exams() async {
+    if (_exams != null) return _exams!;
+    final rows = await examRows();
+    _exams = rows.map(Exam.fromJson).toList();
     return _exams!;
   }
 
