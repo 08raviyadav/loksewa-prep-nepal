@@ -1,9 +1,8 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle;
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data/data_repository.dart';
+import '../engine/exam_categories.dart';
 import '../engine/quiz_engine.dart';
 import '../l10n/quiz_strings.dart';
 import '../models/models.dart';
@@ -66,6 +65,17 @@ class _PracticeScreenState extends State<PracticeScreen> {
   bool _negOn = true;
   Map<String, dynamic>? _prelim; // this exam's prelim table, if any
 
+  // Exam-picker organisation (v1.0.1): 47 exams as one flat chip list
+  // meant endless scrolling. The picker is now search + collapsible
+  // category sections + a "Recent" row, so every exam is ≤2 taps away
+  // and the initial view fits on one screen.
+  final _searchCtrl = TextEditingController();
+  String _query = '';
+  final Set<String> _expanded = {};
+  List<String> _recentIds = [];
+  static const _kRecentKey = 'loksewa_recent_exams_v1';
+  static const _kRecentMax = 4;
+
   // Full-bank index: topic counts without parsing 73MB of JSON.
   // (Phase 1 shipped one sample file; the index now covers all 131.)
   @override
@@ -73,7 +83,31 @@ class _PracticeScreenState extends State<PracticeScreen> {
     super.initState();
     _examsFuture = DataRepository().exams();
     _exam = widget.initialExam;
-    if (_exam != null) _loadTopics();
+    if (_exam != null) {
+      _expanded.add(categoryIdForExam(_exam!));
+      _loadTopics();
+    }
+    _loadRecent();
+  }
+
+  @override
+  void dispose() {
+    _searchCtrl.dispose();
+    super.dispose();
+  }
+
+  Future<void> _loadRecent() async {
+    final prefs = await SharedPreferences.getInstance();
+    if (!mounted) return;
+    setState(() => _recentIds = prefs.getStringList(_kRecentKey) ?? []);
+  }
+
+  Future<void> _saveRecent(String id) async {
+    final next =
+        [id, ..._recentIds.where((e) => e != id)].take(_kRecentMax).toList();
+    setState(() => _recentIds = next);
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList(_kRecentKey, next);
   }
 
   Future<void> _loadTopics() async {
@@ -97,11 +131,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
   /// pace all read this table.
   Future<Map<String, dynamic>?> _prelimFor(String examId) async {
     try {
-      final raw = await rootBundle.loadString('assets/data/exams.json');
-      final decoded = json.decode(raw);
-      final list = decoded is List ? decoded : decoded['exams'] as List;
-      for (final e in list) {
-        final m = Map<String, dynamic>.from(e as Map);
+      final rows = await DataRepository().examRows();
+      for (final m in rows) {
         if (m['id'] == examId) {
           final p = m['prelim'];
           return p == null ? null : Map<String, dynamic>.from(p as Map);
@@ -152,8 +183,9 @@ class _PracticeScreenState extends State<PracticeScreen> {
     );
     if (!mounted) return;
     if (pool.isEmpty) {
-      ScaffoldMessenger.of(context)
-          .showSnackBar(SnackBar(content: Text(s.noMatch(exam.title(s.isNe)))));
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(s.noMatch(exam.title(s.isNe)))),
+      );
       return;
     }
     final prelim = _prelim;
@@ -161,7 +193,9 @@ class _PracticeScreenState extends State<PracticeScreen> {
     final marksPerQ = prelim?['marksPerQ'] as num?;
     final picked = (pool.toList()..shuffle())
         .take(_count)
-        .map((q) => marksPerQ != null ? _withMarks(q, marksPerQ.toInt()) : q)
+        .map(
+          (q) => marksPerQ != null ? _withMarks(q, marksPerQ.toInt()) : q,
+        )
         .toList();
     // Timer pace: prelim.timeMin spread over the full paper, else 54s/Q.
     final perQSecs = (prelim != null &&
@@ -202,9 +236,28 @@ class _PracticeScreenState extends State<PracticeScreen> {
     setState(() {
       _exam = e;
       _topics.clear();
+      // Keep the picked exam's section open so the selection stays
+      // visible when the search is cleared.
+      _expanded.add(categoryIdForExam(e));
     });
+    _saveRecent(e.id);
     _loadTopics();
   }
+
+  Widget _examChips(List<Exam> exams, bool ne) => Wrap(
+        spacing: AppSpacing.s2,
+        runSpacing: AppSpacing.s2,
+        children: exams
+            .map(
+              (e) => _ExamChip(
+                exam: e,
+                selected: _exam?.id == e.id,
+                ne: ne,
+                onTap: () => _pickExam(e),
+              ),
+            )
+            .toList(),
+      );
 
   @override
   Widget build(BuildContext context) {
@@ -224,25 +277,97 @@ class _PracticeScreenState extends State<PracticeScreen> {
             );
           }
           final exams = snap.data!;
+          final query = _query;
+          final byId = {for (final e in exams) e.id: e};
+          final recent = [
+            for (final id in _recentIds)
+              if (byId[id] != null) byId[id]!,
+          ];
+          final matches = query.isEmpty
+              ? exams
+              : exams.where((e) => examMatchesQuery(e, query)).toList();
+          final groups = groupExams(exams);
           return ListView(
             padding: const EdgeInsets.all(AppSpacing.s4),
             children: [
               Text(s.chooseExam, style: AppType.h2),
               const SizedBox(height: AppSpacing.s3),
-              Wrap(
-                spacing: AppSpacing.s2,
-                runSpacing: AppSpacing.s2,
-                children: exams
-                    .map(
-                      (e) => _ExamChip(
-                        exam: e,
-                        selected: _exam?.id == e.id,
-                        ne: ne,
-                        onTap: () => _pickExam(e),
-                      ),
-                    )
-                    .toList(),
+              TextField(
+                controller: _searchCtrl,
+                decoration: InputDecoration(
+                  hintText: s.searchExamsHint,
+                  prefixIcon: const Icon(Icons.search),
+                  suffixIcon: _query.isEmpty
+                      ? null
+                      : IconButton(
+                          tooltip: s.clearSearch,
+                          icon: const Icon(Icons.clear),
+                          onPressed: () {
+                            _searchCtrl.clear();
+                            setState(() => _query = '');
+                          },
+                        ),
+                  border: OutlineInputBorder(
+                    borderRadius: AppRadius.mdAll,
+                  ),
+                ),
+                textInputAction: TextInputAction.search,
+                onChanged: (v) => setState(() => _query = v),
               ),
+              if (query.isEmpty && recent.isNotEmpty) ...[
+                const SizedBox(height: AppSpacing.s4),
+                Text(s.recentExams, style: AppType.h3),
+                const SizedBox(height: AppSpacing.s2),
+                _examChips(recent, ne),
+              ],
+              const SizedBox(height: AppSpacing.s4),
+              if (query.isNotEmpty)
+                matches.isEmpty
+                    ? Padding(
+                        padding:
+                            const EdgeInsets.symmetric(vertical: AppSpacing.s4),
+                        child: Text(
+                          s.noExamsFound,
+                          style: AppType.small.copyWith(color: AppColors.muted),
+                        ),
+                      )
+                    : _examChips(matches, ne)
+              else
+                ...groups.map((g) {
+                  final (cat, list) = g;
+                  final expanded = _expanded.contains(cat.id);
+                  return Padding(
+                    padding: const EdgeInsets.only(bottom: AppSpacing.s2),
+                    child: Card(
+                      margin: EdgeInsets.zero,
+                      child: ExpansionTile(
+                        // Key includes the expanded flag so a programmatic
+                        // expand (picking from search / deep-link) rebuilds
+                        // the tile open; user taps toggle via the callback.
+                        key: ValueKey('cat_${cat.id}_$expanded'),
+                        title: Text(
+                          '${cat.title(ne)}  ·  ${list.length}',
+                          style: AppType.h3,
+                        ),
+                        initiallyExpanded: expanded,
+                        onExpansionChanged: (v) => setState(() {
+                          if (v) {
+                            _expanded.add(cat.id);
+                          } else {
+                            _expanded.remove(cat.id);
+                          }
+                        }),
+                        children: [
+                          Padding(
+                            padding: const EdgeInsets.fromLTRB(
+                                AppSpacing.s4, 0, AppSpacing.s4, AppSpacing.s4,),
+                            child: _examChips(list, ne),
+                          ),
+                        ],
+                      ),
+                    ),
+                  );
+                }),
               if (_exam != null) ...[
                 const SizedBox(height: AppSpacing.s6),
                 Text(s.chooseTopics, style: AppType.h2),
@@ -356,8 +481,21 @@ class _ExamChip extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Long names (e.g. "Deputy Secretary / Joint Secretary …") were
+    // hard-clipped mid-word in v1.0.0. Cap the label width so the text
+    // wraps onto a second line instead.
+    final maxLabelWidth =
+        MediaQuery.of(context).size.width - AppSpacing.s4 * 2 - 40;
     return ChoiceChip(
-      label: Text(exam.title(ne)),
+      label: ConstrainedBox(
+        constraints: BoxConstraints(maxWidth: maxLabelWidth),
+        child: Text(
+          exam.title(ne),
+          maxLines: 2,
+          overflow: TextOverflow.ellipsis,
+          softWrap: true,
+        ),
+      ),
       selected: selected,
       onSelected: (_) => onTap(),
       selectedColor: AppColors.accentSoft,
