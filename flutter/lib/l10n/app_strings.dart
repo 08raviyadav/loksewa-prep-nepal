@@ -32,10 +32,8 @@ class AppStrings {
   String get courses => t('Courses', 'पाठ्यक्रम');
 
   // --- hero ---
-  String get heroEyebrow => t(
-        '100% free \u00b7 Open source \u00b7 MIT',
-        '१००% निःशुल्क \u00b7 ओपन सोर्स \u00b7 MIT',
-      );
+  String get heroEyebrow => t('100% free \u00b7 Open source \u00b7 MIT',
+      '१००% निःशुल्क \u00b7 ओपन सोर्स \u00b7 MIT',);
   String get heroTitle => t(
         'Nepal\u2019s Lok Sewa exams, mastered question by question.',
         'नेपालको लोक सेवा परीक्षा, प्रश्न-प्रश्न गर्दै।',
@@ -68,9 +66,8 @@ class AppStrings {
   String get remindOff => t('Remind me', 'सम्झाउनुहोस्');
   String get allDates => t('All dates', 'सबै मितिहरू');
   String get reverifyNote => t(
-        'Re-verify on the official site before travelling.',
-        'यात्रा गर्नुअघि आधिकारिक साइटमा पुनः पुष्टि गर्नुहोस्।',
-      );
+      'Re-verify on the official site before travelling.',
+      'यात्रा गर्नुअघि आधिकारिक साइटमा पुनः पुष्टि गर्नुहोस्।',);
   String get kindExam => t('Exam', 'परीक्षा');
   String get kindAdmit => t('Admit card', 'प्रवेशपत्र');
   String get kindDeadline => t('Deadline', 'अन्तिम मिति');
@@ -78,6 +75,11 @@ class AppStrings {
   // --- practice setup ---
   String get practiceTitle => t('Practice', 'अभ्यास');
   String get chooseExam => t('Choose exam', 'परीक्षा छान्नुहोस्');
+  String get searchExamsHint => t('Search exams…', 'परीक्षा खोज्नुहोस्…');
+  String get recentExams => t('Recent', 'हालैका');
+  String get clearSearch => t('Clear search', 'खोज खाली गर्नुहोस्');
+  String get noExamsFound =>
+      t('No exams match your search.', 'तपाईंको खोजसँग मिल्ने परीक्षा भेटिएन।');
   String get chooseTopics => t('Choose topics', 'विषय छान्नुहोस्');
   String get chooseDifficulty => t('Difficulty', 'कठिनाइ');
   String get chooseCount => t('Questions', 'प्रश्न संख्या');
