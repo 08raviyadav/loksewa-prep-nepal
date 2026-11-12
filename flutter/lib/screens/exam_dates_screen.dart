@@ -17,6 +17,7 @@ library;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../data/data_repository.dart';
 import '../l10n/examdates_strings.dart';
@@ -260,7 +261,7 @@ class _ExamDateCard extends StatelessWidget {
                       minimumSize: const Size(0, 28),
                       tapTargetSize: MaterialTapTargetSize.shrinkWrap,
                     ),
-                    onPressed: () => _showSourceDialog(context, date),
+                    onPressed: () => _openSource(context, date),
                     child: Text(
                       s.officialSource,
                       style: AppType.small.copyWith(
@@ -376,9 +377,20 @@ class _EmptyState extends StatelessWidget {
   }
 }
 
-/// Official-source link without adding url_launcher: shows the URL as
-/// selectable text with a copy button (Clipboard is dependency-free).
-/// If url_launcher is ever added, swap this dialog for launchUrl().
+/// Official-source link: opens the URL in the browser. If the device
+/// can't open it, falls back to the copyable-URL dialog below.
+Future<void> _openSource(BuildContext context, ExamDate date) async {
+  final ok = await launchUrl(
+    Uri.parse(date.source),
+    mode: LaunchMode.externalApplication,
+  );
+  if (!ok && context.mounted) {
+    await _showSourceDialog(context, date);
+  }
+}
+
+/// Fallback for [_openSource]: the URL as selectable text with a copy
+/// button, for devices that can't open the link.
 Future<void> _showSourceDialog(BuildContext context, ExamDate date) async {
   final s = AppStateScope.of(context).strings;
   await showDialog<void>(
