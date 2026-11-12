@@ -4,6 +4,8 @@
 // Tests must scrollUntilVisible before tapping them.
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'package:share_plus_platform_interface/share_plus_platform_interface.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:loksewa_vidyapeeth/engine/quiz_engine.dart';
@@ -12,6 +14,29 @@ import 'package:loksewa_vidyapeeth/screens/quiz/quiz_screen.dart';
 import 'package:loksewa_vidyapeeth/state/app_state.dart';
 import 'package:loksewa_vidyapeeth/theme/app_theme.dart';
 import 'package:loksewa_vidyapeeth/widgets/app_scaffold.dart';
+
+/// Records what the app tries to share, instead of opening the sheet.
+class _FakeSharePlatform extends Fake
+    with MockPlatformInterfaceMixin
+    implements SharePlatform {
+  final shared = <String>[];
+
+  @override
+  Future<ShareResult> share(ShareParams params) async {
+    shared.add(params.text ?? '');
+    return const ShareResult('', ShareResultStatus.success);
+  }
+}
+
+/// Swaps in the fake share platform for one test. Must run before the
+/// first SharePlus.instance access (it captures the platform once).
+_FakeSharePlatform _useFakeShare() {
+  final fake = _FakeSharePlatform();
+  final real = SharePlatform.instance;
+  SharePlatform.instance = fake;
+  addTearDown(() => SharePlatform.instance = real);
+  return fake;
+}
 
 Question _q(String id, int answer) => Question(
       id: id,
@@ -101,37 +126,62 @@ void main() {
     WidgetTester tester,
   ) async {
     await _pumpQuiz(tester);
-    // Q1 correct (answer idx 0 -> label '1'), Q2 wrong (tap '1', answer idx 1),
-    // Q3 skip via Skip button.
-    await _tapOption(tester, '1');
-    await _tapNext(tester);
-    await _tapOption(tester, '1');
-    await _tapNext(tester);
-    // Q3: scroll to Skip and tap it (skip keeps zero, never a mistake).
-    await tester.scrollUntilVisible(
-      find.text('Skip'),
-      400,
-      scrollable: find.byType(Scrollable).first,
-    );
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Skip'));
-    await tester.pumpAndSettle();
-
-    // Finish -> confirm dialog -> confirm.
-    await tester.scrollUntilVisible(
-      find.text('Finish'),
-      400,
-      scrollable: find.byType(Scrollable).first,
-    );
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Finish'));
-    await tester.pumpAndSettle();
-    // Confirm in the dialog (its confirm button says "Submit").
-    await tester.tap(find.text('Submit'));
-    await tester.pumpAndSettle();
-
+    await _finishQuiz(tester);
     // Result screen: percentage shown, and counts add up (1 correct,
     // 1 wrong, 1 skipped).
     expect(find.textContaining('%'), findsWidgets);
   });
+
+  testWidgets('result screen share button shares the score + app link', (
+    WidgetTester tester,
+  ) async {
+    final fake = _useFakeShare();
+    await _pumpQuiz(tester);
+    await _finishQuiz(tester);
+    await tester.scrollUntilVisible(
+      find.text('Share score'),
+      400,
+      scrollable: find.byType(Scrollable).first,
+    );
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Share score'));
+    await tester.pumpAndSettle();
+    expect(fake.shared, hasLength(1));
+    expect(fake.shared.single, contains('scored'));
+    expect(fake.shared.single, contains('Kharidar'));
+    expect(fake.shared.single, contains('app-release.apk'));
+  });
+}
+
+/// Answers Q1 correct, Q2 wrong, skips Q3, then finishes — lands on the
+/// result screen.
+Future<void> _finishQuiz(WidgetTester tester) async {
+  // Q1 correct (answer idx 0 -> label '1'), Q2 wrong (tap '1', answer idx 1),
+  // Q3 skip via Skip button.
+  await _tapOption(tester, '1');
+  await _tapNext(tester);
+  await _tapOption(tester, '1');
+  await _tapNext(tester);
+  // Q3: scroll to Skip and tap it (skip keeps zero, never a mistake).
+  await tester.scrollUntilVisible(
+    find.text('Skip'),
+    400,
+    scrollable: find.byType(Scrollable).first,
+  );
+  await tester.pumpAndSettle();
+  await tester.tap(find.text('Skip'));
+  await tester.pumpAndSettle();
+
+  // Finish -> confirm dialog -> confirm.
+  await tester.scrollUntilVisible(
+    find.text('Finish'),
+    400,
+    scrollable: find.byType(Scrollable).first,
+  );
+  await tester.pumpAndSettle();
+  await tester.tap(find.text('Finish'));
+  await tester.pumpAndSettle();
+  // Confirm in the dialog (its confirm button says "Submit").
+  await tester.tap(find.text('Submit'));
+  await tester.pumpAndSettle();
 }

@@ -305,8 +305,14 @@ void main() {
         'exam:e1#0',
       });
       expect(fake.daily, hasLength(1));
-      expect(fake.daily.single['hour'], 7);
+      // v1.0.4: the daily nudge defaults to 08:00 and announces the
+      // Daily Challenge.
+      expect(fake.daily.single['hour'], 8);
       expect(fake.daily.single['minute'], 0);
+      expect(
+        fake.daily.single['body'],
+        contains('Your Daily Challenge is ready'),
+      );
       expect(fake.cancelAllCalls, 1);
       expect(fake.permissionCalls, 1);
     });

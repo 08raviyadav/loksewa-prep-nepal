@@ -14,6 +14,8 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:loksewa_vidyapeeth/data/data_repository.dart';
 import 'package:loksewa_vidyapeeth/main.dart';
 import 'package:loksewa_vidyapeeth/screens/about_screen.dart';
+import 'package:loksewa_vidyapeeth/screens/mistakes_screen.dart';
+import 'package:loksewa_vidyapeeth/widgets/daily_cards.dart';
 import 'package:loksewa_vidyapeeth/widgets/drawer_calendar.dart';
 import 'package:loksewa_vidyapeeth/screens/community/discussion_screen.dart';
 import 'package:loksewa_vidyapeeth/screens/privacy_screen.dart';
@@ -243,15 +245,54 @@ void main() {
       expect(find.byType(AboutScreen), findsNothing);
     });
 
-    testWidgets('drawer share item shares the app download link',
+    testWidgets('drawer share + invite items share their messages',
         (tester) async {
+      // SharePlus.instance captures the platform ONCE per isolate, so
+      // only one fake per file can ever be reached — both tiles are
+      // driven in this single test.
       final fake = _useFakeShare();
       await _pumpApp(tester);
       await _openDrawer(tester);
       await _tapDrawerItem(tester, 'Share the app');
       expect(fake.shared, hasLength(1));
-      expect(fake.shared.single, contains('LokSewa Vidyapeeth'));
-      expect(fake.shared.single, contains('app-release.apk'));
+      expect(fake.shared[0], contains('LokSewa Vidyapeeth'));
+      expect(fake.shared[0], contains('app-release.apk'));
+      await _openDrawer(tester);
+      await _tapDrawerItem(tester, 'Invite friends');
+      expect(fake.shared, hasLength(2));
+      expect(fake.shared[1], contains('Join me'));
+      expect(fake.shared[1], contains('app-release.apk'));
+    });
+
+    testWidgets('home shows the daily challenge and QOTD cards',
+        (tester) async {
+      await _pumpApp(tester);
+      // The cards sit below the fold in the home ListView — scroll
+      // them into existence before asserting.
+      final scrollable = find.byType(Scrollable).first;
+      await tester.scrollUntilVisible(
+        find.byType(DailyChallengeCard),
+        500,
+        scrollable: scrollable,
+      );
+      expect(find.byType(DailyChallengeCard), findsOneWidget);
+      await tester.scrollUntilVisible(
+        find.byType(QuestionOfTheDayCard),
+        500,
+        scrollable: scrollable,
+      );
+      expect(find.byType(QuestionOfTheDayCard), findsOneWidget);
+    });
+
+    testWidgets('drawer mistakes item opens the mistakes screen',
+        (tester) async {
+      await _pumpApp(tester);
+      await _openDrawer(tester);
+      // No settle: the mistakes screen shows a loading spinner while
+      // the bank loads (rootBundle never resolves under fake async),
+      // and pumpAndSettle can never wait out a spinner.
+      await _tapDrawerItem(tester, 'My Mistakes', settle: false);
+      expect(find.byType(MistakesScreen), findsOneWidget);
     });
 
     testWidgets('drawer check for updates opens the checking dialog',
