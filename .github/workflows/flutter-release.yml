@@ -29,6 +29,10 @@
 # flutter/pubspec.yaml AND the tag_name below (android-vX.Y.Z).
 # When bumping Gradle: update the wrapper-jar URL + sha256 below to match
 # flutter/android/gradle/wrapper/gradle-wrapper.properties.
+# Flutter is PINNED to 3.47.9 (the version the app is verified against):
+# 3.50 deprecates package:flutter/material.dart, and its 28 info-level
+# findings make `flutter analyze` exit 1 (run #70 failed on exactly that).
+# Unpin only after migrating the imports to package:material_ui.
 
 name: flutter-release
 
@@ -63,10 +67,11 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Set up Flutter (stable)
+      - name: Set up Flutter (pinned 3.47.9)
         uses: subosito/flutter-action@v2
         with:
           channel: stable
+          flutter-version: '3.47.9'
 
       - name: Fail fast if signing secrets are missing
         env:
