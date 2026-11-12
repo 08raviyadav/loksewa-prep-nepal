@@ -1,0 +1,52 @@
+name: loksewa_vidyapeeth
+description: LokSewa Vidyapeeth — Nepal's biggest free, open-source Lok Sewa exam practice platform. Flutter (Android, iOS, Web) from one codebase.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0
+
+# No analytics, no tracking SDKs — the zero-tracking promise is a feature.
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^22.3.3
+  shared_preferences: ^2.2.3
+  timezone: ^0.11.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/data/questions/
+    - assets/data/courses/
+
+# --- M8: launcher icons + native splash ---
+# NOTE: the source PNG (assets/icon/app_icon.png) is NOT in this repo — the
+# snapshot push flow rejects binary files. Launcher icons + splash art are
+# regenerated at build time by tools/gen_launcher_icon.py (same design:
+# amber "लो" on navy #0F172A, Noto Sans Devanagari Bold). The config below
+# is kept as the design record (colours, source) — do not run
+# flutter_launcher_icons / flutter_native_splash against it without
+# restoring the source PNG first.
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#0F172A"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+
+flutter_native_splash:
+  color: "#0F172A"
+  image: "assets/icon/app_icon.png"
+  android: true
+  ios: true
+  web: true
