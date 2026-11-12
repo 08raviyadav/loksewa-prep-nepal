@@ -10,6 +10,7 @@ import '../l10n/history_strings.dart';
 import '../services/update_checker.dart';
 import '../state/app_state.dart';
 import '../theme/app_theme.dart';
+import 'drawer_calendar.dart';
 import 'push_scope.dart';
 
 /// Shared app chrome: app bar (title + EN/NE toggle + theme toggle),
@@ -257,6 +258,9 @@ class _AppDrawer extends StatelessWidget {
               ],
             ),
           ),
+          // Live calendar (v1.0.3): AD date in English, BS date in
+          // Nepali, with a ticking clock.
+          const DrawerCalendar(),
           ListTile(
             leading: const Icon(Icons.calendar_month_outlined),
             title: Text(s.examDates),
