@@ -6,8 +6,10 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'data/data_repository.dart';
 import 'engine/quiz_engine.dart';
 import 'gamification/analytics.dart';
+import 'gamification/daily.dart';
 import 'l10n/dashboard_strings.dart';
 import 'l10n/quiz_strings.dart';
+import 'l10n/v104_strings.dart';
 import 'models/course.dart';
 import 'models/models.dart';
 import 'screens/about_screen.dart';
@@ -20,6 +22,7 @@ import 'screens/dashboard_screen.dart';
 import 'screens/exam_dates_screen.dart';
 import 'screens/history_screen.dart';
 import 'screens/home_screen.dart';
+import 'screens/mistakes_screen.dart';
 import 'screens/mock_list_screen.dart';
 import 'screens/practice_screen.dart';
 import 'screens/privacy_screen.dart';
@@ -31,6 +34,7 @@ import 'state/course_progress_store.dart';
 import 'state/progress_store.dart';
 import 'theme/app_theme.dart';
 import 'widgets/app_scaffold.dart';
+import 'widgets/network_gate.dart';
 import 'widgets/push_scope.dart';
 
 void main() async {
@@ -61,7 +65,8 @@ class _VidyapeethAppState extends State<VidyapeethApp> {
         theme: buildLightTheme(),
         darkTheme: buildDarkTheme(),
         themeMode: state.themeMode,
-        home: const RootNav(),
+        // v1.0.4: the app requires internet to open.
+        home: const NetworkGate(child: RootNav()),
       ),
     );
   }
@@ -173,10 +178,7 @@ class _RootNavState extends State<RootNav> {
     final repo = DataRepository();
     final all = await repo.allQuestions();
     if (!mounted) return;
-    final rand = SeededRandom(seed);
-    final shuffled = all.toList()
-      ..sort((a, b) => rand.next().compareTo(rand.next()));
-    final picked = shuffled.take(10).toList();
+    final picked = pickDailyChallenge(all, seed);
     if (!mounted) return;
     Navigator.of(context).push(
       MaterialPageRoute(
@@ -195,6 +197,32 @@ class _RootNavState extends State<RootNav> {
             fullTotal: 100,
           ),
           bank: all,
+        ),
+      ),
+    );
+  }
+
+  /// Question of the Day (v1.0.4): a 1-question quiz, no negative
+  /// marking. Finishing marks qotdDone for today (a repeat burns no XP,
+  /// same rule as the Daily Challenge).
+  void _questionOfTheDay(Question q) {
+    final s = AppStateScope.of(context).strings;
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (_) => QuizScreen(
+          config: QuizConfig(
+            questions: [q],
+            negOn: false,
+            examId: '',
+            qotdSeed: dailySeed(),
+          ),
+          meta: QuizMeta(
+            examName: s.qotdTitle,
+            cutoff: 1,
+            cutoffPct: 100,
+            fullTotal: 1,
+          ),
+          bank: const [],
         ),
       ),
     );
@@ -280,6 +308,8 @@ class _RootNavState extends State<RootNav> {
         );
       case HistoryScreen.routeName:
         return HistoryScreen(navIndex: 0, onNav: _popAndGo);
+      case MistakesScreen.routeName:
+        return MistakesScreen(navIndex: 0, onNav: _popAndGo);
       case '/courses':
         return CoursesScreen(
           store: shared.courseStore,
@@ -433,6 +463,8 @@ class _RootNavState extends State<RootNav> {
                         courseExam: courseExam,
                         chapterId: chapterId,
                       ),
+              onDailyChallenge: _dailyChallenge,
+              onQuestionOfTheDay: _questionOfTheDay,
             );
         }
         return PushScope(
