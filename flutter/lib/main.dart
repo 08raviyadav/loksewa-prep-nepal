@@ -10,6 +10,7 @@ import 'l10n/dashboard_strings.dart';
 import 'l10n/quiz_strings.dart';
 import 'models/course.dart';
 import 'models/models.dart';
+import 'screens/about_screen.dart';
 import 'screens/community/discussion_screen.dart';
 import 'screens/community/submit_question_screen.dart';
 import 'screens/community/suggestions_screen.dart';
@@ -21,6 +22,7 @@ import 'screens/history_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/mock_list_screen.dart';
 import 'screens/practice_screen.dart';
+import 'screens/privacy_screen.dart';
 import 'screens/quiz/quiz_screen.dart';
 import 'services/reminder_scheduler.dart';
 import 'state/app_state.dart';
@@ -301,6 +303,10 @@ class _RootNavState extends State<RootNav> {
           navIndex: 0,
           onNav: _popAndGo,
         );
+      case AboutScreen.routeName:
+        return AboutScreen(navIndex: 0, onNav: _popAndGo);
+      case PrivacyScreen.routeName:
+        return PrivacyScreen(navIndex: 0, onNav: _popAndGo);
     }
     return null;
   }
