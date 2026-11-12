@@ -1,7 +1,7 @@
 name: loksewa_vidyapeeth
 description: LokSewa Vidyapeeth — Nepal's biggest free, open-source Lok Sewa exam practice platform. Flutter (Android, iOS, Web) from one codebase.
 publish_to: "none"
-version: 1.0.3+4
+version: 1.0.4+5
 
 environment:
   sdk: ^3.4.0
