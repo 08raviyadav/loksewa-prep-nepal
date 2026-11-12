@@ -70,12 +70,22 @@ class Exam {
   final String name;
   final String nameNe;
 
-  const Exam({required this.id, required this.name, required this.nameNe});
+  /// Recruiting body from exams.json (e.g. "Lok Sewa Aayog (PSC)").
+  /// Drives the Practice picker's category grouping; '' when unknown.
+  final String body;
+
+  const Exam({
+    required this.id,
+    required this.name,
+    required this.nameNe,
+    this.body = '',
+  });
 
   factory Exam.fromJson(Map<String, dynamic> j) => Exam(
         id: j['id'] as String? ?? '',
         name: j['name'] as String? ?? '',
         nameNe: j['name_ne'] as String? ?? '',
+        body: j['body'] as String? ?? '',
       );
 
   String title(bool ne) => ne && nameNe.isNotEmpty ? nameNe : name;
