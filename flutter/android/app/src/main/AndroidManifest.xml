@@ -3,6 +3,12 @@
          a reboot. POST_NOTIFICATIONS / VIBRATE are declared by the plugin
          itself; exact-alarm permission is NOT needed (we schedule inexact). -->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <!-- v1.0.3: Check for updates talks to api.github.com. Without this
+         the release APK has no network at all (the debug manifest adds
+         it automatically, which is why this only showed up on the
+         installed release build — every update check failed with the
+         "check your connection" message despite working internet). -->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:label="loksewa_vidyapeeth"
         android:name="${applicationName}"
