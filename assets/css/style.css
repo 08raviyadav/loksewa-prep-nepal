@@ -809,3 +809,12 @@ footer{text-align:left}
 .hist-quiz{text-align:left}
 .hist-answer{font-size:1.25rem;font-weight:800;color:var(--accent)}
 .mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9em}
+
+/* ---------- 29. APK download button (footer) ---------- */
+/* Green .btn variant (Android affordance) with the EN label + Beta pill on
+   the first line and the Nepali label below — footer text is static HTML,
+   so both languages are shown at once (see TESTING.md §AJ). */
+.apk-download{flex-direction:column;align-items:flex-start;gap:2px;margin-top:10px;text-align:left}
+.apk-download .apk-en{display:inline-flex;align-items:center;gap:6px}
+.apk-beta{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#052e16;background:#bbf7d0;border-radius:999px;padding:1px 7px}
+.apk-download .apk-ne{font-size:.82rem;font-weight:500;opacity:.9}
