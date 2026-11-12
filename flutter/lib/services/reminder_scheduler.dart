@@ -10,8 +10,9 @@
 /// - An exam with a reminder fires once per remaining day while it is
 ///   0..3 days away (lead window), at [examReminderHour]:00 local time:
 ///   "⏰ {title} in N days" (Nepali variant when [ne] is true).
-/// - The daily practice nudge fires once at the next occurrence of the
-///   user's chosen morning hour (default 07:00).
+/// - The daily nudge fires once at the next occurrence of the
+///   user's chosen morning hour (default 08:00 since v1.0.4, when it
+///   became the "Your Daily Challenge is ready" reminder).
 /// - [rescheduleAll] is idempotent: it cancels everything first, then
 ///   schedules the freshly computed set. Call it on every app start
 ///   (see the integration line in FIREBASE_SETUP.md) and whenever the
@@ -43,8 +44,9 @@ const int examReminderLeadDays = 3;
 /// Local hour exam reminders fire at (09:00).
 const int examReminderHour = 9;
 
-/// Default daily-nudge time (07:00) until the user picks their own.
-const int defaultNudgeHour = 7;
+/// Default daily-nudge time (08:00 since v1.0.4) until the user picks
+/// their own.
+const int defaultNudgeHour = 8;
 const int defaultNudgeMinute = 0;
 
 /// One notification to schedule. [fireAt] is device-local time.
@@ -147,8 +149,8 @@ PlannedReminder computeDailyNudge({
     id: 'daily_nudge',
     title: ne ? 'लोक सेवा विद्यापीठ' : 'LokSewa Vidyapeeth',
     body: ne
-        ? '🎯 आजको अभ्यास: २५ प्रश्न गरेर आफ्नो स्ट्रीक कायम राख्नुहोस्!'
-        : '🎯 Daily challenge: answer 25 questions to keep your streak alive!',
+        ? '🎯 आजको दैनिक चुनौती तयार छ — १० नयाँ प्रश्न पर्खिरहेका छन्!'
+        : '🎯 Your Daily Challenge is ready — 10 fresh questions are waiting!',
     fireAt: fireAt,
   );
 }
