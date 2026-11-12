@@ -166,6 +166,21 @@ class ProgressStore extends ChangeNotifier {
     await _save();
   }
 
+  /// Question-of-the-Day bookkeeping (v1.0.4) — mirrors dailyDone.
+  bool isQotdDone(String seed) {
+    final d = _p['qotdDone'];
+    return d is Map && d[seed] == true;
+  }
+
+  Future<void> markQotdDone(String seed) async {
+    final d = (_p['qotdDone'] is Map)
+        ? Map<String, dynamic>.from(_p['qotdDone'] as Map)
+        : <String, dynamic>{};
+    d[seed] = true;
+    _p['qotdDone'] = d;
+    await _save();
+  }
+
   List<Map<String, dynamic>> get attempts => (_p['attempts'] as List)
       .map((a) => Map<String, dynamic>.from(a as Map))
       .toList();
@@ -289,6 +304,7 @@ class ProgressStore extends ChangeNotifier {
     bool timedOut = false,
     bool noXp = false, // daily-challenge repeat: vanilla burns no XP
     String? dailySeed, // marks progress.dailyDone[seed] on finish
+    String? qotdSeed, // marks progress.qotdDone[seed] on finish (v1.0.4)
   }) async {
     final passed = passesCutoff(result.pct, cutoffPct);
     final xpGain = noXp ? 0 : _xpFor(result.score);
@@ -332,6 +348,7 @@ class ProgressStore extends ChangeNotifier {
     await _save();
     await updateStreak();
     if (dailySeed != null) await markDailyDone(dailySeed);
+    if (qotdSeed != null) await markQotdDone(qotdSeed);
     final weeklyMet = await checkWeeklyGoal();
     return AttemptSummary(
       passed: passed,
