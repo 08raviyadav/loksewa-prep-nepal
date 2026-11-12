@@ -1,0 +1,210 @@
+# Signed release APK for the LokSewa Vidyapeeth Flutter app.
+#
+# Builds flutter/ into a release-signed APK and publishes it to the
+# `android-v1.0.0` GitHub release as a direct download (no sign-in needed).
+#
+# Required repository secrets (Settings > Secrets and variables > Actions):
+#   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
+#                       for the encrypted keystore committed in the repo)
+#   KEY_ALIAS         — key alias (loksewa)
+#   KEY_PASSWORD      — key password
+# No keystore blob is pasted as a secret: pasting a 3.7 KB base64 value into
+# GitHub's secret form silently drops characters (seen on RoutineFlow), so
+# the keystore lives in the repo AES-256-encrypted
+# (flutter/android/app/loksewa-release.p12.enc.b64) and CI decrypts it with
+# KEYSTORE_PASSWORD. The ciphertext is useless without that password.
+# The FIRST run will fail at the "Fail fast" step until these are set —
+# that is expected and correct: this workflow never ships a debug-signed
+# "release" APK.
+#
+# Why CI regenerates things instead of checking them in: the repo is pushed
+# via a snapshot flow that rejects binary files, so the launcher PNGs and the
+# gradle-wrapper.jar cannot be committed. The icons are drawn by
+# flutter/tools/gen_launcher_icon.py and the wrapper jar is downloaded
+# (checksum-verified). The keystore is committed AES-256-encrypted as a
+# base64 text file (snapshot-safe) and decrypted in CI with
+# KEYSTORE_PASSWORD — see the "Decrypt release keystore" step.
+#
+# When bumping the app version: update `version:` in
+# flutter/pubspec.yaml AND the tag_name below (android-vX.Y.Z).
+# When bumping Gradle: update the wrapper-jar URL + sha256 below to match
+# flutter/android/gradle/wrapper/gradle-wrapper.properties.
+
+name: flutter-release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'flutter/**'
+      - 'data/**'
+      - '.github/workflows/flutter-release.yml'
+  workflow_dispatch:
+
+# One release build at a time — two runs must never publish to the same
+# release tag concurrently.
+concurrency:
+  group: flutter-release
+  cancel-in-progress: false
+
+jobs:
+  build-release-apk:
+    name: Build signed release APK
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed to create/update the GitHub release
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Flutter (stable)
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Fail fast if signing secrets are missing
+        env:
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          missing=""
+          [ -z "$KEYSTORE_PASSWORD" ] && missing="$missing KEYSTORE_PASSWORD"
+          [ -z "$KEY_ALIAS" ] && missing="$missing KEY_ALIAS"
+          [ -z "$KEY_PASSWORD" ] && missing="$missing KEY_PASSWORD"
+          if [ -n "$missing" ]; then
+            echo "::error::Missing required signing secrets:$missing"
+            echo "Set them in Settings > Secrets and variables > Actions."
+            echo "This workflow refuses to ship a debug-signed release APK."
+            exit 1
+          fi
+          echo "All signing secrets are present."
+
+      - name: Decrypt release keystore
+        env:
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+        run: |
+          # The keystore is committed AES-256-encrypted (base64 text, so the
+          # snapshot push accepts it). Decrypt with the keystore password —
+          # the same password that unlocks the keystore itself.
+          base64 --decode flutter/android/app/loksewa-release.p12.enc.b64 > "$RUNNER_TEMP/loksewa-release.p12.enc"
+          openssl enc -d -aes-256-cbc -salt -pbkdf2 \
+            -in "$RUNNER_TEMP/loksewa-release.p12.enc" \
+            -out "$RUNNER_TEMP/loksewa-release.p12" \
+            -pass env:KEYSTORE_PASSWORD
+          ls -la "$RUNNER_TEMP/loksewa-release.p12"
+          # Prove the keystore decrypts AND the password + alias are right
+          # before spending 10 minutes on a build that would fail at signing.
+          keytool -list -keystore "$RUNNER_TEMP/loksewa-release.p12" \
+            -storepass "$KEYSTORE_PASSWORD" -alias "$KEY_ALIAS"
+          echo "KEYSTORE_PATH=$RUNNER_TEMP/loksewa-release.p12" >> "$GITHUB_ENV"
+
+      - name: Copy web data into Flutter assets (and verify counts)
+        run: |
+          cp data/exam-dates.json data/exams.json data/festivals.json \
+             data/historical-events.json flutter/assets/data/
+          cp -r data/questions data/courses flutter/assets/data/
+          python3 - <<'EOF'
+          import json
+          import sys
+          from pathlib import Path
+
+          d = Path('flutter/assets/data')
+          expected = {
+              'exam-dates.json': 82,
+              'exams.json': 47,
+              'festivals.json': 63,
+              'historical-events.json': 95,
+          }
+          ok = True
+          for name, count in expected.items():
+              data = json.loads((d / name).read_text(encoding='utf-8'))
+              print(f'{name}: {len(data)} entries (expected {count})')
+              if len(data) != count:
+                  ok = False
+          questions = len(list((d / 'questions').glob('*.json')))
+          courses = len(list((d / 'courses').glob('*.json')))
+          print(f'questions/: {questions} files (expected 131)')
+          print(f'courses/: {courses} files (expected 3)')
+          if questions != 131 or courses != 3:
+              ok = False
+          if not ok:
+              sys.exit('Data count mismatch - refusing to build with a half-synced bank.')
+          print('Data counts verified.')
+          EOF
+
+      - name: Generate launcher icons
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-core python3-pil
+          python3 flutter/tools/gen_launcher_icon.py
+
+      - name: Restore Gradle wrapper
+        run: |
+          # Snapshot pushes lose the +x bit on gradlew.
+          chmod +x flutter/android/gradlew
+          # gradle-wrapper.jar is binary, so it is not in the repo. Fetch the
+          # jar for the pinned Gradle version (9.3.1) from the Gradle
+          # project's own repo and verify its checksum.
+          curl -fSL -o flutter/android/gradle/wrapper/gradle-wrapper.jar \
+            https://raw.githubusercontent.com/gradle/gradle/v9.3.1/gradle/wrapper/gradle-wrapper.jar
+          echo "b3a875ddc1f044746e1b1a55f645584505f4a10438c1afea9f15e92a7c42ec13  flutter/android/gradle/wrapper/gradle-wrapper.jar" | sha256sum -c -
+
+      - name: Install Flutter dependencies
+        working-directory: flutter
+        run: flutter pub get
+
+      - name: Analyze
+        working-directory: flutter
+        run: flutter analyze
+
+      - name: Test
+        working-directory: flutter
+        run: flutter test
+
+      - name: Build signed release APK
+        working-directory: flutter
+        env:
+          # KEYSTORE_PATH was set by the keystore step via $GITHUB_ENV.
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: flutter build apk --release
+
+      - name: Verify the APK is release-signed (not debug)
+        run: |
+          APK=flutter/build/app/outputs/flutter-apk/app-release.apk
+          test -f "$APK" || { echo "::error::APK not found at $APK"; exit 1; }
+          ls -la "$APK"
+          keytool -printcert -jarfile "$APK" > /tmp/apk-cert.txt
+          cat /tmp/apk-cert.txt
+          if grep -q "Android Debug" /tmp/apk-cert.txt; then
+            echo "::error::APK was signed with the DEBUG key, not the release key."
+            exit 1
+          fi
+          echo "APK is signed with a non-debug certificate."
+
+      - name: Publish to GitHub Release android-v1.0.0
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: android-v1.0.0
+          name: LokSewa Vidyapeeth Android v1.0.0
+          body: |
+            Signed release APK for LokSewa Vidyapeeth v1.0.0 (Android).
+
+            Install: download **app-release.apk**, open it on your phone and
+            allow "install unknown apps" if asked. No sign-in needed.
+
+            Bundled offline: 82 exam dates, 47 exams, 64,671 questions,
+            63 festivals, 95 historical dates. No login, no ads, no tracking.
+          files: flutter/build/app/outputs/flutter-apk/app-release.apk
+          overwrite_files: true # re-runs replace the previous APK asset
+          draft: false
+          prerelease: false
