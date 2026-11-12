@@ -139,12 +139,18 @@ class HistoryEventRow extends StatelessWidget {
 }
 
 /// Source link: opens the URL in the browser. If the device can't open
-/// it, falls back to the copyable-URL dialog below.
+/// it (launch fails or throws), falls back to the copyable-URL dialog
+/// below.
 Future<void> openHistorySource(BuildContext context, String url) async {
-  final ok = await launchUrl(
-    Uri.parse(url),
-    mode: LaunchMode.externalApplication,
-  );
+  bool ok = false;
+  try {
+    ok = await launchUrl(
+      Uri.parse(url),
+      mode: LaunchMode.externalApplication,
+    );
+  } catch (_) {
+    ok = false;
+  }
   if (!ok && context.mounted) {
     await _showHistorySourceDialog(context, url);
   }
