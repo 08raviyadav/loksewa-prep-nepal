@@ -8,6 +8,7 @@ import '../state/course_progress_store.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_scaffold.dart';
 import '../widgets/countdown_card.dart';
+import '../widgets/daily_cards.dart';
 import '../widgets/history_otd_card.dart';
 import '../widgets/reminder_banner.dart';
 import 'courses/chapter_reader_screen.dart';
@@ -23,6 +24,11 @@ class HomeScreen extends StatefulWidget {
   final List<Course> courses;
   final OnResumeChapter? onResumeChapter;
 
+  /// Daily Challenge + Question of the Day (v1.0.4). The cards render
+  /// only when their callback is set.
+  final VoidCallback? onDailyChallenge;
+  final void Function(Question question)? onQuestionOfTheDay;
+
   const HomeScreen({
     super.key,
     required this.navIndex,
@@ -31,6 +37,8 @@ class HomeScreen extends StatefulWidget {
     this.courseStore,
     this.courses = const [],
     this.onResumeChapter,
+    this.onDailyChallenge,
+    this.onQuestionOfTheDay,
   });
 
   @override
@@ -91,6 +99,11 @@ class _HomeScreenState extends State<HomeScreen> {
                   if (match != null) widget.onPracticeExam(match);
                 },
               ),
+              // Daily Challenge + Question of the Day (v1.0.4).
+              if (widget.onDailyChallenge != null)
+                DailyChallengeCard(onStart: widget.onDailyChallenge!),
+              if (widget.onQuestionOfTheDay != null)
+                QuestionOfTheDayCard(onAnswer: widget.onQuestionOfTheDay!),
               // Renders nothing on a quiet day (no event today).
               HistoryOtdCard(events: data.history),
               if (widget.courseStore != null && widget.onResumeChapter != null)
