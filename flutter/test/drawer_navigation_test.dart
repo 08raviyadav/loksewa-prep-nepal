@@ -14,6 +14,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:loksewa_vidyapeeth/data/data_repository.dart';
 import 'package:loksewa_vidyapeeth/main.dart';
 import 'package:loksewa_vidyapeeth/screens/about_screen.dart';
+import 'package:loksewa_vidyapeeth/widgets/drawer_calendar.dart';
 import 'package:loksewa_vidyapeeth/screens/community/discussion_screen.dart';
 import 'package:loksewa_vidyapeeth/screens/privacy_screen.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
@@ -220,6 +221,13 @@ void main() {
       await _openDrawer(tester);
       await _tapDrawerItem(tester, 'raviyadav.com.np');
       expect(fake.launched, ['https://raviyadav.com.np']);
+    });
+
+    testWidgets('drawer shows the live calendar at the top',
+        (tester) async {
+      await _pumpApp(tester);
+      await _openDrawer(tester);
+      expect(find.byType(DrawerCalendar), findsOneWidget);
     });
 
     testWidgets('drawer about and privacy items open their screens',
