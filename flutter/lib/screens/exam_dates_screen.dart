@@ -378,12 +378,18 @@ class _EmptyState extends StatelessWidget {
 }
 
 /// Official-source link: opens the URL in the browser. If the device
-/// can't open it, falls back to the copyable-URL dialog below.
+/// can't open it (launch fails or throws), falls back to the
+/// copyable-URL dialog below.
 Future<void> _openSource(BuildContext context, ExamDate date) async {
-  final ok = await launchUrl(
-    Uri.parse(date.source),
-    mode: LaunchMode.externalApplication,
-  );
+  bool ok = false;
+  try {
+    ok = await launchUrl(
+      Uri.parse(date.source),
+      mode: LaunchMode.externalApplication,
+    );
+  } catch (_) {
+    ok = false;
+  }
   if (!ok && context.mounted) {
     await _showSourceDialog(context, date);
   }
