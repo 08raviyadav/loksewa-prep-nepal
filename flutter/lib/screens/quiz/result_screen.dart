@@ -5,6 +5,7 @@
 library;
 
 import 'package:flutter/material.dart';
+import 'package:share_plus/share_plus.dart';
 
 import '../../engine/quiz_engine.dart';
 import '../../l10n/quiz_strings.dart';
@@ -53,6 +54,7 @@ class ResultScreen extends StatelessWidget {
       timerOn: false,
       mode: 'practice',
       examId: config.examId,
+      reviewMistakes: config.reviewMistakes,
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
@@ -72,12 +74,36 @@ class ResultScreen extends StatelessWidget {
       timerOn: false,
       mode: 'practice',
       examId: config.examId,
+      reviewMistakes: config.reviewMistakes,
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
         builder: (_) => QuizScreen(config: retry, meta: meta, bank: bank),
       ),
     );
+  }
+
+  /// Share the score + the app download link (v1.0.4).
+  Future<void> _shareScore(BuildContext context) async {
+    final s = AppStateScope.of(context).strings;
+    final pctStr = result.pct == result.pct.roundToDouble()
+        ? '${result.pct.toInt()}'
+        : '${result.pct}';
+    try {
+      await SharePlus.instance.share(
+        ShareParams(
+          text: s.shareScoreText(
+            _trimNum(result.score),
+            '${result.max}',
+            pctStr,
+            meta.examName,
+          ),
+        ),
+      );
+    } catch (_) {
+      // Share sheet failure: nothing useful to show, the user just taps
+      // again (same convention as the drawer's share tile).
+    }
   }
 
   @override
@@ -240,6 +266,14 @@ class ResultScreen extends StatelessWidget {
                         minimumSize: const Size(0, AppSpacing.minTap),
                       ),
                     ),
+                  OutlinedButton.icon(
+                    onPressed: () => _shareScore(context),
+                    icon: const Icon(Icons.share_outlined),
+                    label: Text(s.shareScoreTitle),
+                    style: OutlinedButton.styleFrom(
+                      minimumSize: const Size(0, AppSpacing.minTap),
+                    ),
+                  ),
                   OutlinedButton.icon(
                     onPressed: () => Navigator.of(context)
                         .popUntil((route) => route.isFirst),

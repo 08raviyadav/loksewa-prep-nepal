@@ -99,6 +99,9 @@ class _QuizScreenState extends State<QuizScreen> {
     if (!ok) {
       // Vanilla `saveMistakeIfWrong` runs at answer time (practice + mock).
       await _store?.addMistake(view.question.id);
+    } else if (widget.config.reviewMistakes) {
+      // Mistake review (v1.0.4): a correct answer clears the mistake.
+      await _store?.removeMistake(view.question.id);
     }
     setState(() {
       _picked = optionIdx;
@@ -210,6 +213,7 @@ class _QuizScreenState extends State<QuizScreen> {
     final result = _engine.finish(secs: secs, timedOut: timedOut);
     final store = await ProgressStore.instance;
     final dailySeed = widget.config.dailySeed;
+    final qotdSeed = widget.config.qotdSeed;
     final summary = await store.recordAttempt(
       result: result,
       mode: widget.config.mode,
@@ -217,9 +221,12 @@ class _QuizScreenState extends State<QuizScreen> {
       cutoff: widget.meta.cutoff,
       cutoffPct: widget.meta.cutoffPct,
       timedOut: timedOut,
-      // Vanilla daily-challenge rule: repeating today's challenge burns no XP.
-      noXp: dailySeed != null && store.isDailyDone(dailySeed),
+      // Vanilla daily-challenge rule: repeating today's challenge burns no
+      // XP. Same for a repeated Question of the Day (v1.0.4).
+      noXp: (dailySeed != null && store.isDailyDone(dailySeed)) ||
+          (qotdSeed != null && store.isQotdDone(qotdSeed)),
       dailySeed: dailySeed,
+      qotdSeed: qotdSeed,
     );
     if (!mounted) return;
     Navigator.of(context).pushReplacement(
