@@ -4,7 +4,9 @@
 // mock SharedPreferences store for the loksewa_reminders_v1 toggles.
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:url_launcher_platform_interface/url_launcher_platform_interface.dart';
 
 import 'package:loksewa_vidyapeeth/data/data_repository.dart';
 import 'package:loksewa_vidyapeeth/l10n/app_strings.dart';
@@ -31,6 +33,21 @@ ExamDate _d(
       source: 'https://example.com',
       confidence: 'high',
     );
+
+/// Records every URL the app tries to open, instead of leaving the
+/// test. Set [result] false to simulate a device that can't open links.
+class _FakeUrlLauncher extends Fake
+    with MockPlatformInterfaceMixin
+    implements UrlLauncherPlatform {
+  final launched = <String>[];
+  bool result = true;
+
+  @override
+  Future<bool> launchUrl(String url, LaunchOptions options) async {
+    launched.add(url);
+    return result;
+  }
+}
 
 void main() {
   group('examDateChipKind', () {
@@ -411,7 +428,30 @@ void main() {
       );
     });
 
-    testWidgets('official-source button opens the link dialog', (tester) async {
+    testWidgets('official-source button opens the link in the browser',
+        (tester) async {
+      // v1.0.2: the button now opens the URL directly instead of
+      // showing the copyable-URL dialog (that dialog is only the
+      // fallback when the browser can't open the link).
+      final fake = _FakeUrlLauncher()..result = true;
+      final real = UrlLauncherPlatform.instance;
+      UrlLauncherPlatform.instance = fake;
+      addTearDown(() => UrlLauncherPlatform.instance = real);
+      await pumpScreen(tester);
+      await tester.tap(find.text('Official source').first);
+      await tester.pumpAndSettle();
+      expect(fake.launched, ['https://entrance.mec.gov.np']);
+      expect(find.text('https://entrance.mec.gov.np'), findsNothing);
+    });
+
+    testWidgets('official-source button falls back to the link dialog',
+        (tester) async {
+      // When the browser can't open the link, the old copyable-URL
+      // dialog appears instead.
+      final fake = _FakeUrlLauncher()..result = false;
+      final real = UrlLauncherPlatform.instance;
+      UrlLauncherPlatform.instance = fake;
+      addTearDown(() => UrlLauncherPlatform.instance = real);
       await pumpScreen(tester);
       await tester.tap(find.text('Official source').first);
       await tester.pumpAndSettle();
