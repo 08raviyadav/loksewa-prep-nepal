@@ -259,71 +259,77 @@ class _RootNavState extends State<RootNav> {
     );
   }
 
-  void _push(String route, _SharedData shared) {
-    final nav = Navigator.of(context);
+  /// Builds the drawer destination page for [route], or null for an
+  /// unknown route.
+  Widget? _pageFor(String route, _SharedData shared) {
     switch (route) {
       case ExamDatesScreen.routeName:
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => ExamDatesScreen(
-              navIndex: 0,
-              onNav: _popAndGo,
-              onPracticeExam: (exam) {
-                _practiceExam = exam;
-                _popAndGo(1);
-              },
-              onMockExam: (exam) {
-                _mockExam = exam;
-                _popAndGo(2);
-              },
-            ),
-          ),
+        return ExamDatesScreen(
+          navIndex: 0,
+          onNav: _popAndGo,
+          onPracticeExam: (exam) {
+            _practiceExam = exam;
+            _popAndGo(1);
+          },
+          onMockExam: (exam) {
+            _mockExam = exam;
+            _popAndGo(2);
+          },
         );
       case HistoryScreen.routeName:
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => HistoryScreen(navIndex: 0, onNav: _popAndGo),
-          ),
-        );
+        return HistoryScreen(navIndex: 0, onNav: _popAndGo);
       case '/courses':
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => CoursesScreen(
-              store: shared.courseStore,
-              courses: shared.courses,
-            ),
-          ),
+        return CoursesScreen(
+          store: shared.courseStore,
+          courses: shared.courses,
         );
       case DiscussionScreen.routeName:
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => DiscussionScreen(
-              store: shared.community,
-              navIndex: 0,
-              onNav: _popAndGo,
-            ),
-          ),
+        return DiscussionScreen(
+          store: shared.community,
+          navIndex: 0,
+          onNav: _popAndGo,
         );
       case SubmitQuestionScreen.routeName:
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => SubmitQuestionScreen(
-              store: shared.community,
-              navIndex: 0,
-              onNav: _popAndGo,
-            ),
-          ),
+        return SubmitQuestionScreen(
+          store: shared.community,
+          navIndex: 0,
+          onNav: _popAndGo,
         );
       case SuggestionsScreen.routeName:
-        nav.push(
-          MaterialPageRoute(
-            builder: (_) => SuggestionsScreen(
-              store: shared.community,
-              navIndex: 0,
-              onNav: _popAndGo,
-            ),
-          ),
+        return SuggestionsScreen(
+          store: shared.community,
+          navIndex: 0,
+          onNav: _popAndGo,
         );
+    }
+    return null;
+  }
+
+  /// Drawer navigation (v1.0.1 fix): every pushed drawer page is wrapped
+  /// in its own PushScope. Before this, PushScope lived only above the
+  /// home route, so on any pushed page the drawer's
+  /// `PushScope.of(context)` returned null and every drawer tap silently
+  /// did nothing but close the drawer — the first-opened drawer page
+  /// appeared "stuck".
+  ///
+  /// Drawer taps from the home route push normally; taps from a pushed
+  /// page replace it, so the stack stays shallow and system-back always
+  /// returns home instead of walking back through every drawer page.
+  void _push(String route, _SharedData shared, {bool replace = false}) {
+    final page = _pageFor(route, shared);
+    if (page == null) return;
+    final nav = Navigator.of(context);
+    final materialPage = MaterialPageRoute(
+      settings: RouteSettings(name: route),
+      builder: (_) => PushScope(
+        onPush: (r) => _push(r, shared, replace: true),
+        child: page,
+      ),
+    );
+    if (replace) {
+      nav.pushReplacement(materialPage);
+    } else {
+      nav.push(materialPage);
     }
   }
 
