@@ -104,7 +104,11 @@ class _AppDrawer extends StatelessWidget {
   const _AppDrawer({required this.onNav});
 
   void _push(BuildContext context, String route) {
+    // Read the current route before popping: tapping the page you're
+    // already on just closes the drawer instead of rebuilding the page.
+    final current = ModalRoute.of(context)?.settings.name;
     Navigator.pop(context); // close the drawer first
+    if (current == route) return;
     PushScope.of(context)?.onPush(route);
   }
 
