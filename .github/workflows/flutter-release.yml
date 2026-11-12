@@ -1,7 +1,7 @@
 # Signed release APK for the LokSewa Vidyapeeth Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.2` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.3` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,25 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.2
+      - name: Publish to GitHub Release android-v1.0.3
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.2
-          name: LokSewa Vidyapeeth Android v1.0.2
+          tag_name: android-v1.0.3
+          name: LokSewa Vidyapeeth Android v1.0.3
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.2 (Android).
+            Signed release APK for LokSewa Vidyapeeth v1.0.3 (Android).
 
-            What's new: the sidebar is now fully linked — "Created by
-            Ravi Yadav" opens the GitHub profile, raviyadav.com.np opens
-            the website — plus About this app, a Privacy Policy, Share
-            the app, and Check for updates. The Next exam card swipes
-            left/right through upcoming exams, and its countdown digits
-            and dots no longer overflow. Exam-date and history source
-            links now open in the browser.
+            What's new: Check for updates actually works now (the release
+            build was missing the INTERNET permission, so every check
+            failed). Plus a small live calendar at the top of the
+            sidebar — Gregorian date in English, BS date in Nepali, with
+            a ticking clock.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.1 as an update (same signature).
+            Installs over v1.0.2 as an update (same signature).
 
             Bundled offline: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
