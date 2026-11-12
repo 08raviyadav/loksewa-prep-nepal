@@ -12,12 +12,15 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
+        // flutter_local_notifications requires core library desugaring
+        // (run #71 failed :app:checkReleaseAarMetadata without it).
+        isCoreLibraryDesugaringEnabled = true
     }
 
     // Release signing: reads ENVIRONMENT variables when present
     // (KEYSTORE_PATH, KEYSTORE_PASSWORD, KEY_ALIAS, KEY_PASSWORD).
     // In CI these come from GitHub Actions secrets (the keystore itself is
-    // decoded from ANDROID_KEYSTORE_BASE64 by the workflow — see
+    // committed AES-256-encrypted and decrypted by the workflow — see
     // .github/workflows/flutter-release.yml). Locally, export them in your
     // shell before `flutter build apk --release` / `appbundle --release`
     // (see flutter/README.md). No key.properties file is used anymore.
@@ -90,4 +93,8 @@ kotlin {
 
 flutter {
     source = "../.."
+}
+
+dependencies {
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }
