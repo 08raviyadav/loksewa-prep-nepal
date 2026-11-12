@@ -94,6 +94,48 @@ class AppStrings {
   // --- footer ---
   String get footerCredit =>
       t('Created by Ravi Yadav', 'रवि यादव द्वारा निर्मित');
+  String get websiteTitle => t('Website', 'वेबसाइट');
+  String get openLinkFailed =>
+      t("Couldn't open the link.", 'लिङ्क खोल्न सकिएन।');
+
+  // --- about / privacy / share / updates (v1.0.2) ---
+  String get aboutTitle => t('About this app', 'एपबारे');
+  String get aboutTagline => t(
+        'Free Lok Sewa exam preparation for Nepal — practice questions, mock exams, exam dates and reminders.',
+        'नेपालका लागि निःशुल्क लोक सेवा परीक्षा तयारी — अभ्यास प्रश्न, मॉक परीक्षा, परीक्षा मिति र रिमाइन्डर।',
+      );
+  String get versionLabel => t('Version', 'संस्करण');
+  String get madeInNepal => t('Made in Nepal', 'नेपालमा निर्मित');
+  String get openSourceLicences =>
+      t('Open-source licences', 'ओपन-सोर्स लाइसेन्स');
+  String get dataSourcesTitle => t('Data sources', 'डेटा स्रोत');
+  String get dataSourcesBody => t(
+        'Exam dates come from Public Service Commission notices. Questions are original model questions, plus transcribed previous-year papers. Data is bundled with the app — no account or internet needed to study.',
+        'परीक्षा मितिहरू लोक सेवा आयोगका सूचनाबाट लिइएका हुन्। प्रश्नहरू मौलिक मोडेल प्रश्न र अघिल्ला वर्षका प्रश्नपत्रहरू हुन्। डेटा एपमै समावेश छ — पढ्न खाता वा इन्टरनेट चाहिँदैन।',
+      );
+  String get privacyTitle => t('Privacy Policy', 'गोपनीयता नीति');
+  String get shareTitle => t('Share the app', 'एप सेयर गर्नुहोस्');
+  String get checkUpdatesTitle => t('Check for updates', 'अपडेट जाँच गर्नुहोस्');
+  String get checkingForUpdates =>
+      t('Checking for updates…', 'अपडेट जाँच हुँदै…');
+  String get upToDate => t('You are up to date', 'तपाईं अपडेट हुनुहुन्छ');
+  String get upToDateBody =>
+      t('You have the latest version.', 'तपाईंसँग पछिल्लो संस्करण छ।');
+  String get updateAvailable => t('Update available', 'अपडेट उपलब्ध छ');
+  String updateAvailableBody(String v) => t(
+        'Version $v is available. Download it now?',
+        'संस्करण $v उपलब्ध छ। अहिले डाउनलोड गर्ने?',
+      );
+  String get download => t('Download', 'डाउनलोड');
+  String get later => t('Later', 'पछि');
+  String get checkFailed => t(
+        "Couldn't check for updates. Check your connection and try again.",
+        'अपडेट जाँच्न सकिएन। इन्टरनेट जाँचेर फेरि प्रयास गर्नुहोस्।',
+      );
+  String get shareMessage => t(
+        'LokSewa Vidyapeeth — free Lok Sewa exam prep: 47 exams, over 64,000 practice questions, mock exams and exam dates. No login, no ads.\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'लोक सेवा विद्यापीठ — निःशुल्क लोक सेवा परीक्षा तयारी: ४७ परीक्षा, ६४,००० भन्दा बढी अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। खाता छैन, विज्ञापन छैन।\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+      );
 
   String examKindLabel(String kind) {
     switch (kind) {
