@@ -74,10 +74,10 @@ class _HomeScreenState extends State<HomeScreen> {
         future: _future,
         builder: (context, snap) {
           if (!snap.hasData) {
-            return const Center(
+            return Center(
               child: Padding(
-                padding: EdgeInsets.all(AppSpacing.s12),
-                child: CircularProgressIndicator(color: AppColors.accent),
+                padding: const EdgeInsets.all(AppSpacing.s12),
+                child: CircularProgressIndicator(color: AppColors.of(context).accent),
               ),
             );
           }
@@ -157,9 +157,9 @@ class _Hero extends StatelessWidget {
       margin: const EdgeInsets.all(AppSpacing.s4),
       padding: const EdgeInsets.all(AppSpacing.s6),
       decoration: BoxDecoration(
-        color: AppColors.accentSoft,
+        color: AppColors.of(context).accentSoft,
         borderRadius: AppRadius.lgAll,
-        border: Border.all(color: AppColors.accentLine),
+        border: Border.all(color: AppColors.of(context).accentLine),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -171,12 +171,12 @@ class _Hero extends StatelessWidget {
             ),
             decoration: BoxDecoration(
               borderRadius: const BorderRadius.all(AppRadius.pill),
-              border: Border.all(color: AppColors.accent),
+              border: Border.all(color: AppColors.of(context).accent),
             ),
             child: Text(
               s.heroEyebrow,
               style: AppType.tiny.copyWith(
-                color: AppColors.accent,
+                color: AppColors.of(context).accent,
                 fontWeight: FontWeight.w700,
                 letterSpacing: 1.2,
               ),
@@ -185,12 +185,12 @@ class _Hero extends StatelessWidget {
           const SizedBox(height: AppSpacing.s4),
           Text(
             s.heroTitle,
-            style: AppType.display.copyWith(color: AppColors.text),
+            style: AppType.display.copyWith(color: AppColors.of(context).text),
           ),
           const SizedBox(height: AppSpacing.s3),
           Text(
             s.heroSubtitle,
-            style: AppType.lead.copyWith(color: AppColors.muted),
+            style: AppType.lead.copyWith(color: AppColors.of(context).muted),
           ),
           const SizedBox(height: AppSpacing.s5),
           Wrap(
@@ -211,8 +211,8 @@ class _Hero extends StatelessWidget {
               FilledButton(
                 onPressed: onStart,
                 style: FilledButton.styleFrom(
-                  backgroundColor: AppColors.accent,
-                  foregroundColor: AppColors.accentInk,
+                  backgroundColor: AppColors.of(context).accent,
+                  foregroundColor: AppColors.of(context).accentInk,
                   minimumSize: const Size(44, 52),
                   padding: const EdgeInsets.symmetric(
                     horizontal: AppSpacing.s6,
@@ -225,8 +225,8 @@ class _Hero extends StatelessWidget {
                 onPressed: onMock,
                 style: OutlinedButton.styleFrom(
                   minimumSize: const Size(44, 52),
-                  side: const BorderSide(color: AppColors.accentLine),
-                  foregroundColor: AppColors.accent,
+                  side: BorderSide(color: AppColors.of(context).accentLine),
+                  foregroundColor: AppColors.of(context).accent,
                   textStyle: AppType.h3,
                 ),
                 child: Text(s.takeMock),
@@ -255,15 +255,15 @@ class _StatCard extends StatelessWidget {
       width: 150,
       padding: const EdgeInsets.all(AppSpacing.s4),
       decoration: BoxDecoration(
-        color: AppColors.card,
+        color: AppColors.of(context).card,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: AppColors.borderSoft),
+        border: Border.all(color: AppColors.of(context).borderSoft),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(value, style: AppType.h1.copyWith(color: AppColors.accent)),
-          Text(label, style: AppType.small.copyWith(color: AppColors.muted)),
+          Text(value, style: AppType.h1.copyWith(color: AppColors.of(context).accent)),
+          Text(label, style: AppType.small.copyWith(color: AppColors.of(context).muted)),
         ],
       ),
     );
@@ -279,7 +279,7 @@ class _TrustRow extends StatelessWidget {
       child: Text(
         s.trustRow,
         textAlign: TextAlign.center,
-        style: AppType.small.copyWith(color: AppColors.muted),
+        style: AppType.small.copyWith(color: AppColors.of(context).muted),
       ),
     );
   }

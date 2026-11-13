@@ -81,14 +81,14 @@ class _AboutScreenState extends State<AboutScreen> {
                 Container(
                   width: 72,
                   height: 72,
-                  decoration: const BoxDecoration(
+                  decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    color: AppColors.accent,
+                    color: AppColors.of(context).accent,
                   ),
                   alignment: Alignment.center,
                   child: Text(
                     'लो',
-                    style: AppType.h1.copyWith(color: AppColors.accentInk),
+                    style: AppType.h1.copyWith(color: AppColors.of(context).accentInk),
                   ),
                 ),
                 const SizedBox(height: AppSpacing.s3),
@@ -96,19 +96,19 @@ class _AboutScreenState extends State<AboutScreen> {
                 if (_version != null)
                   Text(
                     '${s.versionLabel} $_version',
-                    style: AppType.small.copyWith(color: AppColors.muted),
+                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
                   ),
                 const SizedBox(height: AppSpacing.s2),
                 Text(
                   s.aboutTagline,
-                  style: AppType.body.copyWith(color: AppColors.muted),
+                  style: AppType.body.copyWith(color: AppColors.of(context).muted),
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: AppSpacing.s2),
                 Text(
                   s.madeInNepal,
                   style: AppType.small.copyWith(
-                    color: AppColors.accent,
+                    color: AppColors.of(context).accent,
                     fontWeight: FontWeight.w700,
                   ),
                 ),
@@ -170,7 +170,7 @@ class _AboutScreenState extends State<AboutScreen> {
           Center(
             child: Text(
               s.footerCredit,
-              style: AppType.small.copyWith(color: AppColors.muted),
+              style: AppType.small.copyWith(color: AppColors.of(context).muted),
             ),
           ),
         ],
@@ -189,14 +189,14 @@ class _StatBox extends StatelessWidget {
     return Container(
       padding: const EdgeInsets.symmetric(vertical: AppSpacing.s3),
       decoration: BoxDecoration(
-        color: AppColors.accentSoft,
+        color: AppColors.of(context).accentSoft,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: AppColors.accentLine),
+        border: Border.all(color: AppColors.of(context).accentLine),
       ),
       child: Column(
         children: [
-          Text(value, style: AppType.h2.copyWith(color: AppColors.accent)),
-          Text(label, style: AppType.small.copyWith(color: AppColors.muted)),
+          Text(value, style: AppType.h2.copyWith(color: AppColors.of(context).accent)),
+          Text(label, style: AppType.small.copyWith(color: AppColors.of(context).muted)),
         ],
       ),
     );

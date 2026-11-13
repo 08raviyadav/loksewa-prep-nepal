@@ -137,10 +137,10 @@ class _DashboardScreenState extends State<DashboardScreen> {
         future: _future,
         builder: (context, snap) {
           if (!snap.hasData) {
-            return const Center(
+            return Center(
               child: Padding(
-                padding: EdgeInsets.all(AppSpacing.s12),
-                child: CircularProgressIndicator(color: AppColors.accent),
+                padding: const EdgeInsets.all(AppSpacing.s12),
+                child: CircularProgressIndicator(color: AppColors.of(context).accent),
               ),
             );
           }
@@ -271,9 +271,9 @@ class _HeaderCard extends StatelessWidget {
                   child: CircularProgressIndicator(
                     value: progress,
                     strokeWidth: 8,
-                    backgroundColor: AppColors.borderSoft,
-                    valueColor: const AlwaysStoppedAnimation<Color>(
-                      AppColors.accent,
+                    backgroundColor: AppColors.of(context).borderSoft,
+                    valueColor: AlwaysStoppedAnimation<Color>(
+                      AppColors.of(context).accent,
                     ),
                   ),
                 ),
@@ -297,7 +297,7 @@ class _HeaderCard extends StatelessWidget {
                   Text('${s.dashLevel} ${store.level}', style: AppType.h2),
                   Text(
                     '${store.xp} XP',
-                    style: AppType.lead.copyWith(color: AppColors.accent),
+                    style: AppType.lead.copyWith(color: AppColors.of(context).accent),
                   ),
                   const SizedBox(height: AppSpacing.s1),
                   Text(
@@ -333,7 +333,7 @@ class _BadgesCard extends StatelessWidget {
             if (badges.isEmpty)
               Text(
                 s.dashNoBadges,
-                style: AppType.body.copyWith(color: AppColors.muted),
+                style: AppType.body.copyWith(color: AppColors.of(context).muted),
               )
             else
               Wrap(
@@ -343,8 +343,8 @@ class _BadgesCard extends StatelessWidget {
                     .map(
                       (b) => Chip(
                         label: Text(b, style: AppType.small),
-                        backgroundColor: AppColors.accentSoft,
-                        side: const BorderSide(color: AppColors.accentLine),
+                        backgroundColor: AppColors.of(context).accentSoft,
+                        side: BorderSide(color: AppColors.of(context).accentLine),
                       ),
                     )
                     .toList(),
@@ -376,7 +376,7 @@ class _WeeklyCard extends StatelessWidget {
             const SizedBox(height: AppSpacing.s1),
             Text(
               '${s.dashWeeklyDone(week.done, week.target)} · ${s.dashWeekOf} ${week.weekStart} ${s.dashWeekRange}',
-              style: AppType.small.copyWith(color: AppColors.muted),
+              style: AppType.small.copyWith(color: AppColors.of(context).muted),
             ),
             Text(status, style: AppType.small),
             const SizedBox(height: AppSpacing.s2),
@@ -385,16 +385,16 @@ class _WeeklyCard extends StatelessWidget {
               child: LinearProgressIndicator(
                 value: week.pct / 100,
                 minHeight: 10,
-                backgroundColor: AppColors.borderSoft,
+                backgroundColor: AppColors.of(context).borderSoft,
                 valueColor: AlwaysStoppedAnimation<Color>(
-                  week.met ? AppColors.green : AppColors.accent,
+                  week.met ? AppColors.of(context).green : AppColors.of(context).accent,
                 ),
               ),
             ),
             const SizedBox(height: AppSpacing.s2),
             Text(
               '${s.dashGoalsSmashed} $goalsMet',
-              style: AppType.small.copyWith(color: AppColors.muted),
+              style: AppType.small.copyWith(color: AppColors.of(context).muted),
             ),
             // NOTE: vanilla also offers a weekly-target selector
             // (35/70/100/140). That needs a `setWeeklyTarget` mutator on
@@ -427,7 +427,7 @@ class _WeakTopicsCard extends StatelessWidget {
             if (weak.isEmpty)
               Text(
                 s.dashNoWeak,
-                style: AppType.body.copyWith(color: AppColors.muted),
+                style: AppType.body.copyWith(color: AppColors.of(context).muted),
               )
             else ...[
               for (final w in weak)
@@ -482,27 +482,27 @@ class _RecordsCard extends StatelessWidget {
             Text(
               '${s.dashBestDay}: ${bd != null ? '${bd.date} — ${bd.total} ${s.dashQuestions}' : s.dashNoBestDay}',
               style: AppType.body.copyWith(
-                color: bd == null ? AppColors.muted : null,
+                color: bd == null ? AppColors.of(context).muted : null,
               ),
             ),
             const SizedBox(height: AppSpacing.s1),
             Text(
               '${s.dashBestMocks}: ${r.bestMocks.isNotEmpty ? r.bestMocks.map((b) => '${examName(b.examId)} ${b.pct}% (${b.score}/${b.max}, ${b.date})').join(' · ') : s.dashNoMocks}',
               style: AppType.body.copyWith(
-                color: r.bestMocks.isEmpty ? AppColors.muted : null,
+                color: r.bestMocks.isEmpty ? AppColors.of(context).muted : null,
               ),
             ),
             const SizedBox(height: AppSpacing.s1),
             Text(
               '${s.dashBestSpeed}: ${speed != null ? '${speed['score']}/${speed['max']} (${speed['pct']}%) ${s.dashOnDate} ${speed['date']}' : s.dashNoSpeed}',
               style: AppType.body.copyWith(
-                color: speed == null ? AppColors.muted : null,
+                color: speed == null ? AppColors.of(context).muted : null,
               ),
             ),
             const SizedBox(height: AppSpacing.s2),
             Text(
               s.dashPrivateNote,
-              style: AppType.small.copyWith(color: AppColors.muted),
+              style: AppType.small.copyWith(color: AppColors.of(context).muted),
             ),
           ],
         ),
@@ -533,7 +533,7 @@ class _EntryCards extends StatelessWidget {
                   const SizedBox(height: AppSpacing.s1),
                   Text(
                     s.dashDailyBody,
-                    style: AppType.small.copyWith(color: AppColors.muted),
+                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
                   ),
                   const SizedBox(height: AppSpacing.s3),
                   ElevatedButton(
@@ -560,7 +560,7 @@ class _EntryCards extends StatelessWidget {
                   const SizedBox(height: AppSpacing.s1),
                   Text(
                     s.dashQuickBody,
-                    style: AppType.small.copyWith(color: AppColors.muted),
+                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
                   ),
                   const SizedBox(height: AppSpacing.s3),
                   ElevatedButton(
@@ -604,12 +604,12 @@ class _RecentAttemptsCard extends StatelessWidget {
             if (recent.isEmpty) ...[
               Text(
                 s.dashNoAttemptsTitle,
-                style: AppType.h3.copyWith(color: AppColors.accent),
+                style: AppType.h3.copyWith(color: AppColors.of(context).accent),
               ),
               const SizedBox(height: AppSpacing.s1),
               Text(
                 s.dashNoAttemptsBody,
-                style: AppType.body.copyWith(color: AppColors.muted),
+                style: AppType.body.copyWith(color: AppColors.of(context).muted),
               ),
               const SizedBox(height: AppSpacing.s3),
               ElevatedButton(
@@ -659,7 +659,7 @@ class _AttemptRow extends StatelessWidget {
           ),
           TextSpan(
             text: ' · ${a['correct']}✓ ${a['wrong']}✗ ${a['skipped']}–',
-            style: const TextStyle(color: AppColors.muted),
+            style: TextStyle(color: AppColors.of(context).muted),
           ),
         ],
       ),
@@ -690,7 +690,7 @@ class _ScoreHistoryCard extends StatelessWidget {
             if (data.isEmpty) ...[
               Text(
                 s.dashNoHistory,
-                style: AppType.body.copyWith(color: AppColors.muted),
+                style: AppType.body.copyWith(color: AppColors.of(context).muted),
               ),
               const SizedBox(height: AppSpacing.s3),
               ElevatedButton(
@@ -701,7 +701,12 @@ class _ScoreHistoryCard extends StatelessWidget {
               SizedBox(
                 height: 160,
                 width: double.infinity,
-                child: CustomPaint(painter: _ScoreChart(attempts: data)),
+                child: CustomPaint(
+                  painter: _ScoreChart(
+                    attempts: data,
+                    palette: AppColors.of(context),
+                  ),
+                ),
               ),
           ],
         ),
@@ -714,12 +719,15 @@ class _ScoreHistoryCard extends StatelessWidget {
 /// height = pct% of the plot area. Last 20 attempts.
 class _ScoreChart extends CustomPainter {
   final List<Map<String, dynamic>> attempts;
-  const _ScoreChart({required this.attempts});
+  // CustomPainter has no BuildContext — the palette is resolved in
+  // build() and passed down.
+  final AppPalette palette;
+  const _ScoreChart({required this.attempts, required this.palette});
 
   @override
   void paint(Canvas canvas, Size size) {
     final axis = Paint()
-      ..color = AppColors.muted
+      ..color = palette.muted
       ..strokeWidth = 1;
     canvas.drawLine(
       Offset(0, size.height - 1),
@@ -734,7 +742,7 @@ class _ScoreChart extends CustomPainter {
       final pct = ((a['pct'] as num?)?.toDouble() ?? 0).clamp(0.0, 100.0);
       final h = (pct / 100) * (size.height - 8);
       final bar = Paint()
-        ..color = a['passed'] == true ? AppColors.green : AppColors.danger;
+        ..color = a['passed'] == true ? palette.green : palette.danger;
       canvas.drawRect(
         Rect.fromLTWH(i * bw + bw * 0.22, size.height - h, bw * 0.56, h),
         bar,
@@ -744,5 +752,6 @@ class _ScoreChart extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant _ScoreChart oldDelegate) =>
-      oldDelegate.attempts != attempts;
+      oldDelegate.attempts != attempts ||
+      oldDelegate.palette != palette;
 }

@@ -37,7 +37,7 @@ class PrivacyScreen extends StatelessWidget {
         children: [
           Text(
             p.lastUpdated,
-            style: AppType.tiny.copyWith(color: AppColors.muted),
+            style: AppType.tiny.copyWith(color: AppColors.of(context).muted),
           ),
           const SizedBox(height: AppSpacing.s3),
           Text(p.intro, style: AppType.lead),

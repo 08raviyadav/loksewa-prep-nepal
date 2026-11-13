@@ -125,9 +125,9 @@ class _MockListScreenState extends State<MockListScreen> {
               child: Container(
                 width: 40,
                 height: 4,
-                decoration: const BoxDecoration(
-                  color: AppColors.borderSoft,
-                  borderRadius: BorderRadius.all(AppRadius.pill),
+                decoration: BoxDecoration(
+                  color: AppColors.of(context).borderSoft,
+                  borderRadius: const BorderRadius.all(AppRadius.pill),
                 ),
               ),
             ),
@@ -179,8 +179,8 @@ class _MockListScreenState extends State<MockListScreen> {
         future: _entriesFuture,
         builder: (context, snap) {
           if (!snap.hasData) {
-            return const Center(
-              child: CircularProgressIndicator(color: AppColors.accent),
+            return Center(
+              child: CircularProgressIndicator(color: AppColors.of(context).accent),
             );
           }
           final entries = snap.data!;
@@ -229,7 +229,7 @@ class _MockListScreenState extends State<MockListScreen> {
                   padding: const EdgeInsets.symmetric(vertical: AppSpacing.s4),
                   child: Text(
                     s.noExamsFound,
-                    style: AppType.small.copyWith(color: AppColors.muted),
+                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
                   ),
                 ),
               if (query.isNotEmpty && matches.isNotEmpty)
@@ -309,7 +309,7 @@ class _MockListScreenState extends State<MockListScreen> {
                     const SizedBox(height: 2),
                     Text(
                       _metaLine(e.spec, s),
-                      style: AppType.small.copyWith(color: AppColors.muted),
+                      style: AppType.small.copyWith(color: AppColors.of(context).muted),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),

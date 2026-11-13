@@ -140,8 +140,8 @@ class _MistakesScreenState extends State<MistakesScreen> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const CircularProgressIndicator(
-                      color: AppColors.accent,
+                    CircularProgressIndicator(
+                      color: AppColors.of(context).accent,
                     ),
                     const SizedBox(height: AppSpacing.s4),
                     Text(s.mistakesLoading, style: AppType.body),
@@ -160,10 +160,10 @@ class _MistakesScreenState extends State<MistakesScreen> {
                     padding: const EdgeInsets.all(AppSpacing.s6),
                     child: Column(
                       children: [
-                        const Icon(
+                        Icon(
                           Icons.check_circle_outline,
                           size: 64,
-                          color: AppColors.green,
+                          color: AppColors.of(context).green,
                         ),
                         const SizedBox(height: AppSpacing.s4),
                         Text(
@@ -183,8 +183,8 @@ class _MistakesScreenState extends State<MistakesScreen> {
                           icon: const Icon(Icons.quiz_outlined),
                           label: Text(s.startPracticing),
                           style: FilledButton.styleFrom(
-                            backgroundColor: AppColors.accent,
-                            foregroundColor: AppColors.accentInk,
+                            backgroundColor: AppColors.of(context).accent,
+                            foregroundColor: AppColors.of(context).accentInk,
                             minimumSize: const Size(0, AppSpacing.minTap),
                           ),
                         ),
@@ -225,8 +225,8 @@ class _MistakesScreenState extends State<MistakesScreen> {
                               : s.mistakesRetryAll,
                         ),
                         style: FilledButton.styleFrom(
-                          backgroundColor: AppColors.accent,
-                          foregroundColor: AppColors.accentInk,
+                          backgroundColor: AppColors.of(context).accent,
+                          foregroundColor: AppColors.of(context).accentInk,
                           minimumSize: const Size(0, AppSpacing.minTap),
                         ),
                       ),
@@ -288,14 +288,14 @@ class _ExamGroup extends StatelessWidget {
                     horizontal: 10,
                     vertical: 4,
                   ),
-                  decoration: const BoxDecoration(
-                    color: AppColors.dangerSoft,
-                    borderRadius: BorderRadius.all(AppRadius.pill),
+                  decoration: BoxDecoration(
+                    color: AppColors.of(context).dangerSoft,
+                    borderRadius: const BorderRadius.all(AppRadius.pill),
                   ),
                   child: Text(
                     s.mistakesCount(questions.length),
                     style: AppType.small.copyWith(
-                      color: AppColors.danger,
+                      color: AppColors.of(context).danger,
                       fontWeight: FontWeight.w700,
                     ),
                   ),
@@ -332,7 +332,7 @@ class _ExamGroup extends StatelessWidget {
                           '${s.mistakesCorrectAnswer}: ${String.fromCharCode(65 + q.answer)}. ${q.opts(ne)[q.answer]}',
                           style: AppType.body.copyWith(
                             fontWeight: FontWeight.w700,
-                            color: AppColors.green,
+                            color: AppColors.of(context).green,
                           ),
                         ),
                         if (q.explain(ne).isNotEmpty) ...[

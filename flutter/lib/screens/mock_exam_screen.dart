@@ -280,7 +280,7 @@ class _IntroCard extends StatelessWidget {
                     Text(
                       s.patternTitle,
                       style: AppType.small.copyWith(
-                        color: AppColors.muted,
+                        color: AppColors.of(context).muted,
                         fontWeight: FontWeight.w700,
                       ),
                     ),
@@ -309,9 +309,9 @@ class _IntroCard extends StatelessWidget {
                       const SizedBox(height: AppSpacing.s3),
                       Container(
                         padding: const EdgeInsets.all(AppSpacing.s3),
-                        decoration: const BoxDecoration(
-                          color: AppColors.accentSoft,
-                          borderRadius: BorderRadius.all(AppRadius.md),
+                        decoration: BoxDecoration(
+                          color: AppColors.of(context).accentSoft,
+                          borderRadius: const BorderRadius.all(AppRadius.md),
                         ),
                         child: Text(
                           s.thinBankWarning(paper!.taggedCount, exam.title(ne)),
@@ -329,8 +329,8 @@ class _IntroCard extends StatelessWidget {
             FilledButton(
               onPressed: onStart,
               style: FilledButton.styleFrom(
-                backgroundColor: AppColors.accent,
-                foregroundColor: AppColors.accentInk,
+                backgroundColor: AppColors.of(context).accent,
+                foregroundColor: AppColors.of(context).accentInk,
                 minimumSize: const Size(double.infinity, AppSpacing.minTap),
               ),
               child: Text(s.startMockBtn),
@@ -356,7 +356,7 @@ class _PatternRow extends StatelessWidget {
           Expanded(
             child: Text(
               label,
-              style: AppType.body.copyWith(color: AppColors.muted),
+              style: AppType.body.copyWith(color: AppColors.of(context).muted),
             ),
           ),
           const SizedBox(width: AppSpacing.s3),
@@ -590,8 +590,8 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                   decoration: BoxDecoration(
                     color: session.timerOn
                         ? (lowTime
-                            ? AppColors.dangerSoft
-                            : AppColors.accentSoft)
+                            ? AppColors.of(context).dangerSoft
+                            : AppColors.of(context).accentSoft)
                         : scheme.surfaceContainerHighest,
                     borderRadius: const BorderRadius.all(AppRadius.pill),
                   ),
@@ -603,9 +603,9 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                       fontWeight: FontWeight.w800,
                       color: session.timerOn
                           ? (lowTime
-                              ? AppColors.danger
-                              : AppColors.accentStrong)
-                          : AppColors.muted,
+                              ? AppColors.of(context).danger
+                              : AppColors.of(context).accentStrong)
+                          : AppColors.of(context).muted,
                       fontFeatures: const [FontFeature.tabularFigures()],
                     ),
                   ),
@@ -618,7 +618,7 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
             child: LinearProgressIndicator(
               value: (idx + 1) / total,
               backgroundColor: scheme.surfaceContainerHighest,
-              color: AppColors.accent,
+              color: AppColors.of(context).accent,
               minHeight: 4,
             ),
           ),
@@ -639,7 +639,7 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                     ),
                     Text(
                       s.answeredOf(session.answeredCount, total),
-                      style: AppType.small.copyWith(color: AppColors.muted),
+                      style: AppType.small.copyWith(color: AppColors.of(context).muted),
                     ),
                   ],
                 ),
@@ -685,10 +685,10 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                           horizontal: AppSpacing.s4,
                           vertical: AppSpacing.s3,
                         ),
-                        backgroundColor: isPicked ? AppColors.accentSoft : null,
+                        backgroundColor: isPicked ? AppColors.of(context).accentSoft : null,
                         side: BorderSide(
                           color: isPicked
-                              ? AppColors.accent
+                              ? AppColors.of(context).accent
                               : Theme.of(context).dividerColor,
                         ),
                         shape: RoundedRectangleBorder(
@@ -704,14 +704,14 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                             decoration: BoxDecoration(
                               shape: BoxShape.circle,
                               color: isPicked
-                                  ? AppColors.accent
+                                  ? AppColors.of(context).accent
                                   : scheme.surfaceContainerHighest,
                             ),
                             child: Text(
                               String.fromCharCode(65 + i),
                               style: AppType.small.copyWith(
                                 fontWeight: FontWeight.w800,
-                                color: isPicked ? AppColors.accentInk : null,
+                                color: isPicked ? AppColors.of(context).accentInk : null,
                               ),
                             ),
                           ),
@@ -761,8 +761,8 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
                       icon: const Icon(Icons.check),
                       label: Text(s.finish),
                       style: FilledButton.styleFrom(
-                        backgroundColor: AppColors.accent,
-                        foregroundColor: AppColors.accentInk,
+                        backgroundColor: AppColors.of(context).accent,
+                        foregroundColor: AppColors.of(context).accentInk,
                         minimumSize: const Size(0, AppSpacing.minTap),
                       ),
                     ),
@@ -789,23 +789,26 @@ class _PaletteCard extends StatelessWidget {
 
   const _PaletteCard({required this.session, required this.onJump});
 
-  Color _bg(PaletteState st) => switch (st) {
-        PaletteState.answered => AppColors.greenSoft,
-        PaletteState.current => AppColors.blueSoft,
+  // The palette is resolved in build() and passed down — these helpers
+  // have no BuildContext of their own.
+  Color _bg(AppPalette p, PaletteState st) => switch (st) {
+        PaletteState.answered => p.greenSoft,
+        PaletteState.current => p.blueSoft,
         PaletteState.flagged => const Color(0x33EA580C),
-        PaletteState.unanswered => AppColors.card2,
+        PaletteState.unanswered => p.card2,
       };
 
-  Color _fg(PaletteState st) => switch (st) {
-        PaletteState.answered => AppColors.green,
-        PaletteState.current => AppColors.blue,
-        PaletteState.flagged => AppColors.accentStrong,
-        PaletteState.unanswered => AppColors.muted,
+  Color _fg(AppPalette p, PaletteState st) => switch (st) {
+        PaletteState.answered => p.green,
+        PaletteState.current => p.blue,
+        PaletteState.flagged => p.accentStrong,
+        PaletteState.unanswered => p.muted,
       };
 
   @override
   Widget build(BuildContext context) {
     final s = AppStateScope.of(context).strings;
+    final p = AppColors.of(context);
     final total = session.length;
     final answers = session.engine.answers;
     return Card(
@@ -823,13 +826,13 @@ class _PaletteCard extends StatelessWidget {
               spacing: AppSpacing.s3,
               runSpacing: AppSpacing.s1,
               children: [
-                _LegendDot(color: AppColors.green, label: s.legendAnswered),
-                _LegendDot(color: AppColors.blue, label: s.legendCurrent),
+                _LegendDot(color: AppColors.of(context).green, label: s.legendAnswered),
+                _LegendDot(color: AppColors.of(context).blue, label: s.legendCurrent),
                 _LegendDot(
-                  color: AppColors.accentStrong,
+                  color: AppColors.of(context).accentStrong,
                   label: s.legendFlagged,
                 ),
-                _LegendDot(color: AppColors.muted, label: s.legendUnanswered),
+                _LegendDot(color: AppColors.of(context).muted, label: s.legendUnanswered),
               ],
             ),
             const SizedBox(height: AppSpacing.s3),
@@ -849,7 +852,7 @@ class _PaletteCard extends StatelessWidget {
                   flagged: session.isFlagged(i),
                 );
                 return Material(
-                  color: _bg(st),
+                  color: _bg(p, st),
                   borderRadius: const BorderRadius.all(AppRadius.sm),
                   child: InkWell(
                     borderRadius: const BorderRadius.all(AppRadius.sm),
@@ -859,7 +862,7 @@ class _PaletteCard extends StatelessWidget {
                         '${i + 1}',
                         style: AppType.small.copyWith(
                           fontWeight: FontWeight.w700,
-                          color: _fg(st),
+                          color: _fg(p, st),
                           fontFeatures: const [FontFeature.tabularFigures()],
                         ),
                       ),
@@ -905,14 +908,14 @@ class _Tag extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-      decoration: const BoxDecoration(
-        color: AppColors.accentSoft,
-        borderRadius: BorderRadius.all(AppRadius.pill),
+      decoration: BoxDecoration(
+        color: AppColors.of(context).accentSoft,
+        borderRadius: const BorderRadius.all(AppRadius.pill),
       ),
       child: Text(
         label,
         style: AppType.tiny.copyWith(
-          color: AppColors.accentStrong,
+          color: AppColors.of(context).accentStrong,
           fontWeight: FontWeight.w700,
         ),
       ),

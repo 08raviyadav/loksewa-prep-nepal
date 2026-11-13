@@ -128,7 +128,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
                     const SizedBox(height: 8),
                     Text(
                       s.historyCount(all.length),
-                      style: AppType.small.copyWith(color: AppColors.muted),
+                      style: AppType.small.copyWith(color: AppColors.of(context).muted),
                     ),
                   ],
                 ),
@@ -189,7 +189,7 @@ class _HistoryScreenState extends State<HistoryScreen> {
                                   child: Text(
                                     s.historyShownCount(shown.length),
                                     style: AppType.small.copyWith(
-                                      color: AppColors.muted,
+                                      color: AppColors.of(context).muted,
                                     ),
                                   ),
                                 );
@@ -385,14 +385,14 @@ class _QuizView extends StatelessWidget {
             children: [
               Text(
                 s.historyQuizProgress(idx + 1, pool.length, correct, missed),
-                style: AppType.small.copyWith(color: AppColors.muted),
+                style: AppType.small.copyWith(color: AppColors.of(context).muted),
               ),
               const SizedBox(height: 12),
               Text(event.title(ne), style: AppType.h2),
               const SizedBox(height: 4),
               Text(
                 s.historyCategory(event.category),
-                style: AppType.small.copyWith(color: AppColors.muted),
+                style: AppType.small.copyWith(color: AppColors.of(context).muted),
               ),
               const SizedBox(height: 16),
               Text(s.historyQuizWhen, style: AppType.h3),

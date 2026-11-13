@@ -299,7 +299,7 @@ class _ExamDateCard extends StatelessWidget {
                   OutlinedButton(
                     style: OutlinedButton.styleFrom(
                       side: reminding
-                          ? const BorderSide(color: AppColors.accent)
+                          ? BorderSide(color: AppColors.of(context).accent)
                           : null,
                     ),
                     onPressed: () => appState.toggleReminder(date.id),
@@ -330,11 +330,11 @@ class _CountdownChip extends StatelessWidget {
   Widget build(BuildContext context) {
     final s = AppStateScope.of(context).strings;
     final (label, bg) = switch (kind) {
-      ExamDateChipKind.today => (s.chipToday, AppColors.dangerSoft),
-      ExamDateChipKind.tomorrow => (s.chipTomorrow, AppColors.accentSoft),
-      ExamDateChipKind.soon => (s.chipSoon(daysUntil), AppColors.accentSoft),
-      ExamDateChipKind.later => (s.chipLater(daysUntil), AppColors.blueSoft),
-      ExamDateChipKind.past => (s.chipDone, AppColors.greenSoft),
+      ExamDateChipKind.today => (s.chipToday, AppColors.of(context).dangerSoft),
+      ExamDateChipKind.tomorrow => (s.chipTomorrow, AppColors.of(context).accentSoft),
+      ExamDateChipKind.soon => (s.chipSoon(daysUntil), AppColors.of(context).accentSoft),
+      ExamDateChipKind.later => (s.chipLater(daysUntil), AppColors.of(context).blueSoft),
+      ExamDateChipKind.past => (s.chipDone, AppColors.of(context).greenSoft),
     };
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),

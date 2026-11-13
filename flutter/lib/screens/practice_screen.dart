@@ -272,8 +272,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
         future: _examsFuture,
         builder: (context, snap) {
           if (!snap.hasData) {
-            return const Center(
-              child: CircularProgressIndicator(color: AppColors.accent),
+            return Center(
+              child: CircularProgressIndicator(color: AppColors.of(context).accent),
             );
           }
           final exams = snap.data!;
@@ -328,7 +328,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
                             const EdgeInsets.symmetric(vertical: AppSpacing.s4),
                         child: Text(
                           s.noExamsFound,
-                          style: AppType.small.copyWith(color: AppColors.muted),
+                          style: AppType.small.copyWith(color: AppColors.of(context).muted),
                         ),
                       )
                     : _examChips(matches, ne)
@@ -373,11 +373,11 @@ class _PracticeScreenState extends State<PracticeScreen> {
                 Text(s.chooseTopics, style: AppType.h2),
                 const SizedBox(height: AppSpacing.s3),
                 if (_topicsLoading)
-                  const LinearProgressIndicator(color: AppColors.accent)
+                  LinearProgressIndicator(color: AppColors.of(context).accent)
                 else if (_topicCounts.isEmpty)
                   Text(
                     s.loadingQuestions,
-                    style: AppType.small.copyWith(color: AppColors.muted),
+                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
                   )
                 else
                   Wrap(
@@ -450,8 +450,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
                 FilledButton(
                   onPressed: _topics.isEmpty ? null : _startQuiz,
                   style: FilledButton.styleFrom(
-                    backgroundColor: AppColors.accent,
-                    foregroundColor: AppColors.accentInk,
+                    backgroundColor: AppColors.of(context).accent,
+                    foregroundColor: AppColors.of(context).accentInk,
                     minimumSize: const Size(double.infinity, 56),
                     textStyle: AppType.h3,
                   ),
@@ -498,9 +498,9 @@ class _ExamChip extends StatelessWidget {
       ),
       selected: selected,
       onSelected: (_) => onTap(),
-      selectedColor: AppColors.accentSoft,
+      selectedColor: AppColors.of(context).accentSoft,
       side: BorderSide(
-        color: selected ? AppColors.accent : AppColors.borderSoft,
+        color: selected ? AppColors.of(context).accent : AppColors.of(context).borderSoft,
       ),
     );
   }
