@@ -149,6 +149,10 @@ class _HomeScreenState extends State<HomeScreen> {
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
       bottomNavKey: TourKeys.bottomNav,
+      // Tour step 2 (v1.0.9): the language button lives in this
+      // screen's app bar — only Home passes the key, so it never
+      // duplicates across pushed pages.
+      langToggleKey: TourKeys.langToggle,
       body: FutureBuilder<_HomeData>(
         future: _future,
         builder: (context, snap) {
