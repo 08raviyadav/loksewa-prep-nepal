@@ -8,7 +8,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:loksewa_vidyapeeth/engine/quiz_engine.dart';
 import 'package:loksewa_vidyapeeth/gamification/result_slangs.dart';
-import 'package:loksewa_vidyapeeth/l10n/app_strings.dart';
 import 'package:loksewa_vidyapeeth/screens/quiz/result_screen.dart';
 import 'package:loksewa_vidyapeeth/state/app_state.dart';
 import 'package:loksewa_vidyapeeth/state/progress_store.dart';
@@ -37,11 +36,13 @@ Future<void> _pumpResult(
   QuizResult result, {
   bool nepali = false,
 }) async {
-  SharedPreferences.setMockInitialValues({});
+  // Pin the language explicitly (the default is Nepali, v1.0.9).
+  SharedPreferences.setMockInitialValues({
+    'loksewa_lang_v1': nepali ? 'ne' : 'en',
+  });
   ProgressStore.resetForTest();
   final state = AppState();
   await state.init();
-  if (nepali) await state.setLang(AppLang.ne);
   final store = await ProgressStore.instance;
   await tester.pumpWidget(
     AppStateScope(
