@@ -324,7 +324,7 @@ extension QuizStrings on AppStrings {
     String exam,
   ) =>
       t(
-        'I scored $score/$max ($pct%) on $exam in LokSewa Vidyapeeth! 🎯\n\nFree Lok Sewa exam prep — download it here:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
-        'मैले लोक सेवा विद्यापीठमा $exam मा $score/$max ($pct%) ल्याएँ! 🎯\n\nनिःशुल्क लोक सेवा परीक्षा तयारी — यहाँबाट डाउनलोड गर्नुहोस्:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'I scored $score/$max ($pct%) on $exam in Outrank! 🎯\n\nFree Lok Sewa exam prep — download it here:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'मैले Outrank मा $exam मा $score/$max ($pct%) ल्याएँ! 🎯\n\nनिःशुल्क लोक सेवा परीक्षा तयारी — यहाँबाट डाउनलोड गर्नुहोस्:\nhttps://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
       );
 }
