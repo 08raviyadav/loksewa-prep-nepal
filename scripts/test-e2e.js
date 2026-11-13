@@ -320,8 +320,8 @@ const run = code => vm.runInContext(code, sandbox);
   // Share: clipboard is unavailable in the stub, so shareScore returns the
   // text and leaves it in the status line for copying by hand.
   const shared = run('shareScore()');
-  check('share-my-score builds a short summary with score, exam and app name', typeof shared === 'string' && shared.includes('LokSewa Vidyapeeth') && shared.includes('Speed Round') && shared.length < 200, shared);
-  check('share-my-score leaves the text in the status line when no clipboard exists', el('share-status').textContent.includes('LokSewa Vidyapeeth'));
+  check('share-my-score builds a short summary with score, exam and app name', typeof shared === 'string' && shared.includes('Outrank') && shared.includes('Speed Round') && shared.length < 200, shared);
+  check('share-my-score leaves the text in the status line when no clipboard exists', el('share-status').textContent.includes('Outrank'));
   // Mistake Marathon: practices only from mistakes/bookmarks.
   run('startMistakeMarathon()');
   check('mistake marathon starts from mistakes/bookmarks only', run('current.questions.length') > 0 && run('current.questions.every(q=>progress.mistakes.includes(q.id)||progress.bookmarks.includes(q.id))') && el('quiz-box').innerHTML.includes('Mistake Marathon'));
