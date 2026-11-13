@@ -50,7 +50,7 @@ Future<void> _pumpCard(WidgetTester tester, List<ExamDate> dates) async {
     AppStateScope(
       state: state,
       child: MaterialApp(
-        theme: buildDarkTheme(),
+        theme: buildAppTheme(),
         home: Scaffold(body: CountdownCard(dates: dates)),
       ),
     ),
