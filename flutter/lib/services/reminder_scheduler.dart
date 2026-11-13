@@ -147,7 +147,7 @@ PlannedReminder computeDailyNudge({
   }
   return PlannedReminder(
     id: 'daily_nudge',
-    title: ne ? 'लोक सेवा विद्यापीठ' : 'LokSewa Vidyapeeth',
+    title: 'Outrank',
     body: ne
         ? '🎯 आजको दैनिक चुनौती तयार छ — १० नयाँ प्रश्न पर्खिरहेका छन्!'
         : '🎯 Your Daily Challenge is ready — 10 fresh questions are waiting!',
