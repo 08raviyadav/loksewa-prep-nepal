@@ -410,6 +410,9 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
       timeLimitSecs: spec.timeLimitSecs,
       mode: 'mock',
       examId: spec.examId,
+      // v1.0.9: options render in the language the mock starts in.
+      // maybeOf (no dependency) is the initState-safe lookup.
+      nepali: AppStateScope.maybeOf(context)?.isNe ?? false,
     );
     _session = MockSession(
       engine: QuizEngine(config),
