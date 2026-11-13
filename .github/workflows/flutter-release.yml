@@ -1,7 +1,7 @@
 # Signed release APK for the LokSewa Vidyapeeth Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.6` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.7` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,23 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.6
+      - name: Publish to GitHub Release android-v1.0.7
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.6
-          name: LokSewa Vidyapeeth Android v1.0.6
+          tag_name: android-v1.0.7
+          name: LokSewa Vidyapeeth Android v1.0.7
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.6 (Android).
+            Signed release APK for LokSewa Vidyapeeth v1.0.7 (Android).
 
-            What's new: dark mode is back. Tap the moon/sun button in the
-            top bar to switch — light white + orange stays the default,
-            and dark is the same orange on a clean charcoal background
-            (no navy, no purple, no gradients). Your choice is remembered.
-            No feature changes in this release.
+            What's new: a first-launch guided tour. On first install the
+            app walks you through it step by step — Daily Challenge,
+            Dashboard, Practice, picking an exam and a topic, then Start —
+            with each real button highlighted and tappable. Skip any time.
+            Replay it later from the drawer ("How to use the app").
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.5 as an update (same signature).
+            Installs over v1.0.6 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
