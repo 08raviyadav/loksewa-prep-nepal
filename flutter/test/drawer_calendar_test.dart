@@ -39,7 +39,7 @@ Future<void> _pumpCalendar(
     AppStateScope(
       state: state,
       child: MaterialApp(
-        theme: buildDarkTheme(),
+        theme: buildAppTheme(),
         home: const Scaffold(body: DrawerCalendar()),
       ),
     ),
