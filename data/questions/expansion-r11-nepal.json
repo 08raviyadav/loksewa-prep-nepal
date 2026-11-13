@@ -61,10 +61,10 @@
    "Makalu"
   ],
   "options_ne": [
-   "Mount Everest (Sagarmatha)",
-   "Kanchenjunga",
+   "माउन्ट एभरेष्ट (सगरमाथा)",
+   "कञ्चनजङ्घा",
    "K2",
-   "Makalu"
+   "मकालु"
   ],
   "answer": 0,
   "explanation": "Mount Everest (8848.86 m) is the highest peak in the world.",
@@ -97,10 +97,10 @@
    "Cho Oyu"
   ],
   "options_ne": [
-   "Kanchenjunga",
-   "Makalu",
-   "Lhotse",
-   "Cho Oyu"
+   "कञ्चनजङ्घा",
+   "मकालु",
+   "ल्होत्से",
+   "चो ओयु"
   ],
   "answer": 0,
   "explanation": "Kanchenjunga (8586 m) is the second highest peak in Nepal.",
@@ -133,10 +133,10 @@
    "Mahakali"
   ],
   "options_ne": [
-   "Koshi",
-   "Gandaki",
-   "Karnali",
-   "Mahakali"
+   "कोशी",
+   "गण्डकी",
+   "कर्णाली",
+   "महाकाली"
   ],
   "answer": 0,
   "explanation": "The answer is Koshi.",
@@ -169,10 +169,10 @@
    "Karnali"
   ],
   "options_ne": [
-   "Koshi",
-   "Gandaki",
-   "Mahakali",
-   "Karnali"
+   "कोशी",
+   "गण्डकी",
+   "महाकाली",
+   "कर्णाली"
   ],
   "answer": 2,
   "explanation": "The answer is Mahakali.",
@@ -205,10 +205,10 @@
    "Marsyangdi Gorge"
   ],
   "options_ne": [
-   "Seti Gorge",
-   "Karnali Gorge",
-   "Kali Gandaki Gorge",
-   "Marsyangdi Gorge"
+   "सेती खोँच",
+   "कर्णाली खोँच",
+   "कालीगण्डकी खोँच",
+   "मर्स्याङ्दी खोँच"
   ],
   "answer": 2,
   "explanation": "The answer is Kali Gandaki Gorge.",
@@ -241,10 +241,10 @@
    "Koshi"
   ],
   "options_ne": [
-   "Karnali",
-   "Gandaki",
-   "Mahakali",
-   "Koshi"
+   "कर्णाली",
+   "गण्डकी",
+   "महाकाली",
+   "कोशी"
   ],
   "answer": 1,
   "explanation": "The answer is Gandaki.",
@@ -277,10 +277,10 @@
    "Karnali"
   ],
   "options_ne": [
-   "Koshi",
-   "Bagmati",
-   "Gandaki",
-   "Karnali"
+   "कोशी",
+   "बागमती",
+   "गण्डकी",
+   "कर्णाली"
   ],
   "answer": 3,
   "explanation": "The answer is Karnali.",
@@ -313,10 +313,10 @@
    "Trishuli"
   ],
   "options_ne": [
-   "Kali Gandaki",
-   "Seti",
-   "Marsyangdi",
-   "Trishuli"
+   "कालीगण्डकी",
+   "सेती",
+   "मर्स्याङ्दी",
+   "त्रिशूली"
   ],
   "answer": 1,
   "explanation": "The answer is Seti.",
@@ -349,10 +349,10 @@
    "Community forestry"
   ],
   "options_ne": [
-   "Private forestry",
-   "Plantation forestry",
-   "Industrial forestry",
-   "Community forestry"
+   "निजी वन",
+   "वृक्षारोपण वन",
+   "औद्योगिक वन",
+   "सामुदायिक वन"
   ],
   "answer": 3,
   "explanation": "Nepal is world-famous as a pioneer of community forestry.",
@@ -424,10 +424,10 @@
    "Article 242"
   ],
   "options_ne": [
-   "Article 240",
-   "Article 258",
-   "Article 248",
-   "Article 242"
+   "धारा २४०",
+   "धारा २५८",
+   "धारा २४८",
+   "धारा २४२"
   ],
   "answer": 2,
   "explanation": "The National Human Rights Commission is provided in Article 248.",
@@ -463,10 +463,10 @@
    "Article 258"
   ],
   "options_ne": [
-   "Article 248",
-   "Article 251",
-   "Article 252",
-   "Article 258"
+   "धारा २४८",
+   "धारा २५१",
+   "धारा २५२",
+   "धारा २५८"
   ],
   "answer": 3,
   "explanation": "The National Inclusion Commission is provided in Article 258.",
@@ -502,10 +502,10 @@
    "Article 214"
   ],
   "options_ne": [
-   "Article 128",
-   "Article 168",
-   "Article 175",
-   "Article 214"
+   "धारा १२८",
+   "धारा १६८",
+   "धारा १७५",
+   "धारा २१४"
   ],
   "answer": 3,
   "explanation": "Local executive power is provided in Article 214.",
@@ -541,10 +541,10 @@
    "Bhojpuri"
   ],
   "options_ne": [
-   "Tamang",
-   "Tharu",
-   "Maithili",
-   "Bhojpuri"
+   "तामाङ",
+   "थारू",
+   "मैथिली",
+   "भोजपुरी"
   ],
   "answer": 2,
   "explanation": "Maithili is the second most spoken language in Nepal.",
@@ -577,10 +577,10 @@
    "Biratnagar"
   ],
   "options_ne": [
-   "Butwal",
-   "Janakpur",
-   "Pokhara",
-   "Biratnagar"
+   "बुटवल",
+   "जनकपुर",
+   "पोखरा",
+   "विराटनगर"
   ],
   "answer": 1,
   "explanation": "The headquarters of Dhanusha district is Janakpur.",
@@ -616,10 +616,10 @@
    "Tribhuvan"
   ],
   "options_ne": [
-   "Prithvi Narayan Shah",
-   "Mahendra",
-   "Jung Bahadur Rana",
-   "Tribhuvan"
+   "पृथ्वीनारायण शाह",
+   "महेन्द्र",
+   "जङ्गबहादुर राणा",
+   "त्रिभुवन"
   ],
   "answer": 0,
   "explanation": "Prithvi Narayan Shah unified Nepal.",
@@ -655,10 +655,10 @@
    "Treaty of Sugauli (1816)"
   ],
   "options_ne": [
-   "Treaty of Titalia",
-   "Treaty of Sindhuli",
-   "Treaty of Kathmandu",
-   "Treaty of Sugauli (1816)"
+   "टिटालिया सन्धि",
+   "सिन्धुली सन्धि",
+   "काठमाडौं सन्धि",
+   "सुगौली सन्धि (१८१६)"
   ],
   "answer": 3,
   "explanation": "The Anglo-Nepal War (1814-16) ended with the Treaty of Sugauli in 1816.",
@@ -769,10 +769,10 @@
    "10 days"
   ],
   "options_ne": [
-   "15 days",
-   "9 days",
-   "5 days",
-   "10 days"
+   "१५ दिन",
+   "९ दिन",
+   "५ दिन",
+   "१० दिन"
   ],
   "answer": 0,
   "explanation": "Dashain lasts 15 days.",
@@ -805,10 +805,10 @@
    "3 days"
   ],
   "options_ne": [
-   "5 days",
-   "7 days",
-   "15 days",
-   "3 days"
+   "५ दिन",
+   "७ दिन",
+   "१५ दिन",
+   "३ दिन"
   ],
   "answer": 0,
   "explanation": "Tihar lasts 5 days.",
@@ -841,10 +841,10 @@
    "Lalitpur (Patan)"
   ],
   "options_ne": [
-   "Kathmandu",
-   "Bhaktapur",
-   "Kirtipur",
-   "Lalitpur (Patan)"
+   "काठमाडौं",
+   "भक्तपुर",
+   "कीर्तिपुर",
+   "ललितपुर (पाटन)"
   ],
   "answer": 3,
   "explanation": "The Rato Machhindranath chariot festival is held in Lalitpur (Patan).",
@@ -877,10 +877,10 @@
    "A metal bell"
   ],
   "options_ne": [
-   "A string instrument",
-   "A wind instrument",
-   "A double-headed drum",
-   "A metal bell"
+   "तार बाजा",
+   "सुषिर बाजा",
+   "दुई मुख भएको ढोल",
+   "धातुको घण्टी"
   ],
   "answer": 2,
   "explanation": "The madal is a double-headed drum.",
@@ -913,10 +913,10 @@
    "A wind instrument"
   ],
   "options_ne": [
-   "A string instrument",
-   "A drum",
-   "A bell",
-   "A wind instrument"
+   "तार बाजा",
+   "ढोल",
+   "घण्टी",
+   "सुषिर बाजा"
   ],
   "answer": 0,
   "explanation": "The sarangi is a string instrument.",
@@ -949,10 +949,10 @@
    "Seven"
   ],
   "options_ne": [
-   "Five",
-   "Nine",
-   "Three",
-   "Seven"
+   "पाँच",
+   "नौ",
+   "तीन",
+   "सात"
   ],
   "answer": 0,
   "explanation": "Panche means five: Panche Baja has five instruments.",
@@ -985,10 +985,10 @@
    "Parijat"
   ],
   "options_ne": [
-   "Siddhicharan Shrestha",
-   "Laxmi Prasad Devkota",
-   "Bhanubhakta Acharya",
-   "Parijat"
+   "सिद्धिचरण श्रेष्ठ",
+   "लक्ष्मीप्रसाद देवकोटा",
+   "भानुभक्त आचार्य",
+   "पारिजात"
   ],
   "answer": 1,
   "explanation": "Laxmi Prasad Devkota is known as Maha Kavi.",
@@ -1021,10 +1021,10 @@
    "Muna Madan"
   ],
   "options_ne": [
-   "Seto Bagh",
-   "Pagal Basti",
-   "Shirishko Phool",
-   "Muna Madan"
+   "सेतो बाघ",
+   "पागल बस्ती",
+   "शिरीषको फूल",
+   "मुनामदन"
   ],
   "answer": 2,
   "explanation": "Parijat won the Madan Puraskar for Shirishko Phool.",
@@ -1057,10 +1057,10 @@
    "Gorkhapatra"
   ],
   "options_ne": [
-   "Kantipur",
-   "Samaj",
-   "The Rising Nepal",
-   "Gorkhapatra"
+   "कान्तिपुर",
+   "समाज",
+   "द राइजिङ नेपाल",
+   "गोरखापत्र"
   ],
   "answer": 3,
   "explanation": "Gorkhapatra (1901) was the first newspaper of Nepal.",
@@ -1129,10 +1129,10 @@
    "Gautam Buddha International Airport"
   ],
   "options_ne": [
-   "Biratnagar Airport",
-   "Tribhuvan International Airport",
-   "Pokhara International Airport",
-   "Gautam Buddha International Airport"
+   "विराटनगर विमानस्थल",
+   "त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल",
+   "पोखरा अन्तर्राष्ट्रिय विमानस्थल",
+   "गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थल"
   ],
   "answer": 1,
   "explanation": "Tribhuvan International Airport is in Kathmandu.",
