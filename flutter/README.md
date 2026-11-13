@@ -1,193 +1,132 @@
-# LokSewa Vidyapeeth — Flutter app (Android)
+# Outrank — Flutter app
 
-**LokSewa Vidyapeeth (लोक सेवा विद्यापीठ)** — Nepal's biggest free,
-open-source Lok Sewa exam practice platform, as a native Android app.
-Package `com.raviyadav.loksewa_vidyapeeth`, v1.0.0+1.
+**Outrank** — Nepal's biggest free, open-source
+Lok Sewa exam practice platform, rebuilt as a professional Flutter app:
+**one codebase → Android + iOS + Web.**
+
+This is now THE app codebase going forward. The vanilla HTML/CSS/JS site in
+`../loksewa-prep-nepal/` stays live until this app reaches feature parity.
 
 - 100% free · Open source (MIT) · No login · No ads · **No tracking**
   (no analytics SDKs — that's a feature, not an oversight)
 - Bilingual EN/NE from day one
-- Offline-first: the question bank, exam dates, festivals and historical
-  events ship bundled in the APK
+- Offline-first: the entire question bank ships bundled in `assets/`
 
-This folder lives inside the web repo (`loksewa-prep-nepal`) so the app
-and the website share one data source. The vanilla site in the repo root
-stays live alongside the app.
-
-## Layout
-
-```
-flutter/
-  lib/                  # Dart source (see Architecture below)
-  test/                 # 237 unit/widget tests (flutter test)
-  assets/data/
-    question_index.json # Flutter-only generated index (committed).
-                        # All other data files are copied from ../data/
-                        # at build time — see "Where the data comes from".
-  android/              # Android shell (Gradle, manifest, res XML).
-                        # Launcher PNGs + gradle-wrapper.jar are NOT
-                        # committed — regenerated/downloaded by CI.
-  tools/
-    gen_launcher_icon.py# Draws the launcher icons + splash art
-                        # (amber "लो" on navy) with Pillow.
-  pubspec.yaml  pubspec.lock  analysis_options.yaml  .metadata
-  PLAY_STORE_CHECKLIST.md   # maintainer steps for the Play Store
-  FIREBASE_SETUP.md         # local reminders + optional FCM push
-```
-
-### Architecture
+## Architecture
 
 ```
 lib/
-  main.dart                 # entry, theme wiring, bottom-nav root
-  theme/app_theme.dart      # design system: saffron/indigo, dark+light,
-                            #   4px spacing rhythm, Devanagari-friendly type
-  l10n/*_strings.dart       # hand-rolled EN/NE tables (no intl codegen)
-  models/                   # Question, Exam, ExamDate, CourseChapter —
-                            #   JSON shapes mirror the web bank exactly
-  utils/bs_calendar.dart    # Bikram Sambat engine (anchor 2026-10-31 = 2083-07-14)
-  utils/countdown.dart      # pure countdown maths (DD:HH:MM:SS, pager, states)
+  main.dart            # entry, theme wiring, bottom-nav root
+  theme/app_theme.dart # design system: saffron/indigo, dark+light,
+                       #   4px spacing rhythm, Devanagari-friendly type —
+                       #   ported 1:1 from the vanilla site's CSS tokens
+  l10n/app_strings.dart# hand-rolled EN/NE tables (no intl codegen yet;
+                       #   translators edit one obvious file)
+  models/models.dart   # Question, Exam, ExamDate, CourseChapter —
+                       #   JSON shapes mirror the vanilla bank exactly
+  utils/bs_calendar.dart # Bikram Sambat engine (anchor 2026-10-31 = 2083-07-14)
+  utils/countdown.dart # pure countdown maths (DD:HH:MM:SS, pager, states)
   data/data_repository.dart # asset JSON loaders with in-memory cache
-  state/                    # ChangeNotifiers: language, theme, progress,
-                            #   community, course progress
-  services/                 # NotificationService interface + local backend,
-                            #   reminder scheduler (exam ≤3 days, daily nudge)
-  widgets/                  # app_scaffold, countdown_card, stat_card, …
-  screens/                  # home, practice, quiz, mock, exam dates,
-                            #   courses, dashboard, history, community
+  state/app_state.dart # ChangeNotifier: language, theme, reminders
+                       #   (lean on purpose — no Riverpod/Bloc until earned)
+  services/notifications.dart # NotificationService interface + stub
+  widgets/             # app_scaffold, countdown_card, reminder_banner, …
+  screens/             # home_screen, practice_screen, … (Phase 2 below)
+assets/data/           # exams.json, exam-dates.json, questions/*.json
+test/                  # bs_calendar_test, countdown_test, models_test
 ```
 
-## Where the data comes from
+## How the JSON data maps
 
-The web repo's `../data/` is the **single source of truth**. The app does
-not keep its own copy of the shared files — they are copied into
-`assets/data/` at build time (by CI, or by you locally before a build):
+All data files are shared verbatim with the vanilla site (`../loksewa-prep-nepal/data/`):
 
-| Source (`../data/`) | Copied to | Contents |
+| File | Model | Notes |
 |---|---|---|
-| `exam-dates.json` | `assets/data/exam-dates.json` | 82 exam dates |
-| `exams.json` | `assets/data/exams.json` | 47 exams |
-| `festivals.json` | `assets/data/festivals.json` | 63 festivals |
-| `historical-events.json` | `assets/data/historical-events.json` | 95 historical dates |
-| `questions/*.json` | `assets/data/questions/` | 131 files, 64,671 questions |
-| `courses/*.json` | `assets/data/courses/` | 3 course files |
+| `data/exams.json` | `Exam` | 47 exams; only `id`/`name`/`name_ne` are read |
+| `data/exam-dates.json` | `ExamDate` | 20 verified dates; BS `YYYY-MM-DD` strings |
+| `data/questions/*.json` | `Question` | 131 files, 64,671 questions; `answer` = option index |
+| `data/courses/*.json` | `CourseChapter` | chapter-wise bilingual theory (framework-agnostic) |
 
-`assets/data/question_index.json` is the exception: it is a Flutter-only
-generated index (per-file question counts + exam/topic map) and **is**
-committed with the project. The copied files are git-ignored (see
-`.gitignore`) so a local build never accidentally commits a duplicate of
-the bank.
+Copy new/updated files into `assets/data/` when the bank changes.
+The full bank is ~large; Phase 1 bundles a sample question file, Phase 2
+adds a per-exam file manifest so screens load only what they need.
 
-To build or test locally, copy them first (from the repo root):
+## Run
 
 ```bash
-cp data/exam-dates.json data/exams.json data/festivals.json \
-   data/historical-events.json flutter/assets/data/
-cp -r data/questions data/courses flutter/assets/data/
-```
-
-## Run locally
-
-Prerequisites: Flutter SDK (stable), Android Studio with an Android SDK,
-and a device/emulator (or the OnePlus 11R over USB).
-
-```bash
-cd flutter
 flutter pub get
-flutter analyze        # must be clean (0 issues)
-flutter test           # 237 tests (needs the data files copied in, above)
-flutter run            # debug build on the connected device
+flutter run            # device / emulator
+flutter run -d chrome  # web
+flutter build web --release   # static output for Vercel / GitHub Pages
 ```
 
-Two things a fresh clone is missing (both are binary, so neither is
-committed — see below):
-
-1. **Launcher icons + splash art.** Generate them once:
-   ```bash
-   pip install pillow
-   sudo apt-get install -y fonts-noto-core   # Ubuntu/Debian; provides
-                                             # Noto Sans Devanagari Bold
-   python3 tools/gen_launcher_icon.py
-   ```
-   This draws all 17 PNGs (5 launcher densities, 5 adaptive foregrounds,
-   5 splash images, 2 solid splash backgrounds) from the amber "लो" on
-   navy design. `flutter build` fails without them (the manifest
-   references `@mipmap/ic_launcher`).
-2. **gradle-wrapper.jar.** `flutter build` needs it; download the jar
-   matching `android/gradle/wrapper/gradle-wrapper.properties`
-   (Gradle 9.3.1):
-   ```bash
-   curl -fSL -o android/gradle/wrapper/gradle-wrapper.jar \
-     https://raw.githubusercontent.com/gradle/gradle/v9.3.1/gradle/wrapper/gradle-wrapper.jar
-   ```
-   (Or run `gradle wrapper` if you already have Gradle installed.)
-
-### Debug vs release signing
-
-- **Debug builds** (`flutter run`, `flutter build apk --debug`) use the
-  debug keystore automatically — no setup needed.
-- **Release builds** (`flutter build apk --release`,
-  `flutter build appbundle --release`) read signing from environment
-  variables (see `android/app/build.gradle.kts`):
-  ```bash
-  export KEYSTORE_PATH="$HOME/loksewa-release.jks"
-  export KEYSTORE_PASSWORD="<keystore password>"
-  export KEY_ALIAS=loksewa
-  export KEY_PASSWORD="<key password>"
-  ```
-  Without them, a release build silently falls back to the debug key —
-  fine for local testing, **never** for distribution. Generate the
-  keystore once with `keytool` (see `PLAY_STORE_CHECKLIST.md` step 1)
-  and back it up: losing it means losing Play Store updates. There is
-  no `key.properties` file anymore; do not create one.
-
-## CI — signed release APK
-
-`.github/workflows/flutter-release.yml` (repo root) builds the signed
-release APK on every push to `main` that touches `flutter/**` or
-`data/**`, and on manual dispatch. One job, `ubuntu-latest`:
-
-1. Checks out the repo; sets up Java 17 (Temurin) + Flutter stable.
-2. **Fails fast if the signing secrets are missing** — it never ships a
-   debug-signed "release". Required repository secrets:
-   `ANDROID_KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`, `KEY_ALIAS`,
-   `KEY_PASSWORD`.
-3. Decodes the keystore to `$RUNNER_TEMP/loksewa-release.p12`.
-4. Copies `../data/` → `flutter/assets/data/` and **verifies the counts**
-   (82/47/63/95, 131 question files, 3 course files) — the job fails on
-   any mismatch, so a half-synced bank can never ship.
-5. Generates the launcher icons (`tools/gen_launcher_icon.py`, after
-   installing Pillow + `fonts-noto-core`).
-6. Downloads `gradle-wrapper.jar` (Gradle 9.3.1, checksum-verified) and
-   restores the `+x` bit on `gradlew` (snapshot pushes lose it).
-7. Runs `flutter pub get`, `flutter analyze`, `flutter test`, then
-   `flutter build apk --release` with the signing env vars set.
-8. Publishes `app-release.apk` to the `android-v1.0.0` GitHub release
-   (created or updated), as a direct download — no sign-in needed.
-
-Bump `version: 1.0.0+1` in `pubspec.yaml` for each release, and update
-the release tag in the workflow to match (`android-vX.Y.Z`).
-
-## Platforms
-
-Only **Android** ships from this folder. The `ios/`, `macos/`,
-`windows/`, `linux/` and `web/` platform directories from the original
-standalone project were deliberately omitted: they contain binary assets
-and are not needed for the Android release. They can be regenerated
-later with:
-
-```bash
-flutter create --platforms=ios,macos,windows,linux,web .
-```
-
-(run from this folder; it re-creates the platform shells without
-touching `lib/`). The web build of the app is a separate concern from
-the vanilla site in the repo root, which is what serves
-loksewa-prep-nepal today.
+CI (`.github/workflows/build.yml`): `flutter analyze` + `flutter test` +
+`flutter build web` on every push to main.
 
 ## Push notifications
 
-Exam reminders (exam ≤3 days, daily practice nudge) work locally with
-zero setup via `flutter_local_notifications`. Server push is optional —
-see `FIREBASE_SETUP.md`. No Firebase project exists yet, and none is
-required for what ships today.
+Exam reminders are the killer feature for native apps. The app depends only
+on the `NotificationService` interface (`lib/services/notifications.dart`);
+Phase 1 ships a stub so everything compiles without native plugins.
+
+To go live (needs Ravi's Firebase project — **do not create one on his
+behalf, do not hardcode keys**):
+
+1. Create a Firebase project, add Android / iOS / Web apps, download the
+   config files (`google-services.json`, `GoogleService-Info.plist`).
+2. Add `firebase_core` + `firebase_messaging` to `pubspec.yaml`.
+3. Implement `FcmNotificationService implements NotificationService`
+   (see the documented steps at the bottom of `notifications.dart`).
+4. Swap one line in `main.dart` — screens never touch FCM directly.
+
+For on-device scheduled reminders without a server,
+`flutter_local_notifications` is the lighter alternative.
+
+## Roadmap — Phase 2 port priority
+
+1. **Quiz runner** — practice session: shuffled Q&A, timer, negative marking,
+   instant feedback, bookmarks, wrong-answer review, results screen
+   (mirrors the vanilla practice engine + real cutoffs)
+2. **Mock exams** — exact patterns (Kharidar 50Q/45min etc.), OMR palette,
+   auto-submit, printable paper
+3. **Exam Dates screen** — full list, kind filters, countdown chips
+4. **Courses** — chapter reader, progress rings, "Practice this chapter"
+   deep-links (data is ready: `data/courses/*.json`, 56 chapters)
+5. **Dashboard** — XP, streak, weak-topic analysis, personal records
+6. **FCM push** — real exam-reminder notifications (see above)
+7. **Discussion Hub / Submit-a-Question** — needs the Supabase backend
+   (`../loksewa-prep-nepal/docs/BACKEND.md`); ships after backend exists
+8. **Festival wishes** — greeting card on festival days (same behaviour as
+   the web portal: card + tomorrow teaser + upcoming strip, dismissible per
+   window). Data is ready: `assets/data/festivals.json` (63 verified
+   festivals, Kartik 2083 → Chaitra 2084; Eid al-Fitr / Bakr Eid excluded
+   per user instruction — see `../loksewa-prep-nepal/CONTRIBUTING.md`).
+   Needs the BS calendar window logic ported, not the data.
+9. **Play Store release** — app bundle, store listing, privacy policy
+10. **Historical events / Dates to Remember** — ✅ DONE 2026-11-12:
+    On This Day card on Home (renders nothing on a quiet day), full
+    list with search + category filter + "Quiz me" flashcards, with
+    the web portal's behaviour (only `day_bs` entries recur; dateless
+    entries excluded from quiz; medium-confidence ⚠️ re-verify marks;
+    dates never render "null"). Data: `assets/data/historical-events.json`
+    (95 verified dates; 19 with a BS month/day, 8 year-only in text).
+    The Flutter matcher additionally applies the corrected BS month
+    lengths (a day that doesn't exist in that year's month, e.g.
+    Mangsir 30 in 2083, never matches). Still open: My Day digest
+    merge — waits on the birthday / My Day feature (roadmap item 8).
+
+## Painful-to-port watchlist (flagged early)
+
+- **The 3,804-line vanilla practice/mock engine** (`app.js`) mixes UI,
+  timing, scoring and persistence. Port it as a clean `QuizEngine`
+  (pure Dart, fully unit-tested) *before* building quiz UI — don't port
+  the spaghetti, port the behavior.
+- **localStorage key parity**: keep key names (`loksewa_*_v1`) so users
+  switching between web portal and app don't lose progress where the
+  platforms share storage semantics.
+- **Devanagari shaping on old Android**: system fonts handle it, but test
+  on a real low-end device; the vanilla site's line-height rules
+  (>=1.5 body) are already in `AppType`.
+- **Asset size**: the full question bank as bundled JSON will bloat the
+  APK/IPA. Plan: ship per-exam packs, download-on-demand later, or keep
+  the heavy bank web-only. Decide before the Play Store build.
