@@ -1,11 +1,14 @@
-/// First-launch guided tour (v1.0.7): an interactive coachmark tour
-/// over the real UI.
+/// First-launch guided tour (v1.0.7, 8 steps since v1.0.9): an
+/// interactive coachmark tour over the real UI.
 ///
 /// Each step highlights one real widget — a dim scrim covers everything
 /// except a hole over the target, so the target stays tappable. On
 /// "tap" steps the user's tap on the real button performs the real
 /// action (navigate, pick an exam, start the quiz) AND advances the
-/// tour; on "next" steps a Next button advances.
+/// tour. Every step also has a Next button (v1.0.9): on tap steps Next
+/// performs the step's action programmatically via the registered
+/// action — the same handler the real tap uses — so the tour never
+/// strands the user on a step with no way forward but Skip.
 ///
 /// The tour runs once (SharedPreferences flag `loksewa_tour_done_v1`,
 /// set on skip or completion) and can be replayed from the drawer
@@ -70,13 +73,15 @@ class TourStep {
 }
 
 /// GlobalKeys for the tour's targets. Attached to the real widgets:
-/// the Daily Challenge card, the bottom navigation bar (tab screens
-/// only — one tab screen is mounted at a time, so the key never
-/// duplicates), and the Practice screen's first category tile, first
-/// exam chip, first topic chip and Start button.
+/// the Daily Challenge card, the app-bar language button (Home screen
+/// only), the bottom navigation bar (tab screens only — one tab screen
+/// is mounted at a time, so the key never duplicates), and the Practice
+/// screen's first category tile, first exam chip, first topic chip and
+/// Start button.
 class TourKeys {
   static final GlobalKey dailyChallenge =
       GlobalKey(debugLabel: 'tour_daily');
+  static final GlobalKey langToggle = GlobalKey(debugLabel: 'tour_lang');
   static final GlobalKey bottomNav = GlobalKey(debugLabel: 'tour_bottom_nav');
   static final GlobalKey firstCategory =
       GlobalKey(debugLabel: 'tour_category');
@@ -85,18 +90,26 @@ class TourKeys {
   static final GlobalKey startButton = GlobalKey(debugLabel: 'tour_start');
 }
 
-/// The 7-step first-launch tour.
+/// The 8-step first-launch tour.
 ///
-/// Why 7 and not 5: the Practice screen has no exam-detail sheet —
+/// Why 8 and not 5: the Practice screen has no exam-detail sheet —
 /// exams live in collapsed category sections and the Start button stays
 /// disabled until a topic is picked. So the "select then start" leg
-/// needs its own steps: category -> exam -> topic -> Start.
+/// needs its own steps: category -> exam -> topic -> Start. Step 2
+/// (v1.0.9) guides the language switcher.
 List<TourStep> get defaultTourSteps => [
       TourStep(
         id: 'daily',
         title: (s) => s.tourDailyTitle,
         body: (s) => s.tourDailyBody,
         targetKey: TourKeys.dailyChallenge,
+      ),
+      TourStep(
+        id: 'langToggle',
+        title: (s) => s.tourLangTitle,
+        body: (s) => s.tourLangBody,
+        targetKey: TourKeys.langToggle,
+        advanceOnTap: true,
       ),
       TourStep(
         id: 'dashboardTab',
@@ -153,6 +166,13 @@ class TourController extends ChangeNotifier {
   int _index = 0;
   bool _active = false;
 
+  /// Step actions (v1.0.9): the real handlers the highlighted buttons
+  /// use, registered by the owning screens (RootNav, PracticeScreen,
+  /// AppScaffold) so the tooltip's Next button can perform a tap
+  /// step's action programmatically. Registration is idempotent —
+  /// screens re-register on every build.
+  final Map<String, VoidCallback> _actions = {};
+
   TourController({List<TourStep>? steps})
       : steps = steps ?? defaultTourSteps;
 
@@ -161,6 +181,25 @@ class TourController extends ChangeNotifier {
   int get stepCount => steps.length;
   TourStep? get currentStep =>
       _active && _index < steps.length ? steps[_index] : null;
+
+  void registerAction(String stepId, VoidCallback action) {
+    _actions[stepId] = action;
+  }
+
+  /// Runs the current step's registered action and returns true; false
+  /// when no action is registered for the step (plain Next steps).
+  /// The real handlers advance the tour via [advanceIfOn]; if the step
+  /// is still current afterwards (a guarded handler), advance anyway
+  /// so Next never leaves the tour stuck.
+  bool performCurrentAction() {
+    final step = currentStep;
+    if (step == null) return false;
+    final action = _actions[step.id];
+    if (action == null) return false;
+    action();
+    if (currentStep?.id == step.id) next();
+    return true;
+  }
 
   static Future<bool> isTourDone() async {
     final prefs = await SharedPreferences.getInstance();
@@ -459,9 +498,10 @@ class _DimStrip extends StatelessWidget {
   }
 }
 
-/// The tooltip card: title + body, step indicator, Skip, and either a
-/// Next button or a "tap the highlighted button" hint. A small diamond
-/// points from the card toward the target.
+/// The tooltip card: title + body, step indicator, Skip, and a Next
+/// button on EVERY step (v1.0.9 — on tap steps Next performs the
+/// highlighted action). Tap steps also show a hint line above the
+/// buttons. A small diamond points from the card toward the target.
 class _TourTooltip extends StatelessWidget {
   final TourController controller;
   final TourStep step;
@@ -538,6 +578,29 @@ class _TourTooltip extends StatelessWidget {
             step.body(s),
             style: AppType.body.copyWith(color: palette.text),
           ),
+          if (step.advanceOnTap) ...[
+            const SizedBox(height: AppSpacing.s2),
+            Row(
+              children: [
+                Icon(
+                  Icons.touch_app_outlined,
+                  size: 18,
+                  color: palette.accent,
+                ),
+                const SizedBox(width: AppSpacing.s1),
+                Expanded(
+                  child: Text(
+                    s.tourTapHint,
+                    style: AppType.small.copyWith(
+                      color: palette.muted,
+                    ),
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
+              ],
+            ),
+          ],
           const SizedBox(height: AppSpacing.s3),
           Row(
             children: [
@@ -545,44 +608,22 @@ class _TourTooltip extends StatelessWidget {
                 onPressed: controller.skip,
                 child: Text(s.tourSkip),
               ),
-              const SizedBox(width: AppSpacing.s2),
-              Expanded(
-                child: step.advanceOnTap
-                    ? Row(
-                        mainAxisAlignment: MainAxisAlignment.end,
-                        children: [
-                          Icon(
-                            Icons.touch_app_outlined,
-                            size: 18,
-                            color: palette.accent,
-                          ),
-                          const SizedBox(width: AppSpacing.s1),
-                          Flexible(
-                            child: Text(
-                              s.tourTapHint,
-                              style: AppType.small.copyWith(
-                                color: palette.muted,
-                              ),
-                              textAlign: TextAlign.end,
-                              maxLines: 2,
-                              overflow: TextOverflow.ellipsis,
-                            ),
-                          ),
-                        ],
-                      )
-                    : Align(
-                        alignment: Alignment.centerRight,
-                        child: FilledButton(
-                          onPressed: controller.next,
-                          style: FilledButton.styleFrom(
-                            backgroundColor: palette.accent,
-                            foregroundColor: palette.accentInk,
-                            minimumSize:
-                                const Size(0, AppSpacing.minTap),
-                          ),
-                          child: Text(s.tourNext),
-                        ),
-                      ),
+              const Spacer(),
+              FilledButton(
+                // On tap steps Next performs the highlighted action
+                // (same handler the real tap uses); on plain steps
+                // there is no action, so it just advances.
+                onPressed: () {
+                  if (!controller.performCurrentAction()) {
+                    controller.next();
+                  }
+                },
+                style: FilledButton.styleFrom(
+                  backgroundColor: palette.accent,
+                  foregroundColor: palette.accentInk,
+                  minimumSize: const Size(0, AppSpacing.minTap),
+                ),
+                child: Text(s.tourNext),
               ),
             ],
           ),
