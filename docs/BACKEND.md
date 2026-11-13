@@ -1,4 +1,4 @@
-# BACKEND.md — LokSewa Vidyapeeth: from demo mode to a real backend
+# BACKEND.md — Outrank: from demo mode to a real backend
 
 ## 0. Decision (2026-11-09): Vercel Serverless Functions + Vercel Postgres — for reports, now
 
@@ -278,9 +278,9 @@ select * from public.maintainers;
 ### Google Cloud Console side
 1. [console.cloud.google.com](https://console.cloud.google.com) → create (or pick) a project.
 2. **APIs & Services → OAuth consent screen** → User type **External** → fill app name
-   "LokSewa Vidyapeeth", support email, developer contact email → Save.
+   "Outrank", support email, developer contact email → Save.
 3. **APIs & Services → Credentials → Create Credentials → OAuth client ID** →
-   Application type **Web application** → name "LokSewa Vidyapeeth".
+   Application type **Web application** → name "Outrank".
 4. **Authorized JavaScript origins:** `http://localhost:8000` (local testing) and
    `https://08raviyadav.github.io` (GitHub Pages — adjust to the real Pages URL).
 5. **Authorized redirect URIs:** `https://YOUR-PROJECT-REF.supabase.co/auth/v1/callback`
