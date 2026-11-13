@@ -853,6 +853,11 @@ function showView(id){
   if (id !== 'audio') audioStop();
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
   const el=document.getElementById('view-'+id); if(el) el.classList.add('active');
+  // Print watermark scope: the body-level .print-watermark prints only while
+  // this class is set (printable mock view). Every other view removes it here,
+  // in the single view-switch path, so it can never leak into another print.
+  // Guarded for the Node test sandboxes, whose document stub has no body.
+  if (typeof document !== 'undefined' && document.body) document.body.classList.toggle('has-print-watermark', id === 'print');
   // Active-state sync covers every [data-view] button no matter how it is
   // nested (plain nav, dropdown menu, mobile bar) — the selector is
   // deliberately not scoped to 'nav'.
@@ -3278,12 +3283,13 @@ function renderPrintPaperHtml(){
   const e=examById(printPaper.exam); const p=e.prelim; const qs=printPaper.qs;
   const letters=['A','B','C','D'];
   const negTxt=p.negative==null?B('unverified — check the notice','अपुष्ट — सूचना हेर्नुहोस्'):p.negative===0?B('none','छैन'):Math.round(p.negative*100)+'%';
-  // Watermark rows: tiled diagonally by CSS, print-only (see .print-watermark).
-  const wmText='08raviyadav • OUTRANK';
-  const wmRows=Array.from({length:7},()=>`<div class="wm-row">${(wmText+'&nbsp;&nbsp;&nbsp;').repeat(4)}</div>`).join('');
+  // No watermark here: the single .print-watermark lives as a direct child of
+  // <body> in index.html (a fixed element inside the paper was trapped by
+  // .view.active's transform and printed on one page only). showView() scopes
+  // it to this view with body.has-print-watermark.
   // Site URL for the attribution footer: live origin when available, canonical otherwise.
   const siteUrl=(typeof window!=='undefined'&&window.location&&window.location.origin)?window.location.origin+(window.location.pathname||'/'):'https://08raviyadav.github.io/loksewa-prep-nepal/';
-  let h=`<div class="paper"><div class="print-watermark" aria-hidden="true">${wmRows}</div><div class="no-print" style="margin-bottom:10px"><button class="btn" onclick="window.print()">${B('🖨️ Print paper','🖨️ पेपर प्रिन्ट गर्नुहोस्')}</button> <button class="btn secondary" onclick="printPaper=null;renderPrint()">${B('↺ New paper','↺ नयाँ पेपर')}</button></div>`;
+  let h=`<div class="paper"><div class="no-print" style="margin-bottom:10px"><button class="btn" onclick="window.print()">${B('🖨️ Print paper','🖨️ पेपर प्रिन्ट गर्नुहोस्')}</button> <button class="btn secondary" onclick="printPaper=null;renderPrint()">${B('↺ New paper','↺ नयाँ पेपर')}</button></div>`;
   if(printPaper.short) h+=`<p class="no-print" style="border:1px solid #ea580c;border-radius:8px;padding:10px">⚠️ ${B(`The bank has only ${printPaper.pool} questions tagged for this exam — this paper is shortened to ${qs.length} questions.`,'यस परीक्षाका लागि बैंकमा जम्मा '+printPaper.pool+' प्रश्न मात्र छन् — यो पेपर '+qs.length+' प्रश्नमा छोट्याइएको छ।')}</p>`;
   h+=`<div class="paper-head"><h2>${esc(examName(e))} — ${B('Prelim Practice Paper','प्रिलिम अभ्यास पेपर')}</h2>
   <p><strong>${B('Questions','प्रश्नहरू')}:</strong> ${qs.length} × ${p.marksPerQ} ${B('marks','अङ्क')} = ${qs.length*p.marksPerQ} &nbsp;·&nbsp; <strong>${B('Time','समय')}:</strong> ${p.timeMin==null?B('unverified','अपुष्ट'):p.timeMin+' '+B('min','मिनेट')} &nbsp;·&nbsp; <strong>${B('Pass','उत्तीर्ण')}:</strong> ${p.pass}/${p.total} &nbsp;·&nbsp; <strong>${B('Negative marking','नेगेटिभ मार्किङ')}:</strong> ${negTxt}</p>
