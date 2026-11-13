@@ -2649,10 +2649,10 @@
    "Tansley"
   ],
   "options_ne": [
-   "Odum",
-   "Lindeman",
-   "Elton",
-   "Tansley"
+   "ओडम",
+   "लिन्डेम्यान",
+   "एल्टन",
+   "ट्यान्सले"
   ],
   "answer": 1,
   "explanation": "Raymond Lindeman proposed the 10% law of energy transfer between trophic levels.",
@@ -4721,10 +4721,10 @@
    "Planck"
   ],
   "options_ne": [
-   "Newton",
-   "Einstein",
-   "Bohr",
-   "Planck"
+   "न्युटन",
+   "आइन्स्टाइन",
+   "बोर",
+   "प्लांक"
   ],
   "answer": 1,
   "explanation": "Einstein explained the photoelectric effect using the photon concept.",
@@ -9653,10 +9653,10 @@
    "Special Court"
   ],
   "options_ne": [
-   "High Court",
-   "District Court",
-   "Supreme Court",
-   "Special Court"
+   "उच्च अदालत",
+   "जिल्ला अदालत",
+   "सर्वोच्च अदालत",
+   "विशेष अदालत"
   ],
   "answer": 1,
   "explanation": "The District Court is the court of first instance for most civil cases.",
@@ -10437,10 +10437,10 @@
    "District Court - Supreme Court - High Court"
   ],
   "options_ne": [
-   "Supreme Court - High Court - District Court",
-   "District Court - High Court - Supreme Court",
-   "High Court - District Court - Supreme Court",
-   "District Court - Supreme Court - High Court"
+   "सर्वोच्च अदालत - उच्च अदालत - जिल्ला अदालत",
+   "जिल्ला अदालत - उच्च अदालत - सर्वोच्च अदालत",
+   "उच्च अदालत - जिल्ला अदालत - सर्वोच्च अदालत",
+   "जिल्ला अदालत - सर्वोच्च अदालत - उच्च अदालत"
   ],
   "answer": 1,
   "explanation": "The hierarchy is District Court, High Court, then the Supreme Court.",
