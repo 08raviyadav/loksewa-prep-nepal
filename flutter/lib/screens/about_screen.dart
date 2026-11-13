@@ -87,12 +87,12 @@ class _AboutScreenState extends State<AboutScreen> {
                   ),
                   alignment: Alignment.center,
                   child: Text(
-                    'लो',
+                    'O',
                     style: AppType.h1.copyWith(color: AppColors.of(context).accentInk),
                   ),
                 ),
                 const SizedBox(height: AppSpacing.s3),
-                const Text('LokSewa Vidyapeeth', style: AppType.h2),
+                const Text('Outrank', style: AppType.h2),
                 if (_version != null)
                   Text(
                     '${s.versionLabel} $_version',
@@ -157,7 +157,7 @@ class _AboutScreenState extends State<AboutScreen> {
             title: Text(s.openSourceLicences),
             onTap: () => showLicensePage(
               context: context,
-              applicationName: 'LokSewa Vidyapeeth',
+              applicationName: 'Outrank',
               applicationVersion: _version,
             ),
           ),
