@@ -33,10 +33,10 @@
    "Anopheles mosquito"
   ],
   "options_ne": [
-   "Aedes mosquito",
-   "Sandfly",
-   "Culex mosquito",
-   "Anopheles mosquito"
+   "एडिस लामखुट्टे",
+   "बालुवा कीरा",
+   "क्युलेक्स लामखुट्टे",
+   "एनोफिलिज लामखुट्टे"
   ],
   "answer": 0,
   "explanation": "Dengue is transmitted by the Aedes mosquito.",
@@ -77,10 +77,10 @@
    "Bite of an infected dog"
   ],
   "options_ne": [
-   "Mosquito bite",
-   "Uncooked food",
-   "Contaminated water",
-   "Bite of an infected dog"
+   "लामखुट्टेको टोकाइ",
+   "काँचो खाना",
+   "दूषित पानी",
+   "सङ्क्रमित कुकुरको टोकाइ"
   ],
   "answer": 3,
   "explanation": "Rabies is usually transmitted by the bite of an infected dog.",
@@ -121,10 +121,10 @@
    "Cholera"
   ],
   "options_ne": [
-   "Measles",
-   "Both",
+   "दादुरा",
+   "दुवै",
    "Neither",
-   "Cholera"
+   "हैजा"
   ],
   "answer": 0,
   "explanation": "Measles is a viral disease; cholera is bacterial.",
@@ -165,10 +165,10 @@
    "Bacteria"
   ],
   "options_ne": [
-   "Fungi only",
-   "Allergies",
-   "Viruses",
-   "Bacteria"
+   "ढुसी मात्र",
+   "एलर्जी",
+   "भाइरस",
+   "ब्याक्टेरिया"
   ],
   "answer": 3,
   "explanation": "Antibiotics kill bacteria; they do not kill viruses.",
@@ -297,10 +297,10 @@
    "Immobilise the injured part"
   ],
   "options_ne": [
-   "Apply heat",
-   "Give massage",
-   "Move the limb vigorously",
-   "Immobilise the injured part"
+   "ताप दिनु",
+   "मालिस गर्नु",
+   "अङ्ग जोडले चलाउनु",
+   "घाइते भाग नचलाउनु"
   ],
   "answer": 3,
   "explanation": "A suspected fracture should be immobilised first.",
@@ -341,10 +341,10 @@
    "Anaemia"
   ],
   "options_ne": [
-   "Scurvy",
-   "Goitre",
-   "Rickets",
-   "Anaemia"
+   "स्कर्भी",
+   "गलगाँड",
+   "रिकेट्स",
+   "रक्तअल्पता"
   ],
   "answer": 3,
   "explanation": "Iron deficiency causes anaemia.",
@@ -385,10 +385,10 @@
    "Milk and dairy products"
   ],
   "options_ne": [
-   "Oil",
-   "Rice",
-   "Sugar",
-   "Milk and dairy products"
+   "तेल",
+   "चामल",
+   "चिनी",
+   "दूध तथा दुग्धजन्य पदार्थ"
   ],
   "answer": 3,
   "explanation": "Milk and dairy products are rich in calcium.",
@@ -429,10 +429,10 @@
    "Calcium"
   ],
   "options_ne": [
-   "Iron",
-   "Blood sugar (glucose)",
-   "Cholesterol",
-   "Calcium"
+   "फलाम",
+   "रक्त चिनी (ग्लुकोज)",
+   "कोलेस्ट्रोल",
+   "क्याल्सियम"
   ],
   "answer": 1,
   "explanation": "Diabetes is high blood sugar (glucose).",
@@ -473,10 +473,10 @@
    "High blood sugar"
   ],
   "options_ne": [
-   "High blood pressure",
-   "High fever",
-   "Low blood pressure",
-   "High blood sugar"
+   "उच्च रक्तचाप",
+   "उच्च ज्वरो",
+   "निम्न रक्तचाप",
+   "उच्च रक्त चिनी"
   ],
   "answer": 0,
   "explanation": "Hypertension means high blood pressure.",
@@ -519,10 +519,10 @@
    "Dental caries (tooth decay)"
   ],
   "options_ne": [
-   "Gum bleeding only",
-   "Bad breath only",
-   "Tooth sensitivity only",
-   "Dental caries (tooth decay)"
+   "गिजाबाट रगत आउनु मात्र",
+   "मुख गन्हाउनु मात्र",
+   "दाँत सिरिङ्ङ हुनु मात्र",
+   "दन्त क्षय (दाँत कुहिनु)"
   ],
   "answer": 3,
   "explanation": "Fluoride helps prevent dental caries.",
@@ -564,10 +564,10 @@
    "Amsler chart"
   ],
   "options_ne": [
-   "Jaeger chart",
-   "Ishihara chart",
-   "Snellen chart",
-   "Amsler chart"
+   "जेगर चार्ट",
+   "इशिहारा चार्ट",
+   "स्नेलन चार्ट",
+   "एम्सलर चार्ट"
   ],
   "answer": 2,
   "explanation": "The Snellen chart tests visual acuity.",
@@ -609,10 +609,10 @@
    "Snellen chart"
   ],
   "options_ne": [
-   "Amsler chart",
-   "Jaeger chart",
-   "Ishihara chart",
-   "Snellen chart"
+   "एम्सलर चार्ट",
+   "जेगर चार्ट",
+   "इशिहारा चार्ट",
+   "स्नेलन चार्ट"
   ],
   "answer": 2,
   "explanation": "The Ishihara chart tests colour vision.",
@@ -654,10 +654,10 @@
    "Cornea"
   ],
   "options_ne": [
-   "Iris",
-   "Lens",
-   "Retina",
-   "Cornea"
+   "आइरिस",
+   "लेन्स",
+   "रेटिना",
+   "कोर्निया"
   ],
   "answer": 1,
   "explanation": "Cataract is clouding of the eye's lens.",
@@ -699,10 +699,10 @@
    "Ageing of the eye"
   ],
   "options_ne": [
-   "Vitamin deficiency",
-   "Injury",
-   "Infection",
-   "Ageing of the eye"
+   "भिटामिनको कमी",
+   "चोट",
+   "सङ्क्रमण",
+   "आँखा बूढो हुनु"
   ],
   "answer": 3,
   "explanation": "Presbyopia is the age-related loss of near focusing ability.",
@@ -762,10 +762,10 @@
    "Radiation only"
   ],
   "options_ne": [
-   "Exercise and physical methods",
-   "Medicines only",
-   "Surgery",
-   "Radiation only"
+   "व्यायाम र शारीरिक विधिहरू",
+   "औषधि मात्र",
+   "शल्यक्रिया",
+   "विकिरण मात्र"
   ],
   "answer": 0,
   "explanation": "Physiotherapy uses exercise and physical methods.",
@@ -888,10 +888,10 @@
    "Becquerel, 1896"
   ],
   "options_ne": [
-   "Curie, 1898",
-   "Roentgen, 1901",
-   "Roentgen, 1895",
-   "Becquerel, 1896"
+   "क्युरी, १८९८",
+   "रेन्टजेन, १९०१",
+   "रेन्टजेन, १८९५",
+   "बेक्वेरेल, १८९६"
   ],
   "answer": 2,
   "explanation": "Wilhelm Roentgen discovered X-rays in 1895.",
@@ -951,10 +951,10 @@
    "Cotton gown"
   ],
   "options_ne": [
-   "Plastic sheet",
-   "Rubber gloves only",
-   "Lead apron",
-   "Cotton gown"
+   "प्लास्टिकको पाना",
+   "रबरका पञ्जा मात्र",
+   "सिसाको एप्रन",
+   "सुती गाउन"
   ],
   "answer": 2,
   "explanation": "A lead apron protects against X-ray radiation.",
@@ -1014,10 +1014,10 @@
    "X-rays"
   ],
   "options_ne": [
-   "Gamma rays",
-   "Sound waves only",
-   "Magnetic fields and radio waves",
-   "X-rays"
+   "गामा किरण",
+   "ध्वनि तरङ्ग मात्र",
+   "चुम्बकीय क्षेत्र र रेडियो तरङ्ग",
+   "एक्स-रे"
   ],
   "answer": 2,
   "explanation": "MRI uses magnetic fields and radio waves, not X-rays.",
@@ -1077,10 +1077,10 @@
    "A painkiller"
   ],
   "options_ne": [
-   "A disinfectant",
-   "A contrast medium",
-   "A sedative",
-   "A painkiller"
+   "निस्संक्रामक",
+   "कन्ट्रास्ट माध्यम",
+   "निद्रा लाग्ने औषधि",
+   "दुखाइ कम गर्ने औषधि"
   ],
   "answer": 1,
   "explanation": "Barium is a contrast medium used to outline the digestive tract.",
@@ -1122,10 +1122,10 @@
    "Subcutaneous route"
   ],
   "options_ne": [
-   "Oral route",
-   "Intramuscular route",
-   "Intravenous route",
-   "Subcutaneous route"
+   "मौखिक मार्ग",
+   "अन्तःपेशी मार्ग",
+   "अन्तःशिरा मार्ग",
+   "छालामुनि मार्ग"
   ],
   "answer": 0,
   "explanation": "Medicines taken by mouth use the oral route.",
@@ -1169,7 +1169,7 @@
   "options_ne": [
    "Inverse Volume",
    "Intra-Viral",
-   "Intravenous",
+   "अन्तःशिरा",
    "Internal Ventilation"
   ],
   "answer": 2,
@@ -1212,10 +1212,10 @@
    "Reducing fever"
   ],
   "options_ne": [
-   "Killing intestinal worms",
-   "Cleaning wounds and preventing infection",
-   "Lowering blood pressure",
-   "Reducing fever"
+   "आन्द्राको जुका मार्नु",
+   "घाउ सफा गर्नु र सङ्क्रमण रोक्नु",
+   "रक्तचाप घटाउनु",
+   "ज्वरो घटाउनु"
   ],
   "answer": 1,
   "explanation": "Antiseptics clean wounds and prevent infection.",
@@ -1257,10 +1257,10 @@
    "Near a stove"
   ],
   "options_ne": [
-   "In a cool, dry place away from children",
-   "In direct sunlight",
-   "In a damp bathroom",
-   "Near a stove"
+   "बच्चाबाट टाढा चिसो, सुख्खा ठाउँमा",
+   "प्रत्यक्ष घाममा",
+   "ओसिलो बाथरुममा",
+   "चुलो नजिक"
   ],
   "answer": 0,
   "explanation": "Medicines should be stored cool, dry and away from children.",
@@ -1303,10 +1303,10 @@
    "Siddha"
   ],
   "options_ne": [
-   "Ayurveda",
-   "Homeopathy",
-   "Unani",
-   "Siddha"
+   "आयुर्वेद",
+   "होमियोप्याथी",
+   "युनानी",
+   "सिद्ध"
   ],
   "answer": 0,
   "explanation": "Charaka Samhita is a foundational text of Ayurveda.",
@@ -1349,10 +1349,10 @@
    "Yoga only"
   ],
   "options_ne": [
-   "Astrology",
-   "Ayurveda",
-   "Unani",
-   "Yoga only"
+   "ज्योतिषशास्त्र",
+   "आयुर्वेद",
+   "युनानी",
+   "योग मात्र"
   ],
   "answer": 1,
   "explanation": "Dhanvantari is regarded as the god of Ayurveda.",
