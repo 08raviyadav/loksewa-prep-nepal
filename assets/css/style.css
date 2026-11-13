@@ -538,9 +538,21 @@ th{background:var(--card-2);font-weight:700}
   .audio-controls .btn{flex:1 1 45%}
 }
 
+/* Print watermark + attribution (printable mock): the watermark is hidden on
+   screen and shown only in @media print below; the attribution footer prints
+   at the bottom of the paper and is also visible on screen. */
+.print-watermark{display:none}
+.paper-attribution{margin-top:18px;padding-top:10px;border-top:1px solid var(--border);text-align:center;font-size:.8rem;color:var(--muted)}
+.paper-attribution p{margin:2px 0}
+
 /* ---------- 23. Print — only the paper prints ---------- */
 @media print{
   header,footer,nav.mobile-nav,#confetti-layer,.no-print{display:none!important}
+  /* Watermark: fixed repeats on EVERY printed page in Chrome; light orange
+     so the questions stay readable. print-color-adjust forces it to print. */
+  .print-watermark{display:flex!important;position:fixed;inset:0;flex-direction:column;justify-content:space-evenly;pointer-events:none;z-index:1;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .print-watermark .wm-row{transform:rotate(-30deg);white-space:nowrap;font-size:30px;font-weight:800;letter-spacing:.04em;color:rgba(234,88,12,.10);text-align:center}
+  .paper-attribution{border-top:1px solid #999;color:#333}
   :root{
     --bg:#fff;--bg2:#fff;--card:#fff;--card-2:#fff;
     --text:#111;--muted:#333;--faint:#666;--border:#999;--border-soft:#bbb;
