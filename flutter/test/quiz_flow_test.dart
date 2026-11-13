@@ -55,8 +55,12 @@ Question _q(String id, int answer) => Question(
       source: 'test',
     );
 
-Future<void> _pumpQuiz(WidgetTester tester) async {
-  SharedPreferences.setMockInitialValues({});
+Future<void> _pumpQuiz(
+  WidgetTester tester, {
+  String lang = 'en', // flow tests pin English (default is Nepali, v1.0.9)
+  bool nepali = false, // quiz-config language flag (v1.0.9)
+}) async {
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': lang});
   final state = AppState();
   await state.init();
   final questions = [_q('Q1', 0), _q('Q2', 1), _q('Q3', 2)];
@@ -70,7 +74,11 @@ Future<void> _pumpQuiz(WidgetTester tester) async {
         builder: (context, _) => MaterialApp(
           theme: buildAppTheme(),
           home: QuizScreen(
-            config: QuizConfig(questions: questions, examId: 'kharidar'),
+            config: QuizConfig(
+              questions: questions,
+              examId: 'kharidar',
+              nepali: nepali,
+            ),
             meta: const QuizMeta(
               examName: 'Kharidar',
               cutoff: 45,
@@ -130,6 +138,40 @@ void main() {
     // Result screen: percentage shown, and counts add up (1 correct,
     // 1 wrong, 1 skipped).
     expect(find.textContaining('%'), findsWidgets);
+  });
+
+  testWidgets('Nepali mode shows options_ne and localized chips', (
+    WidgetTester tester,
+  ) async {
+    // v1.0.9: the engine shuffles options_ne when the quiz starts in
+    // Nepali mode — this locks in the behaviour the v1.0.10 data fix
+    // (translating the ~981 untranslated options_ne) builds on.
+    await _pumpQuiz(tester, lang: 'ne', nepali: true);
+    // Devanagari options (shuffled, all four present), no English ones.
+    expect(find.text('१'), findsOneWidget);
+    expect(find.text('२'), findsOneWidget);
+    expect(find.text('३'), findsOneWidget);
+    expect(find.text('४'), findsOneWidget);
+    expect(find.text('1'), findsNothing);
+    // Localized chips: Mathematics -> गणित, easy -> सजिलो.
+    expect(find.text('गणित'), findsOneWidget);
+    expect(find.text('सजिलो'), findsOneWidget);
+    expect(find.text('Mathematics'), findsNothing);
+    expect(find.text('easy'), findsNothing);
+    // Nepali question text.
+    expect(find.text('Q1 के हो?'), findsOneWidget);
+  });
+
+  testWidgets('English mode shows English options and chips', (
+    WidgetTester tester,
+  ) async {
+    await _pumpQuiz(tester, lang: 'en', nepali: false);
+    expect(find.text('1'), findsOneWidget);
+    expect(find.text('१'), findsNothing);
+    expect(find.text('Mathematics'), findsOneWidget);
+    expect(find.text('easy'), findsOneWidget);
+    expect(find.text('गणित'), findsNothing);
+    expect(find.text('सजिलो'), findsNothing);
   });
 
   testWidgets('result screen share button shares the score + app link', (
