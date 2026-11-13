@@ -96,7 +96,7 @@ check('github title carries the type + short description', url.includes(encodeUR
 check('github body carries the description', url.includes(encodeURIComponent('The mock timer keeps running after submit.')));
 check('github URL contains no reporter name (no PII)', !url.includes('Guest'));
 check('github URL contains no page URL', !url.includes('github.io') && !url.includes('vercel.app'));
-check('github URL carries the app version', url.includes(encodeURIComponent('LokSewa Vidyapeeth (web, beta)')));
+check('github URL carries the app version', url.includes(encodeURIComponent('Outrank (web, beta)')));
 const tricky = t.buildGithubIssueUrl({ type: 'wrong-info', description: 'Fix A & B? #test <tag>', context: { view: 'practice' }, comment: '' });
 check('github URL encodes & ? # < >', !tricky.includes('A & B') && tricky.includes('A%20%26%20B') && tricky.includes('%23test') && tricky.includes('%3Ctag%3E'));
 check('reportOnGithub opens the URL once', (() => { opened.length = 0; const u = t.reportOnGithub(store()[0].id); return u === url && opened.length === 1 && opened[0] === url; })());
