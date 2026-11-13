@@ -7,8 +7,10 @@ enum AppLang { en, ne }
 
 extension AppLangX on AppLang {
   String get code => this == AppLang.en ? 'en' : 'ne';
+  // v1.0.9: Nepali is the default — only an explicitly saved 'en'
+  // picks English (a missing/unknown code means Nepali).
   static AppLang fromCode(String? code) =>
-      code == 'ne' ? AppLang.ne : AppLang.en;
+      code == 'en' ? AppLang.en : AppLang.ne;
 }
 
 class AppStrings {
