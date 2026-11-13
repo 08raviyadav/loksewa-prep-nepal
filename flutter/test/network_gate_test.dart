@@ -15,7 +15,7 @@ Future<void> _pumpGate(
   WidgetTester tester, {
   required Future<bool> Function() checkInternet,
 }) async {
-  SharedPreferences.setMockInitialValues({});
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
   final state = AppState();
   await state.init();
   await tester.pumpWidget(
