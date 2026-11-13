@@ -44,17 +44,17 @@ void main() async {
   await appState.init();
   await ProgressStore.instance; // warm the progress store
   await rescheduleAll(); // M7: arm exam reminders + daily nudge (no-op on web)
-  runApp(AppStateScope(state: appState, child: const VidyapeethApp()));
+  runApp(AppStateScope(state: appState, child: const OutrankApp()));
 }
 
-class VidyapeethApp extends StatefulWidget {
-  const VidyapeethApp({super.key});
+class OutrankApp extends StatefulWidget {
+  const OutrankApp({super.key});
 
   @override
-  State<VidyapeethApp> createState() => _VidyapeethAppState();
+  State<OutrankApp> createState() => _OutrankAppState();
 }
 
-class _VidyapeethAppState extends State<VidyapeethApp> {
+class _OutrankAppState extends State<OutrankApp> {
   // First-launch tour (v1.0.7): one controller for the whole app.
   final _tourController = TourController();
 
@@ -72,7 +72,7 @@ class _VidyapeethAppState extends State<VidyapeethApp> {
       builder: (context, _) => TourScope(
         controller: _tourController,
         child: MaterialApp(
-          title: 'LokSewa Vidyapeeth',
+          title: 'Outrank',
           debugShowCheckedModeBanner: false,
           theme: buildAppTheme(),
           darkTheme: buildDarkTheme(),
