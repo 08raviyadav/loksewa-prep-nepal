@@ -781,7 +781,7 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
 }
 
 /// OMR-style question palette: grid of numbered buttons — answered green,
-/// current blue, flagged yellow, unanswered grey. Tap jumps to the
+/// current blue, flagged orange, unanswered grey. Tap jumps to the
 /// question (vanilla `jumpTo`).
 class _PaletteCard extends StatelessWidget {
   final MockSession session;
@@ -792,7 +792,7 @@ class _PaletteCard extends StatelessWidget {
   Color _bg(PaletteState st) => switch (st) {
         PaletteState.answered => AppColors.greenSoft,
         PaletteState.current => AppColors.blueSoft,
-        PaletteState.flagged => const Color(0x33F59E0B),
+        PaletteState.flagged => const Color(0x33EA580C),
         PaletteState.unanswered => AppColors.card2,
       };
 
