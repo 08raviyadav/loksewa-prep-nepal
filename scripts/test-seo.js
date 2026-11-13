@@ -1,6 +1,7 @@
 /* SEO basics + print watermark checks: robots/sitemap files, index.html meta +
-   JSON-LD + analytics beacon, og-image PNG, printable mock watermark and
-   attribution footer (rendered through the real renderPrintPaperHtml).
+   JSON-LD + analytics beacon, og-image PNG, body-level print watermark in
+   index.html, and the printable mock attribution footer (rendered through
+   the real renderPrintPaperHtml — the paper itself must NOT emit a watermark).
    Node, no deps. Usage: node scripts/test-seo.js */
 const fs = require('fs'), path = require('path'), vm = require('vm');
 const root = path.join(__dirname, '..');
@@ -46,6 +47,12 @@ check('index.html has absolute twitter:image', html.includes('<meta name="twitte
 const kw = (html.match(/<meta name="keywords" content="([^"]*)">/) || [])[1] || '';
 check('keywords include Nepali + Roman search terms', kw.includes('लोक सेवा तयारी') && kw.includes('kharidar tayari') && kw.includes('psc nepal'), kw.slice(0, 60) + '…');
 check('index.html has the Cloudflare beacon with a real 32-hex token', html.includes("src='https://static.cloudflareinsights.com/beacon.min.js'") && html.includes("type='module'") && /"token": "[0-9a-f]{32}"/.test(html) && !html.includes('__CLOUDFLARE_TOKEN__'));
+// 3b. index.html — body-level print watermark (direct child of <body>, before
+// every app container, so position:fixed repeats it on every printed page)
+const wmPos = html.indexOf('class="print-watermark"');
+check('index.html has the body-level watermark before <header>', wmPos > html.indexOf('<body>') && wmPos < html.indexOf('<header>'), 'pos ' + wmPos);
+check('watermark is aria-hidden', html.includes('<div class="print-watermark" aria-hidden="true">'));
+check('watermark tiles 7 rows of the GitHub ID + brand', (html.match(/class="wm-row"/g) || []).length === 7 && (html.match(/08raviyadav • OUTRANK/g) || []).length === 28, (html.match(/class="wm-row"/g) || []).length + ' rows, ' + (html.match(/08raviyadav • OUTRANK/g) || []).length + ' repeats');
 
 // 4. og-image.png — valid PNG, 1200x630, sane size
 const ogPath = path.join(root, 'assets/og-image.png');
@@ -74,8 +81,9 @@ runInApp('printPaper={exam:"kharidar",qs:[{id:"Q1",question:"What is 2+2?",optio
 const paper = renderPrintPaperHtml();
 check('paper still renders its questions', paper.includes('What is 2+2?') && paper.includes('Capital of Nepal?'));
 check('paper still has the OMR sheet + answer key', paper.includes('omr-page') && paper.includes('key-page'));
-check('paper has the print-watermark element', paper.includes('class="print-watermark"'));
-check('watermark tiles 7 rows of the GitHub ID + brand', (paper.match(/class="wm-row"/g) || []).length === 7 && (paper.match(/08raviyadav • OUTRANK/g) || []).length === 28);
+check('paper no longer emits its own watermark (single body-level copy)', !paper.includes('print-watermark') && !paper.includes('wm-row'));
+check('showView toggles the has-print-watermark body class on the print view', /document\.body\.classList\.toggle\('has-print-watermark',\s*id\s*===\s*'print'\)/.test(src));
+check('body-class toggle is guarded for the test sandbox (no body)', src.includes("document.body) document.body.classList.toggle('has-print-watermark'"));
 check('paper has the attribution footer', paper.includes('class="paper-attribution"'));
 check('attribution has the Nepali line', paper.includes('यो पेपर Outrank बाट उत्पन्न गरिएको हो'));
 check('attribution names the GitHub ID + copyright', paper.includes('github.com/08raviyadav') && paper.includes('© 2026 Ravi Yadav'));
@@ -89,7 +97,9 @@ check('attribution uses the live site origin when available', renderPrintPaperHt
 const css = fs.readFileSync(path.join(root, 'assets/css/style.css'), 'utf8');
 check('style.css hides the watermark on screen', /\.print-watermark\{display:none\}/.test(css));
 const printBlock = (css.match(/@media print\{([\s\S]*?)\n\}/) || [])[1] || '';
-check('print CSS shows the watermark fixed (repeats every page)', printBlock.includes('.print-watermark') && printBlock.includes('position:fixed'));
+check('print CSS shows the watermark fixed (repeats every page)', printBlock.includes('body.has-print-watermark .print-watermark') && printBlock.includes('position:fixed'));
+check('print CSS scopes the watermark to the print view body class', printBlock.includes('body.has-print-watermark .print-watermark') && !/^\s*\.print-watermark\{display:flex/m.test(printBlock));
+check('print CSS distributes the watermark rows across the full page', printBlock.includes('justify-content:space-evenly') && printBlock.includes('inset:0'));
 check('print CSS forces the watermark colours to print', printBlock.includes('print-color-adjust:exact'));
 check('print CSS rotates the watermark rows', printBlock.includes('rotate(-30deg)'));
 check('print CSS keeps the paper-only rule', printBlock.includes('#view-print{display:block!important}'));
