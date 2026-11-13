@@ -28,10 +28,10 @@
    "Bromine"
   ],
   "options_ne": [
-   "Helium",
-   "Lithium",
-   "Hydrogen",
-   "Bromine"
+   "हेलियम",
+   "लिथियम",
+   "हाइड्रोजन",
+   "ब्रोमिन"
   ],
   "answer": 3,
   "explanation": "Br is the chemical symbol of Bromine.",
@@ -106,10 +106,10 @@
    "Hydrogen"
   ],
   "options_ne": [
-   "Platinum",
-   "Lithium",
-   "Helium",
-   "Hydrogen"
+   "प्लेटिनम",
+   "लिथियम",
+   "हेलियम",
+   "हाइड्रोजन"
   ],
   "answer": 0,
   "explanation": "Pt is the chemical symbol of Platinum.",
@@ -184,10 +184,10 @@
    "Helium"
   ],
   "options_ne": [
-   "Lithium",
-   "Hydrogen",
-   "Nickel",
-   "Helium"
+   "लिथियम",
+   "हाइड्रोजन",
+   "निकल",
+   "हेलियम"
   ],
   "answer": 2,
   "explanation": "Ni is the chemical symbol of Nickel.",
@@ -400,10 +400,10 @@
    "Jupiter"
   ],
   "options_ne": [
-   "Venus",
-   "Saturn",
-   "Mars",
-   "Jupiter"
+   "शुक्र",
+   "शनि",
+   "मङ्गल",
+   "बृहस्पति"
   ],
   "answer": 1,
   "explanation": "Saturn is famous for its rings.",
@@ -436,10 +436,10 @@
    "Neptune"
   ],
   "options_ne": [
-   "Saturn",
-   "Jupiter",
-   "Uranus",
-   "Neptune"
+   "शनि",
+   "बृहस्पति",
+   "युरेनस",
+   "नेप्च्युन"
   ],
   "answer": 3,
   "explanation": "Neptune is the farthest planet from the Sun.",
@@ -472,10 +472,10 @@
    "Two"
   ],
   "options_ne": [
-   "Zero",
+   "शून्य",
    "One",
-   "Three",
-   "Two"
+   "तीन",
+   "दुई"
   ],
   "answer": 1,
   "explanation": "Earth has one natural satellite, the Moon.",
@@ -511,10 +511,10 @@
    "Newton (N)"
   ],
   "options_ne": [
-   "Joule (J)",
-   "Watt (W)",
-   "Coulomb (C)",
-   "Newton (N)"
+   "जुल (J)",
+   "वाट (W)",
+   "कुलम्ब (C)",
+   "न्युटन (N)"
   ],
   "answer": 2,
   "explanation": "The SI unit of charge is Coulomb (C).",
@@ -664,10 +664,10 @@
    "Vitamin E"
   ],
   "options_ne": [
-   "Vitamin C",
-   "Vitamin A",
-   "Vitamin K",
-   "Vitamin E"
+   "भिटामिन सी",
+   "भिटामिन ए",
+   "भिटामिन के",
+   "भिटामिन ई"
   ],
   "answer": 2,
   "explanation": "Vitamin K helps blood to clot.",
@@ -1048,10 +1048,10 @@
    "Have no effect"
   ],
   "options_ne": [
-   "Repel each other",
-   "Cancel each other",
-   "Attract each other",
-   "Have no effect"
+   "एकअर्कालाई धकेल्छन्",
+   "एकअर्कालाई रद्द गर्छन्",
+   "एकअर्कालाई आकर्षित गर्छन्",
+   "कुनै असर गर्दैन"
   ],
   "answer": 0,
   "explanation": "Like magnetic poles repel each other.",
@@ -1084,10 +1084,10 @@
    "Nitrogen"
   ],
   "options_ne": [
-   "Carbon dioxide",
-   "Oxygen",
-   "Helium",
-   "Nitrogen"
+   "कार्बन डाइअक्साइड",
+   "अक्सिजन",
+   "हेलियम",
+   "नाइट्रोजन"
   ],
   "answer": 1,
   "explanation": "Humans need oxygen for breathing.",
@@ -1120,10 +1120,10 @@
    "Isaac Newton"
   ],
   "options_ne": [
-   "Albert Einstein",
-   "Kepler",
-   "Galileo Galilei",
-   "Isaac Newton"
+   "अल्बर्ट आइन्स्टाइन",
+   "केप्लर",
+   "ग्यालिलियो ग्यालिली",
+   "आइज्याक न्युटन"
   ],
   "answer": 3,
   "explanation": "Isaac Newton proposed the laws of motion.",
@@ -1156,10 +1156,10 @@
    "John Dalton"
   ],
   "options_ne": [
-   "Henry Moseley",
-   "Dmitri Mendeleev",
-   "Niels Bohr",
-   "John Dalton"
+   "हेनरी मोजले",
+   "दिमित्री मेन्डेलिभ",
+   "निल्स बोर",
+   "जोन डाल्टन"
   ],
   "answer": 1,
   "explanation": "Dmitri Mendeleev proposed the periodic table.",
@@ -1192,10 +1192,10 @@
    "Mendel and Morgan"
   ],
   "options_ne": [
-   "Darwin and Wallace",
-   "Watson and Crick",
-   "Hooke and Leeuwenhoek",
-   "Mendel and Morgan"
+   "डार्विन र वालेस",
+   "वाट्सन र क्रिक",
+   "हुक र लिउवेनहोक",
+   "मेन्डेल र मोर्गन"
   ],
   "answer": 1,
   "explanation": "Watson and Crick described the double helix of DNA in 1953.",
