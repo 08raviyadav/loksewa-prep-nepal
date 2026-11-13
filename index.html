@@ -26,6 +26,14 @@
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+<!-- Print watermark (printable mock only): a DIRECT child of <body> so
+     position:fixed repeats it on every printed page — an ancestor with a
+     transform would trap it (that is what happened inside #view-print:
+     .view.active's viewIn animation leaves transform:translateY(0) on it
+     forever, so the watermark printed once instead of repeating). Shown in
+     print only while body.has-print-watermark is set by showView('print');
+     never visible on screen. -->
+<div class="print-watermark" aria-hidden="true"><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div><div class="wm-row">08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;08raviyadav • OUTRANK&nbsp;&nbsp;&nbsp;</div></div>
 <header><div class="nav">
 <a class="logo" href="#" onclick="showView('home');return false">🇳🇵 Outrank <span class="beta-badge">BETA</span> <span>लोक सेवा परीक्षा तयारी</span></a>
 <nav aria-label="Main navigation">
