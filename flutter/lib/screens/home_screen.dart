@@ -1,9 +1,13 @@
+import 'dart:async';
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 
 import '../data/data_repository.dart';
 import '../models/course.dart';
 import '../models/history.dart';
 import '../models/models.dart';
+import '../onboarding/tour.dart';
 import '../state/course_progress_store.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_scaffold.dart';
@@ -48,10 +52,84 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   late final Future<_HomeData> _future;
 
+  // Tour (v1.0.7): on a small screen the Daily Challenge card can sit
+  // just below the fold, so when the tour reaches step 1 this screen
+  // scrolls the card into view (same pattern as PracticeScreen).
+  final _scrollCtrl = ScrollController();
+  TourController? _tour;
+  int _scrollToken = 0;
+
   @override
   void initState() {
     super.initState();
     _future = _load();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    final tour = TourScope.of(context);
+    if (tour != _tour) {
+      _tour?.removeListener(_onTourStep);
+      _tour = tour;
+      _tour?.addListener(_onTourStep);
+    }
+  }
+
+  @override
+  void dispose() {
+    _tour?.removeListener(_onTourStep);
+    _scrollCtrl.dispose();
+    super.dispose();
+  }
+
+  void _onTourStep() {
+    if (_tour?.currentStep?.id == 'daily') {
+      _scrollIntoView(TourKeys.dailyChallenge, 'daily');
+    }
+  }
+
+  /// Scrolls the tour target into view, retrying until it exists or
+  /// the tour moves on. The list may not be built yet when the step
+  /// becomes active (data still loading), so a fixed small retry count
+  /// would give up too early — the step check bounds the loop instead.
+  ///
+  /// The scroll steps down one viewport at a time with [jumpTo]
+  /// (synchronous — no animation future to await): jumping straight to
+  /// the end can overshoot a mid-list target and leave it unbuilt above
+  /// the viewport. Once the target exists, [Scrollable.ensureVisible]
+  /// glides it into view (fire-and-forget — the overlay tracks the
+  /// target's rect every frame, so the highlight follows the scroll).
+  Future<void> _scrollIntoView(GlobalKey key, String stepId) async {
+    final token = ++_scrollToken;
+    for (var attempt = 0; attempt < 40; attempt++) {
+      if (attempt > 0) {
+        await Future<void>.delayed(const Duration(milliseconds: 100));
+      }
+      if (!mounted || token != _scrollToken) return;
+      if (_tour?.currentStep?.id != stepId) return;
+      final ctx = key.currentContext;
+      if (ctx != null && ctx.mounted) {
+        unawaited(
+          Scrollable.ensureVisible(
+            ctx,
+            duration: const Duration(milliseconds: 300),
+          ),
+        );
+        return;
+      }
+      // Not built yet (below the fold in the lazy list): step down so
+      // the lazy builder creates the next chunk, then retry.
+      if (_scrollCtrl.hasClients) {
+        final pos = _scrollCtrl.position;
+        final next = math.min(
+          pos.pixels + pos.viewportDimension,
+          pos.maxScrollExtent,
+        );
+        if (next == pos.pixels) return; // at the end; target can't exist
+        _scrollCtrl.jumpTo(next);
+      }
+    }
   }
 
   Future<_HomeData> _load() async {
@@ -70,6 +148,7 @@ class _HomeScreenState extends State<HomeScreen> {
       title: s.appName,
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
+      bottomNavKey: TourKeys.bottomNav,
       body: FutureBuilder<_HomeData>(
         future: _future,
         builder: (context, snap) {
@@ -83,6 +162,7 @@ class _HomeScreenState extends State<HomeScreen> {
           }
           final data = snap.data!;
           return ListView(
+            controller: _scrollCtrl,
             children: [
               ReminderBanner(dates: data.dates),
               _Hero(
