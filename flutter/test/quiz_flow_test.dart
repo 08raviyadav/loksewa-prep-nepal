@@ -68,7 +68,7 @@ Future<void> _pumpQuiz(WidgetTester tester) async {
       child: AnimatedBuilder(
         animation: state,
         builder: (context, _) => MaterialApp(
-          theme: buildDarkTheme(),
+          theme: buildAppTheme(),
           home: QuizScreen(
             config: QuizConfig(questions: questions, examId: 'kharidar'),
             meta: const QuizMeta(
