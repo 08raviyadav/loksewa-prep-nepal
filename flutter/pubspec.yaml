@@ -1,7 +1,7 @@
 name: loksewa_vidyapeeth
-description: LokSewa Vidyapeeth — Nepal's biggest free, open-source Lok Sewa exam practice platform. Flutter (Android, iOS, Web) from one codebase.
+description: Outrank — Nepal's biggest free, open-source Lok Sewa exam practice platform. Flutter (Android, iOS, Web) from one codebase.
 publish_to: "none"
-version: 1.0.10+11
+version: 1.0.11+12
 
 environment:
   sdk: ^3.4.0
@@ -39,7 +39,7 @@ flutter:
 # NOTE: the source PNG (assets/icon/app_icon.png) is NOT in this repo — the
 # snapshot push flow rejects binary files. Launcher icons + splash art are
 # regenerated at build time by tools/gen_launcher_icon.py (same design:
-# orange "लो" on white, Noto Sans Devanagari Bold). The config below
+# orange "O" on white, Noto Sans Bold). The config below
 # is kept as the design record (colours, source) — do not run
 # flutter_launcher_icons / flutter_native_splash against it without
 # restoring the source PNG first.
