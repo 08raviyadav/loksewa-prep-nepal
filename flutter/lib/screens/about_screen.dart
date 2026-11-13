@@ -83,12 +83,12 @@ class _AboutScreenState extends State<AboutScreen> {
                   height: 72,
                   decoration: const BoxDecoration(
                     shape: BoxShape.circle,
-                    gradient: AppColors.heroGradient,
+                    color: AppColors.accent,
                   ),
                   alignment: Alignment.center,
                   child: Text(
                     'लो',
-                    style: AppType.h1.copyWith(color: AppColors.accent),
+                    style: AppType.h1.copyWith(color: AppColors.accentInk),
                   ),
                 ),
                 const SizedBox(height: AppSpacing.s3),
