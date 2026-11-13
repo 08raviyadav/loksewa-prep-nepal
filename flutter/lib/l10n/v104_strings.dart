@@ -9,8 +9,8 @@ extension V104Strings on AppStrings {
   // --- network gate (v1.0.4) ---
   String get noInternetTitle => t('No internet connection', 'इन्टरनेट छैन');
   String get noInternetBody => t(
-        'LokSewa Vidyapeeth needs an internet connection to open. Check your connection and try again.',
-        'लोक सेवा विद्यापीठ खोल्न इन्टरनेट चाहिन्छ। तपाईंको इन्टरनेट जाँचेर फेरि प्रयास गर्नुहोस्।',
+        'Outrank needs an internet connection to open. Check your connection and try again.',
+        'Outrank खोल्न इन्टरनेट चाहिन्छ। तपाईंको इन्टरनेट जाँचेर फेरि प्रयास गर्नुहोस्।',
       );
   String get retryLabel => t('Retry', 'फेरि प्रयास');
   String get connectingLabel => t('Connecting…', 'जोडिँदै…');
@@ -58,7 +58,7 @@ extension V104Strings on AppStrings {
   // --- invite friends (v1.0.4) ---
   String get inviteTitle => t('Invite friends', 'साथीहरूलाई निम्त्याउनुहोस्');
   String get inviteMessage => t(
-        "I'm preparing for Lok Sewa exams with LokSewa Vidyapeeth — free practice questions, mock exams and exam dates. Join me!\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk",
-        'म लोक सेवा विद्यापीठबाट लोक सेवा परीक्षाको तयारी गर्दैछु — निःशुल्क अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। मसँग जोडिनुहोस्!\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        "I'm preparing for Lok Sewa exams with Outrank — free practice questions, mock exams and exam dates. Join me!\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk",
+        'म Outrank बाट लोक सेवा परीक्षाको तयारी गर्दैछु — निःशुल्क अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। मसँग जोडिनुहोस्!\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
       );
 }
