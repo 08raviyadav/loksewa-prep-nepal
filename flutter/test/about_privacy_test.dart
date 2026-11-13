@@ -34,7 +34,7 @@ Future<void> _pump(WidgetTester tester, Widget screen) async {
       AppStateScope(
         state: state,
         child: MaterialApp(
-          theme: buildDarkTheme(),
+          theme: buildAppTheme(),
           home: screen,
         ),
       ),
