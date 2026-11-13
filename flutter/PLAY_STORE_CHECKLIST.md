@@ -1,4 +1,4 @@
-# Play Store Checklist — LokSewa Vidyapeeth
+# Play Store Checklist — Outrank
 
 Everything only **you** can do, in order. Nothing here needs me.
 
@@ -17,20 +17,13 @@ keytool -genkey -v -keystore ~/loksewa-release.jks \
 
 ## 2. Wire the keystore into the build (~2 min)
 
-Release signing reads **environment variables** — there is no
-`key.properties` file anymore. Export them in your shell before building
-(or put them in `~/.bashrc` / `~/.zshrc`):
-
 ```bash
-export KEYSTORE_PATH="$HOME/loksewa-release.jks"
-export KEYSTORE_PASSWORD="<keystore password>"
-export KEY_ALIAS=loksewa
-export KEY_PASSWORD="<key password>"
+cp android/key.properties.example android/key.properties
+# then edit android/key.properties with your real passwords + the
+# absolute path to ~/loksewa-release.jks
 ```
 
-Without these, a release build falls back to the **debug** keystore (fine
-for local testing, never for the store). CI uses the same variables from
-GitHub Actions secrets — see `.github/workflows/flutter-release.yml`.
+`android/key.properties` is git-ignored — it never leaves your machine.
 
 ## 3. Build the release bundle (~3 min)
 
@@ -44,18 +37,14 @@ Upload file: `build/app/outputs/bundle/release/app-release.aab`
 
 1. Go to [play.google.com/console](https://play.google.com/console),
    pay the one-time $25 developer fee, create the app:
-   **LokSewa Vidyapeeth**, package `com.raviyadav.loksewa_vidyapeeth`.
+   **Outrank**, package `com.raviyadav.loksewa_vidyapeeth`.
 2. Upload the `.aab` to **Testing → Internal testing** first — install it
    on your own phone from the Play Store link and tap through: quiz,
-   mock, exam dates, courses, dashboard. (The signed release APK from
-   GitHub Releases is the same build, signed with the same key — good
-   for a quick install check before the store upload.)
-3. Fill in the store listing: use the 1024×1024 icon produced by
-   `python3 tools/gen_launcher_icon.py --store-icon app-icon-1024.png`
-   (downscale it to 512×512 for the store's icon slot — the
-   generator's master is square 1024×1024), add 2–3 phone screenshots,
-   short + full description (EN + NE), content rating questionnaire,
-   privacy policy URL.
+   mock, exam dates, courses, dashboard. (The debug APK from CI is
+   unsigned — only good for smoke tests, never for the store.)
+3. Fill in the store listing: use `assets/icon/app_icon.png` (1024×1024)
+   as the icon, add 2–3 phone screenshots, short + full description
+   (EN + NE), content rating questionnaire, privacy policy URL.
    The app collects **zero** data — say so in the Data Safety form
    (no location, no identifiers, no analytics).
 4. Roll out to **Production** when the internal test feels solid.
