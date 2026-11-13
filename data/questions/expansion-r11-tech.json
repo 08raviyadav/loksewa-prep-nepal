@@ -31,10 +31,10 @@
    "Non-volatile (permanent)"
   ],
   "options_ne": [
-   "External only",
-   "Optical",
-   "Volatile (temporary)",
-   "Non-volatile (permanent)"
+   "बाह्य मात्र",
+   "अप्टिकल",
+   "वाष्पशील (अस्थायी)",
+   "अवाष्पशील (स्थायी)"
   ],
   "answer": 2,
   "explanation": "RAM is volatile: its contents are lost when power goes off.",
@@ -73,10 +73,10 @@
    "Optical"
   ],
   "options_ne": [
-   "External only",
-   "Non-volatile (permanent)",
-   "Volatile (temporary)",
-   "Optical"
+   "बाह्य मात्र",
+   "अवाष्पशील (स्थायी)",
+   "वाष्पशील (अस्थायी)",
+   "अप्टिकल"
   ],
   "answer": 1,
   "explanation": "ROM is non-volatile: it keeps its contents without power.",
@@ -787,10 +787,10 @@
    "Radio waves only"
   ],
   "options_ne": [
-   "Sound",
-   "Electric current only",
-   "Light",
-   "Radio waves only"
+   "ध्वनि",
+   "विद्युत धारा मात्र",
+   "प्रकाश",
+   "रेडियो तरङ्ग मात्र"
   ],
   "answer": 2,
   "explanation": "Fibre optics carry signals as pulses of light.",
@@ -913,10 +913,10 @@
    "Mobile internet"
   ],
   "options_ne": [
-   "Video calls",
-   "Analogue voice calls",
-   "Digital SMS",
-   "Mobile internet"
+   "भिडियो कल",
+   "एनालग भ्वाइस कल",
+   "डिजिटल SMS",
+   "मोबाइल इन्टरनेट"
   ],
   "answer": 1,
   "explanation": "1G was analogue voice.",
@@ -955,10 +955,10 @@
    "Fourth-angle projection"
   ],
   "options_ne": [
-   "Third-angle projection",
-   "Second-angle projection",
-   "First-angle projection",
-   "Fourth-angle projection"
+   "तृतीय-कोण प्रक्षेपण",
+   "द्वितीय-कोण प्रक्षेपण",
+   "प्रथम-कोण प्रक्षेपण",
+   "चतुर्थ-कोण प्रक्षेपण"
   ],
   "answer": 2,
   "explanation": "First-angle projection is standard in Nepal and under ISO.",
@@ -997,10 +997,10 @@
    "Nepal"
   ],
   "options_ne": [
-   "India",
+   "भारत",
    "USA",
-   "Germany",
-   "Nepal"
+   "जर्मनी",
+   "नेपाल"
   ],
   "answer": 1,
   "explanation": "Third-angle projection is mainly used in the USA.",
@@ -1039,9 +1039,9 @@
    "One"
   ],
   "options_ne": [
-   "Six",
-   "Two",
-   "Three (front, top, side)",
+   "छ",
+   "दुई",
+   "तीन (अगाडि, माथि, छेउ)",
    "One"
   ],
   "answer": 2,
@@ -1081,10 +1081,10 @@
    "Drawing horizontal lines"
   ],
   "options_ne": [
-   "Drawing circles",
-   "Drawing vertical lines only",
-   "Measuring angles",
-   "Drawing horizontal lines"
+   "वृत्त कोर्नु",
+   "ठाडा रेखा मात्र कोर्नु",
+   "कोण नाप्नु",
+   "तेर्सा रेखा कोर्नु"
   ],
   "answer": 3,
   "explanation": "A T-square is used to draw horizontal lines.",
@@ -1123,10 +1123,10 @@
    "Protractor"
   ],
   "options_ne": [
-   "Set square",
-   "Divider",
-   "Compass",
-   "Protractor"
+   "सेट स्क्वायर",
+   "डिभाइडर",
+   "कम्पास",
+   "प्रोट्र्याक्टर"
   ],
   "answer": 1,
   "explanation": "A divider transfers distances.",
@@ -1165,10 +1165,10 @@
    "Curves"
   ],
   "options_ne": [
-   "Circles",
-   "Ellipses",
-   "Angles in multiples of 15 degrees",
-   "Curves"
+   "वृत्तहरू",
+   "दीर्घवृत्तहरू",
+   "१५ डिग्रीका गुणाङ्कमा कोणहरू",
+   "वक्रहरू"
   ],
   "answer": 2,
   "explanation": "The two set squares together draw angles in multiples of 15 degrees.",
@@ -1207,10 +1207,10 @@
    "Thick continuous lines"
   ],
   "options_ne": [
-   "Dashed (hidden) lines",
-   "Centre lines",
-   "Dimension lines",
-   "Thick continuous lines"
+   "ड्यास (लुकेका) रेखाहरू",
+   "केन्द्र रेखाहरू",
+   "नाप रेखाहरू",
+   "बाक्लो निरन्तर रेखाहरू"
   ],
   "answer": 0,
   "explanation": "Hidden edges are shown with dashed lines.",
@@ -1249,10 +1249,10 @@
    "Wavy lines"
   ],
   "options_ne": [
-   "Dashed thick lines",
-   "Thick continuous lines",
-   "Long chain thin lines",
-   "Wavy lines"
+   "बाक्लो ड्यास रेखाहरू",
+   "बाक्लो निरन्तर रेखाहरू",
+   "लामो चेन पातलो रेखाहरू",
+   "तरङ्गित रेखाहरू"
   ],
   "answer": 2,
   "explanation": "Centre lines are long chain thin lines.",
@@ -1501,10 +1501,10 @@
    "Title, scale, drawing number and author"
   ],
   "options_ne": [
-   "Only the scale",
-   "Only colours",
-   "Only the title",
-   "Title, scale, drawing number and author"
+   "स्केल मात्र",
+   "रङ मात्र",
+   "शीर्षक मात्र",
+   "शीर्षक, स्केल, ड्रइङ नम्बर र लेखक"
   ],
   "answer": 3,
   "explanation": "The title block contains title, scale, drawing number and author.",
@@ -1585,10 +1585,10 @@
    "Very faint construction lines only"
   ],
   "options_ne": [
-   "Very dark shading only",
-   "Medium general-purpose lines",
-   "Coloured lines",
-   "Very faint construction lines only"
+   "धेरै गाढा छायाँ मात्र",
+   "मध्यम सामान्य-उद्देश्य रेखाहरू",
+   "रङ्गीन रेखाहरू",
+   "धेरै हल्का निर्माण रेखाहरू मात्र"
   ],
   "answer": 1,
   "explanation": "HB is a medium pencil for general drawing lines.",
