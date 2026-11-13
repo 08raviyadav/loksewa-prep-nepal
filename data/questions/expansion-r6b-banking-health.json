@@ -1855,10 +1855,10 @@
    "John Maynard Keynes"
   ],
   "options_ne": [
-   "David Ricardo",
-   "Adam Smith",
-   "Karl Marx",
-   "John Maynard Keynes"
+   "डेभिड रिकार्डो",
+   "एडम स्मिथ",
+   "कार्ल मार्क्स",
+   "जोन मेनार्ड केन्स"
   ],
   "answer": 1,
   "explanation": "Adam Smith wrote 'The Wealth of Nations' (1776), the foundation of modern economics.",
@@ -2485,10 +2485,10 @@
    "Adam Smith"
   ],
   "options_ne": [
-   "Alfred Marshall",
-   "John Maynard Keynes",
-   "Karl Marx",
-   "Adam Smith"
+   "अल्फ्रेड मार्शल",
+   "जोन मेनार्ड केन्स",
+   "कार्ल मार्क्स",
+   "एडम स्मिथ"
   ],
   "answer": 3,
   "explanation": "Adam Smith introduced the 'invisible hand' — self-interest guiding markets to benefit society.",
@@ -2755,10 +2755,10 @@
    "David Ricardo"
   ],
   "options_ne": [
-   "John Maynard Keynes",
-   "Karl Marx",
-   "Adam Smith",
-   "David Ricardo"
+   "जोन मेनार्ड केन्स",
+   "कार्ल मार्क्स",
+   "एडम स्मिथ",
+   "डेभिड रिकार्डो"
   ],
   "answer": 3,
   "explanation": "David Ricardo developed the law of comparative advantage, the basis of free trade theory.",
@@ -8568,10 +8568,10 @@
    "Kolkata (India)"
   ],
   "options_ne": [
-   "Chennai",
-   "Chittagong",
-   "Mumbai",
-   "Kolkata (India)"
+   "चेन्नई",
+   "चटगाँव",
+   "मुम्बई",
+   "कोलकाता (भारत)"
   ],
   "answer": 3,
   "explanation": "Kolkata is the main port for Nepal's third-country trade.",
