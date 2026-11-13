@@ -10,6 +10,7 @@ import 'package:share_plus/share_plus.dart';
 import '../../engine/quiz_engine.dart';
 import '../../gamification/result_slangs.dart';
 import '../../l10n/quiz_strings.dart';
+import '../../l10n/topic_names.dart';
 import '../../models/models.dart';
 import '../../state/progress_store.dart';
 import '../../theme/app_theme.dart';
@@ -61,6 +62,8 @@ class ResultScreen extends StatelessWidget {
       mode: 'practice',
       examId: config.examId,
       reviewMistakes: config.reviewMistakes,
+      // v1.0.9: keep the original quiz's language.
+      nepali: config.nepali,
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
@@ -81,6 +84,8 @@ class ResultScreen extends StatelessWidget {
       mode: 'practice',
       examId: config.examId,
       reviewMistakes: config.reviewMistakes,
+      // v1.0.9: keep the original quiz's language.
+      nepali: config.nepali,
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
@@ -317,11 +322,13 @@ class ResultScreen extends StatelessWidget {
                               ),
                             ),
                             TextSpan(
+                              // v1.0.9: topic names follow the app
+                              // language (Nepali in Nepali mode).
                               text: best
                                   .take(3)
                                   .map(
                                     (e) =>
-                                        '${e.key} ${e.value.correct}/${e.value.total}',
+                                        '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
                                   )
                                   .join(' · ')
                                   .ifEmpty('—'),
@@ -345,7 +352,7 @@ class ResultScreen extends StatelessWidget {
                                   .take(3)
                                   .map(
                                     (e) =>
-                                        '${e.key} ${e.value.correct}/${e.value.total}',
+                                        '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
                                   )
                                   .join(' · ')
                                   .ifEmpty('—'),
