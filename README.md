@@ -1,6 +1,6 @@
-# 🇳🇵 LokSewa Vidyapeeth — लोक सेवा विद्यापीठ · लोक सेवा तयारी
+# 🇳🇵 Outrank — Lok Sewa Exam Preparation · लोक सेवा परीक्षा तयारी
 
-**LokSewa Vidyapeeth (लोक सेवा विद्यापीठ — Sanskrit-rooted name, "seat of learning" for Nepal's public-service exams) — free, open-source, offline-first exam preparation for Nepal government exams — like Indiabix, made for Nepal.**
+**Outrank — free, open-source, offline-first Lok Sewa exam preparation for Nepal government exams — like Indiabix, made for Nepal.**
 
 Practice for **Lok Sewa Aayog (PSC)** — Kharidar, Nayab Subba, Section Officer — **Shikshak Sewa Aayog (TSC)**, **Nepal Rastra Bank**, **RBB / NBL / ADBL**, **Nepal Police / APF**, **Nepal Army**, **Health** and **Engineering** services, plus **licence exams** — NMC (MBBS/BDS), NNC Nursing & Midwifery, NHPC (HA, Lab, Radiography, Physiotherapy, Public Health, Optometry, Dental, Ayurveda), NPC Pharmacy, Staff Nurse (PSC) and the NAMC Ayurveda / ANM guides — plus **entrance exams** MECEE-BL, NEC licence, Nepal Bar Council, BSc CSIT and IOE (guide-only, mixed-mark paper). **64,671 MCQs across 47 exams** (33 with a mock — 32 timed, TSC Licence untimed — and 14 guide-only — see below). No login required, no fees, no ads, no tracking. Your progress never leaves your device — unless you choose to sign in (demo mode for now; real Google sign-in via Supabase is planned — see [docs/BACKEND.md](docs/BACKEND.md)).
 
