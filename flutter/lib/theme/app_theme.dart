@@ -2,54 +2,41 @@ import 'package:flutter/material.dart';
 
 /// LokSewa Vidyapeeth design system.
 ///
-/// Ported 1:1 from the vanilla site's CSS custom properties
+/// Minimal white + orange, mirroring the web portal's tokens
 /// (loksewa-prep-nepal/assets/css/style.css §1 "Design tokens") so the
-/// Flutter app and the web portal share one visual identity:
-/// saffron brand family on deep indigo/slate, dark default + light theme,
-/// 4px spacing rhythm, 44px minimum tap targets.
+/// Flutter app and the web portal share one visual identity: white
+/// surfaces, warm stone borders, one orange brand family. Single light
+/// theme — no dark mode, no gradients. 4px spacing rhythm, 44px minimum
+/// tap targets.
 class AppColors {
-  // --- dark (default) ---
-  static const bg = Color(0xFF0F172A);
-  static const bg2 = Color(0xFF16213A);
-  static const card = Color(0xFF1E293B);
-  static const card2 = Color(0xFF273449);
-  static const text = Color(0xFFF1F5F9);
-  static const muted = Color(0xFF94A3B8);
-  static const faint = Color(0xFF64748B);
-  static const border = Color(0xFF334155);
-  static const borderSoft = Color(0xFF2A3A52);
+  // --- surfaces ---
+  static const bg = Color(0xFFFFFFFF);
+  static const bg2 = Color(0xFFFFFFFF);
+  static const card = Color(0xFFFFFFFF);
+  static const card2 = Color(0xFFF5F5F4);
+  static const text = Color(0xFF111827);
+  static const muted = Color(0xFF6B7280);
+  static const faint = Color(0xFF9CA3AF);
+  static const border = Color(0xFFE7E5E4);
+  static const borderSoft = Color(0xFFF5F5F4);
 
-  // --- light ---
-  static const lightBg = Color(0xFFF1F5F9);
-  static const lightBg2 = Color(0xFFFFFFFF);
-  static const lightCard = Color(0xFFFFFFFF);
-  static const lightCard2 = Color(0xFFEEF2F7);
-  static const lightText = Color(0xFF0F172A);
-  static const lightMuted = Color(0xFF475569);
-  static const lightFaint = Color(0xFF94A3B8);
+  // --- brand: orange family ---
+  static const accent = Color(0xFFEA580C);
+  static const accentStrong = Color(0xFFF97316);
+  static const accentDeep = Color(0xFFC2410C);
+  static const accentInk = Color(0xFFFFFFFF);
+  static const accentSoft = Color(0x14EA580C); // ~8%
+  static const accentLine = Color(0x59EA580C); // ~35%
 
-  // --- brand: saffron family (shared) ---
-  static const accent = Color(0xFFF59E0B);
-  static const accentStrong = Color(0xFFFBBF24);
-  static const accentDeep = Color(0xFFB45309);
-  static const accentInk = Color(0xFF1A1207);
-  static const accentSoft = Color(0x21F59E0B); // ~13%
-  static const accentLine = Color(0x61F59E0B); // ~38%
-
-  // --- semantic (shared) ---
-  static const green = Color(0xFF22C55E);
-  static const greenSoft = Color(0x2122C55E);
-  static const danger = Color(0xFFEF4444);
-  static const dangerSoft = Color(0x1FEF4444);
-  static const blue = Color(0xFF3B82F6);
-  static const blueSoft = Color(0x293B82F6);
-  static const indigo = Color(0xFF818CF8);
-
-  static const heroGradient = LinearGradient(
-    begin: Alignment.topLeft,
-    end: Alignment.bottomRight,
-    colors: [Color(0xFF1E1B4B), Color(0xFF0F172A), Color(0xFF3B0764)],
-  );
+  // --- semantic ---
+  static const green = Color(0xFF16A34A);
+  static const greenSoft = Color(0x1A16A34A);
+  static const danger = Color(0xFFDC2626);
+  static const dangerSoft = Color(0x14DC2626);
+  // Blue is functional, not brand: exam-date "later" chips and the mock
+  // palette's "current question" state.
+  static const blue = Color(0xFF2563EB);
+  static const blueSoft = Color(0x142563EB);
 }
 
 /// Spacing rhythm — 4px base, mirrors --sp-* tokens.
@@ -112,15 +99,15 @@ class AppType {
   );
 }
 
-ThemeData buildDarkTheme() {
+ThemeData buildAppTheme() {
   final scheme = ColorScheme.fromSeed(
     seedColor: AppColors.accent,
-    brightness: Brightness.dark,
+    brightness: Brightness.light,
     surface: AppColors.card,
   );
   return ThemeData(
     useMaterial3: true,
-    brightness: Brightness.dark,
+    brightness: Brightness.light,
     scaffoldBackgroundColor: AppColors.bg,
     colorScheme: scheme.copyWith(
       primary: AppColors.accent,
@@ -143,7 +130,7 @@ ThemeData buildDarkTheme() {
     ),
     bottomNavigationBarTheme: const BottomNavigationBarThemeData(
       backgroundColor: AppColors.bg2,
-      selectedItemColor: AppColors.accent,
+      selectedItemColor: AppColors.accentDeep,
       unselectedItemColor: AppColors.muted,
     ),
     textTheme: const TextTheme(
@@ -156,52 +143,5 @@ ThemeData buildDarkTheme() {
       bodySmall: AppType.small,
       labelSmall: AppType.tiny,
     ).apply(bodyColor: AppColors.text, displayColor: AppColors.text),
-  );
-}
-
-ThemeData buildLightTheme() {
-  final scheme = ColorScheme.fromSeed(
-    seedColor: AppColors.accentDeep,
-    brightness: Brightness.light,
-    surface: AppColors.lightCard,
-  );
-  return ThemeData(
-    useMaterial3: true,
-    brightness: Brightness.light,
-    scaffoldBackgroundColor: AppColors.lightBg,
-    colorScheme: scheme.copyWith(
-      primary: AppColors.accentDeep,
-      onPrimary: Colors.white,
-      surface: AppColors.lightCard,
-      onSurface: AppColors.lightText,
-    ),
-    appBarTheme: const AppBarTheme(
-      backgroundColor: AppColors.lightBg2,
-      foregroundColor: AppColors.lightText,
-      elevation: 0,
-    ),
-    cardTheme: CardThemeData(
-      color: AppColors.lightCard,
-      elevation: 0,
-      shape: RoundedRectangleBorder(
-        borderRadius: AppRadius.mdAll,
-        side: const BorderSide(color: Color(0xFFE2E8F0)),
-      ),
-    ),
-    bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-      backgroundColor: AppColors.lightBg2,
-      selectedItemColor: AppColors.accentDeep,
-      unselectedItemColor: AppColors.lightMuted,
-    ),
-    textTheme: const TextTheme(
-      displayLarge: AppType.display,
-      headlineMedium: AppType.h1,
-      titleLarge: AppType.h2,
-      titleMedium: AppType.h3,
-      bodyLarge: AppType.lead,
-      bodyMedium: AppType.body,
-      bodySmall: AppType.small,
-      labelSmall: AppType.tiny,
-    ).apply(bodyColor: AppColors.lightText, displayColor: AppColors.lightText),
   );
 }
