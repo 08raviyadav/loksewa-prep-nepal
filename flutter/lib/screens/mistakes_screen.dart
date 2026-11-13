@@ -103,6 +103,8 @@ class _MistakesScreenState extends State<MistakesScreen> {
             negRate: 0.2,
             examId: '',
             reviewMistakes: true,
+            // v1.0.9: options render in the language the quiz starts in.
+            nepali: AppStateScope.of(context).isNe,
           ),
           meta: QuizMeta(
             examName: examName,
