@@ -36,6 +36,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../data/data_repository.dart';
 import '../gamification/analytics.dart';
 import '../l10n/dashboard_strings.dart';
+import '../onboarding/tour.dart';
 import '../state/progress_store.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_scaffold.dart';
@@ -133,6 +134,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
       title: s.navDashboard,
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
+      bottomNavKey: TourKeys.bottomNav,
       body: FutureBuilder<_DashData>(
         future: _future,
         builder: (context, snap) {
