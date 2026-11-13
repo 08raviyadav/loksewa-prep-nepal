@@ -1,7 +1,7 @@
 # Signed release APK for the LokSewa Vidyapeeth Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.5` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.6` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,24 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.5
+      - name: Publish to GitHub Release android-v1.0.6
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.5
-          name: LokSewa Vidyapeeth Android v1.0.5
+          tag_name: android-v1.0.6
+          name: LokSewa Vidyapeeth Android v1.0.6
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.5 (Android).
+            Signed release APK for LokSewa Vidyapeeth v1.0.6 (Android).
 
-            What's new: a full visual redesign — minimal white + orange,
-            matching the website. The dark navy theme and gradients are
-            gone; every screen is now clean white with one orange brand
-            colour, and the app icon is orange "लो" on white. No feature
-            changes in this release — same questions, mocks, Daily
-            Challenge and My Mistakes, just a fresh look.
+            What's new: dark mode is back. Tap the moon/sun button in the
+            top bar to switch — light white + orange stays the default,
+            and dark is the same orange on a clean charcoal background
+            (no navy, no purple, no gradients). Your choice is remembered.
+            No feature changes in this release.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.4 as an update (same signature).
+            Installs over v1.0.5 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
