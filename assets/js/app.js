@@ -1,4 +1,4 @@
-/* LokSewa Vidyapeeth — vanilla JS, zero dependencies.
+/* Outrank — vanilla JS, zero dependencies.
    Scoring: score = correct*marks - wrong*marks*0.20 ; skipped = 0. Rounded to 1 decimal. */
 'use strict';
 const QUESTION_FILES = [
@@ -454,7 +454,7 @@ function buildShareText(r){
   // r: {examName, mode, score, max, pct, passed, date, speedBonus}
   const modeLabel = r.mode === 'mock' ? 'mock exam' : r.mode === 'speed' ? 'Speed Round' : 'practice set';
   const bonus = r.speedBonus ? ` (+${r.speedBonus} speed bonus)` : '';
-  return `🏆 I scored ${r.score}/${r.max} (${r.pct}%) on the ${r.examName} ${modeLabel}${bonus} — ${r.passed ? 'PASS ✅' : 'keep practising 💪'} · ${r.date} · LokSewa Vidyapeeth`;
+  return `🏆 I scored ${r.score}/${r.max} (${r.pct}%) on the ${r.examName} ${modeLabel}${bonus} — ${r.passed ? 'PASS ✅' : 'keep practising 💪'} · ${r.date} · Outrank`;
 }
 function shareScore(){
   const c = current; if (!c || !c._res) return '';
@@ -860,7 +860,7 @@ function showView(id){
   // Dynamic <title>: brand first, then the English view name.
   if (typeof document !== 'undefined' && document){
     const vt = VIEW_TITLES[id];
-    document.title = vt ? 'LokSewa Vidyapeeth — ' + vt : 'LokSewa Vidyapeeth';
+    document.title = vt ? 'Outrank — ' + vt : 'Outrank';
   }
   window.scrollTo({top:0, behavior: prefersReducedMotion() ? 'auto' : 'smooth'}); if(id==='dashboard') renderDashboard(); if(id==='guide') renderGuide(); if(id==='review') renderReview();
   if(id==='mock') renderMockBest(); if(id==='home'){ renderWeekly(); renderFocusTimer(); renderFunFact(); renderQotd(); renderExamReminder(); renderFestivalCard(); if (typeof renderBirthdayCard === 'function') renderBirthdayCard(); renderHistoryOtd(); renderNextExamCard(); renderContinueStudying(); if (typeof renderBetaBanner === 'function') renderBetaBanner(); checkExamNotifications(); }
@@ -2642,7 +2642,7 @@ function isFactualQuestion(t){ return FACT_RES.some(re => re.test(t)); }
 
 // Compact intent -> response tables, both languages.
 const CHAT_EN = {
-  welcome: 'Namaste! 🙏 I\'m the on-device helper for Lok Sewa Prep Nepal — a rule-based assistant, not real AI. I can explain how to use this portal, find the right exam, mock and topics for you, and share study tips. I never invent exam facts: for factual questions I point you to practice topics instead. What would you like to know?',
+  welcome: 'Namaste! 🙏 I\'m the on-device helper for Outrank — a rule-based assistant, not real AI. I can explain how to use this portal, find the right exam, mock and topics for you, and share study tips. I never invent exam facts: for factual questions I point you to practice topics instead. What would you like to know?',
   demo: 'Local preview —', demoText: 'chat history stays on this device only (localStorage).',
   helper: 'On-device helper — rule-based, not real AI',
   helperText: 'It runs entirely in your browser with no network calls and no API keys. It only knows this portal — it never invents exam facts; factual questions are routed to practice topics.',
@@ -2678,7 +2678,7 @@ const CHAT_EN = {
   },
 };
 const CHAT_NE = {
-  welcome: 'नमस्ते! 🙏 म लोक सेवा तयारी नेपालको अन-डिभाइस सहायक हुँ — नियममा आधारित सहायक, वास्तविक AI होइन। म यो पोर्टल कसरी प्रयोग गर्ने भनेर बताउन सक्छु, तपाईंको परीक्षा, मक र विषय खोज्न सक्छु, अनि अध्ययन सुझाव दिन सक्छु। म तथ्य अनुमान गरेर उत्तर दिन्नँ — तथ्यात्मक प्रश्नमा अभ्यास विषयतर्फ पठाउँछु। के जान्न चाहनुहुन्छ?',
+  welcome: 'नमस्ते! 🙏 म Outrank को अन-डिभाइस सहायक हुँ — नियममा आधारित सहायक, वास्तविक AI होइन। म यो पोर्टल कसरी प्रयोग गर्ने भनेर बताउन सक्छु, तपाईंको परीक्षा, मक र विषय खोज्न सक्छु, अनि अध्ययन सुझाव दिन सक्छु। म तथ्य अनुमान गरेर उत्तर दिन्नँ — तथ्यात्मक प्रश्नमा अभ्यास विषयतर्फ पठाउँछु। के जान्न चाहनुहुन्छ?',
   demo: 'स्थानीय पूर्वावलोकन —', demoText: 'च्याट इतिहास यो डिभाइसमा मात्र रहन्छ (localStorage)।',
   helper: 'अन-डिभाइस सहायक — नियममा आधारित, वास्तविक AI होइन',
   helperText: 'यो तपाईंको ब्राउजरमै चल्छ — कुनै नेटवर्क कल छैन, कुनै API key छैन। यसले यो पोर्टल मात्र चिन्छ — तथ्य अनुमान गर्दैन; तथ्यात्मक प्रश्न अभ्यास विषयतर्फ पठाइन्छ।',
