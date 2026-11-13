@@ -308,7 +308,7 @@ class _AppDrawer extends StatelessWidget {
                   ),
                   alignment: Alignment.center,
                   child: Text(
-                    'लो',
+                    'O',
                     style: AppType.h2.copyWith(
                       color: AppColors.of(context).accentInk,
                     ),
@@ -321,13 +321,13 @@ class _AppDrawer extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Text(
-                        'लोक सेवा विद्यापीठ',
+                        'Outrank',
                         style: AppType.h2.copyWith(
                           color: AppColors.of(context).text,
                         ),
                       ),
                       Text(
-                        'LOKSEWA VIDYAPEETH',
+                        'LOK SEWA EXAM PREP',
                         style: AppType.small.copyWith(
                           color: AppColors.of(context).accent,
                         ),
