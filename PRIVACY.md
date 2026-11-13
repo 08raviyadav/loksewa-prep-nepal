@@ -1,12 +1,16 @@
 # Privacy Policy — Outrank
 
-**Last updated: 12 November 2026**
+**Last updated: 13 November 2026**
 
 Outrank is built to respect your privacy. In short: the app collects nothing about you, and everything you do in it stays on your phone.
 
 ## What we collect
 
-Nothing. Outrank has no accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect your name, email, phone number, location or device identifiers.
+Nothing personal. Outrank has no accounts, no sign-in, no advertising and no personal tracking. We do not collect your name, email, phone number, location or device identifiers.
+
+## Website analytics
+
+The Outrank website (not the app) counts anonymous visits using Cloudflare Web Analytics, so we can see how many people visit and which country they visit from. It sets no cookies, collects no personal data and does not track individuals — there is nothing to opt out of. The Android app has no analytics at all.
 
 ## What stays on your phone
 
