@@ -157,9 +157,9 @@ class _Hero extends StatelessWidget {
       margin: const EdgeInsets.all(AppSpacing.s4),
       padding: const EdgeInsets.all(AppSpacing.s6),
       decoration: BoxDecoration(
-        gradient: AppColors.heroGradient,
+        color: AppColors.accentSoft,
         borderRadius: AppRadius.lgAll,
-        border: Border.all(color: AppColors.borderSoft),
+        border: Border.all(color: AppColors.accentLine),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -185,7 +185,7 @@ class _Hero extends StatelessWidget {
           const SizedBox(height: AppSpacing.s4),
           Text(
             s.heroTitle,
-            style: AppType.display.copyWith(color: Colors.white),
+            style: AppType.display.copyWith(color: AppColors.text),
           ),
           const SizedBox(height: AppSpacing.s3),
           Text(
@@ -255,9 +255,9 @@ class _StatCard extends StatelessWidget {
       width: 150,
       padding: const EdgeInsets.all(AppSpacing.s4),
       decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: 0.06),
+        color: AppColors.card,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: Colors.white.withValues(alpha: 0.12)),
+        border: Border.all(color: AppColors.borderSoft),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
