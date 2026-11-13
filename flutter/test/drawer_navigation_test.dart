@@ -255,7 +255,7 @@ void main() {
       await _openDrawer(tester);
       await _tapDrawerItem(tester, 'Share the app');
       expect(fake.shared, hasLength(1));
-      expect(fake.shared[0], contains('LokSewa Vidyapeeth'));
+      expect(fake.shared[0], contains('Outrank'));
       expect(fake.shared[0], contains('app-release.apk'));
       await _openDrawer(tester);
       await _tapDrawerItem(tester, 'Invite friends');
