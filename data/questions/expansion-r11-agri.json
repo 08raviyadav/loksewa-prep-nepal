@@ -28,10 +28,10 @@
    "Monsoon (Kharif) season"
   ],
   "options_ne": [
-   "Spring season",
-   "Autumn season",
-   "Winter (Rabi) season",
-   "Monsoon (Kharif) season"
+   "वसन्त ऋतु",
+   "शरद ऋतु",
+   "हिउँद (रबी) ऋतु",
+   "मनसुन (खरिफ) ऋतु"
   ],
   "answer": 3,
   "explanation": "Paddy is a monsoon (Kharif) crop in Nepal.",
@@ -67,10 +67,10 @@
    "Winter (Rabi) season"
   ],
   "options_ne": [
-   "Autumn season",
-   "Summer season",
-   "Monsoon (Kharif) season",
-   "Winter (Rabi) season"
+   "शरद ऋतु",
+   "ग्रीष्म ऋतु",
+   "मनसुन (खरिफ) ऋतु",
+   "हिउँद (रबी) ऋतु"
   ],
   "answer": 3,
   "explanation": "Wheat is a winter (Rabi) crop in Nepal.",
@@ -301,10 +301,10 @@
    "Banana"
   ],
   "options_ne": [
-   "Apple",
-   "Mango",
-   "Litchi",
-   "Banana"
+   "स्याउ",
+   "आँप",
+   "लिची",
+   "केरा"
   ],
   "answer": 1,
   "explanation": "Mango is known as the king of fruits.",
@@ -340,10 +340,10 @@
    "Cloves"
   ],
   "options_ne": [
-   "Large cardamom",
-   "Nutmeg",
-   "Black pepper",
-   "Cloves"
+   "अलैँची",
+   "जाइफल",
+   "मरिच",
+   "ल्वाङ"
   ],
   "answer": 0,
   "explanation": "Nepal is one of the world's largest producers of large cardamom.",
@@ -379,10 +379,10 @@
    "Jute"
   ],
   "options_ne": [
-   "Mustard",
-   "Maize (monsoon)",
-   "Paddy",
-   "Jute"
+   "तोरी",
+   "मकै (मनसुन)",
+   "धान",
+   "जुट"
   ],
   "answer": 0,
   "explanation": "Mustard is a Rabi (winter) crop.",
@@ -418,10 +418,10 @@
    "Mustard"
   ],
   "options_ne": [
-   "Wheat",
-   "Paddy",
-   "Barley",
-   "Mustard"
+   "गहुँ",
+   "धान",
+   "जौ",
+   "तोरी"
   ],
   "answer": 1,
   "explanation": "Paddy is a Kharif (monsoon) crop.",
@@ -457,10 +457,10 @@
    "Nickel, Phosphorus, Krypton"
   ],
   "options_ne": [
-   "Nitrogen, Phosphorus, Potassium",
-   "Nitrogen, Protein, Potassium",
-   "Nitrate, Phosphate, Kerosene",
-   "Nickel, Phosphorus, Krypton"
+   "नाइट्रोजन, फस्फोरस, पोटासियम",
+   "नाइट्रोजन, प्रोटिन, पोटासियम",
+   "नाइट्रेट, फस्फेट, केरोसिन",
+   "निकल, फस्फोरस, क्रिप्टन"
   ],
   "answer": 0,
   "explanation": "NPK stands for Nitrogen, Phosphorus and Potassium.",
@@ -613,10 +613,10 @@
    "Acidic"
   ],
   "options_ne": [
-   "Alkaline",
-   "Neutral",
-   "Saline",
-   "Acidic"
+   "क्षारीय",
+   "तटस्थ",
+   "सलाइन",
+   "अम्लीय"
   ],
   "answer": 3,
   "explanation": "Soil with pH below 7 is acidic.",
@@ -652,10 +652,10 @@
    "Sandy soil"
   ],
   "options_ne": [
-   "Clay soil",
-   "Gravelly soil",
-   "Loamy soil",
-   "Sandy soil"
+   "चिम्टाइलो माटो",
+   "गिट्टीयुक्त माटो",
+   "दोमट माटो",
+   "बलौटे माटो"
   ],
   "answer": 2,
   "explanation": "Loamy soil is best for most crops.",
@@ -691,10 +691,10 @@
    "Root growth only"
   ],
   "options_ne": [
-   "Seed dormancy",
-   "Leafy vegetative growth",
-   "Fruit colour",
-   "Root growth only"
+   "बीज सुषुप्ति",
+   "पातदार वानस्पतिक वृद्धि",
+   "फलको रङ",
+   "जरा वृद्धि मात्र"
   ],
   "answer": 1,
   "explanation": "Nitrogen promotes leafy vegetative growth.",
@@ -730,10 +730,10 @@
    "Water uptake only"
   ],
   "options_ne": [
-   "Stem height only",
-   "Leaf colour only",
-   "Root development and flowering",
-   "Water uptake only"
+   "काण्डको उचाइ मात्र",
+   "पातको रङ मात्र",
+   "जरा विकास र फुल्नु",
+   "पानी सोस्नु मात्र"
   ],
   "answer": 2,
   "explanation": "Phosphorus promotes root development and flowering.",
@@ -769,10 +769,10 @@
    "Housing"
   ],
   "options_ne": [
-   "Road building",
-   "Mining",
-   "Soil conservation and water retention",
-   "Housing"
+   "सडक निर्माण",
+   "खनन",
+   "माटो संरक्षण र पानी संचय",
+   "आवास"
   ],
   "answer": 2,
   "explanation": "Terracing conserves soil and retains water on slopes.",
@@ -847,10 +847,10 @@
    "Plastic waste"
   ],
   "options_ne": [
-   "Rock powder",
-   "Decomposed organic matter",
-   "Chemical salts",
-   "Plastic waste"
+   "ढुङ्गाको धुलो",
+   "कुहिएको जैविक पदार्थ",
+   "रासायनिक लवण",
+   "प्लास्टिकजन्य फोहोर"
   ],
   "answer": 1,
   "explanation": "Compost is decomposed organic matter.",
@@ -886,10 +886,10 @@
    "Siri"
   ],
   "options_ne": [
-   "Lulu",
-   "Achhami",
-   "Jersey",
-   "Siri"
+   "लुलु",
+   "अछामी",
+   "जर्सी",
+   "सिरी"
   ],
   "answer": 0,
   "explanation": "Lulu is the indigenous cattle breed of Mustang.",
@@ -925,10 +925,10 @@
    "Cattle"
   ],
   "options_ne": [
-   "Sheep",
-   "Buffalo",
-   "Goat",
-   "Cattle"
+   "भेडा",
+   "भैँसी",
+   "बाख्रा",
+   "गाईवस्तु"
   ],
   "answer": 2,
   "explanation": "Khari is an indigenous goat breed of Nepal.",
@@ -964,10 +964,10 @@
    "Sheep"
   ],
   "options_ne": [
-   "Pig",
-   "Cattle",
-   "Goat",
-   "Sheep"
+   "सुँगुर",
+   "गाईवस्तु",
+   "बाख्रा",
+   "भेडा"
   ],
   "answer": 3,
   "explanation": "Baruwal is an indigenous sheep breed of Nepal.",
@@ -1003,10 +1003,10 @@
    "Sheep"
   ],
   "options_ne": [
-   "Goat",
-   "Chicken (poultry)",
-   "Duck",
-   "Sheep"
+   "बाख्रा",
+   "कुखुरा",
+   "हाँस",
+   "भेडा"
   ],
   "answer": 1,
   "explanation": "Sakini is an indigenous chicken breed of Nepal.",
@@ -1042,10 +1042,10 @@
    "Cloven-hoofed animals (cattle, buffalo, goats)"
   ],
   "options_ne": [
-   "Horses only",
-   "Dogs only",
-   "Poultry only",
-   "Cloven-hoofed animals (cattle, buffalo, goats)"
+   "घोडा मात्र",
+   "कुकुर मात्र",
+   "कुखुरा मात्र",
+   "दुई खुर भएका जनावर (गाईवस्तु, भैँसी, बाख्रा)"
   ],
   "answer": 3,
   "explanation": "FMD affects cloven-hoofed animals.",
@@ -1081,10 +1081,10 @@
    "Pigs only"
   ],
   "options_ne": [
-   "Cattle only",
-   "Goats and sheep",
-   "Poultry only",
-   "Pigs only"
+   "गाईवस्तु मात्र",
+   "बाख्रा र भेडा",
+   "कुखुरा मात्र",
+   "सुँगुर मात्र"
   ],
   "answer": 1,
   "explanation": "PPR (peste des petits ruminants) affects goats and sheep.",
@@ -1120,10 +1120,10 @@
    "Goats"
   ],
   "options_ne": [
-   "Dogs",
-   "Cattle",
-   "Poultry",
-   "Goats"
+   "कुकुर",
+   "गाईवस्तु",
+   "कुखुरा",
+   "बाख्रा"
   ],
   "answer": 2,
   "explanation": "Newcastle disease affects poultry.",
@@ -1159,10 +1159,10 @@
    "Higher fat content"
   ],
   "options_ne": [
-   "Lower fat content",
-   "Less protein",
-   "More water",
-   "Higher fat content"
+   "कम बोसो",
+   "कम प्रोटिन",
+   "बढी पानी",
+   "बढी बोसो"
   ],
   "answer": 3,
   "explanation": "Buffalo milk generally has higher fat than cow milk.",
@@ -1198,10 +1198,10 @@
    "Freezing milk"
   ],
   "options_ne": [
-   "Heating milk to kill harmful germs",
-   "Adding sugar",
-   "Removing cream",
-   "Freezing milk"
+   "हानिकारक कीटाणु मार्न दूध तताउनु",
+   "चिनी हाल्नु",
+   "तर निकाल्नु",
+   "दूध जमाउनु"
   ],
   "answer": 0,
   "explanation": "Pasteurisation heats milk to kill harmful germs.",
@@ -1388,10 +1388,10 @@
    "Eastern Himalayas"
   ],
   "options_ne": [
-   "Kathmandu Valley",
-   "Western Terai",
-   "Far-western plains",
-   "Eastern Himalayas"
+   "काठमाडौं उपत्यका",
+   "पश्चिमी तराई",
+   "सुदूरपश्चिम तराई",
+   "पूर्वी हिमालय"
   ],
   "answer": 3,
   "explanation": "The red panda lives in Nepal's eastern Himalayas.",
@@ -1426,10 +1426,10 @@
    "High Himalayas"
   ],
   "options_ne": [
-   "River valleys",
-   "Mid-hills",
-   "Terai grasslands",
-   "High Himalayas"
+   "नदी उपत्यकाहरू",
+   "मध्य पहाड",
+   "तराई घाँसे मैदान",
+   "उच्च हिमालय"
   ],
   "answer": 3,
   "explanation": "The snow leopard lives in the high Himalayas.",
@@ -1464,10 +1464,10 @@
    "A turtle"
   ],
   "options_ne": [
-   "A water bird",
-   "A fish-eating crocodile",
-   "A large fish",
-   "A turtle"
+   "जलचर चरा",
+   "माछा खाने गोही",
+   "ठूलो माछा",
+   "कछुवा"
   ],
   "answer": 1,
   "explanation": "The gharial is a fish-eating crocodile.",
@@ -1502,10 +1502,10 @@
    "Certified Forest User Guide"
   ],
   "options_ne": [
-   "Community Forest User Group",
-   "Community Farming Union Group",
-   "Central Forest Utility Group",
-   "Certified Forest User Guide"
+   "सामुदायिक वन उपभोक्ता समूह",
+   "सामुदायिक कृषि सङ्घ समूह",
+   "केन्द्रीय वन उपयोगिता समूह",
+   "प्रमाणित वन उपभोक्ता मार्गनिर्देशिका"
   ],
   "answer": 0,
   "explanation": "CFUG stands for Community Forest User Group.",
@@ -1540,10 +1540,10 @@
    "Dhangadhi"
   ],
   "options_ne": [
-   "Pokhara region",
-   "Biratnagar",
-   "Nepalgunj",
-   "Dhangadhi"
+   "पोखरा क्षेत्र",
+   "विराटनगर",
+   "नेपालगन्ज",
+   "धनगढी"
   ],
   "answer": 0,
   "explanation": "The Pokhara region receives Nepal's highest rainfall.",
@@ -1578,10 +1578,10 @@
    "Mustang (Trans-Himalaya)"
   ],
   "options_ne": [
-   "Jhapa",
-   "Ilam",
-   "Chitwan",
-   "Mustang (Trans-Himalaya)"
+   "झापा",
+   "इलाम",
+   "चितवन",
+   "मुस्ताङ (हिमालय पारी)"
   ],
   "answer": 3,
   "explanation": "Mustang lies in the rain shadow of the Himalayas.",
@@ -1616,10 +1616,10 @@
    "December to March"
   ],
   "options_ne": [
-   "October to November",
-   "June to September",
-   "March to May",
-   "December to March"
+   "अक्टोबरदेखि नोभेम्बरसम्म",
+   "जुनदेखि सेप्टेम्बरसम्म",
+   "मार्चदेखि मेसम्म",
+   "डिसेम्बरदेखि मार्चसम्म"
   ],
   "answer": 1,
   "explanation": "Nepal's monsoon runs roughly June to September.",
