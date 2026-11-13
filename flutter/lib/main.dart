@@ -144,7 +144,7 @@ class _RootNavState extends State<RootNav> {
       if (i != 1) _practiceExam = null; // one-shot prefill
       if (i != 2) _mockExam = null;
     });
-    // Tour step 3: tapping the Practice tab navigates AND advances.
+    // Tour step 4: tapping the Practice tab navigates AND advances.
     if (i == 1) TourScope.of(context)?.advanceIfOn('practiceTab');
   }
 
@@ -176,6 +176,8 @@ class _RootNavState extends State<RootNav> {
             negOn: negRate > 0,
             negRate: negRate,
             examId: examId,
+            // v1.0.9: options render in the language the quiz starts in.
+            nepali: AppStateScope.of(context).isNe,
           ),
           meta: _metaFor(examId, prelim),
           bank: pool,
@@ -224,6 +226,7 @@ class _RootNavState extends State<RootNav> {
             negRate: 0.2,
             examId: '',
             dailySeed: seed,
+            nepali: AppStateScope.of(context).isNe,
           ),
           meta: const QuizMeta(
             examName: 'Daily Challenge',
@@ -250,6 +253,7 @@ class _RootNavState extends State<RootNav> {
             negOn: false,
             examId: '',
             qotdSeed: dailySeed(),
+            nepali: AppStateScope.of(context).isNe,
           ),
           meta: QuizMeta(
             examName: s.qotdTitle,
@@ -278,6 +282,7 @@ class _RootNavState extends State<RootNav> {
             negOn: true,
             negRate: 0.2,
             examId: '',
+            nepali: AppStateScope.of(context).isNe,
           ),
           meta: const QuizMeta(
             examName: 'Quick Quiz',
@@ -455,6 +460,11 @@ class _RootNavState extends State<RootNav> {
 
   @override
   Widget build(BuildContext context) {
+    // Tour step 4 (v1.0.9): the tooltip's Next button navigates to
+    // Practice the same way tapping the tab does. Registration is
+    // idempotent (map overwrite), so re-registering on every build is
+    // harmless.
+    TourScope.of(context)?.registerAction('practiceTab', () => _go(1));
     return FutureBuilder<_SharedData>(
       future: _sharedFuture,
       builder: (context, snap) {
