@@ -1,7 +1,7 @@
 # Signed release APK for the LokSewa Vidyapeeth Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.7` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.10` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,26 +196,24 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.9
+      - name: Publish to GitHub Release android-v1.0.10
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.9
-          name: LokSewa Vidyapeeth Android v1.0.9
+          tag_name: android-v1.0.10
+          name: LokSewa Vidyapeeth Android v1.0.10
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.9 (Android).
+            Signed release APK for LokSewa Vidyapeeth v1.0.10 (Android).
 
-            What's new: language fixes and a better tutorial. The EN/NE
-            switcher now actually switches the whole app (it used to
-            change nothing until restart), Nepali is the default
-            language on first install, quiz options and the topic /
-            difficulty chips now show in Nepali in Nepali mode, the
-            first-launch tour has a new step guiding the language
-            button, and every tour step now has a Next button — on tap
-            steps Next performs the highlighted action.
+            What's new: 365 questions now show their answer options in
+            Nepali when the app language is Nepali (1,435 options
+            translated to Devanagari — names, places, and common words).
+            Options that must stay in English (English-subject questions,
+            IQ letter puzzles, chemical symbols, keyboard shortcuts)
+            are unchanged.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.8 as an update (same signature).
+            Installs over v1.0.9 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
