@@ -1,7 +1,7 @@
-# Signed release APK for the LokSewa Vidyapeeth Flutter app.
+# Signed release APK for the Outrank Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.10` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.11` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,24 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.10
+      - name: Publish to GitHub Release android-v1.0.11
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.10
-          name: LokSewa Vidyapeeth Android v1.0.10
+          tag_name: android-v1.0.11
+          name: Outrank Android v1.0.11
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.10 (Android).
+            Signed release APK for Outrank v1.0.11 (Android).
 
-            What's new: 365 questions now show their answer options in
-            Nepali when the app language is Nepali (1,435 options
-            translated to Devanagari — names, places, and common words).
-            Options that must stay in English (English-subject questions,
-            IQ letter puzzles, chemical symbols, keyboard shortcuts)
-            are unchanged.
+            What's new: LokSewa Vidyapeeth is now **Outrank** — same app,
+            same questions, new name everywhere: home screen, launcher
+            icon, drawer, About, share messages and notifications. The
+            exams haven't changed — it's still Lok Sewa exam preparation,
+            now under the Outrank brand.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.9 as an update (same signature).
+            Installs over v1.0.10 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
