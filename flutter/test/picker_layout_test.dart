@@ -40,7 +40,8 @@ Future<void> _setPhoneSize(WidgetTester tester) async {
 Future<void> _pump(
   WidgetTester tester,
   Widget screen, {
-  Map<String, Object> prefs = const {},
+  // English pinned (the default is Nepali, v1.0.9).
+  Map<String, Object> prefs = const {'loksewa_lang_v1': 'en'},
 }) async {
   SharedPreferences.setMockInitialValues(prefs);
   final state = AppState();
@@ -130,6 +131,7 @@ void main() {
         tester,
         _practice(),
         prefs: const {
+          'loksewa_lang_v1': 'en',
           'loksewa_recent_exams_v1': ['kharidar', 'nasu'],
         },
       );
