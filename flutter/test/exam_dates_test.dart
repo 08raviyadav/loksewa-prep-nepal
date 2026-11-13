@@ -223,7 +223,7 @@ void main() {
       void Function(Exam)? onMock,
       void Function(int)? onNav,
     }) async {
-      SharedPreferences.setMockInitialValues({});
+      SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
       final state = AppState();
       await state.init();
       await tester.runAsync(() async {
