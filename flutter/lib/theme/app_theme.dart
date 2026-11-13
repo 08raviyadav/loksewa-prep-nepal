@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// LokSewa Vidyapeeth design system.
+/// Outrank design system.
 ///
 /// Minimal white + orange (light, the default) and the same orange on
 /// clean charcoal (dark), mirroring the web portal's tokens
