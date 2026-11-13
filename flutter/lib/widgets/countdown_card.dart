@@ -118,13 +118,7 @@ class _CountdownCardState extends State<CountdownCard> {
         child: Container(
           decoration: BoxDecoration(
             borderRadius: AppRadius.lgAll,
-            gradient: isFar
-                ? null
-                : const LinearGradient(
-                    begin: Alignment.topLeft,
-                    end: Alignment.bottomRight,
-                    colors: [Color(0xFF3B2F0B), Color(0xFF1E1B4B)],
-                  ),
+            color: isFar ? null : AppColors.accentSoft,
             border: Border.all(
               color: isFar ? AppColors.border : AppColors.accentLine,
               width: 1.5,
@@ -310,7 +304,7 @@ class _Digits extends StatelessWidget {
                   vertical: AppSpacing.s2,
                 ),
                 decoration: BoxDecoration(
-                  color: Colors.black.withValues(alpha: 0.35),
+                  color: AppColors.card2,
                   borderRadius: AppRadius.mdAll,
                   border: Border.all(color: AppColors.borderSoft),
                 ),
