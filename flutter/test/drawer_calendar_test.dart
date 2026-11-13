@@ -31,7 +31,7 @@ Future<void> _pumpCalendar(
   WidgetTester tester, {
   bool nepali = false,
 }) async {
-  SharedPreferences.setMockInitialValues({});
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
   final state = AppState();
   await state.init();
   if (nepali) await state.setLang(AppLang.ne);
