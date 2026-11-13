@@ -10,6 +10,7 @@ import 'package:flutter/material.dart';
 
 import '../../engine/quiz_engine.dart';
 import '../../l10n/quiz_strings.dart';
+import '../../l10n/topic_names.dart';
 import '../../models/models.dart';
 import '../../state/progress_store.dart';
 import '../../theme/app_theme.dart';
@@ -321,8 +322,10 @@ class _QuizScreenState extends State<QuizScreen> {
                       Wrap(
                         spacing: AppSpacing.s2,
                         children: [
-                          _Tag(q.topic),
-                          _Tag(q.difficulty),
+                          // v1.0.9: topic + difficulty chips follow the
+                          // app language (Nepali in Nepali mode).
+                          _Tag(topicLabel(q.topic, ne)),
+                          _Tag(difficultyLabel(q.difficulty, ne)),
                           _Tag(
                             '${q.marks} ${ne ? 'अंक' : 'mark${q.marks == 1 ? '' : 's'}'}',
                           ),
