@@ -1,4 +1,4 @@
-/* LokSewa Vidyapeeth — backend config template.
+/* Outrank — backend config template.
    1. Copy this file to config.js (same folder as index.html).
    2. Fill in the values from your Supabase project (see docs/BACKEND.md).
    3. NEVER commit config.js — it is gitignored. Only config.example.js is tracked.
