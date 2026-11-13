@@ -602,7 +602,8 @@ footer{text-align:left}
 .nx-digits>i{font-style:normal;font-size:2rem;color:var(--accent);font-weight:700}
 .nx-date{margin:10px 0 4px}
 .nx-todaybig{font-size:2.6rem;font-weight:800;color:var(--danger);margin:8px 0 2px}
-.nx-pager{display:flex;gap:8px;justify-content:center;margin:12px 0 2px}
+.nx-pager{display:flex;gap:8px;justify-content:center;align-items:center;margin:12px 0 2px}
+.nx-count{font-size:.85rem;font-variant-numeric:tabular-nums}
 .nx-dot{width:12px;height:12px;border-radius:50%;border:1px solid var(--accent);background:transparent;
   cursor:pointer;padding:0;min-height:0}
 .nx-dot.on{background:var(--accent);box-shadow:none}
@@ -645,7 +646,8 @@ footer{text-align:left}
 .fest-strip{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:14px}
 .fest-teaser{border:1px dashed var(--border);border-radius:14px;padding:10px 14px;text-align:center;
   background:var(--card-2)}
-.fest-confetti{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+.fest-confetti{position:absolute;inset:0;pointer-events:none;overflow:hidden;z-index:0}
+.fest-card>*:not(.fest-confetti){position:relative;z-index:1}
 .fest-confetti-bit{position:absolute;top:-14px;border-radius:2px;
   animation:fest-fall linear infinite;opacity:.9}
 @keyframes fest-fall{
