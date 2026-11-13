@@ -196,23 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.7
+      - name: Publish to GitHub Release android-v1.0.8
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.7
-          name: LokSewa Vidyapeeth Android v1.0.7
+          tag_name: android-v1.0.8
+          name: LokSewa Vidyapeeth Android v1.0.8
           body: |
-            Signed release APK for LokSewa Vidyapeeth v1.0.7 (Android).
+            Signed release APK for LokSewa Vidyapeeth v1.0.8 (Android).
 
-            What's new: a first-launch guided tour. On first install the
-            app walks you through it step by step — Daily Challenge,
-            Dashboard, Practice, picking an exam and a topic, then Start —
-            with each real button highlighted and tappable. Skip any time.
-            Replay it later from the drawer ("How to use the app").
+            What's new: funny Nepali result slangs. After every quiz or
+            mock, the result screen shows a random line matching your
+            score — a perfect score gets "Katxa tero Loksewa!", a low
+            one might get an "Aama:" line instead. Shown in Roman Nepali
+            when the app language is English, Devanagari when Nepali.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.6 as an update (same signature).
+            Installs over v1.0.7 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,671 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
