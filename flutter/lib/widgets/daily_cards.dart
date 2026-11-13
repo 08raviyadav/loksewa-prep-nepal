@@ -12,6 +12,7 @@ import '../gamification/daily.dart';
 import '../l10n/dashboard_strings.dart';
 import '../l10n/v104_strings.dart';
 import '../models/models.dart';
+import '../onboarding/tour.dart';
 import '../state/progress_store.dart';
 import '../theme/app_theme.dart';
 import 'app_scaffold.dart';
@@ -51,6 +52,8 @@ class _DailyChallengeCardState extends State<DailyChallengeCard> {
   Widget _card(BuildContext context, {required bool done}) {
     final s = AppStateScope.of(context).strings;
     return Card(
+      // Tour step 1 target (v1.0.7).
+      key: TourKeys.dailyChallenge,
       margin: const EdgeInsets.symmetric(
         horizontal: AppSpacing.s4,
         vertical: AppSpacing.s2,
