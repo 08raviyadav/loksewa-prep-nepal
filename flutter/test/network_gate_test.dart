@@ -22,7 +22,7 @@ Future<void> _pumpGate(
     AppStateScope(
       state: state,
       child: MaterialApp(
-        theme: buildDarkTheme(),
+        theme: buildAppTheme(),
         home: NetworkGate(
           checkInternet: checkInternet,
           child: const Text('APP SHOWN'),
