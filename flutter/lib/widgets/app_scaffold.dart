@@ -31,6 +31,12 @@ class AppScaffold extends StatelessWidget {
   /// the GlobalKey never duplicates. Pushed drawer pages don't pass it.
   final Key? bottomNavKey;
 
+  /// Tour key for the EN/NE language button (v1.0.9). Passed only by
+  /// the Home screen — the tour's language step runs there, and
+  /// attaching the same GlobalKey from every pushed page would
+  /// duplicate it.
+  final Key? langToggleKey;
+
   const AppScaffold({
     super.key,
     required this.title,
@@ -40,6 +46,7 @@ class AppScaffold extends StatelessWidget {
     this.actions,
     this.floatingActionButton,
     this.bottomNavKey,
+    this.langToggleKey,
   });
 
   @override
@@ -48,6 +55,16 @@ class AppScaffold extends StatelessWidget {
     // (see main.dart) to avoid extra dependencies in Phase 1.
     final state = AppStateScope.of(context);
     final s = state.strings;
+    // Tour step 2 (v1.0.9): the language button is a tour target. Its
+    // tap really switches the language AND advances the tour; the
+    // registered action lets the tooltip's Next button do the same.
+    // Registration is idempotent (map overwrite), so re-registering on
+    // every build is harmless.
+    final tour = TourScope.of(context);
+    tour?.registerAction('langToggle', () {
+      state.toggleLang();
+      tour.advanceIfOn('langToggle');
+    });
     return Scaffold(
       appBar: AppBar(
         title: Text(title),
@@ -68,7 +85,11 @@ class AppScaffold extends StatelessWidget {
           ),
           // EN / NE toggle
           TextButton(
-            onPressed: state.toggleLang,
+            key: langToggleKey,
+            onPressed: () {
+              state.toggleLang();
+              tour?.advanceIfOn('langToggle');
+            },
             style: TextButton.styleFrom(minimumSize: const Size(44, 44)),
             child: Text(
               state.isNe ? 'EN' : 'NE',
@@ -442,17 +463,83 @@ class _CurrentVersionSubtitleState extends State<_CurrentVersionSubtitle> {
   }
 }
 
-/// Minimal InheritedWidget provider for AppState (no extra packages).
-class AppStateScope extends InheritedWidget {
+/// Minimal provider for AppState (no extra packages).
+///
+/// v1.0.9 fix — the v1.0.8 language switcher "didn't work": tapping
+/// EN/NE changed the stored preference but nothing on screen changed
+/// until restart. Root cause: the old scope was a bare InheritedWidget
+/// created once in main(), so it never rebuilt and never notified its
+/// dependents; the only rebuild path was an AnimatedBuilder above
+/// MaterialApp, and the route contents sit behind a `const` NetworkGate
+/// so Flutter short-circuited the update. Now a StatefulWidget shell
+/// listens to the AppState ChangeNotifier and rebuilds the inner
+/// InheritedWidget on every change, so every dependent (screens, app
+/// bar, drawer, tour tooltip) rebuilds when the language changes.
+class AppStateScope extends StatefulWidget {
   final AppState state;
-  const AppStateScope({super.key, required this.state, required super.child});
+  final Widget child;
+  const AppStateScope({
+    super.key,
+    required this.state,
+    required this.child,
+  });
 
+  /// Depending lookup: the caller rebuilds when AppState notifies.
   static AppState of(BuildContext context) {
-    final scope = context.dependOnInheritedWidgetOfExactType<AppStateScope>();
+    final scope =
+        context.dependOnInheritedWidgetOfExactType<_AppStateInherited>();
     assert(scope != null, 'AppStateScope not found above this widget');
     return scope!.state;
   }
 
+  /// Non-depending lookup: safe in initState (no rebuild subscription).
+  /// For one-shot reads, e.g. the language at quiz-start time.
+  static AppState? maybeOf(BuildContext context) {
+    final element =
+        context.getElementForInheritedWidgetOfExactType<_AppStateInherited>();
+    if (element == null) return null;
+    return (element.widget as _AppStateInherited).state;
+  }
+
   @override
-  bool updateShouldNotify(AppStateScope oldWidget) => true;
+  State<AppStateScope> createState() => _AppStateScopeState();
+}
+
+class _AppStateScopeState extends State<AppStateScope> {
+  @override
+  void initState() {
+    super.initState();
+    widget.state.addListener(_onStateChanged);
+  }
+
+  @override
+  void didUpdateWidget(AppStateScope oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.state != widget.state) {
+      oldWidget.state.removeListener(_onStateChanged);
+      widget.state.addListener(_onStateChanged);
+    }
+  }
+
+  @override
+  void dispose() {
+    widget.state.removeListener(_onStateChanged);
+    super.dispose();
+  }
+
+  void _onStateChanged() => setState(() {});
+
+  @override
+  Widget build(BuildContext context) =>
+      _AppStateInherited(state: widget.state, child: widget.child);
+}
+
+class _AppStateInherited extends InheritedWidget {
+  final AppState state;
+  const _AppStateInherited({required this.state, required super.child});
+
+  // The state object never changes — the shell rebuilds this widget on
+  // every notify, so always notify dependents.
+  @override
+  bool updateShouldNotify(_AppStateInherited oldWidget) => true;
 }
