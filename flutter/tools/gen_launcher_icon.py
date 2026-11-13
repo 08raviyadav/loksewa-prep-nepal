@@ -7,7 +7,7 @@ gradle-wrapper.jar cannot be committed. CI regenerates the PNGs with this
 script before `flutter build apk` — see
 .github/workflows/flutter-release.yml.
 
-The icon is the amber Devanagari "lo" on navy (#0F172A), drawn with
+The icon is the orange Devanagari "lo" on white (#FFFFFF), drawn with
 Noto Sans Devanagari Bold — the same design as the original
 assets/icon/app_icon.png (1024x1024), which is NOT in the repo (binary).
 Glyph placement was measured from that original: the ink spans 20%-80%
@@ -19,8 +19,8 @@ Outputs (all RGB PNGs, LANCZOS-downscaled from one 1024px master):
   android/app/src/main/res/drawable-{mdpi,hdpi,xhdpi,xxhdpi,xxxhdpi}/
       ic_launcher_foreground.png            108/162/216/324/432 px
       splash.png                            256/384/512/768/1024 px
-  android/app/src/main/res/drawable/background.png          1x1 navy
-  android/app/src/main/res/drawable-v21/background.png      1x1 navy
+  android/app/src/main/res/drawable/background.png          1x1 white
+  android/app/src/main/res/drawable-v21/background.png      1x1 white
 
 Font: Noto Sans Devanagari Bold. Discovery order:
   1. --font PATH (or $LOKSEWA_ICON_FONT)
@@ -51,10 +51,10 @@ import os
 import subprocess
 import sys
 
-# Amber "lo" on navy — the app's brand colours (also in pubspec.yaml's
+# Orange "lo" on white — the app's brand colours (also in pubspec.yaml's
 # flutter_launcher_icons / flutter_native_splash config).
-NAVY = (15, 23, 42)  # #0F172A
-AMBER = (245, 158, 11)  # #F59E0B
+WHITE = (255, 255, 255)  # #FFFFFF
+ORANGE = (234, 88, 12)  # #EA580C
 GLYPH = "\u0932\u094b"  # Devanagari "lo"
 
 MASTER_SIZE = 1024
@@ -131,7 +131,7 @@ def render_master(font_path):
     font = ImageFont.truetype(font_path, 1000)
     layer = Image.new("RGBA", (1600, 1600), (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
-    draw.text((800, 800), GLYPH, font=font, fill=AMBER + (255,),
+    draw.text((800, 800), GLYPH, font=font, fill=ORANGE + (255,),
               anchor="mm")
     bbox = layer.getbbox()
     if bbox is None:
@@ -142,7 +142,7 @@ def render_master(font_path):
     new_size = (GLYPH_WIDTH, round(glyph.size[1] * scale))
     glyph = glyph.resize(new_size, Image.LANCZOS)
 
-    master = Image.new("RGB", (MASTER_SIZE, MASTER_SIZE), NAVY)
+    master = Image.new("RGB", (MASTER_SIZE, MASTER_SIZE), WHITE)
     x = (MASTER_SIZE - new_size[0]) // 2
     y = GLYPH_CENTER_Y - new_size[1] // 2
     master.paste(glyph, (x, y), glyph)
@@ -216,7 +216,7 @@ def main():
         d = os.path.join(res_dir, sub)
         os.makedirs(d, exist_ok=True)
         p = os.path.join(d, "background.png")
-        Image.new("RGB", (1, 1), NAVY).save(p)
+        Image.new("RGB", (1, 1), WHITE).save(p)
         outputs.append((p, 1))
 
     if args.store_icon:
