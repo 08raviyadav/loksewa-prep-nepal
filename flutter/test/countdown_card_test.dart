@@ -39,7 +39,7 @@ List<ExamDate> _dates(List<(String, String, int)> specs) {
 }
 
 Future<void> _pumpCard(WidgetTester tester, List<ExamDate> dates) async {
-  SharedPreferences.setMockInitialValues({});
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
   tester.view.physicalSize = const Size(390 * 3, 844 * 3);
   tester.view.devicePixelRatio = 3.0;
   addTearDown(tester.view.resetPhysicalSize);
