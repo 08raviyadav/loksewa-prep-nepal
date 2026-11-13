@@ -5,7 +5,7 @@ Data file: `data/historical-events.json` (95 entries)
 
 ## 1. What this file is
 
-A set of verified historical dates for LokSewa Vidyapeeth (Nepal government-exam
+A set of verified historical dates for Outrank (Nepal government-exam
 preparation portal), covering the dates Lok Sewa GK actually asks: Nepal's
 unification and political history, the seven constitutions, Nepal's institutions,
 Nepal's international milestones, and world-history dates in the GK syllabus.
