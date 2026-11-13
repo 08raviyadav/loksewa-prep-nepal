@@ -35,6 +35,10 @@ class AppPalette {
   final Color blue;
   final Color blueSoft;
 
+  /// Dim scrim behind coachmark tooltips (v1.0.7 tour). Same in both
+  /// themes — a dark scrim reads the same over a light or dark screen.
+  final Color scrim;
+
   const AppPalette({
     required this.bg,
     required this.bg2,
@@ -57,6 +61,7 @@ class AppPalette {
     required this.dangerSoft,
     required this.blue,
     required this.blueSoft,
+    required this.scrim,
   });
 
   /// Light (default): minimal white + orange.
@@ -82,6 +87,7 @@ class AppPalette {
     dangerSoft: Color(0x14DC2626),
     blue: Color(0xFF2563EB),
     blueSoft: Color(0x142563EB),
+    scrim: Color(0x99000000), // 60% black
   );
 
   /// Dark: the same orange on clean charcoal.
@@ -107,6 +113,7 @@ class AppPalette {
     dangerSoft: Color(0x26EF4444),
     blue: Color(0xFF3B82F6),
     blueSoft: Color(0x293B82F6),
+    scrim: Color(0x99000000), // 60% black
   );
 }
 
