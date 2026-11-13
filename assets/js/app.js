@@ -177,21 +177,6 @@ function qText(q){ return (lang === 'ne' && q.question_ne) ? q.question_ne : q.q
 function qOpts(q){ return (lang === 'ne' && Array.isArray(q.options_ne)) ? q.options_ne : q.options; }
 function qExpl(q){ return (lang === 'ne' && q.explanation_ne) ? q.explanation_ne : (q.explanation || ''); }
 function getLang(){ return lang; }
-// Theme: dark is the default (data-theme="dark" in index.html). The user's
-// explicit choice persists in localStorage as 'loksewa_theme' so the toggle
-// survives reloads; with no saved choice the HTML default stands.
-const THEME_KEY = 'loksewa_theme';
-function applyTheme(t){
-  const theme = (t === 'light') ? 'light' : 'dark';
-  document.documentElement.dataset.theme = theme;
-  const b = document.getElementById('theme-toggle');
-  if (b) b.textContent = theme === 'light' ? '☀️ Light' : '🌙 Dark';
-}
-function toggleTheme(){
-  const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
-  try { localStorage.setItem(THEME_KEY, next); } catch (e) {}
-  applyTheme(next);
-}
 function setLang(l){
   lang = (l === 'ne') ? 'ne' : 'en';
   try { localStorage.setItem(LANG_KEY, lang); } catch (e) {}
@@ -819,7 +804,7 @@ function launchConfetti(){
   // A second celebration within the clear-timeout window must not let the
   // old timeout sweep the new pieces away early.
   if (confettiT) { clearTimeout(confettiT); confettiT = null; }
-  const colors = ['#f59e0b', '#22c55e', '#3b82f6', '#ef4444', '#a855f7', '#facc15'];
+  const colors = ['#ea580c', '#f97316', '#22c55e', '#ef4444', '#fed7aa', '#facc15'];
   for (let i = 0; i < 48; i++) {
     const p = document.createElement('div');
     p.className = 'confetti-piece';
@@ -1568,7 +1553,7 @@ function renderNotes(missingTopic){
     return;
   }
   const cards=NOTES.map(x=>`<div class="card"><strong>${esc(noteTitle(x))}</strong><div class="muted">${x.bullets.length} ${lang==='ne'?'बुँदा':'key points'} · ${noteQuestionCount(x.topic).toLocaleString()} ${lang==='ne'?'प्रश्न':'questions'}</div><button class="btn secondary" onclick="openNote('${esc(x.slug)}')">📖 ${lang==='ne'?'पढ्नुहोस्':'Read'}</button></div>`).join('');
-  const missHtml=missingTopic?`<div class="card" style="border-color:#f59e0b"><p>📝 ${lang==='ne'?'यस विषयको नोट अहिलेसम्म छैन':'No revision note for this topic yet'}: <strong>${esc(missingTopic)}</strong>.</p><p class="muted">${lang==='ne'?'तलका विषयका नोटहरू तयार छन्। नोट लेखेर योगदान गर्न चाहनुहुन्छ? CONTRIBUTING.md → “Revision notes” हेर्नुहोस्।':'Notes for the topics below are ready. Want to write one? See CONTRIBUTING.md → “Revision notes”.'}</p></div>`:'';
+  const missHtml=missingTopic?`<div class="card" style="border-color:#ea580c"><p>📝 ${lang==='ne'?'यस विषयको नोट अहिलेसम्म छैन':'No revision note for this topic yet'}: <strong>${esc(missingTopic)}</strong>.</p><p class="muted">${lang==='ne'?'तलका विषयका नोटहरू तयार छन्। नोट लेखेर योगदान गर्न चाहनुहुन्छ? CONTRIBUTING.md → “Revision notes” हेर्नुहोस्।':'Notes for the topics below are ready. Want to write one? See CONTRIBUTING.md → “Revision notes”.'}</p></div>`:'';
   if(!dataReady){ box.innerHTML=missHtml+skelBlock(3); return; }
   if(!NOTES.length){ box.innerHTML=missHtml+errorState(B('Revision notes could not be loaded','रिभिजन नोटहरू लोड हुन सकेनन्'), B('The notes failed to load. Check your connection and try again.','नोटहरू लोड हुन असफल भए। आफ्नो इन्टरनेट कनेक्सन जाँचेर पुनः प्रयास गर्नुहोस्।')); return; }
   box.innerHTML=`${missHtml}
@@ -2430,7 +2415,7 @@ function renderSubmit(){
   const box = document.getElementById('submit-box'); if (!box) return;
   const c = submissionCounts();
   box.innerHTML = `
-    <div class="card" style="border-color:#f59e0b"><strong>⚠️ ${B('Reviewed before publishing.','प्रकाशनअघि समीक्षा हुन्छ।')}</strong> ${B('Submissions go through automatic checks (duplicate detection, spam heuristics, rate limit) <em>and</em> maintainer review. <strong>First-time submissions never go live instantly</strong> — Ravi Yadav approves or rejects every one. Contributors with 3+ approved questions and 0 rejections get faster review.','पेस गरिएका प्रश्न स्वचालित जाँच (डुप्लिकेट पहिचान, स्पाम नियम, दर सीमा) <em>र</em> समीक्षक समीक्षाबाट जान्छन्। <strong>पहिलो पेस कहिल्यै तुरुन्त लाइभ हुँदैन</strong> — रवि यादवले हरेक प्रश्न स्वीकृत वा अस्वीकृत गर्नुहुन्छ। ३+ स्वीकृत प्रश्न र ० अस्वीकृति भएका योगदानकर्ताको समीक्षा छिटो हुन्छ।')}</div>
+    <div class="card" style="border-color:#ea580c"><strong>⚠️ ${B('Reviewed before publishing.','प्रकाशनअघि समीक्षा हुन्छ।')}</strong> ${B('Submissions go through automatic checks (duplicate detection, spam heuristics, rate limit) <em>and</em> maintainer review. <strong>First-time submissions never go live instantly</strong> — Ravi Yadav approves or rejects every one. Contributors with 3+ approved questions and 0 rejections get faster review.','पेस गरिएका प्रश्न स्वचालित जाँच (डुप्लिकेट पहिचान, स्पाम नियम, दर सीमा) <em>र</em> समीक्षक समीक्षाबाट जान्छन्। <strong>पहिलो पेस कहिल्यै तुरुन्त लाइभ हुँदैन</strong> — रवि यादवले हरेक प्रश्न स्वीकृत वा अस्वीकृत गर्नुहुन्छ। ३+ स्वीकृत प्रश्न र ० अस्वीकृति भएका योगदानकर्ताको समीक्षा छिटो हुन्छ।')}</div>
     <p class="muted" id="sub-counts">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending}</p>
     <div class="card"><h3>The exact format — copy this template</h3>
       <p class="muted">Every question must follow this JSON shape (the same schema as the bank). Nepali fields are required — the bank is 100% bilingual.</p>
@@ -2993,9 +2978,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!menu.hasAttribute('hidden')){ setOpen(false); btn.focus(); } });
     menu.querySelectorAll('button[data-view]').forEach(function(b){ b.addEventListener('click',function(){ setOpen(false); }); });
   })();
-  // Restore the saved theme (dark is the HTML default when nothing is saved).
-  try{ const saved=localStorage.getItem(THEME_KEY); applyTheme(saved==='light'||saved==='dark'?saved:(document.documentElement.dataset.theme||'dark')); }catch(e){ applyTheme('dark'); }
-  const th=document.getElementById('theme-toggle'); if(th) th.addEventListener('click',toggleTheme);
   const lg=document.getElementById('lang-toggle'); if(lg){ lg.textContent = lang==='ne'?'NE · नेपाली':'EN · English'; lg.addEventListener('click',()=>setLang(lang==='ne'?'en':'ne')); }
   const topics=new Set(); // filled after load
   loadData().then(()=>{
@@ -3280,7 +3262,7 @@ function renderPrintPaperHtml(){
   const letters=['A','B','C','D'];
   const negTxt=p.negative==null?B('unverified — check the notice','अपुष्ट — सूचना हेर्नुहोस्'):p.negative===0?B('none','छैन'):Math.round(p.negative*100)+'%';
   let h=`<div class="paper"><div class="no-print" style="margin-bottom:10px"><button class="btn" onclick="window.print()">${B('🖨️ Print paper','🖨️ पेपर प्रिन्ट गर्नुहोस्')}</button> <button class="btn secondary" onclick="printPaper=null;renderPrint()">${B('↺ New paper','↺ नयाँ पेपर')}</button></div>`;
-  if(printPaper.short) h+=`<p class="no-print" style="border:1px solid #f59e0b;border-radius:8px;padding:10px">⚠️ ${B(`The bank has only ${printPaper.pool} questions tagged for this exam — this paper is shortened to ${qs.length} questions.`,'यस परीक्षाका लागि बैंकमा जम्मा '+printPaper.pool+' प्रश्न मात्र छन् — यो पेपर '+qs.length+' प्रश्नमा छोट्याइएको छ।')}</p>`;
+  if(printPaper.short) h+=`<p class="no-print" style="border:1px solid #ea580c;border-radius:8px;padding:10px">⚠️ ${B(`The bank has only ${printPaper.pool} questions tagged for this exam — this paper is shortened to ${qs.length} questions.`,'यस परीक्षाका लागि बैंकमा जम्मा '+printPaper.pool+' प्रश्न मात्र छन् — यो पेपर '+qs.length+' प्रश्नमा छोट्याइएको छ।')}</p>`;
   h+=`<div class="paper-head"><h2>${esc(examName(e))} — ${B('Prelim Practice Paper','प्रिलिम अभ्यास पेपर')}</h2>
   <p><strong>${B('Questions','प्रश्नहरू')}:</strong> ${qs.length} × ${p.marksPerQ} ${B('marks','अङ्क')} = ${qs.length*p.marksPerQ} &nbsp;·&nbsp; <strong>${B('Time','समय')}:</strong> ${p.timeMin==null?B('unverified','अपुष्ट'):p.timeMin+' '+B('min','मिनेट')} &nbsp;·&nbsp; <strong>${B('Pass','उत्तीर्ण')}:</strong> ${p.pass}/${p.total} &nbsp;·&nbsp; <strong>${B('Negative marking','नेगेटिभ मार्किङ')}:</strong> ${negTxt}</p>
   <p>${B('Name','नाम')}: ____________________ &nbsp; ${B('Date','मिति')}: __________ &nbsp; ${B('Score','स्कोर')}: ______ / ${qs.length*p.marksPerQ}</p>
@@ -3869,7 +3851,7 @@ function dismissFestival(id){
 }
 function festConfetti(){
   if(prefersReducedMotion()) return '';
-  const cols=['#f59e0b','#ec4899','#22c55e','#3b82f6','#eab308','#a855f7'];
+  const cols=['#ea580c','#ec4899','#22c55e','#3b82f6','#f97316','#fed7aa'];
   let s='';
   for(let i=0;i<12;i++){
     const left=(i*83)%100, delay=(i%6)*0.7, dur=5+(i%4), c=cols[i%cols.length], sz=6+(i%3)*3;
@@ -3889,7 +3871,7 @@ function renderFestivalCard(){
     const also=rest.length?`<p class="fest-also">${B('Also today:','आज अरू पनि:')} ${rest.map(festName).join(', ')}</p>`:'';
     const up=festivalsUpcoming(3);
     const strip=up.length?`<div class="fest-strip">${up.map(u=>`<span class="chip">${esc(u.emoji||'🎉')} ${festName(u)} · ${esc(fmtBs(u.start_bs))}</span>`).join('')}</div>`:'';
-    box.innerHTML=`<div class="fest-card" style="--fest:${esc(f.accent||'#f59e0b')}">
+    box.innerHTML=`<div class="fest-card" style="--fest:${esc(f.accent||'#ea580c')}">
       ${festConfetti()}
       <button class="rem-x fest-x" aria-label="${B('Dismiss','हटाउनुहोस्')}" onclick="dismissFestival('${esc(f.id)}')">×</button>
       <div class="fest-emoji">${esc(f.emoji||'🎉')}</div>
