@@ -889,10 +889,10 @@
    "Yes"
   ],
   "options_ne": [
-   "Cannot be determined",
-   "Only partly",
-   "No",
-   "Yes"
+   "निर्धारण गर्न सकिँदैन",
+   "आंशिक मात्र",
+   "होइन",
+   "हो"
   ],
   "answer": 3,
   "explanation": "246 ÷ 3 = 82 exactly, so yes.",
@@ -925,10 +925,10 @@
    "Yes"
   ],
   "options_ne": [
-   "Only partly",
-   "No",
-   "Cannot be determined",
-   "Yes"
+   "आंशिक मात्र",
+   "होइन",
+   "निर्धारण गर्न सकिँदैन",
+   "हो"
   ],
   "answer": 3,
   "explanation": "375 ÷ 5 = 75 exactly, so yes.",
@@ -961,10 +961,10 @@
    "Only partly"
   ],
   "options_ne": [
-   "No",
-   "Cannot be determined",
-   "Yes",
-   "Only partly"
+   "होइन",
+   "निर्धारण गर्न सकिँदैन",
+   "हो",
+   "आंशिक मात्र"
   ],
   "answer": 2,
   "explanation": "472 ÷ 2 = 236 exactly, so yes.",
@@ -997,10 +997,10 @@
    "Yes"
   ],
   "options_ne": [
-   "Only partly",
-   "Cannot be determined",
-   "No",
-   "Yes"
+   "आंशिक मात्र",
+   "निर्धारण गर्न सकिँदैन",
+   "होइन",
+   "हो"
   ],
   "answer": 3,
   "explanation": "819 ÷ 9 = 91 exactly, so yes.",
@@ -1033,10 +1033,10 @@
    "Cannot be determined"
   ],
   "options_ne": [
-   "Only partly",
-   "Yes",
-   "No",
-   "Cannot be determined"
+   "आंशिक मात्र",
+   "हो",
+   "होइन",
+   "निर्धारण गर्न सकिँदैन"
   ],
   "answer": 1,
   "explanation": "1040 ÷ 10 = 104 exactly, so yes.",
@@ -1069,10 +1069,10 @@
    "Yes"
   ],
   "options_ne": [
-   "Only partly",
-   "No",
-   "Cannot be determined",
-   "Yes"
+   "आंशिक मात्र",
+   "होइन",
+   "निर्धारण गर्न सकिँदैन",
+   "हो"
   ],
   "answer": 3,
   "explanation": "1331 ÷ 11 = 121 exactly, so yes.",
@@ -1105,10 +1105,10 @@
    "Cannot be determined"
   ],
   "options_ne": [
-   "Yes",
-   "No",
-   "Only partly",
-   "Cannot be determined"
+   "हो",
+   "होइन",
+   "आंशिक मात्र",
+   "निर्धारण गर्न सकिँदैन"
   ],
   "answer": 0,
   "explanation": "252 ÷ 6 = 42 exactly, so yes.",
@@ -1141,10 +1141,10 @@
    "Yes"
   ],
   "options_ne": [
-   "No",
-   "Only partly",
-   "Cannot be determined",
-   "Yes"
+   "होइन",
+   "आंशिक मात्र",
+   "निर्धारण गर्न सकिँदैन",
+   "हो"
   ],
   "answer": 3,
   "explanation": "945 ÷ 7 = 135 exactly, so yes.",
@@ -1177,10 +1177,10 @@
    "Only partly"
   ],
   "options_ne": [
-   "Cannot be determined",
-   "Yes",
-   "No",
-   "Only partly"
+   "निर्धारण गर्न सकिँदैन",
+   "हो",
+   "होइन",
+   "आंशिक मात्र"
   ],
   "answer": 1,
   "explanation": "1122 ÷ 3 = 374 exactly, so yes.",
@@ -1213,10 +1213,10 @@
    "No"
   ],
   "options_ne": [
-   "Cannot be determined",
-   "Yes",
-   "Only partly",
-   "No"
+   "निर्धारण गर्न सकिँदैन",
+   "हो",
+   "आंशिक मात्र",
+   "होइन"
   ],
   "answer": 1,
   "explanation": "2070 ÷ 9 = 230 exactly, so yes.",
