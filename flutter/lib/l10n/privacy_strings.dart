@@ -15,8 +15,8 @@ class PrivacyStrings {
       t('Last updated: 12 November 2026', 'अन्तिम अपडेट: १२ नोभेम्बर २०२६');
 
   String get intro => t(
-        'LokSewa Vidyapeeth is built to respect your privacy. In short: the app collects nothing about you, and everything you do in it stays on your phone.',
-        'लोक सेवा विद्यापीठ तपाईंको गोपनीयताको सम्मान गर्न बनाइएको हो। छोटकरीमा: एपले तपाईंको बारेमा केही संकलन गर्दैन, र तपाईंले यसमा गर्ने सबै कुरा तपाईंको फोनमै रहन्छ।',
+        'Outrank is built to respect your privacy. In short: the app collects nothing about you, and everything you do in it stays on your phone.',
+        'Outrank तपाईंको गोपनीयताको सम्मान गर्न बनाइएको हो। छोटकरीमा: एपले तपाईंको बारेमा केही संकलन गर्दैन, र तपाईंले यसमा गर्ने सबै कुरा तपाईंको फोनमै रहन्छ।',
       );
 
   /// (title, body) pairs, in display order.
@@ -24,8 +24,8 @@ class PrivacyStrings {
         (
           t('What we collect', 'हामी के संकलन गर्छौं'),
           t(
-            'Nothing. LokSewa Vidyapeeth has no accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect your name, email, phone number, location or device identifiers.',
-            'केही पनि होइन। लोक सेवा विद्यापीठमा खाता छैन, साइन-इन छैन, एनालिटिक्स छैन, विज्ञापन छैन र ट्र्याकिङ छैन। हामी तपाईंको नाम, इमेल, फोन नम्बर, स्थान वा डिभाइस विवरण संकलन गर्दैनौं।',
+            'Nothing. Outrank has no accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect your name, email, phone number, location or device identifiers.',
+            'केही पनि होइन। Outrank मा खाता छैन, साइन-इन छैन, एनालिटिक्स छैन, विज्ञापन छैन र ट्र्याकिङ छैन। हामी तपाईंको नाम, इमेल, फोन नम्बर, स्थान वा डिभाइस विवरण संकलन गर्दैनौं।',
           ),
         ),
         (
