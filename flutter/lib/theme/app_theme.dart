@@ -2,41 +2,122 @@ import 'package:flutter/material.dart';
 
 /// LokSewa Vidyapeeth design system.
 ///
-/// Minimal white + orange, mirroring the web portal's tokens
+/// Minimal white + orange (light, the default) and the same orange on
+/// clean charcoal (dark), mirroring the web portal's tokens
 /// (loksewa-prep-nepal/assets/css/style.css §1 "Design tokens") so the
-/// Flutter app and the web portal share one visual identity: white
-/// surfaces, warm stone borders, one orange brand family. Single light
-/// theme — no dark mode, no gradients. 4px spacing rhythm, 44px minimum
-/// tap targets.
+/// Flutter app and the web portal share one visual identity. No navy,
+/// no indigo, no purple, no gradients. 4px spacing rhythm, 44px
+/// minimum tap targets.
+///
+/// Colors are theme-aware: widgets read them through
+/// `AppColors.of(context)`, which returns the palette for the current
+/// brightness. The theme builders use the palette consts directly.
+class AppPalette {
+  final Color bg;
+  final Color bg2;
+  final Color card;
+  final Color card2;
+  final Color text;
+  final Color muted;
+  final Color faint;
+  final Color border;
+  final Color borderSoft;
+  final Color accent;
+  final Color accentStrong;
+  final Color accentDeep;
+  final Color accentInk;
+  final Color accentSoft;
+  final Color accentLine;
+  final Color green;
+  final Color greenSoft;
+  final Color danger;
+  final Color dangerSoft;
+  final Color blue;
+  final Color blueSoft;
+
+  const AppPalette({
+    required this.bg,
+    required this.bg2,
+    required this.card,
+    required this.card2,
+    required this.text,
+    required this.muted,
+    required this.faint,
+    required this.border,
+    required this.borderSoft,
+    required this.accent,
+    required this.accentStrong,
+    required this.accentDeep,
+    required this.accentInk,
+    required this.accentSoft,
+    required this.accentLine,
+    required this.green,
+    required this.greenSoft,
+    required this.danger,
+    required this.dangerSoft,
+    required this.blue,
+    required this.blueSoft,
+  });
+
+  /// Light (default): minimal white + orange.
+  static const light = AppPalette(
+    bg: Color(0xFFFFFFFF),
+    bg2: Color(0xFFFFFFFF),
+    card: Color(0xFFFFFFFF),
+    card2: Color(0xFFF5F5F4),
+    text: Color(0xFF111827),
+    muted: Color(0xFF6B7280),
+    faint: Color(0xFF9CA3AF),
+    border: Color(0xFFE7E5E4),
+    borderSoft: Color(0xFFF5F5F4),
+    accent: Color(0xFFEA580C),
+    accentStrong: Color(0xFFF97316),
+    accentDeep: Color(0xFFC2410C),
+    accentInk: Color(0xFFFFFFFF),
+    accentSoft: Color(0x14EA580C), // ~8%
+    accentLine: Color(0x59EA580C), // ~35%
+    green: Color(0xFF16A34A),
+    greenSoft: Color(0x1A16A34A),
+    danger: Color(0xFFDC2626),
+    dangerSoft: Color(0x14DC2626),
+    blue: Color(0xFF2563EB),
+    blueSoft: Color(0x142563EB),
+  );
+
+  /// Dark: the same orange on clean charcoal.
+  static const dark = AppPalette(
+    bg: Color(0xFF121212),
+    bg2: Color(0xFF1E1E1E),
+    card: Color(0xFF1E1E1E),
+    card2: Color(0xFF2A2A2A),
+    text: Color(0xFFF5F5F4),
+    muted: Color(0xFFA3A3A3),
+    faint: Color(0xFF737373),
+    border: Color(0xFF333333),
+    borderSoft: Color(0xFF262626),
+    accent: Color(0xFFF97316),
+    accentStrong: Color(0xFFFB923C),
+    accentDeep: Color(0xFFFDBA74),
+    accentInk: Color(0xFF1C0F00),
+    accentSoft: Color(0x26F97316), // ~15%
+    accentLine: Color(0x66F97316), // ~40%
+    green: Color(0xFF22C55E),
+    greenSoft: Color(0x2622C55E),
+    danger: Color(0xFFEF4444),
+    dangerSoft: Color(0x26EF4444),
+    blue: Color(0xFF3B82F6),
+    blueSoft: Color(0x293B82F6),
+  );
+}
+
 class AppColors {
-  // --- surfaces ---
-  static const bg = Color(0xFFFFFFFF);
-  static const bg2 = Color(0xFFFFFFFF);
-  static const card = Color(0xFFFFFFFF);
-  static const card2 = Color(0xFFF5F5F4);
-  static const text = Color(0xFF111827);
-  static const muted = Color(0xFF6B7280);
-  static const faint = Color(0xFF9CA3AF);
-  static const border = Color(0xFFE7E5E4);
-  static const borderSoft = Color(0xFFF5F5F4);
-
-  // --- brand: orange family ---
-  static const accent = Color(0xFFEA580C);
-  static const accentStrong = Color(0xFFF97316);
-  static const accentDeep = Color(0xFFC2410C);
-  static const accentInk = Color(0xFFFFFFFF);
-  static const accentSoft = Color(0x14EA580C); // ~8%
-  static const accentLine = Color(0x59EA580C); // ~35%
-
-  // --- semantic ---
-  static const green = Color(0xFF16A34A);
-  static const greenSoft = Color(0x1A16A34A);
-  static const danger = Color(0xFFDC2626);
-  static const dangerSoft = Color(0x14DC2626);
-  // Blue is functional, not brand: exam-date "later" chips and the mock
-  // palette's "current question" state.
-  static const blue = Color(0xFF2563EB);
-  static const blueSoft = Color(0x142563EB);
+  /// The palette for the current theme brightness. Light is the
+  /// default; dark resolves when the dark theme is active.
+  static AppPalette of(BuildContext context) {
+    return Theme.of(context).brightness == Brightness.dark
+        ? AppPalette.dark
+        : AppPalette.light;
+  }
 }
 
 /// Spacing rhythm — 4px base, mirrors --sp-* tokens.
@@ -100,38 +181,39 @@ class AppType {
 }
 
 ThemeData buildAppTheme() {
+  const p = AppPalette.light;
   final scheme = ColorScheme.fromSeed(
-    seedColor: AppColors.accent,
+    seedColor: p.accent,
     brightness: Brightness.light,
-    surface: AppColors.card,
+    surface: p.card,
   );
   return ThemeData(
     useMaterial3: true,
     brightness: Brightness.light,
-    scaffoldBackgroundColor: AppColors.bg,
+    scaffoldBackgroundColor: p.bg,
     colorScheme: scheme.copyWith(
-      primary: AppColors.accent,
-      onPrimary: AppColors.accentInk,
-      surface: AppColors.card,
-      onSurface: AppColors.text,
+      primary: p.accent,
+      onPrimary: p.accentInk,
+      surface: p.card,
+      onSurface: p.text,
     ),
-    appBarTheme: const AppBarTheme(
-      backgroundColor: AppColors.bg2,
-      foregroundColor: AppColors.text,
+    appBarTheme: AppBarTheme(
+      backgroundColor: p.bg2,
+      foregroundColor: p.text,
       elevation: 0,
     ),
     cardTheme: CardThemeData(
-      color: AppColors.card,
+      color: p.card,
       elevation: 0,
       shape: RoundedRectangleBorder(
         borderRadius: AppRadius.mdAll,
-        side: const BorderSide(color: AppColors.borderSoft),
+        side: BorderSide(color: p.borderSoft),
       ),
     ),
-    bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-      backgroundColor: AppColors.bg2,
-      selectedItemColor: AppColors.accentDeep,
-      unselectedItemColor: AppColors.muted,
+    bottomNavigationBarTheme: BottomNavigationBarThemeData(
+      backgroundColor: p.bg2,
+      selectedItemColor: p.accentDeep,
+      unselectedItemColor: p.muted,
     ),
     textTheme: const TextTheme(
       displayLarge: AppType.display,
@@ -142,6 +224,54 @@ ThemeData buildAppTheme() {
       bodyMedium: AppType.body,
       bodySmall: AppType.small,
       labelSmall: AppType.tiny,
-    ).apply(bodyColor: AppColors.text, displayColor: AppColors.text),
+    ).apply(bodyColor: p.text, displayColor: p.text),
+  );
+}
+
+ThemeData buildDarkTheme() {
+  const p = AppPalette.dark;
+  final scheme = ColorScheme.fromSeed(
+    seedColor: p.accent,
+    brightness: Brightness.dark,
+    surface: p.card,
+  );
+  return ThemeData(
+    useMaterial3: true,
+    brightness: Brightness.dark,
+    scaffoldBackgroundColor: p.bg,
+    colorScheme: scheme.copyWith(
+      primary: p.accent,
+      onPrimary: p.accentInk,
+      surface: p.card,
+      onSurface: p.text,
+    ),
+    appBarTheme: AppBarTheme(
+      backgroundColor: p.bg2,
+      foregroundColor: p.text,
+      elevation: 0,
+    ),
+    cardTheme: CardThemeData(
+      color: p.card,
+      elevation: 0,
+      shape: RoundedRectangleBorder(
+        borderRadius: AppRadius.mdAll,
+        side: BorderSide(color: p.borderSoft),
+      ),
+    ),
+    bottomNavigationBarTheme: BottomNavigationBarThemeData(
+      backgroundColor: p.bg2,
+      selectedItemColor: p.accentDeep,
+      unselectedItemColor: p.muted,
+    ),
+    textTheme: const TextTheme(
+      displayLarge: AppType.display,
+      headlineMedium: AppType.h1,
+      titleLarge: AppType.h2,
+      titleMedium: AppType.h3,
+      bodyLarge: AppType.lead,
+      bodyMedium: AppType.body,
+      bodySmall: AppType.small,
+      labelSmall: AppType.tiny,
+    ).apply(bodyColor: p.text, displayColor: p.text),
   );
 }
