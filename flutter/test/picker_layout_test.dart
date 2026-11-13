@@ -52,7 +52,7 @@ Future<void> _pump(
     AnimatedBuilder(
       animation: state,
       builder: (context, _) => MaterialApp(
-        theme: buildDarkTheme(),
+        theme: buildAppTheme(),
         home: AppStateScope(
           state: state,
           child: Builder(builder: (context) => screen),
