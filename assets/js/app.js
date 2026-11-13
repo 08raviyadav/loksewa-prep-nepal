@@ -177,6 +177,20 @@ function qText(q){ return (lang === 'ne' && q.question_ne) ? q.question_ne : q.q
 function qOpts(q){ return (lang === 'ne' && Array.isArray(q.options_ne)) ? q.options_ne : q.options; }
 function qExpl(q){ return (lang === 'ne' && q.explanation_ne) ? q.explanation_ne : (q.explanation || ''); }
 function getLang(){ return lang; }
+// Theme: light is the default. The user's explicit choice persists in
+// localStorage as 'loksewa_theme' so the toggle survives reloads.
+const THEME_KEY = 'loksewa_theme';
+function applyTheme(t){
+  const theme = (t === 'dark') ? 'dark' : 'light';
+  document.documentElement.dataset.theme = theme;
+  const b = document.getElementById('theme-toggle');
+  if (b) b.textContent = theme === 'dark' ? '🌙 Dark' : '☀️ Light';
+}
+function toggleTheme(){
+  const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  try { localStorage.setItem(THEME_KEY, next); } catch (e) {}
+  applyTheme(next);
+}
 function setLang(l){
   lang = (l === 'ne') ? 'ne' : 'en';
   try { localStorage.setItem(LANG_KEY, lang); } catch (e) {}
@@ -2978,6 +2992,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!menu.hasAttribute('hidden')){ setOpen(false); btn.focus(); } });
     menu.querySelectorAll('button[data-view]').forEach(function(b){ b.addEventListener('click',function(){ setOpen(false); }); });
   })();
+  // Restore the saved theme (light is the default when nothing is saved).
+  try{ const saved=localStorage.getItem(THEME_KEY); applyTheme(saved==='dark'?'dark':'light'); }catch(e){ applyTheme('light'); }
+  const th=document.getElementById('theme-toggle'); if(th) th.addEventListener('click',toggleTheme);
   const lg=document.getElementById('lang-toggle'); if(lg){ lg.textContent = lang==='ne'?'NE · नेपाली':'EN · English'; lg.addEventListener('click',()=>setLang(lang==='ne'?'en':'ne')); }
   const topics=new Set(); // filled after load
   loadData().then(()=>{
