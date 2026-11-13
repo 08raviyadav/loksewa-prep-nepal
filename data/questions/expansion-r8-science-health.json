@@ -232,10 +232,10 @@
   "source": "Physics — SI units",
   "question_ne": "घनत्व को SI एकाइ के हो?",
   "options_ne": [
-   "Newton per square metre",
-   "Kilogram per cubic metre",
-   "Joule per kilogram",
-   "Watt per metre"
+   "न्युटन प्रति वर्ग मिटर",
+   "किलोग्राम प्रति घन मिटर",
+   "जुल प्रति किलोग्राम",
+   "वाट प्रति मिटर"
   ],
   "explanation_ne": "घनत्व को SI एकाइ Kilogram per cubic metre हो।"
  },
@@ -292,10 +292,10 @@
   "source": "Physics — SI units",
   "question_ne": "विशिष्ट ताप क्षमता को SI एकाइ के हो?",
   "options_ne": [
-   "Joule per kelvin",
-   "Watt per metre kelvin",
-   "Joule per kilogram kelvin",
-   "Calorie per gram"
+   "जुल प्रति केल्भिन",
+   "वाट प्रति मिटर केल्भिन",
+   "जुल प्रति किलोग्राम केल्भिन",
+   "क्यालोरी प्रति ग्राम"
   ],
   "explanation_ne": "विशिष्ट ताप क्षमता को SI एकाइ Joule per kilogram kelvin हो।"
  },
@@ -322,10 +322,10 @@
   "source": "Physics — SI units",
   "question_ne": "तापीय चालकता को SI एकाइ के हो?",
   "options_ne": [
-   "Joule per kelvin",
-   "Watt per kelvin",
-   "Joule per kilogram",
-   "Watt per metre kelvin"
+   "जुल प्रति केल्भिन",
+   "वाट प्रति केल्भिन",
+   "जुल प्रति किलोग्राम",
+   "वाट प्रति मिटर केल्भिन"
   ],
   "explanation_ne": "तापीय चालकता को SI एकाइ Watt per metre kelvin हो।"
  },
@@ -412,10 +412,10 @@
   "source": "Physics — SI units",
   "question_ne": "आवेग को SI एकाइ के हो?",
   "options_ne": [
-   "Joule second",
-   "Watt second",
-   "Newton metre",
-   "Newton second"
+   "जुल सेकेन्ड",
+   "वाट सेकेन्ड",
+   "न्युटन मिटर",
+   "न्युटन सेकेन्ड"
   ],
   "explanation_ne": "आवेग को SI एकाइ Newton second हो।"
  },
@@ -472,10 +472,10 @@
   "source": "Physics — SI units",
   "question_ne": "समतल कोण को SI एकाइ के हो?",
   "options_ne": [
-   "Degree",
-   "Steradian",
-   "Revolution",
-   "Radian"
+   "डिग्री",
+   "स्टेरेडियन",
+   "परिक्रमा",
+   "रेडियन"
   ],
   "explanation_ne": "समतल कोण को SI एकाइ Radian हो।"
  },
