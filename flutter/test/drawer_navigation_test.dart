@@ -37,7 +37,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 /// async — without it, its PushScope stays a no-op and no drawer tap
 /// can navigate.
 Future<void> _pumpApp(WidgetTester tester) async {
-  SharedPreferences.setMockInitialValues({});
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
   // Phone-ish viewport: the countdown card overflows at the default
   // 800px test width, while the Discussion Hub dropdown overflows
   // below ~435px under the wider test font (it fits fine on the
