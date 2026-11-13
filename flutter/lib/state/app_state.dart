@@ -13,7 +13,8 @@ class AppState extends ChangeNotifier {
   static const _kReminders = 'loksewa_reminders_v1';
   static const _kDismissed = 'loksewa_rem_dismissed_v1';
 
-  AppLang _lang = AppLang.en;
+  // v1.0.9: Nepali is the default (a saved preference still wins).
+  AppLang _lang = AppLang.ne;
   ThemeMode _themeMode = ThemeMode.light;
   Set<String> _reminders = {};
   Set<String> _dismissed = {};
