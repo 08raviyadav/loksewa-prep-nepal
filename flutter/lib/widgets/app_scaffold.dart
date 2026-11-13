@@ -7,7 +7,9 @@ import 'package:url_launcher/url_launcher.dart';
 import '../l10n/community_strings.dart';
 import '../l10n/examdates_strings.dart';
 import '../l10n/history_strings.dart';
+import '../l10n/tour_strings.dart';
 import '../l10n/v104_strings.dart';
+import '../onboarding/tour.dart';
 import '../services/update_checker.dart';
 import '../state/app_state.dart';
 import '../theme/app_theme.dart';
@@ -24,6 +26,11 @@ class AppScaffold extends StatelessWidget {
   final List<Widget>? actions;
   final Widget? floatingActionButton;
 
+  /// Tour key for the bottom navigation bar (v1.0.7). Passed only by
+  /// the four tab screens — one tab screen is mounted at a time, so
+  /// the GlobalKey never duplicates. Pushed drawer pages don't pass it.
+  final Key? bottomNavKey;
+
   const AppScaffold({
     super.key,
     required this.title,
@@ -32,6 +39,7 @@ class AppScaffold extends StatelessWidget {
     required this.onNav,
     this.actions,
     this.floatingActionButton,
+    this.bottomNavKey,
   });
 
   @override
@@ -81,6 +89,7 @@ class AppScaffold extends StatelessWidget {
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        key: bottomNavKey,
         currentIndex: currentIndex,
         onTap: onNav,
         type: BottomNavigationBarType.fixed,
@@ -151,6 +160,23 @@ class _AppDrawer extends StatelessWidget {
       // The share sheet basically never fails on Android; if it does,
       // there is nothing useful to show — the user just taps again.
     }
+  }
+
+  /// Replays the first-launch tour (v1.0.7): closes the drawer, returns
+  /// to the Home tab, then restarts the tour from step 1 once the home
+  /// screen has settled.
+  void _replayTour(BuildContext context) {
+    final rootContext = Navigator.of(context).context;
+    Navigator.pop(context); // close the drawer first
+    Navigator.of(rootContext).popUntil((r) => r.isFirst);
+    onNav(0);
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Future<void>.delayed(const Duration(milliseconds: 600), () {
+        if (rootContext.mounted) {
+          TourScope.of(rootContext)?.replay();
+        }
+      });
+    });
   }
 
   /// Manual update check: asks GitHub for the latest release, compares
@@ -356,6 +382,11 @@ class _AppDrawer extends StatelessWidget {
             leading: const Icon(Icons.person_add_outlined),
             title: Text(s.inviteTitle),
             onTap: () => _shareText(context, s.inviteMessage),
+          ),
+          ListTile(
+            leading: const Icon(Icons.school_outlined),
+            title: Text(s.tourReplayTitle),
+            onTap: () => _replayTour(context),
           ),
           const Divider(),
           ListTile(
