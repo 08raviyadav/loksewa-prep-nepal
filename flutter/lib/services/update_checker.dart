@@ -1,4 +1,4 @@
-/// Checks GitHub for a newer LokSewa Vidyapeeth release (v1.0.2).
+/// Checks GitHub for a newer Outrank release (v1.0.2).
 ///
 /// Reads the repo's latest release tag (e.g. `android-v1.0.2`) via the
 /// public GitHub API — no auth, no data sent — and compares it with the
