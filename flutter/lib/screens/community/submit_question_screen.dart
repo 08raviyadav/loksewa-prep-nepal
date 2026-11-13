@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../l10n/app_strings.dart';
 import '../../l10n/community_strings.dart';
 import '../../state/community_store.dart';
+import '../../theme/app_theme.dart';
 import '../../widgets/app_scaffold.dart';
 import '../../data/data_repository.dart';
 
@@ -183,7 +184,7 @@ class _SubmitQuestionScreenState extends State<SubmitQuestionScreen>
         padding: const EdgeInsets.all(16),
         children: [
           Card(
-            color: Colors.amber.shade900.withValues(alpha: 0.25),
+            color: AppColors.accentSoft,
             child: Padding(
               padding: const EdgeInsets.all(12),
               child: Text.rich(
