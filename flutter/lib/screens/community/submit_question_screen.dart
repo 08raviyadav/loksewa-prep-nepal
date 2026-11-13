@@ -184,7 +184,7 @@ class _SubmitQuestionScreenState extends State<SubmitQuestionScreen>
         padding: const EdgeInsets.all(16),
         children: [
           Card(
-            color: AppColors.accentSoft,
+            color: AppColors.of(context).accentSoft,
             child: Padding(
               padding: const EdgeInsets.all(12),
               child: Text.rich(
@@ -355,7 +355,7 @@ class _SubmitQuestionScreenState extends State<SubmitQuestionScreen>
             const SizedBox(height: 8),
             Text(
               '✓ ${s.submitDone}',
-              style: const TextStyle(color: Colors.green),
+              style: TextStyle(color: AppColors.of(context).green),
             ),
           ],
           const SizedBox(height: 8),
@@ -486,7 +486,7 @@ class _SubmitQuestionScreenState extends State<SubmitQuestionScreen>
                   icon: const Text('✓'),
                   label: Text(s.approveBtn),
                   style: FilledButton.styleFrom(
-                    backgroundColor: Colors.green.shade700,
+                    backgroundColor: AppColors.of(context).green,
                   ),
                   onPressed: () async {
                     await widget.store.approveSubmission(id);
@@ -540,7 +540,9 @@ class _SubmitQuestionScreenState extends State<SubmitQuestionScreen>
         leading: Text(
           approved ? '✓' : '✕',
           style: TextStyle(
-            color: approved ? Colors.green : Colors.red,
+            color: approved
+                ? AppColors.of(context).green
+                : AppColors.of(context).danger,
             fontSize: 20,
           ),
         ),

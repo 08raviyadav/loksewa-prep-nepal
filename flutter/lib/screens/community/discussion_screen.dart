@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../l10n/app_strings.dart';
 import '../../l10n/community_strings.dart';
 import '../../state/community_store.dart';
+import '../../theme/app_theme.dart';
 import '../../widgets/app_scaffold.dart';
 import '../../data/data_repository.dart';
 
@@ -237,7 +238,10 @@ class _DiscussionScreenState extends State<DiscussionScreen> {
               ],
               if (_submitted) ...[
                 const SizedBox(height: 8),
-                const Text('✓', style: TextStyle(color: Colors.green)),
+                Text(
+                  '✓',
+                  style: TextStyle(color: AppColors.of(context).green),
+                ),
               ],
               const SizedBox(height: 8),
               FilledButton(

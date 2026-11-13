@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../l10n/app_strings.dart';
 import '../../l10n/community_strings.dart';
 import '../../state/community_store.dart';
+import '../../theme/app_theme.dart';
 import '../../widgets/app_scaffold.dart';
 
 /// Suggestions (Milestone 6) — matches the vanilla site's Suggest tab:
@@ -178,7 +179,7 @@ class _SuggestionsScreenState extends State<SuggestionsScreen> {
                 const SizedBox(height: 8),
                 Text(
                   '✓ ${s.suggestDone}',
-                  style: const TextStyle(color: Colors.green),
+                  style: TextStyle(color: AppColors.of(context).green),
                 ),
               ],
               const SizedBox(height: 8),
