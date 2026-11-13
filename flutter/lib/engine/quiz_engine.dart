@@ -56,6 +56,12 @@ class QuizConfig {
       qotdSeed; // question-of-the-day key (yyyy-MM-dd); marks qotdDone
   final bool reviewMistakes; // mistake review: correct answers clear them
 
+  /// v1.0.9: the language the quiz starts in — the engine shuffles
+  /// `optionsNe` when true (falling back to English per question when a
+  /// translation is missing), so options render Nepali in Nepali mode.
+  /// Captured at launch; a mid-quiz language toggle must not reshuffle.
+  final bool nepali;
+
   const QuizConfig({
     required this.questions,
     this.negOn = true,
@@ -68,6 +74,7 @@ class QuizConfig {
     this.dailySeed,
     this.qotdSeed,
     this.reviewMistakes = false,
+    this.nepali = false,
   });
 }
 
@@ -167,12 +174,19 @@ List<T> _shuffled<T>(List<T> items, Random rng) {
 }
 
 /// Shuffle one question's options, remapping the correct answer —
-/// vanilla `shuffleOptions`.
-QuizQuestionView shuffleQuestionOptions(Question q, Random rng) {
-  final idx = _shuffled(List<int>.generate(q.options.length, (i) => i), rng);
+/// vanilla `shuffleOptions`. [nepali] picks the translated options
+/// (`Question.opts` falls back to English when a translation is
+/// missing or the lengths mismatch).
+QuizQuestionView shuffleQuestionOptions(
+  Question q,
+  Random rng, {
+  bool nepali = false,
+}) {
+  final opts = q.opts(nepali);
+  final idx = _shuffled(List<int>.generate(opts.length, (i) => i), rng);
   return QuizQuestionView(
     question: q,
-    shuffledOptions: idx.map((i) => q.options[i]).toList(),
+    shuffledOptions: idx.map((i) => opts[i]).toList(),
     correctIndex: idx.indexOf(q.answer),
   );
 }
@@ -190,7 +204,9 @@ class QuizEngine {
 
   static List<QuizQuestionView> _buildViews(QuizConfig config) {
     final rng = config.seed == null ? Random() : Random(config.seed as int);
-    return config.questions.map((q) => shuffleQuestionOptions(q, rng)).toList();
+    return config.questions
+        .map((q) => shuffleQuestionOptions(q, rng, nepali: config.nepali))
+        .toList();
   }
 
   int get length => views.length;
