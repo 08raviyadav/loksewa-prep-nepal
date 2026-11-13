@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:share_plus/share_plus.dart';
 
 import '../../engine/quiz_engine.dart';
+import '../../gamification/result_slangs.dart';
 import '../../l10n/quiz_strings.dart';
 import '../../models/models.dart';
 import '../../state/progress_store.dart';
@@ -23,7 +24,12 @@ class ResultScreen extends StatelessWidget {
   final List<Question> bank;
   final ProgressStore store;
 
-  const ResultScreen({
+  /// The funny slang line for this result, picked ONCE in the constructor
+  /// so rebuilds never re-roll it. The script (Roman / Devanagari) is
+  /// resolved in build from the current app language.
+  final ResultSlang slang;
+
+  ResultScreen({
     super.key,
     required this.result,
     required this.meta,
@@ -31,7 +37,7 @@ class ResultScreen extends StatelessWidget {
     required this.summary,
     required this.bank,
     required this.store,
-  });
+  }) : slang = pickResultSlang(result.score, result.max);
 
   String _fmtTime(int s) {
     final m = s ~/ 60, r = s % 60;
@@ -191,6 +197,12 @@ class ResultScreen extends StatelessWidget {
                         ),
                         style: AppType.small,
                         textAlign: TextAlign.center,
+                      ),
+                      const SizedBox(height: AppSpacing.s3),
+                      _Banner(
+                        key: const Key('result-slang-card'),
+                        text: slang.text(ne),
+                        gold: true,
                       ),
                       const SizedBox(height: AppSpacing.s4),
                       Wrap(
@@ -467,7 +479,7 @@ class _Stat extends StatelessWidget {
 class _Banner extends StatelessWidget {
   final String text;
   final bool gold;
-  const _Banner({required this.text, required this.gold});
+  const _Banner({super.key, required this.text, required this.gold});
 
   @override
   Widget build(BuildContext context) {
