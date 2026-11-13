@@ -10,7 +10,7 @@
          "check your connection" message despite working internet). -->
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="loksewa_vidyapeeth"
+        android:label="Outrank"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
