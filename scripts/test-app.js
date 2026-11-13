@@ -295,7 +295,7 @@ check('personalRecords: best mock per exam, totals, best day, longest streak', (
     && rec.totalXp === 123 && rec.totalQuestions === 160 && rec.bestDay.date === '2026-10-21' && rec.bestDay.total === 110
     && rec.longestStreak === 2 && rec.speedBest === null;
 })(), JSON.stringify(personalRecords({ xp: 0, streak: 0, attempts: [] })));
-check('buildShareText includes score, exam, date and the app name', (() => { const t = buildShareText({ examName: 'Kharidar', mode: 'mock', score: 80, max: 100, pct: 80, passed: true, date: '2026-10-26', speedBonus: 0 }); return t.includes('80/100') && t.includes('Kharidar') && t.includes('2026-10-26') && t.includes('LokSewa Vidyapeeth') && t.includes('PASS'); })());
+check('buildShareText includes score, exam, date and the app name', (() => { const t = buildShareText({ examName: 'Kharidar', mode: 'mock', score: 80, max: 100, pct: 80, passed: true, date: '2026-10-26', speedBonus: 0 }); return t.includes('80/100') && t.includes('Kharidar') && t.includes('2026-10-26') && t.includes('Outrank') && t.includes('PASS'); })());
 check('buildShareText mentions the speed bonus for speed rounds', buildShareText({ examName: 'Kharidar', mode: 'speed', score: 25, max: 20, pct: 100, passed: true, date: '2026-10-26', speedBonus: 5 }).includes('+5 speed bonus'));
 check('getSpeedBest is null before any speed round', getSpeedBest() === null);
 check('home has a Question-of-the-Day box + Speed Round / Mistake Marathon buttons', idsInHtml.has('qotd-box') && idsInHtml.has('speed-best') && html.includes('startSpeedRound()') && html.includes('startMistakeMarathon()'));
@@ -408,7 +408,7 @@ check('heatCell emits an inline rgba background', heatCell('50%', 0.5, '220,60,6
 check('print CSS hides chrome and paginates OMR + answer key', (() => { const css = fs.readFileSync(path.join(root, 'assets/css/style.css'), 'utf8'); return css.includes('@media print') && css.includes('#view-print') && css.includes('.omr-page') && css.includes('page-break-before'); })());
 check('style.css exists and non-empty', fs.statSync(path.join(root, 'assets/css/style.css')).size > 1000);
 check('index.html references app.js and style.css', html.includes('assets/js/app.js') && html.includes('assets/css/style.css'));
-check('index.html carries the LokSewa Vidyapeeth brand in title, logo and footer', html.includes('<title>LokSewa Vidyapeeth') && html.includes('>🇳🇵 LokSewa Vidyapeeth') && html.includes('LokSewa Vidyapeeth — free &amp; open source'));
+check('index.html carries the Outrank brand in title, logo and footer', html.includes('<title>Outrank') && html.includes('>🇳🇵 Outrank') && html.includes('Outrank — free &amp; open source'));
 check('footer links the maintainer GitHub', html.includes('https://github.com/08raviyadav'));
 check('no external CDN / http(s) script or font links in index.html', !/src="https?:|href="https?:\/\/(?!github)/.test(html.replace(/github\.com/g, '')) || !html.includes('<script src="http'));
 
