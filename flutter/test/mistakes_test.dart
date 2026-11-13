@@ -51,7 +51,7 @@ Future<void> _pumpMistakes(
     AppStateScope(
       state: state,
       child: MaterialApp(
-        theme: buildDarkTheme(),
+        theme: buildAppTheme(),
         home: MistakesScreen(
           navIndex: 0,
           onNav: (_) {},
