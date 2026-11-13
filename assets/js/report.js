@@ -434,7 +434,7 @@ function buildGithubIssueUrl(r){
     '- View: ' + (ctx.view || 'unknown')
   ];
   if (qid) lines.push('- Question: ' + qid + (ctx.exam ? ' (' + ctx.exam + ')' : '') + (ctx.topic ? ' — ' + ctx.topic : ''));
-  lines.push('- App: LokSewa Vidyapeeth (web, ' + APP_VERSION + ')', '', '_Reported from the in-app report form. The local save stays on the visitor’s device — this GitHub issue is how it reaches the maintainer._');
+  lines.push('- App: Outrank (web, ' + APP_VERSION + ')', '', '_Reported from the in-app report form. The local save stays on the visitor’s device — this GitHub issue is how it reaches the maintainer._');
   return REPORT_ISSUE_URL + '?title=' + encodeURIComponent(title) + '&body=' + encodeURIComponent(lines.join('\n'));
 }
 function reportOnGithub(id){
