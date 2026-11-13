@@ -190,6 +190,11 @@ footer a{color:var(--accent);font-weight:600}
   font-size:var(--fs-display);line-height:var(--lh-tight);
   letter-spacing:-.015em;color:var(--text);max-width:18ch;
 }
+.hero p.hero-sub{
+  margin:var(--sp-2) 0 0;max-width:62ch;
+  font-size:var(--fs-lead);line-height:var(--lh-loose);
+  color:var(--text);font-weight:600;
+}
 .hero p{  /* subcopy */
   margin:var(--sp-3) 0 var(--sp-5);max-width:62ch;
   font-size:var(--fs-lead);line-height:var(--lh-loose);color:var(--muted);
