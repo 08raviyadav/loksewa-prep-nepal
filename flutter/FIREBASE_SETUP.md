@@ -38,7 +38,7 @@ void main() async {
   final appState = AppState();
   await appState.init();
   await rescheduleAll(); // <-- Milestone 7: arm exam reminders + daily nudge
-  runApp(AppStateScope(state: appState, child: const VidyapeethApp()));
+  runApp(AppStateScope(state: appState, child: const OutrankApp()));
 }
 ```
 
