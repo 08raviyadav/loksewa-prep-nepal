@@ -14233,7 +14233,7 @@
    "Escherichia coli"
   ],
   "options_ne": [
-   "Plasmodium",
+   "प्लाज्मोडियम",
    "Mycobacterium tuberculosis",
    "Staphylococcus aureus",
    "Escherichia coli"
@@ -14459,7 +14459,7 @@
   "options_ne": [
    "Entamoeba histolytica",
    "Ascaris lumbricoides",
-   "Cryptosporidium",
+   "क्रिप्टोस्पोरिडियम",
    "Giardia lamblia"
   ],
   "answer": 3,
@@ -15272,7 +15272,7 @@
    "Staphylococcus aureus",
    "Haemophilus influenzae",
    "Streptococcus pneumoniae",
-   "Mycoplasma"
+   "माइकोप्लाज्मा"
   ],
   "answer": 2,
   "explanation": "Streptococcus pneumoniae is the commonest bacterial cause of pneumonia in young children.",
