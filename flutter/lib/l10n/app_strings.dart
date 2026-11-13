@@ -20,7 +20,8 @@ class AppStrings {
   String t(String en, String ne) => isNe ? ne : en;
 
   // --- app chrome ---
-  String get appName => t('LokSewa Vidyapeeth', 'लोक सेवा विद्यापीठ');
+  // Brand name — "Outrank" in both languages, never translated.
+  String get appName => 'Outrank';
   String get tagline => t(
         'Nepal\u2019s Lok Sewa exams, mastered question by question.',
         'नेपालको लोक सेवा परीक्षा, प्रश्न-प्रश्न गर्दै मास्टर गर्नुहोस्।',
@@ -135,8 +136,8 @@ class AppStrings {
         'अपडेट जाँच्न सकिएन। इन्टरनेट जाँचेर फेरि प्रयास गर्नुहोस्।',
       );
   String get shareMessage => t(
-        'LokSewa Vidyapeeth — free Lok Sewa exam prep: 47 exams, over 64,000 practice questions, mock exams and exam dates. No login, no ads.\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
-        'लोक सेवा विद्यापीठ — निःशुल्क लोक सेवा परीक्षा तयारी: ४७ परीक्षा, ६४,००० भन्दा बढी अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। खाता छैन, विज्ञापन छैन।\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'Outrank — free Lok Sewa exam prep: 47 exams, over 64,000 practice questions, mock exams and exam dates. No login, no ads.\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'Outrank — निःशुल्क लोक सेवा परीक्षा तयारी: ४७ परीक्षा, ६४,००० भन्दा बढी अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। खाता छैन, विज्ञापन छैन।\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
       );
 
   String examKindLabel(String kind) {
