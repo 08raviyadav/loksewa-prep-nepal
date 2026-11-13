@@ -1,3 +1,6 @@
+import 'dart:async';
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -6,6 +9,7 @@ import '../engine/exam_categories.dart';
 import '../engine/quiz_engine.dart';
 import '../l10n/quiz_strings.dart';
 import '../models/models.dart';
+import '../onboarding/tour.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_scaffold.dart';
 import 'quiz/quiz_screen.dart';
@@ -76,6 +80,14 @@ class _PracticeScreenState extends State<PracticeScreen> {
   static const _kRecentKey = 'loksewa_recent_exams_v1';
   static const _kRecentMax = 4;
 
+  // Tour (v1.0.7): the topic chips and the Start button sit below the
+  // fold, so when the tour reaches them this screen scrolls the target
+  // into view. The list builds lazily, so the scroll retries until the
+  // target's widget exists.
+  final _scrollCtrl = ScrollController();
+  TourController? _tour;
+  int _scrollToken = 0;
+
   // Full-bank index: topic counts without parsing 73MB of JSON.
   // (Phase 1 shipped one sample file; the index now covers all 131.)
   @override
@@ -91,9 +103,76 @@ class _PracticeScreenState extends State<PracticeScreen> {
   }
 
   @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    final tour = TourScope.of(context);
+    if (tour != _tour) {
+      _tour?.removeListener(_onTourStep);
+      _tour = tour;
+      _tour?.addListener(_onTourStep);
+    }
+  }
+
+  @override
   void dispose() {
+    _tour?.removeListener(_onTourStep);
+    _scrollCtrl.dispose();
     _searchCtrl.dispose();
     super.dispose();
+  }
+
+  void _onTourStep() {
+    final step = _tour?.currentStep;
+    if (step == null) return;
+    if (step.id == 'firstTopicChip') {
+      _scrollIntoView(TourKeys.firstTopicChip, 'firstTopicChip');
+    } else if (step.id == 'startButton') {
+      _scrollIntoView(TourKeys.startButton, 'startButton');
+    }
+  }
+
+  /// Scrolls the tour target into view, retrying until it exists or
+  /// the tour moves on. The target may not be built yet when the step
+  /// becomes active (topics still loading, list below the fold), so a
+  /// fixed small retry count would give up too early — the step check
+  /// bounds the loop instead.
+  ///
+  /// The scroll steps down one viewport at a time with [jumpTo]
+  /// (synchronous — no animation future to await): jumping straight to
+  /// the end can overshoot a mid-list target and leave it unbuilt above
+  /// the viewport. Once the target exists, [Scrollable.ensureVisible]
+  /// glides it into view (fire-and-forget — the overlay tracks the
+  /// target's rect every frame, so the highlight follows the scroll).
+  Future<void> _scrollIntoView(GlobalKey key, String stepId) async {
+    final token = ++_scrollToken;
+    for (var attempt = 0; attempt < 40; attempt++) {
+      if (attempt > 0) {
+        await Future<void>.delayed(const Duration(milliseconds: 100));
+      }
+      if (!mounted || token != _scrollToken) return;
+      if (_tour?.currentStep?.id != stepId) return;
+      final ctx = key.currentContext;
+      if (ctx != null && ctx.mounted) {
+        unawaited(
+          Scrollable.ensureVisible(
+            ctx,
+            duration: const Duration(milliseconds: 300),
+          ),
+        );
+        return;
+      }
+      // Not built yet (below the fold in the lazy list): step down so
+      // the lazy builder creates the next chunk, then retry.
+      if (_scrollCtrl.hasClients) {
+        final pos = _scrollCtrl.position;
+        final next = math.min(
+          pos.pixels + pos.viewportDimension,
+          pos.maxScrollExtent,
+        );
+        if (next == pos.pixels) return; // at the end; target can't exist
+        _scrollCtrl.jumpTo(next);
+      }
+    }
   }
 
   Future<void> _loadRecent() async {
@@ -174,6 +253,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
   Future<void> _startQuiz() async {
     final exam = _exam;
     if (exam == null) return;
+    // Tour step 7: tapping Start begins the quiz AND completes the tour.
+    TourScope.of(context)?.advanceIfOn('startButton');
     final s = AppStateScope.of(context).strings;
     final repo = DataRepository();
     final pool = await repo.questionsForExam(
@@ -242,21 +323,29 @@ class _PracticeScreenState extends State<PracticeScreen> {
     });
     _saveRecent(e.id);
     _loadTopics();
+    // Tour step 5: picking the exam advances the tour.
+    TourScope.of(context)?.advanceIfOn('firstExamChip');
   }
 
-  Widget _examChips(List<Exam> exams, bool ne) => Wrap(
+  Widget _examChips(
+    List<Exam> exams,
+    bool ne, {
+    Key? firstChipKey,
+  }) =>
+      Wrap(
         spacing: AppSpacing.s2,
         runSpacing: AppSpacing.s2,
-        children: exams
-            .map(
-              (e) => _ExamChip(
-                exam: e,
-                selected: _exam?.id == e.id,
-                ne: ne,
-                onTap: () => _pickExam(e),
-              ),
-            )
-            .toList(),
+        children: exams.asMap().entries.map((en) {
+          final e = en.value;
+          return _ExamChip(
+            // Tour step 5 target: the first chip of the first category.
+            key: en.key == 0 ? firstChipKey : null,
+            exam: e,
+            selected: _exam?.id == e.id,
+            ne: ne,
+            onTap: () => _pickExam(e),
+          );
+        }).toList(),
       );
 
   @override
@@ -268,6 +357,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
       title: s.practiceTitle,
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
+      bottomNavKey: TourKeys.bottomNav,
       body: FutureBuilder<List<Exam>>(
         future: _examsFuture,
         builder: (context, snap) {
@@ -288,6 +378,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
               : exams.where((e) => examMatchesQuery(e, query)).toList();
           final groups = groupExams(exams);
           return ListView(
+            controller: _scrollCtrl,
             padding: const EdgeInsets.all(AppSpacing.s4),
             children: [
               Text(s.chooseExam, style: AppType.h2),
@@ -333,10 +424,13 @@ class _PracticeScreenState extends State<PracticeScreen> {
                       )
                     : _examChips(matches, ne)
               else
-                ...groups.map((g) {
-                  final (cat, list) = g;
+                ...groups.asMap().entries.map((en) {
+                  final i = en.key;
+                  final (cat, list) = en.value;
                   final expanded = _expanded.contains(cat.id);
                   return Padding(
+                    // Tour step 4 target: the first category tile.
+                    key: i == 0 ? TourKeys.firstCategory : null,
                     padding: const EdgeInsets.only(bottom: AppSpacing.s2),
                     child: Card(
                       margin: EdgeInsets.zero,
@@ -350,18 +444,32 @@ class _PracticeScreenState extends State<PracticeScreen> {
                           style: AppType.h3,
                         ),
                         initiallyExpanded: expanded,
-                        onExpansionChanged: (v) => setState(() {
-                          if (v) {
-                            _expanded.add(cat.id);
-                          } else {
-                            _expanded.remove(cat.id);
+                        onExpansionChanged: (v) {
+                          setState(() {
+                            if (v) {
+                              _expanded.add(cat.id);
+                            } else {
+                              _expanded.remove(cat.id);
+                            }
+                          });
+                          // Tour step 4: expanding the FIRST category
+                          // advances (step 5's exam chip lives inside
+                          // it — expanding another category doesn't).
+                          if (v && i == 0) {
+                            TourScope.of(context)
+                                ?.advanceIfOn('firstCategory');
                           }
-                        }),
+                        },
                         children: [
                           Padding(
                             padding: const EdgeInsets.fromLTRB(
                                 AppSpacing.s4, 0, AppSpacing.s4, AppSpacing.s4,),
-                            child: _examChips(list, ne),
+                            child: _examChips(
+                              list,
+                              ne,
+                              firstChipKey:
+                                  i == 0 ? TourKeys.firstExamChip : null,
+                            ),
                           ),
                         ],
                       ),
@@ -383,16 +491,29 @@ class _PracticeScreenState extends State<PracticeScreen> {
                   Wrap(
                     spacing: AppSpacing.s2,
                     runSpacing: AppSpacing.s2,
-                    children: _topicCounts.entries.map((en) {
-                      final selected = _topics.contains(en.key);
+                    children:
+                        _topicCounts.entries.toList().asMap().entries.map((en) {
+                      final entry = en.value;
+                      final selected = _topics.contains(entry.key);
                       return FilterChip(
+                        // Tour step 6 target: the first topic chip.
+                        key: en.key == 0 ? TourKeys.firstTopicChip : null,
                         selected: selected,
-                        label: Text('${en.key} (${en.value})'),
-                        onSelected: (_) => setState(() {
-                          selected
-                              ? _topics.remove(en.key)
-                              : _topics.add(en.key);
-                        }),
+                        label: Text('${entry.key} (${entry.value})'),
+                        onSelected: (_) {
+                          final wasSelected = selected;
+                          setState(() {
+                            selected
+                                ? _topics.remove(entry.key)
+                                : _topics.add(entry.key);
+                          });
+                          // Tour step 6: picking a topic advances (and
+                          // enables the Start button for step 7).
+                          if (!wasSelected) {
+                            TourScope.of(context)
+                                ?.advanceIfOn('firstTopicChip');
+                          }
+                        },
                       );
                     }).toList(),
                   ),
@@ -448,6 +569,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
                 ),
                 const SizedBox(height: AppSpacing.s8),
                 FilledButton(
+                  // Tour step 7 target.
+                  key: TourKeys.startButton,
                   onPressed: _topics.isEmpty ? null : _startQuiz,
                   style: FilledButton.styleFrom(
                     backgroundColor: AppColors.of(context).accent,
@@ -473,6 +596,7 @@ class _ExamChip extends StatelessWidget {
   final bool ne;
   final VoidCallback onTap;
   const _ExamChip({
+    super.key,
     required this.exam,
     required this.selected,
     required this.ne,
