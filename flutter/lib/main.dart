@@ -12,6 +12,7 @@ import 'l10n/quiz_strings.dart';
 import 'l10n/v104_strings.dart';
 import 'models/course.dart';
 import 'models/models.dart';
+import 'onboarding/tour.dart';
 import 'screens/about_screen.dart';
 import 'screens/community/discussion_screen.dart';
 import 'screens/community/submit_question_screen.dart';
@@ -54,19 +55,39 @@ class VidyapeethApp extends StatefulWidget {
 }
 
 class _VidyapeethAppState extends State<VidyapeethApp> {
+  // First-launch tour (v1.0.7): one controller for the whole app.
+  final _tourController = TourController();
+
+  @override
+  void dispose() {
+    _tourController.dispose();
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     final state = AppStateScope.of(context);
     return AnimatedBuilder(
       animation: state,
-      builder: (context, _) => MaterialApp(
-        title: 'LokSewa Vidyapeeth',
-        debugShowCheckedModeBanner: false,
-        theme: buildAppTheme(),
-        darkTheme: buildDarkTheme(),
-        themeMode: state.themeMode,
-        // v1.0.4: the app requires internet to open.
-        home: const NetworkGate(child: RootNav()),
+      builder: (context, _) => TourScope(
+        controller: _tourController,
+        child: MaterialApp(
+          title: 'LokSewa Vidyapeeth',
+          debugShowCheckedModeBanner: false,
+          theme: buildAppTheme(),
+          darkTheme: buildDarkTheme(),
+          themeMode: state.themeMode,
+          // The tour overlay sits above the Navigator so it also
+          // covers pushed routes.
+          builder: (context, child) => Stack(
+            children: [
+              child!,
+              const Positioned.fill(child: TourOverlay()),
+            ],
+          ),
+          // v1.0.4: the app requires internet to open.
+          home: const NetworkGate(child: RootNav()),
+        ),
       ),
     );
   }
@@ -92,6 +113,16 @@ class _RootNavState extends State<RootNav> {
   void initState() {
     super.initState();
     _sharedFuture = _loadShared();
+    // First-launch tour (v1.0.7): start once the home screen has
+    // settled. RootNav only mounts after the network gate passes, so
+    // the tour never starts over the no-connection screen. If the user
+    // has already navigated away by then, don't start.
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      Future<void>.delayed(const Duration(milliseconds: 600), () {
+        if (!mounted || _index != 0) return;
+        TourScope.of(context)?.start();
+      });
+    });
   }
 
   Future<_SharedData> _loadShared() async {
@@ -107,11 +138,15 @@ class _RootNavState extends State<RootNav> {
     );
   }
 
-  void _go(int i) => setState(() {
-        _index = i;
-        if (i != 1) _practiceExam = null; // one-shot prefill
-        if (i != 2) _mockExam = null;
-      });
+  void _go(int i) {
+    setState(() {
+      _index = i;
+      if (i != 1) _practiceExam = null; // one-shot prefill
+      if (i != 2) _mockExam = null;
+    });
+    // Tour step 3: tapping the Practice tab navigates AND advances.
+    if (i == 1) TourScope.of(context)?.advanceIfOn('practiceTab');
+  }
 
   void _popAndGo(int i) {
     Navigator.of(context).popUntil((r) => r.isFirst);
