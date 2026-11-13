@@ -3763,6 +3763,23 @@ function nxDigitsHtml(dateBs, compact){
     <div><b data-nx-s>--</b><span>${B('sec','सेकेन्ड')}</span></div>
   </div>`;
 }
+// Pager dots: at most 7 visible — with 65+ exams inside 30 days a dot
+// per exam fills the card with a row of rings. The window slides with
+// the current index; the counter shows the true position.
+function nxDotsHtml(list){
+  if(list.length<=1) return '';
+  const max=7;
+  let start=0;
+  if(list.length>max) start=Math.min(Math.max(nxIdx-3,0),list.length-max);
+  const end=Math.min(start+max,list.length);
+  let dots='';
+  for(let i=start;i<end;i++){
+    const x=list[i];
+    dots+=`<button class="nx-dot${i===nxIdx?' on':''}" role="tab" aria-selected="${i===nxIdx}" aria-label="${esc(lang==='ne'?(x.title_ne||x.title_en):x.title_en)}" onclick="nxCycle(${i})"></button>`;
+  }
+  const counter=list.length>max?`<span class="nx-count muted">${nxIdx+1} / ${list.length}</span>`:'';
+  return `<div class="nx-pager" role="tablist" aria-label="${B('Upcoming exams','आगामी परीक्षाहरू')}">${dots}${counter}</div>`;
+}
 // Full card: Home view, directly below the hero.
 function renderNextExamCard(){
   const box=document.getElementById('next-exam-card'); if(!box) return;
@@ -3782,7 +3799,7 @@ function renderNextExamCard(){
   }else{
     inner=nxDigitsHtml(e.date_bs,false);
   }
-  const dots=list.length>1?`<div class="nx-pager" role="tablist" aria-label="${B('Upcoming exams','आगामी परीक्षाहरू')}">${list.map((x,i)=>`<button class="nx-dot${i===nxIdx?' on':''}" role="tab" aria-selected="${i===nxIdx}" aria-label="${esc(lang==='ne'?(x.title_ne||x.title_en):x.title_en)}" onclick="nxCycle(${i})"></button>`).join('')}</div>`:'';
+  const dots=nxDotsHtml(list);
   box.innerHTML=`<div class="nx-card nx-${state}">
     <div class="nx-head"><span class="nx-label">⏳ ${B('Next exam','अर्को परीक्षा')}</span>${d>0?`<span class="chip${d<=7?' chip-soon':''}">${d<=7?'🟡':'📅'} ${esc(bsCountdown(d))}</span>`:''}</div>
     <h3 class="nx-title">${title}</h3>
