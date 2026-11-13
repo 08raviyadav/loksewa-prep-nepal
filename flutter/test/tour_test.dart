@@ -120,7 +120,9 @@ void main() {
       required Widget target,
       ThemeMode themeMode = ThemeMode.light,
     }) async {
-      SharedPreferences.setMockInitialValues({});
+      // Overlay mechanics tests pin English (the default is Nepali,
+      // v1.0.9) so the Skip/Next finders stay deterministic.
+      SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'});
       final state = AppState();
       await state.init();
       final controller = TourController(steps: steps);
@@ -196,9 +198,62 @@ void main() {
       await tester.pump();
       expect(find.text('Tap it'), findsOneWidget);
       expect(find.text('2 / 2'), findsOneWidget);
-      // Tap steps hide Next and show the tap hint instead.
-      expect(find.text('Next'), findsNothing);
-      expect(find.text('Tap the highlighted button'), findsOneWidget);
+      // v1.0.9: tap steps ALSO show Next (it performs the action), plus
+      // the hint line above the buttons.
+      expect(find.text('Next'), findsOneWidget);
+      expect(
+        find.text('Tap the highlighted button, or tap Next'),
+        findsOneWidget,
+      );
+    });
+
+    testWidgets('Next on a tap step performs the registered action',
+        (tester) async {
+      var ran = false;
+      final key = GlobalKey();
+      final controller = await pumpShell(
+        tester,
+        steps: _twoSteps(key),
+        target: ElevatedButton(
+          key: key,
+          onPressed: () {},
+          child: const Text('Target'),
+        ),
+      );
+      // Mirror the real wiring: the registered action is the same
+      // handler the highlighted button uses, and it advances the tour.
+      controller.registerAction('tap', () {
+        ran = true;
+        controller.advanceIfOn('tap');
+      });
+      await startTour(tester, controller);
+      await tester.tap(find.text('Next')); // reach the tap step
+      await tester.pump();
+      await tester.pump();
+      expect(find.text('Tap it'), findsOneWidget);
+      await tester.tap(find.text('Next')); // Next performs the action
+      await tester.pump();
+      expect(ran, isTrue);
+      expect(controller.isActive, isFalse); // last step -> completed
+    });
+
+    testWidgets('Next on a step with no action just advances',
+        (tester) async {
+      final key = GlobalKey();
+      final controller = await pumpShell(
+        tester,
+        steps: _twoSteps(key),
+        target: ElevatedButton(
+          key: key,
+          onPressed: () {},
+          child: const Text('Target'),
+        ),
+      );
+      await startTour(tester, controller);
+      expect(controller.performCurrentAction(), isFalse);
+      expect(controller.currentIndex, 0);
+      controller.next();
+      expect(controller.currentIndex, 1);
     });
 
     testWidgets('Skip ends the tour and sets the done flag',
@@ -406,7 +461,8 @@ void main() {
       }
     }
 
-    testWidgets('full tour: home -> practice -> exam -> topic -> start',
+    testWidgets(
+        'full tour: home -> language -> practice -> exam -> topic -> start',
         (tester) async {
       final tour = await pumpRealApp(tester);
       // The tour auto-starts 600ms after the first frame (the 2s real
@@ -420,63 +476,134 @@ void main() {
       expect(tour.isActive, isTrue);
       expect(tour.currentIndex, 0);
 
-      // Step 1: Daily Challenge card (Next step).
+      // The app defaults to Nepali (v1.0.9), so the tour starts in
+      // Nepali; tapping the language button at step 2 switches it to
+      // English for the rest of the tour.
+      // Step 1: Daily Challenge card (Next step, Nepali).
       expect(
-        find.text('Start here every day — a fresh 10-question challenge.'),
+        find.text('हरेक दिन यहाँबाट सुरु गर्नुहोस् — नयाँ १० प्रश्नको चुनौती।'),
         findsOneWidget,
       );
-      expect(find.text('1 / 7'), findsOneWidget);
-      await tester.tap(find.text('Next'));
+      expect(find.text('1 / 8'), findsOneWidget);
+      await tester.tap(find.text('अर्को')); // Next in Nepali
       await settle(tester);
 
-      // Step 2: Dashboard tab (Next step).
+      // Step 2: language toggle (tap step, Nepali). Next exists too
+      // (v1.0.9) — here the real button is tapped instead.
+      expect(
+        find.text('नेपाली र अङ्ग्रेजीबीच बदल्न यहाँ थिच्नुहोस्।'),
+        findsOneWidget,
+      );
+      expect(find.text('2 / 8'), findsOneWidget);
+      expect(find.text('अर्को'), findsOneWidget);
+      expect(
+        find.text('हाइलाइट भएको बटन थिच्नुहोस्, वा अर्को थिच्नुहोस्'),
+        findsOneWidget,
+      );
+      await tester.tap(find.text('EN')); // the toggle, in Nepali mode
+      await settle(tester);
+
+      // Step 3: Dashboard tab (Next step, now in English).
       expect(
         find.text('Track your XP, streak and badges here.'),
         findsOneWidget,
       );
-      expect(find.text('2 / 7'), findsOneWidget);
+      expect(find.text('3 / 8'), findsOneWidget);
       await tester.tap(find.text('Next'));
       await settle(tester);
 
-      // Step 3: Practice tab (tap step — no Next button).
+      // Step 4: Practice tab (tap step).
       expect(find.text('Tap Practice to study any exam.'), findsOneWidget);
-      expect(find.text('3 / 7'), findsOneWidget);
-      expect(find.text('Next'), findsNothing);
+      expect(find.text('4 / 8'), findsOneWidget);
       // Tap the Practice tab by its icon — the tooltip title 'Practice'
       // duplicates the tab label, so the text finder is ambiguous.
       await tester.tap(find.byIcon(Icons.quiz_outlined));
       await settle(tester);
 
-      // Step 4: first category tile (tap step).
+      // Step 5: first category tile (tap step).
       expect(find.text('Tap a category to see its exams.'), findsOneWidget);
-      expect(find.text('4 / 7'), findsOneWidget);
+      expect(find.text('5 / 8'), findsOneWidget);
       await tester.tap(find.byKey(TourKeys.firstCategory));
       await settle(tester);
 
-      // Step 5: first exam chip (tap step).
+      // Step 6: first exam chip (tap step).
       expect(find.text('Tap an exam to practise it.'), findsOneWidget);
-      expect(find.text('5 / 7'), findsOneWidget);
+      expect(find.text('6 / 8'), findsOneWidget);
       await tester.tap(find.byKey(TourKeys.firstExamChip));
       await settle(tester);
 
-      // Step 6: first topic chip (tap step). The screen scrolls it
+      // Step 7: first topic chip (tap step). The screen scrolls it
       // into view; ensureVisible is a no-op if it is already visible.
       expect(find.text('Choose a topic to practise.'), findsOneWidget);
-      expect(find.text('6 / 7'), findsOneWidget);
+      expect(find.text('7 / 8'), findsOneWidget);
       await tester.ensureVisible(find.byKey(TourKeys.firstTopicChip));
       await tester.pump();
       await tester.tap(find.byKey(TourKeys.firstTopicChip));
       await settle(tester);
 
-      // Step 7: Start button (tap step).
+      // Step 8: Start button (tap step).
       expect(find.text('Tap Start to begin the quiz.'), findsOneWidget);
-      expect(find.text('7 / 7'), findsOneWidget);
+      expect(find.text('8 / 8'), findsOneWidget);
       await tester.ensureVisible(find.byKey(TourKeys.startButton));
       await tester.pump();
       await tester.tap(find.byKey(TourKeys.startButton));
       await settle(tester);
 
       // The quiz opened and the tour completed + persisted.
+      expect(find.byType(QuizScreen), findsOneWidget);
+      expect(tour.isActive, isFalse);
+      await tester.pump(const Duration(milliseconds: 50));
+      expect(await TourController.isTourDone(), isTrue);
+    });
+
+    testWidgets('full tour driven by Next alone (v1.0.9)',
+        (tester) async {
+      final tour = await pumpRealApp(tester);
+      await tester.runAsync(
+        () => Future<void>.delayed(const Duration(milliseconds: 300)),
+      );
+      await settle(tester);
+      expect(tour.isActive, isTrue);
+
+      // Every step — including the tap steps — advances via Next, and
+      // Next performs each step's real action: the language toggle
+      // switches the language, Practice navigates, the category
+      // expands, the exam/topic get picked, and Start opens the quiz.
+      // Step 1 (Nepali).
+      expect(find.text('1 / 8'), findsOneWidget);
+      await tester.tap(find.text('अर्को'));
+      await settle(tester);
+      // Step 2: Next switches the language to English.
+      expect(find.text('2 / 8'), findsOneWidget);
+      await tester.tap(find.text('अर्को'));
+      await settle(tester);
+      expect(find.text('Track your XP, streak and badges here.'),
+          findsOneWidget,);
+      // Step 3: Dashboard (Next).
+      expect(find.text('3 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+      // Step 4: Practice tab via Next (navigates).
+      expect(find.text('4 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+      // Step 5: first category via Next (expands).
+      expect(find.text('5 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+      // Step 6: first exam via Next (picks it).
+      expect(find.text('6 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+      // Step 7: first topic via Next (picks it, enables Start).
+      expect(find.text('7 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+      // Step 8: Start via Next (begins the quiz).
+      expect(find.text('8 / 8'), findsOneWidget);
+      await tester.tap(find.text('Next'));
+      await settle(tester);
+
       expect(find.byType(QuizScreen), findsOneWidget);
       expect(tour.isActive, isFalse);
       await tester.pump(const Duration(milliseconds: 50));
