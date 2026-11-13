@@ -118,9 +118,9 @@ class _CountdownCardState extends State<CountdownCard> {
         child: Container(
           decoration: BoxDecoration(
             borderRadius: AppRadius.lgAll,
-            color: isFar ? null : AppColors.accentSoft,
+            color: isFar ? null : AppColors.of(context).accentSoft,
             border: Border.all(
-              color: isFar ? AppColors.border : AppColors.accentLine,
+              color: isFar ? AppColors.of(context).border : AppColors.of(context).accentLine,
               width: 1.5,
             ),
           ),
@@ -149,16 +149,16 @@ class _CountdownCardState extends State<CountdownCard> {
                   children: [
                     Row(
                       children: [
-                        const Icon(
+                        Icon(
                           Icons.alarm,
-                          color: AppColors.accent,
+                          color: AppColors.of(context).accent,
                           size: 20,
                         ),
                         const SizedBox(width: AppSpacing.s2),
                         Text(
                           s.nextExam,
                           style:
-                              AppType.small.copyWith(color: AppColors.muted),
+                              AppType.small.copyWith(color: AppColors.of(context).muted),
                         ),
                         const Spacer(),
                         _KindChip(
@@ -176,14 +176,14 @@ class _CountdownCardState extends State<CountdownCard> {
                     ),
                     Text(
                       fmtBs(shown.dateBs, ne: ne),
-                      style: AppType.small.copyWith(color: AppColors.muted),
+                      style: AppType.small.copyWith(color: AppColors.of(context).muted),
                     ),
                     const SizedBox(height: AppSpacing.s4),
                     if (isToday)
                       Text(
                         s.todayBang,
                         style: AppType.display.copyWith(
-                          color: AppColors.accent,
+                          color: AppColors.of(context).accent,
                         ),
                       )
                     else
@@ -215,8 +215,8 @@ class _CountdownCardState extends State<CountdownCard> {
                     icon: const Icon(Icons.play_arrow, size: 18),
                     label: Text(s.practiceNow),
                     style: FilledButton.styleFrom(
-                      backgroundColor: AppColors.accent,
-                      foregroundColor: AppColors.accentInk,
+                      backgroundColor: AppColors.of(context).accent,
+                      foregroundColor: AppColors.of(context).accentInk,
                       minimumSize: const Size(44, 44),
                     ),
                   ),
@@ -236,7 +236,7 @@ class _CountdownCardState extends State<CountdownCard> {
                     ),
                     style: OutlinedButton.styleFrom(
                       minimumSize: const Size(44, 44),
-                      side: const BorderSide(color: AppColors.accentLine),
+                      side: BorderSide(color: AppColors.of(context).accentLine),
                     ),
                   ),
                 ),
@@ -246,7 +246,7 @@ class _CountdownCardState extends State<CountdownCard> {
               const SizedBox(height: AppSpacing.s2),
               Text(
                 s.reverifyNote,
-                style: AppType.tiny.copyWith(color: AppColors.accent),
+                style: AppType.tiny.copyWith(color: AppColors.of(context).accent),
               ),
             ],
           ],
@@ -270,14 +270,14 @@ class _KindChip extends StatelessWidget {
         vertical: AppSpacing.s1,
       ),
       decoration: BoxDecoration(
-        color: AppColors.accentSoft,
+        color: AppColors.of(context).accentSoft,
         borderRadius: const BorderRadius.all(AppRadius.pill),
-        border: Border.all(color: AppColors.accentLine),
+        border: Border.all(color: AppColors.of(context).accentLine),
       ),
       child: Text(
         label,
         style: AppType.tiny.copyWith(
-          color: AppColors.accent,
+          color: AppColors.of(context).accent,
           fontWeight: FontWeight.w700,
         ),
       ),
@@ -304,22 +304,22 @@ class _Digits extends StatelessWidget {
                   vertical: AppSpacing.s2,
                 ),
                 decoration: BoxDecoration(
-                  color: AppColors.card2,
+                  color: AppColors.of(context).card2,
                   borderRadius: AppRadius.mdAll,
-                  border: Border.all(color: AppColors.borderSoft),
+                  border: Border.all(color: AppColors.of(context).borderSoft),
                 ),
                 child: FittedBox(
                   fit: BoxFit.scaleDown,
                   child: Text(
                     ne ? neDigits(v) : v,
                     style: AppType.countdownDigit.copyWith(
-                      color: AppColors.accent,
+                      color: AppColors.of(context).accent,
                     ),
                   ),
                 ),
               ),
               const SizedBox(height: 2),
-              Text(label, style: AppType.tiny.copyWith(color: AppColors.muted)),
+              Text(label, style: AppType.tiny.copyWith(color: AppColors.of(context).muted)),
             ],
           ),
         );
@@ -392,7 +392,7 @@ class _PagerDots extends StatelessWidget {
                           borderRadius:
                               const BorderRadius.all(AppRadius.pill),
                           color:
-                              i == index ? AppColors.accent : AppColors.faint,
+                              i == index ? AppColors.of(context).accent : AppColors.of(context).faint,
                         ),
                       ),
                     ),

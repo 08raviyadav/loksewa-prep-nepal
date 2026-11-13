@@ -115,15 +115,15 @@ class _DrawerCalendarState extends State<DrawerCalendar> {
         vertical: AppSpacing.s2,
       ),
       decoration: BoxDecoration(
-        color: AppColors.accentSoft,
+        color: AppColors.of(context).accentSoft,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: AppColors.accentLine),
+        border: Border.all(color: AppColors.of(context).accentLine),
       ),
       child: Row(
         children: [
           Text(
             dayNum,
-            style: AppType.display.copyWith(color: AppColors.accent),
+            style: AppType.display.copyWith(color: AppColors.of(context).accent),
           ),
           const SizedBox(width: AppSpacing.s3),
           Expanded(
@@ -132,16 +132,16 @@ class _DrawerCalendarState extends State<DrawerCalendar> {
               children: [
                 Text(
                   weekday,
-                  style: AppType.small.copyWith(color: AppColors.muted),
+                  style: AppType.small.copyWith(color: AppColors.of(context).muted),
                 ),
                 Text(monthYear, style: AppType.h3),
                 const SizedBox(height: 2),
                 Row(
                   children: [
-                    const Icon(
+                    Icon(
                       Icons.access_time,
                       size: 14,
-                      color: AppColors.muted,
+                      color: AppColors.of(context).muted,
                     ),
                     const SizedBox(width: 4),
                     Text(

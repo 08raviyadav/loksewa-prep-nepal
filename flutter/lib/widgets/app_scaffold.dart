@@ -44,14 +44,28 @@ class AppScaffold extends StatelessWidget {
       appBar: AppBar(
         title: Text(title),
         actions: [
+          // Dark / light toggle (v1.0.6: dark mode is back; light is
+          // the default).
+          IconButton(
+            icon: Icon(
+              state.themeMode == ThemeMode.dark
+                  ? Icons.light_mode_outlined
+                  : Icons.dark_mode_outlined,
+            ),
+            onPressed: () => state.setThemeMode(
+              state.themeMode == ThemeMode.dark
+                  ? ThemeMode.light
+                  : ThemeMode.dark,
+            ),
+          ),
           // EN / NE toggle
           TextButton(
             onPressed: state.toggleLang,
             style: TextButton.styleFrom(minimumSize: const Size(44, 44)),
             child: Text(
               state.isNe ? 'EN' : 'NE',
-              style: const TextStyle(
-                color: AppColors.accent,
+              style: TextStyle(
+                color: AppColors.of(context).accent,
                 fontWeight: FontWeight.w800,
               ),
             ),
@@ -229,10 +243,10 @@ class _AppDrawer extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: [
           DrawerHeader(
-            decoration: const BoxDecoration(
-              color: AppColors.card,
+            decoration: BoxDecoration(
+              color: AppColors.of(context).card,
               border: Border(
-                bottom: BorderSide(color: AppColors.borderSoft),
+                bottom: BorderSide(color: AppColors.of(context).borderSoft),
               ),
             ),
             child: Row(
@@ -241,15 +255,15 @@ class _AppDrawer extends StatelessWidget {
                 Container(
                   width: 48,
                   height: 48,
-                  decoration: const BoxDecoration(
+                  decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    color: AppColors.accent,
+                    color: AppColors.of(context).accent,
                   ),
                   alignment: Alignment.center,
                   child: Text(
                     'लो',
                     style: AppType.h2.copyWith(
-                      color: AppColors.accentInk,
+                      color: AppColors.of(context).accentInk,
                     ),
                   ),
                 ),
@@ -262,13 +276,13 @@ class _AppDrawer extends StatelessWidget {
                       Text(
                         'लोक सेवा विद्यापीठ',
                         style: AppType.h2.copyWith(
-                          color: AppColors.text,
+                          color: AppColors.of(context).text,
                         ),
                       ),
                       Text(
                         'LOKSEWA VIDYAPEETH',
                         style: AppType.small.copyWith(
-                          color: AppColors.accent,
+                          color: AppColors.of(context).accent,
                         ),
                       ),
                     ],

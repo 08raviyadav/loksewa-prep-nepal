@@ -49,9 +49,9 @@ class ReminderBanner extends StatelessWidget {
         vertical: AppSpacing.s3,
       ),
       decoration: BoxDecoration(
-        color: AppColors.accentSoft,
+        color: AppColors.of(context).accentSoft,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: AppColors.accentLine),
+        border: Border.all(color: AppColors.of(context).accentLine),
       ),
       child: Row(
         children: [

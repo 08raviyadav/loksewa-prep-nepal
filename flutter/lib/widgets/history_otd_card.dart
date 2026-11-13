@@ -44,7 +44,7 @@ class HistoryOtdCard extends StatelessWidget {
               const SizedBox(height: 4),
               Text(
                 '${fmtBs(today, ne: ne)} — ${s.historyOtdSubtitle}',
-                style: AppType.small.copyWith(color: AppColors.muted),
+                style: AppType.small.copyWith(color: AppColors.of(context).muted),
               ),
               const SizedBox(height: AppSpacing.s3),
               for (final e in historySorted(list)) HistoryEventRow(event: e),

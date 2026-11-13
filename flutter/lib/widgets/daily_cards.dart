@@ -71,14 +71,14 @@ class _DailyChallengeCardState extends State<DailyChallengeCard> {
                       horizontal: 10,
                       vertical: 4,
                     ),
-                    decoration: const BoxDecoration(
-                      color: AppColors.greenSoft,
-                      borderRadius: BorderRadius.all(AppRadius.pill),
+                    decoration: BoxDecoration(
+                      color: AppColors.of(context).greenSoft,
+                      borderRadius: const BorderRadius.all(AppRadius.pill),
                     ),
                     child: Text(
                       s.dailyDoneLabel,
                       style: AppType.small.copyWith(
-                        color: AppColors.green,
+                        color: AppColors.of(context).green,
                         fontWeight: FontWeight.w700,
                       ),
                     ),
@@ -93,8 +93,8 @@ class _DailyChallengeCardState extends State<DailyChallengeCard> {
               icon: const Icon(Icons.calendar_today_outlined),
               label: Text(done ? s.dailyRepeatYes : s.dailyStart),
               style: FilledButton.styleFrom(
-                backgroundColor: AppColors.accent,
-                foregroundColor: AppColors.accentInk,
+                backgroundColor: AppColors.of(context).accent,
+                foregroundColor: AppColors.of(context).accentInk,
                 minimumSize: const Size(0, AppSpacing.minTap),
               ),
             ),
@@ -171,14 +171,14 @@ class _QuestionOfTheDayCardState extends State<QuestionOfTheDayCard> {
                       horizontal: 10,
                       vertical: 4,
                     ),
-                    decoration: const BoxDecoration(
-                      color: AppColors.greenSoft,
-                      borderRadius: BorderRadius.all(AppRadius.pill),
+                    decoration: BoxDecoration(
+                      color: AppColors.of(context).greenSoft,
+                      borderRadius: const BorderRadius.all(AppRadius.pill),
                     ),
                     child: Text(
                       s.qotdDoneLabel,
                       style: AppType.small.copyWith(
-                        color: AppColors.green,
+                        color: AppColors.of(context).green,
                         fontWeight: FontWeight.w700,
                       ),
                     ),

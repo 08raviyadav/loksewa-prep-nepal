@@ -54,7 +54,7 @@ class HistoryEventRow extends StatelessWidget {
                     vertical: 4,
                   ),
                   decoration: BoxDecoration(
-                    color: AppColors.accentSoft,
+                    color: AppColors.of(context).accentSoft,
                     borderRadius: BorderRadius.circular(999),
                   ),
                   child: Text(

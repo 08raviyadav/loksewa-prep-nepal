@@ -27,7 +27,7 @@ class StatCard extends StatelessWidget {
               overflow: TextOverflow.ellipsis,
             ),
             const SizedBox(height: AppSpacing.s1),
-            Text(label, style: AppType.small.copyWith(color: AppColors.muted)),
+            Text(label, style: AppType.small.copyWith(color: AppColors.of(context).muted)),
           ],
         ),
       ),
@@ -63,7 +63,7 @@ class ProgressCard extends StatelessWidget {
             const SizedBox(height: AppSpacing.s1),
             Text(
               subtitle,
-              style: AppType.small.copyWith(color: AppColors.muted),
+              style: AppType.small.copyWith(color: AppColors.of(context).muted),
             ),
             const SizedBox(height: AppSpacing.s2),
             ClipRRect(
@@ -71,9 +71,9 @@ class ProgressCard extends StatelessWidget {
               child: LinearProgressIndicator(
                 value: progress.clamp(0.0, 1.0),
                 minHeight: 10,
-                backgroundColor: AppColors.borderSoft,
+                backgroundColor: AppColors.of(context).borderSoft,
                 valueColor: AlwaysStoppedAnimation<Color>(
-                  barColor ?? AppColors.accent,
+                  barColor ?? AppColors.of(context).accent,
                 ),
               ),
             ),

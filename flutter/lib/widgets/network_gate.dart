@@ -97,10 +97,10 @@ class _NetworkGateState extends State<NetworkGate> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const Icon(
+              Icon(
                 Icons.wifi_off_outlined,
                 size: 72,
-                color: AppColors.muted,
+                color: AppColors.of(context).muted,
               ),
               const SizedBox(height: AppSpacing.s4),
               Text(
@@ -120,8 +120,8 @@ class _NetworkGateState extends State<NetworkGate> {
                 icon: const Icon(Icons.refresh),
                 label: Text(s.retryLabel),
                 style: FilledButton.styleFrom(
-                  backgroundColor: AppColors.accent,
-                  foregroundColor: AppColors.accentInk,
+                  backgroundColor: AppColors.of(context).accent,
+                  foregroundColor: AppColors.of(context).accentInk,
                   minimumSize: const Size(0, AppSpacing.minTap),
                 ),
               ),
