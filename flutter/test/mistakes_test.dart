@@ -35,7 +35,7 @@ Exam _exam(String id, String name) =>
     Exam(id: id, name: name, nameNe: name);
 
 Future<ProgressStore> _freshStore() async {
-  SharedPreferences.setMockInitialValues({});
+  SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
   ProgressStore.resetForTest();
   return ProgressStore.instance;
 }
