@@ -1,12 +1,12 @@
-# Privacy Policy — LokSewa Vidyapeeth
+# Privacy Policy — Outrank
 
 **Last updated: 12 November 2026**
 
-LokSewa Vidyapeeth is built to respect your privacy. In short: the app collects nothing about you, and everything you do in it stays on your phone.
+Outrank is built to respect your privacy. In short: the app collects nothing about you, and everything you do in it stays on your phone.
 
 ## What we collect
 
-Nothing. LokSewa Vidyapeeth has no accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect your name, email, phone number, location or device identifiers.
+Nothing. Outrank has no accounts, no sign-in, no analytics, no advertising and no tracking. We do not collect your name, email, phone number, location or device identifiers.
 
 ## What stays on your phone
 
@@ -30,4 +30,4 @@ Questions about this policy: open an issue at github.com/08raviyadav/loksewa-pre
 
 ---
 
-*This policy covers the LokSewa Vidyapeeth Android app. The same text appears in the app under Privacy Policy in the sidebar (in English and Nepali). The web portal at 08raviyadav.github.io/loksewa-prep-nepal stores your progress in your browser's local storage only; reports sent through the site's report form go to the moderation queue described in docs/BACKEND.md and contain only what you type — no IP address, browser details, name, email or phone number is stored.*
+*This policy covers the Outrank Android app. The same text appears in the app under Privacy Policy in the sidebar (in English and Nepali). The web portal at 08raviyadav.github.io/loksewa-prep-nepal stores your progress in your browser's local storage only; reports sent through the site's report form go to the moderation queue described in docs/BACKEND.md and contain only what you type — no IP address, browser details, name, email or phone number is stored.*
