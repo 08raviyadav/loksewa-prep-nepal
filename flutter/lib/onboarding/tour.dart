@@ -156,7 +156,7 @@ List<TourStep> get defaultTourSteps => [
       ),
     ];
 
-/// Tour state. Created once in [VidyapeethApp] and provided via
+/// Tour state. Created once in [OutrankApp] and provided via
 /// [TourScope]; screens reach it with `TourScope.of(context)` (null
 /// when no scope is above — e.g. in tests that pump a bare screen).
 class TourController extends ChangeNotifier {
