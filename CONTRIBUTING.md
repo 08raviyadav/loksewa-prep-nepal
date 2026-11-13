@@ -1,4 +1,4 @@
-# Contributing to LokSewa Vidyapeeth — लोक सेवा विद्यापीठ · लोक सेवा तयारी
+# Contributing to Outrank — Lok Sewa Exam Preparation · लोक सेवा परीक्षा तयारी
 
 Thank you for helping Nepal's aspirants. Please read this before opening a pull request.
 
