@@ -30,10 +30,10 @@
    "Right to live with dignity"
   ],
   "options_ne": [
-   "Right to equality",
-   "Right to communication",
-   "Right to freedom",
-   "Right to live with dignity"
+   "समानताको हक",
+   "सञ्चारको हक",
+   "स्वतन्त्रताको हक",
+   "गरिमाका साथ बाँच्न पाउने हक"
   ],
   "answer": 3,
   "explanation": "Article 16 provides the Right to live with dignity.",
@@ -71,10 +71,10 @@
    "Right to live with dignity"
   ],
   "options_ne": [
-   "Right to freedom",
-   "Right to equality",
-   "Right to communication",
-   "Right to live with dignity"
+   "स्वतन्त्रताको हक",
+   "समानताको हक",
+   "सञ्चारको हक",
+   "गरिमाका साथ बाँच्न पाउने हक"
   ],
   "answer": 0,
   "explanation": "Article 17 provides the Right to freedom.",
@@ -112,10 +112,10 @@
    "Right to equality"
   ],
   "options_ne": [
-   "Right to live with dignity",
-   "Right to communication",
-   "Right to freedom",
-   "Right to equality"
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "सञ्चारको हक",
+   "स्वतन्त्रताको हक",
+   "समानताको हक"
   ],
   "answer": 3,
   "explanation": "Article 18 provides the Right to equality.",
@@ -153,10 +153,10 @@
    "Right to live with dignity"
   ],
   "options_ne": [
-   "Right to freedom",
-   "Right to equality",
-   "Right to communication",
-   "Right to live with dignity"
+   "स्वतन्त्रताको हक",
+   "समानताको हक",
+   "सञ्चारको हक",
+   "गरिमाका साथ बाँच्न पाउने हक"
   ],
   "answer": 2,
   "explanation": "Article 19 provides the Right to communication.",
@@ -194,10 +194,10 @@
    "Article 18"
   ],
   "options_ne": [
-   "Article 20",
-   "Article 17",
-   "Article 16",
-   "Article 18"
+   "धारा २०",
+   "धारा १७",
+   "धारा १६",
+   "धारा १८"
   ],
   "answer": 0,
   "explanation": "The Right to justice is provided in Article 20 of the Constitution of Nepal.",
@@ -235,10 +235,10 @@
    "Right to freedom"
   ],
   "options_ne": [
-   "Right to equality",
-   "Right to live with dignity",
-   "Right to justice",
-   "Right to freedom"
+   "समानताको हक",
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "न्यायको हक",
+   "स्वतन्त्रताको हक"
   ],
   "answer": 2,
   "explanation": "Article 20 provides the Right to justice.",
@@ -276,10 +276,10 @@
    "Article 16"
   ],
   "options_ne": [
-   "Article 18",
-   "Article 17",
-   "Article 31",
-   "Article 16"
+   "धारा १८",
+   "धारा १७",
+   "धारा ३१",
+   "धारा १६"
   ],
   "answer": 2,
   "explanation": "The Right to education is provided in Article 31 of the Constitution of Nepal.",
@@ -317,10 +317,10 @@
    "Right to freedom"
   ],
   "options_ne": [
-   "Right to equality",
-   "Right to live with dignity",
-   "Right to education",
-   "Right to freedom"
+   "समानताको हक",
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "शिक्षाको हक",
+   "स्वतन्त्रताको हक"
   ],
   "answer": 2,
   "explanation": "Article 31 provides the Right to education.",
@@ -358,10 +358,10 @@
    "Article 16"
   ],
   "options_ne": [
-   "Article 35",
-   "Article 17",
-   "Article 18",
-   "Article 16"
+   "धारा ३५",
+   "धारा १७",
+   "धारा १८",
+   "धारा १६"
   ],
   "answer": 0,
   "explanation": "The Right to health is provided in Article 35 of the Constitution of Nepal.",
@@ -399,10 +399,10 @@
    "Right to health"
   ],
   "options_ne": [
-   "Right to equality",
-   "Right to freedom",
-   "Right to live with dignity",
-   "Right to health"
+   "समानताको हक",
+   "स्वतन्त्रताको हक",
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "स्वास्थ्यको हक"
   ],
   "answer": 3,
   "explanation": "Article 35 provides the Right to health.",
@@ -440,10 +440,10 @@
    "Article 38"
   ],
   "options_ne": [
-   "Article 18",
-   "Article 16",
-   "Article 17",
-   "Article 38"
+   "धारा १८",
+   "धारा १६",
+   "धारा १७",
+   "धारा ३८"
   ],
   "answer": 3,
   "explanation": "The Women's rights is provided in Article 38 of the Constitution of Nepal.",
@@ -481,10 +481,10 @@
    "Women's rights"
   ],
   "options_ne": [
-   "Right to freedom",
-   "Right to equality",
-   "Right to live with dignity",
-   "Women's rights"
+   "स्वतन्त्रताको हक",
+   "समानताको हक",
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "महिलाको हक"
   ],
   "answer": 3,
   "explanation": "Article 38 provides the Women's rights.",
@@ -522,10 +522,10 @@
    "Article 17"
   ],
   "options_ne": [
-   "Article 16",
-   "Article 18",
-   "Article 46",
-   "Article 17"
+   "धारा १६",
+   "धारा १८",
+   "धारा ४६",
+   "धारा १७"
   ],
   "answer": 2,
   "explanation": "The Right to constitutional remedy is provided in Article 46 of the Constitution of Nepal.",
@@ -563,10 +563,10 @@
    "Right to freedom"
   ],
   "options_ne": [
-   "Right to constitutional remedy",
-   "Right to live with dignity",
-   "Right to equality",
-   "Right to freedom"
+   "संवैधानिक उपचारको हक",
+   "गरिमाका साथ बाँच्न पाउने हक",
+   "समानताको हक",
+   "स्वतन्त्रताको हक"
   ],
   "answer": 0,
   "explanation": "Article 46 provides the Right to constitutional remedy.",
@@ -604,10 +604,10 @@
    "Two"
   ],
   "options_ne": [
-   "Four",
-   "Three",
-   "Five",
-   "Two"
+   "चार",
+   "तीन",
+   "पाँच",
+   "दुई"
   ],
   "answer": 1,
   "explanation": "Nepal has three tiers of courts.",
@@ -645,10 +645,10 @@
    "The Law Minister"
   ],
   "options_ne": [
-   "A Supreme Court justice recommended by the Constitutional Council",
-   "Any advocate",
-   "The Attorney General",
-   "The Law Minister"
+   "संवैधानिक परिषद्को सिफारिसमा सर्वोच्च अदालतको न्यायाधीश",
+   "कुनै पनि अधिवक्ता",
+   "महान्यायाधिवक्ता",
+   "कानुन मन्त्री"
   ],
   "answer": 0,
   "explanation": "The President appoints the Chief Justice on the recommendation of the Constitutional Council.",
@@ -686,10 +686,10 @@
    "To challenge unlawful detention"
   ],
   "options_ne": [
-   "To claim property",
-   "To appeal a verdict",
-   "To register a company",
-   "To challenge unlawful detention"
+   "सम्पत्ति दाबी गर्न",
+   "फैसलामा पुनरावेदन गर्न",
+   "कम्पनी दर्ता गर्न",
+   "गैरकानुनी थुनालाई चुनौती दिन"
   ],
   "answer": 3,
   "explanation": "Habeas corpus challenges unlawful detention.",
@@ -768,10 +768,10 @@
    "Judge"
   ],
   "options_ne": [
-   "Plaintiff",
-   "Defendant",
-   "Witness",
-   "Judge"
+   "वादी",
+   "प्रतिवादी",
+   "साक्षी",
+   "न्यायाधीश"
   ],
   "answer": 0,
   "explanation": "The person who files a case is the plaintiff.",
@@ -809,10 +809,10 @@
    "Plaintiff"
   ],
   "options_ne": [
-   "Witness",
-   "Defendant",
-   "Advocate",
-   "Plaintiff"
+   "साक्षी",
+   "प्रतिवादी",
+   "अधिवक्ता",
+   "वादी"
   ],
   "answer": 1,
   "explanation": "The person against whom a case is filed is the defendant.",
@@ -850,10 +850,10 @@
    "An oral complaint"
   ],
   "options_ne": [
-   "A court fee receipt",
-   "A police report",
-   "A written statement made on oath",
-   "An oral complaint"
+   "अदालत शुल्क रसिद",
+   "प्रहरी प्रतिवेदन",
+   "शपथपूर्वक दिएको लिखित बयान",
+   "मौखिक उजुरी"
   ],
   "answer": 2,
   "explanation": "An affidavit is a written statement made on oath.",
@@ -891,10 +891,10 @@
    "A Bill becomes an Act after it is passed and assented"
   ],
   "options_ne": [
-   "A Bill is a court order",
-   "They are the same",
-   "An Act becomes a Bill",
-   "A Bill becomes an Act after it is passed and assented"
+   "विधेयक अदालतको आदेश हो",
+   "तिनीहरू उस्तै हुन्",
+   "ऐन विधेयक बन्छ",
+   "विधेयक पारित भई प्रमाणीकरण भएपछि ऐन बन्छ"
   ],
   "answer": 3,
   "explanation": "A Bill becomes an Act once passed by parliament and assented by the President.",
@@ -932,10 +932,10 @@
    "Pass laws"
   ],
   "options_ne": [
-   "Collect taxes",
-   "Recruit civil servants through competitive examinations",
-   "Audit government accounts",
-   "Pass laws"
+   "कर सङ्कलन गर्नु",
+   "प्रतिस्पर्धात्मक परीक्षाबाट निजामती कर्मचारी भर्ना गर्नु",
+   "सरकारी खाताको लेखापरीक्षण गर्नु",
+   "कानुन पारित गर्नु"
   ],
   "answer": 1,
   "explanation": "The Public Service Commission recruits civil servants.",
@@ -973,10 +973,10 @@
    "Draft the constitution"
   ],
   "options_ne": [
-   "Conduct and supervise elections",
-   "Count census data",
-   "Appoint judges",
-   "Draft the constitution"
+   "निर्वाचन सञ्चालन तथा निरीक्षण गर्नु",
+   "जनगणनाको तथ्याङ्क गणना गर्नु",
+   "न्यायाधीश नियुक्त गर्नु",
+   "संविधानको मस्यौदा तयार गर्नु"
   ],
   "answer": 0,
   "explanation": "The Election Commission conducts elections.",
@@ -1014,10 +1014,10 @@
    "Hear court cases"
   ],
   "options_ne": [
-   "Audit government accounts and spending",
-   "Make budgets",
-   "Collect revenue",
-   "Hear court cases"
+   "सरकारी खाता र खर्चको लेखापरीक्षण गर्नु",
+   "बजेट बनाउनु",
+   "राजस्व सङ्कलन गर्नु",
+   "अदालती मुद्दा सुन्नु"
   ],
   "answer": 0,
   "explanation": "The Auditor General audits government accounts.",
@@ -1055,10 +1055,10 @@
    "Saving in a bank"
   ],
   "options_ne": [
-   "Printing fake notes",
-   "Making illegally obtained money appear legal",
-   "Exchanging currency",
-   "Saving in a bank"
+   "नक्कली नोट छाप्नु",
+   "गैरकानुनी रूपमा आर्जित पैसालाई कानुनी देखाउनु",
+   "मुद्रा साट्नु",
+   "बैंकमा बचत गर्नु"
   ],
   "answer": 1,
   "explanation": "Money laundering makes illegally obtained money appear legal.",
@@ -1096,10 +1096,10 @@
    "Geographical filing"
   ],
   "options_ne": [
-   "Alphabetical filing",
-   "Numerical filing",
-   "Chronological filing",
-   "Geographical filing"
+   "वर्णानुक्रम फाइलिङ",
+   "सांख्यिक फाइलिङ",
+   "कालानुक्रमिक फाइलिङ",
+   "भौगोलिक फाइलिङ"
   ],
   "answer": 0,
   "explanation": "Alphabetical filing arranges files by name.",
@@ -1137,10 +1137,10 @@
    "Outward correspondence"
   ],
   "options_ne": [
-   "Inward correspondence",
-   "Notice",
-   "Circular",
-   "Outward correspondence"
+   "आगत पत्राचार",
+   "सूचना",
+   "गोलाकार",
+   "निर्गत पत्राचार"
   ],
   "answer": 0,
   "explanation": "Mail received by an office is inward correspondence.",
@@ -1178,10 +1178,10 @@
    "The written record of what was decided"
   ],
   "options_ne": [
-   "The invitation letter",
-   "The attendance sheet",
-   "The budget",
-   "The written record of what was decided"
+   "निमन्त्रणा पत्र",
+   "हाजिरी पाना",
+   "बजेट",
+   "निर्णयको लिखित अभिलेख"
   ],
   "answer": 3,
   "explanation": "Minutes are the written record of decisions.",
@@ -1219,10 +1219,10 @@
    "A message sent to many people/offices at once"
   ],
   "options_ne": [
-   "A legal notice",
-   "A secret letter",
-   "A personal memo",
-   "A message sent to many people/offices at once"
+   "कानुनी सूचना",
+   "गोप्य पत्र",
+   "व्यक्तिगत टिप्पणी",
+   "धेरै व्यक्ति/कार्यालयलाई एकैपटक पठाइएको सन्देश"
   ],
   "answer": 3,
   "explanation": "A circular is sent to many recipients at once.",
@@ -1260,10 +1260,10 @@
    "Civil Service Act, 2049"
   ],
   "options_ne": [
-   "Good Governance Act, 2064",
-   "Right to Information Act, 2064",
-   "Local Government Operation Act, 2074",
-   "Civil Service Act, 2049"
+   "सुशासन ऐन, २०६४",
+   "सूचनाको हकसम्बन्धी ऐन, २०६४",
+   "स्थानीय सरकार सञ्चालन ऐन, २०७४",
+   "निजामती सेवा ऐन, २०४९"
   ],
   "answer": 1,
   "explanation": "The Right to Information Act, 2064 guarantees the right to information.",
@@ -1341,10 +1341,10 @@
    "It is cancelled"
   ],
   "options_ne": [
-   "It is payable to anyone",
-   "It has no value",
-   "It must be deposited into a bank account, not cashed over the counter",
-   "It is cancelled"
+   "यो जोसुकैलाई भुक्तान गर्न सकिन्छ",
+   "यसको कुनै मूल्य छैन",
+   "यो बैंक खातामा जम्मा गर्नुपर्छ, काउन्टरबाट नगद लिन मिल्दैन",
+   "यो रद्द हुन्छ"
   ],
   "answer": 2,
   "explanation": "A crossed cheque must be deposited into an account.",
@@ -1421,10 +1421,10 @@
    "Ashad 15"
   ],
   "options_ne": [
-   "Jestha 15",
-   "Baisakh 1",
-   "Shrawan 1",
-   "Ashad 15"
+   "जेठ १५",
+   "वैशाख १",
+   "श्रावण १",
+   "असार १५"
   ],
   "answer": 0,
   "explanation": "The budget is presented on Jestha 15 each year.",
@@ -1461,10 +1461,10 @@
    "Fiscal by the central bank, monetary by the government"
   ],
   "options_ne": [
-   "Both by the central bank",
-   "Both by the parliament",
-   "Fiscal policy by the government, monetary policy by the central bank",
-   "Fiscal by the central bank, monetary by the government"
+   "दुवै केन्द्रीय बैंकबाट",
+   "दुवै संसद्बाट",
+   "राजकोषीय नीति सरकारबाट, मौद्रिक नीति केन्द्रीय बैंकबाट",
+   "राजकोषीय नीति केन्द्रीय बैंकबाट, मौद्रिक नीति सरकारबाट"
   ],
   "answer": 2,
   "explanation": "Fiscal policy is the government's; monetary policy is the central bank's.",
@@ -1501,10 +1501,10 @@
    "Rises"
   ],
   "options_ne": [
-   "Stays the same",
-   "Doubles",
-   "Falls",
-   "Rises"
+   "उस्तै रहन्छ",
+   "दोब्बर हुन्छ",
+   "घट्छ",
+   "बढ्छ"
   ],
   "answer": 2,
   "explanation": "When price rises, demand falls (other things equal).",
@@ -1541,10 +1541,10 @@
    "Primary sector"
   ],
   "options_ne": [
-   "Quaternary sector",
-   "Tertiary sector",
-   "Secondary sector",
-   "Primary sector"
+   "चतुर्थ क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "प्राथमिक क्षेत्र"
   ],
   "answer": 3,
   "explanation": "Agriculture is in the primary sector.",
@@ -1581,10 +1581,10 @@
    "Primary sector"
   ],
   "options_ne": [
-   "Quaternary sector",
-   "Tertiary sector",
-   "Secondary sector",
-   "Primary sector"
+   "चतुर्थ क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "प्राथमिक क्षेत्र"
   ],
   "answer": 2,
   "explanation": "Manufacturing is in the secondary sector.",
@@ -1621,10 +1621,10 @@
    "Quaternary sector"
   ],
   "options_ne": [
-   "Primary sector",
-   "Tertiary sector",
-   "Secondary sector",
-   "Quaternary sector"
+   "प्राथमिक क्षेत्र",
+   "तृतीयक क्षेत्र",
+   "द्वितीयक क्षेत्र",
+   "चतुर्थ क्षेत्र"
   ],
   "answer": 1,
   "explanation": "Services belong to the tertiary sector.",
@@ -1661,10 +1661,10 @@
    "Foreign governments"
   ],
   "options_ne": [
-   "Migrant workers abroad to their families",
-   "Export companies",
-   "Tourists",
-   "Foreign governments"
+   "विदेशमा रहेका आप्रवासी कामदारबाट उनीहरूका परिवारलाई",
+   "निर्यात कम्पनीहरू",
+   "पर्यटक",
+   "विदेशी सरकारहरू"
   ],
   "answer": 0,
   "explanation": "Remittance is money sent home by migrant workers abroad.",
@@ -1701,10 +1701,10 @@
    "17 goals by 2025"
   ],
   "options_ne": [
-   "17 goals by 2030",
-   "15 goals by 2025",
-   "20 goals by 2030",
-   "17 goals by 2025"
+   "२०३० सम्म १७ लक्ष्य",
+   "२०२५ सम्म १५ लक्ष्य",
+   "२०३० सम्म २० लक्ष्य",
+   "२०२५ सम्म १७ लक्ष्य"
   ],
   "answer": 0,
   "explanation": "There are 17 SDGs to be achieved by 2030.",
