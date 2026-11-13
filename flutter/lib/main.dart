@@ -62,9 +62,7 @@ class _VidyapeethAppState extends State<VidyapeethApp> {
       builder: (context, _) => MaterialApp(
         title: 'LokSewa Vidyapeeth',
         debugShowCheckedModeBanner: false,
-        theme: buildLightTheme(),
-        darkTheme: buildDarkTheme(),
-        themeMode: state.themeMode,
+        theme: buildAppTheme(),
         // v1.0.4: the app requires internet to open.
         home: const NetworkGate(child: RootNav()),
       ),
