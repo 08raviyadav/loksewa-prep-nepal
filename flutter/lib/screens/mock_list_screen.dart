@@ -6,6 +6,7 @@ import '../engine/mock_specs.dart';
 import '../l10n/app_strings.dart';
 import '../l10n/mock_strings.dart';
 import '../models/models.dart';
+import '../onboarding/tour.dart';
 import '../theme/app_theme.dart';
 import '../widgets/app_scaffold.dart';
 import 'mock_exam_screen.dart';
@@ -175,6 +176,7 @@ class _MockListScreenState extends State<MockListScreen> {
       title: s.navMock,
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
+      bottomNavKey: TourKeys.bottomNav,
       body: FutureBuilder<List<_MockEntry>>(
         future: _entriesFuture,
         builder: (context, snap) {
