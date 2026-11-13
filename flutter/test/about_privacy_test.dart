@@ -18,7 +18,7 @@ Future<void> _pump(WidgetTester tester, Widget screen) async {
   addTearDown(tester.view.resetPhysicalSize);
   addTearDown(tester.view.resetDevicePixelRatio);
   PackageInfo.setMockInitialValues(
-    appName: 'LokSewa Vidyapeeth',
+    appName: 'Outrank',
     packageName: 'com.raviyadav.loksewa_vidyapeeth',
     version: '1.0.2',
     buildNumber: '3',
@@ -54,7 +54,7 @@ void main() {
         tester,
         AboutScreen(navIndex: 0, onNav: (_) {}),
       );
-      expect(find.text('LokSewa Vidyapeeth'), findsOneWidget);
+      expect(find.text('Outrank'), findsOneWidget);
       expect(find.text('Version 1.0.2 (3)'), findsOneWidget);
       expect(
         find.textContaining('Free Lok Sewa exam preparation'),
@@ -94,11 +94,15 @@ void main() {
         find.textContaining('Public Service Commission'),
         findsOneWidget,
       );
-      await tester.scrollUntilVisible(
-        find.text('Created by Ravi Yadav'),
-        200,
-      );
-      expect(find.text('Created by Ravi Yadav'), findsOneWidget);
+      // The footer credit shares its text with the GitHub tile's
+      // subtitle, and both sit inside the same header Center — so
+      // target the LAST match: the footer is the final item in the
+      // list. (With the shorter 'Outrank' title the tile can still
+      // be built when the footer scrolls in — lazy ListView +
+      // cache extent — so a plain finder hits "Too many elements".)
+      final footerCredit = find.text('Created by Ravi Yadav').last;
+      await tester.scrollUntilVisible(footerCredit, 200);
+      expect(footerCredit, findsOneWidget);
     });
   });
 
