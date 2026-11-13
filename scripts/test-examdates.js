@@ -20,7 +20,7 @@ const sandbox = {
 sandbox.window = sandbox;
 vm.createContext(sandbox);
 try {
-  vm.runInContext(src + '\nmodule.exports={bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remKindLabel,remChip,getLang,setLang,B,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle};', sandbox);
+  vm.runInContext(src + '\nmodule.exports={bsParse,bsAbsDay,bsFromAbs,BS_ANCHOR_ABS,bsToday,bsDaysUntil,neDigits,fmtBs,bsCountdown,upcomingExamDates,examDateById,remStore,remSave,REM_DISMISSED,REM_LIST,REM_NOTIFIED,REM_ASKED,renderExamReminder,dismissReminder,goPracticeExam,goMockExam,renderExamDates,toggleExamReminder,enableExamNotifications,checkExamNotifications,remKindLabel,remChip,getLang,setLang,B,nxTargetMs,nxRemaining,nxPad,nxPagerList,nxCardState,nxPick,nxCycle,nxDotsHtml};', sandbox);
   check('app.js parses (examdates build)', true);
 } catch (e) { check('app.js parses (examdates build)', false, e.message); process.exit(1); }
 const t = sandbox.module.exports;
@@ -151,6 +151,20 @@ t.nxCycle(0);
 check('nxCycle wraps back to 0', t.nxPick(pl).id === 'p1');
 runInApp(`EXAMDATES=[{id:'q9', date_bs:'2083-07-18', kind:'exam', title_en:'NEW', title_ne:'नयाँ', exam:null}];`);
 check('nxPick resets index when list changes', t.nxPick(t.nxPagerList()).id === 'q9');
+
+// nxDotsHtml: at most 7 dots + a counter when the list is long.
+const dots65 = Array.from({length: 65}, (_, i) => ({id: 'd' + i, title_en: 'Exam ' + i}));
+const dotsHtml = t.nxDotsHtml(dots65);
+check('nxDotsHtml caps 65 exams at 7 dots', (dotsHtml.match(/nx-dot/g) || []).length === 7, String((dotsHtml.match(/nx-dot/g) || []).length));
+check('nxDotsHtml shows a 1 / 65 counter', dotsHtml.includes('1 / 65'));
+t.nxCycle(60);
+const dotsHtml60 = t.nxDotsHtml(dots65);
+check('nxDotsHtml window slides (61 / 65)', dotsHtml60.includes('61 / 65') && (dotsHtml60.match(/nx-dot/g) || []).length === 7);
+check('nxDotsHtml marks the current dot', dotsHtml60.includes('nxCycle(60)') && dotsHtml60.includes('nx-dot on'));
+t.nxCycle(0);
+const dotsHtml3 = t.nxDotsHtml(dots65.slice(0, 3));
+check('nxDotsHtml shows all 3 dots, no counter', (dotsHtml3.match(/nx-dot/g) || []).length === 3 && !dotsHtml3.includes('nx-count'));
+check('nxDotsHtml empty for a single exam', t.nxDotsHtml(dots65.slice(0, 1)) === '');
 
 console.log(fail === 0 ? 'ALL EXAMDATE CHECKS PASSED ✔' : fail + ' FAILURES ✘');
 process.exit(fail ? 1 : 0);
