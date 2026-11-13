@@ -300,7 +300,7 @@ void main() {
     /// Same pre-warm trick as exam_dates_test: asset loads via
     /// rootBundle don't flush under the test's fake-async clock.
     Future<AppState> pumpScreen(WidgetTester tester) async {
-      SharedPreferences.setMockInitialValues({});
+      SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
       final state = AppState();
       await state.init();
       await tester.runAsync(() async {
@@ -495,7 +495,7 @@ void main() {
       required String todayBs,
       ValueChanged<String>? onPush,
     }) async {
-      SharedPreferences.setMockInitialValues({});
+      SharedPreferences.setMockInitialValues({'loksewa_lang_v1': 'en'}); // English pinned (default is Nepali, v1.0.9)
       final state = AppState();
       await state.init();
       await tester.pumpWidget(
