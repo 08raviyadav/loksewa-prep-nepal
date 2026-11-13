@@ -278,8 +278,8 @@ class _QuizScreenState extends State<QuizScreen> {
                   ),
                   decoration: BoxDecoration(
                     color: _timeLeft <= 300
-                        ? AppColors.dangerSoft
-                        : AppColors.accentSoft,
+                        ? AppColors.of(context).dangerSoft
+                        : AppColors.of(context).accentSoft,
                     borderRadius: const BorderRadius.all(AppRadius.pill),
                   ),
                   child: Text(
@@ -287,8 +287,8 @@ class _QuizScreenState extends State<QuizScreen> {
                     style: AppType.small.copyWith(
                       fontWeight: FontWeight.w800,
                       color: _timeLeft <= 300
-                          ? AppColors.danger
-                          : AppColors.accentStrong,
+                          ? AppColors.of(context).danger
+                          : AppColors.of(context).accentStrong,
                       fontFeatures: const [FontFeature.tabularFigures()],
                     ),
                   ),
@@ -301,7 +301,7 @@ class _QuizScreenState extends State<QuizScreen> {
           child: LinearProgressIndicator(
             value: (_idx + 1) / total,
             backgroundColor: scheme.surfaceContainerHighest,
-            color: AppColors.accent,
+            color: AppColors.of(context).accent,
             minHeight: 4,
           ),
         ),
@@ -342,11 +342,11 @@ class _QuizScreenState extends State<QuizScreen> {
                 Color? border;
                 if (answered) {
                   if (isCorrect) {
-                    bg = AppColors.greenSoft;
-                    border = AppColors.green;
+                    bg = AppColors.of(context).greenSoft;
+                    border = AppColors.of(context).green;
                   } else if (isPicked) {
-                    bg = AppColors.dangerSoft;
-                    border = AppColors.danger;
+                    bg = AppColors.of(context).dangerSoft;
+                    border = AppColors.of(context).danger;
                   }
                 }
                 return Padding(
@@ -380,9 +380,9 @@ class _QuizScreenState extends State<QuizScreen> {
                           decoration: BoxDecoration(
                             shape: BoxShape.circle,
                             color: isCorrect && answered
-                                ? AppColors.green
+                                ? AppColors.of(context).green
                                 : isPicked && answered
-                                    ? AppColors.danger
+                                    ? AppColors.of(context).danger
                                     : scheme.surfaceContainerHighest,
                           ),
                           child: Text(
@@ -400,12 +400,12 @@ class _QuizScreenState extends State<QuizScreen> {
                           ),
                         ),
                         if (answered && isCorrect)
-                          const Icon(
+                          Icon(
                             Icons.check_circle,
-                            color: AppColors.green,
+                            color: AppColors.of(context).green,
                           ),
                         if (answered && isPicked && !isCorrect)
-                          const Icon(Icons.cancel, color: AppColors.danger),
+                          Icon(Icons.cancel, color: AppColors.of(context).danger),
                       ],
                     ),
                   ),
@@ -415,8 +415,8 @@ class _QuizScreenState extends State<QuizScreen> {
                 const SizedBox(height: AppSpacing.s2),
                 Card(
                   color: _feedbackOk == true
-                      ? AppColors.greenSoft
-                      : AppColors.dangerSoft,
+                      ? AppColors.of(context).greenSoft
+                      : AppColors.of(context).dangerSoft,
                   child: Padding(
                     padding: const EdgeInsets.all(AppSpacing.s4),
                     child: Column(
@@ -428,8 +428,8 @@ class _QuizScreenState extends State<QuizScreen> {
                               : s.wrongFeedback,
                           style: AppType.h3.copyWith(
                             color: _feedbackOk == true
-                                ? AppColors.green
-                                : AppColors.danger,
+                                ? AppColors.of(context).green
+                                : AppColors.of(context).danger,
                           ),
                         ),
                         if (_feedbackOk != true) ...[
@@ -522,8 +522,8 @@ class _QuizScreenState extends State<QuizScreen> {
                     child: FilledButton(
                       onPressed: _confirmFinish,
                       style: FilledButton.styleFrom(
-                        backgroundColor: AppColors.accent,
-                        foregroundColor: AppColors.accentInk,
+                        backgroundColor: AppColors.of(context).accent,
+                        foregroundColor: AppColors.of(context).accentInk,
                         minimumSize: const Size(0, AppSpacing.minTap),
                       ),
                       child: Text(s.finish),
@@ -548,14 +548,14 @@ class _Tag extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-      decoration: const BoxDecoration(
-        color: AppColors.accentSoft,
-        borderRadius: BorderRadius.all(AppRadius.pill),
+      decoration: BoxDecoration(
+        color: AppColors.of(context).accentSoft,
+        borderRadius: const BorderRadius.all(AppRadius.pill),
       ),
       child: Text(
         label,
         style: AppType.tiny.copyWith(
-          color: AppColors.accentStrong,
+          color: AppColors.of(context).accentStrong,
           fontWeight: FontWeight.w700,
         ),
       ),

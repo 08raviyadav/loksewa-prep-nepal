@@ -164,7 +164,7 @@ class ResultScreen extends StatelessWidget {
                       Text(
                         '${_trimNum(r.score)} / ${r.max}',
                         style: AppType.h1.copyWith(
-                          color: passed ? AppColors.green : AppColors.danger,
+                          color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
                         ),
                       ),
                       Text(
@@ -177,7 +177,7 @@ class ResultScreen extends StatelessWidget {
                       Text(
                         passed ? s.passLabel : s.failLabel,
                         style: AppType.h2.copyWith(
-                          color: passed ? AppColors.green : AppColors.danger,
+                          color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
                         ),
                         textAlign: TextAlign.center,
                       ),
@@ -252,8 +252,8 @@ class ResultScreen extends StatelessWidget {
                     icon: const Icon(Icons.refresh),
                     label: Text(s.retryWrong(r.wrongList.length)),
                     style: FilledButton.styleFrom(
-                      backgroundColor: AppColors.accent,
-                      foregroundColor: AppColors.accentInk,
+                      backgroundColor: AppColors.of(context).accent,
+                      foregroundColor: AppColors.of(context).accentInk,
                       minimumSize: const Size(0, AppSpacing.minTap),
                     ),
                   ),
@@ -368,7 +368,7 @@ class ResultScreen extends StatelessWidget {
                             subtitle: Text(
                               '${s.yourAnswer} ${String.fromCharCode(65 + w.selected)}. $yourOpt',
                               style: AppType.small.copyWith(
-                                color: AppColors.danger,
+                                color: AppColors.of(context).danger,
                               ),
                             ),
                             children: [
@@ -383,7 +383,7 @@ class ResultScreen extends StatelessWidget {
                                       '${s.correctIs} ${String.fromCharCode(65 + w.view.correctIndex)}. $rightOpt',
                                       style: AppType.body.copyWith(
                                         fontWeight: FontWeight.w700,
-                                        color: AppColors.green,
+                                        color: AppColors.of(context).green,
                                       ),
                                     ),
                                     if (q.explain(ne).isNotEmpty) ...[
@@ -434,7 +434,7 @@ class _ScoreRing extends StatelessWidget {
               strokeWidth: 12,
               backgroundColor:
                   Theme.of(context).colorScheme.surfaceContainerHighest,
-              color: passed ? AppColors.green : AppColors.danger,
+              color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
             ),
           ),
           Text(
@@ -455,9 +455,9 @@ class _Stat extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-      decoration: const BoxDecoration(
-        color: AppColors.accentSoft,
-        borderRadius: BorderRadius.all(AppRadius.pill),
+      decoration: BoxDecoration(
+        color: AppColors.of(context).accentSoft,
+        borderRadius: const BorderRadius.all(AppRadius.pill),
       ),
       child: Text(label, style: AppType.small),
     );
@@ -475,9 +475,9 @@ class _Banner extends StatelessWidget {
       width: double.infinity,
       padding: const EdgeInsets.all(AppSpacing.s3),
       decoration: BoxDecoration(
-        color: gold ? AppColors.accentSoft : AppColors.greenSoft,
+        color: gold ? AppColors.of(context).accentSoft : AppColors.of(context).greenSoft,
         borderRadius: AppRadius.mdAll,
-        border: Border.all(color: gold ? AppColors.accent : AppColors.green),
+        border: Border.all(color: gold ? AppColors.of(context).accent : AppColors.of(context).green),
       ),
       child: Text(
         text,
