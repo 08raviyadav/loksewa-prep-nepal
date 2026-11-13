@@ -3,7 +3,8 @@
    ------------------------------------------------------------
    Vanilla CSS · zero dependencies · offline-first (system fonts
    only, Devanagari-friendly line-heights).
-   Single light theme: minimal white + orange, no gradients.
+   Light (default) + dark via [data-theme="dark"] — one orange accent,
+   no gradients, no indigo.
    Spacing rhythm: 4px base. Tap targets >= 44px. Mobile-first.
    ============================================================ */
 
@@ -66,6 +67,40 @@
   --shadow-lg:0 18px 50px rgba(17,24,39,.16);
   --skel-shine:rgba(17,24,39,.06);
 }
+/* Dark theme — same orange accent on charcoal, no navy/indigo. */
+[data-theme="dark"]{
+  --bg:#121212;
+  --bg2:#1e1e1e;
+  --card:#1e1e1e;
+  --card-2:#2a2a2a;
+  --overlay:rgba(0,0,0,.6);
+  --text:#f5f5f4;
+  --muted:#a3a3a3;
+  --faint:#737373;
+  --accent:#f97316;
+  --accent-strong:#fb923c;
+  --accent-deep:#fdba74;
+  --accent-ink:#1c0f00;
+  --accent-soft:rgba(249,115,22,.15);
+  --accent-line:rgba(249,115,22,.4);
+  --accent2:#22c55e;
+  --green:#22c55e;
+  --green-soft:rgba(34,197,94,.15);
+  --danger:#ef4444;
+  --danger-soft:rgba(239,68,68,.15);
+  --blue:#3b82f6;
+  --blue-soft:rgba(59,130,246,.16);
+  --border:#333333;
+  --border-soft:#262626;
+  --shadow-sm:0 2px 8px rgba(0,0,0,.25);
+  --shadow:0 10px 28px rgba(0,0,0,.32);
+  --shadow-lg:0 18px 50px rgba(0,0,0,.45);
+  --skel-shine:rgba(255,255,255,.09);
+}
+/* Light-only fills that need dark variants. */
+[data-theme="dark"] .opt.correct{background:#14532d;border-color:var(--green);color:#fff}
+[data-theme="dark"] .opt.wrong{background:#7f1d1d;border-color:var(--danger);color:#fff}
+[data-theme="dark"] .bday-badge{border-color:#ec4899!important;background:#431a33!important;color:#f9a8d4!important}
 
 /* ---------- 2. Reset & base ---------- */
 *{box-sizing:border-box;margin:0;padding:0}
