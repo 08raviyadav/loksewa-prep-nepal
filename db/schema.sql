@@ -1,4 +1,4 @@
--- LokSewa Vidyapeeth — reports table (Vercel Postgres)
+-- Outrank — reports table (Vercel Postgres)
 -- Run ONCE: Vercel dashboard -> Storage -> your Postgres database ->
 -- Query tab, paste this file, Run. (Or: psql "$DATABASE_URL" -f db/schema.sql)
 -- Safe to re-run: CREATE TABLE / CREATE INDEX use IF NOT EXISTS.
