@@ -56,19 +56,6 @@ class AppScaffold extends StatelessWidget {
               ),
             ),
           ),
-          IconButton(
-            tooltip: s.navMore,
-            icon: Icon(
-              state.themeMode == ThemeMode.dark
-                  ? Icons.light_mode_outlined
-                  : Icons.dark_mode_outlined,
-            ),
-            onPressed: () => state.setThemeMode(
-              state.themeMode == ThemeMode.dark
-                  ? ThemeMode.light
-                  : ThemeMode.dark,
-            ),
-          ),
           ...?actions,
         ],
       ),
@@ -242,18 +229,50 @@ class _AppDrawer extends StatelessWidget {
         padding: EdgeInsets.zero,
         children: [
           DrawerHeader(
-            decoration: const BoxDecoration(gradient: AppColors.heroGradient),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              mainAxisAlignment: MainAxisAlignment.end,
+            decoration: const BoxDecoration(
+              color: AppColors.card,
+              border: Border(
+                bottom: BorderSide(color: AppColors.borderSoft),
+              ),
+            ),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Text(
-                  'लोक सेवा विद्यापीठ',
-                  style: AppType.h2.copyWith(color: Colors.white),
+                Container(
+                  width: 48,
+                  height: 48,
+                  decoration: const BoxDecoration(
+                    shape: BoxShape.circle,
+                    color: AppColors.accent,
+                  ),
+                  alignment: Alignment.center,
+                  child: Text(
+                    'लो',
+                    style: AppType.h2.copyWith(
+                      color: AppColors.accentInk,
+                    ),
+                  ),
                 ),
-                Text(
-                  'LOKSEWA VIDYAPEETH',
-                  style: AppType.small.copyWith(color: AppColors.accent),
+                const SizedBox(width: AppSpacing.s3),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text(
+                        'लोक सेवा विद्यापीठ',
+                        style: AppType.h2.copyWith(
+                          color: AppColors.text,
+                        ),
+                      ),
+                      Text(
+                        'LOKSEWA VIDYAPEETH',
+                        style: AppType.small.copyWith(
+                          color: AppColors.accent,
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ],
             ),
