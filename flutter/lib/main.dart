@@ -181,6 +181,8 @@ class _RootNavState extends State<RootNav> {
           ),
           meta: _metaFor(examId, prelim),
           bank: pool,
+          navIndex: _index,
+          onNav: _go,
         ),
       ),
     );
@@ -235,6 +237,8 @@ class _RootNavState extends State<RootNav> {
             fullTotal: 100,
           ),
           bank: all,
+          navIndex: _index,
+          onNav: _go,
         ),
       ),
     );
@@ -262,6 +266,8 @@ class _RootNavState extends State<RootNav> {
             fullTotal: 1,
           ),
           bank: const [],
+          navIndex: _index,
+          onNav: _go,
         ),
       ),
     );
@@ -291,6 +297,8 @@ class _RootNavState extends State<RootNav> {
             fullTotal: 100,
           ),
           bank: all,
+          navIndex: _index,
+          onNav: _go,
         ),
       ),
     );
