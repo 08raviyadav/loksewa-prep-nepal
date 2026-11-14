@@ -7085,5 +7085,33 @@
    "१९८८"
   ],
   "explanation_ne": "सगरमाथा राष्ट्रिय निकुञ्ज सन् १९७९ मा युनेस्को विश्व सम्पदा सूचीमा सूचीकृत भएको थियो, यो स्थापना भएको तीन वर्षपछि।"
+ },
+ {
+  "id": "PSCM-2082-01",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal Geography",
+  "subtopic": "Lakes of Nepal",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the largest natural lake in Nepal?",
+  "question_ne": "नेपालको सबैभन्दा ठूलो प्राकृतिक ताल तलका मध्ये कुन हो?",
+  "options": [
+   "Phewa",
+   "Rara",
+   "Begnas",
+   "Tilicho"
+  ],
+  "options_ne": [
+   "फेवा",
+   "रारा",
+   "बेगनास",
+   "तिलिचो"
+  ],
+  "answer": 1,
+  "explanation": "Rara Lake in Mugu district is the largest natural lake of Nepal (about 10.8 sq km). Phewa, Begnas and Tilicho are smaller.",
+  "explanation_ne": "मुगु जिल्लामा रहेको रारा ताल नेपालको सबैभन्दा ठूलो प्राकृतिक ताल हो (लगभग १०.८ वर्ग किमी)। फेवा, बेगनास र तिलिचो साना छन्।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
