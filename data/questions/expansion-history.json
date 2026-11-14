@@ -6872,5 +6872,61 @@
    "१९७२"
   ],
   "explanation_ne": "नेपाल र चीनले २८ अप्रिल १९६० मा शान्ति तथा मैत्री सन्धिमा हस्ताक्षर गरे।"
+ },
+ {
+  "id": "PSCM-2082-03",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "Kirant Dynasty",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Who is the first king of Kirant dynasty in the history of Nepal?",
+  "question_ne": "नेपालको इतिहासमा किराँत वंशका पहिलो राजा को हुन्?",
+  "options": [
+   "Yalamber",
+   "Jitedasti",
+   "Sthunko",
+   "Humati"
+  ],
+  "options_ne": [
+   "यलम्बर",
+   "जितेदस्ती",
+   "स्थुङ्को",
+   "हुमती"
+  ],
+  "answer": 0,
+  "explanation": "Yalamber was the first king of the Kirant dynasty in the history of Nepal.",
+  "explanation_ne": "यलम्बर नेपालको इतिहासमा किराँत वंशका पहिलो राजा थिए।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-04",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Nepal History",
+  "subtopic": "World History",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following historical events of the world is correct in chronological order? (i) Fall of the Berlin Wall (ii) The end of the Vietnam War (iii) Dissolution of the Soviet Union",
+  "question_ne": "विश्वका निम्न ऐतिहासिक घटनाहरूको कालक्रमअनुसार सही क्रम कुन हो? (i) बर्लिन पर्खालको पतन (ii) भियतनाम युद्धको अन्त्य (iii) सोभियत संघको विघटन",
+  "options": [
+   "iii, i, ii",
+   "ii, i, iii",
+   "ii, iii, i",
+   "iii, ii, i"
+  ],
+  "options_ne": [
+   "iii, i, ii",
+   "ii, i, iii",
+   "ii, iii, i",
+   "iii, ii, i"
+  ],
+  "answer": 1,
+  "explanation": "The Vietnam War ended in 1975, the Berlin Wall fell in 1989, and the Soviet Union dissolved in 1991 — so the correct chronological order is ii, i, iii.",
+  "explanation_ne": "भियतनाम युद्ध सन् १९७५ मा समाप्त भयो, बर्लिन पर्खाल सन् १९८९ मा ढल्यो र सोभियत संघ सन् १९९१ मा विघटन भयो — त्यसैले सही कालक्रम ii, i, iii हो।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
