@@ -1,7 +1,7 @@
 # Signed release APK for the Outrank Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.11` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.12` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,23 +196,23 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.11
+      - name: Publish to GitHub Release android-v1.0.12
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.11
-          name: Outrank Android v1.0.11
+          tag_name: android-v1.0.12
+          name: Outrank Android v1.0.12
           body: |
-            Signed release APK for Outrank v1.0.11 (Android).
+            Signed release APK for Outrank v1.0.12 (Android).
 
-            What's new: LokSewa Vidyapeeth is now **Outrank** — same app,
-            same questions, new name everywhere: home screen, launcher
-            icon, drawer, About, share messages and notifications. The
-            exams haven't changed — it's still Lok Sewa exam preparation,
-            now under the Outrank brand.
+            What's new: **18 new questions** — official PSC model
+            questions from the 4th Level Pre-Qualifying Syllabus 2082,
+            bilingual with explanations. The bank is now 64,689 questions.
+            This is a data update released as a new version so the
+            in-app update check detects it.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.10 as an update (same signature).
+            Installs over v1.0.11 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,689 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
