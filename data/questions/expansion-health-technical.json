@@ -4983,5 +4983,33 @@
    "क्रेन"
   ],
   "explanation_ne": "क्रेनले स्टिल बीम र कंक्रिट ब्लकजस्ता भारी सामग्री उठाएर निर्माण स्थलमा सही ठाउँमा पुर्‍याउँछ।"
+ },
+ {
+  "id": "PSCM-2082-12",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Health/Technical basics",
+  "subtopic": "Communicable Diseases",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following diseases is transmitted by bacteria?",
+  "question_ne": "ब्याक्टेरियाबाट सर्ने रोग तलका मध्ये कुन हो?",
+  "options": [
+   "Malaria",
+   "Rabies",
+   "Cholera",
+   "Influenza"
+  ],
+  "options_ne": [
+   "मलेरिया",
+   "रेबिज",
+   "हैजा",
+   "इन्फ्लुएन्जा"
+  ],
+  "answer": 2,
+  "explanation": "Cholera is caused by the bacterium Vibrio cholerae. Malaria is caused by a Plasmodium parasite, while rabies and influenza are caused by viruses.",
+  "explanation_ne": "हैजा भिब्रियो कोलेरी नामक ब्याक्टेरियाबाट लाग्छ। मलेरिया प्लाज्मोडियम परजीवीबाट र रेबिज तथा इन्फ्लुएन्जा भाइरसबाट लाग्छन्।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
