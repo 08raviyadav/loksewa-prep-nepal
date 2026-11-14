@@ -23640,5 +23640,61 @@
    "सेयर किन्ने वा बेच्ने क्रममा ब्रोकरले लिने शुल्क"
   ],
   "explanation_ne": "ब्रोकरले ग्राहकका लागि कार्यान्वयन गरेको प्रत्येक कारोबारमा कमिसन आर्जन गर्छ।"
+ },
+ {
+  "id": "PSCM-2082-13",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Communication",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Which of the following is the main weakness of written communication?",
+  "question_ne": "लिखित सञ्चारको मुख्य कमजोरी तलका मध्ये कुन हो?",
+  "options": [
+   "No formal record",
+   "No clear communication",
+   "More expensive",
+   "Delayed response"
+  ],
+  "options_ne": [
+   "औपचारिक अभिलेख नहुनु",
+   "स्पष्ट सञ्चार नहुनु",
+   "धेरै महँगो हुनु",
+   "ढिलो प्रतिक्रिया प्राप्त हुनु"
+  ],
+  "answer": 3,
+  "explanation": "Written communication keeps a formal record, but its main weakness is the delayed response — the sender must wait for a written reply, unlike face-to-face communication.",
+  "explanation_ne": "लिखित सञ्चारमा औपचारिक अभिलेख रहन्छ तर यसको मुख्य कमजोरी ढिलो प्रतिक्रिया हो — जवाफका लागि लिखित रूपमा पर्खनुपर्छ, आमने-सामने सञ्चारमा जस्तो तुरुन्त प्रतिक्रिया पाइँदैन।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-16",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Office Management & Public Service",
+  "subtopic": "Public Service Delivery",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the following Group (I) and Group (II) and choose the correct option from the codes given below. Group (I): (a) Citizen Charter (b) Mobile Service (c) Public Hearing (d) Complaint Box. Group (II): 1. Process to listen to the grievance 2. A box where service recipients can drop their complaints 3. Providing information about the services of the office 4. System to provide services without visiting office",
+  "question_ne": "तल दिइएको समूह (I) र समूह (II) लाई मिलाउनुहोस् र कोडबाट सही विकल्प छान्नुहोस्। समूह (I): (क) नागरिक बडापत्र (ख) घुम्ती सेवा (ग) सार्वजनिक सुनुवाइ (घ) उजुरी पेटिका। समूह (II): १. समस्या सुन्ने प्रक्रिया २. सेवाग्राहीले उजुरी राख्न सक्ने बाकस ३. कार्यालयको सेवाबारे दिइने जानकारी ४. कार्यालयमा नआइकन सेवा दिने प्रणाली",
+  "options": [
+   "a-3, b-1, c-2, d-4",
+   "a-3, b-4, c-2, d-1",
+   "a-4, b-1, c-3, d-2",
+   "a-3, b-4, c-1, d-2"
+  ],
+  "options_ne": [
+   "a-३, b-१, c-२, d-४",
+   "a-३, b-४, c-२, d-१",
+   "a-४, b-१, c-३, d-२",
+   "a-३, b-४, c-१, d-२"
+  ],
+  "answer": 3,
+  "explanation": "Citizen Charter gives information about the services of the office (3); Mobile Service delivers services without visiting the office (4); Public Hearing is the process to listen to grievances (1); Complaint Box is where service recipients drop their complaints (2).",
+  "explanation_ne": "नागरिक बडापत्रले कार्यालयको सेवाबारे जानकारी दिन्छ (३); घुम्ती सेवाले कार्यालयमा नआइकन सेवा दिन्छ (४); सार्वजनिक सुनुवाइ समस्या सुन्ने प्रक्रिया हो (१); उजुरी पेटिका सेवाग्राहीले उजुरी राख्ने बाकस हो (२)।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
