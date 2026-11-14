@@ -4815,5 +4815,33 @@
   "explanation": "Custom is a source of law when it is long-standing, reasonable, certain and not contrary to statute or the Constitution.",
   "explanation_ne": "चलन लामो समयदेखि चलिआएको, उचित, निश्चित र ऐन वा संविधानविपरीत नभएमा कानुनको स्रोत बन्छ।",
   "source": "Nepal law — Muluki Codes 2074, Constitution of Nepal 2072, Nepal Bar Council"
+ },
+ {
+  "id": "PSCM-2082-08",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Law",
+  "subtopic": "Sources of Law",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "Among the following, which is not the source of law?",
+  "question_ne": "तलका मध्ये कानुनको स्रोत कुन होइन?",
+  "options": [
+   "Custom",
+   "Legislation",
+   "Administrative Recommendation",
+   "Judicial Precedent"
+  ],
+  "options_ne": [
+   "प्रथा",
+   "विधायन",
+   "प्रशासनिक सिफारिस",
+   "न्यायिक नजिर"
+  ],
+  "answer": 2,
+  "explanation": "Custom, legislation and judicial precedent are sources of law; an administrative recommendation is not a source of law.",
+  "explanation_ne": "प्रथा, विधायन र न्यायिक नजिर कानुनका स्रोत हुन्; प्रशासनिक सिफारिस कानुनको स्रोत होइन।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
