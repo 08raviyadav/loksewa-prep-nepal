@@ -214,7 +214,7 @@ jobs:
             allow "install unknown apps" if asked. No sign-in needed.
             Installs over v1.0.10 as an update (same signature).
 
-            Bundled data: 82 exam dates, 47 exams, 64,671 questions,
+            Bundled data: 82 exam dates, 47 exams, 64,689 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
           files: flutter/build/app/outputs/flutter-apk/app-release.apk
           overwrite_files: true # re-runs replace the previous APK asset
