@@ -6062,5 +6062,33 @@
   "explanation": "Downstream = 15 + 5 = 20 km/h.",
   "explanation_ne": "डाउनस्ट्रीम = 15 + 5 = 20 किमी/घन्टा।",
   "source": "Aptitude"
+ },
+ {
+  "id": "PSCM-2082-15",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Maths & Numerical",
+  "subtopic": "Profit and Loss",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "If a shopkeeper sells an article for Rs. 1,248 by making a profit of 20 percent, what would be the cost price of the article?",
+  "question_ne": "कुनै सामान रू. १,२४८ मा बेच्दा पसलेलाई २० प्रतिशत नाफा हुन्छ भने उक्त सामानको क्रय मूल्य कति होला?",
+  "options": [
+   "Rs. 1,020",
+   "Rs. 1,030",
+   "Rs. 1,040",
+   "Rs. 1,050"
+  ],
+  "options_ne": [
+   "Rs. 1,020",
+   "Rs. 1,030",
+   "Rs. 1,040",
+   "Rs. 1,050"
+  ],
+  "answer": 2,
+  "explanation": "Cost price = 1248 ÷ 1.20 = Rs. 1,040.",
+  "explanation_ne": "क्रय मूल्य = १२४८ ÷ १.२० = रू. १,०४० हुन्छ।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
