@@ -25,6 +25,15 @@ class ResultScreen extends StatelessWidget {
   final List<Question> bank;
   final ProgressStore store;
 
+  /// Tab the finished session was launched from — the bottom bar
+  /// highlights it (v1.0.13: the bar stays visible on the result screen).
+  final int navIndex;
+
+  /// Tab switcher, wired to RootNav (v1.0.13). Called AFTER this route
+  /// is popped, so launch sites pass their plain tab switcher.
+  /// Null in tests that pump the result screen standalone.
+  final ValueChanged<int>? onNav;
+
   /// The funny slang line for this result, picked ONCE in the constructor
   /// so rebuilds never re-roll it. The script (Roman / Devanagari) is
   /// resolved in build from the current app language.
@@ -38,7 +47,16 @@ class ResultScreen extends StatelessWidget {
     required this.summary,
     required this.bank,
     required this.store,
+    this.navIndex = 0,
+    this.onNav,
   }) : slang = pickResultSlang(result.score, result.max);
+
+  /// Leaves the result screen for tab [i] (v1.0.13). The result route
+  /// sits above RootNav, so it must be popped first.
+  void _goToTab(BuildContext context, int i) {
+    Navigator.of(context).popUntil((route) => route.isFirst);
+    onNav?.call(i);
+  }
 
   String _fmtTime(int s) {
     final m = s ~/ 60, r = s % 60;
@@ -67,7 +85,13 @@ class ResultScreen extends StatelessWidget {
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
-        builder: (_) => QuizScreen(config: retry, meta: meta, bank: bank),
+        builder: (_) => QuizScreen(
+          config: retry,
+          meta: meta,
+          bank: bank,
+          navIndex: navIndex,
+          onNav: onNav,
+        ),
       ),
     );
   }
@@ -89,7 +113,13 @@ class ResultScreen extends StatelessWidget {
     );
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
-        builder: (_) => QuizScreen(config: retry, meta: meta, bank: bank),
+        builder: (_) => QuizScreen(
+          config: retry,
+          meta: meta,
+          bank: bank,
+          navIndex: navIndex,
+          onNav: onNav,
+        ),
       ),
     );
   }
@@ -146,282 +176,295 @@ class ResultScreen extends StatelessWidget {
             (config.negRate * 100).round(),
           );
 
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(config.mode == 'mock' ? s.mockMode : s.practiceMode),
-        automaticallyImplyLeading: false,
-      ),
-      body: Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: AppSpacing.maxWidth),
-          child: ListView(
-            padding: const EdgeInsets.all(AppSpacing.s4),
-            children: [
-              Card(
-                child: Padding(
-                  padding: const EdgeInsets.all(AppSpacing.s6),
-                  child: Column(
-                    children: [
-                      Text(
-                        '${config.mode == 'mock' ? s.mockMode : s.practiceMode} · ${meta.examName}${r.timedOut ? ' (${s.timeUpTitle})' : ''}',
-                        style: AppType.small.copyWith(
-                          color: Theme.of(context).hintColor,
-                        ),
-                        textAlign: TextAlign.center,
-                      ),
-                      const SizedBox(height: AppSpacing.s4),
-                      _ScoreRing(pct: r.pct, passed: passed),
-                      const SizedBox(height: AppSpacing.s3),
-                      Text(
-                        '${_trimNum(r.score)} / ${r.max}',
-                        style: AppType.h1.copyWith(
-                          color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
-                        ),
-                      ),
-                      Text(
-                        '${r.pct}%',
-                        style: AppType.h3.copyWith(
-                          color: Theme.of(context).hintColor,
-                        ),
-                      ),
-                      const SizedBox(height: AppSpacing.s3),
-                      Text(
-                        passed ? s.passLabel : s.failLabel,
-                        style: AppType.h2.copyWith(
-                          color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
-                        ),
-                        textAlign: TextAlign.center,
-                      ),
-                      const SizedBox(height: AppSpacing.s2),
-                      Text(
-                        s.cutoffLine(
-                          meta.cutoffPct,
-                          meta.cutoff,
-                          meta.fullTotal,
-                          r.pct,
-                        ),
-                        style: AppType.small,
-                        textAlign: TextAlign.center,
-                      ),
-                      const SizedBox(height: AppSpacing.s3),
-                      _Banner(
-                        key: const Key('result-slang-card'),
-                        text: slang.text(ne),
-                        gold: true,
-                      ),
-                      const SizedBox(height: AppSpacing.s4),
-                      Wrap(
-                        alignment: WrapAlignment.center,
-                        spacing: AppSpacing.s3,
-                        runSpacing: AppSpacing.s2,
-                        children: [
-                          _Stat('${s.correctCount} ${r.correct}'),
-                          _Stat('${s.wrongCount} ${r.wrong}'),
-                          _Stat('${s.skippedCount} ${r.skipped}'),
-                          _Stat(
-                            '${s.timeLabel} ${_fmtTime(r.secs)} (${s.perQuestionSecs(perQSecs)})',
+    // v1.0.13: the session is over and the result is recorded, so back
+    // goes straight Home — never back through the questions — with no
+    // confirmation. The bottom nav stays visible on this screen too,
+    // and its taps navigate directly (no dialog: nothing to lose).
+    return PopScope(
+      canPop: false,
+      onPopInvokedWithResult: (didPop, _) {
+        if (!didPop) _goToTab(context, 0);
+      },
+      child: Scaffold(
+        appBar: AppBar(
+          title: Text(config.mode == 'mock' ? s.mockMode : s.practiceMode),
+          automaticallyImplyLeading: false,
+        ),
+        body: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: AppSpacing.maxWidth),
+            child: ListView(
+              padding: const EdgeInsets.all(AppSpacing.s4),
+              children: [
+                Card(
+                  child: Padding(
+                    padding: const EdgeInsets.all(AppSpacing.s6),
+                    child: Column(
+                      children: [
+                        Text(
+                          '${config.mode == 'mock' ? s.mockMode : s.practiceMode} · ${meta.examName}${r.timedOut ? ' (${s.timeUpTitle})' : ''}',
+                          style: AppType.small.copyWith(
+                            color: Theme.of(context).hintColor,
                           ),
-                          _Stat('+${summary.xp} ${s.xpLabel}'),
-                          _Stat('${s.levelLabel} ${store.level}'),
-                          _Stat(
-                            '🔥 ${s.streakLabel} ${store.streak} ${s.daysLabel}',
+                          textAlign: TextAlign.center,
+                        ),
+                        const SizedBox(height: AppSpacing.s4),
+                        _ScoreRing(pct: r.pct, passed: passed),
+                        const SizedBox(height: AppSpacing.s3),
+                        Text(
+                          '${_trimNum(r.score)} / ${r.max}',
+                          style: AppType.h1.copyWith(
+                            color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
                           ),
-                        ],
-                      ),
-                      if (summary.leveledUp) ...[
+                        ),
+                        Text(
+                          '${r.pct}%',
+                          style: AppType.h3.copyWith(
+                            color: Theme.of(context).hintColor,
+                          ),
+                        ),
+                        const SizedBox(height: AppSpacing.s3),
+                        Text(
+                          passed ? s.passLabel : s.failLabel,
+                          style: AppType.h2.copyWith(
+                            color: passed ? AppColors.of(context).green : AppColors.of(context).danger,
+                          ),
+                          textAlign: TextAlign.center,
+                        ),
+                        const SizedBox(height: AppSpacing.s2),
+                        Text(
+                          s.cutoffLine(
+                            meta.cutoffPct,
+                            meta.cutoff,
+                            meta.fullTotal,
+                            r.pct,
+                          ),
+                          style: AppType.small,
+                          textAlign: TextAlign.center,
+                        ),
                         const SizedBox(height: AppSpacing.s3),
                         _Banner(
-                          text: '${s.levelUpBanner}${store.level}!',
-                          gold: false,
+                          key: const Key('result-slang-card'),
+                          text: slang.text(ne),
+                          gold: true,
                         ),
-                      ],
-                      if (summary.weeklyMet) ...[
+                        const SizedBox(height: AppSpacing.s4),
+                        Wrap(
+                          alignment: WrapAlignment.center,
+                          spacing: AppSpacing.s3,
+                          runSpacing: AppSpacing.s2,
+                          children: [
+                            _Stat('${s.correctCount} ${r.correct}'),
+                            _Stat('${s.wrongCount} ${r.wrong}'),
+                            _Stat('${s.skippedCount} ${r.skipped}'),
+                            _Stat(
+                              '${s.timeLabel} ${_fmtTime(r.secs)} (${s.perQuestionSecs(perQSecs)})',
+                            ),
+                            _Stat('+${summary.xp} ${s.xpLabel}'),
+                            _Stat('${s.levelLabel} ${store.level}'),
+                            _Stat(
+                              '🔥 ${s.streakLabel} ${store.streak} ${s.daysLabel}',
+                            ),
+                          ],
+                        ),
+                        if (summary.leveledUp) ...[
+                          const SizedBox(height: AppSpacing.s3),
+                          _Banner(
+                            text: '${s.levelUpBanner}${store.level}!',
+                            gold: false,
+                          ),
+                        ],
+                        if (summary.weeklyMet) ...[
+                          const SizedBox(height: AppSpacing.s3),
+                          _Banner(text: s.weeklyBanner, gold: true),
+                        ],
                         const SizedBox(height: AppSpacing.s3),
-                        _Banner(text: s.weeklyBanner, gold: true),
+                        Text(
+                          passed ? s.passLine() : s.failLine(),
+                          style: AppType.body.copyWith(
+                            fontStyle: FontStyle.italic,
+                          ),
+                          textAlign: TextAlign.center,
+                        ),
+                        const SizedBox(height: AppSpacing.s2),
+                        Text(
+                          negLine,
+                          style: AppType.small.copyWith(
+                            color: Theme.of(context).hintColor,
+                          ),
+                          textAlign: TextAlign.center,
+                        ),
                       ],
-                      const SizedBox(height: AppSpacing.s3),
-                      Text(
-                        passed ? s.passLine() : s.failLine(),
-                        style: AppType.body.copyWith(
-                          fontStyle: FontStyle.italic,
-                        ),
-                        textAlign: TextAlign.center,
-                      ),
-                      const SizedBox(height: AppSpacing.s2),
-                      Text(
-                        negLine,
-                        style: AppType.small.copyWith(
-                          color: Theme.of(context).hintColor,
-                        ),
-                        textAlign: TextAlign.center,
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-              const SizedBox(height: AppSpacing.s4),
-              Wrap(
-                spacing: AppSpacing.s2,
-                runSpacing: AppSpacing.s2,
-                children: [
-                  FilledButton.icon(
-                    onPressed: () => _retryWrong(context),
-                    icon: const Icon(Icons.refresh),
-                    label: Text(s.retryWrong(r.wrongList.length)),
-                    style: FilledButton.styleFrom(
-                      backgroundColor: AppColors.of(context).accent,
-                      foregroundColor: AppColors.of(context).accentInk,
-                      minimumSize: const Size(0, AppSpacing.minTap),
                     ),
                   ),
-                  if (weakestTopic != null)
+                ),
+                const SizedBox(height: AppSpacing.s4),
+                Wrap(
+                  spacing: AppSpacing.s2,
+                  runSpacing: AppSpacing.s2,
+                  children: [
+                    FilledButton.icon(
+                      onPressed: () => _retryWrong(context),
+                      icon: const Icon(Icons.refresh),
+                      label: Text(s.retryWrong(r.wrongList.length)),
+                      style: FilledButton.styleFrom(
+                        backgroundColor: AppColors.of(context).accent,
+                        foregroundColor: AppColors.of(context).accentInk,
+                        minimumSize: const Size(0, AppSpacing.minTap),
+                      ),
+                    ),
+                    if (weakestTopic != null)
+                      OutlinedButton.icon(
+                        onPressed: () => _practiceWeakest(context, weakestTopic),
+                        icon: const Icon(Icons.menu_book_outlined),
+                        label: Text(s.practiceWeakest(weakestTopic)),
+                        style: OutlinedButton.styleFrom(
+                          minimumSize: const Size(0, AppSpacing.minTap),
+                        ),
+                      ),
                     OutlinedButton.icon(
-                      onPressed: () => _practiceWeakest(context, weakestTopic),
-                      icon: const Icon(Icons.menu_book_outlined),
-                      label: Text(s.practiceWeakest(weakestTopic)),
+                      onPressed: () => _shareScore(context),
+                      icon: const Icon(Icons.share_outlined),
+                      label: Text(s.shareScoreTitle),
                       style: OutlinedButton.styleFrom(
                         minimumSize: const Size(0, AppSpacing.minTap),
                       ),
                     ),
-                  OutlinedButton.icon(
-                    onPressed: () => _shareScore(context),
-                    icon: const Icon(Icons.share_outlined),
-                    label: Text(s.shareScoreTitle),
-                    style: OutlinedButton.styleFrom(
-                      minimumSize: const Size(0, AppSpacing.minTap),
-                    ),
-                  ),
-                  OutlinedButton.icon(
-                    onPressed: () => Navigator.of(context)
-                        .popUntil((route) => route.isFirst),
-                    icon: const Icon(Icons.home_outlined),
-                    label: Text(s.backHome),
-                    style: OutlinedButton.styleFrom(
-                      minimumSize: const Size(0, AppSpacing.minTap),
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: AppSpacing.s4),
-              Card(
-                child: Padding(
-                  padding: const EdgeInsets.all(AppSpacing.s5),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(s.topicBreakdown, style: AppType.h3),
-                      const SizedBox(height: AppSpacing.s2),
-                      Text.rich(
-                        TextSpan(
-                          style: AppType.body,
-                          children: [
-                            TextSpan(
-                              text: '${s.strongestLabel} ',
-                              style: const TextStyle(
-                                fontWeight: FontWeight.w700,
-                              ),
-                            ),
-                            TextSpan(
-                              // v1.0.9: topic names follow the app
-                              // language (Nepali in Nepali mode).
-                              text: best
-                                  .take(3)
-                                  .map(
-                                    (e) =>
-                                        '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
-                                  )
-                                  .join(' · ')
-                                  .ifEmpty('—'),
-                            ),
-                          ],
-                        ),
+                    OutlinedButton.icon(
+                      onPressed: () => _goToTab(context, 0),
+                      icon: const Icon(Icons.home_outlined),
+                      label: Text(s.backHome),
+                      style: OutlinedButton.styleFrom(
+                        minimumSize: const Size(0, AppSpacing.minTap),
                       ),
-                      const SizedBox(height: AppSpacing.s2),
-                      Text.rich(
-                        TextSpan(
-                          style: AppType.body,
-                          children: [
-                            TextSpan(
-                              text: '${s.weakestLabel} ',
-                              style: const TextStyle(
-                                fontWeight: FontWeight.w700,
-                              ),
-                            ),
-                            TextSpan(
-                              text: worst
-                                  .take(3)
-                                  .map(
-                                    (e) =>
-                                        '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
-                                  )
-                                  .join(' · ')
-                                  .ifEmpty('—'),
-                            ),
-                          ],
-                        ),
-                      ),
-                    ],
-                  ),
+                    ),
+                  ],
                 ),
-              ),
-              const SizedBox(height: AppSpacing.s4),
-              Card(
-                child: Padding(
-                  padding: const EdgeInsets.all(AppSpacing.s5),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(s.wrongReviewTitle, style: AppType.h3),
-                      const SizedBox(height: AppSpacing.s2),
-                      if (r.wrongList.isEmpty)
-                        Text(s.noWrongAnswers, style: AppType.body)
-                      else
-                        ...r.wrongList.map((w) {
-                          final q = w.view.question;
-                          final yourOpt = w.view.shuffledOptions[w.selected];
-                          final rightOpt =
-                              w.view.shuffledOptions[w.view.correctIndex];
-                          return ExpansionTile(
-                            tilePadding: EdgeInsets.zero,
-                            title: Text(q.text(ne), style: AppType.body),
-                            subtitle: Text(
-                              '${s.yourAnswer} ${String.fromCharCode(65 + w.selected)}. $yourOpt',
-                              style: AppType.small.copyWith(
-                                color: AppColors.of(context).danger,
-                              ),
-                            ),
+                const SizedBox(height: AppSpacing.s4),
+                Card(
+                  child: Padding(
+                    padding: const EdgeInsets.all(AppSpacing.s5),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(s.topicBreakdown, style: AppType.h3),
+                        const SizedBox(height: AppSpacing.s2),
+                        Text.rich(
+                          TextSpan(
+                            style: AppType.body,
                             children: [
-                              Padding(
-                                padding: const EdgeInsets.only(
-                                  bottom: AppSpacing.s3,
+                              TextSpan(
+                                text: '${s.strongestLabel} ',
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.w700,
                                 ),
-                                child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    Text(
-                                      '${s.correctIs} ${String.fromCharCode(65 + w.view.correctIndex)}. $rightOpt',
-                                      style: AppType.body.copyWith(
-                                        fontWeight: FontWeight.w700,
-                                        color: AppColors.of(context).green,
-                                      ),
-                                    ),
-                                    if (q.explain(ne).isNotEmpty) ...[
-                                      const SizedBox(height: AppSpacing.s2),
-                                      Text(q.explain(ne), style: AppType.small),
-                                    ],
-                                  ],
-                                ),
+                              ),
+                              TextSpan(
+                                // v1.0.9: topic names follow the app
+                                // language (Nepali in Nepali mode).
+                                text: best
+                                    .take(3)
+                                    .map(
+                                      (e) =>
+                                          '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
+                                    )
+                                    .join(' · ')
+                                    .ifEmpty('—'),
                               ),
                             ],
-                          );
-                        }),
-                    ],
+                          ),
+                        ),
+                        const SizedBox(height: AppSpacing.s2),
+                        Text.rich(
+                          TextSpan(
+                            style: AppType.body,
+                            children: [
+                              TextSpan(
+                                text: '${s.weakestLabel} ',
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.w700,
+                                ),
+                              ),
+                              TextSpan(
+                                text: worst
+                                    .take(3)
+                                    .map(
+                                      (e) =>
+                                          '${topicLabel(e.key, ne)} ${e.value.correct}/${e.value.total}',
+                                    )
+                                    .join(' · ')
+                                    .ifEmpty('—'),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 ),
-              ),
-              const SizedBox(height: AppSpacing.s8),
-            ],
+                const SizedBox(height: AppSpacing.s4),
+                Card(
+                  child: Padding(
+                    padding: const EdgeInsets.all(AppSpacing.s5),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(s.wrongReviewTitle, style: AppType.h3),
+                        const SizedBox(height: AppSpacing.s2),
+                        if (r.wrongList.isEmpty)
+                          Text(s.noWrongAnswers, style: AppType.body)
+                        else
+                          ...r.wrongList.map((w) {
+                            final q = w.view.question;
+                            final yourOpt = w.view.shuffledOptions[w.selected];
+                            final rightOpt =
+                                w.view.shuffledOptions[w.view.correctIndex];
+                            return ExpansionTile(
+                              tilePadding: EdgeInsets.zero,
+                              title: Text(q.text(ne), style: AppType.body),
+                              subtitle: Text(
+                                '${s.yourAnswer} ${String.fromCharCode(65 + w.selected)}. $yourOpt',
+                                style: AppType.small.copyWith(
+                                  color: AppColors.of(context).danger,
+                                ),
+                              ),
+                              children: [
+                                Padding(
+                                  padding: const EdgeInsets.only(
+                                    bottom: AppSpacing.s3,
+                                  ),
+                                  child: Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                    children: [
+                                      Text(
+                                        '${s.correctIs} ${String.fromCharCode(65 + w.view.correctIndex)}. $rightOpt',
+                                        style: AppType.body.copyWith(
+                                          fontWeight: FontWeight.w700,
+                                          color: AppColors.of(context).green,
+                                        ),
+                                      ),
+                                      if (q.explain(ne).isNotEmpty) ...[
+                                        const SizedBox(height: AppSpacing.s2),
+                                        Text(q.explain(ne), style: AppType.small),
+                                      ],
+                                    ],
+                                  ),
+                                ),
+                              ],
+                            );
+                          }),
+                      ],
+                    ),
+                  ),
+                ),
+                const SizedBox(height: AppSpacing.s8),
+              ],
+            ),
           ),
+        ),
+        bottomNavigationBar: AppBottomNav(
+          currentIndex: navIndex,
+          onTap: (i) => _goToTab(context, i),
         ),
       ),
     );
