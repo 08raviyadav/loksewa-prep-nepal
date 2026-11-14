@@ -1,7 +1,7 @@
 # Signed release APK for the Outrank Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.12` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.13` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,23 +196,24 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.12
+      - name: Publish to GitHub Release android-v1.0.13
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.12
-          name: Outrank Android v1.0.12
+          tag_name: android-v1.0.13
+          name: Outrank Android v1.0.13
           body: |
-            Signed release APK for Outrank v1.0.12 (Android).
+            Signed release APK for Outrank v1.0.13 (Android).
 
-            What's new: **18 new questions** — official PSC model
-            questions from the 4th Level Pre-Qualifying Syllabus 2082,
-            bilingual with explanations. The bank is now 64,689 questions.
-            This is a data update released as a new version so the
-            in-app update check detects it.
+            What's new: fixed back-button and bottom-navigation
+            behaviour during practice and mock sessions. Back from the
+            score screen now goes Home instead of back through the
+            questions; back mid-session asks before leaving; and the
+            bottom nav bar stays visible throughout a session, asking
+            before closing it when you switch tabs.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.11 as an update (same signature).
+            Installs over v1.0.12 as an update (same signature).
 
             Bundled data: 82 exam dates, 47 exams, 64,689 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
