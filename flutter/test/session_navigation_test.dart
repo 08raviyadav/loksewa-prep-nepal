@@ -319,6 +319,24 @@ void main() {
       // settles, so pumpAndSettle would time out.
       await tester.pump();
 
+      // The palette sits at the bottom of the runner's ListView and the
+      // first question is drawn at random, so the content above it varies
+      // in height — on a long draw the palette starts below the fold and
+      // finders skip offstage widgets, so the assert below would fail
+      // (CI run #250 failed exactly this way; a probe measured the
+      // palette's list offset at 598–746px against a 723px viewport).
+      // Scroll it into view first: the scroll offset persists for the
+      // rest of the test, so the later palette checks need no re-scroll.
+      // scrollUntilVisible uses fixed pumps only, so the countdown
+      // timer cannot break it — and no amount of pumping alone would
+      // help, since pumping never scrolls.
+      await tester.scrollUntilVisible(
+        find.text('Question palette'),
+        400,
+        scrollable: find.byType(Scrollable).first,
+      );
+      await tester.pump();
+
       // The bar is visible mid-mock, and the runner is up.
       expect(find.byType(BottomNavigationBar), findsOneWidget);
       expect(find.text('Question palette'), findsOneWidget);
