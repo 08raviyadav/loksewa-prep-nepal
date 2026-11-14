@@ -118,7 +118,21 @@ class MockExamScreen extends StatefulWidget {
   /// bank's ids.
   final String examId;
 
-  const MockExamScreen({super.key, required this.examId});
+  /// Tab the mock was launched from — the bottom bar highlights it
+  /// (v1.0.13: the bar stays visible during the mock). Always the Mock
+  /// tab in production.
+  final int navIndex;
+
+  /// Tab switcher, wired to RootNav (v1.0.13). Called AFTER this route
+  /// is popped, so launch sites pass their plain tab switcher.
+  final ValueChanged<int>? onNav;
+
+  const MockExamScreen({
+    super.key,
+    required this.examId,
+    this.navIndex = 2,
+    this.onNav,
+  });
 
   @override
   State<MockExamScreen> createState() => _MockExamScreenState();
@@ -211,6 +225,8 @@ class _MockExamScreenState extends State<MockExamScreen> {
         spec: spec,
         paper: paper,
         bank: _bank,
+        navIndex: widget.navIndex,
+        onNav: widget.onNav,
       );
     } else {
       body = _IntroCard(
@@ -222,9 +238,18 @@ class _MockExamScreenState extends State<MockExamScreen> {
             : null,
       );
     }
+    // v1.0.13: the bottom bar stays visible on the intro too. No session
+    // is running yet, so tab taps navigate directly.
     return Scaffold(
       appBar: AppBar(title: Text(s.mockIntroTitle)),
       body: body,
+      bottomNavigationBar: AppBottomNav(
+        currentIndex: widget.navIndex,
+        onTap: (i) {
+          Navigator.of(context).popUntil((route) => route.isFirst);
+          widget.onNav?.call(i);
+        },
+      ),
     );
   }
 }
@@ -380,6 +405,8 @@ class _MockRunnerScreen extends StatefulWidget {
   final MockSpec spec;
   final MockPaper paper;
   final List<Question> bank;
+  final int navIndex;
+  final ValueChanged<int>? onNav;
 
   const _MockRunnerScreen({
     super.key,
@@ -387,6 +414,8 @@ class _MockRunnerScreen extends StatefulWidget {
     required this.spec,
     required this.paper,
     required this.bank,
+    required this.navIndex,
+    required this.onNav,
   });
 
   @override
@@ -463,13 +492,26 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
     setState(() {});
   }
 
+  /// Ends the session and switches to tab [i] (v1.0.13). The mock route
+  /// sits above RootNav, so it must be popped first.
+  void _exitToTab(int i) {
+    Navigator.of(context).popUntil((route) => route.isFirst);
+    widget.onNav?.call(i);
+  }
+
+  /// System-back / app-bar-back during a mock (v1.0.13): ask before
+  /// leaving, timed or untimed (before, only timed sessions were
+  /// guarded). Leave discards the attempt — it is never scored — and
+  /// goes Home.
   Future<void> _confirmAbandon() async {
     final s = AppStateScope.of(context).strings;
     final leave = await showDialog<bool>(
       context: context,
       builder: (ctx) => AlertDialog(
         title: Text(s.abandonMockTitle),
-        content: Text(s.abandonMockBody),
+        content: Text(
+          _session.timerOn ? s.abandonMockBody : s.abandonMockBodyUntimed,
+        ),
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(ctx, false),
@@ -482,7 +524,32 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
         ],
       ),
     );
-    if (leave == true && mounted) Navigator.of(context).pop();
+    if (leave == true && mounted) _exitToTab(0);
+  }
+
+  /// Bottom-nav tap during a mock (v1.0.13): ask before closing the
+  /// mock and switching to the tapped tab.
+  Future<void> _onTabTap(int i) async {
+    final s = AppStateScope.of(context).strings;
+    final tab = s.tabName(i);
+    final go = await showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: Text(s.closeSessionAndGoTitle(tab)),
+        content: Text(s.closeMockAndGoBody(tab)),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(ctx, false),
+            child: Text(s.cancel),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.pop(ctx, true),
+            child: Text(s.goLabel),
+          ),
+        ],
+      ),
+    );
+    if (go == true && mounted) _exitToTab(i);
   }
 
   Future<void> _confirmFinish() async {
@@ -551,6 +618,8 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
           summary: summary,
           bank: widget.bank,
           store: store,
+          navIndex: widget.navIndex,
+          onNav: widget.onNav,
         ),
       ),
     );
@@ -571,10 +640,14 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
     final isFlagged = session.isFlagged(idx);
     final lowTime = session.timerOn && session.timeLeft <= 300;
 
+    // v1.0.13: back during a mock always asks first (timed or untimed);
+    // once finished the route is about to be replaced by the result
+    // screen anyway, so a pop then is harmless. The bottom nav stays
+    // visible throughout the mock.
     return PopScope(
-      canPop: !session.timerOn || session.finished,
+      canPop: session.finished,
       onPopInvokedWithResult: (didPop, _) {
-        if (!didPop && session.timerOn && !session.finished) {
+        if (!didPop && !session.finished) {
           _confirmAbandon();
         }
       },
@@ -777,6 +850,10 @@ class _MockRunnerScreenState extends State<_MockRunnerScreen> {
               ],
             ),
           ),
+        ),
+        bottomNavigationBar: AppBottomNav(
+          currentIndex: widget.navIndex,
+          onTap: _onTabTap,
         ),
       ),
     );

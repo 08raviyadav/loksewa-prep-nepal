@@ -113,6 +113,10 @@ class _MistakesScreenState extends State<MistakesScreen> {
             fullTotal: 100,
           ),
           bank: qs,
+          // v1.0.13: the quiz keeps the bottom bar and routes tab
+          // taps / exit back through RootNav.
+          navIndex: widget.navIndex,
+          onNav: widget.onNav,
         ),
       ),
     )

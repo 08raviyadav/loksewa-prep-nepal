@@ -82,7 +82,13 @@ class _MockListScreenState extends State<MockListScreen> {
   void _startMock(Exam exam) {
     Navigator.of(context).push(
       MaterialPageRoute(
-        builder: (_) => MockExamScreen(examId: exam.id),
+        builder: (_) => MockExamScreen(
+          examId: exam.id,
+          // v1.0.13: the mock keeps the bottom bar and routes tab
+          // taps / exit back through RootNav.
+          navIndex: widget.navIndex,
+          onNav: widget.onNav,
+        ),
       ),
     );
   }

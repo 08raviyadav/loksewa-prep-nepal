@@ -310,7 +310,15 @@ class _PracticeScreenState extends State<PracticeScreen> {
     if (!mounted) return;
     Navigator.of(context).push(
       MaterialPageRoute(
-        builder: (_) => QuizScreen(config: config, meta: meta, bank: pool),
+        builder: (_) => QuizScreen(
+          config: config,
+          meta: meta,
+          bank: pool,
+          // v1.0.13: the quiz keeps the bottom bar and routes tab
+          // taps / exit back through RootNav.
+          navIndex: widget.navIndex,
+          onNav: widget.onNav,
+        ),
       ),
     );
   }
