@@ -6793,5 +6793,33 @@
   "explanation": "Google Drive is a cloud storage service; a USB drive is local storage.",
   "explanation_ne": "गुगल ड्राइभ क्लाउड भण्डारण सेवा हो; USB ड्राइभ स्थानीय भण्डारण हो।",
   "source": "Nepal Telecom / Nepal Telecommunications Authority — PSC Nepal Telecom syllabus"
+ },
+ {
+  "id": "PSCM-2082-09",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Foreign Service & Diplomacy",
+  "subtopic": "Diplomatic Relations",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Which of the following is the correct order of the first three countries that Nepal established diplomatic relations with?",
+  "question_ne": "नेपालले कूटनीतिक सम्बन्ध स्थापना गरेका पहिला तीन राष्ट्रहरूको सही क्रम तलका मध्ये कुन हो?",
+  "options": [
+   "United Kingdom, United States of America and India",
+   "United Kingdom, United States of America and China",
+   "United Kingdom, France and India",
+   "China, United States of America and India"
+  ],
+  "options_ne": [
+   "संयुक्त अधिराज्य, संयुक्त राज्य अमेरिका र भारत",
+   "संयुक्त अधिराज्य, संयुक्त राज्य अमेरिका र चीन",
+   "संयुक्त अधिराज्य, फ्रान्स र भारत",
+   "चीन, संयुक्त राज्य अमेरिका र भारत"
+  ],
+  "answer": 0,
+  "explanation": "Nepal first established diplomatic relations with the United Kingdom (1816), then the United States of America (April 1947) and India (June 1947).",
+  "explanation_ne": "नेपालले पहिला संयुक्त अधिराज्य (सन् १८१६), त्यसपछि संयुक्त राज्य अमेरिका (अप्रिल १९४७) र भारत (जुन १९४७) सँग कूटनीतिक सम्बन्ध स्थापना गरेको थियो।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
