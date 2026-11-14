@@ -54,7 +54,6 @@ class AppScaffold extends StatelessWidget {
     // AppState is provided above MaterialApp via a simple InheritedWidget
     // (see main.dart) to avoid extra dependencies in Phase 1.
     final state = AppStateScope.of(context);
-    final s = state.strings;
     // Tour step 2 (v1.0.9): the language button is a tour target. Its
     // tap really switches the language AND advances the tour; the
     // registered action lets the tooltip's Next button do the same.
@@ -109,31 +108,59 @@ class AppScaffold extends StatelessWidget {
           child: body,
         ),
       ),
-      bottomNavigationBar: BottomNavigationBar(
-        key: bottomNavKey,
+      bottomNavigationBar: AppBottomNav(
         currentIndex: currentIndex,
         onTap: onNav,
-        type: BottomNavigationBarType.fixed,
-        items: [
-          BottomNavigationBarItem(
-            icon: const Icon(Icons.home_outlined),
-            label: s.navHome,
-          ),
-          BottomNavigationBarItem(
-            icon: const Icon(Icons.quiz_outlined),
-            label: s.navPractice,
-          ),
-          BottomNavigationBarItem(
-            icon: const Icon(Icons.timer_outlined),
-            label: s.navMock,
-          ),
-          BottomNavigationBarItem(
-            icon: const Icon(Icons.dashboard_outlined),
-            label: s.navDashboard,
-          ),
-        ],
+        navKey: bottomNavKey,
       ),
       floatingActionButton: floatingActionButton,
+    );
+  }
+}
+
+/// The app's bottom navigation bar, shared by [AppScaffold] and the
+/// quiz / mock / result session screens (v1.0.13) so the four tabs stay
+/// identical everywhere — same order, icons and labels. The [navKey]
+/// (tour target) is only passed by the tab screens; session screens
+/// never pass it, so the GlobalKey is never duplicated.
+class AppBottomNav extends StatelessWidget {
+  final int currentIndex;
+  final ValueChanged<int> onTap;
+  final Key? navKey;
+
+  const AppBottomNav({
+    super.key,
+    required this.currentIndex,
+    required this.onTap,
+    this.navKey,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    final s = AppStateScope.of(context).strings;
+    return BottomNavigationBar(
+      key: navKey,
+      currentIndex: currentIndex,
+      onTap: onTap,
+      type: BottomNavigationBarType.fixed,
+      items: [
+        BottomNavigationBarItem(
+          icon: const Icon(Icons.home_outlined),
+          label: s.navHome,
+        ),
+        BottomNavigationBarItem(
+          icon: const Icon(Icons.quiz_outlined),
+          label: s.navPractice,
+        ),
+        BottomNavigationBarItem(
+          icon: const Icon(Icons.timer_outlined),
+          label: s.navMock,
+        ),
+        BottomNavigationBarItem(
+          icon: const Icon(Icons.dashboard_outlined),
+          label: s.navDashboard,
+        ),
+      ],
     );
   }
 }
