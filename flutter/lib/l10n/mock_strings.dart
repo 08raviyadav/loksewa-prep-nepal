@@ -75,6 +75,18 @@ extension MockStrings on AppStrings {
         'Leaving now abandons this timed session — it will not be scored.',
         'अहिले छोडेमा यो समयबद्ध सत्र त्यागिन्छ — स्कोर हुँदैन।',
       );
+  // v1.0.13: back now asks on untimed mocks too (before, only timed
+  // sessions were guarded).
+  String get abandonMockBodyUntimed => t(
+        'Leaving now abandons this mock — it will not be scored.',
+        'अहिले छोडेमा यो मक त्यागिन्छ — स्कोर हुँदैन।',
+      );
   String get leaveLabel => t('Leave', 'छोड्नुहोस्');
   String get stayLabel => t('Stay', 'बस्नुहोस्');
+
+  // --- tab switch during a mock (v1.0.13) ---
+  String closeMockAndGoBody(String tab) => t(
+        'This will close your mock exam — it will not be scored. Go to $tab?',
+        'यसले तपाईंको मक परीक्षा बन्द गर्छ — स्कोर हुँदैन। $tab मा जाने?',
+      );
 }

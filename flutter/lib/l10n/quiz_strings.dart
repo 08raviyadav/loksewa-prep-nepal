@@ -315,6 +315,30 @@ extension QuizStrings on AppStrings {
     ],
   ];
 
+  // --- session navigation (v1.0.13) ---
+  // Back during a session asks before leaving; tapping a bottom-nav tab
+  // mid-session asks before closing the session and switching tabs.
+  String tabName(int i) => switch (i) {
+        1 => navPractice,
+        2 => navMock,
+        3 => navDashboard,
+        _ => navHome,
+      };
+  String get exitPracticeTitle =>
+      t('Exit practice session?', 'अभ्यास सत्रबाट बाहिर निस्कने?');
+  String get exitPracticeBody => t(
+        'Your answers so far will be discarded and this session will not be scored.',
+        'अहिलेसम्मका उत्तरहरू खारेज हुन्छन् र यो सत्र स्कोर हुँदैन।',
+      );
+  String get exitLabel => t('Exit', 'बाहिर निस्कनुहोस्');
+  String get goLabel => t('Go', 'जाने');
+  String closeSessionAndGoTitle(String tab) =>
+      t('Go to $tab?', '$tab मा जाने?');
+  String closeSessionAndGoBody(String tab) => t(
+        'This will close your practice session — your answers so far will be discarded. Go to $tab?',
+        'यसले तपाईंको अभ्यास सत्र बन्द गर्छ — अहिलेसम्मका उत्तरहरू खारेज हुन्छन्। $tab मा जाने?',
+      );
+
   // --- share score (v1.0.4) ---
   String get shareScoreTitle => t('Share score', 'स्कोर सेयर गर्नुहोस्');
   String shareScoreText(
