@@ -21779,5 +21779,257 @@
    "उल्का वर्षा"
   ],
   "explanation_ne": "चन्द्रग्रहण तब हुन्छ जब पृथ्वी सूर्य र चन्द्रमाको बीचबाट जान्छ।"
+ },
+ {
+  "id": "PSCM-2082-02",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Environment",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the following environmental terms with their definitions and choose the correct option from the codes given below. Terms: (a) Carbon Footprint (b) Desertification (c) Deforestation (d) Biodiversity Loss. Definitions: 1. Loss of species due to human activity 2. Land degradation into desert 3. Total GHG emissions by an entity 4. Large-scale forest chopping",
+  "question_ne": "तल दिइएका वातावरणीय पदावलीहरूलाई तिनका परिभाषासँग मिलाउनुहोस् र दिइएका कोडहरूबाट सही विकल्प छान्नुहोस्। पदावली: (क) कार्बन फुटप्रिन्ट (ख) मरुभूमिकरण (ग) वन विनाश (घ) जैविक विविधता ह्रास। परिभाषा: १. मानवीय क्रियाकलापका कारण प्रजातिको ह्रास २. जमिनको मरुभूमिमा रूपान्तरण ३. कुनै संस्थाले उत्सर्जन गर्ने कुल हरितगृह ग्यास ४. ठूलो मात्रामा वन कटान",
+  "options": [
+   "a-3, b-2, c-4, d-1",
+   "a-2, b-1, c-4, d-3",
+   "a-3, b-2, c-1, d-4",
+   "a-2, b-3, c-4, d-1"
+  ],
+  "options_ne": [
+   "a-३, b-२, c-४, d-१",
+   "a-२, b-१, c-४, d-३",
+   "a-३, b-२, c-१, d-४",
+   "a-२, b-३, c-४, d-१"
+  ],
+  "answer": 0,
+  "explanation": "Carbon Footprint is the total GHG emissions by an entity (3); Desertification is land degradation into desert (2); Deforestation is large-scale forest chopping (4); Biodiversity Loss is the loss of species due to human activity (1).",
+  "explanation_ne": "कार्बन फुटप्रिन्ट भनेको कुनै संस्थाले उत्सर्जन गर्ने कुल हरितगृह ग्यास (३) हो; मरुभूमिकरण जमिनको मरुभूमिमा रूपान्तरण (२) हो; वन विनाश ठूलो मात्रामा वन कटान (४) हो; जैविक विविधता ह्रास मानवीय क्रियाकलापका कारण प्रजातिको ह्रास (१) हो।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-05",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Economic Survey",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to the Economic Survey 2081/82, what percentage of the contribution of the service sector to Nepal's Gross Domestic Product (GDP) was in FY 2080/81?",
+  "question_ne": "आर्थिक सर्वेक्षण २०८१/८२ अनुसार आ.व. २०८०/८१ मा नेपालको कुल गार्हस्थ्य उत्पादनमा सेवा क्षेत्रको योगदान कति प्रतिशत रहेको थियो?",
+  "options": [
+   "42.83",
+   "48.03",
+   "52.12",
+   "62.38"
+  ],
+  "options_ne": [
+   "42.83",
+   "48.03",
+   "52.12",
+   "62.38"
+  ],
+  "answer": 3,
+  "explanation": "According to the Economic Survey 2081/82, the service sector contributed 62.38% to Nepal's GDP in FY 2080/81 (agriculture 24.71%, industry 12.91%).",
+  "explanation_ne": "आर्थिक सर्वेक्षण २०८१/८२ अनुसार आ.व. २०८०/८१ मा नेपालको कुल गार्हस्थ्य उत्पादनमा सेवा क्षेत्रको योगदान ६२.३८% थियो (कृषि २४.७१%, उद्योग १२.९१%)।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-06",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Planning & Vision",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Long-term vision 2100 aims to upgrade Nepal to a/an …… income level country by 2087 BS.",
+  "question_ne": "दीर्घकालीन सोच २१०० ले वि.सं. २०८७ सम्म नेपाललाई …… आयस्तर भएको मुलुकमा स्तरोन्नति गर्ने लक्ष्य लिएको छ।",
+  "options": [
+   "Upper Middle",
+   "Middle",
+   "High",
+   "Lower Middle"
+  ],
+  "options_ne": [
+   "उच्च मध्यम",
+   "मध्यम",
+   "उच्च",
+   "निम्न मध्यम"
+  ],
+  "answer": 1,
+  "explanation": "The Long-Term Vision 2100 aims to upgrade Nepal to a middle-income country by 2087 BS (2030 AD) and to a developed country by 2100 BS.",
+  "explanation_ne": "दीर्घकालीन सोच २१०० ले वि.सं. २०८७ (सन् २०३०) सम्म नेपाललाई मध्यम आय भएको मुलुकमा र वि.सं. २१०० सम्म विकसित मुलुकमा स्तरोन्नति गर्ने लक्ष्य लिएको छ।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-07",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Constitution & Governance",
+  "subtopic": "Fiscal Federalism",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "On which of the following constitutional bases shall the Government of Nepal distribute fiscal equalization grants to the Provinces and Local Levels?",
+  "question_ne": "नेपाल सरकारले कुन संवैधानिक आधारमा प्रदेश र स्थानीय तहलाई वित्तीय समानीकरण अनुदान वितरण गर्ने व्यवस्था रहेको छ?",
+  "options": [
+   "Need of expenditure and population size",
+   "Geographical structure and sources of revenue",
+   "Survey of living standard and revenue capacity",
+   "Need of expenditure and revenue capacity"
+  ],
+  "options_ne": [
+   "खर्चको आवश्यकता र जनसंख्याको आकार",
+   "भौगोलिक बनावट र राजस्वका स्रोतहरू",
+   "जीवनस्तरको सर्वेक्षण र राजस्व क्षमता",
+   "खर्चको आवश्यकता र राजस्व क्षमता"
+  ],
+  "answer": 3,
+  "explanation": "Article 60(4) of the Constitution of Nepal: the Government of Nepal shall distribute fiscal equalization grants to the Provinces and Local Levels on the basis of the need of expenditure and revenue capacity.",
+  "explanation_ne": "नेपालको संविधानको धारा ६०(४) अनुसार नेपाल सरकारले खर्चको आवश्यकता र राजस्व क्षमताको आधारमा प्रदेश र स्थानीय तहलाई वित्तीय समानीकरण अनुदान वितरण गर्छ।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-11",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Science & Tech",
+  "subtopic": "Units & Measurement",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "How many micrometers are there in one meter?",
+  "question_ne": "एक मिटरमा कति माइक्रोमिटर हुन्छ?",
+  "options": [
+   "10³",
+   "10⁶",
+   "10⁹",
+   "10¹²"
+  ],
+  "options_ne": [
+   "10³",
+   "10⁶",
+   "10⁹",
+   "10¹²"
+  ],
+  "answer": 1,
+  "explanation": "1 metre = 10⁶ micrometres (one million micrometres).",
+  "explanation_ne": "१ मिटर = १०⁶ माइक्रोमिटर (दस लाख माइक्रोमिटर) हुन्छ।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-17",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Public Enterprises",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "According to Annual Status Review of Public Enterprises 2082, how many enterprises in operation are in profit?",
+  "question_ne": "सार्वजनिक संस्थानहरूको वार्षिक स्थिति समीक्षा २०८२ अनुसार सञ्चालनमा रहेका कतिवटा संस्थानहरू आ.व. २०८०/८१ मा नाफामा रहेका छन्?",
+  "options": [
+   "26",
+   "28",
+   "30",
+   "31"
+  ],
+  "options_ne": [
+   "26",
+   "28",
+   "30",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "According to the Annual Status Review of Public Enterprises 2082, of the 45 public enterprises in operation, 28 were in profit, 15 in loss and 2 closed in FY 2080/81.",
+  "explanation_ne": "सार्वजनिक संस्थानहरूको वार्षिक स्थिति समीक्षा २०८२ अनुसार सञ्चालनमा रहेका ४५ सार्वजनिक संस्थानमध्ये आ.व. २०८०/८१ मा २८ नाफामा, १५ घाटामा र २ बन्द थिए।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-18",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Privatization",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Among the followings, which methods of privatization of public enterprises are correct according to the legal provision of Nepal? (i) Share sale (ii) Asset sale (iii) Management contract (iv) Transfer to province and local level",
+  "question_ne": "नेपालको कानुनी व्यवस्थाअनुसार सार्वजनिक संस्थानलाई निजीकरण गर्ने तलका मध्ये कुन कुन विधि सही छन्? (i) सेयर बिक्री (ii) सम्पत्ति बिक्री (iii) व्यवस्थापन करार (iv) प्रदेश र स्थानीय तहलाई हस्तान्तरण",
+  "options": [
+   "i and ii only",
+   "i, iii and iv only",
+   "i, ii and iii only",
+   "iii and iv"
+  ],
+  "options_ne": [
+   "i र ii मात्र",
+   "i, iii र iv मात्र",
+   "i, ii र iii मात्र",
+   "iii र iv"
+  ],
+  "answer": 2,
+  "explanation": "Under the Privatization Act, 2050, privatization methods include share sale, asset sale and management contract. Transfer to a province or local level is a transfer between governments, not privatization.",
+  "explanation_ne": "निजीकरण ऐन, २०५० अनुसार निजीकरणका विधिहरूमा सेयर बिक्री, सम्पत्ति बिक्री र व्यवस्थापन करार पर्छन्। प्रदेश वा स्थानीय तहलाई हस्तान्तरण सरकारहरूबीचको हस्तान्तरण हो, निजीकरण होइन।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-19",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Budget History",
+  "difficulty": "easy",
+  "marks": 2,
+  "question": "From which year was the government budget introduced in Nepal?",
+  "question_ne": "नेपालमा कहिलेदेखि सरकारी बजेट प्रस्तुत गर्न सुरु गरिएको हो?",
+  "options": [
+   "2006 BS",
+   "2008 BS",
+   "2010 BS",
+   "2012 BS"
+  ],
+  "options_ne": [
+   "२००६ साल",
+   "२००८ साल",
+   "२०१० साल",
+   "२०१२ साल"
+  ],
+  "answer": 1,
+  "explanation": "Nepal's first government budget was presented in 2008 BS (1951 AD) by Finance Minister Subarna Shumsher Rana.",
+  "explanation_ne": "नेपालको पहिलो सरकारी बजेट वि.सं. २००८ (सन् १९५१) मा अर्थमन्त्री सुवर्ण शमशेर राणाले प्रस्तुत गरेका थिए।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
+ },
+ {
+  "id": "PSCM-2082-20",
+  "exam": [
+   "kharidar"
+  ],
+  "topic": "Economy & Development",
+  "subtopic": "Regulatory Authorities",
+  "difficulty": "medium",
+  "marks": 2,
+  "question": "Match the following public enterprises with their respective regulatory authorities and choose the correct answer from the codes given below. Public Enterprises: (a) Nepal Bank Limited (b) Rastriya Beema Company Limited (c) Nepal Stock Exchange (d) Nepal Airlines Corporation. Regulatory Authority: 1. Civil Aviation Authority of Nepal 2. Securities Board of Nepal (SEBON) 3. Nepal Rastra Bank 4. Nepal Insurance Authority",
+  "question_ne": "तल दिइएका सार्वजनिक संस्थान र तिनका नियामक निकायहरूबीच मिलाउनुहोस् र कोडबाट सही उत्तर छान्नुहोस्। सार्वजनिक संस्थान: (क) नेपाल बैंक लिमिटेड (ख) राष्ट्रिय बीमा कम्पनी लिमिटेड (ग) नेपाल स्टक एक्सचेन्ज (घ) नेपाल वायुसेवा निगम। नियामक निकाय: १. नेपाल नागरिक उड्डयन प्राधिकरण २. नेपाल धितोपत्र बोर्ड ३. नेपाल राष्ट्र बैंक ४. नेपाल बीमा प्राधिकरण",
+  "options": [
+   "a-3, b-4, c-2, d-1",
+   "a-2, b-1, c-3, d-4",
+   "a-4, b-2, c-3, d-1",
+   "a-1, b-2, c-3, d-4"
+  ],
+  "options_ne": [
+   "a-३, b-४, c-२, d-१",
+   "a-२, b-१, c-३, d-४",
+   "a-४, b-२, c-३, d-१",
+   "a-१, b-२, c-३, d-४"
+  ],
+  "answer": 0,
+  "explanation": "Nepal Bank Ltd is regulated by Nepal Rastra Bank (3); Rastriya Beema Company by the Nepal Insurance Authority (4); Nepal Stock Exchange by SEBON (2); Nepal Airlines Corporation by the Civil Aviation Authority of Nepal (1).",
+  "explanation_ne": "नेपाल बैंक लिमिटेड नेपाल राष्ट्र बैंक (३) बाट, राष्ट्रिय बीमा कम्पनी नेपाल बीमा प्राधिकरण (४) बाट, नेपाल स्टक एक्सचेन्ज धितोपत्र बोर्ड (२) बाट र नेपाल वायुसेवा निगम नेपाल नागरिक उड्डयन प्राधिकरण (१) बाट नियमन हुन्छन्।",
+  "source": "PSC Model Questions — 4th Level Pre-Qualifying Syllabus 2082"
  }
 ]
