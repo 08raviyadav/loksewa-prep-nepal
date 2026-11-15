@@ -122,6 +122,39 @@
  },
  {
   "confidence": "medium",
+  "date_bs": "2083-08-03",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-asst-manager-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Assistant Manager (Level 6) First Paper exam — Gandaki (Adv. 33/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) प्रथम पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-03",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-asst-manager-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-assistant-manager-written-exam-schedule-centers-kathmandu-2083",
+  "title_en": "RBB Assistant Manager (Level 6) First Paper exam — Bagmati outside Valley (Adv. 32/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) प्रथम पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-03",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-asst-manager-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Assistant Manager (Level 6) First Paper exam — Sudurpashchim (Adv. 36/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) प्रथम पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
   "date_bs": "2083-08-04",
   "exam": "rbb-karnali",
   "id": "rbb-karnali-asst-manager-second-paper",
@@ -155,6 +188,39 @@
  },
  {
   "confidence": "medium",
+  "date_bs": "2083-08-04",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-asst-manager-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Assistant Manager (Level 6) Second Paper exam — Gandaki (Adv. 33/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) द्वितीय पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-04",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-asst-manager-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-assistant-manager-written-exam-schedule-centers-kathmandu-2083",
+  "title_en": "RBB Assistant Manager (Level 6) Second Paper exam — Bagmati outside Valley (Adv. 32/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) द्वितीय पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-04",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-asst-manager-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Assistant Manager (Level 6) Second Paper exam — Sudurpashchim (Adv. 36/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक सहायक प्रबन्धक (तह ६) द्वितीय पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
   "date_bs": "2083-08-05",
   "exam": "rbb-karnali",
   "id": "rbb-karnali-sr-assistant-first-paper",
@@ -174,6 +240,39 @@
   "title_en": "RBB Senior Assistant (Level 5) First Paper exam — Madhesh (Adv. 44/2082-83)",
   "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) प्रथम पत्र परीक्षा — मधेश",
   "verified": "2026-11-09"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-05",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-sr-assistant-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Senior Assistant (Level 5) First Paper exam — Gandaki (Adv. 46/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) प्रथम पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-05",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-sr-assistant-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-senior-assistant-written-exam-centers-kathmandu-2083",
+  "title_en": "RBB Senior Assistant (Level 5) First Paper exam — Bagmati outside Valley (Adv. 45/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) प्रथम पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-05",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Level 5) First Paper exam — Sudurpashchim (Adv. 49/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) प्रथम पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
@@ -199,6 +298,39 @@
  },
  {
   "confidence": "medium",
+  "date_bs": "2083-08-06",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-sr-assistant-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Senior Assistant (Level 5) Second Paper exam — Gandaki (Adv. 46/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) द्वितीय पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-06",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-sr-assistant-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-senior-assistant-written-exam-centers-kathmandu-2083",
+  "title_en": "RBB Senior Assistant (Level 5) Second Paper exam — Bagmati outside Valley (Adv. 45/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) द्वितीय पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-06",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Level 5) Second Paper exam — Sudurpashchim (Adv. 49/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (तह ५) द्वितीय पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
   "date_bs": "2083-08-07",
   "exam": "nid",
   "id": "nid-investigation-officer-medical-exam",
@@ -207,6 +339,17 @@
   "title_en": "NID Investigation Officer detailed medical examination",
   "title_ne": "राष्ट्रिय अनुसन्धान विभाग अनुसन्धान अधिकृत विस्तृत स्वास्थ्य परीक्षण",
   "verified": "2026-11-09"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-07",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-law-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Law) (Level 5) First Paper exam — Sudurpashchim (Adv. 51/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (कानून) (तह ५) प्रथम पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
@@ -232,6 +375,17 @@
  },
  {
   "confidence": "medium",
+  "date_bs": "2083-08-08",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-law-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Law) (Level 5) Second Paper exam — Sudurpashchim (Adv. 51/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (कानून) (तह ५) द्वितीय पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
   "date_bs": "2083-08-11",
   "exam": "rbb-karnali",
   "id": "rbb-karnali-sr-assistant-cash-first-paper",
@@ -251,6 +405,50 @@
   "title_en": "RBB Senior Assistant (Cash) (Level 5) First Paper exam — Madhesh (Adv. 53/2082-83)",
   "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) प्रथम पत्र परीक्षा — मधेश",
   "verified": "2026-11-09"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-11",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-sr-assistant-cash-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) First Paper exam — Gandaki (Adv. 55/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) प्रथम पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-11",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-sr-assistant-cash-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-senior-assistant-cash-written-exam-centers",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) First Paper exam — Bagmati outside Valley (Adv. 54/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) प्रथम पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-11",
+  "exam": "rbb-lumbini",
+  "id": "rbb-lumbini-sr-assistant-cash-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-senior-assistant-cash-written-exam-centers-in-butwal-2083",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) First Paper exam — Lumbini (Adv. 56/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) प्रथम पत्र परीक्षा — लुम्बिनी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-11",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-cash-first-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) First Paper exam — Sudurpashchim (Adv. 58/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) प्रथम पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
@@ -284,6 +482,61 @@
   "title_en": "RBB Senior Assistant (Cash) (Level 5) Second Paper exam — Madhesh (Adv. 53/2082-83)",
   "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) द्वितीय पत्र परीक्षा — मधेश",
   "verified": "2026-11-09"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-12",
+  "exam": "tsc-nimavi",
+  "id": "tsc-nimavi-general-written-exam",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/tsc-lower-secondary-exam-admit-card-download-2083",
+  "title_en": "TSC Lower Secondary (NiMaVi) Third Class written (General) exam",
+  "title_ne": "शिक्षक सेवा आयोग निम्न माध्यमिक तह (नि.मा.वि.) तृतीय श्रेणी लिखित (सामान्य) परीक्षा",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-12",
+  "exam": "rbb-gandaki",
+  "id": "rbb-gandaki-sr-assistant-cash-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rastriya-banijya-bank-pokhara-exam-centres-2083",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) Second Paper exam — Gandaki (Adv. 55/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) द्वितीय पत्र परीक्षा — गण्डकी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-12",
+  "exam": "rbb-bagmati",
+  "id": "rbb-bagmati-sr-assistant-cash-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-senior-assistant-cash-written-exam-centers",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) Second Paper exam — Bagmati outside Valley (Adv. 54/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) द्वितीय पत्र परीक्षा — बागमती (उपत्यका बाहिर)",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-12",
+  "exam": "rbb-lumbini",
+  "id": "rbb-lumbini-sr-assistant-cash-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-senior-assistant-cash-written-exam-centers-in-butwal-2083",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) Second Paper exam — Lumbini (Adv. 56/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) द्वितीय पत्र परीक्षा — लुम्बिनी",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-12",
+  "exam": "rbb-sudurpashchim",
+  "id": "rbb-sudurpashchim-sr-assistant-cash-second-paper",
+  "kind": "exam",
+  "source": "https://www.collegenp.com/exam/rbb-written-exam-schedule-and-centers-2083-in-mahendranagar",
+  "title_en": "RBB Senior Assistant (Cash) (Level 5) Second Paper exam — Sudurpashchim (Adv. 58/2082-83)",
+  "title_ne": "राष्ट्रिय वाणिज्य बैंक वरिष्ठ सहायक (नगद) (तह ५) द्वितीय पत्र परीक्षा — सुदूरपश्चिम",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
@@ -482,6 +735,17 @@
   "title_en": "Saha Sachiv (Engineering / Civil / General) First Paper exam",
   "title_ne": "सहसचिव (इन्जिनियरिङ/सिभिल/सामान्य) प्रथम पत्र परीक्षा",
   "verified": "2026-11-09"
+ },
+ {
+  "confidence": "medium",
+  "date_bs": "2083-08-17",
+  "exam": "nrb",
+  "id": "nrb-officer-assistant-application-deadline",
+  "kind": "deadline",
+  "source": "https://blog.educatenepal.com/search/label/bankingjobs",
+  "title_en": "NRB Officer (Assistant Director) / Assistant application deadline (Adv. 11–15/2083)",
+  "title_ne": "नेपाल राष्ट्र बैंक अधिकृत/सहायक पद आवेदन म्याद (वि.नं. ११–१५/२०८३)",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
@@ -834,6 +1098,39 @@
   "title_en": "Health Service 9th level First Paper exam",
   "title_ne": "स्वास्थ्य सेवा नवौं तह प्रथम पत्र परीक्षा",
   "verified": "2026-10-31"
+ },
+ {
+  "confidence": "high",
+  "date_bs": "2083-09-01",
+  "exam": "plsc",
+  "id": "plsc-batch03-day1-police-policing",
+  "kind": "exam",
+  "source": "https://www.nepalpolice.gov.np/media/filer_public/1a/c1/1ac1633a-c459-4c3a-a2c0-e528d247338c/plsc-entrance-form-batch-03-2083-07-13.pdf",
+  "title_en": "Nepal Police Staff College PLSC Batch 03 entrance exam — Police and Policing",
+  "title_ne": "नेपाल प्रहरी स्टाफ कलेज PLSC ब्याच ०३ प्रवेश परीक्षा — प्रहरी र पुलिसिङ",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "high",
+  "date_bs": "2083-09-02",
+  "exam": "plsc",
+  "id": "plsc-batch03-day2-police-operations",
+  "kind": "exam",
+  "source": "https://www.nepalpolice.gov.np/media/filer_public/1a/c1/1ac1633a-c459-4c3a-a2c0-e528d247338c/plsc-entrance-form-batch-03-2083-07-13.pdf",
+  "title_en": "Nepal Police Staff College PLSC Batch 03 entrance exam — Police Operations",
+  "title_ne": "नेपाल प्रहरी स्टाफ कलेज PLSC ब्याच ०३ प्रवेश परीक्षा — प्रहरी कार्यसञ्चालन",
+  "verified": "2026-11-15"
+ },
+ {
+  "confidence": "high",
+  "date_bs": "2083-09-03",
+  "exam": "plsc",
+  "id": "plsc-batch03-day3-criminal-law",
+  "kind": "exam",
+  "source": "https://www.nepalpolice.gov.np/media/filer_public/1a/c1/1ac1633a-c459-4c3a-a2c0-e528d247338c/plsc-entrance-form-batch-03-2083-07-13.pdf",
+  "title_en": "Nepal Police Staff College PLSC Batch 03 entrance exam — Criminal Law",
+  "title_ne": "नेपाल प्रहरी स्टाफ कलेज PLSC ब्याच ०३ प्रवेश परीक्षा — फौजदारी कानून",
+  "verified": "2026-11-15"
  },
  {
   "confidence": "medium",
