@@ -15,6 +15,7 @@ import '../state/app_state.dart';
 import '../theme/app_theme.dart';
 import 'drawer_calendar.dart';
 import 'push_scope.dart';
+import 'update_available_dialog.dart';
 
 /// Shared app chrome: app bar (title + EN/NE toggle + theme toggle),
 /// bottom navigation, and navigation drawer. Keeps every screen consistent.
@@ -260,22 +261,11 @@ class _AppDrawer extends StatelessWidget {
       if (!rootContext.mounted) return;
       Navigator.of(rootContext).pop(); // dismiss loading
       if (result.updateAvailable) {
+        // v1.0.14: the dialog shows the new version's release notes.
         final downloadIt = await showDialog<bool>(
           context: rootContext,
-          builder: (_) => AlertDialog(
-            title: Text(s.updateAvailable),
-            content: Text(s.updateAvailableBody(result.latestVersion)),
-            actions: [
-              TextButton(
-                onPressed: () => Navigator.pop(rootContext, false),
-                child: Text(s.later),
-              ),
-              FilledButton(
-                onPressed: () => Navigator.pop(rootContext, true),
-                child: Text(s.download),
-              ),
-            ],
-          ),
+          builder: (_) =>
+              UpdateAvailableDialog(result: result, strings: s),
         );
         if (downloadIt == true && rootContext.mounted) {
           await launchUrl(
