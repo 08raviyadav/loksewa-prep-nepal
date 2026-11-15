@@ -129,6 +129,12 @@ class AppStrings {
         'Version $v is available. Download it now?',
         'संस्करण $v उपलब्ध छ। अहिले डाउनलोड गर्ने?',
       );
+  // v1.0.14: the update dialog shows the new version's release notes.
+  String get whatsNew => t("What's new", 'नयाँ के छ');
+  String get updateNoNotes => t(
+        'No details available for this version.',
+        'यो संस्करणको विवरण उपलब्ध छैन।',
+      );
   String get download => t('Download', 'डाउनलोड');
   String get later => t('Later', 'पछि');
   String get checkFailed => t(
