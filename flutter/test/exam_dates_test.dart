@@ -175,7 +175,7 @@ void main() {
         final repo = DataRepository();
         final exams = await repo.exams();
         final dates = await repo.examDates();
-        expect(dates, hasLength(82));
+        expect(dates, hasLength(109));
         final unmapped = dates
             .where((d) => examForExamDate(d, exams) == null)
             .map((d) => d.id)
@@ -193,9 +193,11 @@ void main() {
         // The newer RBB / PSC Saha Sachiv / forensic / CTEVT / NID
         // entries carry exam ids with no matching Exam in exams.json
         // yet (no practice pack), so they render without links too —
-        // the same vanilla behaviour as the NMC rows.
-        expect(unmapped, hasLength(61));
-        final mapped = 82 - unmapped.length;
+        // the same vanilla behaviour as the NMC rows. The 27 dates
+        // merged 2026-11-15 (PLSC, TSC NiMaVi, NRB, RBB provinces)
+        // are all unmapped the same way: 61 + 27 = 88.
+        expect(unmapped, hasLength(88));
+        final mapped = 109 - unmapped.length;
         expect(mapped, 21);
       },
     );
@@ -205,8 +207,9 @@ void main() {
       final medium =
           dates.where((d) => d.confidence == 'medium').map((d) => d.id);
       // The 62 dates synced 2026-11-09 are single-source (medium);
-      // the original 20 carried 8 medium entries.
-      expect(medium, hasLength(70));
+      // the original 20 carried 8 medium entries; the 27 merged
+      // 2026-11-15 add 24 medium (the 3 PLSC ones are high).
+      expect(medium, hasLength(94));
     });
   });
 
@@ -283,9 +286,15 @@ void main() {
         findsOneWidget,
       );
       // A late entry exists in the list once scrolled into view.
+      // Small steps + a big budget: this card sits just above the
+      // bottom of the list, so it is only built inside a ~500px-wide
+      // scroll window near maxScrollExtent — 400px/800px jumps step
+      // clean over it (probe-verified 2026-11-15: found at 22,500px
+      // with 100px steps, never found with 800px steps).
       await tester.scrollUntilVisible(
         find.textContaining('NMCLE undergraduate'),
-        400,
+        100,
+        maxScrolls: 250,
         scrollable: find.descendant(
           of: find.byType(ListView),
           matching: find.byType(Scrollable),
@@ -329,7 +338,7 @@ void main() {
       // scroll to it rather than counting all 8).
       await tester.scrollUntilVisible(
         find.textContaining('BAMS licensing exam'),
-        400,
+        800,
         scrollable: find.descendant(
           of: find.byType(ListView),
           matching: find.byType(Scrollable),
@@ -356,7 +365,8 @@ void main() {
       expect(state.hasReminder('nec-4th-cycle-exam-begins'), isFalse);
       await tester.scrollUntilVisible(
         find.text('NEC licence exam 4th cycle begins'),
-        400,
+        100,
+        maxScrolls: 250,
         scrollable: find.descendant(
           of: find.byType(ListView),
           matching: find.byType(Scrollable),
@@ -407,7 +417,7 @@ void main() {
       // NMC special-exam rows (exam:null) carry neither — scroll to them.
       await tester.scrollUntilVisible(
         find.text('NMC Special Examination day 1'),
-        400,
+        800,
         scrollable: find.descendant(
           of: find.byType(ListView),
           matching: find.byType(Scrollable),

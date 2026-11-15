@@ -25,7 +25,7 @@ void main() {
       final dates = decoded
           .map((e) => ExamDate.fromJson(Map<String, dynamic>.from(e as Map)))
           .toList();
-      expect(dates.length, 82);
+      expect(dates.length, 109);
       final bsRe = RegExp(r'^\d{4}-\d{2}-\d{2}$');
       for (final d in dates) {
         expect(bsRe.hasMatch(d.dateBs), isTrue, reason: d.id);
