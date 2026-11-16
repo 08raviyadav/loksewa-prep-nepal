@@ -79,7 +79,52 @@
 </nav>
 <button class="head-btn" id="theme-toggle" aria-label="Toggle dark / light theme">☀️ Light</button>
 <button class="head-btn" id="lang-toggle" aria-label="Switch between English and Nepali / अङ्ग्रेजी र नेपालीबीच परिवर्तन गर्नुहोस्">EN · English</button>
-</div></header>
+<button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">☰</button>
+</div>
+<!-- Mobile navigation (≤768px): the desktop nav row is hidden at phone width
+     (the 7-item row overflowed and the More dropdown was clipped invisible by
+     the nav's overflow-x:auto) and replaced by this panel, which lists every
+     nav item plus the More groups inline — no nested dropdown on mobile.
+     Theme + language live here too at phone width (the header buttons hide).
+     Wired in app.js (setMobileMenuOpen / toggleMobileMenu). -->
+<div class="mobile-menu" id="mobile-menu" hidden>
+<button data-view="home" class="active">Home</button>
+<button data-view="practice">Practice</button>
+<button data-view="mock">Mock Exams</button>
+<button data-view="dashboard">Dashboard</button>
+<p class="nav-group-label">Study</p>
+<button data-view="coverage">Syllabus</button>
+<button data-view="planner">Planner</button>
+<button data-view="coach">Coach</button>
+<button data-view="pyq">PYQ Map</button>
+<button data-view="notes">Notes</button>
+<button data-view="audio">Audio</button>
+<button data-view="funfacts">Fun Facts</button>
+<p class="nav-group-label">Resources</p>
+<button data-view="guide">Exam Guide</button>
+<button data-view="papers">Old Papers</button>
+<button data-view="notices">Notices</button>
+<button data-view="examdates">📅 Exam Dates</button>
+<button data-view="history">📜 Dates</button>
+<button data-view="today">🎂 My Day</button>
+<button data-view="courses">📚 Courses</button>
+<button data-view="print">Print Paper</button>
+<button data-view="search">Search</button>
+<button data-view="review">Bookmarks</button>
+<p class="nav-group-label">Community</p>
+<button data-view="discuss">Discuss</button>
+<button data-view="submit">Contribute</button>
+<button data-view="suggest">Suggest</button>
+<button data-view="chat">Ask</button>
+<button data-view="moderate">Review</button>
+<button data-view="auth" id="mobile-auth-btn">Sign In</button>
+<button data-view="profile">Profile</button>
+<div class="mobile-menu-tools">
+<button class="head-btn" id="mobile-theme-toggle" aria-label="Toggle dark / light theme">☀️ Light</button>
+<button class="head-btn" id="mobile-lang-toggle" aria-label="Switch between English and Nepali / अङ्ग्रेजी र नेपालीबीच परिवर्तन गर्नुहोस्">EN · English</button>
+</div>
+</div>
+</header>
 <main>
 <div id="load-note"></div>
 
