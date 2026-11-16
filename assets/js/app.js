@@ -189,6 +189,9 @@ function applyTheme(t){
   // button is hidden there) — keep both labels in sync.
   const m = document.getElementById('mobile-theme-toggle');
   if (m) m.textContent = theme === 'dark' ? '🌙 Dark' : '☀️ Light';
+  // And the compact icon button in the phone header (icon only).
+  const h = document.getElementById('mobile-header-theme-toggle');
+  if (h) h.textContent = theme === 'dark' ? '🌙' : '☀️';
 }
 function toggleTheme(){
   const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
@@ -204,6 +207,9 @@ function setLang(l){
   // both labels in sync.
   const m = document.getElementById('mobile-lang-toggle');
   if (m) m.textContent = lang === 'ne' ? 'NE · नेपाली' : 'EN · English';
+  // And the compact icon button in the phone header (EN/NE only).
+  const h = document.getElementById('mobile-header-lang-toggle');
+  if (h) h.textContent = lang === 'ne' ? 'NE' : 'EN';
   // Re-render whichever question-bearing view is currently visible.
   const active = document.querySelector('.view.active');
   const id = active ? active.id : '';
@@ -3071,6 +3077,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
   try{ const saved=localStorage.getItem(THEME_KEY); applyTheme(saved==='dark'?'dark':'light'); }catch(e){ applyTheme('light'); }
   const th=document.getElementById('theme-toggle'); if(th) th.addEventListener('click',toggleTheme);
   const lg=document.getElementById('lang-toggle'); if(lg){ lg.textContent = lang==='ne'?'NE · नेपाली':'EN · English'; lg.addEventListener('click',()=>setLang(lang==='ne'?'en':'ne')); }
+  // Compact icon buttons in the phone header (same actions, short labels).
+  const hth=document.getElementById('mobile-header-theme-toggle'); if(hth) hth.addEventListener('click',toggleTheme);
+  const hlg=document.getElementById('mobile-header-lang-toggle'); if(hlg){ hlg.textContent = lang==='ne'?'NE':'EN'; hlg.addEventListener('click',()=>setLang(lang==='ne'?'en':'ne')); }
   const topics=new Set(); // filled after load
   loadData().then(()=>{
     // Search keeps the global topic list (it is topic-only, no exam involved).
