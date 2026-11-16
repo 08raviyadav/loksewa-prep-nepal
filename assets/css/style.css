@@ -527,7 +527,7 @@ th{background:var(--card-2);font-weight:700}
     touch-action:manipulation;
   }
   .mobile-nav button span{font-size:.72rem;font-weight:600;white-space:nowrap}
-  .mobile-nav button.active{color:var(--accent)}
+  .mobile-nav button.active{color:var(--accent-ink);background:var(--accent)} /* NOT color:var(--accent): the generic nav button.active rule already paints the orange background, and orange text on it is invisible */
   .opt{min-height:52px;font-size:1.02rem}
   .hero{padding:var(--sp-6) 18px}
   .card{padding:var(--sp-4)}
