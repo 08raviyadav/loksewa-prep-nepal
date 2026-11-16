@@ -155,7 +155,10 @@ nav button:active{transform:scale(.96)}
 }
 .head-btn:active{transform:scale(.94)}
 #lang-toggle{min-width:118px}
-main{max-width:var(--maxw);margin:auto;padding:var(--sp-5) var(--sp-4) 60px}
+/* overflow-x:clip (not hidden) so a stray wide element can never put a
+   horizontal scrollbar on the page — clip creates no scroll container, so
+   the sticky header and the tables' own internal scrolling are unaffected. */
+main{max-width:var(--maxw);margin:auto;padding:var(--sp-5) var(--sp-4) 60px;overflow-x:clip}
 .view{display:none}
 .view.active{display:block;animation:viewIn .3s var(--ease) both}
 #load-note:empty{display:none}
@@ -499,22 +502,31 @@ th{background:var(--card-2);font-weight:700}
 @media(max-width:720px){
   main{padding-bottom:110px}
   footer{padding-bottom:96px}
-  header nav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
-  header nav::-webkit-scrollbar{display:none}
-  header nav button{flex:0 0 auto}
+  /* NOTE: the old `header nav{overflow-x:auto}` rules lived here — removed
+     2026-11-16. overflow-x:auto forced overflow-y to auto too, which clipped
+     the More dropdown invisible on phones (the dropdown sits BELOW the nav).
+     The desktop nav row is now hidden at ≤768px and replaced by the hamburger
+     panel (§30), so those rules are unreachable. */
+  /* Bottom quick nav: 8 items no longer squeezed into one row — a contained
+     horizontally-scrollable strip with snap, no visible scrollbar. Each item
+     keeps a readable label and a 52px tap target; the page never scrolls. */
   .mobile-nav{
     display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;
     background:var(--bg2);border-top:1px solid var(--border);
     padding:6px 4px calc(6px + env(safe-area-inset-bottom,0px));
-    justify-content:space-around;
+    justify-content:flex-start;
+    overflow-x:auto;scroll-snap-type:x proximity;scrollbar-width:none;
+    -webkit-overflow-scrolling:touch;
   }
+  .mobile-nav::-webkit-scrollbar{display:none}
   .mobile-nav button{
-    flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;
+    flex:0 0 auto;min-width:76px;scroll-snap-align:start;
+    display:flex;flex-direction:column;align-items:center;gap:2px;
     background:none;border:none;color:var(--muted);font-size:1.15rem;
-    padding:var(--sp-2) 2px 6px;cursor:pointer;min-height:52px;border-radius:10px;
+    padding:var(--sp-2) 6px 6px;cursor:pointer;min-height:52px;border-radius:10px;
     touch-action:manipulation;
   }
-  .mobile-nav button span{font-size:.68rem;font-weight:600}
+  .mobile-nav button span{font-size:.72rem;font-weight:600;white-space:nowrap}
   .mobile-nav button.active{color:var(--accent)}
   .opt{min-height:52px;font-size:1.02rem}
   .hero{padding:var(--sp-6) 18px}
@@ -821,3 +833,68 @@ footer{text-align:left}
 .apk-download .apk-en{display:inline-flex;align-items:center;gap:6px}
 .apk-beta{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#052e16;background:#bbf7d0;border-radius:999px;padding:1px 7px}
 .apk-download .apk-ne{font-size:.82rem;font-weight:500;opacity:.9}
+
+/* ---------- 30. Mobile navigation — hamburger + panel (2026-11-16) ----------
+   At phone width the desktop nav row (7 items on one row) overflowed the
+   header and cut "Profile" off, and the More dropdown was clipped invisible
+   (see the note in app.js above setMobileMenuOpen). So ≤768px: the desktop
+   nav row and the header theme/language buttons hide, the header stays one
+   row (logo + hamburger), and the hamburger opens #mobile-menu — a full-width
+   panel listing every nav item plus the More groups inline, with theme +
+   language at the bottom. Desktop (>768px) is untouched: full nav row +
+   3-column More dropdown exactly as before. */
+.nav-toggle{display:none}
+.mobile-menu{display:none}
+@media(max-width:768px){
+  .nav{flex-wrap:nowrap}
+  .nav>nav{display:none}                 /* desktop nav row → hamburger */
+  .nav .head-btn{display:none}           /* theme/lang move into the panel */
+  .logo span:not(.beta-badge){display:none} /* hide the Nepali tagline, keep BETA */
+  .nav-toggle{
+    display:inline-flex;align-items:center;justify-content:center;
+    margin-left:auto;min-width:var(--tap);min-height:var(--tap);
+    background:var(--card);border:1px solid var(--border);color:var(--text);
+    border-radius:var(--radius-sm);font-size:1.35rem;line-height:1;cursor:pointer;
+    transition:background .15s var(--ease),color .15s var(--ease);
+  }
+  .nav-toggle:active{transform:scale(.94)}
+  .nav-toggle.open,.nav-toggle[aria-expanded="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+  .mobile-menu:not([hidden]){display:block}
+  .mobile-menu{
+    border-top:1px solid var(--border);background:var(--bg2);
+    padding:8px 12px 14px;
+    max-height:calc(100vh - 70px);max-height:calc(100dvh - 70px);
+    overflow-y:auto;-webkit-overflow-scrolling:touch;
+  }
+  .mobile-menu button[data-view]{
+    display:block;width:100%;text-align:left;
+    background:none;border:1px solid transparent;color:var(--text);
+    padding:10px 12px;border-radius:var(--radius-sm);cursor:pointer;
+    font-size:1rem;min-height:var(--tap);
+    transition:background .15s var(--ease),color .15s var(--ease);
+  }
+  .mobile-menu button[data-view]:hover,.mobile-menu button[data-view].active{background:var(--accent);color:var(--accent-ink)}
+  .mobile-menu .nav-group-label{margin:14px 4px 4px}
+  .mobile-menu-tools{display:flex;gap:10px;margin-top:14px;padding-top:12px;border-top:1px solid var(--border-soft)}
+  .mobile-menu-tools .head-btn{flex:1;min-width:0}
+
+  /* Mock pattern table → stacked cards. Pure CSS: the JS that builds the
+     table is untouched (no data-label attributes — the labels come from
+     nth-child ::before text). The header row hides; each exam becomes a card
+     with all 6 columns labelled. Scoped to #mock-pattern-table only — the
+     other .table-wrap table (2-col Stage/Pattern) keeps its contained scroll. */
+  #mock-pattern-table .table-wrap{overflow:visible}
+  #mock-pattern-table table,#mock-pattern-table tbody,#mock-pattern-table tr,#mock-pattern-table td{display:block}
+  #mock-pattern-table table{min-width:0}
+  #mock-pattern-table tr:first-child{display:none}
+  #mock-pattern-table tr{border:1px solid var(--border);border-radius:var(--radius);padding:10px 12px;margin-bottom:10px;background:var(--card)}
+  #mock-pattern-table td{border:none;padding:4px 0;display:flex;justify-content:space-between;gap:12px;text-align:right}
+  #mock-pattern-table td::before{content:"";font-weight:700;color:var(--muted);text-align:left;flex:none}
+  #mock-pattern-table td:nth-child(1)::before{content:"Mock"}
+  #mock-pattern-table td:nth-child(2)::before{content:"Questions"}
+  #mock-pattern-table td:nth-child(3)::before{content:"Time"}
+  #mock-pattern-table td:nth-child(4)::before{content:"Marks/Q"}
+  #mock-pattern-table td:nth-child(5)::before{content:"Pass"}
+  #mock-pattern-table td:nth-child(6)::before{content:"Negative"}
+  #mock-pattern-table td:nth-child(1){font-weight:700;font-size:1.02rem}
+}
