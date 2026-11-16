@@ -922,3 +922,24 @@ footer{text-align:left}
 @media(max-width:720px){
   .ask-fab{bottom:calc(80px + env(safe-area-inset-bottom,0px))}
 }
+
+/* ---------- 32. Compact theme + language buttons in the phone header (2026-11-16) ----------
+   The wide header buttons hide at phone width, which left theme/language
+   buried in the hamburger menu. These icon-only buttons sit in the header
+   instead (theme first, then language, then the hamburger). Hidden on
+   desktop, where the wide buttons show. The theme button carries the
+   margin-left:auto that pushes the group right — the hamburger's own auto
+   margin is removed here, or the free space would split between them. */
+.head-icon-btn{display:none}
+@media(max-width:768px){
+  .head-icon-btn{
+    display:inline-flex;align-items:center;justify-content:center;flex:none;
+    min-width:var(--tap);min-height:var(--tap);padding:0 8px;
+    background:var(--card);border:1px solid var(--border);color:var(--text);
+    border-radius:var(--radius-sm);font-size:1.05rem;font-weight:700;line-height:1;cursor:pointer;
+    transition:background .15s var(--ease),color .15s var(--ease);
+  }
+  .head-icon-btn:active{transform:scale(.94)}
+  #mobile-header-theme-toggle{margin-left:auto}
+  .nav-toggle{margin-left:0}
+}
