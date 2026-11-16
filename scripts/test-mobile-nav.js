@@ -32,9 +32,11 @@ check('theme + language buttons live inside the mobile menu',
   menuBlock.includes('id="mobile-theme-toggle"') && menuBlock.includes('id="mobile-lang-toggle"'));
 check('mobile Sign In button has its own id (no duplicate nav-auth-btn)',
   menuBlock.includes('id="mobile-auth-btn"') && (html.match(/id="nav-auth-btn"/g) || []).length === 1);
-['nav-toggle', 'mobile-menu', 'mobile-theme-toggle', 'mobile-lang-toggle', 'mobile-auth-btn'].forEach(id => {
+['nav-toggle', 'mobile-menu', 'mobile-theme-toggle', 'mobile-lang-toggle', 'mobile-auth-btn', 'ask-fab'].forEach(id => {
   check(`id "${id}" occurs exactly once in index.html`, (html.match(new RegExp(`id="${id}"`, 'g')) || []).length === 1);
 });
+check('Ask FAB exists, opens the chat view, labelled for screen readers',
+  html.includes('id="ask-fab"') && html.includes(`onclick="showView('chat')"`) && html.includes('aria-label="Ask Ravi'));
 // Desktop nav + More dropdown untouched.
 check('desktop More dropdown markup unchanged (button + 3-col menu still present)',
   html.includes('id="nav-more-btn"') && html.includes('id="nav-more-menu"') && html.includes('class="nav-dropdown"'));
@@ -61,6 +63,11 @@ check('bottom quick nav is a scroll-snap strip with readable labels',
   css.includes('scroll-snap-type:x proximity') && css.includes('.mobile-nav button span{font-size:.72rem'));
 check('main clips horizontal overflow (no page-level sideways scroll)',
   css.includes('overflow-x:clip'));
+check('Ask FAB is a fixed orange pill, hidden by .off, above the bottom bar on phones, never printed',
+  css.includes('.ask-fab{') && css.includes('position:fixed') && css.includes('.ask-fab.off{display:none}') &&
+  css.includes('.ask-fab{bottom:calc(80px + env(safe-area-inset-bottom,0px))}') && css.includes('#ask-fab,#confetti-layer'));
+check('showView syncs the Ask FAB (hides it on the chat view itself)',
+  src.includes('syncAskFab(false)') && src.includes('function syncAskFab'));
 
 // --- 3. Behaviour in a fake-DOM vm sandbox -----------------------------
 function fakeEl(id) {
@@ -95,6 +102,8 @@ menuEl.querySelectorAll = () => [practiceBtn];
 const mobileThemeBtn = fakeEl('mobile-theme-toggle');
 const mobileLangBtn = fakeEl('mobile-lang-toggle');
 const mobileAuthBtn = fakeEl('mobile-auth-btn');
+const fabEl = fakeEl('ask-fab');
+const chatViewEl = fakeEl('view-chat');
 const docListeners = {};
 const sandbox = { module: { exports: {} },
   // Quiet console.warn: loadData() warns once per question file when fetch
@@ -108,7 +117,8 @@ const sandbox = { module: { exports: {} },
     querySelector: () => null, querySelectorAll: () => [],
     getElementById(id) {
       return { 'nav-toggle': toggleBtn, 'mobile-menu': menuEl, 'mobile-theme-toggle': mobileThemeBtn,
-        'mobile-lang-toggle': mobileLangBtn, 'mobile-auth-btn': mobileAuthBtn }[id] || null;
+        'mobile-lang-toggle': mobileLangBtn, 'mobile-auth-btn': mobileAuthBtn, 'ask-fab': fabEl,
+        'view-chat': chatViewEl }[id] || null;
     }
   },
   window: { scrollTo: () => {} }, alert: () => {}, fetch: async () => { throw new Error('no fetch in test'); },
@@ -119,7 +129,7 @@ vm.createContext(sandbox);
 let unhandled = null;
 process.on('unhandledRejection', e => { unhandled = e; });
 try {
-  vm.runInContext(src + '\nmodule.exports={setMobileMenuOpen,toggleMobileMenu,applyTheme,setLang,toggleTheme,showView,getLang};', sandbox);
+  vm.runInContext(src + '\nmodule.exports={setMobileMenuOpen,toggleMobileMenu,applyTheme,setLang,toggleTheme,showView,getLang,syncAskFab};', sandbox);
   check('app.js parses in the mobile-nav sandbox', true);
 } catch (e) { check('app.js parses in the mobile-nav sandbox', false, e.message); process.exit(1); }
 const exp = sandbox.module.exports;
@@ -165,6 +175,19 @@ check('setMobileMenuOpen(false) closes directly', !isOpen());
 
   practiceBtn.click();
   check('tapping a menu item navigates (showView) and closes the menu', !isOpen());
+
+  const fabHidden = () => fabEl.classList.contains('off');
+  check('Ask FAB is visible on a normal view', !fabHidden());
+  toggleBtn.click();
+  check('opening the menu hides the Ask FAB', isOpen() && fabHidden());
+  toggleBtn.click();
+  check('closing the menu shows the Ask FAB again', !isOpen() && !fabHidden());
+  chatViewEl.classList.add('active');
+  exp.syncAskFab(false);
+  check('Ask FAB hides while the chat view is active', fabHidden());
+  chatViewEl.classList.remove('active');
+  exp.syncAskFab(false);
+  check('Ask FAB returns when leaving the chat view', !fabHidden());
 
   exp.applyTheme('dark');
   check('applyTheme syncs the mobile theme button label', mobileThemeBtn.textContent === '🌙 Dark');
