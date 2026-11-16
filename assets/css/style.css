@@ -515,6 +515,7 @@ th{background:var(--card-2);font-weight:700}
     background:var(--bg2);border-top:1px solid var(--border);
     padding:6px 4px calc(6px + env(safe-area-inset-bottom,0px));
     justify-content:flex-start;
+    flex-wrap:nowrap; /* overrides the generic nav{flex-wrap:wrap} — without this the 8 items wrap into two uneven rows */
     overflow-x:auto;scroll-snap-type:x proximity;scrollbar-width:none;
     -webkit-overflow-scrolling:touch;
   }
@@ -528,6 +529,9 @@ th{background:var(--card-2);font-weight:700}
   }
   .mobile-nav button span{font-size:.72rem;font-weight:600;white-space:nowrap}
   .mobile-nav button.active{color:var(--accent-ink);background:var(--accent)} /* NOT color:var(--accent): the generic nav button.active rule already paints the orange background, and orange text on it is invisible */
+  /* The fixed bottom bar is ~64px tall — reserve room so it never covers content or the footer. */
+  main{padding-bottom:88px}
+  footer{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))}
   .opt{min-height:52px;font-size:1.02rem}
   .hero{padding:var(--sp-6) 18px}
   .card{padding:var(--sp-4)}
