@@ -565,7 +565,7 @@ th{background:var(--card-2);font-weight:700}
 
 /* ---------- 23. Print — only the paper prints ---------- */
 @media print{
-  header,footer,nav.mobile-nav,#confetti-layer,.no-print{display:none!important}
+  header,footer,nav.mobile-nav,#ask-fab,#confetti-layer,.no-print{display:none!important}
   /* Watermark: fixed at BODY level repeats on EVERY printed page in Chrome
      (inside the paper it was trapped by .view.active's transform and printed
      once). space-evenly spreads the 7 rows top to bottom on every page; light
@@ -901,4 +901,24 @@ footer{text-align:left}
   #mock-pattern-table td:nth-child(5)::before{content:"Pass"}
   #mock-pattern-table td:nth-child(6)::before{content:"Negative"}
   #mock-pattern-table td:nth-child(1){font-weight:700;font-size:1.02rem}
+}
+
+/* ---------- 31. Ask FAB — always-visible help button (2026-11-16) ----------
+   Ask lives at the bottom of the 30-item hamburger panel on phones, so nobody
+   finds it there. This floating pill sits on every view instead; tapping it
+   opens the Ask chat. JS hides it while the menu is open or the chat view
+   itself is active (syncAskFab). On phones it floats above the fixed bottom
+   bar (65px) instead of under it. */
+.ask-fab{
+  position:fixed;right:16px;bottom:20px;z-index:70;
+  background:var(--accent);color:var(--accent-ink);
+  border:none;border-radius:999px;padding:12px 18px;
+  font-size:1rem;font-weight:700;cursor:pointer;min-height:var(--tap);
+  box-shadow:0 4px 16px rgba(0,0,0,.22);
+  transition:transform .15s var(--ease);
+}
+.ask-fab:active{transform:scale(.94)}
+.ask-fab.off{display:none}
+@media(max-width:720px){
+  .ask-fab{bottom:calc(80px + env(safe-area-inset-bottom,0px))}
 }
