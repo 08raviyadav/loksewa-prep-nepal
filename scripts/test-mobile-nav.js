@@ -32,11 +32,15 @@ check('theme + language buttons live inside the mobile menu',
   menuBlock.includes('id="mobile-theme-toggle"') && menuBlock.includes('id="mobile-lang-toggle"'));
 check('mobile Sign In button has its own id (no duplicate nav-auth-btn)',
   menuBlock.includes('id="mobile-auth-btn"') && (html.match(/id="nav-auth-btn"/g) || []).length === 1);
-['nav-toggle', 'mobile-menu', 'mobile-theme-toggle', 'mobile-lang-toggle', 'mobile-auth-btn', 'ask-fab'].forEach(id => {
+['nav-toggle', 'mobile-menu', 'mobile-theme-toggle', 'mobile-lang-toggle', 'mobile-auth-btn', 'ask-fab', 'mobile-header-theme-toggle', 'mobile-header-lang-toggle'].forEach(id => {
   check(`id "${id}" occurs exactly once in index.html`, (html.match(new RegExp(`id="${id}"`, 'g')) || []).length === 1);
 });
 check('Ask FAB exists, opens the chat view, labelled for screen readers',
   html.includes('id="ask-fab"') && html.includes(`onclick="showView('chat')"`) && html.includes('aria-label="Ask Ravi'));
+check('compact theme + language icon buttons sit in the phone header, before the hamburger',
+  html.includes('id="mobile-header-theme-toggle"') && html.includes('id="mobile-header-lang-toggle"') &&
+  html.indexOf('id="mobile-header-theme-toggle"') < html.indexOf('id="nav-toggle"') &&
+  html.indexOf('id="mobile-header-lang-toggle"') < html.indexOf('id="nav-toggle"'));
 // Desktop nav + More dropdown untouched.
 check('desktop More dropdown markup unchanged (button + 3-col menu still present)',
   html.includes('id="nav-more-btn"') && html.includes('id="nav-more-menu"') && html.includes('class="nav-dropdown"'));
@@ -68,6 +72,11 @@ check('Ask FAB is a fixed orange pill, hidden by .off, above the bottom bar on p
   css.includes('.ask-fab{bottom:calc(80px + env(safe-area-inset-bottom,0px))}') && css.includes('#ask-fab,#confetti-layer'));
 check('showView syncs the Ask FAB (hides it on the chat view itself)',
   src.includes('syncAskFab(false)') && src.includes('function syncAskFab'));
+check('phone header icon buttons hidden on desktop, shown at ≤768px, theme button pushes the group right',
+  css.includes('.head-icon-btn{display:none}') && css.includes('.head-icon-btn{') &&
+  css.includes('#mobile-header-theme-toggle{margin-left:auto}'));
+check('applyTheme / setLang sync the phone header icon buttons too',
+  src.includes(`getElementById('mobile-header-theme-toggle')`) && src.includes(`getElementById('mobile-header-lang-toggle')`));
 
 // --- 3. Behaviour in a fake-DOM vm sandbox -----------------------------
 function fakeEl(id) {
@@ -104,6 +113,8 @@ const mobileLangBtn = fakeEl('mobile-lang-toggle');
 const mobileAuthBtn = fakeEl('mobile-auth-btn');
 const fabEl = fakeEl('ask-fab');
 const chatViewEl = fakeEl('view-chat');
+const headerThemeBtn = fakeEl('mobile-header-theme-toggle');
+const headerLangBtn = fakeEl('mobile-header-lang-toggle');
 const docListeners = {};
 const sandbox = { module: { exports: {} },
   // Quiet console.warn: loadData() warns once per question file when fetch
@@ -118,7 +129,8 @@ const sandbox = { module: { exports: {} },
     getElementById(id) {
       return { 'nav-toggle': toggleBtn, 'mobile-menu': menuEl, 'mobile-theme-toggle': mobileThemeBtn,
         'mobile-lang-toggle': mobileLangBtn, 'mobile-auth-btn': mobileAuthBtn, 'ask-fab': fabEl,
-        'view-chat': chatViewEl }[id] || null;
+        'view-chat': chatViewEl, 'mobile-header-theme-toggle': headerThemeBtn,
+        'mobile-header-lang-toggle': headerLangBtn }[id] || null;
     }
   },
   window: { scrollTo: () => {} }, alert: () => {}, fetch: async () => { throw new Error('no fetch in test'); },
@@ -191,11 +203,13 @@ check('setMobileMenuOpen(false) closes directly', !isOpen());
 
   exp.applyTheme('dark');
   check('applyTheme syncs the mobile theme button label', mobileThemeBtn.textContent === '🌙 Dark');
+  check('applyTheme syncs the phone header theme icon too', headerThemeBtn.textContent === '🌙');
   mobileThemeBtn.click();
   check('mobile theme button toggles back to light', mobileThemeBtn.textContent === '☀️ Light');
 
   exp.setLang('ne');
   check('setLang syncs the mobile language button label', mobileLangBtn.textContent === 'NE · नेपाली' && exp.getLang() === 'ne');
+  check('setLang syncs the phone header language icon too', headerLangBtn.textContent === 'NE');
   mobileLangBtn.click();
   check('mobile language button switches back to English', mobileLangBtn.textContent === 'EN · English' && exp.getLang() === 'en');
 
