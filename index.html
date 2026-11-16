@@ -79,13 +79,16 @@
 </nav>
 <button class="head-btn" id="theme-toggle" aria-label="Toggle dark / light theme">☀️ Light</button>
 <button class="head-btn" id="lang-toggle" aria-label="Switch between English and Nepali / अङ्ग्रेजी र नेपालीबीच परिवर्तन गर्नुहोस्">EN · English</button>
+<button class="head-icon-btn" id="mobile-header-theme-toggle" aria-label="Toggle dark / light theme">☀️</button>
+<button class="head-icon-btn" id="mobile-header-lang-toggle" aria-label="Switch between English and Nepali">EN</button>
 <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">☰</button>
 </div>
 <!-- Mobile navigation (≤768px): the desktop nav row is hidden at phone width
      (the 7-item row overflowed and the More dropdown was clipped invisible by
      the nav's overflow-x:auto) and replaced by this panel, which lists every
      nav item plus the More groups inline — no nested dropdown on mobile.
-     Theme + language live here too at phone width (the header buttons hide).
+     Theme + language also live here at phone width as full buttons (the header
+     carries compact icon buttons instead — the wide header buttons hide).
      Wired in app.js (setMobileMenuOpen / toggleMobileMenu). -->
 <div class="mobile-menu" id="mobile-menu" hidden>
 <button data-view="home" class="active">Home</button>
