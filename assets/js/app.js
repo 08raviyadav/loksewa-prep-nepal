@@ -185,6 +185,10 @@ function applyTheme(t){
   document.documentElement.dataset.theme = theme;
   const b = document.getElementById('theme-toggle');
   if (b) b.textContent = theme === 'dark' ? '🌙 Dark' : '☀️ Light';
+  // The mobile menu carries its own theme button at phone width (the header
+  // button is hidden there) — keep both labels in sync.
+  const m = document.getElementById('mobile-theme-toggle');
+  if (m) m.textContent = theme === 'dark' ? '🌙 Dark' : '☀️ Light';
 }
 function toggleTheme(){
   const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
@@ -196,6 +200,10 @@ function setLang(l){
   try { localStorage.setItem(LANG_KEY, lang); } catch (e) {}
   const b = document.getElementById('lang-toggle');
   if (b) b.textContent = lang === 'ne' ? 'NE · नेपाली' : 'EN · English';
+  // The mobile menu carries its own language button at phone width — keep
+  // both labels in sync.
+  const m = document.getElementById('mobile-lang-toggle');
+  if (m) m.textContent = lang === 'ne' ? 'NE · नेपाली' : 'EN · English';
   // Re-render whichever question-bearing view is currently visible.
   const active = document.querySelector('.view.active');
   const id = active ? active.id : '';
@@ -851,6 +859,9 @@ function showView(id){
   // Leaving the audio view stops narration so it never keeps talking on
   // another view (or after the tab is backgrounded).
   if (id !== 'audio') audioStop();
+  // Navigating (from anywhere — footer, bottom bar, mobile menu) closes the
+  // mobile hamburger menu so it never stays open over the new view.
+  setMobileMenuOpen(false);
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
   const el=document.getElementById('view-'+id); if(el) el.classList.add('active');
   // Print watermark scope: the body-level .print-watermark prints only while
@@ -1998,6 +2009,8 @@ function isDemoMode(){ return !(CONFIG && CONFIG.SUPABASE_URL && CONFIG.SUPABASE
 function updateDemoBanner(){
   const nb = document.getElementById('nav-auth-btn');
   if (nb) nb.textContent = (progress.name ? '👤 ' + progress.name.split(' ')[0] : 'Sign In');
+  const mb = document.getElementById('mobile-auth-btn');
+  if (mb) mb.textContent = (progress.name ? '👤 ' + progress.name.split(' ')[0] : 'Sign In');
 }
 
 // ---- Shared localStorage helpers ----
@@ -2985,6 +2998,35 @@ function renderSuggest(){
     ).join('') || emptyState('💡', L.empty, L.emptyBlurb, L.emptyCta, "document.getElementById('sug-title').focus()"));
 }
 
+/* ----- Mobile navigation (hamburger menu, ≤768px) -----
+   Root cause of the invisible More menu on phones (2026-11-16): at ≤720px the
+   header <nav> got `overflow-x:auto`, and CSS forces overflow-y to compute to
+   auto whenever overflow-x is non-visible — so the <nav> clipped vertically
+   too, and the absolutely-positioned .nav-menu (top: 100% + 10px, i.e. BELOW
+   the nav's bottom edge) was cut off. The menu was in the DOM and in the
+   accessibility tree (links worked when activated blind) but never visible.
+   Fix: at phone width the desktop nav row is hidden entirely (CSS) and this
+   panel takes over — every nav item plus the More groups inline, no nested
+   dropdown. The toggle + panel are plain markup in index.html; these
+   functions only flip the open state. Method calls are guarded (typeof
+   checks) because showView() closes the menu and the Node test sandboxes
+   stub DOM elements with only some methods. */
+function setMobileMenuOpen(open){
+  var btn=document.getElementById('nav-toggle'), menu=document.getElementById('mobile-menu');
+  if(!btn||!menu) return;
+  if(btn.setAttribute) btn.setAttribute('aria-expanded', open?'true':'false');
+  if(btn.setAttribute) btn.setAttribute('aria-label', open?'Close menu':'Open menu');
+  if(btn.classList && btn.classList.toggle) btn.classList.toggle('open', !!open);
+  if(open){ if(menu.removeAttribute) menu.removeAttribute('hidden'); }
+  else if(menu.setAttribute) menu.setAttribute('hidden','');
+}
+function toggleMobileMenu(){
+  var menu=document.getElementById('mobile-menu');
+  if(!menu) return;
+  var isHidden = menu.hasAttribute ? menu.hasAttribute('hidden') : !!menu.hidden;
+  setMobileMenuOpen(isHidden);
+}
+
 document.addEventListener('DOMContentLoaded', ()=>{
   document.querySelectorAll('nav button[data-view]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.view)));
   // Nav "More" dropdown: click toggles, Escape closes, outside click closes.
@@ -2996,6 +3038,21 @@ document.addEventListener('DOMContentLoaded', ()=>{
     document.addEventListener('click',function(e){ if(!menu.hasAttribute('hidden')&&!e.target.closest('.nav-dropdown')) setOpen(false); });
     document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!menu.hasAttribute('hidden')){ setOpen(false); btn.focus(); } });
     menu.querySelectorAll('button[data-view]').forEach(function(b){ b.addEventListener('click',function(){ setOpen(false); }); });
+  })();
+  // Mobile hamburger menu: click toggles, Escape closes (focus returns to the
+  // toggle), outside click closes. Menu items navigate via showView, which
+  // closes the panel. Theme + language live inside the panel at phone width
+  // (the header buttons are hidden there); both pairs stay in sync via
+  // applyTheme / setLang.
+  (function(){
+    var btn=document.getElementById('nav-toggle'), menu=document.getElementById('mobile-menu');
+    if(!btn||!menu) return;
+    btn.addEventListener('click',function(e){ e.stopPropagation(); toggleMobileMenu(); });
+    document.addEventListener('click',function(e){ if(menu.hasAttribute&&!menu.hasAttribute('hidden')&&!e.target.closest('#mobile-menu, #nav-toggle')) setMobileMenuOpen(false); });
+    document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&menu.hasAttribute&&!menu.hasAttribute('hidden')){ setMobileMenuOpen(false); btn.focus(); } });
+    menu.querySelectorAll('button[data-view]').forEach(function(b){ b.addEventListener('click',function(){ showView(b.dataset.view); }); });
+    var th=document.getElementById('mobile-theme-toggle'); if(th) th.addEventListener('click',toggleTheme);
+    var lg=document.getElementById('mobile-lang-toggle'); if(lg){ lg.textContent = lang==='ne'?'NE · नेपाली':'EN · English'; lg.addEventListener('click',function(){ setLang(lang==='ne'?'en':'ne'); }); }
   })();
   // Restore the saved theme (light is the default when nothing is saved).
   try{ const saved=localStorage.getItem(THEME_KEY); applyTheme(saved==='dark'?'dark':'light'); }catch(e){ applyTheme('light'); }
