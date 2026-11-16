@@ -864,6 +864,7 @@ function showView(id){
   setMobileMenuOpen(false);
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
   const el=document.getElementById('view-'+id); if(el) el.classList.add('active');
+  syncAskFab(false); // Ask FAB hides on the chat view itself (after the toggle above, so inChat reads the new view).
   // Print watermark scope: the body-level .print-watermark prints only while
   // this class is set (printable mock view). Every other view removes it here,
   // in the single view-switch path, so it can never leak into another print.
@@ -3011,6 +3012,17 @@ function renderSuggest(){
    functions only flip the open state. Method calls are guarded (typeof
    checks) because showView() closes the menu and the Node test sandboxes
    stub DOM elements with only some methods. */
+// Ask FAB visibility: hidden while the hamburger menu is open (it would float
+// over the panel) and while the chat view itself is active (you're already
+// there). Guarded like setMobileMenuOpen for the Node test sandboxes.
+function syncAskFab(menuOpen){
+  if(typeof document === 'undefined' || !document.getElementById) return;
+  var fab=document.getElementById('ask-fab');
+  if(!fab || !fab.classList || !fab.classList.toggle) return;
+  var chatEl=document.getElementById('view-chat');
+  var inChat = !!(chatEl && chatEl.classList && chatEl.classList.contains && chatEl.classList.contains('active'));
+  fab.classList.toggle('off', !!menuOpen || inChat);
+}
 function setMobileMenuOpen(open){
   var btn=document.getElementById('nav-toggle'), menu=document.getElementById('mobile-menu');
   if(!btn||!menu) return;
@@ -3019,6 +3031,7 @@ function setMobileMenuOpen(open){
   if(btn.classList && btn.classList.toggle) btn.classList.toggle('open', !!open);
   if(open){ if(menu.removeAttribute) menu.removeAttribute('hidden'); }
   else if(menu.setAttribute) menu.setAttribute('hidden','');
+  syncAskFab(open);
 }
 function toggleMobileMenu(){
   var menu=document.getElementById('mobile-menu');
