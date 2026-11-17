@@ -8,6 +8,15 @@
    Spacing rhythm: 4px base. Tap targets >= 44px. Mobile-first.
    ============================================================ */
 
+/* Brand slogan face (v1.0.15): Caveat SemiBold (OFL), self-hosted and
+   subset to Latin so the slogan needs no third-party request — the
+   site's no-tracking promise stays intact. Same face as the app. */
+@font-face{
+  font-family:'Caveat';
+  src:url('../fonts/Caveat-SemiBold.woff2') format('woff2');
+  font-weight:600;font-style:normal;font-display:swap;
+}
+
 /* ---------- 1. Design tokens ---------- */
 :root{
   /* surfaces — minimal white */
@@ -136,8 +145,13 @@ p{margin:var(--sp-2) 0}
 /* ---------- 5. Layout: header, main, views, footer ---------- */
 header{position:sticky;top:0;z-index:50;background:var(--bg2);border-bottom:1px solid var(--border)}
 .nav{max-width:var(--maxw);margin:auto;display:flex;align-items:center;gap:var(--sp-3);padding:var(--sp-3) var(--sp-4);flex-wrap:wrap}
-.logo{font-size:1.3rem;font-weight:800;color:var(--accent);text-decoration:none;line-height:1.2}
+.logo{display:inline-flex;flex-direction:column;align-items:flex-start;font-size:1.3rem;font-weight:800;color:var(--accent);text-decoration:none;line-height:1.15}
 .logo span{color:var(--text);font-weight:600;font-size:.95rem}
+.logo .logo-main{font-size:1.3rem;font-weight:800;color:var(--accent)}
+/* Brand slogan (v1.0.15): handwritten Caveat under the wordmark, the way
+   companies set a tagline in a logo lockup. Caveat renders small for its
+   size, so 1.05rem reads like ~0.8rem of body text. */
+.logo .logo-slogan{font-family:'Caveat',cursive;font-size:1.05rem;font-weight:600;color:var(--muted);line-height:1;margin-top:1px}
 nav{display:flex;gap:4px;flex-wrap:wrap;margin-left:auto}
 nav button{
   background:none;border:1px solid transparent;color:var(--text);
@@ -192,6 +206,13 @@ footer a{color:var(--accent);font-weight:600}
 .hero h1{
   font-size:var(--fs-display);line-height:var(--lh-tight);
   letter-spacing:-.015em;color:var(--text);max-width:18ch;
+}
+/* Brand slogan under the hero wordmark (v1.0.15) — same handwritten
+   Caveat as the header lockup, bigger here because it is the page's
+   statement line. */
+.hero p.hero-slogan{
+  font-family:'Caveat',cursive;font-size:1.7rem;font-weight:600;
+  color:var(--accent-deep);line-height:1.2;margin:2px 0 0;
 }
 .hero p.hero-sub{
   margin:var(--sp-2) 0 0;max-width:62ch;
@@ -853,7 +874,7 @@ footer{text-align:left}
   .nav{flex-wrap:nowrap}
   .nav>nav{display:none}                 /* desktop nav row → hamburger */
   .nav .head-btn{display:none}           /* theme/lang move into the panel */
-  .logo span:not(.beta-badge){display:none} /* hide the Nepali tagline, keep BETA */
+  .logo .logo-ne{display:none} /* hide the Nepali tagline on phones, keep BETA + slogan */
   .nav-toggle{
     display:inline-flex;align-items:center;justify-content:center;
     margin-left:auto;min-width:var(--tap);min-height:var(--tap);
