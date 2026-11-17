@@ -179,6 +179,14 @@ class AppType {
   static const body = TextStyle(fontSize: 15, height: 1.65);
   static const small = TextStyle(fontSize: 13.5, height: 1.5);
   static const tiny = TextStyle(fontSize: 12, height: 1.4);
+  /// Brand slogan in the handwritten Caveat face (v1.0.15). Caveat
+  /// renders small for its size, so 17px reads like ~13px of body text.
+  static const slogan = TextStyle(
+    fontFamily: 'Caveat',
+    fontSize: 17,
+    height: 1.2,
+    fontWeight: FontWeight.w600,
+  );
   static const countdownDigit = TextStyle(
     fontSize: 40,
     height: 1.1,
