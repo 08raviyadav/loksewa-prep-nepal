@@ -1,7 +1,7 @@
 name: loksewa_vidyapeeth
 description: Outrank — Nepal's biggest free, open-source Lok Sewa exam practice platform. Flutter (Android, iOS, Web) from one codebase.
 publish_to: "none"
-version: 1.0.14+15
+version: 1.0.15+16
 
 environment:
   sdk: ^3.4.0
@@ -34,6 +34,14 @@ flutter:
     - assets/data/
     - assets/data/questions/
     - assets/data/courses/
+
+  # Brand slogan face (v1.0.15): Caveat SemiBold (OFL) — bundled so the
+  # slogan renders offline, matching the website's self-hosted Caveat.
+  fonts:
+    - family: Caveat
+      fonts:
+        - asset: assets/fonts/Caveat-SemiBold.ttf
+          weight: 600
 
 # --- M8: launcher icons + native splash ---
 # NOTE: the source PNG (assets/icon/app_icon.png) is NOT in this repo — the
