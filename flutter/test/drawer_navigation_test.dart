@@ -208,6 +208,32 @@ void main() {
       );
     });
 
+    testWidgets('brand slogan sits under the wordmark (v1.0.15)',
+        (tester) async {
+      await _pumpApp(tester);
+      // Home app bar: slogan under the Outrank title.
+      expect(
+        find.descendant(
+          of: find.byType(AppBar),
+          matching: find.text('Rise. Prepare. Outrank.'),
+        ),
+        findsOneWidget,
+      );
+      // Drawer header: slogan under the Outrank wordmark.
+      await _openDrawer(tester);
+      expect(
+        find.descendant(
+          of: find.byType(DrawerHeader),
+          matching: find.text('Rise. Prepare. Outrank.'),
+        ),
+        findsOneWidget,
+      );
+      // About screen: slogan under the Outrank heading.
+      await _tapDrawerItem(tester, 'About this app');
+      expect(find.byType(AboutScreen), findsOneWidget);
+      expect(find.text('Rise. Prepare. Outrank.'), findsOneWidget);
+    });
+
     testWidgets('drawer credit opens the GitHub profile', (tester) async {
       final fake = _useFakeLauncher();
       await _pumpApp(tester);
