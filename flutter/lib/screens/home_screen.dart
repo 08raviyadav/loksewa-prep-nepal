@@ -146,6 +146,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final s = state.strings;
     return AppScaffold(
       title: s.appName,
+      titleSubtitle: s.slogan,
       currentIndex: widget.navIndex,
       onNav: widget.onNav,
       bottomNavKey: TourKeys.bottomNav,
