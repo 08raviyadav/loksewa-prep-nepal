@@ -38,6 +38,10 @@ class AppScaffold extends StatelessWidget {
   /// duplicate it.
   final Key? langToggleKey;
 
+  /// Brand slogan under the app-bar title (v1.0.15). Passed only by
+  /// the Home screen, where the title is the Outrank wordmark.
+  final String? titleSubtitle;
+
   const AppScaffold({
     super.key,
     required this.title,
@@ -48,6 +52,7 @@ class AppScaffold extends StatelessWidget {
     this.floatingActionButton,
     this.bottomNavKey,
     this.langToggleKey,
+    this.titleSubtitle,
   });
 
   @override
@@ -67,7 +72,22 @@ class AppScaffold extends StatelessWidget {
     });
     return Scaffold(
       appBar: AppBar(
-        title: Text(title),
+        toolbarHeight: titleSubtitle == null ? null : 64,
+        title: titleSubtitle == null
+            ? Text(title)
+            : Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(title),
+                  Text(
+                    titleSubtitle!,
+                    style: AppType.slogan.copyWith(
+                      color: AppColors.of(context).muted,
+                    ),
+                  ),
+                ],
+              ),
         actions: [
           // Dark / light toggle (v1.0.6: dark mode is back; light is
           // the default).
@@ -347,6 +367,12 @@ class _AppDrawer extends StatelessWidget {
                         'LOK SEWA EXAM PREP',
                         style: AppType.small.copyWith(
                           color: AppColors.of(context).accent,
+                        ),
+                      ),
+                      Text(
+                        s.slogan,
+                        style: AppType.slogan.copyWith(
+                          color: AppColors.of(context).muted,
                         ),
                       ),
                     ],
