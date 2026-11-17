@@ -22,6 +22,8 @@ class AppStrings {
   // --- app chrome ---
   // Brand name — "Outrank" in both languages, never translated.
   String get appName => 'Outrank';
+  // Brand slogan (v1.0.15) — same in both languages, never translated.
+  String get slogan => 'Rise. Prepare. Outrank.';
   String get tagline => t(
         'Nepal\u2019s Lok Sewa exams, mastered question by question.',
         'नेपालको लोक सेवा परीक्षा, प्रश्न-प्रश्न गर्दै मास्टर गर्नुहोस्।',
