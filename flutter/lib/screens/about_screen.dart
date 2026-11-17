@@ -93,6 +93,12 @@ class _AboutScreenState extends State<AboutScreen> {
                 ),
                 const SizedBox(height: AppSpacing.s3),
                 const Text('Outrank', style: AppType.h2),
+                Text(
+                  s.slogan,
+                  style: AppType.slogan.copyWith(
+                    color: AppColors.of(context).muted,
+                  ),
+                ),
                 if (_version != null)
                   Text(
                     '${s.versionLabel} $_version',
