@@ -8731,12 +8731,7 @@
       "Truthful",
       "Loyal"
     ],
-    "options_ne": [
-      "बेइमान",
-      "दयालु",
-      "सत्यवादी",
-      "वफादार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The antonym of honest is dishonest.",
     "explanation_ne": "'honest' को विपरीतार्थी 'dishonest' हो।",
@@ -12483,12 +12478,7 @@
       "Fear",
       "Cowardice"
     ],
-    "options_ne": [
-      "कमजोरी",
-      "बहादुरी",
-      "डर",
-      "कायरता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Courage means bravery.",
     "explanation_ne": "'courage' भनेको बहादुरी हो।",
@@ -13827,12 +13817,7 @@
       "Loss",
       "Failure"
     ],
-    "options_ne": [
-      "हार",
-      "विजय",
-      "क्षति",
-      "असफलता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Victory means triumph.",
     "explanation_ne": "'victory' भनेको विजय हो।",
@@ -13855,12 +13840,7 @@
       "Recent",
       "New"
     ],
-    "options_ne": [
-      "आधुनिक",
-      "पुरानो",
-      "हालको",
-      "नयाँ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Ancient means old.",
     "explanation_ne": "'ancient' भनेको पुरानो हो।",

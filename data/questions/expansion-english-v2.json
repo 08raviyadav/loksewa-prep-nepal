@@ -2599,12 +2599,7 @@
    "Silent",
    "Frank"
   ],
-  "options_ne": [
-   "अशिष्ट",
-   "गोप्य",
-   "मौन",
-   "स्पष्टवादी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'candid' means the same as 'Frank'.",
   "explanation_ne": "‘candid’ को अर्थ ‘स्पष्टवादी’ हो।",
@@ -2629,12 +2624,7 @@
    "Huge",
    "Narrow"
   ],
-  "options_ne": [
-   "अति सानो",
-   "सानो",
-   "विशाल",
-   "साँघुरो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'enormous' means the same as 'Huge'.",
   "explanation_ne": "‘enormous’ को अर्थ ‘विशाल’ हो।",
@@ -2659,12 +2649,7 @@
    "Hard",
    "Delicate"
   ],
-  "options_ne": [
-   "बलियो",
-   "गह्रौं",
-   "कडा",
-   "नाजुक"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'fragile' means the same as 'Delicate'.",
   "explanation_ne": "‘fragile’ को अर्थ ‘नाजुक’ हो।",
@@ -2689,12 +2674,7 @@
    "Selfish",
    "Greedy"
   ],
-  "options_ne": [
-   "उदार",
-   "कञ्जुस",
-   "स्वार्थी",
-   "लोभी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'generous' means the same as 'Liberal'.",
   "explanation_ne": "‘generous’ को अर्थ ‘उदार’ हो।",
@@ -2719,12 +2699,7 @@
    "Unassuming",
    "Arrogant"
   ],
-  "options_ne": [
-   "शेखी गर्ने",
-   "घमण्डी",
-   "विनम्र",
-   "अहङ्कारी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'humble' means the same as 'Unassuming'.",
   "explanation_ne": "‘humble’ को अर्थ ‘विनम्र’ हो।",
@@ -2749,12 +2724,7 @@
    "Limited",
    "Short"
   ],
-  "options_ne": [
-   "असीम",
-   "सानो",
-   "सीमित",
-   "छोटो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'immense' means the same as 'Vast'.",
   "explanation_ne": "‘immense’ को अर्थ ‘असीम’ हो।",
@@ -2779,12 +2749,7 @@
    "Unwilling",
    "Dull"
   ],
-  "options_ne": [
-   "उत्सुक",
-   "हिचकिचाउने",
-   "अनिच्छुक",
-   "निरस"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'keen' means the same as 'Eager'.",
   "explanation_ne": "‘keen’ को अर्थ ‘उत्सुक’ हो।",
@@ -2809,12 +2774,7 @@
    "Vague",
    "Clear"
   ],
-  "options_ne": [
-   "अँध्यारो",
-   "अलमलाउने",
-   "अस्पष्ट",
-   "स्पष्ट"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'lucid' means the same as 'Clear'.",
   "explanation_ne": "‘lucid’ को अर्थ ‘स्पष्ट’ हो।",
@@ -2839,12 +2799,7 @@
    "Harsh",
    "Rough"
   ],
-  "options_ne": [
-   "नरम",
-   "गम्भीर",
-   "कडा",
-   "रुखो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'mild' means the same as 'Gentle'.",
   "explanation_ne": "‘mild’ को अर्थ ‘नरम’ हो।",
@@ -2869,12 +2824,7 @@
    "Obvious",
    "Famous"
   ],
-  "options_ne": [
-   "अस्पष्ट",
-   "उज्यालो",
-   "स्पष्ट",
-   "प्रसिद्ध"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'obscure' means the same as 'Unclear'.",
   "explanation_ne": "‘obscure’ को अर्थ ‘अस्पष्ट’ हो।",
@@ -2899,12 +2849,7 @@
    "Slow",
    "Late"
   ],
-  "options_ne": [
-   "छिटो",
-   "ढिलाइ भएको",
-   "सुस्त",
-   "ढिलो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'prompt' means the same as 'Quick'.",
   "explanation_ne": "‘prompt’ को अर्थ ‘छिटो’ हो।",
@@ -2929,12 +2874,7 @@
    "Swift",
    "Steady"
   ],
-  "options_ne": [
-   "क्रमिक",
-   "ढिलो",
-   "छिटो",
-   "स्थिर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'rapid' means the same as 'Swift'.",
   "explanation_ne": "‘rapid’ को अर्थ ‘छिटो’ हो।",
@@ -2959,12 +2899,7 @@
    "Calm",
    "Restless"
   ],
-  "options_ne": [
-   "कोलाहलपूर्ण",
-   "रिसाएको",
-   "शान्त",
-   "बेचैन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'serene' means the same as 'Calm'.",
   "explanation_ne": "‘serene’ को अर्थ ‘शान्त’ हो।",
@@ -2989,12 +2924,7 @@
    "Strong",
    "Weak"
   ],
-  "options_ne": [
-   "नाजुक",
-   "पातलो",
-   "बलियो",
-   "कमजोर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'sturdy' means the same as 'Strong'.",
   "explanation_ne": "‘sturdy’ को अर्थ ‘बलियो’ हो।",
@@ -3019,12 +2949,7 @@
    "Boring",
    "Interesting"
   ],
-  "options_ne": [
-   "जीवन्त",
-   "रोमाञ्चक",
-   "विरक्तलाग्दो",
-   "रोचक"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'tedious' means the same as 'Boring'.",
   "explanation_ne": "‘tedious’ को अर्थ ‘विरक्तलाग्दो’ हो।",
@@ -3049,12 +2974,7 @@
    "Pale",
    "Bright"
   ],
-  "options_ne": [
-   "फिक्का",
-   "मधुरो",
-   "फुस्रो",
-   "चम्किलो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'vivid' means the same as 'Bright'.",
   "explanation_ne": "‘vivid’ को अर्थ ‘चम्किलो’ हो।",
@@ -3079,12 +2999,7 @@
    "Careless",
    "Trusting"
   ],
-  "options_ne": [
-   "सतर्क",
-   "साहसी",
-   "लापरबाह",
-   "विश्वास गर्ने"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'wary' means the same as 'Cautious'.",
   "explanation_ne": "‘wary’ को अर्थ ‘सतर्क’ हो।",
@@ -3109,12 +3024,7 @@
    "Lazy",
    "Indifferent"
   ],
-  "options_ne": [
-   "चिसो",
-   "उत्साही",
-   "अल्छी",
-   "उदासीन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'zealous' means the same as 'Enthusiastic'.",
   "explanation_ne": "‘zealous’ को अर्थ ‘उत्साही’ हो।",
@@ -3140,12 +3050,7 @@
    "Old",
    "Historic"
   ],
-  "options_ne": [
-   "पुरातन",
-   "आधुनिक",
-   "पुरानो",
-   "ऐतिहासिक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'ancient' is 'Modern'.",
   "explanation_ne": "‘ancient’ को विलोम ‘आधुनिक’ हो।",
@@ -3170,12 +3075,7 @@
    "Accept",
    "Reveal"
   ],
-  "options_ne": [
-   "स्वीकार गर्नु",
-   "अस्वीकार गर्नु",
-   "मान्नु",
-   "खुलासा गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'confess' is 'Deny'.",
   "explanation_ne": "‘confess’ को विलोम ‘अस्वीकार गर्नु’ हो।",
@@ -3200,12 +3100,7 @@
    "High",
    "Dark"
   ],
-  "options_ne": [
-   "विशाल",
-   "उथलो",
-   "अग्लो",
-   "अँध्यारो"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'deep' is 'Shallow'.",
   "explanation_ne": "‘deep’ को विलोम ‘उथलो’ हो।",
@@ -3230,12 +3125,7 @@
    "Extend",
    "Contract"
   ],
-  "options_ne": [
-   "फैलाउनु",
-   "बढ्नु",
-   "विस्तार गर्नु",
-   "सङ्कुचित हुनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'expand' is 'Contract'.",
   "explanation_ne": "‘expand’ को विलोम ‘सङ्कुचित हुनु’ हो।",
@@ -3260,12 +3150,7 @@
    "Soft",
    "Rigid"
   ],
-  "options_ne": [
-   "लचिलो",
-   "अनुकूलनीय",
-   "नरम",
-   "कठोर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'flexible' is 'Rigid'.",
   "explanation_ne": "‘flexible’ को विलोम ‘कठोर’ हो।",
@@ -3290,12 +3175,7 @@
    "Liberal",
    "Kind"
   ],
-  "options_ne": [
-   "सहयोगी",
-   "कञ्जुस",
-   "उदार",
-   "दयालु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'generous' is 'Stingy'.",
   "explanation_ne": "‘generous’ को विलोम ‘कञ्जुस’ हो।",
@@ -3320,12 +3200,7 @@
    "Wrong",
    "Sinful"
   ],
-  "options_ne": [
-   "अपराधी",
-   "निर्दोष",
-   "गलत",
-   "पापी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'guilty' is 'Innocent'.",
   "explanation_ne": "‘guilty’ को विलोम ‘निर्दोष’ हो।",
@@ -3350,12 +3225,7 @@
    "Cruel",
    "Severe"
   ],
-  "options_ne": [
-   "रुखो",
-   "नरम",
-   "क्रूर",
-   "कडा"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'harsh' is 'Gentle'.",
   "explanation_ne": "‘harsh’ को विलोम ‘नरम’ हो।",
@@ -3380,12 +3250,7 @@
    "Add",
    "Exclude"
   ],
-  "options_ne": [
-   "सामेल गर्नु",
-   "समावेश गर्नु",
-   "थप्नु",
-   "बाहिर राख्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'include' is 'Exclude'.",
   "explanation_ne": "‘include’ को विलोम ‘बाहिर राख्नु’ हो।",
@@ -3410,12 +3275,7 @@
    "New",
    "Young"
   ],
-  "options_ne": [
-   "वरिष्ठ",
-   "तल्लो",
-   "नयाँ",
-   "जवान"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'junior' is 'Senior'.",
   "explanation_ne": "‘junior’ को विलोम ‘वरिष्ठ’ हो।",
@@ -3440,12 +3300,7 @@
    "Borrow",
    "Offer"
   ],
-  "options_ne": [
-   "दिनु",
-   "उपलब्ध गराउनु",
-   "सापटी लिनु",
-   "प्रस्ताव गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'lend' is 'Borrow'.",
   "explanation_ne": "‘lend’ को विलोम ‘सापटी लिनु’ हो।",
@@ -3470,12 +3325,7 @@
    "Minor",
    "Main"
   ],
-  "options_ne": [
-   "प्रमुख",
-   "ठूलो",
-   "सानो",
-   "मुख्य"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'major' is 'Minor'.",
   "explanation_ne": "‘major’ को विलोम ‘सानो’ हो।",
@@ -3500,12 +3350,7 @@
    "Tight",
    "Wide"
   ],
-  "options_ne": [
-   "पातलो",
-   "सानो",
-   "कसिलो",
-   "फराकिलो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'narrow' is 'Wide'.",
   "explanation_ne": "‘narrow’ को विलोम ‘फराकिलो’ हो।",
@@ -3530,12 +3375,7 @@
    "Hopeful",
    "Positive"
   ],
-  "options_ne": [
-   "प्रसन्न",
-   "निराशावादी",
-   "आशावादी",
-   "सकारात्मक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'optimist' is 'Pessimist'.",
   "explanation_ne": "‘optimist’ को विलोम ‘निराशावादी’ हो।",
@@ -3560,12 +3400,7 @@
    "Fixed",
    "Stable"
   ],
-  "options_ne": [
-   "अस्थायी",
-   "स्थायी",
-   "निश्चित",
-   "स्थिर"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'permanent' is 'Temporary'.",
   "explanation_ne": "‘permanent’ को विलोम ‘अस्थायी’ हो।",
@@ -3590,12 +3425,7 @@
    "Blame",
    "Admire"
   ],
-  "options_ne": [
-   "सम्मान गर्नु",
-   "ताली बजाउनु",
-   "दोष दिनु",
-   "प्रशंसा गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'praise' is 'Blame'.",
   "explanation_ne": "‘praise’ को विलोम ‘दोष दिनु’ हो।",
@@ -3620,12 +3450,7 @@
    "Rare",
    "Short"
   ],
-  "options_ne": [
-   "प्रचुर",
-   "सीमित",
-   "दुर्लभ",
-   "छोटो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'scarce' is 'Abundant'.",
   "explanation_ne": "‘scarce’ को विलोम ‘प्रचुर’ हो।",
@@ -3652,12 +3477,7 @@
    "Triumph",
    "Defeat"
   ],
-  "options_ne": [
-   "सफलता",
-   "जित",
-   "विजय",
-   "हार"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'victory' is 'Defeat'.",
   "explanation_ne": "‘victory’ को विलोम ‘हार’ हो।",
@@ -3682,12 +3502,7 @@
    "Folly",
    "Sense"
   ],
-  "options_ne": [
-   "ज्ञान",
-   "अन्तर्दृष्टि",
-   "मूर्खता",
-   "विवेक"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'wisdom' is 'Folly'.",
   "explanation_ne": "‘wisdom’ को विलोम ‘मूर्खता’ हो।",
@@ -3712,12 +3527,7 @@
    "Homicide",
    "Fratricide"
   ],
-  "options_ne": [
-   "आत्महत्या",
-   "पितृहत्या",
-   "नरहत्या",
-   "भ्रातृहत्या"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'Fratricide' is the one word for: the murder of one's brother",
   "explanation_ne": "‘the murder of one's brother’ का लागि एक शब्द ‘Fratricide’ हो।",
@@ -3742,12 +3552,7 @@
    "Zoology",
    "Botany"
   ],
-  "options_ne": [
-   "कीटविज्ञान",
-   "पक्षीविज्ञान",
-   "प्राणीशास्त्र",
-   "वनस्पतिविज्ञान"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Ornithology' is the one word for: the scientific study of birds",
   "explanation_ne": "‘the scientific study of birds’ का लागि एक शब्द ‘Ornithology’ हो।",
@@ -3772,12 +3577,7 @@
    "Mint",
    "Foundry"
   ],
-  "options_ne": [
-   "बैङ्क",
-   "कोषागार",
-   "टकसाल",
-   "ढलाइखाना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Mint' is the one word for: a place where coins are made",
   "explanation_ne": "‘a place where coins are made’ का लागि एक शब्द ‘Mint’ हो।",
@@ -3802,12 +3602,7 @@
    "Heir",
    "Posthumous"
   ],
-  "options_ne": [
-   "वैध",
-   "टुहुरो",
-   "उत्तराधिकारी",
-   "मरणोत्तर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'Posthumous' is the one word for: a child born after the death of his father",
   "explanation_ne": "‘a child born after the death of his father’ का लागि एक शब्द ‘Posthumous’ हो।",
@@ -3832,12 +3627,7 @@
    "Chronicle",
    "Biography"
   ],
-  "options_ne": [
-   "आत्मकथा",
-   "संस्मरण",
-   "इतिवृत्त",
-   "जीवनी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Autobiography' is the one word for: the life history of a person written by himself",
   "explanation_ne": "‘the life history of a person written by himself’ का लागि एक शब्द ‘Autobiography’ हो।",
@@ -3862,12 +3652,7 @@
    "Dreamer",
    "Insomniac"
   ],
-  "options_ne": [
-   "निद्राचारी",
-   "सम्मोहनकर्ता",
-   "सपना देख्ने",
-   "अनिद्राग्रस्त"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Somnambulist' is the one word for: a person who walks in his sleep",
   "explanation_ne": "‘a person who walks in his sleep’ का लागि एक शब्द ‘Somnambulist’ हो।",
@@ -3892,12 +3677,7 @@
    "Claustrophobia",
    "Agoraphobia"
   ],
-  "options_ne": [
-   "जलभीति",
-   "उचाइको डर",
-   "साँघुरो ठाउँको डर",
-   "खुला ठाउँको डर"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Hydrophobia' is the one word for: an extreme fear of water",
   "explanation_ne": "‘an extreme fear of water’ का लागि एक शब्द ‘Hydrophobia’ हो।",
@@ -3922,12 +3702,7 @@
    "Calligrapher",
    "Photographer"
   ],
-  "options_ne": [
-   "नृत्यनिर्देशक",
-   "मानचित्रकार",
-   "सुलेखक",
-   "फोटोग्राफर"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Cartographer' is the one word for: a person who draws maps",
   "explanation_ne": "‘a person who draws maps’ का लागि एक शब्द ‘Cartographer’ हो।",
@@ -3952,12 +3727,7 @@
    "Archaeology",
    "Philately"
   ],
-  "options_ne": [
-   "मुद्राशास्त्र",
-   "भूविज्ञान",
-   "पुरातत्व",
-   "टिकट सङ्कलन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Numismatics' is the one word for: the study of coins and medals",
   "explanation_ne": "‘the study of coins and medals’ का लागि एक शब्द ‘Numismatics’ हो।",
@@ -3982,12 +3752,7 @@
    "Vegetarian",
    "Herbivore"
   ],
-  "options_ne": [
-   "सर्वाहारी",
-   "नरभक्षी",
-   "शाकाहारी",
-   "घाँस खाने जनावर"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Cannibal' is the one word for: a person who eats human flesh",
   "explanation_ne": "‘a person who eats human flesh’ का लागि एक शब्द ‘Cannibal’ हो।",

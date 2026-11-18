@@ -7528,12 +7528,7 @@
   "explanation": "Dishonest is the antonym of honest.",
   "source": "General knowledge",
   "question_ne": "'Honest' को विलोम शब्द कुन हो?",
-  "options_ne": [
-   "इमानदार",
-   "निष्पक्ष",
-   "बेइमान",
-   "सत्यवादी"
-  ],
+  "options_ne": null,
   "explanation_ne": "बेइमान 'honest' को विलोम हो।"
  },
  {
@@ -7556,12 +7551,7 @@
   "explanation": "Modern is the antonym of ancient.",
   "source": "General knowledge",
   "question_ne": "'Ancient' को विलोम शब्द कुन हो?",
-  "options_ne": [
-   "आधुनिक",
-   "पुरानो",
-   "ऐतिहासिक",
-   "परम्परागत"
-  ],
+  "options_ne": null,
   "explanation_ne": "आधुनिक 'ancient' को विलोम हो।"
  },
  {

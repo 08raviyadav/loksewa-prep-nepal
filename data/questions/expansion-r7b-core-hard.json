@@ -10959,12 +10959,7 @@
    "hold",
    "forsake"
   ],
-  "options_ne": [
-   "राख्नु",
-   "माया गर्नु",
-   "समात्नु",
-   "त्याग्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'forsake' is the closest in meaning to 'Abandon'.",
   "explanation_ne": "'forsake' भनेको 'Abandon' को नजिकको अर्थ हो।",
@@ -10993,12 +10988,7 @@
    "safe",
    "harmless"
   ],
-  "options_ne": [
-   "हल्का",
-   "घातक",
-   "सुरक्षित",
-   "हानिरहित"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'deadly' is the closest in meaning to 'Fatal'.",
   "explanation_ne": "'deadly' भनेको 'Fatal' को नजिकको अर्थ हो।",
@@ -11027,12 +11017,7 @@
    "active",
    "busy"
   ],
-  "options_ne": [
-   "परिश्रमी",
-   "अल्छी",
-   "सक्रिय",
-   "व्यस्त"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'lazy' is the closest in meaning to 'Idle'.",
   "explanation_ne": "'lazy' भनेको 'Idle' को नजिकको अर्थ हो।",
@@ -11061,12 +11046,7 @@
    "happy",
    "miserable"
   ],
-  "options_ne": [
-   "दुःखी",
-   "उदास",
-   "खुसी",
-   "दयनीय"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'happy' is the closest in meaning to 'Joyful'.",
   "explanation_ne": "'happy' भनेको 'Joyful' को नजिकको अर्थ हो।",
@@ -11095,12 +11075,7 @@
    "vain",
    "arrogant"
   ],
-  "options_ne": [
-   "विनम्र",
-   "गर्वित",
-   "घमण्डी",
-   "अहङ्कारी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'humble' is the closest in meaning to 'Modest'.",
   "explanation_ne": "'humble' भनेको 'Modest' को नजिकको अर्थ हो।",
@@ -11129,12 +11104,7 @@
    "base",
    "dishonourable"
   ],
-  "options_ne": [
-   "नीच",
-   "सम्माननीय",
-   "तुच्छ",
-   "अपमानजनक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'honourable' is the closest in meaning to 'Noble'.",
   "explanation_ne": "'honourable' भनेको 'Noble' को नजिकको अर्थ हो।",
@@ -11163,12 +11133,7 @@
    "flexible",
    "yielding"
   ],
-  "options_ne": [
-   "जिद्दी",
-   "आज्ञाकारी",
-   "लचिलो",
-   "झुक्ने"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'stubborn' is the closest in meaning to 'Obstinate'.",
   "explanation_ne": "'stubborn' भनेको 'Obstinate' को नजिकको अर्थ हो।",
@@ -11197,12 +11162,7 @@
    "vague",
    "rough"
   ],
-  "options_ne": [
-   "ठ्याक्कै",
-   "अशुद्ध",
-   "अस्पष्ट",
-   "खस्रो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'exact' is the closest in meaning to 'Precise'.",
   "explanation_ne": "'exact' भनेको 'Precise' को नजिकको अर्थ हो।",
@@ -11231,12 +11191,7 @@
    "scarce",
    "frequent"
   ],
-  "options_ne": [
-   "सामान्य",
-   "प्रचुर",
-   "दुर्लभ",
-   "बारम्बार"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'scarce' is the closest in meaning to 'Rare'.",
   "explanation_ne": "'scarce' भनेको 'Rare' को नजिकको अर्थ हो।",
@@ -11265,12 +11220,7 @@
    "opaque",
    "murky"
   ],
-  "options_ne": [
-   "बादल लागेको",
-   "स्पष्ट",
-   "अपारदर्शी",
-   "धमिलो"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'clear' is the closest in meaning to 'Transparent'.",
   "explanation_ne": "'clear' भनेको 'Transparent' को नजिकको अर्थ हो।",
@@ -11299,12 +11249,7 @@
    "merit",
    "vice"
   ],
-  "options_ne": [
-   "नैतिकता",
-   "असलपन",
-   "गुण",
-   "दुर्गुण"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'vice' is the opposite in meaning to 'Virtue'.",
   "explanation_ne": "'vice' भनेको 'Virtue' को विपरीत अर्थ हो।",
@@ -11333,12 +11278,7 @@
    "slavery",
    "independence"
   ],
-  "options_ne": [
-   "छनोट",
-   "स्वतन्त्रता",
-   "दासता",
-   "स्वाधीनता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'slavery' is the opposite in meaning to 'Freedom'.",
   "explanation_ne": "'slavery' भनेको 'Freedom' को विपरीत अर्थ हो।",
@@ -11367,12 +11307,7 @@
    "entry",
    "approach"
   ],
-  "options_ne": [
-   "प्रस्थान",
-   "आगमन",
-   "प्रवेश",
-   "नजिकिनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'departure' is the opposite in meaning to 'Arrival'.",
   "explanation_ne": "'departure' भनेको 'Arrival' को विपरीत अर्थ हो।",
@@ -11401,12 +11336,7 @@
    "vivid",
    "shining"
   ],
-  "options_ne": [
-   "जीवन्त",
-   "मधुरो",
-   "चम्किलो",
-   "चम्किरहेको"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'dull' is the opposite in meaning to 'Bright'.",
   "explanation_ne": "'dull' भनेको 'Bright' को विपरीत अर्थ हो।",
@@ -11538,12 +11468,7 @@
    "Ambidextrous",
    "Versatile"
   ],
-  "options_ne": [
-   "दक्ष",
-   "द्विअर्थी",
-   "दुवै हात चलाउन सक्ने",
-   "बहुमुखी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Ambidextrous' is the one-word term for: one who can use both hands equally well.",
   "explanation_ne": "One who can use both hands equally well का लागि एक शब्द 'Ambidextrous' हो।",
@@ -11573,12 +11498,7 @@
    "Polyglot",
    "Orator"
   ],
-  "options_ne": [
-   "भाषाविद्",
-   "द्विभाषी",
-   "बहुभाषी",
-   "वक्ता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Polyglot' is the one-word term for: a person who speaks many languages.",
   "explanation_ne": "A person who speaks many languages का लागि एक शब्द 'Polyglot' हो।",
@@ -11607,12 +11527,7 @@
    "Democracy",
    "Oligarchy"
   ],
-  "options_ne": [
-   "निरङ्कुश शासन",
-   "राजतन्त्र",
-   "प्रजातन्त्र",
-   "कुलीनतन्त्र"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Democracy' is the one-word term for: government by the people.",
   "explanation_ne": "Government by the people का लागि एक शब्द 'Democracy' हो।",
@@ -11641,12 +11556,7 @@
    "Aquarium",
    "Apiary"
   ],
-  "options_ne": [
-   "पक्षीशाला",
-   "अस्तबल",
-   "माछाघर",
-   "मौरीघर"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Aviary' is the one-word term for: a place where birds are kept.",
   "explanation_ne": "A place where birds are kept का लागि एक शब्द 'Aviary' हो।",
@@ -11675,12 +11585,7 @@
    "Frugivore",
    "Herbivore"
   ],
-  "options_ne": [
-   "मांसाहारी",
-   "सर्वाहारी",
-   "फलाहारी",
-   "शाकाहारी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Omnivore' is the one-word term for: one who eats everything.",
   "explanation_ne": "One who eats everything का लागि एक शब्द 'Omnivore' हो।",
@@ -11709,12 +11614,7 @@
    "Secularist",
    "Theist"
   ],
-  "options_ne": [
-   "नास्तिक",
-   "अज्ञेयवादी",
-   "धर्मनिरपेक्षवादी",
-   "आस्तिक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Atheist' is the one-word term for: a person who does not believe in god.",
   "explanation_ne": "A person who does not believe in God का लागि एक शब्द 'Atheist' हो।",
@@ -11743,12 +11643,7 @@
    "Astrology",
    "Geology"
   ],
-  "options_ne": [
-   "खगोलशास्त्र",
-   "ब्रह्माण्डविज्ञान",
-   "ज्योतिषशास्त्र",
-   "भूविज्ञान"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Astronomy' is the one-word term for: the study of the stars and heavenly bodies.",
   "explanation_ne": "The study of the stars and heavenly bodies का लागि एक शब्द 'Astronomy' हो।",
@@ -11777,12 +11672,7 @@
    "Extempore",
    "Eloquence"
   ],
-  "options_ne": [
-   "भाषण",
-   "बहस",
-   "आशुभाषण",
-   "वाक्पटुता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Extempore' is the one-word term for: a speech made without preparation.",
   "explanation_ne": "A speech made without preparation का लागि एक शब्द 'Extempore' हो।",
@@ -11811,12 +11701,7 @@
    "Novice",
    "Veteran"
   ],
-  "options_ne": [
-   "विशेषज्ञ",
-   "उस्ताद",
-   "नौसिखिया",
-   "अनुभवी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Novice' is the one-word term for: one who is new to a profession.",
   "explanation_ne": "One who is new to a profession का लागि एक शब्द 'Novice' हो।",
@@ -11845,12 +11730,7 @@
    "Contagious",
    "Chronic"
   ],
-  "options_ne": [
-   "घातक",
-   "वंशाणुगत",
-   "सङ्क्रामक",
-   "दीर्घकालीन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Contagious' is the one-word term for: a disease that spreads by contact.",
   "explanation_ne": "A disease that spreads by contact का लागि एक शब्द 'Contagious' हो।",
@@ -11879,12 +11759,7 @@
    "Librarian",
    "Author"
   ],
-  "options_ne": [
-   "पुस्तकप्रेमी",
-   "किताबको कीरा",
-   "पुस्तकालयाध्यक्ष",
-   "लेखक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Bibliophile' is the one-word term for: a person who loves books.",
   "explanation_ne": "A person who loves books का लागि एक शब्द 'Bibliophile' हो।",
@@ -11913,12 +11788,7 @@
    "Polyglot",
    "Bilingual"
   ],
-  "options_ne": [
-   "बहुभाषिक",
-   "एकभाषिक",
-   "बहुभाषी",
-   "द्विभाषी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'Bilingual' is the one-word term for: one who can speak two languages.",
   "explanation_ne": "One who can speak two languages का लागि एक शब्द 'Bilingual' हो।",
@@ -11947,12 +11817,7 @@
    "Dormitory",
    "Sanctuary"
   ],
-  "options_ne": [
-   "शवगृह",
-   "चिहान",
-   "छात्रावास",
-   "शरणस्थल"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Mortuary' is the one-word term for: a place where dead bodies are kept.",
   "explanation_ne": "A place where dead bodies are kept का लागि एक शब्द 'Mortuary' हो।",
@@ -11981,12 +11846,7 @@
    "Anarchy",
    "Monarchy"
   ],
-  "options_ne": [
-   "प्रजातन्त्र",
-   "कुलीनतन्त्र",
-   "अराजकता",
-   "राजतन्त्र"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Oligarchy' is the one-word term for: government by a small group of people.",
   "explanation_ne": "Government by a small group of people का लागि एक शब्द 'Oligarchy' हो।",
@@ -12015,12 +11875,7 @@
    "Misogynist",
    "Philanthropist"
   ],
-  "options_ne": [
-   "मानवद्वेषी",
-   "निःस्वार्थी",
-   "स्त्रीद्वेषी",
-   "परोपकारी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'Misanthrope' is the one-word term for: one who hates mankind.",
   "explanation_ne": "One who hates mankind का लागि एक शब्द 'Misanthrope' हो।",
@@ -18214,12 +18069,7 @@
    "Omniscient",
    "Omnipotent"
   ],
-  "options_ne": [
-   "सर्वव्यापी",
-   "अपराजेय",
-   "सर्वज्ञ",
-   "सर्वशक्तिमान"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Omnipotent means all-powerful.",
   "explanation_ne": "Omnipotent भनेको सर्वशक्तिमान हो।",
@@ -18246,12 +18096,7 @@
    "Omnipresent",
    "Omniscient"
   ],
-  "options_ne": [
-   "सर्वशक्तिमान",
-   "सार्वभौमिक",
-   "सर्वव्यापी",
-   "सर्वज्ञ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Omnipresent means present everywhere.",
   "explanation_ne": "Omnipresent भनेको सर्वत्र उपस्थित हुनु हो।",
@@ -18278,12 +18123,7 @@
    "Invisible",
    "Invincible"
   ],
-  "options_ne": [
-   "अभेद्य",
-   "अविश्वसनीय",
-   "अदृश्य",
-   "अपराजेय"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Invincible means unable to be defeated.",
   "explanation_ne": "Invincible भनेको अपराजेय हुनु हो।",

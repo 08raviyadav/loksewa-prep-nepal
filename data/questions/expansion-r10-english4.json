@@ -23,12 +23,7 @@
    "Silence",
    "Pronunciation"
   ],
-  "options_ne": [
-   "स्वर",
-   "बल",
-   "मौनता",
-   "उच्चारण"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'accent' means the same as 'pronunciation'.",
   "explanation_ne": "‘accent’ को अर्थ ‘pronunciation’ हो।",
@@ -93,12 +88,7 @@
    "Pronunciation",
    "Tone"
   ],
-  "options_ne": [
-   "मौनता",
-   "बल",
-   "उच्चारण",
-   "स्वर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'accent' is 'tone'.",
   "explanation_ne": "‘accent’ को विलोम ‘tone’ हो।",
@@ -198,12 +188,7 @@
    "accent",
    "behave"
   ],
-  "options_ne": [
-   "युद्ध",
-   "ओछ्यान",
-   "उच्चारण",
-   "व्यवहार गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'accent' means 'उच्चारण'.",
   "explanation_ne": "‘accent’ को अर्थ ‘उच्चारण’ हो।",
@@ -233,12 +218,7 @@
    "Discord",
    "Harmony"
   ],
-  "options_ne": [
-   "द्वन्द्व",
-   "सहमति",
-   "विवाद",
-   "मेलमिलाप"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'accord' means the same as 'agreement'.",
   "explanation_ne": "‘accord’ को अर्थ ‘agreement’ हो।",
@@ -303,12 +283,7 @@
    "Agreement",
    "Conflict"
   ],
-  "options_ne": [
-   "मेलमिलाप",
-   "विवाद",
-   "सहमति",
-   "द्वन्द्व"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'accord' is 'discord'.",
   "explanation_ne": "‘accord’ को विलोम ‘discord’ हो।",
@@ -408,12 +383,7 @@
    "accord",
    "acid"
   ],
-  "options_ne": [
-   "तितो",
-   "मनोवृत्ति",
-   "सहमति",
-   "अम्ल"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'accord' means 'सहमति'.",
   "explanation_ne": "‘accord’ को अर्थ ‘सहमति’ हो।",
@@ -443,12 +413,7 @@
    "Ledger",
    "Story"
   ],
-  "options_ne": [
-   "अभिलेख",
-   "बिल",
-   "खाता",
-   "कथा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'account' means the same as 'record'.",
   "explanation_ne": "‘account’ को अर्थ ‘record’ हो।",
@@ -513,12 +478,7 @@
    "Ledger",
    "Record"
   ],
-  "options_ne": [
-   "बिल",
-   "कथा",
-   "खाता",
-   "अभिलेख"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'account' is 'ledger'.",
   "explanation_ne": "‘account’ को विलोम ‘ledger’ हो।",
@@ -618,12 +578,7 @@
    "breath",
    "account"
   ],
-  "options_ne": [
-   "जलाउनु",
-   "हाड",
-   "श्वास",
-   "खाता"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'account' means 'खाता'.",
   "explanation_ne": "‘account’ को अर्थ ‘खाता’ हो।",
@@ -653,12 +608,7 @@
    "Alkaline",
    "Sour"
   ],
-  "options_ne": [
-   "गुलियो",
-   "तीखो",
-   "क्षारीय",
-   "अमिलो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'acid' means the same as 'sour'.",
   "explanation_ne": "‘acid’ को अर्थ ‘sour’ हो।",
@@ -723,12 +673,7 @@
    "Sour",
    "Alkaline"
   ],
-  "options_ne": [
-   "तीखो",
-   "गुलियो",
-   "अमिलो",
-   "क्षारीय"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'acid' is 'alkaline'.",
   "explanation_ne": "‘acid’ को विलोम ‘alkaline’ हो।",
@@ -828,12 +773,7 @@
    "bind",
    "acid"
   ],
-  "options_ne": [
-   "उमाल्नु",
-   "खैरो",
-   "बाँध्नु",
-   "अम्ल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'acid' means 'अम्ल'.",
   "explanation_ne": "‘acid’ को अर्थ ‘अम्ल’ हो।",
@@ -863,12 +803,7 @@
    "Lose",
    "Gain"
   ],
-  "options_ne": [
-   "प्राप्त गर्नु",
-   "दिनु",
-   "गुमाउनु",
-   "पाउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'acquire' means the same as 'obtain'.",
   "explanation_ne": "‘acquire’ को अर्थ ‘obtain’ हो।",
@@ -933,12 +868,7 @@
    "Lose",
    "Gain"
   ],
-  "options_ne": [
-   "दिनु",
-   "प्राप्त गर्नु",
-   "गुमाउनु",
-   "पाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'acquire' is 'lose'.",
   "explanation_ne": "‘acquire’ को विलोम ‘lose’ हो।",
@@ -1038,12 +968,7 @@
    "False",
    "Imaginary"
   ],
-  "options_ne": [
-   "वास्तविक",
-   "साँचो",
-   "झुटो",
-   "काल्पनिक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'actual' means the same as 'real'.",
   "explanation_ne": "‘actual’ को अर्थ ‘real’ हो।",
@@ -1108,12 +1033,7 @@
    "Real",
    "False"
   ],
-  "options_ne": [
-   "काल्पनिक",
-   "साँचो",
-   "वास्तविक",
-   "झुटो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'actual' is 'false'.",
   "explanation_ne": "‘actual’ को विलोम ‘false’ हो।",
@@ -1213,12 +1133,7 @@
    "Dull",
    "Mild"
   ],
-  "options_ne": [
-   "तीखो",
-   "गम्भीर",
-   "मन्द",
-   "हल्का"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'acute' means the same as 'sharp'.",
   "explanation_ne": "‘acute’ को अर्थ ‘sharp’ हो।",
@@ -1283,12 +1198,7 @@
    "Dull",
    "Severe"
   ],
-  "options_ne": [
-   "तीखो",
-   "हल्का",
-   "मन्द",
-   "गम्भीर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'acute' is 'dull'.",
   "explanation_ne": "‘acute’ को विलोम ‘dull’ हो।",
@@ -1388,12 +1298,7 @@
    "Remove",
    "Subtract"
   ],
-  "options_ne": [
-   "जोड्नु",
-   "बढाउनु",
-   "हटाउनु",
-   "घटाउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'add' means the same as 'sum'.",
   "explanation_ne": "‘add’ को अर्थ ‘sum’ हो।",
@@ -1458,12 +1363,7 @@
    "Subtract",
    "Remove"
   ],
-  "options_ne": [
-   "बढाउनु",
-   "जोड्नु",
-   "घटाउनु",
-   "हटाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'add' is 'subtract'.",
   "explanation_ne": "‘add’ को विलोम ‘subtract’ हो।",
@@ -1563,12 +1463,7 @@
    "add",
    "bless"
   ],
-  "options_ne": [
-   "दुवै",
-   "तल्लो भाग",
-   "थप्नु",
-   "आशीर्वाद दिनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'add' means 'थप्नु'.",
   "explanation_ne": "‘add’ को अर्थ ‘थप्नु’ हो।",
@@ -1598,12 +1493,7 @@
    "Accept",
    "Abandon"
   ],
-  "options_ne": [
-   "अँगाल्नु",
-   "अस्वीकार गर्नु",
-   "स्वीकार्नु",
-   "त्याग्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'adopt' means the same as 'embrace'.",
   "explanation_ne": "‘adopt’ को अर्थ ‘embrace’ हो।",
@@ -1668,12 +1558,7 @@
    "Abandon",
    "Accept"
   ],
-  "options_ne": [
-   "अस्वीकार गर्नु",
-   "अँगाल्नु",
-   "त्याग्नु",
-   "स्वीकार्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'adopt' is 'reject'.",
   "explanation_ne": "‘adopt’ को विलोम ‘reject’ हो।",
@@ -1773,12 +1658,7 @@
    "bulk",
    "brain"
   ],
-  "options_ne": [
-   "अपनाउनु",
-   "ओछ्यान",
-   "थोक",
-   "मस्तिष्क"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'adopt' means 'अपनाउनु'.",
   "explanation_ne": "‘adopt’ को अर्थ ‘अपनाउनु’ हो।",
@@ -1808,12 +1688,7 @@
    "Mature",
    "Child"
   ],
-  "options_ne": [
-   "नाबालक",
-   "वयस्क",
-   "परिपक्व",
-   "बालक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'adult' means the same as 'grown-up'.",
   "explanation_ne": "‘adult’ को अर्थ ‘grown-up’ हो।",
@@ -1878,12 +1753,7 @@
    "Grown-up",
    "Mature"
   ],
-  "options_ne": [
-   "नाबालक",
-   "बालक",
-   "वयस्क",
-   "परिपक्व"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'adult' is 'child'.",
   "explanation_ne": "‘adult’ को विलोम ‘child’ हो।",
@@ -1983,12 +1853,7 @@
    "adult",
    "alien"
   ],
-  "options_ne": [
-   "भाइ",
-   "थोक",
-   "वयस्क",
-   "विदेशी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'adult' means 'वयस्क'.",
   "explanation_ne": "‘adult’ को अर्थ ‘वयस्क’ हो।",
@@ -2018,12 +1883,7 @@
    "Proceed",
    "Progress"
   ],
-  "options_ne": [
-   "पछाडि हट्नु",
-   "अवकाश लिनु",
-   "अगाडि बढ्नु",
-   "प्रगति गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'advance' means the same as 'progress'.",
   "explanation_ne": "‘advance’ को अर्थ ‘progress’ हो।",
@@ -2088,12 +1948,7 @@
    "Retire",
    "Progress"
   ],
-  "options_ne": [
-   "अगाडि बढ्नु",
-   "पछाडि हट्नु",
-   "अवकाश लिनु",
-   "प्रगति गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'advance' is 'retreat'.",
   "explanation_ne": "‘advance’ को विलोम ‘retreat’ हो।",
@@ -2193,12 +2048,7 @@
    "blue",
    "baggage"
   ],
-  "options_ne": [
-   "आधार",
-   "अगाडि बढ्नु",
-   "नीलो",
-   "सामान"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'advance' means 'अगाडि बढ्नु'.",
   "explanation_ne": "‘advance’ को अर्थ ‘अगाडि बढ्नु’ हो।",
@@ -2228,12 +2078,7 @@
    "Safety",
    "Expedition"
   ],
-  "options_ne": [
-   "जोखिम",
-   "यात्रा",
-   "सुरक्षा",
-   "अभियान"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'adventure' means the same as 'expedition'.",
   "explanation_ne": "‘adventure’ को अर्थ ‘expedition’ हो।",
@@ -2298,12 +2143,7 @@
    "Expedition",
    "Journey"
   ],
-  "options_ne": [
-   "सुरक्षा",
-   "जोखिम",
-   "अभियान",
-   "यात्रा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'adventure' is 'journey'.",
   "explanation_ne": "‘adventure’ को विलोम ‘journey’ हो।",
@@ -2403,12 +2243,7 @@
    "bee",
    "boil"
   ],
-  "options_ne": [
-   "साहसिक कार्य",
-   "सौन्दर्य",
-   "मौरी",
-   "उमाल्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'adventure' means 'साहसिक कार्य'.",
   "explanation_ne": "‘adventure’ को अर्थ ‘साहसिक कार्य’ हो।",
@@ -2438,12 +2273,7 @@
    "Plead",
    "Condemn"
   ],
-  "options_ne": [
-   "समर्थन गर्नु",
-   "विरोध गर्नु",
-   "विन्ती गर्नु",
-   "निन्दा गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'advocate' means the same as 'support'.",
   "explanation_ne": "‘advocate’ को अर्थ ‘support’ हो।",
@@ -2508,12 +2338,7 @@
    "Condemn",
    "Oppose"
   ],
-  "options_ne": [
-   "समर्थन गर्नु",
-   "विन्ती गर्नु",
-   "निन्दा गर्नु",
-   "विरोध गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'advocate' is 'oppose'.",
   "explanation_ne": "‘advocate’ को विलोम ‘oppose’ हो।",
@@ -2613,12 +2438,7 @@
    "beat",
    "bill"
   ],
-  "options_ne": [
-   "वकालत गर्नु",
-   "अपिल",
-   "पिट्नु",
-   "बिल"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'advocate' means 'वकालत गर्नु'.",
   "explanation_ne": "‘advocate’ को अर्थ ‘वकालत गर्नु’ हो।",
@@ -2648,12 +2468,7 @@
    "Low",
    "Ground"
   ],
-  "options_ne": [
-   "उच्च",
-   "हवाइजहाजमा",
-   "निम्न",
-   "जमिन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'aerial' means the same as 'airborne'.",
   "explanation_ne": "‘aerial’ को अर्थ ‘airborne’ हो।",
@@ -2718,12 +2533,7 @@
    "Low",
    "Lofty"
   ],
-  "options_ne": [
-   "जमिन",
-   "हवाइजहाजमा",
-   "निम्न",
-   "उच्च"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'aerial' is 'ground'.",
   "explanation_ne": "‘aerial’ को विलोम ‘ground’ हो।",
@@ -2823,12 +2633,7 @@
    "branch",
    "aerial"
   ],
-  "options_ne": [
-   "लङ्गर",
-   "बाँधिएको",
-   "हाँगा",
-   "हवाई"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'aerial' means 'हवाई'.",
   "explanation_ne": "‘aerial’ को अर्थ ‘हवाई’ हो।",
@@ -2858,12 +2663,7 @@
    "Cause",
    "Impact"
   ],
-  "options_ne": [
-   "प्रभाव पार्नु",
-   "परिणाम",
-   "कारण",
-   "प्रभाव"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'affect' means the same as 'influence'.",
   "explanation_ne": "‘affect’ को अर्थ ‘influence’ हो।",
@@ -2928,12 +2728,7 @@
    "Effect",
    "Influence"
   ],
-  "options_ne": [
-   "कारण",
-   "प्रभाव",
-   "परिणाम",
-   "प्रभाव पार्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'affect' is 'effect'.",
   "explanation_ne": "‘affect’ को विलोम ‘effect’ हो।",
@@ -3033,12 +2828,7 @@
    "bubble",
    "ban"
   ],
-  "options_ne": [
-   "असर पार्नु",
-   "कालो",
-   "बुलबुला",
-   "प्रतिबन्ध"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'affect' means 'असर पार्नु'.",
   "explanation_ne": "‘affect’ को अर्थ ‘असर पार्नु’ हो।",
@@ -3068,12 +2858,7 @@
    "Fail",
    "Bear"
   ],
-  "options_ne": [
-   "इन्कार गर्नु",
-   "व्यवस्थापन गर्नु",
-   "असफल हुनु",
-   "सहनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'afford' means the same as 'manage'.",
   "explanation_ne": "‘afford’ को अर्थ ‘manage’ हो।",
@@ -3138,12 +2923,7 @@
    "Bear",
    "Manage"
   ],
-  "options_ne": [
-   "इन्कार गर्नु",
-   "असफल हुनु",
-   "सहनु",
-   "व्यवस्थापन गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'afford' is 'fail'.",
   "explanation_ne": "‘afford’ को विलोम ‘fail’ हो।",
@@ -3243,12 +3023,7 @@
    "appoint",
    "book"
   ],
-  "options_ne": [
-   "पङ्क्तिबद्ध गर्नु",
-   "खर्च धान्न सक्नु",
-   "नियुक्त गर्नु",
-   "किताब"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'afford' means 'खर्च धान्न सक्नु'.",
   "explanation_ne": "‘afford’ को अर्थ ‘खर्च धान्न सक्नु’ हो।",
@@ -3278,12 +3053,7 @@
    "Representative",
    "Client"
   ],
-  "options_ne": [
-   "दलाल",
-   "अधिकारी",
-   "प्रतिनिधि",
-   "ग्राहक"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'agent' means the same as 'representative'.",
   "explanation_ne": "‘agent’ को अर्थ ‘representative’ हो।",
@@ -3348,12 +3118,7 @@
    "Representative",
    "Broker"
   ],
-  "options_ne": [
-   "अधिकारी",
-   "ग्राहक",
-   "प्रतिनिधि",
-   "दलाल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'agent' is 'broker'.",
   "explanation_ne": "‘agent’ को विलोम ‘broker’ हो।",
@@ -3453,12 +3218,7 @@
    "agent",
    "brother"
   ],
-  "options_ne": [
-   "लङ्गर",
-   "हावा चल्नु",
-   "एजेन्ट",
-   "भाइ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'agent' means 'एजेन्ट'.",
   "explanation_ne": "‘agent’ को अर्थ ‘एजेन्ट’ हो।",
@@ -3488,12 +3248,7 @@
    "Nimble",
    "Swift"
   ],
-  "options_ne": [
-   "ढिलो",
-   "अनाडी",
-   "चपल",
-   "छिटो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'agile' means the same as 'nimble'.",
   "explanation_ne": "‘agile’ को अर्थ ‘nimble’ हो।",
@@ -3558,12 +3313,7 @@
    "Slow",
    "Swift"
   ],
-  "options_ne": [
-   "अनाडी",
-   "चपल",
-   "ढिलो",
-   "छिटो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'agile' is 'slow'.",
   "explanation_ne": "‘agile’ को विलोम ‘slow’ हो।",
@@ -3663,12 +3413,7 @@
    "bread",
    "balance"
   ],
-  "options_ne": [
-   "फुर्तिलो",
-   "ब्रस",
-   "रोटी",
-   "सन्तुलन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'agile' means 'फुर्तिलो'.",
   "explanation_ne": "‘agile’ को अर्थ ‘फुर्तिलो’ हो।",
@@ -3698,12 +3443,7 @@
    "Joy",
    "Pain"
   ],
-  "options_ne": [
-   "राहत",
-   "यातना",
-   "खुसी",
-   "दुखाइ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'agony' means the same as 'pain'.",
   "explanation_ne": "‘agony’ को अर्थ ‘pain’ हो।",
@@ -3768,12 +3508,7 @@
    "Pain",
    "Torment"
   ],
-  "options_ne": [
-   "राहत",
-   "खुसी",
-   "दुखाइ",
-   "यातना"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'agony' is 'torment'.",
   "explanation_ne": "‘agony’ को विलोम ‘torment’ हो।",
@@ -3873,12 +3608,7 @@
    "Breeze",
    "Wind"
   ],
-  "options_ne": [
-   "पानी",
-   "वायुमण्डल",
-   "हल्का हावा",
-   "हावा"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'air' means the same as 'atmosphere'.",
   "explanation_ne": "‘air’ को अर्थ ‘atmosphere’ हो।",
@@ -3943,12 +3673,7 @@
    "Wind",
    "Breeze"
   ],
-  "options_ne": [
-   "वायुमण्डल",
-   "पानी",
-   "हावा",
-   "हल्का हावा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'air' is 'breeze'.",
   "explanation_ne": "‘air’ को विलोम ‘breeze’ हो।",
@@ -4048,12 +3773,7 @@
    "air",
    "awake"
   ],
-  "options_ne": [
-   "भाइ",
-   "पिट्नु",
-   "हावा",
-   "ब्यूँझेको"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'air' means 'हावा'.",
   "explanation_ne": "‘air’ को अर्थ ‘हावा’ हो।",
@@ -4083,12 +3803,7 @@
    "Strange",
    "Native"
   ],
-  "options_ne": [
-   "विदेशी",
-   "परिचित",
-   "अनौठो",
-   "स्वदेशी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'alien' means the same as 'foreign'.",
   "explanation_ne": "‘alien’ को अर्थ ‘foreign’ हो।",
@@ -4153,12 +3868,7 @@
    "Foreign",
    "Familiar"
   ],
-  "options_ne": [
-   "स्वदेशी",
-   "अनौठो",
-   "विदेशी",
-   "परिचित"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'alien' is 'native'.",
   "explanation_ne": "‘alien’ को विलोम ‘native’ हो।",
@@ -4258,12 +3968,7 @@
    "Line up",
    "Scatter"
   ],
-  "options_ne": [
-   "व्यवस्थित गर्नु",
-   "बेठीक गर्नु",
-   "लाइनमा राख्नु",
-   "छरिनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'align' means the same as 'arrange'.",
   "explanation_ne": "‘align’ को अर्थ ‘arrange’ हो।",
@@ -4328,12 +4033,7 @@
    "Arrange",
    "Misalign"
   ],
-  "options_ne": [
-   "लाइनमा राख्नु",
-   "छरिनु",
-   "व्यवस्थित गर्नु",
-   "बेठीक गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'align' is 'misalign'.",
   "explanation_ne": "‘align’ को विलोम ‘misalign’ हो।",
@@ -4433,12 +4133,7 @@
    "acute",
    "align"
   ],
-  "options_ne": [
-   "भाइ",
-   "भाँच्नु",
-   "तीव्र",
-   "पङ्क्तिबद्ध गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'align' means 'पङ्क्तिबद्ध गर्नु'.",
   "explanation_ne": "‘align’ को अर्थ ‘पङ्क्तिबद्ध गर्नु’ हो।",
@@ -4468,12 +4163,7 @@
    "Partner",
    "Foe"
   ],
-  "options_ne": [
-   "मित्र",
-   "शत्रु",
-   "साझेदार",
-   "विरोधी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'ally' means the same as 'friend'.",
   "explanation_ne": "‘ally’ को अर्थ ‘friend’ हो।",
@@ -4538,12 +4228,7 @@
    "Foe",
    "Friend"
   ],
-  "options_ne": [
-   "शत्रु",
-   "साझेदार",
-   "विरोधी",
-   "मित्र"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'ally' is 'enemy'.",
   "explanation_ne": "‘ally’ को विलोम ‘enemy’ हो।",
@@ -4643,12 +4328,7 @@
    "Exactly",
    "Hardly"
   ],
-  "options_ne": [
-   "प्रायः",
-   "पूर्ण रूपमा",
-   "ठ्याक्कै",
-   "मुश्किलले"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'almost' means the same as 'nearly'.",
   "explanation_ne": "‘almost’ को अर्थ ‘nearly’ हो।",
@@ -4713,12 +4393,7 @@
    "Completely",
    "Exactly"
   ],
-  "options_ne": [
-   "मुश्किलले",
-   "प्रायः",
-   "पूर्ण रूपमा",
-   "ठ्याक्कै"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'almost' is 'exactly'.",
   "explanation_ne": "‘almost’ को विलोम ‘exactly’ हो।",
@@ -4818,12 +4493,7 @@
    "berry",
    "army"
   ],
-  "options_ne": [
-   "लगभग",
-   "जीवाणु",
-   "बेरी",
-   "सेना"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'almost' means 'लगभग'.",
   "explanation_ne": "‘almost’ को अर्थ ‘लगभग’ हो।",
@@ -4853,12 +4523,7 @@
    "Forever",
    "Constantly"
   ],
-  "options_ne": [
-   "कहिल्यै होइन",
-   "विरलै",
-   "सधैँभरि",
-   "निरन्तर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'always' means the same as 'forever'.",
   "explanation_ne": "‘always’ को अर्थ ‘forever’ हो।",
@@ -4923,12 +4588,7 @@
    "Never",
    "Constantly"
   ],
-  "options_ne": [
-   "विरलै",
-   "सधैँभरि",
-   "कहिल्यै होइन",
-   "निरन्तर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'always' is 'never'.",
   "explanation_ne": "‘always’ को विलोम ‘never’ हो।",
@@ -5028,12 +4688,7 @@
    "acquire",
    "birth"
   ],
-  "options_ne": [
-   "भाँच्नु",
-   "सधैँ",
-   "प्राप्त गर्नु",
-   "जन्म"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'always' means 'सधैँ'.",
   "explanation_ne": "‘always’ को अर्थ ‘सधैँ’ हो।",
@@ -5063,12 +4718,7 @@
    "Sail",
    "Mooring"
   ],
-  "options_ne": [
-   "छोड्नु",
-   "समात्नु",
-   "पाल",
-   "लङ्गर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'anchor' means the same as 'mooring'.",
   "explanation_ne": "‘anchor’ को अर्थ ‘mooring’ हो।",
@@ -5133,12 +4783,7 @@
    "Mooring",
    "Sail"
   ],
-  "options_ne": [
-   "छोड्नु",
-   "समात्नु",
-   "लङ्गर",
-   "पाल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'anchor' is 'sail'.",
   "explanation_ne": "‘anchor’ को विलोम ‘sail’ हो।",
@@ -5238,12 +4883,7 @@
    "background",
    "anchor"
   ],
-  "options_ne": [
-   "पक्राउ गर्नु",
-   "बोली लगाउनु",
-   "पृष्ठभूमि",
-   "लङ्गर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'anchor' means 'लङ्गर'.",
   "explanation_ne": "‘anchor’ को अर्थ ‘लङ्गर’ हो।",
@@ -5273,12 +4913,7 @@
    "Excuse",
    "Insult"
   ],
-  "options_ne": [
-   "माफ गर्नुहोस्",
-   "पश्चात्ताप",
-   "बहाना",
-   "अपमान"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'apology' means the same as 'regret'.",
   "explanation_ne": "‘apology’ को अर्थ ‘regret’ हो।",
@@ -5343,12 +4978,7 @@
    "Excuse",
    "Regret"
   ],
-  "options_ne": [
-   "अपमान",
-   "माफ गर्नुहोस्",
-   "बहाना",
-   "पश्चात्ताप"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'apology' is 'excuse'.",
   "explanation_ne": "‘apology’ को विलोम ‘excuse’ हो।",
@@ -5448,12 +5078,7 @@
    "Nominate",
    "Dismiss"
   ],
-  "options_ne": [
-   "हटाउनु",
-   "खटाउनु",
-   "मनोनयन गर्नु",
-   "बर्खास्त गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'appoint' means the same as 'assign'.",
   "explanation_ne": "‘appoint’ को अर्थ ‘assign’ हो।",
@@ -5518,12 +5143,7 @@
    "Dismiss",
    "Remove"
   ],
-  "options_ne": [
-   "मनोनयन गर्नु",
-   "खटाउनु",
-   "बर्खास्त गर्नु",
-   "हटाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'appoint' is 'dismiss'.",
   "explanation_ne": "‘appoint’ को विलोम ‘dismiss’ हो।",
@@ -5623,12 +5243,7 @@
    "blind",
    "both"
   ],
-  "options_ne": [
-   "बाँध्नु",
-   "नियुक्त गर्नु",
-   "अन्धो",
-   "दुवै"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'appoint' means 'नियुक्त गर्नु'.",
   "explanation_ne": "‘appoint’ को अर्थ ‘नियुक्त गर्नु’ हो।",
@@ -5658,12 +5273,7 @@
    "Avoid",
    "Come"
   ],
-  "options_ne": [
-   "जानु",
-   "नजिक जानु",
-   "बेवास्ता गर्नु",
-   "आउनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'approach' means the same as 'near'.",
   "explanation_ne": "‘approach’ को अर्थ ‘near’ हो।",
@@ -5728,12 +5338,7 @@
    "Near",
    "Leave"
   ],
-  "options_ne": [
-   "बेवास्ता गर्नु",
-   "आउनु",
-   "नजिक जानु",
-   "जानु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'approach' is 'leave'.",
   "explanation_ne": "‘approach’ को विलोम ‘leave’ हो।",
@@ -5833,12 +5438,7 @@
    "basic",
    "adopt"
   ],
-  "options_ne": [
-   "सीमा",
-   "नजिक पुग्नु",
-   "आधारभूत",
-   "अपनाउनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'approach' means 'नजिक पुग्नु'.",
   "explanation_ne": "‘approach’ को अर्थ ‘नजिक पुग्नु’ हो।",
@@ -5868,12 +5468,7 @@
    "Designer",
    "Builder"
   ],
-  "options_ne": [
-   "मजदुर",
-   "योजनाकार",
-   "डिजाइनर",
-   "निर्माणकर्ता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'architect' means the same as 'designer'.",
   "explanation_ne": "‘architect’ को अर्थ ‘designer’ हो।",
@@ -5938,12 +5533,7 @@
    "Worker",
    "Builder"
   ],
-  "options_ne": [
-   "योजनाकार",
-   "डिजाइनर",
-   "मजदुर",
-   "निर्माणकर्ता"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'architect' is 'builder'.",
   "explanation_ne": "‘architect’ को विलोम ‘builder’ हो।",
@@ -6043,12 +5633,7 @@
    "bubble",
    "blood"
   ],
-  "options_ne": [
-   "बहस गर्नु",
-   "वास्तुकार",
-   "बुलबुला",
-   "रगत"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'architect' means 'वास्तुकार'.",
   "explanation_ne": "‘architect’ को अर्थ ‘वास्तुकार’ हो।",
@@ -6078,12 +5663,7 @@
    "Unarmed",
    "Defenceless"
   ],
-  "options_ne": [
-   "सुसज्जित",
-   "हतियारयुक्त",
-   "निहत्था",
-   "रक्षाहीन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'armed' means the same as 'weaponed'.",
   "explanation_ne": "‘armed’ को अर्थ ‘weaponed’ हो।",
@@ -6148,12 +5728,7 @@
    "Defenceless",
    "Unarmed"
   ],
-  "options_ne": [
-   "सुसज्जित",
-   "हतियारयुक्त",
-   "रक्षाहीन",
-   "निहत्था"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'armed' is 'unarmed'.",
   "explanation_ne": "‘armed’ को विलोम ‘unarmed’ हो।",
@@ -6253,12 +5828,7 @@
    "bacteria",
    "artist"
   ],
-  "options_ne": [
-   "व्यवहार गर्नु",
-   "हतियारधारी",
-   "जीवाणु",
-   "कलाकार"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'armed' means 'हतियारधारी'.",
   "explanation_ne": "‘armed’ को अर्थ ‘हतियारधारी’ हो।",
@@ -6288,12 +5858,7 @@
    "Organise",
    "Scatter"
   ],
-  "options_ne": [
-   "अव्यवस्था गर्नु",
-   "क्रम मिलाउनु",
-   "आयोजना गर्नु",
-   "छरिनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'arrange' means the same as 'organise'.",
   "explanation_ne": "‘arrange’ को अर्थ ‘organise’ हो।",
@@ -6358,12 +5923,7 @@
    "Order",
    "Scatter"
   ],
-  "options_ne": [
-   "आयोजना गर्नु",
-   "अव्यवस्था गर्नु",
-   "क्रम मिलाउनु",
-   "छरिनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'arrange' is 'disorder'.",
   "explanation_ne": "‘arrange’ को विलोम ‘disorder’ हो।",
@@ -6463,12 +6023,7 @@
    "align",
    "blame"
   ],
-  "options_ne": [
-   "व्यवस्थित गर्नु",
-   "उमाल्नु",
-   "पङ्क्तिबद्ध गर्नु",
-   "दोष"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'arrange' means 'व्यवस्थित गर्नु'.",
   "explanation_ne": "‘arrange’ को अर्थ ‘व्यवस्थित गर्नु’ हो।",
@@ -6498,12 +6053,7 @@
    "Climate",
    "Vacuum"
   ],
-  "options_ne": [
-   "वातावरण",
-   "हावा",
-   "जलवायु",
-   "शून्य"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'atmosphere' means the same as 'air'.",
   "explanation_ne": "‘atmosphere’ को अर्थ ‘air’ हो।",
@@ -6568,12 +6118,7 @@
    "Air",
    "Vacuum"
   ],
-  "options_ne": [
-   "वातावरण",
-   "जलवायु",
-   "हावा",
-   "शून्य"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'atmosphere' is 'climate'.",
   "explanation_ne": "‘atmosphere’ को विलोम ‘climate’ हो।",
@@ -6673,12 +6218,7 @@
    "beauty",
    "argue"
   ],
-  "options_ne": [
-   "थप्नु",
-   "वायुमण्डल",
-   "सौन्दर्य",
-   "बहस गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'atmosphere' means 'वायुमण्डल'.",
   "explanation_ne": "‘atmosphere’ को अर्थ ‘वायुमण्डल’ हो।",
@@ -6708,12 +6248,7 @@
    "Crowd",
    "Listeners"
   ],
-  "options_ne": [
-   "दर्शकहरू",
-   "कलाकारहरू",
-   "भिड",
-   "सुन्नेहरू"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'audience' means the same as 'spectators'.",
   "explanation_ne": "‘audience’ को अर्थ ‘spectators’ हो।",
@@ -6778,12 +6313,7 @@
    "Crowd",
    "Listeners"
   ],
-  "options_ne": [
-   "दर्शकहरू",
-   "कलाकारहरू",
-   "भिड",
-   "सुन्नेहरू"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'audience' is 'crowd'.",
   "explanation_ne": "‘audience’ को विलोम ‘crowd’ हो।",
@@ -6883,12 +6413,7 @@
    "board",
    "air"
   ],
-  "options_ne": [
-   "श्रोता",
-   "भाइ",
-   "बोर्ड",
-   "हावा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'audience' means 'श्रोता'.",
   "explanation_ne": "‘audience’ को अर्थ ‘श्रोता’ हो।",
@@ -6918,12 +6443,7 @@
    "Control",
    "Power"
   ],
-  "options_ne": [
-   "अनुमति",
-   "कमजोरी",
-   "नियन्त्रण",
-   "शक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'authority' means the same as 'power'.",
   "explanation_ne": "‘authority’ को अर्थ ‘power’ हो।",
@@ -6988,12 +6508,7 @@
    "Power",
    "Control"
   ],
-  "options_ne": [
-   "कमजोरी",
-   "अनुमति",
-   "शक्ति",
-   "नियन्त्रण"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'authority' is 'control'.",
   "explanation_ne": "‘authority’ को विलोम ‘control’ हो।",
@@ -7093,12 +6608,7 @@
    "authority",
    "bush"
   ],
-  "options_ne": [
-   "निदाएको",
-   "हवाई",
-   "अधिकार",
-   "झाडी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'authority' means 'अधिकार'.",
   "explanation_ne": "‘authority’ को अर्थ ‘अधिकार’ हो।",
@@ -7128,12 +6638,7 @@
    "Handmade",
    "Manual"
   ],
-  "options_ne": [
-   "यान्त्रिक",
-   "स्वतः चल्ने",
-   "हातले बनाइएको",
-   "हातले गरिने"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'automatic' means the same as 'mechanical'.",
   "explanation_ne": "‘automatic’ को अर्थ ‘mechanical’ हो।",
@@ -7198,12 +6703,7 @@
    "Self-acting",
    "Manual"
   ],
-  "options_ne": [
-   "यान्त्रिक",
-   "हातले बनाइएको",
-   "स्वतः चल्ने",
-   "हातले गरिने"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'automatic' is 'manual'.",
   "explanation_ne": "‘automatic’ को विलोम ‘manual’ हो।",
@@ -7303,12 +6803,7 @@
    "attempt",
    "automatic"
   ],
-  "options_ne": [
-   "पक्ष",
-   "बटन",
-   "प्रयास",
-   "स्वचालित"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'automatic' means 'स्वचालित'.",
   "explanation_ne": "‘automatic’ को अर्थ ‘स्वचालित’ हो।",
@@ -7338,12 +6833,7 @@
    "Absent",
    "Unavailable"
   ],
-  "options_ne": [
-   "पहुँचयोग्य",
-   "खाली",
-   "अनुपस्थित",
-   "अनुपलब्ध"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'available' means the same as 'accessible'.",
   "explanation_ne": "‘available’ को अर्थ ‘accessible’ हो।",
@@ -7408,12 +6898,7 @@
    "Accessible",
    "Absent"
   ],
-  "options_ne": [
-   "खाली",
-   "अनुपलब्ध",
-   "पहुँचयोग्य",
-   "अनुपस्थित"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'available' is 'unavailable'.",
   "explanation_ne": "‘available’ को विलोम ‘unavailable’ हो।",
@@ -7513,12 +6998,7 @@
    "axis",
    "bank"
   ],
-  "options_ne": [
-   "उठ्नु",
-   "उपलब्ध",
-   "अक्ष",
-   "बैंक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'available' means 'उपलब्ध'.",
   "explanation_ne": "‘available’ को अर्थ ‘उपलब्ध’ हो।",
@@ -7548,12 +7028,7 @@
    "Graceful",
    "Clumsy"
   ],
-  "options_ne": [
-   "चिल्लो",
-   "असहज",
-   "सुन्दर",
-   "अनाडी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'awkward' means the same as 'clumsy'.",
   "explanation_ne": "‘awkward’ को अर्थ ‘clumsy’ हो।",
@@ -7618,12 +7093,7 @@
    "Graceful",
    "Clumsy"
   ],
-  "options_ne": [
-   "चिल्लो",
-   "असहज",
-   "सुन्दर",
-   "अनाडी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'awkward' is 'graceful'.",
   "explanation_ne": "‘awkward’ को विलोम ‘graceful’ हो।",
@@ -7723,12 +7193,7 @@
    "awkward",
    "background"
   ],
-  "options_ne": [
-   "सबैभन्दा राम्रो",
-   "वास्तविक",
-   "अप्ठ्यारो",
-   "पृष्ठभूमि"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'awkward' means 'अप्ठ्यारो'.",
   "explanation_ne": "‘awkward’ को अर्थ ‘अप्ठ्यारो’ हो।",
@@ -7758,12 +7223,7 @@
    "Centre",
    "Pivot"
   ],
-  "options_ne": [
-   "किनार",
-   "रेखा",
-   "केन्द्र",
-   "धुरी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'axis' means the same as 'pivot'.",
   "explanation_ne": "‘axis’ को अर्थ ‘pivot’ हो।",
@@ -7828,12 +7288,7 @@
    "Edge",
    "Centre"
   ],
-  "options_ne": [
-   "रेखा",
-   "धुरी",
-   "किनार",
-   "केन्द्र"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'axis' is 'centre'.",
   "explanation_ne": "‘axis’ को विलोम ‘centre’ हो।",
@@ -7933,12 +7388,7 @@
    "blame",
    "author"
   ],
-  "options_ne": [
-   "अक्ष",
-   "समुद्र तट",
-   "दोष",
-   "लेखक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'axis' means 'अक्ष'.",
   "explanation_ne": "‘axis’ को अर्थ ‘अक्ष’ हो।",
@@ -7968,12 +7418,7 @@
    "Setting",
    "Foreground"
   ],
-  "options_ne": [
-   "भविष्य",
-   "इतिहास",
-   "परिवेश",
-   "अग्रभूमि"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'background' means the same as 'setting'.",
   "explanation_ne": "‘background’ को अर्थ ‘setting’ हो।",
@@ -8038,12 +7483,7 @@
    "History",
    "Foreground"
   ],
-  "options_ne": [
-   "परिवेश",
-   "भविष्य",
-   "इतिहास",
-   "अग्रभूमि"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The opposite of 'background' is 'foreground'.",
   "explanation_ne": "‘background’ को विलोम ‘foreground’ हो।",
@@ -8143,12 +7583,7 @@
    "bid",
    "background"
   ],
-  "options_ne": [
-   "बोर्ड",
-   "उपस्थित हुनु",
-   "बोली लगाउनु",
-   "पृष्ठभूमि"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'background' means 'पृष्ठभूमि'.",
   "explanation_ne": "‘background’ को अर्थ ‘पृष्ठभूमि’ हो।",
@@ -8178,12 +7613,7 @@
    "Virus",
    "Fungus"
   ],
-  "options_ne": [
-   "सूक्ष्मजीव",
-   "कीटाणु",
-   "भाइरस",
-   "ढुसी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'bacteria' means the same as 'germ'.",
   "explanation_ne": "‘bacteria’ को अर्थ ‘germ’ हो।",
@@ -8248,12 +7678,7 @@
    "Microbe",
    "Germ"
   ],
-  "options_ne": [
-   "भाइरस",
-   "ढुसी",
-   "सूक्ष्मजीव",
-   "कीटाणु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The opposite of 'bacteria' is 'microbe'.",
   "explanation_ne": "‘bacteria’ को विलोम ‘microbe’ हो।",
@@ -8353,12 +7778,7 @@
    "bacteria",
    "beef"
   ],
-  "options_ne": [
-   "बाँध्नु",
-   "सन्तुलन",
-   "जीवाणु",
-   "गाईको मासु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'bacteria' means 'जीवाणु'.",
   "explanation_ne": "‘bacteria’ को अर्थ ‘जीवाणु’ हो।",
@@ -8388,12 +7808,7 @@
    "Belongings",
    "Luggage"
   ],
-  "options_ne": [
-   "खाली",
-   "मालसामान",
-   "सामानहरू",
-   "झोला"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "'baggage' means the same as 'luggage'.",
   "explanation_ne": "‘baggage’ को अर्थ ‘luggage’ हो।",
@@ -8458,12 +7873,7 @@
    "Empty",
    "Cargo"
   ],
-  "options_ne": [
-   "झोला",
-   "सामानहरू",
-   "खाली",
-   "मालसामान"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'baggage' is 'belongings'.",
   "explanation_ne": "‘baggage’ को विलोम ‘belongings’ हो।",
@@ -8563,12 +7973,7 @@
    "bend",
    "bleed"
   ],
-  "options_ne": [
-   "सामान",
-   "विश्वास",
-   "मोड्नु",
-   "रगत बग्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'baggage' means 'सामान'.",
   "explanation_ne": "‘baggage’ को अर्थ ‘सामान’ हो।",
@@ -8598,12 +8003,7 @@
    "Forbid",
    "Permit"
   ],
-  "options_ne": [
-   "निषेध",
-   "अनुमति",
-   "निषेध गर्नु",
-   "अनुमति दिनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'ban' means the same as 'prohibition'.",
   "explanation_ne": "‘ban’ को अर्थ ‘prohibition’ हो।",
@@ -8668,12 +8068,7 @@
    "Prohibition",
    "Permit"
   ],
-  "options_ne": [
-   "निषेध गर्नु",
-   "अनुमति",
-   "निषेध",
-   "अनुमति दिनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The opposite of 'ban' is 'allow'.",
   "explanation_ne": "‘ban’ को विलोम ‘allow’ हो।",
@@ -8773,12 +8168,7 @@
    "bowl",
    "artist"
   ],
-  "options_ne": [
-   "प्रतिबन्ध",
-   "सबैभन्दा राम्रो",
-   "कचौरा",
-   "कलाकार"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "'ban' means 'प्रतिबन्ध'.",
   "explanation_ne": "‘ban’ को अर्थ ‘प्रतिबन्ध’ हो।",
@@ -8808,12 +8198,7 @@
    "Top",
    "Ground"
   ],
-  "options_ne": [
-   "कारण",
-   "जग",
-   "माथि",
-   "भूमि"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'basis' means the same as 'foundation'.",
   "explanation_ne": "‘basis’ को अर्थ ‘foundation’ हो।",
@@ -8878,12 +8263,7 @@
    "Top",
    "Foundation"
   ],
-  "options_ne": [
-   "भूमि",
-   "कारण",
-   "माथि",
-   "जग"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The opposite of 'basis' is 'ground'.",
   "explanation_ne": "‘basis’ को विलोम ‘ground’ हो।",
@@ -10733,12 +10113,7 @@
    "Mortuary",
    "Linguistics"
   ],
-  "options_ne": [
-   "नाटक लेख्ने व्यक्ति",
-   "मानव जातिलाई माया गर्ने व्यक्ति",
-   "मृत शरीरहरू राखिने ठाउँ",
-   "भाषाको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Philanthropist'.",
   "explanation_ne": "एक शब्दमा 'Philanthropist' हो।",
@@ -10768,12 +10143,7 @@
    "Linguist",
    "Aquarium"
   ],
-  "options_ne": [
-   "पढाउने व्यक्ति",
-   "मानव जातिलाई घृणा गर्ने व्यक्ति",
-   "धेरै भाषा जान्ने व्यक्ति",
-   "माछाहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Misanthropist'.",
   "explanation_ne": "एक शब्दमा 'Misanthropist' हो।",
@@ -10803,12 +10173,7 @@
    "Sailor",
    "Claustrophobic"
   ],
-  "options_ne": [
-   "धेरै भाषा बोल्न सक्ने व्यक्ति",
-   "नाटकमा अभिनय गर्ने व्यक्ति",
-   "जहाज चलाउने व्यक्ति",
-   "बन्द ठाउँदेखि डराउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Polyglot'.",
   "explanation_ne": "एक शब्दमा 'Polyglot' हो।",
@@ -10838,12 +10203,7 @@
    "Linguist",
    "Dancer"
   ],
-  "options_ne": [
-   "जनावरको सिकार गर्ने व्यक्ति",
-   "किताब लेख्ने व्यक्ति",
-   "धेरै भाषा जान्ने व्यक्ति",
-   "नाच्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Linguist'.",
   "explanation_ne": "एक शब्दमा 'Linguist' हो।",
@@ -10873,12 +10233,7 @@
    "Ambidextrous",
    "Apiary"
   ],
-  "options_ne": [
-   "मानव जातिलाई घृणा गर्ने व्यक्ति",
-   "नाटकमा अभिनय गर्ने व्यक्ति",
-   "दुवै हात समान रूपमा प्रयोग गर्न सक्ने व्यक्ति",
-   "मौरीहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Apiary'.",
   "explanation_ne": "एक शब्दमा 'Apiary' हो।",
@@ -10908,12 +10263,7 @@
    "Aquarium",
    "Tailor"
   ],
-  "options_ne": [
-   "जहाज चलाउने व्यक्ति",
-   "सङ्गीतप्रतिको प्रेम",
-   "माछाहरू राखिने ठाउँ",
-   "लुगा सिलाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Aquarium'.",
   "explanation_ne": "एक शब्दमा 'Aquarium' हो।",
@@ -10943,12 +10293,7 @@
    "Mortuary",
    "Astronomer"
   ],
-  "options_ne": [
-   "धेरै कुरामा दक्ष व्यक्ति",
-   "सिक्ने व्यक्ति",
-   "मृत शरीरहरू राखिने ठाउँ",
-   "ताराहरूको अध्ययन गर्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Astronomer'.",
   "explanation_ne": "एक शब्दमा 'Astronomer' हो।",
@@ -10978,12 +10323,7 @@
    "Teacher",
    "Cobbler"
   ],
-  "options_ne": [
-   "हतियारहरू राखिने ठाउँ",
-   "पृथ्वीको अध्ययन गर्ने व्यक्ति",
-   "पढाउने व्यक्ति",
-   "जुत्ता बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Geologist'.",
   "explanation_ne": "एक शब्दमा 'Geologist' हो।",
@@ -11013,12 +10353,7 @@
    "Historiography",
    "Biology"
   ],
-  "options_ne": [
-   "पृथ्वीको अध्ययन गर्ने व्यक्ति",
-   "मृत शरीरहरू राखिने ठाउँ",
-   "इतिहासको अध्ययन",
-   "जीवित प्राणीहरूको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Biology'.",
   "explanation_ne": "एक शब्दमा 'Biology' हो।",
@@ -11048,12 +10383,7 @@
    "Versatile",
    "Botany"
   ],
-  "options_ne": [
-   "हतियारहरू राखिने ठाउँ",
-   "उचाइदेखि डराउने व्यक्ति",
-   "धेरै कुरामा दक्ष व्यक्ति",
-   "बिरुवाहरूको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Botany'.",
   "explanation_ne": "एक शब्दमा 'Botany' हो।",
@@ -11083,12 +10413,7 @@
    "Zoology",
    "Apiary"
   ],
-  "options_ne": [
-   "मानव मनको अध्ययन",
-   "उड्नुको डर",
-   "जनावरहरूको अध्ययन",
-   "मौरीहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Zoology'.",
   "explanation_ne": "एक शब्दमा 'Zoology' हो।",
@@ -11118,12 +10443,7 @@
    "Astronomer",
    "Novice"
   ],
-  "options_ne": [
-   "विद्यार्थीहरू बस्ने ठाउँ",
-   "मानव मनको अध्ययन",
-   "ताराहरूको अध्ययन गर्ने व्यक्ति",
-   "पेसामा नयाँ व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Psychology'.",
   "explanation_ne": "एक शब्दमा 'Psychology' हो।",
@@ -11153,12 +10473,7 @@
    "Polyglot",
    "Philanthropist"
   ],
-  "options_ne": [
-   "समाजको अध्ययन",
-   "जीवित प्राणीहरूको अध्ययन",
-   "धेरै भाषा बोल्न सक्ने व्यक्ति",
-   "मानव जातिलाई माया गर्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Sociology'.",
   "explanation_ne": "एक शब्दमा 'Sociology' हो।",
@@ -11188,12 +10503,7 @@
    "Linguistics",
    "Author"
   ],
-  "options_ne": [
-   "इतिहासको अध्ययन",
-   "माछा मार्ने व्यक्ति",
-   "भाषाको अध्ययन",
-   "किताब लेख्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Linguistics'.",
   "explanation_ne": "एक शब्दमा 'Linguistics' हो।",
@@ -11223,12 +10533,7 @@
    "Sailor",
    "Library"
   ],
-  "options_ne": [
-   "बन्द ठाउँदेखि डराउने व्यक्ति",
-   "सङ्ख्याहरूको अध्ययन",
-   "जहाज चलाउने व्यक्ति",
-   "किताबहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Mathematics'.",
   "explanation_ne": "एक शब्दमा 'Mathematics' हो।",
@@ -11258,12 +10563,7 @@
    "Physician",
    "Hostel"
   ],
-  "options_ne": [
-   "इतिहासको अध्ययन",
-   "सङ्ख्याहरूको अध्ययन",
-   "बिरामी निको पार्ने व्यक्ति",
-   "विद्यार्थीहरू बस्ने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Historiography'.",
   "explanation_ne": "एक शब्दमा 'Historiography' हो।",
@@ -11293,12 +10593,7 @@
    "Playwright",
    "Author"
   ],
-  "options_ne": [
-   "बिरुवाहरूको अध्ययन",
-   "बन्द ठाउँदेखि डराउने व्यक्ति",
-   "नाटक लेख्ने व्यक्ति",
-   "किताब लेख्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Author'.",
   "explanation_ne": "एक शब्दमा 'Author' हो।",
@@ -11328,12 +10623,7 @@
    "Ambidextrous",
    "Sailor"
   ],
-  "options_ne": [
-   "किताबप्रतिको प्रेम",
-   "कविता लेख्ने व्यक्ति",
-   "दुवै हात समान रूपमा प्रयोग गर्न सक्ने व्यक्ति",
-   "जहाज चलाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Poet'.",
   "explanation_ne": "एक शब्दमा 'Poet' हो।",
@@ -11363,12 +10653,7 @@
    "Teacher",
    "Historiography"
   ],
-  "options_ne": [
-   "नाटक लेख्ने व्यक्ति",
-   "भिक्षुहरू बस्ने ठाउँ",
-   "पढाउने व्यक्ति",
-   "इतिहासको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Playwright'.",
   "explanation_ne": "एक शब्दमा 'Playwright' हो।",
@@ -11398,12 +10683,7 @@
    "Astronomer",
    "Novelist"
   ],
-  "options_ne": [
-   "जनावरहरू सार्वजनिक रूपमा हेर्न राखिने ठाउँ",
-   "कार चलाउने व्यक्ति",
-   "ताराहरूको अध्ययन गर्ने व्यक्ति",
-   "उपन्यास लेख्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Novelist'.",
   "explanation_ne": "एक शब्दमा 'Novelist' हो।",
@@ -11433,12 +10713,7 @@
    "Zoology",
    "Painter"
   ],
-  "options_ne": [
-   "नाटक लेख्ने व्यक्ति",
-   "समाजको अध्ययन",
-   "जनावरहरूको अध्ययन",
-   "चित्र बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Painter'.",
   "explanation_ne": "एक शब्दमा 'Painter' हो।",
@@ -11468,12 +10743,7 @@
    "Tailor",
    "Singer"
   ],
-  "options_ne": [
-   "अँधेरोको डर",
-   "माकुराको डर",
-   "लुगा सिलाउने व्यक्ति",
-   "गीत गाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Singer'.",
   "explanation_ne": "एक शब्दमा 'Singer' हो।",
@@ -11503,12 +10773,7 @@
    "Hostel",
    "Biology"
   ],
-  "options_ne": [
-   "नाच्ने व्यक्ति",
-   "उचाइदेखि डराउने व्यक्ति",
-   "विद्यार्थीहरू बस्ने ठाउँ",
-   "जीवित प्राणीहरूको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Dancer'.",
   "explanation_ne": "एक शब्दमा 'Dancer' हो।",
@@ -11538,12 +10803,7 @@
    "Ambidextrous",
    "Builder"
   ],
-  "options_ne": [
-   "नाटकमा अभिनय गर्ने व्यक्ति",
-   "समाजको अध्ययन",
-   "दुवै हात समान रूपमा प्रयोग गर्न सक्ने व्यक्ति",
-   "घर बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Actor'.",
   "explanation_ne": "एक शब्दमा 'Actor' हो।",
@@ -11573,12 +10833,7 @@
    "Carpenter",
    "Teacher"
   ],
-  "options_ne": [
-   "औषधि बेच्ने व्यक्ति",
-   "ताराहरूको अध्ययन गर्ने व्यक्ति",
-   "फर्निचर बनाउने व्यक्ति",
-   "पढाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Teacher'.",
   "explanation_ne": "एक शब्दमा 'Teacher' हो।",
@@ -11608,12 +10863,7 @@
    "Linguist",
    "Monastery"
   ],
-  "options_ne": [
-   "कविता लेख्ने व्यक्ति",
-   "सिक्ने व्यक्ति",
-   "धेरै भाषा जान्ने व्यक्ति",
-   "भिक्षुहरू बस्ने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Learner'.",
   "explanation_ne": "एक शब्दमा 'Learner' हो।",
@@ -11643,12 +10893,7 @@
    "Physician",
    "Bankrupt"
   ],
-  "options_ne": [
-   "मानव जातिलाई माया गर्ने व्यक्ति",
-   "ताराहरूको अध्ययन गर्ने व्यक्ति",
-   "बिरामी निको पार्ने व्यक्ति",
-   "ऋण तिर्न नसक्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Physician'.",
   "explanation_ne": "एक शब्दमा 'Physician' हो।",
@@ -11678,12 +10923,7 @@
    "Cobbler",
    "Bankrupt"
   ],
-  "options_ne": [
-   "औषधि बेच्ने व्यक्ति",
-   "पृथ्वीको अध्ययन गर्ने व्यक्ति",
-   "जुत्ता बनाउने व्यक्ति",
-   "ऋण तिर्न नसक्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Pharmacist'.",
   "explanation_ne": "एक शब्दमा 'Pharmacist' हो।",
@@ -11713,12 +10953,7 @@
    "Teacher",
    "Convent"
   ],
-  "options_ne": [
-   "रोटी बनाउने व्यक्ति",
-   "नाटकमा अभिनय गर्ने व्यक्ति",
-   "पढाउने व्यक्ति",
-   "भिक्षुणीहरू बस्ने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Baker'.",
   "explanation_ne": "एक शब्दमा 'Baker' हो।",
@@ -11748,12 +10983,7 @@
    "Linguist",
    "Physician"
   ],
-  "options_ne": [
-   "लुगा सिलाउने व्यक्ति",
-   "किताबहरू राखिने ठाउँ",
-   "धेरै भाषा जान्ने व्यक्ति",
-   "बिरामी निको पार्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Tailor'.",
   "explanation_ne": "एक शब्दमा 'Tailor' हो।",
@@ -11783,12 +11013,7 @@
    "Misanthropist",
    "Novice"
   ],
-  "options_ne": [
-   "जुत्ता बनाउने व्यक्ति",
-   "चित्र बनाउने व्यक्ति",
-   "मानव जातिलाई घृणा गर्ने व्यक्ति",
-   "पेसामा नयाँ व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Cobbler'.",
   "explanation_ne": "एक शब्दमा 'Cobbler' हो।",
@@ -11818,12 +11043,7 @@
    "Carpenter",
    "Melomania"
   ],
-  "options_ne": [
-   "ताराहरूको अध्ययन गर्ने व्यक्ति",
-   "मौरीहरू राखिने ठाउँ",
-   "फर्निचर बनाउने व्यक्ति",
-   "सङ्गीतप्रतिको प्रेम"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Carpenter'.",
   "explanation_ne": "एक शब्दमा 'Carpenter' हो।",
@@ -11853,12 +11073,7 @@
    "Hospital",
    "Tailor"
   ],
-  "options_ne": [
-   "चित्र बनाउने व्यक्ति",
-   "घर बनाउने व्यक्ति",
-   "बिरामीहरूको उपचार हुने ठाउँ",
-   "लुगा सिलाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Builder'.",
   "explanation_ne": "एक शब्दमा 'Builder' हो।",
@@ -11888,12 +11103,7 @@
    "Driver",
    "Mortuary"
   ],
-  "options_ne": [
-   "बिरामी निको पार्ने व्यक्ति",
-   "धेरै भाषा बोल्न सक्ने व्यक्ति",
-   "कार चलाउने व्यक्ति",
-   "मृत शरीरहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Driver'.",
   "explanation_ne": "एक शब्दमा 'Driver' हो।",
@@ -11923,12 +11133,7 @@
    "Botany",
    "Dancer"
   ],
-  "options_ne": [
-   "विमान उडाउने व्यक्ति",
-   "नाटक लेख्ने व्यक्ति",
-   "बिरुवाहरूको अध्ययन",
-   "नाच्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Pilot'.",
   "explanation_ne": "एक शब्दमा 'Pilot' हो।",
@@ -11958,12 +11163,7 @@
    "Carpenter",
    "Armoury"
   ],
-  "options_ne": [
-   "जहाज चलाउने व्यक्ति",
-   "पढाउने व्यक्ति",
-   "फर्निचर बनाउने व्यक्ति",
-   "हतियारहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Sailor'.",
   "explanation_ne": "एक शब्दमा 'Sailor' हो।",
@@ -11993,12 +11193,7 @@
    "Novelist",
    "Dancer"
   ],
-  "options_ne": [
-   "माछा मार्ने व्यक्ति",
-   "धेरै कुरामा दक्ष व्यक्ति",
-   "उपन्यास लेख्ने व्यक्ति",
-   "नाच्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Fisherman'.",
   "explanation_ne": "एक शब्दमा 'Fisherman' हो।",
@@ -12028,12 +11223,7 @@
    "Hunter",
    "Dancer"
   ],
-  "options_ne": [
-   "पानीदेखि डराउने व्यक्ति",
-   "किताबप्रतिको प्रेम",
-   "जनावरको सिकार गर्ने व्यक्ति",
-   "नाच्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Hunter'.",
   "explanation_ne": "एक शब्दमा 'Hunter' हो।",
@@ -12063,12 +11253,7 @@
    "Geologist",
    "Zoo"
   ],
-  "options_ne": [
-   "औषधि बेच्ने व्यक्ति",
-   "ऋण तिर्न नसक्ने व्यक्ति",
-   "पृथ्वीको अध्ययन गर्ने व्यक्ति",
-   "जनावरहरू सार्वजनिक रूपमा हेर्न राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Bankrupt'.",
   "explanation_ne": "एक शब्दमा 'Bankrupt' हो।",
@@ -12098,12 +11283,7 @@
    "Author",
    "Novice"
   ],
-  "options_ne": [
-   "उचाइदेखि डराउने व्यक्ति",
-   "जनावरहरू सार्वजनिक रूपमा हेर्न राखिने ठाउँ",
-   "किताब लेख्ने व्यक्ति",
-   "पेसामा नयाँ व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Novice'.",
   "explanation_ne": "एक शब्दमा 'Novice' हो।",
@@ -12133,12 +11313,7 @@
    "Ambidextrous",
    "Painter"
   ],
-  "options_ne": [
-   "ऋण तिर्न नसक्ने व्यक्ति",
-   "धेरै कुरामा दक्ष व्यक्ति",
-   "दुवै हात समान रूपमा प्रयोग गर्न सक्ने व्यक्ति",
-   "चित्र बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Versatile'.",
   "explanation_ne": "एक शब्दमा 'Versatile' हो।",
@@ -12168,12 +11343,7 @@
    "Builder",
    "Carpenter"
   ],
-  "options_ne": [
-   "उचाइदेखि डराउने व्यक्ति",
-   "पानीदेखि डराउने व्यक्ति",
-   "घर बनाउने व्यक्ति",
-   "फर्निचर बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Acrophobic'.",
   "explanation_ne": "एक शब्दमा 'Acrophobic' हो।",
@@ -12203,12 +11373,7 @@
    "Hydrophobic",
    "Monastery"
   ],
-  "options_ne": [
-   "जनावरको सिकार गर्ने व्यक्ति",
-   "मानव मनको अध्ययन",
-   "पानीदेखि डराउने व्यक्ति",
-   "भिक्षुहरू बस्ने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Hydrophobic'.",
   "explanation_ne": "एक शब्दमा 'Hydrophobic' हो।",
@@ -12238,12 +11403,7 @@
    "Claustrophobic",
    "Apiary"
   ],
-  "options_ne": [
-   "माकुराको डर",
-   "फर्निचर बनाउने व्यक्ति",
-   "बन्द ठाउँदेखि डराउने व्यक्ति",
-   "मौरीहरू राखिने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Claustrophobic'.",
   "explanation_ne": "एक शब्दमा 'Claustrophobic' हो।",
@@ -12273,12 +11433,7 @@
    "Aquarium",
    "Polyglot"
   ],
-  "options_ne": [
-   "माकुराको डर",
-   "भिक्षुणीहरू बस्ने ठाउँ",
-   "माछाहरू राखिने ठाउँ",
-   "धेरै भाषा बोल्न सक्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Arachnophobia'.",
   "explanation_ne": "एक शब्दमा 'Arachnophobia' हो।",
@@ -12308,12 +11463,7 @@
    "Nyctophobia",
    "Cobbler"
   ],
-  "options_ne": [
-   "मौरीहरू राखिने ठाउँ",
-   "गीत गाउने व्यक्ति",
-   "अँधेरोको डर",
-   "जुत्ता बनाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Nyctophobia'.",
   "explanation_ne": "एक शब्दमा 'Nyctophobia' हो।",
@@ -12343,12 +11493,7 @@
    "Mortuary",
    "Learner"
   ],
-  "options_ne": [
-   "उड्नुको डर",
-   "लुगा सिलाउने व्यक्ति",
-   "मृत शरीरहरू राखिने ठाउँ",
-   "सिक्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "The one-word substitute is 'Aerophobia'.",
   "explanation_ne": "एक शब्दमा 'Aerophobia' हो।",
@@ -12378,12 +11523,7 @@
    "Acrophobic",
    "Bibliophilia"
   ],
-  "options_ne": [
-   "भाषाको अध्ययन",
-   "जहाज चलाउने व्यक्ति",
-   "उचाइदेखि डराउने व्यक्ति",
-   "किताबप्रतिको प्रेम"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Bibliophilia'.",
   "explanation_ne": "एक शब्दमा 'Bibliophilia' हो।",
@@ -12413,12 +11553,7 @@
    "Versatile",
    "Melomania"
   ],
-  "options_ne": [
-   "माछाहरू राखिने ठाउँ",
-   "लुगा सिलाउने व्यक्ति",
-   "धेरै कुरामा दक्ष व्यक्ति",
-   "सङ्गीतप्रतिको प्रेम"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Melomania'.",
   "explanation_ne": "एक शब्दमा 'Melomania' हो।",
@@ -12448,12 +11583,7 @@
    "Claustrophobic",
    "Anthophilia"
   ],
-  "options_ne": [
-   "भिक्षुहरू बस्ने ठाउँ",
-   "धेरै भाषा जान्ने व्यक्ति",
-   "बन्द ठाउँदेखि डराउने व्यक्ति",
-   "फूलप्रतिको प्रेम"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Anthophilia'.",
   "explanation_ne": "एक शब्दमा 'Anthophilia' हो।",
@@ -12483,12 +11613,7 @@
    "Arachnophobia",
    "Misanthropist"
   ],
-  "options_ne": [
-   "जहाज चलाउने व्यक्ति",
-   "किताबहरू राखिने ठाउँ",
-   "माकुराको डर",
-   "मानव जातिलाई घृणा गर्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Library'.",
   "explanation_ne": "एक शब्दमा 'Library' हो।",
@@ -12518,12 +11643,7 @@
    "Armoury",
    "Playwright"
   ],
-  "options_ne": [
-   "बिरामी निको पार्ने व्यक्ति",
-   "माकुराको डर",
-   "हतियारहरू राखिने ठाउँ",
-   "नाटक लेख्ने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "The one-word substitute is 'Armoury'.",
   "explanation_ne": "एक शब्दमा 'Armoury' हो।",
@@ -12553,12 +11673,7 @@
    "Pharmacist",
    "Driver"
   ],
-  "options_ne": [
-   "भिक्षुणीहरू बस्ने ठाउँ",
-   "पैसा राखिने ठाउँ",
-   "औषधि बेच्ने व्यक्ति",
-   "कार चलाउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Treasury'.",
   "explanation_ne": "एक शब्दमा 'Treasury' हो।",
@@ -12588,12 +11703,7 @@
    "Hostel",
    "Sociology"
   ],
-  "options_ne": [
-   "ऋण तिर्न नसक्ने व्यक्ति",
-   "जनावरहरू सार्वजनिक रूपमा हेर्न राखिने ठाउँ",
-   "विद्यार्थीहरू बस्ने ठाउँ",
-   "समाजको अध्ययन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Zoo'.",
   "explanation_ne": "एक शब्दमा 'Zoo' हो।",
@@ -12623,12 +11733,7 @@
    "Library",
    "Melomania"
   ],
-  "options_ne": [
-   "बिरुवाहरूको अध्ययन",
-   "भिक्षुणीहरू बस्ने ठाउँ",
-   "किताबहरू राखिने ठाउँ",
-   "सङ्गीतप्रतिको प्रेम"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Convent'.",
   "explanation_ne": "एक शब्दमा 'Convent' हो।",
@@ -12658,12 +11763,7 @@
    "Tailor",
    "Hostel"
   ],
-  "options_ne": [
-   "दुवै हात समान रूपमा प्रयोग गर्न सक्ने व्यक्ति",
-   "भाषाको अध्ययन",
-   "लुगा सिलाउने व्यक्ति",
-   "विद्यार्थीहरू बस्ने ठाउँ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "The one-word substitute is 'Hostel'.",
   "explanation_ne": "एक शब्दमा 'Hostel' हो।",
@@ -12693,12 +11793,7 @@
    "Playwright",
    "Hydrophobic"
   ],
-  "options_ne": [
-   "पैसा राखिने ठाउँ",
-   "बिरामीहरूको उपचार हुने ठाउँ",
-   "नाटक लेख्ने व्यक्ति",
-   "पानीदेखि डराउने व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "The one-word substitute is 'Hospital'.",
   "explanation_ne": "एक शब्दमा 'Hospital' हो।",

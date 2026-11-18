@@ -8636,12 +8636,7 @@
    "Greedy",
    "Charitable"
   ],
-  "options_ne": [
-   "स्वार्थी",
-   "क्रूर",
-   "लोभी",
-   "परोपकारी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Generous means willing to give; charitable is its synonym.",
   "explanation_ne": "Generous को अर्थ दिन इच्छुक हुनु हो; charitable यसको पर्यायवाची हो।",
@@ -8667,12 +8662,7 @@
    "Idle",
    "Careless"
   ],
-  "options_ne": [
-   "मेहनती",
-   "अल्छी",
-   "निष्क्रिय",
-   "लापरवाह"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Diligent means showing steady hard work; hardworking is its synonym.",
   "explanation_ne": "Diligent को अर्थ निरन्तर कडा परिश्रम देखाउनु हो; hardworking यसको पर्यायवाची हो।",
@@ -8698,12 +8688,7 @@
    "Limited",
    "Rare"
   ],
-  "options_ne": [
-   "दुर्लभ",
-   "प्रचुर",
-   "सीमित",
-   "विरल"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Abundant means existing in large quantities; plentiful is its synonym.",
   "explanation_ne": "Abundant को अर्थ ठूलो मात्रामा अवस्थित हुनु हो; plentiful यसको पर्यायवाची हो।",
@@ -8726,12 +8711,7 @@
    "Plentiful",
    "Common"
   ],
-  "options_ne": [
-   "विरल",
-   "प्रचुर",
-   "पर्याप्त",
-   "सामान्य"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Scarce means in short supply; rare is its synonym.",
   "explanation_ne": "Scarce को अर्थ आपूर्ति कम हुनु हो; rare यसको पर्यायवाची हो।",
@@ -8754,12 +8734,7 @@
    "Kind",
    "Helpful"
   ],
-  "options_ne": [
-   "परोपकारी",
-   "स्वार्थी",
-   "दयालु",
-   "सहयोगी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Generous means giving freely; selfish is its antonym.",
   "explanation_ne": "Generous को अर्थ स्वतन्त्र रूपमा दिनु हो; selfish यसको विलोम हो।",
@@ -8785,12 +8760,7 @@
    "Rude",
    "Gentle"
   ],
-  "options_ne": [
-   "विनम्र",
-   "दयालु",
-   "असभ्य",
-   "नम्र"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Polite means showing good manners; rude is its antonym.",
   "explanation_ne": "Polite को अर्थ राम्रो व्यवहार देखाउनु हो; rude यसको विलोम हो।",
@@ -8813,12 +8783,7 @@
    "Hardworking",
    "Careful"
   ],
-  "options_ne": [
-   "अल्छी",
-   "सक्रिय",
-   "मेहनती",
-   "सावधान"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Diligent means hardworking; lazy is its antonym.",
   "explanation_ne": "Diligent को अर्थ मेहनती हो; lazy यसको विलोम हो।",
@@ -8841,12 +8806,7 @@
    "Cowardice",
    "Bravery"
   ],
-  "options_ne": [
-   "साहस",
-   "शक्ति",
-   "कायरता",
-   "वीरता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Courage means bravery; cowardice is its antonym.",
   "explanation_ne": "Courage को अर्थ वीरता हो; cowardice यसको विलोम हो।",
@@ -8981,12 +8941,7 @@
    "Hold",
    "Cherish"
   ],
-  "options_ne": [
-   "राख्नु",
-   "त्याग्नु",
-   "समात्नु",
-   "माया गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "'Forsake' means to abandon or give up, while keep, hold and cherish mean the opposite.",
   "explanation_ne": "'Forsake' को अर्थ त्याग्नु वा छोड्नु हो, जबकि keep, hold र cherish को अर्थ यसको विपरीत हो।",

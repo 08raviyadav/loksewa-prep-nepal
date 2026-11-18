@@ -1992,12 +1992,7 @@
    "Geology",
    "Astrology"
   ],
-  "options_ne": [
-   "Astronomy",
-   "Biology",
-   "Geology",
-   "ज्योतिषशास्त्र"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Astronomy is the scientific study of stars and planets.",
   "explanation_ne": "Astronomy तारा र ग्रहहरूको वैज्ञानिक अध्ययन हो।",

@@ -23,12 +23,7 @@
       "Enlarge",
       "Lessen"
     ],
-    "options_ne": [
-      "बढ्नु",
-      "कम हुनु",
-      "ठूलो हुनु",
-      "घट्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'abate' means the same as 'lessen'.",
     "explanation_ne": "‘abate’ को अर्थ ‘lessen’ हो।",
@@ -93,12 +88,7 @@
       "Lessen",
       "Increase"
     ],
-    "options_ne": [
-      "ठूलो हुनु",
-      "कम हुनु",
-      "घट्नु",
-      "बढ्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'abate' is 'increase'.",
     "explanation_ne": "‘abate’ को विलोम ‘increase’ हो।",
@@ -198,12 +188,7 @@
       "abate",
       "accuse"
     ],
-    "options_ne": [
-      "अगस्ट",
-      "बोल्ट",
-      "कम हुनु",
-      "आरोप लगाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'abate' means 'कम हुनु'.",
     "explanation_ne": "‘abate’ को अर्थ ‘कम हुनु’ हो।",
@@ -233,12 +218,7 @@
       "Disobey",
       "Follow"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "आज्ञा मान्नु",
-      "अवज्ञा गर्नु",
-      "पछ्याउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'abide' means the same as 'obey'.",
     "explanation_ne": "‘abide’ को अर्थ ‘obey’ हो।",
@@ -303,12 +283,7 @@
       "Obey",
       "Ignore"
     ],
-    "options_ne": [
-      "पछ्याउनु",
-      "अवज्ञा गर्नु",
-      "आज्ञा मान्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'abide' is 'disobey'.",
     "explanation_ne": "‘abide’ को विलोम ‘disobey’ हो।",
@@ -408,12 +383,7 @@
       "abide",
       "august"
     ],
-    "options_ne": [
-      "भिख माग्नु",
-      "ब्यूँझेको",
-      "पालना गर्नु",
-      "अगस्ट"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'abide' means 'पालना गर्नु'.",
     "explanation_ne": "‘abide’ को अर्थ ‘पालना गर्नु’ हो।",
@@ -443,12 +413,7 @@
       "Continue",
       "Stop"
     ],
-    "options_ne": [
-      "रद्द गर्नु",
-      "सुरु गर्नु",
-      "जारी राख्नु",
-      "रोक्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'abort' means the same as 'cancel'.",
     "explanation_ne": "‘abort’ को अर्थ ‘cancel’ हो।",
@@ -513,12 +478,7 @@
       "Continue",
       "Cancel"
     ],
-    "options_ne": [
-      "सुरु गर्नु",
-      "रोक्नु",
-      "जारी राख्नु",
-      "रद्द गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'abort' is 'continue'.",
     "explanation_ne": "‘abort’ को विलोम ‘continue’ हो।",
@@ -618,12 +578,7 @@
       "assume",
       "abort"
     ],
-    "options_ne": [
-      "औसत",
-      "टोक्नु",
-      "मान्नु",
-      "रद्द गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'abort' means 'रद्द गर्नु'.",
     "explanation_ne": "‘abort’ को अर्थ ‘रद्द गर्नु’ हो।",
@@ -653,12 +608,7 @@
       "Release",
       "Soak"
     ],
-    "options_ne": [
-      "निकाल्नु",
-      "भित्र लिनु",
-      "छोड्नु",
-      "भिज्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'absorb' means the same as 'soak'.",
     "explanation_ne": "‘absorb’ को अर्थ ‘soak’ हो।",
@@ -723,12 +673,7 @@
       "Soak",
       "Release"
     ],
-    "options_ne": [
-      "भित्र लिनु",
-      "निकाल्नु",
-      "भिज्नु",
-      "छोड्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'absorb' is 'release'.",
     "explanation_ne": "‘absorb’ को विलोम ‘release’ हो।",
@@ -828,12 +773,7 @@
       "badge",
       "absorb"
     ],
-    "options_ne": [
-      "मनोरञ्जन गर्नु",
-      "मक्खन",
-      "ब्याज",
-      "सोस्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'absorb' means 'सोस्नु'.",
     "explanation_ne": "‘absorb’ को अर्थ ‘सोस्नु’ हो।",
@@ -863,12 +803,7 @@
       "Concrete",
       "Vague"
     ],
-    "options_ne": [
-      "सैद्धान्तिक",
-      "वास्तविक",
-      "मूर्त",
-      "अस्पष्ट"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'abstract' means the same as 'theoretical'.",
     "explanation_ne": "‘abstract’ को अर्थ ‘theoretical’ हो।",
@@ -933,12 +868,7 @@
       "Concrete",
       "Vague"
     ],
-    "options_ne": [
-      "वास्तविक",
-      "सैद्धान्तिक",
-      "मूर्त",
-      "अस्पष्ट"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'abstract' is 'concrete'.",
     "explanation_ne": "‘abstract’ को विलोम ‘concrete’ हो।",
@@ -1038,12 +968,7 @@
       "blank",
       "abstract"
     ],
-    "options_ne": [
-      "केटा",
-      "बाँधिएको",
-      "खाली",
-      "अमूर्त"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'abstract' means 'अमूर्त'.",
     "explanation_ne": "‘abstract’ को अर्थ ‘अमूर्त’ हो।",
@@ -1073,12 +998,7 @@
       "Reject",
       "Refuse"
     ],
-    "options_ne": [
-      "लिनु",
-      "प्राप्त गर्नु",
-      "अस्वीकार गर्नु",
-      "इन्कार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'accept' means the same as 'take'.",
     "explanation_ne": "‘accept’ को अर्थ ‘take’ हो।",
@@ -1213,12 +1133,7 @@
       "Denial",
       "Exit"
     ],
-    "options_ne": [
-      "प्रवेश",
-      "नजिक पुग्नु",
-      "अस्वीकार",
-      "निकास"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'access' means the same as 'entry'.",
     "explanation_ne": "‘access’ को अर्थ ‘entry’ हो।",
@@ -1283,12 +1198,7 @@
       "Denial",
       "Approach"
     ],
-    "options_ne": [
-      "प्रवेश",
-      "निकास",
-      "अस्वीकार",
-      "नजिक पुग्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'access' is 'denial'.",
     "explanation_ne": "‘access’ को विलोम ‘denial’ हो।",
@@ -1388,12 +1298,7 @@
       "behave",
       "alone"
     ],
-    "options_ne": [
-      "पहुँच",
-      "मनोरञ्जन गर्नु",
-      "व्यवहार गर्नु",
-      "एक्लै"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'access' means 'पहुँच'.",
     "explanation_ne": "‘access’ को अर्थ ‘पहुँच’ हो।",
@@ -1423,12 +1328,7 @@
       "Praise",
       "Defend"
     ],
-    "options_ne": [
-      "दोष लगाउनु",
-      "अभियोग लगाउनु",
-      "प्रशंसा गर्नु",
-      "रक्षा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'accuse' means the same as 'blame'.",
     "explanation_ne": "‘accuse’ को अर्थ ‘blame’ हो।",
@@ -1493,12 +1393,7 @@
       "Defend",
       "Praise"
     ],
-    "options_ne": [
-      "अभियोग लगाउनु",
-      "दोष लगाउनु",
-      "रक्षा गर्नु",
-      "प्रशंसा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'accuse' is 'defend'.",
     "explanation_ne": "‘accuse’ को विलोम ‘defend’ हो।",
@@ -1598,12 +1493,7 @@
       "Act",
       "Rest"
     ],
-    "options_ne": [
-      "काम",
-      "निष्क्रियता",
-      "कार्य",
-      "आराम"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'action' means the same as 'deed'.",
     "explanation_ne": "‘action’ को अर्थ ‘deed’ हो।",
@@ -1668,12 +1558,7 @@
       "Rest",
       "Act"
     ],
-    "options_ne": [
-      "निष्क्रियता",
-      "काम",
-      "आराम",
-      "कार्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'action' is 'inaction'.",
     "explanation_ne": "‘action’ को विलोम ‘inaction’ हो।",
@@ -1773,12 +1658,7 @@
       "birth",
       "alter"
     ],
-    "options_ne": [
-      "कार्य",
-      "आवेदन दिनु",
-      "जन्म",
-      "परिवर्तन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'action' means 'कार्य'.",
     "explanation_ne": "‘action’ को अर्थ ‘कार्य’ हो।",
@@ -1808,12 +1688,7 @@
       "Bureau",
       "Office"
     ],
-    "options_ne": [
-      "विभाग",
-      "सङ्गठन",
-      "ब्युरो",
-      "कार्यालय"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'agency' means the same as 'organisation'.",
     "explanation_ne": "‘agency’ को अर्थ ‘organisation’ हो।",
@@ -1878,12 +1753,7 @@
       "Organisation",
       "Bureau"
     ],
-    "options_ne": [
-      "विभाग",
-      "कार्यालय",
-      "सङ्गठन",
-      "ब्युरो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'agency' is 'office'.",
     "explanation_ne": "‘agency’ को विलोम ‘office’ हो।",
@@ -1948,12 +1818,7 @@
       "agency",
       "angle"
     ],
-    "options_ne": [
-      "औसत",
-      "गान",
-      "एजेन्सी",
-      "कोण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'agency' means 'एजेन्सी'.",
     "explanation_ne": "‘agency’ को अर्थ ‘एजेन्सी’ हो।",
@@ -1983,12 +1848,7 @@
       "Plan",
       "Schedule"
     ],
-    "options_ne": [
-      "कार्यक्रम",
-      "सूची",
-      "योजना",
-      "तालिका"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'agenda' means the same as 'schedule'.",
     "explanation_ne": "‘agenda’ को अर्थ ‘schedule’ हो।",
@@ -2053,12 +1913,7 @@
       "List",
       "Schedule"
     ],
-    "options_ne": [
-      "योजना",
-      "कार्यक्रम",
-      "सूची",
-      "तालिका"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'agenda' is 'programme'.",
     "explanation_ne": "‘agenda’ को विलोम ‘programme’ हो।",
@@ -2158,12 +2013,7 @@
       "band",
       "beg"
     ],
-    "options_ne": [
-      "वरिपरि",
-      "एजेन्डा",
-      "ब्यान्ड",
-      "भिख माग्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'agenda' means 'एजेन्डा'.",
     "explanation_ne": "‘agenda’ को अर्थ ‘एजेन्डा’ हो।",
@@ -2193,12 +2043,7 @@
       "Refuse",
       "Consent"
     ],
-    "options_ne": [
-      "स्वीकार्नु",
-      "असहमत हुनु",
-      "इन्कार गर्नु",
-      "सहमति दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'agree' means the same as 'consent'.",
     "explanation_ne": "‘agree’ को अर्थ ‘consent’ हो।",
@@ -2263,12 +2108,7 @@
       "Consent",
       "Disagree"
     ],
-    "options_ne": [
-      "इन्कार गर्नु",
-      "स्वीकार्नु",
-      "सहमति दिनु",
-      "असहमत हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'agree' is 'disagree'.",
     "explanation_ne": "‘agree’ को विलोम ‘disagree’ हो।",
@@ -2368,12 +2208,7 @@
       "border",
       "basket"
     ],
-    "options_ne": [
-      "सहमत हुनु",
-      "भाँच्नु",
-      "सीमा",
-      "टोकरी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'agree' means 'सहमत हुनु'.",
     "explanation_ne": "‘agree’ को अर्थ ‘सहमत हुनु’ हो।",
@@ -2403,12 +2238,7 @@
       "Alert",
       "Calm"
     ],
-    "options_ne": [
-      "चेतावनी",
-      "सङ्केत",
-      "सतर्कता",
-      "शान्ति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alarm' means the same as 'warning'.",
     "explanation_ne": "‘alarm’ को अर्थ ‘warning’ हो।",
@@ -2473,12 +2303,7 @@
       "Calm",
       "Signal"
     ],
-    "options_ne": [
-      "चेतावनी",
-      "सतर्कता",
-      "शान्ति",
-      "सङ्केत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'alarm' is 'signal'.",
     "explanation_ne": "‘alarm’ को विलोम ‘signal’ हो।",
@@ -2578,12 +2403,7 @@
       "birth",
       "amount"
     ],
-    "options_ne": [
-      "चेतावनी",
-      "अविवाहित",
-      "जन्म",
-      "परिमाण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alarm' means 'चेतावनी'.",
     "explanation_ne": "‘alarm’ को अर्थ ‘चेतावनी’ हो।",
@@ -2613,12 +2433,7 @@
       "File",
       "Book"
     ],
-    "options_ne": [
-      "रेकर्ड",
-      "सङ्ग्रह",
-      "फाइल",
-      "किताब"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'album' means the same as 'collection'.",
     "explanation_ne": "‘album’ को अर्थ ‘collection’ हो।",
@@ -2683,12 +2498,7 @@
       "File",
       "Record"
     ],
-    "options_ne": [
-      "किताब",
-      "सङ्ग्रह",
-      "फाइल",
-      "रेकर्ड"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'album' is 'book'.",
     "explanation_ne": "‘album’ को विलोम ‘book’ हो।",
@@ -2788,12 +2598,7 @@
       "broad",
       "album"
     ],
-    "options_ne": [
-      "गाईको मासु",
-      "बोल्ट",
-      "फराकिलो",
-      "एल्बम"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'album' means 'एल्बम'.",
     "explanation_ne": "‘album’ को अर्थ ‘एल्बम’ हो।",
@@ -2823,12 +2628,7 @@
       "Asleep",
       "Aware"
     ],
-    "options_ne": [
-      "सजग",
-      "लापरवाह",
-      "निदाएको",
-      "सचेत"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alert' means the same as 'watchful'.",
     "explanation_ne": "‘alert’ को अर्थ ‘watchful’ हो।",
@@ -2893,12 +2693,7 @@
       "Careless",
       "Watchful"
     ],
-    "options_ne": [
-      "निदाएको",
-      "सचेत",
-      "लापरवाह",
-      "सजग"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'alert' is 'careless'.",
     "explanation_ne": "‘alert’ को विलोम ‘careless’ हो।",
@@ -2998,12 +2793,7 @@
       "bound",
       "bus"
     ],
-    "options_ne": [
-      "सतर्क",
-      "एजेन्सी",
-      "बाँधिएको",
-      "बस"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alert' means 'सतर्क'.",
     "explanation_ne": "‘alert’ को अर्थ ‘सतर्क’ हो।",
@@ -3033,12 +2823,7 @@
       "Different",
       "Same"
     ],
-    "options_ne": [
-      "भिन्न",
-      "समान",
-      "फरक",
-      "उस्तै"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'alike' means the same as 'similar'.",
     "explanation_ne": "‘alike’ को अर्थ ‘similar’ हो।",
@@ -3103,12 +2888,7 @@
       "Same",
       "Similar"
     ],
-    "options_ne": [
-      "भिन्न",
-      "फरक",
-      "उस्तै",
-      "समान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'alike' is 'different'.",
     "explanation_ne": "‘alike’ को विलोम ‘different’ हो।",
@@ -3208,12 +2988,7 @@
       "Living",
       "Lifeless"
     ],
-    "options_ne": [
-      "मृत",
-      "सक्रिय",
-      "बाँचिरहेको",
-      "निर्जीव"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'alive' means the same as 'living'.",
     "explanation_ne": "‘alive’ को अर्थ ‘living’ हो।",
@@ -3278,12 +3053,7 @@
       "Living",
       "Dead"
     ],
-    "options_ne": [
-      "सक्रिय",
-      "निर्जीव",
-      "बाँचिरहेको",
-      "मृत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'alive' is 'dead'.",
     "explanation_ne": "‘alive’ को विलोम ‘dead’ हो।",
@@ -3383,12 +3153,7 @@
       "alive",
       "assist"
     ],
-    "options_ne": [
-      "ब्यूँझेको",
-      "सन्तुलन",
-      "जीवित",
-      "सहयोग गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'alive' means 'जीवित'.",
     "explanation_ne": "‘alive’ को अर्थ ‘जीवित’ हो।",
@@ -3418,12 +3183,7 @@
       "Permit",
       "Let"
     ],
-    "options_ne": [
-      "निषेध गर्नु",
-      "प्रतिबन्ध लगाउनु",
-      "अनुमति दिनु",
-      "दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'allow' means the same as 'permit'.",
     "explanation_ne": "‘allow’ को अर्थ ‘permit’ हो।",
@@ -3488,12 +3248,7 @@
       "Forbid",
       "Let"
     ],
-    "options_ne": [
-      "प्रतिबन्ध लगाउनु",
-      "अनुमति दिनु",
-      "निषेध गर्नु",
-      "दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'allow' is 'forbid'.",
     "explanation_ne": "‘allow’ को विलोम ‘forbid’ हो।",
@@ -3593,12 +3348,7 @@
       "Lonely",
       "Solitary"
     ],
-    "options_ne": [
-      "भिडभाड",
-      "सँगै",
-      "एक्लो",
-      "एकान्त"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'alone' means the same as 'solitary'.",
     "explanation_ne": "‘alone’ को अर्थ ‘solitary’ हो।",
@@ -3663,12 +3413,7 @@
       "Solitary",
       "Together"
     ],
-    "options_ne": [
-      "भिडभाड",
-      "एक्लो",
-      "एकान्त",
-      "सँगै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'alone' is 'together'.",
     "explanation_ne": "‘alone’ को विलोम ‘together’ हो।",
@@ -3768,12 +3513,7 @@
       "Together",
       "Near"
     ],
-    "options_ne": [
-      "टाढा",
-      "छेउमा",
-      "सँगै",
-      "नजिक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'along' means the same as 'beside'.",
     "explanation_ne": "‘along’ को अर्थ ‘beside’ हो।",
@@ -3838,12 +3578,7 @@
       "Near",
       "Together"
     ],
-    "options_ne": [
-      "छेउमा",
-      "टाढा",
-      "नजिक",
-      "सँगै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'along' is 'together'.",
     "explanation_ne": "‘along’ को विलोम ‘together’ हो।",
@@ -3943,12 +3678,7 @@
       "along",
       "agency"
     ],
-    "options_ne": [
-      "जलाउनु",
-      "एजेन्डा",
-      "सँगै",
-      "एजेन्सी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'along' means 'सँगै'.",
     "explanation_ne": "‘along’ को अर्थ ‘सँगै’ हो।",
@@ -3978,12 +3708,7 @@
       "Audibly",
       "Silently"
     ],
-    "options_ne": [
-      "चर्को गरी",
-      "बिस्तारै",
-      "सुनिने गरी",
-      "मौन रूपमा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'aloud' means the same as 'loudly'.",
     "explanation_ne": "‘aloud’ को अर्थ ‘loudly’ हो।",
@@ -4048,12 +3773,7 @@
       "Loudly",
       "Quietly"
     ],
-    "options_ne": [
-      "मौन रूपमा",
-      "सुनिने गरी",
-      "चर्को गरी",
-      "बिस्तारै"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'aloud' is 'silently'.",
     "explanation_ne": "‘aloud’ को विलोम ‘silently’ हो।",
@@ -4153,12 +3873,7 @@
       "aloud",
       "bleed"
     ],
-    "options_ne": [
-      "पशु",
-      "बजेट",
-      "चर्को स्वरमा",
-      "रगत बग्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'aloud' means 'चर्को स्वरमा'.",
     "explanation_ne": "‘aloud’ को अर्थ ‘चर्को स्वरमा’ हो।",
@@ -4188,12 +3903,7 @@
       "Beginning",
       "End"
     ],
-    "options_ne": [
-      "पहिलो",
-      "अन्तिम",
-      "सुरुवात",
-      "अन्त्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alpha' means the same as 'first'.",
     "explanation_ne": "‘alpha’ को अर्थ ‘first’ हो।",
@@ -4258,12 +3968,7 @@
       "First",
       "Last"
     ],
-    "options_ne": [
-      "सुरुवात",
-      "अन्त्य",
-      "पहिलो",
-      "अन्तिम"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'alpha' is 'last'.",
     "explanation_ne": "‘alpha’ को विलोम ‘last’ हो।",
@@ -4363,12 +4068,7 @@
       "album",
       "alpha"
     ],
-    "options_ne": [
-      "पहुँच",
-      "बार",
-      "एल्बम",
-      "अल्फा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'alpha' means 'अल्फा'.",
     "explanation_ne": "‘alpha’ को अर्थ ‘अल्फा’ हो।",
@@ -4398,12 +4098,7 @@
       "Modify",
       "Preserve"
     ],
-    "options_ne": [
-      "बदल्नु",
-      "राख्नु",
-      "परिमार्जन गर्नु",
-      "जोगाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'alter' means the same as 'change'.",
     "explanation_ne": "‘alter’ को अर्थ ‘change’ हो।",
@@ -4468,12 +4163,7 @@
       "Preserve",
       "Change"
     ],
-    "options_ne": [
-      "राख्नु",
-      "परिमार्जन गर्नु",
-      "जोगाउनु",
-      "बदल्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'alter' is 'keep'.",
     "explanation_ne": "‘alter’ को विलोम ‘keep’ हो।",
@@ -4573,12 +4263,7 @@
       "brother",
       "bring"
     ],
-    "options_ne": [
-      "सँगै",
-      "परिवर्तन गर्नु",
-      "भाइ",
-      "ल्याउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'alter' means 'परिवर्तन गर्नु'.",
     "explanation_ne": "‘alter’ को अर्थ ‘परिवर्तन गर्नु’ हो।",
@@ -4608,12 +4293,7 @@
       "Bore",
       "Surprise"
     ],
-    "options_ne": [
-      "आश्चर्यचकित पार्नु",
-      "शान्त पार्नु",
-      "विरक्त पार्नु",
-      "आश्चर्य पार्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'amaze' means the same as 'astonish'.",
     "explanation_ne": "‘amaze’ को अर्थ ‘astonish’ हो।",
@@ -4678,12 +4358,7 @@
       "Calm",
       "Bore"
     ],
-    "options_ne": [
-      "आश्चर्य पार्नु",
-      "आश्चर्यचकित पार्नु",
-      "शान्त पार्नु",
-      "विरक्त पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'amaze' is 'bore'.",
     "explanation_ne": "‘amaze’ को विलोम ‘bore’ हो।",
@@ -4783,12 +4458,7 @@
       "beat",
       "bit"
     ],
-    "options_ne": [
-      "चकित पार्नु",
-      "गोडा",
-      "पिट्नु",
-      "टुक्रा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'amaze' means 'चकित पार्नु'.",
     "explanation_ne": "‘amaze’ को अर्थ ‘चकित पार्नु’ हो।",
@@ -4818,12 +4488,7 @@
       "Yellow",
       "Orange"
     ],
-    "options_ne": [
-      "राल",
-      "सुन",
-      "पहेँलो",
-      "सुन्तला"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'amber' means the same as 'yellow'.",
     "explanation_ne": "‘amber’ को अर्थ ‘yellow’ हो।",
@@ -4888,12 +4553,7 @@
       "Resin",
       "Orange"
     ],
-    "options_ne": [
-      "सुन",
-      "पहेँलो",
-      "राल",
-      "सुन्तला"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'amber' is 'resin'.",
     "explanation_ne": "‘amber’ को विलोम ‘resin’ हो।",
@@ -4993,12 +4653,7 @@
       "awake",
       "action"
     ],
-    "options_ne": [
-      "बाधा",
-      "अम्बर",
-      "ब्यूँझेको",
-      "कार्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'amber' means 'अम्बर'.",
     "explanation_ne": "‘amber’ को अर्थ ‘अम्बर’ हो।",
@@ -5028,12 +4683,7 @@
       "Worsen",
       "Correct"
     ],
-    "options_ne": [
-      "बिगार्नु",
-      "सुधार गर्नु",
-      "खराब बनाउनु",
-      "सच्याउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'amend' means the same as 'correct'.",
     "explanation_ne": "‘amend’ को अर्थ ‘correct’ हो।",
@@ -5098,12 +4748,7 @@
       "Correct",
       "Worsen"
     ],
-    "options_ne": [
-      "बिगार्नु",
-      "सुधार गर्नु",
-      "सच्याउनु",
-      "खराब बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'amend' is 'worsen'.",
     "explanation_ne": "‘amend’ को विलोम ‘worsen’ हो।",
@@ -5203,12 +4848,7 @@
       "army",
       "amend"
     ],
-    "options_ne": [
-      "पिट्नु",
-      "रगत",
-      "सेना",
-      "संशोधन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'amend' means 'संशोधन गर्नु'.",
     "explanation_ne": "‘amend’ को अर्थ ‘संशोधन गर्नु’ हो।",
@@ -5238,12 +4878,7 @@
       "Sum",
       "Number"
     ],
-    "options_ne": [
-      "जम्मा",
-      "मात्रा",
-      "योग",
-      "सङ्ख्या"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'amount' means the same as 'quantity'.",
     "explanation_ne": "‘amount’ को अर्थ ‘quantity’ हो।",
@@ -5308,12 +4943,7 @@
       "Sum",
       "Quantity"
     ],
-    "options_ne": [
-      "जम्मा",
-      "सङ्ख्या",
-      "योग",
-      "मात्रा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'amount' is 'total'.",
     "explanation_ne": "‘amount’ को विलोम ‘total’ हो।",
@@ -5413,12 +5043,7 @@
       "bank",
       "amount"
     ],
-    "options_ne": [
-      "मेहराब",
-      "सम्बन्धित हुनु",
-      "बैंक",
-      "परिमाण"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'amount' means 'परिमाण'.",
     "explanation_ne": "‘amount’ को अर्थ ‘परिमाण’ हो।",
@@ -5448,12 +5073,7 @@
       "Entertain",
       "Annoy"
     ],
-    "options_ne": [
-      "विरक्त पार्नु",
-      "खुसी पार्नु",
-      "मनोरञ्जन गर्नु",
-      "रिस उठाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'amuse' means the same as 'entertain'.",
     "explanation_ne": "‘amuse’ को अर्थ ‘entertain’ हो।",
@@ -5518,12 +5138,7 @@
       "Entertain",
       "Bore"
     ],
-    "options_ne": [
-      "खुसी पार्नु",
-      "रिस उठाउनु",
-      "मनोरञ्जन गर्नु",
-      "विरक्त पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'amuse' is 'bore'.",
     "explanation_ne": "‘amuse’ को विलोम ‘bore’ हो।",
@@ -5623,12 +5238,7 @@
       "amuse",
       "allow"
     ],
-    "options_ne": [
-      "बस",
-      "सन्तुलन",
-      "मनोरञ्जन गर्नु",
-      "अनुमति दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'amuse' means 'मनोरञ्जन गर्नु'.",
     "explanation_ne": "‘amuse’ को अर्थ ‘मनोरञ्जन गर्नु’ हो।",
@@ -5658,12 +5268,7 @@
       "Devil",
       "Demon"
     ],
-    "options_ne": [
-      "आत्मा",
-      "दूत",
-      "शैतान",
-      "राक्षस"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'angel' means the same as 'messenger'.",
     "explanation_ne": "‘angel’ को अर्थ ‘messenger’ हो।",
@@ -5728,12 +5333,7 @@
       "Devil",
       "Messenger"
     ],
-    "options_ne": [
-      "राक्षस",
-      "आत्मा",
-      "शैतान",
-      "दूत"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'angel' is 'devil'.",
     "explanation_ne": "‘angel’ को विलोम ‘devil’ हो।",
@@ -5833,12 +5433,7 @@
       "author",
       "angel"
     ],
-    "options_ne": [
-      "मौरी",
-      "कचौरा",
-      "लेखक",
-      "स्वर्गदूत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'angel' means 'स्वर्गदूत'.",
     "explanation_ne": "‘angel’ को अर्थ ‘स्वर्गदूत’ हो।",
@@ -5868,12 +5463,7 @@
       "Line",
       "Curve"
     ],
-    "options_ne": [
-      "मोड",
-      "कुना",
-      "रेखा",
-      "वक्र"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'angle' means the same as 'corner'.",
     "explanation_ne": "‘angle’ को अर्थ ‘corner’ हो।",
@@ -5938,12 +5528,7 @@
       "Bend",
       "Corner"
     ],
-    "options_ne": [
-      "रेखा",
-      "वक्र",
-      "मोड",
-      "कुना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'angle' is 'bend'.",
     "explanation_ne": "‘angle’ को विलोम ‘bend’ हो।",
@@ -6043,12 +5628,7 @@
       "brown",
       "angle"
     ],
-    "options_ne": [
-      "गोली",
-      "आवेदन दिनु",
-      "खैरो",
-      "कोण"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'angle' means 'कोण'.",
     "explanation_ne": "‘angle’ को अर्थ ‘कोण’ हो।",
@@ -6078,12 +5658,7 @@
       "Beast",
       "Human"
     ],
-    "options_ne": [
-      "प्राणी",
-      "बिरुवा",
-      "पशु",
-      "मानव"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'animal' means the same as 'creature'.",
     "explanation_ne": "‘animal’ को अर्थ ‘creature’ हो।",
@@ -6148,12 +5723,7 @@
       "Beast",
       "Creature"
     ],
-    "options_ne": [
-      "बिरुवा",
-      "मानव",
-      "पशु",
-      "प्राणी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'animal' is 'beast'.",
     "explanation_ne": "‘animal’ को विलोम ‘beast’ हो।",
@@ -6253,12 +5823,7 @@
       "bolt",
       "abate"
     ],
-    "options_ne": [
-      "आधार",
-      "जनावर",
-      "बोल्ट",
-      "कम हुनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'animal' means 'जनावर'.",
     "explanation_ne": "‘animal’ को अर्थ ‘जनावर’ हो।",
@@ -6288,12 +5853,7 @@
       "Knee",
       "Joint"
     ],
-    "options_ne": [
-      "नाडी",
-      "खुट्टा",
-      "घुँडा",
-      "जोर्नी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'ankle' means the same as 'joint'.",
     "explanation_ne": "‘ankle’ को अर्थ ‘joint’ हो।",
@@ -6358,12 +5918,7 @@
       "Foot",
       "Knee"
     ],
-    "options_ne": [
-      "नाडी",
-      "जोर्नी",
-      "खुट्टा",
-      "घुँडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'ankle' is 'foot'.",
     "explanation_ne": "‘ankle’ को विलोम ‘foot’ हो।",
@@ -6463,12 +6018,7 @@
       "balance",
       "article"
     ],
-    "options_ne": [
-      "कचौरा",
-      "गोडा",
-      "सन्तुलन",
-      "लेख"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'ankle' means 'गोडा'.",
     "explanation_ne": "‘ankle’ को अर्थ ‘गोडा’ हो।",
@@ -6498,12 +6048,7 @@
       "Please",
       "Bother"
     ],
-    "options_ne": [
-      "शान्त पार्नु",
-      "झर्काउनु",
-      "खुसी पार्नु",
-      "हैरान पार्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'annoy' means the same as 'irritate'.",
     "explanation_ne": "‘annoy’ को अर्थ ‘irritate’ हो।",
@@ -6568,12 +6113,7 @@
       "Irritate",
       "Please"
     ],
-    "options_ne": [
-      "शान्त पार्नु",
-      "हैरान पार्नु",
-      "झर्काउनु",
-      "खुसी पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'annoy' is 'please'.",
     "explanation_ne": "‘annoy’ को विलोम ‘please’ हो।",
@@ -6673,12 +6213,7 @@
       "burden",
       "bolt"
     ],
-    "options_ne": [
-      "रिस उठाउनु",
-      "पालना गर्नु",
-      "भार",
-      "बोल्ट"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'annoy' means 'रिस उठाउनु'.",
     "explanation_ne": "‘annoy’ को अर्थ ‘रिस उठाउनु’ हो।",
@@ -6708,12 +6243,7 @@
       "Melody",
       "Hymn"
     ],
-    "options_ne": [
-      "लय",
-      "गीत",
-      "धुन",
-      "भजन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'anthem' means the same as 'song'.",
     "explanation_ne": "‘anthem’ को अर्थ ‘song’ हो।",
@@ -6778,12 +6308,7 @@
       "Hymn",
       "Tune"
     ],
-    "options_ne": [
-      "धुन",
-      "गीत",
-      "भजन",
-      "लय"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'anthem' is 'hymn'.",
     "explanation_ne": "‘anthem’ को विलोम ‘hymn’ हो।",
@@ -6883,12 +6408,7 @@
       "button",
       "abort"
     ],
-    "options_ne": [
-      "श्वास",
-      "गान",
-      "बटन",
-      "रद्द गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'anthem' means 'गान'.",
     "explanation_ne": "‘anthem’ को अर्थ ‘गान’ हो।",
@@ -6918,12 +6438,7 @@
       "Near",
       "Away"
     ],
-    "options_ne": [
-      "सँगै",
-      "अलग",
-      "नजिक",
-      "टाढा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'apart' means the same as 'separate'.",
     "explanation_ne": "‘apart’ को अर्थ ‘separate’ हो।",
@@ -6988,12 +6503,7 @@
       "Separate",
       "Together"
     ],
-    "options_ne": [
-      "नजिक",
-      "टाढा",
-      "अलग",
-      "सँगै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'apart' is 'together'.",
     "explanation_ne": "‘apart’ को विलोम ‘together’ हो।",
@@ -7093,12 +6603,7 @@
       "bare",
       "autumn"
     ],
-    "options_ne": [
-      "ब्याज",
-      "छुट्टै",
-      "नाङ्गो",
-      "शरद्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'apart' means 'छुट्टै'.",
     "explanation_ne": "‘apart’ को अर्थ ‘छुट्टै’ हो।",
@@ -7128,12 +6633,7 @@
       "Request",
       "Plea"
     ],
-    "options_ne": [
-      "आदेश",
-      "माग",
-      "अनुरोध",
-      "याचना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'appeal' means the same as 'request'.",
     "explanation_ne": "‘appeal’ को अर्थ ‘request’ हो।",
@@ -7198,12 +6698,7 @@
       "Order",
       "Plea"
     ],
-    "options_ne": [
-      "माग",
-      "अनुरोध",
-      "आदेश",
-      "याचना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'appeal' is 'plea'.",
     "explanation_ne": "‘appeal’ को विलोम ‘plea’ हो।",
@@ -7303,12 +6798,7 @@
       "arrow",
       "barrier"
     ],
-    "options_ne": [
-      "लेखक",
-      "अपिल",
-      "बाण",
-      "बाधा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'appeal' means 'अपिल'.",
     "explanation_ne": "‘appeal’ को अर्थ ‘अपिल’ हो।",
@@ -7338,12 +6828,7 @@
       "Disappear",
       "Show"
     ],
-    "options_ne": [
-      "गायब हुनु",
-      "निस्कनु",
-      "हराउनु",
-      "देखाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'appear' means the same as 'emerge'.",
     "explanation_ne": "‘appear’ को अर्थ ‘emerge’ हो।",
@@ -7408,12 +6893,7 @@
       "Show",
       "Disappear"
     ],
-    "options_ne": [
-      "गायब हुनु",
-      "निस्कनु",
-      "देखाउनु",
-      "हराउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'appear' is 'disappear'.",
     "explanation_ne": "‘appear’ को विलोम ‘disappear’ हो।",
@@ -7513,12 +6993,7 @@
       "Fruit",
       "Mango"
     ],
-    "options_ne": [
-      "केरा",
-      "तरकारी",
-      "फल",
-      "आँप"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'apple' means the same as 'fruit'.",
     "explanation_ne": "‘apple’ को अर्थ ‘fruit’ हो।",
@@ -7583,12 +7058,7 @@
       "Banana",
       "Mango"
     ],
-    "options_ne": [
-      "फल",
-      "तरकारी",
-      "केरा",
-      "आँप"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'apple' is 'mango'.",
     "explanation_ne": "‘apple’ को विलोम ‘mango’ हो।",
@@ -7688,12 +7158,7 @@
       "bore",
       "beyond"
     ],
-    "options_ne": [
-      "स्वयंसिद्ध",
-      "स्याउ",
-      "बोर गर्नु",
-      "पारि"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'apple' means 'स्याउ'.",
     "explanation_ne": "‘apple’ को अर्थ ‘स्याउ’ हो।",
@@ -7723,12 +7188,7 @@
       "Withdraw",
       "Ignore"
     ],
-    "options_ne": [
-      "खोज्नु",
-      "अनुरोध गर्नु",
-      "फिर्ता लिनु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'apply' means the same as 'request'.",
     "explanation_ne": "‘apply’ को अर्थ ‘request’ हो।",
@@ -7793,12 +7253,7 @@
       "Ignore",
       "Withdraw"
     ],
-    "options_ne": [
-      "खोज्नु",
-      "अनुरोध गर्नु",
-      "बेवास्ता गर्नु",
-      "फिर्ता लिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'apply' is 'withdraw'.",
     "explanation_ne": "‘apply’ को विलोम ‘withdraw’ हो।",
@@ -7898,12 +7353,7 @@
       "bone",
       "abide"
     ],
-    "options_ne": [
-      "अनुमति दिनु",
-      "आवेदन दिनु",
-      "हाड",
-      "पालना गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'apply' means 'आवेदन दिनु'.",
     "explanation_ne": "‘apply’ को अर्थ ‘आवेदन दिनु’ हो।",
@@ -7933,12 +7383,7 @@
       "March",
       "Month"
     ],
-    "options_ne": [
-      "जुन",
-      "मे",
-      "मार्च",
-      "महिना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'april' means the same as 'month'.",
     "explanation_ne": "‘april’ को अर्थ ‘month’ हो।",
@@ -8003,12 +7448,7 @@
       "May",
       "Month"
     ],
-    "options_ne": [
-      "जुन",
-      "मार्च",
-      "मे",
-      "महिना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'april' is 'may'.",
     "explanation_ne": "‘april’ को विलोम ‘may’ हो।",
@@ -8108,12 +7548,7 @@
       "berry",
       "board"
     ],
-    "options_ne": [
-      "अप्रिल",
-      "व्यवहार गर्नु",
-      "बेरी",
-      "बोर्ड"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'april' means 'अप्रिल'.",
     "explanation_ne": "‘april’ को अर्थ ‘अप्रिल’ हो।",
@@ -8143,12 +7578,7 @@
       "Curve",
       "Line"
     ],
-    "options_ne": [
-      "पुल",
-      "गुम्बज",
-      "वक्र",
-      "रेखा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'arch' means the same as 'curve'.",
     "explanation_ne": "‘arch’ को अर्थ ‘curve’ हो।",
@@ -8213,12 +7643,7 @@
       "Dome",
       "Line"
     ],
-    "options_ne": [
-      "वक्र",
-      "पुल",
-      "गुम्बज",
-      "रेखा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'arch' is 'bridge'.",
     "explanation_ne": "‘arch’ को विलोम ‘bridge’ हो।",
@@ -8318,12 +7743,7 @@
       "axiom",
       "beer"
     ],
-    "options_ne": [
-      "मेहराब",
-      "सीमा",
-      "स्वयंसिद्ध",
-      "बियर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'arch' means 'मेहराब'.",
     "explanation_ne": "‘arch’ को अर्थ ‘मेहराब’ हो।",
@@ -8353,12 +7773,7 @@
       "Stadium",
       "Field"
     ],
-    "options_ne": [
-      "मञ्च",
-      "हल",
-      "स्टेडियम",
-      "मैदान"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'arena' means the same as 'stadium'.",
     "explanation_ne": "‘arena’ को अर्थ ‘stadium’ हो।",
@@ -8423,12 +7838,7 @@
       "Field",
       "Stadium"
     ],
-    "options_ne": [
-      "हल",
-      "मञ्च",
-      "मैदान",
-      "स्टेडियम"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'arena' is 'stage'.",
     "explanation_ne": "‘arena’ को विलोम ‘stage’ हो।",
@@ -8528,12 +7938,7 @@
       "action",
       "arena"
     ],
-    "options_ne": [
-      "अगस्ट",
-      "गान",
-      "कार्य",
-      "रङ्गशाला"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'arena' means 'रङ्गशाला'.",
     "explanation_ne": "‘arena’ को अर्थ ‘रङ्गशाला’ हो।",
@@ -8563,12 +7968,7 @@
       "Debate",
       "Accept"
     ],
-    "options_ne": [
-      "विवाद गर्नु",
-      "सहमत हुनु",
-      "वादविवाद गर्नु",
-      "स्वीकार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'argue' means the same as 'debate'.",
     "explanation_ne": "‘argue’ को अर्थ ‘debate’ हो।",
@@ -8633,12 +8033,7 @@
       "Dispute",
       "Agree"
     ],
-    "options_ne": [
-      "वादविवाद गर्नु",
-      "स्वीकार्नु",
-      "विवाद गर्नु",
-      "सहमत हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'argue' is 'agree'.",
     "explanation_ne": "‘argue’ को विलोम ‘agree’ हो।",
@@ -8738,12 +8133,7 @@
       "abort",
       "argue"
     ],
-    "options_ne": [
-      "नीलो",
-      "फुट्नु",
-      "रद्द गर्नु",
-      "बहस गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'argue' means 'बहस गर्नु'.",
     "explanation_ne": "‘argue’ को अर्थ ‘बहस गर्नु’ हो।",
@@ -8773,12 +8163,7 @@
       "Emerge",
       "Sink"
     ],
-    "options_ne": [
-      "खस्नु",
-      "उठ्नु",
-      "निस्कनु",
-      "डुब्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'arise' means the same as 'rise'.",
     "explanation_ne": "‘arise’ को अर्थ ‘rise’ हो।",
@@ -8843,12 +8228,7 @@
       "Rise",
       "Fall"
     ],
-    "options_ne": [
-      "डुब्नु",
-      "निस्कनु",
-      "उठ्नु",
-      "खस्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'arise' is 'fall'.",
     "explanation_ne": "‘arise’ को विलोम ‘fall’ हो।",
@@ -8948,12 +8328,7 @@
       "Military",
       "Police"
     ],
-    "options_ne": [
-      "बल",
-      "नौसेना",
-      "सैन्य",
-      "प्रहरी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'army' means the same as 'military'.",
     "explanation_ne": "‘army’ को अर्थ ‘military’ हो।",
@@ -9018,12 +8393,7 @@
       "Police",
       "Force"
     ],
-    "options_ne": [
-      "सैन्य",
-      "नौसेना",
-      "प्रहरी",
-      "बल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'army' is 'navy'.",
     "explanation_ne": "‘army’ को विलोम ‘navy’ हो।",
@@ -9123,12 +8493,7 @@
       "army",
       "bid"
     ],
-    "options_ne": [
-      "शरद्",
-      "सौन्दर्य",
-      "सेना",
-      "बोली लगाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'army' means 'सेना'.",
     "explanation_ne": "‘army’ को अर्थ ‘सेना’ हो।",
@@ -9158,12 +8523,7 @@
       "About",
       "Far"
     ],
-    "options_ne": [
-      "वरपर",
-      "नजिक",
-      "लगभग",
-      "टाढा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'around' means the same as 'about'.",
     "explanation_ne": "‘around’ को अर्थ ‘about’ हो।",
@@ -9228,12 +8588,7 @@
       "About",
       "Near"
     ],
-    "options_ne": [
-      "वरपर",
-      "टाढा",
-      "लगभग",
-      "नजिक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'around' is 'near'.",
     "explanation_ne": "‘around’ को विलोम ‘near’ हो।",
@@ -9333,12 +8688,7 @@
       "arch",
       "branch"
     ],
-    "options_ne": [
-      "पक्राउ गर्नु",
-      "वरिपरि",
-      "मेहराब",
-      "हाँगा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'around' means 'वरिपरि'.",
     "explanation_ne": "‘around’ को अर्थ ‘वरिपरि’ हो।",
@@ -9368,12 +8718,7 @@
       "Seize",
       "Release"
     ],
-    "options_ne": [
-      "समात्नु",
-      "मुक्त गर्नु",
-      "पक्रनु",
-      "छोड्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'arrest' means the same as 'capture'.",
     "explanation_ne": "‘arrest’ को अर्थ ‘capture’ हो।",
@@ -9438,12 +8783,7 @@
       "Release",
       "Capture"
     ],
-    "options_ne": [
-      "पक्रनु",
-      "मुक्त गर्नु",
-      "छोड्नु",
-      "समात्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'arrest' is 'release'.",
     "explanation_ne": "‘arrest’ को विलोम ‘release’ हो।",
@@ -9543,12 +8883,7 @@
       "appear",
       "bake"
     ],
-    "options_ne": [
-      "पक्राउ गर्नु",
-      "अनुमति दिनु",
-      "देखिनु",
-      "सेक्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'arrest' means 'पक्राउ गर्नु'.",
     "explanation_ne": "‘arrest’ को अर्थ ‘पक्राउ गर्नु’ हो।",
@@ -9578,12 +8913,7 @@
       "Sword",
       "Dart"
     ],
-    "options_ne": [
-      "भाला",
-      "धनुष",
-      "तरवार",
-      "तीर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'arrow' means the same as 'dart'.",
     "explanation_ne": "‘arrow’ को अर्थ ‘dart’ हो।",
@@ -9648,12 +8978,7 @@
       "Bow",
       "Sword"
     ],
-    "options_ne": [
-      "तीर",
-      "भाला",
-      "धनुष",
-      "तरवार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'arrow' is 'bow'.",
     "explanation_ne": "‘arrow’ को विलोम ‘bow’ हो।",
@@ -9753,12 +9078,7 @@
       "amend",
       "amaze"
     ],
-    "options_ne": [
-      "स्याउ",
-      "बाण",
-      "संशोधन गर्नु",
-      "चकित पार्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'arrow' means 'बाण'.",
     "explanation_ne": "‘arrow’ को अर्थ ‘बाण’ हो।",
@@ -9788,12 +9108,7 @@
       "Essay",
       "Item"
     ],
-    "options_ne": [
-      "कथा",
-      "टुक्रा",
-      "निबन्ध",
-      "वस्तु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'article' means the same as 'essay'.",
     "explanation_ne": "‘article’ को अर्थ ‘essay’ हो।",
@@ -9858,12 +9173,7 @@
       "Piece",
       "Essay"
     ],
-    "options_ne": [
-      "वस्तु",
-      "कथा",
-      "टुक्रा",
-      "निबन्ध"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'article' is 'item'.",
     "explanation_ne": "‘article’ को विलोम ‘item’ हो।",
@@ -9963,12 +9273,7 @@
       "brush",
       "bit"
     ],
-    "options_ne": [
-      "श्वास",
-      "लेख",
-      "ब्रस",
-      "टुक्रा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'article' means 'लेख'.",
     "explanation_ne": "‘article’ को अर्थ ‘लेख’ हो।",
@@ -9998,12 +9303,7 @@
       "Creator",
       "Writer"
     ],
-    "options_ne": [
-      "चित्रकार",
-      "गायक",
-      "सिर्जनाकर्ता",
-      "लेखक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'artist' means the same as 'painter'.",
     "explanation_ne": "‘artist’ को अर्थ ‘painter’ हो।",
@@ -10068,12 +9368,7 @@
       "Writer",
       "Singer"
     ],
-    "options_ne": [
-      "चित्रकार",
-      "सिर्जनाकर्ता",
-      "लेखक",
-      "गायक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'artist' is 'creator'.",
     "explanation_ne": "‘artist’ को विलोम ‘creator’ हो।",
@@ -10173,12 +9468,7 @@
       "artist",
       "base"
     ],
-    "options_ne": [
-      "सहयोग गर्नु",
-      "बोर्ड",
-      "कलाकार",
-      "आधार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'artist' means 'कलाकार'.",
     "explanation_ne": "‘artist’ को अर्थ ‘कलाकार’ हो।",
@@ -10208,12 +9498,7 @@
       "Shameful",
       "Proud"
     ],
-    "options_ne": [
-      "सम्मानित",
-      "लाज लागेको",
-      "लज्जास्पद",
-      "गर्वित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'ashamed' means the same as 'embarrassed'.",
     "explanation_ne": "‘ashamed’ को अर्थ ‘embarrassed’ हो।",
@@ -10278,12 +9563,7 @@
       "Embarrassed",
       "Proud"
     ],
-    "options_ne": [
-      "लज्जास्पद",
-      "सम्मानित",
-      "लाज लागेको",
-      "गर्वित"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'ashamed' is 'proud'.",
     "explanation_ne": "‘ashamed’ को विलोम ‘proud’ हो।",
@@ -10383,12 +9663,7 @@
       "brand",
       "along"
     ],
-    "options_ne": [
-      "पक्ष",
-      "लज्जित",
-      "ब्रान्ड",
-      "सँगै"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'ashamed' means 'लज्जित'.",
     "explanation_ne": "‘ashamed’ को अर्थ ‘लज्जित’ हो।",
@@ -10418,12 +9693,7 @@
       "Near",
       "Apart"
     ],
-    "options_ne": [
-      "टाढा",
-      "छेउमा",
-      "नजिक",
-      "छुट्टै"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'aside' means the same as 'beside'.",
     "explanation_ne": "‘aside’ को अर्थ ‘beside’ हो।",
@@ -10488,12 +9758,7 @@
       "Beside",
       "Near"
     ],
-    "options_ne": [
-      "टाढा",
-      "छुट्टै",
-      "छेउमा",
-      "नजिक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'aside' is 'apart'.",
     "explanation_ne": "‘aside’ को विलोम ‘apart’ हो।",
@@ -10593,12 +9858,7 @@
       "base",
       "aside"
     ],
-    "options_ne": [
-      "अम्बर",
-      "भाँचिएको",
-      "आधार",
-      "छेउमा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'aside' means 'छेउमा'.",
     "explanation_ne": "‘aside’ को अर्थ ‘छेउमा’ हो।",
@@ -10628,12 +9888,7 @@
       "Resting",
       "Awake"
     ],
-    "options_ne": [
-      "सुतिरहेको",
-      "सतर्क",
-      "आराम गरिरहेको",
-      "ब्यूँझेको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'asleep' means the same as 'sleeping'.",
     "explanation_ne": "‘asleep’ को अर्थ ‘sleeping’ हो।",
@@ -10698,12 +9953,7 @@
       "Alert",
       "Resting"
     ],
-    "options_ne": [
-      "सुतिरहेको",
-      "ब्यूँझेको",
-      "सतर्क",
-      "आराम गरिरहेको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'asleep' is 'awake'.",
     "explanation_ne": "‘asleep’ को विलोम ‘awake’ हो।",
@@ -10803,12 +10053,7 @@
       "avenue",
       "basic"
     ],
-    "options_ne": [
-      "निदाएको",
-      "भाइ",
-      "मार्ग",
-      "आधारभूत"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'asleep' means 'निदाएको'.",
     "explanation_ne": "‘asleep’ को अर्थ ‘निदाएको’ हो।",
@@ -10838,12 +10083,7 @@
       "Feature",
       "Part"
     ],
-    "options_ne": [
-      "कोण",
-      "पाटो",
-      "विशेषता",
-      "भाग"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'aspect' means the same as 'side'.",
     "explanation_ne": "‘aspect’ को अर्थ ‘side’ हो।",
@@ -10908,12 +10148,7 @@
       "Side",
       "Part"
     ],
-    "options_ne": [
-      "कोण",
-      "विशेषता",
-      "पाटो",
-      "भाग"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'aspect' is 'feature'.",
     "explanation_ne": "‘aspect’ को विलोम ‘feature’ हो।",
@@ -11013,12 +10248,7 @@
       "amend",
       "blood"
     ],
-    "options_ne": [
-      "बम",
-      "पक्ष",
-      "संशोधन गर्नु",
-      "रगत"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'aspect' means 'पक्ष'.",
     "explanation_ne": "‘aspect’ को अर्थ ‘पक्ष’ हो।",
@@ -11048,12 +10278,7 @@
       "Hinder",
       "Help"
     ],
-    "options_ne": [
-      "अवरोध गर्नु",
-      "सहायता गर्नु",
-      "बाधा पुर्‍याउनु",
-      "मद्दत गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'assist' means the same as 'help'.",
     "explanation_ne": "‘assist’ को अर्थ ‘help’ हो।",
@@ -11118,12 +10343,7 @@
       "Obstruct",
       "Hinder"
     ],
-    "options_ne": [
-      "सहायता गर्नु",
-      "मद्दत गर्नु",
-      "अवरोध गर्नु",
-      "बाधा पुर्‍याउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'assist' is 'hinder'.",
     "explanation_ne": "‘assist’ को विलोम ‘hinder’ हो।",
@@ -11223,12 +10443,7 @@
       "both",
       "assist"
     ],
-    "options_ne": [
-      "टोक्नु",
-      "दाह्री",
-      "दुवै",
-      "सहयोग गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'assist' means 'सहयोग गर्नु'.",
     "explanation_ne": "‘assist’ को अर्थ ‘सहयोग गर्नु’ हो।",
@@ -11258,12 +10473,7 @@
       "Presume",
       "Suppose"
     ],
-    "options_ne": [
-      "अस्वीकार गर्नु",
-      "जान्नु",
-      "अनुमान गर्नु",
-      "सोच्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'assume' means the same as 'presume'.",
     "explanation_ne": "‘assume’ को अर्थ ‘presume’ हो।",
@@ -11328,12 +10538,7 @@
       "Know",
       "Deny"
     ],
-    "options_ne": [
-      "अनुमान गर्नु",
-      "सोच्नु",
-      "जान्नु",
-      "अस्वीकार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'assume' is 'know'.",
     "explanation_ne": "‘assume’ को विलोम ‘know’ हो।",
@@ -11433,12 +10638,7 @@
       "behave",
       "action"
     ],
-    "options_ne": [
-      "आशीर्वाद दिनु",
-      "मान्नु",
-      "व्यवहार गर्नु",
-      "कार्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'assume' means 'मान्नु'.",
     "explanation_ne": "‘assume’ को अर्थ ‘मान्नु’ हो।",
@@ -11468,12 +10668,7 @@
       "Promise",
       "Doubt"
     ],
-    "options_ne": [
-      "ग्यारेन्टी दिनु",
-      "चेतावनी दिनु",
-      "प्रतिज्ञा गर्नु",
-      "शङ्का गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'assure' means the same as 'guarantee'.",
     "explanation_ne": "‘assure’ को अर्थ ‘guarantee’ हो।",
@@ -11538,12 +10733,7 @@
       "Doubt",
       "Promise"
     ],
-    "options_ne": [
-      "ग्यारेन्टी दिनु",
-      "चेतावनी दिनु",
-      "शङ्का गर्नु",
-      "प्रतिज्ञा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'assure' is 'doubt'.",
     "explanation_ne": "‘assure’ को विलोम ‘doubt’ हो।",
@@ -11643,12 +10833,7 @@
       "april",
       "assure"
     ],
-    "options_ne": [
-      "जीवित",
-      "बार",
-      "अप्रिल",
-      "आश्वासन दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'assure' means 'आश्वासन दिनु'.",
     "explanation_ne": "‘assure’ को अर्थ ‘आश्वासन दिनु’ हो।",
@@ -11678,12 +10863,7 @@
       "Player",
       "Runner"
     ],
-    "options_ne": [
-      "खेलकुदकर्ता",
-      "दर्शक",
-      "खेलाडी",
-      "धावक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'athlete' means the same as 'sportsman'.",
     "explanation_ne": "‘athlete’ को अर्थ ‘sportsman’ हो।",
@@ -11748,12 +10928,7 @@
       "Player",
       "Runner"
     ],
-    "options_ne": [
-      "खेलकुदकर्ता",
-      "दर्शक",
-      "खेलाडी",
-      "धावक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'athlete' is 'player'.",
     "explanation_ne": "‘athlete’ को विलोम ‘player’ हो।",
@@ -11853,12 +11028,7 @@
       "bottom",
       "bucket"
     ],
-    "options_ne": [
-      "खेलाडी",
-      "सतर्क",
-      "तल्लो भाग",
-      "बाल्टी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'athlete' means 'खेलाडी'.",
     "explanation_ne": "‘athlete’ को अर्थ ‘खेलाडी’ हो।",
@@ -11888,12 +11058,7 @@
       "Achievement",
       "Effort"
     ],
-    "options_ne": [
-      "सफलता",
-      "कोसिस",
-      "उपलब्धि",
-      "प्रयत्न"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'attempt' means the same as 'try'.",
     "explanation_ne": "‘attempt’ को अर्थ ‘try’ हो।",
@@ -11958,12 +11123,7 @@
       "Try",
       "Effort"
     ],
-    "options_ne": [
-      "सफलता",
-      "उपलब्धि",
-      "कोसिस",
-      "प्रयत्न"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'attempt' is 'effort'.",
     "explanation_ne": "‘attempt’ को विलोम ‘effort’ हो।",
@@ -12063,12 +11223,7 @@
       "Absent",
       "Be present"
     ],
-    "options_ne": [
-      "सामेल हुनु",
-      "छुटाउनु",
-      "अनुपस्थित हुनु",
-      "उपस्थित हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'attend' means the same as 'be present'.",
     "explanation_ne": "‘attend’ को अर्थ ‘be present’ हो।",
@@ -12133,12 +11288,7 @@
       "Be present",
       "Absent"
     ],
-    "options_ne": [
-      "छुटाउनु",
-      "सामेल हुनु",
-      "उपस्थित हुनु",
-      "अनुपस्थित हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'attend' is 'absent'.",
     "explanation_ne": "‘attend’ को विलोम ‘absent’ हो।",
@@ -12238,12 +11388,7 @@
       "attend",
       "ashamed"
     ],
-    "options_ne": [
-      "ब्रस",
-      "सम्बन्धित हुनु",
-      "उपस्थित हुनु",
-      "लज्जित"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'attend' means 'उपस्थित हुनु'.",
     "explanation_ne": "‘attend’ को अर्थ ‘उपस्थित हुनु’ हो।",
@@ -12273,12 +11418,7 @@
       "View",
       "Behaviour"
     ],
-    "options_ne": [
-      "दृष्टिकोण",
-      "मनोदशा",
-      "विचार",
-      "व्यवहार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'attitude' means the same as 'outlook'.",
     "explanation_ne": "‘attitude’ को अर्थ ‘outlook’ हो।",
@@ -12343,12 +11483,7 @@
       "Mood",
       "Behaviour"
     ],
-    "options_ne": [
-      "दृष्टिकोण",
-      "विचार",
-      "मनोदशा",
-      "व्यवहार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'attitude' is 'behaviour'.",
     "explanation_ne": "‘attitude’ को विलोम ‘behaviour’ हो।",
@@ -12448,12 +11583,7 @@
       "break",
       "attitude"
     ],
-    "options_ne": [
-      "आवेदन दिनु",
-      "कलाकार",
-      "भाँच्नु",
-      "मनोवृत्ति"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'attitude' means 'मनोवृत्ति'.",
     "explanation_ne": "‘attitude’ को अर्थ ‘मनोवृत्ति’ हो।",
@@ -12483,12 +11613,7 @@
       "Voice",
       "Video"
     ],
-    "options_ne": [
-      "सङ्गीत",
-      "ध्वनि",
-      "आवाज",
-      "भिडियो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'audio' means the same as 'sound'.",
     "explanation_ne": "‘audio’ को अर्थ ‘sound’ हो।",
@@ -12553,12 +11678,7 @@
       "Sound",
       "Video"
     ],
-    "options_ne": [
-      "सङ्गीत",
-      "आवाज",
-      "ध्वनि",
-      "भिडियो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'audio' is 'voice'.",
     "explanation_ne": "‘audio’ को विलोम ‘voice’ हो।",
@@ -12658,12 +11778,7 @@
       "audio",
       "bride"
     ],
-    "options_ne": [
-      "पक्ष",
-      "एजेन्सी",
-      "अडियो",
-      "दुलही"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'audio' means 'अडियो'.",
     "explanation_ne": "‘audio’ को अर्थ ‘अडियो’ हो।",
@@ -12693,12 +11808,7 @@
       "Examination",
       "Check"
     ],
-    "options_ne": [
-      "निरीक्षण",
-      "समीक्षा",
-      "परीक्षण",
-      "जाँच"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'audit' means the same as 'inspection'.",
     "explanation_ne": "‘audit’ को अर्थ ‘inspection’ हो।",
@@ -12763,12 +11873,7 @@
       "Inspection",
       "Examination"
     ],
-    "options_ne": [
-      "समीक्षा",
-      "जाँच",
-      "निरीक्षण",
-      "परीक्षण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'audit' is 'check'.",
     "explanation_ne": "‘audit’ को विलोम ‘check’ हो।",
@@ -12868,12 +11973,7 @@
       "arrow",
       "borrow"
     ],
-    "options_ne": [
-      "शरद्",
-      "लेखापरीक्षण",
-      "बाण",
-      "सापट लिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'audit' means 'लेखापरीक्षण'.",
     "explanation_ne": "‘audit’ को अर्थ ‘लेखापरीक्षण’ हो।",
@@ -12903,12 +12003,7 @@
       "June",
       "July"
     ],
-    "options_ne": [
-      "महिना",
-      "सेप्टेम्बर",
-      "जुन",
-      "जुलाई"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'august' means the same as 'month'.",
     "explanation_ne": "‘august’ को अर्थ ‘month’ हो।",
@@ -12973,12 +12068,7 @@
       "July",
       "June"
     ],
-    "options_ne": [
-      "सेप्टेम्बर",
-      "महिना",
-      "जुलाई",
-      "जुन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'august' is 'july'.",
     "explanation_ne": "‘august’ को विलोम ‘july’ हो।",
@@ -13078,12 +12168,7 @@
       "bargain",
       "alive"
     ],
-    "options_ne": [
-      "अगस्ट",
-      "सँगै",
-      "सौदा",
-      "जीवित"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'august' means 'अगस्ट'.",
     "explanation_ne": "‘august’ को अर्थ ‘अगस्ट’ हो।",
@@ -13113,12 +12198,7 @@
       "Poet",
       "Novelist"
     ],
-    "options_ne": [
-      "पाठक",
-      "लेखक",
-      "कवि",
-      "उपन्यासकार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'author' means the same as 'writer'.",
     "explanation_ne": "‘author’ को अर्थ ‘writer’ हो।",
@@ -13183,12 +12263,7 @@
       "Poet",
       "Reader"
     ],
-    "options_ne": [
-      "उपन्यासकार",
-      "लेखक",
-      "कवि",
-      "पाठक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'author' is 'poet'.",
     "explanation_ne": "‘author’ को विलोम ‘poet’ हो।",
@@ -13288,12 +12363,7 @@
       "assume",
       "behave"
     ],
-    "options_ne": [
-      "लेखक",
-      "गाईको मासु",
-      "मान्नु",
-      "व्यवहार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'author' means 'लेखक'.",
     "explanation_ne": "‘author’ को अर्थ ‘लेखक’ हो।",
@@ -13323,12 +12393,7 @@
       "Summer",
       "Season"
     ],
-    "options_ne": [
-      "वसन्त",
-      "पतझड",
-      "ग्रीष्म",
-      "ऋतु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'autumn' means the same as 'fall'.",
     "explanation_ne": "‘autumn’ को अर्थ ‘fall’ हो।",
@@ -13393,12 +12458,7 @@
       "Summer",
       "Fall"
     ],
-    "options_ne": [
-      "ऋतु",
-      "वसन्त",
-      "ग्रीष्म",
-      "पतझड"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'autumn' is 'season'.",
     "explanation_ne": "‘autumn’ को विलोम ‘season’ हो।",
@@ -13498,12 +12558,7 @@
       "around",
       "army"
     ],
-    "options_ne": [
-      "भाँचिएको",
-      "शरद्",
-      "वरिपरि",
-      "सेना"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'autumn' means 'शरद्'.",
     "explanation_ne": "‘autumn’ को अर्थ ‘शरद्’ हो।",
@@ -13533,12 +12588,7 @@
       "Road",
       "Lane"
     ],
-    "options_ne": [
-      "गल्ली",
-      "पथ",
-      "सडक",
-      "बाटो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'avenue' means the same as 'road'.",
     "explanation_ne": "‘avenue’ को अर्थ ‘road’ हो।",
@@ -13603,12 +12653,7 @@
       "Road",
       "Path"
     ],
-    "options_ne": [
-      "बाटो",
-      "गल्ली",
-      "सडक",
-      "पथ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'avenue' is 'street'.",
     "explanation_ne": "‘avenue’ को विलोम ‘street’ हो।",
@@ -13708,12 +12753,7 @@
       "bottom",
       "avenue"
     ],
-    "options_ne": [
-      "सोस्नु",
-      "फुट्नु",
-      "तल्लो भाग",
-      "मार्ग"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'avenue' means 'मार्ग'.",
     "explanation_ne": "‘avenue’ को अर्थ ‘मार्ग’ हो।",
@@ -13743,12 +12783,7 @@
       "Mean",
       "Exceptional"
     ],
-    "options_ne": [
-      "सामान्य",
-      "साधारण",
-      "मध्यक",
-      "असाधारण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'average' means the same as 'mean'.",
     "explanation_ne": "‘average’ को अर्थ ‘mean’ हो।",
@@ -13813,12 +12848,7 @@
       "Normal",
       "Mean"
     ],
-    "options_ne": [
-      "साधारण",
-      "असाधारण",
-      "सामान्य",
-      "मध्यक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'average' is 'normal'.",
     "explanation_ne": "‘average’ को विलोम ‘normal’ हो।",
@@ -13918,12 +12948,7 @@
       "august",
       "amber"
     ],
-    "options_ne": [
-      "औसत",
-      "बाल्टी",
-      "अगस्ट",
-      "अम्बर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'average' means 'औसत'.",
     "explanation_ne": "‘average’ को अर्थ ‘औसत’ हो।",
@@ -13953,12 +12978,7 @@
       "Face",
       "Evade"
     ],
-    "options_ne": [
-      "भेट्नु",
-      "त्याग्नु",
-      "सामना गर्नु",
-      "टार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'avoid' means the same as 'evade'.",
     "explanation_ne": "‘avoid’ को अर्थ ‘evade’ हो।",
@@ -14023,12 +13043,7 @@
       "Face",
       "Evade"
     ],
-    "options_ne": [
-      "भेट्नु",
-      "त्याग्नु",
-      "सामना गर्नु",
-      "टार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'avoid' is 'face'.",
     "explanation_ne": "‘avoid’ को विलोम ‘face’ हो।",
@@ -14128,12 +13143,7 @@
       "avoid",
       "bachelor"
     ],
-    "options_ne": [
-      "रगत",
-      "मनोवृत्ति",
-      "बेवास्ता गर्नु",
-      "अविवाहित"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'avoid' means 'बेवास्ता गर्नु'.",
     "explanation_ne": "‘avoid’ को अर्थ ‘बेवास्ता गर्नु’ हो।",
@@ -14163,12 +13173,7 @@
       "Asleep",
       "Alert"
     ],
-    "options_ne": [
-      "सुतिरहेको",
-      "सचेत",
-      "निदाएको",
-      "सतर्क"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'awake' means the same as 'alert'.",
     "explanation_ne": "‘awake’ को अर्थ ‘alert’ हो।",
@@ -14233,12 +13238,7 @@
       "Sleeping",
       "Asleep"
     ],
-    "options_ne": [
-      "सचेत",
-      "सतर्क",
-      "सुतिरहेको",
-      "निदाएको"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'awake' is 'asleep'.",
     "explanation_ne": "‘awake’ को विलोम ‘asleep’ हो।",
@@ -14338,12 +13338,7 @@
       "asleep",
       "apart"
     ],
-    "options_ne": [
-      "ब्यूँझेको",
-      "अनुमति दिनु",
-      "निदाएको",
-      "छुट्टै"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'awake' means 'ब्यूँझेको'.",
     "explanation_ne": "‘awake’ को अर्थ ‘ब्यूँझेको’ हो।",
@@ -14373,12 +13368,7 @@
       "Punishment",
       "Prize"
     ],
-    "options_ne": [
-      "पुरस्कार",
-      "सम्मान",
-      "सजाय",
-      "इनाम"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'award' means the same as 'prize'.",
     "explanation_ne": "‘award’ को अर्थ ‘prize’ हो।",
@@ -14443,12 +13433,7 @@
       "Punishment",
       "Reward"
     ],
-    "options_ne": [
-      "इनाम",
-      "सम्मान",
-      "सजाय",
-      "पुरस्कार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'award' is 'reward'.",
     "explanation_ne": "‘award’ को विलोम ‘reward’ हो।",
@@ -14548,12 +13533,7 @@
       "borrow",
       "band"
     ],
-    "options_ne": [
-      "पुरस्कार",
-      "भाँच्नु",
-      "सापट लिनु",
-      "ब्यान्ड"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'award' means 'पुरस्कार'.",
     "explanation_ne": "‘award’ को अर्थ ‘पुरस्कार’ हो।",
@@ -14583,12 +13563,7 @@
       "Principle",
       "Truth"
     ],
-    "options_ne": [
-      "प्रमेय",
-      "नियम",
-      "सिद्धान्त",
-      "सत्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'axiom' means the same as 'principle'.",
     "explanation_ne": "‘axiom’ को अर्थ ‘principle’ हो।",
@@ -14653,12 +13628,7 @@
       "Rule",
       "Truth"
     ],
-    "options_ne": [
-      "सिद्धान्त",
-      "प्रमेय",
-      "नियम",
-      "सत्य"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'axiom' is 'truth'.",
     "explanation_ne": "‘axiom’ को विलोम ‘truth’ हो।",
@@ -14758,12 +13728,7 @@
       "autumn",
       "axiom"
     ],
-    "options_ne": [
-      "पक्ष",
-      "अन्धो",
-      "शरद्",
-      "स्वयंसिद्ध"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'axiom' means 'स्वयंसिद्ध'.",
     "explanation_ne": "‘axiom’ को अर्थ ‘स्वयंसिद्ध’ हो।",
@@ -14793,12 +13758,7 @@
       "Married",
       "Graduate"
     ],
-    "options_ne": [
-      "अविवाहित",
-      "एक्लो",
-      "विवाहित",
-      "स्नातक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bachelor' means the same as 'single'.",
     "explanation_ne": "‘bachelor’ को अर्थ ‘single’ हो।",
@@ -14863,12 +13823,7 @@
       "Unmarried",
       "Single"
     ],
-    "options_ne": [
-      "विवाहित",
-      "स्नातक",
-      "अविवाहित",
-      "एक्लो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bachelor' is 'unmarried'.",
     "explanation_ne": "‘bachelor’ को विलोम ‘unmarried’ हो।",
@@ -14968,12 +13923,7 @@
       "bachelor",
       "assist"
     ],
-    "options_ne": [
-      "व्यवहार गर्नु",
-      "पुरस्कार",
-      "अविवाहित",
-      "सहयोग गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bachelor' means 'अविवाहित'.",
     "explanation_ne": "‘bachelor’ को अर्थ ‘अविवाहित’ हो।",
@@ -15003,12 +13953,7 @@
       "Emblem",
       "Medal"
     ],
-    "options_ne": [
-      "चिह्न",
-      "चिन्ह",
-      "प्रतीक",
-      "पदक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'badge' means the same as 'emblem'.",
     "explanation_ne": "‘badge’ को अर्थ ‘emblem’ हो।",
@@ -15073,12 +14018,7 @@
       "Medal",
       "Mark"
     ],
-    "options_ne": [
-      "प्रतीक",
-      "चिह्न",
-      "पदक",
-      "चिन्ह"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'badge' is 'insignia'.",
     "explanation_ne": "‘badge’ को विलोम ‘insignia’ हो।",
@@ -15178,12 +14118,7 @@
       "absorb",
       "belong"
     ],
-    "options_ne": [
-      "सँगै",
-      "ब्याज",
-      "सोस्नु",
-      "सम्बन्धित हुनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'badge' means 'ब्याज'.",
     "explanation_ne": "‘badge’ को अर्थ ‘ब्याज’ हो।",
@@ -15213,12 +14148,7 @@
       "Roast",
       "Cook"
     ],
-    "options_ne": [
-      "उमाल्नु",
-      "तार्नु",
-      "पोल्नु",
-      "पकाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bake' means the same as 'cook'.",
     "explanation_ne": "‘bake’ को अर्थ ‘cook’ हो।",
@@ -15283,12 +14213,7 @@
       "Boil",
       "Fry"
     ],
-    "options_ne": [
-      "पकाउनु",
-      "पोल्नु",
-      "उमाल्नु",
-      "तार्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bake' is 'roast'.",
     "explanation_ne": "‘bake’ को विलोम ‘roast’ हो।",
@@ -15388,12 +14313,7 @@
       "Imbalance",
       "Stability"
     ],
-    "options_ne": [
-      "अस्थिरता",
-      "सन्तुलन",
-      "असन्तुलन",
-      "स्थिरता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'balance' means the same as 'equilibrium'.",
     "explanation_ne": "‘balance’ को अर्थ ‘equilibrium’ हो।",
@@ -15458,12 +14378,7 @@
       "Instability",
       "Equilibrium"
     ],
-    "options_ne": [
-      "असन्तुलन",
-      "स्थिरता",
-      "अस्थिरता",
-      "सन्तुलन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'balance' is 'imbalance'.",
     "explanation_ne": "‘balance’ को विलोम ‘imbalance’ हो।",
@@ -15563,12 +14478,7 @@
       "balance",
       "bench"
     ],
-    "options_ne": [
-      "जन्म",
-      "ओछ्यान",
-      "सन्तुलन",
-      "बेन्च"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'balance' means 'सन्तुलन'.",
     "explanation_ne": "‘balance’ को अर्थ ‘सन्तुलन’ हो।",
@@ -15598,12 +14508,7 @@
       "Group",
       "Team"
     ],
-    "options_ne": [
-      "औँठी",
-      "पट्टी",
-      "समूह",
-      "टोली"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'band' means the same as 'group'.",
     "explanation_ne": "‘band’ को अर्थ ‘group’ हो।",
@@ -15668,12 +14573,7 @@
       "Group",
       "Ring"
     ],
-    "options_ne": [
-      "टोली",
-      "पट्टी",
-      "समूह",
-      "औँठी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'band' is 'strap'.",
     "explanation_ne": "‘band’ को विलोम ‘strap’ हो।",
@@ -15773,12 +14673,7 @@
       "around",
       "become"
     ],
-    "options_ne": [
-      "लज्जित",
-      "ब्यान्ड",
-      "वरिपरि",
-      "बन्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'band' means 'ब्यान्ड'.",
     "explanation_ne": "‘band’ को अर्थ ‘ब्यान्ड’ हो।",
@@ -15808,12 +14703,7 @@
       "Treasury",
       "Riverbank"
     ],
-    "options_ne": [
-      "वित्तीय संस्था",
-      "किनार",
-      "कोषागार",
-      "नदी किनार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bank' means the same as 'financial institution'.",
     "explanation_ne": "‘bank’ को अर्थ ‘financial institution’ हो।",
@@ -15878,12 +14768,7 @@
       "Financial institution",
       "Riverbank"
     ],
-    "options_ne": [
-      "कोषागार",
-      "किनार",
-      "वित्तीय संस्था",
-      "नदी किनार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bank' is 'shore'.",
     "explanation_ne": "‘bank’ को विलोम ‘shore’ हो।",
@@ -15983,12 +14868,7 @@
       "ashamed",
       "bound"
     ],
-    "options_ne": [
-      "बैंक",
-      "बियर",
-      "लज्जित",
-      "बाँधिएको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bank' means 'बैंक'.",
     "explanation_ne": "‘bank’ को अर्थ ‘बैंक’ हो।",
@@ -16018,12 +14898,7 @@
       "Obstacle",
       "Counter"
     ],
-    "options_ne": [
-      "डन्डा",
-      "ब्लक",
-      "बाधा",
-      "काउन्टर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bar' means the same as 'rod'.",
     "explanation_ne": "‘bar’ को अर्थ ‘rod’ हो।",
@@ -16088,12 +14963,7 @@
       "Obstacle",
       "Block"
     ],
-    "options_ne": [
-      "डन्डा",
-      "काउन्टर",
-      "बाधा",
-      "ब्लक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bar' is 'counter'.",
     "explanation_ne": "‘bar’ को विलोम ‘counter’ हो।",
@@ -16193,12 +15063,7 @@
       "bar",
       "amuse"
     ],
-    "options_ne": [
-      "दुलही",
-      "एजेन्डा",
-      "बार",
-      "मनोरञ्जन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bar' means 'बार'.",
     "explanation_ne": "‘bar’ को अर्थ ‘बार’ हो।",
@@ -16228,12 +15093,7 @@
       "Empty",
       "Clothed"
     ],
-    "options_ne": [
-      "नग्न",
-      "ढाकिएको",
-      "खाली",
-      "पहिरिएको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bare' means the same as 'naked'.",
     "explanation_ne": "‘bare’ को अर्थ ‘naked’ हो।",
@@ -16298,12 +15158,7 @@
       "Clothed",
       "Empty"
     ],
-    "options_ne": [
-      "नग्न",
-      "ढाकिएको",
-      "पहिरिएको",
-      "खाली"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bare' is 'empty'.",
     "explanation_ne": "‘bare’ को विलोम ‘empty’ हो।",
@@ -16403,12 +15258,7 @@
       "bare",
       "brown"
     ],
-    "options_ne": [
-      "जीवित",
-      "स्याउ",
-      "नाङ्गो",
-      "खैरो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bare' means 'नाङ्गो'.",
     "explanation_ne": "‘bare’ को अर्थ ‘नाङ्गो’ हो।",
@@ -16438,12 +15288,7 @@
       "Deal",
       "Agreement"
     ],
-    "options_ne": [
-      "वार्ता",
-      "विवाद",
-      "सम्झौता",
-      "सहमति"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bargain' means the same as 'deal'.",
     "explanation_ne": "‘bargain’ को अर्थ ‘deal’ हो।",
@@ -16508,12 +15353,7 @@
       "Agreement",
       "Deal"
     ],
-    "options_ne": [
-      "विवाद",
-      "वार्ता",
-      "सहमति",
-      "सम्झौता"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bargain' is 'agreement'.",
     "explanation_ne": "‘bargain’ को विलोम ‘agreement’ हो।",
@@ -16613,12 +15453,7 @@
       "abort",
       "bachelor"
     ],
-    "options_ne": [
-      "बेन्च",
-      "सौदा",
-      "रद्द गर्नु",
-      "अविवाहित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bargain' means 'सौदा'.",
     "explanation_ne": "‘bargain’ को अर्थ ‘सौदा’ हो।",
@@ -16648,12 +15483,7 @@
       "Opening",
       "Obstacle"
     ],
-    "options_ne": [
-      "ब्लक",
-      "बार",
-      "खुला ठाउँ",
-      "अवरोध"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'barrier' means the same as 'obstacle'.",
     "explanation_ne": "‘barrier’ को अर्थ ‘obstacle’ हो।",
@@ -16718,12 +15548,7 @@
       "Obstacle",
       "Fence"
     ],
-    "options_ne": [
-      "ब्लक",
-      "खुला ठाउँ",
-      "अवरोध",
-      "बार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'barrier' is 'block'.",
     "explanation_ne": "‘barrier’ को विलोम ‘block’ हो।",
@@ -16823,12 +15648,7 @@
       "allow",
       "barrier"
     ],
-    "options_ne": [
-      "शरद्",
-      "मोड्नु",
-      "अनुमति दिनु",
-      "बाधा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'barrier' means 'बाधा'.",
     "explanation_ne": "‘barrier’ को अर्थ ‘बाधा’ हो।",
@@ -16858,12 +15678,7 @@
       "Bottom",
       "Top"
     ],
-    "options_ne": [
-      "जग",
-      "आधार",
-      "तल्लो भाग",
-      "माथिल्लो भाग"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'base' means the same as 'foundation'.",
     "explanation_ne": "‘base’ को अर्थ ‘foundation’ हो।",
@@ -16928,12 +15743,7 @@
       "Top",
       "Foundation"
     ],
-    "options_ne": [
-      "तल्लो भाग",
-      "आधार",
-      "माथिल्लो भाग",
-      "जग"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'base' is 'bottom'.",
     "explanation_ne": "‘base’ को विलोम ‘bottom’ हो।",
@@ -17033,12 +15843,7 @@
       "base",
       "apart"
     ],
-    "options_ne": [
-      "परिवर्तन गर्नु",
-      "सहमत हुनु",
-      "आधार",
-      "छुट्टै"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'base' means 'आधार'.",
     "explanation_ne": "‘base’ को अर्थ ‘आधार’ हो।",
@@ -17068,12 +15873,7 @@
       "Simple",
       "Complex"
     ],
-    "options_ne": [
-      "मौलिक",
-      "उन्नत",
-      "सरल",
-      "जटिल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'basic' means the same as 'fundamental'.",
     "explanation_ne": "‘basic’ को अर्थ ‘fundamental’ हो।",
@@ -17138,12 +15938,7 @@
       "Simple",
       "Advanced"
     ],
-    "options_ne": [
-      "जटिल",
-      "मौलिक",
-      "सरल",
-      "उन्नत"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'basic' is 'simple'.",
     "explanation_ne": "‘basic’ को विलोम ‘simple’ हो।",
@@ -17243,12 +16038,7 @@
       "badge",
       "basic"
     ],
-    "options_ne": [
-      "छेउमा",
-      "निदाएको",
-      "ब्याज",
-      "आधारभूत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'basic' means 'आधारभूत'.",
     "explanation_ne": "‘basic’ को अर्थ ‘आधारभूत’ हो।",
@@ -17278,12 +16068,7 @@
       "Container",
       "Bag"
     ],
-    "options_ne": [
-      "बाकस",
-      "क्रेट",
-      "भाँडा",
-      "झोला"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'basket' means the same as 'container'.",
     "explanation_ne": "‘basket’ को अर्थ ‘container’ हो।",
@@ -17348,12 +16133,7 @@
       "Box",
       "Bag"
     ],
-    "options_ne": [
-      "क्रेट",
-      "भाँडा",
-      "बाकस",
-      "झोला"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'basket' is 'box'.",
     "explanation_ne": "‘basket’ को विलोम ‘box’ हो।",
@@ -17453,12 +16233,7 @@
       "butter",
       "alarm"
     ],
-    "options_ne": [
-      "नाङ्गो",
-      "टोकरी",
-      "मक्खन",
-      "चेतावनी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'basket' means 'टोकरी'.",
     "explanation_ne": "‘basket’ को अर्थ ‘टोकरी’ हो।",
@@ -17488,12 +16263,7 @@
       "Clean",
       "Wash"
     ],
-    "options_ne": [
-      "स्नान",
-      "फोहोर गर्नु",
-      "सफा गर्नु",
-      "धुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bath' means the same as 'wash'.",
     "explanation_ne": "‘bath’ को अर्थ ‘wash’ हो।",
@@ -17558,12 +16328,7 @@
       "Wash",
       "Dirty"
     ],
-    "options_ne": [
-      "सफा गर्नु",
-      "स्नान",
-      "धुनु",
-      "फोहोर गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bath' is 'shower'.",
     "explanation_ne": "‘bath’ को विलोम ‘shower’ हो।",
@@ -17663,12 +16428,7 @@
       "better",
       "bread"
     ],
-    "options_ne": [
-      "नुहाउनु",
-      "बढाउनु",
-      "राम्रो",
-      "रोटी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bath' means 'नुहाउनु'.",
     "explanation_ne": "‘bath’ को अर्थ ‘नुहाउनु’ हो।",
@@ -17698,12 +16458,7 @@
       "Peace",
       "Fight"
     ],
-    "options_ne": [
-      "द्वन्द्व",
-      "लडाइँ",
-      "शान्ति",
-      "झगडा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'battle' means the same as 'war'.",
     "explanation_ne": "‘battle’ को अर्थ ‘war’ हो।",
@@ -17768,12 +16523,7 @@
       "Peace",
       "War"
     ],
-    "options_ne": [
-      "झगडा",
-      "द्वन्द्व",
-      "शान्ति",
-      "लडाइँ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'battle' is 'fight'.",
     "explanation_ne": "‘battle’ को विलोम ‘fight’ हो।",
@@ -17873,12 +16623,7 @@
       "battle",
       "boil"
     ],
-    "options_ne": [
-      "वरिपरि",
-      "मौरी",
-      "युद्ध",
-      "उमाल्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'battle' means 'युद्ध'.",
     "explanation_ne": "‘battle’ को अर्थ ‘युद्ध’ हो।",
@@ -17908,12 +16653,7 @@
       "Inland",
       "Seaside"
     ],
-    "options_ne": [
-      "तट",
-      "किनार",
-      "भित्री भाग",
-      "समुद्र किनार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beach' means the same as 'shore'.",
     "explanation_ne": "‘beach’ को अर्थ ‘shore’ हो।",
@@ -17978,12 +16718,7 @@
       "Coast",
       "Seaside"
     ],
-    "options_ne": [
-      "किनार",
-      "भित्री भाग",
-      "तट",
-      "समुद्र किनार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'beach' is 'coast'.",
     "explanation_ne": "‘beach’ को विलोम ‘coast’ हो।",
@@ -18083,12 +16818,7 @@
       "beef",
       "better"
     ],
-    "options_ne": [
-      "समुद्र तट",
-      "सतर्क",
-      "गाईको मासु",
-      "राम्रो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'beach' means 'समुद्र तट'.",
     "explanation_ne": "‘beach’ को अर्थ ‘समुद्र तट’ हो।",
@@ -18118,12 +16848,7 @@
       "Bill",
       "Snout"
     ],
-    "options_ne": [
-      "नाक",
-      "मुख",
-      "चुच्चो",
-      "थुतुनो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'beak' means the same as 'bill'.",
     "explanation_ne": "‘beak’ को अर्थ ‘bill’ हो।",
@@ -18188,12 +16913,7 @@
       "Snout",
       "Mouth"
     ],
-    "options_ne": [
-      "नाक",
-      "चुच्चो",
-      "थुतुनो",
-      "मुख"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'beak' is 'nose'.",
     "explanation_ne": "‘beak’ को विलोम ‘nose’ हो।",
@@ -18293,12 +17013,7 @@
       "beak",
       "button"
     ],
-    "options_ne": [
-      "बाइबल",
-      "कोण",
-      "चुच्चो",
-      "बटन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'beak' means 'चुच्चो'.",
     "explanation_ne": "‘beak’ को अर्थ ‘चुच्चो’ हो।",
@@ -18328,12 +17043,7 @@
       "Bruin",
       "Lion"
     ],
-    "options_ne": [
-      "भालुको बच्चा",
-      "जनावर",
-      "भालु",
-      "सिंह"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bear' means the same as 'bruin'.",
     "explanation_ne": "‘bear’ को अर्थ ‘bruin’ हो।",
@@ -18398,12 +17108,7 @@
       "Animal",
       "Cub"
     ],
-    "options_ne": [
-      "सिंह",
-      "भालु",
-      "जनावर",
-      "भालुको बच्चा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bear' is 'bruin'.",
     "explanation_ne": "‘bear’ को विलोम ‘bruin’ हो।",
@@ -18503,12 +17208,7 @@
       "awake",
       "blue"
     ],
-    "options_ne": [
-      "भालु",
-      "आधार",
-      "ब्यूँझेको",
-      "नीलो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bear' means 'भालु'.",
     "explanation_ne": "‘bear’ को अर्थ ‘भालु’ हो।",
@@ -18538,12 +17238,7 @@
       "Whiskers",
       "Moustache"
     ],
-    "options_ne": [
-      "अनुहारको रौं",
-      "कपाल",
-      "दाह्री",
-      "जुँगा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'beard' means the same as 'facial hair'.",
     "explanation_ne": "‘beard’ को अर्थ ‘facial hair’ हो।",
@@ -18608,12 +17303,7 @@
       "Hair",
       "Facial hair"
     ],
-    "options_ne": [
-      "जुँगा",
-      "दाह्री",
-      "कपाल",
-      "अनुहारको रौं"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'beard' is 'moustache'.",
     "explanation_ne": "‘beard’ को विलोम ‘moustache’ हो।",
@@ -18713,12 +17403,7 @@
       "avenue",
       "beard"
     ],
-    "options_ne": [
-      "कालो",
-      "गोली",
-      "मार्ग",
-      "दाह्री"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'beard' means 'दाह्री'.",
     "explanation_ne": "‘beard’ को अर्थ ‘दाह्री’ हो।",
@@ -18748,12 +17433,7 @@
       "Creature",
       "Human"
     ],
-    "options_ne": [
-      "पशु",
-      "जनावर",
-      "प्राणी",
-      "मानव"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beast' means the same as 'animal'.",
     "explanation_ne": "‘beast’ को अर्थ ‘animal’ हो।",
@@ -18818,12 +17498,7 @@
       "Animal",
       "Creature"
     ],
-    "options_ne": [
-      "पशु",
-      "मानव",
-      "जनावर",
-      "प्राणी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'beast' is 'creature'.",
     "explanation_ne": "‘beast’ को विलोम ‘creature’ हो।",
@@ -18923,12 +17598,7 @@
       "beast",
       "ankle"
     ],
-    "options_ne": [
-      "अगस्ट",
-      "लज्जित",
-      "पशु",
-      "गोडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'beast' means 'पशु'.",
     "explanation_ne": "‘beast’ को अर्थ ‘पशु’ हो।",
@@ -18958,12 +17628,7 @@
       "Strike",
       "Defeat"
     ],
-    "options_ne": [
-      "हार्नु",
-      "हान्नु",
-      "प्रहार गर्नु",
-      "हराउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beat' means the same as 'hit'.",
     "explanation_ne": "‘beat’ को अर्थ ‘hit’ हो।",
@@ -19028,12 +17693,7 @@
       "Lose",
       "Hit"
     ],
-    "options_ne": [
-      "प्रहार गर्नु",
-      "हराउनु",
-      "हार्नु",
-      "हान्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'beat' is 'strike'.",
     "explanation_ne": "‘beat’ को विलोम ‘strike’ हो।",
@@ -19133,12 +17793,7 @@
       "beat",
       "army"
     ],
-    "options_ne": [
-      "उस्तै",
-      "लेखक",
-      "पिट्नु",
-      "सेना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'beat' means 'पिट्नु'.",
     "explanation_ne": "‘beat’ को अर्थ ‘पिट्नु’ हो।",
@@ -19168,12 +17823,7 @@
       "Loveliness",
       "Plainness"
     ],
-    "options_ne": [
-      "कुरूपता",
-      "आकर्षण",
-      "मनोहरता",
-      "साधारणता"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'beauty' means the same as 'loveliness'.",
     "explanation_ne": "‘beauty’ को अर्थ ‘loveliness’ हो।",
@@ -19238,12 +17888,7 @@
       "Charm",
       "Plainness"
     ],
-    "options_ne": [
-      "मनोहरता",
-      "कुरूपता",
-      "आकर्षण",
-      "साधारणता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'beauty' is 'ugliness'.",
     "explanation_ne": "‘beauty’ को विलोम ‘ugliness’ हो।",
@@ -19343,12 +17988,7 @@
       "august",
       "beauty"
     ],
-    "options_ne": [
-      "बढाउनु",
-      "व्यस्त",
-      "अगस्ट",
-      "सौन्दर्य"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'beauty' means 'सौन्दर्य'.",
     "explanation_ne": "‘beauty’ को अर्थ ‘सौन्दर्य’ हो।",
@@ -19378,12 +18018,7 @@
       "Grow",
       "Stay"
     ],
-    "options_ne": [
-      "बन्नु",
-      "रहनु",
-      "बढ्नु",
-      "बस्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'become' means the same as 'turn into'.",
     "explanation_ne": "‘become’ को अर्थ ‘turn into’ हो।",
@@ -19448,12 +18083,7 @@
       "Grow",
       "Turn into"
     ],
-    "options_ne": [
-      "रहनु",
-      "बस्नु",
-      "बढ्नु",
-      "बन्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'become' is 'remain'.",
     "explanation_ne": "‘become’ को विलोम ‘remain’ हो।",
@@ -19553,12 +18183,7 @@
       "alpha",
       "breeze"
     ],
-    "options_ne": [
-      "पक्राउ गर्नु",
-      "बन्नु",
-      "अल्फा",
-      "हल्का हावा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'become' means 'बन्नु'.",
     "explanation_ne": "‘become’ को अर्थ ‘बन्नु’ हो।",
@@ -19588,12 +18213,7 @@
       "Couch",
       "Cot"
     ],
-    "options_ne": [
-      "कुर्सी",
-      "गद्दा",
-      "सोफा",
-      "खाट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bed' means the same as 'mattress'.",
     "explanation_ne": "‘bed’ को अर्थ ‘mattress’ हो।",
@@ -19658,12 +18278,7 @@
       "Couch",
       "Mattress"
     ],
-    "options_ne": [
-      "खाट",
-      "कुर्सी",
-      "सोफा",
-      "गद्दा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bed' is 'cot'.",
     "explanation_ne": "‘bed’ को विलोम ‘cot’ हो।",
@@ -19763,12 +18378,7 @@
       "bed",
       "bee"
     ],
-    "options_ne": [
-      "अमूर्त",
-      "सँगै",
-      "ओछ्यान",
-      "मौरी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bed' means 'ओछ्यान'.",
     "explanation_ne": "‘bed’ को अर्थ ‘ओछ्यान’ हो।",
@@ -19798,12 +18408,7 @@
       "Honeybee",
       "Insect"
     ],
-    "options_ne": [
-      "बरुलो",
-      "कमिला",
-      "महुमाखी",
-      "कीरा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bee' means the same as 'insect'.",
     "explanation_ne": "‘bee’ को अर्थ ‘insect’ हो।",
@@ -19868,12 +18473,7 @@
       "Honeybee",
       "Ant"
     ],
-    "options_ne": [
-      "कीरा",
-      "बरुलो",
-      "महुमाखी",
-      "कमिला"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bee' is 'honeybee'.",
     "explanation_ne": "‘bee’ को विलोम ‘honeybee’ हो।",
@@ -19973,12 +18573,7 @@
       "bee",
       "belief"
     ],
-    "options_ne": [
-      "एजेन्डा",
-      "बुलबुला",
-      "मौरी",
-      "विश्वास"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bee' means 'मौरी'.",
     "explanation_ne": "‘bee’ को अर्थ ‘मौरी’ हो।",
@@ -20008,12 +18603,7 @@
       "Chicken",
       "Steak"
     ],
-    "options_ne": [
-      "सुँगुरको मासु",
-      "मासु",
-      "कुखुराको मासु",
-      "स्टेक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beef' means the same as 'meat'.",
     "explanation_ne": "‘beef’ को अर्थ ‘meat’ हो।",
@@ -20078,12 +18668,7 @@
       "Pork",
       "Chicken"
     ],
-    "options_ne": [
-      "मासु",
-      "स्टेक",
-      "सुँगुरको मासु",
-      "कुखुराको मासु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'beef' is 'steak'.",
     "explanation_ne": "‘beef’ को विलोम ‘steak’ हो।",
@@ -20183,12 +18768,7 @@
       "assist",
       "beach"
     ],
-    "options_ne": [
-      "सबैभन्दा राम्रो",
-      "गाईको मासु",
-      "सहयोग गर्नु",
-      "समुद्र तट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beef' means 'गाईको मासु'.",
     "explanation_ne": "‘beef’ को अर्थ ‘गाईको मासु’ हो।",
@@ -20218,12 +18798,7 @@
       "Lager",
       "Ale"
     ],
-    "options_ne": [
-      "व्हिस्की",
-      "वाइन",
-      "लागर",
-      "बियर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'beer' means the same as 'ale'.",
     "explanation_ne": "‘beer’ को अर्थ ‘ale’ हो।",
@@ -20288,12 +18863,7 @@
       "Whisky",
       "Wine"
     ],
-    "options_ne": [
-      "बियर",
-      "लागर",
-      "व्हिस्की",
-      "वाइन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'beer' is 'lager'.",
     "explanation_ne": "‘beer’ को विलोम ‘lager’ हो।",
@@ -20393,12 +18963,7 @@
       "autumn",
       "agency"
     ],
-    "options_ne": [
-      "बियर",
-      "चुच्चो",
-      "शरद्",
-      "एजेन्सी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'beer' means 'बियर'.",
     "explanation_ne": "‘beer’ को अर्थ ‘बियर’ हो।",
@@ -20428,12 +18993,7 @@
       "Demand",
       "Request"
     ],
-    "options_ne": [
-      "सोध्नु",
-      "विन्ती गर्नु",
-      "माग्नु",
-      "अनुरोध गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'beg' means the same as 'plead'.",
     "explanation_ne": "‘beg’ को अर्थ ‘plead’ हो।",
@@ -20498,12 +19058,7 @@
       "Plead",
       "Request"
     ],
-    "options_ne": [
-      "माग्नु",
-      "सोध्नु",
-      "विन्ती गर्नु",
-      "अनुरोध गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'beg' is 'request'.",
     "explanation_ne": "‘beg’ को विलोम ‘request’ हो।",
@@ -20603,12 +19158,7 @@
       "audit",
       "brown"
     ],
-    "options_ne": [
-      "भिख माग्नु",
-      "पिट्नु",
-      "लेखापरीक्षण",
-      "खैरो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'beg' means 'भिख माग्नु'.",
     "explanation_ne": "‘beg’ को अर्थ ‘भिख माग्नु’ हो।",
@@ -20638,12 +19188,7 @@
       "Conduct",
       "Act"
     ],
-    "options_ne": [
-      "दुर्व्यवहार गर्नु",
-      "प्रदर्शन गर्नु",
-      "आचरण गर्नु",
-      "काम गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'behave' means the same as 'act'.",
     "explanation_ne": "‘behave’ को अर्थ ‘act’ हो।",
@@ -20708,12 +19253,7 @@
       "Conduct",
       "Misbehave"
     ],
-    "options_ne": [
-      "काम गर्नु",
-      "प्रदर्शन गर्नु",
-      "आचरण गर्नु",
-      "दुर्व्यवहार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'behave' is 'conduct'.",
     "explanation_ne": "‘behave’ को विलोम ‘conduct’ हो।",
@@ -20813,12 +19353,7 @@
       "button",
       "behave"
     ],
-    "options_ne": [
-      "टोक्नु",
-      "लेख",
-      "बटन",
-      "व्यवहार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'behave' means 'व्यवहार गर्नु'.",
     "explanation_ne": "‘behave’ को अर्थ ‘व्यवहार गर्नु’ हो।",
@@ -20848,12 +19383,7 @@
       "Doubt",
       "Faith"
     ],
-    "options_ne": [
-      "भरोसा",
-      "दृढ विश्वास",
-      "शङ्का",
-      "आस्था"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'belief' means the same as 'faith'.",
     "explanation_ne": "‘belief’ को अर्थ ‘faith’ हो।",
@@ -20918,12 +19448,7 @@
       "Conviction",
       "Faith"
     ],
-    "options_ne": [
-      "भरोसा",
-      "शङ्का",
-      "दृढ विश्वास",
-      "आस्था"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'belief' is 'trust'.",
     "explanation_ne": "‘belief’ को विलोम ‘trust’ हो।",
@@ -21023,12 +19548,7 @@
       "Relate",
       "Exclude"
     ],
-    "options_ne": [
-      "सम्बन्धित हुनु",
-      "स्वामित्व हुनु",
-      "सम्बन्ध राख्नु",
-      "बाहिर राख्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'belong' means the same as 'pertain'.",
     "explanation_ne": "‘belong’ को अर्थ ‘pertain’ हो।",
@@ -21093,12 +19613,7 @@
       "Own",
       "Pertain"
     ],
-    "options_ne": [
-      "सम्बन्ध राख्नु",
-      "बाहिर राख्नु",
-      "स्वामित्व हुनु",
-      "सम्बन्धित हुनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'belong' is 'own'.",
     "explanation_ne": "‘belong’ को विलोम ‘own’ हो।",
@@ -21198,12 +19713,7 @@
       "bore",
       "belong"
     ],
-    "options_ne": [
-      "सहयोग गर्नु",
-      "जन्म",
-      "बोर गर्नु",
-      "सम्बन्धित हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'belong' means 'सम्बन्धित हुनु'.",
     "explanation_ne": "‘belong’ को अर्थ ‘सम्बन्धित हुनु’ हो।",
@@ -21233,12 +19743,7 @@
       "Band",
       "Strap"
     ],
-    "options_ne": [
-      "पेटी",
-      "डोरी",
-      "ब्यान्ड",
-      "पट्टी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'belt' means the same as 'strap'.",
     "explanation_ne": "‘belt’ को अर्थ ‘strap’ हो।",
@@ -21303,12 +19808,7 @@
       "Sash",
       "Band"
     ],
-    "options_ne": [
-      "डोरी",
-      "पट्टी",
-      "पेटी",
-      "ब्यान्ड"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'belt' is 'band'.",
     "explanation_ne": "‘belt’ को विलोम ‘band’ हो।",
@@ -21408,12 +19908,7 @@
       "brother",
       "belt"
     ],
-    "options_ne": [
-      "लज्जित",
-      "लेख",
-      "भाइ",
-      "पेटी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'belt' means 'पेटी'.",
     "explanation_ne": "‘belt’ को अर्थ ‘पेटी’ हो।",
@@ -21443,12 +19938,7 @@
       "Table",
       "Stool"
     ],
-    "options_ne": [
-      "कुर्सी",
-      "आसन",
-      "टेबल",
-      "स्टुल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bench' means the same as 'seat'.",
     "explanation_ne": "‘bench’ को अर्थ ‘seat’ हो।",
@@ -21513,12 +20003,7 @@
       "Chair",
       "Seat"
     ],
-    "options_ne": [
-      "स्टुल",
-      "टेबल",
-      "कुर्सी",
-      "आसन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bench' is 'stool'.",
     "explanation_ne": "‘bench’ को विलोम ‘stool’ हो।",
@@ -21618,12 +20103,7 @@
       "autumn",
       "alpha"
     ],
-    "options_ne": [
-      "दाह्री",
-      "बेन्च",
-      "शरद्",
-      "अल्फा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bench' means 'बेन्च'.",
     "explanation_ne": "‘bench’ को अर्थ ‘बेन्च’ हो।",
@@ -21653,12 +20133,7 @@
       "Curve",
       "Straighten"
     ],
-    "options_ne": [
-      "बटार्नु",
-      "फोल्ड गर्नु",
-      "घुमाउनु",
-      "सिधा पार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bend' means the same as 'curve'.",
     "explanation_ne": "‘bend’ को अर्थ ‘curve’ हो।",
@@ -21723,12 +20198,7 @@
       "Straighten",
       "Twist"
     ],
-    "options_ne": [
-      "घुमाउनु",
-      "फोल्ड गर्नु",
-      "सिधा पार्नु",
-      "बटार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bend' is 'straighten'.",
     "explanation_ne": "‘bend’ को विलोम ‘straighten’ हो।",
@@ -21828,12 +20298,7 @@
       "bath",
       "absorb"
     ],
-    "options_ne": [
-      "मोड्नु",
-      "नीलो",
-      "नुहाउनु",
-      "सोस्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bend' means 'मोड्नु'.",
     "explanation_ne": "‘bend’ को अर्थ ‘मोड्नु’ हो।",
@@ -21863,12 +20328,7 @@
       "Fruit",
       "Nut"
     ],
-    "options_ne": [
-      "चेरी",
-      "अङ्गुर",
-      "फल",
-      "बदाम"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'berry' means the same as 'fruit'.",
     "explanation_ne": "‘berry’ को अर्थ ‘fruit’ हो।",
@@ -21933,12 +20393,7 @@
       "Fruit",
       "Grape"
     ],
-    "options_ne": [
-      "चेरी",
-      "बदाम",
-      "फल",
-      "अङ्गुर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'berry' is 'grape'.",
     "explanation_ne": "‘berry’ को विलोम ‘grape’ हो।",
@@ -22038,12 +20493,7 @@
       "Worst",
       "Finest"
     ],
-    "options_ne": [
-      "शीर्ष",
-      "सबैभन्दा कम",
-      "सबैभन्दा खराब",
-      "उत्तम"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'best' means the same as 'finest'.",
     "explanation_ne": "‘best’ को अर्थ ‘finest’ हो।",
@@ -22108,12 +20558,7 @@
       "Top",
       "Lowest"
     ],
-    "options_ne": [
-      "सबैभन्दा खराब",
-      "उत्तम",
-      "शीर्ष",
-      "सबैभन्दा कम"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'best' is 'worst'.",
     "explanation_ne": "‘best’ को विलोम ‘worst’ हो।",
@@ -22213,12 +20658,7 @@
       "best",
       "album"
     ],
-    "options_ne": [
-      "किताब",
-      "श्वास",
-      "सबैभन्दा राम्रो",
-      "एल्बम"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'best' means 'सबैभन्दा राम्रो'.",
     "explanation_ne": "‘best’ को अर्थ ‘सबैभन्दा राम्रो’ हो।",
@@ -22248,12 +20688,7 @@
       "Worse",
       "Improved"
     ],
-    "options_ne": [
-      "निम्न",
-      "उत्कृष्ट",
-      "खराब",
-      "सुधारिएको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'better' means the same as 'superior'.",
     "explanation_ne": "‘better’ को अर्थ ‘superior’ हो।",
@@ -22318,12 +20753,7 @@
       "Superior",
       "Improved"
     ],
-    "options_ne": [
-      "निम्न",
-      "खराब",
-      "उत्कृष्ट",
-      "सुधारिएको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'better' is 'worse'.",
     "explanation_ne": "‘better’ को विलोम ‘worse’ हो।",
@@ -22423,12 +20853,7 @@
       "bomb",
       "better"
     ],
-    "options_ne": [
-      "सँगै",
-      "बिदा",
-      "बम",
-      "राम्रो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'better' means 'राम्रो'.",
     "explanation_ne": "‘better’ को अर्थ ‘राम्रो’ हो।",
@@ -22458,12 +20883,7 @@
       "Before",
       "Past"
     ],
-    "options_ne": [
-      "अझ टाढा",
-      "भित्र",
-      "अघि",
-      "पछाडि"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'beyond' means the same as 'past'.",
     "explanation_ne": "‘beyond’ को अर्थ ‘past’ हो।",
@@ -22528,12 +20948,7 @@
       "Before",
       "Within"
     ],
-    "options_ne": [
-      "अझ टाढा",
-      "पछाडि",
-      "अघि",
-      "भित्र"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'beyond' is 'further'.",
     "explanation_ne": "‘beyond’ को विलोम ‘further’ हो।",
@@ -22633,12 +21048,7 @@
       "average",
       "beyond"
     ],
-    "options_ne": [
-      "सन्तुलन",
-      "विश्वास",
-      "औसत",
-      "पारि"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'beyond' means 'पारि'.",
     "explanation_ne": "‘beyond’ को अर्थ ‘पारि’ हो।",
@@ -22668,12 +21078,7 @@
       "Gospel",
       "Novel"
     ],
-    "options_ne": [
-      "धर्मग्रन्थ",
-      "पवित्र पुस्तक",
-      "सुसमाचार",
-      "उपन्यास"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bible' means the same as 'scripture'.",
     "explanation_ne": "‘bible’ को अर्थ ‘scripture’ हो।",
@@ -22738,12 +21143,7 @@
       "Gospel",
       "Holy book"
     ],
-    "options_ne": [
-      "धर्मग्रन्थ",
-      "उपन्यास",
-      "सुसमाचार",
-      "पवित्र पुस्तक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bible' is 'holy book'.",
     "explanation_ne": "‘bible’ को विलोम ‘holy book’ हो।",
@@ -22843,12 +21243,7 @@
       "awake",
       "bible"
     ],
-    "options_ne": [
-      "निदाएको",
-      "अगस्ट",
-      "ब्यूँझेको",
-      "बाइबल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bible' means 'बाइबल'.",
     "explanation_ne": "‘bible’ को अर्थ ‘बाइबल’ हो।",
@@ -22878,12 +21273,7 @@
       "Ask",
       "Auction"
     ],
-    "options_ne": [
-      "टेन्डर",
-      "प्रस्ताव गर्नु",
-      "सोध्नु",
-      "लिलामी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bid' means the same as 'offer'.",
     "explanation_ne": "‘bid’ को अर्थ ‘offer’ हो।",
@@ -22948,12 +21338,7 @@
       "Ask",
       "Tender"
     ],
-    "options_ne": [
-      "लिलामी",
-      "प्रस्ताव गर्नु",
-      "सोध्नु",
-      "टेन्डर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bid' is 'tender'.",
     "explanation_ne": "‘bid’ को विलोम ‘tender’ हो।",
@@ -23053,12 +21438,7 @@
       "belief",
       "bless"
     ],
-    "options_ne": [
-      "पेटी",
-      "बोली लगाउनु",
-      "विश्वास",
-      "आशीर्वाद दिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bid' means 'बोली लगाउनु'.",
     "explanation_ne": "‘bid’ को अर्थ ‘बोली लगाउनु’ हो।",
@@ -23088,12 +21468,7 @@
       "Note",
       "Invoice"
     ],
-    "options_ne": [
-      "रसिद",
-      "भुक्तानी",
-      "नोट",
-      "बिल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bill' means the same as 'invoice'.",
     "explanation_ne": "‘bill’ को अर्थ ‘invoice’ हो।",
@@ -23158,12 +21533,7 @@
       "Payment",
       "Note"
     ],
-    "options_ne": [
-      "रसिद",
-      "बिल",
-      "भुक्तानी",
-      "नोट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bill' is 'note'.",
     "explanation_ne": "‘bill’ को विलोम ‘note’ हो।",
@@ -23263,12 +21633,7 @@
       "boss",
       "apple"
     ],
-    "options_ne": [
-      "सौन्दर्य",
-      "बिल",
-      "मालिक",
-      "स्याउ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bill' means 'बिल'.",
     "explanation_ne": "‘bill’ को अर्थ ‘बिल’ हो।",
@@ -23298,12 +21663,7 @@
       "Fasten",
       "Tie"
     ],
-    "options_ne": [
-      "खुकुलो पार्नु",
-      "छोड्नु",
-      "कस्नु",
-      "बाँध्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bind' means the same as 'tie'.",
     "explanation_ne": "‘bind’ को अर्थ ‘tie’ हो।",
@@ -23368,12 +21728,7 @@
       "Tie",
       "Fasten"
     ],
-    "options_ne": [
-      "छोड्नु",
-      "खुकुलो पार्नु",
-      "बाँध्नु",
-      "कस्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bind' is 'fasten'.",
     "explanation_ne": "‘bind’ को विलोम ‘fasten’ हो।",
@@ -23473,12 +21828,7 @@
       "bind",
       "angle"
     ],
-    "options_ne": [
-      "आशीर्वाद दिनु",
-      "रङ्गशाला",
-      "बाँध्नु",
-      "कोण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bind' means 'बाँध्नु'.",
     "explanation_ne": "‘bind’ को अर्थ ‘बाँध्नु’ हो।",
@@ -23508,12 +21858,7 @@
       "Origin",
       "Death"
     ],
-    "options_ne": [
-      "जन्म",
-      "अन्त्य",
-      "उत्पत्ति",
-      "मृत्यु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'birth' means the same as 'nativity'.",
     "explanation_ne": "‘birth’ को अर्थ ‘nativity’ हो।",
@@ -23578,12 +21923,7 @@
       "End",
       "Nativity"
     ],
-    "options_ne": [
-      "उत्पत्ति",
-      "मृत्यु",
-      "अन्त्य",
-      "जन्म"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'birth' is 'death'.",
     "explanation_ne": "‘birth’ को विलोम ‘death’ हो।",
@@ -23683,12 +22023,7 @@
       "bare",
       "birth"
     ],
-    "options_ne": [
-      "फुट्नु",
-      "ब्लेड",
-      "नाङ्गो",
-      "जन्म"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'birth' means 'जन्म'.",
     "explanation_ne": "‘birth’ को अर्थ ‘जन्म’ हो।",
@@ -23718,12 +22053,7 @@
       "Morsel",
       "Lot"
     ],
-    "options_ne": [
-      "पूरै",
-      "टुक्रा",
-      "गाँस",
-      "धेरै"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bit' means the same as 'piece'.",
     "explanation_ne": "‘bit’ को अर्थ ‘piece’ हो।",
@@ -23788,12 +22118,7 @@
       "Lot",
       "Piece"
     ],
-    "options_ne": [
-      "गाँस",
-      "पूरै",
-      "धेरै",
-      "टुक्रा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bit' is 'morsel'.",
     "explanation_ne": "‘bit’ को विलोम ‘morsel’ हो।",
@@ -23893,12 +22218,7 @@
       "butter",
       "bit"
     ],
-    "options_ne": [
-      "आवेदन दिनु",
-      "उमाल्नु",
-      "मक्खन",
-      "टुक्रा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bit' means 'टुक्रा'.",
     "explanation_ne": "‘bit’ को अर्थ ‘टुक्रा’ हो।",
@@ -23928,12 +22248,7 @@
       "Lick",
       "Chew"
     ],
-    "options_ne": [
-      "निल्नु",
-      "कुत्कुत्याउनु",
-      "चाट्नु",
-      "चपाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bite' means the same as 'nibble'.",
     "explanation_ne": "‘bite’ को अर्थ ‘nibble’ हो।",
@@ -23998,12 +22313,7 @@
       "Chew",
       "Nibble"
     ],
-    "options_ne": [
-      "चाट्नु",
-      "निल्नु",
-      "चपाउनु",
-      "कुत्कुत्याउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bite' is 'chew'.",
     "explanation_ne": "‘bite’ को विलोम ‘chew’ हो।",
@@ -24103,12 +22413,7 @@
       "border",
       "bus"
     ],
-    "options_ne": [
-      "मौरी",
-      "टोक्नु",
-      "सीमा",
-      "बस"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bite' means 'टोक्नु'.",
     "explanation_ne": "‘bite’ को अर्थ ‘टोक्नु’ हो।",
@@ -24138,12 +22443,7 @@
       "Harsh",
       "Sweet"
     ],
-    "options_ne": [
-      "रमाइलो",
-      "अमिलो",
-      "कठोर",
-      "गुलियो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bitter' means the same as 'sour'.",
     "explanation_ne": "‘bitter’ को अर्थ ‘sour’ हो।",
@@ -24208,12 +22508,7 @@
       "Pleasant",
       "Sour"
     ],
-    "options_ne": [
-      "गुलियो",
-      "कठोर",
-      "रमाइलो",
-      "अमिलो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bitter' is 'sweet'.",
     "explanation_ne": "‘bitter’ को विलोम ‘sweet’ हो।",
@@ -24313,12 +22608,7 @@
       "beard",
       "bush"
     ],
-    "options_ne": [
-      "तितो",
-      "किताब",
-      "दाह्री",
-      "झाडी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bitter' means 'तितो'.",
     "explanation_ne": "‘bitter’ को अर्थ ‘तितो’ हो।",
@@ -24348,12 +22638,7 @@
       "Dark",
       "Bright"
     ],
-    "options_ne": [
-      "कालो",
-      "सेतो",
-      "अँधेरो",
-      "उज्यालो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'black' means the same as 'dark'.",
     "explanation_ne": "‘black’ को अर्थ ‘dark’ हो।",
@@ -24418,12 +22703,7 @@
       "White",
       "Bright"
     ],
-    "options_ne": [
-      "कालो",
-      "अँधेरो",
-      "सेतो",
-      "उज्यालो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'black' is 'white'.",
     "explanation_ne": "‘black’ को विलोम ‘white’ हो।",
@@ -24523,12 +22803,7 @@
       "bone",
       "bank"
     ],
-    "options_ne": [
-      "लज्जित",
-      "कालो",
-      "हाड",
-      "बैंक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'black' means 'कालो'.",
     "explanation_ne": "‘black’ को अर्थ ‘कालो’ हो।",
@@ -24558,12 +22833,7 @@
       "Sword",
       "Handle"
     ],
-    "options_ne": [
-      "चक्कु",
-      "धार",
-      "तरवार",
-      "बिँड"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'blade' means the same as 'edge'.",
     "explanation_ne": "‘blade’ को अर्थ ‘edge’ हो।",
@@ -24628,12 +22898,7 @@
       "Edge",
       "Knife"
     ],
-    "options_ne": [
-      "बिँड",
-      "तरवार",
-      "धार",
-      "चक्कु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'blade' is 'knife'.",
     "explanation_ne": "‘blade’ को विलोम ‘knife’ हो।",
@@ -24733,12 +22998,7 @@
       "blade",
       "base"
     ],
-    "options_ne": [
-      "पेटी",
-      "कार्य",
-      "ब्लेड",
-      "आधार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'blade' means 'ब्लेड'.",
     "explanation_ne": "‘blade’ को अर्थ ‘ब्लेड’ हो।",
@@ -24768,12 +23028,7 @@
       "Fault",
       "Accusation"
     ],
-    "options_ne": [
-      "प्रशंसा",
-      "श्रेय",
-      "गल्ती",
-      "आरोप"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'blame' means the same as 'fault'.",
     "explanation_ne": "‘blame’ को अर्थ ‘fault’ हो।",
@@ -24838,12 +23093,7 @@
       "Fault",
       "Praise"
     ],
-    "options_ne": [
-      "श्रेय",
-      "आरोप",
-      "गल्ती",
-      "प्रशंसा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'blame' is 'accusation'.",
     "explanation_ne": "‘blame’ को विलोम ‘accusation’ हो।",
@@ -24943,12 +23193,7 @@
       "bucket",
       "amount"
     ],
-    "options_ne": [
-      "नुहाउनु",
-      "दोष",
-      "बाल्टी",
-      "परिमाण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'blame' means 'दोष'.",
     "explanation_ne": "‘blame’ को अर्थ ‘दोष’ हो।",
@@ -24978,12 +23223,7 @@
       "Filled",
       "Vacant"
     ],
-    "options_ne": [
-      "लेखिएको",
-      "रिक्त",
-      "भरिएको",
-      "खाली"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'blank' means the same as 'empty'.",
     "explanation_ne": "‘blank’ को अर्थ ‘empty’ हो।",
@@ -25048,12 +23288,7 @@
       "Vacant",
       "Filled"
     ],
-    "options_ne": [
-      "रिक्त",
-      "लेखिएको",
-      "खाली",
-      "भरिएको"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'blank' is 'vacant'.",
     "explanation_ne": "‘blank’ को विलोम ‘vacant’ हो।",
@@ -25153,12 +23388,7 @@
       "blank",
       "avoid"
     ],
-    "options_ne": [
-      "बुलबुला",
-      "ब्याज",
-      "खाली",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'blank' means 'खाली'.",
     "explanation_ne": "‘blank’ को अर्थ ‘खाली’ हो।",
@@ -25188,12 +23418,7 @@
       "Calm",
       "Blow"
     ],
-    "options_ne": [
-      "विस्फोट",
-      "फुट्नु",
-      "शान्ति",
-      "प्रहार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'blast' means the same as 'explosion'.",
     "explanation_ne": "‘blast’ को अर्थ ‘explosion’ हो।",
@@ -25258,12 +23483,7 @@
       "Explosion",
       "Calm"
     ],
-    "options_ne": [
-      "फुट्नु",
-      "प्रहार",
-      "विस्फोट",
-      "शान्ति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'blast' is 'burst'.",
     "explanation_ne": "‘blast’ को विलोम ‘burst’ हो।",
@@ -25363,12 +23583,7 @@
       "bit",
       "blast"
     ],
-    "options_ne": [
-      "उपस्थित हुनु",
-      "शरद्",
-      "टुक्रा",
-      "विस्फोट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'blast' means 'विस्फोट'.",
     "explanation_ne": "‘blast’ को अर्थ ‘विस्फोट’ हो।",
@@ -25398,12 +23613,7 @@
       "Clot",
       "Heal"
     ],
-    "options_ne": [
-      "बग्नु",
-      "रक्तस्राव",
-      "जम्नु",
-      "निको हुनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bleed' means the same as 'haemorrhage'.",
     "explanation_ne": "‘bleed’ को अर्थ ‘haemorrhage’ हो।",
@@ -25468,12 +23678,7 @@
       "Haemorrhage",
       "Flow"
     ],
-    "options_ne": [
-      "जम्नु",
-      "निको हुनु",
-      "रक्तस्राव",
-      "बग्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bleed' is 'flow'.",
     "explanation_ne": "‘bleed’ को विलोम ‘flow’ हो।",
@@ -25573,12 +23778,7 @@
       "attempt",
       "bleed"
     ],
-    "options_ne": [
-      "आधार",
-      "गाड्नु",
-      "प्रयास",
-      "रगत बग्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bleed' means 'रगत बग्नु'.",
     "explanation_ne": "‘bleed’ को अर्थ ‘रगत बग्नु’ हो।",
@@ -25608,12 +23808,7 @@
       "Honour",
       "Curse"
     ],
-    "options_ne": [
-      "निन्दा गर्नु",
-      "पवित्र पार्नु",
-      "सम्मान गर्नु",
-      "श्राप दिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bless' means the same as 'sanctify'.",
     "explanation_ne": "‘bless’ को अर्थ ‘sanctify’ हो।",
@@ -25678,12 +23873,7 @@
       "Condemn",
       "Sanctify"
     ],
-    "options_ne": [
-      "सम्मान गर्नु",
-      "श्राप दिनु",
-      "निन्दा गर्नु",
-      "पवित्र पार्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bless' is 'curse'.",
     "explanation_ne": "‘bless’ को विलोम ‘curse’ हो।",
@@ -25783,12 +23973,7 @@
       "bless",
       "abort"
     ],
-    "options_ne": [
-      "अनुमति दिनु",
-      "अन्धो",
-      "आशीर्वाद दिनु",
-      "रद्द गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bless' means 'आशीर्वाद दिनु'.",
     "explanation_ne": "‘bless’ को अर्थ ‘आशीर्वाद दिनु’ हो।",
@@ -25818,12 +24003,7 @@
       "Seeing",
       "Visionless"
     ],
-    "options_ne": [
-      "सचेत",
-      "दृष्टिविहीन",
-      "देख्ने",
-      "दृष्टिहीन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'blind' means the same as 'sightless'.",
     "explanation_ne": "‘blind’ को अर्थ ‘sightless’ हो।",
@@ -25888,12 +24068,7 @@
       "Aware",
       "Sightless"
     ],
-    "options_ne": [
-      "दृष्टिहीन",
-      "देख्ने",
-      "सचेत",
-      "दृष्टिविहीन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'blind' is 'seeing'.",
     "explanation_ne": "‘blind’ को विलोम ‘seeing’ हो।",
@@ -25993,12 +24168,7 @@
       "assist",
       "blind"
     ],
-    "options_ne": [
-      "चेतावनी",
-      "बेरी",
-      "सहयोग गर्नु",
-      "अन्धो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'blind' means 'अन्धो'.",
     "explanation_ne": "‘blind’ को अर्थ ‘अन्धो’ हो।",
@@ -26028,12 +24198,7 @@
       "Plasma",
       "Serum"
     ],
-    "options_ne": [
-      "हिमोग्लोबिन",
-      "पानी",
-      "प्लाज्मा",
-      "सीरम"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'blood' means the same as 'haemoglobin'.",
     "explanation_ne": "‘blood’ को अर्थ ‘haemoglobin’ हो।",
@@ -26098,12 +24263,7 @@
       "Plasma",
       "Water"
     ],
-    "options_ne": [
-      "हिमोग्लोबिन",
-      "सीरम",
-      "प्लाज्मा",
-      "पानी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'blood' is 'plasma'.",
     "explanation_ne": "‘blood’ को विलोम ‘plasma’ हो।",
@@ -26203,12 +24363,7 @@
       "brown",
       "budget"
     ],
-    "options_ne": [
-      "रगत",
-      "कार्य",
-      "खैरो",
-      "बजेट"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'blood' means 'रगत'.",
     "explanation_ne": "‘blood’ को अर्थ ‘रगत’ हो।",
@@ -26238,12 +24393,7 @@
       "Gust",
       "Storm"
     ],
-    "options_ne": [
-      "हल्का हावा",
-      "शान्ति",
-      "झोंका",
-      "आँधी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'blow' means the same as 'gust'.",
     "explanation_ne": "‘blow’ को अर्थ ‘gust’ हो।",
@@ -26308,12 +24458,7 @@
       "Breeze",
       "Gust"
     ],
-    "options_ne": [
-      "शान्ति",
-      "आँधी",
-      "हल्का हावा",
-      "झोंका"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'blow' is 'breeze'.",
     "explanation_ne": "‘blow’ को विलोम ‘breeze’ हो।",
@@ -26413,12 +24558,7 @@
       "assume",
       "arch"
     ],
-    "options_ne": [
-      "हावा चल्नु",
-      "बोल्ट",
-      "मान्नु",
-      "मेहराब"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'blow' means 'हावा चल्नु'.",
     "explanation_ne": "‘blow’ को अर्थ ‘हावा चल्नु’ हो।",
@@ -26448,12 +24588,7 @@
       "Red",
       "Sky"
     ],
-    "options_ne": [
-      "हरियो",
-      "आकाशे",
-      "रातो",
-      "आकाश"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'blue' means the same as 'azure'.",
     "explanation_ne": "‘blue’ को अर्थ ‘azure’ हो।",
@@ -26518,12 +24653,7 @@
       "Green",
       "Sky"
     ],
-    "options_ne": [
-      "रातो",
-      "आकाशे",
-      "हरियो",
-      "आकाश"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'blue' is 'sky'.",
     "explanation_ne": "‘blue’ को विलोम ‘sky’ हो।",
@@ -26623,12 +24753,7 @@
       "assure",
       "blue"
     ],
-    "options_ne": [
-      "सापट लिनु",
-      "मेहराब",
-      "आश्वासन दिनु",
-      "नीलो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'blue' means 'नीलो'.",
     "explanation_ne": "‘blue’ को अर्थ ‘नीलो’ हो।",
@@ -26658,12 +24783,7 @@
       "Panel",
       "Sheet"
     ],
-    "options_ne": [
-      "समिति",
-      "तख्ता",
-      "प्यानल",
-      "पाना"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'board' means the same as 'plank'.",
     "explanation_ne": "‘board’ को अर्थ ‘plank’ हो।",
@@ -26728,12 +24848,7 @@
       "Panel",
       "Committee"
     ],
-    "options_ne": [
-      "पाना",
-      "तख्ता",
-      "प्यानल",
-      "समिति"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'board' is 'panel'.",
     "explanation_ne": "‘board’ को विलोम ‘panel’ हो।",
@@ -26833,12 +24948,7 @@
       "annoy",
       "ashamed"
     ],
-    "options_ne": [
-      "बोर्ड",
-      "हाँगा",
-      "रिस उठाउनु",
-      "लज्जित"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'board' means 'बोर्ड'.",
     "explanation_ne": "‘board’ को अर्थ ‘बोर्ड’ हो।",
@@ -26868,12 +24978,7 @@
       "Physique",
       "Frame"
     ],
-    "options_ne": [
-      "आकृति",
-      "आत्मा",
-      "शारीरिक गठन",
-      "ढाँचा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'body' means the same as 'physique'.",
     "explanation_ne": "‘body’ को अर्थ ‘physique’ हो।",
@@ -26938,12 +25043,7 @@
       "Physique",
       "Frame"
     ],
-    "options_ne": [
-      "आत्मा",
-      "आकृति",
-      "शारीरिक गठन",
-      "ढाँचा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'body' is 'form'.",
     "explanation_ne": "‘body’ को विलोम ‘form’ हो।",
@@ -27043,12 +25143,7 @@
       "body",
       "alpha"
     ],
-    "options_ne": [
-      "व्यस्त",
-      "बजेट",
-      "शरीर",
-      "अल्फा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'body' means 'शरीर'.",
     "explanation_ne": "‘body’ को अर्थ ‘शरीर’ हो।",
@@ -27078,12 +25173,7 @@
       "Cool",
       "Freeze"
     ],
-    "options_ne": [
-      "उमाल्नु",
-      "पकाउनु",
-      "चिसो पार्नु",
-      "जम्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'boil' means the same as 'simmer'.",
     "explanation_ne": "‘boil’ को अर्थ ‘simmer’ हो।",
@@ -27148,12 +25238,7 @@
       "Simmer",
       "Freeze"
     ],
-    "options_ne": [
-      "पकाउनु",
-      "चिसो पार्नु",
-      "उमाल्नु",
-      "जम्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'boil' is 'cook'.",
     "explanation_ne": "‘boil’ को विलोम ‘cook’ हो।",
@@ -27253,12 +25338,7 @@
       "award",
       "bless"
     ],
-    "options_ne": [
-      "उमाल्नु",
-      "देखिनु",
-      "पुरस्कार",
-      "आशीर्वाद दिनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'boil' means 'उमाल्नु'.",
     "explanation_ne": "‘boil’ को अर्थ ‘उमाल्नु’ हो।",
@@ -27288,12 +25368,7 @@
       "Nail",
       "Pin"
     ],
-    "options_ne": [
-      "पेच",
-      "नट",
-      "किला",
-      "पिन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bolt' means the same as 'screw'.",
     "explanation_ne": "‘bolt’ को अर्थ ‘screw’ हो।",
@@ -27358,12 +25433,7 @@
       "Pin",
       "Nail"
     ],
-    "options_ne": [
-      "नट",
-      "पेच",
-      "पिन",
-      "किला"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bolt' is 'nut'.",
     "explanation_ne": "‘bolt’ को विलोम ‘nut’ हो।",
@@ -27463,12 +25533,7 @@
       "aloud",
       "bolt"
     ],
-    "options_ne": [
-      "मौरी",
-      "हावा चल्नु",
-      "चर्को स्वरमा",
-      "बोल्ट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bolt' means 'बोल्ट'.",
     "explanation_ne": "‘bolt’ को अर्थ ‘बोल्ट’ हो।",
@@ -27498,12 +25563,7 @@
       "Missile",
       "Explosive"
     ],
-    "options_ne": [
-      "गोला",
-      "गोली",
-      "मिसाइल",
-      "विस्फोटक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bomb' means the same as 'explosive'.",
     "explanation_ne": "‘bomb’ को अर्थ ‘explosive’ हो।",
@@ -27568,12 +25628,7 @@
       "Shell",
       "Missile"
     ],
-    "options_ne": [
-      "विस्फोटक",
-      "गोली",
-      "गोला",
-      "मिसाइल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bomb' is 'missile'.",
     "explanation_ne": "‘bomb’ को विलोम ‘missile’ हो।",
@@ -27673,12 +25728,7 @@
       "bare",
       "bachelor"
     ],
-    "options_ne": [
-      "सहयोग गर्नु",
-      "बम",
-      "नाङ्गो",
-      "अविवाहित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bomb' means 'बम'.",
     "explanation_ne": "‘bomb’ को अर्थ ‘बम’ हो।",
@@ -27708,12 +25758,7 @@
       "Link",
       "Separation"
     ],
-    "options_ne": [
-      "जडान",
-      "बन्धन",
-      "सम्पर्क",
-      "विच्छेद"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bond' means the same as 'tie'.",
     "explanation_ne": "‘bond’ को अर्थ ‘tie’ हो।",
@@ -27778,12 +25823,7 @@
       "Tie",
       "Connection"
     ],
-    "options_ne": [
-      "सम्पर्क",
-      "विच्छेद",
-      "बन्धन",
-      "जडान"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bond' is 'link'.",
     "explanation_ne": "‘bond’ को विलोम ‘link’ हो।",
@@ -27883,12 +25923,7 @@
       "beyond",
       "borrow"
     ],
-    "options_ne": [
-      "हाड",
-      "बन्धन",
-      "पारि",
-      "सापट लिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bond' means 'बन्धन'.",
     "explanation_ne": "‘bond’ को अर्थ ‘बन्धन’ हो।",
@@ -27918,12 +25953,7 @@
       "Skeleton",
       "Rib"
     ],
-    "options_ne": [
-      "मासु",
-      "खप्पर",
-      "कङ्काल",
-      "करङ"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bone' means the same as 'skeleton'.",
     "explanation_ne": "‘bone’ को अर्थ ‘skeleton’ हो।",
@@ -27988,12 +26018,7 @@
       "Skull",
       "Flesh"
     ],
-    "options_ne": [
-      "कङ्काल",
-      "करङ",
-      "खप्पर",
-      "मासु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bone' is 'rib'.",
     "explanation_ne": "‘bone’ को विलोम ‘rib’ हो।",
@@ -28093,12 +26118,7 @@
       "borrow",
       "artist"
     ],
-    "options_ne": [
-      "मालिक",
-      "हाड",
-      "सापट लिनु",
-      "कलाकार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bone' means 'हाड'.",
     "explanation_ne": "‘bone’ को अर्थ ‘हाड’ हो।",
@@ -28128,12 +26148,7 @@
       "Text",
       "Magazine"
     ],
-    "options_ne": [
-      "खण्ड",
-      "उपन्यास",
-      "पाठ",
-      "पत्रिका"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'book' means the same as 'volume'.",
     "explanation_ne": "‘book’ को अर्थ ‘volume’ हो।",
@@ -28198,12 +26213,7 @@
       "Novel",
       "Text"
     ],
-    "options_ne": [
-      "पत्रिका",
-      "खण्ड",
-      "उपन्यास",
-      "पाठ"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'book' is 'novel'.",
     "explanation_ne": "‘book’ को विलोम ‘novel’ हो।",
@@ -28303,12 +26313,7 @@
       "book",
       "butter"
     ],
-    "options_ne": [
-      "नाङ्गो",
-      "चर्को स्वरमा",
-      "किताब",
-      "मक्खन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'book' means 'किताब'.",
     "explanation_ne": "‘book’ को अर्थ ‘किताब’ हो।",
@@ -28338,12 +26343,7 @@
       "Reduce",
       "Raise"
     ],
-    "options_ne": [
-      "घटाउनु",
-      "वृद्धि गर्नु",
-      "कम गर्नु",
-      "उठाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'boost' means the same as 'increase'.",
     "explanation_ne": "‘boost’ को अर्थ ‘increase’ हो।",
@@ -28408,12 +26408,7 @@
       "Decrease",
       "Increase"
     ],
-    "options_ne": [
-      "कम गर्नु",
-      "उठाउनु",
-      "घटाउनु",
-      "वृद्धि गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'boost' is 'raise'.",
     "explanation_ne": "‘boost’ को विलोम ‘raise’ हो।",
@@ -28513,12 +26508,7 @@
       "Edge",
       "Boundary"
     ],
-    "options_ne": [
-      "केन्द्र",
-      "सीमा",
-      "किनार",
-      "सीमाना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'border' means the same as 'boundary'.",
     "explanation_ne": "‘border’ को अर्थ ‘boundary’ हो।",
@@ -28583,12 +26573,7 @@
       "Edge",
       "Frontier"
     ],
-    "options_ne": [
-      "सीमाना",
-      "केन्द्र",
-      "किनार",
-      "सीमा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'border' is 'frontier'.",
     "explanation_ne": "‘border’ को विलोम ‘frontier’ हो।",
@@ -28688,12 +26673,7 @@
       "abate",
       "asleep"
     ],
-    "options_ne": [
-      "आधारभूत",
-      "सीमा",
-      "कम हुनु",
-      "निदाएको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'border' means 'सीमा'.",
     "explanation_ne": "‘border’ को अर्थ ‘सीमा’ हो।",
@@ -28723,12 +26703,7 @@
       "Tire",
       "Interest"
     ],
-    "options_ne": [
-      "थकित पार्नु",
-      "उत्तेजित पार्नु",
-      "थकाउनु",
-      "रुचि जगाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bore' means the same as 'tire'.",
     "explanation_ne": "‘bore’ को अर्थ ‘tire’ हो।",
@@ -28793,12 +26768,7 @@
       "Weary",
       "Tire"
     ],
-    "options_ne": [
-      "रुचि जगाउनु",
-      "उत्तेजित पार्नु",
-      "थकित पार्नु",
-      "थकाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bore' is 'interest'.",
     "explanation_ne": "‘bore’ को विलोम ‘interest’ हो।",
@@ -28898,12 +26868,7 @@
       "accept",
       "belong"
     ],
-    "options_ne": [
-      "बोर गर्नु",
-      "बिल",
-      "स्वीकार्नु",
-      "सम्बन्धित हुनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bore' means 'बोर गर्नु'.",
     "explanation_ne": "‘bore’ को अर्थ ‘बोर गर्नु’ हो।",
@@ -28933,12 +26898,7 @@
       "Native",
       "Dead"
     ],
-    "options_ne": [
-      "पालिएको",
-      "हुर्काइएको",
-      "जन्मजात",
-      "मृत"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'born' means the same as 'native'.",
     "explanation_ne": "‘born’ को अर्थ ‘native’ हो।",
@@ -29003,12 +26963,7 @@
       "Raised",
       "Bred"
     ],
-    "options_ne": [
-      "मृत",
-      "जन्मजात",
-      "हुर्काइएको",
-      "पालिएको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'born' is 'dead'.",
     "explanation_ne": "‘born’ को विलोम ‘dead’ हो।",
@@ -29108,12 +27063,7 @@
       "absorb",
       "branch"
     ],
-    "options_ne": [
-      "खैरो",
-      "जन्मिएको",
-      "सोस्नु",
-      "हाँगा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'born' means 'जन्मिएको'.",
     "explanation_ne": "‘born’ को अर्थ ‘जन्मिएको’ हो।",
@@ -29143,12 +27093,7 @@
       "Lend",
       "Loan"
     ],
-    "options_ne": [
-      "लिनु",
-      "फिर्ता गर्नु",
-      "सापट दिनु",
-      "ऋण लिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'borrow' means the same as 'loan'.",
     "explanation_ne": "‘borrow’ को अर्थ ‘loan’ हो।",
@@ -29213,12 +27158,7 @@
       "Loan",
       "Lend"
     ],
-    "options_ne": [
-      "लिनु",
-      "फिर्ता गर्नु",
-      "ऋण लिनु",
-      "सापट दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'borrow' is 'lend'.",
     "explanation_ne": "‘borrow’ को विलोम ‘lend’ हो।",
@@ -29318,12 +27258,7 @@
       "access",
       "borrow"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "दुलही",
-      "पहुँच",
-      "सापट लिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'borrow' means 'सापट लिनु'.",
     "explanation_ne": "‘borrow’ को अर्थ ‘सापट लिनु’ हो।",
@@ -29353,12 +27288,7 @@
       "Employee",
       "Chief"
     ],
-    "options_ne": [
-      "प्रबन्धक",
-      "रोजगारदाता",
-      "कर्मचारी",
-      "प्रमुख"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'boss' means the same as 'employer'.",
     "explanation_ne": "‘boss’ को अर्थ ‘employer’ हो।",
@@ -29423,12 +27353,7 @@
       "Employee",
       "Employer"
     ],
-    "options_ne": [
-      "प्रबन्धक",
-      "प्रमुख",
-      "कर्मचारी",
-      "रोजगारदाता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'boss' is 'manager'.",
     "explanation_ne": "‘boss’ को विलोम ‘manager’ हो।",
@@ -29528,12 +27453,7 @@
       "boss",
       "bend"
     ],
-    "options_ne": [
-      "कोण",
-      "पक्राउ गर्नु",
-      "मालिक",
-      "मोड्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'boss' means 'मालिक'.",
     "explanation_ne": "‘boss’ को अर्थ ‘मालिक’ हो।",
@@ -29563,12 +27483,7 @@
       "Either",
       "Two"
     ],
-    "options_ne": [
-      "प्रत्येक",
-      "कुनै पनि होइन",
-      "कुनै एक",
-      "दुई"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'both' means the same as 'two'.",
     "explanation_ne": "‘both’ को अर्थ ‘two’ हो।",
@@ -29633,12 +27548,7 @@
       "Neither",
       "Each"
     ],
-    "options_ne": [
-      "कुनै एक",
-      "दुई",
-      "कुनै पनि होइन",
-      "प्रत्येक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'both' is 'either'.",
     "explanation_ne": "‘both’ को विलोम ‘either’ हो।",
@@ -29738,12 +27648,7 @@
       "brush",
       "army"
     ],
-    "options_ne": [
-      "दुवै",
-      "कलाकार",
-      "ब्रस",
-      "सेना"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'both' means 'दुवै'.",
     "explanation_ne": "‘both’ को अर्थ ‘दुवै’ हो।",
@@ -29773,12 +27678,7 @@
       "Base",
       "Surface"
     ],
-    "options_ne": [
-      "माथिल्लो भाग",
-      "भुइँ",
-      "आधार",
-      "सतह"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bottom' means the same as 'base'.",
     "explanation_ne": "‘bottom’ को अर्थ ‘base’ हो।",
@@ -29843,12 +27743,7 @@
       "Floor",
       "Top"
     ],
-    "options_ne": [
-      "सतह",
-      "आधार",
-      "भुइँ",
-      "माथिल्लो भाग"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bottom' is 'floor'.",
     "explanation_ne": "‘bottom’ को विलोम ‘floor’ हो।",
@@ -29948,12 +27843,7 @@
       "bolt",
       "avenue"
     ],
-    "options_ne": [
-      "सीमा",
-      "तल्लो भाग",
-      "बोल्ट",
-      "मार्ग"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bottom' means 'तल्लो भाग'.",
     "explanation_ne": "‘bottom’ को अर्थ ‘तल्लो भाग’ हो।",
@@ -29983,12 +27873,7 @@
       "Tied",
       "Unbound"
     ],
-    "options_ne": [
-      "मुक्त",
-      "बाध्य",
-      "बाँधिएको",
-      "नबाँधिएको"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bound' means the same as 'tied'.",
     "explanation_ne": "‘bound’ को अर्थ ‘tied’ हो।",
@@ -30053,12 +27938,7 @@
       "Tied",
       "Obliged"
     ],
-    "options_ne": [
-      "नबाँधिएको",
-      "मुक्त",
-      "बाँधिएको",
-      "बाध्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bound' is 'free'.",
     "explanation_ne": "‘bound’ को विलोम ‘free’ हो।",
@@ -30158,12 +28038,7 @@
       "bread",
       "bid"
     ],
-    "options_ne": [
-      "बाँधिएको",
-      "लेखापरीक्षण",
-      "रोटी",
-      "बोली लगाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bound' means 'बाँधिएको'.",
     "explanation_ne": "‘bound’ को अर्थ ‘बाँधिएको’ हो।",
@@ -30193,12 +28068,7 @@
       "Basin",
       "Dish"
     ],
-    "options_ne": [
-      "कप",
-      "थाली",
-      "बेसिन",
-      "भाँडा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bowl' means the same as 'dish'.",
     "explanation_ne": "‘bowl’ को अर्थ ‘dish’ हो।",
@@ -30263,12 +28133,7 @@
       "Basin",
       "Dish"
     ],
-    "options_ne": [
-      "कप",
-      "थाली",
-      "बेसिन",
-      "भाँडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bowl' is 'basin'.",
     "explanation_ne": "‘bowl’ को विलोम ‘basin’ हो।",
@@ -30368,12 +28233,7 @@
       "article",
       "bucket"
     ],
-    "options_ne": [
-      "चकित पार्नु",
-      "कचौरा",
-      "लेख",
-      "बाल्टी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bowl' means 'कचौरा'.",
     "explanation_ne": "‘bowl’ को अर्थ ‘कचौरा’ हो।",
@@ -30403,12 +28263,7 @@
       "Container",
       "Bag"
     ],
-    "options_ne": [
-      "कार्टन",
-      "क्रेट",
-      "भाँडा",
-      "झोला"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'box' means the same as 'crate'.",
     "explanation_ne": "‘box’ को अर्थ ‘crate’ हो।",
@@ -30473,12 +28328,7 @@
       "Bag",
       "Container"
     ],
-    "options_ne": [
-      "क्रेट",
-      "कार्टन",
-      "झोला",
-      "भाँडा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'box' is 'carton'.",
     "explanation_ne": "‘box’ को विलोम ‘carton’ हो।",
@@ -30578,12 +28428,7 @@
       "beard",
       "access"
     ],
-    "options_ne": [
-      "बाकस",
-      "बिल",
-      "दाह्री",
-      "पहुँच"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'box' means 'बाकस'.",
     "explanation_ne": "‘box’ को अर्थ ‘बाकस’ हो।",
@@ -30613,12 +28458,7 @@
       "Youth",
       "Lad"
     ],
-    "options_ne": [
-      "केटी",
-      "मानिस",
-      "युवा",
-      "केटा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'boy' means the same as 'lad'.",
     "explanation_ne": "‘boy’ को अर्थ ‘lad’ हो।",
@@ -30683,12 +28523,7 @@
       "Man",
       "Girl"
     ],
-    "options_ne": [
-      "केटा",
-      "युवा",
-      "मानिस",
-      "केटी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'boy' is 'youth'.",
     "explanation_ne": "‘boy’ को विलोम ‘youth’ हो।",
@@ -30788,12 +28623,7 @@
       "arise",
       "boy"
     ],
-    "options_ne": [
-      "पिट्नु",
-      "सहयोग गर्नु",
-      "उठ्नु",
-      "केटा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'boy' means 'केटा'.",
     "explanation_ne": "‘boy’ को अर्थ ‘केटा’ हो।",
@@ -30823,12 +28653,7 @@
       "Head",
       "Mind"
     ],
-    "options_ne": [
-      "खप्पर",
-      "बुद्धि",
-      "टाउको",
-      "मन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'brain' means the same as 'mind'.",
     "explanation_ne": "‘brain’ को अर्थ ‘mind’ हो।",
@@ -30893,12 +28718,7 @@
       "Skull",
       "Mind"
     ],
-    "options_ne": [
-      "बुद्धि",
-      "टाउको",
-      "खप्पर",
-      "मन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'brain' is 'intellect'.",
     "explanation_ne": "‘brain’ को विलोम ‘intellect’ हो।",
@@ -30998,12 +28818,7 @@
       "brain",
       "axiom"
     ],
-    "options_ne": [
-      "पेटी",
-      "निदाएको",
-      "मस्तिष्क",
-      "स्वयंसिद्ध"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brain' means 'मस्तिष्क'.",
     "explanation_ne": "‘brain’ को अर्थ ‘मस्तिष्क’ हो।",
@@ -31033,12 +28848,7 @@
       "Twig",
       "Root"
     ],
-    "options_ne": [
-      "काण्ड",
-      "अङ्ग",
-      "टुसा",
-      "जरा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'branch' means the same as 'limb'.",
     "explanation_ne": "‘branch’ को अर्थ ‘limb’ हो।",
@@ -31103,12 +28913,7 @@
       "Twig",
       "Root"
     ],
-    "options_ne": [
-      "अङ्ग",
-      "काण्ड",
-      "टुसा",
-      "जरा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'branch' is 'twig'.",
     "explanation_ne": "‘branch’ को विलोम ‘twig’ हो।",
@@ -31208,12 +29013,7 @@
       "become",
       "branch"
     ],
-    "options_ne": [
-      "अमूर्त",
-      "विस्फोट",
-      "बन्नु",
-      "हाँगा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'branch' means 'हाँगा'.",
     "explanation_ne": "‘branch’ को अर्थ ‘हाँगा’ हो।",
@@ -31243,12 +29043,7 @@
       "Make",
       "Type"
     ],
-    "options_ne": [
-      "ट्रेडमार्क",
-      "लेबल",
-      "निर्माण",
-      "प्रकार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'brand' means the same as 'trademark'.",
     "explanation_ne": "‘brand’ को अर्थ ‘trademark’ हो।",
@@ -31313,12 +29108,7 @@
       "Trademark",
       "Make"
     ],
-    "options_ne": [
-      "लेबल",
-      "प्रकार",
-      "ट्रेडमार्क",
-      "निर्माण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'brand' is 'label'.",
     "explanation_ne": "‘brand’ को विलोम ‘label’ हो।",
@@ -31418,12 +29208,7 @@
       "belt",
       "brand"
     ],
-    "options_ne": [
-      "स्वर्गदूत",
-      "भिख माग्नु",
-      "पेटी",
-      "ब्रान्ड"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'brand' means 'ब्रान्ड'.",
     "explanation_ne": "‘brand’ को अर्थ ‘ब्रान्ड’ हो।",
@@ -31453,12 +29238,7 @@
       "Loaf",
       "Cake"
     ],
-    "options_ne": [
-      "बन",
-      "चामल",
-      "रोटी",
-      "केक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bread' means the same as 'loaf'.",
     "explanation_ne": "‘bread’ को अर्थ ‘loaf’ हो।",
@@ -31523,12 +29303,7 @@
       "Rice",
       "Bun"
     ],
-    "options_ne": [
-      "केक",
-      "रोटी",
-      "चामल",
-      "बन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bread' is 'bun'.",
     "explanation_ne": "‘bread’ को विलोम ‘bun’ हो।",
@@ -31628,12 +29403,7 @@
       "alike",
       "bread"
     ],
-    "options_ne": [
-      "देखिनु",
-      "विस्फोट",
-      "उस्तै",
-      "रोटी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bread' means 'रोटी'.",
     "explanation_ne": "‘bread’ को अर्थ ‘रोटी’ हो।",
@@ -31663,12 +29433,7 @@
       "Smash",
       "Mend"
     ],
-    "options_ne": [
-      "ठीक गर्नु",
-      "टुक्राउनु",
-      "फुटाउनु",
-      "मर्मत गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'break' means the same as 'shatter'.",
     "explanation_ne": "‘break’ को अर्थ ‘shatter’ हो।",
@@ -31733,12 +29498,7 @@
       "Fix",
       "Shatter"
     ],
-    "options_ne": [
-      "फुटाउनु",
-      "मर्मत गर्नु",
-      "ठीक गर्नु",
-      "टुक्राउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'break' is 'mend'.",
     "explanation_ne": "‘break’ को विलोम ‘mend’ हो।",
@@ -31838,12 +29598,7 @@
       "Respiration",
       "Air"
     ],
-    "options_ne": [
-      "श्वास लिनु",
-      "श्वास छोड्नु",
-      "श्वसन",
-      "हावा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'breath' means the same as 'respiration'.",
     "explanation_ne": "‘breath’ को अर्थ ‘respiration’ हो।",
@@ -31908,12 +29663,7 @@
       "Respiration",
       "Exhalation"
     ],
-    "options_ne": [
-      "श्वास लिनु",
-      "हावा",
-      "श्वसन",
-      "श्वास छोड्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'breath' is 'air'.",
     "explanation_ne": "‘breath’ को विलोम ‘air’ हो।",
@@ -32013,12 +29763,7 @@
       "breath",
       "accuse"
     ],
-    "options_ne": [
-      "रगत बग्नु",
-      "मनोरञ्जन गर्नु",
-      "श्वास",
-      "आरोप लगाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'breath' means 'श्वास'.",
     "explanation_ne": "‘breath’ को अर्थ ‘श्वास’ हो।",
@@ -32048,12 +29793,7 @@
       "Wind",
       "Gust"
     ],
-    "options_ne": [
-      "आँधी",
-      "शान्ति",
-      "हावा",
-      "झोंका"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'breeze' means the same as 'wind'.",
     "explanation_ne": "‘breeze’ को अर्थ ‘wind’ हो।",
@@ -32118,12 +29858,7 @@
       "Wind",
       "Calm"
     ],
-    "options_ne": [
-      "आँधी",
-      "झोंका",
-      "हावा",
-      "शान्ति"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'breeze' is 'gust'.",
     "explanation_ne": "‘breeze’ को विलोम ‘gust’ हो।",
@@ -32223,12 +29958,7 @@
       "badge",
       "around"
     ],
-    "options_ne": [
-      "हल्का हावा",
-      "जलाउनु",
-      "ब्याज",
-      "वरिपरि"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'breeze' means 'हल्का हावा'.",
     "explanation_ne": "‘breeze’ को अर्थ ‘हल्का हावा’ हो।",
@@ -32258,12 +29988,7 @@
       "Block",
       "Cement"
     ],
-    "options_ne": [
-      "टायल",
-      "ढुङ्गा",
-      "ब्लक",
-      "सिमेन्ट"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brick' means the same as 'block'.",
     "explanation_ne": "‘brick’ को अर्थ ‘block’ हो।",
@@ -32328,12 +30053,7 @@
       "Tile",
       "Block"
     ],
-    "options_ne": [
-      "सिमेन्ट",
-      "ढुङ्गा",
-      "टायल",
-      "ब्लक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'brick' is 'stone'.",
     "explanation_ne": "‘brick’ को विलोम ‘stone’ हो।",
@@ -32433,12 +30153,7 @@
       "brick",
       "bind"
     ],
-    "options_ne": [
-      "स्वीकार्नु",
-      "बार",
-      "इँटा",
-      "बाँध्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brick' means 'इँटा'.",
     "explanation_ne": "‘brick’ को अर्थ ‘इँटा’ हो।",
@@ -32468,12 +30183,7 @@
       "Wife",
       "Groom"
     ],
-    "options_ne": [
-      "श्रीमान्",
-      "नवविवाहिता",
-      "श्रीमती",
-      "दुलहा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bride' means the same as 'newlywed'.",
     "explanation_ne": "‘bride’ को अर्थ ‘newlywed’ हो।",
@@ -32538,12 +30248,7 @@
       "Newlywed",
       "Groom"
     ],
-    "options_ne": [
-      "श्रीमती",
-      "श्रीमान्",
-      "नवविवाहिता",
-      "दुलहा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bride' is 'wife'.",
     "explanation_ne": "‘bride’ को विलोम ‘wife’ हो।",
@@ -32643,12 +30348,7 @@
       "boy",
       "assure"
     ],
-    "options_ne": [
-      "परिमाण",
-      "दुलही",
-      "केटा",
-      "आश्वासन दिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bride' means 'दुलही'.",
     "explanation_ne": "‘bride’ को अर्थ ‘दुलही’ हो।",
@@ -32678,12 +30378,7 @@
       "Take",
       "Fetch"
     ],
-    "options_ne": [
-      "बोक्नु",
-      "पठाउनु",
-      "लैजानु",
-      "ल्याउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bring' means the same as 'fetch'.",
     "explanation_ne": "‘bring’ को अर्थ ‘fetch’ हो।",
@@ -32748,12 +30443,7 @@
       "Send",
       "Fetch"
     ],
-    "options_ne": [
-      "लैजानु",
-      "बोक्नु",
-      "पठाउनु",
-      "ल्याउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bring' is 'carry'.",
     "explanation_ne": "‘bring’ को विलोम ‘carry’ हो।",
@@ -32853,12 +30543,7 @@
       "brother",
       "bring"
     ],
-    "options_ne": [
-      "प्रयास",
-      "बाधा",
-      "भाइ",
-      "ल्याउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bring' means 'ल्याउनु'.",
     "explanation_ne": "‘bring’ को अर्थ ‘ल्याउनु’ हो।",
@@ -32888,12 +30573,7 @@
       "Narrow",
       "Vast"
     ],
-    "options_ne": [
-      "सीमित",
-      "चौडा",
-      "साँघुरो",
-      "विशाल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'broad' means the same as 'wide'.",
     "explanation_ne": "‘broad’ को अर्थ ‘wide’ हो।",
@@ -32958,12 +30638,7 @@
       "Narrow",
       "Wide"
     ],
-    "options_ne": [
-      "विशाल",
-      "सीमित",
-      "साँघुरो",
-      "चौडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'broad' is 'narrow'.",
     "explanation_ne": "‘broad’ को विलोम ‘narrow’ हो।",
@@ -33063,12 +30738,7 @@
       "army",
       "broad"
     ],
-    "options_ne": [
-      "पक्राउ गर्नु",
-      "जनावर",
-      "सेना",
-      "फराकिलो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'broad' means 'फराकिलो'.",
     "explanation_ne": "‘broad’ को अर्थ ‘फराकिलो’ हो।",
@@ -33098,12 +30768,7 @@
       "Broken",
       "Whole"
     ],
-    "options_ne": [
-      "टुक्रिएको",
-      "अक्षत",
-      "टुटेको",
-      "पूरै"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'broke' means the same as 'broken'.",
     "explanation_ne": "‘broke’ को अर्थ ‘broken’ हो।",
@@ -33168,12 +30833,7 @@
       "Intact",
       "Whole"
     ],
-    "options_ne": [
-      "टुटेको",
-      "टुक्रिएको",
-      "अक्षत",
-      "पूरै"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'broke' is 'intact'.",
     "explanation_ne": "‘broke’ को विलोम ‘intact’ हो।",
@@ -33273,12 +30933,7 @@
       "anthem",
       "barrier"
     ],
-    "options_ne": [
-      "भाँचिएको",
-      "समुद्र तट",
-      "गान",
-      "बाधा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'broke' means 'भाँचिएको'.",
     "explanation_ne": "‘broke’ को अर्थ ‘भाँचिएको’ हो।",
@@ -33308,12 +30963,7 @@
       "Friend",
       "Sibling"
     ],
-    "options_ne": [
-      "चचेरे भाइ",
-      "बहिनी",
-      "साथी",
-      "सहोदर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'brother' means the same as 'sibling'.",
     "explanation_ne": "‘brother’ को अर्थ ‘sibling’ हो।",
@@ -33378,12 +31028,7 @@
       "Sister",
       "Friend"
     ],
-    "options_ne": [
-      "चचेरे भाइ",
-      "सहोदर",
-      "बहिनी",
-      "साथी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'brother' is 'sister'.",
     "explanation_ne": "‘brother’ को विलोम ‘sister’ हो।",
@@ -33483,12 +31128,7 @@
       "brother",
       "around"
     ],
-    "options_ne": [
-      "बाण",
-      "कचौरा",
-      "भाइ",
-      "वरिपरि"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brother' means 'भाइ'.",
     "explanation_ne": "‘brother’ को अर्थ ‘भाइ’ हो।",
@@ -33518,12 +31158,7 @@
       "White",
       "Chocolate"
     ],
-    "options_ne": [
-      "कालो",
-      "खैरो",
-      "सेतो",
-      "चकलेट रङ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'brown' means the same as 'tan'.",
     "explanation_ne": "‘brown’ को अर्थ ‘tan’ हो।",
@@ -33588,12 +31223,7 @@
       "White",
       "Chocolate"
     ],
-    "options_ne": [
-      "खैरो",
-      "कालो",
-      "सेतो",
-      "चकलेट रङ"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'brown' is 'chocolate'.",
     "explanation_ne": "‘brown’ को विलोम ‘chocolate’ हो।",
@@ -33693,12 +31323,7 @@
       "brown",
       "attitude"
     ],
-    "options_ne": [
-      "दुवै",
-      "ब्यान्ड",
-      "खैरो",
-      "मनोवृत्ति"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brown' means 'खैरो'.",
     "explanation_ne": "‘brown’ को अर्थ ‘खैरो’ हो।",
@@ -33728,12 +31353,7 @@
       "Broom",
       "Mop"
     ],
-    "options_ne": [
-      "रङ",
-      "काइँयो",
-      "कुचो",
-      "पोछा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brush' means the same as 'broom'.",
     "explanation_ne": "‘brush’ को अर्थ ‘broom’ हो।",
@@ -33798,12 +31418,7 @@
       "Comb",
       "Paint"
     ],
-    "options_ne": [
-      "कुचो",
-      "पोछा",
-      "काइँयो",
-      "रङ"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'brush' is 'comb'.",
     "explanation_ne": "‘brush’ को विलोम ‘comb’ हो।",
@@ -33903,12 +31518,7 @@
       "brush",
       "bake"
     ],
-    "options_ne": [
-      "बाधा",
-      "सतर्क",
-      "ब्रस",
-      "सेक्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brush' means 'ब्रस'.",
     "explanation_ne": "‘brush’ को अर्थ ‘ब्रस’ हो।",
@@ -33938,12 +31548,7 @@
       "Froth",
       "Foam"
     ],
-    "options_ne": [
-      "थोपा",
-      "बेलुन",
-      "फेन",
-      "फिँज"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bubble' means the same as 'foam'.",
     "explanation_ne": "‘bubble’ को अर्थ ‘foam’ हो।",
@@ -34008,12 +31613,7 @@
       "Foam",
       "Froth"
     ],
-    "options_ne": [
-      "बेलुन",
-      "थोपा",
-      "फिँज",
-      "फेन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bubble' is 'froth'.",
     "explanation_ne": "‘bubble’ को विलोम ‘froth’ हो।",
@@ -34113,12 +31713,7 @@
       "bottom",
       "bubble"
     ],
-    "options_ne": [
-      "बस",
-      "राम्रो",
-      "तल्लो भाग",
-      "बुलबुला"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bubble' means 'बुलबुला'.",
     "explanation_ne": "‘bubble’ को अर्थ ‘बुलबुला’ हो।",
@@ -34148,12 +31743,7 @@
       "Tub",
       "Container"
     ],
-    "options_ne": [
-      "बाल्टी",
-      "जग",
-      "टब",
-      "भाँडा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bucket' means the same as 'pail'.",
     "explanation_ne": "‘bucket’ को अर्थ ‘pail’ हो।",
@@ -34218,12 +31808,7 @@
       "Jug",
       "Container"
     ],
-    "options_ne": [
-      "बाल्टी",
-      "टब",
-      "जग",
-      "भाँडा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'bucket' is 'container'.",
     "explanation_ne": "‘bucket’ को विलोम ‘container’ हो।",
@@ -34323,12 +31908,7 @@
       "Allocation",
       "Estimate"
     ],
-    "options_ne": [
-      "योजना",
-      "खर्च",
-      "विनियोजन",
-      "अनुमान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'budget' means the same as 'estimate'.",
     "explanation_ne": "‘budget’ को अर्थ ‘estimate’ हो।",
@@ -34393,12 +31973,7 @@
       "Estimate",
       "Plan"
     ],
-    "options_ne": [
-      "विनियोजन",
-      "खर्च",
-      "अनुमान",
-      "योजना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'budget' is 'plan'.",
     "explanation_ne": "‘budget’ को विलोम ‘plan’ हो।",
@@ -34498,12 +32073,7 @@
       "ankle",
       "annoy"
     ],
-    "options_ne": [
-      "युद्ध",
-      "बजेट",
-      "गोडा",
-      "रिस उठाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'budget' means 'बजेट'.",
     "explanation_ne": "‘budget’ को अर्थ ‘बजेट’ हो।",
@@ -34533,12 +32103,7 @@
       "Mass",
       "Retail"
     ],
-    "options_ne": [
-      "आयतन",
-      "मात्रा",
-      "पिण्ड",
-      "खुद्रा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bulk' means the same as 'mass'.",
     "explanation_ne": "‘bulk’ को अर्थ ‘mass’ हो।",
@@ -34603,12 +32168,7 @@
       "Mass",
       "Retail"
     ],
-    "options_ne": [
-      "आयतन",
-      "मात्रा",
-      "पिण्ड",
-      "खुद्रा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bulk' is 'volume'.",
     "explanation_ne": "‘bulk’ को विलोम ‘volume’ हो।",
@@ -34708,12 +32268,7 @@
       "bulk",
       "attend"
     ],
-    "options_ne": [
-      "तितो",
-      "सबैभन्दा राम्रो",
-      "थोक",
-      "उपस्थित हुनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bulk' means 'थोक'.",
     "explanation_ne": "‘bulk’ को अर्थ ‘थोक’ हो।",
@@ -34743,12 +32298,7 @@
       "Shell",
       "Shot"
     ],
-    "options_ne": [
-      "गोला बारुद",
-      "मिसाइल",
-      "गोला",
-      "गोली"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bullet' means the same as 'ammunition'.",
     "explanation_ne": "‘bullet’ को अर्थ ‘ammunition’ हो।",
@@ -34813,12 +32363,7 @@
       "Ammunition",
       "Missile"
     ],
-    "options_ne": [
-      "गोला",
-      "गोली",
-      "गोला बारुद",
-      "मिसाइल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bullet' is 'shell'.",
     "explanation_ne": "‘bullet’ को विलोम ‘shell’ हो।",
@@ -34918,12 +32463,7 @@
       "bullet",
       "blame"
     ],
-    "options_ne": [
-      "ब्याज",
-      "एजेन्डा",
-      "गोली",
-      "दोष"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bullet' means 'गोली'.",
     "explanation_ne": "‘bullet’ को अर्थ ‘गोली’ हो।",
@@ -34953,12 +32493,7 @@
       "Load",
       "Weight"
     ],
-    "options_ne": [
-      "जिम्मेवारी",
-      "राहत",
-      "बोझ",
-      "तौल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'burden' means the same as 'load'.",
     "explanation_ne": "‘burden’ को अर्थ ‘load’ हो।",
@@ -35023,12 +32558,7 @@
       "Responsibility",
       "Weight"
     ],
-    "options_ne": [
-      "राहत",
-      "बोझ",
-      "जिम्मेवारी",
-      "तौल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'burden' is 'weight'.",
     "explanation_ne": "‘burden’ को विलोम ‘weight’ हो।",
@@ -35128,12 +32658,7 @@
       "beyond",
       "burden"
     ],
-    "options_ne": [
-      "शरीर",
-      "पिट्नु",
-      "पारि",
-      "भार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'burden' means 'भार'.",
     "explanation_ne": "‘burden’ को अर्थ ‘भार’ हो।",
@@ -35163,12 +32688,7 @@
       "Extinguish",
       "Flame"
     ],
-    "options_ne": [
-      "पोल्नु",
-      "बाल्नु",
-      "निभाउनु",
-      "ज्वाला"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'burn' means the same as 'ignite'.",
     "explanation_ne": "‘burn’ को अर्थ ‘ignite’ हो।",
@@ -35233,12 +32753,7 @@
       "Extinguish",
       "Scorch"
     ],
-    "options_ne": [
-      "ज्वाला",
-      "बाल्नु",
-      "निभाउनु",
-      "पोल्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'burn' is 'scorch'.",
     "explanation_ne": "‘burn’ को विलोम ‘scorch’ हो।",
@@ -35338,12 +32853,7 @@
       "burn",
       "branch"
     ],
-    "options_ne": [
-      "बाँध्नु",
-      "भाँच्नु",
-      "जलाउनु",
-      "हाँगा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'burn' means 'जलाउनु'.",
     "explanation_ne": "‘burn’ को अर्थ ‘जलाउनु’ हो।",
@@ -35373,12 +32883,7 @@
       "Rupture",
       "Break"
     ],
-    "options_ne": [
-      "विस्फोट हुनु",
-      "बन्द गर्नु",
-      "फुट्नु",
-      "भाँच्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'burst' means the same as 'explode'.",
     "explanation_ne": "‘burst’ को अर्थ ‘explode’ हो।",
@@ -35443,12 +32948,7 @@
       "Explode",
       "Seal"
     ],
-    "options_ne": [
-      "भाँच्नु",
-      "फुट्नु",
-      "विस्फोट हुनु",
-      "बन्द गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'burst' is 'break'.",
     "explanation_ne": "‘burst’ को विलोम ‘break’ हो।",
@@ -35548,12 +33048,7 @@
       "burst",
       "apply"
     ],
-    "options_ne": [
-      "एल्बम",
-      "लेखक",
-      "फुट्नु",
-      "आवेदन दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'burst' means 'फुट्नु'.",
     "explanation_ne": "‘burst’ को अर्थ ‘फुट्नु’ हो।",
@@ -35583,12 +33078,7 @@
       "Entomb",
       "Dig up"
     ],
-    "options_ne": [
-      "गाड्नु",
-      "दाहसंस्कार गर्नु",
-      "चिहानमा राख्नु",
-      "खनेर निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bury' means the same as 'inter'.",
     "explanation_ne": "‘bury’ को अर्थ ‘inter’ हो।",
@@ -35653,12 +33143,7 @@
       "Inter",
       "Dig up"
     ],
-    "options_ne": [
-      "दाहसंस्कार गर्नु",
-      "चिहानमा राख्नु",
-      "गाड्नु",
-      "खनेर निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bury' is 'entomb'.",
     "explanation_ne": "‘bury’ को विलोम ‘entomb’ हो।",
@@ -35758,12 +33243,7 @@
       "beef",
       "bury"
     ],
-    "options_ne": [
-      "आरोप लगाउनु",
-      "जलाउनु",
-      "गाईको मासु",
-      "गाड्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'bury' means 'गाड्नु'.",
     "explanation_ne": "‘bury’ को अर्थ ‘गाड्नु’ हो।",
@@ -35793,12 +33273,7 @@
       "Coach",
       "Vehicle"
     ],
-    "options_ne": [
-      "रेल",
-      "कार",
-      "कोच",
-      "सवारी साधन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bus' means the same as 'coach'.",
     "explanation_ne": "‘bus’ को अर्थ ‘coach’ हो।",
@@ -35863,12 +33338,7 @@
       "Vehicle",
       "Train"
     ],
-    "options_ne": [
-      "कार",
-      "कोच",
-      "सवारी साधन",
-      "रेल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'bus' is 'vehicle'.",
     "explanation_ne": "‘bus’ को विलोम ‘vehicle’ हो।",
@@ -35968,12 +33438,7 @@
       "borrow",
       "breeze"
     ],
-    "options_ne": [
-      "कचौरा",
-      "बस",
-      "सापट लिनु",
-      "हल्का हावा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bus' means 'बस'.",
     "explanation_ne": "‘bus’ को अर्थ ‘बस’ हो।",
@@ -36003,12 +33468,7 @@
       "Forest",
       "Tree"
     ],
-    "options_ne": [
-      "झाडी",
-      "बिरुवा",
-      "जङ्गल",
-      "रूख"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bush' means the same as 'shrub'.",
     "explanation_ne": "‘bush’ को अर्थ ‘shrub’ हो।",
@@ -36073,12 +33533,7 @@
       "Shrub",
       "Forest"
     ],
-    "options_ne": [
-      "रूख",
-      "बिरुवा",
-      "झाडी",
-      "जङ्गल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'bush' is 'plant'.",
     "explanation_ne": "‘bush’ को विलोम ‘plant’ हो।",
@@ -36178,12 +33633,7 @@
       "brand",
       "beg"
     ],
-    "options_ne": [
-      "मार्ग",
-      "झाडी",
-      "ब्रान्ड",
-      "भिख माग्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'bush' means 'झाडी'.",
     "explanation_ne": "‘bush’ को अर्थ ‘झाडी’ हो।",
@@ -36213,12 +33663,7 @@
       "Enterprise",
       "Commerce"
     ],
-    "options_ne": [
-      "व्यापार",
-      "फुर्सद",
-      "उद्यम",
-      "वाणिज्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'business' means the same as 'trade'.",
     "explanation_ne": "‘business’ को अर्थ ‘trade’ हो।",
@@ -36283,12 +33728,7 @@
       "Trade",
       "Leisure"
     ],
-    "options_ne": [
-      "वाणिज्य",
-      "उद्यम",
-      "व्यापार",
-      "फुर्सद"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'business' is 'commerce'.",
     "explanation_ne": "‘business’ को विलोम ‘commerce’ हो।",
@@ -36388,12 +33828,7 @@
       "business",
       "abstract"
     ],
-    "options_ne": [
-      "व्यस्त",
-      "भाँच्नु",
-      "व्यापार",
-      "अमूर्त"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'business' means 'व्यापार'.",
     "explanation_ne": "‘business’ को अर्थ ‘व्यापार’ हो।",
@@ -36423,12 +33858,7 @@
       "Engaged",
       "Idle"
     ],
-    "options_ne": [
-      "खाली",
-      "व्यस्त",
-      "संलग्न",
-      "निष्क्रिय"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'busy' means the same as 'occupied'.",
     "explanation_ne": "‘busy’ को अर्थ ‘occupied’ हो।",
@@ -36493,12 +33923,7 @@
       "Engaged",
       "Free"
     ],
-    "options_ne": [
-      "निष्क्रिय",
-      "व्यस्त",
-      "संलग्न",
-      "खाली"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'busy' is 'idle'.",
     "explanation_ne": "‘busy’ को विलोम ‘idle’ हो।",
@@ -36598,12 +34023,7 @@
       "busy",
       "berry"
     ],
-    "options_ne": [
-      "एक्लै",
-      "पेटी",
-      "व्यस्त",
-      "बेरी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'busy' means 'व्यस्त'.",
     "explanation_ne": "‘busy’ को अर्थ ‘व्यस्त’ हो।",
@@ -36633,12 +34053,7 @@
       "Spread",
       "Oil"
     ],
-    "options_ne": [
-      "क्रिम",
-      "घिउ",
-      "स्प्रेड",
-      "तेल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'butter' means the same as 'ghee'.",
     "explanation_ne": "‘butter’ को अर्थ ‘ghee’ हो।",
@@ -36703,12 +34118,7 @@
       "Spread",
       "Ghee"
     ],
-    "options_ne": [
-      "तेल",
-      "क्रिम",
-      "स्प्रेड",
-      "घिउ"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'butter' is 'spread'.",
     "explanation_ne": "‘butter’ को विलोम ‘spread’ हो।",
@@ -36808,12 +34218,7 @@
       "become",
       "bus"
     ],
-    "options_ne": [
-      "चेतावनी",
-      "मक्खन",
-      "बन्नु",
-      "बस"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'butter' means 'मक्खन'.",
     "explanation_ne": "‘butter’ को अर्थ ‘मक्खन’ हो।",
@@ -36843,12 +34248,7 @@
       "Knob",
       "Fastener"
     ],
-    "options_ne": [
-      "जिप",
-      "स्विच",
-      "नब",
-      "बन्धन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'button' means the same as 'knob'.",
     "explanation_ne": "‘button’ को अर्थ ‘knob’ हो।",
@@ -36913,12 +34313,7 @@
       "Zip",
       "Fastener"
     ],
-    "options_ne": [
-      "स्विच",
-      "नब",
-      "जिप",
-      "बन्धन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'button' is 'switch'.",
     "explanation_ne": "‘button’ को विलोम ‘switch’ हो।",
@@ -37018,12 +34413,7 @@
       "bowl",
       "button"
     ],
-    "options_ne": [
-      "अन्धो",
-      "परिवर्तन गर्नु",
-      "कचौरा",
-      "बटन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'button' means 'बटन'.",
     "explanation_ne": "‘button’ को अर्थ ‘बटन’ हो।",
@@ -37053,12 +34443,7 @@
       "Goodbye",
       "Hello"
     ],
-    "options_ne": [
-      "बिदाइ",
-      "अभिवादन",
-      "अलविदा",
-      "नमस्कार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bye' means the same as 'farewell'.",
     "explanation_ne": "‘bye’ को अर्थ ‘farewell’ हो।",
@@ -37123,12 +34508,7 @@
       "Farewell",
       "Hello"
     ],
-    "options_ne": [
-      "अलविदा",
-      "अभिवादन",
-      "बिदाइ",
-      "नमस्कार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bye' is 'goodbye'.",
     "explanation_ne": "‘bye’ को विलोम ‘goodbye’ हो।",
@@ -37228,12 +34608,7 @@
       "bye",
       "brown"
     ],
-    "options_ne": [
-      "कलाकार",
-      "स्याउ",
-      "बिदा",
-      "खैरो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'bye' means 'बिदा'.",
     "explanation_ne": "‘bye’ को अर्थ ‘बिदा’ हो।",

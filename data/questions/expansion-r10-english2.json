@@ -23,12 +23,7 @@
       "Slow",
       "Sudden"
     ],
-    "options_ne": [
-      "क्रमिक",
-      "हतारिएको",
-      "ढिलो",
-      "अचानक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'abrupt' means the same as 'sudden'.",
     "explanation_ne": "‘abrupt’ को अर्थ ‘sudden’ हो।",
@@ -93,12 +88,7 @@
       "Sudden",
       "Gradual"
     ],
-    "options_ne": [
-      "ढिलो",
-      "हतारिएको",
-      "अचानक",
-      "क्रमिक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'abrupt' is 'gradual'.",
     "explanation_ne": "‘abrupt’ को विलोम ‘gradual’ हो।",
@@ -198,12 +188,7 @@
       "abrupt",
       "accelerate"
     ],
-    "options_ne": [
-      "अज्ञात",
-      "निर्दयी",
-      "अचानक",
-      "छिटो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'abrupt' means 'अचानक'.",
     "explanation_ne": "‘abrupt’ को अर्थ ‘अचानक’ हो।",
@@ -233,12 +218,7 @@
       "Sensible",
       "Foolish"
     ],
-    "options_ne": [
-      "बुद्धिमान्",
-      "हास्यास्पद",
-      "समझदार",
-      "मूर्ख"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'absurd' means the same as 'ridiculous'.",
     "explanation_ne": "‘absurd’ को अर्थ ‘ridiculous’ हो।",
@@ -303,12 +283,7 @@
       "Ridiculous",
       "Wise"
     ],
-    "options_ne": [
-      "मूर्ख",
-      "समझदार",
-      "हास्यास्पद",
-      "बुद्धिमान्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'absurd' is 'sensible'.",
     "explanation_ne": "‘absurd’ को विलोम ‘sensible’ हो।",
@@ -408,12 +383,7 @@
       "absurd",
       "understand"
     ],
-    "options_ne": [
-      "मितव्ययी",
-      "घृणा",
-      "बेतुका",
-      "बुझ्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'absurd' means 'बेतुका'.",
     "explanation_ne": "‘absurd’ को अर्थ ‘बेतुका’ हो।",
@@ -443,12 +413,7 @@
       "Slow down",
       "Speed up"
     ],
-    "options_ne": [
-      "ढिलाइ गर्नु",
-      "हतार गर्नु",
-      "ढिलो गर्नु",
-      "गति बढाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'accelerate' means the same as 'speed up'.",
     "explanation_ne": "‘accelerate’ को अर्थ ‘speed up’ हो।",
@@ -513,12 +478,7 @@
       "Speed up",
       "Slow down"
     ],
-    "options_ne": [
-      "हतार गर्नु",
-      "ढिलाइ गर्नु",
-      "गति बढाउनु",
-      "ढिलो गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'accelerate' is 'slow down'.",
     "explanation_ne": "‘accelerate’ को विलोम ‘slow down’ हो।",
@@ -618,12 +578,7 @@
       "awful",
       "accelerate"
     ],
-    "options_ne": [
-      "अज्ञानी",
-      "भोक",
-      "भयानक",
-      "छिटो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'accelerate' means 'छिटो बनाउनु'.",
     "explanation_ne": "‘accelerate’ को अर्थ ‘छिटो बनाउनु’ हो।",
@@ -653,12 +608,7 @@
       "Fail",
       "Complete"
     ],
-    "options_ne": [
-      "हासिल गर्नु",
-      "त्याग्नु",
-      "असफल हुनु",
-      "पूरा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'accomplish' means the same as 'achieve'.",
     "explanation_ne": "‘accomplish’ को अर्थ ‘achieve’ हो।",
@@ -723,12 +673,7 @@
       "Fail",
       "Complete"
     ],
-    "options_ne": [
-      "त्याग्नु",
-      "हासिल गर्नु",
-      "असफल हुनु",
-      "पूरा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'accomplish' is 'fail'.",
     "explanation_ne": "‘accomplish’ को विलोम ‘fail’ हो।",
@@ -828,12 +773,7 @@
       "various",
       "accomplish"
     ],
-    "options_ne": [
-      "जिज्ञासु",
-      "कल्पना गर्नु",
-      "विभिन्न",
-      "सम्पन्न गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'accomplish' means 'सम्पन्न गर्नु'.",
     "explanation_ne": "‘accomplish’ को अर्थ ‘सम्पन्न गर्नु’ हो।",
@@ -863,12 +803,7 @@
       "Disperse",
       "Scatter"
     ],
-    "options_ne": [
-      "भेला गर्नु",
-      "सङ्कलन गर्नु",
-      "छरिनु",
-      "छर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'accumulate' means the same as 'gather'.",
     "explanation_ne": "‘accumulate’ को अर्थ ‘gather’ हो।",
@@ -933,12 +868,7 @@
       "Gather",
       "Disperse"
     ],
-    "options_ne": [
-      "छर्नु",
-      "सङ्कलन गर्नु",
-      "भेला गर्नु",
-      "छरिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'accumulate' is 'disperse'.",
     "explanation_ne": "‘accumulate’ को विलोम ‘disperse’ हो।",
@@ -1038,12 +968,7 @@
       "Resist",
       "Ignore"
     ],
-    "options_ne": [
-      "समायोजन गर्नु",
-      "परिमार्जन गर्नु",
-      "प्रतिरोध गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'adapt' means the same as 'adjust'.",
     "explanation_ne": "‘adapt’ को अर्थ ‘adjust’ हो।",
@@ -1108,12 +1033,7 @@
       "Resist",
       "Modify"
     ],
-    "options_ne": [
-      "समायोजन गर्नु",
-      "बेवास्ता गर्नु",
-      "प्रतिरोध गर्नु",
-      "परिमार्जन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'adapt' is 'resist'.",
     "explanation_ne": "‘adapt’ को विलोम ‘resist’ हो।",
@@ -1213,12 +1133,7 @@
       "origin",
       "frequent"
     ],
-    "options_ne": [
-      "अनुकूल हुनु",
-      "परोपकारी",
-      "उत्पत्ति",
-      "बारम्बार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'adapt' means 'अनुकूल हुनु'.",
     "explanation_ne": "‘adapt’ को अर्थ ‘अनुकूल हुनु’ हो।",
@@ -1248,12 +1163,7 @@
       "Fortune",
       "Prosperity"
     ],
-    "options_ne": [
-      "कठिनाइ",
-      "दुर्भाग्य",
-      "भाग्य",
-      "समृद्धि"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'adversity' means the same as 'hardship'.",
     "explanation_ne": "‘adversity’ को अर्थ ‘hardship’ हो।",
@@ -1318,12 +1228,7 @@
       "Prosperity",
       "Fortune"
     ],
-    "options_ne": [
-      "दुर्भाग्य",
-      "कठिनाइ",
-      "समृद्धि",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'adversity' is 'prosperity'.",
     "explanation_ne": "‘adversity’ को विलोम ‘prosperity’ हो।",
@@ -1423,12 +1328,7 @@
       "adversity",
       "earnest"
     ],
-    "options_ne": [
-      "आवश्यक",
-      "महत्त्वपूर्ण",
-      "विपत्ति",
-      "गम्भीर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'adversity' means 'विपत्ति'.",
     "explanation_ne": "‘adversity’ को अर्थ ‘विपत्ति’ हो।",
@@ -1458,12 +1358,7 @@
       "Assert",
       "Admit"
     ],
-    "options_ne": [
-      "दाबी गर्नु",
-      "अस्वीकार गर्नु",
-      "जिकिर गर्नु",
-      "स्वीकार्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'allege' means the same as 'claim'.",
     "explanation_ne": "‘allege’ को अर्थ ‘claim’ हो।",
@@ -1598,12 +1493,7 @@
       "hesitate",
       "joyful"
     ],
-    "options_ne": [
-      "आरोप लगाउनु",
-      "प्रयास",
-      "हिचकिचाउनु",
-      "खुसी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'allege' means 'आरोप लगाउनु'.",
     "explanation_ne": "‘allege’ को अर्थ ‘आरोप लगाउनु’ हो।",
@@ -1668,12 +1558,7 @@
       "Relieve",
       "Ease"
     ],
-    "options_ne": [
-      "खराब बनाउनु",
-      "बढाउनु",
-      "राहत दिनु",
-      "सजिलो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'alleviate' is 'aggravate'.",
     "explanation_ne": "‘alleviate’ को विलोम ‘aggravate’ हो।",
@@ -1773,12 +1658,7 @@
       "alleviate",
       "embarrass"
     ],
-    "options_ne": [
-      "अनन्त",
-      "क्षति",
-      "कम गर्नु",
-      "लज्जित पार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'alleviate' means 'कम गर्नु'.",
     "explanation_ne": "‘alleviate’ को अर्थ ‘कम गर्नु’ हो।",
@@ -1843,12 +1723,7 @@
       "Definite",
       "Unclear"
     ],
-    "options_ne": [
-      "धमिलो",
-      "स्पष्ट",
-      "निश्चित",
-      "अस्पष्ट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'ambiguous' is 'clear'.",
     "explanation_ne": "‘ambiguous’ को विलोम ‘clear’ हो।",
@@ -1913,12 +1788,7 @@
       "Scarce",
       "Plenty"
     ],
-    "options_ne": [
-      "प्रचुर",
-      "थोरै",
-      "दुर्लभ",
-      "धेरै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'ample' means the same as 'plenty'.",
     "explanation_ne": "‘ample’ को अर्थ ‘plenty’ हो।",
@@ -1983,12 +1853,7 @@
       "Plenty",
       "Meagre"
     ],
-    "options_ne": [
-      "दुर्लभ",
-      "प्रचुर",
-      "धेरै",
-      "थोरै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'ample' is 'meagre'.",
     "explanation_ne": "‘ample’ को विलोम ‘meagre’ हो।",
@@ -2088,12 +1953,7 @@
       "Famous",
       "Known"
     ],
-    "options_ne": [
-      "अज्ञात",
-      "नाम नभएको",
-      "प्रसिद्ध",
-      "ज्ञात"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'anonymous' means the same as 'nameless'.",
     "explanation_ne": "‘anonymous’ को अर्थ ‘nameless’ हो।",
@@ -2158,12 +2018,7 @@
       "Famous",
       "Unknown"
     ],
-    "options_ne": [
-      "ज्ञात",
-      "नाम नभएको",
-      "प्रसिद्ध",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'anonymous' is 'known'.",
     "explanation_ne": "‘anonymous’ को विलोम ‘known’ हो।",
@@ -2263,12 +2118,7 @@
       "skilful",
       "anonymous"
     ],
-    "options_ne": [
-      "अनुमति दिनु",
-      "विपत्ति",
-      "दक्ष",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'anonymous' means 'अज्ञात'.",
     "explanation_ne": "‘anonymous’ को अर्थ ‘अज्ञात’ हो।",
@@ -2298,12 +2148,7 @@
       "Ignore",
       "Foresee"
     ],
-    "options_ne": [
-      "अपेक्षा गर्नु",
-      "शङ्का गर्नु",
-      "बेवास्ता गर्नु",
-      "पूर्वदेख्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'anticipate' means the same as 'expect'.",
     "explanation_ne": "‘anticipate’ को अर्थ ‘expect’ हो।",
@@ -2368,12 +2213,7 @@
       "Doubt",
       "Expect"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "पूर्वदेख्नु",
-      "शङ्का गर्नु",
-      "अपेक्षा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'anticipate' is 'doubt'.",
     "explanation_ne": "‘anticipate’ को विलोम ‘doubt’ हो।",
@@ -2473,12 +2313,7 @@
       "transparent",
       "grateful"
     ],
-    "options_ne": [
-      "पूर्वानुमान गर्नु",
-      "दुष्ट",
-      "पारदर्शी",
-      "कृतज्ञ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'anticipate' means 'पूर्वानुमान गर्नु'.",
     "explanation_ne": "‘anticipate’ को अर्थ ‘पूर्वानुमान गर्नु’ हो।",
@@ -2508,12 +2343,7 @@
       "Value",
       "Ignore"
     ],
-    "options_ne": [
-      "घृणा गर्नु",
-      "प्रशंसा गर्नु",
-      "मूल्याङ्कन गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'appreciate' means the same as 'value'.",
     "explanation_ne": "‘appreciate’ को अर्थ ‘value’ हो।",
@@ -2578,12 +2408,7 @@
       "Value",
       "Despise"
     ],
-    "options_ne": [
-      "प्रशंसा गर्नु",
-      "बेवास्ता गर्नु",
-      "मूल्याङ्कन गर्नु",
-      "घृणा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'appreciate' is 'despise'.",
     "explanation_ne": "‘appreciate’ को विलोम ‘despise’ हो।",
@@ -2683,12 +2508,7 @@
       "appreciate",
       "barren"
     ],
-    "options_ne": [
-      "वास्तविक",
-      "स्पष्ट",
-      "कदर गर्नु",
-      "बाँझो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'appreciate' means 'कदर गर्नु'.",
     "explanation_ne": "‘appreciate’ को अर्थ ‘कदर गर्नु’ हो।",
@@ -2718,12 +2538,7 @@
       "Proud",
       "Haughty"
     ],
-    "options_ne": [
-      "विनम्र",
-      "नम्र",
-      "घमण्डी",
-      "अभिमानी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'arrogant' means the same as 'proud'.",
     "explanation_ne": "‘arrogant’ को अर्थ ‘proud’ हो।",
@@ -2788,12 +2603,7 @@
       "Humble",
       "Haughty"
     ],
-    "options_ne": [
-      "नम्र",
-      "घमण्डी",
-      "विनम्र",
-      "अभिमानी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'arrogant' is 'humble'.",
     "explanation_ne": "‘arrogant’ को विलोम ‘humble’ हो।",
@@ -2893,12 +2703,7 @@
       "injury",
       "unique"
     ],
-    "options_ne": [
-      "अहङ्कारी",
-      "अनिवार्य",
-      "चोट",
-      "अद्वितीय"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'arrogant' means 'अहङ्कारी'.",
     "explanation_ne": "‘arrogant’ को अर्थ ‘अहङ्कारी’ हो।",
@@ -2928,12 +2733,7 @@
       "Dreadful",
       "Terrible"
     ],
-    "options_ne": [
-      "रमाइलो",
-      "अद्भुत",
-      "भयङ्कर",
-      "डरलाग्दो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'awful' means the same as 'terrible'.",
     "explanation_ne": "‘awful’ को अर्थ ‘terrible’ हो।",
@@ -2998,12 +2798,7 @@
       "Terrible",
       "Wonderful"
     ],
-    "options_ne": [
-      "रमाइलो",
-      "भयङ्कर",
-      "डरलाग्दो",
-      "अद्भुत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'awful' is 'wonderful'.",
     "explanation_ne": "‘awful’ को विलोम ‘wonderful’ हो।",
@@ -3103,12 +2898,7 @@
       "ultimate",
       "inquire"
     ],
-    "options_ne": [
-      "उल्लेखनीय",
-      "भयानक",
-      "अन्तिम",
-      "सोध्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'awful' means 'भयानक'.",
     "explanation_ne": "‘awful’ को अर्थ ‘भयानक’ हो।",
@@ -3138,12 +2928,7 @@
       "Welcome",
       "Expel"
     ],
-    "options_ne": [
-      "निमन्त्रणा दिनु",
-      "देश निकाला गर्नु",
-      "स्वागत गर्नु",
-      "निष्कासन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'banish' means the same as 'exile'.",
     "explanation_ne": "‘banish’ को अर्थ ‘exile’ हो।",
@@ -3208,12 +2993,7 @@
       "Expel",
       "Welcome"
     ],
-    "options_ne": [
-      "देश निकाला गर्नु",
-      "निमन्त्रणा दिनु",
-      "निष्कासन गर्नु",
-      "स्वागत गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'banish' is 'welcome'.",
     "explanation_ne": "‘banish’ को विलोम ‘welcome’ हो।",
@@ -3313,12 +3093,7 @@
       "banish",
       "proud"
     ],
-    "options_ne": [
-      "दयालुता",
-      "छिटो बनाउनु",
-      "निर्वासन गर्नु",
-      "गर्वित"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'banish' means 'निर्वासन गर्नु'.",
     "explanation_ne": "‘banish’ को अर्थ ‘निर्वासन गर्नु’ हो।",
@@ -3348,12 +3123,7 @@
       "Unproductive",
       "Fertile"
     ],
-    "options_ne": [
-      "अनुर्वर",
-      "धनी",
-      "अनुत्पादक",
-      "उर्वर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'barren' means the same as 'infertile'.",
     "explanation_ne": "‘barren’ को अर्थ ‘infertile’ हो।",
@@ -3418,12 +3188,7 @@
       "Infertile",
       "Rich"
     ],
-    "options_ne": [
-      "उर्वर",
-      "अनुत्पादक",
-      "अनुर्वर",
-      "धनी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'barren' is 'fertile'.",
     "explanation_ne": "‘barren’ को विलोम ‘fertile’ हो।",
@@ -3523,12 +3288,7 @@
       "barren",
       "accomplish"
     ],
-    "options_ne": [
-      "अस्वीकार गर्नु",
-      "ईर्ष्यालु",
-      "बाँझो",
-      "सम्पन्न गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'barren' means 'बाँझो'.",
     "explanation_ne": "‘barren’ को अर्थ ‘बाँझो’ हो।",
@@ -3628,12 +3388,7 @@
       "delicate",
       "benevolent"
     ],
-    "options_ne": [
-      "वास्तविक",
-      "खुसी",
-      "नाजुक",
-      "परोपकारी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'benevolent' means 'परोपकारी'.",
     "explanation_ne": "‘benevolent’ को अर्थ ‘परोपकारी’ हो।",
@@ -3663,12 +3418,7 @@
       "Daring",
       "Cowardly"
     ],
-    "options_ne": [
-      "बहादुर",
-      "डरपोक",
-      "साहसी",
-      "कायर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'bold' means the same as 'brave'.",
     "explanation_ne": "‘bold’ को अर्थ ‘brave’ हो।",
@@ -3733,12 +3483,7 @@
       "Cowardly",
       "Brave"
     ],
-    "options_ne": [
-      "डरपोक",
-      "साहसी",
-      "कायर",
-      "बहादुर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'bold' is 'timid'.",
     "explanation_ne": "‘bold’ को विलोम ‘timid’ हो।",
@@ -3838,12 +3583,7 @@
       "Strong",
       "Breakable"
     ],
-    "options_ne": [
-      "नाजुक",
-      "कडा",
-      "बलियो",
-      "टुट्न सक्ने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'brittle' means the same as 'fragile'.",
     "explanation_ne": "‘brittle’ को अर्थ ‘fragile’ हो।",
@@ -3908,12 +3648,7 @@
       "Tough",
       "Strong"
     ],
-    "options_ne": [
-      "टुट्न सक्ने",
-      "नाजुक",
-      "कडा",
-      "बलियो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'brittle' is 'strong'.",
     "explanation_ne": "‘brittle’ को विलोम ‘strong’ हो।",
@@ -4013,12 +3748,7 @@
       "exhaust",
       "flourish"
     ],
-    "options_ne": [
-      "भाँचिने",
-      "भरपर्दो",
-      "थकाउनु",
-      "फस्टाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'brittle' means 'भाँचिने'.",
     "explanation_ne": "‘brittle’ को अर्थ ‘भाँचिने’ हो।",
@@ -4048,12 +3778,7 @@
       "Cruel",
       "Savage"
     ],
-    "options_ne": [
-      "दयालु",
-      "कोमल",
-      "क्रूर",
-      "बर्बर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'brutal' means the same as 'cruel'.",
     "explanation_ne": "‘brutal’ को अर्थ ‘cruel’ हो।",
@@ -4118,12 +3843,7 @@
       "Kind",
       "Savage"
     ],
-    "options_ne": [
-      "कोमल",
-      "क्रूर",
-      "दयालु",
-      "बर्बर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'brutal' is 'kind'.",
     "explanation_ne": "‘brutal’ को विलोम ‘kind’ हो।",
@@ -4223,12 +3943,7 @@
       "inquire",
       "obedient"
     ],
-    "options_ne": [
-      "उत्कृष्ट",
-      "निर्दयी",
-      "सोध्नु",
-      "आज्ञाकारी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'brutal' means 'निर्दयी'.",
     "explanation_ne": "‘brutal’ को अर्थ ‘निर्दयी’ हो।",
@@ -4258,12 +3973,7 @@
       "Blessing",
       "Disaster"
     ],
-    "options_ne": [
-      "भाग्य",
-      "महाविपत्ति",
-      "आशीर्वाद",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'calamity' means the same as 'disaster'.",
     "explanation_ne": "‘calamity’ को अर्थ ‘disaster’ हो।",
@@ -4328,12 +4038,7 @@
       "Disaster",
       "Blessing"
     ],
-    "options_ne": [
-      "भाग्य",
-      "महाविपत्ति",
-      "प्रकोप",
-      "आशीर्वाद"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'calamity' is 'blessing'.",
     "explanation_ne": "‘calamity’ को विलोम ‘blessing’ हो।",
@@ -4468,12 +4173,7 @@
       "Ignore",
       "Honour"
     ],
-    "options_ne": [
-      "शोक गर्नु",
-      "खुसी मनाउनु",
-      "बेवास्ता गर्नु",
-      "सम्मान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'celebrate' means the same as 'rejoice'.",
     "explanation_ne": "‘celebrate’ को अर्थ ‘rejoice’ हो।",
@@ -4538,12 +4238,7 @@
       "Mourn",
       "Rejoice"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "सम्मान गर्नु",
-      "शोक गर्नु",
-      "खुसी मनाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'celebrate' is 'mourn'.",
     "explanation_ne": "‘celebrate’ को विलोम ‘mourn’ हो।",
@@ -4643,12 +4338,7 @@
       "rare",
       "celebrate"
     ],
-    "options_ne": [
-      "उत्कृष्ट",
-      "उग्र",
-      "दुर्लभ",
-      "मनाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'celebrate' means 'मनाउनु'.",
     "explanation_ne": "‘celebrate’ को अर्थ ‘मनाउनु’ हो।",
@@ -4678,12 +4368,7 @@
       "Order",
       "Peace"
     ],
-    "options_ne": [
-      "अस्तव्यस्तता",
-      "अलमल",
-      "व्यवस्था",
-      "शान्ति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'chaos' means the same as 'disorder'.",
     "explanation_ne": "‘chaos’ को अर्थ ‘disorder’ हो।",
@@ -4748,12 +4433,7 @@
       "Order",
       "Disorder"
     ],
-    "options_ne": [
-      "अलमल",
-      "शान्ति",
-      "व्यवस्था",
-      "अस्तव्यस्तता"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'chaos' is 'order'.",
     "explanation_ne": "‘chaos’ को विलोम ‘order’ हो।",
@@ -4853,12 +4533,7 @@
       "impartial",
       "discover"
     ],
-    "options_ne": [
-      "आवश्यक",
-      "अव्यवस्था",
-      "निष्पक्ष",
-      "पत्ता लगाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'chaos' means 'अव्यवस्था'.",
     "explanation_ne": "‘chaos’ को अर्थ ‘अव्यवस्था’ हो।",
@@ -4888,12 +4563,7 @@
       "Despise",
       "Treasure"
     ],
-    "options_ne": [
-      "मूल्य दिनु",
-      "बेवास्ता गर्नु",
-      "घृणा गर्नु",
-      "सम्हाल्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'cherish' means the same as 'treasure'.",
     "explanation_ne": "‘cherish’ को अर्थ ‘treasure’ हो।",
@@ -4958,12 +4628,7 @@
       "Neglect",
       "Despise"
     ],
-    "options_ne": [
-      "मूल्य दिनु",
-      "सम्हाल्नु",
-      "बेवास्ता गर्नु",
-      "घृणा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'cherish' is 'neglect'.",
     "explanation_ne": "‘cherish’ को विलोम ‘neglect’ हो।",
@@ -5063,12 +4728,7 @@
       "immense",
       "mature"
     ],
-    "options_ne": [
-      "धेरै",
-      "माया गर्नु",
-      "विशाल",
-      "परिपक्व"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'cherish' means 'माया गर्नु'.",
     "explanation_ne": "‘cherish’ को अर्थ ‘माया गर्नु’ हो।",
@@ -5133,12 +4793,7 @@
       "Smart",
       "Foolish"
     ],
-    "options_ne": [
-      "मन्द",
-      "बौद्धिक",
-      "बुद्धिमान्",
-      "मूर्ख"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'clever' is 'foolish'.",
     "explanation_ne": "‘clever’ को विलोम ‘foolish’ हो।",
@@ -5238,12 +4893,7 @@
       "decay",
       "hatred"
     ],
-    "options_ne": [
-      "चतुर",
-      "सम्पन्न गर्नु",
-      "सड्नु",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'clever' means 'चतुर'.",
     "explanation_ne": "‘clever’ को अर्थ ‘चतुर’ हो।",
@@ -5308,12 +4958,7 @@
       "Cruelty",
       "Hatred"
     ],
-    "options_ne": [
-      "सहानुभूति",
-      "दया",
-      "क्रूरता",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'compassion' is 'cruelty'.",
     "explanation_ne": "‘compassion’ को विलोम ‘cruelty’ हो।",
@@ -5413,12 +5058,7 @@
       "clever",
       "injury"
     ],
-    "options_ne": [
-      "सोध्नु",
-      "करुणा",
-      "चतुर",
-      "चोट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'compassion' means 'करुणा'.",
     "explanation_ne": "‘compassion’ को अर्थ ‘करुणा’ हो।",
@@ -5448,12 +5088,7 @@
       "Free",
       "Oblige"
     ],
-    "options_ne": [
-      "अनुमति दिनु",
-      "जबरजस्ती गर्नु",
-      "मुक्त गर्नु",
-      "बाध्य गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'compel' means the same as 'force'.",
     "explanation_ne": "‘compel’ को अर्थ ‘force’ हो।",
@@ -5518,12 +5153,7 @@
       "Force",
       "Allow"
     ],
-    "options_ne": [
-      "मुक्त गर्नु",
-      "बाध्य गर्नु",
-      "जबरजस्ती गर्नु",
-      "अनुमति दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'compel' is 'allow'.",
     "explanation_ne": "‘compel’ को विलोम ‘allow’ हो।",
@@ -5623,12 +5253,7 @@
       "frequent",
       "disaster"
     ],
-    "options_ne": [
-      "कल्पना गर्नु",
-      "बाध्य पार्नु",
-      "बारम्बार",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'compel' means 'बाध्य पार्नु'.",
     "explanation_ne": "‘compel’ को अर्थ ‘बाध्य पार्नु’ हो।",
@@ -5658,12 +5283,7 @@
       "Understand",
       "Misunderstand"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "पकड्नु",
-      "बुझ्नु",
-      "गलत बुझ्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'comprehend' means the same as 'understand'.",
     "explanation_ne": "‘comprehend’ को अर्थ ‘understand’ हो।",
@@ -5728,12 +5348,7 @@
       "Ignore",
       "Misunderstand"
     ],
-    "options_ne": [
-      "पकड्नु",
-      "बुझ्नु",
-      "बेवास्ता गर्नु",
-      "गलत बुझ्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'comprehend' is 'misunderstand'.",
     "explanation_ne": "‘comprehend’ को विलोम ‘misunderstand’ हो।",
@@ -5833,12 +5448,7 @@
       "Defeat",
       "Lose"
     ],
-    "options_ne": [
-      "आत्मसमर्पण गर्नु",
-      "पार गर्नु",
-      "हराउनु",
-      "हार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'conquer' means the same as 'defeat'.",
     "explanation_ne": "‘conquer’ को अर्थ ‘defeat’ हो।",
@@ -5903,12 +5513,7 @@
       "Surrender",
       "Lose"
     ],
-    "options_ne": [
-      "हराउनु",
-      "पार गर्नु",
-      "आत्मसमर्पण गर्नु",
-      "हार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'conquer' is 'lose'.",
     "explanation_ne": "‘conquer’ को विलोम ‘lose’ हो।",
@@ -6008,12 +5613,7 @@
       "hatred",
       "guidance"
     ],
-    "options_ne": [
-      "अव्यवस्था",
-      "जित्नु",
-      "घृणा",
-      "मार्गदर्शन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'conquer' means 'जित्नु'.",
     "explanation_ne": "‘conquer’ को अर्थ ‘जित्नु’ हो।",
@@ -6043,12 +5643,7 @@
       "Civil",
       "Polite"
     ],
-    "options_ne": [
-      "अविनयी",
-      "अशिष्ट",
-      "सभ्य",
-      "विनम्र"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'courteous' means the same as 'polite'.",
     "explanation_ne": "‘courteous’ को अर्थ ‘polite’ हो।",
@@ -6113,12 +5708,7 @@
       "Rude",
       "Polite"
     ],
-    "options_ne": [
-      "अविनयी",
-      "सभ्य",
-      "अशिष्ट",
-      "विनम्र"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'courteous' is 'rude'.",
     "explanation_ne": "‘courteous’ को विलोम ‘rude’ हो।",
@@ -6218,12 +5808,7 @@
       "guidance",
       "respect"
     ],
-    "options_ne": [
-      "शिष्ट",
-      "थकाउनु",
-      "मार्गदर्शन",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'courteous' means 'शिष्ट'.",
     "explanation_ne": "‘courteous’ को अर्थ ‘शिष्ट’ हो।",
@@ -6253,12 +5838,7 @@
       "Vital",
       "Minor"
     ],
-    "options_ne": [
-      "तुच्छ",
-      "सङ्कटपूर्ण",
-      "अत्यावश्यक",
-      "सानो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'crucial' means the same as 'vital'.",
     "explanation_ne": "‘crucial’ को अर्थ ‘vital’ हो।",
@@ -6323,12 +5903,7 @@
       "Critical",
       "Minor"
     ],
-    "options_ne": [
-      "अत्यावश्यक",
-      "तुच्छ",
-      "सङ्कटपूर्ण",
-      "सानो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'crucial' is 'trivial'.",
     "explanation_ne": "‘crucial’ को विलोम ‘trivial’ हो।",
@@ -6428,12 +6003,7 @@
       "Inquisitive",
       "Eager"
     ],
-    "options_ne": [
-      "उदासीन",
-      "विरक्त",
-      "जिज्ञासु",
-      "उत्सुक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'curious' means the same as 'inquisitive'.",
     "explanation_ne": "‘curious’ को अर्थ ‘inquisitive’ हो।",
@@ -6498,12 +6068,7 @@
       "Eager",
       "Inquisitive"
     ],
-    "options_ne": [
-      "विरक्त",
-      "उदासीन",
-      "उत्सुक",
-      "जिज्ञासु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'curious' is 'indifferent'.",
     "explanation_ne": "‘curious’ को विलोम ‘indifferent’ हो।",
@@ -6603,12 +6168,7 @@
       "joyful",
       "curious"
     ],
-    "options_ne": [
-      "शिष्ट",
-      "वफादार",
-      "खुसी",
-      "जिज्ञासु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'curious' means 'जिज्ञासु'.",
     "explanation_ne": "‘curious’ को अर्थ ‘जिज्ञासु’ हो।",
@@ -6638,12 +6198,7 @@
       "Grow",
       "Rot"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "फस्टाउनु",
-      "बढ्नु",
-      "कुहिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'decay' means the same as 'rot'.",
     "explanation_ne": "‘decay’ को अर्थ ‘rot’ हो।",
@@ -6708,12 +6263,7 @@
       "Grow",
       "Flourish"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "कुहिनु",
-      "बढ्नु",
-      "फस्टाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'decay' is 'grow'.",
     "explanation_ne": "‘decay’ को विलोम ‘grow’ हो।",
@@ -6813,12 +6363,7 @@
       "harmful",
       "kindness"
     ],
-    "options_ne": [
-      "सड्नु",
-      "बेतुका",
-      "हानिकारक",
-      "दयालुता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'decay' means 'सड्नु'.",
     "explanation_ne": "‘decay’ को अर्थ ‘सड्नु’ हो।",
@@ -6848,12 +6393,7 @@
       "Neglect",
       "Commit"
     ],
-    "options_ne": [
-      "त्याग्नु",
-      "अर्पण गर्नु",
-      "बेवास्ता गर्नु",
-      "प्रतिबद्ध हुनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'dedicate' means the same as 'devote'.",
     "explanation_ne": "‘dedicate’ को अर्थ ‘devote’ हो।",
@@ -6918,12 +6458,7 @@
       "Devote",
       "Abandon"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "प्रतिबद्ध हुनु",
-      "अर्पण गर्नु",
-      "त्याग्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'dedicate' is 'neglect'.",
     "explanation_ne": "‘dedicate’ को विलोम ‘neglect’ हो।",
@@ -7023,12 +6558,7 @@
       "moment",
       "marvellous"
     ],
-    "options_ne": [
-      "समर्पित गर्नु",
-      "इरादा",
-      "क्षण",
-      "अद्भुत"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'dedicate' means 'समर्पित गर्नु'.",
     "explanation_ne": "‘dedicate’ को अर्थ ‘समर्पित गर्नु’ हो।",
@@ -7058,12 +6588,7 @@
       "Strong",
       "Rough"
     ],
-    "options_ne": [
-      "नाजुक",
-      "मसिनो",
-      "बलियो",
-      "खस्रो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'delicate' means the same as 'fragile'.",
     "explanation_ne": "‘delicate’ को अर्थ ‘fragile’ हो।",
@@ -7128,12 +6653,7 @@
       "Fine",
       "Fragile"
     ],
-    "options_ne": [
-      "बलियो",
-      "खस्रो",
-      "मसिनो",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'delicate' is 'strong'.",
     "explanation_ne": "‘delicate’ को विलोम ‘strong’ हो।",
@@ -7233,12 +6753,7 @@
       "rapid",
       "delicate"
     ],
-    "options_ne": [
-      "निर्वासन गर्नु",
-      "बुझ्नु",
-      "द्रुत",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'delicate' means 'नाजुक'.",
     "explanation_ne": "‘delicate’ को अर्थ ‘नाजुक’ हो।",
@@ -7268,12 +6783,7 @@
       "Thick",
       "Crowded"
     ],
-    "options_ne": [
-      "पातलो",
-      "खाली",
-      "बाक्लो",
-      "भिडभाड"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'dense' means the same as 'thick'.",
     "explanation_ne": "‘dense’ को अर्थ ‘thick’ हो।",
@@ -7338,12 +6848,7 @@
       "Sparse",
       "Empty"
     ],
-    "options_ne": [
-      "बाक्लो",
-      "भिडभाड",
-      "पातलो",
-      "खाली"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'dense' is 'sparse'.",
     "explanation_ne": "‘dense’ को विलोम ‘sparse’ हो।",
@@ -7443,12 +6948,7 @@
       "essential",
       "malicious"
     ],
-    "options_ne": [
-      "घना",
-      "धेरै",
-      "आवश्यक",
-      "दुर्भावनापूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'dense' means 'घना'.",
     "explanation_ne": "‘dense’ को अर्थ ‘घना’ हो।",
@@ -7478,12 +6978,7 @@
       "Misery",
       "Joy"
     ],
-    "options_ne": [
-      "आशा",
-      "आशाहीनता",
-      "दुःख",
-      "खुसी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'despair' means the same as 'hopelessness'.",
     "explanation_ne": "‘despair’ को अर्थ ‘hopelessness’ हो।",
@@ -7548,12 +7043,7 @@
       "Hope",
       "Joy"
     ],
-    "options_ne": [
-      "आशाहीनता",
-      "दुःख",
-      "आशा",
-      "खुसी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'despair' is 'hope'.",
     "explanation_ne": "‘despair’ को विलोम ‘hope’ हो।",
@@ -7653,12 +7143,7 @@
       "marvellous",
       "despair"
     ],
-    "options_ne": [
-      "सम्मान",
-      "नष्ट गर्नु",
-      "अद्भुत",
-      "निराशा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'despair' means 'निराशा'.",
     "explanation_ne": "‘despair’ को अर्थ ‘निराशा’ हो।",
@@ -7688,12 +7173,7 @@
       "Abandon",
       "Neglect"
     ],
-    "options_ne": [
-      "अर्पण गर्नु",
-      "प्रतिबद्ध हुनु",
-      "त्याग्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'devote' means the same as 'dedicate'.",
     "explanation_ne": "‘devote’ को अर्थ ‘dedicate’ हो।",
@@ -7758,12 +7238,7 @@
       "Dedicate",
       "Commit"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "त्याग्नु",
-      "अर्पण गर्नु",
-      "प्रतिबद्ध हुनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'devote' is 'neglect'.",
     "explanation_ne": "‘devote’ को विलोम ‘neglect’ हो।",
@@ -7863,12 +7338,7 @@
       "joyful",
       "permit"
     ],
-    "options_ne": [
-      "समर्पित हुनु",
-      "सुधार गर्नु",
-      "खुसी",
-      "अनुमति दिनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'devote' means 'समर्पित हुनु'.",
     "explanation_ne": "‘devote’ को अर्थ ‘समर्पित हुनु’ हो।",
@@ -7898,12 +7368,7 @@
       "Blessing",
       "Fortune"
     ],
-    "options_ne": [
-      "दुःखद घटना",
-      "विपत्ति",
-      "आशीर्वाद",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'disaster' means the same as 'calamity'.",
     "explanation_ne": "‘disaster’ को अर्थ ‘calamity’ हो।",
@@ -7968,12 +7433,7 @@
       "Calamity",
       "Fortune"
     ],
-    "options_ne": [
-      "दुःखद घटना",
-      "आशीर्वाद",
-      "विपत्ति",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'disaster' is 'blessing'.",
     "explanation_ne": "‘disaster’ को विलोम ‘blessing’ हो।",
@@ -8073,12 +7533,7 @@
       "eminent",
       "rude"
     ],
-    "options_ne": [
-      "प्रकोप",
-      "अनुमति दिनु",
-      "प्रख्यात",
-      "अशिष्ट"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'disaster' means 'प्रकोप'.",
     "explanation_ne": "‘disaster’ को अर्थ ‘प्रकोप’ हो।",
@@ -8108,12 +7563,7 @@
       "Control",
       "Order"
     ],
-    "options_ne": [
-      "अनुशासनहीनता",
-      "अव्यवस्था",
-      "नियन्त्रण",
-      "व्यवस्था"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'discipline' means the same as 'order'.",
     "explanation_ne": "‘discipline’ को अर्थ ‘order’ हो।",
@@ -8178,12 +7628,7 @@
       "Order",
       "Chaos"
     ],
-    "options_ne": [
-      "अनुशासनहीनता",
-      "नियन्त्रण",
-      "व्यवस्था",
-      "अव्यवस्था"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'discipline' is 'indiscipline'.",
     "explanation_ne": "‘discipline’ को विलोम ‘indiscipline’ हो।",
@@ -8283,12 +7728,7 @@
       "discipline",
       "impartial"
     ],
-    "options_ne": [
-      "रहस्यमय",
-      "शिष्ट",
-      "अनुशासन",
-      "निष्पक्ष"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'discipline' means 'अनुशासन'.",
     "explanation_ne": "‘discipline’ को अर्थ ‘अनुशासन’ हो।",
@@ -8318,12 +7758,7 @@
       "Different",
       "Same"
     ],
-    "options_ne": [
-      "छुट्टै",
-      "समान",
-      "फरक",
-      "उस्तै"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'distinct' means the same as 'different'.",
     "explanation_ne": "‘distinct’ को अर्थ ‘different’ हो।",
@@ -8388,12 +7823,7 @@
       "Separate",
       "Different"
     ],
-    "options_ne": [
-      "समान",
-      "उस्तै",
-      "छुट्टै",
-      "फरक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'distinct' is 'similar'.",
     "explanation_ne": "‘distinct’ को विलोम ‘similar’ हो।",
@@ -8493,12 +7923,7 @@
       "distinct",
       "dense"
     ],
-    "options_ne": [
-      "प्रख्यात",
-      "भव्य",
-      "भिन्न",
-      "घना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'distinct' means 'भिन्न'.",
     "explanation_ne": "‘distinct’ को अर्थ ‘भिन्न’ हो।",
@@ -8528,12 +7953,7 @@
       "Gather",
       "Share"
     ],
-    "options_ne": [
-      "सङ्कलन गर्नु",
-      "विभाजन गर्नु",
-      "जम्मा गर्नु",
-      "बाँड्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'distribute' means the same as 'share'.",
     "explanation_ne": "‘distribute’ को अर्थ ‘share’ हो।",
@@ -8598,12 +8018,7 @@
       "Collect",
       "Gather"
     ],
-    "options_ne": [
-      "बाँड्नु",
-      "विभाजन गर्नु",
-      "सङ्कलन गर्नु",
-      "जम्मा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'distribute' is 'collect'.",
     "explanation_ne": "‘distribute’ को विलोम ‘collect’ हो।",
@@ -8703,12 +8118,7 @@
       "essential",
       "distribute"
     ],
-    "options_ne": [
-      "विपत्ति",
-      "सुरक्षित",
-      "आवश्यक",
-      "बाँड्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'distribute' means 'बाँड्नु'.",
     "explanation_ne": "‘distribute’ को अर्थ ‘बाँड्नु’ हो।",
@@ -8738,12 +8148,7 @@
       "Strong",
       "Fragile"
     ],
-    "options_ne": [
-      "कमजोर",
-      "दीर्घकालीन",
-      "बलियो",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'durable' means the same as 'lasting'.",
     "explanation_ne": "‘durable’ को अर्थ ‘lasting’ हो।",
@@ -8808,12 +8213,7 @@
       "Strong",
       "Fragile"
     ],
-    "options_ne": [
-      "कमजोर",
-      "दीर्घकालीन",
-      "बलियो",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'durable' is 'fragile'.",
     "explanation_ne": "‘durable’ को विलोम ‘fragile’ हो।",
@@ -8913,12 +8313,7 @@
       "chaos",
       "vigorous"
     ],
-    "options_ne": [
-      "टिकाउ",
-      "एक्लो",
-      "अव्यवस्था",
-      "जोशिलो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'durable' means 'टिकाउ'.",
     "explanation_ne": "‘durable’ को अर्थ ‘टिकाउ’ हो।",
@@ -8948,12 +8343,7 @@
       "Frivolous",
       "Casual"
     ],
-    "options_ne": [
-      "गम्भीर",
-      "निष्ठावान्",
-      "हल्का",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'earnest' means the same as 'serious'.",
     "explanation_ne": "‘earnest’ को अर्थ ‘serious’ हो।",
@@ -9018,12 +8408,7 @@
       "Frivolous",
       "Casual"
     ],
-    "options_ne": [
-      "गम्भीर",
-      "निष्ठावान्",
-      "हल्का",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'earnest' is 'frivolous'.",
     "explanation_ne": "‘earnest’ को विलोम ‘frivolous’ हो।",
@@ -9123,12 +8508,7 @@
       "punish",
       "moral"
     ],
-    "options_ne": [
-      "गम्भीर",
-      "आवश्यक",
-      "सजाय दिनु",
-      "नैतिक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'earnest' means 'गम्भीर'.",
     "explanation_ne": "‘earnest’ को अर्थ ‘गम्भीर’ हो।",
@@ -9158,12 +8538,7 @@
       "Frugal",
       "Extravagant"
     ],
-    "options_ne": [
-      "किफायती",
-      "फजुलखर्ची",
-      "मितव्ययी",
-      "खर्चालु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'economical' means the same as 'thrifty'.",
     "explanation_ne": "‘economical’ को अर्थ ‘thrifty’ हो।",
@@ -9228,12 +8603,7 @@
       "Extravagant",
       "Wasteful"
     ],
-    "options_ne": [
-      "किफायती",
-      "मितव्ययी",
-      "खर्चालु",
-      "फजुलखर्ची"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'economical' is 'wasteful'.",
     "explanation_ne": "‘economical’ को विलोम ‘wasteful’ हो।",
@@ -9333,12 +8703,7 @@
       "economical",
       "greedy"
     ],
-    "options_ne": [
-      "अद्भुत",
-      "उत्कृष्ट",
-      "मितव्ययी",
-      "लोभी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'economical' means 'मितव्ययी'.",
     "explanation_ne": "‘economical’ को अर्थ ‘मितव्ययी’ हो।",
@@ -9368,12 +8733,7 @@
       "Stylish",
       "Ugly"
     ],
-    "options_ne": [
-      "भद्दा",
-      "सुरुचिपूर्ण",
-      "फेसनेबल",
-      "कुरूप"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'elegant' means the same as 'graceful'.",
     "explanation_ne": "‘elegant’ को अर्थ ‘graceful’ हो।",
@@ -9438,12 +8798,7 @@
       "Stylish",
       "Clumsy"
     ],
-    "options_ne": [
-      "कुरूप",
-      "सुरुचिपूर्ण",
-      "फेसनेबल",
-      "भद्दा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'elegant' is 'ugly'.",
     "explanation_ne": "‘elegant’ को विलोम ‘ugly’ हो।",
@@ -9543,12 +8898,7 @@
       "Include",
       "Remove"
     ],
-    "options_ne": [
-      "थप्नु",
-      "उन्मूलन गर्नु",
-      "सामेल गर्नु",
-      "निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'eliminate' means the same as 'remove'.",
     "explanation_ne": "‘eliminate’ को अर्थ ‘remove’ हो।",
@@ -9613,12 +8963,7 @@
       "Eradicate",
       "Include"
     ],
-    "options_ne": [
-      "थप्नु",
-      "निकाल्नु",
-      "उन्मूलन गर्नु",
-      "सामेल गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'eliminate' is 'include'.",
     "explanation_ne": "‘eliminate’ को विलोम ‘include’ हो।",
@@ -9718,12 +9063,7 @@
       "Honour",
       "Praise"
     ],
-    "options_ne": [
-      "लाज लाग्नु",
-      "अपमान गर्नु",
-      "सम्मान गर्नु",
-      "प्रशंसा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'embarrass' means the same as 'shame'.",
     "explanation_ne": "‘embarrass’ को अर्थ ‘shame’ हो।",
@@ -9788,12 +9128,7 @@
       "Praise",
       "Shame"
     ],
-    "options_ne": [
-      "अपमान गर्नु",
-      "सम्मान गर्नु",
-      "प्रशंसा गर्नु",
-      "लाज लाग्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'embarrass' is 'honour'.",
     "explanation_ne": "‘embarrass’ को विलोम ‘honour’ हो।",
@@ -9893,12 +9228,7 @@
       "tragedy",
       "embarrass"
     ],
-    "options_ne": [
-      "यात्रा",
-      "गम्भीर",
-      "दुःखद घटना",
-      "लज्जित पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'embarrass' means 'लज्जित पार्नु'.",
     "explanation_ne": "‘embarrass’ को अर्थ ‘लज्जित पार्नु’ हो।",
@@ -9928,12 +9258,7 @@
       "Famous",
       "Ordinary"
     ],
-    "options_ne": [
-      "विशिष्ट",
-      "अज्ञात",
-      "प्रसिद्ध",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'eminent' means the same as 'famous'.",
     "explanation_ne": "‘eminent’ को अर्थ ‘famous’ हो।",
@@ -9998,12 +9323,7 @@
       "Distinguished",
       "Unknown"
     ],
-    "options_ne": [
-      "साधारण",
-      "प्रसिद्ध",
-      "विशिष्ट",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'eminent' is 'unknown'.",
     "explanation_ne": "‘eminent’ को विलोम ‘unknown’ हो।",
@@ -10103,12 +9423,7 @@
       "eminent",
       "various"
     ],
-    "options_ne": [
-      "कमजोर",
-      "स्पष्ट",
-      "प्रख्यात",
-      "विभिन्न"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'eminent' means 'प्रख्यात'.",
     "explanation_ne": "‘eminent’ को अर्थ ‘प्रख्यात’ हो।",
@@ -10138,12 +9453,7 @@
       "Dismiss",
       "Fire"
     ],
-    "options_ne": [
-      "नियुक्त गर्नु",
-      "संलग्न गर्नु",
-      "बर्खास्त गर्नु",
-      "निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'employ' means the same as 'hire'.",
     "explanation_ne": "‘employ’ को अर्थ ‘hire’ हो।",
@@ -10208,12 +9518,7 @@
       "Fire",
       "Dismiss"
     ],
-    "options_ne": [
-      "संलग्न गर्नु",
-      "नियुक्त गर्नु",
-      "निकाल्नु",
-      "बर्खास्त गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'employ' is 'dismiss'.",
     "explanation_ne": "‘employ’ को विलोम ‘dismiss’ हो।",
@@ -10313,12 +9618,7 @@
       "conceal",
       "employ"
     ],
-    "options_ne": [
-      "विजय",
-      "महान्",
-      "लुकाउनु",
-      "रोजगारी दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'employ' means 'रोजगारी दिनु'.",
     "explanation_ne": "‘employ’ को अर्थ ‘रोजगारी दिनु’ हो।",
@@ -10348,12 +9648,7 @@
       "Deter",
       "Motivate"
     ],
-    "options_ne": [
-      "प्रेरणा दिनु",
-      "निरुत्साहित गर्नु",
-      "रोक्नु",
-      "उत्प्रेरित गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'encourage' means the same as 'inspire'.",
     "explanation_ne": "‘encourage’ को अर्थ ‘inspire’ हो।",
@@ -10418,12 +9713,7 @@
       "Inspire",
       "Motivate"
     ],
-    "options_ne": [
-      "निरुत्साहित गर्नु",
-      "रोक्नु",
-      "प्रेरणा दिनु",
-      "उत्प्रेरित गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'encourage' is 'discourage'.",
     "explanation_ne": "‘encourage’ को विलोम ‘discourage’ हो।",
@@ -10523,12 +9813,7 @@
       "precise",
       "encourage"
     ],
-    "options_ne": [
-      "हानिकारक",
-      "अधीर",
-      "यथार्थ",
-      "प्रोत्साहन दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'encourage' means 'प्रोत्साहन दिनु'.",
     "explanation_ne": "‘encourage’ को अर्थ ‘प्रोत्साहन दिनु’ हो।",
@@ -10558,12 +9843,7 @@
       "Attempt",
       "Effort"
     ],
-    "options_ne": [
-      "अल्छीपना",
-      "आलस्य",
-      "प्रयास",
-      "प्रयत्न"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'endeavour' means the same as 'effort'.",
     "explanation_ne": "‘endeavour’ को अर्थ ‘effort’ हो।",
@@ -10628,12 +9908,7 @@
       "Effort",
       "Laziness"
     ],
-    "options_ne": [
-      "आलस्य",
-      "प्रयास",
-      "प्रयत्न",
-      "अल्छीपना"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'endeavour' is 'idleness'.",
     "explanation_ne": "‘endeavour’ को विलोम ‘idleness’ हो।",
@@ -10733,12 +10008,7 @@
       "remember",
       "magnificent"
     ],
-    "options_ne": [
-      "प्रयास",
-      "शानदार",
-      "सम्झनु",
-      "भव्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'endeavour' means 'प्रयास'.",
     "explanation_ne": "‘endeavour’ को अर्थ ‘प्रयास’ हो।",
@@ -10768,12 +10038,7 @@
       "Tolerate",
       "Quit"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "धैर्य गर्नु",
-      "सहने",
-      "छोड्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'endure' means the same as 'tolerate'.",
     "explanation_ne": "‘endure’ को अर्थ ‘tolerate’ हो।",
@@ -10838,12 +10103,7 @@
       "Bear",
       "Quit"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "सहने",
-      "धैर्य गर्नु",
-      "छोड्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'endure' is 'quit'.",
     "explanation_ne": "‘endure’ को विलोम ‘quit’ हो।",
@@ -10943,12 +10203,7 @@
       "dedicate",
       "guidance"
     ],
-    "options_ne": [
-      "लोभी",
-      "सहनु",
-      "समर्पित गर्नु",
-      "मार्गदर्शन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'endure' means 'सहनु'.",
     "explanation_ne": "‘endure’ को अर्थ ‘सहनु’ हो।",
@@ -10978,12 +10233,7 @@
       "Content",
       "Generous"
     ],
-    "options_ne": [
-      "लोभी",
-      "डाह गर्ने",
-      "सन्तुष्ट",
-      "उदार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'envious' means the same as 'jealous'.",
     "explanation_ne": "‘envious’ को अर्थ ‘jealous’ हो।",
@@ -11048,12 +10298,7 @@
       "Covetous",
       "Generous"
     ],
-    "options_ne": [
-      "सन्तुष्ट",
-      "डाह गर्ने",
-      "लोभी",
-      "उदार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'envious' is 'content'.",
     "explanation_ne": "‘envious’ को विलोम ‘content’ हो।",
@@ -11153,12 +10398,7 @@
       "Guess",
       "Assessment"
     ],
-    "options_ne": [
-      "तथ्य",
-      "निश्चितता",
-      "अड्कल",
-      "मूल्याङ्कन"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'estimate' means the same as 'guess'.",
     "explanation_ne": "‘estimate’ को अर्थ ‘guess’ हो।",
@@ -11223,12 +10463,7 @@
       "Assessment",
       "Guess"
     ],
-    "options_ne": [
-      "निश्चितता",
-      "तथ्य",
-      "मूल्याङ्कन",
-      "अड्कल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'estimate' is 'certainty'.",
     "explanation_ne": "‘estimate’ को विलोम ‘certainty’ हो।",
@@ -11328,12 +10563,7 @@
       "origin",
       "estimate"
     ],
-    "options_ne": [
-      "समर्पित हुनु",
-      "साधारण",
-      "उत्पत्ति",
-      "अनुमान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'estimate' means 'अनुमान'.",
     "explanation_ne": "‘estimate’ को अर्थ ‘अनुमान’ हो।",
@@ -11363,12 +10593,7 @@
       "Apparent",
       "Hidden"
     ],
-    "options_ne": [
-      "स्पष्ट",
-      "शङ्कास्पद",
-      "प्रत्यक्ष",
-      "लुकेको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'evident' means the same as 'obvious'.",
     "explanation_ne": "‘evident’ को अर्थ ‘obvious’ हो।",
@@ -11433,12 +10658,7 @@
       "Apparent",
       "Obvious"
     ],
-    "options_ne": [
-      "शङ्कास्पद",
-      "लुकेको",
-      "प्रत्यक्ष",
-      "स्पष्ट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'evident' is 'hidden'.",
     "explanation_ne": "‘evident’ को विलोम ‘hidden’ हो।",
@@ -11538,12 +10758,7 @@
       "Overstate",
       "Understate"
     ],
-    "options_ne": [
-      "घटाउनु",
-      "ठूलो बनाउनु",
-      "अतिरञ्जन गर्नु",
-      "कम गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'exaggerate' means the same as 'overstate'.",
     "explanation_ne": "‘exaggerate’ को अर्थ ‘overstate’ हो।",
@@ -11608,12 +10823,7 @@
       "Minimise",
       "Magnify"
     ],
-    "options_ne": [
-      "अतिरञ्जन गर्नु",
-      "कम गर्नु",
-      "घटाउनु",
-      "ठूलो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'exaggerate' is 'understate'.",
     "explanation_ne": "‘exaggerate’ को विलोम ‘understate’ हो।",
@@ -11713,12 +10923,7 @@
       "exaggerate",
       "distinct"
     ],
-    "options_ne": [
-      "लाज",
-      "ईर्ष्यालु",
-      "बढाइचढाइ गर्नु",
-      "भिन्न"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'exaggerate' means 'बढाइचढाइ गर्नु'.",
     "explanation_ne": "‘exaggerate’ को अर्थ ‘बढाइचढाइ गर्नु’ हो।",
@@ -11748,12 +10953,7 @@
       "Lack",
       "Abundance"
     ],
-    "options_ne": [
-      "अभाव",
-      "बचत",
-      "कमी",
-      "प्रचुरता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'excess' means the same as 'surplus'.",
     "explanation_ne": "‘excess’ को अर्थ ‘surplus’ हो।",
@@ -11818,12 +11018,7 @@
       "Lack",
       "Surplus"
     ],
-    "options_ne": [
-      "प्रचुरता",
-      "अभाव",
-      "कमी",
-      "बचत"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'excess' is 'shortage'.",
     "explanation_ne": "‘excess’ को विलोम ‘shortage’ हो।",
@@ -11923,12 +11118,7 @@
       "restore",
       "excess"
     ],
-    "options_ne": [
-      "चतुर",
-      "गरिबी",
-      "पुनर्स्थापना गर्नु",
-      "अधिक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'excess' means 'अधिक'.",
     "explanation_ne": "‘excess’ को अर्थ ‘अधिक’ हो।",
@@ -11958,12 +11148,7 @@
       "Justification",
       "Pretext"
     ],
-    "options_ne": [
-      "कारण",
-      "दोष",
-      "औचित्य",
-      "बहाना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'excuse' means the same as 'pretext'.",
     "explanation_ne": "‘excuse’ को अर्थ ‘pretext’ हो।",
@@ -12028,12 +11213,7 @@
       "Justification",
       "Blame"
     ],
-    "options_ne": [
-      "कारण",
-      "बहाना",
-      "औचित्य",
-      "दोष"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'excuse' is 'reason'.",
     "explanation_ne": "‘excuse’ को विलोम ‘reason’ हो।",
@@ -12133,12 +11313,7 @@
       "urgent",
       "vigorous"
     ],
-    "options_ne": [
-      "भाग्यमानी",
-      "बहाना",
-      "जरुरी",
-      "जोशिलो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'excuse' means 'बहाना'.",
     "explanation_ne": "‘excuse’ को अर्थ ‘बहाना’ हो।",
@@ -12168,12 +11343,7 @@
       "Tire",
       "Refresh"
     ],
-    "options_ne": [
-      "निकाल्नु",
-      "ऊर्जा दिनु",
-      "थाक्नु",
-      "ताजा बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'exhaust' means the same as 'tire'.",
     "explanation_ne": "‘exhaust’ को अर्थ ‘tire’ हो।",
@@ -12238,12 +11408,7 @@
       "Tire",
       "Drain"
     ],
-    "options_ne": [
-      "ऊर्जा दिनु",
-      "ताजा बनाउनु",
-      "थाक्नु",
-      "निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'exhaust' is 'refresh'.",
     "explanation_ne": "‘exhaust’ को विलोम ‘refresh’ हो।",
@@ -12343,12 +11508,7 @@
       "banish",
       "mandatory"
     ],
-    "options_ne": [
-      "थकाउनु",
-      "रोजगारी दिनु",
-      "निर्वासन गर्नु",
-      "अनिवार्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'exhaust' means 'थकाउनु'.",
     "explanation_ne": "‘exhaust’ को अर्थ ‘थकाउनु’ हो।",
@@ -12378,12 +11538,7 @@
       "genuine",
       "precise"
     ],
-    "options_ne": [
-      "अपेक्षा गर्नु",
-      "थकान",
-      "वास्तविक",
-      "यथार्थ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'expect' means 'अपेक्षा गर्नु'.",
     "explanation_ne": "‘expect’ को अर्थ ‘अपेक्षा गर्नु’ हो।",
@@ -12413,12 +11568,7 @@
       "Strange",
       "Unknown"
     ],
-    "options_ne": [
-      "ज्ञात",
-      "चिनजान भएको",
-      "अपरिचित",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'familiar' means the same as 'known'.",
     "explanation_ne": "‘familiar’ को अर्थ ‘known’ हो।",
@@ -12483,12 +11633,7 @@
       "Acquainted",
       "Unknown"
     ],
-    "options_ne": [
-      "ज्ञात",
-      "अपरिचित",
-      "चिनजान भएको",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'familiar' is 'strange'.",
     "explanation_ne": "‘familiar’ को विलोम ‘strange’ हो।",
@@ -12588,12 +11733,7 @@
       "mysterious",
       "cease"
     ],
-    "options_ne": [
-      "पत्ता लगाउनु",
-      "परिचित",
-      "रहस्यमय",
-      "रोक्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'familiar' means 'परिचित'.",
     "explanation_ne": "‘familiar’ को अर्थ ‘परिचित’ हो।",
@@ -12658,12 +11798,7 @@
       "Harmless",
       "Deadly"
     ],
-    "options_ne": [
-      "ज्यानै जाने",
-      "सुरक्षित",
-      "हानिरहित",
-      "प्राणघातक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'fatal' is 'harmless'.",
     "explanation_ne": "‘fatal’ को विलोम ‘harmless’ हो।",
@@ -12763,12 +11898,7 @@
       "fatal",
       "ultimate"
     ],
-    "options_ne": [
-      "भरपर्दो",
-      "साहसी",
-      "घातक",
-      "अन्तिम"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'fatal' means 'घातक'.",
     "explanation_ne": "‘fatal’ को अर्थ ‘घातक’ हो।",
@@ -12798,12 +11928,7 @@
       "Energy",
       "Vigour"
     ],
-    "options_ne": [
-      "थकाइ",
-      "थकान",
-      "ऊर्जा",
-      "स्फूर्ति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'fatigue' means the same as 'tiredness'.",
     "explanation_ne": "‘fatigue’ को अर्थ ‘tiredness’ हो।",
@@ -12868,12 +11993,7 @@
       "Tiredness",
       "Exhaustion"
     ],
-    "options_ne": [
-      "स्फूर्ति",
-      "ऊर्जा",
-      "थकाइ",
-      "थकान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'fatigue' is 'energy'.",
     "explanation_ne": "‘fatigue’ को विलोम ‘energy’ हो।",
@@ -12973,12 +12093,7 @@
       "distribute",
       "fatigue"
     ],
-    "options_ne": [
-      "इरादा",
-      "मार्गदर्शन",
-      "बाँड्नु",
-      "थकान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'fatigue' means 'थकान'.",
     "explanation_ne": "‘fatigue’ को अर्थ ‘थकान’ हो।",
@@ -13008,12 +12123,7 @@
       "Productive",
       "Barren"
     ],
-    "options_ne": [
-      "धनी",
-      "अनुर्वर",
-      "उत्पादक",
-      "बाँझो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'fertile' means the same as 'productive'.",
     "explanation_ne": "‘fertile’ को अर्थ ‘productive’ हो।",
@@ -13078,12 +12188,7 @@
       "Productive",
       "Rich"
     ],
-    "options_ne": [
-      "बाँझो",
-      "अनुर्वर",
-      "उत्पादक",
-      "धनी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'fertile' is 'barren'.",
     "explanation_ne": "‘fertile’ को विलोम ‘barren’ हो।",
@@ -13183,12 +12288,7 @@
       "deceive",
       "fertile"
     ],
-    "options_ne": [
-      "उचित",
-      "समर्पित हुनु",
-      "धोका दिनु",
-      "उर्वर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'fertile' means 'उर्वर'.",
     "explanation_ne": "‘fertile’ को अर्थ ‘उर्वर’ हो।",
@@ -13218,12 +12318,7 @@
       "Prosper",
       "Thrive"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "ओइलाउनु",
-      "समृद्ध हुनु",
-      "फुल्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'flourish' means the same as 'thrive'.",
     "explanation_ne": "‘flourish’ को अर्थ ‘thrive’ हो।",
@@ -13288,12 +12383,7 @@
       "Thrive",
       "Prosper"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "ओइलाउनु",
-      "फुल्नु",
-      "समृद्ध हुनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'flourish' is 'decline'.",
     "explanation_ne": "‘flourish’ को विलोम ‘decline’ हो।",
@@ -13393,12 +12483,7 @@
       "compassion",
       "influence"
     ],
-    "options_ne": [
-      "उदार",
-      "फस्टाउनु",
-      "करुणा",
-      "प्रभाव"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'flourish' means 'फस्टाउनु'.",
     "explanation_ne": "‘flourish’ को अर्थ ‘फस्टाउनु’ हो।",
@@ -13428,12 +12513,7 @@
       "Thrifty",
       "Wasteful"
     ],
-    "options_ne": [
-      "खर्चालु",
-      "मितव्ययी",
-      "किफायती",
-      "फजुलखर्ची"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'frugal' is 'wasteful'.",
     "explanation_ne": "‘frugal’ को विलोम ‘wasteful’ हो।",
@@ -13533,12 +12613,7 @@
       "Disgraceful",
       "Splendid"
     ],
-    "options_ne": [
-      "भव्य",
-      "लज्जास्पद",
-      "अपमानजनक",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'glorious' means the same as 'splendid'.",
     "explanation_ne": "‘glorious’ को अर्थ ‘splendid’ हो।",
@@ -13603,12 +12678,7 @@
       "Shameful",
       "Splendid"
     ],
-    "options_ne": [
-      "अपमानजनक",
-      "भव्य",
-      "लज्जास्पद",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'glorious' is 'shameful'.",
     "explanation_ne": "‘glorious’ को विलोम ‘shameful’ हो।",
@@ -13708,12 +12778,7 @@
       "generous",
       "guidance"
     ],
-    "options_ne": [
-      "गौरवशाली",
-      "दयालुता",
-      "उदार",
-      "मार्गदर्शन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'glorious' means 'गौरवशाली'.",
     "explanation_ne": "‘glorious’ को अर्थ ‘गौरवशाली’ हो।",
@@ -13743,12 +12808,7 @@
       "Misguidance",
       "Confusion"
     ],
-    "options_ne": [
-      "निर्देशन",
-      "सल्लाह",
-      "गलत मार्गदर्शन",
-      "अलमल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'guidance' means the same as 'direction'.",
     "explanation_ne": "‘guidance’ को अर्थ ‘direction’ हो।",
@@ -13813,12 +12873,7 @@
       "Confusion",
       "Advice"
     ],
-    "options_ne": [
-      "निर्देशन",
-      "गलत मार्गदर्शन",
-      "अलमल",
-      "सल्लाह"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'guidance' is 'misguidance'.",
     "explanation_ne": "‘guidance’ को विलोम ‘misguidance’ हो।",
@@ -13918,12 +12973,7 @@
       "awful",
       "relief"
     ],
-    "options_ne": [
-      "महत्त्वपूर्ण",
-      "मार्गदर्शन",
-      "भयानक",
-      "राहत"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'guidance' means 'मार्गदर्शन'.",
     "explanation_ne": "‘guidance’ को अर्थ ‘मार्गदर्शन’ हो।",
@@ -13953,12 +13003,7 @@
       "Injurious",
       "Damaging"
     ],
-    "options_ne": [
-      "लाभदायक",
-      "उपयोगी",
-      "हानिकारक",
-      "क्षतिकारक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'harmful' means the same as 'injurious'.",
     "explanation_ne": "‘harmful’ को अर्थ ‘injurious’ हो।",
@@ -14023,12 +13068,7 @@
       "Damaging",
       "Injurious"
     ],
-    "options_ne": [
-      "लाभदायक",
-      "उपयोगी",
-      "क्षतिकारक",
-      "हानिकारक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'harmful' is 'beneficial'.",
     "explanation_ne": "‘harmful’ को विलोम ‘beneficial’ हो।",
@@ -14128,12 +13168,7 @@
       "harmful",
       "brutal"
     ],
-    "options_ne": [
-      "उत्कृष्ट",
-      "यात्रा",
-      "हानिकारक",
-      "निर्दयी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'harmful' means 'हानिकारक'.",
     "explanation_ne": "‘harmful’ को अर्थ ‘हानिकारक’ हो।",
@@ -14163,12 +13198,7 @@
       "Dislike",
       "Hate"
     ],
-    "options_ne": [
-      "स्नेह",
-      "माया",
-      "नापसंद",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'hatred' means the same as 'hate'.",
     "explanation_ne": "‘hatred’ को अर्थ ‘hate’ हो।",
@@ -14233,12 +13263,7 @@
       "Hate",
       "Affection"
     ],
-    "options_ne": [
-      "नापसंद",
-      "माया",
-      "घृणा",
-      "स्नेह"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'hatred' is 'love'.",
     "explanation_ne": "‘hatred’ को विलोम ‘love’ हो।",
@@ -14338,12 +13363,7 @@
       "loyal",
       "relief"
     ],
-    "options_ne": [
-      "परिपक्व",
-      "घृणा",
-      "वफादार",
-      "राहत"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'hatred' means 'घृणा'.",
     "explanation_ne": "‘hatred’ को अर्थ ‘घृणा’ हो।",
@@ -14373,12 +13393,7 @@
       "Decide",
       "Waver"
     ],
-    "options_ne": [
-      "अगाडि बढ्नु",
-      "रोकिनु",
-      "निर्णय गर्नु",
-      "दोलायमान हुनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'hesitate' means the same as 'waver'.",
     "explanation_ne": "‘hesitate’ को अर्थ ‘waver’ हो।",
@@ -14443,12 +13458,7 @@
       "Decide",
       "Waver"
     ],
-    "options_ne": [
-      "अगाडि बढ्नु",
-      "रोकिनु",
-      "निर्णय गर्नु",
-      "दोलायमान हुनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'hesitate' is 'decide'.",
     "explanation_ne": "‘hesitate’ को विलोम ‘decide’ हो।",
@@ -14548,12 +13558,7 @@
       "disaster",
       "hesitate"
     ],
-    "options_ne": [
-      "अनुकूल हुनु",
-      "पारदर्शी",
-      "प्रकोप",
-      "हिचकिचाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'hesitate' means 'हिचकिचाउनु'.",
     "explanation_ne": "‘hesitate’ को अर्थ ‘हिचकिचाउनु’ हो।",
@@ -14583,12 +13588,7 @@
       "Fullness",
       "Satiety"
     ],
-    "options_ne": [
-      "भोक",
-      "भोकमरी",
-      "पूर्णता",
-      "तृप्ति"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'hunger' means the same as 'starvation'.",
     "explanation_ne": "‘hunger’ को अर्थ ‘starvation’ हो।",
@@ -14653,12 +13653,7 @@
       "Appetite",
       "Fullness"
     ],
-    "options_ne": [
-      "तृप्ति",
-      "भोकमरी",
-      "भोक",
-      "पूर्णता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'hunger' is 'satiety'.",
     "explanation_ne": "‘hunger’ को विलोम ‘satiety’ हो।",
@@ -14758,12 +13753,7 @@
       "Same",
       "Distinct"
     ],
-    "options_ne": [
-      "मिल्दोजुल्दो",
-      "फरक",
-      "समान",
-      "भिन्न"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'identical' means the same as 'same'.",
     "explanation_ne": "‘identical’ को अर्थ ‘same’ हो।",
@@ -14828,12 +13818,7 @@
       "Different",
       "Same"
     ],
-    "options_ne": [
-      "मिल्दोजुल्दो",
-      "भिन्न",
-      "फरक",
-      "समान"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'identical' is 'different'.",
     "explanation_ne": "‘identical’ को विलोम ‘different’ हो।",
@@ -14933,12 +13918,7 @@
       "prefer",
       "identical"
     ],
-    "options_ne": [
-      "सन्तुष्ट पार्नु",
-      "समर्पित गर्नु",
-      "रुचाउनु",
-      "उस्तै"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'identical' means 'उस्तै'.",
     "explanation_ne": "‘identical’ को अर्थ ‘उस्तै’ हो।",
@@ -15003,12 +13983,7 @@
       "Huge",
       "Vast"
     ],
-    "options_ne": [
-      "सूक्ष्म",
-      "सानो",
-      "ठूलो",
-      "फराकिलो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'immense' is 'tiny'.",
     "explanation_ne": "‘immense’ को विलोम ‘tiny’ हो।",
@@ -15108,12 +14083,7 @@
       "Biased",
       "Fair"
     ],
-    "options_ne": [
-      "तटस्थ",
-      "पूर्वाग्रही",
-      "पक्षपाती",
-      "न्यायपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'impartial' means the same as 'neutral'.",
     "explanation_ne": "‘impartial’ को अर्थ ‘neutral’ हो।",
@@ -15178,12 +14148,7 @@
       "Fair",
       "Neutral"
     ],
-    "options_ne": [
-      "पक्षपाती",
-      "पूर्वाग्रही",
-      "न्यायपूर्ण",
-      "तटस्थ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'impartial' is 'biased'.",
     "explanation_ne": "‘impartial’ को विलोम ‘biased’ हो।",
@@ -15283,12 +14248,7 @@
       "tender",
       "satisfy"
     ],
-    "options_ne": [
-      "सुधार गर्नु",
-      "निष्पक्ष",
-      "कोमल",
-      "सन्तुष्ट पार्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'impartial' means 'निष्पक्ष'.",
     "explanation_ne": "‘impartial’ को अर्थ ‘निष्पक्ष’ हो।",
@@ -15318,12 +14278,7 @@
       "Calm",
       "Anxious"
     ],
-    "options_ne": [
-      "धैर्यवान्",
-      "बेचैन",
-      "शान्त",
-      "चिन्तित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'impatient' means the same as 'restless'.",
     "explanation_ne": "‘impatient’ को अर्थ ‘restless’ हो।",
@@ -15388,12 +14343,7 @@
       "Calm",
       "Anxious"
     ],
-    "options_ne": [
-      "धैर्यवान्",
-      "बेचैन",
-      "शान्त",
-      "चिन्तित"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'impatient' is 'patient'.",
     "explanation_ne": "‘impatient’ को विलोम ‘patient’ हो।",
@@ -15493,12 +14443,7 @@
       "awful",
       "impatient"
     ],
-    "options_ne": [
-      "मेहनती",
-      "आश्चर्य",
-      "भयानक",
-      "अधीर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'impatient' means 'अधीर'.",
     "explanation_ne": "‘impatient’ को अर्थ ‘अधीर’ हो।",
@@ -15528,12 +14473,7 @@
       "generous",
       "increase"
     ],
-    "options_ne": [
-      "अनन्त",
-      "अशिष्ट",
-      "उदार",
-      "बढाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'increase' means 'बढाउनु'.",
     "explanation_ne": "‘increase’ को अर्थ ‘बढाउनु’ हो।",
@@ -15563,12 +14503,7 @@
       "Weakness",
       "Effect"
     ],
-    "options_ne": [
-      "तुच्छता",
-      "प्रभाव",
-      "कमजोरी",
-      "असर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'influence' means the same as 'effect'.",
     "explanation_ne": "‘influence’ को अर्थ ‘effect’ हो।",
@@ -15633,12 +14568,7 @@
       "Impact",
       "Insignificance"
     ],
-    "options_ne": [
-      "कमजोरी",
-      "असर",
-      "प्रभाव",
-      "तुच्छता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'influence' is 'insignificance'.",
     "explanation_ne": "‘influence’ को विलोम ‘insignificance’ हो।",
@@ -15738,12 +14668,7 @@
       "fortunate",
       "predict"
     ],
-    "options_ne": [
-      "द्रुत",
-      "प्रभाव",
-      "भाग्यमानी",
-      "पूर्वानुमान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'influence' means 'प्रभाव'.",
     "explanation_ne": "‘influence’ को अर्थ ‘प्रभाव’ हो।",
@@ -15773,12 +14698,7 @@
       "Harm",
       "Wound"
     ],
-    "options_ne": [
-      "स्वास्थ्य",
-      "निको",
-      "हानि",
-      "घाउ"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'injury' means the same as 'wound'.",
     "explanation_ne": "‘injury’ को अर्थ ‘wound’ हो।",
@@ -15843,12 +14763,7 @@
       "Wound",
       "Harm"
     ],
-    "options_ne": [
-      "निको",
-      "स्वास्थ्य",
-      "घाउ",
-      "हानि"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'injury' is 'healing'.",
     "explanation_ne": "‘injury’ को विलोम ‘healing’ हो।",
@@ -15948,12 +14863,7 @@
       "wicked",
       "injury"
     ],
-    "options_ne": [
-      "आज्ञाकारी",
-      "उत्सुक",
-      "दुष्ट",
-      "चोट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'injury' means 'चोट'.",
     "explanation_ne": "‘injury’ को अर्थ ‘चोट’ हो।",
@@ -15983,12 +14893,7 @@
       "Ask",
       "Answer"
     ],
-    "options_ne": [
-      "अनुसन्धान गर्नु",
-      "बेवास्ता गर्नु",
-      "सोध्नु",
-      "जवाफ दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'inquire' means the same as 'ask'.",
     "explanation_ne": "‘inquire’ को अर्थ ‘ask’ हो।",
@@ -16053,12 +14958,7 @@
       "Ask",
       "Answer"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "अनुसन्धान गर्नु",
-      "सोध्नु",
-      "जवाफ दिनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'inquire' is 'answer'.",
     "explanation_ne": "‘inquire’ को विलोम ‘answer’ हो।",
@@ -16158,12 +15058,7 @@
       "inquire",
       "ignorant"
     ],
-    "options_ne": [
-      "महँगो",
-      "चतुर",
-      "सोध्नु",
-      "अज्ञानी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'inquire' means 'सोध्नु'.",
     "explanation_ne": "‘inquire’ को अर्थ ‘सोध्नु’ हो।",
@@ -16193,12 +15088,7 @@
       "Praise",
       "Offence"
     ],
-    "options_ne": [
-      "गाली",
-      "सम्मान",
-      "प्रशंसा",
-      "अपमान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'insult' means the same as 'offence'.",
     "explanation_ne": "‘insult’ को अर्थ ‘offence’ हो।",
@@ -16263,12 +15153,7 @@
       "Abuse",
       "Honour"
     ],
-    "options_ne": [
-      "प्रशंसा",
-      "अपमान",
-      "गाली",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'insult' is 'praise'.",
     "explanation_ne": "‘insult’ को विलोम ‘praise’ हो।",
@@ -16368,12 +15253,7 @@
       "honour",
       "suspicious"
     ],
-    "options_ne": [
-      "अपमान",
-      "बेवास्ता",
-      "सम्मान",
-      "शङ्कास्पद"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'insult' means 'अपमान'.",
     "explanation_ne": "‘insult’ को अर्थ ‘अपमान’ हो।",
@@ -16403,12 +15283,7 @@
       "Chance",
       "Accident"
     ],
-    "options_ne": [
-      "उद्देश्य",
-      "लक्ष्य",
-      "संयोग",
-      "दुर्घटना"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'intention' means the same as 'purpose'.",
     "explanation_ne": "‘intention’ को अर्थ ‘purpose’ हो।",
@@ -16473,12 +15348,7 @@
       "Purpose",
       "Accident"
     ],
-    "options_ne": [
-      "संयोग",
-      "लक्ष्य",
-      "उद्देश्य",
-      "दुर्घटना"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'intention' is 'accident'.",
     "explanation_ne": "‘intention’ को विलोम ‘accident’ हो।",
@@ -16578,12 +15448,7 @@
       "abrupt",
       "curious"
     ],
-    "options_ne": [
-      "इरादा",
-      "दयालुता",
-      "अचानक",
-      "जिज्ञासु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'intention' means 'इरादा'.",
     "explanation_ne": "‘intention’ को अर्थ ‘इरादा’ हो।",
@@ -16648,12 +15513,7 @@
       "Gloomy",
       "Happy"
     ],
-    "options_ne": [
-      "दुःखी",
-      "प्रफुल्ल",
-      "उदास",
-      "प्रसन्न"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'joyful' is 'sad'.",
     "explanation_ne": "‘joyful’ को विलोम ‘sad’ हो।",
@@ -16753,12 +15613,7 @@
       "Fairness",
       "Equity"
     ],
-    "options_ne": [
-      "पक्षपात",
-      "अन्याय",
-      "निष्पक्षता",
-      "समानता"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'justice' means the same as 'fairness'.",
     "explanation_ne": "‘justice’ को अर्थ ‘fairness’ हो।",
@@ -16823,12 +15678,7 @@
       "Fairness",
       "Injustice"
     ],
-    "options_ne": [
-      "समानता",
-      "पक्षपात",
-      "निष्पक्षता",
-      "अन्याय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'justice' is 'injustice'.",
     "explanation_ne": "‘justice’ को विलोम ‘injustice’ हो।",
@@ -16928,12 +15778,7 @@
       "envious",
       "chaos"
     ],
-    "options_ne": [
-      "न्याय",
-      "हटाउनु",
-      "ईर्ष्यालु",
-      "अव्यवस्था"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'justice' means 'न्याय'.",
     "explanation_ne": "‘justice’ को अर्थ ‘न्याय’ हो।",
@@ -16963,12 +15808,7 @@
       "Generosity",
       "Benevolence"
     ],
-    "options_ne": [
-      "क्रूरता",
-      "स्वार्थ",
-      "उदारता",
-      "परोपकार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'kindness' means the same as 'benevolence'.",
     "explanation_ne": "‘kindness’ को अर्थ ‘benevolence’ हो।",
@@ -17033,12 +15873,7 @@
       "Selfishness",
       "Cruelty"
     ],
-    "options_ne": [
-      "परोपकार",
-      "उदारता",
-      "स्वार्थ",
-      "क्रूरता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'kindness' is 'cruelty'.",
     "explanation_ne": "‘kindness’ को विलोम ‘cruelty’ हो।",
@@ -17138,12 +15973,7 @@
       "diligent",
       "loyal"
     ],
-    "options_ne": [
-      "दयालुता",
-      "समर्पित हुनु",
-      "मेहनती",
-      "वफादार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'kindness' means 'दयालुता'.",
     "explanation_ne": "‘kindness’ को अर्थ ‘दयालुता’ हो।",
@@ -17173,12 +16003,7 @@
       "Plain",
       "Grand"
     ],
-    "options_ne": [
-      "शानदार",
-      "कुरूप",
-      "साधारण",
-      "महान्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'magnificent' means the same as 'splendid'.",
     "explanation_ne": "‘magnificent’ को अर्थ ‘splendid’ हो।",
@@ -17243,12 +16068,7 @@
       "Grand",
       "Splendid"
     ],
-    "options_ne": [
-      "कुरूप",
-      "साधारण",
-      "महान्",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'magnificent' is 'ugly'.",
     "explanation_ne": "‘magnificent’ को विलोम ‘ugly’ हो।",
@@ -17348,12 +16168,7 @@
       "unanimous",
       "guard"
     ],
-    "options_ne": [
-      "भव्य",
-      "समर्पित हुनु",
-      "सर्वसम्मत",
-      "रक्षा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'magnificent' means 'भव्य'.",
     "explanation_ne": "‘magnificent’ को अर्थ ‘भव्य’ हो।",
@@ -17383,12 +16198,7 @@
       "Benevolent",
       "Kind"
     ],
-    "options_ne": [
-      "शत्रुतापूर्ण",
-      "द्वेषपूर्ण",
-      "परोपकारी",
-      "दयालु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'malicious' means the same as 'spiteful'.",
     "explanation_ne": "‘malicious’ को अर्थ ‘spiteful’ हो।",
@@ -17453,12 +16263,7 @@
       "Hostile",
       "Benevolent"
     ],
-    "options_ne": [
-      "दयालु",
-      "द्वेषपूर्ण",
-      "शत्रुतापूर्ण",
-      "परोपकारी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'malicious' is 'kind'.",
     "explanation_ne": "‘malicious’ को विलोम ‘kind’ हो।",
@@ -17558,12 +16363,7 @@
       "malicious",
       "improve"
     ],
-    "options_ne": [
-      "सोध्नु",
-      "निर्दयी",
-      "दुर्भावनापूर्ण",
-      "सुधार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'malicious' means 'दुर्भावनापूर्ण'.",
     "explanation_ne": "‘malicious’ को अर्थ ‘दुर्भावनापूर्ण’ हो।",
@@ -17593,12 +16393,7 @@
       "Optional",
       "Obligatory"
     ],
-    "options_ne": [
-      "बाध्यकारी",
-      "स्वेच्छिक",
-      "वैकल्पिक",
-      "अनिवार्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'mandatory' means the same as 'compulsory'.",
     "explanation_ne": "‘mandatory’ को अर्थ ‘compulsory’ हो।",
@@ -17663,12 +16458,7 @@
       "Obligatory",
       "Optional"
     ],
-    "options_ne": [
-      "बाध्यकारी",
-      "स्वेच्छिक",
-      "अनिवार्य",
-      "वैकल्पिक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'mandatory' is 'optional'.",
     "explanation_ne": "‘mandatory’ को विलोम ‘optional’ हो।",
@@ -17768,12 +16558,7 @@
       "Terrible",
       "Ordinary"
     ],
-    "options_ne": [
-      "चकित पार्ने",
-      "आश्चर्यजनक",
-      "भयानक",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'marvellous' means the same as 'wonderful'.",
     "explanation_ne": "‘marvellous’ को अर्थ ‘wonderful’ हो।",
@@ -17838,12 +16623,7 @@
       "Amazing",
       "Ordinary"
     ],
-    "options_ne": [
-      "आश्चर्यजनक",
-      "भयानक",
-      "चकित पार्ने",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'marvellous' is 'terrible'.",
     "explanation_ne": "‘marvellous’ को विलोम ‘terrible’ हो।",
@@ -17943,12 +16723,7 @@
       "dawn",
       "marvellous"
     ],
-    "options_ne": [
-      "द्रुत",
-      "नियमित",
-      "बिहान",
-      "अद्भुत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'marvellous' means 'अद्भुत'.",
     "explanation_ne": "‘marvellous’ को अर्थ ‘अद्भुत’ हो।",
@@ -17978,12 +16753,7 @@
       "neglect",
       "damage"
     ],
-    "options_ne": [
-      "नम्र",
-      "लोभी",
-      "बेवास्ता",
-      "क्षति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'modest' means 'नम्र'.",
     "explanation_ne": "‘modest’ को अर्थ ‘नम्र’ हो।",
@@ -18013,12 +16783,7 @@
       "Plain",
       "Secret"
     ],
-    "options_ne": [
-      "रहस्यपूर्ण",
-      "स्पष्ट",
-      "साधारण",
-      "गोप्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'mysterious' means the same as 'enigmatic'.",
     "explanation_ne": "‘mysterious’ को अर्थ ‘enigmatic’ हो।",
@@ -18083,12 +16848,7 @@
       "Enigmatic",
       "Plain"
     ],
-    "options_ne": [
-      "गोप्य",
-      "स्पष्ट",
-      "रहस्यपूर्ण",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'mysterious' is 'obvious'.",
     "explanation_ne": "‘mysterious’ को विलोम ‘obvious’ हो।",
@@ -18188,12 +16948,7 @@
       "relief",
       "alleviate"
     ],
-    "options_ne": [
-      "रहस्यमय",
-      "महान्",
-      "राहत",
-      "कम गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'mysterious' means 'रहस्यमय'.",
     "explanation_ne": "‘mysterious’ को अर्थ ‘रहस्यमय’ हो।",
@@ -18223,12 +16978,7 @@
       "recognise",
       "remarkable"
     ],
-    "options_ne": [
-      "अचानक",
-      "बेवास्ता",
-      "चिन्नु",
-      "उल्लेखनीय"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'neglect' means 'बेवास्ता'.",
     "explanation_ne": "‘neglect’ को अर्थ ‘बेवास्ता’ हो।",
@@ -18258,12 +17008,7 @@
       "expect",
       "hatred"
     ],
-    "options_ne": [
-      "महान्",
-      "शोक",
-      "अपेक्षा गर्नु",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'noble' means 'महान्'.",
     "explanation_ne": "‘noble’ को अर्थ ‘महान्’ हो।",
@@ -18293,12 +17038,7 @@
       "Hopeful",
       "Pessimistic"
     ],
-    "options_ne": [
-      "नकारात्मक",
-      "सकारात्मक",
-      "आशापूर्ण",
-      "निराशावादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'optimistic' means the same as 'hopeful'.",
     "explanation_ne": "‘optimistic’ को अर्थ ‘hopeful’ हो।",
@@ -18398,12 +17138,7 @@
       "magnificent",
       "insult"
     ],
-    "options_ne": [
-      "आशावादी",
-      "साधारण",
-      "भव्य",
-      "अपमान"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'optimistic' means 'आशावादी'.",
     "explanation_ne": "‘optimistic’ को अर्थ ‘आशावादी’ हो।",
@@ -18433,12 +17168,7 @@
       "Fickle",
       "Steadfast"
     ],
-    "options_ne": [
-      "अडिग",
-      "अस्थिर",
-      "चञ्चल",
-      "दृढ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'persistent' means the same as 'tenacious'.",
     "explanation_ne": "‘persistent’ को अर्थ ‘tenacious’ हो।",
@@ -18503,12 +17233,7 @@
       "Fickle",
       "Tenacious"
     ],
-    "options_ne": [
-      "अस्थिर",
-      "दृढ",
-      "चञ्चल",
-      "अडिग"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'persistent' is 'fickle'.",
     "explanation_ne": "‘persistent’ को विलोम ‘fickle’ हो।",
@@ -18608,12 +17333,7 @@
       "fertile",
       "plenty"
     ],
-    "options_ne": [
-      "शान्त",
-      "करुणा",
-      "उर्वर",
-      "प्रचुरता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'plenty' means 'प्रचुरता'.",
     "explanation_ne": "‘plenty’ को अर्थ ‘प्रचुरता’ हो।",
@@ -18643,12 +17363,7 @@
       "Destitution",
       "Riches"
     ],
-    "options_ne": [
-      "गरिबी",
-      "धन",
-      "दरिद्रता",
-      "सम्पत्ति"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'poverty' means the same as 'destitution'.",
     "explanation_ne": "‘poverty’ को अर्थ ‘destitution’ हो।",
@@ -18713,12 +17428,7 @@
       "Riches",
       "Penury"
     ],
-    "options_ne": [
-      "धन",
-      "दरिद्रता",
-      "सम्पत्ति",
-      "गरिबी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'poverty' is 'wealth'.",
     "explanation_ne": "‘poverty’ को विलोम ‘wealth’ हो।",
@@ -18853,12 +17563,7 @@
       "Strong",
       "Weak"
     ],
-    "options_ne": [
-      "दुर्बल",
-      "पराक्रमी",
-      "बलियो",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'powerful' is 'weak'.",
     "explanation_ne": "‘powerful’ को विलोम ‘weak’ हो।",
@@ -18958,12 +17663,7 @@
       "ambiguous",
       "earnest"
     ],
-    "options_ne": [
-      "उस्तै",
-      "शक्तिशाली",
-      "अस्पष्ट",
-      "गम्भीर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'powerful' means 'शक्तिशाली'.",
     "explanation_ne": "‘powerful’ को अर्थ ‘शक्तिशाली’ हो।",
@@ -19028,12 +17728,7 @@
       "Exact",
       "Accurate"
     ],
-    "options_ne": [
-      "अस्पष्ट",
-      "लगभग",
-      "ठीक",
-      "सही"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'precise' is 'vague'.",
     "explanation_ne": "‘precise’ को विलोम ‘vague’ हो।",
@@ -19133,12 +17828,7 @@
       "immense",
       "precise"
     ],
-    "options_ne": [
-      "मनाउनु",
-      "बढाउनु",
-      "विशाल",
-      "यथार्थ"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'precise' means 'यथार्थ'.",
     "explanation_ne": "‘precise’ को अर्थ ‘यथार्थ’ हो।",
@@ -19168,12 +17858,7 @@
       "Foretell",
       "Ignore"
     ],
-    "options_ne": [
-      "बिर्सनु",
-      "अनुमान गर्नु",
-      "भविष्यवाणी गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'predict' means the same as 'foretell'.",
     "explanation_ne": "‘predict’ को अर्थ ‘foretell’ हो।",
@@ -19238,12 +17923,7 @@
       "Forget",
       "Ignore"
     ],
-    "options_ne": [
-      "भविष्यवाणी गर्नु",
-      "अनुमान गर्नु",
-      "बिर्सनु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'predict' is 'ignore'.",
     "explanation_ne": "‘predict’ को विलोम ‘ignore’ हो।",
@@ -19343,12 +18023,7 @@
       "Favour",
       "Dislike"
     ],
-    "options_ne": [
-      "छान्नु",
-      "अस्वीकार गर्नु",
-      "मन पराउनु",
-      "नापसंद गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'prefer' means the same as 'favour'.",
     "explanation_ne": "‘prefer’ को अर्थ ‘favour’ हो।",
@@ -19413,12 +18088,7 @@
       "Dislike",
       "Reject"
     ],
-    "options_ne": [
-      "मन पराउनु",
-      "छान्नु",
-      "नापसंद गर्नु",
-      "अस्वीकार गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'prefer' is 'dislike'.",
     "explanation_ne": "‘prefer’ को विलोम ‘dislike’ हो।",
@@ -19518,12 +18188,7 @@
       "prefer",
       "ordinary"
     ],
-    "options_ne": [
-      "उचित",
-      "रोजगारी दिनु",
-      "रुचाउनु",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'prefer' means 'रुचाउनु'.",
     "explanation_ne": "‘prefer’ को अर्थ ‘रुचाउनु’ हो।",
@@ -19553,12 +18218,7 @@
       "Secondary",
       "Chief"
     ],
-    "options_ne": [
-      "सानो",
-      "मुख्य",
-      "गौण",
-      "प्रमुख"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'principal' means the same as 'chief'.",
     "explanation_ne": "‘principal’ को अर्थ ‘chief’ हो।",
@@ -19693,12 +18353,7 @@
       "principal",
       "disaster"
     ],
-    "options_ne": [
-      "फस्टाउनु",
-      "करुणा",
-      "मुख्य",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'principal' means 'मुख्य'.",
     "explanation_ne": "‘principal’ को अर्थ ‘मुख्य’ हो।",
@@ -19728,12 +18383,7 @@
       "Wealth",
       "Misery"
     ],
-    "options_ne": [
-      "सम्पन्नता",
-      "गरिबी",
-      "धन",
-      "दुःख"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'prosperity' means the same as 'wealth'.",
     "explanation_ne": "‘prosperity’ को अर्थ ‘wealth’ हो।",
@@ -19798,12 +18448,7 @@
       "Misery",
       "Poverty"
     ],
-    "options_ne": [
-      "सम्पन्नता",
-      "धन",
-      "दुःख",
-      "गरिबी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'prosperity' is 'poverty'.",
     "explanation_ne": "‘prosperity’ को विलोम ‘poverty’ हो।",
@@ -19903,12 +18548,7 @@
       "punish",
       "habit"
     ],
-    "options_ne": [
-      "समृद्धि",
-      "मितव्ययी",
-      "सजाय दिनु",
-      "बानी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'prosperity' means 'समृद्धि'.",
     "explanation_ne": "‘prosperity’ को अर्थ ‘समृद्धि’ हो।",
@@ -19938,12 +18578,7 @@
       "Humble",
       "Arrogant"
     ],
-    "options_ne": [
-      "घमण्डी",
-      "नम्र",
-      "विनम्र",
-      "अहङ्कारी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'proud' means the same as 'arrogant'.",
     "explanation_ne": "‘proud’ को अर्थ ‘arrogant’ हो।",
@@ -20008,12 +18643,7 @@
       "Humble",
       "Arrogant"
     ],
-    "options_ne": [
-      "नम्र",
-      "घमण्डी",
-      "विनम्र",
-      "अहङ्कारी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'proud' is 'humble'.",
     "explanation_ne": "‘proud’ को विलोम ‘humble’ हो।",
@@ -20113,12 +18743,7 @@
       "moral",
       "optimistic"
     ],
-    "options_ne": [
-      "गर्वित",
-      "रोग",
-      "नैतिक",
-      "आशावादी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'proud' means 'गर्वित'.",
     "explanation_ne": "‘proud’ को अर्थ ‘गर्वित’ हो।",
@@ -20148,12 +18773,7 @@
       "Sell",
       "Dispose"
     ],
-    "options_ne": [
-      "प्राप्त गर्नु",
-      "किन्नु",
-      "बेच्नु",
-      "बेचबिखन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'purchase' means the same as 'buy'.",
     "explanation_ne": "‘purchase’ को अर्थ ‘buy’ हो।",
@@ -20218,12 +18838,7 @@
       "Buy",
       "Sell"
     ],
-    "options_ne": [
-      "प्राप्त गर्नु",
-      "बेचबिखन गर्नु",
-      "किन्नु",
-      "बेच्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'purchase' is 'sell'.",
     "explanation_ne": "‘purchase’ को विलोम ‘sell’ हो।",
@@ -20323,12 +18938,7 @@
       "frugal",
       "benevolent"
     ],
-    "options_ne": [
-      "खरिद गर्नु",
-      "अचानक",
-      "मितव्ययी",
-      "परोपकारी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'purchase' means 'खरिद गर्नु'.",
     "explanation_ne": "‘purchase’ को अर्थ ‘खरिद गर्नु’ हो।",
@@ -20358,12 +18968,7 @@
       "Absurd",
       "Sensible"
     ],
-    "options_ne": [
-      "अनुचित",
-      "न्यायपूर्ण",
-      "बेतुका",
-      "समझदार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'reasonable' means the same as 'sensible'.",
     "explanation_ne": "‘reasonable’ को अर्थ ‘sensible’ हो।",
@@ -20428,12 +19033,7 @@
       "Sensible",
       "Fair"
     ],
-    "options_ne": [
-      "बेतुका",
-      "अनुचित",
-      "समझदार",
-      "न्यायपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'reasonable' is 'unreasonable'.",
     "explanation_ne": "‘reasonable’ को विलोम ‘unreasonable’ हो।",
@@ -20533,12 +19133,7 @@
       "Forget",
       "Ignore"
     ],
-    "options_ne": [
-      "पहिचान गर्नु",
-      "स्वीकार्नु",
-      "बिर्सनु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'recognise' means the same as 'identify'.",
     "explanation_ne": "‘recognise’ को अर्थ ‘identify’ हो।",
@@ -20603,12 +19198,7 @@
       "Identify",
       "Ignore"
     ],
-    "options_ne": [
-      "बिर्सनु",
-      "स्वीकार्नु",
-      "पहिचान गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'recognise' is 'ignore'.",
     "explanation_ne": "‘recognise’ को विलोम ‘ignore’ हो।",
@@ -20708,12 +19298,7 @@
       "fragile",
       "expert"
     ],
-    "options_ne": [
-      "चिन्नु",
-      "रहस्यमय",
-      "नाजुक",
-      "विज्ञ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'recognise' means 'चिन्नु'.",
     "explanation_ne": "‘recognise’ को अर्थ ‘चिन्नु’ हो।",
@@ -20743,12 +19328,7 @@
       "Remorse",
       "Satisfaction"
     ],
-    "options_ne": [
-      "दुःख",
-      "खुसी",
-      "पछुतो",
-      "सन्तुष्टि"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'regret' means the same as 'remorse'.",
     "explanation_ne": "‘regret’ को अर्थ ‘remorse’ हो।",
@@ -20813,12 +19393,7 @@
       "Sorrow",
       "Remorse"
     ],
-    "options_ne": [
-      "सन्तुष्टि",
-      "खुसी",
-      "दुःख",
-      "पछुतो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'regret' is 'satisfaction'.",
     "explanation_ne": "‘regret’ को विलोम ‘satisfaction’ हो।",
@@ -20918,12 +19493,7 @@
       "discipline",
       "recognise"
     ],
-    "options_ne": [
-      "पश्चात्ताप",
-      "अज्ञात",
-      "अनुशासन",
-      "चिन्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'regret' means 'पश्चात्ताप'.",
     "explanation_ne": "‘regret’ को अर्थ ‘पश्चात्ताप’ हो।",
@@ -20953,12 +19523,7 @@
       "Unreliable",
       "Trustworthy"
     ],
-    "options_ne": [
-      "भरपर्ने",
-      "शङ्कास्पद",
-      "अविश्वसनीय",
-      "विश्वसनीय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'reliable' means the same as 'trustworthy'.",
     "explanation_ne": "‘reliable’ को अर्थ ‘trustworthy’ हो।",
@@ -21023,12 +19588,7 @@
       "Doubtful",
       "Unreliable"
     ],
-    "options_ne": [
-      "विश्वसनीय",
-      "भरपर्ने",
-      "शङ्कास्पद",
-      "अविश्वसनीय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'reliable' is 'unreliable'.",
     "explanation_ne": "‘reliable’ को विलोम ‘unreliable’ हो।",
@@ -21128,12 +19688,7 @@
       "alleviate",
       "frequent"
     ],
-    "options_ne": [
-      "एक्लो",
-      "भरपर्दो",
-      "कम गर्नु",
-      "बारम्बार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'reliable' means 'भरपर्दो'.",
     "explanation_ne": "‘reliable’ को अर्थ ‘भरपर्दो’ हो।",
@@ -21163,12 +19718,7 @@
       "Ease",
       "Pain"
     ],
-    "options_ne": [
-      "सुख",
-      "पीडा",
-      "सजिलो",
-      "दुखाइ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'relief' means the same as 'comfort'.",
     "explanation_ne": "‘relief’ को अर्थ ‘comfort’ हो।",
@@ -21233,12 +19783,7 @@
       "Ease",
       "Comfort"
     ],
-    "options_ne": [
-      "दुखाइ",
-      "पीडा",
-      "सजिलो",
-      "सुख"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'relief' is 'distress'.",
     "explanation_ne": "‘relief’ को विलोम ‘distress’ हो।",
@@ -21338,12 +19883,7 @@
       "surprise",
       "vast"
     ],
-    "options_ne": [
-      "राहत",
-      "उदार",
-      "आश्चर्य",
-      "विशाल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'relief' means 'राहत'.",
     "explanation_ne": "‘relief’ को अर्थ ‘राहत’ हो।",
@@ -21373,12 +19913,7 @@
       "Ordinary",
       "Extraordinary"
     ],
-    "options_ne": [
-      "ध्यान दिनुपर्ने",
-      "सामान्य",
-      "साधारण",
-      "असाधारण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'remarkable' means the same as 'notable'.",
     "explanation_ne": "‘remarkable’ को अर्थ ‘notable’ हो।",
@@ -21443,12 +19978,7 @@
       "Extraordinary",
       "Common"
     ],
-    "options_ne": [
-      "ध्यान दिनुपर्ने",
-      "साधारण",
-      "असाधारण",
-      "सामान्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'remarkable' is 'ordinary'.",
     "explanation_ne": "‘remarkable’ को विलोम ‘ordinary’ हो।",
@@ -21548,12 +20078,7 @@
       "encourage",
       "remarkable"
     ],
-    "options_ne": [
-      "समर्पित हुनु",
-      "सम्पन्न गर्नु",
-      "प्रोत्साहन दिनु",
-      "उल्लेखनीय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'remarkable' means 'उल्लेखनीय'.",
     "explanation_ne": "‘remarkable’ को अर्थ ‘उल्लेखनीय’ हो।",
@@ -21583,12 +20108,7 @@
       "Careless",
       "Liable"
     ],
-    "options_ne": [
-      "गैरजिम्मेवार",
-      "उत्तरदायी",
-      "लापरवाह",
-      "दायी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'responsible' means the same as 'accountable'.",
     "explanation_ne": "‘responsible’ को अर्थ ‘accountable’ हो।",
@@ -21653,12 +20173,7 @@
       "Accountable",
       "Liable"
     ],
-    "options_ne": [
-      "गैरजिम्मेवार",
-      "लापरवाह",
-      "उत्तरदायी",
-      "दायी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'responsible' is 'irresponsible'.",
     "explanation_ne": "‘responsible’ को विलोम ‘irresponsible’ हो।",
@@ -21758,12 +20273,7 @@
       "proud",
       "respect"
     ],
-    "options_ne": [
-      "उग्र",
-      "जिम्मेवार",
-      "गर्वित",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'responsible' means 'जिम्मेवार'.",
     "explanation_ne": "‘responsible’ को अर्थ ‘जिम्मेवार’ हो।",
@@ -21793,12 +20303,7 @@
       "Revive",
       "Ruin"
     ],
-    "options_ne": [
-      "नवीकरण गर्नु",
-      "नष्ट गर्नु",
-      "पुनर्जीवित गर्नु",
-      "ध्वस्त गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'restore' means the same as 'renew'.",
     "explanation_ne": "‘restore’ को अर्थ ‘renew’ हो।",
@@ -21863,12 +20368,7 @@
       "Revive",
       "Destroy"
     ],
-    "options_ne": [
-      "ध्वस्त गर्नु",
-      "नवीकरण गर्नु",
-      "पुनर्जीवित गर्नु",
-      "नष्ट गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'restore' is 'destroy'.",
     "explanation_ne": "‘restore’ को विलोम ‘destroy’ हो।",
@@ -21968,12 +20468,7 @@
       "exaggerate",
       "sincere"
     ],
-    "options_ne": [
-      "सम्मान",
-      "पुनर्स्थापना गर्नु",
-      "बढाइचढाइ गर्नु",
-      "निष्ठावान्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'restore' means 'पुनर्स्थापना गर्नु'.",
     "explanation_ne": "‘restore’ को अर्थ ‘पुनर्स्थापना गर्नु’ हो।",
@@ -22003,12 +20498,7 @@
       "surprise",
       "rude"
     ],
-    "options_ne": [
-      "उदार",
-      "उत्कृष्ट",
-      "आश्चर्य",
-      "अशिष्ट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'rude' means 'अशिष्ट'.",
     "explanation_ne": "‘rude’ को अर्थ ‘अशिष्ट’ हो।",
@@ -22038,12 +20528,7 @@
       "Please",
       "Content"
     ],
-    "options_ne": [
-      "निराश पार्नु",
-      "रिस उठाउनु",
-      "खुसी पार्नु",
-      "सन्तुष्ट गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'satisfy' means the same as 'please'.",
     "explanation_ne": "‘satisfy’ को अर्थ ‘please’ हो।",
@@ -22108,12 +20593,7 @@
       "Please",
       "Annoy"
     ],
-    "options_ne": [
-      "सन्तुष्ट गर्नु",
-      "निराश पार्नु",
-      "खुसी पार्नु",
-      "रिस उठाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'satisfy' is 'disappoint'.",
     "explanation_ne": "‘satisfy’ को विलोम ‘disappoint’ हो।",
@@ -22213,12 +20693,7 @@
       "satisfy",
       "malicious"
     ],
-    "options_ne": [
-      "नैतिक",
-      "थकाउनु",
-      "सन्तुष्ट पार्नु",
-      "दुर्भावनापूर्ण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'satisfy' means 'सन्तुष्ट पार्नु'.",
     "explanation_ne": "‘satisfy’ को अर्थ ‘सन्तुष्ट पार्नु’ हो।",
@@ -22248,12 +20723,7 @@
       "Unsafe",
       "Vulnerable"
     ],
-    "options_ne": [
-      "रक्षित",
-      "सुरक्षित",
-      "असुरक्षित",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'secure' means the same as 'safe'.",
     "explanation_ne": "‘secure’ को अर्थ ‘safe’ हो।",
@@ -22318,12 +20788,7 @@
       "Unsafe",
       "Safe"
     ],
-    "options_ne": [
-      "रक्षित",
-      "कमजोर",
-      "असुरक्षित",
-      "सुरक्षित"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'secure' is 'unsafe'.",
     "explanation_ne": "‘secure’ को विलोम ‘unsafe’ हो।",
@@ -22423,12 +20888,7 @@
       "Pride",
       "Honour"
     ],
-    "options_ne": [
-      "लज्जा",
-      "अपमान",
-      "गर्व",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'shame' means the same as 'disgrace'.",
     "explanation_ne": "‘shame’ को अर्थ ‘disgrace’ हो।",
@@ -22493,12 +20953,7 @@
       "Embarrassment",
       "Honour"
     ],
-    "options_ne": [
-      "गर्व",
-      "अपमान",
-      "लज्जा",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'shame' is 'honour'.",
     "explanation_ne": "‘shame’ को विलोम ‘honour’ हो।",
@@ -22598,12 +21053,7 @@
       "flourish",
       "durable"
     ],
-    "options_ne": [
-      "लाज",
-      "ईर्ष्यालु",
-      "फस्टाउनु",
-      "टिकाउ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'shame' means 'लाज'.",
     "explanation_ne": "‘shame’ को अर्थ ‘लाज’ हो।",
@@ -22633,12 +21083,7 @@
       "alleviate",
       "abrupt"
     ],
-    "options_ne": [
-      "निष्ठावान्",
-      "थकान",
-      "कम गर्नु",
-      "अचानक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'sincere' means 'निष्ठावान्'.",
     "explanation_ne": "‘sincere’ को अर्थ ‘निष्ठावान्’ हो।",
@@ -22668,12 +21113,7 @@
       "Adept",
       "Unskilled"
     ],
-    "options_ne": [
-      "विज्ञ",
-      "भद्दा",
-      "निपुण",
-      "अदक्ष"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'skilful' means the same as 'expert'.",
     "explanation_ne": "‘skilful’ को अर्थ ‘expert’ हो।",
@@ -22738,12 +21178,7 @@
       "Unskilled",
       "Adept"
     ],
-    "options_ne": [
-      "भद्दा",
-      "विज्ञ",
-      "अदक्ष",
-      "निपुण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'skilful' is 'unskilled'.",
     "explanation_ne": "‘skilful’ को विलोम ‘unskilled’ हो।",
@@ -22843,12 +21278,7 @@
       "identical",
       "eternal"
     ],
-    "options_ne": [
-      "दक्ष",
-      "आज्ञाकारी",
-      "उस्तै",
-      "अनन्त"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'skilful' means 'दक्ष'.",
     "explanation_ne": "‘skilful’ को अर्थ ‘दक्ष’ हो।",
@@ -22878,12 +21308,7 @@
       "Glorious",
       "Dull"
     ],
-    "options_ne": [
-      "भव्य",
-      "साधारण",
-      "गौरवशाली",
-      "फिका"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'splendid' means the same as 'magnificent'.",
     "explanation_ne": "‘splendid’ को अर्थ ‘magnificent’ हो।",
@@ -22948,12 +21373,7 @@
       "Dull",
       "Magnificent"
     ],
-    "options_ne": [
-      "साधारण",
-      "गौरवशाली",
-      "फिका",
-      "भव्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'splendid' is 'dull'.",
     "explanation_ne": "‘splendid’ को विलोम ‘dull’ हो।",
@@ -23053,12 +21473,7 @@
       "principal",
       "disaster"
     ],
-    "options_ne": [
-      "बहुमूल्य",
-      "शानदार",
-      "मुख्य",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'splendid' means 'शानदार'.",
     "explanation_ne": "‘splendid’ को अर्थ ‘शानदार’ हो।",
@@ -23088,12 +21503,7 @@
       "Triumph",
       "Fail"
     ],
-    "options_ne": [
-      "हासिल गर्नु",
-      "हार्नु",
-      "विजय पाउनु",
-      "असफल हुनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'succeed' means the same as 'achieve'.",
     "explanation_ne": "‘succeed’ को अर्थ ‘achieve’ हो।",
@@ -23158,12 +21568,7 @@
       "Fail",
       "Achieve"
     ],
-    "options_ne": [
-      "हार्नु",
-      "विजय पाउनु",
-      "असफल हुनु",
-      "हासिल गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'succeed' is 'fail'.",
     "explanation_ne": "‘succeed’ को विलोम ‘fail’ हो।",
@@ -23263,12 +21668,7 @@
       "habit",
       "permit"
     ],
-    "options_ne": [
-      "सफल हुनु",
-      "शिष्ट",
-      "बानी",
-      "अनुमति दिनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'succeed' means 'सफल हुनु'.",
     "explanation_ne": "‘succeed’ को अर्थ ‘सफल हुनु’ हो।",
@@ -23298,12 +21698,7 @@
       "Expectation",
       "Boredom"
     ],
-    "options_ne": [
-      "आश्चर्य",
-      "चकितता",
-      "अपेक्षा",
-      "विरक्तता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'surprise' means the same as 'astonishment'.",
     "explanation_ne": "‘surprise’ को अर्थ ‘astonishment’ हो।",
@@ -23368,12 +21763,7 @@
       "Wonder",
       "Astonishment"
     ],
-    "options_ne": [
-      "विरक्तता",
-      "अपेक्षा",
-      "आश्चर्य",
-      "चकितता"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'surprise' is 'expectation'.",
     "explanation_ne": "‘surprise’ को विलोम ‘expectation’ हो।",
@@ -23473,12 +21863,7 @@
       "Confident",
       "Wary"
     ],
-    "options_ne": [
-      "सन्देहपूर्ण",
-      "विश्वास गर्ने",
-      "आत्मविश्वासी",
-      "सतर्क"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'suspicious' means the same as 'doubtful'.",
     "explanation_ne": "‘suspicious’ को अर्थ ‘doubtful’ हो।",
@@ -23543,12 +21928,7 @@
       "Trusting",
       "Confident"
     ],
-    "options_ne": [
-      "सतर्क",
-      "सन्देहपूर्ण",
-      "विश्वास गर्ने",
-      "आत्मविश्वासी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'suspicious' is 'trusting'.",
     "explanation_ne": "‘suspicious’ को विलोम ‘trusting’ हो।",
@@ -23648,12 +22028,7 @@
       "arrogant",
       "suspicious"
     ],
-    "options_ne": [
-      "उचित",
-      "जिज्ञासु",
-      "अहङ्कारी",
-      "शङ्कास्पद"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'suspicious' means 'शङ्कास्पद'.",
     "explanation_ne": "‘suspicious’ को अर्थ ‘शङ्कास्पद’ हो।",
@@ -23683,12 +22058,7 @@
       "Gentle",
       "Rough"
     ],
-    "options_ne": [
-      "कडा",
-      "नरम",
-      "कोमल",
-      "खस्रो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'tender' means the same as 'soft'.",
     "explanation_ne": "‘tender’ को अर्थ ‘soft’ हो।",
@@ -23753,12 +22123,7 @@
       "Soft",
       "Gentle"
     ],
-    "options_ne": [
-      "कडा",
-      "खस्रो",
-      "नरम",
-      "कोमल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'tender' is 'hard'.",
     "explanation_ne": "‘tender’ को विलोम ‘hard’ हो।",
@@ -23858,12 +22223,7 @@
       "fertile",
       "tender"
     ],
-    "options_ne": [
-      "बारम्बार",
-      "गरिबी",
-      "उर्वर",
-      "कोमल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'tender' means 'कोमल'.",
     "explanation_ne": "‘tender’ को अर्थ ‘कोमल’ हो।",
@@ -23893,12 +22253,7 @@
       "Awful",
       "Dreadful"
     ],
-    "options_ne": [
-      "अद्भुत",
-      "रमाइलो",
-      "डरलाग्दो",
-      "भयङ्कर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'terrible' means the same as 'awful'.",
     "explanation_ne": "‘terrible’ को अर्थ ‘awful’ हो।",
@@ -23963,12 +22318,7 @@
       "Pleasant",
       "Awful"
     ],
-    "options_ne": [
-      "अद्भुत",
-      "भयङ्कर",
-      "रमाइलो",
-      "डरलाग्दो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'terrible' is 'wonderful'.",
     "explanation_ne": "‘terrible’ को विलोम ‘wonderful’ हो।",
@@ -24068,12 +22418,7 @@
       "Economical",
       "Extravagant"
     ],
-    "options_ne": [
-      "फजुलखर्ची",
-      "मितव्ययी",
-      "किफायती",
-      "खर्चालु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'thrifty' means the same as 'economical'.",
     "explanation_ne": "‘thrifty’ को अर्थ ‘economical’ हो।",
@@ -24138,12 +22483,7 @@
       "Extravagant",
       "Frugal"
     ],
-    "options_ne": [
-      "फजुलखर्ची",
-      "किफायती",
-      "खर्चालु",
-      "मितव्ययी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'thrifty' is 'wasteful'.",
     "explanation_ne": "‘thrifty’ को विलोम ‘wasteful’ हो।",
@@ -24243,12 +22583,7 @@
       "Disaster",
       "Joy"
     ],
-    "options_ne": [
-      "विपत्ति",
-      "हास्य",
-      "प्रकोप",
-      "खुसी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'tragedy' means the same as 'disaster'.",
     "explanation_ne": "‘tragedy’ को अर्थ ‘disaster’ हो।",
@@ -24313,12 +22648,7 @@
       "Calamity",
       "Comedy"
     ],
-    "options_ne": [
-      "खुसी",
-      "प्रकोप",
-      "विपत्ति",
-      "हास्य"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'tragedy' is 'comedy'.",
     "explanation_ne": "‘tragedy’ को विलोम ‘comedy’ हो।",
@@ -24418,12 +22748,7 @@
       "dedicate",
       "reduce"
     ],
-    "options_ne": [
-      "दुर्भावनापूर्ण",
-      "दुःखद घटना",
-      "समर्पित गर्नु",
-      "घटाउनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'tragedy' means 'दुःखद घटना'.",
     "explanation_ne": "‘tragedy’ को अर्थ ‘दुःखद घटना’ हो।",
@@ -24558,12 +22883,7 @@
       "triumph",
       "transparent"
     ],
-    "options_ne": [
-      "निष्ठावान्",
-      "सोध्नु",
-      "विजय",
-      "पारदर्शी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'transparent' means 'पारदर्शी'.",
     "explanation_ne": "‘transparent’ को अर्थ ‘पारदर्शी’ हो।",
@@ -24593,12 +22913,7 @@
       "Success",
       "Defeat"
     ],
-    "options_ne": [
-      "असफलता",
-      "जित",
-      "सफलता",
-      "हार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'triumph' means the same as 'victory'.",
     "explanation_ne": "‘triumph’ को अर्थ ‘victory’ हो।",
@@ -24733,12 +23048,7 @@
       "Doubtful",
       "Unreliable"
     ],
-    "options_ne": [
-      "भरपर्दो",
-      "भरपर्ने",
-      "शङ्कास्पद",
-      "अविश्वसनीय"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'trustworthy' means the same as 'reliable'.",
     "explanation_ne": "‘trustworthy’ को अर्थ ‘reliable’ हो।",
@@ -24803,12 +23113,7 @@
       "Dependable",
       "Doubtful"
     ],
-    "options_ne": [
-      "भरपर्दो",
-      "अविश्वसनीय",
-      "भरपर्ने",
-      "शङ्कास्पद"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'trustworthy' is 'unreliable'.",
     "explanation_ne": "‘trustworthy’ को विलोम ‘unreliable’ हो।",
@@ -24908,12 +23213,7 @@
       "apparent",
       "recognise"
     ],
-    "options_ne": [
-      "विश्वसनीय",
-      "आनन्द",
-      "स्पष्ट",
-      "चिन्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'trustworthy' means 'विश्वसनीय'.",
     "explanation_ne": "‘trustworthy’ को अर्थ ‘विश्वसनीय’ हो।",
@@ -24943,12 +23243,7 @@
       "First",
       "Initial"
     ],
-    "options_ne": [
-      "अन्तिम",
-      "सर्वोच्च",
-      "पहिलो",
-      "प्रारम्भिक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'ultimate' means the same as 'final'.",
     "explanation_ne": "‘ultimate’ को अर्थ ‘final’ हो।",
@@ -25013,12 +23308,7 @@
       "Final",
       "Supreme"
     ],
-    "options_ne": [
-      "प्रारम्भिक",
-      "पहिलो",
-      "अन्तिम",
-      "सर्वोच्च"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'ultimate' is 'initial'.",
     "explanation_ne": "‘ultimate’ को विलोम ‘initial’ हो।",
@@ -25118,12 +23408,7 @@
       "ultimate",
       "jealous"
     ],
-    "options_ne": [
-      "बेवास्ता",
-      "रोग",
-      "अन्तिम",
-      "ईर्ष्यालु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'ultimate' means 'अन्तिम'.",
     "explanation_ne": "‘ultimate’ को अर्थ ‘अन्तिम’ हो।",
@@ -25153,12 +23438,7 @@
       "Split",
       "United"
     ],
-    "options_ne": [
-      "विभाजित",
-      "सहमत",
-      "फुटेको",
-      "एकजुट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'unanimous' means the same as 'agreed'.",
     "explanation_ne": "‘unanimous’ को अर्थ ‘agreed’ हो।",
@@ -25223,12 +23503,7 @@
       "Divided",
       "Agreed"
     ],
-    "options_ne": [
-      "फुटेको",
-      "एकजुट",
-      "विभाजित",
-      "सहमत"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'unanimous' is 'divided'.",
     "explanation_ne": "‘unanimous’ को विलोम ‘divided’ हो।",
@@ -25328,12 +23603,7 @@
       "splendid",
       "absurd"
     ],
-    "options_ne": [
-      "उत्कृष्ट",
-      "सर्वसम्मत",
-      "शानदार",
-      "बेतुका"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'unanimous' means 'सर्वसम्मत'.",
     "explanation_ne": "‘unanimous’ को अर्थ ‘सर्वसम्मत’ हो।",
@@ -25363,12 +23633,7 @@
       "Exclusive",
       "Common"
     ],
-    "options_ne": [
-      "एकल",
-      "साधारण",
-      "विशेष",
-      "सामान्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'unique' means the same as 'singular'.",
     "explanation_ne": "‘unique’ को अर्थ ‘singular’ हो।",
@@ -25433,12 +23698,7 @@
       "Exclusive",
       "Ordinary"
     ],
-    "options_ne": [
-      "एकल",
-      "सामान्य",
-      "विशेष",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'unique' is 'common'.",
     "explanation_ne": "‘unique’ को विलोम ‘common’ हो।",
@@ -25538,12 +23798,7 @@
       "arrogant",
       "unique"
     ],
-    "options_ne": [
-      "नियमित",
-      "अपमान",
-      "अहङ्कारी",
-      "अद्वितीय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'unique' means 'अद्वितीय'.",
     "explanation_ne": "‘unique’ को अर्थ ‘अद्वितीय’ हो।",
@@ -25573,12 +23828,7 @@
       "Unimportant",
       "Immediate"
     ],
-    "options_ne": [
-      "तत्काल",
-      "तुच्छ",
-      "महत्त्वहीन",
-      "तुरुन्त"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'urgent' means the same as 'pressing'.",
     "explanation_ne": "‘urgent’ को अर्थ ‘pressing’ हो।",
@@ -25643,12 +23893,7 @@
       "Trivial",
       "Immediate"
     ],
-    "options_ne": [
-      "महत्त्वहीन",
-      "तत्काल",
-      "तुच्छ",
-      "तुरुन्त"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'urgent' is 'unimportant'.",
     "explanation_ne": "‘urgent’ को विलोम ‘unimportant’ हो।",
@@ -25748,12 +23993,7 @@
       "trustworthy",
       "impatient"
     ],
-    "options_ne": [
-      "बाँझो",
-      "जरुरी",
-      "विश्वसनीय",
-      "अधीर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'urgent' means 'जरुरी'.",
     "explanation_ne": "‘urgent’ को अर्थ ‘जरुरी’ हो।",
@@ -25783,12 +24023,7 @@
       "Diverse",
       "Same"
     ],
-    "options_ne": [
-      "फरक",
-      "एकै खालको",
-      "विविध",
-      "उस्तै"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'various' means the same as 'diverse'.",
     "explanation_ne": "‘various’ को अर्थ ‘diverse’ हो।",
@@ -25853,12 +24088,7 @@
       "Same",
       "Diverse"
     ],
-    "options_ne": [
-      "एकै खालको",
-      "फरक",
-      "उस्तै",
-      "विविध"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "The opposite of 'various' is 'uniform'.",
     "explanation_ne": "‘various’ को विलोम ‘uniform’ हो।",
@@ -25958,12 +24188,7 @@
       "hunger",
       "reliable"
     ],
-    "options_ne": [
-      "विभिन्न",
-      "महत्त्वपूर्ण",
-      "भोक",
-      "भरपर्दो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'various' means 'विभिन्न'.",
     "explanation_ne": "‘various’ को अर्थ ‘विभिन्न’ हो।",
@@ -25993,12 +24218,7 @@
       "Tiny",
       "Immense"
     ],
-    "options_ne": [
-      "ठूलो",
-      "सूक्ष्म",
-      "सानो",
-      "विशाल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'vast' means the same as 'immense'.",
     "explanation_ne": "‘vast’ को अर्थ ‘immense’ हो।",
@@ -26063,12 +24283,7 @@
       "Tiny",
       "Minute"
     ],
-    "options_ne": [
-      "ठूलो",
-      "विशाल",
-      "सानो",
-      "सूक्ष्म"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'vast' is 'tiny'.",
     "explanation_ne": "‘vast’ को विलोम ‘tiny’ हो।",
@@ -26168,12 +24383,7 @@
       "Feeble",
       "Strong"
     ],
-    "options_ne": [
-      "कमजोर",
-      "सक्रिय",
-      "दुर्बल",
-      "बलियो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "'vigorous' means the same as 'energetic'.",
     "explanation_ne": "‘vigorous’ को अर्थ ‘energetic’ हो।",
@@ -26238,12 +24448,7 @@
       "Strong",
       "Weak"
     ],
-    "options_ne": [
-      "सक्रिय",
-      "दुर्बल",
-      "बलियो",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "The opposite of 'vigorous' is 'weak'.",
     "explanation_ne": "‘vigorous’ को विलोम ‘weak’ हो।",
@@ -26343,12 +24548,7 @@
       "embarrass",
       "predict"
     ],
-    "options_ne": [
-      "जोशिलो",
-      "दुष्ट",
-      "लज्जित पार्नु",
-      "पूर्वानुमान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'vigorous' means 'जोशिलो'.",
     "explanation_ne": "‘vigorous’ को अर्थ ‘जोशिलो’ हो।",
@@ -26378,12 +24578,7 @@
       "Morality",
       "Vice"
     ],
-    "options_ne": [
-      "असलता",
-      "खराबी",
-      "नैतिकता",
-      "दुर्गुण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'virtue' means the same as 'goodness'.",
     "explanation_ne": "‘virtue’ को अर्थ ‘goodness’ हो।",
@@ -26483,12 +24678,7 @@
       "Rich",
       "Affluent"
     ],
-    "options_ne": [
-      "खाँचो भएको",
-      "गरिब",
-      "धनी",
-      "सम्पन्न"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'wealthy' means the same as 'rich'.",
     "explanation_ne": "‘wealthy’ को अर्थ ‘rich’ हो।",
@@ -26553,12 +24743,7 @@
       "Affluent",
       "Needy"
     ],
-    "options_ne": [
-      "धनी",
-      "गरिब",
-      "सम्पन्न",
-      "खाँचो भएको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "The opposite of 'wealthy' is 'poor'.",
     "explanation_ne": "‘wealthy’ को विलोम ‘poor’ हो।",
@@ -26658,12 +24843,7 @@
       "Evil",
       "Sinful"
     ],
-    "options_ne": [
-      "सद्गुणी",
-      "असल",
-      "खराब",
-      "पापी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "'wicked' means the same as 'evil'.",
     "explanation_ne": "‘wicked’ को अर्थ ‘evil’ हो।",
@@ -26728,12 +24908,7 @@
       "Good",
       "Evil"
     ],
-    "options_ne": [
-      "पापी",
-      "सद्गुणी",
-      "असल",
-      "खराब"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "The opposite of 'wicked' is 'good'.",
     "explanation_ne": "‘wicked’ को विलोम ‘good’ हो।",
@@ -26833,12 +25008,7 @@
       "modest",
       "wicked"
     ],
-    "options_ne": [
-      "भयानक",
-      "उत्कृष्ट",
-      "नम्र",
-      "दुष्ट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'wicked' means 'दुष्ट'.",
     "explanation_ne": "‘wicked’ को अर्थ ‘दुष्ट’ हो।",
@@ -26868,12 +25038,7 @@
       "Insight",
       "Folly"
     ],
-    "options_ne": [
-      "ज्ञान",
-      "अज्ञानता",
-      "अन्तर्दृष्टि",
-      "मूर्खता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "'wisdom' means the same as 'knowledge'.",
     "explanation_ne": "‘wisdom’ को अर्थ ‘knowledge’ हो।",
@@ -27008,12 +25173,7 @@
       "terrible",
       "wisdom"
     ],
-    "options_ne": [
-      "अनुमान",
-      "बढाउनु",
-      "भयानक",
-      "बुद्धि"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "'wisdom' means 'बुद्धि'.",
     "explanation_ne": "‘wisdom’ को अर्थ ‘बुद्धि’ हो।",
@@ -37718,12 +35878,7 @@
       "Poet",
       "Claustrophobic"
     ],
-    "options_ne": [
-      "गुम्बा",
-      "सर्वज्ञ",
-      "कवि",
-      "बन्द ठाउँबाट डराउने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who knows everything is called a Omniscient.",
     "explanation_ne": "‘One who knows everything’ भन्ने अर्थ भएको शब्द सर्वज्ञ (Omniscient) हो।",
@@ -37753,12 +35908,7 @@
       "Vegetarian",
       "Polytheist"
     ],
-    "options_ne": [
-      "सर्वव्यापी",
-      "नौसिखिया",
-      "शाकाहारी",
-      "बहुदेववादी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who is present everywhere is called a Omnipresent.",
     "explanation_ne": "‘One who is present everywhere’ भन्ने अर्थ भएको शब्द सर्वव्यापी (Omnipresent) हो।",
@@ -37788,12 +35938,7 @@
       "Military rule",
       "Omnipotent"
     ],
-    "options_ne": [
-      "अनाथालय",
-      "निरङ्कुश शासन",
-      "सैनिक शासन",
-      "सर्वशक्तिमान्"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who can do everything is called a Omnipotent.",
     "explanation_ne": "‘One who can do everything’ भन्ने अर्थ भएको शब्द सर्वशक्तिमान् (Omnipotent) हो।",
@@ -37823,12 +35968,7 @@
       "Omnivorous",
       "Insolvent"
     ],
-    "options_ne": [
-      "सिकर्मी",
-      "कीटविद्",
-      "सर्वभक्षी",
-      "दिवालिया"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who eats everything is called a Omnivorous.",
     "explanation_ne": "‘One who eats everything’ भन्ने अर्थ भएको शब्द सर्वभक्षी (Omnivorous) हो।",
@@ -37858,12 +35998,7 @@
       "Taciturn",
       "Vegetarian"
     ],
-    "options_ne": [
-      "फूल बेच्ने",
-      "कवि",
-      "कम बोल्ने",
-      "शाकाहारी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who eats only vegetables is called a Vegetarian.",
     "explanation_ne": "‘One who eats only vegetables’ भन्ने अर्थ भएको शब्द शाकाहारी (Vegetarian) हो।",
@@ -37893,12 +36028,7 @@
       "Carnivorous",
       "Garrulous"
     ],
-    "options_ne": [
-      "एकेश्वरवादी",
-      "दुवै हात समान रूपमा चलाउन सक्ने",
-      "मांसाहारी",
-      "बकवादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who eats only meat is called a Carnivorous.",
     "explanation_ne": "‘One who eats only meat’ भन्ने अर्थ भएको शब्द मांसाहारी (Carnivorous) हो।",
@@ -37928,12 +36058,7 @@
       "Botanist",
       "Journalist"
     ],
-    "options_ne": [
-      "सर्वभक्षी",
-      "निरङ्कुश शासन",
-      "वनस्पतिशास्त्री",
-      "पत्रकार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who eats both plants and animals is called a Omnivore.",
     "explanation_ne": "‘One who eats both plants and animals’ भन्ने अर्थ भएको शब्द सर्वभक्षी (Omnivore) हो।",
@@ -37963,12 +36088,7 @@
       "Philanthropist",
       "Patriot"
     ],
-    "options_ne": [
-      "माकुराबाट डराउने",
-      "ज्योतिषी",
-      "परोपकारी",
-      "देशभक्त"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who loves mankind is called a Philanthropist.",
     "explanation_ne": "‘One who loves mankind’ भन्ने अर्थ भएको शब्द परोपकारी (Philanthropist) हो।",
@@ -37998,12 +36118,7 @@
       "Botanical garden",
       "Vegetarian"
     ],
-    "options_ne": [
-      "ढिलो गर्ने",
-      "देशभक्त",
-      "वनस्पति उद्यान",
-      "शाकाहारी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who loves his country is called a Patriot.",
     "explanation_ne": "‘One who loves his country’ भन्ने अर्थ भएको शब्द देशभक्त (Patriot) हो।",
@@ -38033,12 +36148,7 @@
       "Hermit",
       "Melophile"
     ],
-    "options_ne": [
-      "औषधि बेच्ने",
-      "वनस्पति उद्यान",
-      "एकान्तवासी",
-      "सङ्गीतप्रेमी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who lives alone is called a Hermit.",
     "explanation_ne": "‘One who lives alone’ भन्ने अर्थ भएको शब्द एकान्तवासी (Hermit) हो।",
@@ -38068,12 +36178,7 @@
       "Hermit",
       "Polyglot"
     ],
-    "options_ne": [
-      "बकबके",
-      "चरा घर",
-      "एकान्तवासी",
-      "बहुभाषी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who speaks many languages is called a Polyglot.",
     "explanation_ne": "‘One who speaks many languages’ भन्ने अर्थ भएको शब्द बहुभाषी (Polyglot) हो।",
@@ -38103,12 +36208,7 @@
       "Hangar",
       "Florist"
     ],
-    "options_ne": [
-      "द्विभाषी",
-      "फूलप्रेमी",
-      "ह्याङ्गर",
-      "फूल बेच्ने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who speaks two languages is called a Bilingual.",
     "explanation_ne": "‘One who speaks two languages’ भन्ने अर्थ भएको शब्द द्विभाषी (Bilingual) हो।",
@@ -38138,12 +36238,7 @@
       "Monastery",
       "Reservoir"
     ],
-    "options_ne": [
-      "लेखक",
-      "ह्याङ्गर",
-      "गुम्बा",
-      "जलाशय"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who writes books is called a Author.",
     "explanation_ne": "‘One who writes books’ भन्ने अर्थ भएको शब्द लेखक (Author) हो।",
@@ -38173,12 +36268,7 @@
       "Nyctophobic",
       "Autocracy"
     ],
-    "options_ne": [
-      "कवि",
-      "मांसाहारी",
-      "अँधेरोबाट डराउने",
-      "निरङ्कुश शासन"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who writes poems is called a Poet.",
     "explanation_ne": "‘One who writes poems’ भन्ने अर्थ भएको शब्द कवि (Poet) हो।",
@@ -38208,12 +36298,7 @@
       "Doctor",
       "Jurist"
     ],
-    "options_ne": [
-      "भोको",
-      "नाटककार",
-      "डाक्टर",
-      "कानुनविद्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who writes plays is called a Playwright.",
     "explanation_ne": "‘One who writes plays’ भन्ने अर्थ भएको शब्द नाटककार (Playwright) हो।",
@@ -38243,12 +36328,7 @@
       "Journalist",
       "Barracks"
     ],
-    "options_ne": [
-      "मांसाहारी",
-      "सर्वव्यापी",
-      "पत्रकार",
-      "ब्यारेक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who writes for newspapers is called a Journalist.",
     "explanation_ne": "‘One who writes for newspapers’ भन्ने अर्थ भएको शब्द पत्रकार (Journalist) हो।",
@@ -38278,12 +36358,7 @@
       "Doctor",
       "Monotheist"
     ],
-    "options_ne": [
-      "निरक्षर",
-      "चिहान",
-      "डाक्टर",
-      "एकेश्वरवादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who treats the sick is called a Doctor.",
     "explanation_ne": "‘One who treats the sick’ भन्ने अर्थ भएको शब्द डाक्टर (Doctor) हो।",
@@ -38313,12 +36388,7 @@
       "Author",
       "Zoo"
     ],
-    "options_ne": [
-      "नाटककार",
-      "रोटी बनाउने",
-      "लेखक",
-      "चिडियाखाना"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who makes bread is called a Baker.",
     "explanation_ne": "‘One who makes bread’ भन्ने अर्थ भएको शब्द रोटी बनाउने (Baker) हो।",
@@ -38348,12 +36418,7 @@
       "Cobbler",
       "Anthophile"
     ],
-    "options_ne": [
-      "परोपकारी",
-      "बन्द ठाउँबाट डराउने",
-      "जुत्ता बनाउने",
-      "फूलप्रेमी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who makes shoes is called a Cobbler.",
     "explanation_ne": "‘One who makes shoes’ भन्ने अर्थ भएको शब्द जुत्ता बनाउने (Cobbler) हो।",
@@ -38383,12 +36448,7 @@
       "Hangar",
       "Polytheist"
     ],
-    "options_ne": [
-      "प्राणीशास्त्री",
-      "सिकर्मी",
-      "ह्याङ्गर",
-      "बहुदेववादी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who makes furniture is called a Carpenter.",
     "explanation_ne": "‘One who makes furniture’ भन्ने अर्थ भएको शब्द सिकर्मी (Carpenter) हो।",
@@ -38418,12 +36478,7 @@
       "Crematorium",
       "Convent"
     ],
-    "options_ne": [
-      "पत्रकार",
-      "दर्जी",
-      "शवदाह गृह",
-      "कन्भेन्ट"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who makes clothes is called a Tailor.",
     "explanation_ne": "‘One who makes clothes’ भन्ने अर्थ भएको शब्द दर्जी (Tailor) हो।",
@@ -38453,12 +36508,7 @@
       "Potter",
       "Library"
     ],
-    "options_ne": [
-      "फूल बेच्ने",
-      "चरा घर",
-      "कुमाले",
-      "पुस्तकालय"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who makes pots is called a Potter.",
     "explanation_ne": "‘One who makes pots’ भन्ने अर्थ भएको शब्द कुमाले (Potter) हो।",
@@ -38488,12 +36538,7 @@
       "Theocracy",
       "Florist"
     ],
-    "options_ne": [
-      "सैनिक शासन",
-      "गोठ",
-      "धर्मतन्त्र",
-      "फूल बेच्ने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who sells flowers is called a Florist.",
     "explanation_ne": "‘One who sells flowers’ भन्ने अर्थ भएको शब्द फूल बेच्ने (Florist) हो।",
@@ -38523,12 +36568,7 @@
       "Anarchist",
       "Theatre"
     ],
-    "options_ne": [
-      "किताब बेच्ने",
-      "शताब्दीजीवी",
-      "अराजकतावादी",
-      "रङ्गमञ्च"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who sells books is called a Bookseller.",
     "explanation_ne": "‘One who sells books’ भन्ने अर्थ भएको शब्द किताब बेच्ने (Bookseller) हो।",
@@ -38558,12 +36598,7 @@
       "Monastery",
       "Cemetery"
     ],
-    "options_ne": [
-      "अर्थशास्त्री",
-      "औषधि बेच्ने",
-      "गुम्बा",
-      "चिहान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who sells medicines is called a Pharmacist.",
     "explanation_ne": "‘One who sells medicines’ भन्ने अर्थ भएको शब्द औषधि बेच्ने (Pharmacist) हो।",
@@ -38593,12 +36628,7 @@
       "Author",
       "Astronomer"
     ],
-    "options_ne": [
-      "ज्योतिषी",
-      "पुस्तकालय",
-      "लेखक",
-      "खगोलशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who studies the stars is called a Astronomer.",
     "explanation_ne": "‘One who studies the stars’ भन्ने अर्थ भएको शब्द खगोलशास्त्री (Astronomer) हो।",
@@ -38628,12 +36658,7 @@
       "Gullible",
       "Apiary"
     ],
-    "options_ne": [
-      "ज्योतिषी",
-      "कामको लत लागेको",
-      "सजिलै ठगिने",
-      "मौरी घर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who studies the stars and predicts the future is called a Astrologer.",
     "explanation_ne": "‘One who studies the stars and predicts the future’ भन्ने अर्थ भएको शब्द ज्योतिषी (Astrologer) हो।",
@@ -38663,12 +36688,7 @@
       "Fastidious",
       "Zoologist"
     ],
-    "options_ne": [
-      "पत्रकार",
-      "पक्षीविद्",
-      "कठिन सन्तुष्ट पार्न सकिने",
-      "प्राणीशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who studies birds is called a Ornithologist.",
     "explanation_ne": "‘One who studies birds’ भन्ने अर्थ भएको शब्द पक्षीविद् (Ornithologist) हो।",
@@ -38698,12 +36718,7 @@
       "Hydrophobic",
       "Irritable"
     ],
-    "options_ne": [
-      "अज्ञेयवादी",
-      "कीटविद्",
-      "पानीसँग डराउने",
-      "चाँडै रिसाउने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who studies insects is called a Entomologist.",
     "explanation_ne": "‘One who studies insects’ भन्ने अर्थ भएको शब्द कीटविद् (Entomologist) हो।",
@@ -38733,12 +36748,7 @@
       "Zoo",
       "Benevolent"
     ],
-    "options_ne": [
-      "प्राणीशास्त्री",
-      "मनोवैज्ञानिक",
-      "चिडियाखाना",
-      "परोपकारी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who studies animals is called a Zoologist.",
     "explanation_ne": "‘One who studies animals’ भन्ने अर्थ भएको शब्द प्राणीशास्त्री (Zoologist) हो।",
@@ -38768,12 +36778,7 @@
       "Botanist",
       "Hangar"
     ],
-    "options_ne": [
-      "अज्ञेयवादी",
-      "फूल बेच्ने",
-      "वनस्पतिशास्त्री",
-      "ह्याङ्गर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who studies plants is called a Botanist.",
     "explanation_ne": "‘One who studies plants’ भन्ने अर्थ भएको शब्द वनस्पतिशास्त्री (Botanist) हो।",
@@ -38803,12 +36808,7 @@
       "Geologist",
       "Bureaucracy"
     ],
-    "options_ne": [
-      "दुवै हात समान रूपमा चलाउन सक्ने",
-      "सर्वभक्षी",
-      "भूगर्भशास्त्री",
-      "नोकरशाही"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who studies the earth is called a Geologist.",
     "explanation_ne": "‘One who studies the earth’ भन्ने अर्थ भएको शब्द भूगर्भशास्त्री (Geologist) हो।",
@@ -38838,12 +36838,7 @@
       "Hospital",
       "Malevolent"
     ],
-    "options_ne": [
-      "बहुभाषी",
-      "मौसमविद्",
-      "अस्पताल",
-      "दुर्भावनापूर्ण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who studies the weather is called a Meteorologist.",
     "explanation_ne": "‘One who studies the weather’ भन्ने अर्थ भएको शब्द मौसमविद् (Meteorologist) हो।",
@@ -38873,12 +36868,7 @@
       "Historian",
       "Petrologist"
     ],
-    "options_ne": [
-      "धनिकतन्त्र",
-      "धोबीघाट",
-      "इतिहासकार",
-      "शैलविद्"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who studies the past is called a Historian.",
     "explanation_ne": "‘One who studies the past’ भन्ने अर्थ भएको शब्द इतिहासकार (Historian) हो।",
@@ -38908,12 +36898,7 @@
       "Linguist",
       "Irascible"
     ],
-    "options_ne": [
-      "पत्रकार",
-      "फूलप्रेमी",
-      "भाषाविद्",
-      "चाँडै रिसाउने"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who studies language is called a Linguist.",
     "explanation_ne": "‘One who studies language’ भन्ने अर्थ भएको शब्द भाषाविद् (Linguist) हो।",
@@ -38943,12 +36928,7 @@
       "Ornithologist",
       "Tardy"
     ],
-    "options_ne": [
-      "सुँगुरको खोर",
-      "मनोवैज्ञानिक",
-      "पक्षीविद्",
-      "ढिलो गर्ने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who studies the mind is called a Psychologist.",
     "explanation_ne": "‘One who studies the mind’ भन्ने अर्थ भएको शब्द मनोवैज्ञानिक (Psychologist) हो।",
@@ -38978,12 +36958,7 @@
       "Sociologist",
       "Sensitive"
     ],
-    "options_ne": [
-      "दर्जी",
-      "मौरी घर",
-      "समाजशास्त्री",
-      "संवेदनशील"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "One who studies society is called a Sociologist.",
     "explanation_ne": "‘One who studies society’ भन्ने अर्थ भएको शब्द समाजशास्त्री (Sociologist) हो।",
@@ -39013,12 +36988,7 @@
       "Taciturn",
       "Economist"
     ],
-    "options_ne": [
-      "अज्ञेयवादी",
-      "आत्मप्रेमी",
-      "कम बोल्ने",
-      "अर्थशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "One who studies economics is called a Economist.",
     "explanation_ne": "‘One who studies economics’ भन्ने अर्थ भएको शब्द अर्थशास्त्री (Economist) हो।",
@@ -39048,12 +37018,7 @@
       "Hostel",
       "Monastery"
     ],
-    "options_ne": [
-      "कानुनविद्",
-      "सर्वभक्षी",
-      "छात्रावास",
-      "गुम्बा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "One who studies law is called a Jurist.",
     "explanation_ne": "‘One who studies law’ भन्ने अर्थ भएको शब्द कानुनविद् (Jurist) हो।",
@@ -39083,12 +37048,7 @@
       "Armoury",
       "Plutocracy"
     ],
-    "options_ne": [
-      "कुकुरको घर",
-      "शैलविद्",
-      "हतियार घर",
-      "धनिकतन्त्र"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "One who studies rocks is called a Petrologist.",
     "explanation_ne": "‘One who studies rocks’ भन्ने अर्थ भएको शब्द शैलविद् (Petrologist) हो।",
@@ -39118,12 +37078,7 @@
       "Insolvent",
       "Serene"
     ],
-    "options_ne": [
-      "भोको",
-      "शवदाह गृह",
-      "दिवालिया",
-      "शान्त"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who is unable to pay debts is called a Insolvent.",
     "explanation_ne": "‘A person who is unable to pay debts’ भन्ने अर्थ भएको शब्द दिवालिया (Insolvent) हो।",
@@ -39153,12 +37108,7 @@
       "Illiterate",
       "Aviary"
     ],
-    "options_ne": [
-      "पानीसँग डराउने",
-      "सर्वभक्षी",
-      "निरक्षर",
-      "चरा घर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who is unable to read and write is called a Illiterate.",
     "explanation_ne": "‘A person who is unable to read and write’ भन्ने अर्थ भएको शब्द निरक्षर (Illiterate) हो।",
@@ -39188,12 +37138,7 @@
       "Meteorologist",
       "Loquacious"
     ],
-    "options_ne": [
-      "साक्षर",
-      "दर्जी",
-      "मौसमविद्",
-      "बकबके"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who can read and write is called a Literate.",
     "explanation_ne": "‘A person who can read and write’ भन्ने अर्थ भएको शब्द साक्षर (Literate) हो।",
@@ -39223,12 +37168,7 @@
       "Anarchist",
       "Cowshed"
     ],
-    "options_ne": [
-      "नौसिखिया",
-      "निराशावादी",
-      "अराजकतावादी",
-      "गोठ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is new to a profession is called a Novice.",
     "explanation_ne": "‘A person who is new to a profession’ भन्ने अर्थ भएको शब्द नौसिखिया (Novice) हो।",
@@ -39258,12 +37198,7 @@
       "Psychologist",
       "Veteran"
     ],
-    "options_ne": [
-      "भोको",
-      "संवेदनशील",
-      "मनोवैज्ञानिक",
-      "अनुभवी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is very experienced is called a Veteran.",
     "explanation_ne": "‘A person who is very experienced’ भन्ने अर्थ भएको शब्द अनुभवी (Veteran) हो।",
@@ -39293,12 +37228,7 @@
       "Glutton",
       "Millionaire"
     ],
-    "options_ne": [
-      "माकुराबाट डराउने",
-      "परोपकारी",
-      "भोको",
-      "करोडपति"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is very rich is called a Millionaire.",
     "explanation_ne": "‘A person who is very rich’ भन्ने अर्थ भएको शब्द करोडपति (Millionaire) हो।",
@@ -39328,12 +37258,7 @@
       "Unpunctual",
       "Egoist"
     ],
-    "options_ne": [
-      "दरिद्र",
-      "चाँडै रिसाउने",
-      "समय नपाल्ने",
-      "स्वार्थी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is very poor is called a Pauper.",
     "explanation_ne": "‘A person who is very poor’ भन्ने अर्थ भएको शब्द दरिद्र (Pauper) हो।",
@@ -39363,12 +37288,7 @@
       "Unpunctual",
       "Centenarian"
     ],
-    "options_ne": [
-      "पानीसँग डराउने",
-      "परोपकारी",
-      "समय नपाल्ने",
-      "शताब्दीजीवी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is very old is called a Centenarian.",
     "explanation_ne": "‘A person who is very old’ भन्ने अर्थ भएको शब्द शताब्दीजीवी (Centenarian) हो।",
@@ -39398,12 +37318,7 @@
       "Economist",
       "Omnivorous"
     ],
-    "options_ne": [
-      "नाटककार",
-      "शताब्दीजीवी",
-      "अर्थशास्त्री",
-      "सर्वभक्षी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who lives a hundred years is called a Centenarian.",
     "explanation_ne": "‘A person who lives a hundred years’ भन्ने अर्थ भएको शब्द शताब्दीजीवी (Centenarian) हो।",
@@ -39433,12 +37348,7 @@
       "Autocracy",
       "Aquarium"
     ],
-    "options_ne": [
-      "थाकेको",
-      "दर्जी",
-      "निरङ्कुश शासन",
-      "माछा घर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where fish are kept is called a Aquarium.",
     "explanation_ne": "‘A place where fish are kept’ भन्ने अर्थ भएको शब्द माछा घर (Aquarium) हो।",
@@ -39468,12 +37378,7 @@
       "Zoo",
       "Bookseller"
     ],
-    "options_ne": [
-      "हतियार घर",
-      "भीडतन्त्र",
-      "चिडियाखाना",
-      "किताब बेच्ने"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A place where animals are kept is called a Zoo.",
     "explanation_ne": "‘A place where animals are kept’ भन्ने अर्थ भएको शब्द चिडियाखाना (Zoo) हो।",
@@ -39503,12 +37408,7 @@
       "Omniscient",
       "Library"
     ],
-    "options_ne": [
-      "कवि",
-      "मनोवैज्ञानिक",
-      "सर्वज्ञ",
-      "पुस्तकालय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where books are kept is called a Library.",
     "explanation_ne": "‘A place where books are kept’ भन्ने अर्थ भएको शब्द पुस्तकालय (Library) हो।",
@@ -39538,12 +37438,7 @@
       "Serene",
       "Armoury"
     ],
-    "options_ne": [
-      "थाकेको",
-      "पत्रकार",
-      "शान्त",
-      "हतियार घर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where weapons are kept is called a Armoury.",
     "explanation_ne": "‘A place where weapons are kept’ भन्ने अर्थ भएको शब्द हतियार घर (Armoury) हो।",
@@ -39573,12 +37468,7 @@
       "Winery",
       "Monastery"
     ],
-    "options_ne": [
-      "धनिकतन्त्र",
-      "दरिद्र",
-      "मदिरा कारखाना",
-      "गुम्बा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where monks live is called a Monastery.",
     "explanation_ne": "‘A place where monks live’ भन्ने अर्थ भएको शब्द गुम्बा (Monastery) हो।",
@@ -39608,12 +37498,7 @@
       "Hospital",
       "Bureaucracy"
     ],
-    "options_ne": [
-      "कन्भेन्ट",
-      "छात्रावास",
-      "अस्पताल",
-      "नोकरशाही"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where nuns live is called a Convent.",
     "explanation_ne": "‘A place where nuns live’ भन्ने अर्थ भएको शब्द कन्भेन्ट (Convent) हो।",
@@ -39643,12 +37528,7 @@
       "Botanist",
       "Meteorologist"
     ],
-    "options_ne": [
-      "अनाथालय",
-      "परोपकारी",
-      "वनस्पतिशास्त्री",
-      "मौसमविद्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where orphans live is called a Orphanage.",
     "explanation_ne": "‘A place where orphans live’ भन्ने अर्थ भएको शब्द अनाथालय (Orphanage) हो।",
@@ -39678,12 +37558,7 @@
       "Hospital",
       "Monastery"
     ],
-    "options_ne": [
-      "राजतन्त्र",
-      "बकवादी",
-      "अस्पताल",
-      "गुम्बा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A place where the sick are treated is called a Hospital.",
     "explanation_ne": "‘A place where the sick are treated’ भन्ने अर्थ भएको शब्द अस्पताल (Hospital) हो।",
@@ -39713,12 +37588,7 @@
       "Bibliophile",
       "Insolvent"
     ],
-    "options_ne": [
-      "नास्तिक",
-      "बेकरी",
-      "पुस्तकप्रेमी",
-      "दिवालिया"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A place where bread is baked is called a Bakery.",
     "explanation_ne": "‘A place where bread is baked’ भन्ने अर्थ भएको शब्द बेकरी (Bakery) हो।",
@@ -39748,12 +37618,7 @@
       "Pauper",
       "Laundry"
     ],
-    "options_ne": [
-      "एकेश्वरवादी",
-      "चरा घर",
-      "दरिद्र",
-      "धोबीघाट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where clothes are washed is called a Laundry.",
     "explanation_ne": "‘A place where clothes are washed’ भन्ने अर्थ भएको शब्द धोबीघाट (Laundry) हो।",
@@ -39783,12 +37648,7 @@
       "Patriot",
       "Omnivorous"
     ],
-    "options_ne": [
-      "सिनेमा हल",
-      "आत्मप्रेमी",
-      "देशभक्त",
-      "सर्वभक्षी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where films are shown is called a Cinema.",
     "explanation_ne": "‘A place where films are shown’ भन्ने अर्थ भएको शब्द सिनेमा हल (Cinema) हो।",
@@ -39818,12 +37678,7 @@
       "Theatre",
       "Fastidious"
     ],
-    "options_ne": [
-      "कन्भेन्ट",
-      "सङ्गीतप्रेमी",
-      "रङ्गमञ्च",
-      "कठिन सन्तुष्ट पार्न सकिने"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A place where plays are performed is called a Theatre.",
     "explanation_ne": "‘A place where plays are performed’ भन्ने अर्थ भएको शब्द रङ्गमञ्च (Theatre) हो।",
@@ -39853,12 +37708,7 @@
       "Hermit",
       "Punctual"
     ],
-    "options_ne": [
-      "गोदाम",
-      "नास्तिक",
-      "एकान्तवासी",
-      "समयपालक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where goods are stored is called a Warehouse.",
     "explanation_ne": "‘A place where goods are stored’ भन्ने अर्थ भएको शब्द गोदाम (Warehouse) हो।",
@@ -39888,12 +37738,7 @@
       "Winery",
       "Plutocracy"
     ],
-    "options_ne": [
-      "कवि",
-      "ह्याङ्गर",
-      "मदिरा कारखाना",
-      "धनिकतन्त्र"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A place where wine is made is called a Winery.",
     "explanation_ne": "‘A place where wine is made’ भन्ने अर्थ भएको शब्द मदिरा कारखाना (Winery) हो।",
@@ -39923,12 +37768,7 @@
       "Botanical garden",
       "Apiary"
     ],
-    "options_ne": [
-      "कुमाले",
-      "चिहान",
-      "वनस्पति उद्यान",
-      "मौरी घर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A place where plants are grown for study is called a Botanical garden.",
     "explanation_ne": "‘A place where plants are grown for study’ भन्ने अर्थ भएको शब्द वनस्पति उद्यान (Botanical garden) हो।",
@@ -39958,12 +37798,7 @@
       "Workaholic",
       "Irascible"
     ],
-    "options_ne": [
-      "चिहान",
-      "गोठ",
-      "कामको लत लागेको",
-      "चाँडै रिसाउने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where the dead are buried is called a Cemetery.",
     "explanation_ne": "‘A place where the dead are buried’ भन्ने अर्थ भएको शब्द चिहान (Cemetery) हो।",
@@ -39993,12 +37828,7 @@
       "Linguist",
       "Crematorium"
     ],
-    "options_ne": [
-      "भीडतन्त्र",
-      "फूलप्रेमी",
-      "भाषाविद्",
-      "शवदाह गृह"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where the dead are cremated is called a Crematorium.",
     "explanation_ne": "‘A place where the dead are cremated’ भन्ने अर्थ भएको शब्द शवदाह गृह (Crematorium) हो।",
@@ -40028,12 +37858,7 @@
       "Bookseller",
       "Economist"
     ],
-    "options_ne": [
-      "जहाज निर्माण स्थल",
-      "चाँडै रिसाउने",
-      "किताब बेच्ने",
-      "अर्थशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where ships are built is called a Shipyard.",
     "explanation_ne": "‘A place where ships are built’ भन्ने अर्थ भएको शब्द जहाज निर्माण स्थल (Shipyard) हो।",
@@ -40063,12 +37888,7 @@
       "Laundry",
       "Centenarian"
     ],
-    "options_ne": [
-      "समाजशास्त्री",
-      "ह्याङ्गर",
-      "धोबीघाट",
-      "शताब्दीजीवी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A place where aircraft are kept is called a Hangar.",
     "explanation_ne": "‘A place where aircraft are kept’ भन्ने अर्थ भएको शब्द ह्याङ्गर (Hangar) हो।",
@@ -40098,12 +37918,7 @@
       "Pharmacist",
       "Workaholic"
     ],
-    "options_ne": [
-      "अस्तबल",
-      "अराजकतावादी",
-      "औषधि बेच्ने",
-      "कामको लत लागेको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where horses are kept is called a Stable.",
     "explanation_ne": "‘A place where horses are kept’ भन्ने अर्थ भएको शब्द अस्तबल (Stable) हो।",
@@ -40133,12 +37948,7 @@
       "Theist",
       "Ornithologist"
     ],
-    "options_ne": [
-      "गोदाम",
-      "गोठ",
-      "आस्तिक",
-      "पक्षीविद्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A place where cows are kept is called a Cowshed.",
     "explanation_ne": "‘A place where cows are kept’ भन्ने अर्थ भएको शब्द गोठ (Cowshed) हो।",
@@ -40168,12 +37978,7 @@
       "Geologist",
       "Doctor"
     ],
-    "options_ne": [
-      "सुँगुरको खोर",
-      "फूलप्रेमी",
-      "भूगर्भशास्त्री",
-      "डाक्टर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where pigs are kept is called a Sty.",
     "explanation_ne": "‘A place where pigs are kept’ भन्ने अर्थ भएको शब्द सुँगुरको खोर (Sty) हो।",
@@ -40203,12 +38008,7 @@
       "Vegetarian",
       "Botanist"
     ],
-    "options_ne": [
-      "भूगर्भशास्त्री",
-      "कुकुरको घर",
-      "शाकाहारी",
-      "वनस्पतिशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A place where dogs are kept is called a Kennel.",
     "explanation_ne": "‘A place where dogs are kept’ भन्ने अर्थ भएको शब्द कुकुरको घर (Kennel) हो।",
@@ -40238,12 +38038,7 @@
       "Armoury",
       "Barracks"
     ],
-    "options_ne": [
-      "शाकाहारी",
-      "देशभक्त",
-      "हतियार घर",
-      "ब्यारेक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where soldiers live is called a Barracks.",
     "explanation_ne": "‘A place where soldiers live’ भन्ने अर्थ भएको शब्द ब्यारेक (Barracks) हो।",
@@ -40273,12 +38068,7 @@
       "Orphanage",
       "Granary"
     ],
-    "options_ne": [
-      "एकान्तवासी",
-      "छात्रावास",
-      "अनाथालय",
-      "अन्न भण्डार"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A place where students live is called a Hostel.",
     "explanation_ne": "‘A place where students live’ भन्ने अर्थ भएको शब्द छात्रावास (Hostel) हो।",
@@ -40308,12 +38098,7 @@
       "Philanthropist",
       "Mortuary"
     ],
-    "options_ne": [
-      "सराय",
-      "बहुदेववादी",
-      "परोपकारी",
-      "मुर्दा घर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where travellers stay is called a Inn.",
     "explanation_ne": "‘A place where travellers stay’ भन्ने अर्थ भएको शब्द सराय (Inn) हो।",
@@ -40343,12 +38128,7 @@
       "Agnostic",
       "Reservoir"
     ],
-    "options_ne": [
-      "शैलविद्",
-      "सुँगुरको खोर",
-      "अज्ञेयवादी",
-      "जलाशय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A place where water is stored is called a Reservoir.",
     "explanation_ne": "‘A place where water is stored’ भन्ने अर्थ भएको शब्द जलाशय (Reservoir) हो।",
@@ -40378,12 +38158,7 @@
       "Altruist",
       "Omnipotent"
     ],
-    "options_ne": [
-      "अन्न भण्डार",
-      "नाटककार",
-      "परोपकारी",
-      "सर्वशक्तिमान्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A place where grain is stored is called a Granary.",
     "explanation_ne": "‘A place where grain is stored’ भन्ने अर्थ भएको शब्द अन्न भण्डार (Granary) हो।",
@@ -40413,12 +38188,7 @@
       "Doctor",
       "Fastidious"
     ],
-    "options_ne": [
-      "दुवै हात समान रूपमा चलाउन सक्ने",
-      "प्रजातन्त्र",
-      "डाक्टर",
-      "कठिन सन्तुष्ट पार्न सकिने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A government by the people is called a Democracy.",
     "explanation_ne": "‘A government by the people’ भन्ने अर्थ भएको शब्द प्रजातन्त्र (Democracy) हो।",
@@ -40448,12 +38218,7 @@
       "Atheist",
       "Monarchy"
     ],
-    "options_ne": [
-      "समाजशास्त्री",
-      "सिकर्मी",
-      "नास्तिक",
-      "राजतन्त्र"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A government by a king or queen is called a Monarchy.",
     "explanation_ne": "‘A government by a king or queen’ भन्ने अर्थ भएको शब्द राजतन्त्र (Monarchy) हो।",
@@ -40483,12 +38248,7 @@
       "Theatre",
       "Entomologist"
     ],
-    "options_ne": [
-      "कुमाले",
-      "अल्पतन्त्र",
-      "रङ्गमञ्च",
-      "कीटविद्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A government by the few is called a Oligarchy.",
     "explanation_ne": "‘A government by the few’ भन्ने अर्थ भएको शब्द अल्पतन्त्र (Oligarchy) हो।",
@@ -40518,12 +38278,7 @@
       "Theocracy",
       "Mobocracy"
     ],
-    "options_ne": [
-      "शैलविद्",
-      "आत्मप्रेमी",
-      "धर्मतन्त्र",
-      "भीडतन्त्र"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A government by priests is called a Theocracy.",
     "explanation_ne": "‘A government by priests’ भन्ने अर्थ भएको शब्द धर्मतन्त्र (Theocracy) हो।",
@@ -40553,12 +38308,7 @@
       "Botanist",
       "Military rule"
     ],
-    "options_ne": [
-      "बहुभाषी",
-      "भोको",
-      "वनस्पतिशास्त्री",
-      "सैनिक शासन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A government by the military is called a Military rule.",
     "explanation_ne": "‘A government by the military’ भन्ने अर्थ भएको शब्द सैनिक शासन (Military rule) हो।",
@@ -40588,12 +38338,7 @@
       "Republic",
       "Vegetarian"
     ],
-    "options_ne": [
-      "अनाथालय",
-      "उचाइबाट डराउने",
-      "गणतन्त्र",
-      "शाकाहारी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A government by the people of a state is called a Republic.",
     "explanation_ne": "‘A government by the people of a state’ भन्ने अर्थ भएको शब्द गणतन्त्र (Republic) हो।",
@@ -40623,12 +38368,7 @@
       "Oligarchy",
       "Acrophobic"
     ],
-    "options_ne": [
-      "अनुभवी",
-      "निरङ्कुश शासन",
-      "अल्पतन्त्र",
-      "उचाइबाट डराउने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A government by one person is called a Autocracy.",
     "explanation_ne": "‘A government by one person’ भन्ने अर्थ भएको शब्द निरङ्कुश शासन (Autocracy) हो।",
@@ -40658,12 +38398,7 @@
       "Bureaucracy",
       "Doctor"
     ],
-    "options_ne": [
-      "सराय",
-      "दुवै हात समान रूपमा चलाउन सक्ने",
-      "नोकरशाही",
-      "डाक्टर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A government by officials is called a Bureaucracy.",
     "explanation_ne": "‘A government by officials’ भन्ने अर्थ भएको शब्द नोकरशाही (Bureaucracy) हो।",
@@ -40693,12 +38428,7 @@
       "Mobocracy",
       "Novice"
     ],
-    "options_ne": [
-      "साक्षर",
-      "अस्पताल",
-      "भीडतन्त्र",
-      "नौसिखिया"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A government by the mob is called a Mobocracy.",
     "explanation_ne": "‘A government by the mob’ भन्ने अर्थ भएको शब्द भीडतन्त्र (Mobocracy) हो।",
@@ -40728,12 +38458,7 @@
       "Linguist",
       "Kennel"
     ],
-    "options_ne": [
-      "अराजकतावादी",
-      "निरङ्कुश शासन",
-      "भाषाविद्",
-      "कुकुरको घर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is against all government is called a Anarchist.",
     "explanation_ne": "‘A person who is against all government’ भन्ने अर्थ भएको शब्द अराजकतावादी (Anarchist) हो।",
@@ -40763,12 +38488,7 @@
       "Geologist",
       "Theist"
     ],
-    "options_ne": [
-      "चाँडै रिसाउने",
-      "लेखक",
-      "भूगर्भशास्त्री",
-      "आस्तिक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who believes in God is called a Theist.",
     "explanation_ne": "‘A person who believes in God’ भन्ने अर्थ भएको शब्द आस्तिक (Theist) हो।",
@@ -40798,12 +38518,7 @@
       "Insolvent",
       "Malevolent"
     ],
-    "options_ne": [
-      "देशभक्त",
-      "नास्तिक",
-      "दिवालिया",
-      "दुर्भावनापूर्ण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who does not believe in God is called a Atheist.",
     "explanation_ne": "‘A person who does not believe in God’ भन्ने अर्थ भएको शब्द नास्तिक (Atheist) हो।",
@@ -40833,12 +38548,7 @@
       "Workaholic",
       "Theatre"
     ],
-    "options_ne": [
-      "अस्पताल",
-      "अज्ञेयवादी",
-      "कामको लत लागेको",
-      "रङ्गमञ्च"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who doubts the existence of God is called a Agnostic.",
     "explanation_ne": "‘A person who doubts the existence of God’ भन्ने अर्थ भएको शब्द अज्ञेयवादी (Agnostic) हो।",
@@ -40868,12 +38578,7 @@
       "Psychologist",
       "Crematorium"
     ],
-    "options_ne": [
-      "बहुदेववादी",
-      "दरिद्र",
-      "मनोवैज्ञानिक",
-      "शवदाह गृह"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who believes in many gods is called a Polytheist.",
     "explanation_ne": "‘A person who believes in many gods’ भन्ने अर्थ भएको शब्द बहुदेववादी (Polytheist) हो।",
@@ -40903,12 +38608,7 @@
       "Author",
       "Doctor"
     ],
-    "options_ne": [
-      "जुत्ता बनाउने",
-      "एकेश्वरवादी",
-      "लेखक",
-      "डाक्टर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who believes in one god is called a Monotheist.",
     "explanation_ne": "‘A person who believes in one god’ भन्ने अर्थ भएको शब्द एकेश्वरवादी (Monotheist) हो।",
@@ -40938,12 +38638,7 @@
       "Glutton",
       "Idolater"
     ],
-    "options_ne": [
-      "सर्वभक्षी",
-      "साक्षर",
-      "भोको",
-      "मूर्तिपूजक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who worships idols is called a Idolater.",
     "explanation_ne": "‘A person who worships idols’ भन्ने अर्थ भएको शब्द मूर्तिपूजक (Idolater) हो।",
@@ -40973,12 +38668,7 @@
       "Veteran",
       "Hydrophobic"
     ],
-    "options_ne": [
-      "संवेदनशील",
-      "समयपालक",
-      "अनुभवी",
-      "पानीसँग डराउने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is afraid of water is called a Hydrophobic.",
     "explanation_ne": "‘A person who is afraid of water’ भन्ने अर्थ भएको शब्द पानीसँग डराउने (Hydrophobic) हो।",
@@ -41008,12 +38698,7 @@
       "Omnipotent",
       "Acrophobic"
     ],
-    "options_ne": [
-      "चाँडै रिसाउने",
-      "निरक्षर",
-      "सर्वशक्तिमान्",
-      "उचाइबाट डराउने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is afraid of heights is called a Acrophobic.",
     "explanation_ne": "‘A person who is afraid of heights’ भन्ने अर्थ भएको शब्द उचाइबाट डराउने (Acrophobic) हो।",
@@ -41043,12 +38728,7 @@
       "Inn",
       "Theatre"
     ],
-    "options_ne": [
-      "नौसिखिया",
-      "बन्द ठाउँबाट डराउने",
-      "सराय",
-      "रङ्गमञ्च"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who is afraid of closed spaces is called a Claustrophobic.",
     "explanation_ne": "‘A person who is afraid of closed spaces’ भन्ने अर्थ भएको शब्द बन्द ठाउँबाट डराउने (Claustrophobic) हो।",
@@ -41078,12 +38758,7 @@
       "Sty",
       "Nyctophobic"
     ],
-    "options_ne": [
-      "छात्रावास",
-      "मौरी घर",
-      "सुँगुरको खोर",
-      "अँधेरोबाट डराउने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is afraid of darkness is called a Nyctophobic.",
     "explanation_ne": "‘A person who is afraid of darkness’ भन्ने अर्थ भएको शब्द अँधेरोबाट डराउने (Nyctophobic) हो।",
@@ -41113,12 +38788,7 @@
       "Hydrophobic",
       "Aquarium"
     ],
-    "options_ne": [
-      "माकुराबाट डराउने",
-      "सर्वव्यापी",
-      "पानीसँग डराउने",
-      "माछा घर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is afraid of spiders is called a Arachnophobic.",
     "explanation_ne": "‘A person who is afraid of spiders’ भन्ने अर्थ भएको शब्द माकुराबाट डराउने (Arachnophobic) हो।",
@@ -41148,12 +38818,7 @@
       "Warehouse",
       "Psychologist"
     ],
-    "options_ne": [
-      "सङ्गीतप्रेमी",
-      "सर्वज्ञ",
-      "गोदाम",
-      "मनोवैज्ञानिक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who loves music is called a Melophile.",
     "explanation_ne": "‘A person who loves music’ भन्ने अर्थ भएको शब्द सङ्गीतप्रेमी (Melophile) हो।",
@@ -41183,12 +38848,7 @@
       "Optimist",
       "Idolater"
     ],
-    "options_ne": [
-      "कवि",
-      "फूलप्रेमी",
-      "आशावादी",
-      "मूर्तिपूजक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who loves flowers is called a Anthophile.",
     "explanation_ne": "‘A person who loves flowers’ भन्ने अर्थ भएको शब्द फूलप्रेमी (Anthophile) हो।",
@@ -41218,12 +38878,7 @@
       "Library",
       "Zoophile"
     ],
-    "options_ne": [
-      "दरिद्र",
-      "जलाशय",
-      "पुस्तकालय",
-      "जनावरप्रेमी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who loves animals is called a Zoophile.",
     "explanation_ne": "‘A person who loves animals’ भन्ने अर्थ भएको शब्द जनावरप्रेमी (Zoophile) हो।",
@@ -41253,12 +38908,7 @@
       "Laundry",
       "Patriot"
     ],
-    "options_ne": [
-      "समयपालक",
-      "साक्षर",
-      "धोबीघाट",
-      "देशभक्त"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who loves his own country is called a Patriot.",
     "explanation_ne": "‘A person who loves his own country’ भन्ने अर्थ भएको शब्द देशभक्त (Patriot) हो।",
@@ -41288,12 +38938,7 @@
       "Mobocracy",
       "Hangar"
     ],
-    "options_ne": [
-      "आत्मप्रेमी",
-      "समय नपाल्ने",
-      "भीडतन्त्र",
-      "ह्याङ्गर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who loves himself is called a Narcissist.",
     "explanation_ne": "‘A person who loves himself’ भन्ने अर्थ भएको शब्द आत्मप्रेमी (Narcissist) हो।",
@@ -41323,12 +38968,7 @@
       "Florist",
       "Poet"
     ],
-    "options_ne": [
-      "सजिलै ठगिने",
-      "बहुदेववादी",
-      "फूल बेच्ने",
-      "कवि"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is easily deceived is called a Gullible.",
     "explanation_ne": "‘A person who is easily deceived’ भन्ने अर्थ भएको शब्द सजिलै ठगिने (Gullible) हो।",
@@ -41358,12 +38998,7 @@
       "Historian",
       "Sty"
     ],
-    "options_ne": [
-      "चाँडै रिसाउने",
-      "नोकरशाही",
-      "इतिहासकार",
-      "सुँगुरको खोर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is easily irritated is called a Irritable.",
     "explanation_ne": "‘A person who is easily irritated’ भन्ने अर्थ भएको शब्द चाँडै रिसाउने (Irritable) हो।",
@@ -41393,12 +39028,7 @@
       "Laundry",
       "Sensitive"
     ],
-    "options_ne": [
-      "कुमाले",
-      "परोपकारी",
-      "धोबीघाट",
-      "संवेदनशील"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is easily offended is called a Sensitive.",
     "explanation_ne": "‘A person who is easily offended’ भन्ने अर्थ भएको शब्द संवेदनशील (Sensitive) हो।",
@@ -41428,12 +39058,7 @@
       "Laundry",
       "Insolvent"
     ],
-    "options_ne": [
-      "कठिन सन्तुष्ट पार्न सकिने",
-      "रोटी बनाउने",
-      "धोबीघाट",
-      "दिवालिया"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is hard to please is called a Fastidious.",
     "explanation_ne": "‘A person who is hard to please’ भन्ने अर्थ भएको शब्द कठिन सन्तुष्ट पार्न सकिने (Fastidious) हो।",
@@ -41463,12 +39088,7 @@
       "Loquacious",
       "Pessimist"
     ],
-    "options_ne": [
-      "परोपकारी",
-      "अँधेरोबाट डराउने",
-      "बकबके",
-      "निराशावादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who is very talkative is called a Loquacious.",
     "explanation_ne": "‘A person who is very talkative’ भन्ने अर्थ भएको शब्द बकबके (Loquacious) हो।",
@@ -41498,12 +39118,7 @@
       "Inn",
       "Jurist"
     ],
-    "options_ne": [
-      "कम बोल्ने",
-      "परोपकारी",
-      "सराय",
-      "कानुनविद्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who talks little is called a Taciturn.",
     "explanation_ne": "‘A person who talks little’ भन्ने अर्थ भएको शब्द कम बोल्ने (Taciturn) हो।",
@@ -41533,12 +39148,7 @@
       "Fatigued",
       "Garrulous"
     ],
-    "options_ne": [
-      "भाषाविद्",
-      "सर्वभक्षी",
-      "थाकेको",
-      "बकवादी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who talks too much is called a Garrulous.",
     "explanation_ne": "‘A person who talks too much’ भन्ने अर्थ भएको शब्द बकवादी (Garrulous) हो।",
@@ -41568,12 +39178,7 @@
       "Glutton",
       "Zoo"
     ],
-    "options_ne": [
-      "प्रजातन्त्र",
-      "साक्षर",
-      "भोको",
-      "चिडियाखाना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who is fond of eating is called a Glutton.",
     "explanation_ne": "‘A person who is fond of eating’ भन्ने अर्थ भएको शब्द भोको (Glutton) हो।",
@@ -41603,12 +39208,7 @@
       "Glutton",
       "Pessimist"
     ],
-    "options_ne": [
-      "शताब्दीजीवी",
-      "सर्वज्ञ",
-      "भोको",
-      "निराशावादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who eats too much is called a Glutton.",
     "explanation_ne": "‘A person who eats too much’ भन्ने अर्थ भएको शब्द भोको (Glutton) हो।",
@@ -41638,12 +39238,7 @@
       "Egoist",
       "Vegetarian"
     ],
-    "options_ne": [
-      "समय नपाल्ने",
-      "अस्तबल",
-      "स्वार्थी",
-      "शाकाहारी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who does not eat meat is called a Vegetarian.",
     "explanation_ne": "‘A person who does not eat meat’ भन्ने अर्थ भएको शब्द शाकाहारी (Vegetarian) हो।",
@@ -41673,12 +39268,7 @@
       "Cemetery",
       "Monarchy"
     ],
-    "options_ne": [
-      "आशावादी",
-      "रङ्गमञ्च",
-      "चिहान",
-      "राजतन्त्र"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always happy is called a Optimist.",
     "explanation_ne": "‘A person who is always happy’ भन्ने अर्थ भएको शब्द आशावादी (Optimist) हो।",
@@ -41708,12 +39298,7 @@
       "Tailor",
       "Geologist"
     ],
-    "options_ne": [
-      "कामको लत लागेको",
-      "निराशावादी",
-      "दर्जी",
-      "भूगर्भशास्त्री"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who always expects the worst is called a Pessimist.",
     "explanation_ne": "‘A person who always expects the worst’ भन्ने अर्थ भएको शब्द निराशावादी (Pessimist) हो।",
@@ -41743,12 +39328,7 @@
       "Gullible",
       "Bibliophile"
     ],
-    "options_ne": [
-      "शताब्दीजीवी",
-      "परोपकारी",
-      "सजिलै ठगिने",
-      "पुस्तकप्रेमी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who is always ready to help is called a Altruist.",
     "explanation_ne": "‘A person who is always ready to help’ भन्ने अर्थ भएको शब्द परोपकारी (Altruist) हो।",
@@ -41778,12 +39358,7 @@
       "Botanical garden",
       "Pharmacist"
     ],
-    "options_ne": [
-      "द्विभाषी",
-      "स्वार्थी",
-      "वनस्पति उद्यान",
-      "औषधि बेच्ने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who is always selfish is called a Egoist.",
     "explanation_ne": "‘A person who is always selfish’ भन्ने अर्थ भएको शब्द स्वार्थी (Egoist) हो।",
@@ -41813,12 +39388,7 @@
       "Theist",
       "Punctual"
     ],
-    "options_ne": [
-      "करोडपति",
-      "गोदाम",
-      "आस्तिक",
-      "समयपालक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "A person who is always on time is called a Punctual.",
     "explanation_ne": "‘A person who is always on time’ भन्ने अर्थ भएको शब्द समयपालक (Punctual) हो।",
@@ -41848,12 +39418,7 @@
       "Shipyard",
       "Millionaire"
     ],
-    "options_ne": [
-      "समय नपाल्ने",
-      "चिडियाखाना",
-      "जहाज निर्माण स्थल",
-      "करोडपति"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is never on time is called a Unpunctual.",
     "explanation_ne": "‘A person who is never on time’ भन्ने अर्थ भएको शब्द समय नपाल्ने (Unpunctual) हो।",
@@ -41883,12 +39448,7 @@
       "Tardy",
       "Theatre"
     ],
-    "options_ne": [
-      "शान्त",
-      "जलाशय",
-      "ढिलो गर्ने",
-      "रङ्गमञ्च"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "A person who is always late is called a Tardy.",
     "explanation_ne": "‘A person who is always late’ भन्ने अर्थ भएको शब्द ढिलो गर्ने (Tardy) हो।",
@@ -41918,12 +39478,7 @@
       "Polytheist",
       "Hangar"
     ],
-    "options_ne": [
-      "कामको लत लागेको",
-      "फूल बेच्ने",
-      "बहुदेववादी",
-      "ह्याङ्गर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always busy is called a Workaholic.",
     "explanation_ne": "‘A person who is always busy’ भन्ने अर्थ भएको शब्द कामको लत लागेको (Workaholic) हो।",
@@ -41953,12 +39508,7 @@
       "Republic",
       "Vegetarian"
     ],
-    "options_ne": [
-      "थाकेको",
-      "बकबके",
-      "गणतन्त्र",
-      "शाकाहारी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always tired is called a Fatigued.",
     "explanation_ne": "‘A person who is always tired’ भन्ने अर्थ भएको शब्द थाकेको (Fatigued) हो।",
@@ -41988,12 +39538,7 @@
       "Plutocracy",
       "Optimist"
     ],
-    "options_ne": [
-      "चाँडै रिसाउने",
-      "भाषाविद्",
-      "धनिकतन्त्र",
-      "आशावादी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always angry is called a Irascible.",
     "explanation_ne": "‘A person who is always angry’ भन्ने अर्थ भएको शब्द चाँडै रिसाउने (Irascible) हो।",
@@ -42023,12 +39568,7 @@
       "Journalist",
       "Gullible"
     ],
-    "options_ne": [
-      "शान्त",
-      "भोको",
-      "पत्रकार",
-      "सजिलै ठगिने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always calm is called a Serene.",
     "explanation_ne": "‘A person who is always calm’ भन्ने अर्थ भएको शब्द शान्त (Serene) हो।",
@@ -42058,12 +39598,7 @@
       "Glutton",
       "Atheist"
     ],
-    "options_ne": [
-      "परोपकारी",
-      "मांसाहारी",
-      "भोको",
-      "नास्तिक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "A person who is always kind is called a Benevolent.",
     "explanation_ne": "‘A person who is always kind’ भन्ने अर्थ भएको शब्द परोपकारी (Benevolent) हो।",
@@ -42093,12 +39628,7 @@
       "Nyctophobic",
       "Aquarium"
     ],
-    "options_ne": [
-      "पत्रकार",
-      "दुर्भावनापूर्ण",
-      "अँधेरोबाट डराउने",
-      "माछा घर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "A person who is always cruel is called a Malevolent.",
     "explanation_ne": "‘A person who is always cruel’ भन्ने अर्थ भएको शब्द दुर्भावनापूर्ण (Malevolent) हो।",

@@ -6115,12 +6115,7 @@
    "Cowardly",
    "Heroic"
   ],
-  "options_ne": [
-   "बलियो",
-   "साहसी",
-   "डरपोक",
-   "वीर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "'Cowardly' is the antonym of 'brave'.",
   "explanation_ne": "'Cowardly' 'brave' को विलोम हो।",
