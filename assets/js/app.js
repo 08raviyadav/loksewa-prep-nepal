@@ -2457,7 +2457,7 @@ function renderSubmit(){
     <div class="card" style="border-color:#ea580c"><strong>⚠️ ${B('Reviewed before publishing.','प्रकाशनअघि समीक्षा हुन्छ।')}</strong> ${B('Submissions go through automatic checks (duplicate detection, spam heuristics, rate limit) <em>and</em> maintainer review. <strong>First-time submissions never go live instantly</strong> — Ravi Yadav approves or rejects every one. Contributors with 3+ approved questions and 0 rejections get faster review.','पेस गरिएका प्रश्न स्वचालित जाँच (डुप्लिकेट पहिचान, स्पाम नियम, दर सीमा) <em>र</em> समीक्षक समीक्षाबाट जान्छन्। <strong>पहिलो पेस कहिल्यै तुरुन्त लाइभ हुँदैन</strong> — रवि यादवले हरेक प्रश्न स्वीकृत वा अस्वीकृत गर्नुहुन्छ। ३+ स्वीकृत प्रश्न र ० अस्वीकृति भएका योगदानकर्ताको समीक्षा छिटो हुन्छ।')}</div>
     <p class="muted" id="sub-counts">Public moderation log — approved ${c.approved} · rejected ${c.rejected} · pending ${c.pending}</p>
     <div class="card"><h3>The exact format — copy this template</h3>
-      <p class="muted">Every question must follow this JSON shape (the same schema as the bank). Nepali fields are required — the bank is 100% bilingual.</p>
+      <p class="muted">Every question must follow this JSON shape (the same schema as the bank). Nepali fields are required — every question has a Nepali version (options stay in English when the question itself asks for an English word).</p>
       <textarea id="sub-template" rows="14" readonly>{
   "id": "COMM-000",
   "exam": ["kharidar", "nasu"],
