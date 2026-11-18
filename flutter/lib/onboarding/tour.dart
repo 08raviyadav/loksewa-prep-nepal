@@ -76,8 +76,9 @@ class TourStep {
 /// the Daily Challenge card, the app-bar language button (Home screen
 /// only), the bottom navigation bar (tab screens only — one tab screen
 /// is mounted at a time, so the key never duplicates), and the Practice
-/// screen's first category tile, first exam chip, first topic chip and
-/// Start button.
+/// screen's first category tile, first exam chip, Random chip and
+/// Start button (v1.0.16: the Start button lives in the pinned bar
+/// above the bottom nav, and step 7 targets the Random chip).
 class TourKeys {
   static final GlobalKey dailyChallenge =
       GlobalKey(debugLabel: 'tour_daily');
@@ -86,17 +87,19 @@ class TourKeys {
   static final GlobalKey firstCategory =
       GlobalKey(debugLabel: 'tour_category');
   static final GlobalKey firstExamChip = GlobalKey(debugLabel: 'tour_exam');
-  static final GlobalKey firstTopicChip = GlobalKey(debugLabel: 'tour_topic');
+  static final GlobalKey randomChip = GlobalKey(debugLabel: 'tour_random');
   static final GlobalKey startButton = GlobalKey(debugLabel: 'tour_start');
 }
 
 /// The 8-step first-launch tour.
 ///
 /// Why 8 and not 5: the Practice screen has no exam-detail sheet —
-/// exams live in collapsed category sections and the Start button stays
-/// disabled until a topic is picked. So the "select then start" leg
-/// needs its own steps: category -> exam -> topic -> Start. Step 2
-/// (v1.0.9) guides the language switcher.
+/// exams live in collapsed category sections and the topic chips sit
+/// below the fold. So the "select then start" leg needs its own steps:
+/// category -> exam -> topic -> Start. Step 2 (v1.0.9) guides the
+/// language switcher. Step 7 (v1.0.16) targets the Random chip: Random
+/// is the default once an exam is picked, and Start is enabled from
+/// that moment — no topic pick required.
 List<TourStep> get defaultTourSteps => [
       TourStep(
         id: 'daily',
@@ -141,10 +144,10 @@ List<TourStep> get defaultTourSteps => [
         advanceOnTap: true,
       ),
       TourStep(
-        id: 'firstTopicChip',
+        id: 'randomChip',
         title: (s) => s.tourTopicTitle,
         body: (s) => s.tourTopicBody,
-        targetKey: TourKeys.firstTopicChip,
+        targetKey: TourKeys.randomChip,
         advanceOnTap: true,
       ),
       TourStep(
