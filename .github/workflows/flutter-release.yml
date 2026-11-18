@@ -1,7 +1,7 @@
 # Signed release APK for the Outrank Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.14` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.16` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -196,24 +196,24 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.14
+      - name: Publish to GitHub Release android-v1.0.16
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.14
-          name: Outrank Android v1.0.14
+          tag_name: android-v1.0.16
+          name: Outrank Android v1.0.16
           body: |
-            Signed release APK for Outrank v1.0.14 (Android).
+            Signed release APK for Outrank v1.0.16 (Android).
 
-            What's new: **27 new exam dates** — PLSC Batch 03 entrance
-            exams, the TSC NiMaVi written exam, the NRB application
-            deadline, and RBB papers across Gandaki, Bagmati, Lumbini
-            and Sudurpashchim. The update check now shows what's new
-            in the new version, so you can see what you're getting
-            before you download it.
+            What's new: the Practice flow is one tap now — picking an
+            exam turns **🎲 Random** on (every topic, mixed) and pins a
+            Start bar above the bottom nav, so you start right away
+            instead of scrolling to the bottom to choose a topic first.
+            Picking specific topics still narrows the quiz, and tapping
+            Random again clears the picks.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.13 as an update (same signature).
+            Installs over v1.0.15 as an update (same signature).
 
             Bundled data: 109 exam dates, 47 exams, 64,689 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
