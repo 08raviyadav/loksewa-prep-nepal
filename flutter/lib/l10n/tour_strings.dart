@@ -59,11 +59,14 @@ extension TourStrings on AppStrings {
         'अभ्यास गर्न परीक्षा थिच्नुहोस्।',
       );
 
-  // --- step 7: first topic chip (tap) ---
-  String get tourTopicTitle => t('Pick a topic', 'विषय छान्नुहोस्');
+  // --- step 7: Random chip (tap) — v1.0.16: Random is the default
+  // once an exam is picked, so the step teaches the choice (Random
+  // mixes every topic; a topic chip narrows to just that one).
+  String get tourTopicTitle =>
+      t('Random — or pick a topic', 'Random — वा विषय छान्नुहोस्');
   String get tourTopicBody => t(
-        'Choose a topic to practise.',
-        'अभ्यास गर्न विषय थिच्नुहोस्।',
+        'Random is on: questions come from every topic, mixed. Tap a topic below to focus on just that one.',
+        'Random चालु छ: सबै विषयका प्रश्न मिसिएर आउँछन्। एउटा विषयमा मात्र केन्द्रित हुन तलको विषय थिच्नुहोस्।',
       );
 
   // --- step 8: Start button (tap) ---

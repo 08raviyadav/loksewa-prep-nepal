@@ -19,6 +19,18 @@ extension QuizStrings on AppStrings {
   String negativeHint(String pct) =>
       t('−$pct% per wrong answer', 'प्रति गलत उत्तर −$pct%');
 
+  // --- practice setup: Random mode (v1.0.16) ---
+  // Random draws from the whole exam pool (every topic, mixed) and is
+  // the default once an exam is picked — the user starts in one tap.
+  // "Random" stays English in Nepali too: it is the word Nepali
+  // speakers use (same loanword precedent as XP / Streak / Timer).
+  String get randomTopics => t('🎲 Random', '🎲 Random');
+  String get randomLabel => t('Random', 'Random');
+  String topicsSelected(int n) => n == 1
+      ? t('1 topic', '1 विषय')
+      : t('$n topics', '$n विषय');
+  String questionsCount(int n) => t('$n questions', '$n प्रश्न');
+
   // --- quiz screen ---
   String quizProgress(int i, int n) => t('Question $i of $n', 'प्रश्न $i / $n');
   String get skip => t('Skip', 'छोड्नुहोस्');
