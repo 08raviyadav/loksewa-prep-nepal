@@ -532,13 +532,21 @@ void main() {
       await tester.tap(find.byKey(TourKeys.firstExamChip));
       await settle(tester);
 
-      // Step 7: first topic chip (tap step). The screen scrolls it
-      // into view; ensureVisible is a no-op if it is already visible.
-      expect(find.text('Choose a topic to practise.'), findsOneWidget);
+      // Step 7: Random chip (tap step, v1.0.16). The screen scrolls
+      // it into view; ensureVisible is a no-op if it is already
+      // visible. Random is already on (the exam was just picked), so
+      // tapping it just advances the tour — Start is already enabled.
+      expect(
+        find.text(
+          'Random is on: questions come from every topic, mixed. '
+          'Tap a topic below to focus on just that one.',
+        ),
+        findsOneWidget,
+      );
       expect(find.text('7 / 8'), findsOneWidget);
-      await tester.ensureVisible(find.byKey(TourKeys.firstTopicChip));
+      await tester.ensureVisible(find.byKey(TourKeys.randomChip));
       await tester.pump();
-      await tester.tap(find.byKey(TourKeys.firstTopicChip));
+      await tester.tap(find.byKey(TourKeys.randomChip));
       await settle(tester);
 
       // Step 8: Start button (tap step).
@@ -595,7 +603,8 @@ void main() {
       expect(find.text('6 / 8'), findsOneWidget);
       await tester.tap(find.text('Next'));
       await settle(tester);
-      // Step 7: first topic via Next (picks it, enables Start).
+      // Step 7: Random chip via Next (Random is already on — tapping
+      // it just advances; Start is already enabled).
       expect(find.text('7 / 8'), findsOneWidget);
       await tester.tap(find.text('Next'));
       await settle(tester);
