@@ -40,8 +40,14 @@ files.forEach(f => {
       if (parenDup) failures.push(`${where}: duplicate options after stripping trailing parenthetical`);
     }
     if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer > 3) failures.push(`${where}: answer out of range`);
-    // Bilingual fields: if any _ne field is present, all three must be present
-    // and usable — options_ne exactly 4 non-empty entries, and the (already
+    // Bilingual fields: if any _ne field is present, question_ne and
+    // explanation_ne must be present and usable. options_ne may be null —
+    // that is the deliberate signal for English-word questions (synonym /
+    // antonym / one-word / "which English word"), which render their English
+    // options in Nepali mode: both renderers fall back to options when
+    // options_ne is null (web qOpts, Flutter Question.opts). Which questions
+    // may be null is enforced by scripts/test-options-ne.js. When non-null,
+    // options_ne must be exactly 4 non-empty entries, and the (already
     // validated) answer index must point at a real Nepali option.
     const hasNe = q.question_ne !== undefined || q.options_ne !== undefined || q.explanation_ne !== undefined;
     const neOk = q.question_ne && typeof q.question_ne === 'string' && q.question_ne.trim()
@@ -51,8 +57,8 @@ files.forEach(f => {
     if (neOk) { neFull++; fileNe++; }
     if (hasNe) {
       if (!q.question_ne || typeof q.question_ne !== 'string' || !q.question_ne.trim()) failures.push(`${where}: question_ne missing/empty`);
-      if (!Array.isArray(q.options_ne) || q.options_ne.length !== 4) failures.push(`${where}: options_ne must be exactly 4`);
-      else {
+      if (q.options_ne !== null && (!Array.isArray(q.options_ne) || q.options_ne.length !== 4)) failures.push(`${where}: options_ne must be exactly 4 or null`);
+      else if (Array.isArray(q.options_ne)) {
         if (q.options_ne.some(o => !o || typeof o !== 'string' || !o.trim())) failures.push(`${where}: empty option_ne`);
         if (Number.isInteger(q.answer) && q.answer >= 0 && q.answer <= 3 && !q.options_ne[q.answer]) failures.push(`${where}: answer index has no Nepali option`);
       }
