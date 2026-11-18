@@ -80,13 +80,20 @@ class _PracticeScreenState extends State<PracticeScreen> {
   static const _kRecentKey = 'loksewa_recent_exams_v1';
   static const _kRecentMax = 4;
 
-  // Tour (v1.0.7): the topic chips and the Start button sit below the
-  // fold, so when the tour reaches them this screen scrolls the target
-  // into view. The list builds lazily, so the scroll retries until the
-  // target's widget exists.
+  // Tour (v1.0.7): the topic chips sit below the fold, so when the
+  // tour reaches them this screen scrolls the target into view. The
+  // list builds lazily, so the scroll retries until the target's
+  // widget exists. (v1.0.16: the Start button lives in the pinned bar
+  // above the bottom nav, so its scroll-into-view is a no-op — the
+  // button is always visible. The bar is outside the ListView, and
+  // Scrollable.ensureVisible on a non-scrollable ancestor is a no-op.)
   final _scrollCtrl = ScrollController();
   TourController? _tour;
   int _scrollToken = 0;
+
+  // "Choose topics" header (v1.0.16): tapping the sticky bar's summary
+  // scrolls the topic section into view.
+  final _topicsHeaderKey = GlobalKey();
 
   // Full-bank index: topic counts without parsing 73MB of JSON.
   // (Phase 1 shipped one sample file; the index now covers all 131.)
@@ -124,8 +131,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
   void _onTourStep() {
     final step = _tour?.currentStep;
     if (step == null) return;
-    if (step.id == 'firstTopicChip') {
-      _scrollIntoView(TourKeys.firstTopicChip, 'firstTopicChip');
+    if (step.id == 'randomChip') {
+      _scrollIntoView(TourKeys.randomChip, 'randomChip');
     } else if (step.id == 'startButton') {
       _scrollIntoView(TourKeys.startButton, 'startButton');
     }
@@ -361,12 +368,126 @@ class _PracticeScreenState extends State<PracticeScreen> {
 
   /// Picks a topic (v1.0.9: extracted from the chip callback so the
   /// tour's Next button can pick the first topic the same way a tap
-  /// does). A no-op when the topic is already picked.
+  /// does). A no-op when the topic is already picked. Picking any
+  /// topic turns Random off (Random is simply "no specific topics").
   void _selectTopic(String topic) {
     if (_topics.contains(topic)) return;
     setState(() => _topics.add(topic));
-    // Tour step 7: picking a topic advances (and enables Start).
-    TourScope.of(context)?.advanceIfOn('firstTopicChip');
+  }
+
+  /// Picks Random (v1.0.16): clears every specific topic so the quiz
+  /// draws from the whole exam pool (`_startQuiz` already passes
+  /// `topics: null` when `_topics` is empty). A no-op when Random is
+  /// already on — Random IS the default once an exam is picked.
+  /// Tour step 7: tapping Random advances.
+  void _selectRandom() {
+    setState(() => _topics.clear());
+    // Tour step 7: tapping the Random chip advances.
+    TourScope.of(context)?.advanceIfOn('randomChip');
+  }
+
+  /// Questions in the current pool: the whole exam when Random is on,
+  /// else the selected topics' counts. Feeds the sticky bar's summary.
+  int _poolCount() {
+    if (_topics.isEmpty) {
+      return _topicCounts.values.fold(0, (a, b) => a + b);
+    }
+    var total = 0;
+    for (final t in _topics) {
+      total += _topicCounts[t] ?? 0;
+    }
+    return total;
+  }
+
+  /// Scrolls the "Choose topics" section into view (v1.0.16): the
+  /// sticky bar's summary is tappable, so the user can jump back to
+  /// the topics without scrolling by hand.
+  void _scrollToTopics() {
+    final ctx = _topicsHeaderKey.currentContext;
+    if (ctx == null) return;
+    unawaited(
+      Scrollable.ensureVisible(
+        ctx,
+        duration: const Duration(milliseconds: 300),
+      ),
+    );
+  }
+
+  /// Pinned Start bar (v1.0.16): once an exam is picked, Start is
+  /// always one tap away — no more scrolling to the bottom of the
+  /// picker to begin. The bar shows the exam, the topic choice
+  /// (Random or "N topics") and the pool size, and its Start button
+  /// runs the same `_startQuiz` the old in-list button ran. Tapping
+  /// the summary scrolls the topic section into view. Colours come
+  /// from AppPalette only, so dark mode matches the rest of the app.
+  Widget _startBar() {
+    final state = AppStateScope.of(context);
+    final s = state.strings;
+    final ne = state.isNe;
+    final palette = AppColors.of(context);
+    final exam = _exam!;
+    final topicLabel =
+        _topics.isEmpty ? s.randomLabel : s.topicsSelected(_topics.length);
+    final countPart =
+        _topicCounts.isEmpty ? null : s.questionsCount(_poolCount());
+    return Container(
+      // Keyed for tests (the bar's exam title duplicates the exam
+      // chip's text, so finders scope to the bar via this key).
+      key: const ValueKey('stickyStartBar'),
+      decoration: BoxDecoration(
+        color: palette.card,
+        border: Border(top: BorderSide(color: palette.border)),
+      ),
+      padding: const EdgeInsets.fromLTRB(
+        AppSpacing.s4,
+        AppSpacing.s3,
+        AppSpacing.s4,
+        AppSpacing.s3,
+      ),
+      child: Row(
+        children: [
+          Expanded(
+            child: GestureDetector(
+              onTap: _scrollToTopics,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  Text(
+                    exam.title(ne),
+                    style: AppType.h3,
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                  const SizedBox(height: AppSpacing.s1),
+                  Text(
+                    countPart == null
+                        ? topicLabel
+                        : '$topicLabel · $countPart',
+                    style: AppType.small.copyWith(color: palette.muted),
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ],
+              ),
+            ),
+          ),
+          const SizedBox(width: AppSpacing.s3),
+          FilledButton(
+            // Tour step 8 target.
+            key: TourKeys.startButton,
+            onPressed: _startQuiz,
+            style: FilledButton.styleFrom(
+              backgroundColor: palette.accent,
+              foregroundColor: palette.accentInk,
+              minimumSize: const Size(0, AppSpacing.minTap),
+              textStyle: AppType.h3,
+            ),
+            child: Text(s.startQuiz),
+          ),
+        ],
+      ),
+    );
   }
 
   Widget _examChips(
@@ -441,196 +562,208 @@ class _PracticeScreenState extends State<PracticeScreen> {
             }
           }
           if (_topicCounts.isNotEmpty) {
-            tour?.registerAction(
-              'firstTopicChip',
-              () => _selectTopic(_topicCounts.keys.first),
-            );
+            tour?.registerAction('randomChip', _selectRandom);
           }
           tour?.registerAction('startButton', _startQuiz);
-          return ListView(
-            controller: _scrollCtrl,
-            padding: const EdgeInsets.all(AppSpacing.s4),
+          // v1.0.16: the list scrolls above the pinned Start bar, so
+          // the bar never covers content or the bottom nav (the
+          // list's viewport simply ends above it — no overlap
+          // padding needed).
+          return Column(
             children: [
-              Text(s.chooseExam, style: AppType.h2),
-              const SizedBox(height: AppSpacing.s3),
-              TextField(
-                controller: _searchCtrl,
-                decoration: InputDecoration(
-                  hintText: s.searchExamsHint,
-                  prefixIcon: const Icon(Icons.search),
-                  suffixIcon: _query.isEmpty
-                      ? null
-                      : IconButton(
-                          tooltip: s.clearSearch,
-                          icon: const Icon(Icons.clear),
-                          onPressed: () {
-                            _searchCtrl.clear();
-                            setState(() => _query = '');
-                          },
+              Expanded(
+                child: ListView(
+                  controller: _scrollCtrl,
+                  padding: const EdgeInsets.all(AppSpacing.s4),
+                  children: [
+                    Text(s.chooseExam, style: AppType.h2),
+                    const SizedBox(height: AppSpacing.s3),
+                    TextField(
+                      controller: _searchCtrl,
+                      decoration: InputDecoration(
+                        hintText: s.searchExamsHint,
+                        prefixIcon: const Icon(Icons.search),
+                        suffixIcon: _query.isEmpty
+                            ? null
+                            : IconButton(
+                                tooltip: s.clearSearch,
+                                icon: const Icon(Icons.clear),
+                                onPressed: () {
+                                  _searchCtrl.clear();
+                                  setState(() => _query = '');
+                                },
+                              ),
+                        border: OutlineInputBorder(
+                          borderRadius: AppRadius.mdAll,
                         ),
-                  border: OutlineInputBorder(
-                    borderRadius: AppRadius.mdAll,
-                  ),
-                ),
-                textInputAction: TextInputAction.search,
-                onChanged: (v) => setState(() => _query = v),
-              ),
-              if (query.isEmpty && recent.isNotEmpty) ...[
-                const SizedBox(height: AppSpacing.s4),
-                Text(s.recentExams, style: AppType.h3),
-                const SizedBox(height: AppSpacing.s2),
-                _examChips(recent, ne),
-              ],
-              const SizedBox(height: AppSpacing.s4),
-              if (query.isNotEmpty)
-                matches.isEmpty
-                    ? Padding(
-                        padding:
-                            const EdgeInsets.symmetric(vertical: AppSpacing.s4),
-                        child: Text(
-                          s.noExamsFound,
-                          style: AppType.small.copyWith(color: AppColors.of(context).muted),
-                        ),
-                      )
-                    : _examChips(matches, ne)
-              else
-                ...groups.asMap().entries.map((en) {
-                  final i = en.key;
-                  final (cat, list) = en.value;
-                  final expanded = _expanded.contains(cat.id);
-                  return Padding(
-                    // Tour step 5 target: the first category tile.
-                    key: i == 0 ? TourKeys.firstCategory : null,
-                    padding: const EdgeInsets.only(bottom: AppSpacing.s2),
-                    child: Card(
-                      margin: EdgeInsets.zero,
-                      child: ExpansionTile(
-                        // Key includes the expanded flag so a programmatic
-                        // expand (picking from search / deep-link) rebuilds
-                        // the tile open; user taps toggle via the callback.
-                        key: ValueKey('cat_${cat.id}_$expanded'),
-                        title: Text(
-                          '${cat.title(ne)}  ·  ${list.length}',
-                          style: AppType.h3,
-                        ),
-                        initiallyExpanded: expanded,
-                        onExpansionChanged: (v) =>
-                            _setCategoryExpanded(cat.id, v, isFirst: i == 0),
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.fromLTRB(
-                                AppSpacing.s4, 0, AppSpacing.s4, AppSpacing.s4,),
-                            child: _examChips(
-                              list,
-                              ne,
-                              firstChipKey:
-                                  i == 0 ? TourKeys.firstExamChip : null,
+                      ),
+                      textInputAction: TextInputAction.search,
+                      onChanged: (v) => setState(() => _query = v),
+                    ),
+                    if (query.isEmpty && recent.isNotEmpty) ...[
+                      const SizedBox(height: AppSpacing.s4),
+                      Text(s.recentExams, style: AppType.h3),
+                      const SizedBox(height: AppSpacing.s2),
+                      _examChips(recent, ne),
+                    ],
+                    const SizedBox(height: AppSpacing.s4),
+                    if (query.isNotEmpty)
+                      matches.isEmpty
+                          ? Padding(
+                              padding:
+                                  const EdgeInsets.symmetric(vertical: AppSpacing.s4),
+                              child: Text(
+                                s.noExamsFound,
+                                style: AppType.small.copyWith(color: AppColors.of(context).muted),
+                              ),
+                            )
+                          : _examChips(matches, ne)
+                    else
+                      ...groups.asMap().entries.map((en) {
+                        final i = en.key;
+                        final (cat, list) = en.value;
+                        final expanded = _expanded.contains(cat.id);
+                        return Padding(
+                          // Tour step 5 target: the first category tile.
+                          key: i == 0 ? TourKeys.firstCategory : null,
+                          padding: const EdgeInsets.only(bottom: AppSpacing.s2),
+                          child: Card(
+                            margin: EdgeInsets.zero,
+                            child: ExpansionTile(
+                              // Key includes the expanded flag so a programmatic
+                              // expand (picking from search / deep-link) rebuilds
+                              // the tile open; user taps toggle via the callback.
+                              key: ValueKey('cat_${cat.id}_$expanded'),
+                              title: Text(
+                                '${cat.title(ne)}  ·  ${list.length}',
+                                style: AppType.h3,
+                              ),
+                              initiallyExpanded: expanded,
+                              onExpansionChanged: (v) =>
+                                  _setCategoryExpanded(cat.id, v, isFirst: i == 0),
+                              children: [
+                                Padding(
+                                  padding: const EdgeInsets.fromLTRB(
+                                      AppSpacing.s4, 0, AppSpacing.s4, AppSpacing.s4,),
+                                  child: _examChips(
+                                    list,
+                                    ne,
+                                    firstChipKey:
+                                        i == 0 ? TourKeys.firstExamChip : null,
+                                  ),
+                                ),
+                              ],
                             ),
                           ),
-                        ],
+                        );
+                      }),
+                    if (_exam != null) ...[
+                      const SizedBox(height: AppSpacing.s6),
+                      Text(
+                        s.chooseTopics,
+                        // Tapping the sticky bar's summary scrolls here.
+                        key: _topicsHeaderKey,
+                        style: AppType.h2,
                       ),
-                    ),
-                  );
-                }),
-              if (_exam != null) ...[
-                const SizedBox(height: AppSpacing.s6),
-                Text(s.chooseTopics, style: AppType.h2),
-                const SizedBox(height: AppSpacing.s3),
-                if (_topicsLoading)
-                  LinearProgressIndicator(color: AppColors.of(context).accent)
-                else if (_topicCounts.isEmpty)
-                  Text(
-                    s.loadingQuestions,
-                    style: AppType.small.copyWith(color: AppColors.of(context).muted),
-                  )
-                else
-                  Wrap(
-                    spacing: AppSpacing.s2,
-                    runSpacing: AppSpacing.s2,
-                    children:
-                        _topicCounts.entries.toList().asMap().entries.map((en) {
-                      final entry = en.value;
-                      final selected = _topics.contains(entry.key);
-                      return FilterChip(
-                        // Tour step 7 target: the first topic chip.
-                        key: en.key == 0 ? TourKeys.firstTopicChip : null,
-                        selected: selected,
-                        label: Text('${entry.key} (${entry.value})'),
-                        onSelected: (_) {
-                          if (selected) {
-                            setState(() => _topics.remove(entry.key));
-                          } else {
-                            _selectTopic(entry.key);
-                          }
-                        },
-                      );
-                    }).toList(),
-                  ),
-                const SizedBox(height: AppSpacing.s6),
-                Text(s.chooseDifficulty, style: AppType.h2),
-                const SizedBox(height: AppSpacing.s3),
-                SegmentedButton<String>(
-                  segments: [
-                    ButtonSegment(value: 'mixed', label: Text(s.diffMixed)),
-                    ButtonSegment(value: 'easy', label: Text(s.diffEasy)),
-                    ButtonSegment(value: 'medium', label: Text(s.diffMedium)),
-                    ButtonSegment(value: 'hard', label: Text(s.diffHard)),
+                      const SizedBox(height: AppSpacing.s3),
+                      if (_topicsLoading)
+                        LinearProgressIndicator(color: AppColors.of(context).accent)
+                      else if (_topicCounts.isEmpty)
+                        Text(
+                          s.loadingQuestions,
+                          style: AppType.small.copyWith(color: AppColors.of(context).muted),
+                        )
+                      else
+                        Wrap(
+                          spacing: AppSpacing.s2,
+                          runSpacing: AppSpacing.s2,
+                          children: [
+                            // Random first (v1.0.16): the default — every
+                            // topic, mixed. Selected whenever no specific
+                            // topic is picked; tapping it clears the picks.
+                            FilterChip(
+                              // Tour step 7 target.
+                              key: TourKeys.randomChip,
+                              selected: _topics.isEmpty,
+                              label: Text(s.randomTopics),
+                              onSelected: (_) => _selectRandom(),
+                            ),
+                            ..._topicCounts.entries.map((entry) {
+                              final selected = _topics.contains(entry.key);
+                              return FilterChip(
+                                selected: selected,
+                                label: Text('${entry.key} (${entry.value})'),
+                                onSelected: (_) {
+                                  if (selected) {
+                                    setState(() => _topics.remove(entry.key));
+                                  } else {
+                                    _selectTopic(entry.key);
+                                  }
+                                },
+                              );
+                            }),
+                          ],
+                        ),
+                      const SizedBox(height: AppSpacing.s6),
+                      Text(s.chooseDifficulty, style: AppType.h2),
+                      const SizedBox(height: AppSpacing.s3),
+                      SegmentedButton<String>(
+                        segments: [
+                          ButtonSegment(value: 'mixed', label: Text(s.diffMixed)),
+                          ButtonSegment(value: 'easy', label: Text(s.diffEasy)),
+                          ButtonSegment(value: 'medium', label: Text(s.diffMedium)),
+                          ButtonSegment(value: 'hard', label: Text(s.diffHard)),
+                        ],
+                        selected: {_difficulty},
+                        onSelectionChanged: (v) =>
+                            setState(() => _difficulty = v.first),
+                      ),
+                      const SizedBox(height: AppSpacing.s6),
+                      Text(s.chooseCount, style: AppType.h2),
+                      const SizedBox(height: AppSpacing.s3),
+                      SegmentedButton<int>(
+                        segments: const [
+                          ButtonSegment(value: 5, label: Text('5')),
+                          ButtonSegment(value: 10, label: Text('10')),
+                          ButtonSegment(value: 20, label: Text('20')),
+                          ButtonSegment(value: 50, label: Text('50')),
+                        ],
+                        selected: {_count},
+                        onSelectionChanged: (v) => setState(() => _count = v.first),
+                      ),
+                      const SizedBox(height: AppSpacing.s4),
+                      SwitchListTile(
+                        value: _timerOn,
+                        onChanged: (v) => setState(() => _timerOn = v),
+                        title: Text(s.timerLabel),
+                        subtitle: Text(s.timerHint),
+                        contentPadding: EdgeInsets.zero,
+                      ),
+                      SwitchListTile(
+                        value: _examNegRate() > 0 && _negOn,
+                        onChanged: _examNegRate() > 0
+                            ? (v) => setState(() => _negOn = v)
+                            : null,
+                        title: Text(s.negativeLabel),
+                        subtitle: Text(
+                          _examNegRate() > 0
+                              ? s.negativeHint(
+                                  (_examNegRate() * 100).round().toString(),
+                                )
+                              : s.negOffLine,
+                        ),
+                        contentPadding: EdgeInsets.zero,
+                      ),
+                      // v1.0.16: the Start button moved to the pinned bar
+                      // below the list (see _startBar) — the old in-list
+                      // button is gone, so there is exactly one Start.
+                      const SizedBox(height: AppSpacing.s4),
+                    ],
                   ],
-                  selected: {_difficulty},
-                  onSelectionChanged: (v) =>
-                      setState(() => _difficulty = v.first),
                 ),
-                const SizedBox(height: AppSpacing.s6),
-                Text(s.chooseCount, style: AppType.h2),
-                const SizedBox(height: AppSpacing.s3),
-                SegmentedButton<int>(
-                  segments: const [
-                    ButtonSegment(value: 5, label: Text('5')),
-                    ButtonSegment(value: 10, label: Text('10')),
-                    ButtonSegment(value: 20, label: Text('20')),
-                    ButtonSegment(value: 50, label: Text('50')),
-                  ],
-                  selected: {_count},
-                  onSelectionChanged: (v) => setState(() => _count = v.first),
-                ),
-                const SizedBox(height: AppSpacing.s4),
-                SwitchListTile(
-                  value: _timerOn,
-                  onChanged: (v) => setState(() => _timerOn = v),
-                  title: Text(s.timerLabel),
-                  subtitle: Text(s.timerHint),
-                  contentPadding: EdgeInsets.zero,
-                ),
-                SwitchListTile(
-                  value: _examNegRate() > 0 && _negOn,
-                  onChanged: _examNegRate() > 0
-                      ? (v) => setState(() => _negOn = v)
-                      : null,
-                  title: Text(s.negativeLabel),
-                  subtitle: Text(
-                    _examNegRate() > 0
-                        ? s.negativeHint(
-                            (_examNegRate() * 100).round().toString(),
-                          )
-                        : s.negOffLine,
-                  ),
-                  contentPadding: EdgeInsets.zero,
-                ),
-                const SizedBox(height: AppSpacing.s8),
-                FilledButton(
-                  // Tour step 8 target.
-                  key: TourKeys.startButton,
-                  onPressed: _topics.isEmpty ? null : _startQuiz,
-                  style: FilledButton.styleFrom(
-                    backgroundColor: AppColors.of(context).accent,
-                    foregroundColor: AppColors.of(context).accentInk,
-                    minimumSize: const Size(double.infinity, 56),
-                    textStyle: AppType.h3,
-                  ),
-                  child: Text(s.startQuiz),
-                ),
-                const SizedBox(height: AppSpacing.s12),
-              ],
+              ),
+              // Sticky Start bar (v1.0.16): the only Start button.
+              if (_exam != null) _startBar(),
             ],
           );
         },
