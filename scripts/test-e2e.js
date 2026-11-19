@@ -52,7 +52,7 @@ const run = code => vm.runInContext(code, sandbox);
   })();
   await run('loadData()');
   check('loadData loads every question on disk (' + diskQ + ')', run('QUESTIONS.length') === diskQ, run('QUESTIONS.length') + ' loaded');
-  check('loadData loads 47 exams', run('EXAMS.length') === 47);
+  check('loadData loads 48 exams', run('EXAMS.length') === 48);
   check('loadData loads >=7 old papers', run('PAPERS.length') >= 7, run('PAPERS.length') + ' papers');
   check('loadData loads notices', run('NOTICES.length') >= 1, run('NOTICES.length') + ' notices');
   check('every loaded paper has source_url + transcribed flag', run('PAPERS.every(p=>p.source_url && typeof p.transcribed==="boolean")') === true);
@@ -146,8 +146,8 @@ const run = code => vm.runInContext(code, sandbox);
   // dashboard renders without throwing
   run('renderDashboard()'); check('dashboard renders stats', el('dash-stats').innerHTML.includes('XP'));
   run('renderGuide()');
-  check('exam guide renders all 47 exams', (el('guide-box').innerHTML.match(/No mock available/g) || []).length + (el('guide-box').innerHTML.match(/Start .* mock/g) || []).length === 47, el('guide-box').innerHTML.length + ' chars');
-  check('exam guide shows a Start-mock button for exactly the 33 prelim exams', (el('guide-box').innerHTML.match(/Start .* mock/g) || []).length === 33);
+  check('exam guide renders all 48 exams', (el('guide-box').innerHTML.match(/No mock available/g) || []).length + (el('guide-box').innerHTML.match(/Start .* mock/g) || []).length === 48, el('guide-box').innerHTML.length + ' chars');
+  check('exam guide shows a Start-mock button for exactly the 34 prelim exams', (el('guide-box').innerHTML.match(/Start .* mock/g) || []).length === 34);
   check('exam guide marks exactly the 14 guide-only exams as no-mock', (el('guide-box').innerHTML.match(/No mock available/g) || []).length === 14);
 
   // --- Guide-only exams can never start a mock ---

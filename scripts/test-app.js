@@ -123,10 +123,10 @@ check('papers + notices filter/box ids exist in index.html', ['papers-filter','p
 
 // 5. Data files exist and exams.json parses
 const exams = JSON.parse(fs.readFileSync(path.join(root, 'data/exams.json'), 'utf8'));
-check('exams.json parses, 47 exams (42 + 5 entrance/licence)', Array.isArray(exams) && exams.length === 47, exams.length + ' exams');
+check('exams.json parses, 48 exams (42 + 5 entrance/licence + 1 CTEVT)', Array.isArray(exams) && exams.length === 48, exams.length + ' exams');
 const withPrelim = exams.filter(e => e.prelim);
 const guideOnly = exams.filter(e => !e.prelim);
-check('33 exams have an MCQ prelim, 14 are guide-only', withPrelim.length === 33 && guideOnly.length === 14, withPrelim.length + ' prelim / ' + guideOnly.length + ' guide-only');
+check('34 exams have an MCQ prelim, 14 are guide-only', withPrelim.length === 34 && guideOnly.length === 14, withPrelim.length + ' prelim / ' + guideOnly.length + ' guide-only');
 const mockSpecs = { kharidar: [50, 45, 2, 45], nasu: [50, 45, 2, 45], 'section-officer': [100, 90, 1, 45], 'tsc-primary': [50, 60, 2, 50], 'nrb-assistant': [50, 45, 2, 40] };
 for (const [id, [n, t, m, p]] of Object.entries(mockSpecs)) {
   const e = exams.find(x => x.id === id);

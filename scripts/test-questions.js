@@ -6,7 +6,7 @@ let total = 0, failures = [];
 let neFull = 0; // questions with all three _ne fields non-empty
 const seenIds = new Set(), seenQ = new Set();
 const byTopic = {}, byExam = {};
-const VALID_EXAMS = new Set(['anm-guide','army','ayurveda-bams','bar-council','computer-operator','csit-entrance','deputy-secretary','engineering','foreign-service','health','ioe-entrance','jta','judicial-service','kharidar','mecee-bl','midwifery-nlem','nasu','nea','nec-licence','nepal-telecom','nhpc-ayurveda','nhpc-dental','nhpc-ha','nhpc-lab','nhpc-optometry','nhpc-physio','nhpc-public-health','nhpc-radio','nmc-bds','nmc-mbbs','nnc-rn','npc-pharmacy','nrb-assistant','nrb-officer','police','provincial-psc','psc-service-groups','ranger','rbb','rbb-senior-assistant','section-officer','staff-nurse-psc','sub-engineer','tsc-license','tsc-lower-secondary','tsc-primary','tsc-secondary']);
+const VALID_EXAMS = new Set(['anm-guide','army','ayurveda-bams','bar-council','computer-operator','csit-entrance','ctevt-health-1st-year','deputy-secretary','engineering','foreign-service','health','ioe-entrance','jta','judicial-service','kharidar','mecee-bl','midwifery-nlem','nasu','nea','nec-licence','nepal-telecom','nhpc-ayurveda','nhpc-dental','nhpc-ha','nhpc-lab','nhpc-optometry','nhpc-physio','nhpc-public-health','nhpc-radio','nmc-bds','nmc-mbbs','nnc-rn','npc-pharmacy','nrb-assistant','nrb-officer','police','provincial-psc','psc-service-groups','ranger','rbb','rbb-senior-assistant','section-officer','staff-nurse-psc','sub-engineer','tsc-license','tsc-lower-secondary','tsc-primary','tsc-secondary']);
 files.forEach(f => {
   let arr;
   try { arr = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')); }
