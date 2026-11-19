@@ -2,7 +2,7 @@
 
 **Outrank — free, open-source, offline-first Lok Sewa exam preparation for Nepal government exams — like Indiabix, made for Nepal.**
 
-Practice for **Lok Sewa Aayog (PSC)** — Kharidar, Nayab Subba, Section Officer — **Shikshak Sewa Aayog (TSC)**, **Nepal Rastra Bank**, **RBB / NBL / ADBL**, **Nepal Police / APF**, **Nepal Army**, **Health** and **Engineering** services, plus **licence exams** — NMC (MBBS/BDS), NNC Nursing & Midwifery, NHPC (HA, Lab, Radiography, Physiotherapy, Public Health, Optometry, Dental, Ayurveda), NPC Pharmacy, Staff Nurse (PSC) and the NAMC Ayurveda / ANM guides — plus **entrance exams** MECEE-BL, NEC licence, Nepal Bar Council, BSc CSIT and IOE (guide-only, mixed-mark paper). **64,671 MCQs across 47 exams** (33 with a mock — 32 timed, TSC Licence untimed — and 14 guide-only — see below). No login required, no fees, no ads, no tracking. Your progress never leaves your device — unless you choose to sign in (demo mode for now; real Google sign-in via Supabase is planned — see [docs/BACKEND.md](docs/BACKEND.md)).
+Practice for **Lok Sewa Aayog (PSC)** — Kharidar, Nayab Subba, Section Officer — **Shikshak Sewa Aayog (TSC)**, **Nepal Rastra Bank**, **RBB / NBL / ADBL**, **Nepal Police / APF**, **Nepal Army**, **Health** and **Engineering** services, plus **licence exams** — NMC (MBBS/BDS), NNC Nursing & Midwifery, NHPC (HA, Lab, Radiography, Physiotherapy, Public Health, Optometry, Dental, Ayurveda), NPC Pharmacy, Staff Nurse (PSC) and the NAMC Ayurveda / ANM guides — plus **entrance exams** MECEE-BL, NEC licence, Nepal Bar Council, BSc CSIT and IOE (guide-only, mixed-mark paper) — plus **CTEVT Health Sciences First Year** (6 MCQ subjects: Physics, Chemistry, Zoology, Botany, Anatomy & Physiology, Maths & Statistics). **65,309 MCQs across 48 exams** (34 with a mock — 33 timed, TSC Licence untimed — and 14 guide-only — see below). No login required, no fees, no ads, no tracking. Your progress never leaves your device — unless you choose to sign in (demo mode for now; real Google sign-in via Supabase is planned — see [docs/BACKEND.md](docs/BACKEND.md)).
 
 > Maintainer: **Ravi Yadav ([@08raviyadav](https://github.com/08raviyadav))** — he reviews and accepts or rejects every pull request. Nothing is auto-merged.
 >
@@ -48,7 +48,7 @@ Practice for **Lok Sewa Aayog (PSC)** — Kharidar, Nayab Subba, Section Officer
 - **Bookmarks & Mistakes** — wrong answers are saved automatically for revision.
 - **Exam Guide** — one page per exam: pattern table, eligibility, age, syllabus weightage.
 - **Search** — search any question, topic or option text.
-- **Bilingual questions (EN / NE)** — every one of the 64,671 questions has a Nepali translation (question, all 4 options, explanation). Tap **EN · English / NE · नेपाली** in the header to switch; the choice is saved on your device. Where a Nepali field is missing on a question, the English text is shown instead.
+- **Bilingual questions (EN / NE)** — every one of the 65,309 questions has a Nepali translation (question, all 4 options, explanation). Tap **EN · English / NE · नेपाली** in the header to switch; the choice is saved on your device. Where a Nepali field is missing on a question, the English text is shown instead.
 - **Sign In / Profile (demo mode)** — a Google-style sign-in button creates a local profile (display name + Gmail address, validated) stored only on this device. Profile page shows XP, level, streak, attempts, accuracy and weak topics. Clearly labelled "Demo mode — local profile only"; real Google sign-in needs Supabase (see [docs/BACKEND.md](docs/BACKEND.md)).
 - **Discussion Hub** — one seeded thread per exam (Kharidar, NaSu, Section Officer, TSC, NRB, NMC, NNC, Pharmacy) plus General doubts. Post a doubt, reply, upvote, report. Every question has a "💬 Discuss this question" link that opens the Hub pre-filled with that question. Local demo for now — posts stay on this device until the backend is connected.
 - **Contribute — Submit a Question** — the exact JSON format first (copyable template), then a form with live validation, duplicate detection against the full bank (exact + near-duplicate, token-Jaccard ≥ 0.8), spam heuristics and a 5-per-hour rate limit. Submissions go to a **Maintainer Review** queue — approve (with edit-before-approve), reject with a reason, or download the approved set. Approved questions join the practice bank with a "Community" badge.
@@ -98,10 +98,10 @@ index.html                  Single-page app (all views)
 loksewa-prep-nepal-full.html  Single-file bundle (whole bank embedded) — works from file://, rebuild with scripts/build-bundle.py
 assets/css/style.css        Mobile-first, dark/light, no frameworks
 assets/js/app.js            All logic: shuffle, scoring, timer, progress
-data/exams.json             47 exam patterns (33 with MCQ prelim, 14 guide-only), eligibility, syllabus (from research)
+data/exams.json             48 exam patterns (34 with MCQ prelim, 14 guide-only), eligibility, syllabus (from research)
 data/papers.json            17 old (previous-year) papers — scanned, linked to source; 3 transcribed (133 real questions, see below)
 data/notices.json           10 vacancy notices, last checked 2026-10-26 (2 open, 2 closing soon, 4 closed, 2 unverified)
-data/questions/*.json       Question bank — 64,671 MCQs in 130 files (see table below) + `community-approved.json` (starts empty — approved community submissions land here)
+data/questions/*.json       Question bank — 65,309 MCQs in 130 files (see table below) + `community-approved.json` (starts empty — approved community submissions land here)
 data/questions/community-approved.json   Approved community submissions (starts empty; see CONTRIBUTING.md)
 scripts/test-questions.js   Validates the question bank (node, no deps)
 scripts/build-bundle.py     Rebuilds loksewa-prep-nepal-full.html from the multi-file app (python3, no deps)
@@ -118,14 +118,14 @@ PLAN.md  TESTING.md         Plan + 100-item test checklist with real results
 | File | Qs | File | Qs |
 |---|---|---|---|
 | community-approved.json | 0 | constitution-governance-economy.json (original) | 215 |
-| english-nepali-computer.json (original) | 207 | expansion-computer-office-banking.json | 751 |
-| expansion-constitution-economy-current-science.json | 705 | expansion-core-hard.json (round 3 — hard IQ/Maths/Constitution/Education) | 566 |
-| expansion-culture.json | 196 | expansion-current-hard.json (round 4 — hard Current Affairs/Science/Culture/Economy) | 450 |
+| english-nepali-computer.json (original) | 207 | expansion-computer-office-banking.json | 753 |
+| expansion-constitution-economy-current-science.json | 714 | expansion-core-hard.json (round 3 — hard IQ/Maths/Constitution/Education) | 566 |
+| expansion-culture.json | 196 | expansion-current-hard.json (round 4 — hard Current Affairs/Science/Culture/Economy) | 441 |
 | expansion-english-nepali-v3.json (round 3 — English + Nepali, hard) | 473 | expansion-english-v2.json (v2 — English) | 300 |
 | expansion-entrance-licence.json (round 3 — MECEE/NEC/Bar/IOE/CSIT) | 493 | expansion-foreign-telecom.json (round 4 — Foreign Service + Nepal Telecom) | 240 |
-| expansion-geography.json | 236 | expansion-hard-core-v2.json (round 4 — hard IQ/Maths/Constitution/Education) | 479 |
-| expansion-health-technical-security.json | 309 | expansion-health-technical.json | 176 |
-| expansion-history.json | 229 | expansion-iq-maths.json | 672 |
+| expansion-geography.json | 237 | expansion-hard-core-v2.json (round 4 — hard IQ/Maths/Constitution/Education) | 479 |
+| expansion-health-technical-security.json | 309 | expansion-health-technical.json | 177 |
+| expansion-history.json | 231 | expansion-iq-maths.json | 672 |
 | expansion-law-csit-ioe.json (round 4 — Bar Council/CSIT/IOE) | 331 | expansion-nepali-v2.json (v2 — Nepali Language) | 284 |
 | expansion-nhpc-law.json (round 4 — NHPC disciplines + Law) | 380 | expansion-pdf-01.json (PDF expansion — 10,000 New Exam Questions (2082/83 BS)) | 500 |
 | expansion-pdf-02.json (PDF expansion — 10,000 New Exam Questions (2082/83 BS)) | 500 | expansion-pdf-03.json (PDF expansion — 10,000 New Exam Questions (2082/83 BS)) | 500 |
@@ -140,22 +140,22 @@ PLAN.md  TESTING.md         Plan + 100-item test checklist with real results
 | expansion-r10-english.json (round 10 — English vocab/grammar) | 1,873 | expansion-r10-english2.json (round 10 — English vocab/grammar) | 1,203 |
 | expansion-r10-english3.json (round 10 — English vocab/grammar) | 1,064 | expansion-r10-english4.json | 375 |
 | expansion-r10-grammar.json (round 10 — English grammar) | 72 | expansion-r10-health.json (round 10 — Health basics) | 210 |
-| expansion-r10-health2.json (round 10 — Health basics) | 89 | expansion-r10-iq.json (round 10 — IQ & Reasoning) | 2,524 |
+| expansion-r10-health2.json (round 10 — Health basics) | 159 | expansion-r10-iq.json (round 10 — IQ & Reasoning) | 2,524 |
 | expansion-r10-iq2.json (round 10 — IQ & Reasoning) | 972 | expansion-r10-iq3.json (round 10 — IQ & Reasoning) | 599 |
 | expansion-r10-iq4.json (round 10 — IQ & Reasoning) | 2,352 | expansion-r10-iq5.json (round 10 — IQ & Reasoning) | 798 |
-| expansion-r10-iq6.json | 323 | expansion-r10-maths.json (round 10 — Maths & Numerical) | 3,030 |
-| expansion-r10-maths10.json | 419 | expansion-r10-maths2.json (round 10 — Maths & Numerical) | 1,756 |
+| expansion-r10-iq6.json | 301 | expansion-r10-maths.json (round 10 — Maths & Numerical) | 3,030 |
+| expansion-r10-maths10.json | 410 | expansion-r10-maths2.json (round 10 — Maths & Numerical) | 1,756 |
 | expansion-r10-maths3.json (round 10 — Maths & Numerical) | 1,435 | expansion-r10-maths4.json (round 10 — Maths & Numerical) | 1,373 |
 | expansion-r10-maths5.json (round 10 — Maths & Numerical) | 1,659 | expansion-r10-maths6.json (round 10 — Maths & Numerical) | 933 |
 | expansion-r10-maths7.json (round 10 — Maths & Numerical) | 653 | expansion-r10-maths8.json | 376 |
-| expansion-r10-maths9.json (round 10 — Maths & Numerical) | 719 | expansion-r10-nepal-facts.json (round 10 — Nepal GK/districts) | 504 |
+| expansion-r10-maths9.json (round 10 — Maths & Numerical) | 717 | expansion-r10-nepal-facts.json (round 10 — Nepal GK/districts) | 504 |
 | expansion-r10-nepali.json (round 10 — Nepali Language) | 656 | expansion-r10-nepali2.json | 298 |
-| expansion-r10-office-edu-law.json | 186 | expansion-r10-science2.json | 84 |
+| expansion-r10-office-edu-law.json | 186 | expansion-r10-science2.json | 164 |
 | expansion-r10-vocab5.json | 1,232 | expansion-r10-vocab6.json (round 10 — English vocab) | 315 |
 | expansion-r10-world-science.json | 477 | expansion-r5-csit-ioe.json | 216 |
 | expansion-r5-current-science.json | 233 | expansion-r5-dental-ayurveda.json | 138 |
-| expansion-r5-foreign-telecom.json | 241 | expansion-r5-law.json | 155 |
-| expansion-r5-maths-hard.json | 1,071 | expansion-r6a-current.json | 407 |
+| expansion-r5-foreign-telecom.json | 242 | expansion-r5-law.json | 156 |
+| expansion-r5-maths-hard.json | 1,141 | expansion-r6a-current.json | 407 |
 | expansion-r6a-hard.json | 514 | expansion-r6a-thin-exams.json | 505 |
 | expansion-r6b-banking-health.json | 327 | expansion-r6b-language.json | 460 |
 | expansion-r6b-licence-entrance.json | 647 | expansion-r7a-licence.json | 455 |
@@ -165,15 +165,15 @@ PLAN.md  TESTING.md         Plan + 100-item test checklist with real results
 | expansion-r8-science-health.json | 480 | expansion-security-engineering.json | 137 |
 | expansion-technical-psc.json | 420 | expansion-thin-exams.json | 522 |
 | expansion-thin-topics.json | 517 | expansion-zero-licence.json | 437 |
-| iq-maths.json | 206 | license-allied-health.json | 208 |
+| iq-maths.json | 207 | license-allied-health.json | 208 |
 | license-health-assistant.json | 163 | license-medical.json | 173 |
 | license-nursing.json | 189 | license-pharmacy.json | 205 |
 | nepal-history-geography-culture.json | 201 | office-banking-education-health.json | 211 |
 | previous-year-2083.json | 133 | tsc-education.json | 403 |
-| expansion-r11-agri.json (round 11 rebuild) | 42 | expansion-r11-drills.json (round 11 rebuild) | 1043 |
-| expansion-r11-drills2.json (round 11 rebuild) | 1046 | expansion-r11-drills3.json (round 11 rebuild) | 405 |
+| expansion-r11-agri.json (round 11 rebuild) | 42 | expansion-r11-drills.json (round 11 rebuild) | 1,043 |
+| expansion-r11-drills2.json (round 11 rebuild) | 1,046 | expansion-r11-drills3.json (round 11 rebuild) | 405 |
 | expansion-r11-drills4.json (round 11 rebuild) | 153 | expansion-r11-drills5.json (round 11 rebuild) | 98 |
-| expansion-r11-drills6.json (round 11 rebuild) | 1096 | expansion-r11-english.json (round 11 rebuild) | 133 |
+| expansion-r11-drills6.json (round 11 rebuild) | 1,096 | expansion-r11-english.json (round 11 rebuild) | 133 |
 | expansion-r11-english2.json (round 11 rebuild) | 65 | expansion-r11-english3.json (round 11 rebuild) | 66 |
 | expansion-r11-grammar.json (round 11 rebuild) | 177 | expansion-r11-health.json (round 11 rebuild) | 28 |
 | expansion-r11-iq.json (round 11 rebuild) | 242 | expansion-r11-iq2.json (round 11 rebuild) | 71 |
@@ -181,12 +181,12 @@ PLAN.md  TESTING.md         Plan + 100-item test checklist with real results
 | expansion-r11-iq5.json (round 11 rebuild) | 83 | expansion-r11-law.json (round 11 rebuild) | 42 |
 | expansion-r11-maths.json (round 11 rebuild) | 348 | expansion-r11-maths2.json (round 11 rebuild) | 69 |
 | expansion-r11-nepal.json (round 11 rebuild) | 31 | expansion-r11-nepali.json (round 11 rebuild) | 94 |
-| expansion-r11-nepali2.json (round 11 rebuild) | 102 | expansion-r11-science.json (round 11 rebuild) | 32 |
+| expansion-r11-nepali2.json (round 11 rebuild) | 102 | expansion-r11-science.json (round 11 rebuild) | 432 |
 | expansion-r11-tech.json (round 11 rebuild) | 51 | | |
-| **Total** | **64,671** | Bilingual (EN + NE) | 64,671 (100%) |
+| **Total** | **65,309** | Bilingual (EN + NE) | 65,309 (100%) |
 
-By topic: Maths & Numerical 16,133 · IQ & Reasoning 9,917 · English 7,520 · Health/Technical basics 5,047 · Nepali Language 2,369 · Current Affairs 1,547 · Computer & ICT 1,534 · Constitution & Governance 1,448 · Nepal Geography 1,309 · Science & Tech 1,295 · Economy & Development 1,180 · Education & Pedagogy 1,066 · Culture & Society 1,039 · Nepal History 966 · Banking & Finance 954 · Law 861 · Office Management & Public Service 828 · Physics 795 · Mathematics 671 · Chemistry 607 · Foreign Service & Diplomacy 592 · Biology 573 · Engineering Drawing 367 · Economy 257 · IQ 201.
-By exam tag (one question can serve several exams): nasu 48,691 · kharidar 48,530 · section-officer 47,620 · nrb-assistant 35,183 · tsc-secondary 32,740 · tsc-primary 32,669 · rbb 31,263 · police 25,739 · army 25,728 · health 8,587 · foreign-service 7,180 · provincial-psc 6,115 · mecee-bl 3,856 · psc-service-groups 3,694 · ioe-entrance 3,509 · tsc-lower-secondary 3,393 · csit-entrance 3,216 · computer-operator 2,633 · sub-engineer 2,366 · tsc-license 2,052 · nrb-officer 2,049 · nea 1,470 · engineering 1,394 · nmc-mbbs 1,308 · staff-nurse-psc 1,256 · nhpc-ha 1,241 · nnc-rn 1,098 · nhpc-lab 1,048 · midwifery-nlem 1,035 · nhpc-public-health 1,022 · rbb-senior-assistant 958 · nepal-telecom 842 · npc-pharmacy 796 · bar-council 768 · nec-licence 760 · nmc-bds 667 · anm-guide 651 · judicial-service 585 · nhpc-ayurveda 580 · nhpc-physio 549 · nhpc-radio 548 · nhpc-optometry 524 · nhpc-dental 523 · deputy-secretary 19 · ayurveda-bams 18.
+By topic: Maths & Numerical 20,351 · IQ & Reasoning 10,411 · English 7,961 · Health/Technical basics 5,003 · Nepali Language 2,565 · Computer & ICT 1,561 · Current Affairs 1,538 · Constitution & Governance 1,471 · Nepal Geography 1,322 · Science & Tech 1,311 · Economy & Development 1,186 · Education & Pedagogy 1,066 · Culture & Society 1,047 · Nepal History 975 · Banking & Finance 958 · Law 870 · Physics 844 · Office Management & Public Service 836 · Chemistry 655 · Mathematics 596 · Foreign Service & Diplomacy 593 · Biology 549 · Engineering Drawing 391 · Economy 263 · Anatomy & Physiology 210 · IQ 201 · Botany 200 · Zoology 200 · Mathematics & Statistics 175.
+By exam tag (one question can serve several exams): nasu 54,292 · kharidar 54,149 · section-officer 53,221 · nrb-assistant 40,803 · tsc-secondary 38,348 · tsc-primary 38,277 · rbb 36,881 · police 31,347 · army 31,336 · health 8,730 · foreign-service 7,180 · provincial-psc 6,186 · mecee-bl 3,875 · psc-service-groups 3,734 · ioe-entrance 3,557 · tsc-lower-secondary 3,393 · csit-entrance 3,264 · computer-operator 2,684 · sub-engineer 2,417 · nrb-officer 2,059 · tsc-license 2,052 · nea 1,521 · engineering 1,445 · nmc-mbbs 1,308 · staff-nurse-psc 1,290 · nhpc-ha 1,275 · ctevt-health-1st-year 1,205 · nnc-rn 1,132 · nhpc-lab 1,082 · midwifery-nlem 1,069 · nhpc-public-health 1,056 · rbb-senior-assistant 968 · nepal-telecom 893 · nec-licence 826 · bar-council 800 · npc-pharmacy 800 · anm-guide 685 · nmc-bds 668 · judicial-service 617 · nhpc-ayurveda 582 · nhpc-physio 555 · nhpc-radio 554 · nhpc-optometry 528 · nhpc-dental 524 · deputy-secretary 59 · jta 42 · ranger 42 · ayurveda-bams 20.
 **Thin areas resolved in round 5:** NHPC Dental (30 → 109) and Ayurveda (30 → 104) now each cover a full 100-question paper; Law is now 329; CSIT 361, IOE 389, Foreign Service 312, Nepal Telecom 282. No prelim exam has zero tagged questions (see TESTING.md §K).
 
 ## ❓ Question format
