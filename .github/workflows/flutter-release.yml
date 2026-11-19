@@ -124,7 +124,7 @@ jobs:
           d = Path('flutter/assets/data')
           expected = {
               'exam-dates.json': 109,
-              'exams.json': 47,
+              'exams.json': 48,
               'festivals.json': 63,
               'historical-events.json': 95,
           }
@@ -196,26 +196,30 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.17
+      - name: Publish to GitHub Release android-v1.0.18
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.17
-          name: Outrank Android v1.0.17
+          tag_name: android-v1.0.18
+          name: Outrank Android v1.0.18
           body: |
-            Signed release APK for Outrank v1.0.17 (Android).
+            Signed release APK for Outrank v1.0.18 (Android).
 
-            What's new: data fix — English-word questions now show
-            English options in Nepali mode (3,071 questions). A question
-            like "Which English word means 'खैरो'?" used to show Devanagari
-            options, so you could answer without knowing the English word;
-            synonym, antonym, one-word and "which English word" questions
-            now keep their English options in both languages.
+            What's new: CTEVT Health Sciences First Year — a new exam
+            with 1,205 MCQs across the 6 subjects whose papers have a
+            separate MCQ section: Physics (210), Chemistry (210),
+            Zoology (200), Botany (200), Anatomy & Physiology (210)
+            and Maths & Statistics (175). 620 are new original model
+            questions; 585 are existing bank questions retargeted to
+            the +2 syllabus. The mock mirrors the real MCQ paper:
+            20 questions, 20 marks, 20 minutes. Also: the Practice
+            and Mock pickers now fit all 9 category headers on one
+            phone screen.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.16 as an update (same signature).
+            Installs over v1.0.17 as an update (same signature).
 
-            Bundled data: 109 exam dates, 47 exams, 64,689 questions,
+            Bundled data: 109 exam dates, 48 exams, 65,309 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
           files: flutter/build/app/outputs/flutter-apk/app-release.apk
           overwrite_files: true # re-runs replace the previous APK asset
