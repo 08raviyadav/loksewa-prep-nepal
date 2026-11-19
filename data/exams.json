@@ -1252,5 +1252,34 @@
       "English"
     ],
     "note": "Verified pattern (2082/2083): CBT, 100 MCQs, 140 marks (60x1 + 40x2), 2 hrs, -10% per wrong answer. Guide-only in this portal: the mock engine assumes uniform marks per question, so no mock until mixed-mark support is added. Practice questions are usable."
+  },
+  {
+    "age": "—",
+    "body": "Council for Technical Education and Vocational Training (CTEVT)",
+    "education": "SEE pass (admitted on SEE merit; no entrance exam since 2082)",
+    "final": "Practical + viva per subject (as per CTEVT curriculum)",
+    "id": "ctevt-health-1st-year",
+    "level": "PCL / Diploma in Health Sciences, First Year",
+    "main": "Theory paper per subject (60 marks): very-short + short + long answers — written, not tested here",
+    "name": "CTEVT Health Sciences — First Year",
+    "name_ne": "CTEVT स्वास्थ्य विज्ञान — प्रथम वर्ष",
+    "note": "MCQ sections verified from the CTEVT Health Sciences First Year curriculum (2024 revision) and 2082 papers: each of the 6 subjects has a 20-MCQ / 20-mark / 20-minute section before its 60-mark theory paper. English, Nepali and Social Studies have no MCQ paper and are not covered. The mock mixes all 6 subjects; each real paper is 20 MCQs from ONE subject — practise one subject at a time via Practice topics. Negative marking for the MCQ section is unverified, so this mock applies none. Pass 8 = the 40% subject pass applied to the 20-mark MCQ section.",
+    "prelim": {
+      "breakdown": "6 separate MCQ papers, one per subject (Physics, Chemistry, Zoology, Botany, Anatomy & Physiology, Maths & Statistics) — each 20 MCQs",
+      "marksPerQ": 1,
+      "negative": null,
+      "pass": 8,
+      "questions": 20,
+      "timeMin": 20,
+      "total": 20
+    },
+    "syllabus": [
+      "Physics",
+      "Chemistry",
+      "Zoology",
+      "Botany",
+      "Anatomy & Physiology",
+      "Mathematics & Statistics"
+    ]
   }
 ]

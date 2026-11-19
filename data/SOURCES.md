@@ -629,3 +629,53 @@ Still unverified (candidates for a future pass): first census (1911), first
 five-year plan (1956), Nepal Academy, NHRC, first president elected
 (21 July 2008), Rastriya Banijya Bank founding (23 Jan 1966), Bir Hospital
 founding (1890?).
+
+## 20. CTEVT Health Sciences First Year (2026-11-19) — new exam, 1,205 MCQs
+
+New exam `ctevt-health-1st-year` ("CTEVT Health Sciences — First Year").
+Verified by web research 2026-11-19 (official CTEVT curriculum PDFs + real
+2082 papers): the Health Sciences First Year curriculum (3rd revision,
+2024, common to ~12 programs — HA, Pharmacy, MLT, Radiography, Physio,
+Dental, Ayurveda, etc.) has a SEPARATE MCQ paper per subject — 20 MCQs,
+20 marks, 20 minutes, sat before the 60-mark theory paper (total 80).
+Only 6 subjects have MCQ papers: Physics, Chemistry, Zoology, Botany,
+Anatomy & Physiology, Mathematics & Statistics. English, Nepali and
+Social Studies have theory-only papers (no MCQ) and are NOT built. No
+other faculty/year has MCQ papers (verified: Agriculture 2025 revision,
+Food & Dairy 2023, Forestry and Civil real papers, Pharmacy 3rd year).
+The CTEVT entrance exam was SCRAPPED in May 2025 (207th meeting,
+Baisakh 26, 2082; admission now on SEE GPA merit) — no entrance prep
+is built. PCL Nursing's separate 2018 curriculum was NOT verified for
+MCQ — left out.
+
+Content: 1,205 tagged questions — 585 retargeted from the existing bank
+(Physics 170, Chemistry 170, Anatomy & Physiology 140, Maths &
+Statistics 105) + 620 NEW original model questions (Zoology 200,
+Botany 200, Anatomy & Physiology 70, Maths & Statistics 70, Physics 40,
+Chemistry 40). New questions carry source "Outrank model questions —
+CTEVT Health Sciences First Year" and are never presented as real PYQs;
+no real PYQ was retagged. Topic coverage follows the verified 2082 MCQ
+topic lists (e.g. Physics: viscosity, lenses, half-life; Zoology: Bohr
+effect, nephron, Sarcoptes scabiei; Botany: meiosis, guard cells,
+Sarpagandha) — original questions ON those topics, never copied stems.
+
+Retarget method (`workspace/ctevt-build/retarget.py`): pool by topic /
+subtopic, keyword-scored against the 2082 topics; excluded PYQs,
+answer-skewed files (expansion-r8-science-health, expansion-entrance-
+licence, expansion-r11-science), meta-stems naming other exams
+("In physics examinations (IOE, CSIT...)"), program-specific A&P
+subtopics (dental/oral, ocular, radiographic, plant) and off-syllabus
+maths subtopics (percentages, interest, mensuration, estimating);
+near-duplicate drill templates capped at 4 per pattern, one subtopic
+capped at 30, difficulty quotas ~30/40/30 easy/medium/hard. Retargeted
+A&P / Maths questions had their `topic` changed to the CTEVT subject
+topic (cosmetic: topic chips + coverage only; no mock mix affected —
+`mockMixFor` covers 4 other exams). New questions validated by
+`workspace/ctevt-build/validate-new.py` (schema, CTV- id namespace,
+no stem duplicates vs the bank, bilingual fields, marks 1).
+
+Mock: one mixed 20-MCQ mock (20 marks, 20 min, pass 8 = 40% subject
+pass, no negative marking — the negative rule is unverified, so the
+mock applies none and says so). Per-subject practice via Practice →
+exam → topic chips. The mock does NOT pretend to be the full paper
+(Outrank cannot test written theory).
