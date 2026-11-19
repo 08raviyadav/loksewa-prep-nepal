@@ -626,10 +626,17 @@ class _PracticeScreenState extends State<PracticeScreen> {
                         return Padding(
                           // Tour step 5 target: the first category tile.
                           key: i == 0 ? TourKeys.firstCategory : null,
-                          padding: const EdgeInsets.only(bottom: AppSpacing.s2),
+                          // Tight 4px gaps: 9 headers must fit on one
+                          // phone screen (v1.0.18: CTEVT is the 9th).
+                          padding: const EdgeInsets.only(bottom: AppSpacing.s1),
                           child: Card(
                             margin: EdgeInsets.zero,
                             child: ExpansionTile(
+                              // 9 category headers must fit on one phone
+                              // screen (v1.0.18: CTEVT is the 9th) — the
+                              // 56px default overflows by ~41px. 48px still
+                              // clears the 44px minimum tap target.
+                              minTileHeight: 48,
                               // Key includes the expanded flag so a programmatic
                               // expand (picking from search / deep-link) rebuilds
                               // the tile open; user taps toggle via the callback.

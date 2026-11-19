@@ -35,7 +35,7 @@ class MockListScreen extends StatefulWidget {
 class _MockListScreenState extends State<MockListScreen> {
   late final Future<List<_MockEntry>> _entriesFuture;
 
-  // Same organisation as the Practice picker (v1.0.1): 33 mocks as full
+  // Same organisation as the Practice picker (v1.0.1): 34 mocks as full
   // cards was ~10 screens of scrolling. Search + collapsible category
   // sections + one compact row per mock.
   final _searchCtrl = TextEditingController();
@@ -250,10 +250,17 @@ class _MockListScreenState extends State<MockListScreen> {
                   final (cat, list) = g;
                   final expanded = _expanded.contains(cat.id);
                   return Padding(
-                    padding: const EdgeInsets.only(bottom: AppSpacing.s2),
+                    // Tight 4px gaps: 9 headers must fit on one phone
+                    // screen (v1.0.18: CTEVT is the 9th).
+                    padding: const EdgeInsets.only(bottom: AppSpacing.s1),
                     child: Card(
                       margin: EdgeInsets.zero,
                       child: ExpansionTile(
+                        // 9 section headers must fit on one phone screen
+                        // (v1.0.18: CTEVT is the 9th) — the 56px default
+                        // overflows. 48px still clears the 44px minimum
+                        // tap target.
+                        minTileHeight: 48,
                         key: ValueKey('mock_${cat.id}_$expanded'),
                         title: Text(
                           '${cat.title(ne)}  ·  ${list.length}',
@@ -287,7 +294,7 @@ class _MockListScreenState extends State<MockListScreen> {
   }
 
   /// Compact mock row (v1.0.1): the old full card was ~230px each, so
-  /// 33 mocks were ~10 screens of scrolling. One row per mock — name +
+  /// 34 mocks were ~10 screens of scrolling. One row per mock — name +
   /// one-line pattern summary + a small Start button — is ~72px. Tap
   /// the row for the full pattern detail sheet; Start jumps straight
   /// into the mock.
