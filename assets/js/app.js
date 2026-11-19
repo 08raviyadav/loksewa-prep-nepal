@@ -1041,10 +1041,10 @@ async function loadData(){
   }
 }
 // Exam-picker search (Practice + Mock): with 48 exams a bare <select> is a
-// long scroll on a phone. A text box above the select hides non-matching
-// options (option.hidden — the selected exam still shows as the select's
-// value even while hidden, so a filter can never wipe the user's choice).
-// Matches the English name, Nepali name, id and body, case-insensitively.
+// long scroll on a phone. A text box above the select filters the select's
+// options AND shows a live suggestion dropdown under the box as the user
+// types (tap a suggestion to pick that exam). Matches the English name,
+// Nepali name, id and body, case-insensitively.
 function examMatchesQuery(e, q) {
   if (!e) return false;
   const query = (q || '').trim().toLowerCase();
@@ -1052,33 +1052,120 @@ function examMatchesQuery(e, q) {
   return [e.name, e.name_ne, e.id, e.body].some(
     v => typeof v === 'string' && v.toLowerCase().includes(query));
 }
-function applyExamSearch(selectId, inputId, noMatchId) {
+// First N exams matching the query (pure — the dropdown renderer passes
+// EXAMS in). Empty query returns []: the dropdown stays hidden until the
+// user types something.
+function examSearchResults(exams, q, limit) {
+  const query = (q || '').trim().toLowerCase();
+  if (!query) return [];
+  const out = [];
+  const max = limit || 8;
+  for (const e of (exams || [])) {
+    if (examMatchesQuery(e, query)) { out.push(e); if (out.length >= max) break; }
+  }
+  return out;
+}
+// Live suggestion dropdown under the search box: the matching exams appear
+// as the user types (max 8 + a "+N more" row); tapping one picks it.
+function renderExamSearchList(inputId, selectId, listId) {
+  if (typeof document === 'undefined') return;
+  const inp = document.getElementById(inputId);
+  const list = document.getElementById(listId);
+  if (!inp || !list) return;
+  const query = (inp.value || '').trim();
+  if (!query) { list.hidden = true; inp.setAttribute('aria-expanded', 'false'); return; }
+  const total = EXAMS.filter(e => examMatchesQuery(e, query)).length;
+  const items = examSearchResults(EXAMS, query, 8);
+  if (!items.length) {
+    list.innerHTML = '<div class="exam-search-empty">' + esc(B('No exams match — clear the search to see all exams.', 'कुनै परीक्षा मिलेन — सबै परीक्षा हेर्न खोजी मेट्नुहोस्।')) + '</div>';
+  } else {
+    list.innerHTML = items.map(e =>
+      '<button type="button" class="exam-search-item" role="option" data-exam="' + esc(e.id) + '">' +
+      esc(e.name) + '<small>' + esc(e.body || '') + '</small></button>'
+    ).join('') + (total > items.length ? '<div class="exam-search-more">' + esc(B('+' + (total - items.length) + ' more — keep typing to narrow', '+ ' + (total - items.length) + ' वटा बाँकी — साँघुरो पार्न टाइप गर्दै जानुहोस्')) + '</div>' : '');
+  }
+  list.hidden = false;
+  inp.setAttribute('aria-expanded', 'true');
+  // mousedown, not click: the input blurs before click fires, and the blur
+  // would hide the list first. preventDefault keeps focus on the box.
+  list.querySelectorAll('.exam-search-item').forEach(btn => {
+    btn.addEventListener('mousedown', ev => {
+      ev.preventDefault();
+      selectExamFromSearch(selectId, btn.getAttribute('data-exam'), inputId, listId);
+    });
+  });
+}
+function selectExamFromSearch(selectId, examId, inputId, listId) {
+  if (typeof document === 'undefined') return;
+  const sel = document.getElementById(selectId);
+  const inp = document.getElementById(inputId);
+  const list = document.getElementById(listId);
+  const e = examById(examId);
+  if (list) list.hidden = true;
+  // The search box is a finder, not a display: clear it so the select shows
+  // the full list again, with the picked exam as its value.
+  if (inp) { inp.setAttribute('aria-expanded', 'false'); inp.value = ''; }
+  if (!sel || !e) return;
+  sel.value = examId;
+  // Setting .value doesn't fire 'change' — dispatch it so the pattern text
+  // + topic list update exactly as if the user picked from the select.
+  if (typeof Event !== 'undefined') sel.dispatchEvent(new Event('change'));
+  applyExamSearch(selectId, inputId);
+}
+function applyExamSearch(selectId, inputId) {
   if (typeof document === 'undefined') return;
   const sel = document.getElementById(selectId);
   const inp = document.getElementById(inputId);
   if (!sel || !inp) return;
   const q = inp.value || '';
-  let visible = 0;
   for (const o of (sel.options || [])) {
     // The empty-value option (mixed practice / "—") is never filtered out.
     if (!o.value) { o.hidden = false; continue; }
-    const show = examMatchesQuery(examById(o.value), q);
-    o.hidden = !show;
-    if (show) visible++;
-  }
-  const hint = noMatchId ? document.getElementById(noMatchId) : null;
-  if (hint) {
-    const noMatch = q.trim() !== '' && visible === 0;
-    hint.hidden = !noMatch;
-    if (noMatch) hint.textContent = B('No exams match — clear the search to see all exams.', 'कुनै परीक्षा मिलेन — सबै परीक्षा हेर्न खोजी मेट्नुहोस्।');
+    o.hidden = !examMatchesQuery(examById(o.value), q);
   }
 }
-function wireExamSearch(inputId, selectId, noMatchId) {
+function wireExamSearch(inputId, selectId, listId) {
   if (typeof document === 'undefined') return;
   const inp = document.getElementById(inputId);
   if (!inp || inp.dataset.examSearchWired) return;
   inp.dataset.examSearchWired = '1';
-  inp.addEventListener('input', () => applyExamSearch(selectId, inputId, noMatchId));
+  inp.addEventListener('input', () => {
+    delete inp.dataset.examSearchActive;
+    applyExamSearch(selectId, inputId);
+    renderExamSearchList(inputId, selectId, listId);
+  });
+  inp.addEventListener('focus', () => renderExamSearchList(inputId, selectId, listId));
+  inp.addEventListener('keydown', ev => {
+    const list = document.getElementById(listId);
+    if (ev.key === 'Escape') {
+      if (list) list.hidden = true;
+      inp.setAttribute('aria-expanded', 'false');
+      inp.blur();
+    } else if (ev.key === 'Enter') {
+      const id = inp.dataset.examSearchActive || (examSearchResults(EXAMS, inp.value, 1)[0] || {}).id;
+      if (id) { ev.preventDefault(); selectExamFromSearch(selectId, id, inputId, listId); }
+    } else if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      if (!list || list.hidden) return;
+      const items = list.querySelectorAll('.exam-search-item');
+      if (!items.length) return;
+      ev.preventDefault();
+      let idx = -1;
+      items.forEach((it, i) => { if (it.classList.contains('active')) idx = i; });
+      idx = ev.key === 'ArrowDown' ? Math.min(idx + 1, items.length - 1) : Math.max(idx - 1, 0);
+      items.forEach((it, i) => it.classList.toggle('active', i === idx));
+      inp.dataset.examSearchActive = items[idx].getAttribute('data-exam');
+    }
+  });
+  // One shared document listener closes any open list on an outside tap.
+  if (!wireExamSearch._outsideWired) {
+    wireExamSearch._outsideWired = true;
+    document.addEventListener('click', ev => {
+      document.querySelectorAll('.exam-search-list').forEach(l => {
+        const wrap = l.closest ? l.closest('.exam-search-wrap') : null;
+        if (wrap && !wrap.contains(ev.target)) l.hidden = true;
+      });
+    });
+  }
 }
 function fillExamSelects(){
   // Rebuilding the selects used to wipe the user's choice: visiting the
@@ -1114,10 +1201,10 @@ function fillExamSelects(){
   const pp=document.getElementById('practice-pattern'); const upd=()=>{ const pe2=document.getElementById('practice-exam'); const ev=pe2?pe2.value:''; const e=ev?examById(ev):null; if(pp) pp.textContent=!ev?('🌐 '+B('Mixed practice','मिश्रित अभ्यास')+' — '+QUESTIONS.length.toLocaleString()+' '+B('questions from all exams, ~54s per question with the timer on.','सबै परीक्षाका प्रश्नहरू, टाइमर चल्दा प्रति प्रश्न ~५४ सेकेन्ड।')):e&&e.prelim?`${e.name}: ${e.prelim.questions} ${B('questions','प्रश्न')} × ${e.prelim.marksPerQ} ${B('mark(s)','अङ्क')}, ${e.prelim.timeMin==null?B('time unverified','समय अपुष्ट'):e.prelim.timeMin+' '+B('min','मिनेट')}, ${B('pass','पास')} ${e.prelim.pass}/${e.prelim.total}.`:B('Guide-only exam — no MCQ paper; practice draws from tagged questions only.','गाइड-मात्र परीक्षा — MCQ पेपर छैन; अभ्यास ट्याग गरिएका प्रश्नहरूबाट मात्र हुन्छ।'); }; const pe=document.getElementById('practice-exam'); if(pe) pe.addEventListener('change',()=>{ upd(); updatePracticeTopics(); }); upd(); updatePracticeTopics();
   // Re-apply the picker search after a rebuild (visiting Contribute rebuilds
   // the selects and would otherwise wipe an active filter).
-  wireExamSearch('practice-exam-search', 'practice-exam', 'practice-exam-nomatch');
-  wireExamSearch('mock-exam-search', 'mock-exam', 'mock-exam-nomatch');
-  applyExamSearch('practice-exam', 'practice-exam-search', 'practice-exam-nomatch');
-  applyExamSearch('mock-exam', 'mock-exam-search', 'mock-exam-nomatch');
+  wireExamSearch('practice-exam-search', 'practice-exam', 'practice-exam-list');
+  wireExamSearch('mock-exam-search', 'mock-exam', 'mock-exam-list');
+  applyExamSearch('practice-exam', 'practice-exam-search');
+  applyExamSearch('mock-exam', 'mock-exam-search');
 }
 // Rebuild the Practice topic list from the topics that actually have questions
 // tagged for the selected exam. The old global list let users pick impossible
