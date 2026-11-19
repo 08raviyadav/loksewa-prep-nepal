@@ -9,7 +9,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -184,7 +185,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -219,7 +221,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -289,7 +292,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -499,7 +503,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -709,7 +714,8 @@
       "sub-engineer",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Physics",
     "subtopic": "Physics",
@@ -1317,7 +1323,8 @@
       "nmc-bds",
       "section-officer",
       "kharidar",
-      "nasu"
+      "nasu",
+      "ctevt-health-1st-year"
     ],
     "topic": "Chemistry",
     "subtopic": "Chemistry",
@@ -3103,5 +3110,2245 @@
     "explanation": "The correct choice is Hard disk.",
     "explanation_ne": "उत्तर हार्ड डिस्क हो।",
     "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "CTV-PHY-001",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Viscosity",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following liquids has the highest viscosity at room temperature?",
+    "question_ne": "कोठा तापक्रममा निम्नमध्ये कुन तरल पदार्थको श्यानता सबैभन्दा बढी हुन्छ?",
+    "options": [
+      "Water",
+      "Honey",
+      "Ethyl alcohol",
+      "Kerosene"
+    ],
+    "options_ne": [
+      "पानी",
+      "मह",
+      "इथाइल अल्कोहल",
+      "मट्टितेल"
+    ],
+    "answer": 1,
+    "explanation": "Honey flows most slowly because its molecules have strong intermolecular forces, giving it the highest viscosity of the four liquids.",
+    "explanation_ne": "मह सबैभन्दा बिस्तारै बग्छ किनभने यसका अणुहरूबीच बलियो अन्तरआणविक बल हुन्छ, त्यसैले यसको श्यानता सबैभन्दा बढी हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-002",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Viscosity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The coefficient of viscosity of a liquid generally decreases when the temperature rises because",
+    "question_ne": "तापक्रम बढ्दा तरल पदार्थको श्यानता गुणाङ्क सामान्यतया घट्छ किनभने",
+    "options": [
+      "the intermolecular forces between the molecules weaken",
+      "the density of the liquid increases",
+      "the liquid expands and becomes heavier",
+      "the molecules stop moving"
+    ],
+    "options_ne": [
+      "अणुहरूबीचको अन्तरआणविक बल कमजोर हुन्छ",
+      "तरल पदार्थको घनत्व बढ्छ",
+      "तरल पदार्थ फैलिन्छ र गह्रौं हुन्छ",
+      "अणुहरू चल्न छोड्छन्"
+    ],
+    "answer": 0,
+    "explanation": "Higher temperature gives molecules more kinetic energy, weakening intermolecular attraction, so the liquid flows more easily and its viscosity falls.",
+    "explanation_ne": "उच्च तापक्रममा अणुहरूले बढी गतिज ऊर्जा पाउँछन्, जसले अन्तरआणविक आकर्षण कमजोर बनाउँछ र तरल पदार्थ सजिलै बग्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-003",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Elasticity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A metal wire obeys Hooke's law. When the stretching force applied to it is doubled, its extension becomes",
+    "question_ne": "एउटा धातुको तारले हुकको नियम पालना गर्छ। त्यसमा लगाइएको तन्काउने बल दोब्बर पारिएमा यसको लम्बाइ वृद्धि कति हुन्छ?",
+    "options": [
+      "halved",
+      "doubled",
+      "four times as large",
+      "unchanged"
+    ],
+    "options_ne": [
+      "आधा हुन्छ",
+      "दोब्बर हुन्छ",
+      "चार गुणा हुन्छ",
+      "अपरिवर्तित रहन्छ"
+    ],
+    "answer": 1,
+    "explanation": "By Hooke's law, within the elastic limit the extension is directly proportional to the applied force, so doubling the force doubles the extension.",
+    "explanation_ne": "हुकको नियम अनुसार प्रत्यास्थ सीमाभित्र लम्बाइ वृद्धि लगाइएको बलसँग समानुपातिक हुन्छ, त्यसैले बल दोब्बर हुँदा लम्बाइ वृद्धि पनि दोब्बर हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-004",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Elasticity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Young's modulus of a material depends on",
+    "question_ne": "कुनै पदार्थको यङ मोडुलस कुन कुरामा निर्भर गर्छ?",
+    "options": [
+      "the length of the wire",
+      "the cross-sectional area of the wire",
+      "the material of the wire only",
+      "the applied force"
+    ],
+    "options_ne": [
+      "तारको लम्बाइमा",
+      "तारको अनुप्रस्थ काट क्षेत्रफलमा",
+      "केवल तारको पदार्थमा",
+      "लगाइएको बलमा"
+    ],
+    "answer": 2,
+    "explanation": "Young's modulus is a property of the material itself and is independent of the dimensions of the sample or the force applied.",
+    "explanation_ne": "यङ मोडुलस पदार्थको गुण हो; यो नमुनाको आकार वा लगाइएको बलबाट स्वतन्त्र हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-005",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Temperature scales",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A temperature of 300 K is equal to how many degrees Celsius?",
+    "question_ne": "३०० K तापक्रम सेल्सियसमा कति डिग्री हुन्छ?",
+    "options": [
+      "27 °C",
+      "73 °C",
+      "273 °C",
+      "573 °C"
+    ],
+    "options_ne": [
+      "२७ °C",
+      "७३ °C",
+      "२७३ °C",
+      "५७३ °C"
+    ],
+    "answer": 0,
+    "explanation": "Celsius temperature = kelvin temperature − 273, so 300 K = 27 °C.",
+    "explanation_ne": "सेल्सियस तापक्रम = केल्भिन तापक्रम − २७३, त्यसैले ३०० K = २७ °C हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-006",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Temperature scales",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The triple point of water, used to define the kelvin scale, is",
+    "question_ne": "केल्भिन मापन परिभाषित गर्न प्रयोग हुने पानीको त्रिक बिन्दु (triple point) कति हो?",
+    "options": [
+      "273.16 K",
+      "273.15 K",
+      "373.16 K",
+      "0 K"
+    ],
+    "options_ne": [
+      "२७३.१६ K",
+      "२७३.१५ K",
+      "३७३.१६ K",
+      "० K"
+    ],
+    "answer": 0,
+    "explanation": "By definition the triple point of water is 273.16 K (0.01 °C), the temperature at which ice, water and vapour coexist.",
+    "explanation_ne": "परिभाषा अनुसार पानीको त्रिक बिन्दु २७३.१६ K (०.०१ °C) हुन्छ, जहाँ बरफ, पानी र बाफ एकसाथ रहन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-007",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Heat",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Steam at 100 °C causes more severe burns than boiling water at the same temperature because steam",
+    "question_ne": "१०० °C को बाफले सोही तापक्रमको उम्लिरहेको पानीभन्दा बढी गम्भीर पोलेको घाउ किन बनाउँछ?",
+    "options": [
+      "is hotter than boiling water",
+      "carries extra latent heat of vaporisation",
+      "has a lower specific heat capacity",
+      "expands faster than water"
+    ],
+    "options_ne": [
+      "बाफ उम्लिरहेको पानीभन्दा तातो हुन्छ",
+      "बाफमा वाष्पीकरणको गुप्त ताप थप हुन्छ",
+      "बाफको विशिष्ट ताप क्षमता कम हुन्छ",
+      "बाफ पानीभन्दा छिटो फैलिन्छ"
+    ],
+    "answer": 1,
+    "explanation": "When steam condenses on the skin it releases its latent heat of vaporisation in addition to the heat of the hot water, so it delivers much more heat.",
+    "explanation_ne": "बाफले छालामा ठोसिँदा वाष्पीकरणको गुप्त ताप पनि छोड्छ, त्यसैले यसले उम्लिरहेको पानीभन्दा बढी ताप दिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-008",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Critical angle",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The critical angle for light travelling from glass of refractive index 1.5 into air is about",
+    "question_ne": "अपवर्तनाङ्क १.५ भएको काँचबाट हावामा जाने प्रकाशको क्रान्तिक कोण लगभग कति हुन्छ?",
+    "options": [
+      "30°",
+      "41.8°",
+      "48.6°",
+      "60°"
+    ],
+    "options_ne": [
+      "३०°",
+      "४१.८°",
+      "४८.६°",
+      "६०°"
+    ],
+    "answer": 1,
+    "explanation": "sin C = 1/n = 1/1.5 = 0.667, so the critical angle C is about 41.8°.",
+    "explanation_ne": "sin C = १/n = १/१.५ = ०.६६७, त्यसैले क्रान्तिक कोण C ≈ ४१.८° हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-009",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Critical angle",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "A ray of light travelling from water (refractive index 4/3) to air suffers total internal reflection when its angle of incidence exceeds",
+    "question_ne": "पानी (अपवर्तनाङ्क ४/३) बाट हावामा जाने प्रकाश किरणले आफ्नो आपतन कोण कति नाघेपछि पूर्ण आन्तरिक परावर्तन हुन्छ?",
+    "options": [
+      "41.8°",
+      "48.6°",
+      "53.1°",
+      "60°"
+    ],
+    "options_ne": [
+      "४१.८°",
+      "४८.६°",
+      "५३.१°",
+      "६०°"
+    ],
+    "answer": 1,
+    "explanation": "sin C = 3/4 = 0.75, so the critical angle is about 48.6°; beyond this angle total internal reflection occurs.",
+    "explanation_ne": "sin C = ३/४ = ०.७५, त्यसैले क्रान्तिक कोण C ≈ ४८.६° हुन्छ; यसभन्दा ठूलो आपतन कोणमा पूर्ण आन्तरिक परावर्तन हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-010",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Lenses",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "An object is placed 30 cm in front of a convex lens of focal length 20 cm. The image is formed at a distance of",
+    "question_ne": "एउटा वस्तु २० सेमी फोकस दूरी भएको उत्तल लेन्सको अगाडि ३० सेमी दूरीमा राखिएको छ। प्रतिबिम्ब कति दूरीमा बन्छ?",
+    "options": [
+      "20 cm",
+      "40 cm",
+      "60 cm",
+      "12 cm"
+    ],
+    "options_ne": [
+      "२० सेमी",
+      "४० सेमी",
+      "६० सेमी",
+      "१२ सेमी"
+    ],
+    "answer": 2,
+    "explanation": "From the lens formula, 1/v = 1/f − 1/u = 1/20 − 1/30 = 1/60, so v = 60 cm.",
+    "explanation_ne": "लेन्स सूत्र अनुसार १/v = १/f − १/u = १/२० − १/३० = १/६०, त्यसैले v = ६० सेमी हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-011",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Lenses",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The power of a lens of focal length −25 cm is",
+    "question_ne": "फोकस दूरी −२५ सेमी भएको लेन्सको क्षमता (power) कति हुन्छ?",
+    "options": [
+      "−4 D",
+      "+4 D",
+      "−0.25 D",
+      "+0.25 D"
+    ],
+    "options_ne": [
+      "−४ D",
+      "+४ D",
+      "−०.२५ D",
+      "+०.२५ D"
+    ],
+    "answer": 0,
+    "explanation": "Power P = 100/f(cm) = 100/(−25) = −4 dioptres; the negative sign shows it is a concave lens.",
+    "explanation_ne": "क्षमता P = १००/f(सेमी) = १००/(−२५) = −४ डायोप्टर हुन्छ; ऋणात्मक चिह्नले यो अवतल लेन्स हो भन्ने देखाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-012",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Prisms",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "For a prism of refracting angle 60°, the angle of minimum deviation is 30°. The refractive index of the prism material is",
+    "question_ne": "६०° अपवर्तक कोण भएको प्रिज्ममा न्यूनतम विचलन कोण ३०° छ। प्रिज्मको पदार्थको अपवर्तनाङ्क कति हो?",
+    "options": [
+      "1.33",
+      "1.41",
+      "1.50",
+      "1.62"
+    ],
+    "options_ne": [
+      "१.३३",
+      "१.४१",
+      "१.५०",
+      "१.६२"
+    ],
+    "answer": 1,
+    "explanation": "n = sin((A + δm)/2)/sin(A/2) = sin 45°/sin 30° = 0.707/0.5 ≈ 1.41.",
+    "explanation_ne": "n = sin((A+δm)/२)/sin(A/२) = sin ४५°/sin ३०° = ०.७०७/०.५ ≈ १.४१ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-013",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Prisms",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "In a prism, the angle of deviation is minimum when the ray",
+    "question_ne": "प्रिज्ममा विचलन कोण न्यूनतम कहिले हुन्छ?",
+    "options": [
+      "passes symmetrically through the prism",
+      "grazes the first face",
+      "travels along the base",
+      "is incident at 90°"
+    ],
+    "options_ne": [
+      "किरण प्रिज्मबाट सममित रूपमा पार हुँदा",
+      "किरण पहिलो सतहमा चिप्लिँदा",
+      "किरण आधारसँगै जाँदा",
+      "किरण ९०° मा आपतित हुँदा"
+    ],
+    "answer": 0,
+    "explanation": "At minimum deviation the angle of incidence equals the angle of emergence, so the ray passes symmetrically through the prism.",
+    "explanation_ne": "न्यूनतम विचलनमा आपतन कोण र निर्गमन कोण बराबर हुन्छन्, अर्थात् किरण प्रिज्मबाट सममित रूपमा पार हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-014",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Wave superposition",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Two waves of amplitudes 3 units and 4 units superpose in phase. The amplitude of the resultant wave is",
+    "question_ne": "३ एकाइ र ४ एकाइ आयाम भएका दुई तरङ्गहरू समान कलामा अध्यारोपित हुन्छन्। परिणामी तरङ्गको आयाम कति हुन्छ?",
+    "options": [
+      "1 unit",
+      "5 units",
+      "7 units",
+      "12 units"
+    ],
+    "options_ne": [
+      "१ एकाइ",
+      "५ एकाइ",
+      "७ एकाइ",
+      "१२ एकाइ"
+    ],
+    "answer": 2,
+    "explanation": "In phase, the amplitudes add: 3 + 4 = 7 units (constructive interference).",
+    "explanation_ne": "समान कलामा आयामहरू जोडिन्छन्: ३ + ४ = ७ एकाइ हुन्छ (रचनात्मक व्यतिकरण)।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-015",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Wave superposition",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "When two identical waves meet in opposite phase, the resultant amplitude is",
+    "question_ne": "दुई समान तरङ्गहरू विपरीत कलामा भेटिँदा परिणामी आयाम कति हुन्छ?",
+    "options": [
+      "doubled",
+      "zero",
+      "halved",
+      "unchanged"
+    ],
+    "options_ne": [
+      "दोब्बर हुन्छ",
+      "शून्य हुन्छ",
+      "आधा हुन्छ",
+      "अपरिवर्तित रहन्छ"
+    ],
+    "answer": 1,
+    "explanation": "In opposite phase the waves cancel each other exactly, so the resultant amplitude is zero (destructive interference).",
+    "explanation_ne": "विपरीत कलामा तरङ्गहरूले एकअर्कालाई रद्द गर्छन्, त्यसैले परिणामी आयाम शून्य हुन्छ (विनाशकारी व्यतिकरण)।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-016",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Sound waves",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The speed of sound in air increases by about how much for every 1 °C rise in temperature?",
+    "question_ne": "तापक्रम १ °C बढ्दा हावामा ध्वनिको गति लगभग कतिले बढ्छ?",
+    "options": [
+      "0.61 m/s",
+      "6.1 m/s",
+      "0.06 m/s",
+      "61 m/s"
+    ],
+    "options_ne": [
+      "०.६१ मि/से",
+      "६.१ मि/से",
+      "०.०६ मि/से",
+      "६१ मि/से"
+    ],
+    "answer": 0,
+    "explanation": "The speed of sound in air rises with temperature by about 0.61 m/s for each 1 °C increase.",
+    "explanation_ne": "हावामा ध्वनिको गति तापक्रमसँग बढ्छ — प्रत्येक १ °C वृद्धिमा लगभग ०.६१ मि/से बढ्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-017",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Sound waves",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A sound wave of frequency 500 Hz travels in air at 340 m/s. Its wavelength is",
+    "question_ne": "५०० हर्ज आवृत्ति भएको ध्वनि तरङ्ग हावामा ३४० मि/से गतिमा यात्रा गर्छ। यसको तरङ्गदैर्ध्य कति हो?",
+    "options": [
+      "0.34 m",
+      "0.68 m",
+      "1.47 m",
+      "6.8 m"
+    ],
+    "options_ne": [
+      "०.३४ मि",
+      "०.६८ मि",
+      "१.४७ मि",
+      "६.८ मि"
+    ],
+    "answer": 1,
+    "explanation": "Wavelength λ = v/f = 340/500 = 0.68 m.",
+    "explanation_ne": "तरङ्गदैर्ध्य λ = v/f = ३४०/५०० = ०.६८ मिटर हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-018",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Resistance",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A wire of resistance 12 Ω is cut into three equal parts and the parts are connected in parallel. The equivalent resistance is",
+    "question_ne": "१२ Ω प्रतिरोध भएको तारलाई तीन बराबर भागमा काटेर ती भागहरूलाई समानान्तर जोडिन्छ। तुल्य प्रतिरोध कति हुन्छ?",
+    "options": [
+      "4 Ω",
+      "1.33 Ω",
+      "36 Ω",
+      "12 Ω"
+    ],
+    "options_ne": [
+      "४ Ω",
+      "१.३३ Ω",
+      "३६ Ω",
+      "१२ Ω"
+    ],
+    "answer": 1,
+    "explanation": "Each part has resistance 4 Ω; three 4 Ω resistors in parallel give 4/3 ≈ 1.33 Ω.",
+    "explanation_ne": "प्रत्येक भाग ४ Ω को हुन्छ; तीनवटा ४ Ω समानान्तरमा जोड्दा तुल्य प्रतिरोध ४/३ ≈ १.३३ Ω हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-019",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Resistance",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The resistance of a metal wire increases with temperature because",
+    "question_ne": "धातुको तारको प्रतिरोध तापक्रमसँगै किन बढ्छ?",
+    "options": [
+      "the number of free electrons decreases",
+      "the lattice ions vibrate more and collide with electrons more often",
+      "the wire becomes shorter",
+      "the electrons move faster and escape"
+    ],
+    "options_ne": [
+      "स्वतन्त्र इलेक्ट्रोनहरूको संख्या घट्छ",
+      "जालक आयनहरू बढी कम्पन गर्छन् र इलेक्ट्रोनहरूसँग बढी ठोक्किन्छन्",
+      "तार छोटो हुन्छ",
+      "इलेक्ट्रोनहरू छिटो चल्छन् र भाग्छन्"
+    ],
+    "answer": 1,
+    "explanation": "At higher temperatures the lattice ions vibrate with larger amplitude, causing more frequent collisions with the drifting electrons and so higher resistance.",
+    "explanation_ne": "उच्च तापक्रममा जालक आयनहरू बढी कम्पन गर्छन्, जसले इलेक्ट्रोनहरूसँग बढी ठक्कर गराउँछ र प्रतिरोध बढाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-020",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Frequency beats",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The beat frequency heard is",
+    "question_ne": "२५६ हर्ज र २६० हर्ज आवृत्ति भएका दुई स्वरित्र सँगै बजाइन्छन्। सुनिने विस्पन्द आवृत्ति कति हो?",
+    "options": [
+      "2 Hz",
+      "4 Hz",
+      "8 Hz",
+      "516 Hz"
+    ],
+    "options_ne": [
+      "२ हर्ज",
+      "४ हर्ज",
+      "८ हर्ज",
+      "५१६ हर्ज"
+    ],
+    "answer": 1,
+    "explanation": "Beat frequency equals the difference of the two frequencies: 260 − 256 = 4 Hz.",
+    "explanation_ne": "विस्पन्द आवृत्ति दुई आवृत्तिहरूको भिन्नता बराबर हुन्छ: २६० − २५६ = ४ हर्ज।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-021",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Frequency beats",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "A tuning fork produces 5 beats per second with a standard fork of 320 Hz. When a little wax is added to the unknown fork, the beat frequency falls to 3 per second. The frequency of the unknown fork is",
+    "question_ne": "एउटा स्वरित्रले ३२० हर्जको मानक स्वरित्रसँग प्रति सेकेन्ड ५ विस्पन्द उत्पन्न गर्छ। अज्ञात स्वरित्रमा अलिकति मोम थप्दा विस्पन्द आवृत्ति प्रति सेकेन्ड ३ मा झर्छ। अज्ञात स्वरित्रको आवृत्ति कति हो?",
+    "options": [
+      "315 Hz",
+      "325 Hz",
+      "317 Hz",
+      "323 Hz"
+    ],
+    "options_ne": [
+      "३१५ हर्ज",
+      "३२५ हर्ज",
+      "३१७ हर्ज",
+      "३२३ हर्ज"
+    ],
+    "answer": 1,
+    "explanation": "The unknown frequency is 315 Hz or 325 Hz. Wax lowers the frequency; since the beats decreased, the frequency moved towards 320 Hz, so it was originally 325 Hz.",
+    "explanation_ne": "अज्ञात आवृत्ति ३१५ वा ३२५ हर्ज हुन सक्छ। मोमले आवृत्ति घटाउँछ; विस्पन्द घट्नु भनेको आवृत्ति ३२० तिर सरेको हो, त्यसैले सुरुको आवृत्ति ३२५ हर्ज थियो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-022",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Electric potential",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The work done in moving a charge of 2 C between two points having a potential difference of 12 V is",
+    "question_ne": "१२ V विभवान्तर भएका दुई बिन्दुहरूबीच २ C आवेश सार्न कति कार्य गर्नुपर्छ?",
+    "options": [
+      "6 J",
+      "14 J",
+      "24 J",
+      "48 J"
+    ],
+    "options_ne": [
+      "६ J",
+      "१४ J",
+      "२४ J",
+      "४८ J"
+    ],
+    "answer": 2,
+    "explanation": "Work done W = qV = 2 × 12 = 24 J.",
+    "explanation_ne": "कार्य W = qV = २ × १२ = २४ जुल हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-023",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Electric potential",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The electric potential at a point 0.2 m away from a point charge of 4 nC in air is",
+    "question_ne": "हावामा ४ nC बिन्दु आवेशबाट ०.२ मि टाढाको बिन्दुमा विद्युत् विभव कति हुन्छ?",
+    "options": [
+      "90 V",
+      "180 V",
+      "360 V",
+      "720 V"
+    ],
+    "options_ne": [
+      "९० V",
+      "१८० V",
+      "३६० V",
+      "७२० V"
+    ],
+    "answer": 1,
+    "explanation": "V = kq/r = (9×10⁹ × 4×10⁻⁹)/0.2 = 180 V.",
+    "explanation_ne": "V = kq/r = (९×१०⁹ × ४×१०⁻⁹)/०.२ = १८० भोल्ट हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-024",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Capacitance",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A parallel-plate capacitor has capacitance C. If the separation between the plates is halved, its capacitance becomes",
+    "question_ne": "समानान्तर प्लेट धारित्रको धारिता C छ। प्लेटहरूबीचको दूरी आधा गरिएमा यसको धारिता कति हुन्छ?",
+    "options": [
+      "C/2",
+      "C",
+      "2C",
+      "4C"
+    ],
+    "options_ne": [
+      "C/२",
+      "C",
+      "२C",
+      "४C"
+    ],
+    "answer": 2,
+    "explanation": "Capacitance C = ε₀A/d is inversely proportional to the plate separation, so halving d doubles C.",
+    "explanation_ne": "धारिता C = ε₀A/d भएकाले दूरी आधा हुँदा धारिता दोब्बर हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-025",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Capacitance",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Two capacitors of 6 μF and 3 μF are connected in series. Their equivalent capacitance is",
+    "question_ne": "६ μF र ३ μF का दुई धारित्र श्रेणीमा जोडिएका छन्। तिनीहरूको तुल्य धारिता कति हो?",
+    "options": [
+      "9 μF",
+      "4.5 μF",
+      "2 μF",
+      "1.5 μF"
+    ],
+    "options_ne": [
+      "९ μF",
+      "४.५ μF",
+      "२ μF",
+      "१.५ μF"
+    ],
+    "answer": 2,
+    "explanation": "In series, 1/C = 1/6 + 1/3 = 1/2, so C = 2 μF.",
+    "explanation_ne": "श्रेणीमा १/C = १/६ + १/३ = १/२, त्यसैले C = २ μF हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-026",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Magnetic materials",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The magnetic susceptibility of a diamagnetic substance is",
+    "question_ne": "प्रतिचुम्बकीय (diamagnetic) पदार्थको चुम्बकीय प्रवृत्ति कस्तो हुन्छ?",
+    "options": [
+      "large and positive",
+      "small and positive",
+      "small and negative",
+      "zero"
+    ],
+    "options_ne": [
+      "ठूलो र धनात्मक",
+      "सानो र धनात्मक",
+      "सानो र ऋणात्मक",
+      "शून्य"
+    ],
+    "answer": 2,
+    "explanation": "Diamagnetic materials weakly oppose an applied magnetic field, so their susceptibility is small and negative.",
+    "explanation_ne": "प्रतिचुम्बकीय पदार्थहरूले लागु चुम्बकीय क्षेत्रलाई कमजोर रूपमा विरोध गर्छन्, त्यसैले तिनीहरूको प्रवृत्ति सानो र ऋणात्मक हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-027",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Magnetic materials",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Above the Curie temperature, a ferromagnetic material becomes",
+    "question_ne": "क्युरी तापक्रमभन्दा माथि, लौहचुम्बकीय (ferromagnetic) पदार्थ के बन्छ?",
+    "options": [
+      "diamagnetic",
+      "paramagnetic",
+      "superconducting",
+      "antiferromagnetic"
+    ],
+    "options_ne": [
+      "प्रतिचुम्बकीय",
+      "अनुचुम्बकीय (paramagnetic)",
+      "अतिचालक",
+      "प्रतिलौहचुम्बकीय"
+    ],
+    "answer": 1,
+    "explanation": "Above the Curie temperature, thermal agitation destroys the alignment of magnetic domains and the material becomes paramagnetic.",
+    "explanation_ne": "क्युरी तापक्रमभन्दा माथि तापीय उत्तेजनाले चुम्बकीय डोमेनहरूको पङ्क्तिबद्धता नष्ट गर्छ र पदार्थ अनुचुम्बकीय बन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-028",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "SI units",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following is a derived SI unit?",
+    "question_ne": "निम्नमध्ये कुन व्युत्पन्न SI एकाइ हो?",
+    "options": [
+      "metre",
+      "kilogram",
+      "joule",
+      "second"
+    ],
+    "options_ne": [
+      "मिटर",
+      "किलोग्राम",
+      "जुल",
+      "सेकेन्ड"
+    ],
+    "answer": 2,
+    "explanation": "The joule (unit of work and energy) is derived from base units, whereas the metre, kilogram and second are base SI units.",
+    "explanation_ne": "जुल (कार्य/ऊर्जाको एकाइ) आधार एकाइहरूबाट व्युत्पन्न हुन्छ; मिटर, किलोग्राम र सेकेन्ड आधार SI एकाइहरू हुन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-029",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "SI units",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "One electron-volt (1 eV) is equal to",
+    "question_ne": "एक इलेक्ट्रोन-भोल्ट (१ eV) बराबर कति हुन्छ?",
+    "options": [
+      "1.6 × 10⁻¹⁹ J",
+      "1.6 × 10⁻¹⁹ C",
+      "9.1 × 10⁻³¹ J",
+      "3.0 × 10⁸ J"
+    ],
+    "options_ne": [
+      "१.६ × १०⁻¹⁹ J",
+      "१.६ × १०⁻¹⁹ C",
+      "९.१ × १०⁻³¹ J",
+      "३.० × १०⁸ J"
+    ],
+    "answer": 0,
+    "explanation": "1 eV = 1.6×10⁻¹⁹ C × 1 V = 1.6×10⁻¹⁹ J, the energy gained by an electron crossing a 1 V potential difference.",
+    "explanation_ne": "१ eV = १.६×१०⁻¹⁹ कूलम्ब × १ भोल्ट = १.६×१०⁻¹⁹ जुल हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-030",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Parallel resistance",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Three resistors of 2 Ω, 3 Ω and 6 Ω are connected in parallel. The equivalent resistance is",
+    "question_ne": "२ Ω, ३ Ω र ६ Ω का तीन प्रतिरोधक समानान्तरमा जोडिएका छन्। तुल्य प्रतिरोध कति हो?",
+    "options": [
+      "11 Ω",
+      "6 Ω",
+      "2 Ω",
+      "1 Ω"
+    ],
+    "options_ne": [
+      "११ Ω",
+      "६ Ω",
+      "२ Ω",
+      "१ Ω"
+    ],
+    "answer": 3,
+    "explanation": "1/R = 1/2 + 1/3 + 1/6 = 1, so R = 1 Ω.",
+    "explanation_ne": "१/R = १/२ + १/३ + १/६ = १, त्यसैले R = १ Ω हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-031",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Parallel resistance",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Resistors of 4 Ω and 12 Ω are connected in parallel across a battery. The ratio of the current through the 4 Ω resistor to that through the 12 Ω resistor is",
+    "question_ne": "४ Ω र १२ Ω का प्रतिरोधकहरू ब्याट्रीमा समानान्तर जोडिएका छन्। ४ Ω प्रतिरोधकबाट बग्ने धारा र १२ Ω प्रतिरोधकबाट बग्ने धाराको अनुपात कति हो?",
+    "options": [
+      "1:3",
+      "3:1",
+      "1:4",
+      "4:1"
+    ],
+    "options_ne": [
+      "१:३",
+      "३:१",
+      "१:४",
+      "४:१"
+    ],
+    "answer": 1,
+    "explanation": "In parallel the voltage is the same, so current is inversely proportional to resistance: (1/4):(1/12) = 3:1.",
+    "explanation_ne": "समानान्तरमा भोल्टेज बराबर हुन्छ, त्यसैले धारा प्रतिरोधको व्युत्क्रमानुपातिक हुन्छ: (१/४):(१/१२) = ३:१।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-032",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "RMS values",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "An alternating current has a peak value of 10 A. Its RMS value is",
+    "question_ne": "एउटा प्रत्यावर्ती धाराको शिखर मान १० A छ। यसको RMS मान कति हो?",
+    "options": [
+      "5 A",
+      "7.07 A",
+      "10 A",
+      "14.14 A"
+    ],
+    "options_ne": [
+      "५ A",
+      "७.०७ A",
+      "१० A",
+      "१४.१४ A"
+    ],
+    "answer": 1,
+    "explanation": "RMS value = peak value/√2 = 10/1.414 ≈ 7.07 A.",
+    "explanation_ne": "RMS मान = शिखर मान/√२ = १०/१.४१४ ≈ ७.०७ A हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-033",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "RMS values",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "An AC voltmeter connected to the mains reads 220 V. The peak value of the mains voltage is about",
+    "question_ne": "मेनमा जोडिएको AC भोल्टमिटरले २२० V देखाउँछ। मेन भोल्टेजको शिखर मान लगभग कति हो?",
+    "options": [
+      "220 V",
+      "155 V",
+      "311 V",
+      "440 V"
+    ],
+    "options_ne": [
+      "२२० V",
+      "१५५ V",
+      "३११ V",
+      "४४० V"
+    ],
+    "answer": 2,
+    "explanation": "AC meters read the RMS value; the peak value is 220 × √2 ≈ 311 V.",
+    "explanation_ne": "AC मिटरले RMS मान देखाउँछ; शिखर मान = २२० × √२ ≈ ३११ V हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-034",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Alpha particle",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The charge carried by an alpha particle is",
+    "question_ne": "अल्फा कणले कति आवेश बोक्छ?",
+    "options": [
+      "+e",
+      "+2e",
+      "−2e",
+      "zero"
+    ],
+    "options_ne": [
+      "+e",
+      "+२e",
+      "−२e",
+      "शून्य"
+    ],
+    "answer": 1,
+    "explanation": "An alpha particle contains two protons, so its charge is +2e = 3.2×10⁻¹⁹ C.",
+    "explanation_ne": "अल्फा कणमा दुई प्रोटोन हुन्छन्, त्यसैले यसको आवेश +२e = ३.२×१०⁻¹⁹ C हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-035",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Alpha particle",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "An alpha particle is composed of",
+    "question_ne": "अल्फा कण के-के मिलेर बनेको हुन्छ?",
+    "options": [
+      "2 protons and 2 neutrons",
+      "1 proton and 1 neutron",
+      "2 protons and 1 neutron",
+      "4 protons"
+    ],
+    "options_ne": [
+      "२ प्रोटोन र २ न्युट्रोन",
+      "१ प्रोटोन र १ न्युट्रोन",
+      "२ प्रोटोन र १ न्युट्रोन",
+      "४ प्रोटोन"
+    ],
+    "answer": 0,
+    "explanation": "An alpha particle is a helium-4 nucleus, containing 2 protons and 2 neutrons.",
+    "explanation_ne": "अल्फा कण हिलियम-४ नाभिक हो, जसमा २ प्रोटोन र २ न्युट्रोन हुन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-036",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Half-life",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A radioactive sample has a half-life of 5 days. After 20 days, the fraction of the original sample remaining is",
+    "question_ne": "एउटा रेडियोधर्मी नमुनाको अर्ध-आयु ५ दिन छ। २० दिनपछि मूल नमुनाको कति अंश बाँकी रहन्छ?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/16"
+    ],
+    "options_ne": [
+      "१/२",
+      "१/४",
+      "१/८",
+      "१/१६"
+    ],
+    "answer": 3,
+    "explanation": "20 days is 4 half-lives, so the remaining fraction is (1/2)⁴ = 1/16.",
+    "explanation_ne": "२० दिन = ४ अर्ध-आयु, त्यसैले बाँकी अंश (१/२)⁴ = १/१६ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-037",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Half-life",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The half-life of a radioactive element is 10 hours. The time required for 87.5% of the element to decay is",
+    "question_ne": "एउटा रेडियोधर्मी तत्त्वको अर्ध-आयु १० घण्टा छ। यसको ८७.५% क्षय हुन कति समय लाग्छ?",
+    "options": [
+      "10 hours",
+      "20 hours",
+      "30 hours",
+      "40 hours"
+    ],
+    "options_ne": [
+      "१० घण्टा",
+      "२० घण्टा",
+      "३० घण्टा",
+      "४० घण्टा"
+    ],
+    "answer": 2,
+    "explanation": "After 87.5% has decayed, 12.5% = 1/8 remains, which takes 3 half-lives; time = 3 × 10 = 30 hours.",
+    "explanation_ne": "८७.५% क्षय भएपछि १२.५% = १/८ बाँकी रहन्छ, जुन ३ अर्ध-आयु हो; त्यसैले समय = ३ × १० = ३० घण्टा हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-038",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Elasticity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Poisson's ratio of a material is the ratio of",
+    "question_ne": "कुनै पदार्थको प्वासों अनुपात (Poisson's ratio) कुन-कुनको अनुपात हो?",
+    "options": [
+      "longitudinal strain to lateral strain",
+      "lateral strain to longitudinal strain",
+      "stress to strain",
+      "shearing strain to longitudinal strain"
+    ],
+    "options_ne": [
+      "अनुदैर्ध्य विकृतिको पार्श्व विकृतिसँग",
+      "पार्श्व विकृतिको अनुदैर्ध्य विकृतिसँग",
+      "प्रतिबलको विकृतिसँग",
+      "कतरन विकृतिको अनुदैर्ध्य विकृतिसँग"
+    ],
+    "answer": 1,
+    "explanation": "Poisson's ratio = lateral strain / longitudinal strain.",
+    "explanation_ne": "प्वासों अनुपात = पार्श्व विकृति / अनुदैर्ध्य विकृति हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-039",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Lenses",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A concave lens always forms an image that is",
+    "question_ne": "अवतल (concave) लेन्सले सधैं कस्तो प्रतिबिम्ब बनाउँछ?",
+    "options": [
+      "real, inverted and magnified",
+      "virtual, erect and diminished",
+      "real, erect and diminished",
+      "virtual, inverted and magnified"
+    ],
+    "options_ne": [
+      "वास्तविक, उल्टो र ठूलो",
+      "आभासी, सीधा र सानो",
+      "वास्तविक, सीधा र सानो",
+      "आभासी, उल्टो र ठूलो"
+    ],
+    "answer": 1,
+    "explanation": "A concave lens always forms a virtual, erect and diminished image, whatever the object distance.",
+    "explanation_ne": "अवतल लेन्सले वस्तुको दूरी जेसुकै भए पनि सधैं आभासी, सीधा र वस्तुभन्दा सानो प्रतिबिम्ब बनाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-PHY-040",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Physics",
+    "subtopic": "Sound waves",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Ultrasonic waves are sound waves with frequencies",
+    "question_ne": "पराश्रव्य (ultrasonic) तरङ्गहरू कस्ता ध्वनि तरङ्गहरू हुन्?",
+    "options": [
+      "below 20 Hz",
+      "between 20 Hz and 20 kHz",
+      "above 20 kHz",
+      "equal to 20 kHz"
+    ],
+    "options_ne": [
+      "२० हर्जभन्दा कम आवृत्तिका",
+      "२० हर्जदेखि २० kHz बीचका",
+      "२० kHz भन्दा बढी आवृत्तिका",
+      "२० kHz बराबर आवृत्तिका"
+    ],
+    "answer": 2,
+    "explanation": "Sound waves with frequencies above 20,000 Hz, beyond the upper limit of human hearing, are called ultrasonic waves.",
+    "explanation_ne": "२०,००० हर्जभन्दा माथिको आवृत्ति भएका ध्वनि तरङ्गहरूलाई पराश्रव्य तरङ्ग भनिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-001",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Bleaching powder",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The chemical formula of bleaching powder is",
+    "question_ne": "ब्लिचिङ पाउडरको रासायनिक सूत्र के हो?",
+    "options": [
+      "CaCl₂",
+      "Ca(OCl)Cl",
+      "CaCO₃",
+      "Ca(OH)₂"
+    ],
+    "options_ne": [
+      "CaCl₂",
+      "Ca(OCl)Cl",
+      "CaCO₃",
+      "Ca(OH)₂"
+    ],
+    "answer": 1,
+    "explanation": "Bleaching powder is calcium hypochlorite, with the formula Ca(OCl)Cl.",
+    "explanation_ne": "ब्लिचिङ पाउडर क्याल्सियम हाइपोक्लोराइट हो, जसको सूत्र Ca(OCl)Cl हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-002",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Bleaching powder",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Bleaching powder is prepared by passing chlorine gas over",
+    "question_ne": "ब्लिचिङ पाउडर कुन पदार्थमाथि क्लोरिन ग्यास प्रवाहित गरेर तयार गरिन्छ?",
+    "options": [
+      "dry slaked lime",
+      "quicklime",
+      "limestone",
+      "sodium carbonate"
+    ],
+    "options_ne": [
+      "सुकेको स्लेक्ड लाइम (चुना)",
+      "क्विक लाइम",
+      "चुनढुङ्गा",
+      "सोडियम कार्बोनेट"
+    ],
+    "answer": 0,
+    "explanation": "Passing chlorine gas over dry slaked lime, Ca(OH)₂, gives bleaching powder, Ca(OCl)Cl.",
+    "explanation_ne": "सुकेको स्लेक्ड लाइम Ca(OH)₂ माथि क्लोरिन ग्यास प्रवाहित गर्दा ब्लिचिङ पाउडर बन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-003",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Electron affinity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Electron affinity is defined as the energy released when",
+    "question_ne": "इलेक्ट्रोन बन्धुता (electron affinity) भनेको कुन प्रक्रियामा निस्कने ऊर्जा हो?",
+    "options": [
+      "a gaseous atom gains an electron",
+      "a gaseous atom loses an electron",
+      "an electron is removed from a solid metal",
+      "a molecule splits into atoms"
+    ],
+    "options_ne": [
+      "ग्यासीय परमाणुले इलेक्ट्रोन ग्रहण गर्दा",
+      "ग्यासीय परमाणुले इलेक्ट्रोन गुमाउँदा",
+      "ठोस धातुबाट इलेक्ट्रोन निकाल्दा",
+      "अणु परमाणुहरूमा टुट्दा"
+    ],
+    "answer": 0,
+    "explanation": "Electron affinity is the energy released when a gaseous atom gains an electron to form a negative ion.",
+    "explanation_ne": "इलेक्ट्रोन बन्धुता भनेको ग्यासीय परमाणुले इलेक्ट्रोन ग्रहण गरी ऋणात्मक आयन बन्दा निस्कने ऊर्जा हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-004",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Electron affinity",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Which element has the highest electron affinity?",
+    "question_ne": "कुन तत्त्वको इलेक्ट्रोन बन्धुता सबैभन्दा बढी छ?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Oxygen",
+      "Bromine"
+    ],
+    "options_ne": [
+      "फ्लोरिन",
+      "क्लोरिन",
+      "अक्सिजन",
+      "ब्रोमिन"
+    ],
+    "answer": 1,
+    "explanation": "Chlorine has the highest electron affinity; fluorine's very small size causes electron-electron repulsion that lowers its value.",
+    "explanation_ne": "क्लोरिनको इलेक्ट्रोन बन्धुता सबैभन्दा बढी हुन्छ; फ्लोरिनको सानो आकारले इलेक्ट्रोन-इलेक्ट्रोन प्रतिकर्षण बढाएर यसको मान घटाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-005",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Viscosity",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which liquid has the highest viscosity at room temperature?",
+    "question_ne": "कोठा तापक्रममा कुन तरल पदार्थको श्यानता सबैभन्दा बढी हुन्छ?",
+    "options": [
+      "Water",
+      "Ethanol",
+      "Glycerol",
+      "Benzene"
+    ],
+    "options_ne": [
+      "पानी",
+      "इथानोल",
+      "ग्लिसरोल",
+      "बेन्जिन"
+    ],
+    "answer": 2,
+    "explanation": "Glycerol has strong hydrogen bonding, so it flows most slowly and has the highest viscosity of the four liquids.",
+    "explanation_ne": "ग्लिसरोलमा बलियो हाइड्रोजन बन्धन हुन्छ, त्यसैले यो सबैभन्दा बिस्तारै बग्छ र यसको श्यानता सबैभन्दा बढी हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-006",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Viscosity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The viscosity of a liquid decreases when its temperature rises because",
+    "question_ne": "तापक्रम बढ्दा तरल पदार्थको श्यानता किन घट्छ?",
+    "options": [
+      "the intermolecular forces weaken",
+      "the molecules become heavier",
+      "the liquid contracts",
+      "the density increases"
+    ],
+    "options_ne": [
+      "अन्तरआणविक बल कमजोर हुन्छ",
+      "अणुहरू गह्रौं हुन्छन्",
+      "तरल पदार्थ संकुचित हुन्छ",
+      "घनत्व बढ्छ"
+    ],
+    "answer": 0,
+    "explanation": "Rising temperature increases molecular kinetic energy and weakens intermolecular forces, allowing the liquid to flow more freely.",
+    "explanation_ne": "तापक्रम बढ्दा अणुहरूको गतिज ऊर्जा बढ्छ र अन्तरआणविक बल कमजोर हुन्छ, जसले तरल पदार्थ सजिलै बग्न दिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-007",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Weak acids",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following is a weak acid?",
+    "question_ne": "निम्नमध्ये कुन कमजोर अम्ल (weak acid) हो?",
+    "options": [
+      "Hydrochloric acid",
+      "Sulphuric acid",
+      "Acetic acid",
+      "Nitric acid"
+    ],
+    "options_ne": [
+      "हाइड्रोक्लोरिक अम्ल",
+      "सल्फ्युरिक अम्ल",
+      "एसिटिक अम्ल",
+      "नाइट्रिक अम्ल"
+    ],
+    "answer": 2,
+    "explanation": "Acetic acid ionises only partly in water, so it is a weak acid; the other three are strong acids.",
+    "explanation_ne": "एसिटिक अम्ल पानीमा आंशिक रूपमा मात्र आयनीकृत हुन्छ, त्यसैले यो कमजोर अम्ल हो; अन्य तीन बलिया अम्लहरू हुन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-008",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Weak acids",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "A 0.1 M solution of acetic acid has Ka = 1.8 × 10⁻⁵. The pH of the solution is approximately",
+    "question_ne": "एसिटिक अम्लको ०.१ M विलयनको Ka = १.८ × १०⁻⁵ छ। यस विलयनको pH लगभग कति हुन्छ?",
+    "options": [
+      "1.0",
+      "2.9",
+      "4.7",
+      "5.7"
+    ],
+    "options_ne": [
+      "१.०",
+      "२.९",
+      "४.७",
+      "५.७"
+    ],
+    "answer": 1,
+    "explanation": "[H⁺] = √(Ka·C) = √(1.8×10⁻⁶) ≈ 1.34×10⁻³, so pH ≈ 2.9.",
+    "explanation_ne": "[H⁺] = √(Ka·C) = √(१.८×१०⁻⁶) ≈ १.३४×१०⁻³, त्यसैले pH ≈ २.९ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-009",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Oxidation numbers",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The oxidation number of chromium in potassium dichromate, K₂Cr₂O₇, is",
+    "question_ne": "पोटासियम डाइक्रोमेट, K₂Cr₂O₇ मा क्रोमियमको अक्सिडेसन संख्या कति हो?",
+    "options": [
+      "+3",
+      "+4",
+      "+5",
+      "+6"
+    ],
+    "options_ne": [
+      "+३",
+      "+४",
+      "+५",
+      "+६"
+    ],
+    "answer": 3,
+    "explanation": "2(+1) + 2x + 7(−2) = 0 gives x = +6.",
+    "explanation_ne": "२(+१) + २x + ७(−२) = ० बाट x = +६ प्राप्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-010",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Oxidation numbers",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The oxidation number of sulphur in sulphuric acid, H₂SO₄, is",
+    "question_ne": "सल्फ्युरिक अम्ल, H₂SO₄ मा सल्फरको अक्सिडेसन संख्या कति हो?",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "−2"
+    ],
+    "options_ne": [
+      "+२",
+      "+४",
+      "+६",
+      "−२"
+    ],
+    "answer": 2,
+    "explanation": "2(+1) + x + 4(−2) = 0 gives x = +6.",
+    "explanation_ne": "२(+१) + x + ४(−२) = ० बाट x = +६ प्राप्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-011",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Oxidation numbers",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "In ammonium nitrate, NH₄NO₃, the oxidation numbers of the two nitrogen atoms are",
+    "question_ne": "अमोनियम नाइट्रेट, NH₄NO₃ मा दुई नाइट्रोजन परमाणुहरूको अक्सिडेसन संख्या कति-कति हुन्?",
+    "options": [
+      "−3 and +5",
+      "+3 and −5",
+      "−3 and −5",
+      "+5 and +5"
+    ],
+    "options_ne": [
+      "−३ र +५",
+      "+३ र −५",
+      "−३ र −५",
+      "+५ र +५"
+    ],
+    "answer": 0,
+    "explanation": "In NH₄⁺ the nitrogen has oxidation number −3, while in NO₃⁻ it is +5.",
+    "explanation_ne": "NH₄⁺ मा नाइट्रोजनको अक्सिडेसन संख्या −३ र NO₃⁻ मा +५ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-012",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Indicators",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Phenolphthalein turns pink when added to",
+    "question_ne": "फिनोल्फथेलिन कस्तो विलयनमा हाल्दा गुलाबी हुन्छ?",
+    "options": [
+      "an acidic solution",
+      "a basic solution",
+      "a neutral salt solution",
+      "distilled water"
+    ],
+    "options_ne": [
+      "अम्लीय विलयनमा",
+      "क्षारीय (basic) विलयनमा",
+      "उदासीन लवण विलयनमा",
+      "आसुत पानीमा"
+    ],
+    "answer": 1,
+    "explanation": "Phenolphthalein is colourless in acid and turns pink in basic solution.",
+    "explanation_ne": "फिनोल्फथेलिन अम्लमा रंगहीन र क्षारमा गुलाबी हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-013",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Indicators",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Which indicator is most suitable for the titration of a strong acid against a weak base?",
+    "question_ne": "बलियो अम्ल र कमजोर क्षारबीचको अनुमापन (titration) का लागि सबैभन्दा उपयुक्त सूचक कुन हो?",
+    "options": [
+      "Phenolphthalein",
+      "Methyl orange",
+      "Litmus",
+      "Methyl red"
+    ],
+    "options_ne": [
+      "फिनोल्फथेलिन",
+      "मिथाइल ओरेन्ज",
+      "लिटमस",
+      "मिथाइल रेड"
+    ],
+    "answer": 1,
+    "explanation": "The end point of a strong acid–weak base titration lies in the acidic pH range, so methyl orange, which changes colour in acid, is the suitable indicator.",
+    "explanation_ne": "यस्तो अनुमापनको अन्तिम बिन्दु अम्लीय pH मा पर्छ, त्यसैले अम्लीय दायरामा रङ बदल्ने मिथाइल ओरेन्ज उपयुक्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-014",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Rate-constant units",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The unit of the rate constant for a first-order reaction is",
+    "question_ne": "प्रथम कोटि (first-order) अभिक्रियाको दर स्थिराङ्क (rate constant) को एकाइ के हो?",
+    "options": [
+      "mol L⁻¹ s⁻¹",
+      "s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "mol² L⁻² s⁻¹"
+    ],
+    "options_ne": [
+      "mol L⁻¹ s⁻¹",
+      "s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "mol² L⁻² s⁻¹"
+    ],
+    "answer": 1,
+    "explanation": "For a first-order reaction, rate = k[A], so k has the unit of time⁻¹, that is s⁻¹.",
+    "explanation_ne": "प्रथम कोटि अभिक्रियामा दर = k[A] हुन्छ, त्यसैले k को एकाइ समय⁻¹ अर्थात् s⁻¹ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-015",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Rate-constant units",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The unit of the rate constant for a second-order reaction is",
+    "question_ne": "द्वितीय कोटि (second-order) अभिक्रियाको दर स्थिराङ्कको एकाइ के हो?",
+    "options": [
+      "s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "options_ne": [
+      "s⁻¹",
+      "mol L⁻¹ s⁻¹",
+      "L mol⁻¹ s⁻¹",
+      "L² mol⁻² s⁻¹"
+    ],
+    "answer": 2,
+    "explanation": "For a second-order reaction, rate = k[A]², so k has the unit L mol⁻¹ s⁻¹.",
+    "explanation_ne": "द्वितीय कोटि अभिक्रियामा दर = k[A]² हुन्छ, त्यसैले k को एकाइ L mol⁻¹ s⁻¹ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-016",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Systems",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which type of thermodynamic system can exchange both energy and matter with its surroundings?",
+    "question_ne": "कुन प्रकारको ऊष्मागतिक प्रणालीले आफ्नो वरिपरिसँग ऊर्जा र पदार्थ दुवै आदानप्रदान गर्न सक्छ?",
+    "options": [
+      "Open system",
+      "Closed system",
+      "Isolated system",
+      "Adiabatic system"
+    ],
+    "options_ne": [
+      "खुला प्रणाली",
+      "बन्द प्रणाली",
+      "पृथक प्रणाली",
+      "रुद्धोष्म प्रणाली"
+    ],
+    "answer": 0,
+    "explanation": "An open system can exchange both energy and matter with its surroundings.",
+    "explanation_ne": "खुला प्रणालीले वरिपरिसँग ऊर्जा र पदार्थ दुवै आदानप्रदान गर्न सक्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-017",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Systems",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A sealed thermos flask containing hot tea is the closest example of",
+    "question_ne": "तातो चिया भएको बन्द थर्मस फ्लास्क कुन प्रणालीको सबैभन्दा नजिकको उदाहरण हो?",
+    "options": [
+      "an open system",
+      "a closed system",
+      "an isolated system",
+      "a reversible system"
+    ],
+    "options_ne": [
+      "खुला प्रणाली",
+      "बन्द प्रणाली",
+      "पृथक प्रणाली",
+      "उत्क्रमणीय प्रणाली"
+    ],
+    "answer": 2,
+    "explanation": "A thermos flask prevents the exchange of matter and (almost) of energy, so it is the closest everyday example of an isolated system.",
+    "explanation_ne": "थर्मस फ्लास्कले पदार्थ र (लगभग) ऊर्जा दुवैको आदानप्रदान रोक्छ, त्यसैले यो पृथक प्रणालीको नजिकको उदाहरण हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-018",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Isotopes",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Isotopes of an element have the same",
+    "question_ne": "कुनै तत्त्वका आइसोटोपहरूमा के समान हुन्छ?",
+    "options": [
+      "mass number",
+      "atomic number",
+      "number of neutrons",
+      "number of nucleons"
+    ],
+    "options_ne": [
+      "द्रव्यमान संख्या",
+      "परमाणु संख्या",
+      "न्युट्रोनहरूको संख्या",
+      "न्यूक्लिअनहरूको संख्या"
+    ],
+    "answer": 1,
+    "explanation": "Isotopes have the same number of protons (atomic number) but different numbers of neutrons.",
+    "explanation_ne": "आइसोटोपहरूमा प्रोटोन संख्या (परमाणु संख्या) समान हुन्छ, तर न्युट्रोन संख्या फरक हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-019",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Isotopes",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which isotope of carbon is used for radiocarbon dating of ancient objects?",
+    "question_ne": "प्राचीन वस्तुहरूको रेडियोकार्बन डेटिङका लागि कार्बनको कुन आइसोटोप प्रयोग गरिन्छ?",
+    "options": [
+      "Carbon-11",
+      "Carbon-12",
+      "Carbon-13",
+      "Carbon-14"
+    ],
+    "options_ne": [
+      "कार्बन-११",
+      "कार्बन-१२",
+      "कार्बन-१३",
+      "कार्बन-१४"
+    ],
+    "answer": 3,
+    "explanation": "Carbon-14 is radioactive with a half-life of 5,730 years, making it suitable for dating old organic remains.",
+    "explanation_ne": "कार्बन-१४ रेडियोधर्मी हुन्छ र यसको अर्ध-आयु ५,७३० वर्ष भएकाले पुराना जैविक अवशेषहरूको उमेर निर्धारण गर्न प्रयोग गरिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-020",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Carbon allotropes",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which allotrope of carbon is the hardest naturally occurring substance known?",
+    "question_ne": "कार्बनको कुन अपररूप (allotrope) सबैभन्दा कठोर प्राकृतिक पदार्थ हो?",
+    "options": [
+      "Graphite",
+      "Diamond",
+      "Coal",
+      "Fullerene"
+    ],
+    "options_ne": [
+      "ग्रेफाइट",
+      "हीरा",
+      "कोइला",
+      "फुलरिन"
+    ],
+    "answer": 1,
+    "explanation": "In diamond each carbon atom is bonded to four others in a rigid tetrahedral network, making it the hardest known natural substance.",
+    "explanation_ne": "हीरामा प्रत्येक कार्बन परमाणु चार अन्य परमाणुसँग बलियो सहसंयोजक बन्धनले जोडिएको हुन्छ, जसले यसलाई अत्यन्त कठोर बनाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-021",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Carbon allotropes",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Graphite conducts electricity because it contains",
+    "question_ne": "ग्रेफाइटले विद्युत् चालना किन गर्छ?",
+    "options": [
+      "free ions",
+      "delocalised electrons",
+      "free protons",
+      "metallic bonds"
+    ],
+    "options_ne": [
+      "स्वतन्त्र आयनहरू",
+      "अस्थानीकृत (delocalised) इलेक्ट्रोनहरू",
+      "स्वतन्त्र प्रोटोनहरू",
+      "धात्विक बन्धनहरू"
+    ],
+    "answer": 1,
+    "explanation": "In graphite each carbon atom has one delocalised electron that can move freely through the layers, carrying electric current.",
+    "explanation_ne": "ग्रेफाइटमा प्रत्येक कार्बन परमाणुको एउटा इलेक्ट्रोन अस्थानीकृत हुन्छ र तहहरूमा स्वतन्त्र रूपमा चल्न सक्छ, जसले विद्युत् चालना गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-022",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Ammonia",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Ammonia is manufactured on a large scale by",
+    "question_ne": "अमोनिया ठूलो मात्रामा कुन प्रक्रियाद्वारा उत्पादन गरिन्छ?",
+    "options": [
+      "the Contact process",
+      "the Haber process",
+      "the Solvay process",
+      "the Ostwald process"
+    ],
+    "options_ne": [
+      "कन्ट्याक्ट प्रक्रिया",
+      "हाबर प्रक्रिया",
+      "सोल्भे प्रक्रिया",
+      "ओस्टवाल्ड प्रक्रिया"
+    ],
+    "answer": 1,
+    "explanation": "In the Haber process, nitrogen and hydrogen are combined at high pressure and temperature in the presence of a catalyst to make ammonia.",
+    "explanation_ne": "हाबर प्रक्रियामा नाइट्रोजन र हाइड्रोजनलाई उच्च दाब र तापक्रममा उत्प्रेरकको उपस्थितिमा मिलाएर अमोनिया बनाइन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-023",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Ammonia",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The shape of the ammonia molecule, NH₃, is",
+    "question_ne": "अमोनिया अणु, NH₃ को आकार कस्तो हुन्छ?",
+    "options": [
+      "linear",
+      "tetrahedral",
+      "trigonal pyramidal",
+      "trigonal planar"
+    ],
+    "options_ne": [
+      "रैखिक (linear)",
+      "चतुष्फलकीय (tetrahedral)",
+      "त्रिकोणीय पिरामिडीय (trigonal pyramidal)",
+      "त्रिकोणीय समतलीय (trigonal planar)"
+    ],
+    "answer": 2,
+    "explanation": "The lone pair on the nitrogen atom pushes the three N–H bonds downward, giving NH₃ a trigonal pyramidal shape.",
+    "explanation_ne": "नाइट्रोजनमा एउटा एक्लो इलेक्ट्रोन जोडी भएकाले NH₃ को आकार त्रिकोणीय पिरामिडीय हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-024",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Halogens",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which halogen exists as a liquid at room temperature?",
+    "question_ne": "कुन ह्यालोजन कोठा तापक्रममा तरल अवस्थामा हुन्छ?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "options_ne": [
+      "फ्लोरिन",
+      "क्लोरिन",
+      "ब्रोमिन",
+      "आयोडिन"
+    ],
+    "answer": 2,
+    "explanation": "Bromine is a reddish-brown liquid at room temperature; fluorine and chlorine are gases, and iodine is a solid.",
+    "explanation_ne": "ब्रोमिन कोठा तापक्रममा रातो-खैरो तरल पदार्थ हो; फ्लोरिन र क्लोरिन ग्यास हुन् भने आयोडिन ठोस हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-025",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Halogens",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which halogen has the highest electronegativity?",
+    "question_ne": "कुन ह्यालोजनको विद्युत् ऋणात्मकता (electronegativity) सबैभन्दा बढी छ?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "options_ne": [
+      "फ्लोरिन",
+      "क्लोरिन",
+      "ब्रोमिन",
+      "आयोडिन"
+    ],
+    "answer": 0,
+    "explanation": "Fluorine is the most electronegative element of all, with electronegativity decreasing down the halogen group.",
+    "explanation_ne": "फ्लोरिन सबै तत्त्वहरूमध्ये सबैभन्दा बढी विद्युत् ऋणात्मक तत्त्व हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-026",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Greenhouse gases",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following gases is the main greenhouse gas responsible for global warming?",
+    "question_ne": "निम्नमध्ये कुन ग्यास भूमण्डलीय तापक्रम वृद्धि (global warming) का लागि मुख्य हरितगृह ग्यास हो?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "options_ne": [
+      "अक्सिजन",
+      "नाइट्रोजन",
+      "कार्बन डाइअक्साइड",
+      "हाइड्रोजन"
+    ],
+    "answer": 2,
+    "explanation": "Carbon dioxide absorbs infrared radiation emitted by the Earth and is the main greenhouse gas driving global warming.",
+    "explanation_ne": "कार्बन डाइअक्साइडले पृथ्वीबाट निस्कने अवरक्त विकिरण सोस्छ र हरितगृह प्रभावको मुख्य कारण हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-027",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Greenhouse gases",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which of the following is NOT a greenhouse gas?",
+    "question_ne": "निम्नमध्ये कुन हरितगृह ग्यास होइन?",
+    "options": [
+      "Methane",
+      "Nitrous oxide",
+      "Nitrogen",
+      "Ozone"
+    ],
+    "options_ne": [
+      "मिथेन",
+      "नाइट्रस अक्साइड",
+      "नाइट्रोजन",
+      "ओजोन"
+    ],
+    "answer": 2,
+    "explanation": "Nitrogen does not absorb infrared radiation, so it is not a greenhouse gas; methane, nitrous oxide and ozone all are.",
+    "explanation_ne": "नाइट्रोजनले अवरक्त विकिरण सोस्दैन, त्यसैले यो हरितगृह ग्यास होइन; मिथेन, नाइट्रस अक्साइड र ओजोन हरितगृह ग्यासहरू हुन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-028",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Alloys",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Brass is an alloy of copper and",
+    "question_ne": "पित्तल (brass) तामा र कुन धातुको मिश्रधातु हो?",
+    "options": [
+      "tin",
+      "zinc",
+      "nickel",
+      "aluminium"
+    ],
+    "options_ne": [
+      "टिन",
+      "जस्ता (जिङ्क)",
+      "निकेल",
+      "एल्युमिनियम"
+    ],
+    "answer": 1,
+    "explanation": "Brass is an alloy of copper and zinc.",
+    "explanation_ne": "पित्तल तामा र जस्ताको मिश्रधातु हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-029",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Alloys",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Stainless steel is made by alloying iron mainly with",
+    "question_ne": "स्टेनलेस स्टिल फलाममा मुख्यतया कुन धातु मिसाएर बनाइन्छ?",
+    "options": [
+      "zinc",
+      "tin",
+      "chromium",
+      "lead"
+    ],
+    "options_ne": [
+      "जस्ता",
+      "टिन",
+      "क्रोमियम",
+      "सिसा"
+    ],
+    "answer": 2,
+    "explanation": "Adding chromium (and often nickel) to iron gives stainless steel, which resists rusting.",
+    "explanation_ne": "फलाममा क्रोमियम (र प्रायः निकेल) मिसाउँदा खिया नलाग्ने स्टेनलेस स्टिल बन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-030",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Organic formulas",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The molecular formula of ethanol is",
+    "question_ne": "इथानोलको आणविक सूत्र के हो?",
+    "options": [
+      "CH₃OH",
+      "C₂H₅OH",
+      "CH₃COOH",
+      "C₂H₄"
+    ],
+    "options_ne": [
+      "CH₃OH",
+      "C₂H₅OH",
+      "CH₃COOH",
+      "C₂H₄"
+    ],
+    "answer": 1,
+    "explanation": "Ethanol has the molecular formula C₂H₅OH (C₂H₆O).",
+    "explanation_ne": "इथानोलको आणविक सूत्र C₂H₅OH (वा C₂H₆O) हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-031",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Organic formulas",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The molecular formula of glucose is",
+    "question_ne": "ग्लुकोजको आणविक सूत्र के हो?",
+    "options": [
+      "C₆H₁₂O₆",
+      "C₁₂H₂₂O₁₁",
+      "C₆H₁₀O₅",
+      "C₃H₆O₃"
+    ],
+    "options_ne": [
+      "C₆H₁₂O₆",
+      "C₁₂H₂₂O₁₁",
+      "C₆H₁₀O₅",
+      "C₃H₆O₃"
+    ],
+    "answer": 0,
+    "explanation": "Glucose is a hexose sugar with the molecular formula C₆H₁₂O₆.",
+    "explanation_ne": "ग्लुकोजको आणविक सूत्र C₆H₁₂O₆ हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-032",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Organic formulas",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The general molecular formula of alkanes is",
+    "question_ne": "अल्केनहरूको सामान्य आणविक सूत्र के हो?",
+    "options": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "options_ne": [
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁"
+    ],
+    "answer": 1,
+    "explanation": "Alkanes are saturated hydrocarbons with the general formula CₙH₂ₙ₊₂.",
+    "explanation_ne": "अल्केनहरू संतृप्त हाइड्रोकार्बन हुन् र तिनीहरूको सामान्य सूत्र CₙH₂ₙ₊₂ हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-033",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Nitration",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Nitration of benzene is carried out using a mixture of",
+    "question_ne": "बेन्जिनको नाइट्रेसन कुन मिश्रण प्रयोग गरेर गरिन्छ?",
+    "options": [
+      "concentrated HNO₃ and concentrated H₂SO₄",
+      "dilute HNO₃ and dilute H₂SO₄",
+      "concentrated HCl and concentrated HNO₃",
+      "concentrated H₂SO₄ and water"
+    ],
+    "options_ne": [
+      "सान्द्र HNO₃ र सान्द्र H₂SO₄",
+      "पातलो HNO₃ र पातलो H₂SO₄",
+      "सान्द्र HCl र सान्द्र HNO₃",
+      "सान्द्र H₂SO₄ र पानी"
+    ],
+    "answer": 0,
+    "explanation": "Benzene is nitrated with a nitrating mixture of concentrated nitric acid and concentrated sulphuric acid.",
+    "explanation_ne": "बेन्जिनको नाइट्रेसनका लागि सान्द्र नाइट्रिक अम्ल र सान्द्र सल्फ्युरिक अम्लको मिश्रण (नाइट्रेटिङ मिश्रण) प्रयोग गरिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-034",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Nitration",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The attacking species (electrophile) in the nitration of benzene is",
+    "question_ne": "बेन्जिनको नाइट्रेसनमा आक्रमण गर्ने प्रजाति (इलेक्ट्रोफाइल) कुन हो?",
+    "options": [
+      "NO₂⁻",
+      "NO₂⁺",
+      "NO₃⁻",
+      "HNO₃"
+    ],
+    "options_ne": [
+      "NO₂⁻",
+      "NO₂⁺",
+      "NO₃⁻",
+      "HNO₃"
+    ],
+    "answer": 1,
+    "explanation": "The nitrating mixture generates the nitronium ion, NO₂⁺, which attacks the benzene ring.",
+    "explanation_ne": "नाइट्रेटिङ मिश्रणले नाइट्रोनियम आयन NO₂⁺ उत्पन्न गर्छ, जसले बेन्जिन वलयमा आक्रमण गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-035",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "IUPAC names",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The IUPAC name of CH₃COOH is",
+    "question_ne": "CH₃COOH को IUPAC नाम के हो?",
+    "options": [
+      "Methanoic acid",
+      "Ethanoic acid",
+      "Propanoic acid",
+      "Formic acid"
+    ],
+    "options_ne": [
+      "मिथानोइक अम्ल",
+      "इथानोइक अम्ल",
+      "प्रोपानोइक अम्ल",
+      "फर्मिक अम्ल"
+    ],
+    "answer": 1,
+    "explanation": "CH₃COOH has two carbon atoms, so its systematic IUPAC name is ethanoic acid.",
+    "explanation_ne": "CH₃COOH मा दुई कार्बन परमाणु भएकाले यसको IUPAC नाम इथानोइक अम्ल हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-036",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "IUPAC names",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The IUPAC name of CH₃CH₂OH is",
+    "question_ne": "CH₃CH₂OH को IUPAC नाम के हो?",
+    "options": [
+      "Methanol",
+      "Ethanol",
+      "Propanol",
+      "Butanol"
+    ],
+    "options_ne": [
+      "मिथानोल",
+      "इथानोल",
+      "प्रोपानोल",
+      "ब्युटानोल"
+    ],
+    "answer": 1,
+    "explanation": "CH₃CH₂OH has two carbon atoms with an −OH group, so its IUPAC name is ethanol.",
+    "explanation_ne": "CH₃CH₂OH मा दुई कार्बन परमाणु भएकाले यसको IUPAC नाम इथानोल हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-037",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Monosaccharides",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following is a monosaccharide?",
+    "question_ne": "निम्नमध्ये कुन मोनोस्याकराइड हो?",
+    "options": [
+      "Sucrose",
+      "Lactose",
+      "Glucose",
+      "Starch"
+    ],
+    "options_ne": [
+      "सुक्रोज",
+      "ल्याक्टोज",
+      "ग्लुकोज",
+      "स्टार्च"
+    ],
+    "answer": 2,
+    "explanation": "Glucose is a monosaccharide; sucrose and lactose are disaccharides, and starch is a polysaccharide.",
+    "explanation_ne": "ग्लुकोज एउटा मोनोस्याकराइड हो; सुक्रोज र ल्याक्टोज डाइस्याकराइड हुन् भने स्टार्च पोलिस्याकराइड हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-038",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Monosaccharides",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Fructose is classified as a",
+    "question_ne": "फ्रक्टोजलाई कुन वर्गमा राखिन्छ?",
+    "options": [
+      "aldohexose",
+      "ketohexose",
+      "aldopentose",
+      "ketopentose"
+    ],
+    "options_ne": [
+      "एल्डोहेक्सोज",
+      "किटोहेक्सोज",
+      "एल्डोपेन्टोज",
+      "किटोपेन्टोज"
+    ],
+    "answer": 1,
+    "explanation": "Fructose has six carbon atoms and a ketone group, so it is a ketohexose.",
+    "explanation_ne": "फ्रक्टोजमा छ कार्बन परमाणु र किटोन समूह हुन्छ, त्यसैले यो किटोहेक्सोज हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-039",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Penicillin",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Penicillin was discovered by",
+    "question_ne": "पेनिसिलिन कसले पत्ता लगाएका थिए?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "options_ne": [
+      "लुई पाश्चर",
+      "अलेक्जेन्डर फ्लेमिङ",
+      "रोबर्ट कोख",
+      "जोसेफ लिस्टर"
+    ],
+    "answer": 1,
+    "explanation": "Alexander Fleming discovered penicillin in 1928 from the Penicillium mould.",
+    "explanation_ne": "अलेक्जेन्डर फ्लेमिङले सन् १९२८ मा पेनिसिलियम फफूँदीबाट पेनिसिलिन पत्ता लगाएका थिए।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-CHE-040",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Chemistry",
+    "subtopic": "Penicillin",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Penicillin kills bacteria mainly by interfering with",
+    "question_ne": "पेनिसिलिनले ब्याक्टेरियालाई मुख्यतया केमा बाधा पुर्‍याएर मार्छ?",
+    "options": [
+      "protein synthesis",
+      "cell wall synthesis",
+      "DNA replication",
+      "energy production"
+    ],
+    "options_ne": [
+      "प्रोटिन संश्लेषणमा",
+      "कोशिका भित्ता (cell wall) संश्लेषणमा",
+      "DNA प्रतिकृतिमा",
+      "ऊर्जा उत्पादनमा"
+    ],
+    "answer": 1,
+    "explanation": "Penicillin blocks the formation of peptidoglycan in the bacterial cell wall, causing the bacterium to burst and die.",
+    "explanation_ne": "पेनिसिलिनले ब्याक्टेरियाको कोशिका भित्तामा पेप्टिडोग्लाइकन बन्न रोक्छ, जसले ब्याक्टेरिया फुटेर मर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
   }
 ]

@@ -3736,5 +3736,1965 @@
     "explanation": "The correct choice is Voluntary Surgical Contraception.",
     "explanation_ne": "उत्तर स्वेच्छिक शल्य गर्भनिरोध हो।",
     "source": "Original practice question — Lok Sewa Prep Nepal"
+  },
+  {
+    "id": "CTV-ANP-001",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Muscular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which muscle acts as the prime mover for flexion of the forearm at the elbow joint?",
+    "question_ne": "कुहिनोको जोर्नीमा अग्रबाहु मोड्ने (फ्लेक्सन गर्ने) मुख्य मांसपेशी कुन हो?",
+    "options": [
+      "Biceps brachii",
+      "Triceps brachii",
+      "Deltoid",
+      "Brachioradialis"
+    ],
+    "options_ne": [
+      "बाइसेप्स ब्राकी",
+      "ट्राइसेप्स ब्राकी",
+      "डेल्टोइड",
+      "ब्राकियोरेडियालिस"
+    ],
+    "answer": 0,
+    "explanation": "The biceps brachii crosses the elbow joint anteriorly and is the prime mover for forearm flexion; the triceps extends the elbow.",
+    "explanation_ne": "बाइसेप्स ब्राकी कुहिनोको अगाडिबाट जान्छ र अग्रबाहु मोड्ने मुख्य मांसपेशी हो; ट्राइसेप्सले कुहिनो सोझ्याउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-002",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The inner membrane of a mitochondrion is folded into cristae in order to increase the surface area available for which process?",
+    "question_ne": "माइटोकन्ड्रियाको भित्री झिल्ली क्रिस्टीमा मोडिएको हुन्छ, जसले कुन प्रक्रियाका लागि सतह क्षेत्र बढाउँछ?",
+    "options": [
+      "Glycolysis",
+      "Protein synthesis",
+      "Electron transport chain",
+      "DNA replication"
+    ],
+    "options_ne": [
+      "ग्लाइकोलाइसिस",
+      "प्रोटिन संश्लेषण",
+      "इलेक्ट्रोन ट्रान्सपोर्ट चेन",
+      "डीएनए प्रतिकृति"
+    ],
+    "answer": 2,
+    "explanation": "The electron transport chain and ATP synthase sit on the cristae, so folding the inner membrane greatly increases the area available for ATP production.",
+    "explanation_ne": "इलेक्ट्रोन ट्रान्सपोर्ट चेन र एटीपी सिन्थेज क्रिस्टीमा रहन्छन्, त्यसैले भित्री झिल्ली मोडिँदा एटीपी उत्पादनका लागि क्षेत्र धेरै बढ्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-003",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Epithelial Tissue",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which type of epithelium lines the alveoli of the lungs, allowing rapid gas exchange?",
+    "question_ne": "फोक्सोका वायुकोष (अल्भिओलाई) मा कुन प्रकारको एपिथेलियम हुन्छ, जसले छिटो ग्यास आदानप्रदान गर्न मद्दत गर्छ?",
+    "options": [
+      "Stratified squamous epithelium",
+      "Simple squamous epithelium",
+      "Transitional epithelium",
+      "Pseudostratified ciliated columnar epithelium"
+    ],
+    "options_ne": [
+      "स्तरीकृत स्क्वामस एपिथेलियम",
+      "साधारण स्क्वामस एपिथेलियम",
+      "ट्रान्जिसनल एपिथेलियम",
+      "स्यूडोस्ट्राटिफाइड सिलिएटेड कलम्नर एपिथेलियम"
+    ],
+    "answer": 1,
+    "explanation": "The alveoli are lined by a single layer of flat simple squamous cells, thin enough for oxygen and carbon dioxide to diffuse rapidly.",
+    "explanation_ne": "अल्भिओलाईमा समतल कोशिकाको एक तह हुन्छ, जुन अक्सिजन र कार्बन डाइअक्साइड छिटो फैलिन पर्याप्त पातलो हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-004",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Homeostasis & Body Fluids",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Thirst is mainly triggered when osmoreceptors in the hypothalamus detect a rise in which of the following?",
+    "question_ne": "हाइपोथालामसमा रहेका ओस्मोरिसेप्टरहरूले कुन कुरामा वृद्धि भएको महसुस गर्दा मुख्य रूपमा तिर्खा लाग्छ?",
+    "options": [
+      "Plasma osmolality",
+      "Blood calcium level",
+      "Blood glucose level",
+      "Plasma protein level"
+    ],
+    "options_ne": [
+      "प्लाज्मा ओस्मोलालिटी",
+      "रगतमा क्याल्सियमको मात्रा",
+      "रगतमा ग्लुकोजको मात्रा",
+      "प्लाज्मा प्रोटिनको मात्रा"
+    ],
+    "answer": 0,
+    "explanation": "A rise in plasma osmolality (from water loss or salt intake) stimulates hypothalamic osmoreceptors, triggering thirst and ADH release.",
+    "explanation_ne": "प्लाज्मा ओस्मोलालिटी बढ्दा (पानीको कमी वा नुन सेवनले) हाइपोथालामसका ओस्मोरिसेप्टर उत्तेजित हुन्छन् र तिर्खा लाग्नुका साथै ADH निस्कन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-005",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Lymphatic System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Lymph from the left lower limb ultimately drains into which lymphatic vessel?",
+    "question_ne": "बायाँ तल्लो खुट्टाबाट आएको लिम्फ अन्ततः कुन लिम्फ नलीमा पुग्छ?",
+    "options": [
+      "Right lymphatic duct",
+      "Right subclavian vein",
+      "Jugular trunk",
+      "Thoracic duct"
+    ],
+    "options_ne": [
+      "दायाँ लिम्फ्याटिक डक्ट",
+      "दायाँ सबक्लाभियन शिरा",
+      "जुगुलर ट्रंक",
+      "थोरासिक डक्ट"
+    ],
+    "answer": 3,
+    "explanation": "The thoracic duct drains lymph from the lower limbs, abdomen and the left side of the upper body; only the right upper quadrant drains via the right lymphatic duct.",
+    "explanation_ne": "थोरासिक डक्टले तल्लो अङ्ग, पेट र माथिल्लो शरीरको बायाँ भागको लिम्फ बगाउँछ; दायाँ माथिल्लो भाग मात्र दायाँ लिम्फ्याटिक डक्टबाट बग्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-006",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The Haversian canal at the centre of an osteon contains which structures?",
+    "question_ne": "ओस्टिओनको केन्द्रमा रहेको हाभर्सियन नलीमा के पाइन्छ?",
+    "options": [
+      "Bone marrow only",
+      "Blood vessels and nerves",
+      "Cartilage cells",
+      "Lymphatic vessels only"
+    ],
+    "options_ne": [
+      "केवल अस्थि मज्जा",
+      "रक्तनली र स्नायु",
+      "कार्टिलेज कोशिका",
+      "केवल लिम्फ नली"
+    ],
+    "answer": 1,
+    "explanation": "Each Haversian (central) canal carries small blood vessels and nerves that supply the surrounding concentric lamellae of the osteon.",
+    "explanation_ne": "प्रत्येक हाभर्सियन (केन्द्रीय) नलीमा साना रक्तनली र स्नायु हुन्छन्, जसले वरपरका ओस्टिओनका तहलाई पोषण दिन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-007",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The coronal suture joins which two bones of the skull?",
+    "question_ne": "कोरोनल स्युचरले खोपडीका कुन दुई हड्डीलाई जोड्छ?",
+    "options": [
+      "Parietal and occipital bones",
+      "Frontal and nasal bones",
+      "Frontal and parietal bones",
+      "Temporal and parietal bones"
+    ],
+    "options_ne": [
+      "पाराइटल र ओसिपिटल हड्डी",
+      "फ्रन्टल र नाकको हड्डी",
+      "फ्रन्टल र पाराइटल हड्डी",
+      "टेम्पोरल र पाराइटल हड्डी"
+    ],
+    "answer": 2,
+    "explanation": "The coronal suture runs across the skull between the frontal bone in front and the two parietal bones behind it.",
+    "explanation_ne": "कोरोनल स्युचर अगाडिको फ्रन्टल हड्डी र पछाडिका दुई पाराइटल हड्डीबीच खोपडीमाथि फैलिएको हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-008",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Muscular System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "During muscle contraction, calcium ions bind to which regulatory protein on the thin filament?",
+    "question_ne": "मांसपेशी संकुचनका क्रममा क्याल्सियम आयन पातलो तन्तु (थिन फिलामेन्ट) को कुन नियामक प्रोटिनसँग बाँधिन्छ?",
+    "options": [
+      "Troponin",
+      "Myosin",
+      "Actin",
+      "Titin"
+    ],
+    "options_ne": [
+      "ट्रोपोनिन",
+      "मायोसिन",
+      "एक्टिन",
+      "टाइटिन"
+    ],
+    "answer": 0,
+    "explanation": "Calcium binds troponin, which shifts tropomyosin away from actin's binding sites so myosin heads can attach and contraction can begin.",
+    "explanation_ne": "क्याल्सियम ट्रोपोनिनसँग बाँधिन्छ, जसले ट्रोपोमायोसिनलाई हटाएर मायोसिनलाई एक्टिनसँग जोडिन दिन्छ र संकुचन सुरु हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-009",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which white blood cell is normally the most abundant in circulating blood?",
+    "question_ne": "परिसंचरण रगतमा सामान्यतया सबैभन्दा बढी पाइने सेतो रक्तकोशिका कुन हो?",
+    "options": [
+      "Lymphocyte",
+      "Monocyte",
+      "Eosinophil",
+      "Neutrophil"
+    ],
+    "options_ne": [
+      "लिम्फोसाइट",
+      "मोनोसाइट",
+      "इओसिनोफिल",
+      "न्यूट्रोफिल"
+    ],
+    "answer": 3,
+    "explanation": "Neutrophils make up about 60-70% of circulating white blood cells and are the first defenders against bacterial infection.",
+    "explanation_ne": "न्यूट्रोफिल परिसंचरण सेतो रक्तकोशिकाको करिब ६०–७०% हुन्छ र ब्याक्टेरिया संक्रमणविरुद्ध पहिलो रक्षक हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-010",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The mitral (bicuspid) valve guards the opening between which two chambers of the heart?",
+    "question_ne": "माइट्रल (बाइकस्पिड) भल्भले मुटुका कुन दुई कोठाबीचको मुखलाई सुरक्षा गर्छ?",
+    "options": [
+      "Right atrium and right ventricle",
+      "Left atrium and left ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary trunk"
+    ],
+    "options_ne": [
+      "दायाँ अलिन्द र दायाँ निलय",
+      "बायाँ अलिन्द र बायाँ निलय",
+      "बायाँ निलय र महाधमनी",
+      "दायाँ निलय र पल्मोनरी ट्रंक"
+    ],
+    "answer": 1,
+    "explanation": "The mitral (bicuspid) valve guards the left atrioventricular orifice, preventing backflow from the left ventricle into the left atrium.",
+    "explanation_ne": "माइट्रल (बाइकस्पिड) भल्भले बायाँ अलिन्द-निलय मुखलाई सुरक्षा गर्छ र रगत बायाँ निलयबाट अलिन्दमा फर्किन रोक्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-011",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Lymphatic System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The thoracic duct empties lymph into which vein?",
+    "question_ne": "थोरासिक डक्टले लिम्फ कुन शिरामा खसाल्छ?",
+    "options": [
+      "Left subclavian vein",
+      "Right subclavian vein",
+      "Inferior vena cava",
+      "Hepatic portal vein"
+    ],
+    "options_ne": [
+      "बायाँ सबक्लाभियन शिरा",
+      "दायाँ सबक्लाभियन शिरा",
+      "इन्फेरियर भेना काभा",
+      "हेपाटिक पोर्टल शिरा"
+    ],
+    "answer": 0,
+    "explanation": "The thoracic duct empties into the venous system at the junction of the left subclavian and left internal jugular veins.",
+    "explanation_ne": "थोरासिक डक्ट बायाँ सबक्लाभियन र बायाँ आन्तरिक जुगुलर शिराको संगममा शिरा प्रणालीमा मिसिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-012",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The myocardium, the middle layer of the heart wall, is composed of which tissue?",
+    "question_ne": "मुटुको भित्ताको मध्य तह मायोकार्डियम कुन ऊतकबाट बनेको हुन्छ?",
+    "options": [
+      "Smooth muscle tissue",
+      "Dense connective tissue",
+      "Cardiac muscle tissue",
+      "Stratified squamous epithelium"
+    ],
+    "options_ne": [
+      "चिल्लो मांसपेशी ऊतक",
+      "घना संयोजी ऊतक",
+      "हृदय मांसपेशी ऊतक",
+      "स्तरीकृत स्क्वामस एपिथेलियम"
+    ],
+    "answer": 2,
+    "explanation": "The myocardium is the thick middle layer of the heart wall, made of involuntary striated cardiac muscle that contracts to pump blood.",
+    "explanation_ne": "मायोकार्डियम मुटुको भित्ताको बाक्लो मध्य तह हो, जुन अनैच्छिक धारीदार हृदय मांसपेशीबाट बनेको हुन्छ र रगत पम्प गर्न संकुचित हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-013",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following white blood cells is an agranulocyte?",
+    "question_ne": "तलका मध्ये कुन सेतो रक्तकोशिका एग्रानुलोसाइट हो?",
+    "options": [
+      "Neutrophil",
+      "Lymphocyte",
+      "Eosinophil",
+      "Basophil"
+    ],
+    "options_ne": [
+      "न्यूट्रोफिल",
+      "लिम्फोसाइट",
+      "इओसिनोफिल",
+      "बेसोफिल"
+    ],
+    "answer": 1,
+    "explanation": "Agranulocytes lack visible cytoplasmic granules and include lymphocytes and monocytes; neutrophils, eosinophils and basophils are granulocytes.",
+    "explanation_ne": "एग्रानुलोसाइटमा देखिने साइटोप्लाज्मिक दाना हुँदैनन्; यसमा लिम्फोसाइट र मोनोसाइट पर्छन्, जबकि न्यूट्रोफिल, इओसिनोफिल र बेसोफिल ग्रानुलोसाइट हुन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-014",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Urinary System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "In the nephron, filtration of blood plasma takes place in which structure?",
+    "question_ne": "नेफ्रोनमा रगत प्लाज्माको छान्ने (फिल्ट्रेसन) प्रक्रिया कुन संरचनामा हुन्छ?",
+    "options": [
+      "Loop of Henle",
+      "Collecting duct",
+      "Distal convoluted tubule",
+      "Glomerulus"
+    ],
+    "options_ne": [
+      "हेनलेको लूप",
+      "संग्रह नली",
+      "डिस्टल कुण्डलित नली",
+      "ग्लोमेरुलस"
+    ],
+    "answer": 3,
+    "explanation": "Filtration occurs in the glomerulus, a tuft of capillaries where plasma is filtered into Bowman's capsule.",
+    "explanation_ne": "छान्ने प्रक्रिया ग्लोमेरुलसमा हुन्छ, जहाँ केशिकाको गुच्छाबाट प्लाज्मा बोम्यान क्याप्सुलमा छानिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-015",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which is the outermost protective membrane (meninx) covering the brain?",
+    "question_ne": "मस्तिष्कलाई ढाक्ने सबैभन्दा बाहिरी सुरक्षात्मक झिल्ली (मेनिन्ज) कुन हो?",
+    "options": [
+      "Dura mater",
+      "Pia mater",
+      "Arachnoid mater",
+      "Pericardium"
+    ],
+    "options_ne": [
+      "ड्युरा मेटर",
+      "पिया मेटर",
+      "अराक्नॉइड मेटर",
+      "पेरिकार्डियम"
+    ],
+    "answer": 0,
+    "explanation": "The dura mater is the tough outermost meninx; beneath it lie the arachnoid mater and the delicate pia mater.",
+    "explanation_ne": "ड्युरा मेटर कडा सबैभन्दा बाहिरी मेनिन्ज हो; यसको तल अराक्नॉइड मेटर र नाजुक पिया मेटर हुन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-016",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "How many pairs of cranial nerves arise from the human brain?",
+    "question_ne": "मानव मस्तिष्कबाट कति जोडी कपाल स्नायु (क्रेनियल नर्भ) निस्कन्छन्?",
+    "options": [
+      "10 pairs",
+      "31 pairs",
+      "12 pairs",
+      "8 pairs"
+    ],
+    "options_ne": [
+      "१० जोडी",
+      "३१ जोडी",
+      "१२ जोडी",
+      "८ जोडी"
+    ],
+    "answer": 2,
+    "explanation": "There are 12 pairs of cranial nerves, numbered I to XII, arising mainly from the brainstem.",
+    "explanation_ne": "मानवमा १२ जोडी कपाल स्नायु हुन्छन्, जसलाई I देखि XII सम्म अंक दिइन्छ र प्रायः ब्रेनस्टेमबाट निस्कन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-017",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Endocrine System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which hormone is released from the posterior lobe of the pituitary gland?",
+    "question_ne": "पिट्युटरी ग्रन्थिको पछाडिको खण्ड (पोस्टेरियर लोब) बाट कुन हर्मोन निस्कन्छ?",
+    "options": [
+      "Growth hormone",
+      "Oxytocin",
+      "Thyroid stimulating hormone",
+      "Prolactin"
+    ],
+    "options_ne": [
+      "वृद्धि हर्मोन",
+      "अक्सिटोसिन",
+      "थाइरॉइड उत्तेजक हर्मोन",
+      "प्रोल्याक्टिन"
+    ],
+    "answer": 1,
+    "explanation": "Oxytocin (and ADH) are made in the hypothalamus and released from the posterior pituitary; growth hormone, TSH and prolactin come from the anterior pituitary.",
+    "explanation_ne": "अक्सिटोसिन (र ADH) हाइपोथालामसमा बन्छ र पोस्टेरियर पिट्युटरीबाट निस्कन्छ; वृद्धि हर्मोन, TSH र प्रोल्याक्टिन एन्टेरियर पिट्युटरीबाट निस्कन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-018",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Reproductive System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which hormone stimulates contraction of the uterus during childbirth?",
+    "question_ne": "प्रसवका बेला पाठेघर संकुचित गराउने हर्मोन कुन हो?",
+    "options": [
+      "Progesterone",
+      "Oestrogen",
+      "Prolactin",
+      "Oxytocin"
+    ],
+    "options_ne": [
+      "प्रोजेस्टेरोन",
+      "इस्ट्रोजन",
+      "प्रोल्याक्टिन",
+      "अक्सिटोसिन"
+    ],
+    "answer": 3,
+    "explanation": "Oxytocin stimulates strong rhythmic contractions of the uterine muscle during labour and also causes milk ejection after delivery.",
+    "explanation_ne": "अक्सिटोसिनले प्रसवका बेला पाठेघरको मांसपेशीलाई बलियो लयबद्ध रूपमा संकुचित गराउँछ र प्रसूतिपछि दूध निस्कन पनि मद्दत गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-019",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Reproductive System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The first menstrual period in a girl, marking the onset of puberty, is referred to as which of the following?",
+    "question_ne": "केटीमा यौवनारम्भको सुरुवात जनाउने पहिलो महिनावारीलाई के भनिन्छ?",
+    "options": [
+      "Menarche",
+      "Menopause",
+      "Ovulation",
+      "Implantation"
+    ],
+    "options_ne": [
+      "मेनार्की",
+      "मेनोपज",
+      "ओभुलेसन",
+      "इम्प्लान्टेसन"
+    ],
+    "answer": 0,
+    "explanation": "Menarche is the first menstruation, usually occurring around 12-13 years of age; menopause is the permanent end of menstruation.",
+    "explanation_ne": "मेनार्की पहिलो महिनावारी हो, जुन सामान्यतया १२–१३ वर्षको उमेरमा हुन्छ; मेनोपज महिनावारी स्थायी रूपमा बन्द हुनु हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-020",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Reproductive System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Fertilisation of the ovum by a sperm normally takes place in which part of the female reproductive tract?",
+    "question_ne": "शुक्रकीटद्वारा डिम्बको निषेचन सामान्यतया महिला प्रजनन पथको कुन भागमा हुन्छ?",
+    "options": [
+      "Body of the uterus",
+      "Cervix",
+      "Ampulla of the fallopian tube",
+      "Ovary"
+    ],
+    "options_ne": [
+      "पाठेघरको शरीर",
+      "पाठेघरको मुख (सर्भिक्स)",
+      "फेलोपियन नलीको एम्पुला",
+      "डिम्बाशय"
+    ],
+    "answer": 2,
+    "explanation": "Fertilisation normally occurs in the ampulla, the wide part of the fallopian tube, after which the zygote travels to the uterus for implantation.",
+    "explanation_ne": "निषेचन सामान्यतया फेलोपियन नलीको फराकिलो भाग एम्पुलामा हुन्छ, त्यसपछि जाइगोट इम्प्लान्टेसनका लागि पाठेघरतिर जान्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-021",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The plasma membrane of a cell is mainly composed of which molecules?",
+    "question_ne": "कोशिकाको प्लाज्मा झिल्ली मुख्य रूपमा कुन अणुहरूबाट बनेको हुन्छ?",
+    "options": [
+      "Cellulose and chitin",
+      "Phospholipids and proteins",
+      "Starch and glycogen",
+      "DNA and RNA"
+    ],
+    "options_ne": [
+      "सेलुलोज र काइटिन",
+      "फस्फोलिपिड र प्रोटिन",
+      "स्टार्च र ग्लाइकोजन",
+      "डीएनए र आरएनए"
+    ],
+    "answer": 1,
+    "explanation": "The plasma membrane is a phospholipid bilayer with embedded proteins that control what enters and leaves the cell.",
+    "explanation_ne": "प्लाज्मा झिल्ली फस्फोलिपिडको दोहोरो तह हो, जसमा प्रोटिनहरू जडिएका हुन्छन् र कोशिकाभित्र के जान्छ भन्ने नियन्त्रण गर्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-022",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which cell organelle is the site of protein synthesis?",
+    "question_ne": "प्रोटिन संश्लेषण हुने कोशिकाको अङ्ग कुन हो?",
+    "options": [
+      "Lysosome",
+      "Golgi apparatus",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "options_ne": [
+      "लाइसोसोम",
+      "गोल्जी उपकरण",
+      "भ्याकुओल",
+      "राइबोसोम"
+    ],
+    "answer": 3,
+    "explanation": "Ribosomes read messenger RNA and assemble amino acids into proteins, either free in the cytoplasm or attached to the rough endoplasmic reticulum.",
+    "explanation_ne": "राइबोसोमले मेसेन्जर आरएनए पढेर एमिनो एसिडबाट प्रोटिन बनाउँछ; यी साइटोप्लाज्ममा स्वतन्त्र वा रफ एन्डोप्लाज्मिक रेटिकुलममा जोडिएका हुन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-023",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The Golgi apparatus is mainly concerned with which function?",
+    "question_ne": "गोल्जी उपकरण मुख्य रूपमा कुन कार्यसँग सम्बन्धित छ?",
+    "options": [
+      "Packaging and modification of proteins",
+      "Production of ATP",
+      "Digestion of worn-out organelles",
+      "Synthesis of ribosomal RNA"
+    ],
+    "options_ne": [
+      "प्रोटिनको प्याकेजिङ र परिमार्जन",
+      "एटीपी उत्पादन",
+      "पुराना अङ्गहरूको पाचन",
+      "राइबोसोमल आरएनएको संश्लेषण"
+    ],
+    "answer": 0,
+    "explanation": "The Golgi apparatus modifies, sorts and packages proteins into vesicles for secretion or delivery to other parts of the cell.",
+    "explanation_ne": "गोल्जी उपकरणले प्रोटिनलाई परिमार्जन, वर्गीकरण र प्याकेज गरेर स्राव वा कोशिकाका अन्य भागमा पठाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-024",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Lysosomes are rich in hydrolytic enzymes and are chiefly responsible for which activity?",
+    "question_ne": "लाइसोसोममा हाइड्रोलाइटिक इन्जाइम प्रशस्त हुन्छन् र यिनीहरू मुख्य रूपमा कुन कार्यका लागि जिम्मेवार छन्?",
+    "options": [
+      "Photosynthesis",
+      "Lipid storage",
+      "Intracellular digestion",
+      "Protein synthesis"
+    ],
+    "options_ne": [
+      "प्रकाश संश्लेषण",
+      "लिपिड भण्डारण",
+      "कोशिकाभित्रको पाचन",
+      "प्रोटिन संश्लेषण"
+    ],
+    "answer": 2,
+    "explanation": "Lysosomes use hydrolytic enzymes to digest worn-out organelles, debris and engulfed microbes inside the cell.",
+    "explanation_ne": "लाइसोसोमले हाइड्रोलाइटिक इन्जाइम प्रयोग गरेर पुराना अङ्ग, फोहोर र कोशिकाले निलेका सूक्ष्मजीव पचाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-025",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The nucleolus within the nucleus is primarily involved in the production of which of the following?",
+    "question_ne": "केन्द्रकभित्र रहेको न्युक्लियोलस मुख्य रूपमा कुन कुराको उत्पादनमा संलग्न हुन्छ?",
+    "options": [
+      "Messenger RNA only",
+      "Ribosomal RNA",
+      "ATP",
+      "Lipids"
+    ],
+    "options_ne": [
+      "केवल मेसेन्जर आरएनए",
+      "राइबोसोमल आरएनए",
+      "एटीपी",
+      "लिपिड"
+    ],
+    "answer": 1,
+    "explanation": "The nucleolus produces ribosomal RNA and assembles ribosomal subunits, which then move to the cytoplasm for protein synthesis.",
+    "explanation_ne": "न्युक्लियोलसले राइबोसोमल आरएनए उत्पादन गर्छ र राइबोसोमका उपएकाइ बनाउँछ, जुन प्रोटिन संश्लेषणका लागि साइटोप्लाज्ममा जान्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-026",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The smooth endoplasmic reticulum is chiefly involved in the synthesis of which substances?",
+    "question_ne": "स्मूथ एन्डोप्लाज्मिक रेटिकुलम मुख्य रूपमा कुन पदार्थको संश्लेषणमा संलग्न हुन्छ?",
+    "options": [
+      "Proteins",
+      "DNA",
+      "Haemoglobin",
+      "Lipids and steroids"
+    ],
+    "options_ne": [
+      "प्रोटिन",
+      "डीएनए",
+      "हिमोग्लोबिन",
+      "लिपिड र स्टेरॉइड"
+    ],
+    "answer": 3,
+    "explanation": "Smooth endoplasmic reticulum lacks ribosomes and synthesises lipids and steroid hormones, and also detoxifies drugs and poisons.",
+    "explanation_ne": "स्मूथ एन्डोप्लाज्मिक रेटिकुलममा राइबोसोम हुँदैन; यसले लिपिड र स्टेरॉइड हर्मोन बनाउँछ र औषधि तथा विषलाई निष्क्रिय पार्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-027",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cell Biology",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The sodium-potassium pump moves how many sodium and potassium ions across the membrane in one cycle?",
+    "question_ne": "सोडियम-पोटासियम पम्पले एक चक्रमा झिल्लीपारि कति सोडियम र पोटासियम आयन सार्छ?",
+    "options": [
+      "3 Na+ out, 2 K+ in",
+      "2 Na+ out, 3 K+ in",
+      "1 Na+ out, 1 K+ in",
+      "3 Na+ in, 2 K+ out"
+    ],
+    "options_ne": [
+      "३ Na+ बाहिर, २ K+ भित्र",
+      "२ Na+ बाहिर, ३ K+ भित्र",
+      "१ Na+ बाहिर, १ K+ भित्र",
+      "३ Na+ भित्र, २ K+ बाहिर"
+    ],
+    "answer": 0,
+    "explanation": "Each cycle of the Na+/K+ ATPase pumps 3 sodium ions out of the cell and 2 potassium ions in, using one ATP molecule.",
+    "explanation_ne": "Na+/K+ ATPase को प्रत्येक चक्रमा ३ सोडियम आयन कोशिकाबाट बाहिर र २ पोटासियम आयन भित्र पठाइन्छ, जसमा एक एटीपी अणु खर्च हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-028",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Plasma makes up approximately what percentage of the total blood volume?",
+    "question_ne": "कुल रगतको आयतनको करिब कति प्रतिशत प्लाज्माले ओगट्छ?",
+    "options": [
+      "45%",
+      "35%",
+      "55%",
+      "75%"
+    ],
+    "options_ne": [
+      "४५%",
+      "३५%",
+      "५५%",
+      "७५%"
+    ],
+    "answer": 2,
+    "explanation": "Blood is about 55% plasma and 45% formed elements (red cells, white cells and platelets).",
+    "explanation_ne": "रगत करिब ५५% प्लाज्मा र ४५% बनेका तत्त्व (रातो कोशिका, सेतो कोशिका र प्लेटलेट) हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-029",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The average lifespan of a human red blood cell is approximately how long?",
+    "question_ne": "मानव रातो रक्तकोशिकाको औसत आयु करिब कति हुन्छ?",
+    "options": [
+      "30 days",
+      "120 days",
+      "7 days",
+      "1 year"
+    ],
+    "options_ne": [
+      "३० दिन",
+      "१२० दिन",
+      "७ दिन",
+      "१ वर्ष"
+    ],
+    "answer": 1,
+    "explanation": "Red blood cells live for about 120 days before being removed mainly by the spleen; new cells are produced in the red bone marrow.",
+    "explanation_ne": "रातो रक्तकोशिका करिब १२० दिन बाँच्छन् र मुख्य रूपमा प्लीहाले हटाउँछ; नयाँ कोशिका रातो अस्थि मज्जामा बन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-030",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Each haemoglobin molecule can carry a maximum of how many oxygen molecules?",
+    "question_ne": "प्रत्येक हिमोग्लोबिन अणुले अधिकतम कति अक्सिजन अणु बोक्न सक्छ?",
+    "options": [
+      "2",
+      "1",
+      "8",
+      "4"
+    ],
+    "options_ne": [
+      "२",
+      "१",
+      "८",
+      "४"
+    ],
+    "answer": 3,
+    "explanation": "Haemoglobin has four heme groups, each binding one oxygen molecule, so one haemoglobin molecule can carry up to four oxygen molecules.",
+    "explanation_ne": "हिमोग्लोबिनमा चार हेम समूह हुन्छन्, प्रत्येकले एक अक्सिजन अणु बाँध्छ, त्यसैले एक हिमोग्लोबिन अणुले अधिकतम चार अक्सिजन अणु बोक्न सक्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-031",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A person with which blood group is regarded as the universal donor?",
+    "question_ne": "कुन रक्त समूह भएको व्यक्तिलाई युनिभर्सल डोनर मानिन्छ?",
+    "options": [
+      "O negative",
+      "AB positive",
+      "A negative",
+      "B positive"
+    ],
+    "options_ne": [
+      "O नेगेटिभ",
+      "AB पोजिटिभ",
+      "A नेगेटिभ",
+      "B पोजिटिभ"
+    ],
+    "answer": 0,
+    "explanation": "O negative red cells carry no A, B or Rh antigens, so they can be given to people of any ABO/Rh group in an emergency.",
+    "explanation_ne": "O नेगेटिभ रातो कोशिकामा A, B वा Rh एन्टिजेन हुँदैन, त्यसैले आपतकालमा कुनै पनि समूहका व्यक्तिलाई दिन सकिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-032",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Platelets (thrombocytes) play a key role in which process?",
+    "question_ne": "प्लेटलेट (थ्रोम्बोसाइट) ले कुन प्रक्रियामा मुख्य भूमिका खेल्छन्?",
+    "options": [
+      "Oxygen transport",
+      "Antibody production",
+      "Blood clotting",
+      "Carbon dioxide transport"
+    ],
+    "options_ne": [
+      "अक्सिजन ढुवानी",
+      "एन्टिबडी उत्पादन",
+      "रगत जम्ने प्रक्रिया",
+      "कार्बन डाइअक्साइड ढुवानी"
+    ],
+    "answer": 2,
+    "explanation": "Platelets stick to a damaged vessel wall and release clotting factors, forming a plug that stops bleeding.",
+    "explanation_ne": "प्लेटलेट क्षतिग्रस्त भाँडाको भित्तामा टाँसिन्छन् र क्लटिङ कारक निकालेर रगत बग्न रोक्ने प्लग बनाउँछन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-033",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Blood",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "During blood clotting, fibrinogen is converted into fibrin by the action of which enzyme?",
+    "question_ne": "रगत जम्ने क्रममा फाइब्रिनोजनलाई फाइब्रिनमा बदल्ने इन्जाइम कुन हो?",
+    "options": [
+      "Pepsin",
+      "Thrombin",
+      "Lipase",
+      "Amylase"
+    ],
+    "options_ne": [
+      "पेप्सिन",
+      "थ्रोम्बिन",
+      "लाइपेज",
+      "एमाइलेज"
+    ],
+    "answer": 1,
+    "explanation": "Thrombin converts soluble fibrinogen into insoluble fibrin threads, which form the meshwork of a blood clot.",
+    "explanation_ne": "थ्रोम्बिनले घुलनशील फाइब्रिनोजनलाई अघुलनशील फाइब्रिन धागोमा बदल्छ, जसले रगतको थक्काको जाल बनाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-034",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The sinoatrial (SA) node, the pacemaker of the heart, is located in the wall of which chamber?",
+    "question_ne": "मुटुको पेसमेकर मानिने साइनोएट्रियल (SA) नोड मुटुको कुन कोठाको भित्तामा हुन्छ?",
+    "options": [
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium"
+    ],
+    "options_ne": [
+      "बायाँ अलिन्द",
+      "दायाँ निलय",
+      "बायाँ निलय",
+      "दायाँ अलिन्द"
+    ],
+    "answer": 3,
+    "explanation": "The SA node lies in the wall of the right atrium near the opening of the superior vena cava and initiates each heartbeat.",
+    "explanation_ne": "SA नोड दायाँ अलिन्दको भित्तामा सुपेरियर भेना काभाको मुखनजिक हुन्छ र प्रत्येक मुटुको धड्कन सुरु गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-035",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Cardiac output is calculated by multiplying stroke volume by which of the following?",
+    "question_ne": "कार्डियक आउटपुट निकाल्न स्ट्रोक भोल्युमलाई कुन कुराले गुणन गरिन्छ?",
+    "options": [
+      "Heart rate",
+      "Blood pressure",
+      "Respiratory rate",
+      "Body surface area"
+    ],
+    "options_ne": [
+      "मुटुको गति",
+      "रक्तचाप",
+      "श्वासप्रश्वास गति",
+      "शरीरको सतह क्षेत्रफल"
+    ],
+    "answer": 0,
+    "explanation": "Cardiac output = stroke volume x heart rate, about 5 litres per minute at rest in a healthy adult.",
+    "explanation_ne": "कार्डियक आउटपुट = स्ट्रोक भोल्युम × मुटुको गति; स्वस्थ वयस्कमा विश्राममा करिब ५ लिटर प्रतिमिनेट हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-036",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The normal blood pressure of a healthy young adult is approximately which of the following?",
+    "question_ne": "स्वस्थ युवा वयस्कको सामान्य रक्तचाप करिब कति हुन्छ?",
+    "options": [
+      "140/90 mmHg",
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "160/100 mmHg"
+    ],
+    "options_ne": [
+      "१४०/९० mmHg",
+      "९०/६० mmHg",
+      "१२०/८० mmHg",
+      "१६०/१०० mmHg"
+    ],
+    "answer": 2,
+    "explanation": "Normal blood pressure is around 120 mmHg systolic and 80 mmHg diastolic; persistently higher values indicate hypertension.",
+    "explanation_ne": "सामान्य रक्तचाप करिब १२० mmHg सिस्टोलिक र ८० mmHg डायस्टोलिक हुन्छ; निरन्तर बढी भएमा उच्च रक्तचाप मानिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-037",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "In an electrocardiogram (ECG), the QRS complex represents which electrical event?",
+    "question_ne": "इलेक्ट्रोकार्डियोग्राम (ECG) मा QRS कम्प्लेक्सले कुन विद्युतीय घटनालाई जनाउँछ?",
+    "options": [
+      "Atrial depolarisation",
+      "Ventricular depolarisation",
+      "Ventricular repolarisation",
+      "Atrial repolarisation"
+    ],
+    "options_ne": [
+      "अलिन्दको विध्रुवीकरण",
+      "निलयको विध्रुवीकरण",
+      "निलयको पुनःध्रुवीकरण",
+      "अलिन्दको पुनःध्रुवीकरण"
+    ],
+    "answer": 1,
+    "explanation": "The QRS complex represents depolarisation of the ventricles, which triggers their contraction; the P wave shows atrial depolarisation and the T wave ventricular repolarisation.",
+    "explanation_ne": "QRS कम्प्लेक्सले निलयको विध्रुवीकरण जनाउँछ, जसले निलय संकुचन गराउँछ; P तरंगले अलिन्दको विध्रुवीकरण र T तरंगले निलयको पुनःध्रुवीकरण देखाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-038",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Valves are present in veins to perform which function?",
+    "question_ne": "शिराहरूमा भल्भ हुनुको मुख्य काम के हो?",
+    "options": [
+      "Increase blood pressure",
+      "Filter the blood",
+      "Produce red blood cells",
+      "Prevent backflow of blood"
+    ],
+    "options_ne": [
+      "रक्तचाप बढाउनु",
+      "रगत छान्नु",
+      "रातो रक्तकोशिका बनाउनु",
+      "रगत पछाडि फर्किन रोक्नु"
+    ],
+    "answer": 3,
+    "explanation": "Venous valves are one-way flaps that prevent blood from flowing backwards, especially in the limbs where blood flows against gravity.",
+    "explanation_ne": "शिराका भल्भ एकतर्फी पर्दा हुन्, जसले रगत पछाडि फर्किन रोक्छन्, विशेष गरी खुट्टामा जहाँ रगत गुरुत्वाकर्षणविरुद्ध बग्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-039",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which blood vessel carries deoxygenated blood away from the heart to the lungs?",
+    "question_ne": "कुन रक्तनलीले अक्सिजनरहित रगत मुटुबाट फोक्सोतिर लैजान्छ?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Coronary artery"
+    ],
+    "options_ne": [
+      "पल्मोनरी धमनी",
+      "पल्मोनरी शिरा",
+      "महाधमनी",
+      "कोरोनरी धमनी"
+    ],
+    "answer": 0,
+    "explanation": "The pulmonary artery is the only artery that carries deoxygenated blood, from the right ventricle to the lungs for oxygenation.",
+    "explanation_ne": "पल्मोनरी धमनी मात्र यस्तो धमनी हो जसले अक्सिजनरहित रगत बोक्छ — दायाँ निलयबाट फोक्सोमा अक्सिजन लिन लैजान्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-040",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Cardiovascular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Exchange of gases, nutrients and wastes between blood and tissues takes place across the walls of which vessels?",
+    "question_ne": "रगत र ऊतकबीच ग्यास, पोषक तत्त्व र फोहोरको आदानप्रदान कुन नलीको भित्ताबाट हुन्छ?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Arterioles"
+    ],
+    "options_ne": [
+      "धमनी",
+      "शिरा",
+      "केशिका",
+      "धमनिका"
+    ],
+    "answer": 2,
+    "explanation": "Capillaries have walls only one cell thick, allowing gases, nutrients and wastes to diffuse between blood and tissues.",
+    "explanation_ne": "केशिकाको भित्ता केवल एक कोशिका बाक्लो हुन्छ, जसले ग्यास, पोषक तत्त्व र फोहोर रगत र ऊतकबीच फैलिन दिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-041",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Lymphatic System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which is the largest lymphoid organ of the human body?",
+    "question_ne": "मानव शरीरको सबैभन्दा ठूलो लिम्फॉइड अङ्ग कुन हो?",
+    "options": [
+      "Thymus",
+      "Spleen",
+      "Tonsil",
+      "Appendix"
+    ],
+    "options_ne": [
+      "थाइमस",
+      "प्लीहा",
+      "टन्सिल",
+      "एपेन्डिक्स"
+    ],
+    "answer": 1,
+    "explanation": "The spleen filters blood, removes old red cells and mounts immune responses, making it the largest lymphoid organ.",
+    "explanation_ne": "प्लीहाले रगत छान्छ, पुराना रातो कोशिका हटाउँछ र प्रतिरक्षा प्रतिक्रिया गर्छ, त्यसैले यो सबैभन्दा ठूलो लिम्फॉइड अङ्ग हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-042",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Respiratory System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "In the respiratory system, exchange of oxygen and carbon dioxide between air and blood occurs in which structures?",
+    "question_ne": "श्वासप्रश्वास प्रणालीमा हावा र रगतबीच अक्सिजन र कार्बन डाइअक्साइडको आदानप्रदान कुन संरचनामा हुन्छ?",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Larynx",
+      "Alveoli"
+    ],
+    "options_ne": [
+      "ब्रोन्काई",
+      "श्वासनली",
+      "स्वरयन्त्र",
+      "वायुकोष (अल्भिओलाई)"
+    ],
+    "answer": 3,
+    "explanation": "Gas exchange occurs in the alveoli, tiny air sacs surrounded by capillaries with very thin walls.",
+    "explanation_ne": "ग्यास आदानप्रदान अल्भिओलाईमा हुन्छ, जुन केशिकाले घेरिएका साना हावाका थैली हुन् र भित्ता धेरै पातलो हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-043",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Respiratory System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The diaphragm, the main muscle of inspiration, is supplied by which nerve?",
+    "question_ne": "श्वास लिने मुख्य मांसपेशी डायफ्रामलाई कुन स्नायुले आपूर्ति गर्छ?",
+    "options": [
+      "Phrenic nerve",
+      "Vagus nerve",
+      "Intercostal nerve",
+      "Sciatic nerve"
+    ],
+    "options_ne": [
+      "फ्रेनिक स्नायु",
+      "भेगस स्नायु",
+      "इन्टरकोस्टल स्नायु",
+      "सियाटिक स्नायु"
+    ],
+    "answer": 0,
+    "explanation": "The phrenic nerve (from cervical roots C3-C5) supplies the diaphragm; damage to it paralyses the diaphragm on that side.",
+    "explanation_ne": "घाँटीका स्नायु मूल C3–C5 बाट निस्कने फ्रेनिक स्नायुले डायफ्रामलाई आपूर्ति गर्छ; यसमा क्षति भएमा त्यस तर्फको डायफ्राम चल्न छोड्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-044",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Respiratory System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The volume of air moved in and out of the lungs during a normal quiet breath (tidal volume) is approximately how much?",
+    "question_ne": "सामान्य शान्त श्वासमा फोक्सोभित्र र बाहिर जाने हावाको आयतन (टाइडल भोल्युम) करिब कति हुन्छ?",
+    "options": [
+      "1200 mL",
+      "50 mL",
+      "500 mL",
+      "3500 mL"
+    ],
+    "options_ne": [
+      "१२०० mL",
+      "५० mL",
+      "५०० mL",
+      "३५०० mL"
+    ],
+    "answer": 2,
+    "explanation": "Tidal volume is about 500 mL per breath at rest; vital capacity (the maximum usable volume) is much larger, around 4.5 litres.",
+    "explanation_ne": "टाइडल भोल्युम विश्राममा प्रति श्वास करिब ५०० mL हुन्छ; भाइटल क्षमता (अधिकतम प्रयोगयोग्य आयतन) करिब ४.५ लिटर हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-045",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Respiratory System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Most carbon dioxide is transported in the blood in which form?",
+    "question_ne": "अधिकांश कार्बन डाइअक्साइड रगतमा कुन रूपमा ढुवानी हुन्छ?",
+    "options": [
+      "Dissolved CO2 gas",
+      "Bicarbonate ions",
+      "Carbaminohaemoglobin",
+      "Carbonic acid in red cells"
+    ],
+    "options_ne": [
+      "घुलिएको CO2 ग्यास",
+      "बाइकार्बोनेट आयन",
+      "कार्बामिनोहिमोग्लोबिन",
+      "रातो कोशिकामा कार्बोनिक एसिड"
+    ],
+    "answer": 1,
+    "explanation": "About 70% of carbon dioxide travels as bicarbonate ions in the plasma, formed when CO2 combines with water inside red blood cells.",
+    "explanation_ne": "करिब ७०% कार्बन डाइअक्साइड प्लाज्मामा बाइकार्बोनेट आयनका रूपमा जान्छ, जुन रातो कोशिकाभित्र CO2 पानीसँग मिलेर बन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-046",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Digestive System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Bile is produced by the liver and stored in which organ?",
+    "question_ne": "पित्त कलेजोले बनाउँछ र कुन अङ्गमा भण्डारण हुन्छ?",
+    "options": [
+      "Pancreas",
+      "Spleen",
+      "Appendix",
+      "Gall bladder"
+    ],
+    "options_ne": [
+      "अग्न्याशय",
+      "प्लीहा",
+      "एपेन्डिक्स",
+      "पित्त थैली"
+    ],
+    "answer": 3,
+    "explanation": "Bile is produced continuously by the liver, stored and concentrated in the gall bladder, and released into the duodenum to emulsify fats.",
+    "explanation_ne": "पित्त कलेजोले निरन्तर बनाउँछ, पित्त थैलीमा भण्डारण र गाढा हुन्छ, र बोसो इमल्सिफाइ गर्न डुओडेनममा निस्कन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-047",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Digestive System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Pepsin, the enzyme that begins protein digestion in the stomach, works best in which condition?",
+    "question_ne": "पेटमा प्रोटिन पाचन सुरु गर्ने इन्जाइम पेप्सिन कुन अवस्थामा सबैभन्दा राम्रो काम गर्छ?",
+    "options": [
+      "Acidic medium",
+      "Alkaline medium",
+      "Neutral medium",
+      "Absence of water"
+    ],
+    "options_ne": [
+      "अम्लीय माध्यम",
+      "क्षारीय माध्यम",
+      "तटस्थ माध्यम",
+      "पानी नभएको अवस्था"
+    ],
+    "answer": 0,
+    "explanation": "Pepsin works best in the strongly acidic environment of the stomach (pH around 2), created by hydrochloric acid.",
+    "explanation_ne": "पेप्सिन पेटको बलियो अम्लीय वातावरण (pH करिब २) मा सबैभन्दा राम्रो काम गर्छ, जुन हाइड्रोक्लोरिक एसिडले बनाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-048",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Digestive System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Absorption of digested food in the small intestine takes place mainly through which structures?",
+    "question_ne": "सानो आन्द्रामा पचेको खानाको अवशोषण मुख्य रूपमा कुन संरचनाबाट हुन्छ?",
+    "options": [
+      "Alveoli",
+      "Glomeruli",
+      "Villi",
+      "Crypts of Lieberkuhn"
+    ],
+    "options_ne": [
+      "अल्भिओलाई",
+      "ग्लोमेरुली",
+      "भिलाई",
+      "लिबरकुहनका क्रिप्ट"
+    ],
+    "answer": 2,
+    "explanation": "Villi are finger-like projections lining the small intestine that greatly increase surface area for absorption of digested nutrients.",
+    "explanation_ne": "भिलाई सानो आन्द्राको भित्तामा औंलाजस्ता उभार हुन्, जसले पचेको पोषक तत्त्व अवशोषणका लागि सतह क्षेत्र धेरै बढाउँछन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-049",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Endocrine System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Insulin is secreted by which cells of the islets of Langerhans in the pancreas?",
+    "question_ne": "अग्न्याशयका ल्याङ्गरह्यान्स टापुका कुन कोशिकाले इन्सुलिन स्राव गर्छन्?",
+    "options": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells"
+    ],
+    "options_ne": [
+      "अल्फा कोशिका",
+      "बिटा कोशिका",
+      "डेल्टा कोशिका",
+      "एसिनर कोशिका"
+    ],
+    "answer": 1,
+    "explanation": "Beta cells of the islets of Langerhans secrete insulin, which lowers blood glucose; alpha cells secrete glucagon, which raises it.",
+    "explanation_ne": "ल्याङ्गरह्यान्स टापुका बिटा कोशिकाले इन्सुलिन स्राव गर्छन्, जसले रगतको ग्लुकोज घटाउँछ; अल्फा कोशिकाले ग्लुकागन स्राव गर्छन्, जसले बढाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-050",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Digestive System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which organ functions as the largest gland of the human body, producing bile and synthesising plasma proteins?",
+    "question_ne": "पित्त बनाउने र प्लाज्मा प्रोटिन संश्लेषण गर्ने, शरीरको सबैभन्दा ठूलो ग्रन्थिका रूपमा काम गर्ने अङ्ग कुन हो?",
+    "options": [
+      "Thyroid gland",
+      "Pancreas",
+      "Pituitary gland",
+      "Liver"
+    ],
+    "options_ne": [
+      "थाइरॉइड ग्रन्थि",
+      "अग्न्याशय",
+      "पिट्युटरी ग्रन्थि",
+      "कलेजो"
+    ],
+    "answer": 3,
+    "explanation": "The liver is the largest gland in the body; it produces bile, stores glycogen, detoxifies blood and synthesises plasma proteins.",
+    "explanation_ne": "कलेजो शरीरको सबैभन्दा ठूलो ग्रन्थि हो; यसले पित्त बनाउँछ, ग्लाइकोजन भण्डारण गर्छ, रगतलाई विषमुक्त गर्छ र प्लाज्मा प्रोटिन बनाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-051",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Urinary System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Antidiuretic hormone (ADH) increases reabsorption of water mainly in which part of the nephron?",
+    "question_ne": "एन्टिडाइयुरेटिक हर्मोन (ADH) ले मुख्य रूपमा नेफ्रोनको कुन भागमा पानीको पुनःअवशोषण बढाउँछ?",
+    "options": [
+      "Collecting duct",
+      "Glomerulus",
+      "Loop of Henle",
+      "Bowman's capsule"
+    ],
+    "options_ne": [
+      "संग्रह नली",
+      "ग्लोमेरुलस",
+      "हेनलेको लूप",
+      "बोम्यान क्याप्सुल"
+    ],
+    "answer": 0,
+    "explanation": "ADH makes the collecting duct (and distal tubule) more permeable to water, so more water is reabsorbed and urine becomes concentrated.",
+    "explanation_ne": "ADH ले संग्रह नली (र डिस्टल नली) लाई पानीप्रति बढी पारगम्य बनाउँछ, जसले पानी बढी पुनःअवशोषित हुन्छ र पिसाब गाढा हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-052",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Urinary System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The normal glomerular filtration rate (GFR) in a healthy adult is approximately how much?",
+    "question_ne": "स्वस्थ वयस्कमा सामान्य ग्लोमेरुलर फिल्ट्रेसन दर (GFR) करिब कति हुन्छ?",
+    "options": [
+      "25 mL/min",
+      "500 mL/min",
+      "125 mL/min",
+      "1000 mL/min"
+    ],
+    "options_ne": [
+      "२५ mL/min",
+      "५०० mL/min",
+      "१२५ mL/min",
+      "१००० mL/min"
+    ],
+    "answer": 2,
+    "explanation": "A healthy adult filters about 125 mL of plasma per minute through the glomeruli, roughly 180 litres per day.",
+    "explanation_ne": "स्वस्थ वयस्कमा ग्लोमेरुलीबाट प्रति मिनेट करिब १२५ mL प्लाज्मा छानिन्छ, अर्थात् दिनमा करिब १८० लिटर।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-053",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Urinary System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Urea, the main nitrogenous waste in human urine, is formed in which organ?",
+    "question_ne": "मानव पिसाबको मुख्य नाइट्रोजनयुक्त फोहोर युरिया कुन अङ्गमा बन्छ?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Spleen",
+      "Pancreas"
+    ],
+    "options_ne": [
+      "मिर्गौला",
+      "कलेजो",
+      "प्लीहा",
+      "अग्न्याशय"
+    ],
+    "answer": 1,
+    "explanation": "Urea is formed in the liver from ammonia (the urea cycle) and then carried in blood to the kidneys for excretion in urine.",
+    "explanation_ne": "युरिया कलेजोमा अमोनियाबाट बन्छ (युरिया चक्र) र रगतबाट मिर्गौलामा पुगेर पिसाबमा निस्कन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-054",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Urinary System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The urinary bladder is lined by which type of epithelium, allowing it to stretch as it fills?",
+    "question_ne": "मूत्राशय (युरिनरी ब्ल्याडर) कुन प्रकारको एपिथेलियमले ढाकिएको हुन्छ, जसले भरिँदा तन्कन दिन्छ?",
+    "options": [
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Transitional epithelium"
+    ],
+    "options_ne": [
+      "साधारण स्क्वामस एपिथेलियम",
+      "स्तरीकृत स्क्वामस एपिथेलियम",
+      "साधारण कलम्नर एपिथेलियम",
+      "ट्रान्जिसनल एपिथेलियम"
+    ],
+    "answer": 3,
+    "explanation": "Transitional epithelium (urothelium) can stretch and change shape, allowing the bladder wall to expand as urine accumulates.",
+    "explanation_ne": "ट्रान्जिसनल एपिथेलियम (युरोथेलियम) तन्कन र आकार बदल्न सक्छ, जसले पिसाब जम्मा हुँदा मूत्राशयको भित्ता फुल्न दिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-055",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "How many bones are present in the skeleton of a normal adult human?",
+    "question_ne": "सामान्य वयस्क मानवको कंकालमा कति हड्डी हुन्छन्?",
+    "options": [
+      "206",
+      "106",
+      "306",
+      "256"
+    ],
+    "options_ne": [
+      "२०६",
+      "१०६",
+      "३०६",
+      "२५६"
+    ],
+    "answer": 0,
+    "explanation": "An adult human has 206 bones, 80 in the axial skeleton and 126 in the appendicular skeleton; babies are born with about 300.",
+    "explanation_ne": "वयस्क मानवमा २०६ हड्डी हुन्छन् — अक्षीय कंकालमा ८० र उपांग कंकालमा १२६; शिशु करिब ३०० हड्डी लिएर जन्मन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-056",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which bone of the lower limb, extending from the hip joint to the knee, is the longest and strongest in the human skeleton?",
+    "question_ne": "कम्मरको जोर्नीदेखि घुँडासम्म फैलिएको, मानव कंकालको सबैभन्दा लामो र बलियो हड्डी कुन हो?",
+    "options": [
+      "Humerus",
+      "Tibia",
+      "Femur",
+      "Radius"
+    ],
+    "options_ne": [
+      "ह्युमरस",
+      "टिबिया",
+      "फिमर",
+      "रेडियस"
+    ],
+    "answer": 2,
+    "explanation": "The femur (thigh bone) is the longest and strongest bone in the body, extending from the hip to the knee.",
+    "explanation_ne": "फिमर (तिघ्राको हड्डी) शरीरको सबैभन्दा लामो र बलियो हड्डी हो, जुन कम्मरदेखि घुँडासम्म फैलिएको हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-057",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which bone cells are responsible for resorption (breakdown) of bone tissue?",
+    "question_ne": "हड्डीको ऊतक भत्काउने (पुनःअवशोषण गर्ने) हड्डीका कोशिका कुन हुन्?",
+    "options": [
+      "Osteoblasts",
+      "Osteoclasts",
+      "Osteocytes",
+      "Chondrocytes"
+    ],
+    "options_ne": [
+      "ओस्टियोब्लास्ट",
+      "ओस्टियोक्लास्ट",
+      "ओस्टियोसाइट",
+      "कोन्ड्रोसाइट"
+    ],
+    "answer": 1,
+    "explanation": "Osteoclasts break down and resorb bone, while osteoblasts build new bone and osteocytes maintain mature bone tissue.",
+    "explanation_ne": "ओस्टियोक्लास्टले हड्डी भत्काएर पुनःअवशोषण गर्छन्, जबकि ओस्टियोब्लास्टले नयाँ हड्डी बनाउँछन् र ओस्टियोसाइटले परिपक्व हड्डी कायम राख्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-058",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Skeletal System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The shoulder joint is an example of which type of synovial joint?",
+    "question_ne": "काँधको जोर्नी कुन प्रकारको साइनोभियल जोर्नीको उदाहरण हो?",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Gliding joint",
+      "Ball and socket joint"
+    ],
+    "options_ne": [
+      "हिन्ज जोर्नी",
+      "पिभट जोर्नी",
+      "ग्लाइडिङ जोर्नी",
+      "बल र सकेट जोर्नी"
+    ],
+    "answer": 3,
+    "explanation": "The shoulder is a ball-and-socket joint, where the rounded head of the humerus fits into the glenoid cavity, allowing movement in all directions.",
+    "explanation_ne": "काँध बल र सकेट जोर्नी हो, जहाँ ह्युमरसको गोलो टाउको ग्लेनॉइड गुहामा बस्छ र सबै दिशामा गति दिन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-059",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Muscular System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Smooth muscle tissue is mainly found in which of the following locations?",
+    "question_ne": "चिल्लो मांसपेशी ऊतक मुख्य रूपमा कहाँ पाइन्छ?",
+    "options": [
+      "Walls of hollow organs such as the intestine",
+      "Attached to bones",
+      "Heart wall only",
+      "Tendons"
+    ],
+    "options_ne": [
+      "आन्द्राजस्ता खोक्रा अङ्गका भित्तामा",
+      "हड्डीमा जोडिएको",
+      "केवल मुटुको भित्तामा",
+      "टेन्डनमा"
+    ],
+    "answer": 0,
+    "explanation": "Smooth muscle is involuntary and non-striated, found in the walls of hollow organs such as the intestine, blood vessels and uterus.",
+    "explanation_ne": "चिल्लो मांसपेशी अनैच्छिक र धारीरहित हुन्छ; यो आन्द्रा, रक्तनली र पाठेघरजस्ता खोक्रा अङ्गका भित्तामा पाइन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-060",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Muscular System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "A sarcomere, the functional unit of a skeletal muscle fibre, extends between which structures?",
+    "question_ne": "कंकाल मांसपेशी तन्तुको कार्यात्मक एकाइ सार्कोमियर कुन संरचनाबीच फैलिएको हुन्छ?",
+    "options": [
+      "Two successive M-lines",
+      "A band and I band",
+      "Two successive Z-lines",
+      "Two H zones"
+    ],
+    "options_ne": [
+      "दुई क्रमिक M-रेखा",
+      "A ब्यान्ड र I ब्यान्ड",
+      "दुई क्रमिक Z-रेखा",
+      "दुई H क्षेत्र"
+    ],
+    "answer": 2,
+    "explanation": "A sarcomere extends from one Z-line to the next and shortens during contraction as actin filaments slide over myosin.",
+    "explanation_ne": "सार्कोमियर एक Z-रेखादेखि अर्को Z-रेखासम्म फैलिएको हुन्छ र संकुचनमा एक्टिन तन्तु मायोसिनमाथि चिप्लिँदा छोटो हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-061",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which neurotransmitter is released at the neuromuscular junction to trigger skeletal muscle contraction?",
+    "question_ne": "न्युरोमस्कुलर जंक्शनमा निस्कने कुन न्युरोट्रान्समिटरले कंकाल मांसपेशी संकुचन गराउँछ?",
+    "options": [
+      "Dopamine",
+      "Acetylcholine",
+      "Serotonin",
+      "Adrenaline"
+    ],
+    "options_ne": [
+      "डोपामाइन",
+      "एसिटाइलकोलाइन",
+      "सेरोटोनिन",
+      "एड्रेनालिन"
+    ],
+    "answer": 1,
+    "explanation": "Acetylcholine released by the motor neuron binds receptors on the muscle fibre membrane, triggering the action potential that causes contraction.",
+    "explanation_ne": "मोटर न्युरोनले छोडेको एसिटाइलकोलाइन मांसपेशी तन्तुको झिल्लीमा बाँधिन्छ र संकुचन गराउने क्रियात्मक विभव सुरु गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-062",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Which part of the brain controls vital functions such as heartbeat and breathing?",
+    "question_ne": "मस्तिष्कको कुन भागले मुटुको धड्कन र श्वासप्रश्वासजस्ता महत्त्वपूर्ण कार्य नियन्त्रण गर्छ?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Corpus callosum",
+      "Medulla oblongata"
+    ],
+    "options_ne": [
+      "सेरिबेलम",
+      "थालामस",
+      "कर्पस क्यालोसम",
+      "मेडुला ओब्लोन्गाटा"
+    ],
+    "answer": 3,
+    "explanation": "The medulla oblongata contains centres controlling heartbeat, breathing, blood pressure, swallowing and vomiting.",
+    "explanation_ne": "मेडुला ओब्लोन्गाटामा मुटुको धड्कन, श्वासप्रश्वास, रक्तचाप, निल्ने र बान्ता नियन्त्रण गर्ने केन्द्र हुन्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-063",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "How many pairs of spinal nerves arise from the human spinal cord?",
+    "question_ne": "मानव मेरुदण्ड (स्पाइनल कर्ड) बाट कति जोडी स्पाइनल स्नायु निस्कन्छन्?",
+    "options": [
+      "31 pairs",
+      "12 pairs",
+      "24 pairs",
+      "33 pairs"
+    ],
+    "options_ne": [
+      "३१ जोडी",
+      "१२ जोडी",
+      "२४ जोडी",
+      "३३ जोडी"
+    ],
+    "answer": 0,
+    "explanation": "There are 31 pairs of spinal nerves: 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal.",
+    "explanation_ne": "मानवमा ३१ जोडी स्पाइनल स्नायु हुन्छन्: ८ सर्भाइकल, १२ थोरासिक, ५ लम्बर, ५ स्याक्रल र १ कोक्सिजियल।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-064",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "In the peripheral nervous system, the myelin sheath around axons is formed by which cells?",
+    "question_ne": "परिधीय स्नायु प्रणालीमा एक्सन वरपरको माइलिन आवरण कुन कोशिकाले बनाउँछ?",
+    "options": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Schwann cells",
+      "Microglia"
+    ],
+    "options_ne": [
+      "एस्ट्रोसाइट",
+      "ओलिगोडेन्ड्रोसाइट",
+      "स्वान कोशिका",
+      "माइक्रोग्लिया"
+    ],
+    "answer": 2,
+    "explanation": "Schwann cells wrap around peripheral axons to form the myelin sheath; in the central nervous system this role belongs to oligodendrocytes.",
+    "explanation_ne": "स्वान कोशिकाले परिधीय एक्सन वरिपरि बेरिएर माइलिन आवरण बनाउँछन्; केन्द्रीय स्नायु प्रणालीमा यो काम ओलिगोडेन्ड्रोसाइटले गर्छन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-065",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Nervous System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "The knee-jerk (patellar) reflex is an example of which type of reflex?",
+    "question_ne": "घुँडा झट्का (प्याटेलर) रिफ्लेक्स कुन प्रकारको रिफ्लेक्सको उदाहरण हो?",
+    "options": [
+      "Cranial reflex",
+      "Spinal reflex",
+      "Conditioned reflex",
+      "Visual reflex"
+    ],
+    "options_ne": [
+      "कपाल रिफ्लेक्स",
+      "स्पाइनल रिफ्लेक्स",
+      "सर्तबद्ध रिफ्लेक्स",
+      "दृष्टि रिफ्लेक्स"
+    ],
+    "answer": 1,
+    "explanation": "The knee-jerk reflex is a spinal reflex: the sensory signal goes to the spinal cord and the motor response returns without involving the brain.",
+    "explanation_ne": "घुँडा झट्का रिफ्लेक्स स्पाइनल रिफ्लेक्स हो: संवेदी संकेत मेरुदण्डसम्म पुग्छ र मोटर प्रतिक्रिया मस्तिष्कको संलग्नताबिना फर्कन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-066",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Sense Organs",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which photoreceptor cells of the retina are responsible for colour vision?",
+    "question_ne": "रेटिनाका कुन प्रकाशग्राही कोशिका रंग देख्न जिम्मेवार छन्?",
+    "options": [
+      "Rods",
+      "Bipolar cells",
+      "Ganglion cells",
+      "Cones"
+    ],
+    "options_ne": [
+      "रड",
+      "बाइपोलर कोशिका",
+      "ग्याङ्गलियन कोशिका",
+      "कोन"
+    ],
+    "answer": 3,
+    "explanation": "Cones detect colour and fine detail in bright light, while rods are sensitive to dim light but cannot distinguish colours.",
+    "explanation_ne": "कोनले उज्यालोमा रंग र सूक्ष्म विवरण थाहा पाउँछन्, जबकि रड कम उज्यालोमा संवेदनशील हुन्छन् तर रंग छुट्याउन सक्दैनन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-067",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Sense Organs",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "The organ of Corti, the receptor organ for hearing, is located in which structure?",
+    "question_ne": "सुनाइको ग्राही अङ्ग कर्टीको अङ्ग (अर्गन अफ कर्टी) कुन संरचनामा हुन्छ?",
+    "options": [
+      "Cochlea",
+      "Semicircular canals",
+      "Tympanic membrane",
+      "Eustachian tube"
+    ],
+    "options_ne": [
+      "कोक्लिया",
+      "अर्धवृत्ताकार नली",
+      "कानको जाली",
+      "युस्टाचियन नली"
+    ],
+    "answer": 0,
+    "explanation": "The organ of Corti sits on the basilar membrane inside the cochlea and converts sound vibrations into nerve impulses.",
+    "explanation_ne": "कर्टीको अङ्ग कोक्लियाभित्र बेसिलर झिल्लीमा हुन्छ र ध्वनि कम्पनलाई स्नायु आवेगमा बदल्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-068",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Integumentary System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which structure is regarded as the largest organ of the human body?",
+    "question_ne": "मानव शरीरको सबैभन्दा ठूलो अङ्ग कुन संरचनालाई मानिन्छ?",
+    "options": [
+      "Liver",
+      "Lung",
+      "Skin",
+      "Brain"
+    ],
+    "options_ne": [
+      "कलेजो",
+      "फोक्सो",
+      "छाला",
+      "मस्तिष्क"
+    ],
+    "answer": 2,
+    "explanation": "The skin is the largest organ of the body, covering about 2 square metres in an adult and protecting against infection, injury and water loss.",
+    "explanation_ne": "छाला शरीरको सबैभन्दा ठूलो अङ्ग हो, जसले वयस्कमा करिब २ वर्ग मिटर ढाक्छ र संक्रमण, चोट र पानीको कमीबाट बचाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-069",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Endocrine System",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Deficiency of iodine in the diet leads to enlargement of the thyroid gland, a condition known as which of the following?",
+    "question_ne": "आहारमा आयोडिनको कमीले थाइरॉइड ग्रन्थि ठूलो हुने अवस्थालाई के भनिन्छ?",
+    "options": [
+      "Diabetes",
+      "Goitre",
+      "Rickets",
+      "Anaemia"
+    ],
+    "options_ne": [
+      "मधुमेह",
+      "गलगाँड (गोइटर)",
+      "रिकेट्स",
+      "रक्तअल्पता"
+    ],
+    "answer": 1,
+    "explanation": "Without enough iodine the thyroid cannot make enough thyroxine, so it enlarges (goitre) in an attempt to trap more iodine.",
+    "explanation_ne": "पर्याप्त आयोडिन नभए थाइरॉइडले थाइरोक्सिन बनाउन सक्दैन, त्यसैले आयोडिन बढी सोस्ने प्रयासमा ग्रन्थि ठूलो हुन्छ (गलगाँड)।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-ANP-070",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Anatomy & Physiology",
+    "subtopic": "Endocrine System",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Adrenaline (epinephrine) is secreted by which part of the adrenal gland?",
+    "question_ne": "एड्रेनालिन (एपिनेफ्रिन) एड्रिनल ग्रन्थिको कुन भागले स्राव गर्छ?",
+    "options": [
+      "Adrenal cortex",
+      "Zona glomerulosa",
+      "Adrenal capsule",
+      "Adrenal medulla"
+    ],
+    "options_ne": [
+      "एड्रिनल कोर्टेक्स",
+      "जोना ग्लोमेरुलोसा",
+      "एड्रिनल क्याप्सुल",
+      "एड्रिनल मेडुला"
+    ],
+    "answer": 3,
+    "explanation": "The adrenal medulla secretes adrenaline and noradrenaline during stress (fight-or-flight), while the cortex secretes steroid hormones such as cortisol.",
+    "explanation_ne": "एड्रिनल मेडुलाले तनावमा एड्रेनालिन र नोर्एड्रेनालिन स्राव गर्छ (लडाइँ वा भाग्ने प्रतिक्रिया), जबकि कोर्टेक्सले कोर्टिसोलजस्ता स्टेरॉइड हर्मोन स्राव गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
   }
 ]

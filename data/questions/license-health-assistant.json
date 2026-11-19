@@ -2,9 +2,10 @@
  {
   "id": "HA-003",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -30,9 +31,10 @@
  {
   "id": "HA-005",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -58,9 +60,10 @@
  {
   "id": "HA-006",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -86,9 +89,10 @@
  {
   "id": "HA-008",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -114,9 +118,10 @@
  {
   "id": "HA-009",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -142,9 +147,10 @@
  {
   "id": "HA-010",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -171,9 +177,10 @@
   "id": "HA-013",
   "exam": [
    "nhpc-ha",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -199,9 +206,10 @@
  {
   "id": "HA-014",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -227,9 +235,10 @@
  {
   "id": "HA-015",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -255,9 +264,10 @@
  {
   "id": "HA-017",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -287,9 +297,10 @@
    "csit-entrance",
    "mecee-bl",
    "nmc-bds",
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -317,9 +328,10 @@
   "exam": [
    "nhpc-ha",
    "health",
-   "nnc-rn"
+   "nnc-rn",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -345,9 +357,10 @@
  {
   "id": "HA-023",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -373,9 +386,10 @@
  {
   "id": "HA-024",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -401,9 +415,10 @@
  {
   "id": "HA-025",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -459,9 +474,10 @@
   "id": "HA-030",
   "exam": [
    "nhpc-ha",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -515,9 +531,10 @@
  {
   "id": "HA-034",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -571,9 +588,10 @@
  {
   "id": "HA-038",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -599,9 +617,10 @@
  {
   "id": "HA-039",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -627,9 +646,10 @@
  {
   "id": "HA-040",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -655,9 +675,10 @@
  {
   "id": "HA-041",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -690,9 +711,10 @@
    "nasu",
    "nmc-mbbs",
    "provincial-psc",
-   "section-officer"
+   "section-officer",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -746,9 +768,10 @@
  {
   "id": "HA-044",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -774,9 +797,10 @@
  {
   "id": "HA-045",
   "exam": [
-   "nhpc-ha"
+   "nhpc-ha",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -808,9 +832,10 @@
    "nasu",
    "section-officer",
    "tsc-primary",
-   "tsc-secondary"
+   "tsc-secondary",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -838,9 +863,10 @@
   "exam": [
    "nhpc-ha",
    "health",
-   "nhpc-lab"
+   "nhpc-lab",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -867,9 +893,10 @@
   "id": "HA-049",
   "exam": [
    "nhpc-ha",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,

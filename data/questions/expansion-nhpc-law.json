@@ -8498,9 +8498,10 @@
  {
   "id": "OPT-001",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,
@@ -8526,9 +8527,10 @@
  {
   "id": "OPT-002",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,
@@ -8554,9 +8556,10 @@
  {
   "id": "OPT-003",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,
@@ -8639,9 +8642,10 @@
  {
   "id": "OPT-006",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,
@@ -8667,9 +8671,10 @@
  {
   "id": "OPT-007",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,
@@ -8723,9 +8728,10 @@
  {
   "id": "OPT-010",
   "exam": [
-   "nhpc-optometry"
+   "nhpc-optometry",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 1,

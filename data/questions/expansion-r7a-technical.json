@@ -5141,7 +5141,8 @@
   "difficulty": "medium",
   "exam": [
    "sub-engineer",
-   "engineering"
+   "engineering",
+   "ctevt-health-1st-year"
   ],
   "explanation": "cosec 30° = 1/sin 30° = 1/(1/2) = 2.",
   "explanation_ne": "cosec ३०° = १/sin ३०° = १/(१/२) = २।",
@@ -5163,15 +5164,16 @@
   "question_ne": "cosec ३०° को मान कति हुन्छ?",
   "source": "Original practice question — Lok Sewa Prep Nepal",
   "subtopic": "Trigonometry",
-  "topic": "Mathematics"
+  "topic": "Mathematics & Statistics"
  },
  {
   "id": "R7A-T182",
   "exam": [
    "sub-engineer",
-   "engineering"
+   "engineering",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Trigonometry",
   "difficulty": "medium",
   "marks": 1,
@@ -5198,9 +5200,10 @@
   "id": "R7A-T183",
   "exam": [
    "sub-engineer",
-   "engineering"
+   "engineering",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Trigonometry",
   "difficulty": "hard",
   "marks": 1,
@@ -10924,7 +10927,8 @@
   "id": "R7A-T407",
   "exam": [
    "csit-entrance",
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Waves and sound",
@@ -11011,7 +11015,8 @@
   "id": "R7A-T410",
   "exam": [
    "csit-entrance",
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Waves and sound",
@@ -11069,7 +11074,8 @@
   "id": "R7A-T412",
   "exam": [
    "csit-entrance",
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Electricity",
@@ -11214,7 +11220,8 @@
   "id": "R7A-T419",
   "exam": [
    "csit-entrance",
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Heat and thermodynamics",
@@ -11243,7 +11250,8 @@
   "id": "R7A-T420",
   "exam": [
    "csit-entrance",
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Heat and thermodynamics",
@@ -11355,7 +11363,8 @@
  {
   "id": "R7A-T424",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Chemistry",
   "subtopic": "Periodic table",
@@ -11523,7 +11532,8 @@
  {
   "id": "R7A-T430",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Chemistry",
   "subtopic": "Acids and bases",
@@ -11607,7 +11617,8 @@
  {
   "id": "R7A-T433",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Chemistry",
   "subtopic": "Organic chemistry",
@@ -11691,9 +11702,10 @@
  {
   "id": "R7A-T436",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "easy",
   "marks": 1,
@@ -11719,9 +11731,10 @@
  {
   "id": "R7A-T437",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "medium",
   "marks": 1,
@@ -11747,9 +11760,10 @@
  {
   "id": "R7A-T438",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "medium",
   "marks": 1,
@@ -11775,9 +11789,10 @@
  {
   "id": "R7A-T440",
   "exam": [
-   "csit-entrance"
+   "csit-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Trigonometry",
   "difficulty": "medium",
   "marks": 1,
@@ -12090,7 +12105,8 @@
  {
   "id": "R7A-T455",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Electricity",
@@ -12119,7 +12135,8 @@
   "id": "R7A-T456",
   "exam": [
    "ioe-entrance",
-   "nec-licence"
+   "nec-licence",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Electricity",
@@ -12175,7 +12192,8 @@
  {
   "id": "R7A-T459",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Optics",
@@ -12203,7 +12221,8 @@
  {
   "id": "R7A-T460",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Heat and thermodynamics",
@@ -12232,7 +12251,8 @@
   "answer": 0,
   "difficulty": "easy",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "explanation": "A neutron carries no electric charge; it is neutral.",
   "explanation_ne": "न्युट्रोनमा कुनै विद्युत आवेश हुँदैन; यो तटस्थ हुन्छ।",
@@ -12287,7 +12307,8 @@
  {
   "id": "R7A-T463",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Chemistry",
   "subtopic": "Periodic table",
@@ -12429,7 +12450,8 @@
   "answer": 2,
   "difficulty": "medium",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "explanation": "Graphite, a form of carbon, is a non-metal that conducts electricity well.",
   "explanation_ne": "ग्रेफाइट, कार्बनको एक रूप, बिजुली राम्रोसँग सञ्चालन गर्ने अधातु हो।",
@@ -12484,9 +12506,10 @@
  {
   "id": "R7A-T471",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "medium",
   "marks": 1,
@@ -12512,9 +12535,10 @@
  {
   "id": "R7A-T472",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "easy",
   "marks": 1,
@@ -12540,9 +12564,10 @@
  {
   "id": "R7A-T473",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Geometry",
   "difficulty": "easy",
   "marks": 1,
@@ -12568,9 +12593,10 @@
  {
   "id": "R7A-T474",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Geometry",
   "difficulty": "medium",
   "marks": 1,
@@ -12596,9 +12622,10 @@
  {
   "id": "R7A-T475",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Geometry",
   "difficulty": "hard",
   "marks": 1,
@@ -12625,9 +12652,10 @@
   "id": "R7A-T477",
   "exam": [
    "ioe-entrance",
-   "nec-licence"
+   "nec-licence",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Calculus",
   "difficulty": "hard",
   "marks": 1,
@@ -12653,9 +12681,10 @@
  {
   "id": "R7A-T478",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Trigonometry",
   "difficulty": "medium",
   "marks": 1,
@@ -12682,7 +12711,8 @@
   "answer": 0,
   "difficulty": "medium",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "explanation": "sec 0° = 1/cos 0° = 1/1 = 1.",
   "explanation_ne": "sec ०° = १/cos ०° = १/१ = १।",
@@ -12704,7 +12734,7 @@
   "question_ne": "sec ०° को मान कति हुन्छ?",
   "source": "Original practice question — Lok Sewa Prep Nepal",
   "subtopic": "Trigonometry",
-  "topic": "Mathematics"
+  "topic": "Mathematics & Statistics"
  },
  {
   "id": "R7A-T482",
@@ -12793,7 +12823,8 @@
  {
   "id": "R7A-T486",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Modern physics",
@@ -12821,7 +12852,8 @@
  {
   "id": "R7A-T487",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Modern physics",
@@ -12849,7 +12881,8 @@
  {
   "id": "R7A-T488",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Modern physics",
@@ -12961,9 +12994,10 @@
  {
   "id": "R7A-T494",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Algebra",
   "difficulty": "medium",
   "marks": 1,
@@ -12989,9 +13023,10 @@
  {
   "id": "R7A-T495",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Probability",
   "difficulty": "medium",
   "marks": 1,
@@ -13017,9 +13052,10 @@
  {
   "id": "R7A-T496",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Probability",
   "difficulty": "hard",
   "marks": 1,
@@ -13045,9 +13081,10 @@
  {
   "id": "R7A-T497",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Geometry",
   "difficulty": "medium",
   "marks": 1,
@@ -13073,9 +13110,10 @@
  {
   "id": "R7A-T498",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Mathematics",
+  "topic": "Mathematics & Statistics",
   "subtopic": "Geometry",
   "difficulty": "easy",
   "marks": 1,
@@ -13101,7 +13139,8 @@
  {
   "id": "R7A-T499",
   "exam": [
-   "ioe-entrance"
+   "ioe-entrance",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Mechanics",

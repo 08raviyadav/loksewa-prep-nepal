@@ -10,9 +10,10 @@
    "nmc-mbbs",
    "section-officer",
    "tsc-primary",
-   "tsc-secondary"
+   "tsc-secondary",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -38,9 +39,10 @@
  {
   "id": "HEAL3-003",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -67,9 +69,10 @@
   "id": "HEAL3-005",
   "exam": [
    "health",
-   "staff-nurse-psc"
+   "staff-nurse-psc",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -132,9 +135,10 @@
    "kharidar",
    "nasu",
    "section-officer",
-   "staff-nurse-psc"
+   "staff-nurse-psc",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -160,9 +164,10 @@
  {
   "id": "HEAL3-010",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -216,9 +221,10 @@
  {
   "id": "HEAL3-013",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -244,9 +250,10 @@
  {
   "id": "HEAL3-014",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -272,9 +279,10 @@
  {
   "id": "HEAL3-016",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -300,9 +308,10 @@
  {
   "id": "HEAL3-017",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -331,9 +340,10 @@
    "health",
    "kharidar",
    "nasu",
-   "section-officer"
+   "section-officer",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -359,9 +369,10 @@
  {
   "id": "HEAL3-019",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -390,9 +401,10 @@
    "health",
    "mecee-bl",
    "nmc-bds",
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -418,9 +430,10 @@
  {
   "id": "HEAL3-024",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -446,9 +459,10 @@
  {
   "id": "HEAL3-025",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -474,9 +488,10 @@
  {
   "id": "HEAL3-026",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -537,9 +552,10 @@
    "nasu",
    "nmc-mbbs",
    "provincial-psc",
-   "section-officer"
+   "section-officer",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -565,9 +581,10 @@
  {
   "id": "HEAL3-030",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy and Physiology",
   "difficulty": "hard",
   "marks": 2,

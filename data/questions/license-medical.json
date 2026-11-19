@@ -2,9 +2,10 @@
  {
   "id": "MED-003",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -86,9 +87,10 @@
  {
   "id": "MED-006",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "easy",
   "marks": 2,
@@ -114,9 +116,10 @@
  {
   "id": "MED-008",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -198,9 +201,10 @@
  {
   "id": "MED-011",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -226,9 +230,10 @@
  {
   "id": "MED-012",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 2,
@@ -254,9 +259,10 @@
  {
   "id": "MED-013",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -282,9 +288,10 @@
  {
   "id": "MED-014",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -310,9 +317,10 @@
  {
   "id": "MED-016",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -338,9 +346,10 @@
  {
   "id": "MED-018",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -366,9 +375,10 @@
  {
   "id": "MED-019",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -394,9 +404,10 @@
  {
   "id": "MED-020",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -453,9 +464,10 @@
    "nmc-mbbs",
    "health",
    "nhpc-ha",
-   "staff-nurse-psc"
+   "staff-nurse-psc",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -481,9 +493,10 @@
  {
   "id": "MED-024",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 2,

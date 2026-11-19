@@ -32158,5 +32158,1965 @@
     "explanation": "The average of the first n natural numbers is (n+1)/2. Here n = 89, so the average is (89+1)/2 = 45.",
     "explanation_ne": "पहिलो n प्राकृतिक संख्याको औसत (n+1)/2 हुन्छ। यहाँ n = 89 भएकाले औसत (89+१)/२ = 45 हो।",
     "source": "IQ & Maths — generated from verified arithmetic rules"
+  },
+  {
+    "id": "CTV-MST-001",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Absolute Value",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the value of |−7| + |3|?",
+    "question_ne": "|−7| + |3| को मान कति हो?",
+    "options": [
+      "10",
+      "4",
+      "−4",
+      "−10"
+    ],
+    "options_ne": [
+      "10",
+      "4",
+      "−4",
+      "−10"
+    ],
+    "answer": 0,
+    "explanation": "|−7| = 7 and |3| = 3, so 7 + 3 = 10.",
+    "explanation_ne": "|−7| = 7 र |3| = 3 हुन्छ, त्यसैले 7 + 3 = 10 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-002",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Absolute Value",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What are the solutions of the equation |x − 5| = 3?",
+    "question_ne": "समीकरण |x − 5| = 3 का हलहरू के हुन्?",
+    "options": [
+      "2 only",
+      "8 only",
+      "−2 or 8",
+      "2 or 8"
+    ],
+    "options_ne": [
+      "केवल 2",
+      "केवल 8",
+      "−2 वा 8",
+      "2 वा 8"
+    ],
+    "answer": 3,
+    "explanation": "x − 5 = 3 gives x = 8, and x − 5 = −3 gives x = 2.",
+    "explanation_ne": "x − 5 = 3 बाट x = 8 र x − 5 = −3 बाट x = 2 प्राप्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-003",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Absolute Value",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the value of |5 − 9|?",
+    "question_ne": "|5 − 9| को मान कति हो?",
+    "options": [
+      "4",
+      "−4",
+      "14",
+      "−14"
+    ],
+    "options_ne": [
+      "4",
+      "−4",
+      "14",
+      "−14"
+    ],
+    "answer": 0,
+    "explanation": "5 − 9 = −4, and |−4| = 4.",
+    "explanation_ne": "5 − 9 = −4 हुन्छ र |−4| = 4 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-004",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Absolute Value",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Which interval is the solution of the inequality |x + 2| < 5?",
+    "question_ne": "असमानता |x + 2| < 5 को हल कुन अन्तराल हो?",
+    "options": [
+      "−3 < x < 7",
+      "x < −7 or x > 3",
+      "−7 < x < 3",
+      "−5 < x < 5"
+    ],
+    "options_ne": [
+      "−3 < x < 7",
+      "x < −7 वा x > 3",
+      "−7 < x < 3",
+      "−5 < x < 5"
+    ],
+    "answer": 2,
+    "explanation": "|x + 2| < 5 means −5 < x + 2 < 5, so subtracting 2 gives −7 < x < 3.",
+    "explanation_ne": "|x + 2| < 5 को अर्थ −5 < x + 2 < 5 हो, त्यसैले 2 घटाउँदा −7 < x < 3 प्राप्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-005",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the value of log₂ 32?",
+    "question_ne": "log₂ 32 को मान कति हो?",
+    "options": [
+      "4",
+      "6",
+      "16",
+      "5"
+    ],
+    "options_ne": [
+      "4",
+      "6",
+      "16",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "2⁵ = 32, so log₂ 32 = 5.",
+    "explanation_ne": "2⁵ = 32 हुन्छ, त्यसैले log₂ 32 = 5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-006",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the value of log₁₀ 1000?",
+    "question_ne": "log₁₀ 1000 को मान कति हो?",
+    "options": [
+      "2",
+      "10",
+      "4",
+      "3"
+    ],
+    "options_ne": [
+      "2",
+      "10",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "10³ = 1000, so log₁₀ 1000 = 3.",
+    "explanation_ne": "10³ = 1000 हुन्छ, त्यसैले log₁₀ 1000 = 3 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-007",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of log₁₀ 5 + log₁₀ 2?",
+    "question_ne": "log₁₀ 5 + log₁₀ 2 को मान कति हो?",
+    "options": [
+      "7",
+      "10",
+      "2",
+      "1"
+    ],
+    "options_ne": [
+      "7",
+      "10",
+      "2",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "log 5 + log 2 = log(5 × 2) = log 10 = 1.",
+    "explanation_ne": "log 5 + log 2 = log(5 × 2) = log 10 = 1 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-008",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of log₃ 81?",
+    "question_ne": "log₃ 81 को मान कति हो?",
+    "options": [
+      "3",
+      "9",
+      "27",
+      "4"
+    ],
+    "options_ne": [
+      "3",
+      "9",
+      "27",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "3⁴ = 81, so log₃ 81 = 4.",
+    "explanation_ne": "3⁴ = 81 हुन्छ, त्यसैले log₃ 81 = 4 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-009",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "If log₂ x = 6, what is the value of x?",
+    "question_ne": "यदि log₂ x = 6 भए x को मान कति हुन्छ?",
+    "options": [
+      "64",
+      "12",
+      "36",
+      "32"
+    ],
+    "options_ne": [
+      "64",
+      "12",
+      "36",
+      "32"
+    ],
+    "answer": 0,
+    "explanation": "x = 2⁶ = 64.",
+    "explanation_ne": "x = 2⁶ = 64 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-010",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Logarithms",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the value of log₅ 25 + log₅ 125?",
+    "question_ne": "log₅ 25 + log₅ 125 को मान कति हो?",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "5"
+    ],
+    "options_ne": [
+      "6",
+      "4",
+      "10",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "log₅ 25 = 2 and log₅ 125 = 3, so 2 + 3 = 5.",
+    "explanation_ne": "log₅ 25 = 2 र log₅ 125 = 3 हुन्छ, त्यसैले 2 + 3 = 5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-011",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Slope of Lines",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the slope of the line passing through the points (1, 2) and (3, 6)?",
+    "question_ne": "बिन्दुहरू (1, 2) र (3, 6) बाट जाने रेखाको ढलान कति हो?",
+    "options": [
+      "2",
+      "4",
+      "1/2",
+      "−2"
+    ],
+    "options_ne": [
+      "2",
+      "4",
+      "1/2",
+      "−2"
+    ],
+    "answer": 0,
+    "explanation": "Slope = (6 − 2)/(3 − 1) = 4/2 = 2.",
+    "explanation_ne": "ढलान = (6 − 2)/(3 − 1) = 4/2 = 2 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-012",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Slope of Lines",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the slope of the line y = −3x + 7?",
+    "question_ne": "रेखा y = −3x + 7 को ढलान कति हो?",
+    "options": [
+      "7",
+      "3",
+      "−7",
+      "−3"
+    ],
+    "options_ne": [
+      "7",
+      "3",
+      "−7",
+      "−3"
+    ],
+    "answer": 3,
+    "explanation": "In y = mx + c, the slope is m = −3.",
+    "explanation_ne": "y = mx + c मा ढलान m = −3 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-013",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Slope of Lines",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the slope of the line passing through the points (0, 4) and (2, 0)?",
+    "question_ne": "बिन्दुहरू (0, 4) र (2, 0) बाट जाने रेखाको ढलान कति हो?",
+    "options": [
+      "−2",
+      "2",
+      "1/2",
+      "−1/2"
+    ],
+    "options_ne": [
+      "−2",
+      "2",
+      "1/2",
+      "−1/2"
+    ],
+    "answer": 0,
+    "explanation": "Slope = (0 − 4)/(2 − 0) = −4/2 = −2.",
+    "explanation_ne": "ढलान = (0 − 4)/(2 − 0) = −4/2 = −2 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-014",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Slope of Lines",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A line is perpendicular to a line of slope 2/3. What is the slope of the perpendicular line?",
+    "question_ne": "एउटा रेखा ढलान 2/3 भएको रेखासँग लम्ब छ। लम्ब रेखाको ढलान कति हो?",
+    "options": [
+      "3/2",
+      "−3/2",
+      "2/3",
+      "−2/3"
+    ],
+    "options_ne": [
+      "3/2",
+      "−3/2",
+      "2/3",
+      "−2/3"
+    ],
+    "answer": 1,
+    "explanation": "Perpendicular slopes are negative reciprocals: −1/(2/3) = −3/2.",
+    "explanation_ne": "लम्ब रेखाहरूका ढलानहरू ऋणात्मक व्युत्क्रम हुन्छन्: −1/(2/3) = −3/2 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-015",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "The equation x² + y² = 25 represents which conic section?",
+    "question_ne": "समीकरण x² + y² = 25 ले कुन शाङ्कव खण्डलाई जनाउँछ?",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Ellipse",
+      "Hyperbola"
+    ],
+    "options_ne": [
+      "वृत्त",
+      "परवलय",
+      "दीर्घवृत्त",
+      "अतिपरवलय"
+    ],
+    "answer": 0,
+    "explanation": "x² + y² = r² is the equation of a circle of radius 5 centred at the origin.",
+    "explanation_ne": "x² + y² = r² मूलबिन्दु केन्द्र भएको 5 त्रिज्याको वृत्तको समीकरण हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-016",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the centre of the circle (x − 2)² + (y + 3)² = 16?",
+    "question_ne": "वृत्त (x − 2)² + (y + 3)² = 16 को केन्द्र कुन हो?",
+    "options": [
+      "(−2, 3)",
+      "(2, 3)",
+      "(−2, −3)",
+      "(2, −3)"
+    ],
+    "options_ne": [
+      "(−2, 3)",
+      "(2, 3)",
+      "(−2, −3)",
+      "(2, −3)"
+    ],
+    "answer": 3,
+    "explanation": "Comparing with (x − h)² + (y − k)² = r² gives centre (h, k) = (2, −3).",
+    "explanation_ne": "(x − h)² + (y − k)² = r² सँग तुलना गर्दा केन्द्र (h, k) = (2, −3) प्राप्त हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-017",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the radius of the circle x² + y² = 49?",
+    "question_ne": "वृत्त x² + y² = 49 को त्रिज्या कति हो?",
+    "options": [
+      "49",
+      "14",
+      "7",
+      "21"
+    ],
+    "options_ne": [
+      "49",
+      "14",
+      "7",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "r² = 49, so r = 7.",
+    "explanation_ne": "r² = 49 हुन्छ, त्यसैले r = 7 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-018",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the focus of the parabola y² = 12x?",
+    "question_ne": "परवलय y² = 12x को नाभि कुन हो?",
+    "options": [
+      "(0, 3)",
+      "(0, 12)",
+      "(12, 0)",
+      "(3, 0)"
+    ],
+    "options_ne": [
+      "(0, 3)",
+      "(0, 12)",
+      "(12, 0)",
+      "(3, 0)"
+    ],
+    "answer": 3,
+    "explanation": "Comparing with y² = 4ax gives 4a = 12, so a = 3 and the focus is (a, 0) = (3, 0).",
+    "explanation_ne": "y² = 4ax सँग तुलना गर्दा 4a = 12 हुन्छ, त्यसैले a = 3 र नाभि (a, 0) = (3, 0) हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-019",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the length of the major axis of the ellipse x²/9 + y²/4 = 1?",
+    "question_ne": "दीर्घवृत्त x²/9 + y²/4 = 1 को दीर्घ अक्षको लम्बाइ कति हो?",
+    "options": [
+      "4",
+      "9",
+      "3",
+      "6"
+    ],
+    "options_ne": [
+      "4",
+      "9",
+      "3",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "a² = 9, so a = 3 and the major axis is 2a = 6.",
+    "explanation_ne": "a² = 9 हुन्छ, त्यसैले a = 3 र दीर्घ अक्ष 2a = 6 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-020",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Conic Sections",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the eccentricity of a parabola?",
+    "question_ne": "परवलयको उत्केन्द्रता कति हुन्छ?",
+    "options": [
+      "0",
+      "1",
+      "Less than 1",
+      "Greater than 1"
+    ],
+    "options_ne": [
+      "0",
+      "1",
+      "1 भन्दा कम",
+      "1 भन्दा बढी"
+    ],
+    "answer": 1,
+    "explanation": "By definition, a parabola has eccentricity e = 1.",
+    "explanation_ne": "परिभाषाअनुसार परवलयको उत्केन्द्रता e = 1 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-021",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Continuity",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Is the function f(x) = x² continuous at x = 2?",
+    "question_ne": "फलन f(x) = x² x = 2 मा निरन्तर छ कि छैन?",
+    "options": [
+      "Yes, it is continuous",
+      "No, it is discontinuous",
+      "It is undefined at x = 2",
+      "It has a jump at x = 2"
+    ],
+    "options_ne": [
+      "हो, यो निरन्तर छ",
+      "होइन, यो असतत छ",
+      "x = 2 मा यो अपरिभाषित छ",
+      "x = 2 मा यसमा उफ्राइ छ"
+    ],
+    "answer": 0,
+    "explanation": "f(2) = 4 and the limit as x approaches 2 is also 4, so the function is continuous at x = 2.",
+    "explanation_ne": "f(2) = 4 हुन्छ र x ले 2 तर्फ जाँदा सीमा पनि 4 हुन्छ, त्यसैले फलन x = 2 मा निरन्तर छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-022",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Continuity",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "At which value of x is the function f(x) = 1/x discontinuous?",
+    "question_ne": "फलन f(x) = 1/x x को कुन मानमा असतत हुन्छ?",
+    "options": [
+      "x = 0",
+      "x = 1",
+      "x = −1",
+      "It is continuous everywhere"
+    ],
+    "options_ne": [
+      "x = 0",
+      "x = 1",
+      "x = −1",
+      "यो जताततै निरन्तर छ"
+    ],
+    "answer": 0,
+    "explanation": "f(x) = 1/x is undefined at x = 0, so it is discontinuous there.",
+    "explanation_ne": "f(x) = 1/x x = 0 मा अपरिभाषित हुन्छ, त्यसैले त्यहाँ यो असतत हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-023",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Continuity",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of the limit lim(x→3) (x² − 9)/(x − 3)?",
+    "question_ne": "सीमा lim(x→3) (x² − 9)/(x − 3) को मान कति हो?",
+    "options": [
+      "3",
+      "9",
+      "6",
+      "0"
+    ],
+    "options_ne": [
+      "3",
+      "9",
+      "6",
+      "0"
+    ],
+    "answer": 2,
+    "explanation": "(x² − 9)/(x − 3) = x + 3 for x ≠ 3, so the limit is 3 + 3 = 6.",
+    "explanation_ne": "x ≠ 3 का लागि (x² − 9)/(x − 3) = x + 3 हुन्छ, त्यसैले सीमा 3 + 3 = 6 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-024",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Continuity",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "For the function f(x) = (x² − 4)/(x − 2) when x ≠ 2 and f(2) = k to be continuous at x = 2, what must k be?",
+    "question_ne": "फलन f(x) = (x² − 4)/(x − 2) जब x ≠ 2 र f(2) = k x = 2 मा निरन्तर हुन k को मान कति हुनुपर्छ?",
+    "options": [
+      "2",
+      "0",
+      "4",
+      "−4"
+    ],
+    "options_ne": [
+      "2",
+      "0",
+      "4",
+      "−4"
+    ],
+    "answer": 2,
+    "explanation": "The limit as x approaches 2 is 2 + 2 = 4, so k must equal 4 for continuity.",
+    "explanation_ne": "x ले 2 तर्फ जाँदा सीमा 2 + 2 = 4 हुन्छ, त्यसैले निरन्तरताका लागि k = 4 हुनुपर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-025",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the derivative of x³ with respect to x?",
+    "question_ne": "x³ को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "3x²",
+      "x²",
+      "3x",
+      "x³/3"
+    ],
+    "options_ne": [
+      "3x²",
+      "x²",
+      "3x",
+      "x³/3"
+    ],
+    "answer": 0,
+    "explanation": "Using the power rule, d/dx(x³) = 3x².",
+    "explanation_ne": "घात नियम प्रयोग गर्दा d/dx(x³) = 3x² हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-026",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the derivative of 5x² with respect to x?",
+    "question_ne": "5x² को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "5x",
+      "10x²",
+      "5",
+      "10x"
+    ],
+    "options_ne": [
+      "5x",
+      "10x²",
+      "5",
+      "10x"
+    ],
+    "answer": 3,
+    "explanation": "d/dx(5x²) = 5 × 2x = 10x.",
+    "explanation_ne": "d/dx(5x²) = 5 × 2x = 10x हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-027",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the derivative of sin x with respect to x?",
+    "question_ne": "sin x को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "−cos x",
+      "cos x",
+      "−sin x",
+      "tan x"
+    ],
+    "options_ne": [
+      "−cos x",
+      "cos x",
+      "−sin x",
+      "tan x"
+    ],
+    "answer": 1,
+    "explanation": "The derivative of sin x is cos x.",
+    "explanation_ne": "sin x को अवकलज cos x हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-028",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the derivative of eˣ with respect to x?",
+    "question_ne": "eˣ को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "eˣ",
+      "x eˣ⁻¹",
+      "eˣ/x",
+      "0"
+    ],
+    "options_ne": [
+      "eˣ",
+      "x eˣ⁻¹",
+      "eˣ/x",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "The exponential function eˣ is its own derivative.",
+    "explanation_ne": "घातीय फलन eˣ आफ्नै अवकलज हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-029",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the derivative of ln x with respect to x?",
+    "question_ne": "ln x को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "x",
+      "1/x²",
+      "ln x",
+      "1/x"
+    ],
+    "options_ne": [
+      "x",
+      "1/x²",
+      "ln x",
+      "1/x"
+    ],
+    "answer": 3,
+    "explanation": "The derivative of the natural logarithm ln x is 1/x.",
+    "explanation_ne": "प्राकृतिक लघुगणक ln x को अवकलज 1/x हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-030",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the derivative of x² + 3x + 1 with respect to x?",
+    "question_ne": "x² + 3x + 1 को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "2x + 1",
+      "x + 3",
+      "2x + 3",
+      "2x"
+    ],
+    "options_ne": [
+      "2x + 1",
+      "x + 3",
+      "2x + 3",
+      "2x"
+    ],
+    "answer": 2,
+    "explanation": "Differentiating term by term: 2x + 3 + 0 = 2x + 3.",
+    "explanation_ne": "पद-पद अवकलन गर्दा: 2x + 3 + 0 = 2x + 3 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-031",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the derivative of x²eˣ with respect to x?",
+    "question_ne": "x²eˣ को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "eˣ(x² + 2x)",
+      "2x eˣ",
+      "x² eˣ",
+      "eˣ(2x + 1)"
+    ],
+    "options_ne": [
+      "eˣ(x² + 2x)",
+      "2x eˣ",
+      "x² eˣ",
+      "eˣ(2x + 1)"
+    ],
+    "answer": 0,
+    "explanation": "By the product rule: 2x·eˣ + x²·eˣ = eˣ(x² + 2x).",
+    "explanation_ne": "गुणन नियमअनुसार: 2x·eˣ + x²·eˣ = eˣ(x² + 2x) हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-032",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Derivatives",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the derivative of sin 2x with respect to x?",
+    "question_ne": "sin 2x को x का सापेक्ष अवकलज कति हो?",
+    "options": [
+      "cos 2x",
+      "−2cos 2x",
+      "2sin 2x",
+      "2cos 2x"
+    ],
+    "options_ne": [
+      "cos 2x",
+      "−2cos 2x",
+      "2sin 2x",
+      "2cos 2x"
+    ],
+    "answer": 3,
+    "explanation": "By the chain rule: cos 2x × 2 = 2cos 2x.",
+    "explanation_ne": "शृङ्खला नियमअनुसार: cos 2x × 2 = 2cos 2x हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-033",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the integral of x with respect to x?",
+    "question_ne": "x को x का सापेक्ष समाकलन कति हो?",
+    "options": [
+      "x²/2 + C",
+      "x² + C",
+      "2x + C",
+      "x/2 + C"
+    ],
+    "options_ne": [
+      "x²/2 + C",
+      "x² + C",
+      "2x + C",
+      "x/2 + C"
+    ],
+    "answer": 0,
+    "explanation": "∫x dx = x²/2 + C by the power rule for integration.",
+    "explanation_ne": "समाकलनको घात नियमअनुसार ∫x dx = x²/2 + C हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-034",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the integral of 3 with respect to x?",
+    "question_ne": "3 को x का सापेक्ष समाकलन कति हो?",
+    "options": [
+      "3 + C",
+      "x + C",
+      "3x + C",
+      "3x² + C"
+    ],
+    "options_ne": [
+      "3 + C",
+      "x + C",
+      "3x + C",
+      "3x² + C"
+    ],
+    "answer": 2,
+    "explanation": "∫3 dx = 3x + C, since the derivative of 3x is 3.",
+    "explanation_ne": "∫3 dx = 3x + C हुन्छ, किनकि 3x को अवकलज 3 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-035",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of the definite integral ∫₀¹ x² dx?",
+    "question_ne": "निश्चित समाकलन ∫₀¹ x² dx को मान कति हो?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1",
+      "2/3"
+    ],
+    "options_ne": [
+      "1/2",
+      "1/3",
+      "1",
+      "2/3"
+    ],
+    "answer": 1,
+    "explanation": "∫₀¹ x² dx = [x³/3]₀¹ = 1/3 − 0 = 1/3.",
+    "explanation_ne": "∫₀¹ x² dx = [x³/3]₀¹ = 1/3 − 0 = 1/3 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-036",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the integral of cos x with respect to x?",
+    "question_ne": "cos x को x का सापेक्ष समाकलन कति हो?",
+    "options": [
+      "sin x + C",
+      "−sin x + C",
+      "cos x + C",
+      "−cos x + C"
+    ],
+    "options_ne": [
+      "sin x + C",
+      "−sin x + C",
+      "cos x + C",
+      "−cos x + C"
+    ],
+    "answer": 0,
+    "explanation": "∫cos x dx = sin x + C, since the derivative of sin x is cos x.",
+    "explanation_ne": "∫cos x dx = sin x + C हुन्छ, किनकि sin x को अवकलज cos x हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-037",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of the definite integral ∫₀² 2x dx?",
+    "question_ne": "निश्चित समाकलन ∫₀² 2x dx को मान कति हो?",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "options_ne": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "∫₀² 2x dx = [x²]₀² = 4 − 0 = 4.",
+    "explanation_ne": "∫₀² 2x dx = [x²]₀² = 4 − 0 = 4 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-038",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the value of the definite integral ∫₀³ x² dx?",
+    "question_ne": "निश्चित समाकलन ∫₀³ x² dx को मान कति हो?",
+    "options": [
+      "27",
+      "9",
+      "18",
+      "3"
+    ],
+    "options_ne": [
+      "27",
+      "9",
+      "18",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "∫₀³ x² dx = [x³/3]₀³ = 27/3 − 0 = 9.",
+    "explanation_ne": "∫₀³ x² dx = [x³/3]₀³ = 27/3 − 0 = 9 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-039",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Integration",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the integral of eˣ with respect to x?",
+    "question_ne": "eˣ को x का सापेक्ष समाकलन कति हो?",
+    "options": [
+      "eˣ⁺¹/(x + 1) + C",
+      "eˣ/x + C",
+      "x eˣ + C",
+      "eˣ + C"
+    ],
+    "options_ne": [
+      "eˣ⁺¹/(x + 1) + C",
+      "eˣ/x + C",
+      "x eˣ + C",
+      "eˣ + C"
+    ],
+    "answer": 3,
+    "explanation": "∫eˣ dx = eˣ + C, since the derivative of eˣ is eˣ itself.",
+    "explanation_ne": "∫eˣ dx = eˣ + C हुन्छ, किनकि eˣ को अवकलज eˣ नै हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-040",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "An unbiased coin is flipped a single time. What is the probability that it lands on heads?",
+    "question_ne": "एउटा निष्पक्ष सिक्का एकपटक उफार्दा टाउकोतिर पर्ने सम्भाव्यता कति हुन्छ?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "options_ne": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "There are 2 equally likely outcomes, head and tail, so the probability of a head is 1/2.",
+    "explanation_ne": "टाउको र पुच्छर गरी 2 समान सम्भावित नतिजा छन्, त्यसैले टाउको पर्ने सम्भाव्यता 1/2 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-041",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A single unbiased die is thrown. What is the probability that the top face shows the number 6?",
+    "question_ne": "एउटा निष्पक्ष गोटी फाल्दा माथिल्लो सतहमा 6 आउने सम्भाव्यता कति हो?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "1/5"
+    ],
+    "options_ne": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "1/5"
+    ],
+    "answer": 2,
+    "explanation": "Only one of the six equally likely faces shows 6, so the probability is 1/6.",
+    "explanation_ne": "छ वटा समान सम्भावित सतहमध्ये एउटामा मात्र 6 हुन्छ, त्यसैले सम्भाव्यता 1/6 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-042",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "A fair die is rolled once. What is the probability of getting an even number?",
+    "question_ne": "एउटा निष्पक्ष गोटी एक पटक फालिन्छ। जोर सङ्ख्या पर्ने सम्भाव्यता कति हो?",
+    "options": [
+      "1/3",
+      "2/3",
+      "1/2",
+      "1/6"
+    ],
+    "options_ne": [
+      "1/3",
+      "2/3",
+      "1/2",
+      "1/6"
+    ],
+    "answer": 2,
+    "explanation": "The even outcomes are 2, 4 and 6 — three of six outcomes, so 3/6 = 1/2.",
+    "explanation_ne": "जोर नतिजाहरू 2, 4 र 6 हुन् — छ मध्ये तीन, त्यसैले 3/6 = 1/2 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-043",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Two fair coins are tossed together. What is the probability of getting two heads?",
+    "question_ne": "दुई वटा निष्पक्ष सिक्का सँगै उफारिन्छन्। दुई वटा टाउको पर्ने सम्भाव्यता कति हो?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "options_ne": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "answer": 2,
+    "explanation": "The four outcomes are HH, HT, TH and TT, and only HH has two heads, so the probability is 1/4.",
+    "explanation_ne": "चार नतिजाहरू HH, HT, TH र TT हुन् र HH मा मात्र दुई टाउको हुन्छन्, त्यसैले सम्भाव्यता 1/4 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-044",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "A bag contains 3 red balls and 2 blue balls. One ball is drawn at random. What is the probability that it is red?",
+    "question_ne": "एउटा झोलामा 3 वटा रातो बल र 2 वटा नीलो बल छन्। एउटा बल अनियमित रूपमा निकालिन्छ। त्यो रातो हुने सम्भाव्यता कति हो?",
+    "options": [
+      "2/5",
+      "2/3",
+      "1/5",
+      "3/5"
+    ],
+    "options_ne": [
+      "2/5",
+      "2/3",
+      "1/5",
+      "3/5"
+    ],
+    "answer": 3,
+    "explanation": "There are 3 red balls out of 5 balls in total, so the probability is 3/5.",
+    "explanation_ne": "जम्मा 5 वटा बलमध्ये 3 वटा रातो छन्, त्यसैले सम्भाव्यता 3/5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-045",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "Two fair dice are rolled. What is the probability that the sum of the numbers is 7?",
+    "question_ne": "दुई वटा निष्पक्ष गोटी फालिन्छन्। सङ्ख्याहरूको योग 7 हुने सम्भाव्यता कति हो?",
+    "options": [
+      "1/6",
+      "5/36",
+      "7/36",
+      "1/12"
+    ],
+    "options_ne": [
+      "1/6",
+      "5/36",
+      "7/36",
+      "1/12"
+    ],
+    "answer": 0,
+    "explanation": "Six of the 36 outcomes sum to 7 — (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) — so 6/36 = 1/6.",
+    "explanation_ne": "36 नतिजामध्ये 6 वटाको योग 7 हुन्छ — (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) — त्यसैले 6/36 = 1/6 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-046",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "Two fair coins are tossed together. What is the probability of getting at least one head?",
+    "question_ne": "दुई वटा निष्पक्ष सिक्का सँगै उफारिन्छन्। कम्तीमा एउटा टाउको पर्ने सम्भाव्यता कति हो?",
+    "options": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "1"
+    ],
+    "options_ne": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Of HH, HT, TH and TT, three contain at least one head, so the probability is 3/4.",
+    "explanation_ne": "HH, HT, TH र TT मध्ये तीन वटामा कम्तीमा एउटा टाउको हुन्छ, त्यसैले सम्भाव्यता 3/4 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-047",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "One card is drawn at random from a standard pack of 52 playing cards. What is the probability that it is an ace?",
+    "question_ne": "52 वटा तासको मानक गड्डीबाट एउटा तास अनियमित रूपमा निकालिन्छ। त्यो इक्का हुने सम्भाव्यता कति हो?",
+    "options": [
+      "1/4",
+      "4/13",
+      "1/52",
+      "1/13"
+    ],
+    "options_ne": [
+      "1/4",
+      "4/13",
+      "1/52",
+      "1/13"
+    ],
+    "answer": 3,
+    "explanation": "There are 4 aces in 52 cards, so 4/52 = 1/13.",
+    "explanation_ne": "52 वटा तासमा 4 वटा इक्का हुन्छन्, त्यसैले 4/52 = 1/13 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-048",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Probability",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "If the probability of an event A is 0.4, what is the probability that A does not occur?",
+    "question_ne": "यदि घटना A को सम्भाव्यता 0.4 भए A नघट्ने सम्भाव्यता कति हो?",
+    "options": [
+      "0.4",
+      "0.6",
+      "1.4",
+      "0.04"
+    ],
+    "options_ne": [
+      "0.4",
+      "0.6",
+      "1.4",
+      "0.04"
+    ],
+    "answer": 1,
+    "explanation": "P(not A) = 1 − P(A) = 1 − 0.4 = 0.6.",
+    "explanation_ne": "P(A नघट्ने) = 1 − P(A) = 1 − 0.4 = 0.6 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-049",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the mean of the numbers 2, 4, 6 and 8?",
+    "question_ne": "सङ्ख्याहरू 2, 4, 6 र 8 को माध्य कति हो?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "20"
+    ],
+    "options_ne": [
+      "4",
+      "5",
+      "6",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Mean = (2 + 4 + 6 + 8)/4 = 20/4 = 5.",
+    "explanation_ne": "माध्य = (2 + 4 + 6 + 8)/4 = 20/4 = 5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-050",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the median of the numbers 3, 7 and 9?",
+    "question_ne": "सङ्ख्याहरू 3, 7 र 9 को मध्यक कति हो?",
+    "options": [
+      "3",
+      "9",
+      "7",
+      "19/3"
+    ],
+    "options_ne": [
+      "3",
+      "9",
+      "7",
+      "19/3"
+    ],
+    "answer": 2,
+    "explanation": "The numbers are already in order, and the middle value is 7.",
+    "explanation_ne": "सङ्ख्याहरू पहिले नै क्रममा छन् र बीचको मान 7 हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-051",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the mode of the data 2, 3, 3, 5 and 7?",
+    "question_ne": "तथ्याङ्क 2, 3, 3, 5 र 7 को बहुलक कति हो?",
+    "options": [
+      "5",
+      "2",
+      "7",
+      "3"
+    ],
+    "options_ne": [
+      "5",
+      "2",
+      "7",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "The mode is the most frequent value, and 3 occurs twice while the others occur once.",
+    "explanation_ne": "बहुलक सबैभन्दा धेरै पटक आउने मान हो; 3 दुई पटक आउँछ भने अरू एक पटक मात्र आउँछन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-052",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the mean of the numbers 10, 20, 30, 40 and 50?",
+    "question_ne": "सङ्ख्याहरू 10, 20, 30, 40 र 50 को माध्य कति हो?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "options_ne": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "Mean = (10 + 20 + 30 + 40 + 50)/5 = 150/5 = 30.",
+    "explanation_ne": "माध्य = (10 + 20 + 30 + 40 + 50)/5 = 150/5 = 30 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-053",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the median of the numbers 4, 8, 12 and 16?",
+    "question_ne": "सङ्ख्याहरू 4, 8, 12 र 16 को मध्यक कति हो?",
+    "options": [
+      "8",
+      "12",
+      "10",
+      "9"
+    ],
+    "options_ne": [
+      "8",
+      "12",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "With an even count, the median is the average of the two middle values: (8 + 12)/2 = 10.",
+    "explanation_ne": "जोर सङ्ख्यामा मध्यक बीचका दुई मानहरूको औसत हुन्छ: (8 + 12)/2 = 10 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-054",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the range of the data 5, 12, 8, 20 and 3?",
+    "question_ne": "तथ्याङ्क 5, 12, 8, 20 र 3 को परिसर कति हो?",
+    "options": [
+      "15",
+      "17",
+      "20",
+      "3"
+    ],
+    "options_ne": [
+      "15",
+      "17",
+      "20",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Range = highest value − lowest value = 20 − 3 = 17.",
+    "explanation_ne": "परिसर = सबैभन्दा ठूलो मान − सबैभन्दा सानो मान = 20 − 3 = 17 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-055",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the variance of the numbers 2, 4, 6 and 8?",
+    "question_ne": "सङ्ख्याहरू 2, 4, 6 र 8 को प्रसरण कति हो?",
+    "options": [
+      "4",
+      "5",
+      "20",
+      "10"
+    ],
+    "options_ne": [
+      "4",
+      "5",
+      "20",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Mean = 5. The squared deviations are 9, 1, 1 and 9, and their mean is 20/4 = 5.",
+    "explanation_ne": "माध्य = 5 हुन्छ। वर्ग विचलनहरू 9, 1, 1 र 9 हुन् र तिनको माध्य 20/4 = 5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-056",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "What is the standard deviation of the numbers 2, 4, 6 and 8?",
+    "question_ne": "सङ्ख्याहरू 2, 4, 6 र 8 को मानक विचलन कति हो?",
+    "options": [
+      "5",
+      "2",
+      "√5",
+      "4"
+    ],
+    "options_ne": [
+      "5",
+      "2",
+      "√5",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "The variance is 5, so the standard deviation is √5.",
+    "explanation_ne": "प्रसरण 5 हुन्छ, त्यसैले मानक विचलन √5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-057",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "If the correlation coefficient between two variables is 0.85, how is the relationship best described?",
+    "question_ne": "यदि दुई चरहरूबीचको सहसम्बन्ध गुणाङ्क 0.85 भए सम्बन्धलाई कसरी वर्णन गर्नु उपयुक्त हुन्छ?",
+    "options": [
+      "Strong negative",
+      "Weak positive",
+      "Strong positive",
+      "No correlation"
+    ],
+    "options_ne": [
+      "बलियो ऋणात्मक",
+      "कमजोर धनात्मक",
+      "बलियो धनात्मक",
+      "कुनै सहसम्बन्ध छैन"
+    ],
+    "answer": 2,
+    "explanation": "A value of 0.85 is close to +1, so it shows a strong positive correlation.",
+    "explanation_ne": "0.85 को मान +1 नजिक छ, त्यसैले यसले बलियो धनात्मक सहसम्बन्ध देखाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-058",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Between which two values does the correlation coefficient r always lie?",
+    "question_ne": "सहसम्बन्ध गुणाङ्क r सधैँ कुन दुई मानहरूबीच रहन्छ?",
+    "options": [
+      "0 and 1",
+      "−1 and +1",
+      "0 and 100",
+      "−100 and 100"
+    ],
+    "options_ne": [
+      "0 र 1",
+      "−1 र +1",
+      "0 र 100",
+      "−100 र 100"
+    ],
+    "answer": 1,
+    "explanation": "The correlation coefficient always lies between −1 and +1 inclusive.",
+    "explanation_ne": "सहसम्बन्ध गुणाङ्क सधैँ −1 र +1 बीच रहन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-059",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "For a distribution, the mean is 20 and the median is 18. Using the empirical relation, what is the mode?",
+    "question_ne": "एउटा वितरणमा माध्य 20 र मध्यक 18 छ। अनुभवजन्य सम्बन्ध प्रयोग गर्दा बहुलक कति हुन्छ?",
+    "options": [
+      "14",
+      "16",
+      "22",
+      "24"
+    ],
+    "options_ne": [
+      "14",
+      "16",
+      "22",
+      "24"
+    ],
+    "answer": 0,
+    "explanation": "Mode = 3 × median − 2 × mean = 3 × 18 − 2 × 20 = 54 − 40 = 14.",
+    "explanation_ne": "बहुलक = 3 × मध्यक − 2 × माध्य = 3 × 18 − 2 × 20 = 54 − 40 = 14 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-060",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Statistics",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which measure of central tendency is most affected by extreme values in the data?",
+    "question_ne": "तथ्याङ्कमा चरम मानहरूबाट केन्द्रीय प्रवृत्तिको कुन मापन सबैभन्दा बढी प्रभावित हुन्छ?",
+    "options": [
+      "Median",
+      "Mode",
+      "Mean",
+      "First quartile"
+    ],
+    "options_ne": [
+      "मध्यक",
+      "बहुलक",
+      "माध्य",
+      "प्रथम चतुर्थक"
+    ],
+    "answer": 2,
+    "explanation": "The mean uses every value in its calculation, so extreme values pull it strongly, unlike the median or mode.",
+    "explanation_ne": "माध्य गणनामा सबै मानहरू प्रयोग हुन्छन्, त्यसैले चरम मानहरूले यसलाई धेरै तान्छन्, मध्यक वा बहुलकलाई जस्तो होइन।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-061",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Research Methods",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "In research, what is a sample?",
+    "question_ne": "अनुसन्धानमा नमूना भनेको के हो?",
+    "options": [
+      "The entire population",
+      "A subset of the population",
+      "The research question",
+      "The data table"
+    ],
+    "options_ne": [
+      "सम्पूर्ण समष्टि",
+      "समष्टिको एउटा उपसमुच्चय",
+      "अनुसन्धान प्रश्न",
+      "तथ्याङ्क तालिका"
+    ],
+    "answer": 1,
+    "explanation": "A sample is a smaller group selected from the population to represent it in a study.",
+    "explanation_ne": "नमूना समष्टिबाट छानिएको सानो समूह हो जसले अध्ययनमा समष्टिको प्रतिनिधित्व गर्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-062",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Research Methods",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Which of the following is an example of primary data?",
+    "question_ne": "निम्नमध्ये कुन प्राथमिक तथ्याङ्कको उदाहरण हो?",
+    "options": [
+      "Data from a textbook",
+      "Data collected first-hand by the researcher",
+      "Data from a newspaper",
+      "Data from an old report"
+    ],
+    "options_ne": [
+      "पाठ्यपुस्तकबाट प्राप्त तथ्याङ्क",
+      "अनुसन्धानकर्ताले प्रत्यक्ष सङ्कलन गरेको तथ्याङ्क",
+      "समाचारपत्रबाट प्राप्त तथ्याङ्क",
+      "पुरानो प्रतिवेदनबाट प्राप्त तथ्याङ्क"
+    ],
+    "answer": 1,
+    "explanation": "Primary data is collected first-hand by the researcher for the study, while the others are secondary sources.",
+    "explanation_ne": "प्राथमिक तथ्याङ्क अनुसन्धानकर्ताले अध्ययनका लागि प्रत्यक्ष सङ्कलन गरेको हुन्छ, अरू द्वितीयक स्रोतहरू हुन्।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-063",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Research Methods",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "In random sampling, how is each member of the population treated?",
+    "question_ne": "अनियमित नमूना छनोटमा समष्टिका प्रत्येक सदस्यलाई कसरी व्यवहार गरिन्छ?",
+    "options": [
+      "Only the first members are chosen",
+      "Every member has an equal chance of being chosen",
+      "The researcher picks the most convenient members",
+      "Only volunteers are chosen"
+    ],
+    "options_ne": [
+      "केवल पहिला सदस्यहरू छानिन्छन्",
+      "प्रत्येक सदस्यलाई छानिने समान अवसर हुन्छ",
+      "अनुसन्धानकर्ताले सबैभन्दा सुविधाजनक सदस्यहरू छान्छन्",
+      "केवल स्वयंसेवकहरू छानिन्छन्"
+    ],
+    "answer": 1,
+    "explanation": "In random sampling, every member of the population has an equal chance of selection, which removes selection bias.",
+    "explanation_ne": "अनियमित नमूना छनोटमा समष्टिका प्रत्येक सदस्यलाई छानिने समान अवसर हुन्छ, जसले छनोट पक्षपात हटाउँछ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-064",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Research Methods",
+    "difficulty": "hard",
+    "marks": 1,
+    "question": "In an experiment, the variable that the researcher changes deliberately is the:",
+    "question_ne": "प्रयोगमा अनुसन्धानकर्ताले जानाजानी परिवर्तन गर्ने चर कुन हो?",
+    "options": [
+      "Dependent variable",
+      "Independent variable",
+      "Constant",
+      "Control group"
+    ],
+    "options_ne": [
+      "आश्रित चर",
+      "स्वतन्त्र चर",
+      "स्थिराङ्क",
+      "नियन्त्रण समूह"
+    ],
+    "answer": 1,
+    "explanation": "The independent variable is the one the researcher manipulates, while the dependent variable is what is measured in response.",
+    "explanation_ne": "स्वतन्त्र चर अनुसन्धानकर्ताले परिवर्तन गर्ने चर हो भने आश्रित चर त्यसको प्रतिक्रियामा मापन गरिने चर हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-065",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Calculate the value of sin 30°.",
+    "question_ne": "sin 30° को मान निकाल्नुहोस्।",
+    "options": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "options_ne": [
+      "1/2",
+      "√3/2",
+      "1",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "sin 30° = 1/2 is a standard trigonometric value.",
+    "explanation_ne": "sin 30° = 1/2 एउटा मानक त्रिकोणमितीय मान हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-066",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Trigonometry",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "Calculate the value of cos 60°.",
+    "question_ne": "cos 60° को मान निकाल्नुहोस्।",
+    "options": [
+      "0",
+      "1",
+      "√3/2",
+      "1/2"
+    ],
+    "options_ne": [
+      "0",
+      "1",
+      "√3/2",
+      "1/2"
+    ],
+    "answer": 3,
+    "explanation": "cos 60° = 1/2 is a standard trigonometric value.",
+    "explanation_ne": "cos 60° = 1/2 एउटा मानक त्रिकोणमितीय मान हो।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-067",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Matrices",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the determinant of the matrix [[2, 1], [3, 4]]?",
+    "question_ne": "म्याट्रिक्स [[2, 1], [3, 4]] को सारणिक कति हो?",
+    "options": [
+      "11",
+      "5",
+      "1",
+      "−5"
+    ],
+    "options_ne": [
+      "11",
+      "5",
+      "1",
+      "−5"
+    ],
+    "answer": 1,
+    "explanation": "Determinant = (2 × 4) − (1 × 3) = 8 − 3 = 5.",
+    "explanation_ne": "सारणिक = (2 × 4) − (1 × 3) = 8 − 3 = 5 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-068",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Sequences and Series",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the 5th term of the arithmetic progression 3, 7, 11, ...?",
+    "question_ne": "समान्तर श्रेणी 3, 7, 11, ... को पाँचौँ पद कति हो?",
+    "options": [
+      "15",
+      "23",
+      "19",
+      "27"
+    ],
+    "options_ne": [
+      "15",
+      "23",
+      "19",
+      "27"
+    ],
+    "answer": 2,
+    "explanation": "First term a = 3 and common difference d = 4, so the 5th term is 3 + 4 × 4 = 19.",
+    "explanation_ne": "पहिलो पद a = 3 र समान अन्तर d = 4 हुन्छ, त्यसैले पाँचौँ पद 3 + 4 × 4 = 19 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-069",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Limits",
+    "difficulty": "medium",
+    "marks": 1,
+    "question": "What is the value of the limit lim(x→0) sin x / x?",
+    "question_ne": "सीमा lim(x→0) sin x / x को मान कति हो?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "Undefined"
+    ],
+    "options_ne": [
+      "0",
+      "1",
+      "∞",
+      "अपरिभाषित"
+    ],
+    "answer": 1,
+    "explanation": "This is the standard limit: lim(x→0) sin x / x = 1.",
+    "explanation_ne": "यो मानक सीमा हो: lim(x→0) sin x / x = 1 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
+  },
+  {
+    "id": "CTV-MST-070",
+    "exam": [
+      "ctevt-health-1st-year"
+    ],
+    "topic": "Mathematics & Statistics",
+    "subtopic": "Complex Numbers",
+    "difficulty": "easy",
+    "marks": 1,
+    "question": "What is the value of i², where i is the imaginary unit?",
+    "question_ne": "i काल्पनिक एकाइ भए i² को मान कति हो?",
+    "options": [
+      "1",
+      "−1",
+      "0",
+      "i"
+    ],
+    "options_ne": [
+      "1",
+      "−1",
+      "0",
+      "i"
+    ],
+    "answer": 1,
+    "explanation": "By definition, i = √(−1), so i² = −1.",
+    "explanation_ne": "परिभाषाअनुसार i = √(−1) हुन्छ, त्यसैले i² = −1 हुन्छ।",
+    "source": "Outrank model questions — CTEVT Health Sciences First Year"
   }
 ]

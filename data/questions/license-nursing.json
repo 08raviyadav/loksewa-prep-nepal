@@ -889,9 +889,10 @@
   "id": "NUR-032",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -919,9 +920,10 @@
   "exam": [
    "nnc-rn",
    "health",
-   "staff-nurse-psc"
+   "staff-nurse-psc",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 2,
@@ -948,9 +950,10 @@
   "id": "NUR-035",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -977,9 +980,10 @@
   "id": "NUR-036",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -1006,9 +1010,10 @@
   "id": "NUR-038",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -1035,9 +1040,10 @@
   "id": "NUR-041",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "hard",
   "marks": 2,
@@ -1064,9 +1070,10 @@
   "id": "NUR-043",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -1239,9 +1246,10 @@
   "id": "NUR-052",
   "exam": [
    "nnc-rn",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "medium",
   "marks": 2,

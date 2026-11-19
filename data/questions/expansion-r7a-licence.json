@@ -7436,9 +7436,10 @@
   "id": "R7A-L287",
   "exam": [
    "nhpc-optometry",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -7784,9 +7785,10 @@
   "id": "R7A-L299",
   "exam": [
    "nhpc-optometry",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -13152,9 +13154,10 @@
   "id": "R7A-L499",
   "exam": [
    "nhpc-optometry",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Eye anatomy",
   "difficulty": "hard",
   "marks": 1,

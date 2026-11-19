@@ -6725,9 +6725,10 @@
   "id": "R6B-B-250",
   "exam": [
    "staff-nurse-psc",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,
@@ -6812,9 +6813,10 @@
   "id": "R6B-B-255",
   "exam": [
    "staff-nurse-psc",
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 2,

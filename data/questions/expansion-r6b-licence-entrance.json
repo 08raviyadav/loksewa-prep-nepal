@@ -2,9 +2,10 @@
  {
   "id": "R6B-002",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 1,
@@ -30,9 +31,10 @@
  {
   "id": "R6B-003",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -58,9 +60,10 @@
  {
   "id": "R6B-004",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 1,
@@ -198,9 +201,10 @@
  {
   "id": "R6B-009",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "medium",
   "marks": 1,
@@ -226,9 +230,10 @@
  {
   "id": "R6B-010",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -282,9 +287,10 @@
  {
   "id": "R6B-012",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -310,9 +316,10 @@
  {
   "id": "R6B-014",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -394,9 +401,10 @@
  {
   "id": "R6B-017",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy",
   "difficulty": "hard",
   "marks": 1,
@@ -535,9 +543,10 @@
   "id": "R6B-022",
   "exam": [
    "nmc-mbbs",
-   "nhpc-lab"
+   "nhpc-lab",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -619,9 +628,10 @@
  {
   "id": "R6B-025",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -703,9 +713,10 @@
  {
   "id": "R6B-029",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 1,
@@ -731,9 +742,10 @@
  {
   "id": "R6B-030",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -761,9 +773,10 @@
   "exam": [
    "nmc-mbbs",
    "health",
-   "nhpc-lab"
+   "nhpc-lab",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 1,
@@ -789,9 +802,10 @@
  {
   "id": "R6B-032",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -817,9 +831,10 @@
  {
   "id": "R6B-034",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "hard",
   "marks": 1,
@@ -931,9 +946,10 @@
  {
   "id": "R6B-038",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -959,9 +975,10 @@
  {
   "id": "R6B-039",
   "exam": [
-   "nmc-mbbs"
+   "nmc-mbbs",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Physiology",
   "difficulty": "medium",
   "marks": 1,
@@ -11882,7 +11899,8 @@
  {
   "id": "R6B-472",
   "exam": [
-   "mecee-bl"
+   "mecee-bl",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Physics",
@@ -13291,7 +13309,8 @@
   "id": "R6B-531",
   "exam": [
    "csit-entrance",
-   "engineering"
+   "engineering",
+   "ctevt-health-1st-year"
   ],
   "topic": "Physics",
   "subtopic": "Physics",

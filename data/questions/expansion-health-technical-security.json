@@ -338,9 +338,10 @@
  {
   "id": "HEAL2-020",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "medium",
   "marks": 2,
@@ -450,9 +451,10 @@
  {
   "id": "HEAL2-025",
   "exam": [
-   "health"
+   "health",
+   "ctevt-health-1st-year"
   ],
-  "topic": "Health/Technical basics",
+  "topic": "Anatomy & Physiology",
   "subtopic": "Anatomy & Physiology",
   "difficulty": "easy",
   "marks": 2,

@@ -4905,9 +4905,10 @@
   {
     "id": "NRBO-051",
     "exam": [
-      "nrb-officer"
+      "nrb-officer",
+      "ctevt-health-1st-year"
     ],
-    "topic": "Maths & Numerical",
+    "topic": "Mathematics & Statistics",
     "subtopic": "Statistics",
     "difficulty": "easy",
     "marks": 2,
@@ -4933,9 +4934,10 @@
   {
     "id": "NRBO-052",
     "exam": [
-      "nrb-officer"
+      "nrb-officer",
+      "ctevt-health-1st-year"
     ],
-    "topic": "Maths & Numerical",
+    "topic": "Mathematics & Statistics",
     "subtopic": "Statistics",
     "difficulty": "easy",
     "marks": 2,
@@ -5353,9 +5355,10 @@
   {
     "id": "NRBO-070",
     "exam": [
-      "nrb-officer"
+      "nrb-officer",
+      "ctevt-health-1st-year"
     ],
-    "topic": "Maths & Numerical",
+    "topic": "Mathematics & Statistics",
     "subtopic": "Statistics",
     "difficulty": "easy",
     "marks": 2,
@@ -5381,9 +5384,10 @@
   {
     "id": "NRBO-071",
     "exam": [
-      "nrb-officer"
+      "nrb-officer",
+      "ctevt-health-1st-year"
     ],
-    "topic": "Maths & Numerical",
+    "topic": "Mathematics & Statistics",
     "subtopic": "Statistics",
     "difficulty": "easy",
     "marks": 2,
@@ -5409,9 +5413,10 @@
   {
     "id": "NRBO-072",
     "exam": [
-      "nrb-officer"
+      "nrb-officer",
+      "ctevt-health-1st-year"
     ],
-    "topic": "Maths & Numerical",
+    "topic": "Mathematics & Statistics",
     "subtopic": "Statistics",
     "difficulty": "easy",
     "marks": 2,
