@@ -144,7 +144,7 @@ class AppStrings {
         'अपडेट जाँच्न सकिएन। इन्टरनेट जाँचेर फेरि प्रयास गर्नुहोस्।',
       );
   String get shareMessage => t(
-        'Outrank — free Lok Sewa exam prep: 47 exams, over 64,000 practice questions, mock exams and exam dates. No login, no ads.\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
+        'Outrank — free Lok Sewa exam prep: 48 exams, over 65,000 practice questions, mock exams and exam dates. No login, no ads.\n\nDownload: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
         'Outrank — निःशुल्क लोक सेवा परीक्षा तयारी: ४७ परीक्षा, ६४,००० भन्दा बढी अभ्यास प्रश्न, मॉक परीक्षा र परीक्षा मिति। खाता छैन, विज्ञापन छैन।\n\nडाउनलोड: https://github.com/08raviyadav/loksewa-prep-nepal/releases/latest/download/app-release.apk',
       );
 

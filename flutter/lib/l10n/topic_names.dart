@@ -6,15 +6,19 @@
 /// these translations instead. Unknown values fall back to the English
 /// original — never a crash, never blank.
 ///
-/// The map covers all 25 distinct `topic` values in the bank
-/// (data/questions/*.json, counted 2026-11-13). If a new topic appears
+/// The map covers all 29 distinct `topic` values in the bank
+/// (data/questions/*.json, counted 2026-11-19 — 25 + Zoology, Botany,
+/// Anatomy & Physiology and Mathematics & Statistics for the CTEVT
+/// Health Sciences First Year exam in v1.0.18). If a new topic appears
 /// in the data later it renders in English until it is added here.
 library;
 
 /// Nepali name per English topic string.
 const Map<String, String> topicNamesNe = {
+  'Anatomy & Physiology': 'शरीर रचना तथा शरीरक्रिया विज्ञान',
   'Banking & Finance': 'बैंकिङ तथा वित्त',
   'Biology': 'जीवविज्ञान',
+  'Botany': 'वनस्पतिशास्त्र',
   'Chemistry': 'रसायनशास्त्र',
   'Computer & ICT': 'कम्प्युटर तथा सूचना प्रविधि',
   'Constitution & Governance': 'संविधान तथा शासन',
@@ -31,6 +35,7 @@ const Map<String, String> topicNamesNe = {
   'IQ & Reasoning': 'आईक्यू तथा तर्कशक्ति',
   'Law': 'कानुन',
   'Mathematics': 'गणित',
+  'Mathematics & Statistics': 'गणित तथा तथ्याङ्क',
   'Maths & Numerical': 'गणित तथा संख्यात्मक',
   'Nepal Geography': 'नेपालको भूगोल',
   'Nepal History': 'नेपालको इतिहास',
@@ -38,6 +43,7 @@ const Map<String, String> topicNamesNe = {
   'Office Management & Public Service': 'कार्यालय व्यवस्थापन तथा सार्वजनिक सेवा',
   'Physics': 'भौतिकशास्त्र',
   'Science & Tech': 'विज्ञान तथा प्रविधि',
+  'Zoology': 'प्राणीशास्त्र',
 };
 
 /// Nepali label per difficulty value (easy | medium | hard).
