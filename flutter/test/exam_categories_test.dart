@@ -1,6 +1,6 @@
 /// Category mapping for the Practice picker / Mock list (v1.0.1).
 ///
-/// The picker groups 47 exams into 8 collapsible sections. These tests
+/// The picker groups 48 exams into 9 collapsible sections. These tests
 /// pin the split against the real bundled exams.json so a data change
 /// that drops an exam into "Other" (or out of the list entirely) fails
 /// loudly instead of silently hiding an exam from the user.
@@ -25,11 +25,11 @@ Future<List<Exam>> _shippedExams() async {
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  group('categoryIdForExam — the 47 shipped exams', () {
+  group('categoryIdForExam — the 48 shipped exams', () {
     test('every shipped exam lands in a real category, none in Other',
         () async {
       final exams = await _shippedExams();
-      expect(exams, hasLength(47));
+      expect(exams, hasLength(48));
       for (final e in exams) {
         expect(categoryIdForExam(e), isNot('other'), reason: e.id);
       }
@@ -45,6 +45,7 @@ void main() {
         'banking': 4,
         'security': 2,
         'health': 16,
+        'ctevt': 1,
         'licence-entrance': 3,
         'law': 2,
         'enterprise': 2,
@@ -64,6 +65,12 @@ void main() {
       expect(categoryIdForExam(e('Nepal Electricity Authority')), 'enterprise');
       expect(categoryIdForExam(e('Tribhuvan University')), 'licence-entrance');
       expect(categoryIdForExam(e('Lok Sewa Aayog (PSC)')), 'psc');
+      expect(
+        categoryIdForExam(
+          e('Council for Technical Education and Vocational Training (CTEVT)'),
+        ),
+        'ctevt',
+      );
       expect(categoryIdForExam(e('Some Brand-New Board')), 'other');
       expect(categoryIdForExam(e('')), 'other');
     });

@@ -62,13 +62,13 @@ void main() {
       );
       expect(find.text('Made in Nepal'), findsOneWidget);
 
-      // Live counts from the bundled data (47 exams, 109 exam dates).
+      // Live counts from the bundled data (48 exams, 109 exam dates).
       // Asserted BEFORE any scrolling: once the list scrolls down,
       // the stats row scrolls off the top and the lazy ListView
       // disposes it.
       await tester.pump(const Duration(milliseconds: 500));
       await tester.pump(const Duration(milliseconds: 500));
-      expect(find.text('47'), findsOneWidget);
+      expect(find.text('48'), findsOneWidget);
       expect(find.text('109'), findsOneWidget);
 
       expect(find.text('raviyadav.com.np'), findsOneWidget);

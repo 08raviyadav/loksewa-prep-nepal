@@ -8,13 +8,13 @@ import 'package:loksewa_vidyapeeth/models/models.dart';
 /// catches schema drift between the vanilla bank and the Flutter app.
 void main() {
   group('bundled data files', () {
-    test('exams.json parses to 47 exams', () {
+    test('exams.json parses to 48 exams', () {
       final raw = File('assets/data/exams.json').readAsStringSync();
       final decoded = json.decode(raw) as List;
       final exams = decoded
           .map((e) => Exam.fromJson(Map<String, dynamic>.from(e as Map)))
           .toList();
-      expect(exams.length, 47);
+      expect(exams.length, 48);
       expect(exams.any((e) => e.id == 'kharidar'), isTrue);
       expect(exams.firstWhere((e) => e.id == 'kharidar').nameNe, 'खरिदार');
     });

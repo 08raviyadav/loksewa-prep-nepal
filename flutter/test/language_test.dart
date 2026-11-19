@@ -64,8 +64,8 @@ void main() {
   });
 
   group('topic and difficulty labels', () {
-    test('all 25 bank topics have a Nepali name', () {
-      expect(topicNamesNe.length, 25);
+    test('all 29 bank topics have a Nepali name', () {
+      expect(topicNamesNe.length, 29);
       for (final entry in topicNamesNe.entries) {
         expect(entry.value, isNotEmpty);
         expect(entry.value, isNot(entry.key));

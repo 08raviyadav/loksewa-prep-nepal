@@ -1,7 +1,7 @@
 /// Layout tests for the v1.0.1 picker rework (Practice + Mock tabs).
 ///
-/// v1.0.0 shipped both tabs as one long flat list — 47 exam chips on
-/// Practice, 33 full mock cards on Mock Exams — so anything near the
+/// v1.0.0 shipped both tabs as one long flat list — 48 exam chips on
+/// Practice, 34 full mock cards on Mock Exams — so anything near the
 /// bottom took many screens of scrolling to reach. Both tabs are now
 /// search + collapsible category sections + compact rows. These tests
 /// pin the new layout on a 390×844 phone viewport: the section headers
@@ -78,7 +78,7 @@ Widget _mocks() => MockListScreen(navIndex: 2, onNav: (_) {});
 
 void main() {
   group('Practice picker', () {
-    testWidgets('category headers replace the flat 47-chip list',
+    testWidgets('category headers replace the flat 48-chip list',
         (tester) async {
       await _setPhoneSize(tester);
       await _pump(tester, _practice());
@@ -86,9 +86,10 @@ void main() {
       expect(find.text('Teaching (TSC)  ·  4'), findsOneWidget);
       expect(find.text('Health Licences  ·  16'), findsOneWidget);
       expect(find.text('Banking  ·  4'), findsOneWidget);
+      expect(find.text('CTEVT  ·  1'), findsOneWidget);
       // Nothing expanded yet: no exam chips on screen.
       expect(find.text('Kharidar'), findsNothing);
-      // All 8 headers fit on one screen — no scrolling to see them.
+      // All 9 headers fit on one screen — no scrolling to see them.
       final last = tester.getRect(find.text('Public Enterprises  ·  2'));
       expect(last.bottom, lessThan(_contentBottom));
     });
@@ -142,7 +143,7 @@ void main() {
   });
 
   group('Mock list', () {
-    testWidgets('33 mocks become 8 section headers on one screen',
+    testWidgets('34 mocks become 9 section headers on one screen',
         (tester) async {
       await _setPhoneSize(tester);
       await _pump(tester, _mocks());
@@ -151,6 +152,7 @@ void main() {
       expect(find.text('Teaching (TSC)  ·  4'), findsOneWidget);
       expect(find.text('Banking  ·  2'), findsOneWidget);
       expect(find.text('Security Forces  ·  2'), findsOneWidget);
+      expect(find.text('CTEVT  ·  1'), findsOneWidget);
       expect(find.text('Licence & Entrance  ·  2'), findsOneWidget);
       expect(find.text('Law & Justice  ·  1'), findsOneWidget);
       expect(find.text('Public Enterprises  ·  1'), findsOneWidget);
