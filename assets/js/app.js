@@ -1044,13 +1044,30 @@ async function loadData(){
 // long scroll on a phone. A text box above the select filters the select's
 // options AND shows a live suggestion dropdown under the box as the user
 // types (tap a suggestion to pick that exam). Matches the English name,
-// Nepali name, id and body, case-insensitively.
+// Nepali name, id and body, case-insensitively — and results are RANKED, so
+// a name starting with the query outranks a body-only match.
+// Relevance score for the exam search: a name that STARTS with the query
+// (typing "ct" for CTEVT) must outrank an exam that only mentions it in its
+// body ("Lok Sewa Aayog (PSC)" matches every "c" — without ranking, typing
+// "c" showed Kharidar first and CTEVT last). 0 = no match.
+function examMatchScore(e, q) {
+  if (!e) return 0;
+  const query = (q || '').trim().toLowerCase();
+  if (!query) return 0;
+  const name = (e.name || '').toLowerCase();
+  const nameNe = (e.name_ne || '').toLowerCase();
+  if (name.startsWith(query) || nameNe.startsWith(query)) return 4;
+  const words = (name + ' ' + nameNe).split(/[^a-z0-9\u0900-\u097f]+/);
+  if (words.some(w => w && w.startsWith(query))) return 3;
+  if (name.includes(query) || nameNe.includes(query)) return 2;
+  if ((e.id || '').toLowerCase().includes(query) || (e.body || '').toLowerCase().includes(query)) return 1;
+  return 0;
+}
 function examMatchesQuery(e, q) {
   if (!e) return false;
-  const query = (q || '').trim().toLowerCase();
+  const query = (q || '').trim();
   if (!query) return true;
-  return [e.name, e.name_ne, e.id, e.body].some(
-    v => typeof v === 'string' && v.toLowerCase().includes(query));
+  return examMatchScore(e, query) > 0;
 }
 // First N exams matching the query (pure — the dropdown renderer passes
 // EXAMS in). Empty query returns []: the dropdown stays hidden until the
@@ -1058,12 +1075,12 @@ function examMatchesQuery(e, q) {
 function examSearchResults(exams, q, limit) {
   const query = (q || '').trim().toLowerCase();
   if (!query) return [];
-  const out = [];
   const max = limit || 8;
-  for (const e of (exams || [])) {
-    if (examMatchesQuery(e, query)) { out.push(e); if (out.length >= max) break; }
-  }
-  return out;
+  // Best match first (Array.sort is stable, so equal scores keep bank order).
+  return (exams || [])
+    .filter(e => examMatchScore(e, query) > 0)
+    .sort((a, b) => examMatchScore(b, query) - examMatchScore(a, query))
+    .slice(0, max);
 }
 // Live suggestion dropdown under the search box: the matching exams appear
 // as the user types (max 8 + a "+N more" row); tapping one picks it.
