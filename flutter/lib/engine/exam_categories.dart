@@ -2,9 +2,9 @@ import '../models/models.dart';
 
 /// Curated categories for the Practice exam picker.
 ///
-/// 47 exams as one flat chip list meant endless scrolling to reach the
+/// 48 exams as one flat chip list meant endless scrolling to reach the
 /// bottom (v1.0.0 feedback). The picker now shows one collapsible section
-/// per category, so the whole list is ~8 headers + search.
+/// per category, so the whole list is ~9 headers + search.
 ///
 /// Categories are keyed by exam id first (exact, stable), with a
 /// recruiting-body keyword fallback so a future exam still lands in a
@@ -29,6 +29,7 @@ const List<ExamCategory> examCategories = [
       id: 'security', nameEn: 'Security Forces', nameNe: 'सुरक्षा निकाय',),
   ExamCategory(
       id: 'health', nameEn: 'Health Licences', nameNe: 'स्वास्थ्य लाइसेन्स',),
+  ExamCategory(id: 'ctevt', nameEn: 'CTEVT', nameNe: 'CTEVT'),
   ExamCategory(
       id: 'licence-entrance',
       nameEn: 'Licence & Entrance',
@@ -46,7 +47,7 @@ ExamCategory categoryById(String id) => examCategories.firstWhere(
       orElse: () => examCategories.last,
     );
 
-/// Exact id mapping for the 47 exams shipped in v1.0.0.
+/// Exact id mapping for the 48 exams (47 shipped in v1.0.0 + CTEVT in v1.0.18).
 const Map<String, String> _categoryByExamId = {
   // Lok Sewa (PSC) — 14
   'kharidar': 'psc',
@@ -93,6 +94,8 @@ const Map<String, String> _categoryByExamId = {
   'npc-pharmacy': 'health',
   'ayurveda-bams': 'health',
   'mecee-bl': 'health',
+  // CTEVT — 1 (v1.0.18)
+  'ctevt-health-1st-year': 'ctevt',
   // Licence & Entrance — 3
   'nec-licence': 'licence-entrance',
   'ioe-entrance': 'licence-entrance',
@@ -111,6 +114,9 @@ String categoryIdForExam(Exam exam) {
   final byId = _categoryByExamId[exam.id];
   if (byId != null) return byId;
   final b = exam.body.toLowerCase();
+  if (b.contains('ctevt') || b.contains('technical education')) {
+    return 'ctevt';
+  }
   if (b.contains('judicial') || b.contains('bar council')) return 'law';
   if (b.contains('teacher service')) return 'tsc';
   if (b.contains('police') || b.contains('army')) return 'security';
