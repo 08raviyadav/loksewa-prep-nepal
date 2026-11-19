@@ -217,7 +217,7 @@
 <section class="view" id="view-practice">
 <div class="card"><h2>Practice — अभ्यास</h2>
 <p class="muted">Pick an exam, topic and size. Questions and options are randomised every time.</p>
-<label for="practice-exam">Exam</label><input type="search" id="practice-exam-search" placeholder="🔍 Search exams…"><p class="muted" id="practice-exam-nomatch" hidden></p><select id="practice-exam"></select>
+<label for="practice-exam">Exam</label><div class="exam-search-wrap"><input type="search" id="practice-exam-search" placeholder="🔍 Search exams…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="practice-exam-list"><div class="exam-search-list" id="practice-exam-list" role="listbox" hidden></div></div><select id="practice-exam"></select>
 <label for="practice-topic">Topic</label><select id="practice-topic"><option value="">All topics</option></select>
 <label for="practice-diff">Difficulty</label><select id="practice-diff"><option value="">All levels</option><option value="easy">Easy</option><option value="medium">Medium</option><option value="hard">Hard</option></select>
 <label for="practice-count">How many questions?</label><select id="practice-count"><option value="5">5 — quick</option><option value="10" selected>10</option><option value="20">20</option><option value="50">50 — full prelim</option></select>
@@ -241,7 +241,7 @@
 <section class="view" id="view-mock">
 <div class="card"><h2>Mock Exams — नमुना परीक्षा</h2>
 <p class="muted">Full-length, timed, like the real prelim: same question count, same time, same marks, auto-submit when time runs out, result judged against the real cutoff. Question mix follows the real paper's section split where the app models it (Kharidar, NaSu, Section Officer); other mocks draw from the exam's tagged pool. Negative marking is per exam — see the Exam Guide.</p>
-<label for="mock-exam">Choose your mock</label><input type="search" id="mock-exam-search" placeholder="🔍 Search exams…"><p class="muted" id="mock-exam-nomatch" hidden></p><select id="mock-exam" onchange="renderMockBest()"></select>
+<label for="mock-exam">Choose your mock</label><div class="exam-search-wrap"><input type="search" id="mock-exam-search" placeholder="🔍 Search exams…" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="mock-exam-list"><div class="exam-search-list" id="mock-exam-list" role="listbox" hidden></div></div><select id="mock-exam" onchange="renderMockBest()"></select>
 <p id="mock-best" class="muted" style="margin-top:10px"></p>
 <button class="btn" onclick="startMock()">Start mock exam →</button>
 <div style="margin-top:14px" id="mock-pattern-table"><p class="muted">Loading mock patterns…</p></div>
