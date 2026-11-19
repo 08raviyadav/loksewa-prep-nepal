@@ -1040,6 +1040,46 @@ async function loadData(){
     const n=$('#load-note'); if(n) n.innerHTML='<p class="card" style="border-color:#ef4444">⚠️ Question bank did not load. This app loads its JSON files with <code>fetch()</code> — open it through a local server (<code>python3 -m http.server 8000</code>) or GitHub Pages, not by double-clicking the file. See README.</p>';
   }
 }
+// Exam-picker search (Practice + Mock): with 48 exams a bare <select> is a
+// long scroll on a phone. A text box above the select hides non-matching
+// options (option.hidden — the selected exam still shows as the select's
+// value even while hidden, so a filter can never wipe the user's choice).
+// Matches the English name, Nepali name, id and body, case-insensitively.
+function examMatchesQuery(e, q) {
+  if (!e) return false;
+  const query = (q || '').trim().toLowerCase();
+  if (!query) return true;
+  return [e.name, e.name_ne, e.id, e.body].some(
+    v => typeof v === 'string' && v.toLowerCase().includes(query));
+}
+function applyExamSearch(selectId, inputId, noMatchId) {
+  if (typeof document === 'undefined') return;
+  const sel = document.getElementById(selectId);
+  const inp = document.getElementById(inputId);
+  if (!sel || !inp) return;
+  const q = inp.value || '';
+  let visible = 0;
+  for (const o of (sel.options || [])) {
+    // The empty-value option (mixed practice / "—") is never filtered out.
+    if (!o.value) { o.hidden = false; continue; }
+    const show = examMatchesQuery(examById(o.value), q);
+    o.hidden = !show;
+    if (show) visible++;
+  }
+  const hint = noMatchId ? document.getElementById(noMatchId) : null;
+  if (hint) {
+    const noMatch = q.trim() !== '' && visible === 0;
+    hint.hidden = !noMatch;
+    if (noMatch) hint.textContent = B('No exams match — clear the search to see all exams.', 'कुनै परीक्षा मिलेन — सबै परीक्षा हेर्न खोजी मेट्नुहोस्।');
+  }
+}
+function wireExamSearch(inputId, selectId, noMatchId) {
+  if (typeof document === 'undefined') return;
+  const inp = document.getElementById(inputId);
+  if (!inp || inp.dataset.examSearchWired) return;
+  inp.dataset.examSearchWired = '1';
+  inp.addEventListener('input', () => applyExamSearch(selectId, inputId, noMatchId));
+}
 function fillExamSelects(){
   // Rebuilding the selects used to wipe the user's choice: visiting the
   // Contribute view calls renderSubmit() → fillExamSelects(), and the
@@ -1072,6 +1112,12 @@ function fillExamSelects(){
   const fs=document.getElementById('flash-exam'); if(fs) fs.innerHTML='<option value="">'+B('All exams (mixed)','सबै परीक्षा (मिश्रित)')+'</option>'+allOpts;
   snaps.forEach(({s,v,i})=>{ if(i===-1 && !v) return; for(const o of (s.options||[])){ if(o.value===v){ s.value=v; break; } } });
   const pp=document.getElementById('practice-pattern'); const upd=()=>{ const pe2=document.getElementById('practice-exam'); const ev=pe2?pe2.value:''; const e=ev?examById(ev):null; if(pp) pp.textContent=!ev?('🌐 '+B('Mixed practice','मिश्रित अभ्यास')+' — '+QUESTIONS.length.toLocaleString()+' '+B('questions from all exams, ~54s per question with the timer on.','सबै परीक्षाका प्रश्नहरू, टाइमर चल्दा प्रति प्रश्न ~५४ सेकेन्ड।')):e&&e.prelim?`${e.name}: ${e.prelim.questions} ${B('questions','प्रश्न')} × ${e.prelim.marksPerQ} ${B('mark(s)','अङ्क')}, ${e.prelim.timeMin==null?B('time unverified','समय अपुष्ट'):e.prelim.timeMin+' '+B('min','मिनेट')}, ${B('pass','पास')} ${e.prelim.pass}/${e.prelim.total}.`:B('Guide-only exam — no MCQ paper; practice draws from tagged questions only.','गाइड-मात्र परीक्षा — MCQ पेपर छैन; अभ्यास ट्याग गरिएका प्रश्नहरूबाट मात्र हुन्छ।'); }; const pe=document.getElementById('practice-exam'); if(pe) pe.addEventListener('change',()=>{ upd(); updatePracticeTopics(); }); upd(); updatePracticeTopics();
+  // Re-apply the picker search after a rebuild (visiting Contribute rebuilds
+  // the selects and would otherwise wipe an active filter).
+  wireExamSearch('practice-exam-search', 'practice-exam', 'practice-exam-nomatch');
+  wireExamSearch('mock-exam-search', 'mock-exam', 'mock-exam-nomatch');
+  applyExamSearch('practice-exam', 'practice-exam-search', 'practice-exam-nomatch');
+  applyExamSearch('mock-exam', 'mock-exam-search', 'mock-exam-nomatch');
 }
 // Rebuild the Practice topic list from the topics that actually have questions
 // tagged for the selected exam. The old global list let users pick impossible
