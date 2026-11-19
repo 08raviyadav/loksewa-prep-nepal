@@ -330,6 +330,16 @@ textarea{
   transition:border-color .15s var(--ease),box-shadow .15s var(--ease);
 }
 input[type=text],input[type=search]{margin:4px 0 var(--sp-2)}
+/* Exam-picker search dropdown (Practice + Mock): live suggestions under the
+   search box, mirroring the .nav-menu dropdown look. */
+.exam-search-wrap{position:relative}
+.exam-search-list{position:absolute;top:100%;left:0;right:0;z-index:60;background:var(--bg2);border:1px solid var(--border);border-radius:12px;box-shadow:var(--shadow);margin-top:4px;max-height:264px;overflow-y:auto}
+.exam-search-list[hidden]{display:none}
+.exam-search-item{display:block;width:100%;text-align:left;padding:10px var(--sp-3);background:none;border:none;border-bottom:1px solid var(--border);color:var(--text);font-size:1rem;cursor:pointer;min-height:var(--tap)}
+.exam-search-item:last-of-type{border-bottom:none}
+.exam-search-item small{display:block;color:var(--muted);font-size:var(--fs-small)}
+.exam-search-item:hover,.exam-search-item.active{background:var(--accent-soft)}
+.exam-search-empty,.exam-search-more{padding:10px var(--sp-3);color:var(--muted);font-size:var(--fs-small)}
 input[type=range]{width:180px;max-width:100%;accent-color:var(--accent);min-height:var(--tap)}
 .checks{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
 .checks label{
