@@ -12,8 +12,10 @@ const dir = path.join(__dirname, '..', 'data', 'questions');
 const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
 
 // Same patterns as the v1.0.17 fix (topic-agnostic, matched on the stem
-// = question + question_ne).
-const CASE_A = /English word|अङ्ग्रेजी शब्द|synonym|पर्यायवाची|antonym|विपरीतार्थी|विलोम|one[\s-]?word|एक शब्द|is called a\/an|one who/i;
+// = question + question_ne), extended 2026-11-20 (scrutiny finding M2):
+// "closest/opposite/nearest/similar in meaning" is a synonym/antonym
+// question by another name, so it gets the same null treatment.
+const CASE_A = /English word|अङ्ग्रेजी शब्द|synonym|पर्यायवाची|antonym|विपरीतार्थी|विलोम|one[\s-]?word|एक शब्द|is called a\/an|one who|closest in meaning|opposite in meaning|nearest in meaning|similar in meaning/i;
 // Meaning-questions keep Nepali options: they ask for a MEANING, so a
 // Nepali answer is the tested skill, not a bypass.
 const EXCLUSION = /Nepali meaning|नेपाली अर्थ|what does .* mean|को अर्थ के हो/i;
@@ -62,7 +64,8 @@ console.log(`  hand-verified exemptions (not English-word questions): ${exempt}`
 if (!reportedQ) failures.push('R10-ENG3-0978 (reported question) not found in the bank');
 else if (reportedQ.options_ne !== null) failures.push(`R10-ENG3-0978: options_ne must be null, found ${JSON.stringify(reportedQ.options_ne)}`);
 // Sanity floor: if the patterns ever break and match nothing, the guard
-// would pass vacuously — the known fix nulled 3,071 questions.
+// would pass vacuously — the known fixes nulled 4,966 questions (3,071 in
+// v1.0.17 + 1,898 in the 2026-11-20 M2 extension).
 if (nulled < 3000) failures.push(`only ${nulled} Case-A questions nulled, expected >= 3000 — patterns may have broken`);
 if (failures.length) { console.log(`\nFAILURES (${failures.length}):`); failures.slice(0, 50).forEach(x => console.log(' -', x)); process.exit(1); }
 console.log('\nALL OPTIONS-NE CHECKS PASSED ✔');
