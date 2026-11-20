@@ -57,12 +57,7 @@
    "Drop",
    "Leave"
   ],
-  "options_ne": [
-   "पुर्‍याउनु",
-   "ढुवानी गर्नु",
-   "खसाल्नु",
-   "छोड्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'transport' is closest in meaning to 'carry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘transport’ को अर्थ ‘carry’ सँग सबैभन्दा नजिक छ।",
@@ -126,12 +121,7 @@
    "Transport",
    "Convey"
   ],
-  "options_ne": [
-   "छोड्नु",
-   "खसाल्नु",
-   "ढुवानी गर्नु",
-   "पुर्‍याउनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'drop' is opposite in meaning to 'carry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘drop’ को अर्थ ‘carry’ को विपरीत छ।",
@@ -264,12 +254,7 @@
    "Capture",
    "Miss"
   ],
-  "options_ne": [
-   "समात्नु",
-   "छोड्नु",
-   "पक्रनु",
-   "छुटाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'capture' is closest in meaning to 'catch'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘capture’ को अर्थ ‘catch’ सँग सबैभन्दा नजिक छ।",
@@ -333,12 +318,7 @@
    "Capture",
    "Miss"
   ],
-  "options_ne": [
-   "छोड्नु",
-   "समात्नु",
-   "पक्रनु",
-   "छुटाउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'release' is opposite in meaning to 'catch'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘release’ को अर्थ ‘catch’ को विपरीत छ।",
@@ -471,12 +451,7 @@
    "Effect",
    "Origin"
   ],
-  "options_ne": [
-   "हेतु",
-   "नतिजा",
-   "परिणाम",
-   "उत्पत्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'reason' is closest in meaning to 'cause'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘reason’ को अर्थ ‘cause’ सँग सबैभन्दा नजिक छ।",
@@ -540,12 +515,7 @@
    "Origin",
    "Reason"
   ],
-  "options_ne": [
-   "नतिजा",
-   "परिणाम",
-   "उत्पत्ति",
-   "हेतु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'effect' is opposite in meaning to 'cause'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘effect’ को अर्थ ‘cause’ को विपरीत छ।",
@@ -678,12 +648,7 @@
    "Cost",
    "Fee"
   ],
-  "options_ne": [
-   "निःशुल्क",
-   "भुक्तानी",
-   "लागत",
-   "फि"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'fee' is closest in meaning to 'charge'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘fee’ को अर्थ ‘charge’ सँग सबैभन्दा नजिक छ।",
@@ -747,12 +712,7 @@
    "Free",
    "Payment"
   ],
-  "options_ne": [
-   "फि",
-   "लागत",
-   "निःशुल्क",
-   "भुक्तानी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'free' is opposite in meaning to 'charge'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘free’ को अर्थ ‘charge’ को विपरीत छ।",
@@ -885,12 +845,7 @@
    "Ignore",
    "Verify"
   ],
-  "options_ne": [
-   "निरीक्षण गर्नु",
-   "उपेक्षा गर्नु",
-   "बेवास्ता गर्नु",
-   "प्रमाणित गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'verify' is closest in meaning to 'check'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘verify’ को अर्थ ‘check’ सँग सबैभन्दा नजिक छ।",
@@ -954,12 +909,7 @@
    "Ignore",
    "Inspect"
   ],
-  "options_ne": [
-   "उपेक्षा गर्नु",
-   "प्रमाणित गर्नु",
-   "बेवास्ता गर्नु",
-   "निरीक्षण गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'ignore' is opposite in meaning to 'check'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ignore’ को अर्थ ‘check’ को विपरीत छ।",
@@ -1092,12 +1042,7 @@
    "Selection",
    "Compulsion"
   ],
-  "options_ne": [
-   "अस्वीकार",
-   "विकल्प",
-   "चयन",
-   "बाध्यता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'selection' is closest in meaning to 'choice'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘selection’ को अर्थ ‘choice’ सँग सबैभन्दा नजिक छ।",
@@ -1161,12 +1106,7 @@
    "Compulsion",
    "Option"
   ],
-  "options_ne": [
-   "अस्वीकार",
-   "चयन",
-   "बाध्यता",
-   "विकल्प"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'rejection' is opposite in meaning to 'choice'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘rejection’ को अर्थ ‘choice’ को विपरीत छ।",
@@ -1299,12 +1239,7 @@
    "Refuse",
    "Select"
   ],
-  "options_ne": [
-   "छान्नु",
-   "अस्वीकार गर्नु",
-   "इन्कार गर्नु",
-   "चयन गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'select' is closest in meaning to 'choose'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘select’ को अर्थ ‘choose’ सँग सबैभन्दा नजिक छ।",
@@ -1368,12 +1303,7 @@
    "Select",
    "Refuse"
   ],
-  "options_ne": [
-   "अस्वीकार गर्नु",
-   "छान्नु",
-   "चयन गर्नु",
-   "इन्कार गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'reject' is opposite in meaning to 'choose'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘reject’ को अर्थ ‘choose’ को विपरीत छ।",
@@ -1474,12 +1404,7 @@
    "Round",
    "Line"
   ],
-  "options_ne": [
-   "घेरा",
-   "वर्ग",
-   "गोलो",
-   "रेखा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'ring' is closest in meaning to 'circle'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ring’ को अर्थ ‘circle’ सँग सबैभन्दा नजिक छ।",
@@ -1543,12 +1468,7 @@
    "Round",
    "Line"
   ],
-  "options_ne": [
-   "वर्ग",
-   "घेरा",
-   "गोलो",
-   "रेखा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'square' is opposite in meaning to 'circle'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘square’ को अर्थ ‘circle’ को विपरीत छ।",
@@ -1681,12 +1601,7 @@
    "Civic",
    "Rude"
   ],
-  "options_ne": [
-   "शिष्ट",
-   "सैन्य",
-   "नागरिकसम्बन्धी",
-   "अशिष्ट"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'civic' is closest in meaning to 'civil'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘civic’ को अर्थ ‘civil’ सँग सबैभन्दा नजिक छ।",
@@ -1750,12 +1665,7 @@
    "Military",
    "Polite"
   ],
-  "options_ne": [
-   "अशिष्ट",
-   "नागरिकसम्बन्धी",
-   "सैन्य",
-   "शिष्ट"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'military' is opposite in meaning to 'civil'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘military’ को अर्थ ‘civil’ को विपरीत छ।",
@@ -1888,12 +1798,7 @@
    "Deny",
    "Demand"
   ],
-  "options_ne": [
-   "दाबी गर्नु",
-   "आत्मसमर्पण गर्नु",
-   "अस्वीकार गर्नु",
-   "माग गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'assert' is closest in meaning to 'claim'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘assert’ को अर्थ ‘claim’ सँग सबैभन्दा नजिक छ।",
@@ -1957,12 +1862,7 @@
    "Demand",
    "Deny"
   ],
-  "options_ne": [
-   "आत्मसमर्पण गर्नु",
-   "दाबी गर्नु",
-   "माग गर्नु",
-   "अस्वीकार गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'deny' is opposite in meaning to 'claim'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘deny’ को अर्थ ‘claim’ को विपरीत छ।",
@@ -2095,12 +1995,7 @@
    "Polluted",
    "Tidy"
   ],
-  "options_ne": [
-   "शुद्ध",
-   "फोहोर",
-   "प्रदूषित",
-   "व्यवस्थित"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'tidy' is closest in meaning to 'clean'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tidy’ को अर्थ ‘clean’ सँग सबैभन्दा नजिक छ।",
@@ -2164,12 +2059,7 @@
    "Polluted",
    "Tidy"
   ],
-  "options_ne": [
-   "फोहोर",
-   "शुद्ध",
-   "प्रदूषित",
-   "व्यवस्थित"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'dirty' is opposite in meaning to 'clean'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘dirty’ को अर्थ ‘clean’ को विपरीत छ।",
@@ -2302,12 +2192,7 @@
    "Fabric",
    "Paper"
   ],
-  "options_ne": [
-   "सामग्री",
-   "पोशाक",
-   "कपडा",
-   "कागज"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'fabric' is closest in meaning to 'cloth'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘fabric’ को अर्थ ‘cloth’ सँग सबैभन्दा नजिक छ।",
@@ -2371,12 +2256,7 @@
    "Fabric",
    "Garment"
   ],
-  "options_ne": [
-   "सामग्री",
-   "कागज",
-   "कपडा",
-   "पोशाक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'material' is opposite in meaning to 'cloth'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘material’ को अर्थ ‘cloth’ को विपरीत छ।",
@@ -2509,12 +2389,7 @@
    "Fog",
    "Mist"
   ],
-  "options_ne": [
-   "आकाश",
-   "सूर्य",
-   "हुस्सु",
-   "कुहिरो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'mist' is closest in meaning to 'cloud'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘mist’ को अर्थ ‘cloud’ सँग सबैभन्दा नजिक छ।",
@@ -2578,12 +2453,7 @@
    "Fog",
    "Sky"
   ],
-  "options_ne": [
-   "कुहिरो",
-   "सूर्य",
-   "हुस्सु",
-   "आकाश"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'sky' is opposite in meaning to 'cloud'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sky’ को अर्थ ‘cloud’ को विपरीत छ।",
@@ -2716,12 +2586,7 @@
    "Mentor",
    "Player"
   ],
-  "options_ne": [
-   "तालिमकर्ता",
-   "विद्यार्थी",
-   "मार्गदर्शक",
-   "खेलाडी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'trainer' is closest in meaning to 'coach'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘trainer’ को अर्थ ‘coach’ सँग सबैभन्दा नजिक छ।",
@@ -2785,12 +2650,7 @@
    "Trainer",
    "Player"
   ],
-  "options_ne": [
-   "विद्यार्थी",
-   "मार्गदर्शक",
-   "तालिमकर्ता",
-   "खेलाडी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'player' is opposite in meaning to 'coach'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘player’ को अर्थ ‘coach’ को विपरीत छ।",
@@ -2923,12 +2783,7 @@
    "Cliff",
    "Beach"
   ],
-  "options_ne": [
-   "किनार",
-   "भित्री भाग",
-   "चट्टान",
-   "समुद्र तट"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'shore' is closest in meaning to 'coast'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘shore’ को अर्थ ‘coast’ सँग सबैभन्दा नजिक छ।",
@@ -2992,12 +2847,7 @@
    "Cliff",
    "Shore"
   ],
-  "options_ne": [
-   "भित्री भाग",
-   "समुद्र तट",
-   "चट्टान",
-   "किनार"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'beach' is opposite in meaning to 'coast'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘beach’ को अर्थ ‘coast’ को विपरीत छ।",
@@ -3130,12 +2980,7 @@
    "Cipher",
    "Rule"
   ],
-  "options_ne": [
-   "कानुन",
-   "गुप्त लेख खोल्नु",
-   "गुप्त लेख",
-   "नियम"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'law' is closest in meaning to 'code'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘law’ को अर्थ ‘code’ सँग सबैभन्दा नजिक छ।",
@@ -3199,12 +3044,7 @@
    "Cipher",
    "Rule"
   ],
-  "options_ne": [
-   "गुप्त लेख खोल्नु",
-   "कानुन",
-   "गुप्त लेख",
-   "नियम"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'rule' is opposite in meaning to 'code'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘rule’ को अर्थ ‘code’ को विपरीत छ।",
@@ -3337,12 +3177,7 @@
    "Milk",
    "Tea"
   ],
-  "options_ne": [
-   "पेय",
-   "पेय पदार्थ",
-   "दूध",
-   "चिया"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'beverage' is closest in meaning to 'coffee'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘beverage’ को अर्थ ‘coffee’ सँग सबैभन्दा नजिक छ।",
@@ -3406,12 +3241,7 @@
    "Beverage",
    "Drink"
   ],
-  "options_ne": [
-   "चिया",
-   "दूध",
-   "पेय",
-   "पेय पदार्थ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'tea' is opposite in meaning to 'coffee'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tea’ को अर्थ ‘coffee’ को विपरीत छ।",
@@ -3544,12 +3374,7 @@
    "Distribute",
    "Gather"
   ],
-  "options_ne": [
-   "सङ्ग्रह गर्नु",
-   "छरिनु",
-   "वितरण गर्नु",
-   "जम्मा गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'gather' is closest in meaning to 'collect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘gather’ को अर्थ ‘collect’ सँग सबैभन्दा नजिक छ।",
@@ -3613,12 +3438,7 @@
    "Scatter",
    "Gather"
   ],
-  "options_ne": [
-   "सङ्ग्रह गर्नु",
-   "वितरण गर्नु",
-   "छरिनु",
-   "जम्मा गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'scatter' is opposite in meaning to 'collect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘scatter’ को अर्थ ‘collect’ को विपरीत छ।",
@@ -3751,12 +3571,7 @@
    "Academy",
    "University"
   ],
-  "options_ne": [
-   "संस्था",
-   "विद्यालय",
-   "एकेडेमी",
-   "विश्वविद्यालय"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'institution' is closest in meaning to 'college'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘institution’ को अर्थ ‘college’ सँग सबैभन्दा नजिक छ।",
@@ -3820,12 +3635,7 @@
    "University",
    "Institution"
   ],
-  "options_ne": [
-   "एकेडेमी",
-   "विद्यालय",
-   "विश्वविद्यालय",
-   "संस्था"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'school' is opposite in meaning to 'college'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘school’ को अर्थ ‘college’ को विपरीत छ।",
@@ -3958,12 +3768,7 @@
    "Paint",
    "Hue"
   ],
-  "options_ne": [
-   "रङ",
-   "छाया",
-   "पेन्ट",
-   "रङ्ग"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'hue' is closest in meaning to 'colour'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hue’ को अर्थ ‘colour’ सँग सबैभन्दा नजिक छ।",
@@ -4027,12 +3832,7 @@
    "Shade",
    "Paint"
   ],
-  "options_ne": [
-   "रङ",
-   "रङ्ग",
-   "छाया",
-   "पेन्ट"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'shade' is opposite in meaning to 'colour'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘shade’ को अर्थ ‘colour’ को विपरीत छ।",
@@ -4165,12 +3965,7 @@
    "Pain",
    "Discomfort"
   ],
-  "options_ne": [
-   "राहत",
-   "सुख",
-   "दुखाइ",
-   "असुविधा"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'ease' is closest in meaning to 'comfort'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ease’ को अर्थ ‘comfort’ सँग सबैभन्दा नजिक छ।",
@@ -4234,12 +4029,7 @@
    "Ease",
    "Relief"
   ],
-  "options_ne": [
-   "असुविधा",
-   "दुखाइ",
-   "सुख",
-   "राहत"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'discomfort' is opposite in meaning to 'comfort'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘discomfort’ को अर्थ ‘comfort’ को विपरीत छ।",
@@ -4372,12 +4162,7 @@
    "Order",
    "Plea"
   ],
-  "options_ne": [
-   "अनुरोध",
-   "निर्देशन",
-   "निर्देश",
-   "याचना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'order' is closest in meaning to 'command'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘order’ को अर्थ ‘command’ सँग सबैभन्दा नजिक छ।",
@@ -4441,12 +4226,7 @@
    "Order",
    "Directive"
   ],
-  "options_ne": [
-   "अनुरोध",
-   "याचना",
-   "निर्देश",
-   "निर्देशन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'request' is opposite in meaning to 'command'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘request’ को अर्थ ‘command’ को विपरीत छ।",
@@ -4579,12 +4359,7 @@
    "Firm",
    "Business"
   ],
-  "options_ne": [
-   "निगम",
-   "व्यक्ति",
-   "फर्म",
-   "व्यापार"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'firm' is closest in meaning to 'company'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘firm’ को अर्थ ‘company’ सँग सबैभन्दा नजिक छ।",
@@ -4648,12 +4423,7 @@
    "Corporation",
    "Business"
   ],
-  "options_ne": [
-   "फर्म",
-   "व्यक्ति",
-   "निगम",
-   "व्यापार"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'business' is opposite in meaning to 'company'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘business’ को अर्थ ‘company’ को विपरीत छ।",
@@ -4786,12 +4556,7 @@
    "Contrast",
    "Separate"
   ],
-  "options_ne": [
-   "फरक हुनु",
-   "मेल खानु",
-   "तुलना गर्नु",
-   "छुट्याउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'contrast' is closest in meaning to 'compare'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘contrast’ को अर्थ ‘compare’ सँग सबैभन्दा नजिक छ।",
@@ -4855,12 +4620,7 @@
    "Match",
    "Separate"
   ],
-  "options_ne": [
-   "फरक हुनु",
-   "तुलना गर्नु",
-   "मेल खानु",
-   "छुट्याउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'differ' is opposite in meaning to 'compare'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘differ’ को अर्थ ‘compare’ को विपरीत छ।",
@@ -4993,12 +4753,7 @@
    "Finished",
    "Incomplete"
   ],
-  "options_ne": [
-   "कुल",
-   "आंशिक",
-   "सम्पन्न",
-   "अपूर्ण"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'finished' is closest in meaning to 'complete'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘finished’ को अर्थ ‘complete’ सँग सबैभन्दा नजिक छ।",
@@ -5062,12 +4817,7 @@
    "Incomplete",
    "Partial"
   ],
-  "options_ne": [
-   "कुल",
-   "सम्पन्न",
-   "अपूर्ण",
-   "आंशिक"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'incomplete' is opposite in meaning to 'complete'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘incomplete’ को अर्थ ‘complete’ को विपरीत छ।",
@@ -5168,12 +4918,7 @@
    "Complicated",
    "Easy"
   ],
-  "options_ne": [
-   "सरल",
-   "जटिल",
-   "कठिन",
-   "सजिलो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'complicated' is closest in meaning to 'complex'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘complicated’ को अर्थ ‘complex’ सँग सबैभन्दा नजिक छ।",
@@ -5237,12 +4982,7 @@
    "Easy",
    "Complicated"
   ],
-  "options_ne": [
-   "सरल",
-   "जटिल",
-   "सजिलो",
-   "कठिन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'simple' is opposite in meaning to 'complex'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘simple’ को अर्थ ‘complex’ को विपरीत छ।",
@@ -5375,12 +5115,7 @@
    "Write",
    "Create"
   ],
-  "options_ne": [
-   "भाँच्नु",
-   "नष्ट गर्नु",
-   "लेख्नु",
-   "सिर्जना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'write' is closest in meaning to 'compose'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘write’ को अर्थ ‘compose’ सँग सबैभन्दा नजिक छ।",
@@ -5444,12 +5179,7 @@
    "Destroy",
    "Create"
   ],
-  "options_ne": [
-   "भाँच्नु",
-   "लेख्नु",
-   "नष्ट गर्नु",
-   "सिर्जना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'destroy' is opposite in meaning to 'compose'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘destroy’ को अर्थ ‘compose’ को विपरीत छ।",
@@ -5582,12 +5312,7 @@
    "Unconcern",
    "Interest"
   ],
-  "options_ne": [
-   "उदासीनता",
-   "चिन्ता",
-   "बेवास्ता",
-   "रुचि"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'worry' is closest in meaning to 'concern'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘worry’ को अर्थ ‘concern’ सँग सबैभन्दा नजिक छ।",
@@ -5651,12 +5376,7 @@
    "Worry",
    "Interest"
   ],
-  "options_ne": [
-   "बेवास्ता",
-   "उदासीनता",
-   "चिन्ता",
-   "रुचि"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'unconcern' is opposite in meaning to 'concern'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘unconcern’ को अर्थ ‘concern’ को विपरीत छ।",
@@ -5789,12 +5509,7 @@
    "Follow",
    "Lead"
   ],
-  "options_ne": [
-   "व्यवस्थापन गर्नु",
-   "दुर्व्यवहार",
-   "पछ्याउनु",
-   "नेतृत्व गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'manage' is closest in meaning to 'conduct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘manage’ को अर्थ ‘conduct’ सँग सबैभन्दा नजिक छ।",
@@ -5858,12 +5573,7 @@
    "Manage",
    "Lead"
   ],
-  "options_ne": [
-   "दुर्व्यवहार",
-   "पछ्याउनु",
-   "व्यवस्थापन गर्नु",
-   "नेतृत्व गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'misconduct' is opposite in meaning to 'conduct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘misconduct’ को अर्थ ‘conduct’ को विपरीत छ।",
@@ -5996,12 +5706,7 @@
    "Refute",
    "Affirm"
   ],
-  "options_ne": [
-   "प्रमाणित गर्नु",
-   "अस्वीकार गर्नु",
-   "खण्डन गर्नु",
-   "पुष्टि गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'verify' is closest in meaning to 'confirm'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘verify’ को अर्थ ‘confirm’ सँग सबैभन्दा नजिक छ।",
@@ -6065,12 +5770,7 @@
    "Deny",
    "Verify"
   ],
-  "options_ne": [
-   "खण्डन गर्नु",
-   "पुष्टि गर्नु",
-   "अस्वीकार गर्नु",
-   "प्रमाणित गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'deny' is opposite in meaning to 'confirm'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘deny’ को अर्थ ‘confirm’ को विपरीत छ।",
@@ -6203,12 +5903,7 @@
    "Link",
    "Disconnect"
   ],
-  "options_ne": [
-   "छुट्याउनु",
-   "मिलाउनु",
-   "सम्पर्क गर्नु",
-   "विच्छेद गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'link' is closest in meaning to 'connect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘link’ को अर्थ ‘connect’ सँग सबैभन्दा नजिक छ।",
@@ -6272,12 +5967,7 @@
    "Disconnect",
    "Separate"
   ],
-  "options_ne": [
-   "सम्पर्क गर्नु",
-   "मिलाउनु",
-   "विच्छेद गर्नु",
-   "छुट्याउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'disconnect' is opposite in meaning to 'connect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘disconnect’ को अर्थ ‘connect’ को विपरीत छ।",
@@ -6410,12 +6100,7 @@
    "Think",
    "Dismiss"
   ],
-  "options_ne": [
-   "मनन गर्नु",
-   "बेवास्ता गर्नु",
-   "सोच्नु",
-   "खारेज गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'think' is closest in meaning to 'consider'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘think’ को अर्थ ‘consider’ सँग सबैभन्दा नजिक छ।",
@@ -6479,12 +6164,7 @@
    "Dismiss",
    "Ignore"
   ],
-  "options_ne": [
-   "मनन गर्नु",
-   "सोच्नु",
-   "खारेज गर्नु",
-   "बेवास्ता गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'ignore' is opposite in meaning to 'consider'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ignore’ को अर्थ ‘consider’ को विपरीत छ।",
@@ -6617,12 +6297,7 @@
    "Exclude",
    "Hold"
   ],
-  "options_ne": [
-   "समावेश गर्नु",
-   "छोड्नु",
-   "बाहिर राख्नु",
-   "समात्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'include' is closest in meaning to 'contain'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘include’ को अर्थ ‘contain’ सँग सबैभन्दा नजिक छ।",
@@ -6686,12 +6361,7 @@
    "Hold",
    "Include"
   ],
-  "options_ne": [
-   "बाहिर राख्नु",
-   "छोड्नु",
-   "समात्नु",
-   "समावेश गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'exclude' is opposite in meaning to 'contain'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘exclude’ को अर्थ ‘contain’ को विपरीत छ।",
@@ -6824,12 +6494,7 @@
    "Discontent",
    "Angry"
   ],
-  "options_ne": [
-   "खुसी",
-   "सन्तुष्ट",
-   "असन्तुष्ट",
-   "रिसाएको"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'satisfied' is closest in meaning to 'content'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘satisfied’ को अर्थ ‘content’ सँग सबैभन्दा नजिक छ।",
@@ -6893,12 +6558,7 @@
    "Discontent",
    "Angry"
   ],
-  "options_ne": [
-   "खुसी",
-   "सन्तुष्ट",
-   "असन्तुष्ट",
-   "रिसाएको"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'discontent' is opposite in meaning to 'content'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘discontent’ को अर्थ ‘content’ को विपरीत छ।",
@@ -7031,12 +6691,7 @@
    "Freedom",
    "Chaos"
   ],
-  "options_ne": [
-   "शक्ति",
-   "आदेश",
-   "स्वतन्त्रता",
-   "अव्यवस्था"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'command' is closest in meaning to 'control'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘command’ को अर्थ ‘control’ सँग सबैभन्दा नजिक छ।",
@@ -7100,12 +6755,7 @@
    "Chaos",
    "Command"
   ],
-  "options_ne": [
-   "शक्ति",
-   "स्वतन्त्रता",
-   "अव्यवस्था",
-   "आदेश"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'freedom' is opposite in meaning to 'control'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘freedom’ को अर्थ ‘control’ को विपरीत छ।",
@@ -7238,12 +6888,7 @@
    "Boil",
    "Prepare"
   ],
-  "options_ne": [
-   "सेक्नु",
-   "खानु",
-   "उमाल्नु",
-   "तयार गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'prepare' is closest in meaning to 'cook'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘prepare’ को अर्थ ‘cook’ सँग सबैभन्दा नजिक छ।",
@@ -7307,12 +6952,7 @@
    "Bake",
    "Boil"
   ],
-  "options_ne": [
-   "तयार गर्नु",
-   "खानु",
-   "सेक्नु",
-   "उमाल्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'bake' is opposite in meaning to 'cook'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bake’ को अर्थ ‘cook’ को विपरीत छ।",
@@ -7445,12 +7085,7 @@
    "Model",
    "Original"
   ],
-  "options_ne": [
-   "नक्कल",
-   "प्रतिकृति",
-   "मोडेल",
-   "मौलिक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'duplicate' is closest in meaning to 'copy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘duplicate’ को अर्थ ‘copy’ सँग सबैभन्दा नजिक छ।",
@@ -7514,12 +7149,7 @@
    "Replica",
    "Model"
   ],
-  "options_ne": [
-   "मौलिक",
-   "नक्कल",
-   "प्रतिकृति",
-   "मोडेल"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'original' is opposite in meaning to 'copy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘original’ को अर्थ ‘copy’ को विपरीत छ।",
@@ -7652,12 +7282,7 @@
    "Wrong",
    "False"
   ],
-  "options_ne": [
-   "ठीक",
-   "सटीक",
-   "गलत",
-   "झुटो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'right' is closest in meaning to 'correct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘right’ को अर्थ ‘correct’ सँग सबैभन्दा नजिक छ।",
@@ -7721,12 +7346,7 @@
    "Right",
    "Wrong"
   ],
-  "options_ne": [
-   "सटीक",
-   "झुटो",
-   "ठीक",
-   "गलत"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'wrong' is opposite in meaning to 'correct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘wrong’ को अर्थ ‘correct’ को विपरीत छ।",
@@ -7827,12 +7447,7 @@
    "Palace",
    "Hut"
   ],
-  "options_ne": [
-   "घर",
-   "कुटी",
-   "दरबार",
-   "झुपडी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'hut' is closest in meaning to 'cottage'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hut’ को अर्थ ‘cottage’ सँग सबैभन्दा नजिक छ।",
@@ -7896,12 +7511,7 @@
    "Palace",
    "Cabin"
   ],
-  "options_ne": [
-   "घर",
-   "झुपडी",
-   "दरबार",
-   "कुटी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'house' is opposite in meaning to 'cottage'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘house’ को अर्थ ‘cottage’ को विपरीत छ।",
@@ -8002,12 +7612,7 @@
    "Fibre",
    "Wool"
   ],
-  "options_ne": [
-   "रेशम",
-   "नाइलन",
-   "रेशा",
-   "ऊन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'fibre' is closest in meaning to 'cotton'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘fibre’ को अर्थ ‘cotton’ सँग सबैभन्दा नजिक छ।",
@@ -8071,12 +7676,7 @@
    "Silk",
    "Nylon"
   ],
-  "options_ne": [
-   "रेशा",
-   "ऊन",
-   "रेशम",
-   "नाइलन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'silk' is opposite in meaning to 'cotton'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘silk’ को अर्थ ‘cotton’ को विपरीत छ।",
@@ -8209,12 +7809,7 @@
    "Sneeze",
    "Cold"
   ],
-  "options_ne": [
-   "खोक्नु",
-   "ज्वरो",
-   "हाच्छिउँ",
-   "रुघा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'hack' is closest in meaning to 'cough'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hack’ को अर्थ ‘cough’ सँग सबैभन्दा नजिक छ।",
@@ -8278,12 +7873,7 @@
    "Sneeze",
    "Cold"
   ],
-  "options_ne": [
-   "ज्वरो",
-   "खोक्नु",
-   "हाच्छिउँ",
-   "रुघा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'sneeze' is opposite in meaning to 'cough'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sneeze’ को अर्थ ‘cough’ को विपरीत छ।",
@@ -8416,12 +8006,7 @@
    "Committee",
    "Member"
   ],
-  "options_ne": [
-   "सभा",
-   "बोर्ड",
-   "समिति",
-   "सदस्य"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'committee' is closest in meaning to 'council'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘committee’ को अर्थ ‘council’ सँग सबैभन्दा नजिक छ।",
@@ -8485,12 +8070,7 @@
    "Board",
    "Committee"
   ],
-  "options_ne": [
-   "सभा",
-   "सदस्य",
-   "बोर्ड",
-   "समिति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'assembly' is opposite in meaning to 'council'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘assembly’ को अर्थ ‘council’ को विपरीत छ।",
@@ -8623,12 +8203,7 @@
    "Estimate",
    "Enumerate"
   ],
-  "options_ne": [
-   "बेवास्ता गर्नु",
-   "हिसाब गर्नु",
-   "अनुमान गर्नु",
-   "गणना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'enumerate' is closest in meaning to 'count'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘enumerate’ को अर्थ ‘count’ सँग सबैभन्दा नजिक छ।",
@@ -8692,12 +8267,7 @@
    "Estimate",
    "Ignore"
   ],
-  "options_ne": [
-   "गणना गर्नु",
-   "हिसाब गर्नु",
-   "अनुमान गर्नु",
-   "बेवास्ता गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'ignore' is opposite in meaning to 'count'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ignore’ को अर्थ ‘count’ को विपरीत छ।",
@@ -8830,12 +8400,7 @@
    "Nation",
    "City"
   ],
-  "options_ne": [
-   "भूमि",
-   "राज्य",
-   "राष्ट्र",
-   "सहर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'nation' is closest in meaning to 'country'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘nation’ को अर्थ ‘country’ सँग सबैभन्दा नजिक छ।",
@@ -8899,12 +8464,7 @@
    "Land",
    "State"
   ],
-  "options_ne": [
-   "सहर",
-   "राष्ट्र",
-   "भूमि",
-   "राज्य"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'state' is opposite in meaning to 'country'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘state’ को अर्थ ‘country’ को विपरीत छ।",
@@ -9037,12 +8597,7 @@
    "Curriculum",
    "Lesson"
   ],
-  "options_ne": [
-   "बाटो",
-   "विषय",
-   "पाठ्यक्रम",
-   "पाठ"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'curriculum' is closest in meaning to 'course'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘curriculum’ को अर्थ ‘course’ सँग सबैभन्दा नजिक छ।",
@@ -9106,12 +8661,7 @@
    "Path",
    "Curriculum"
   ],
-  "options_ne": [
-   "विषय",
-   "पाठ",
-   "बाटो",
-   "पाठ्यक्रम"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'subject' is opposite in meaning to 'course'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘subject’ को अर्थ ‘course’ को विपरीत छ।",
@@ -9244,12 +8794,7 @@
    "Tribunal",
    "Judge"
   ],
-  "options_ne": [
-   "बेन्च",
-   "कारागार",
-   "न्यायाधिकरण",
-   "न्यायाधीश"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'tribunal' is closest in meaning to 'court'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tribunal’ को अर्थ ‘court’ सँग सबैभन्दा नजिक छ।",
@@ -9313,12 +8858,7 @@
    "Tribunal",
    "Bench"
   ],
-  "options_ne": [
-   "कारागार",
-   "न्यायाधीश",
-   "न्यायाधिकरण",
-   "बेन्च"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'bench' is opposite in meaning to 'court'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bench’ को अर्थ ‘court’ को विपरीत छ।",
@@ -9451,12 +8991,7 @@
    "Mend",
    "Fix"
   ],
-  "options_ne": [
-   "फुट्नु",
-   "भाँच्नु",
-   "मर्मत गर्नु",
-   "ठीक गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'split' is closest in meaning to 'crack'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘split’ को अर्थ ‘crack’ सँग सबैभन्दा नजिक छ।",
@@ -9520,12 +9055,7 @@
    "Split",
    "Mend"
   ],
-  "options_ne": [
-   "भाँच्नु",
-   "ठीक गर्नु",
-   "फुट्नु",
-   "मर्मत गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'mend' is opposite in meaning to 'crack'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘mend’ को अर्थ ‘crack’ को विपरीत छ।",
@@ -9658,12 +9188,7 @@
    "Trade",
    "Art"
   ],
-  "options_ne": [
-   "सीप",
-   "काम",
-   "व्यापार",
-   "कला"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'skill' is closest in meaning to 'craft'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘skill’ को अर्थ ‘craft’ सँग सबैभन्दा नजिक छ।",
@@ -9727,12 +9252,7 @@
    "Skill",
    "Work"
   ],
-  "options_ne": [
-   "व्यापार",
-   "कला",
-   "सीप",
-   "काम"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'art' is opposite in meaning to 'craft'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘art’ को अर्थ ‘craft’ को विपरीत छ।",
@@ -9865,12 +9385,7 @@
    "Safety",
    "Accident"
   ],
-  "options_ne": [
-   "ठोकिनु",
-   "ठक्कर",
-   "सुरक्षा",
-   "दुर्घटना"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'collision' is closest in meaning to 'crash'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘collision’ को अर्थ ‘crash’ सँग सबैभन्दा नजिक छ।",
@@ -9934,12 +9449,7 @@
    "Smash",
    "Collision"
   ],
-  "options_ne": [
-   "सुरक्षा",
-   "दुर्घटना",
-   "ठोकिनु",
-   "ठक्कर"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'accident' is opposite in meaning to 'crash'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘accident’ को अर्थ ‘crash’ को विपरीत छ।",
@@ -10072,12 +9582,7 @@
    "Ruin",
    "Make"
   ],
-  "options_ne": [
-   "उत्पादन गर्नु",
-   "नष्ट गर्नु",
-   "बिगार्नु",
-   "बनाउनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'make' is closest in meaning to 'create'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘make’ को अर्थ ‘create’ सँग सबैभन्दा नजिक छ।",
@@ -10109,12 +9614,7 @@
    "Destroy",
    "Make"
   ],
-  "options_ne": [
-   "बिगार्नु",
-   "उत्पादन गर्नु",
-   "नष्ट गर्नु",
-   "बनाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'destroy' is opposite in meaning to 'create'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘destroy’ को अर्थ ‘create’ को विपरीत छ।",
@@ -10247,12 +9747,7 @@
    "Praise",
    "Debt"
   ],
-  "options_ne": [
-   "दोष",
-   "विश्वास",
-   "प्रशंसा",
-   "ऋण"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'praise' is closest in meaning to 'credit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘praise’ को अर्थ ‘credit’ सँग सबैभन्दा नजिक छ।",
@@ -10316,12 +9811,7 @@
    "Blame",
    "Trust"
   ],
-  "options_ne": [
-   "प्रशंसा",
-   "ऋण",
-   "दोष",
-   "विश्वास"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'blame' is opposite in meaning to 'credit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘blame’ को अर्थ ‘credit’ को विपरीत छ।",
@@ -10454,12 +9944,7 @@
    "Offence",
    "Law"
   ],
-  "options_ne": [
-   "गुण",
-   "पाप",
-   "कसुर",
-   "कानुन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'offence' is closest in meaning to 'crime'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘offence’ को अर्थ ‘crime’ सँग सबैभन्दा नजिक छ।",
@@ -10523,12 +10008,7 @@
    "Sin",
    "Offence"
   ],
-  "options_ne": [
-   "गुण",
-   "कानुन",
-   "पाप",
-   "कसुर"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'virtue' is opposite in meaning to 'crime'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘virtue’ को अर्थ ‘crime’ को विपरीत छ।",
@@ -10661,12 +10141,7 @@
    "Danger",
    "Safety"
   ],
-  "options_ne": [
-   "आपतकाल",
-   "स्थिरता",
-   "खतरा",
-   "सुरक्षा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'emergency' is closest in meaning to 'crisis'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘emergency’ को अर्थ ‘crisis’ सँग सबैभन्दा नजिक छ।",
@@ -10730,12 +10205,7 @@
    "Stability",
    "Danger"
   ],
-  "options_ne": [
-   "आपतकाल",
-   "सुरक्षा",
-   "स्थिरता",
-   "खतरा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'stability' is opposite in meaning to 'crisis'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘stability’ को अर्थ ‘crisis’ को विपरीत छ।",
@@ -10868,12 +10338,7 @@
    "Supporter",
    "Judge"
   ],
-  "options_ne": [
-   "समीक्षक",
-   "प्रशंसक",
-   "समर्थक",
-   "न्यायाधीश"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'reviewer' is closest in meaning to 'critic'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘reviewer’ को अर्थ ‘critic’ सँग सबैभन्दा नजिक छ।",
@@ -10937,12 +10402,7 @@
    "Judge",
    "Reviewer"
   ],
-  "options_ne": [
-   "प्रशंसक",
-   "समर्थक",
-   "न्यायाधीश",
-   "समीक्षक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'supporter' is opposite in meaning to 'critic'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘supporter’ को अर्थ ‘critic’ को विपरीत छ।",
@@ -11075,12 +10535,7 @@
    "Harvest",
    "Plant"
   ],
-  "options_ne": [
-   "उपज",
-   "बीउ",
-   "फसल",
-   "बिरुवा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'harvest' is closest in meaning to 'crop'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘harvest’ को अर्थ ‘crop’ सँग सबैभन्दा नजिक छ।",
@@ -11144,12 +10599,7 @@
    "Seed",
    "Yield"
   ],
-  "options_ne": [
-   "बिरुवा",
-   "फसल",
-   "बीउ",
-   "उपज"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'yield' is opposite in meaning to 'crop'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘yield’ को अर्थ ‘crop’ को विपरीत छ।",
@@ -11250,12 +10700,7 @@
    "Stay",
    "Traverse"
   ],
-  "options_ne": [
-   "जानु",
-   "फर्कनु",
-   "बस्नु",
-   "पार गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'traverse' is closest in meaning to 'cross'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘traverse’ को अर्थ ‘cross’ सँग सबैभन्दा नजिक छ।",
@@ -11319,12 +10764,7 @@
    "Return",
    "Stay"
   ],
-  "options_ne": [
-   "पार गर्नु",
-   "जानु",
-   "फर्कनु",
-   "बस्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'stay' is opposite in meaning to 'cross'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘stay’ को अर्थ ‘cross’ को विपरीत छ।",
@@ -11457,12 +10897,7 @@
    "Group",
    "Individual"
   ],
-  "options_ne": [
-   "सभा",
-   "हुल",
-   "समूह",
-   "व्यक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'throng' is closest in meaning to 'crowd'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘throng’ को अर्थ ‘crowd’ सँग सबैभन्दा नजिक छ।",
@@ -11526,12 +10961,7 @@
    "Group",
    "Throng"
   ],
-  "options_ne": [
-   "सभा",
-   "व्यक्ति",
-   "समूह",
-   "हुल"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'group' is opposite in meaning to 'crowd'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘group’ को अर्थ ‘crowd’ को विपरीत छ।",
@@ -11664,12 +11094,7 @@
    "Tradition",
    "Nature"
   ],
-  "options_ne": [
-   "सभ्यता",
-   "चलन",
-   "परम्परा",
-   "प्रकृति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'civilisation' is closest in meaning to 'culture'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘civilisation’ को अर्थ ‘culture’ सँग सबैभन्दा नजिक छ।",
@@ -11733,12 +11158,7 @@
    "Civilisation",
    "Nature"
   ],
-  "options_ne": [
-   "परम्परा",
-   "चलन",
-   "सभ्यता",
-   "प्रकृति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'tradition' is opposite in meaning to 'culture'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tradition’ को अर्थ ‘culture’ को विपरीत छ।",
@@ -11871,12 +11291,7 @@
    "Past",
    "Modern"
   ],
-  "options_ne": [
-   "पुरानो",
-   "वर्तमान",
-   "विगत",
-   "आधुनिक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'present' is closest in meaning to 'current'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘present’ को अर्थ ‘current’ सँग सबैभन्दा नजिक छ।",
@@ -11940,12 +11355,7 @@
    "Modern",
    "Past"
   ],
-  "options_ne": [
-   "पुरानो",
-   "वर्तमान",
-   "आधुनिक",
-   "विगत"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'past' is opposite in meaning to 'current'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘past’ को अर्थ ‘current’ को विपरीत छ।",
@@ -12046,12 +11456,7 @@
    "Innovation",
    "Practice"
   ],
-  "options_ne": [
-   "बानी",
-   "परम्परा",
-   "नवीनता",
-   "अभ्यास"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'tradition' is closest in meaning to 'custom'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tradition’ को अर्थ ‘custom’ सँग सबैभन्दा नजिक छ।",
@@ -12084,9 +11489,9 @@
    "Habit"
   ],
   "options_ne": null,
-  "answer": 3,
-  "explanation": "The opposite of 'custom' is 'habit'.",
-  "explanation_ne": "‘custom’ को विलोम ‘habit’ हो।",
+  "answer": 0,
+  "explanation": "The opposite of 'custom' is 'innovation'.",
+  "explanation_ne": "‘custom’ को विलोम ‘innovation’ हो।",
   "source": "Original practice question — Lok Sewa Prep Nepal"
  },
  {
@@ -12115,12 +11520,7 @@
    "Practice",
    "Habit"
   ],
-  "options_ne": [
-   "नवीनता",
-   "परम्परा",
-   "अभ्यास",
-   "बानी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'habit' is opposite in meaning to 'custom'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘habit’ को अर्थ ‘custom’ को विपरीत छ।",
@@ -12253,12 +11653,7 @@
    "Regular",
    "Weekly"
   ],
-  "options_ne": [
-   "प्रतिदिन",
-   "विरलै",
-   "नियमित",
-   "साप्ताहिक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'everyday' is closest in meaning to 'daily'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘everyday’ को अर्थ ‘daily’ सँग सबैभन्दा नजिक छ।",
@@ -12322,12 +11717,7 @@
    "Weekly",
    "Regular"
   ],
-  "options_ne": [
-   "प्रतिदिन",
-   "विरलै",
-   "साप्ताहिक",
-   "नियमित"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'weekly' is opposite in meaning to 'daily'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘weekly’ को अर्थ ‘daily’ को विपरीत छ।",
@@ -12460,12 +11850,7 @@
    "Performance",
    "Stillness"
   ],
-  "options_ne": [
-   "गीत",
-   "लय",
-   "प्रस्तुति",
-   "स्थिरता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'performance' is closest in meaning to 'dance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘performance’ को अर्थ ‘dance’ सँग सबैभन्दा नजिक छ।",
@@ -12529,12 +11914,7 @@
    "Rhythm",
    "Song"
   ],
-  "options_ne": [
-   "स्थिरता",
-   "प्रस्तुति",
-   "लय",
-   "गीत"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'song' is opposite in meaning to 'dance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘song’ को अर्थ ‘dance’ को विपरीत छ।",
@@ -12667,12 +12047,7 @@
    "Facts",
    "Information"
   ],
-  "options_ne": [
-   "विचार",
-   "अङ्कहरू",
-   "तथ्यहरू",
-   "जानकारी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'information' is closest in meaning to 'data'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘information’ को अर्थ ‘data’ सँग सबैभन्दा नजिक छ।",
@@ -12736,12 +12111,7 @@
    "Figures",
    "Opinion"
   ],
-  "options_ne": [
-   "जानकारी",
-   "तथ्यहरू",
-   "अङ्कहरू",
-   "विचार"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'facts' is opposite in meaning to 'data'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘facts’ को अर्थ ‘data’ को विपरीत छ।",
@@ -12874,12 +12244,7 @@
    "Appointment",
    "Day"
   ],
-  "options_ne": [
-   "घटना",
-   "समय",
-   "भेटघाट",
-   "दिन"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'day' is closest in meaning to 'date'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘day’ को अर्थ ‘date’ सँग सबैभन्दा नजिक छ।",
@@ -12943,12 +12308,7 @@
    "Appointment",
    "Time"
   ],
-  "options_ne": [
-   "घटना",
-   "दिन",
-   "भेटघाट",
-   "समय"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'time' is opposite in meaning to 'date'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘time’ को अर्थ ‘date’ को विपरीत छ।",
@@ -13081,12 +12441,7 @@
    "Girl",
    "Mother"
   ],
-  "options_ne": [
-   "छोरा",
-   "बालक",
-   "केटी",
-   "आमा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'girl' is closest in meaning to 'daughter'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘girl’ को अर्थ ‘daughter’ सँग सबैभन्दा नजिक छ।",
@@ -13150,12 +12505,7 @@
    "Mother",
    "Son"
   ],
-  "options_ne": [
-   "केटी",
-   "बालक",
-   "आमा",
-   "छोरा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'son' is opposite in meaning to 'daughter'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘son’ को अर्थ ‘daughter’ को विपरीत छ।",
@@ -13288,12 +12638,7 @@
    "Living",
    "Lifeless"
   ],
-  "options_ne": [
-   "जीवित",
-   "मृतक",
-   "बाँचिरहेको",
-   "निर्जीव"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'lifeless' is closest in meaning to 'dead'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘lifeless’ को अर्थ ‘dead’ सँग सबैभन्दा नजिक छ।",
@@ -13357,12 +12702,7 @@
    "Alive",
    "Living"
   ],
-  "options_ne": [
-   "मृतक",
-   "निर्जीव",
-   "जीवित",
-   "बाँचिरहेको"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'alive' is opposite in meaning to 'dead'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘alive’ को अर्थ ‘dead’ को विपरीत छ।",
@@ -13463,12 +12803,7 @@
    "Transaction",
    "Dispute"
   ],
-  "options_ne": [
-   "सहमति",
-   "सौदा",
-   "लेनदेन",
-   "विवाद"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'agreement' is closest in meaning to 'deal'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘agreement’ को अर्थ ‘deal’ सँग सबैभन्दा नजिक छ।",
@@ -13532,12 +12867,7 @@
    "Agreement",
    "Dispute"
   ],
-  "options_ne": [
-   "सौदा",
-   "लेनदेन",
-   "सहमति",
-   "विवाद"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'bargain' is opposite in meaning to 'deal'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bargain’ को अर्थ ‘deal’ को विपरीत छ।",
@@ -13670,12 +13000,7 @@
    "Loved",
    "Beloved"
   ],
-  "options_ne": [
-   "घृणित",
-   "सस्तो",
-   "मायालु",
-   "प्यारो"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'beloved' is closest in meaning to 'dear'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘beloved’ को अर्थ ‘dear’ सँग सबैभन्दा नजिक छ।",
@@ -13739,12 +13064,7 @@
    "Cheap",
    "Loved"
   ],
-  "options_ne": [
-   "घृणित",
-   "प्यारो",
-   "सस्तो",
-   "मायालु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'cheap' is opposite in meaning to 'dear'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cheap’ को अर्थ ‘dear’ को विपरीत छ।",
@@ -13845,12 +13165,7 @@
    "Life",
    "Birth"
   ],
-  "options_ne": [
-   "अन्त्य",
-   "निधन",
-   "जीवन",
-   "जन्म"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'demise' is closest in meaning to 'death'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘demise’ को अर्थ ‘death’ सँग सबैभन्दा नजिक छ।",
@@ -13914,12 +13229,7 @@
    "Birth",
    "Life"
   ],
-  "options_ne": [
-   "अन्त्य",
-   "निधन",
-   "जन्म",
-   "जीवन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'birth' is opposite in meaning to 'death'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘birth’ को अर्थ ‘death’ को विपरीत छ।",
@@ -14052,12 +13362,7 @@
    "Agreement",
    "Discussion"
   ],
-  "options_ne": [
-   "कुराकानी",
-   "बहस",
-   "सहमति",
-   "छलफल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'discussion' is closest in meaning to 'debate'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘discussion’ को अर्थ ‘debate’ सँग सबैभन्दा नजिक छ।",
@@ -14121,12 +13426,7 @@
    "Discussion",
    "Talk"
   ],
-  "options_ne": [
-   "बहस",
-   "सहमति",
-   "छलफल",
-   "कुराकानी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'argument' is opposite in meaning to 'debate'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘argument’ को अर्थ ‘debate’ को विपरीत छ।",
@@ -14259,12 +13559,7 @@
    "Asset",
    "Loan"
   ],
-  "options_ne": [
-   "दायित्व",
-   "उधारो",
-   "सम्पत्ति",
-   "सापटी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'loan' is closest in meaning to 'debt'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘loan’ को अर्थ ‘debt’ सँग सबैभन्दा नजिक छ।",
@@ -14328,12 +13623,7 @@
    "Credit",
    "Asset"
   ],
-  "options_ne": [
-   "सापटी",
-   "दायित्व",
-   "उधारो",
-   "सम्पत्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'credit' is opposite in meaning to 'debt'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘credit’ को अर्थ ‘debt’ को विपरीत छ।",
@@ -14466,12 +13756,7 @@
    "Year",
    "Period"
   ],
-  "options_ne": [
-   "दस वर्ष",
-   "शताब्दी",
-   "वर्ष",
-   "अवधि"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'ten years' is closest in meaning to 'decade'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ten years’ को अर्थ ‘decade’ सँग सबैभन्दा नजिक छ।",
@@ -14535,12 +13820,7 @@
    "Period",
    "Year"
   ],
-  "options_ne": [
-   "दस वर्ष",
-   "शताब्दी",
-   "अवधि",
-   "वर्ष"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'year' is opposite in meaning to 'decade'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘year’ को अर्थ ‘decade’ को विपरीत छ।",
@@ -14673,12 +13953,7 @@
    "Hesitate",
    "Delay"
   ],
-  "options_ne": [
-   "सङ्कल्प गर्नु",
-   "निर्धारण गर्नु",
-   "हिचकिचाउनु",
-   "ढिलाइ गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'resolve' is closest in meaning to 'decide'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘resolve’ को अर्थ ‘decide’ सँग सबैभन्दा नजिक छ।",
@@ -14742,12 +14017,7 @@
    "Determine",
    "Delay"
   ],
-  "options_ne": [
-   "सङ्कल्प गर्नु",
-   "हिचकिचाउनु",
-   "निर्धारण गर्नु",
-   "ढिलाइ गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'hesitate' is opposite in meaning to 'decide'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hesitate’ को अर्थ ‘decide’ को विपरीत छ।",
@@ -14880,12 +14150,7 @@
    "Judgement",
    "Verdict"
   ],
-  "options_ne": [
-   "शङ्का",
-   "छनोट",
-   "निर्णय",
-   "फैसला"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'verdict' is closest in meaning to 'decision'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘verdict’ को अर्थ ‘decision’ सँग सबैभन्दा नजिक छ।",
@@ -14949,12 +14214,7 @@
    "Verdict",
    "Judgement"
   ],
-  "options_ne": [
-   "शङ्का",
-   "छनोट",
-   "फैसला",
-   "निर्णय"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'choice' is opposite in meaning to 'decision'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘choice’ को अर्थ ‘decision’ को विपरीत छ।",
@@ -15087,12 +14347,7 @@
    "Fall",
    "Rise"
   ],
-  "options_ne": [
-   "कम हुनु",
-   "बढ्नु",
-   "खस्नु",
-   "उठ्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'decrease' is closest in meaning to 'decline'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘decrease’ को अर्थ ‘decline’ सँग सबैभन्दा नजिक छ।",
@@ -15156,12 +14411,7 @@
    "Fall",
    "Increase"
   ],
-  "options_ne": [
-   "उठ्नु",
-   "कम हुनु",
-   "खस्नु",
-   "बढ्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'increase' is opposite in meaning to 'decline'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘increase’ को अर्थ ‘decline’ को विपरीत छ।",
@@ -15262,12 +14512,7 @@
    "Profound",
    "Abyss"
   ],
-  "options_ne": [
-   "सतह",
-   "उथलो",
-   "गहन",
-   "खाडल"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'profound' is closest in meaning to 'deep'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘profound’ को अर्थ ‘deep’ सँग सबैभन्दा नजिक छ।",
@@ -15299,12 +14544,7 @@
    "Abyss",
    "Profound"
   ],
-  "options_ne": [
-   "उथलो",
-   "सतह",
-   "खाडल",
-   "गहन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'shallow' is opposite in meaning to 'deep'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘shallow’ को अर्थ ‘deep’ को विपरीत छ।",
@@ -15437,12 +14677,7 @@
    "State",
    "Describe"
   ],
-  "options_ne": [
-   "व्याख्या गर्नु",
-   "अलमल्याउनु",
-   "बताउनु",
-   "वर्णन गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'explain' is closest in meaning to 'define'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘explain’ को अर्थ ‘define’ सँग सबैभन्दा नजिक छ।",
@@ -15506,12 +14741,7 @@
    "State",
    "Explain"
   ],
-  "options_ne": [
-   "अलमल्याउनु",
-   "वर्णन गर्नु",
-   "बताउनु",
-   "व्याख्या गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'describe' is opposite in meaning to 'define'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘describe’ को अर्थ ‘define’ को विपरीत छ।",
@@ -15644,12 +14874,7 @@
    "Grade",
    "Extent"
   ],
-  "options_ne": [
-   "एकाइ",
-   "स्तर",
-   "श्रेणी",
-   "हद"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'level' is closest in meaning to 'degree'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘level’ को अर्थ ‘degree’ सँग सबैभन्दा नजिक छ।",
@@ -15713,12 +14938,7 @@
    "Level",
    "Unit"
   ],
-  "options_ne": [
-   "श्रेणी",
-   "हद",
-   "स्तर",
-   "एकाइ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'grade' is opposite in meaning to 'degree'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘grade’ को अर्थ ‘degree’ को विपरीत छ।",
@@ -15851,12 +15071,7 @@
    "Late",
    "Promptness"
   ],
-  "options_ne": [
-   "चाँडो",
-   "स्थगन",
-   "ढिलो",
-   "तत्परता"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'postponement' is closest in meaning to 'delay'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘postponement’ को अर्थ ‘delay’ सँग सबैभन्दा नजिक छ।",
@@ -15920,12 +15135,7 @@
    "Promptness",
    "Late"
   ],
-  "options_ne": [
-   "स्थगन",
-   "चाँडो",
-   "तत्परता",
-   "ढिलो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'promptness' is opposite in meaning to 'delay'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘promptness’ को अर्थ ‘delay’ को विपरीत छ।",
@@ -16058,12 +15268,7 @@
    "Keep",
    "Send"
   ],
-  "options_ne": [
-   "प्राप्त गर्नु",
-   "पुर्‍याउनु",
-   "राख्नु",
-   "पठाउनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'convey' is closest in meaning to 'deliver'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘convey’ को अर्थ ‘deliver’ सँग सबैभन्दा नजिक छ।",
@@ -16127,12 +15332,7 @@
    "Send",
    "Convey"
   ],
-  "options_ne": [
-   "प्राप्त गर्नु",
-   "राख्नु",
-   "पठाउनु",
-   "पुर्‍याउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'receive' is opposite in meaning to 'deliver'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘receive’ को अर्थ ‘deliver’ को विपरीत छ।",
@@ -16265,12 +15465,7 @@
    "Republic",
    "Freedom"
   ],
-  "options_ne": [
-   "तानाशाही",
-   "शासन",
-   "गणतन्त्र",
-   "स्वतन्त्रता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'republic' is closest in meaning to 'democracy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘republic’ को अर्थ ‘democracy’ सँग सबैभन्दा नजिक छ।",
@@ -16334,12 +15529,7 @@
    "Rule",
    "Republic"
   ],
-  "options_ne": [
-   "तानाशाही",
-   "स्वतन्त्रता",
-   "शासन",
-   "गणतन्त्र"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'freedom' is opposite in meaning to 'democracy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘freedom’ को अर्थ ‘democracy’ को विपरीत छ।",
@@ -16472,12 +15662,7 @@
    "Hide",
    "Explain"
   ],
-  "options_ne": [
-   "वर्णन गर्नु",
-   "चित्रण गर्नु",
-   "लुकाउनु",
-   "व्याख्या गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'portray' is closest in meaning to 'describe'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘portray’ को अर्थ ‘describe’ सँग सबैभन्दा नजिक छ।",
@@ -16541,12 +15726,7 @@
    "Explain",
    "Hide"
   ],
-  "options_ne": [
-   "चित्रण गर्नु",
-   "वर्णन गर्नु",
-   "व्याख्या गर्नु",
-   "लुकाउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'explain' is opposite in meaning to 'describe'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘explain’ को अर्थ ‘describe’ को विपरीत छ।",
@@ -16679,12 +15859,7 @@
    "Arid",
    "Forest"
   ],
-  "options_ne": [
-   "उजाड",
-   "मरुद्यान",
-   "सुक्खा",
-   "जङ्गल"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'wasteland' is closest in meaning to 'desert'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘wasteland’ को अर्थ ‘desert’ सँग सबैभन्दा नजिक छ।",
@@ -16748,12 +15923,7 @@
    "Oasis",
    "Arid"
   ],
-  "options_ne": [
-   "जङ्गल",
-   "उजाड",
-   "मरुद्यान",
-   "सुक्खा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'oasis' is opposite in meaning to 'desert'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘oasis’ को अर्थ ‘desert’ को विपरीत छ।",
@@ -16886,12 +16056,7 @@
    "Pattern",
    "Layout"
   ],
-  "options_ne": [
-   "निर्माण",
-   "योजना",
-   "ढाँचा",
-   "विन्यास"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'plan' is closest in meaning to 'design'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘plan’ को अर्थ ‘design’ सँग सबैभन्दा नजिक छ।",
@@ -16955,12 +16120,7 @@
    "Plan",
    "Pattern"
   ],
-  "options_ne": [
-   "निर्माण",
-   "विन्यास",
-   "योजना",
-   "ढाँचा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'pattern' is opposite in meaning to 'design'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘pattern’ को अर्थ ‘design’ को विपरीत छ।",
@@ -17093,12 +16253,7 @@
    "Table",
    "Counter"
   ],
-  "options_ne": [
-   "कुर्सी",
-   "कार्यस्थल",
-   "टेबल",
-   "काउन्टर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'table' is closest in meaning to 'desk'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘table’ को अर्थ ‘desk’ सँग सबैभन्दा नजिक छ।",
@@ -17162,12 +16317,7 @@
    "Chair",
    "Table"
   ],
-  "options_ne": [
-   "कार्यस्थल",
-   "काउन्टर",
-   "कुर्सी",
-   "टेबल"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'counter' is opposite in meaning to 'desk'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘counter’ को अर्थ ‘desk’ को विपरीत छ।",
@@ -17300,12 +16450,7 @@
    "Notwithstanding",
    "Therefore"
   ],
-  "options_ne": [
-   "किनभने",
-   "यद्यपि",
-   "तथापि",
-   "त्यसैले"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'although' is closest in meaning to 'despite'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘although’ को अर्थ ‘despite’ सँग सबैभन्दा नजिक छ।",
@@ -17369,12 +16514,7 @@
    "Although",
    "Therefore"
   ],
-  "options_ne": [
-   "तथापि",
-   "किनभने",
-   "यद्यपि",
-   "त्यसैले"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'because' is opposite in meaning to 'despite'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘because’ को अर्थ ‘despite’ को विपरीत छ।",
@@ -17507,12 +16647,7 @@
    "Whole",
    "Fact"
   ],
-  "options_ne": [
-   "सारांश",
-   "विशेष",
-   "पूरै",
-   "तथ्य"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'particular' is closest in meaning to 'detail'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘particular’ को अर्थ ‘detail’ सँग सबैभन्दा नजिक छ।",
@@ -17576,12 +16711,7 @@
    "Fact",
    "Summary"
   ],
-  "options_ne": [
-   "विशेष",
-   "पूरै",
-   "तथ्य",
-   "सारांश"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'summary' is opposite in meaning to 'detail'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘summary’ को अर्थ ‘detail’ को विपरीत छ।",
@@ -17714,12 +16844,7 @@
    "Machine",
    "Gadget"
   ],
-  "options_ne": [
-   "यन्त्र",
-   "औजार",
-   "मेसिन",
-   "उपकरण"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'gadget' is closest in meaning to 'device'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘gadget’ को अर्थ ‘device’ सँग सबैभन्दा नजिक छ।",
@@ -17783,12 +16908,7 @@
    "Machine",
    "Instrument"
   ],
-  "options_ne": [
-   "औजार",
-   "उपकरण",
-   "मेसिन",
-   "यन्त्र"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'tool' is opposite in meaning to 'device'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘tool’ को अर्थ ‘device’ को विपरीत छ।",
@@ -17921,12 +17041,7 @@
    "Discussion",
    "Silence"
   ],
-  "options_ne": [
-   "एकल संवाद",
-   "कुराकानी",
-   "छलफल",
-   "मौनता"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'conversation' is closest in meaning to 'dialogue'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘conversation’ को अर्थ ‘dialogue’ सँग सबैभन्दा नजिक छ।",
@@ -17990,12 +17105,7 @@
    "Conversation",
    "Monologue"
   ],
-  "options_ne": [
-   "मौनता",
-   "छलफल",
-   "कुराकानी",
-   "एकल संवाद"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'monologue' is opposite in meaning to 'dialogue'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘monologue’ को अर्थ ‘dialogue’ को विपरीत छ।",
@@ -18128,12 +17238,7 @@
    "Journal",
    "Notebook"
   ],
-  "options_ne": [
-   "अभिलेख",
-   "किताब",
-   "दैनिकी",
-   "नोटबुक"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'journal' is closest in meaning to 'diary'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘journal’ को अर्थ ‘diary’ सँग सबैभन्दा नजिक छ।",
@@ -18197,12 +17302,7 @@
    "Journal",
    "Notebook"
   ],
-  "options_ne": [
-   "अभिलेख",
-   "किताब",
-   "दैनिकी",
-   "नोटबुक"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'notebook' is opposite in meaning to 'diary'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘notebook’ को अर्थ ‘diary’ को विपरीत छ।",
@@ -18335,12 +17435,7 @@
    "Agree",
    "Contrast"
   ],
-  "options_ne": [
-   "मेल खानु",
-   "भिन्न हुनु",
-   "सहमत हुनु",
-   "तुलना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'vary' is closest in meaning to 'differ'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘vary’ को अर्थ ‘differ’ सँग सबैभन्दा नजिक छ।",
@@ -18404,12 +17499,7 @@
    "Vary",
    "Contrast"
   ],
-  "options_ne": [
-   "सहमत हुनु",
-   "मेल खानु",
-   "भिन्न हुनु",
-   "तुलना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'agree' is opposite in meaning to 'differ'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘agree’ को अर्थ ‘differ’ को विपरीत छ।",
@@ -18542,12 +17632,7 @@
    "Fill",
    "Bury"
   ],
-  "options_ne": [
-   "बेल्चा",
-   "उत्खनन गर्नु",
-   "भर्नु",
-   "गाड्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'excavate' is closest in meaning to 'dig'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘excavate’ को अर्थ ‘dig’ सँग सबैभन्दा नजिक छ।",
@@ -18611,12 +17696,7 @@
    "Shovel",
    "Bury"
   ],
-  "options_ne": [
-   "उत्खनन गर्नु",
-   "भर्नु",
-   "बेल्चा",
-   "गाड्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'bury' is opposite in meaning to 'dig'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bury’ को अर्थ ‘dig’ को विपरीत छ।",
@@ -18749,12 +17829,7 @@
    "Lunch",
    "Meal"
   ],
-  "options_ne": [
-   "रातिको खाना",
-   "बिहानको खाना",
-   "दिउँसोको खाना",
-   "खाना"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'supper' is closest in meaning to 'dinner'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘supper’ को अर्थ ‘dinner’ सँग सबैभन्दा नजिक छ।",
@@ -18818,12 +17893,7 @@
    "Lunch",
    "Meal"
   ],
-  "options_ne": [
-   "बिहानको खाना",
-   "रातिको खाना",
-   "दिउँसोको खाना",
-   "खाना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'lunch' is opposite in meaning to 'dinner'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘lunch’ को अर्थ ‘dinner’ को विपरीत छ।",
@@ -18956,12 +18026,7 @@
    "Indirect",
    "Roundabout"
   ],
-  "options_ne": [
-   "तत्काल",
-   "सिधा",
-   "अप्रत्यक्ष",
-   "घुमाउरो"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'straight' is closest in meaning to 'direct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘straight’ को अर्थ ‘direct’ सँग सबैभन्दा नजिक छ।",
@@ -19025,12 +18090,7 @@
    "Straight",
    "Indirect"
   ],
-  "options_ne": [
-   "तत्काल",
-   "घुमाउरो",
-   "सिधा",
-   "अप्रत्यक्ष"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'indirect' is opposite in meaning to 'direct'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘indirect’ को अर्थ ‘direct’ को विपरीत छ।",
@@ -19163,12 +18223,7 @@
    "Mud",
    "Cleanliness"
   ],
-  "options_ne": [
-   "माटो",
-   "धुलो",
-   "हिलो",
-   "सफाइ"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'soil' is closest in meaning to 'dirt'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘soil’ को अर्थ ‘dirt’ सँग सबैभन्दा नजिक छ।",
@@ -19232,12 +18287,7 @@
    "Mud",
    "Soil"
   ],
-  "options_ne": [
-   "सफाइ",
-   "धुलो",
-   "हिलो",
-   "माटो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'mud' is opposite in meaning to 'dirt'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘mud’ को अर्थ ‘dirt’ को विपरीत छ।",
@@ -19338,12 +18388,7 @@
    "Debate",
    "Argue"
   ],
-  "options_ne": [
-   "कुराकानी गर्नु",
-   "बेवास्ता गर्नु",
-   "वादविवाद गर्नु",
-   "बहस गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'debate' is closest in meaning to 'discuss'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘debate’ को अर्थ ‘discuss’ सँग सबैभन्दा नजिक छ।",
@@ -19407,12 +18452,7 @@
    "Talk",
    "Debate"
   ],
-  "options_ne": [
-   "बेवास्ता गर्नु",
-   "बहस गर्नु",
-   "कुराकानी गर्नु",
-   "वादविवाद गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'talk' is opposite in meaning to 'discuss'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘talk’ को अर्थ ‘discuss’ को विपरीत छ।",
@@ -19545,12 +18585,7 @@
    "Gap",
    "Length"
   ],
-  "options_ne": [
-   "ठाउँ",
-   "नजिक",
-   "अन्तर",
-   "लम्बाइ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'length' is closest in meaning to 'distance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘length’ को अर्थ ‘distance’ सँग सबैभन्दा नजिक छ।",
@@ -19614,12 +18649,7 @@
    "Length",
    "Gap"
   ],
-  "options_ne": [
-   "ठाउँ",
-   "नजिक",
-   "लम्बाइ",
-   "अन्तर"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'gap' is opposite in meaning to 'distance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘gap’ को अर्थ ‘distance’ को विपरीत छ।",
@@ -19752,12 +18782,7 @@
    "Surgeon",
    "Patient"
   ],
-  "options_ne": [
-   "चिकित्सक",
-   "नर्स",
-   "शल्यक्रिया विशेषज्ञ",
-   "बिरामी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'physician' is closest in meaning to 'doctor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘physician’ को अर्थ ‘doctor’ सँग सबैभन्दा नजिक छ।",
@@ -19821,12 +18846,7 @@
    "Physician",
    "Surgeon"
   ],
-  "options_ne": [
-   "नर्स",
-   "बिरामी",
-   "चिकित्सक",
-   "शल्यक्रिया विशेषज्ञ"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'patient' is opposite in meaning to 'doctor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘patient’ को अर्थ ‘doctor’ को विपरीत छ।",
@@ -19959,12 +18979,7 @@
    "Paper",
    "Record"
   ],
-  "options_ne": [
-   "प्रमाणपत्र",
-   "फाइल",
-   "कागज",
-   "अभिलेख"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'record' is closest in meaning to 'document'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘record’ को अर्थ ‘document’ सँग सबैभन्दा नजिक छ।",
@@ -20028,12 +19043,7 @@
    "Certificate",
    "File"
   ],
-  "options_ne": [
-   "कागज",
-   "अभिलेख",
-   "प्रमाणपत्र",
-   "फाइल"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'paper' is opposite in meaning to 'document'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘paper’ को अर्थ ‘document’ को विपरीत छ।",
@@ -20166,12 +19176,7 @@
    "Coin",
    "Currency"
   ],
-  "options_ne": [
-   "पैसा",
-   "रुपियाँ",
-   "सिक्का",
-   "मुद्रा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'currency' is closest in meaning to 'dollar'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘currency’ को अर्थ ‘dollar’ सँग सबैभन्दा नजिक छ।",
@@ -20235,12 +19240,7 @@
    "Coin",
    "Currency"
   ],
-  "options_ne": [
-   "रुपियाँ",
-   "पैसा",
-   "सिक्का",
-   "मुद्रा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'rupee' is opposite in meaning to 'dollar'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘rupee’ को अर्थ ‘dollar’ को विपरीत छ।",
@@ -20373,12 +19373,7 @@
    "Window",
    "Wall"
   ],
-  "options_ne": [
-   "प्रवेशद्वार",
-   "गेट",
-   "झ्याल",
-   "पर्खाल"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'gate' is closest in meaning to 'door'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘gate’ को अर्थ ‘door’ सँग सबैभन्दा नजिक छ।",
@@ -20442,12 +19437,7 @@
    "Gate",
    "Wall"
   ],
-  "options_ne": [
-   "झ्याल",
-   "प्रवेशद्वार",
-   "गेट",
-   "पर्खाल"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'entrance' is opposite in meaning to 'door'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘entrance’ को अर्थ ‘door’ को विपरीत छ।",
@@ -20580,12 +19570,7 @@
    "Twice",
    "Single"
   ],
-  "options_ne": [
-   "आधा",
-   "नक्कल",
-   "दुई गुणा",
-   "एकल"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'twice' is closest in meaning to 'double'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘twice’ को अर्थ ‘double’ सँग सबैभन्दा नजिक छ।",
@@ -20649,12 +19634,7 @@
    "Half",
    "Duplicate"
   ],
-  "options_ne": [
-   "दुई गुणा",
-   "एकल",
-   "आधा",
-   "नक्कल"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'single' is opposite in meaning to 'double'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘single’ को अर्थ ‘double’ को विपरीत छ।",
@@ -20787,12 +19767,7 @@
    "Hundred",
    "Twelve"
   ],
-  "options_ne": [
-   "एकाइ",
-   "जोडी",
-   "सय",
-   "बाह्र"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'twelve' is closest in meaning to 'dozen'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘twelve’ को अर्थ ‘dozen’ सँग सबैभन्दा नजिक छ।",
@@ -20816,18 +19791,18 @@
   "subtopic": "Vocabulary",
   "difficulty": "easy",
   "marks": 1,
-  "question": "Choose the antonym of dozen.",
-  "question_ne": "‘dozen’ शब्दको विलोम (antonym) छान्नुहोस्।",
+  "question": "How many is a dozen?",
+  "question_ne": "एक दर्जन भनेको कति हो?",
   "options": [
-   "Hundred",
-   "Unit",
-   "Pair",
-   "Twelve"
+   "12",
+   "10",
+   "6",
+   "24"
   ],
   "options_ne": null,
-  "answer": 2,
-  "explanation": "The opposite of 'dozen' is 'pair'.",
-  "explanation_ne": "‘dozen’ को विलोम ‘pair’ हो।",
+  "answer": 0,
+  "explanation": "A dozen is 12.",
+  "explanation_ne": "एक दर्जन भनेको १२ हो।",
   "source": "Original practice question — Lok Sewa Prep Nepal"
  },
  {
@@ -20856,12 +19831,7 @@
    "Hundred",
    "Twelve"
   ],
-  "options_ne": [
-   "जोडी",
-   "एकाइ",
-   "सय",
-   "बाह्र"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'pair' is opposite in meaning to 'dozen'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘pair’ को अर्थ ‘dozen’ को विपरीत छ।",
@@ -20994,12 +19964,7 @@
    "Final",
    "Outline"
   ],
-  "options_ne": [
-   "योजना",
-   "खाका",
-   "अन्तिम",
-   "रूपरेखा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'outline' is closest in meaning to 'draft'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘outline’ को अर्थ ‘draft’ सँग सबैभन्दा नजिक छ।",
@@ -21063,12 +20028,7 @@
    "Sketch",
    "Plan"
   ],
-  "options_ne": [
-   "अन्तिम",
-   "रूपरेखा",
-   "खाका",
-   "योजना"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'plan' is opposite in meaning to 'draft'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘plan’ को अर्थ ‘draft’ को विपरीत छ।",
@@ -21201,12 +20161,7 @@
    "Erase",
    "Paint"
   ],
-  "options_ne": [
-   "खाका कोर्नु",
-   "लेख्नु",
-   "मेट्नु",
-   "रङ्ग गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'sketch' is closest in meaning to 'draw'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sketch’ को अर्थ ‘draw’ सँग सबैभन्दा नजिक छ।",
@@ -21270,12 +20225,7 @@
    "Erase",
    "Write"
   ],
-  "options_ne": [
-   "खाका कोर्नु",
-   "रङ्ग गर्नु",
-   "मेट्नु",
-   "लेख्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'erase' is opposite in meaning to 'draw'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘erase’ को अर्थ ‘draw’ को विपरीत छ।",
@@ -21408,12 +20358,7 @@
    "Reality",
    "Nightmare"
   ],
-  "options_ne": [
-   "दृष्टि",
-   "कल्पना",
-   "वास्तविकता",
-   "दुःस्वप्न"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'vision' is closest in meaning to 'dream'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘vision’ को अर्थ ‘dream’ सँग सबैभन्दा नजिक छ।",
@@ -21477,12 +20422,7 @@
    "Nightmare",
    "Fantasy"
   ],
-  "options_ne": [
-   "वास्तविकता",
-   "दृष्टि",
-   "दुःस्वप्न",
-   "कल्पना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'nightmare' is opposite in meaning to 'dream'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘nightmare’ को अर्थ ‘dream’ को विपरीत छ।",
@@ -21615,12 +20555,7 @@
    "Taste",
    "Swallow"
   ],
-  "options_ne": [
-   "खानु",
-   "चुस्की लिनु",
-   "स्वाद लिनु",
-   "निल्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'sip' is closest in meaning to 'drink'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sip’ को अर्थ ‘drink’ सँग सबैभन्दा नजिक छ।",
@@ -21684,12 +20619,7 @@
    "Taste",
    "Swallow"
   ],
-  "options_ne": [
-   "खानु",
-   "चुस्की लिनु",
-   "स्वाद लिनु",
-   "निल्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'eat' is opposite in meaning to 'drink'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘eat’ को अर्थ ‘drink’ को विपरीत छ।",
@@ -21822,12 +20752,7 @@
    "Ride",
    "Operate"
   ],
-  "options_ne": [
-   "हाक्नु",
-   "हिँड्नु",
-   "चढ्नु",
-   "सञ्चालन गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'operate' is closest in meaning to 'drive'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘operate’ को अर्थ ‘drive’ सँग सबैभन्दा नजिक छ।",
@@ -21891,12 +20816,7 @@
    "Steer",
    "Ride"
   ],
-  "options_ne": [
-   "सञ्चालन गर्नु",
-   "हिँड्नु",
-   "हाक्नु",
-   "चढ्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'steer' is opposite in meaning to 'drive'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘steer’ को अर्थ ‘drive’ को विपरीत छ।",
@@ -22029,12 +20949,7 @@
    "Rise",
    "Fall"
   ],
-  "options_ne": [
-   "थोपा",
-   "टपक्नु",
-   "उठ्नु",
-   "खस्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'bead' is closest in meaning to 'drop'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bead’ को अर्थ ‘drop’ सँग सबैभन्दा नजिक छ।",
@@ -22098,12 +21013,7 @@
    "Rise",
    "Fall"
   ],
-  "options_ne": [
-   "टपक्नु",
-   "थोपा",
-   "उठ्नु",
-   "खस्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'fall' is opposite in meaning to 'drop'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘fall’ को अर्थ ‘drop’ को विपरीत छ।",
@@ -22236,12 +21146,7 @@
    "Flute",
    "Instrument"
   ],
-  "options_ne": [
-   "सङ्गीत",
-   "ताल",
-   "बाँसुरी",
-   "वाद्ययन्त्र"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'instrument' is closest in meaning to 'drum'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘instrument’ को अर्थ ‘drum’ सँग सबैभन्दा नजिक छ।",
@@ -22305,12 +21210,7 @@
    "Flute",
    "Instrument"
   ],
-  "options_ne": [
-   "ताल",
-   "सङ्गीत",
-   "बाँसुरी",
-   "वाद्ययन्त्र"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'beat' is opposite in meaning to 'drum'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘beat’ को अर्थ ‘drum’ को विपरीत छ।",
@@ -22411,12 +21311,7 @@
    "Wet",
    "Moist"
   ],
-  "options_ne": [
-   "सुकेको",
-   "सुक्खा",
-   "भिजेको",
-   "चिसो"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'arid' is closest in meaning to 'dry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘arid’ को अर्थ ‘dry’ सँग सबैभन्दा नजिक छ।",
@@ -22480,12 +21375,7 @@
    "Arid",
    "Parched"
   ],
-  "options_ne": [
-   "भिजेको",
-   "चिसो",
-   "सुक्खा",
-   "सुकेको"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'wet' is opposite in meaning to 'dry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘wet’ को अर्थ ‘dry’ को विपरीत छ।",
@@ -22618,12 +21508,7 @@
    "While",
    "Before"
   ],
-  "options_ne": [
-   "भरि",
-   "पछि",
-   "जब",
-   "अघि"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'while' is closest in meaning to 'during'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘while’ को अर्थ ‘during’ सँग सबैभन्दा नजिक छ।",
@@ -22687,12 +21572,7 @@
    "After",
    "Before"
   ],
-  "options_ne": [
-   "जब",
-   "भरि",
-   "पछि",
-   "अघि"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'before' is opposite in meaning to 'during'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘before’ को अर्थ ‘during’ को विपरीत छ।",
@@ -22825,12 +21705,7 @@
    "Right",
    "Obligation"
   ],
-  "options_ne": [
-   "जिम्मेवारी",
-   "स्वतन्त्रता",
-   "अधिकार",
-   "दायित्व"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'obligation' is closest in meaning to 'duty'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘obligation’ को अर्थ ‘duty’ सँग सबैभन्दा नजिक छ।",
@@ -22894,12 +21769,7 @@
    "Obligation",
    "Responsibility"
   ],
-  "options_ne": [
-   "स्वतन्त्रता",
-   "अधिकार",
-   "दायित्व",
-   "जिम्मेवारी"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'responsibility' is opposite in meaning to 'duty'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘responsibility’ को अर्थ ‘duty’ को विपरीत छ।",
@@ -23032,12 +21902,7 @@
    "Any",
    "None"
   ],
-  "options_ne": [
-   "हरेक",
-   "सबै",
-   "कुनै",
-   "कुनै पनि होइन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'every' is closest in meaning to 'each'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘every’ को अर्थ ‘each’ सँग सबैभन्दा नजिक छ।",
@@ -23101,12 +21966,7 @@
    "Every",
    "None"
   ],
-  "options_ne": [
-   "सबै",
-   "कुनै",
-   "हरेक",
-   "कुनै पनि होइन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'all' is opposite in meaning to 'each'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘all’ को अर्थ ‘each’ को विपरीत छ।",
@@ -23239,12 +22099,7 @@
    "World",
    "Globe"
   ],
-  "options_ne": [
-   "माटो",
-   "आकाश",
-   "संसार",
-   "गोलार्ध"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'world' is closest in meaning to 'earth'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘world’ को अर्थ ‘earth’ सँग सबैभन्दा नजिक छ।",
@@ -23308,12 +22163,7 @@
    "Soil",
    "World"
   ],
-  "options_ne": [
-   "आकाश",
-   "गोलार्ध",
-   "माटो",
-   "संसार"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'globe' is opposite in meaning to 'earth'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘globe’ को अर्थ ‘earth’ को विपरीत छ।",
@@ -23446,12 +22296,7 @@
    "West",
    "South"
   ],
-  "options_ne": [
-   "उत्तर",
-   "पूर्व",
-   "पश्चिम",
-   "दक्षिण"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'orient' is closest in meaning to 'east'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘orient’ को अर्थ ‘east’ सँग सबैभन्दा नजिक छ।",
@@ -23515,12 +22360,7 @@
    "Orient",
    "North"
   ],
-  "options_ne": [
-   "दक्षिण",
-   "पश्चिम",
-   "पूर्व",
-   "उत्तर"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'west' is opposite in meaning to 'east'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘west’ को अर्थ ‘east’ को विपरीत छ।",
@@ -23653,12 +22493,7 @@
    "Dine",
    "Fast"
   ],
-  "options_ne": [
-   "चपाउनु",
-   "उपभोग गर्नु",
-   "खाना खानु",
-   "व्रत बस्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'consume' is closest in meaning to 'eat'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘consume’ को अर्थ ‘eat’ सँग सबैभन्दा नजिक छ।",
@@ -23722,12 +22557,7 @@
    "Fast",
    "Chew"
   ],
-  "options_ne": [
-   "खाना खानु",
-   "उपभोग गर्नु",
-   "व्रत बस्नु",
-   "चपाउनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'dine' is opposite in meaning to 'eat'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘dine’ को अर्थ ‘eat’ को विपरीत छ।",
@@ -23860,12 +22690,7 @@
    "Trade",
    "Market"
   ],
-  "options_ne": [
-   "धन",
-   "वित्त",
-   "व्यापार",
-   "बजार"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'finance' is closest in meaning to 'economy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘finance’ को अर्थ ‘economy’ सँग सबैभन्दा नजिक छ।",
@@ -23929,12 +22754,7 @@
    "Market",
    "Finance"
   ],
-  "options_ne": [
-   "व्यापार",
-   "धन",
-   "बजार",
-   "वित्त"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'market' is opposite in meaning to 'economy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘market’ को अर्थ ‘economy’ को विपरीत छ।",
@@ -24067,12 +22887,7 @@
    "Correct",
    "Write"
   ],
-  "options_ne": [
-   "परिमार्जन गर्नु",
-   "प्रकाशन गर्नु",
-   "सच्याउनु",
-   "लेख्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'revise' is closest in meaning to 'edit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘revise’ को अर्थ ‘edit’ सँग सबैभन्दा नजिक छ।",
@@ -24136,12 +22951,7 @@
    "Revise",
    "Write"
   ],
-  "options_ne": [
-   "सच्याउनु",
-   "प्रकाशन गर्नु",
-   "परिमार्जन गर्नु",
-   "लेख्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'write' is opposite in meaning to 'edit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘write’ को अर्थ ‘edit’ को विपरीत छ।",
@@ -24274,12 +23084,7 @@
    "Ignore",
    "Train"
   ],
-  "options_ne": [
-   "पढाउनु",
-   "निर्देशन दिनु",
-   "बेवास्ता गर्नु",
-   "तालिम दिनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'teach' is closest in meaning to 'educate'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘teach’ को अर्थ ‘educate’ सँग सबैभन्दा नजिक छ।",
@@ -24343,12 +23148,7 @@
    "Teach",
    "Instruct"
   ],
-  "options_ne": [
-   "बेवास्ता गर्नु",
-   "तालिम दिनु",
-   "पढाउनु",
-   "निर्देशन दिनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'instruct' is opposite in meaning to 'educate'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘instruct’ को अर्थ ‘educate’ को विपरीत छ।",
@@ -24481,12 +23281,7 @@
    "Impact",
    "Outcome"
   ],
-  "options_ne": [
-   "परिणाम",
-   "कारण",
-   "असर",
-   "नतिजा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'result' is closest in meaning to 'effect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘result’ को अर्थ ‘effect’ सँग सबैभन्दा नजिक छ।",
@@ -24550,12 +23345,7 @@
    "Impact",
    "Result"
   ],
-  "options_ne": [
-   "नतिजा",
-   "कारण",
-   "असर",
-   "परिणाम"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'cause' is opposite in meaning to 'effect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cause’ को अर्थ ‘effect’ को विपरीत छ।",
@@ -24656,12 +23446,7 @@
    "Attempt",
    "Laziness"
   ],
-  "options_ne": [
-   "प्रयत्न",
-   "सङ्घर्ष",
-   "कोसिस",
-   "आलस्य"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'attempt' is closest in meaning to 'effort'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘attempt’ को अर्थ ‘effort’ सँग सबैभन्दा नजिक छ।",
@@ -24725,12 +23510,7 @@
    "Attempt",
    "Endeavour"
   ],
-  "options_ne": [
-   "आलस्य",
-   "सङ्घर्ष",
-   "कोसिस",
-   "प्रयत्न"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'endeavour' is opposite in meaning to 'effort'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘endeavour’ को अर्थ ‘effort’ को विपरीत छ।",
@@ -24831,12 +23611,7 @@
    "Any",
    "Both"
   ],
-  "options_ne": [
-   "कुनै पनि होइन",
-   "एक",
-   "कुनै",
-   "दुवै"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'one' is closest in meaning to 'either'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘one’ को अर्थ ‘either’ सँग सबैभन्दा नजिक छ।",
@@ -24900,12 +23675,7 @@
    "Any",
    "One"
   ],
-  "options_ne": [
-   "दुवै",
-   "कुनै पनि होइन",
-   "कुनै",
-   "एक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'neither' is opposite in meaning to 'either'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘neither’ को अर्थ ‘either’ को विपरीत छ।",
@@ -25038,12 +23808,7 @@
    "Older",
    "Senior"
   ],
-  "options_ne": [
-   "कनिष्ठ",
-   "कान्छो",
-   "बुढो",
-   "वरिष्ठ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'senior' is closest in meaning to 'elder'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘senior’ को अर्थ ‘elder’ सँग सबैभन्दा नजिक छ।",
@@ -25107,12 +23872,7 @@
    "Senior",
    "Older"
   ],
-  "options_ne": [
-   "कनिष्ठ",
-   "कान्छो",
-   "वरिष्ठ",
-   "बुढो"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'younger' is opposite in meaning to 'elder'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘younger’ को अर्थ ‘elder’ को विपरीत छ।",
@@ -25245,12 +24005,7 @@
    "Vote",
    "Appoint"
   ],
-  "options_ne": [
-   "छान्नु",
-   "अस्वीकार गर्नु",
-   "मतदान गर्नु",
-   "नियुक्त गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'choose' is closest in meaning to 'elect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘choose’ को अर्थ ‘elect’ सँग सबैभन्दा नजिक छ।",
@@ -25314,12 +24069,7 @@
    "Choose",
    "Appoint"
   ],
-  "options_ne": [
-   "अस्वीकार गर्नु",
-   "मतदान गर्नु",
-   "छान्नु",
-   "नियुक्त गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'vote' is opposite in meaning to 'elect'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘vote’ को अर्थ ‘elect’ को विपरीत छ।",
@@ -25452,12 +24202,7 @@
    "Part",
    "Component"
   ],
-  "options_ne": [
-   "पूरै",
-   "कारक",
-   "भाग",
-   "अवयव"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'component' is closest in meaning to 'element'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘component’ को अर्थ ‘element’ सँग सबैभन्दा नजिक छ।",
@@ -25521,12 +24266,7 @@
    "Component",
    "Factor"
   ],
-  "options_ne": [
-   "भाग",
-   "पूरै",
-   "अवयव",
-   "कारक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'part' is opposite in meaning to 'element'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘part’ को अर्थ ‘element’ को विपरीत छ।",
@@ -25659,12 +24399,7 @@
    "Besides",
    "Moreover"
   ],
-  "options_ne": [
-   "नत्र",
-   "पनि",
-   "अतिरिक्त",
-   "यसबाहेक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'otherwise' is closest in meaning to 'else'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘otherwise’ को अर्थ ‘else’ सँग सबैभन्दा नजिक छ।",
@@ -25728,12 +24463,7 @@
    "Besides",
    "Moreover"
   ],
-  "options_ne": [
-   "पनि",
-   "नत्र",
-   "अतिरिक्त",
-   "यसबाहेक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'also' is opposite in meaning to 'else'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘also’ को अर्थ ‘else’ को विपरीत छ।",
@@ -25866,12 +24596,7 @@
    "Reject",
    "Hug"
   ],
-  "options_ne": [
-   "धकेल्नु",
-   "स्वीकार्नु",
-   "अस्वीकार गर्नु",
-   "अँगालो हाल्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'hug' is closest in meaning to 'embrace'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hug’ को अर्थ ‘embrace’ सँग सबैभन्दा नजिक छ।",
@@ -25935,12 +24660,7 @@
    "Push",
    "Accept"
   ],
-  "options_ne": [
-   "अँगालो हाल्नु",
-   "अस्वीकार गर्नु",
-   "धकेल्नु",
-   "स्वीकार्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'reject' is opposite in meaning to 'embrace'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘reject’ को अर्थ ‘embrace’ को विपरीत छ।",
@@ -26073,12 +24793,7 @@
    "Appear",
    "Disappear"
   ],
-  "options_ne": [
-   "गायब हुनु",
-   "उठ्नु",
-   "देखिनु",
-   "हराउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'appear' is closest in meaning to 'emerge'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘appear’ को अर्थ ‘emerge’ सँग सबैभन्दा नजिक छ।",
@@ -26142,12 +24857,7 @@
    "Disappear",
    "Arise"
   ],
-  "options_ne": [
-   "गायब हुनु",
-   "देखिनु",
-   "हराउनु",
-   "उठ्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'disappear' is opposite in meaning to 'emerge'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘disappear’ को अर्थ ‘emerge’ को विपरीत छ।",
@@ -26280,12 +24990,7 @@
    "Passion",
    "Reason"
   ],
-  "options_ne": [
-   "अनुभूति",
-   "भाव",
-   "जोश",
-   "तर्क"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'feeling' is closest in meaning to 'emotion'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘feeling’ को अर्थ ‘emotion’ सँग सबैभन्दा नजिक छ।",
@@ -26349,12 +25054,7 @@
    "Passion",
    "Sentiment"
   ],
-  "options_ne": [
-   "अनुभूति",
-   "तर्क",
-   "जोश",
-   "भाव"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'sentiment' is opposite in meaning to 'emotion'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sentiment’ को अर्थ ‘emotion’ को विपरीत छ।",
@@ -26487,12 +25187,7 @@
    "Disable",
    "Prevent"
   ],
-  "options_ne": [
-   "अनुमति दिनु",
-   "सशक्त बनाउनु",
-   "असक्षम बनाउनु",
-   "रोक्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'allow' is closest in meaning to 'enable'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘allow’ को अर्थ ‘enable’ सँग सबैभन्दा नजिक छ।",
@@ -26556,12 +25251,7 @@
    "Empower",
    "Prevent"
   ],
-  "options_ne": [
-   "असक्षम बनाउनु",
-   "अनुमति दिनु",
-   "सशक्त बनाउनु",
-   "रोक्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'prevent' is opposite in meaning to 'enable'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘prevent’ को अर्थ ‘enable’ को विपरीत छ।",
@@ -26694,12 +25384,7 @@
    "Beginning",
    "Finish"
   ],
-  "options_ne": [
-   "निष्कर्ष",
-   "सुरु",
-   "सुरुवात",
-   "समाप्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'finish' is closest in meaning to 'end'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘finish’ को अर्थ ‘end’ सँग सबैभन्दा नजिक छ।",
@@ -26763,12 +25448,7 @@
    "Conclusion",
    "Start"
   ],
-  "options_ne": [
-   "सुरुवात",
-   "समाप्ति",
-   "निष्कर्ष",
-   "सुरु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'beginning' is opposite in meaning to 'end'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘beginning’ को अर्थ ‘end’ को विपरीत छ।",
@@ -26901,12 +25581,7 @@
    "Weakness",
    "Power"
   ],
-  "options_ne": [
-   "जीवनशक्ति",
-   "बल",
-   "कमजोरी",
-   "शक्ति"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'power' is closest in meaning to 'energy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘power’ को अर्थ ‘energy’ सँग सबैभन्दा नजिक छ।",
@@ -26970,12 +25645,7 @@
    "Force",
    "Weakness"
   ],
-  "options_ne": [
-   "जीवनशक्ति",
-   "शक्ति",
-   "बल",
-   "कमजोरी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'force' is opposite in meaning to 'energy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘force’ को अर्थ ‘energy’ को विपरीत छ।",
@@ -27108,12 +25778,7 @@
    "Withdraw",
    "Involve"
   ],
-  "options_ne": [
-   "अलग हुनु",
-   "सहभागी हुनु",
-   "फिर्ता लिनु",
-   "सामेल हुनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'involve' is closest in meaning to 'engage'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘involve’ को अर्थ ‘engage’ सँग सबैभन्दा नजिक छ।",
@@ -27177,12 +25842,7 @@
    "Disengage",
    "Participate"
   ],
-  "options_ne": [
-   "सामेल हुनु",
-   "फिर्ता लिनु",
-   "अलग हुनु",
-   "सहभागी हुनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'disengage' is opposite in meaning to 'engage'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘disengage’ को अर्थ ‘engage’ को विपरीत छ।",
@@ -27315,12 +25975,7 @@
    "Motor",
    "Machine"
   ],
-  "options_ne": [
-   "पाङ्ग्रा",
-   "यन्त्र",
-   "मोटर",
-   "मेसिन"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'motor' is closest in meaning to 'engine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘motor’ को अर्थ ‘engine’ सँग सबैभन्दा नजिक छ।",
@@ -27384,12 +26039,7 @@
    "Machine",
    "Wheel"
   ],
-  "options_ne": [
-   "मोटर",
-   "यन्त्र",
-   "मेसिन",
-   "पाङ्ग्रा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'machine' is opposite in meaning to 'engine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘machine’ को अर्थ ‘engine’ को विपरीत छ।",
@@ -27522,12 +26172,7 @@
    "Relish",
    "Suffer"
   ],
-  "options_ne": [
-   "खुसी हुनु",
-   "मन नपराउनु",
-   "आनन्द लिनु",
-   "पीडा भोग्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'relish' is closest in meaning to 'enjoy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘relish’ को अर्थ ‘enjoy’ सँग सबैभन्दा नजिक छ।",
@@ -27591,12 +26236,7 @@
    "Dislike",
    "Delight"
   ],
-  "options_ne": [
-   "आनन्द लिनु",
-   "पीडा भोग्नु",
-   "मन नपराउनु",
-   "खुसी हुनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'dislike' is opposite in meaning to 'enjoy'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘dislike’ को अर्थ ‘enjoy’ को विपरीत छ।",
@@ -27729,12 +26369,7 @@
    "Assure",
    "Guarantee"
   ],
-  "options_ne": [
-   "शङ्का गर्नु",
-   "जोखिम",
-   "आश्वासन दिनु",
-   "ग्यारेन्टी दिनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'guarantee' is closest in meaning to 'ensure'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘guarantee’ को अर्थ ‘ensure’ सँग सबैभन्दा नजिक छ।",
@@ -27798,12 +26433,7 @@
    "Assure",
    "Guarantee"
   ],
-  "options_ne": [
-   "जोखिम",
-   "शङ्का गर्नु",
-   "आश्वासन दिनु",
-   "ग्यारेन्टी दिनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'assure' is opposite in meaning to 'ensure'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘assure’ को अर्थ ‘ensure’ को विपरीत छ।",
@@ -27936,12 +26566,7 @@
    "Gate",
    "Door"
   ],
-  "options_ne": [
-   "प्रवेश",
-   "निकास",
-   "गेट",
-   "ढोका"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'entry' is closest in meaning to 'entrance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘entry’ को अर्थ ‘entrance’ सँग सबैभन्दा नजिक छ।",
@@ -28005,12 +26630,7 @@
    "Gate",
    "Entry"
   ],
-  "options_ne": [
-   "ढोका",
-   "निकास",
-   "गेट",
-   "प्रवेश"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'exit' is opposite in meaning to 'entrance'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘exit’ को अर्थ ‘entrance’ को विपरीत छ।",
@@ -28143,12 +26763,7 @@
    "Exit",
    "Admission"
   ],
-  "options_ne": [
-   "अभिलेख",
-   "टिप्पणी",
-   "निकास",
-   "प्रवेश"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'record' is closest in meaning to 'entry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘record’ को अर्थ ‘entry’ सँग सबैभन्दा नजिक छ।",
@@ -28212,12 +26827,7 @@
    "Note",
    "Admission"
   ],
-  "options_ne": [
-   "निकास",
-   "अभिलेख",
-   "टिप्पणी",
-   "प्रवेश"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'admission' is opposite in meaning to 'entry'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘admission’ को अर्थ ‘entry’ को विपरीत छ।",
@@ -28350,12 +26960,7 @@
    "Notably",
    "Rarely"
   ],
-  "options_ne": [
-   "विशेष रूपमा",
-   "सामान्यतया",
-   "उल्लेखनीय रूपमा",
-   "विरलै"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'particularly' is closest in meaning to 'especially'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘particularly’ को अर्थ ‘especially’ सँग सबैभन्दा नजिक छ।",
@@ -28419,12 +27024,7 @@
    "Notably",
    "Generally"
   ],
-  "options_ne": [
-   "विरलै",
-   "विशेष रूपमा",
-   "उल्लेखनीय रूपमा",
-   "सामान्यतया"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'generally' is opposite in meaning to 'especially'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘generally’ को अर्थ ‘especially’ को विपरीत छ।",
@@ -28557,12 +27157,7 @@
    "Paper",
    "Composition"
   ],
-  "options_ne": [
-   "लेख",
-   "कथा",
-   "पत्र",
-   "रचना"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'composition' is closest in meaning to 'essay'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘composition’ को अर्थ ‘essay’ सँग सबैभन्दा नजिक छ।",
@@ -28626,12 +27221,7 @@
    "Article",
    "Composition"
   ],
-  "options_ne": [
-   "पत्र",
-   "कथा",
-   "लेख",
-   "रचना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'article' is opposite in meaning to 'essay'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘article’ को अर्थ ‘essay’ को विपरीत छ।",
@@ -28764,12 +27354,7 @@
    "Create",
    "Destroy"
   ],
-  "options_ne": [
-   "उन्मूलन गर्नु",
-   "स्थापना गर्नु",
-   "सिर्जना गर्नु",
-   "नष्ट गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'found' is closest in meaning to 'establish'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘found’ को अर्थ ‘establish’ सँग सबैभन्दा नजिक छ।",
@@ -28833,12 +27418,7 @@
    "Create",
    "Destroy"
   ],
-  "options_ne": [
-   "उन्मूलन गर्नु",
-   "स्थापना गर्नु",
-   "सिर्जना गर्नु",
-   "नष्ट गर्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'abolish' is opposite in meaning to 'establish'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘abolish’ को अर्थ ‘establish’ को विपरीत छ।",
@@ -28971,12 +27551,7 @@
    "Uneven",
    "Level"
   ],
-  "options_ne": [
-   "विजोर",
-   "समथर",
-   "असमतल",
-   "समतल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'level' is closest in meaning to 'even'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘level’ को अर्थ ‘even’ सँग सबैभन्दा नजिक छ।",
@@ -29032,8 +27607,8 @@
   "subtopic": "Vocabulary",
   "difficulty": "medium",
   "marks": 1,
-  "question": "Which word is opposite in meaning to even?",
-  "question_ne": "‘even’ को अर्थको विपरीत शब्द कुन हो?",
+  "question": "In numbers, the opposite of even is:",
+  "question_ne": "सङ्ख्यामा, even को विपरीत के हो?",
   "options": [
    "Level",
    "Uneven",
@@ -29047,8 +27622,8 @@
    "विजोर"
   ],
   "answer": 3,
-  "explanation": "Of the options, 'odd' is opposite in meaning to 'even'.",
-  "explanation_ne": "विकल्पहरूमध्ये ‘odd’ को अर्थ ‘even’ को विपरीत छ।",
+  "explanation": "In numbers, 'odd' is the opposite of 'even'.",
+  "explanation_ne": "सङ्ख्यामा, ‘odd’ को अर्थ ‘even’ को विपरीत छ।",
   "source": "Original practice question — Lok Sewa Prep Nepal"
  },
  {
@@ -29178,12 +27753,7 @@
    "Night",
    "Dusk"
   ],
-  "options_ne": [
-   "बिहान",
-   "दिउँसो",
-   "रात",
-   "साँझ"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'dusk' is closest in meaning to 'evening'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘dusk’ को अर्थ ‘evening’ सँग सबैभन्दा नजिक छ।",
@@ -29247,12 +27817,7 @@
    "Afternoon",
    "Morning"
   ],
-  "options_ne": [
-   "साँझ",
-   "रात",
-   "दिउँसो",
-   "बिहान"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'morning' is opposite in meaning to 'evening'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘morning’ को अर्थ ‘evening’ को विपरीत छ।",
@@ -29385,12 +27950,7 @@
    "None",
    "Any"
   ],
-  "options_ne": [
-   "प्रत्येक",
-   "सबै",
-   "कुनै पनि होइन",
-   "कुनै"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'each' is closest in meaning to 'every'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘each’ को अर्थ ‘every’ सँग सबैभन्दा नजिक छ।",
@@ -29454,12 +28014,7 @@
    "None",
    "Each"
   ],
-  "options_ne": [
-   "कुनै",
-   "सबै",
-   "कुनै पनि होइन",
-   "प्रत्येक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'all' is opposite in meaning to 'every'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘all’ को अर्थ ‘every’ को विपरीत छ।",
@@ -29592,12 +28147,7 @@
    "Testimony",
    "Clue"
   ],
-  "options_ne": [
-   "प्रमाण",
-   "शङ्का",
-   "गवाही",
-   "सुराग"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'proof' is closest in meaning to 'evidence'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘proof’ को अर्थ ‘evidence’ सँग सबैभन्दा नजिक छ।",
@@ -29661,12 +28211,7 @@
    "Testimony",
    "Doubt"
   ],
-  "options_ne": [
-   "सुराग",
-   "प्रमाण",
-   "गवाही",
-   "शङ्का"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'testimony' is opposite in meaning to 'evidence'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘testimony’ को अर्थ ‘evidence’ को विपरीत छ।",
@@ -29799,12 +28344,7 @@
    "Ignore",
    "Inspect"
   ],
-  "options_ne": [
-   "परीक्षण गर्नु",
-   "मूल्याङ्कन गर्नु",
-   "बेवास्ता गर्नु",
-   "निरीक्षण गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'inspect' is closest in meaning to 'examine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘inspect’ को अर्थ ‘examine’ सँग सबैभन्दा नजिक छ।",
@@ -29868,12 +28408,7 @@
    "Assess",
    "Inspect"
   ],
-  "options_ne": [
-   "बेवास्ता गर्नु",
-   "परीक्षण गर्नु",
-   "मूल्याङ्कन गर्नु",
-   "निरीक्षण गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'test' is opposite in meaning to 'examine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘test’ को अर्थ ‘examine’ को विपरीत छ।",
@@ -29974,12 +28509,7 @@
    "Apart",
    "Including"
   ],
-  "options_ne": [
-   "बाहेक",
-   "अतिरिक्त",
-   "छुट्टै",
-   "सहित"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'excluding' is closest in meaning to 'except'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘excluding’ को अर्थ ‘except’ सँग सबैभन्दा नजिक छ।",
@@ -30043,12 +28573,7 @@
    "Apart",
    "Excluding"
   ],
-  "options_ne": [
-   "सहित",
-   "अतिरिक्त",
-   "छुट्टै",
-   "बाहेक"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'including' is opposite in meaning to 'except'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘including’ को अर्थ ‘except’ को विपरीत छ।",
@@ -30181,12 +28706,7 @@
    "Trade",
    "Keep"
   ],
-  "options_ne": [
-   "वस्तु विनिमय",
-   "साट्नु",
-   "व्यापार",
-   "राख्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'swap' is closest in meaning to 'exchange'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘swap’ को अर्थ ‘exchange’ सँग सबैभन्दा नजिक छ।",
@@ -30250,12 +28770,7 @@
    "Barter",
    "Keep"
   ],
-  "options_ne": [
-   "साट्नु",
-   "व्यापार",
-   "वस्तु विनिमय",
-   "राख्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'trade' is opposite in meaning to 'exchange'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘trade’ को अर्थ ‘exchange’ को विपरीत छ।",
@@ -30388,12 +28903,7 @@
    "Rest",
    "Practice"
   ],
-  "options_ne": [
-   "तालिम",
-   "कसरत",
-   "आराम",
-   "अभ्यास"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'workout' is closest in meaning to 'exercise'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘workout’ को अर्थ ‘exercise’ सँग सबैभन्दा नजिक छ।",
@@ -30457,12 +28967,7 @@
    "Rest",
    "Training"
   ],
-  "options_ne": [
-   "अभ्यास",
-   "कसरत",
-   "आराम",
-   "तालिम"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'training' is opposite in meaning to 'exercise'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘training’ को अर्थ ‘exercise’ को विपरीत छ।",
@@ -30595,12 +29100,7 @@
    "Saving",
    "Cost"
   ],
-  "options_ne": [
-   "आम्दानी",
-   "व्यय",
-   "बचत",
-   "लागत"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'cost' is closest in meaning to 'expense'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cost’ को अर्थ ‘expense’ सँग सबैभन्दा नजिक छ।",
@@ -30664,12 +29164,7 @@
    "Expenditure",
    "Cost"
   ],
-  "options_ne": [
-   "आम्दानी",
-   "बचत",
-   "व्यय",
-   "लागत"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'expenditure' is opposite in meaning to 'expense'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘expenditure’ को अर्थ ‘expense’ को विपरीत छ।",
@@ -30802,12 +29297,7 @@
    "Confuse",
    "Describe"
   ],
-  "options_ne": [
-   "उदाहरण दिनु",
-   "स्पष्ट पार्नु",
-   "अलमल्याउनु",
-   "वर्णन गर्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'clarify' is closest in meaning to 'explain'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘clarify’ को अर्थ ‘explain’ सँग सबैभन्दा नजिक छ।",
@@ -30871,12 +29361,7 @@
    "Describe",
    "Confuse"
   ],
-  "options_ne": [
-   "उदाहरण दिनु",
-   "स्पष्ट पार्नु",
-   "वर्णन गर्नु",
-   "अलमल्याउनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'describe' is opposite in meaning to 'explain'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘describe’ को अर्थ ‘explain’ को विपरीत छ।",
@@ -31009,12 +29494,7 @@
    "Investigate",
    "Search"
   ],
-  "options_ne": [
-   "पत्ता लगाउनु",
-   "बेवास्ता गर्नु",
-   "अनुसन्धान गर्नु",
-   "खोज्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'investigate' is closest in meaning to 'explore'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘investigate’ को अर्थ ‘explore’ सँग सबैभन्दा नजिक छ।",
@@ -31078,12 +29558,7 @@
    "Ignore",
    "Discover"
   ],
-  "options_ne": [
-   "अनुसन्धान गर्नु",
-   "खोज्नु",
-   "बेवास्ता गर्नु",
-   "पत्ता लगाउनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'discover' is opposite in meaning to 'explore'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘discover’ को अर्थ ‘explore’ को विपरीत छ।",
@@ -31216,12 +29691,7 @@
    "Convey",
    "Voice"
   ],
-  "options_ne": [
-   "बताउनु",
-   "लुकाउनु",
-   "पुर्‍याउनु",
-   "आवाज"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'convey' is closest in meaning to 'express'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘convey’ को अर्थ ‘express’ सँग सबैभन्दा नजिक छ।",
@@ -31285,12 +29755,7 @@
    "Hide",
    "Voice"
   ],
-  "options_ne": [
-   "पुर्‍याउनु",
-   "बताउनु",
-   "लुकाउनु",
-   "आवाज"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'state' is opposite in meaning to 'express'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘state’ को अर्थ ‘express’ को विपरीत छ।",
@@ -31423,12 +29888,7 @@
    "Spare",
    "Less"
   ],
-  "options_ne": [
-   "बढी",
-   "अतिरिक्त",
-   "थप",
-   "कम"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'additional' is closest in meaning to 'extra'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘additional’ को अर्थ ‘extra’ सँग सबैभन्दा नजिक छ।",
@@ -31492,12 +29952,7 @@
    "More",
    "Less"
   ],
-  "options_ne": [
-   "अतिरिक्त",
-   "थप",
-   "बढी",
-   "कम"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'more' is opposite in meaning to 'extra'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘more’ को अर्थ ‘extra’ को विपरीत छ।",
@@ -31630,12 +30085,7 @@
    "Back",
    "Countenance"
   ],
-  "options_ne": [
-   "मुख",
-   "अभिव्यक्ति",
-   "पछाडि",
-   "अनुहार"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'visage' is closest in meaning to 'face'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘visage’ को अर्थ ‘face’ सँग सबैभन्दा नजिक छ।",
@@ -31699,12 +30149,7 @@
    "Countenance",
    "Visage"
   ],
-  "options_ne": [
-   "अभिव्यक्ति",
-   "पछाडि",
-   "अनुहार",
-   "मुख"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'countenance' is opposite in meaning to 'face'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘countenance’ को अर्थ ‘face’ को विपरीत छ।",
@@ -31837,12 +30282,7 @@
    "Truth",
    "Evidence"
   ],
-  "options_ne": [
-   "कल्पना",
-   "वास्तविकता",
-   "सत्य",
-   "प्रमाण"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'truth' is closest in meaning to 'fact'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘truth’ को अर्थ ‘fact’ सँग सबैभन्दा नजिक छ।",
@@ -31906,12 +30346,7 @@
    "Truth",
    "Evidence"
   ],
-  "options_ne": [
-   "कल्पना",
-   "वास्तविकता",
-   "सत्य",
-   "प्रमाण"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'reality' is opposite in meaning to 'fact'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘reality’ को अर्थ ‘fact’ को विपरीत छ।",
@@ -32044,12 +30479,7 @@
    "Result",
    "Cause"
   ],
-  "options_ne": [
-   "अवयव",
-   "तत्त्व",
-   "नतिजा",
-   "कारण"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'element' is closest in meaning to 'factor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘element’ को अर्थ ‘factor’ सँग सबैभन्दा नजिक छ।",
@@ -32113,12 +30543,7 @@
    "Result",
    "Component"
   ],
-  "options_ne": [
-   "तत्त्व",
-   "कारण",
-   "नतिजा",
-   "अवयव"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'cause' is opposite in meaning to 'factor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cause’ को अर्थ ‘factor’ को विपरीत छ।",
@@ -32251,12 +30676,7 @@
    "Triumph",
    "Succeed"
   ],
-  "options_ne": [
-   "ढल्नु",
-   "फेल हुनु",
-   "विजय",
-   "सफल हुनु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'flunk' is closest in meaning to 'fail'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘flunk’ को अर्थ ‘fail’ सँग सबैभन्दा नजिक छ।",
@@ -32320,12 +30740,7 @@
    "Triumph",
    "Succeed"
   ],
-  "options_ne": [
-   "ढल्नु",
-   "फेल हुनु",
-   "विजय",
-   "सफल हुनु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'succeed' is opposite in meaning to 'fail'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘succeed’ को अर्थ ‘fail’ को विपरीत छ।",
@@ -32458,12 +30873,7 @@
    "Trust",
    "Devotion"
   ],
-  "options_ne": [
-   "शङ्का",
-   "आस्था",
-   "भरोसा",
-   "भक्ति"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'belief' is closest in meaning to 'faith'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘belief’ को अर्थ ‘faith’ सँग सबैभन्दा नजिक छ।",
@@ -32527,12 +30937,7 @@
    "Belief",
    "Trust"
   ],
-  "options_ne": [
-   "भक्ति",
-   "शङ्का",
-   "आस्था",
-   "भरोसा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'trust' is opposite in meaning to 'faith'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘trust’ को अर्थ ‘faith’ को विपरीत छ।",
@@ -32633,12 +31038,7 @@
    "Climb",
    "Drop"
   ],
-  "options_ne": [
-   "उठ्नु",
-   "लड्नु",
-   "चढ्नु",
-   "झर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'drop' is closest in meaning to 'fall'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘drop’ को अर्थ ‘fall’ सँग सबैभन्दा नजिक छ।",
@@ -32702,12 +31102,7 @@
    "Rise",
    "Climb"
   ],
-  "options_ne": [
-   "झर्नु",
-   "लड्नु",
-   "उठ्नु",
-   "चढ्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'rise' is opposite in meaning to 'fall'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘rise’ को अर्थ ‘fall’ को विपरीत छ।",
@@ -32840,12 +31235,7 @@
    "Untrue",
    "True"
   ],
-  "options_ne": [
-   "वास्तविक",
-   "नक्कली",
-   "असत्य",
-   "साँचो"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'untrue' is closest in meaning to 'false'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘untrue’ को अर्थ ‘false’ सँग सबैभन्दा नजिक छ।",
@@ -32909,12 +31299,7 @@
    "True",
    "Fake"
   ],
-  "options_ne": [
-   "असत्य",
-   "वास्तविक",
-   "साँचो",
-   "नक्कली"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'true' is opposite in meaning to 'false'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘true’ को अर्थ ‘false’ को विपरीत छ।",
@@ -33047,12 +31432,7 @@
    "Kin",
    "Household"
   ],
-  "options_ne": [
-   "व्यक्ति",
-   "आफन्तहरू",
-   "नाता",
-   "घरपरिवार"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'household' is closest in meaning to 'family'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘household’ को अर्थ ‘family’ सँग सबैभन्दा नजिक छ।",
@@ -33116,12 +31496,7 @@
    "Kin",
    "Relatives"
   ],
-  "options_ne": [
-   "घरपरिवार",
-   "व्यक्ति",
-   "नाता",
-   "आफन्तहरू"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'kin' is opposite in meaning to 'family'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘kin’ को अर्थ ‘family’ को विपरीत छ।",
@@ -33254,12 +31629,7 @@
    "Field",
    "Estate"
   ],
-  "options_ne": [
-   "बगैँचा",
-   "जमिन",
-   "खेतबारी",
-   "जागिर"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'field' is closest in meaning to 'farm'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘field’ को अर्थ ‘farm’ सँग सबैभन्दा नजिक छ।",
@@ -33323,12 +31693,7 @@
    "Garden",
    "Field"
   ],
-  "options_ne": [
-   "जमिन",
-   "जागिर",
-   "बगैँचा",
-   "खेतबारी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'land' is opposite in meaning to 'farm'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘land’ को अर्थ ‘farm’ को विपरीत छ।",
@@ -33429,12 +31794,7 @@
    "Son",
    "Mother"
   ],
-  "options_ne": [
-   "बुबा",
-   "अभिभावक",
-   "छोरा",
-   "आमा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'dad' is closest in meaning to 'father'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘dad’ को अर्थ ‘father’ सँग सबैभन्दा नजिक छ।",
@@ -33498,12 +31858,7 @@
    "Son",
    "Parent"
   ],
-  "options_ne": [
-   "बुबा",
-   "आमा",
-   "छोरा",
-   "अभिभावक"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'parent' is opposite in meaning to 'father'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘parent’ को अर्थ ‘father’ को विपरीत छ।",
@@ -33636,12 +31991,7 @@
    "Celebration",
    "Banquet"
   ],
-  "options_ne": [
-   "व्रत",
-   "खाना",
-   "उत्सव",
-   "भोज"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'banquet' is closest in meaning to 'feast'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘banquet’ को अर्थ ‘feast’ सँग सबैभन्दा नजिक छ।",
@@ -33674,9 +32024,9 @@
    "Celebration"
   ],
   "options_ne": null,
-  "answer": 3,
-  "explanation": "The opposite of 'feast' is 'celebration'.",
-  "explanation_ne": "‘feast’ को विलोम ‘celebration’ हो।",
+  "answer": 2,
+  "explanation": "The opposite of 'feast' is 'fast'.",
+  "explanation_ne": "‘feast’ को विलोम ‘fast’ हो।",
   "source": "Original practice question — Lok Sewa Prep Nepal"
  },
  {
@@ -33705,12 +32055,7 @@
    "Banquet",
    "Fast"
   ],
-  "options_ne": [
-   "उत्सव",
-   "खाना",
-   "भोज",
-   "व्रत"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'celebration' is opposite in meaning to 'feast'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘celebration’ को अर्थ ‘feast’ को विपरीत छ।",
@@ -33843,12 +32188,7 @@
    "Detail",
    "Characteristic"
   ],
-  "options_ne": [
-   "गुण",
-   "पक्ष",
-   "विवरण",
-   "लक्षण"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'characteristic' is closest in meaning to 'feature'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘characteristic’ को अर्थ ‘feature’ सँग सबैभन्दा नजिक छ।",
@@ -33912,12 +32252,7 @@
    "Detail",
    "Aspect"
   ],
-  "options_ne": [
-   "गुण",
-   "लक्षण",
-   "विवरण",
-   "पक्ष"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'trait' is opposite in meaning to 'feature'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘trait’ को अर्थ ‘feature’ को विपरीत छ।",
@@ -34050,12 +32385,7 @@
    "Cost",
    "Payment"
   ],
-  "options_ne": [
-   "शुल्क",
-   "जरिवाना",
-   "लागत",
-   "भुक्तानी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'charge' is closest in meaning to 'fee'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘charge’ को अर्थ ‘fee’ सँग सबैभन्दा नजिक छ।",
@@ -34119,12 +32449,7 @@
    "Cost",
    "Payment"
   ],
-  "options_ne": [
-   "जरिवाना",
-   "शुल्क",
-   "लागत",
-   "भुक्तानी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'cost' is opposite in meaning to 'fee'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cost’ को अर्थ ‘fee’ को विपरीत छ।",
@@ -34225,12 +32550,7 @@
    "Ignore",
    "Sense"
   ],
-  "options_ne": [
-   "छुनु",
-   "बुझ्नु",
-   "बेवास्ता गर्नु",
-   "अनुभव गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'sense' is closest in meaning to 'feel'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘sense’ को अर्थ ‘feel’ सँग सबैभन्दा नजिक छ।",
@@ -34294,12 +32614,7 @@
    "Touch",
    "Perceive"
   ],
-  "options_ne": [
-   "अनुभव गर्नु",
-   "बेवास्ता गर्नु",
-   "छुनु",
-   "बुझ्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'touch' is opposite in meaning to 'feel'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘touch’ को अर्थ ‘feel’ को विपरीत छ।",
@@ -34432,12 +32747,7 @@
    "Woman",
    "Lady"
   ],
-  "options_ne": [
-   "पुरुष",
-   "केटी",
-   "स्त्री",
-   "महिला"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'woman' is closest in meaning to 'female'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘woman’ को अर्थ ‘female’ सँग सबैभन्दा नजिक छ।",
@@ -34501,12 +32811,7 @@
    "Male",
    "Woman"
   ],
-  "options_ne": [
-   "महिला",
-   "केटी",
-   "पुरुष",
-   "स्त्री"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'male' is opposite in meaning to 'female'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘male’ को अर्थ ‘female’ को विपरीत छ।",
@@ -34639,12 +32944,7 @@
    "Feast",
    "Celebration"
   ],
-  "options_ne": [
-   "बिदा",
-   "समारोह",
-   "भोज",
-   "उत्सव"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'celebration' is closest in meaning to 'festival'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘celebration’ को अर्थ ‘festival’ सँग सबैभन्दा नजिक छ।",
@@ -34708,12 +33008,7 @@
    "Ceremony",
    "Feast"
   ],
-  "options_ne": [
-   "उत्सव",
-   "बिदा",
-   "समारोह",
-   "भोज"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'feast' is opposite in meaning to 'festival'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘feast’ को अर्थ ‘festival’ को विपरीत छ।",
@@ -34846,12 +33141,7 @@
    "Court",
    "Ground"
   ],
-  "options_ne": [
-   "प्लट",
-   "क्षेत्र",
-   "अदालत",
-   "मैदान"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'ground' is closest in meaning to 'field'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ground’ को अर्थ ‘field’ सँग सबैभन्दा नजिक छ।",
@@ -34915,12 +33205,7 @@
    "Area",
    "Ground"
   ],
-  "options_ne": [
-   "अदालत",
-   "प्लट",
-   "क्षेत्र",
-   "मैदान"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'area' is opposite in meaning to 'field'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘area’ को अर्थ ‘field’ को विपरीत छ।",
@@ -35021,12 +33306,7 @@
    "Digit",
    "Form"
   ],
-  "options_ne": [
-   "आकार",
-   "सङ्ख्या",
-   "अङ्क",
-   "रूप"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'shape' is closest in meaning to 'figure'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘shape’ को अर्थ ‘figure’ सँग सबैभन्दा नजिक छ।",
@@ -35090,12 +33370,7 @@
    "Digit",
    "Number"
   ],
-  "options_ne": [
-   "आकार",
-   "रूप",
-   "अङ्क",
-   "सङ्ख्या"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'form' is opposite in meaning to 'figure'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘form’ को अर्थ ‘figure’ को विपरीत छ।",
@@ -35228,12 +33503,7 @@
    "Occupy",
    "Empty"
   ],
-  "options_ne": [
-   "खन्याउनु",
-   "बोझ्नु",
-   "ओगट्नु",
-   "खाली गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'occupy' is closest in meaning to 'fill'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘occupy’ को अर्थ ‘fill’ सँग सबैभन्दा नजिक छ।",
@@ -35297,12 +33567,7 @@
    "Load",
    "Empty"
   ],
-  "options_ne": [
-   "ओगट्नु",
-   "खन्याउनु",
-   "बोझ्नु",
-   "खाली गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'empty' is opposite in meaning to 'fill'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘empty’ को अर्थ ‘fill’ को विपरीत छ।",
@@ -35435,12 +33700,7 @@
    "Video",
    "Cinema"
   ],
-  "options_ne": [
-   "तस्बिर",
-   "चलचित्र",
-   "भिडियो",
-   "सिनेमा"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'movie' is closest in meaning to 'film'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘movie’ को अर्थ ‘film’ सँग सबैभन्दा नजिक छ।",
@@ -35504,12 +33764,7 @@
    "Video",
    "Cinema"
   ],
-  "options_ne": [
-   "तस्बिर",
-   "चलचित्र",
-   "भिडियो",
-   "सिनेमा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'cinema' is opposite in meaning to 'film'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘cinema’ को अर्थ ‘film’ को विपरीत छ।",
@@ -35642,12 +33897,7 @@
    "Fee",
    "Penalty"
   ],
-  "options_ne": [
-   "दण्ड",
-   "पुरस्कार",
-   "शुल्क",
-   "सजाय"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'penalty' is closest in meaning to 'fine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘penalty’ को अर्थ ‘fine’ सँग सबैभन्दा नजिक छ।",
@@ -35711,12 +33961,7 @@
    "Penalty",
    "Fee"
   ],
-  "options_ne": [
-   "दण्ड",
-   "पुरस्कार",
-   "सजाय",
-   "शुल्क"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'fee' is opposite in meaning to 'fine'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘fee’ को अर्थ ‘fine’ को विपरीत छ।",
@@ -35849,12 +34094,7 @@
    "Hand",
    "Toe"
   ],
-  "options_ne": [
-   "बूढी औँला",
-   "औँला",
-   "हात",
-   "खुट्टाको औँला"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'digit' is closest in meaning to 'finger'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘digit’ को अर्थ ‘finger’ सँग सबैभन्दा नजिक छ।",
@@ -35918,12 +34158,7 @@
    "Thumb",
    "Digit"
   ],
-  "options_ne": [
-   "हात",
-   "खुट्टाको औँला",
-   "बूढी औँला",
-   "औँला"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'thumb' is opposite in meaning to 'finger'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘thumb’ को अर्थ ‘finger’ को विपरीत छ।",
@@ -36056,12 +34291,7 @@
    "Smoke",
    "Flame"
   ],
-  "options_ne": [
-   "पानी",
-   "आगो",
-   "धुवाँ",
-   "ज्वाला"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'flame' is closest in meaning to 'fire'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘flame’ को अर्थ ‘fire’ सँग सबैभन्दा नजिक छ।",
@@ -36125,12 +34355,7 @@
    "Smoke",
    "Water"
   ],
-  "options_ne": [
-   "ज्वाला",
-   "आगो",
-   "धुवाँ",
-   "पानी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'blaze' is opposite in meaning to 'fire'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘blaze’ को अर्थ ‘fire’ को विपरीत छ।",
@@ -36263,12 +34488,7 @@
    "Catch",
    "Aquatic"
   ],
-  "options_ne": [
-   "चरा",
-   "समुद्री खाना",
-   "समात्नु",
-   "जलीय"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'aquatic' is closest in meaning to 'fish'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘aquatic’ को अर्थ ‘fish’ सँग सबैभन्दा नजिक छ।",
@@ -36332,12 +34552,7 @@
    "Bird",
    "Aquatic"
   ],
-  "options_ne": [
-   "समुद्री खाना",
-   "समात्नु",
-   "चरा",
-   "जलीय"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'seafood' is opposite in meaning to 'fish'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘seafood’ को अर्थ ‘fish’ को विपरीत छ।",
@@ -36470,12 +34685,7 @@
    "Unfit",
    "Appropriate"
   ],
-  "options_ne": [
-   "अनुपयुक्त",
-   "योग्य",
-   "अयोग्य",
-   "उपयुक्त"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'suitable' is closest in meaning to 'fit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘suitable’ को अर्थ ‘fit’ सँग सबैभन्दा नजिक छ।",
@@ -36539,12 +34749,7 @@
    "Unsuitable",
    "Suitable"
   ],
-  "options_ne": [
-   "उपयुक्त",
-   "अयोग्य",
-   "अनुपयुक्त",
-   "योग्य"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'unfit' is opposite in meaning to 'fit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘unfit’ को अर्थ ‘fit’ को विपरीत छ।",
@@ -36677,12 +34882,7 @@
    "Standard",
    "Emblem"
   ],
-  "options_ne": [
-   "निशान",
-   "झण्डा",
-   "मानक",
-   "प्रतीक"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'banner' is closest in meaning to 'flag'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘banner’ को अर्थ ‘flag’ सँग सबैभन्दा नजिक छ।",
@@ -36746,12 +34946,7 @@
    "Emblem",
    "Ensign"
   ],
-  "options_ne": [
-   "झण्डा",
-   "मानक",
-   "प्रतीक",
-   "निशान"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'ensign' is opposite in meaning to 'flag'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ensign’ को अर्थ ‘flag’ को विपरीत छ।",
@@ -36884,12 +35079,7 @@
    "Hilly",
    "Level"
   ],
-  "options_ne": [
-   "खस्रो",
-   "सम",
-   "पहाडी",
-   "समतल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'level' is closest in meaning to 'flat'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘level’ को अर्थ ‘flat’ सँग सबैभन्दा नजिक छ।",
@@ -36953,12 +35143,7 @@
    "Level",
    "Even"
   ],
-  "options_ne": [
-   "पहाडी",
-   "खस्रो",
-   "समतल",
-   "सम"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'hilly' is opposite in meaning to 'flat'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hilly’ को अर्थ ‘flat’ को विपरीत छ।",
@@ -37091,12 +35276,7 @@
    "Inundation",
    "Drought"
   ],
-  "options_ne": [
-   "वर्षा",
-   "प्रलय",
-   "डुबान",
-   "खडेरी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'deluge' is closest in meaning to 'flood'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘deluge’ को अर्थ ‘flood’ सँग सबैभन्दा नजिक छ।",
@@ -37160,12 +35340,7 @@
    "Rain",
    "Deluge"
   ],
-  "options_ne": [
-   "खडेरी",
-   "डुबान",
-   "वर्षा",
-   "प्रलय"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'inundation' is opposite in meaning to 'flood'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘inundation’ को अर्थ ‘flood’ को विपरीत छ।",
@@ -37298,12 +35473,7 @@
    "Level",
    "Storey"
   ],
-  "options_ne": [
-   "छत",
-   "जमिन",
-   "स्तर",
-   "तल्ला"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'ground' is closest in meaning to 'floor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘ground’ को अर्थ ‘floor’ सँग सबैभन्दा नजिक छ।",
@@ -37367,12 +35537,7 @@
    "Level",
    "Ground"
   ],
-  "options_ne": [
-   "छत",
-   "तल्ला",
-   "स्तर",
-   "जमिन"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'storey' is opposite in meaning to 'floor'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘storey’ को अर्थ ‘floor’ को विपरीत छ।",
@@ -37473,12 +35638,7 @@
    "Grain",
    "Powder"
   ],
-  "options_ne": [
-   "पिठो",
-   "आटा",
-   "अन्न",
-   "धुलो"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'meal' is closest in meaning to 'flour'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘meal’ को अर्थ ‘flour’ सँग सबैभन्दा नजिक छ।",
@@ -37542,12 +35702,7 @@
    "Powder",
    "Dough"
   ],
-  "options_ne": [
-   "पिठो",
-   "अन्न",
-   "धुलो",
-   "आटा"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'powder' is opposite in meaning to 'flour'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘powder’ को अर्थ ‘flour’ को विपरीत छ।",
@@ -37680,12 +35835,7 @@
    "Stream",
    "Stagnate"
   ],
-  "options_ne": [
-   "दौड्नु",
-   "धारा",
-   "खोल्सा",
-   "थामिनु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'stream' is closest in meaning to 'flow'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘stream’ को अर्थ ‘flow’ सँग सबैभन्दा नजिक छ।",
@@ -37749,12 +35899,7 @@
    "Run",
    "Stream"
   ],
-  "options_ne": [
-   "थामिनु",
-   "धारा",
-   "दौड्नु",
-   "खोल्सा"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'current' is opposite in meaning to 'flow'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘current’ को अर्थ ‘flow’ को विपरीत छ।",
@@ -37887,12 +36032,7 @@
    "Plant",
    "Bloom"
   ],
-  "options_ne": [
-   "फूल",
-   "पंखुडी",
-   "बिरुवा",
-   "फुल्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'bloom' is closest in meaning to 'flower'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bloom’ को अर्थ ‘flower’ सँग सबैभन्दा नजिक छ।",
@@ -37956,12 +36096,7 @@
    "Bloom",
    "Plant"
   ],
-  "options_ne": [
-   "फूल",
-   "पंखुडी",
-   "फुल्नु",
-   "बिरुवा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'blossom' is opposite in meaning to 'flower'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘blossom’ को अर्थ ‘flower’ को विपरीत छ।",
@@ -38094,12 +36229,7 @@
    "Smooth",
    "Hesitant"
   ],
-  "options_ne": [
-   "टुटेको",
-   "वाक्पटु",
-   "चिल्लो",
-   "हिचकिचाउने"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'eloquent' is closest in meaning to 'fluent'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘eloquent’ को अर्थ ‘fluent’ सँग सबैभन्दा नजिक छ।",
@@ -38163,12 +36293,7 @@
    "Hesitant",
    "Broken"
   ],
-  "options_ne": [
-   "चिल्लो",
-   "वाक्पटु",
-   "हिचकिचाउने",
-   "टुटेको"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'hesitant' is opposite in meaning to 'fluent'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘hesitant’ को अर्थ ‘fluent’ को विपरीत छ।",
@@ -38301,12 +36426,7 @@
    "Glide",
    "Walk"
   ],
-  "options_ne": [
-   "अवतरण गर्नु",
-   "उड्नु",
-   "तैरिनु",
-   "हिँड्नु"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'soar' is closest in meaning to 'fly'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘soar’ को अर्थ ‘fly’ सँग सबैभन्दा नजिक छ।",
@@ -38370,12 +36490,7 @@
    "Walk",
    "Land"
   ],
-  "options_ne": [
-   "उड्नु",
-   "तैरिनु",
-   "हिँड्नु",
-   "अवतरण गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'land' is opposite in meaning to 'fly'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘land’ को अर्थ ‘fly’ को विपरीत छ।",
@@ -38508,12 +36623,7 @@
    "Attention",
    "Centre"
   ],
-  "options_ne": [
-   "विचलन",
-   "एकाग्रता",
-   "ध्यान",
-   "केन्द्र"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'concentration' is closest in meaning to 'focus'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘concentration’ को अर्थ ‘focus’ सँग सबैभन्दा नजिक छ।",
@@ -38577,12 +36687,7 @@
    "Centre",
    "Distraction"
   ],
-  "options_ne": [
-   "ध्यान",
-   "एकाग्रता",
-   "केन्द्र",
-   "विचलन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'attention' is opposite in meaning to 'focus'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘attention’ को अर्थ ‘focus’ को विपरीत छ।",
@@ -38715,12 +36820,7 @@
    "Cloud",
    "Haze"
   ],
-  "options_ne": [
-   "कुहिरो",
-   "सफा",
-   "बादल",
-   "धुम्म"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'mist' is closest in meaning to 'fog'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘mist’ को अर्थ ‘fog’ सँग सबैभन्दा नजिक छ।",
@@ -38784,12 +36884,7 @@
    "Cloud",
    "Clear"
   ],
-  "options_ne": [
-   "धुम्म",
-   "कुहिरो",
-   "बादल",
-   "सफा"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'haze' is opposite in meaning to 'fog'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘haze’ को अर्थ ‘fog’ को विपरीत छ।",
@@ -38922,12 +37017,7 @@
    "Unfold",
    "Bend"
   ],
-  "options_ne": [
-   "चाउरी",
-   "बेर्नु",
-   "खोल्नु",
-   "मोड्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'bend' is closest in meaning to 'fold'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘bend’ को अर्थ ‘fold’ सँग सबैभन्दा नजिक छ।",
@@ -38991,12 +37081,7 @@
    "Bend",
    "Unfold"
   ],
-  "options_ne": [
-   "चाउरी",
-   "बेर्नु",
-   "मोड्नु",
-   "खोल्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'unfold' is opposite in meaning to 'fold'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘unfold’ को अर्थ ‘fold’ को विपरीत छ।",
@@ -39129,12 +37214,7 @@
    "Lead",
    "Obey"
   ],
-  "options_ne": [
-   "पछ्याउनु",
-   "अगाडि हुनु",
-   "नेतृत्व गर्नु",
-   "आज्ञा मान्नु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'pursue' is closest in meaning to 'follow'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘pursue’ को अर्थ ‘follow’ सँग सबैभन्दा नजिक छ।",
@@ -39198,12 +37278,7 @@
    "Obey",
    "Precede"
   ],
-  "options_ne": [
-   "नेतृत्व गर्नु",
-   "पछ्याउनु",
-   "आज्ञा मान्नु",
-   "अगाडि हुनु"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'lead' is opposite in meaning to 'follow'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘lead’ को अर्थ ‘follow’ को विपरीत छ।",
@@ -39336,12 +37411,7 @@
    "Nutrition",
    "Meal"
   ],
-  "options_ne": [
-   "भोक",
-   "आहार",
-   "पोषण",
-   "भोजन"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'meal' is closest in meaning to 'food'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘meal’ को अर्थ ‘food’ सँग सबैभन्दा नजिक छ।",
@@ -39405,12 +37475,7 @@
    "Nutrition",
    "Meal"
   ],
-  "options_ne": [
-   "आहार",
-   "भोक",
-   "पोषण",
-   "भोजन"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'diet' is opposite in meaning to 'food'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘diet’ को अर्थ ‘food’ को विपरीत छ।",
@@ -39511,12 +37576,7 @@
    "Hand",
    "Toe"
   ],
-  "options_ne": [
-   "खुट्टाहरू",
-   "खुट्टा",
-   "हात",
-   "खुट्टाको औँला"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'feet' is closest in meaning to 'foot'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘feet’ को अर्थ ‘foot’ सँग सबैभन्दा नजिक छ।",
@@ -39580,12 +37640,7 @@
    "Hand",
    "Leg"
   ],
-  "options_ne": [
-   "खुट्टाको औँला",
-   "खुट्टाहरू",
-   "हात",
-   "खुट्टा"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'leg' is opposite in meaning to 'foot'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘leg’ को अर्थ ‘foot’ को विपरीत छ।",
@@ -39718,12 +37773,7 @@
    "Jungle",
    "Desert"
   ],
-  "options_ne": [
-   "कुञ्ज",
-   "वन",
-   "जङ्गल",
-   "मरुभूमि"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'woods' is closest in meaning to 'forest'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘woods’ को अर्थ ‘forest’ सँग सबैभन्दा नजिक छ।",
@@ -39787,12 +37837,7 @@
    "Desert",
    "Jungle"
   ],
-  "options_ne": [
-   "कुञ्ज",
-   "वन",
-   "मरुभूमि",
-   "जङ्गल"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'jungle' is opposite in meaning to 'forest'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘jungle’ को अर्थ ‘forest’ को विपरीत छ।",
@@ -39925,12 +37970,7 @@
    "Shape",
    "Structure"
   ],
-  "options_ne": [
-   "ढाँचा",
-   "खाली",
-   "आकार",
-   "संरचना"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'shape' is closest in meaning to 'form'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘shape’ को अर्थ ‘form’ सँग सबैभन्दा नजिक छ।",
@@ -39994,12 +38034,7 @@
    "Format",
    "Shape"
   ],
-  "options_ne": [
-   "संरचना",
-   "खाली",
-   "ढाँचा",
-   "आकार"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'structure' is opposite in meaning to 'form'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘structure’ को अर्थ ‘form’ को विपरीत छ।",
@@ -40132,12 +38167,7 @@
    "Ceremonial",
    "Official"
   ],
-  "options_ne": [
-   "साधारण",
-   "अनौपचारिक",
-   "औपचारिक",
-   "आधिकारिक"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'official' is closest in meaning to 'formal'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘official’ को अर्थ ‘formal’ सँग सबैभन्दा नजिक छ।",
@@ -40201,12 +38231,7 @@
    "Casual",
    "Informal"
   ],
-  "options_ne": [
-   "औपचारिक",
-   "आधिकारिक",
-   "साधारण",
-   "अनौपचारिक"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'informal' is opposite in meaning to 'formal'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘informal’ को अर्थ ‘formal’ को विपरीत छ।",
@@ -40339,12 +38364,7 @@
    "Latter",
    "Current"
   ],
-  "options_ne": [
-   "पहिलेको",
-   "अघिल्लो",
-   "पछिल्लो",
-   "हालको"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'previous' is closest in meaning to 'former'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘previous’ को अर्थ ‘former’ सँग सबैभन्दा नजिक छ।",
@@ -40408,12 +38428,7 @@
    "Previous",
    "Current"
   ],
-  "options_ne": [
-   "पछिल्लो",
-   "पहिलेको",
-   "अघिल्लो",
-   "हालको"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'latter' is opposite in meaning to 'former'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘latter’ को अर्थ ‘former’ को विपरीत छ।",
@@ -40514,12 +38529,7 @@
    "Luck",
    "Destiny"
   ],
-  "options_ne": [
-   "दुर्भाग्य",
-   "धन",
-   "भाग्य",
-   "नियति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'luck' is closest in meaning to 'fortune'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘luck’ को अर्थ ‘fortune’ सँग सबैभन्दा नजिक छ।",
@@ -40583,12 +38593,7 @@
    "Wealth",
    "Luck"
   ],
-  "options_ne": [
-   "दुर्भाग्य",
-   "नियति",
-   "धन",
-   "भाग्य"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'wealth' is opposite in meaning to 'fortune'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘wealth’ को अर्थ ‘fortune’ को विपरीत छ।",
@@ -40721,12 +38726,7 @@
    "Establish",
    "Create"
   ],
-  "options_ne": [
-   "उन्मूलन गर्नु",
-   "पत्ता लगाउनु",
-   "स्थापना गर्नु",
-   "सिर्जना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'establish' is closest in meaning to 'found'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘establish’ को अर्थ ‘found’ सँग सबैभन्दा नजिक छ।",
@@ -40790,12 +38790,7 @@
    "Establish",
    "Create"
   ],
-  "options_ne": [
-   "पत्ता लगाउनु",
-   "उन्मूलन गर्नु",
-   "स्थापना गर्नु",
-   "सिर्जना गर्नु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'create' is opposite in meaning to 'found'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘create’ को अर्थ ‘found’ को विपरीत छ।",
@@ -40896,12 +38891,7 @@
    "Gratis",
    "Paid"
   ],
-  "options_ne": [
-   "बाँधिएको",
-   "मुक्त",
-   "निःशुल्क",
-   "भुक्तानी गरिएको"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'gratis' is closest in meaning to 'free'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘gratis’ को अर्थ ‘free’ सँग सबैभन्दा नजिक छ।",
@@ -40965,12 +38955,7 @@
    "Paid",
    "Liberated"
   ],
-  "options_ne": [
-   "बाँधिएको",
-   "निःशुल्क",
-   "भुक्तानी गरिएको",
-   "मुक्त"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'paid' is opposite in meaning to 'free'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘paid’ को अर्थ ‘free’ को विपरीत छ।",
@@ -41103,12 +39088,7 @@
    "Captivity",
    "Liberty"
   ],
-  "options_ne": [
-   "स्वतन्त्रता",
-   "दासत्व",
-   "कैद",
-   "स्वाधीनता"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'liberty' is closest in meaning to 'freedom'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘liberty’ को अर्थ ‘freedom’ सँग सबैभन्दा नजिक छ।",
@@ -41140,12 +39120,7 @@
    "Slavery",
    "Independence"
   ],
-  "options_ne": [
-   "कैद",
-   "स्वाधीनता",
-   "दासत्व",
-   "स्वतन्त्रता"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'slavery' is opposite in meaning to 'freedom'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘slavery’ को अर्थ ‘freedom’ को विपरीत छ।",
@@ -41246,12 +39221,7 @@
    "Companion",
    "Foe"
   ],
-  "options_ne": [
-   "साथी",
-   "शत्रु",
-   "सहयात्री",
-   "विरोधी"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'companion' is closest in meaning to 'friend'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘companion’ को अर्थ ‘friend’ सँग सबैभन्दा नजिक छ।",
@@ -41315,12 +39285,7 @@
    "Companion",
    "Enemy"
   ],
-  "options_ne": [
-   "विरोधी",
-   "साथी",
-   "सहयात्री",
-   "शत्रु"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'enemy' is opposite in meaning to 'friend'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘enemy’ को अर्थ ‘friend’ को विपरीत छ।",
@@ -41453,12 +39418,7 @@
    "Vegetable",
    "Berry"
   ],
-  "options_ne": [
-   "बीउ",
-   "उपज",
-   "तरकारी",
-   "बेरी"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'produce' is closest in meaning to 'fruit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘produce’ को अर्थ ‘fruit’ सँग सबैभन्दा नजिक छ।",
@@ -41522,12 +39482,7 @@
    "Vegetable",
    "Produce"
   ],
-  "options_ne": [
-   "बेरी",
-   "बीउ",
-   "तरकारी",
-   "उपज"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'berry' is opposite in meaning to 'fruit'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘berry’ को अर्थ ‘fruit’ को विपरीत छ।",
@@ -41660,12 +39615,7 @@
    "Complete",
    "Vacant"
   ],
-  "options_ne": [
-   "भरिएको",
-   "खाली",
-   "पूर्ण",
-   "रिक्त"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'complete' is closest in meaning to 'full'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘complete’ को अर्थ ‘full’ सँग सबैभन्दा नजिक छ।",
@@ -41729,12 +39679,7 @@
    "Vacant",
    "Empty"
   ],
-  "options_ne": [
-   "पूर्ण",
-   "भरिएको",
-   "रिक्त",
-   "खाली"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'empty' is opposite in meaning to 'full'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘empty’ को अर्थ ‘full’ को विपरीत छ।",
@@ -41867,12 +39812,7 @@
    "Enjoyment",
    "Boredom"
   ],
-  "options_ne": [
-   "मनोरञ्जन",
-   "खुसी",
-   "आनन्द",
-   "विरक्ति"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'amusement' is closest in meaning to 'fun'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘amusement’ को अर्थ ‘fun’ सँग सबैभन्दा नजिक छ।",
@@ -41936,12 +39876,7 @@
    "Enjoyment",
    "Boredom"
   ],
-  "options_ne": [
-   "खुसी",
-   "मनोरञ्जन",
-   "आनन्द",
-   "विरक्ति"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'enjoyment' is opposite in meaning to 'fun'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘enjoyment’ को अर्थ ‘fun’ को विपरीत छ।",
@@ -42042,12 +39977,7 @@
    "Operation",
    "Purpose"
   ],
-  "options_ne": [
-   "भूमिका",
-   "कर्तव्य",
-   "सञ्चालन",
-   "उद्देश्य"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'role' is closest in meaning to 'function'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘role’ को अर्थ ‘function’ सँग सबैभन्दा नजिक छ।",
@@ -42111,12 +40041,7 @@
    "Duty",
    "Role"
   ],
-  "options_ne": [
-   "सञ्चालन",
-   "उद्देश्य",
-   "कर्तव्य",
-   "भूमिका"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'purpose' is opposite in meaning to 'function'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘purpose’ को अर्थ ‘function’ को विपरीत छ।",
@@ -42217,12 +40142,7 @@
    "Budget",
    "Capital"
   ],
-  "options_ne": [
-   "वित्त",
-   "पैसा",
-   "बजेट",
-   "पूँजी"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Of the options, 'finance' is closest in meaning to 'fund'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘finance’ को अर्थ ‘fund’ सँग सबैभन्दा नजिक छ।",
@@ -42286,12 +40206,7 @@
    "Money",
    "Finance"
   ],
-  "options_ne": [
-   "बजेट",
-   "पूँजी",
-   "पैसा",
-   "वित्त"
-  ],
+  "options_ne": null,
   "answer": 2,
   "explanation": "Of the options, 'money' is opposite in meaning to 'fund'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘money’ को अर्थ ‘fund’ को विपरीत छ।",
@@ -42424,12 +40339,7 @@
    "Past",
    "Present"
   ],
-  "options_ne": [
-   "नियति",
-   "आगामी",
-   "विगत",
-   "वर्तमान"
-  ],
+  "options_ne": null,
   "answer": 1,
   "explanation": "Of the options, 'forthcoming' is closest in meaning to 'future'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘forthcoming’ को अर्थ ‘future’ सँग सबैभन्दा नजिक छ।",
@@ -42493,12 +40403,7 @@
    "Forthcoming",
    "Past"
   ],
-  "options_ne": [
-   "नियति",
-   "वर्तमान",
-   "आगामी",
-   "विगत"
-  ],
+  "options_ne": null,
   "answer": 3,
   "explanation": "Of the options, 'past' is opposite in meaning to 'future'.",
   "explanation_ne": "विकल्पहरूमध्ये ‘past’ को अर्थ ‘future’ को विपरीत छ।",

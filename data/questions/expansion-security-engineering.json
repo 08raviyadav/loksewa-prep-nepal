@@ -2427,19 +2427,19 @@
    "Jawan",
    "Prahari",
    "Sainya",
-   "Yoddha"
+   "Sipahi"
   ],
-  "answer": 2,
-  "explanation": "A soldier in the Nepali Army is called Sainya (Sipahi).",
+  "answer": 3,
+  "explanation": "Sipahi is the standard Nepali term for a soldier in the Nepali Army.",
   "source": "General knowledge",
   "question_ne": "नेपाली सेनामा कार्यरत सैनिकलाई नेपालीमा के भनिन्छ?",
   "options_ne": [
    "जवान",
    "प्रहरी",
    "सैन्य",
-   "योद्धा"
+   "सिपाही"
   ],
-  "explanation_ne": "नेपाली सेनामा कार्यरत सैनिकलाई सैन्य (सिपाही) भनिन्छ।"
+  "explanation_ne": "सिपाही नेपाली सेनाका सैनिकका लागि मानक नेपाली शब्द हो।"
  },
  {
   "id": "ARMY2-030",

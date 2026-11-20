@@ -1199,8 +1199,8 @@
    "special"
   ],
   "answer": 2,
-  "explanation": "CHEAP is an anagram of PEACH (the same letters rearranged); LARGE is the corresponding anagram match for REGUL.",
-  "explanation_ne": "CHEAP भनेको PEACH का अक्षरहरू मिलाएर बनेको शब्द हो; त्यसैगरी REGUL का लागि मिल्ने शब्द LARGE हो।",
+  "explanation": "The intended pattern is an anagram: CHEAP is PEACH with the letters rearranged, and the matching anagram for REGAL is LARGE. Note the paper itself prints 'regul' instead of 'regal', so the letters do not match exactly: REGUL (R, E, G, U, L) and LARGE (L, A, R, G, E) differ by one letter (U vs A). The key follows the paper's intended answer, LARGE.",
+  "explanation_ne": "उद्देश्य गरिएको नियम अक्षर मिलाउने (anagram) हो: CHEAP भनेको PEACH का अक्षरहरू मिलाएर बनेको शब्द हो, र REGAL को मिल्ने शब्द LARGE हो। तर प्रश्नपत्रमै 'regal' को सट्टा 'regul' छापिएको छ, त्यसैले अक्षरहरू ठ्याक्कै मिल्दैनन्: REGUL (R, E, G, U, L) र LARGE (L, A, R, G, E) एउटा अक्षरले फरक छन् (U र A)। उत्तर प्रश्नपत्रको उद्देश्यअनुसार LARGE हो।",
   "source": "Previous Year — NaSu First Paper 2083-01-20"
  },
  {
@@ -2471,7 +2471,8 @@
  {
   "id": "KOSHI-2083-01",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal Geography",
   "subtopic": "World geography (deepest ocean point)",
@@ -2499,7 +2500,8 @@
  {
   "id": "KOSHI-2083-02",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal Geography",
   "subtopic": "World geography statements",
@@ -2527,7 +2529,8 @@
  {
   "id": "KOSHI-2083-03",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal Geography",
   "subtopic": "Chhayanath National Park area",
@@ -2555,7 +2558,8 @@
  {
   "id": "KOSHI-2083-04",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal History",
   "subtopic": "Lichchhavi dynasty founder",
@@ -2583,7 +2587,8 @@
  {
   "id": "KOSHI-2083-05",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal History",
   "subtopic": "First World War",
@@ -2611,7 +2616,8 @@
  {
   "id": "KOSHI-2083-06",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "First woman Prime Minister of Nepal",
@@ -2639,7 +2645,8 @@
  {
   "id": "KOSHI-2083-07",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Chonam festival",
@@ -2667,7 +2674,8 @@
  {
   "id": "KOSHI-2083-08",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Nepali literature (authors)",
@@ -2695,7 +2703,8 @@
  {
   "id": "KOSHI-2083-09",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Vedas",
@@ -2757,7 +2766,8 @@
  {
   "id": "KOSHI-2083-11",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Economy & Development",
   "subtopic": "16th Plan per capita income target",
@@ -2785,7 +2795,8 @@
  {
   "id": "KOSHI-2083-12",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Chaite Dashain",
@@ -2813,7 +2824,8 @@
  {
   "id": "KOSHI-2083-13",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Koshi Tourism Year 2082 slogan",
@@ -2841,7 +2853,8 @@
  {
   "id": "KOSHI-2083-14",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal Geography",
   "subtopic": "Most populous local level in Koshi",
@@ -2869,7 +2882,8 @@
  {
   "id": "KOSHI-2083-15",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Science & Tech",
   "subtopic": "Microscope use",
@@ -2897,7 +2911,8 @@
  {
   "id": "KOSHI-2083-16",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Science & Tech",
   "subtopic": "Mobile phone inventor",
@@ -2925,7 +2940,8 @@
  {
   "id": "KOSHI-2083-17",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Science & Tech",
   "subtopic": "Telemedicine objective",
@@ -2953,7 +2969,8 @@
  {
   "id": "KOSHI-2083-18",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Immigrants in the world",
@@ -2981,7 +2998,8 @@
  {
   "id": "KOSHI-2083-19",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Copenhagen climate conference",
@@ -3009,7 +3027,8 @@
  {
   "id": "KOSHI-2083-20",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Biodiversity Day 2025 theme",
@@ -3037,7 +3056,8 @@
  {
   "id": "KOSHI-2083-21",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Constitution & Governance",
   "subtopic": "Right to information about action taken",
@@ -3065,7 +3085,8 @@
  {
   "id": "KOSHI-2083-22",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Constitution & Governance",
   "subtopic": "Family planning and population management",
@@ -3093,7 +3114,8 @@
  {
   "id": "KOSHI-2083-23",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Constitution & Governance",
   "subtopic": "Right to live with dignity (no death penalty)",
@@ -3121,7 +3143,8 @@
  {
   "id": "KOSHI-2083-24",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "UN official languages",
@@ -3149,7 +3172,8 @@
  {
   "id": "KOSHI-2083-25",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "SAARC Day",
@@ -3177,7 +3201,8 @@
  {
   "id": "KOSHI-2083-26",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Science & Tech",
   "subtopic": "Fields Medal",
@@ -3205,7 +3230,8 @@
  {
   "id": "KOSHI-2083-27",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Labour agreement January 2026",
@@ -3233,7 +3259,8 @@
  {
   "id": "KOSHI-2083-28",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Satyamohan Joshi Nepal Bhasha Sahitya Sirapa 2081",
@@ -3261,7 +3288,8 @@
  {
   "id": "KOSHI-2083-29",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Culture & Society",
   "subtopic": "Pancharatna",
@@ -3289,7 +3317,8 @@
  {
   "id": "KOSHI-2083-30",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepal History",
   "subtopic": "First Vice-Chancellor of Tribhuvan University",
@@ -3317,7 +3346,8 @@
  {
   "id": "KOSHI-2083-31",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Current Affairs",
   "subtopic": "Nepal Premier League season 2 winner",
@@ -3345,7 +3375,8 @@
  {
   "id": "KOSHI-2083-32",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepali Language",
   "subtopic": "Prefix (upasarga) — 'karan'",
@@ -3373,7 +3404,8 @@
  {
   "id": "KOSHI-2083-33",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Nepali Language",
   "subtopic": "Part of speech — 'ghar'",
@@ -3401,7 +3433,8 @@
  {
   "id": "KOSHI-2083-34",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Economy & Development",
   "subtopic": "Remittance share of GDP",
@@ -3429,7 +3462,8 @@
  {
   "id": "KOSHI-2083-35",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Economy & Development",
   "subtopic": "Periodic plans (average growth rate)",
@@ -3457,7 +3491,8 @@
  {
   "id": "KOSHI-2083-36",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Letter series (paired sums)",
@@ -3485,7 +3520,8 @@
  {
   "id": "KOSHI-2083-37",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Analogy (circle-square)",
@@ -3513,7 +3549,8 @@
  {
   "id": "KOSHI-2083-38",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Word coding",
@@ -3541,7 +3578,8 @@
  {
   "id": "KOSHI-2083-39",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Direction renaming",
@@ -3569,7 +3607,8 @@
  {
   "id": "KOSHI-2083-40a",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Maths & Numerical",
   "subtopic": "Number analogy (first of two questions numbered 40)",
@@ -3597,7 +3636,8 @@
  {
   "id": "KOSHI-2083-40b",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Letter matrix (second of two questions numbered 40)",
@@ -3625,7 +3665,8 @@
  {
   "id": "KOSHI-2083-42",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Maths & Numerical",
   "subtopic": "Number group analogy",
@@ -3653,7 +3694,8 @@
  {
   "id": "KOSHI-2083-43",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Maths & Numerical",
   "subtopic": "Ratio (dogs and cats)",
@@ -3681,7 +3723,8 @@
  {
   "id": "KOSHI-2083-44",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "Maths & Numerical",
   "subtopic": "Number series (digit-sum)",
@@ -3709,7 +3752,8 @@
  {
   "id": "KOSHI-2083-45",
   "exam": [
-   "kharidar"
+   "kharidar",
+   "provincial-psc"
   ],
   "topic": "IQ & Reasoning",
   "subtopic": "Letter values puzzle",

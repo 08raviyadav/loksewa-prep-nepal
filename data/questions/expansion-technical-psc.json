@@ -9095,34 +9095,6 @@
   "explanation_ne": "सुकराती विधिले खोजमूलक प्रश्नबाट विद्यार्थीलाई उत्तर पत्ता लगाउन मार्गदर्शन गर्छ।"
  },
  {
-  "id": "TSCLS-061",
-  "exam": [
-   "tsc-lower-secondary"
-  ],
-  "topic": "Education & Pedagogy",
-  "subtopic": "Teaching methods",
-  "difficulty": "medium",
-  "marks": 2,
-  "question": "What is micro-teaching?",
-  "options": [
-   "Teaching very small children only",
-   "Teaching with a microscope",
-   "Teaching one student online",
-   "A scaled-down teaching practice to develop specific teaching skills"
-  ],
-  "answer": 3,
-  "explanation": "Micro-teaching is a scaled-down teaching exercise used to practise specific skills.",
-  "source": "General knowledge",
-  "question_ne": "सूक्ष्म शिक्षण (माइक्रो-टिचिङ) भनेको के हो?",
-  "options_ne": [
-   "धेरै साना बालकलाई मात्र पढाउनु",
-   "सूक्ष्मदर्शक यन्त्रबाट पढाउनु",
-   "एक विद्यार्थीलाई अनलाइन पढाउनु",
-   "विशिष्ट शिक्षण सीप विकास गर्न गरिने सानो स्तरको शिक्षण अभ्यास"
-  ],
-  "explanation_ne": "सूक्ष्म शिक्षण भनेको विशिष्ट सीप अभ्यास गर्न गरिने सानो स्तरको शिक्षण अभ्यास हो।"
- },
- {
   "id": "TSCLS-062",
   "exam": [
    "tsc-lower-secondary"

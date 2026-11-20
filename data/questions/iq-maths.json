@@ -2439,12 +2439,7 @@
    "Tired",
    "Angry"
   ],
-  "options_ne": [
-   "खुसी",
-   "दुःखी",
-   "थाकेको",
-   "रिसाएको"
-  ],
+  "options_ne": null,
   "answer": 0,
   "explanation": "Joyful means happy; the others are opposite or unrelated.",
   "explanation_ne": "Joyful को अर्थ happy; अन्य विपरीत वा असंबद्ध छन्।",
@@ -3498,94 +3493,6 @@
   "answer": 2,
   "explanation": "SP = 700 + 30% of 700 = 700 + 210 = 910.",
   "explanation_ne": "SP = ७०० + ३०% को ७०० = ७०० + २१० = ९१०।",
-  "source": "Aptitude"
- },
- {
-  "id": "MATH-023",
-  "exam": [
-   "kharidar",
-   "nasu"
-  ],
-  "topic": "Maths & Numerical",
-  "subtopic": "Simple and Compound Interest",
-  "difficulty": "easy",
-  "marks": 2,
-  "question": "Find the simple interest on Rs 1000 at 10% per annum for 2 year(s).",
-  "question_ne": "1000 रुपैयाँमा २ वर्षको लागि वार्षिक १०% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
-  "options": [
-   "200",
-   "300",
-   "250",
-   "180"
-  ],
-  "options_ne": [
-   "२००",
-   "३००",
-   "२५०",
-   "१८०"
-  ],
-  "answer": 0,
-  "explanation": "SI = P x R x T / 100 = 1000 x 10 x 2 / 100 = Rs 200.",
-  "explanation_ne": "SI = P x R x T / १०० = १००० x १० x २ / १०० = रु २००।",
-  "source": "Aptitude"
- },
- {
-  "id": "MATH-024",
-  "exam": [
-   "nasu",
-   "section-officer"
-  ],
-  "topic": "Maths & Numerical",
-  "subtopic": "Simple and Compound Interest",
-  "difficulty": "easy",
-  "marks": 2,
-  "question": "Find the simple interest on Rs 2000 at 5% per annum for 3 year(s).",
-  "question_ne": "२००० रुपैयाँमा ३ वर्षको लागि वार्षिक ५% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
-  "options": [
-   "350",
-   "300",
-   "400",
-   "280"
-  ],
-  "options_ne": [
-   "३५०",
-   "३००",
-   "४००",
-   "२८०"
-  ],
-  "answer": 1,
-  "explanation": "SI = P x R x T / 100 = 2000 x 5 x 3 / 100 = Rs 300.",
-  "explanation_ne": "SI = P x R x T / १०० = २००० x ५ x ३ / १०० = रु ३००।",
-  "source": "Aptitude"
- },
- {
-  "id": "MATH-025",
-  "exam": [
-   "kharidar",
-   "nasu",
-   "section-officer"
-  ],
-  "topic": "Maths & Numerical",
-  "subtopic": "Simple and Compound Interest",
-  "difficulty": "easy",
-  "marks": 2,
-  "question": "Find the simple interest on Rs 5000 at 4% per annum for 2 year(s).",
-  "question_ne": "५००० रुपैयाँमा २ वर्षको लागि वार्षिक ४% मा साधारण ब्याज पत्ता लगाउनुहोस्।",
-  "options": [
-   "450",
-   "380",
-   "400",
-   "500"
-  ],
-  "options_ne": [
-   "४५०",
-   "३८०",
-   "४००",
-   "५००"
-  ],
-  "answer": 2,
-  "explanation": "SI = P x R x T / 100 = 5000 x 4 x 2 / 100 = Rs 400.",
-  "explanation_ne": "SI = P x R x T / १०० = ५००० x ४ x २ / १०० = रु ४००।",
   "source": "Aptitude"
  },
  {
