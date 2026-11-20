@@ -2130,8 +2130,8 @@
    "१९१६"
   ],
   "answer": 3,
-  "explanation": "The first telephone line in Kathmandu was established in 1916, followed by an open-wire trunk line to Raxaul in 1917.",
-  "explanation_ne": "काठमाडौंमा पहिलो टेलिफोन लाइन सन् १९१६ मा स्थापना भयो, त्यसपछि सन् १९१७ मा रक्सौलसम्म खुला तार ट्रंक लाइन बन्यो।",
+  "explanation": "The first telephone line in Kathmandu was established in 1916, and an open-wire trunk line to Raxaul followed the same year (1916).",
+  "explanation_ne": "काठमाडौंमा पहिलो टेलिफोन लाइन सन् १९१६ मा स्थापना भयो, र रक्सौलसम्म खुला तार ट्रंक लाइन सोही वर्ष (१९१६) मा बन्यो।",
   "source": "Nepal Telecom: history & services; NTA; ITU"
  },
  {
@@ -2202,20 +2202,20 @@
   "question": "The first automatic telephone exchange in Nepal (1,000 lines, Kathmandu) began in:",
   "question_ne": "नेपालमा पहिलो स्वचालित टेलिफोन एक्सचेन्ज (१,००० लाइन, काठमाडौं) कहिले सुरु भयो?",
   "options": [
-   "1965",
+   "1963",
    "1983",
    "1962",
    "1975"
   ],
   "options_ne": [
-   "१९६५",
+   "१९६३",
    "१९८३",
    "१९६२",
    "१९७५"
   ],
   "answer": 0,
-  "explanation": "The first automatic exchange of 1,000 lines began in Kathmandu in 1965 (a 1,000-line crossbar exchange was set up in 1963).",
-  "explanation_ne": "पहिलो स्वचालित एक्सचेन्ज (१,००० लाइन) काठमाडौंमा सन् १९६५ मा सुरु भयो (१,००० लाइन क्रसबार एक्सचेन्ज सन् १९६३ मा स्थापना भयो)।",
+  "explanation": "The first automatic exchange of 1,000 lines began in Kathmandu in 1963.",
+  "explanation_ne": "पहिलो स्वचालित एक्सचेन्ज (१,००० लाइन) काठमाडौंमा सन् १९६३ मा सुरु भयो।",
   "source": "Nepal Telecom: history & services; NTA; ITU"
  },
  {

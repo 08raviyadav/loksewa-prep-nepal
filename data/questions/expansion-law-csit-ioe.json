@@ -8746,29 +8746,6 @@
   "source": "IOE entrance syllabus: English"
  },
  {
-  "id": "IOE2-075",
-  "exam": [
-   "ioe-entrance"
-  ],
-  "topic": "English",
-  "subtopic": "English",
-  "difficulty": "easy",
-  "marks": 1,
-  "question": "Choose the antonym of 'generous':",
-  "question_ne": "'generous' को विलोम छान्नुहोस्:",
-  "options": [
-   "Charitable",
-   "Selfish",
-   "Kind",
-   "Helpful"
-  ],
-  "options_ne": null,
-  "answer": 1,
-  "explanation": "Generous means giving freely; selfish is its antonym.",
-  "explanation_ne": "Generous को अर्थ स्वतन्त्र रूपमा दिनु हो; selfish यसको विलोम हो।",
-  "source": "IOE entrance syllabus: English"
- },
- {
   "id": "IOE2-076",
   "exam": [
    "ioe-entrance",

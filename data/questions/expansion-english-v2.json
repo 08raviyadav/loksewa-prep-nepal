@@ -2656,31 +2656,6 @@
   "source": "English vocabulary — standard PSC syllabus"
  },
  {
-  "id": "ENGV2-101",
-  "exam": [
-   "section-officer",
-   "kharidar",
-   "nasu"
-  ],
-  "topic": "English",
-  "subtopic": "Vocabulary",
-  "difficulty": "easy",
-  "marks": 1,
-  "question": "Choose the synonym of generous.",
-  "question_ne": "‘generous’ शब्दको पर्यायवाची (synonym) छान्नुहोस्।",
-  "options": [
-   "Liberal",
-   "Mean",
-   "Selfish",
-   "Greedy"
-  ],
-  "options_ne": null,
-  "answer": 0,
-  "explanation": "'generous' means the same as 'Liberal'.",
-  "explanation_ne": "‘generous’ को अर्थ ‘उदार’ हो।",
-  "source": "English vocabulary — standard PSC syllabus"
- },
- {
   "id": "ENGV2-102",
   "exam": [
    "section-officer",

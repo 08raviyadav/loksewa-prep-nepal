@@ -6620,7 +6620,7 @@
   "subtopic": "Nepal Police Act & Organisation",
   "difficulty": "easy",
   "marks": 2,
-  "question": "What is the minimum education required to apply for Nepal Police Inspector (SI)?",
+  "question": "What is the minimum education required to apply for Nepal Police Inspector?",
   "options": [
    "SEE pass",
    "+2 pass",
@@ -6628,16 +6628,16 @@
    "Master's degree"
   ],
   "answer": 2,
-  "explanation": "Police Inspector (Sub-Inspector) generally requires a Bachelor's degree.",
+  "explanation": "A Nepal Police Inspector generally requires a Bachelor's degree.",
   "source": "Nepal Police",
-  "question_ne": "नेपाल प्रहरी निरीक्षक (SI) का लागि न्यूनतम शैक्षिक योग्यता के चाहिन्छ?",
+  "question_ne": "नेपाल प्रहरी निरीक्षकका लागि न्यूनतम शैक्षिक योग्यता के चाहिन्छ?",
   "options_ne": [
    "SEE उत्तीर्ण",
    "+२ उत्तीर्ण",
    "स्नातक तह",
    "स्नातकोत्तर तह"
   ],
-  "explanation_ne": "प्रहरी निरीक्षक (सब-इन्स्पेक्टर) का लागि सामान्यतया स्नातक तह चाहिन्छ।"
+  "explanation_ne": "प्रहरी निरीक्षकका लागि सामान्यतया स्नातक तह चाहिन्छ।"
  },
  {
   "id": "POL3-023",

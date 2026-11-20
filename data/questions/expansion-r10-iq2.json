@@ -28678,17 +28678,17 @@
    "12",
    "10",
    "8",
-   "15"
+   "11.66"
   ],
   "options_ne": [
    "१२",
    "१०",
    "८",
-   "१५"
+   "११.६६"
   ],
-  "answer": 1,
-  "explanation": "The south and north walks cancel out, leaving 10 km west. The correct choice is 10 km.",
-  "explanation_ne": "दक्षिण र उत्तर का हिँडाइहरू रद्द हुन्छन्, १० किमी पश्चिम बाँकी रहन्छ। उत्तर १० किमी हो।",
+  "answer": 3,
+  "explanation": "Net displacement is 6 km north (10 km north − 4 km south) and 10 km west. Distance = √(6² + 10²) = √136 ≈ 11.66 km.",
+  "explanation_ne": "शुद्ध विस्थापन ६ किमी उत्तर (१० किमी उत्तर − ४ किमी दक्षिण) र १० किमी पश्चिम हो। दूरी = √(६² + १०²) = √१३६ ≈ ११.६६ किमी।",
   "source": "Original practice question — Lok Sewa Prep Nepal"
  },
  {

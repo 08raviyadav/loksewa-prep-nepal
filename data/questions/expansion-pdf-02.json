@@ -13771,10 +13771,10 @@
   "question": "Under Nepal's federal administrative geography, in which province and ecological belt does Lamjung District (HQ: Besisahar) lie?",
   "question_ne": "नेपालको संघीय प्रशासनिक भूगोल अन्तर्गत लमजुङ जिल्ला (मुख्यालय: बेसीशहर) कुन प्रदेश र पारिस्थितिक क्षेत्रमा पर्दछ?",
   "options": [
-   "Madhesh Province (Mountain belt)",
-   "Koshi Province (Mountain belt)",
-   "Gandaki Province (Mountain belt)",
-   "Bagmati Province (Mountain belt)"
+   "Madhesh Province (Hill belt)",
+   "Koshi Province (Hill belt)",
+   "Gandaki Province (Hill belt)",
+   "Bagmati Province (Hill belt)"
   ],
   "options_ne": [
    "मधेश प्रदेश (पहाडी बेल्ट)",
@@ -13783,7 +13783,7 @@
    "बागमती प्रदेश (पहाडी बेल्ट)"
   ],
   "answer": 2,
-  "explanation": "The correct answer is Gandaki Province (Mountain belt).",
+  "explanation": "The correct answer is Gandaki Province (Hill belt).",
   "explanation_ne": "सही उत्तर गण्डकी प्रदेश (पहाडी बेल्ट) हो।",
   "source": "Lok Sewa Prep Nepal — 10,000 New Exam Questions & Master Answer Key (2082/83 BS) (PDF, user-supplied) — Nepal Geography"
  },

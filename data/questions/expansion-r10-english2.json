@@ -53,12 +53,7 @@
       "Gradual",
       "Slow"
     ],
-    "options_ne": [
-      "हतारिएको",
-      "अचानक",
-      "क्रमिक",
-      "ढिलो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'sudden' is closest in meaning to 'abrupt'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sudden’ को अर्थ ‘abrupt’ सँग सबैभन्दा नजिक छ।",
@@ -118,12 +113,7 @@
       "Sudden",
       "Hasty"
     ],
-    "options_ne": [
-      "ढिलो",
-      "क्रमिक",
-      "अचानक",
-      "हतारिएको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'gradual' is opposite in meaning to 'abrupt'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘gradual’ को अर्थ ‘abrupt’ को विपरीत छ।",
@@ -248,12 +238,7 @@
       "Ridiculous",
       "Wise"
     ],
-    "options_ne": [
-      "मूर्ख",
-      "समझदार",
-      "हास्यास्पद",
-      "बुद्धिमान्"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'ridiculous' is closest in meaning to 'absurd'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ridiculous’ को अर्थ ‘absurd’ सँग सबैभन्दा नजिक छ।",
@@ -313,12 +298,7 @@
       "Ridiculous",
       "Wise"
     ],
-    "options_ne": [
-      "समझदार",
-      "मूर्ख",
-      "हास्यास्पद",
-      "बुद्धिमान्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'sensible' is opposite in meaning to 'absurd'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sensible’ को अर्थ ‘absurd’ को विपरीत छ।",
@@ -443,12 +423,7 @@
       "Hasten",
       "Speed up"
     ],
-    "options_ne": [
-      "ढिलो गर्नु",
-      "ढिलाइ गर्नु",
-      "हतार गर्नु",
-      "गति बढाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'speed up' is closest in meaning to 'accelerate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘speed up’ को अर्थ ‘accelerate’ सँग सबैभन्दा नजिक छ।",
@@ -508,12 +483,7 @@
       "Slow down",
       "Delay"
     ],
-    "options_ne": [
-      "गति बढाउनु",
-      "हतार गर्नु",
-      "ढिलो गर्नु",
-      "ढिलाइ गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'slow down' is opposite in meaning to 'accelerate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘slow down’ को अर्थ ‘accelerate’ को विपरीत छ।",
@@ -638,12 +608,7 @@
       "Fail",
       "Achieve"
     ],
-    "options_ne": [
-      "पूरा गर्नु",
-      "त्याग्नु",
-      "असफल हुनु",
-      "हासिल गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'achieve' is closest in meaning to 'accomplish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘achieve’ को अर्थ ‘accomplish’ सँग सबैभन्दा नजिक छ।",
@@ -703,12 +668,7 @@
       "Fail",
       "Complete"
     ],
-    "options_ne": [
-      "त्याग्नु",
-      "हासिल गर्नु",
-      "असफल हुनु",
-      "पूरा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'fail' is opposite in meaning to 'accomplish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fail’ को अर्थ ‘accomplish’ को विपरीत छ।",
@@ -833,12 +793,7 @@
       "Gather",
       "Scatter"
     ],
-    "options_ne": [
-      "छरिनु",
-      "सङ्कलन गर्नु",
-      "भेला गर्नु",
-      "छर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'gather' is closest in meaning to 'accumulate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘gather’ को अर्थ ‘accumulate’ सँग सबैभन्दा नजिक छ।",
@@ -898,12 +853,7 @@
       "Scatter",
       "Collect"
     ],
-    "options_ne": [
-      "छरिनु",
-      "भेला गर्नु",
-      "छर्नु",
-      "सङ्कलन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'disperse' is opposite in meaning to 'accumulate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disperse’ को अर्थ ‘accumulate’ को विपरीत छ।",
@@ -998,12 +948,7 @@
       "Ignore",
       "Adjust"
     ],
-    "options_ne": [
-      "परिमार्जन गर्नु",
-      "प्रतिरोध गर्नु",
-      "बेवास्ता गर्नु",
-      "समायोजन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'adjust' is closest in meaning to 'adapt'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘adjust’ को अर्थ ‘adapt’ सँग सबैभन्दा नजिक छ।",
@@ -1063,12 +1008,7 @@
       "Adjust",
       "Ignore"
     ],
-    "options_ne": [
-      "प्रतिरोध गर्नु",
-      "परिमार्जन गर्नु",
-      "समायोजन गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'resist' is opposite in meaning to 'adapt'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘resist’ को अर्थ ‘adapt’ को विपरीत छ।",
@@ -1193,12 +1133,7 @@
       "Misfortune",
       "Fortune"
     ],
-    "options_ne": [
-      "कठिनाइ",
-      "समृद्धि",
-      "दुर्भाग्य",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'hardship' is closest in meaning to 'adversity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hardship’ को अर्थ ‘adversity’ सँग सबैभन्दा नजिक छ।",
@@ -1258,12 +1193,7 @@
       "Misfortune",
       "Fortune"
     ],
-    "options_ne": [
-      "समृद्धि",
-      "कठिनाइ",
-      "दुर्भाग्य",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'prosperity' is opposite in meaning to 'adversity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘prosperity’ को अर्थ ‘adversity’ को विपरीत छ।",
@@ -1388,12 +1318,7 @@
       "Claim",
       "Admit"
     ],
-    "options_ne": [
-      "जिकिर गर्नु",
-      "अस्वीकार गर्नु",
-      "दाबी गर्नु",
-      "स्वीकार्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'claim' is closest in meaning to 'allege'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘claim’ को अर्थ ‘allege’ सँग सबैभन्दा नजिक छ।",
@@ -1423,12 +1348,7 @@
       "Deny",
       "Assert"
     ],
-    "options_ne": [
-      "स्वीकार्नु",
-      "दाबी गर्नु",
-      "अस्वीकार गर्नु",
-      "जिकिर गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'deny' is opposite in meaning to 'allege'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘deny’ को अर्थ ‘allege’ को विपरीत छ।",
@@ -1523,12 +1443,7 @@
       "Aggravate",
       "Ease"
     ],
-    "options_ne": [
-      "राहत दिनु",
-      "खराब बनाउनु",
-      "बढाउनु",
-      "सजिलो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'relieve' is closest in meaning to 'alleviate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘relieve’ को अर्थ ‘alleviate’ सँग सबैभन्दा नजिक छ।",
@@ -1588,12 +1503,7 @@
       "Ease",
       "Aggravate"
     ],
-    "options_ne": [
-      "खराब बनाउनु",
-      "राहत दिनु",
-      "सजिलो बनाउनु",
-      "बढाउनु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'aggravate' is opposite in meaning to 'alleviate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘aggravate’ को अर्थ ‘alleviate’ को विपरीत छ।",
@@ -1688,12 +1598,7 @@
       "Definite",
       "Unclear"
     ],
-    "options_ne": [
-      "धमिलो",
-      "स्पष्ट",
-      "निश्चित",
-      "अस्पष्ट"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'unclear' is closest in meaning to 'ambiguous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unclear’ को अर्थ ‘ambiguous’ सँग सबैभन्दा नजिक छ।",
@@ -1818,12 +1723,7 @@
       "Plenty",
       "Scarce"
     ],
-    "options_ne": [
-      "थोरै",
-      "प्रचुर",
-      "धेरै",
-      "दुर्लभ"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'plenty' is closest in meaning to 'ample'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘plenty’ को अर्थ ‘ample’ सँग सबैभन्दा नजिक छ।",
@@ -1883,12 +1783,7 @@
       "Plenty",
       "Abundant"
     ],
-    "options_ne": [
-      "थोरै",
-      "दुर्लभ",
-      "धेरै",
-      "प्रचुर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'meagre' is opposite in meaning to 'ample'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘meagre’ को अर्थ ‘ample’ को विपरीत छ।",
@@ -1983,12 +1878,7 @@
       "Unknown",
       "Known"
     ],
-    "options_ne": [
-      "नाम नभएको",
-      "प्रसिद्ध",
-      "अज्ञात",
-      "ज्ञात"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'nameless' is closest in meaning to 'anonymous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘nameless’ को अर्थ ‘anonymous’ सँग सबैभन्दा नजिक छ।",
@@ -2048,12 +1938,7 @@
       "Nameless",
       "Known"
     ],
-    "options_ne": [
-      "प्रसिद्ध",
-      "अज्ञात",
-      "नाम नभएको",
-      "ज्ञात"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'known' is opposite in meaning to 'anonymous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘known’ को अर्थ ‘anonymous’ को विपरीत छ।",
@@ -2178,12 +2063,7 @@
       "Ignore",
       "Doubt"
     ],
-    "options_ne": [
-      "अपेक्षा गर्नु",
-      "पूर्वदेख्नु",
-      "बेवास्ता गर्नु",
-      "शङ्का गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'expect' is closest in meaning to 'anticipate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘expect’ को अर्थ ‘anticipate’ सँग सबैभन्दा नजिक छ।",
@@ -2243,12 +2123,7 @@
       "Ignore",
       "Expect"
     ],
-    "options_ne": [
-      "पूर्वदेख्नु",
-      "शङ्का गर्नु",
-      "बेवास्ता गर्नु",
-      "अपेक्षा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'doubt' is opposite in meaning to 'anticipate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘doubt’ को अर्थ ‘anticipate’ को विपरीत छ।",
@@ -2373,12 +2248,7 @@
       "Ignore",
       "Despise"
     ],
-    "options_ne": [
-      "मूल्याङ्कन गर्नु",
-      "प्रशंसा गर्नु",
-      "बेवास्ता गर्नु",
-      "घृणा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'value' is closest in meaning to 'appreciate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘value’ को अर्थ ‘appreciate’ सँग सबैभन्दा नजिक छ।",
@@ -2438,12 +2308,7 @@
       "Value",
       "Admire"
     ],
-    "options_ne": [
-      "घृणा गर्नु",
-      "बेवास्ता गर्नु",
-      "मूल्याङ्कन गर्नु",
-      "प्रशंसा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'despise' is opposite in meaning to 'appreciate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘despise’ को अर्थ ‘appreciate’ को विपरीत छ।",
@@ -2568,12 +2433,7 @@
       "Modest",
       "Proud"
     ],
-    "options_ne": [
-      "अभिमानी",
-      "विनम्र",
-      "नम्र",
-      "घमण्डी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'proud' is closest in meaning to 'arrogant'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘proud’ को अर्थ ‘arrogant’ सँग सबैभन्दा नजिक छ।",
@@ -2633,12 +2493,7 @@
       "Humble",
       "Proud"
     ],
-    "options_ne": [
-      "अभिमानी",
-      "नम्र",
-      "विनम्र",
-      "घमण्डी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'humble' is opposite in meaning to 'arrogant'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘humble’ को अर्थ ‘arrogant’ को विपरीत छ।",
@@ -2763,12 +2618,7 @@
       "Pleasant",
       "Dreadful"
     ],
-    "options_ne": [
-      "डरलाग्दो",
-      "अद्भुत",
-      "रमाइलो",
-      "भयङ्कर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'terrible' is closest in meaning to 'awful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘terrible’ को अर्थ ‘awful’ सँग सबैभन्दा नजिक छ।",
@@ -2828,12 +2678,7 @@
       "Dreadful",
       "Terrible"
     ],
-    "options_ne": [
-      "रमाइलो",
-      "अद्भुत",
-      "भयङ्कर",
-      "डरलाग्दो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'wonderful' is opposite in meaning to 'awful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wonderful’ को अर्थ ‘awful’ को विपरीत छ।",
@@ -2958,12 +2803,7 @@
       "Invite",
       "Exile"
     ],
-    "options_ne": [
-      "निष्कासन गर्नु",
-      "स्वागत गर्नु",
-      "निमन्त्रणा दिनु",
-      "देश निकाला गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'exile' is closest in meaning to 'banish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘exile’ को अर्थ ‘banish’ सँग सबैभन्दा नजिक छ।",
@@ -3023,12 +2863,7 @@
       "Welcome",
       "Invite"
     ],
-    "options_ne": [
-      "निष्कासन गर्नु",
-      "देश निकाला गर्नु",
-      "स्वागत गर्नु",
-      "निमन्त्रणा दिनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'welcome' is opposite in meaning to 'banish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘welcome’ को अर्थ ‘banish’ को विपरीत छ।",
@@ -3153,12 +2988,7 @@
       "Rich",
       "Fertile"
     ],
-    "options_ne": [
-      "अनुत्पादक",
-      "अनुर्वर",
-      "धनी",
-      "उर्वर"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'infertile' is closest in meaning to 'barren'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘infertile’ को अर्थ ‘barren’ सँग सबैभन्दा नजिक छ।",
@@ -3218,12 +3048,7 @@
       "Infertile",
       "Unproductive"
     ],
-    "options_ne": [
-      "उर्वर",
-      "धनी",
-      "अनुर्वर",
-      "अनुत्पादक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'fertile' is opposite in meaning to 'barren'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fertile’ को अर्थ ‘barren’ को विपरीत छ।",
@@ -3318,12 +3143,7 @@
       "Kind",
       "Generous"
     ],
-    "options_ne": [
-      "क्रूर",
-      "स्वार्थी",
-      "दयालु",
-      "उदार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'cruel' is opposite in meaning to 'benevolent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘cruel’ को अर्थ ‘benevolent’ को विपरीत छ।",
@@ -3448,12 +3268,7 @@
       "Brave",
       "Timid"
     ],
-    "options_ne": [
-      "साहसी",
-      "कायर",
-      "बहादुर",
-      "डरपोक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'brave' is closest in meaning to 'bold'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘brave’ को अर्थ ‘bold’ सँग सबैभन्दा नजिक छ।",
@@ -3513,12 +3328,7 @@
       "Daring",
       "Timid"
     ],
-    "options_ne": [
-      "बहादुर",
-      "कायर",
-      "साहसी",
-      "डरपोक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'timid' is opposite in meaning to 'bold'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘timid’ को अर्थ ‘bold’ को विपरीत छ।",
@@ -3613,12 +3423,7 @@
       "Fragile",
       "Tough"
     ],
-    "options_ne": [
-      "बलियो",
-      "टुट्न सक्ने",
-      "नाजुक",
-      "कडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'fragile' is closest in meaning to 'brittle'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fragile’ को अर्थ ‘brittle’ सँग सबैभन्दा नजिक छ।",
@@ -3678,12 +3483,7 @@
       "Breakable",
       "Tough"
     ],
-    "options_ne": [
-      "बलियो",
-      "नाजुक",
-      "टुट्न सक्ने",
-      "कडा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'strong' is opposite in meaning to 'brittle'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘strong’ को अर्थ ‘brittle’ को विपरीत छ।",
@@ -3808,12 +3608,7 @@
       "Cruel",
       "Kind"
     ],
-    "options_ne": [
-      "बर्बर",
-      "कोमल",
-      "क्रूर",
-      "दयालु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'cruel' is closest in meaning to 'brutal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘cruel’ को अर्थ ‘brutal’ सँग सबैभन्दा नजिक छ।",
@@ -3873,12 +3668,7 @@
       "Kind",
       "Gentle"
     ],
-    "options_ne": [
-      "बर्बर",
-      "क्रूर",
-      "दयालु",
-      "कोमल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'kind' is opposite in meaning to 'brutal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘kind’ को अर्थ ‘brutal’ को विपरीत छ।",
@@ -4003,12 +3793,7 @@
       "Disaster",
       "Fortune"
     ],
-    "options_ne": [
-      "आशीर्वाद",
-      "महाविपत्ति",
-      "प्रकोप",
-      "भाग्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'disaster' is closest in meaning to 'calamity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disaster’ को अर्थ ‘calamity’ सँग सबैभन्दा नजिक छ।",
@@ -4068,12 +3853,7 @@
       "Fortune",
       "Disaster"
     ],
-    "options_ne": [
-      "आशीर्वाद",
-      "महाविपत्ति",
-      "भाग्य",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'blessing' is opposite in meaning to 'calamity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘blessing’ को अर्थ ‘calamity’ को विपरीत छ।",
@@ -4138,12 +3918,7 @@
       "Deceitful",
       "Honest"
     ],
-    "options_ne": [
-      "गोप्य",
-      "खुला",
-      "धूर्त",
-      "इमानदार"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'deceitful' is opposite in meaning to 'candid'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘deceitful’ को अर्थ ‘candid’ को विपरीत छ।",
@@ -4203,12 +3978,7 @@
       "Ignore",
       "Honour"
     ],
-    "options_ne": [
-      "खुसी मनाउनु",
-      "शोक गर्नु",
-      "बेवास्ता गर्नु",
-      "सम्मान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'rejoice' is closest in meaning to 'celebrate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘rejoice’ को अर्थ ‘celebrate’ सँग सबैभन्दा नजिक छ।",
@@ -4268,12 +4038,7 @@
       "Mourn",
       "Rejoice"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "सम्मान गर्नु",
-      "शोक गर्नु",
-      "खुसी मनाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'mourn' is opposite in meaning to 'celebrate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘mourn’ को अर्थ ‘celebrate’ को विपरीत छ।",
@@ -4398,12 +4163,7 @@
       "Disorder",
       "Order"
     ],
-    "options_ne": [
-      "शान्ति",
-      "अलमल",
-      "अस्तव्यस्तता",
-      "व्यवस्था"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'disorder' is closest in meaning to 'chaos'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disorder’ को अर्थ ‘chaos’ सँग सबैभन्दा नजिक छ।",
@@ -4463,12 +4223,7 @@
       "Order",
       "Peace"
     ],
-    "options_ne": [
-      "अस्तव्यस्तता",
-      "अलमल",
-      "व्यवस्था",
-      "शान्ति"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'order' is opposite in meaning to 'chaos'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘order’ को अर्थ ‘chaos’ को विपरीत छ।",
@@ -4593,12 +4348,7 @@
       "Treasure",
       "Despise"
     ],
-    "options_ne": [
-      "मूल्य दिनु",
-      "बेवास्ता गर्नु",
-      "सम्हाल्नु",
-      "घृणा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'treasure' is closest in meaning to 'cherish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘treasure’ को अर्थ ‘cherish’ सँग सबैभन्दा नजिक छ।",
@@ -4658,12 +4408,7 @@
       "Despise",
       "Neglect"
     ],
-    "options_ne": [
-      "मूल्य दिनु",
-      "सम्हाल्नु",
-      "घृणा गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'neglect' is opposite in meaning to 'cherish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘neglect’ को अर्थ ‘cherish’ को विपरीत छ।",
@@ -4758,12 +4503,7 @@
       "Foolish",
       "Intelligent"
     ],
-    "options_ne": [
-      "बुद्धिमान्",
-      "मन्द",
-      "मूर्ख",
-      "बौद्धिक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'smart' is closest in meaning to 'clever'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘smart’ को अर्थ ‘clever’ सँग सबैभन्दा नजिक छ।",
@@ -4823,12 +4563,7 @@
       "Intelligent",
       "Smart"
     ],
-    "options_ne": [
-      "मूर्ख",
-      "मन्द",
-      "बौद्धिक",
-      "बुद्धिमान्"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'foolish' is opposite in meaning to 'clever'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘foolish’ को अर्थ ‘clever’ को विपरीत छ।",
@@ -4923,12 +4658,7 @@
       "Cruelty",
       "Hatred"
     ],
-    "options_ne": [
-      "सहानुभूति",
-      "दया",
-      "क्रूरता",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'pity' is closest in meaning to 'compassion'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘pity’ को अर्थ ‘compassion’ सँग सबैभन्दा नजिक छ।",
@@ -4988,12 +4718,7 @@
       "Cruelty",
       "Hatred"
     ],
-    "options_ne": [
-      "सहानुभूति",
-      "दया",
-      "क्रूरता",
-      "घृणा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'cruelty' is opposite in meaning to 'compassion'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘cruelty’ को अर्थ ‘compassion’ को विपरीत छ।",
@@ -5118,12 +4843,7 @@
       "Allow",
       "Free"
     ],
-    "options_ne": [
-      "बाध्य गर्नु",
-      "जबरजस्ती गर्नु",
-      "अनुमति दिनु",
-      "मुक्त गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'force' is closest in meaning to 'compel'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘force’ को अर्थ ‘compel’ सँग सबैभन्दा नजिक छ।",
@@ -5183,12 +4903,7 @@
       "Free",
       "Force"
     ],
-    "options_ne": [
-      "बाध्य गर्नु",
-      "अनुमति दिनु",
-      "मुक्त गर्नु",
-      "जबरजस्ती गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'allow' is opposite in meaning to 'compel'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘allow’ को अर्थ ‘compel’ को विपरीत छ।",
@@ -5313,12 +5028,7 @@
       "Grasp",
       "Understand"
     ],
-    "options_ne": [
-      "गलत बुझ्नु",
-      "बेवास्ता गर्नु",
-      "पकड्नु",
-      "बुझ्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'understand' is closest in meaning to 'comprehend'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘understand’ को अर्थ ‘comprehend’ सँग सबैभन्दा नजिक छ।",
@@ -5378,12 +5088,7 @@
       "Misunderstand",
       "Grasp"
     ],
-    "options_ne": [
-      "बुझ्नु",
-      "बेवास्ता गर्नु",
-      "गलत बुझ्नु",
-      "पकड्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'misunderstand' is opposite in meaning to 'comprehend'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘misunderstand’ को अर्थ ‘comprehend’ को विपरीत छ।",
@@ -5478,12 +5183,7 @@
       "Lose",
       "Surrender"
     ],
-    "options_ne": [
-      "हराउनु",
-      "पार गर्नु",
-      "हार्नु",
-      "आत्मसमर्पण गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'defeat' is closest in meaning to 'conquer'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘defeat’ को अर्थ ‘conquer’ सँग सबैभन्दा नजिक छ।",
@@ -5543,12 +5243,7 @@
       "Defeat",
       "Lose"
     ],
-    "options_ne": [
-      "पार गर्नु",
-      "आत्मसमर्पण गर्नु",
-      "हराउनु",
-      "हार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'lose' is opposite in meaning to 'conquer'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘lose’ को अर्थ ‘conquer’ को विपरीत छ।",
@@ -5673,12 +5368,7 @@
       "Polite",
       "Civil"
     ],
-    "options_ne": [
-      "अशिष्ट",
-      "अविनयी",
-      "विनम्र",
-      "सभ्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'polite' is closest in meaning to 'courteous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘polite’ को अर्थ ‘courteous’ सँग सबैभन्दा नजिक छ।",
@@ -5738,12 +5428,7 @@
       "Rude",
       "Impolite"
     ],
-    "options_ne": [
-      "विनम्र",
-      "सभ्य",
-      "अशिष्ट",
-      "अविनयी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'rude' is opposite in meaning to 'courteous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘rude’ को अर्थ ‘courteous’ को विपरीत छ।",
@@ -5868,12 +5553,7 @@
       "Trivial",
       "Critical"
     ],
-    "options_ne": [
-      "अत्यावश्यक",
-      "सानो",
-      "तुच्छ",
-      "सङ्कटपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'vital' is closest in meaning to 'crucial'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘vital’ को अर्थ ‘crucial’ सँग सबैभन्दा नजिक छ।",
@@ -5933,12 +5613,7 @@
       "Trivial",
       "Critical"
     ],
-    "options_ne": [
-      "सानो",
-      "अत्यावश्यक",
-      "तुच्छ",
-      "सङ्कटपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'trivial' is opposite in meaning to 'crucial'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘trivial’ को अर्थ ‘crucial’ को विपरीत छ।",
@@ -6033,12 +5708,7 @@
       "Inquisitive",
       "Bored"
     ],
-    "options_ne": [
-      "उदासीन",
-      "उत्सुक",
-      "जिज्ञासु",
-      "विरक्त"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'inquisitive' is closest in meaning to 'curious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘inquisitive’ को अर्थ ‘curious’ सँग सबैभन्दा नजिक छ।",
@@ -6098,12 +5768,7 @@
       "Eager",
       "Inquisitive"
     ],
-    "options_ne": [
-      "उदासीन",
-      "विरक्त",
-      "उत्सुक",
-      "जिज्ञासु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'indifferent' is opposite in meaning to 'curious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘indifferent’ को अर्थ ‘curious’ को विपरीत छ।",
@@ -6228,12 +5893,7 @@
       "Rot",
       "Flourish"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "बढ्नु",
-      "कुहिनु",
-      "फस्टाउनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'rot' is closest in meaning to 'decay'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘rot’ को अर्थ ‘decay’ सँग सबैभन्दा नजिक छ।",
@@ -6293,12 +5953,7 @@
       "Flourish",
       "Decline"
     ],
-    "options_ne": [
-      "कुहिनु",
-      "बढ्नु",
-      "फस्टाउनु",
-      "ह्रास हुनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'grow' is opposite in meaning to 'decay'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘grow’ को अर्थ ‘decay’ को विपरीत छ।",
@@ -6423,12 +6078,7 @@
       "Commit",
       "Neglect"
     ],
-    "options_ne": [
-      "अर्पण गर्नु",
-      "त्याग्नु",
-      "प्रतिबद्ध हुनु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'devote' is closest in meaning to 'dedicate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘devote’ को अर्थ ‘dedicate’ सँग सबैभन्दा नजिक छ।",
@@ -6488,12 +6138,7 @@
       "Neglect",
       "Devote"
     ],
-    "options_ne": [
-      "प्रतिबद्ध हुनु",
-      "त्याग्नु",
-      "बेवास्ता गर्नु",
-      "अर्पण गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'neglect' is opposite in meaning to 'dedicate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘neglect’ को अर्थ ‘dedicate’ को विपरीत छ।",
@@ -6618,12 +6263,7 @@
       "Rough",
       "Fragile"
     ],
-    "options_ne": [
-      "मसिनो",
-      "बलियो",
-      "खस्रो",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'fragile' is closest in meaning to 'delicate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fragile’ को अर्थ ‘delicate’ सँग सबैभन्दा नजिक छ।",
@@ -6683,12 +6323,7 @@
       "Strong",
       "Rough"
     ],
-    "options_ne": [
-      "नाजुक",
-      "मसिनो",
-      "बलियो",
-      "खस्रो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'strong' is opposite in meaning to 'delicate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘strong’ को अर्थ ‘delicate’ को विपरीत छ।",
@@ -6813,12 +6448,7 @@
       "Crowded",
       "Sparse"
     ],
-    "options_ne": [
-      "खाली",
-      "बाक्लो",
-      "भिडभाड",
-      "पातलो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'thick' is closest in meaning to 'dense'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘thick’ को अर्थ ‘dense’ सँग सबैभन्दा नजिक छ।",
@@ -6878,12 +6508,7 @@
       "Thick",
       "Sparse"
     ],
-    "options_ne": [
-      "भिडभाड",
-      "खाली",
-      "बाक्लो",
-      "पातलो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'sparse' is opposite in meaning to 'dense'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sparse’ को अर्थ ‘dense’ को विपरीत छ।",
@@ -7008,12 +6633,7 @@
       "Misery",
       "Hope"
     ],
-    "options_ne": [
-      "खुसी",
-      "आशाहीनता",
-      "दुःख",
-      "आशा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'hopelessness' is closest in meaning to 'despair'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hopelessness’ को अर्थ ‘despair’ सँग सबैभन्दा नजिक छ।",
@@ -7073,12 +6693,7 @@
       "Hopelessness",
       "Misery"
     ],
-    "options_ne": [
-      "खुसी",
-      "आशा",
-      "आशाहीनता",
-      "दुःख"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'hope' is opposite in meaning to 'despair'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hope’ को अर्थ ‘despair’ को विपरीत छ।",
@@ -7203,12 +6818,7 @@
       "Neglect",
       "Abandon"
     ],
-    "options_ne": [
-      "प्रतिबद्ध हुनु",
-      "अर्पण गर्नु",
-      "बेवास्ता गर्नु",
-      "त्याग्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'dedicate' is closest in meaning to 'devote'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘dedicate’ को अर्थ ‘devote’ सँग सबैभन्दा नजिक छ।",
@@ -7268,12 +6878,7 @@
       "Dedicate",
       "Abandon"
     ],
-    "options_ne": [
-      "प्रतिबद्ध हुनु",
-      "बेवास्ता गर्नु",
-      "अर्पण गर्नु",
-      "त्याग्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'neglect' is opposite in meaning to 'devote'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘neglect’ को अर्थ ‘devote’ को विपरीत छ।",
@@ -7398,12 +7003,7 @@
       "Tragedy",
       "Blessing"
     ],
-    "options_ne": [
-      "विपत्ति",
-      "भाग्य",
-      "दुःखद घटना",
-      "आशीर्वाद"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'calamity' is closest in meaning to 'disaster'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘calamity’ को अर्थ ‘disaster’ सँग सबैभन्दा नजिक छ।",
@@ -7463,12 +7063,7 @@
       "Blessing",
       "Tragedy"
     ],
-    "options_ne": [
-      "विपत्ति",
-      "भाग्य",
-      "आशीर्वाद",
-      "दुःखद घटना"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'blessing' is opposite in meaning to 'disaster'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘blessing’ को अर्थ ‘disaster’ को विपरीत छ।",
@@ -7593,12 +7188,7 @@
       "Indiscipline",
       "Control"
     ],
-    "options_ne": [
-      "व्यवस्था",
-      "अव्यवस्था",
-      "अनुशासनहीनता",
-      "नियन्त्रण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'order' is closest in meaning to 'discipline'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘order’ को अर्थ ‘discipline’ सँग सबैभन्दा नजिक छ।",
@@ -7658,12 +7248,7 @@
       "Indiscipline",
       "Control"
     ],
-    "options_ne": [
-      "व्यवस्था",
-      "अव्यवस्था",
-      "अनुशासनहीनता",
-      "नियन्त्रण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'indiscipline' is opposite in meaning to 'discipline'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘indiscipline’ को अर्थ ‘discipline’ को विपरीत छ।",
@@ -7788,12 +7373,7 @@
       "Same",
       "Similar"
     ],
-    "options_ne": [
-      "फरक",
-      "छुट्टै",
-      "उस्तै",
-      "समान"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'different' is closest in meaning to 'distinct'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘different’ को अर्थ ‘distinct’ सँग सबैभन्दा नजिक छ।",
@@ -7853,12 +7433,7 @@
       "Separate",
       "Similar"
     ],
-    "options_ne": [
-      "फरक",
-      "उस्तै",
-      "छुट्टै",
-      "समान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'similar' is opposite in meaning to 'distinct'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘similar’ को अर्थ ‘distinct’ को विपरीत छ।",
@@ -7983,12 +7558,7 @@
       "Collect",
       "Gather"
     ],
-    "options_ne": [
-      "विभाजन गर्नु",
-      "बाँड्नु",
-      "सङ्कलन गर्नु",
-      "जम्मा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'share' is closest in meaning to 'distribute'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘share’ को अर्थ ‘distribute’ सँग सबैभन्दा नजिक छ।",
@@ -8048,12 +7618,7 @@
       "Share",
       "Gather"
     ],
-    "options_ne": [
-      "विभाजन गर्नु",
-      "सङ्कलन गर्नु",
-      "बाँड्नु",
-      "जम्मा गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'collect' is opposite in meaning to 'distribute'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘collect’ को अर्थ ‘distribute’ को विपरीत छ।",
@@ -8178,12 +7743,7 @@
       "Weak",
       "Fragile"
     ],
-    "options_ne": [
-      "दीर्घकालीन",
-      "बलियो",
-      "कमजोर",
-      "नाजुक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'lasting' is closest in meaning to 'durable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘lasting’ को अर्थ ‘durable’ सँग सबैभन्दा नजिक छ।",
@@ -8243,12 +7803,7 @@
       "Fragile",
       "Weak"
     ],
-    "options_ne": [
-      "बलियो",
-      "दीर्घकालीन",
-      "नाजुक",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'fragile' is opposite in meaning to 'durable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fragile’ को अर्थ ‘durable’ को विपरीत छ।",
@@ -8373,12 +7928,7 @@
       "Frivolous",
       "Sincere"
     ],
-    "options_ne": [
-      "साधारण",
-      "गम्भीर",
-      "हल्का",
-      "निष्ठावान्"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'serious' is closest in meaning to 'earnest'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘serious’ को अर्थ ‘earnest’ सँग सबैभन्दा नजिक छ।",
@@ -8438,12 +7988,7 @@
       "Frivolous",
       "Casual"
     ],
-    "options_ne": [
-      "निष्ठावान्",
-      "गम्भीर",
-      "हल्का",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'frivolous' is opposite in meaning to 'earnest'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘frivolous’ को अर्थ ‘earnest’ को विपरीत छ।",
@@ -8568,12 +8113,7 @@
       "Extravagant",
       "Wasteful"
     ],
-    "options_ne": [
-      "मितव्ययी",
-      "किफायती",
-      "खर्चालु",
-      "फजुलखर्ची"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'thrifty' is closest in meaning to 'economical'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘thrifty’ को अर्थ ‘economical’ सँग सबैभन्दा नजिक छ।",
@@ -8633,12 +8173,7 @@
       "Extravagant",
       "Thrifty"
     ],
-    "options_ne": [
-      "फजुलखर्ची",
-      "मितव्ययी",
-      "खर्चालु",
-      "किफायती"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'wasteful' is opposite in meaning to 'economical'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wasteful’ को अर्थ ‘economical’ को विपरीत छ।",
@@ -8763,12 +8298,7 @@
       "Graceful",
       "Stylish"
     ],
-    "options_ne": [
-      "कुरूप",
-      "भद्दा",
-      "सुरुचिपूर्ण",
-      "फेसनेबल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'graceful' is closest in meaning to 'elegant'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘graceful’ को अर्थ ‘elegant’ सँग सबैभन्दा नजिक छ।",
@@ -8828,12 +8358,7 @@
       "Graceful",
       "Clumsy"
     ],
-    "options_ne": [
-      "फेसनेबल",
-      "कुरूप",
-      "सुरुचिपूर्ण",
-      "भद्दा"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'ugly' is opposite in meaning to 'elegant'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ugly’ को अर्थ ‘elegant’ को विपरीत छ।",
@@ -8928,12 +8453,7 @@
       "Remove",
       "Add"
     ],
-    "options_ne": [
-      "सामेल गर्नु",
-      "उन्मूलन गर्नु",
-      "निकाल्नु",
-      "थप्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'remove' is closest in meaning to 'eliminate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘remove’ को अर्थ ‘eliminate’ सँग सबैभन्दा नजिक छ।",
@@ -8993,12 +8513,7 @@
       "Include",
       "Remove"
     ],
-    "options_ne": [
-      "उन्मूलन गर्नु",
-      "थप्नु",
-      "सामेल गर्नु",
-      "निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'include' is opposite in meaning to 'eliminate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘include’ को अर्थ ‘eliminate’ को विपरीत छ।",
@@ -9093,12 +8608,7 @@
       "Honour",
       "Shame"
     ],
-    "options_ne": [
-      "प्रशंसा गर्नु",
-      "अपमान गर्नु",
-      "सम्मान गर्नु",
-      "लाज लाग्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'shame' is closest in meaning to 'embarrass'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘shame’ को अर्थ ‘embarrass’ सँग सबैभन्दा नजिक छ।",
@@ -9158,12 +8668,7 @@
       "Honour",
       "Shame"
     ],
-    "options_ne": [
-      "प्रशंसा गर्नु",
-      "अपमान गर्नु",
-      "सम्मान गर्नु",
-      "लाज लाग्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'honour' is opposite in meaning to 'embarrass'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘honour’ को अर्थ ‘embarrass’ को विपरीत छ।",
@@ -9288,12 +8793,7 @@
       "Unknown",
       "Famous"
     ],
-    "options_ne": [
-      "साधारण",
-      "विशिष्ट",
-      "अज्ञात",
-      "प्रसिद्ध"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'famous' is closest in meaning to 'eminent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘famous’ को अर्थ ‘eminent’ सँग सबैभन्दा नजिक छ।",
@@ -9353,12 +8853,7 @@
       "Ordinary",
       "Unknown"
     ],
-    "options_ne": [
-      "विशिष्ट",
-      "प्रसिद्ध",
-      "साधारण",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'unknown' is opposite in meaning to 'eminent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unknown’ को अर्थ ‘eminent’ को विपरीत छ।",
@@ -9483,12 +8978,7 @@
       "Fire",
       "Hire"
     ],
-    "options_ne": [
-      "बर्खास्त गर्नु",
-      "संलग्न गर्नु",
-      "निकाल्नु",
-      "नियुक्त गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'hire' is closest in meaning to 'employ'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hire’ को अर्थ ‘employ’ सँग सबैभन्दा नजिक छ।",
@@ -9548,12 +9038,7 @@
       "Fire",
       "Dismiss"
     ],
-    "options_ne": [
-      "नियुक्त गर्नु",
-      "संलग्न गर्नु",
-      "निकाल्नु",
-      "बर्खास्त गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'dismiss' is opposite in meaning to 'employ'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘dismiss’ को अर्थ ‘employ’ को विपरीत छ।",
@@ -9678,12 +9163,7 @@
       "Inspire",
       "Discourage"
     ],
-    "options_ne": [
-      "रोक्नु",
-      "उत्प्रेरित गर्नु",
-      "प्रेरणा दिनु",
-      "निरुत्साहित गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'inspire' is closest in meaning to 'encourage'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘inspire’ को अर्थ ‘encourage’ सँग सबैभन्दा नजिक छ।",
@@ -9743,12 +9223,7 @@
       "Motivate",
       "Discourage"
     ],
-    "options_ne": [
-      "प्रेरणा दिनु",
-      "रोक्नु",
-      "उत्प्रेरित गर्नु",
-      "निरुत्साहित गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'discourage' is opposite in meaning to 'encourage'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘discourage’ को अर्थ ‘encourage’ को विपरीत छ।",
@@ -9873,12 +9348,7 @@
       "Attempt",
       "Laziness"
     ],
-    "options_ne": [
-      "आलस्य",
-      "प्रयत्न",
-      "प्रयास",
-      "अल्छीपना"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'effort' is closest in meaning to 'endeavour'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘effort’ को अर्थ ‘endeavour’ सँग सबैभन्दा नजिक छ।",
@@ -9938,12 +9408,7 @@
       "Idleness",
       "Effort"
     ],
-    "options_ne": [
-      "प्रयास",
-      "अल्छीपना",
-      "आलस्य",
-      "प्रयत्न"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'idleness' is opposite in meaning to 'endeavour'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘idleness’ को अर्थ ‘endeavour’ को विपरीत छ।",
@@ -10068,12 +9533,7 @@
       "Tolerate",
       "Bear"
     ],
-    "options_ne": [
-      "छोड्नु",
-      "बेवास्ता गर्नु",
-      "सहने",
-      "धैर्य गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'tolerate' is closest in meaning to 'endure'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tolerate’ को अर्थ ‘endure’ सँग सबैभन्दा नजिक छ।",
@@ -10133,12 +9593,7 @@
       "Bear",
       "Avoid"
     ],
-    "options_ne": [
-      "सहने",
-      "छोड्नु",
-      "धैर्य गर्नु",
-      "बेवास्ता गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'quit' is opposite in meaning to 'endure'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘quit’ को अर्थ ‘endure’ को विपरीत छ।",
@@ -10263,12 +9718,7 @@
       "Content",
       "Jealous"
     ],
-    "options_ne": [
-      "उदार",
-      "लोभी",
-      "सन्तुष्ट",
-      "डाह गर्ने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'jealous' is closest in meaning to 'envious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘jealous’ को अर्थ ‘envious’ सँग सबैभन्दा नजिक छ।",
@@ -10328,12 +9778,7 @@
       "Generous",
       "Covetous"
     ],
-    "options_ne": [
-      "डाह गर्ने",
-      "सन्तुष्ट",
-      "उदार",
-      "लोभी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'content' is opposite in meaning to 'envious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘content’ को अर्थ ‘envious’ को विपरीत छ।",
@@ -10428,12 +9873,7 @@
       "Guess",
       "Fact"
     ],
-    "options_ne": [
-      "मूल्याङ्कन",
-      "निश्चितता",
-      "अड्कल",
-      "तथ्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'guess' is closest in meaning to 'estimate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘guess’ को अर्थ ‘estimate’ सँग सबैभन्दा नजिक छ।",
@@ -10493,12 +9933,7 @@
       "Guess",
       "Assessment"
     ],
-    "options_ne": [
-      "तथ्य",
-      "निश्चितता",
-      "अड्कल",
-      "मूल्याङ्कन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'certainty' is opposite in meaning to 'estimate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘certainty’ को अर्थ ‘estimate’ को विपरीत छ।",
@@ -10623,12 +10058,7 @@
       "Doubtful",
       "Hidden"
     ],
-    "options_ne": [
-      "स्पष्ट",
-      "प्रत्यक्ष",
-      "शङ्कास्पद",
-      "लुकेको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'obvious' is closest in meaning to 'evident'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘obvious’ को अर्थ ‘evident’ सँग सबैभन्दा नजिक छ।",
@@ -10688,12 +10118,7 @@
       "Doubtful",
       "Apparent"
     ],
-    "options_ne": [
-      "स्पष्ट",
-      "लुकेको",
-      "शङ्कास्पद",
-      "प्रत्यक्ष"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'hidden' is opposite in meaning to 'evident'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hidden’ को अर्थ ‘evident’ को विपरीत छ।",
@@ -10788,12 +10213,7 @@
       "Understate",
       "Magnify"
     ],
-    "options_ne": [
-      "अतिरञ्जन गर्नु",
-      "घटाउनु",
-      "कम गर्नु",
-      "ठूलो बनाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'overstate' is closest in meaning to 'exaggerate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘overstate’ को अर्थ ‘exaggerate’ सँग सबैभन्दा नजिक छ।",
@@ -10853,12 +10273,7 @@
       "Magnify",
       "Understate"
     ],
-    "options_ne": [
-      "अतिरञ्जन गर्नु",
-      "घटाउनु",
-      "ठूलो बनाउनु",
-      "कम गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'understate' is opposite in meaning to 'exaggerate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘understate’ को अर्थ ‘exaggerate’ को विपरीत छ।",
@@ -10983,12 +10398,7 @@
       "Lack",
       "Surplus"
     ],
-    "options_ne": [
-      "अभाव",
-      "प्रचुरता",
-      "कमी",
-      "बचत"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'surplus' is closest in meaning to 'excess'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘surplus’ को अर्थ ‘excess’ सँग सबैभन्दा नजिक छ।",
@@ -11048,12 +10458,7 @@
       "Surplus",
       "Abundance"
     ],
-    "options_ne": [
-      "अभाव",
-      "कमी",
-      "बचत",
-      "प्रचुरता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'shortage' is opposite in meaning to 'excess'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘shortage’ को अर्थ ‘excess’ को विपरीत छ।",
@@ -11178,12 +10583,7 @@
       "Reason",
       "Justification"
     ],
-    "options_ne": [
-      "बहाना",
-      "दोष",
-      "कारण",
-      "औचित्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'pretext' is closest in meaning to 'excuse'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘pretext’ को अर्थ ‘excuse’ सँग सबैभन्दा नजिक छ।",
@@ -11243,12 +10643,7 @@
       "Justification",
       "Pretext"
     ],
-    "options_ne": [
-      "कारण",
-      "दोष",
-      "औचित्य",
-      "बहाना"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'reason' is opposite in meaning to 'excuse'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘reason’ को अर्थ ‘excuse’ को विपरीत छ।",
@@ -11373,12 +10768,7 @@
       "Refresh",
       "Energise"
     ],
-    "options_ne": [
-      "थाक्नु",
-      "निकाल्नु",
-      "ताजा बनाउनु",
-      "ऊर्जा दिनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'tire' is closest in meaning to 'exhaust'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tire’ को अर्थ ‘exhaust’ सँग सबैभन्दा नजिक छ।",
@@ -11438,12 +10828,7 @@
       "Refresh",
       "Drain"
     ],
-    "options_ne": [
-      "ऊर्जा दिनु",
-      "थाक्नु",
-      "ताजा बनाउनु",
-      "निकाल्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'refresh' is opposite in meaning to 'exhaust'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘refresh’ को अर्थ ‘exhaust’ को विपरीत छ।",
@@ -11598,12 +10983,7 @@
       "Known",
       "Unknown"
     ],
-    "options_ne": [
-      "अपरिचित",
-      "चिनजान भएको",
-      "ज्ञात",
-      "अज्ञात"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'known' is closest in meaning to 'familiar'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘known’ को अर्थ ‘familiar’ सँग सबैभन्दा नजिक छ।",
@@ -11663,12 +11043,7 @@
       "Unknown",
       "Acquainted"
     ],
-    "options_ne": [
-      "अपरिचित",
-      "ज्ञात",
-      "अज्ञात",
-      "चिनजान भएको"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'strange' is opposite in meaning to 'familiar'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘strange’ को अर्थ ‘familiar’ को विपरीत छ।",
@@ -11763,12 +11138,7 @@
       "Harmless",
       "Safe"
     ],
-    "options_ne": [
-      "ज्यानै जाने",
-      "प्राणघातक",
-      "हानिरहित",
-      "सुरक्षित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'deadly' is closest in meaning to 'fatal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘deadly’ को अर्थ ‘fatal’ सँग सबैभन्दा नजिक छ।",
@@ -11828,12 +11198,7 @@
       "Deadly",
       "Lethal"
     ],
-    "options_ne": [
-      "सुरक्षित",
-      "हानिरहित",
-      "प्राणघातक",
-      "ज्यानै जाने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'harmless' is opposite in meaning to 'fatal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘harmless’ को अर्थ ‘fatal’ को विपरीत छ।",
@@ -11958,12 +11323,7 @@
       "Exhaustion",
       "Energy"
     ],
-    "options_ne": [
-      "थकाइ",
-      "स्फूर्ति",
-      "थकान",
-      "ऊर्जा"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'tiredness' is closest in meaning to 'fatigue'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tiredness’ को अर्थ ‘fatigue’ सँग सबैभन्दा नजिक छ।",
@@ -12023,12 +11383,7 @@
       "Vigour",
       "Tiredness"
     ],
-    "options_ne": [
-      "ऊर्जा",
-      "थकान",
-      "स्फूर्ति",
-      "थकाइ"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'energy' is opposite in meaning to 'fatigue'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘energy’ को अर्थ ‘fatigue’ को विपरीत छ।",
@@ -12153,12 +11508,7 @@
       "Barren",
       "Rich"
     ],
-    "options_ne": [
-      "अनुर्वर",
-      "उत्पादक",
-      "बाँझो",
-      "धनी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'productive' is closest in meaning to 'fertile'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘productive’ को अर्थ ‘fertile’ सँग सबैभन्दा नजिक छ।",
@@ -12218,12 +11568,7 @@
       "Infertile",
       "Productive"
     ],
-    "options_ne": [
-      "बाँझो",
-      "धनी",
-      "अनुर्वर",
-      "उत्पादक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'barren' is opposite in meaning to 'fertile'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘barren’ को अर्थ ‘fertile’ को विपरीत छ।",
@@ -12348,12 +11693,7 @@
       "Prosper",
       "Wither"
     ],
-    "options_ne": [
-      "फुल्नु",
-      "ह्रास हुनु",
-      "समृद्ध हुनु",
-      "ओइलाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'thrive' is closest in meaning to 'flourish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘thrive’ को अर्थ ‘flourish’ सँग सबैभन्दा नजिक छ।",
@@ -12413,12 +11753,7 @@
       "Prosper",
       "Thrive"
     ],
-    "options_ne": [
-      "ह्रास हुनु",
-      "ओइलाउनु",
-      "समृद्ध हुनु",
-      "फुल्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'decline' is opposite in meaning to 'flourish'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘decline’ को अर्थ ‘flourish’ को विपरीत छ।",
@@ -12543,12 +11878,7 @@
       "Extravagant",
       "Economical"
     ],
-    "options_ne": [
-      "किफायती",
-      "फजुलखर्ची",
-      "खर्चालु",
-      "मितव्ययी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'wasteful' is opposite in meaning to 'frugal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wasteful’ को अर्थ ‘frugal’ को विपरीत छ।",
@@ -12643,12 +11973,7 @@
       "Magnificent",
       "Splendid"
     ],
-    "options_ne": [
-      "लज्जास्पद",
-      "अपमानजनक",
-      "भव्य",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'splendid' is closest in meaning to 'glorious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘splendid’ को अर्थ ‘glorious’ सँग सबैभन्दा नजिक छ।",
@@ -12708,12 +12033,7 @@
       "Disgraceful",
       "Splendid"
     ],
-    "options_ne": [
-      "लज्जास्पद",
-      "भव्य",
-      "अपमानजनक",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'shameful' is opposite in meaning to 'glorious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘shameful’ को अर्थ ‘glorious’ को विपरीत छ।",
@@ -12838,12 +12158,7 @@
       "Direction",
       "Confusion"
     ],
-    "options_ne": [
-      "सल्लाह",
-      "गलत मार्गदर्शन",
-      "निर्देशन",
-      "अलमल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'direction' is closest in meaning to 'guidance'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘direction’ को अर्थ ‘guidance’ सँग सबैभन्दा नजिक छ।",
@@ -12903,12 +12218,7 @@
       "Direction",
       "Misguidance"
     ],
-    "options_ne": [
-      "सल्लाह",
-      "अलमल",
-      "निर्देशन",
-      "गलत मार्गदर्शन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'misguidance' is opposite in meaning to 'guidance'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘misguidance’ को अर्थ ‘guidance’ को विपरीत छ।",
@@ -13033,12 +12343,7 @@
       "Beneficial",
       "Damaging"
     ],
-    "options_ne": [
-      "उपयोगी",
-      "हानिकारक",
-      "लाभदायक",
-      "क्षतिकारक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'injurious' is closest in meaning to 'harmful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘injurious’ को अर्थ ‘harmful’ सँग सबैभन्दा नजिक छ।",
@@ -13098,12 +12403,7 @@
       "Injurious",
       "Damaging"
     ],
-    "options_ne": [
-      "उपयोगी",
-      "लाभदायक",
-      "हानिकारक",
-      "क्षतिकारक"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'beneficial' is opposite in meaning to 'harmful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘beneficial’ को अर्थ ‘harmful’ को विपरीत छ।",
@@ -13228,12 +12528,7 @@
       "Dislike",
       "Affection"
     ],
-    "options_ne": [
-      "घृणा",
-      "माया",
-      "नापसंद",
-      "स्नेह"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'hate' is closest in meaning to 'hatred'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hate’ को अर्थ ‘hatred’ सँग सबैभन्दा नजिक छ।",
@@ -13293,12 +12588,7 @@
       "Dislike",
       "Love"
     ],
-    "options_ne": [
-      "घृणा",
-      "स्नेह",
-      "नापसंद",
-      "माया"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'love' is opposite in meaning to 'hatred'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘love’ को अर्थ ‘hatred’ को विपरीत छ।",
@@ -13423,12 +12713,7 @@
       "Proceed",
       "Pause"
     ],
-    "options_ne": [
-      "निर्णय गर्नु",
-      "दोलायमान हुनु",
-      "अगाडि बढ्नु",
-      "रोकिनु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'waver' is closest in meaning to 'hesitate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘waver’ को अर्थ ‘hesitate’ सँग सबैभन्दा नजिक छ।",
@@ -13488,12 +12773,7 @@
       "Proceed",
       "Decide"
     ],
-    "options_ne": [
-      "रोकिनु",
-      "दोलायमान हुनु",
-      "अगाडि बढ्नु",
-      "निर्णय गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'decide' is opposite in meaning to 'hesitate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘decide’ को अर्थ ‘hesitate’ को विपरीत छ।",
@@ -13618,12 +12898,7 @@
       "Satiety",
       "Starvation"
     ],
-    "options_ne": [
-      "भोक",
-      "पूर्णता",
-      "तृप्ति",
-      "भोकमरी"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'starvation' is closest in meaning to 'hunger'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘starvation’ को अर्थ ‘hunger’ सँग सबैभन्दा नजिक छ।",
@@ -13683,12 +12958,7 @@
       "Starvation",
       "Satiety"
     ],
-    "options_ne": [
-      "पूर्णता",
-      "भोक",
-      "भोकमरी",
-      "तृप्ति"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'satiety' is opposite in meaning to 'hunger'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘satiety’ को अर्थ ‘hunger’ को विपरीत छ।",
@@ -13783,12 +13053,7 @@
       "Alike",
       "Different"
     ],
-    "options_ne": [
-      "समान",
-      "भिन्न",
-      "मिल्दोजुल्दो",
-      "फरक"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'same' is closest in meaning to 'identical'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘same’ को अर्थ ‘identical’ सँग सबैभन्दा नजिक छ।",
@@ -13848,12 +13113,7 @@
       "Distinct",
       "Same"
     ],
-    "options_ne": [
-      "मिल्दोजुल्दो",
-      "फरक",
-      "भिन्न",
-      "समान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'different' is opposite in meaning to 'identical'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘different’ को अर्थ ‘identical’ को विपरीत छ।",
@@ -13948,12 +13208,7 @@
       "Huge",
       "Tiny"
     ],
-    "options_ne": [
-      "सूक्ष्म",
-      "फराकिलो",
-      "ठूलो",
-      "सानो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'vast' is closest in meaning to 'immense'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘vast’ को अर्थ ‘immense’ सँग सबैभन्दा नजिक छ।",
@@ -14013,12 +13268,7 @@
       "Minute",
       "Vast"
     ],
-    "options_ne": [
-      "सानो",
-      "ठूलो",
-      "सूक्ष्म",
-      "फराकिलो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'tiny' is opposite in meaning to 'immense'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tiny’ को अर्थ ‘immense’ को विपरीत छ।",
@@ -14113,12 +13363,7 @@
       "Neutral",
       "Prejudiced"
     ],
-    "options_ne": [
-      "न्यायपूर्ण",
-      "पक्षपाती",
-      "तटस्थ",
-      "पूर्वाग्रही"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'neutral' is closest in meaning to 'impartial'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘neutral’ को अर्थ ‘impartial’ सँग सबैभन्दा नजिक छ।",
@@ -14178,12 +13423,7 @@
       "Biased",
       "Prejudiced"
     ],
-    "options_ne": [
-      "न्यायपूर्ण",
-      "तटस्थ",
-      "पक्षपाती",
-      "पूर्वाग्रही"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'biased' is opposite in meaning to 'impartial'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘biased’ को अर्थ ‘impartial’ को विपरीत छ।",
@@ -14308,12 +13548,7 @@
       "Anxious",
       "Calm"
     ],
-    "options_ne": [
-      "धैर्यवान्",
-      "बेचैन",
-      "चिन्तित",
-      "शान्त"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'restless' is closest in meaning to 'impatient'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘restless’ को अर्थ ‘impatient’ सँग सबैभन्दा नजिक छ।",
@@ -14373,12 +13608,7 @@
       "Restless",
       "Patient"
     ],
-    "options_ne": [
-      "शान्त",
-      "चिन्तित",
-      "बेचैन",
-      "धैर्यवान्"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'patient' is opposite in meaning to 'impatient'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘patient’ को अर्थ ‘impatient’ को विपरीत छ।",
@@ -14533,12 +13763,7 @@
       "Weakness",
       "Impact"
     ],
-    "options_ne": [
-      "तुच्छता",
-      "असर",
-      "कमजोरी",
-      "प्रभाव"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'effect' is closest in meaning to 'influence'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘effect’ को अर्थ ‘influence’ सँग सबैभन्दा नजिक छ।",
@@ -14598,12 +13823,7 @@
       "Effect",
       "Insignificance"
     ],
-    "options_ne": [
-      "कमजोरी",
-      "प्रभाव",
-      "असर",
-      "तुच्छता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'insignificance' is opposite in meaning to 'influence'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘insignificance’ को अर्थ ‘influence’ को विपरीत छ।",
@@ -14728,12 +13948,7 @@
       "Harm",
       "Healing"
     ],
-    "options_ne": [
-      "स्वास्थ्य",
-      "घाउ",
-      "हानि",
-      "निको"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'wound' is closest in meaning to 'injury'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wound’ को अर्थ ‘injury’ सँग सबैभन्दा नजिक छ।",
@@ -14793,12 +14008,7 @@
       "Health",
       "Wound"
     ],
-    "options_ne": [
-      "हानि",
-      "निको",
-      "स्वास्थ्य",
-      "घाउ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'healing' is opposite in meaning to 'injury'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘healing’ को अर्थ ‘injury’ को विपरीत छ।",
@@ -14923,12 +14133,7 @@
       "Answer",
       "Investigate"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "सोध्नु",
-      "जवाफ दिनु",
-      "अनुसन्धान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'ask' is closest in meaning to 'inquire'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ask’ को अर्थ ‘inquire’ सँग सबैभन्दा नजिक छ।",
@@ -14988,12 +14193,7 @@
       "Ignore",
       "Ask"
     ],
-    "options_ne": [
-      "अनुसन्धान गर्नु",
-      "जवाफ दिनु",
-      "बेवास्ता गर्नु",
-      "सोध्नु"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'answer' is opposite in meaning to 'inquire'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘answer’ को अर्थ ‘inquire’ को विपरीत छ।",
@@ -15118,12 +14318,7 @@
       "Praise",
       "Abuse"
     ],
-    "options_ne": [
-      "अपमान",
-      "सम्मान",
-      "प्रशंसा",
-      "गाली"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'offence' is closest in meaning to 'insult'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘offence’ को अर्थ ‘insult’ सँग सबैभन्दा नजिक छ।",
@@ -15183,12 +14378,7 @@
       "Praise",
       "Honour"
     ],
-    "options_ne": [
-      "अपमान",
-      "गाली",
-      "प्रशंसा",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'praise' is opposite in meaning to 'insult'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘praise’ को अर्थ ‘insult’ को विपरीत छ।",
@@ -15313,12 +14503,7 @@
       "Purpose",
       "Chance"
     ],
-    "options_ne": [
-      "दुर्घटना",
-      "लक्ष्य",
-      "उद्देश्य",
-      "संयोग"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'purpose' is closest in meaning to 'intention'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘purpose’ को अर्थ ‘intention’ सँग सबैभन्दा नजिक छ।",
@@ -15378,12 +14563,7 @@
       "Accident",
       "Purpose"
     ],
-    "options_ne": [
-      "लक्ष्य",
-      "संयोग",
-      "दुर्घटना",
-      "उद्देश्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'accident' is opposite in meaning to 'intention'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘accident’ को अर्थ ‘intention’ को विपरीत छ।",
@@ -15478,12 +14658,7 @@
       "Happy",
       "Cheerful"
     ],
-    "options_ne": [
-      "दुःखी",
-      "उदास",
-      "प्रसन्न",
-      "प्रफुल्ल"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'happy' is closest in meaning to 'joyful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘happy’ को अर्थ ‘joyful’ सँग सबैभन्दा नजिक छ।",
@@ -15543,12 +14718,7 @@
       "Happy",
       "Cheerful"
     ],
-    "options_ne": [
-      "उदास",
-      "दुःखी",
-      "प्रसन्न",
-      "प्रफुल्ल"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'sad' is opposite in meaning to 'joyful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sad’ को अर्थ ‘joyful’ को विपरीत छ।",
@@ -15643,12 +14813,7 @@
       "Bias",
       "Equity"
     ],
-    "options_ne": [
-      "निष्पक्षता",
-      "अन्याय",
-      "पक्षपात",
-      "समानता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'fairness' is closest in meaning to 'justice'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fairness’ को अर्थ ‘justice’ सँग सबैभन्दा नजिक छ।",
@@ -15708,12 +14873,7 @@
       "Fairness",
       "Equity"
     ],
-    "options_ne": [
-      "अन्याय",
-      "पक्षपात",
-      "निष्पक्षता",
-      "समानता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'injustice' is opposite in meaning to 'justice'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘injustice’ को अर्थ ‘justice’ को विपरीत छ।",
@@ -15838,12 +14998,7 @@
       "Cruelty",
       "Benevolence"
     ],
-    "options_ne": [
-      "उदारता",
-      "स्वार्थ",
-      "क्रूरता",
-      "परोपकार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'benevolence' is closest in meaning to 'kindness'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘benevolence’ को अर्थ ‘kindness’ सँग सबैभन्दा नजिक छ।",
@@ -15903,12 +15058,7 @@
       "Generosity",
       "Cruelty"
     ],
-    "options_ne": [
-      "परोपकार",
-      "स्वार्थ",
-      "उदारता",
-      "क्रूरता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'cruelty' is opposite in meaning to 'kindness'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘cruelty’ को अर्थ ‘kindness’ को विपरीत छ।",
@@ -16033,12 +15183,7 @@
       "Grand",
       "Splendid"
     ],
-    "options_ne": [
-      "साधारण",
-      "कुरूप",
-      "महान्",
-      "शानदार"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'splendid' is closest in meaning to 'magnificent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘splendid’ को अर्थ ‘magnificent’ सँग सबैभन्दा नजिक छ।",
@@ -16098,12 +15243,7 @@
       "Grand",
       "Ugly"
     ],
-    "options_ne": [
-      "शानदार",
-      "साधारण",
-      "महान्",
-      "कुरूप"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'ugly' is opposite in meaning to 'magnificent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ugly’ को अर्थ ‘magnificent’ को विपरीत छ।",
@@ -16228,12 +15368,7 @@
       "Spiteful",
       "Kind"
     ],
-    "options_ne": [
-      "शत्रुतापूर्ण",
-      "परोपकारी",
-      "द्वेषपूर्ण",
-      "दयालु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'spiteful' is closest in meaning to 'malicious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘spiteful’ को अर्थ ‘malicious’ सँग सबैभन्दा नजिक छ।",
@@ -16293,12 +15428,7 @@
       "Hostile",
       "Spiteful"
     ],
-    "options_ne": [
-      "दयालु",
-      "परोपकारी",
-      "शत्रुतापूर्ण",
-      "द्वेषपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'kind' is opposite in meaning to 'malicious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘kind’ को अर्थ ‘malicious’ को विपरीत छ।",
@@ -16423,12 +15553,7 @@
       "Compulsory",
       "Optional"
     ],
-    "options_ne": [
-      "अनिवार्य",
-      "स्वेच्छिक",
-      "बाध्यकारी",
-      "वैकल्पिक"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'compulsory' is closest in meaning to 'mandatory'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘compulsory’ को अर्थ ‘mandatory’ सँग सबैभन्दा नजिक छ।",
@@ -16488,12 +15613,7 @@
       "Voluntary",
       "Obligatory"
     ],
-    "options_ne": [
-      "वैकल्पिक",
-      "बाध्यकारी",
-      "स्वेच्छिक",
-      "अनिवार्य"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'optional' is opposite in meaning to 'mandatory'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘optional’ को अर्थ ‘mandatory’ को विपरीत छ।",
@@ -16588,12 +15708,7 @@
       "Terrible",
       "Wonderful"
     ],
-    "options_ne": [
-      "चकित पार्ने",
-      "साधारण",
-      "भयानक",
-      "आश्चर्यजनक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'wonderful' is closest in meaning to 'marvellous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wonderful’ को अर्थ ‘marvellous’ सँग सबैभन्दा नजिक छ।",
@@ -16653,12 +15768,7 @@
       "Wonderful",
       "Terrible"
     ],
-    "options_ne": [
-      "चकित पार्ने",
-      "साधारण",
-      "आश्चर्यजनक",
-      "भयानक"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'terrible' is opposite in meaning to 'marvellous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘terrible’ को अर्थ ‘marvellous’ को विपरीत छ।",
@@ -16813,12 +15923,7 @@
       "Obvious",
       "Enigmatic"
     ],
-    "options_ne": [
-      "गोप्य",
-      "साधारण",
-      "स्पष्ट",
-      "रहस्यपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'enigmatic' is closest in meaning to 'mysterious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘enigmatic’ को अर्थ ‘mysterious’ सँग सबैभन्दा नजिक छ।",
@@ -16878,12 +15983,7 @@
       "Plain",
       "Secret"
     ],
-    "options_ne": [
-      "रहस्यपूर्ण",
-      "स्पष्ट",
-      "साधारण",
-      "गोप्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'obvious' is opposite in meaning to 'mysterious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘obvious’ को अर्थ ‘mysterious’ को विपरीत छ।",
@@ -17068,12 +16168,7 @@
       "Hopeful",
       "Pessimistic"
     ],
-    "options_ne": [
-      "सकारात्मक",
-      "नकारात्मक",
-      "आशापूर्ण",
-      "निराशावादी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'hopeful' is closest in meaning to 'optimistic'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hopeful’ को अर्थ ‘optimistic’ सँग सबैभन्दा नजिक छ।",
@@ -17198,12 +16293,7 @@
       "Inconstant",
       "Tenacious"
     ],
-    "options_ne": [
-      "दृढ",
-      "चञ्चल",
-      "अस्थिर",
-      "अडिग"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'tenacious' is closest in meaning to 'persistent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tenacious’ को अर्थ ‘persistent’ सँग सबैभन्दा नजिक छ।",
@@ -17263,12 +16353,7 @@
       "Fickle",
       "Inconstant"
     ],
-    "options_ne": [
-      "दृढ",
-      "अडिग",
-      "चञ्चल",
-      "अस्थिर"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'fickle' is opposite in meaning to 'persistent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fickle’ को अर्थ ‘persistent’ को विपरीत छ।",
@@ -17393,12 +16478,7 @@
       "Wealth",
       "Destitution"
     ],
-    "options_ne": [
-      "सम्पत्ति",
-      "गरिबी",
-      "धन",
-      "दरिद्रता"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'destitution' is closest in meaning to 'poverty'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘destitution’ को अर्थ ‘poverty’ सँग सबैभन्दा नजिक छ।",
@@ -17458,12 +16538,7 @@
       "Destitution",
       "Wealth"
     ],
-    "options_ne": [
-      "गरिबी",
-      "सम्पत्ति",
-      "दरिद्रता",
-      "धन"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'wealth' is opposite in meaning to 'poverty'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wealth’ को अर्थ ‘poverty’ को विपरीत छ।",
@@ -17528,12 +16603,7 @@
       "Mighty",
       "Weak"
     ],
-    "options_ne": [
-      "बलियो",
-      "दुर्बल",
-      "पराक्रमी",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'strong' is closest in meaning to 'powerful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘strong’ को अर्थ ‘powerful’ सँग सबैभन्दा नजिक छ।",
@@ -17593,12 +16663,7 @@
       "Feeble",
       "Weak"
     ],
-    "options_ne": [
-      "बलियो",
-      "पराक्रमी",
-      "दुर्बल",
-      "कमजोर"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'weak' is opposite in meaning to 'powerful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘weak’ को अर्थ ‘powerful’ को विपरीत छ।",
@@ -17693,12 +16758,7 @@
       "Exact",
       "Approximate"
     ],
-    "options_ne": [
-      "अस्पष्ट",
-      "सही",
-      "ठीक",
-      "लगभग"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'exact' is closest in meaning to 'precise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘exact’ को अर्थ ‘precise’ सँग सबैभन्दा नजिक छ।",
@@ -17758,12 +16818,7 @@
       "Exact",
       "Approximate"
     ],
-    "options_ne": [
-      "अस्पष्ट",
-      "सही",
-      "ठीक",
-      "लगभग"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'vague' is opposite in meaning to 'precise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘vague’ को अर्थ ‘precise’ को विपरीत छ।",
@@ -17888,12 +16943,7 @@
       "Ignore",
       "Forecast"
     ],
-    "options_ne": [
-      "भविष्यवाणी गर्नु",
-      "बिर्सनु",
-      "बेवास्ता गर्नु",
-      "अनुमान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'foretell' is closest in meaning to 'predict'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘foretell’ को अर्थ ‘predict’ सँग सबैभन्दा नजिक छ।",
@@ -17953,12 +17003,7 @@
       "Foretell",
       "Forget"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "अनुमान गर्नु",
-      "भविष्यवाणी गर्नु",
-      "बिर्सनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'ignore' is opposite in meaning to 'predict'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ignore’ को अर्थ ‘predict’ को विपरीत छ।",
@@ -18053,12 +17098,7 @@
       "Favour",
       "Dislike"
     ],
-    "options_ne": [
-      "छान्नु",
-      "अस्वीकार गर्नु",
-      "मन पराउनु",
-      "नापसंद गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'favour' is closest in meaning to 'prefer'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘favour’ को अर्थ ‘prefer’ सँग सबैभन्दा नजिक छ।",
@@ -18118,12 +17158,7 @@
       "Choose",
       "Dislike"
     ],
-    "options_ne": [
-      "अस्वीकार गर्नु",
-      "मन पराउनु",
-      "छान्नु",
-      "नापसंद गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'dislike' is opposite in meaning to 'prefer'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘dislike’ को अर्थ ‘prefer’ को विपरीत छ।",
@@ -18248,12 +17283,7 @@
       "Main",
       "Secondary"
     ],
-    "options_ne": [
-      "सानो",
-      "प्रमुख",
-      "मुख्य",
-      "गौण"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'chief' is closest in meaning to 'principal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘chief’ को अर्थ ‘principal’ सँग सबैभन्दा नजिक छ।",
@@ -18283,12 +17313,7 @@
       "Main",
       "Minor"
     ],
-    "options_ne": [
-      "गौण",
-      "प्रमुख",
-      "मुख्य",
-      "सानो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'minor' is opposite in meaning to 'principal'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘minor’ को अर्थ ‘principal’ को विपरीत छ।",
@@ -18413,12 +17438,7 @@
       "Affluence",
       "Poverty"
     ],
-    "options_ne": [
-      "धन",
-      "दुःख",
-      "सम्पन्नता",
-      "गरिबी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'wealth' is closest in meaning to 'prosperity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wealth’ को अर्थ ‘prosperity’ सँग सबैभन्दा नजिक छ।",
@@ -18478,12 +17498,7 @@
       "Wealth",
       "Misery"
     ],
-    "options_ne": [
-      "गरिबी",
-      "सम्पन्नता",
-      "धन",
-      "दुःख"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'poverty' is opposite in meaning to 'prosperity'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘poverty’ को अर्थ ‘prosperity’ को विपरीत छ।",
@@ -18608,12 +17623,7 @@
       "Arrogant",
       "Humble"
     ],
-    "options_ne": [
-      "नम्र",
-      "घमण्डी",
-      "अहङ्कारी",
-      "विनम्र"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'arrogant' is closest in meaning to 'proud'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘arrogant’ को अर्थ ‘proud’ सँग सबैभन्दा नजिक छ।",
@@ -18673,12 +17683,7 @@
       "Humble",
       "Modest"
     ],
-    "options_ne": [
-      "घमण्डी",
-      "अहङ्कारी",
-      "विनम्र",
-      "नम्र"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'humble' is opposite in meaning to 'proud'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘humble’ को अर्थ ‘proud’ को विपरीत छ।",
@@ -18803,12 +17808,7 @@
       "Acquire",
       "Sell"
     ],
-    "options_ne": [
-      "किन्नु",
-      "बेचबिखन गर्नु",
-      "प्राप्त गर्नु",
-      "बेच्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'buy' is closest in meaning to 'purchase'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘buy’ को अर्थ ‘purchase’ सँग सबैभन्दा नजिक छ।",
@@ -18868,12 +17868,7 @@
       "Buy",
       "Dispose"
     ],
-    "options_ne": [
-      "बेच्नु",
-      "प्राप्त गर्नु",
-      "किन्नु",
-      "बेचबिखन गर्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'sell' is opposite in meaning to 'purchase'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sell’ को अर्थ ‘purchase’ को विपरीत छ।",
@@ -18998,12 +17993,7 @@
       "Unreasonable",
       "Fair"
     ],
-    "options_ne": [
-      "समझदार",
-      "बेतुका",
-      "अनुचित",
-      "न्यायपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'sensible' is closest in meaning to 'reasonable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘sensible’ को अर्थ ‘reasonable’ सँग सबैभन्दा नजिक छ।",
@@ -19063,12 +18053,7 @@
       "Sensible",
       "Fair"
     ],
-    "options_ne": [
-      "अनुचित",
-      "बेतुका",
-      "समझदार",
-      "न्यायपूर्ण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'unreasonable' is opposite in meaning to 'reasonable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unreasonable’ को अर्थ ‘reasonable’ को विपरीत छ।",
@@ -19163,12 +18148,7 @@
       "Forget",
       "Identify"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "स्वीकार्नु",
-      "बिर्सनु",
-      "पहिचान गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'identify' is closest in meaning to 'recognise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘identify’ को अर्थ ‘recognise’ सँग सबैभन्दा नजिक छ।",
@@ -19228,12 +18208,7 @@
       "Identify",
       "Acknowledge"
     ],
-    "options_ne": [
-      "बेवास्ता गर्नु",
-      "बिर्सनु",
-      "पहिचान गर्नु",
-      "स्वीकार्नु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'ignore' is opposite in meaning to 'recognise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ignore’ को अर्थ ‘recognise’ को विपरीत छ।",
@@ -19358,12 +18333,7 @@
       "Joy",
       "Sorrow"
     ],
-    "options_ne": [
-      "पछुतो",
-      "सन्तुष्टि",
-      "खुसी",
-      "दुःख"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'remorse' is closest in meaning to 'regret'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘remorse’ को अर्थ ‘regret’ सँग सबैभन्दा नजिक छ।",
@@ -19423,12 +18393,7 @@
       "Sorrow",
       "Remorse"
     ],
-    "options_ne": [
-      "सन्तुष्टि",
-      "खुसी",
-      "दुःख",
-      "पछुतो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'satisfaction' is opposite in meaning to 'regret'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘satisfaction’ को अर्थ ‘regret’ को विपरीत छ।",
@@ -19553,12 +18518,7 @@
       "Trustworthy",
       "Unreliable"
     ],
-    "options_ne": [
-      "शङ्कास्पद",
-      "भरपर्ने",
-      "विश्वसनीय",
-      "अविश्वसनीय"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'trustworthy' is closest in meaning to 'reliable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘trustworthy’ को अर्थ ‘reliable’ सँग सबैभन्दा नजिक छ।",
@@ -19618,12 +18578,7 @@
       "Trustworthy",
       "Dependable"
     ],
-    "options_ne": [
-      "अविश्वसनीय",
-      "शङ्कास्पद",
-      "विश्वसनीय",
-      "भरपर्ने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'unreliable' is opposite in meaning to 'reliable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unreliable’ को अर्थ ‘reliable’ को विपरीत छ।",
@@ -19748,12 +18703,7 @@
       "Pain",
       "Ease"
     ],
-    "options_ne": [
-      "पीडा",
-      "सुख",
-      "दुखाइ",
-      "सजिलो"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'comfort' is closest in meaning to 'relief'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘comfort’ को अर्थ ‘relief’ सँग सबैभन्दा नजिक छ।",
@@ -19813,12 +18763,7 @@
       "Comfort",
       "Distress"
     ],
-    "options_ne": [
-      "दुखाइ",
-      "सजिलो",
-      "सुख",
-      "पीडा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'distress' is opposite in meaning to 'relief'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘distress’ को अर्थ ‘relief’ को विपरीत छ।",
@@ -19943,12 +18888,7 @@
       "Common",
       "Ordinary"
     ],
-    "options_ne": [
-      "ध्यान दिनुपर्ने",
-      "असाधारण",
-      "सामान्य",
-      "साधारण"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'notable' is closest in meaning to 'remarkable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘notable’ को अर्थ ‘remarkable’ सँग सबैभन्दा नजिक छ।",
@@ -20008,12 +18948,7 @@
       "Ordinary",
       "Common"
     ],
-    "options_ne": [
-      "असाधारण",
-      "ध्यान दिनुपर्ने",
-      "साधारण",
-      "सामान्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'ordinary' is opposite in meaning to 'remarkable'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘ordinary’ को अर्थ ‘remarkable’ को विपरीत छ।",
@@ -20138,12 +19073,7 @@
       "Irresponsible",
       "Liable"
     ],
-    "options_ne": [
-      "उत्तरदायी",
-      "लापरवाह",
-      "गैरजिम्मेवार",
-      "दायी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'accountable' is closest in meaning to 'responsible'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘accountable’ को अर्थ ‘responsible’ सँग सबैभन्दा नजिक छ।",
@@ -20203,12 +19133,7 @@
       "Liable",
       "Careless"
     ],
-    "options_ne": [
-      "उत्तरदायी",
-      "गैरजिम्मेवार",
-      "दायी",
-      "लापरवाह"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'irresponsible' is opposite in meaning to 'responsible'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘irresponsible’ को अर्थ ‘responsible’ को विपरीत छ।",
@@ -20333,12 +19258,7 @@
       "Renew",
       "Destroy"
     ],
-    "options_ne": [
-      "ध्वस्त गर्नु",
-      "पुनर्जीवित गर्नु",
-      "नवीकरण गर्नु",
-      "नष्ट गर्नु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'renew' is closest in meaning to 'restore'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘renew’ को अर्थ ‘restore’ सँग सबैभन्दा नजिक छ।",
@@ -20398,12 +19318,7 @@
       "Renew",
       "Destroy"
     ],
-    "options_ne": [
-      "पुनर्जीवित गर्नु",
-      "ध्वस्त गर्नु",
-      "नवीकरण गर्नु",
-      "नष्ट गर्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'destroy' is opposite in meaning to 'restore'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘destroy’ को अर्थ ‘restore’ को विपरीत छ।",
@@ -20558,12 +19473,7 @@
       "Annoy",
       "Please"
     ],
-    "options_ne": [
-      "सन्तुष्ट गर्नु",
-      "निराश पार्नु",
-      "रिस उठाउनु",
-      "खुसी पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'please' is closest in meaning to 'satisfy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘please’ को अर्थ ‘satisfy’ सँग सबैभन्दा नजिक छ।",
@@ -20623,12 +19533,7 @@
       "Content",
       "Disappoint"
     ],
-    "options_ne": [
-      "खुसी पार्नु",
-      "रिस उठाउनु",
-      "सन्तुष्ट गर्नु",
-      "निराश पार्नु"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'disappoint' is opposite in meaning to 'satisfy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disappoint’ को अर्थ ‘satisfy’ को विपरीत छ।",
@@ -20753,12 +19658,7 @@
       "Unsafe",
       "Protected"
     ],
-    "options_ne": [
-      "सुरक्षित",
-      "कमजोर",
-      "असुरक्षित",
-      "रक्षित"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'safe' is closest in meaning to 'secure'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘safe’ को अर्थ ‘secure’ सँग सबैभन्दा नजिक छ।",
@@ -20818,12 +19718,7 @@
       "Protected",
       "Safe"
     ],
-    "options_ne": [
-      "कमजोर",
-      "असुरक्षित",
-      "रक्षित",
-      "सुरक्षित"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'unsafe' is opposite in meaning to 'secure'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unsafe’ को अर्थ ‘secure’ को विपरीत छ।",
@@ -20918,12 +19813,7 @@
       "Embarrassment",
       "Pride"
     ],
-    "options_ne": [
-      "अपमान",
-      "सम्मान",
-      "लज्जा",
-      "गर्व"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'disgrace' is closest in meaning to 'shame'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disgrace’ को अर्थ ‘shame’ सँग सबैभन्दा नजिक छ।",
@@ -20983,12 +19873,7 @@
       "Disgrace",
       "Honour"
     ],
-    "options_ne": [
-      "लज्जा",
-      "गर्व",
-      "अपमान",
-      "सम्मान"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'honour' is opposite in meaning to 'shame'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘honour’ को अर्थ ‘shame’ को विपरीत छ।",
@@ -21143,12 +20028,7 @@
       "Adept",
       "Unskilled"
     ],
-    "options_ne": [
-      "विज्ञ",
-      "भद्दा",
-      "निपुण",
-      "अदक्ष"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'expert' is closest in meaning to 'skilful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘expert’ को अर्थ ‘skilful’ सँग सबैभन्दा नजिक छ।",
@@ -21208,12 +20088,7 @@
       "Clumsy",
       "Expert"
     ],
-    "options_ne": [
-      "निपुण",
-      "अदक्ष",
-      "भद्दा",
-      "विज्ञ"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'unskilled' is opposite in meaning to 'skilful'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unskilled’ को अर्थ ‘skilful’ को विपरीत छ।",
@@ -21338,12 +20213,7 @@
       "Glorious",
       "Dull"
     ],
-    "options_ne": [
-      "भव्य",
-      "साधारण",
-      "गौरवशाली",
-      "फिका"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'magnificent' is closest in meaning to 'splendid'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘magnificent’ को अर्थ ‘splendid’ सँग सबैभन्दा नजिक छ।",
@@ -21403,12 +20273,7 @@
       "Glorious",
       "Magnificent"
     ],
-    "options_ne": [
-      "साधारण",
-      "फिका",
-      "गौरवशाली",
-      "भव्य"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'dull' is opposite in meaning to 'splendid'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘dull’ को अर्थ ‘splendid’ को विपरीत छ।",
@@ -21533,12 +20398,7 @@
       "Achieve",
       "Fail"
     ],
-    "options_ne": [
-      "विजय पाउनु",
-      "हार्नु",
-      "हासिल गर्नु",
-      "असफल हुनु"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'achieve' is closest in meaning to 'succeed'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘achieve’ को अर्थ ‘succeed’ सँग सबैभन्दा नजिक छ।",
@@ -21598,12 +20458,7 @@
       "Achieve",
       "Triumph"
     ],
-    "options_ne": [
-      "असफल हुनु",
-      "हार्नु",
-      "हासिल गर्नु",
-      "विजय पाउनु"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'fail' is opposite in meaning to 'succeed'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘fail’ को अर्थ ‘succeed’ को विपरीत छ।",
@@ -21728,12 +20583,7 @@
       "Astonishment",
       "Wonder"
     ],
-    "options_ne": [
-      "विरक्तता",
-      "अपेक्षा",
-      "चकितता",
-      "आश्चर्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'astonishment' is closest in meaning to 'surprise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘astonishment’ को अर्थ ‘surprise’ सँग सबैभन्दा नजिक छ।",
@@ -21793,12 +20643,7 @@
       "Expectation",
       "Wonder"
     ],
-    "options_ne": [
-      "चकितता",
-      "विरक्तता",
-      "अपेक्षा",
-      "आश्चर्य"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'expectation' is opposite in meaning to 'surprise'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘expectation’ को अर्थ ‘surprise’ को विपरीत छ।",
@@ -21893,12 +20738,7 @@
       "Wary",
       "Trusting"
     ],
-    "options_ne": [
-      "सन्देहपूर्ण",
-      "आत्मविश्वासी",
-      "सतर्क",
-      "विश्वास गर्ने"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'doubtful' is closest in meaning to 'suspicious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘doubtful’ को अर्थ ‘suspicious’ सँग सबैभन्दा नजिक छ।",
@@ -21958,12 +20798,7 @@
       "Doubtful",
       "Trusting"
     ],
-    "options_ne": [
-      "सतर्क",
-      "आत्मविश्वासी",
-      "सन्देहपूर्ण",
-      "विश्वास गर्ने"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'trusting' is opposite in meaning to 'suspicious'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘trusting’ को अर्थ ‘suspicious’ को विपरीत छ।",
@@ -22088,12 +20923,7 @@
       "Soft",
       "Hard"
     ],
-    "options_ne": [
-      "खस्रो",
-      "कोमल",
-      "नरम",
-      "कडा"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'soft' is closest in meaning to 'tender'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘soft’ को अर्थ ‘tender’ सँग सबैभन्दा नजिक छ।",
@@ -22153,12 +20983,7 @@
       "Rough",
       "Hard"
     ],
-    "options_ne": [
-      "कोमल",
-      "नरम",
-      "खस्रो",
-      "कडा"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'hard' is opposite in meaning to 'tender'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘hard’ को अर्थ ‘tender’ को विपरीत छ।",
@@ -22283,12 +21108,7 @@
       "Pleasant",
       "Awful"
     ],
-    "options_ne": [
-      "भयङ्कर",
-      "अद्भुत",
-      "रमाइलो",
-      "डरलाग्दो"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'awful' is closest in meaning to 'terrible'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘awful’ को अर्थ ‘terrible’ सँग सबैभन्दा नजिक छ।",
@@ -22348,12 +21168,7 @@
       "Dreadful",
       "Awful"
     ],
-    "options_ne": [
-      "अद्भुत",
-      "रमाइलो",
-      "भयङ्कर",
-      "डरलाग्दो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'wonderful' is opposite in meaning to 'terrible'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wonderful’ को अर्थ ‘terrible’ को विपरीत छ।",
@@ -22448,12 +21263,7 @@
       "Economical",
       "Frugal"
     ],
-    "options_ne": [
-      "फजुलखर्ची",
-      "खर्चालु",
-      "किफायती",
-      "मितव्ययी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'economical' is closest in meaning to 'thrifty'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘economical’ को अर्थ ‘thrifty’ सँग सबैभन्दा नजिक छ।",
@@ -22513,12 +21323,7 @@
       "Extravagant",
       "Economical"
     ],
-    "options_ne": [
-      "मितव्ययी",
-      "फजुलखर्ची",
-      "खर्चालु",
-      "किफायती"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'wasteful' is opposite in meaning to 'thrifty'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘wasteful’ को अर्थ ‘thrifty’ को विपरीत छ।",
@@ -22613,12 +21418,7 @@
       "Disaster",
       "Joy"
     ],
-    "options_ne": [
-      "विपत्ति",
-      "हास्य",
-      "प्रकोप",
-      "खुसी"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'disaster' is closest in meaning to 'tragedy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘disaster’ को अर्थ ‘tragedy’ सँग सबैभन्दा नजिक छ।",
@@ -22678,12 +21478,7 @@
       "Comedy",
       "Disaster"
     ],
-    "options_ne": [
-      "खुसी",
-      "विपत्ति",
-      "हास्य",
-      "प्रकोप"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'comedy' is opposite in meaning to 'tragedy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘comedy’ को अर्थ ‘tragedy’ को विपरीत छ।",
@@ -22778,12 +21573,7 @@
       "Cloudy",
       "Translucent"
     ],
-    "options_ne": [
-      "स्पष्ट",
-      "अपारदर्शी",
-      "धमिलो",
-      "अर्धपारदर्शी"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'clear' is closest in meaning to 'transparent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘clear’ को अर्थ ‘transparent’ सँग सबैभन्दा नजिक छ।",
@@ -22813,12 +21603,7 @@
       "Clear",
       "Cloudy"
     ],
-    "options_ne": [
-      "अपारदर्शी",
-      "अर्धपारदर्शी",
-      "स्पष्ट",
-      "धमिलो"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'opaque' is opposite in meaning to 'transparent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘opaque’ को अर्थ ‘transparent’ को विपरीत छ।",
@@ -22943,12 +21728,7 @@
       "Victory",
       "Failure"
     ],
-    "options_ne": [
-      "हार",
-      "सफलता",
-      "जित",
-      "असफलता"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'victory' is closest in meaning to 'triumph'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘victory’ को अर्थ ‘triumph’ सँग सबैभन्दा नजिक छ।",
@@ -22978,12 +21758,7 @@
       "Victory",
       "Success"
     ],
-    "options_ne": [
-      "हार",
-      "असफलता",
-      "जित",
-      "सफलता"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'defeat' is opposite in meaning to 'triumph'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘defeat’ को अर्थ ‘triumph’ को विपरीत छ।",
@@ -23078,12 +21853,7 @@
       "Unreliable",
       "Dependable"
     ],
-    "options_ne": [
-      "शङ्कास्पद",
-      "भरपर्दो",
-      "अविश्वसनीय",
-      "भरपर्ने"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'reliable' is closest in meaning to 'trustworthy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘reliable’ को अर्थ ‘trustworthy’ सँग सबैभन्दा नजिक छ।",
@@ -23143,12 +21913,7 @@
       "Reliable",
       "Unreliable"
     ],
-    "options_ne": [
-      "भरपर्ने",
-      "शङ्कास्पद",
-      "भरपर्दो",
-      "अविश्वसनीय"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'unreliable' is opposite in meaning to 'trustworthy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unreliable’ को अर्थ ‘trustworthy’ को विपरीत छ।",
@@ -23273,12 +22038,7 @@
       "Final",
       "First"
     ],
-    "options_ne": [
-      "प्रारम्भिक",
-      "सर्वोच्च",
-      "अन्तिम",
-      "पहिलो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'final' is closest in meaning to 'ultimate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘final’ को अर्थ ‘ultimate’ सँग सबैभन्दा नजिक छ।",
@@ -23338,12 +22098,7 @@
       "Initial",
       "Supreme"
     ],
-    "options_ne": [
-      "पहिलो",
-      "अन्तिम",
-      "प्रारम्भिक",
-      "सर्वोच्च"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'initial' is opposite in meaning to 'ultimate'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘initial’ को अर्थ ‘ultimate’ को विपरीत छ।",
@@ -23468,12 +22223,7 @@
       "Agreed",
       "Split"
     ],
-    "options_ne": [
-      "विभाजित",
-      "एकजुट",
-      "सहमत",
-      "फुटेको"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'agreed' is closest in meaning to 'unanimous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘agreed’ को अर्थ ‘unanimous’ सँग सबैभन्दा नजिक छ।",
@@ -23533,12 +22283,7 @@
       "Agreed",
       "Divided"
     ],
-    "options_ne": [
-      "फुटेको",
-      "एकजुट",
-      "सहमत",
-      "विभाजित"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'divided' is opposite in meaning to 'unanimous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘divided’ को अर्थ ‘unanimous’ को विपरीत छ।",
@@ -23663,12 +22408,7 @@
       "Singular",
       "Exclusive"
     ],
-    "options_ne": [
-      "साधारण",
-      "सामान्य",
-      "एकल",
-      "विशेष"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'singular' is closest in meaning to 'unique'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘singular’ को अर्थ ‘unique’ सँग सबैभन्दा नजिक छ।",
@@ -23728,12 +22468,7 @@
       "Singular",
       "Exclusive"
     ],
-    "options_ne": [
-      "सामान्य",
-      "साधारण",
-      "एकल",
-      "विशेष"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'common' is opposite in meaning to 'unique'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘common’ को अर्थ ‘unique’ को विपरीत छ।",
@@ -23858,12 +22593,7 @@
       "Immediate",
       "Unimportant"
     ],
-    "options_ne": [
-      "तुच्छ",
-      "तत्काल",
-      "तुरुन्त",
-      "महत्त्वहीन"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'pressing' is closest in meaning to 'urgent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘pressing’ को अर्थ ‘urgent’ सँग सबैभन्दा नजिक छ।",
@@ -23923,12 +22653,7 @@
       "Pressing",
       "Immediate"
     ],
-    "options_ne": [
-      "तुच्छ",
-      "महत्त्वहीन",
-      "तत्काल",
-      "तुरुन्त"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'unimportant' is opposite in meaning to 'urgent'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘unimportant’ को अर्थ ‘urgent’ को विपरीत छ।",
@@ -24053,12 +22778,7 @@
       "Diverse",
       "Uniform"
     ],
-    "options_ne": [
-      "उस्तै",
-      "फरक",
-      "विविध",
-      "एकै खालको"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'diverse' is closest in meaning to 'various'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘diverse’ को अर्थ ‘various’ सँग सबैभन्दा नजिक छ।",
@@ -24118,12 +22838,7 @@
       "Diverse",
       "Same"
     ],
-    "options_ne": [
-      "एकै खालको",
-      "फरक",
-      "विविध",
-      "उस्तै"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'uniform' is opposite in meaning to 'various'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘uniform’ को अर्थ ‘various’ को विपरीत छ।",
@@ -24248,12 +22963,7 @@
       "Tiny",
       "Minute"
     ],
-    "options_ne": [
-      "ठूलो",
-      "विशाल",
-      "सानो",
-      "सूक्ष्म"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'immense' is closest in meaning to 'vast'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘immense’ को अर्थ ‘vast’ सँग सबैभन्दा नजिक छ।",
@@ -24313,12 +23023,7 @@
       "Minute",
       "Immense"
     ],
-    "options_ne": [
-      "सानो",
-      "ठूलो",
-      "सूक्ष्म",
-      "विशाल"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'tiny' is opposite in meaning to 'vast'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘tiny’ को अर्थ ‘vast’ को विपरीत छ।",
@@ -24413,12 +23118,7 @@
       "Energetic",
       "Strong"
     ],
-    "options_ne": [
-      "दुर्बल",
-      "कमजोर",
-      "सक्रिय",
-      "बलियो"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'energetic' is closest in meaning to 'vigorous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘energetic’ को अर्थ ‘vigorous’ सँग सबैभन्दा नजिक छ।",
@@ -24478,12 +23178,7 @@
       "Weak",
       "Energetic"
     ],
-    "options_ne": [
-      "दुर्बल",
-      "बलियो",
-      "कमजोर",
-      "सक्रिय"
-    ],
+    "options_ne": null,
     "answer": 2,
     "explanation": "Of the options, 'weak' is opposite in meaning to 'vigorous'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘weak’ को अर्थ ‘vigorous’ को विपरीत छ।",
@@ -24608,12 +23303,7 @@
       "Morality",
       "Evil"
     ],
-    "options_ne": [
-      "दुर्गुण",
-      "असलता",
-      "नैतिकता",
-      "खराबी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'goodness' is closest in meaning to 'virtue'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘goodness’ को अर्थ ‘virtue’ सँग सबैभन्दा नजिक छ।",
@@ -24708,12 +23398,7 @@
       "Needy",
       "Affluent"
     ],
-    "options_ne": [
-      "धनी",
-      "गरिब",
-      "खाँचो भएको",
-      "सम्पन्न"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'rich' is closest in meaning to 'wealthy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘rich’ को अर्थ ‘wealthy’ सँग सबैभन्दा नजिक छ।",
@@ -24773,12 +23458,7 @@
       "Rich",
       "Poor"
     ],
-    "options_ne": [
-      "खाँचो भएको",
-      "सम्पन्न",
-      "धनी",
-      "गरिब"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'poor' is opposite in meaning to 'wealthy'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘poor’ को अर्थ ‘wealthy’ को विपरीत छ।",
@@ -24873,12 +23553,7 @@
       "Sinful",
       "Virtuous"
     ],
-    "options_ne": [
-      "असल",
-      "खराब",
-      "पापी",
-      "सद्गुणी"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'evil' is closest in meaning to 'wicked'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘evil’ को अर्थ ‘wicked’ सँग सबैभन्दा नजिक छ।",
@@ -24938,12 +23613,7 @@
       "Evil",
       "Good"
     ],
-    "options_ne": [
-      "पापी",
-      "सद्गुणी",
-      "खराब",
-      "असल"
-    ],
+    "options_ne": null,
     "answer": 3,
     "explanation": "Of the options, 'good' is opposite in meaning to 'wicked'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘good’ को अर्थ ‘wicked’ को विपरीत छ।",
@@ -25068,12 +23738,7 @@
       "Ignorance",
       "Insight"
     ],
-    "options_ne": [
-      "ज्ञान",
-      "मूर्खता",
-      "अज्ञानता",
-      "अन्तर्दृष्टि"
-    ],
+    "options_ne": null,
     "answer": 0,
     "explanation": "Of the options, 'knowledge' is closest in meaning to 'wisdom'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘knowledge’ को अर्थ ‘wisdom’ सँग सबैभन्दा नजिक छ।",
@@ -25103,12 +23768,7 @@
       "Insight",
       "Knowledge"
     ],
-    "options_ne": [
-      "अज्ञानता",
-      "मूर्खता",
-      "अन्तर्दृष्टि",
-      "ज्ञान"
-    ],
+    "options_ne": null,
     "answer": 1,
     "explanation": "Of the options, 'folly' is opposite in meaning to 'wisdom'.",
     "explanation_ne": "विकल्पहरूमध्ये ‘folly’ को अर्थ ‘wisdom’ को विपरीत छ।",
