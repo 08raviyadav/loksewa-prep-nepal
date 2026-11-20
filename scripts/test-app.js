@@ -80,6 +80,11 @@ check('examMatchScore: no match / empty query / null exam scores 0', examMatchSc
 check('examSearchResults: "ct" puts CTEVT first', examSearchResults(EXAMS_DATA, 'ct', 8)[0].id === 'ctevt-health-1st-year');
 check('examSearchResults: "c" puts Computer Operator + CTEVT first, Kharidar out of the top 8', (() => { const r = examSearchResults(EXAMS_DATA, 'c', 8); return r[0].id === 'computer-operator' && r[1].id === 'ctevt-health-1st-year' && !r.some(e => e.id === 'kharidar'); })());
 check('examSearchResults: "psc" puts PSC Service Groups first', examSearchResults(EXAMS_DATA, 'psc', 8)[0].id === 'psc-service-groups');
+// 2e. Paper viewer PDFs load lazily — no iframe src at render time, or
+// every page load fetches the PDFs in hidden iframes and Facebook's
+// in-app browser pops its "You're leaving our app" dialog unprompted.
+check('paper viewer iframe has no live src at render time', !src.includes('<iframe src="') && src.includes('<iframe data-src="'));
+check('togglePaperView sets the iframe src on first open', src.includes("!f.getAttribute('src')") && src.includes('f.src=f.dataset.src'));
 
 // 3. Randomisation — order differs across runs, options remap correctly
 const base = Array.from({ length: 20 }, (_, i) => i);
