@@ -44,7 +44,7 @@ All data files are shared verbatim with the vanilla site (`../loksewa-prep-nepal
 |---|---|---|
 | `data/exams.json` | `Exam` | 47 exams; only `id`/`name`/`name_ne` are read |
 | `data/exam-dates.json` | `ExamDate` | 20 verified dates; BS `YYYY-MM-DD` strings |
-| `data/questions/*.json` | `Question` | 131 files, 65,309 questions; `answer` = option index |
+| `data/questions/*.json` | `Question` | 131 files, 65,302 questions; `answer` = option index |
 | `data/courses/*.json` | `CourseChapter` | chapter-wise bilingual theory (framework-agnostic) |
 
 Copy new/updated files into `assets/data/` when the bank changes.
