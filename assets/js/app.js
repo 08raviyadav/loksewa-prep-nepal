@@ -2025,7 +2025,7 @@ function renderPapers(){
     <a class="btn" href="${esc(p.source_url)}" target="_blank" rel="noopener">Open Original ↗</a>
     ${p.pdf_url?`<button class="btn secondary" onclick="togglePaperView(this)">View Scanned</button>`:''}
     ${p.transcribed?`<button class="btn" onclick="practicePaper('${esc(p.id)}')">Practice these questions →</button>`:''}
-    ${viewerSrc?`<div class="paper-viewer" hidden style="margin-top:12px"><iframe src="${esc(viewerSrc)}" style="width:100%;height:70vh;border:1px solid #444" title="Scanned paper: ${esc(p.title)}"></iframe>
+    ${viewerSrc?`<div class="paper-viewer" hidden style="margin-top:12px"><iframe data-src="${esc(viewerSrc)}" style="width:100%;height:70vh;border:1px solid #444" title="Scanned paper: ${esc(p.title)}"></iframe>
     <p class="muted">If the preview does not load, the source blocks embedding — <a href="${esc(p.source_url)}" target="_blank" rel="noopener">open the original — scanned paper</a>.</p></div>`:`<p class="muted">Scanned paper — no embeddable PDF was verified for this one. Read it on the source site via "Open Original ↗" above.</p>`}
     </div>`;
   }).join('')).join('') || noMatchHtml;
@@ -2036,6 +2036,17 @@ function togglePaperView(btn){
   if(!v) return;
   v.hidden=!v.hidden;
   btn.textContent=v.hidden?'View Scanned':'Hide Scanned';
+  // Load the PDF only when the viewer is first opened. The iframe used to
+  // carry src at render time, so every page load fetched all 3 PDFs in
+  // hidden iframes (renderPapers runs at startup) — and a hidden div does
+  // NOT stop an iframe loading. Facebook's in-app browser cannot show a PDF
+  // inline, so it flagged those background loads as an external-app open and
+  // popped its "You're leaving our app" dialog without the user tapping
+  // anything. No src until first open = no background PDF load at all.
+  if(!v.hidden){
+    const f=v.querySelector('iframe');
+    if(f && !f.getAttribute('src') && f.dataset.src) f.src=f.dataset.src;
+  }
 }
 function practicePaper(id){
   const p=PAPERS.find(x=>x.id===id);
