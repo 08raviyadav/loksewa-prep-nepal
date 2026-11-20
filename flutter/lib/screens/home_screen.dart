@@ -171,7 +171,7 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
               ReminderBanner(dates: data.dates),
               _Hero(
-                questionCount: 65309, // full bank count; loader reads per-file
+                questionCount: 65302, // full bank count; loader reads per-file
                 examCount: data.exams.length,
                 onStart: () => widget.onNav(1),
                 onMock: () => widget.onNav(2),
