@@ -1,7 +1,7 @@
 # Signed release APK for the Outrank Flutter app.
 #
 # Builds flutter/ into a release-signed APK and publishes it to the
-# `android-v1.0.19` GitHub release as a direct download (no sign-in needed).
+# `android-v1.0.20` GitHub release as a direct download (no sign-in needed).
 #
 # Required repository secrets (Settings > Secrets and variables > Actions):
 #   KEYSTORE_PASSWORD — keystore password (also the AES decryption password
@@ -123,7 +123,7 @@ jobs:
 
           d = Path('flutter/assets/data')
           expected = {
-              'exam-dates.json': 109,
+              'exam-dates.json': 234,
               'exams.json': 48,
               'festivals.json': 63,
               'historical-events.json': 95,
@@ -196,30 +196,26 @@ jobs:
           fi
           echo "APK is signed with a non-debug certificate."
 
-      - name: Publish to GitHub Release android-v1.0.19
+      - name: Publish to GitHub Release android-v1.0.20
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: android-v1.0.19
-          name: Outrank Android v1.0.19
+          tag_name: android-v1.0.20
+          name: Outrank Android v1.0.20
           body: |
-            Signed release APK for Outrank v1.0.19 (Android).
+            Signed release APK for Outrank v1.0.20 (Android).
 
-            What's new: question-bank scrutiny fixes — a full audit of all
-            65,309 questions found and fixed 7 wrong answer keys (including
-            the Nepali vowel count, now correctly 13, and the Kailashkut
-            Bhawan builder, Amshuverma), harmonized the first-telephone-line
-            date to 1916 across the bank, fixed 7 ambiguous questions,
-            corrected 3 Nepali translations, closed the Nepali-options
-            bypass for 1,898 "closest/opposite in meaning" questions,
-            shuffled the answer positions in 5 unshuffled files, retagged
-            the 44 Koshi past-paper questions to Provincial PSC, and
-            removed 7 duplicate questions.
+            What's new: **125 new exam dates** — PSC Section Officer
+            (Notice 789/083-84) across Judicial, joint non-technical,
+            technical and Health services, Gandaki PSC 7th level,
+            Karnali PSC 4th level, the TSC Secondary Teaching
+            License application deadline, and the Nepal Army officer
+            application deadline. Total now 234 exam dates.
 
             Install: download **app-release.apk**, open it on your phone and
             allow "install unknown apps" if asked. No sign-in needed.
-            Installs over v1.0.18 as an update (same signature).
+            Installs over v1.0.19 as an update (same signature).
 
-            Bundled data: 109 exam dates, 48 exams, 65,302 questions,
+            Bundled data: 234 exam dates, 48 exams, 65,302 questions,
             63 festivals, 95 historical dates. No login, no ads, no tracking.
           files: flutter/build/app/outputs/flutter-apk/app-release.apk
           overwrite_files: true # re-runs replace the previous APK asset
