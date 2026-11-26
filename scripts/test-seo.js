@@ -7,7 +7,7 @@ const fs = require('fs'), path = require('path'), vm = require('vm');
 const root = path.join(__dirname, '..');
 let fail = 0;
 function check(name, ok, extra = '') { console.log((ok ? 'PASS' : 'FAIL') + '  ' + name + (extra ? ' — ' + extra : '')); if (!ok) fail++; }
-const CANON = 'https://08raviyadav.github.io/loksewa-prep-nepal/';
+const CANON = 'https://outrank.raviyadav.com.np/';
 
 // 1. robots.txt
 const robots = fs.readFileSync(path.join(root, 'robots.txt'), 'utf8');
