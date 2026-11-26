@@ -3535,7 +3535,7 @@ function renderPrintPaperHtml(){
   // .view.active's transform and printed on one page only). showView() scopes
   // it to this view with body.has-print-watermark.
   // Site URL for the attribution footer: live origin when available, canonical otherwise.
-  const siteUrl=(typeof window!=='undefined'&&window.location&&window.location.origin)?window.location.origin+(window.location.pathname||'/'):'https://08raviyadav.github.io/loksewa-prep-nepal/';
+  const siteUrl=(typeof window!=='undefined'&&window.location&&window.location.origin)?window.location.origin+(window.location.pathname||'/'):'https://outrank.raviyadav.com.np/';
   let h=`<div class="paper"><div class="no-print" style="margin-bottom:10px"><button class="btn" onclick="window.print()">${B('🖨️ Print paper','🖨️ पेपर प्रिन्ट गर्नुहोस्')}</button> <button class="btn secondary" onclick="printPaper=null;renderPrint()">${B('↺ New paper','↺ नयाँ पेपर')}</button></div>`;
   if(printPaper.short) h+=`<p class="no-print" style="border:1px solid #ea580c;border-radius:8px;padding:10px">⚠️ ${B(`The bank has only ${printPaper.pool} questions tagged for this exam — this paper is shortened to ${qs.length} questions.`,'यस परीक्षाका लागि बैंकमा जम्मा '+printPaper.pool+' प्रश्न मात्र छन् — यो पेपर '+qs.length+' प्रश्नमा छोट्याइएको छ।')}</p>`;
   h+=`<div class="paper-head"><h2>${esc(examName(e))} — ${B('Prelim Practice Paper','प्रिलिम अभ्यास पेपर')}</h2>
