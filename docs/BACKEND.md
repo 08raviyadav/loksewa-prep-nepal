@@ -282,7 +282,8 @@ select * from public.maintainers;
 3. **APIs & Services → Credentials → Create Credentials → OAuth client ID** →
    Application type **Web application** → name "Outrank".
 4. **Authorized JavaScript origins:** `http://localhost:8000` (local testing) and
-   `https://08raviyadav.github.io` (GitHub Pages — adjust to the real Pages URL).
+   `https://outrank.raviyadav.com.np` (canonical — the custom domain) and
+   `https://08raviyadav.github.io` (GitHub Pages mirror).
 5. **Authorized redirect URIs:** `https://YOUR-PROJECT-REF.supabase.co/auth/v1/callback`
    (this is the Supabase callback — Google redirects here, Supabase redirects back to the app).
 6. Copy the **Client ID** and **Client Secret** into Supabase (step above) and
@@ -290,7 +291,7 @@ select * from public.maintainers;
 
 ### Supabase redirect URLs (the app side)
 Supabase dashboard → **Authentication → URL Configuration**:
-- **Site URL:** `https://08raviyadav.github.io/loksewa-prep-nepal/` (or the real Pages URL; `http://localhost:8000` for local testing).
+- **Site URL:** `https://outrank.raviyadav.com.np/` (canonical; `https://08raviyadav.github.io/loksewa-prep-nepal/` also serves the site; `http://localhost:8000` for local testing).
 - **Redirect URLs:** add both the localhost and the Pages URL.
 - The app's sign-in button calls `supabase.auth.signInWithOAuth({ provider: 'google' })`;
   Supabase redirects to Google, Google back to Supabase, Supabase back to the Site URL
