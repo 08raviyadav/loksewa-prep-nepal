@@ -1,4 +1,35 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://08raviyadav.github.io/loksewa-prep-nepal/sitemap.xml
+# AI search + assistant crawlers — explicitly allowed (same as the allow-all above)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://outrank.raviyadav.com.np/sitemap.xml

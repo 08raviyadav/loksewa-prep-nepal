@@ -8,7 +8,7 @@ Practice for **Lok Sewa Aayog (PSC)** — Kharidar, Nayab Subba, Section Officer
 >
 > **© 2026 Ravi Yadav — credit required.** This project is MIT-licensed (see [LICENSE](LICENSE) and [NOTICE](NOTICE)): anyone who uses, copies, forks or redistributes it must keep the copyright notice **and** give visible credit — *"Created by Ravi Yadav (https://github.com/08raviyadav)"* — in the footer, About page, or README of the copy.
 >
-> 🌐 **Live demo: coming after first push** — enable GitHub Pages on the `main` branch, root folder (`/`), and the site will be live at <https://08raviyadav.github.io/loksewa-prep-nepal/>.
+> 🌐 **Live demo: https://outrank.raviyadav.com.np** — also live on GitHub Pages, Vercel and Cloudflare Pages.
 
 ## ✨ What you get
 
@@ -87,7 +87,7 @@ python3 -m http.server 8000
 >
 > **No-server alternative:** open `loksewa-prep-nepal-full.html` — the single-file bundle with the whole question bank embedded (built with `python3 scripts/build-bundle.py`). It works by double-clicking, straight from `file://`, and is the version to share on a phone or USB stick. Rebuild it after any question/data change so it stays in sync with the multi-file app.
 >
-> 🌐 **Live demo: coming after first push** — enable GitHub Pages on the `main` branch, root folder (`/`); the site will be live at <https://08raviyadav.github.io/loksewa-prep-nepal/>.
+> 🌐 **Live demo: https://outrank.raviyadav.com.np** — also live on GitHub Pages, Vercel and Cloudflare Pages.
 
 Deploy to GitHub Pages: Settings → Pages → Deploy from branch → `main` → `/ (root)`. That's it.
 

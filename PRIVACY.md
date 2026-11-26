@@ -34,4 +34,4 @@ Questions about this policy: open an issue at github.com/08raviyadav/loksewa-pre
 
 ---
 
-*This policy covers the Outrank Android app. The same text appears in the app under Privacy Policy in the sidebar (in English and Nepali). The web portal at 08raviyadav.github.io/loksewa-prep-nepal stores your progress in your browser's local storage only; reports sent through the site's report form go to the moderation queue described in docs/BACKEND.md and contain only what you type — no IP address, browser details, name, email or phone number is stored.*
+*This policy covers the Outrank Android app. The same text appears in the app under Privacy Policy in the sidebar (in English and Nepali). The web portal at outrank.raviyadav.com.np stores your progress in your browser's local storage only; reports sent through the site's report form go to the moderation queue described in docs/BACKEND.md and contain only what you type — no IP address, browser details, name, email or phone number is stored.*
